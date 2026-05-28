@@ -1,26 +1,26 @@
 {
-  "runs": 5,
-  "lastRun": "2026-05-28T03:07:26.671Z",
+  "runs": 6,
+  "lastRun": "2026-05-28T03:13:09.400Z",
   "streams": {
     "trend-signals": {
-      "lastRunAt": "2026-05-28T03:07:29.308Z",
+      "lastRunAt": "2026-05-28T03:13:12.228Z",
       "lastResult": "25 items / 20 topics / 8 opps",
-      "totalRuns": 4
-    },
-    "affiliate-content": {
-      "lastRunAt": "2026-05-28T03:07:36.548Z",
-      "lastResult": "3 articles",
       "totalRuns": 5
     },
+    "affiliate-content": {
+      "lastRunAt": "2026-05-28T03:13:25.525Z",
+      "lastResult": "3 articles",
+      "totalRuns": 6
+    },
     "digital-products": {
-      "lastRunAt": "2026-05-28T03:07:36.872Z",
-      "lastResult": "no opps",
-      "totalRuns": 4
+      "lastRunAt": "2026-05-28T03:13:32.841Z",
+      "lastResult": "1 products",
+      "totalRuns": 5
     },
     "viral-factory": {
-      "lastRunAt": "2026-05-28T03:07:37.022Z",
-      "lastResult": "0 content packs",
-      "totalRuns": 4
+      "lastRunAt": "2026-05-28T03:13:33.584Z",
+      "lastResult": "3 content packs",
+      "totalRuns": 5
     }
   },
   "totals": {

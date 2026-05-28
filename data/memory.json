@@ -10,9 +10,9 @@
     },
     "money": {
       "firstSeen": "2026-05-28T02:24:34.691Z",
-      "lastSeen": "2026-05-28T02:24:34.691Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-05-28T03:13:10.315Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -114,23 +114,79 @@
     },
     "problem-issue": {
       "firstSeen": "2026-05-28T03:07:31.676Z",
-      "lastSeen": "2026-05-28T03:07:31.676Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-05-28T03:13:10.315Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
     "nothing-rude": {
       "firstSeen": "2026-05-28T03:07:34.029Z",
-      "lastSeen": "2026-05-28T03:07:34.029Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-05-28T03:13:10.315Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
     "rude-dont": {
       "firstSeen": "2026-05-28T03:07:36.548Z",
-      "lastSeen": "2026-05-28T03:07:36.548Z",
+      "lastSeen": "2026-05-28T03:13:10.315Z",
+      "count": 2,
+      "wins": 1,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "google": {
+      "firstSeen": "2026-05-28T03:13:17.200Z",
+      "lastSeen": "2026-05-28T03:13:17.200Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "gemini": {
+      "firstSeen": "2026-05-28T03:13:22.560Z",
+      "lastSeen": "2026-05-28T03:13:22.560Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "duckduckgo": {
+      "firstSeen": "2026-05-28T03:13:25.524Z",
+      "lastSeen": "2026-05-28T03:13:25.524Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "boost-sales": {
+      "firstSeen": "2026-05-28T03:13:32.841Z",
+      "lastSeen": "2026-05-28T03:13:32.841Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "tech-ceos": {
+      "firstSeen": "2026-05-28T03:13:33.495Z",
+      "lastSeen": "2026-05-28T03:13:33.495Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "passive-income": {
+      "firstSeen": "2026-05-28T03:13:33.546Z",
+      "lastSeen": "2026-05-28T03:13:33.546Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "youtube": {
+      "firstSeen": "2026-05-28T03:13:33.584Z",
+      "lastSeen": "2026-05-28T03:13:33.584Z",
       "count": 1,
       "wins": 0,
       "losses": 0,
@@ -139,8 +195,8 @@
   },
   "niches": {
     "ai": {
-      "count": 25,
-      "wins": 8,
+      "count": 36,
+      "wins": 12,
       "losses": 0
     }
   },
