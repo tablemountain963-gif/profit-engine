@@ -39,7 +39,8 @@ export async function runViralFactory(opts = {}) {
       generated.push(pack);
       seen.add(slug);
       recordTopic(opp.keyword, opp.niches?.[0] || 'general', 'attempt');
-      logger.ok(`viral pack: ${pack.slug}`);
+      logger.ok(`viral pack: ${pack.slug} (${pack.provider})`);
+      await new Promise(r => setTimeout(r, 4000)); // space calls — stay under free-tier TPM
     } catch (e) {
       logger.warn(`viral fail (${topic}): ${e.message}`);
     }

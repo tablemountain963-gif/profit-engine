@@ -36,6 +36,8 @@ function pickProvider() {
   return null;
 }
 
+const _sleep = ms => new Promise(r => setTimeout(r, ms));
+
 async function callOpenAICompat(provider, messages, opts = {}) {
   const p = PROVIDERS[provider];
   const key = process.env[p.keyEnv];
@@ -45,17 +47,30 @@ async function callOpenAICompat(provider, messages, opts = {}) {
     temperature: opts.temperature ?? 0.7,
     max_tokens: opts.maxTokens || 1500,
   };
-  const r = await fetch(p.url, {
-    method: 'POST',
-    headers: {
-      'Authorization': `Bearer ${key}`,
-      'Content-Type': 'application/json',
-    },
-    body: JSON.stringify(body),
-  });
-  if (!r.ok) throw new Error(`${provider} ${r.status}: ${await r.text()}`);
-  const data = await r.json();
-  return data.choices?.[0]?.message?.content || '';
+  // Retry on 429 (rate/TPM limit) and 5xx with backoff — free tiers burst-limit.
+  const maxAttempts = 4;
+  let lastErr = '';
+  for (let attempt = 1; attempt <= maxAttempts; attempt++) {
+    const r = await fetch(p.url, {
+      method: 'POST',
+      headers: { 'Authorization': `Bearer ${key}`, 'Content-Type': 'application/json' },
+      body: JSON.stringify(body),
+    });
+    if (r.ok) {
+      const data = await r.json();
+      return data.choices?.[0]?.message?.content || '';
+    }
+    lastErr = `${provider} ${r.status}: ${await r.text()}`;
+    if ((r.status === 429 || r.status >= 500) && attempt < maxAttempts) {
+      const retryAfter = parseFloat(r.headers.get('retry-after') || '');
+      const wait = Number.isFinite(retryAfter) ? retryAfter * 1000 : Math.min(2000 * 2 ** (attempt - 1), 12000);
+      logger.dbg(`${provider} ${r.status} — retry ${attempt}/${maxAttempts} in ${Math.round(wait)}ms`);
+      await _sleep(wait);
+      continue;
+    }
+    break;
+  }
+  throw new Error(lastErr);
 }
 
 async function callAnthropic(messages, opts = {}) {
