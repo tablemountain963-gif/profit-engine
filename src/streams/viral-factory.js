@@ -3,7 +3,7 @@
 // from detected trend opportunities. Output is queued for manual posting OR
 // integration with social publishing APIs (Buffer/Typefully/Hypefury) when keys present.
 import { logger, paths, writeJson, readJson, writeText, slugify, todayKey, nowIso, ensureDir } from '../lib/util.js';
-import { complete } from '../ai/providers.js';
+import { complete, completeRefined } from '../ai/providers.js';
 import { pullAll } from '../engine/sources.js';
 import { selectOpportunities } from '../engine/trends.js';
 import { filterFresh, recordTopic } from '../engine/memory.js';
@@ -72,13 +72,17 @@ Write an X thread + repurposes. Rules:
 - Final tweet = a genuine QUESTION that invites a reply (ask the reader's experience/opinion) + 1-2 relevant lowercase hashtags.
 - Do NOT put any URL in the thread.
 
+Example of the HOOK quality bar (do NOT copy topic, match the punch):
+  "Spent $4k testing 11 note-taking apps. 9 were the same app with different fonts. The 2 that weren't:"
+  "Everyone says 'just use Postgres.' Here's the one case where that advice quietly costs you $30k/yr."
+
 Output ONLY valid JSON, keys:
   "twitter_thread": [strings],
   "linkedin": "180-240 word post, same substance, ends with a question",
   "tiktok_hooks": [3 punchy spoken hooks],
   "reddit_headline": "title that invites debate"`;
 
-  const { text, provider } = await complete(
+  const { text, provider } = await completeRefined(
     [{ role: 'system', content: sys }, { role: 'user', content: user }],
     { maxTokens: 2000, temperature: 0.9, kind: 'social', topicHint: topic }
   );

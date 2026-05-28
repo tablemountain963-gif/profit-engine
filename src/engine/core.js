@@ -8,6 +8,7 @@ import { runTrendSignals } from '../streams/trend-signals.js';
 import { runViralFactory } from '../streams/viral-factory.js';
 import { runXPublisher } from '../streams/x-publisher.js';
 import { runMastodonPublisher } from '../streams/mastodon-publisher.js';
+import { runBlueskyPublisher } from '../streams/bluesky-publisher.js';
 import { pullAll } from './sources.js';
 import { resolveAgainst } from './feedback.js';
 import { topNiches } from './memory.js';
@@ -18,8 +19,11 @@ const STREAMS = {
   content: { name: 'affiliate-content', fn: runAffiliateContent, every: 4 * 60 * 60_000 },
   products: { name: 'digital-products', fn: runDigitalProducts, every: 24 * 60 * 60_000 },
   viral: { name: 'viral-factory', fn: runViralFactory, every: 6 * 60 * 60_000 },
-  xpost: { name: 'x-publisher', fn: runXPublisher, every: 12 * 60 * 60_000 },
-  toot: { name: 'mastodon-publisher', fn: runMastodonPublisher, every: 12 * 60 * 60_000 },
+  // ~7h cadence → fires at the 13:00 and 21:00 UTC peak-ET crons (8h apart),
+  // skips the 16:00/01:00 runs. ~2 posts/day per network at peak attention.
+  xpost: { name: 'x-publisher', fn: runXPublisher, every: 7 * 60 * 60_000 },
+  toot: { name: 'mastodon-publisher', fn: runMastodonPublisher, every: 7 * 60 * 60_000 },
+  skeet: { name: 'bluesky-publisher', fn: runBlueskyPublisher, every: 7 * 60 * 60_000 },
 };
 
 function shouldRun(state, streamKey) {

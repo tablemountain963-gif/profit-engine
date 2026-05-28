@@ -131,6 +131,34 @@ export async function complete(messages, opts = {}) {
   return { provider: 'template', text: templateFallback(messages, opts) };
 }
 
+// Draft → self-critique → rewrite. Sharper, more specific output for ~2x tokens.
+// Skips the critique pass on template fallback (nothing to refine) or when refine:false.
+// Honors a token budget so it won't double-burn a tight free quota.
+export async function completeRefined(messages, opts = {}) {
+  const draft = await complete(messages, opts);
+  if (opts.refine === false || draft.provider === 'template') return draft;
+  if (budgetExhausted()) return draft;
+  const critique = `Rewrite the draft below to be sharper and more engaging. Rules: lead with a concrete hook; add specific numbers/examples; cut every generic or filler line ("matters more than people think", "in today's world", "game-changer"); keep the EXACT same format/structure and length budget. Output ONLY the improved version, nothing else.\n\n---DRAFT---\n${draft.text}`;
+  try {
+    const refined = await complete(
+      [...messages, { role: 'assistant', content: draft.text }, { role: 'user', content: critique }],
+      { ...opts, temperature: Math.min((opts.temperature ?? 0.7) + 0.05, 1) }
+    );
+    if (refined.provider !== 'template' && refined.text && refined.text.trim().length > draft.text.trim().length * 0.5) {
+      bumpTokens(opts.maxTokens || 1500);
+      return refined;
+    }
+  } catch { /* keep draft */ }
+  return draft;
+}
+
+// Crude per-process token budget so refine passes don't exhaust a free daily quota
+// mid-run. Resets each process (each cron run starts fresh).
+let _tokensUsed = 0;
+const _TOKEN_BUDGET = Number(process.env.AI_TOKEN_BUDGET || 60000);
+function bumpTokens(n) { _tokensUsed += n; }
+function budgetExhausted() { return _tokensUsed >= _TOKEN_BUDGET; }
+
 // Template fallback: lets engine run without any AI key.
 // Uses an explicit topicHint when provided so it never leaks prompt instructions.
 function templateFallback(messages, opts = {}) {

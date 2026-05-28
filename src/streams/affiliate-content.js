@@ -90,12 +90,15 @@ ${examplesText}
 ${researchSummary ? `Source excerpts you may paraphrase (DO NOT QUOTE VERBATIM, do paraphrase the FACTS):
 ${researchSummary}\n` : ''}
 Requirements:
-- Hook the reader in the first 2 sentences
+- Open with a concrete hook — a number, a specific scenario, or a counter-intuitive claim. NOT "In today's world" / "has become essential" / "more important than ever".
 - Include H2 sections: Overview, Why It Matters, How to Start, Common Pitfalls, Recommendations
 - In Recommendations, mention 3-5 product CATEGORIES (not specific brands) so affiliate links can be inserted
+- Be specific: cite real numbers, tradeoffs, named approaches. Avoid generic filler an AI would pad with.
 - Conclude with a clear next step
-- Use markdown
-- Target keyword density natural, focus on user value`;
+- Use markdown, natural keyword density, value-first
+
+Example of the opening bar (match the specificity, not the topic):
+"A mechanical keyboard can cost $40 or $400. The $360 gap buys you three things — and only one of them matters for most people."`;
 
   const { provider, text } = await complete(
     [{ role: 'system', content: sys }, { role: 'user', content: user }],

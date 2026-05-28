@@ -85,9 +85,33 @@ Next run posts a thread automatically. Tracked in `data/posted.json` (key `masto
 
 Manual: `node src/engine/core.js --only toot --force` (needs creds in env).
 
-## Other platforms (future)
+---
 
-Same publisher pattern extends to:
-- **LinkedIn** — packs already include `pack.linkedin`. Needs OAuth2 + company page.
-- **Bluesky** — free AT Protocol API (app password). Strong next target.
-- **Buffer / Typefully** — schedule via their APIs if preferred.
+# Bluesky Posting (FREE — recommended)
+
+Free AT Protocol API, app-password auth (never your main password). The `skeet`
+stream posts the same threads ~2×/day at peak ET hours. No-op without creds.
+
+## Setup (~2 min)
+1. Bluesky → Settings → **App Passwords** → Add App Password → copy it.
+2. Add 2 secrets:
+```bash
+gh secret set BLUESKY_HANDLE        --repo tablemountain963-gif/profit-engine   # e.g. solmercer.bsky.social
+gh secret set BLUESKY_APP_PASSWORD  --repo tablemountain963-gif/profit-engine
+```
+Manual: `node src/engine/core.js --only skeet --force`
+
+---
+
+# Posting cadence & quality (current)
+
+- **Peak-time crons:** runs at 13:00 / 16:00 / 21:00 / 01:00 UTC (9a/12p/5p/9p ET).
+  Social publishers fire ~7h apart → land on the 9am + 5pm ET peaks.
+- **Content quality:** viral threads use draft→self-critique→rewrite + few-shot hook
+  examples; articles use few-shot specificity bar. Set `CEREBRAS_API_KEY` so quality
+  survives Groq's daily quota (free, separate quota).
+- Networks live: X (`xpost`, pay-per-use), Mastodon (`toot`, free), Bluesky (`skeet`, free).
+
+## Future
+- **LinkedIn** — packs include `pack.linkedin`; needs OAuth2 + page.
+- **Visual cards per post** — needs a PNG rasterizer dep (@resvg/resvg-js) + media upload; deferred (text-first outperforms per 2026 algo data).

@@ -2,10 +2,11 @@ name: profit-engine
 
 on:
   schedule:
-    # Every 4 hours — content + trend + viral cycles
-    - cron: '0 */4 * * *'
-    # Daily product factory at 11:00 UTC
-    - cron: '0 11 * * *'
+    # Runs aligned to peak US engagement windows (EDT = UTC-4).
+    - cron: '0 13 * * *'   # 9:00am ET — morning peak (social posts here)
+    - cron: '0 16 * * *'   # 12:00pm ET — midday
+    - cron: '0 21 * * *'   # 5:00pm ET — evening peak (social posts here)
+    - cron: '0 1 * * *'    # 9:00pm ET overnight — content/products gen, low social
   workflow_dispatch:
     inputs:
       stream:
@@ -58,6 +59,8 @@ jobs:
           X_ACCESS_SECRET: ${{ secrets.X_ACCESS_SECRET }}
           MASTODON_INSTANCE: ${{ secrets.MASTODON_INSTANCE }}
           MASTODON_ACCESS_TOKEN: ${{ secrets.MASTODON_ACCESS_TOKEN }}
+          BLUESKY_HANDLE: ${{ secrets.BLUESKY_HANDLE }}
+          BLUESKY_APP_PASSWORD: ${{ secrets.BLUESKY_APP_PASSWORD }}
         run: |
           set -e
           if [ "${{ inputs.skip_generation }}" = "true" ]; then
