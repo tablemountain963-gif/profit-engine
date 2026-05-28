@@ -119,6 +119,8 @@ Want the full opportunity scores, per-niche breakouts, and machine-readable API 
 
 function appendArchive(entry) {
   const m = readJson(join(paths.data, 'digests.json'), { items: [] });
+  // One digest file per date — replace same-date entry instead of appending dups.
+  m.items = (m.items || []).filter(it => it.date !== entry.date);
   m.items.unshift(entry);
   m.items = m.items.slice(0, 365);
   writeJson(join(paths.data, 'digests.json'), m);
