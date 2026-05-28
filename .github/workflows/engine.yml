@@ -16,6 +16,10 @@ on:
         description: 'Force run even if not due'
         required: false
         default: 'true'
+      skip_generation:
+        description: 'Skip content generation — only rebuild site + deploy (for clean redeploys)'
+        required: false
+        default: 'false'
 
 permissions:
   contents: write
@@ -50,7 +54,10 @@ jobs:
           SPONSOR_URL: ${{ secrets.SPONSOR_URL }}
         run: |
           set -e
-          if [ -n "${{ inputs.stream }}" ]; then
+          if [ "${{ inputs.skip_generation }}" = "true" ]; then
+            echo "skip_generation=true — rebuilding site only"
+            node scripts/build-site.js
+          elif [ -n "${{ inputs.stream }}" ]; then
             node src/engine/core.js --only ${{ inputs.stream }} ${{ inputs.force == 'true' && '--force' || '' }}
           else
             node src/engine/core.js --all

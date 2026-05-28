@@ -21,6 +21,7 @@ const JUNK_TOPICS = [
   'temu', 'anthropic', 'job-cuts', 'explanation-problem',  // weak/grim product topics
   'bay-area', 'swiss', 'teenagers', 'instagram', 'youtube', 'youtubers', 'salesforce',
   'threads', 'threadsky', 'amawebb', 'digital-services-act', 'regenerative-adult', 'stem-cells',
+  'shadowspread', 'distant-corporate', 'corporate-overlord',
 ];
 
 function rm(p) { try { if (existsSync(p)) rmSync(p, { recursive: true, force: true }); } catch {} }

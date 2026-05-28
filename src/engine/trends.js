@@ -180,16 +180,20 @@ export function extractTopics(items, topN = 10) {
       if (nonStop.length !== parts.length) return false;
       // Drop news/political/geographic entities (substring) — keeps storefront on-theme.
       if ([...NEWS_JUNK].some(j => k.includes(j))) return false;
-      // Quality gate: keep named entities, niche-relevant, or commercial topics.
       const isProper = v.proper > 0;
-      const isNiche = [...v.niches].some(n => n !== 'general') || parts.some(isInNicheVocab);
+      const phraseNiche = parts.some(isInNicheVocab);   // niche word IN the topic itself
+      const itemNiche = [...v.niches].some(n => n !== 'general'); // source-context niche
       const isCommercial = COMMERCIAL_HINTS.some(h => k.includes(h));
       // Person names ("John Milton") — drop unless commercial signal.
       if (isPersonName(k) && !isCommercial) return false;
-      // Bare single-word proper nouns (brand/handle: "google", "youtubers",
-      // "threadskyamawebb") — weak as standalone topics. Require niche/commercial.
-      if (parts.length === 1 && isProper && !isNiche && !isCommercial) return false;
-      return isProper || isNiche || isCommercial;
+      // Accept: explicit commercial or a niche keyword in the topic itself.
+      if (isCommercial || phraseNiche) return true;
+      // Accept clean two-word entities/phrases (named products, niche-context bigrams):
+      // "Steam Deck", "Kitchen Gadgets", "Business Intelligence". This DROPS bare
+      // 1-word handles ("shadowspread") and 3+ word comment fragments
+      // ("distant corporate overlord") that only ever pass via loose proper/item-niche.
+      if (parts.length === 2 && (isProper || itemNiche)) return true;
+      return false;
     })
     .map(([keyword, v]) => ({
       keyword,
