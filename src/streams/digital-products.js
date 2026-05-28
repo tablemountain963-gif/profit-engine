@@ -119,6 +119,13 @@ async function generateProduct(topic, opp, ptype, slug) {
   if (looksCorrupt(payload)) {
     throw new Error('payload failed quality guard (instruction leak / too short)');
   }
+  // Reject thin template-fallback packs (e.g. rate-limited): require real depth.
+  if (ptype.type === 'prompt-pack') {
+    const promptCount = (payload.match(/^\s*\d+\.\s+/gm) || []).length;
+    if (promptCount < 20) throw new Error(`thin prompt-pack (${promptCount} prompts) — skipping (likely fallback)`);
+  } else if (payload.split(/\n/).length < 30) {
+    throw new Error('thin payload — skipping (likely fallback)');
+  }
   writeText(join(dir, mainFileFor(ptype)), payload);
 
   // README — sales / use page

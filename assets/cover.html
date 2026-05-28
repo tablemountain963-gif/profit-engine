@@ -8,49 +8,54 @@
 <style>
   * { margin: 0; padding: 0; box-sizing: border-box; }
   html, body { width: 1280px; height: 720px; overflow: hidden; }
-  .cover {
-    position: relative; width: 1280px; height: 720px;
-    background: #0a0c0b;
-    font-family: 'Fraunces', serif; color: #eae3d6;
-    overflow: hidden;
-  }
-  .cover::before {
-    content: ""; position: absolute; inset: 0;
-    background:
-      radial-gradient(120% 70% at 50% -15%, rgba(79,224,138,.16), transparent 55%),
+  .cover { position: relative; width: 1280px; height: 720px; background: #0a0c0b; font-family: 'Fraunces', serif; color: #eae3d6; overflow: hidden; }
+  .cover::before { content: ""; position: absolute; inset: 0;
+    background: radial-gradient(120% 70% at 50% -15%, var(--glow), transparent 55%),
       repeating-linear-gradient(0deg, transparent 0 47px, rgba(255,255,255,.022) 47px 48px),
-      repeating-linear-gradient(90deg, transparent 0 47px, rgba(255,255,255,.022) 47px 48px);
-  }
-  .cover::after {
-    content: ""; position: absolute; inset: 0;
-    background: radial-gradient(130% 120% at 50% 40%, transparent 55%, rgba(0,0,0,.6));
-  }
+      repeating-linear-gradient(90deg, transparent 0 47px, rgba(255,255,255,.022) 47px 48px); }
+  .cover::after { content: ""; position: absolute; inset: 0; background: radial-gradient(130% 120% at 50% 40%, transparent 55%, rgba(0,0,0,.6)); }
   .inner { position: relative; z-index: 2; padding: 84px 88px; height: 100%; display: flex; flex-direction: column; justify-content: center; }
-  .kick { font-family: 'JetBrains Mono', monospace; font-size: 18px; letter-spacing: .34em; text-transform: uppercase; color: #4fe08a; display: flex; align-items: center; gap: 14px; margin-bottom: 34px; }
-  .kick::before { content: ""; width: 40px; height: 2px; background: #4fe08a; display: inline-block; }
-  h1 { font-weight: 900; font-size: 92px; line-height: .97; letter-spacing: -.035em; color: #eae3d6; }
-  h1 .grn { color: #4fe08a; }
-  .cursor { display:inline-block; width: 30px; height: 8px; background:#4fe08a; vertical-align: baseline; margin-left: 10px; box-shadow: 0 0 16px rgba(79,224,138,.7); }
-  .sub { font-family: 'JetBrains Mono', monospace; font-size: 19px; letter-spacing: .04em; color: #9aa39a; margin-top: 40px; }
+  .kick { font-family: 'JetBrains Mono', monospace; font-size: 18px; letter-spacing: .34em; text-transform: uppercase; color: var(--accent); display: flex; align-items: center; gap: 14px; margin-bottom: 34px; }
+  .kick::before { content: ""; width: 40px; height: 2px; background: var(--accent); display: inline-block; }
+  h1 { font-weight: 900; font-size: 88px; line-height: .98; letter-spacing: -.035em; color: #eae3d6; }
+  h1 .grn { color: var(--accent); }
+  .cursor { display:inline-block; width: 30px; height: 8px; background: var(--accent); margin-left: 10px; box-shadow: 0 0 16px var(--glowstrong); }
+  .sub { font-family: 'JetBrains Mono', monospace; font-size: 19px; letter-spacing: .04em; color: #9aa39a; margin-top: 38px; max-width: 60ch; }
   .sub b { color: #eae3d6; font-weight: 500; }
-  .foot { position: absolute; left: 88px; right: 88px; bottom: 60px; z-index: 2; display: flex; justify-content: space-between; align-items: center; font-family: 'JetBrains Mono', monospace; font-size: 15px; color: #5d655d; letter-spacing: .08em; }
+  .foot { position: absolute; left: 88px; right: 88px; bottom: 58px; z-index: 2; display: flex; justify-content: space-between; align-items: center; font-family: 'JetBrains Mono', monospace; font-size: 15px; color: #5d655d; letter-spacing: .08em; }
   .brand { display: inline-flex; align-items: center; gap: 10px; color: #9aa39a; }
-  .brand .dot { width: 9px; height: 9px; border-radius: 50%; background: #4fe08a; box-shadow: 0 0 12px rgba(79,224,138,.8); }
+  .brand .dot { width: 9px; height: 9px; border-radius: 50%; background: var(--accent); box-shadow: 0 0 12px var(--glowstrong); }
   .chips { display:flex; gap:10px; }
   .chip { border:1px solid #2f3833; border-radius:4px; padding:5px 11px; color:#9aa39a; }
 </style>
 </head>
 <body>
-<div class="cover">
+<div class="cover" id="cover">
   <div class="inner">
-    <div class="kick">50 plug-and-play prompts</div>
-    <h1>The Sales&nbsp;&amp;<br>Marketing <span class="grn">AI<br>Prompt Pack</span><span class="cursor"></span></h1>
-    <div class="sub">Battle-tested for <b>ChatGPT</b> · <b>Claude</b> · <b>Gemini</b> — research, drafting, analysis, automation.</div>
+    <div class="kick" id="kick"></div>
+    <h1 id="title"></h1>
+    <div class="sub" id="sub"></div>
   </div>
   <div class="foot">
     <span class="brand"><span class="dot"></span>PROFIT ENGINE</span>
-    <span class="chips"><span class="chip">RESEARCH</span><span class="chip">DRAFTING</span><span class="chip">ANALYSIS</span><span class="chip">AUTOMATION</span></span>
+    <span class="chips" id="chips"></span>
   </div>
 </div>
+<script>
+  const q = new URLSearchParams(location.search);
+  const accent = q.get('accent') || '#4fe08a';
+  document.documentElement.style.setProperty('--accent', accent);
+  document.documentElement.style.setProperty('--glow', accent + '28');
+  document.documentElement.style.setProperty('--glowstrong', accent + 'cc');
+  document.getElementById('kick').textContent = q.get('kick') || '50 plug-and-play prompts';
+  // title: words wrapped; words listed in `grn` (comma-sep, case-insensitive) render in accent
+  const title = q.get('title') || 'The AI Prompt Pack';
+  const grn = (q.get('grn') || '').toLowerCase().split(',').map(s=>s.trim()).filter(Boolean);
+  const html = title.split(' ').map(w => grn.includes(w.toLowerCase().replace(/[^a-z0-9&]/g,'')) ? '<span class="grn">'+w+'</span>' : w).join(' ');
+  document.getElementById('title').innerHTML = html + '<span class="cursor"></span>';
+  document.getElementById('sub').innerHTML = q.get('sub') || 'Battle-tested for <b>ChatGPT</b> · <b>Claude</b> · <b>Gemini</b>.';
+  const chips = (q.get('chips') || 'RESEARCH,DRAFTING,ANALYSIS,AUTOMATION').split(',');
+  document.getElementById('chips').innerHTML = chips.map(c => '<span class="chip">'+c.trim()+'</span>').join('');
+</script>
 </body>
 </html>
