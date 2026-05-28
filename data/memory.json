@@ -223,11 +223,35 @@
       "wins": 0,
       "losses": 0,
       "niche": "ai"
+    },
+    "arm-metis": {
+      "firstSeen": "2026-05-28T18:16:30.182Z",
+      "lastSeen": "2026-05-28T18:16:30.182Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "dynamic-workflows": {
+      "firstSeen": "2026-05-28T18:16:34.290Z",
+      "lastSeen": "2026-05-28T18:16:34.290Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "api-zero": {
+      "firstSeen": "2026-05-28T18:16:38.392Z",
+      "lastSeen": "2026-05-28T18:16:38.392Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
     }
   },
   "niches": {
     "ai": {
-      "count": 57,
+      "count": 60,
       "wins": 16,
       "losses": 0
     },
