@@ -1,7 +1,7 @@
 // Free public data sources for trend detection. No auth required.
 import { fetchJson, fetchText, logger, hash } from '../lib/util.js';
 
-const UA_HEADERS = { 'User-Agent': 'profit-engine/0.1 (research)' };
+const UA_HEADERS = { 'User-Agent': 'Mozilla/5.0 (compatible; profit-engine/0.1; +https://github.com)' };
 
 // ─── Reddit ────────────────────────────────────────────────
 // Public JSON endpoints. Free, no auth.
@@ -188,6 +188,40 @@ export async function pypiRecent() {
   }
 }
 
+// ─── Google News RSS ──────────────────────────────────────
+// Clean editorial headlines per niche query. Survives datacenter IPs
+// (unlike Reddit, which 403s GitHub Actions). High commercial intent.
+const GNEWS_QUERIES = [
+  'best AI tools', 'AI software', 'productivity apps', 'best gadgets',
+  'side hustle ideas', 'passive income', 'personal finance tips',
+  'home office gear', 'mechanical keyboard', 'fitness gear',
+];
+
+export async function googleNews(query, limit = 8) {
+  const url = `https://news.google.com/rss/search?q=${encodeURIComponent(query)}&hl=en-US&gl=US&ceid=US:en`;
+  try {
+    const xml = await fetchText(url, { timeout: 10000 });
+    return parseRssItems(xml).slice(0, limit).map(it => ({
+      ...it,
+      // Google News titles are "Headline - Publisher"; strip publisher tail.
+      title: it.title.replace(/\s+-\s+[^-]+$/, '').trim(),
+      score: 40,           // editorial baseline
+      comments: 0,
+      source: 'gnews',
+      query,
+    }));
+  } catch (e) {
+    logger.warn(`gnews "${query}" fail: ${e.message}`);
+    return [];
+  }
+}
+
+export async function googleNewsAll(queries = GNEWS_QUERIES) {
+  const picked = queries.sort(() => Math.random() - 0.5).slice(0, 6); // rotate, 6 per cycle
+  const results = await Promise.allSettled(picked.map(q => googleNews(q, 8)));
+  return results.filter(r => r.status === 'fulfilled').flatMap(r => r.value);
+}
+
 // ─── IndieHackers (RSS-ish via products endpoint) ─────────
 // Falls back to community subreddit if upstream missing.
 export async function indieHackersFallback() {
@@ -254,6 +288,7 @@ export async function pullAll(opts = {}) {
     mastodonTrending(),
     npmRecent('', 15),
     pypiRecent(),
+    googleNewsAll(),
   ]);
 
   const flat = results

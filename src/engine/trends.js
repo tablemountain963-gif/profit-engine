@@ -21,6 +21,8 @@ const STOPWORDS = new Set([
   'really','very','quite','pretty','rather','fairly','almost','nearly','exactly','approximately',
   'made','make','making','built','build','building','done','doing','went','going','came','coming','goes','say','said','says',
   'looks','look','looking','seems','seem','seemed','seeming','appears','appear','appeared',
+  'href','target','blank','https','http','www','com','org','net','html','span','div','class','rel','noopener','nofollow','noreferrer','src','img','alt','svg','utm','amp','cdata','rss','xml','json','php','aspx','onclick','style','width','height','px','rem','tabindex','aria','meta','link','script','iframe','nbsp','quot','apos','gt','lt',
+  'font','fonts','color','colour','background','margin','padding','border','pixel','button','dropdown','checkbox','sidebar','navbar','modal','tooltip','placeholder','bold','italic','underline',
   'simple','easy','hard','quick','fast','slow','daily','weekly','monthly','yearly','annual','annually',
   'awesome','amazing','incredible','perfect','terrible','horrible','crazy','insane','interesting','useful',
   'asks','ask','asked','asking','tells','tell','told','tells','telling','wonders','wonder','wondered',
@@ -108,13 +110,40 @@ export function rankItems(items) {
   return enriched;
 }
 
+// Extract capitalized multi-word sequences (proper nouns / named entities) from
+// an original-cased title. "Anthropic OpenAI", "Product Market Fit", "Claude Code".
+// These are far higher-value topics than lowercase conversational fragments.
+function properPhrases(title) {
+  const out = new Set();
+  // Sequences of 1-4 Capitalized words (allowing internal lowercase like "of")
+  const re = /\b([A-Z][a-zA-Z0-9.+]{1,}(?:\s+(?:[A-Z][a-zA-Z0-9.+]{1,}|of|the|for|and)){0,3})\b/g;
+  let m;
+  while ((m = re.exec(String(title)))) {
+    const phrase = m[1].trim();
+    const words = phrase.split(/\s+/).filter(w => !['of', 'the', 'for', 'and'].includes(w.toLowerCase()));
+    if (words.length >= 1 && words.join('').length >= 4) {
+      out.add(phrase.toLowerCase());
+    }
+  }
+  return out;
+}
+
 // Topic extraction: cluster top items by shared keyword frequency.
-// Heavily favors multi-word phrases over single tokens.
+// Heavily favors multi-word phrases and named entities over conversational tokens.
 export function extractTopics(items, topN = 10) {
   const freq = new Map();
   for (const it of items.slice(0, 200)) {
     const text = `${it.title} ${it.selftext || it.desc || ''}`;
     const tokens = tokenize(text);
+
+    // Proper-noun phrases from the ORIGINAL-cased title (strongest signal).
+    const propers = properPhrases(it.title || '');
+    for (const p of propers) {
+      const parts = p.split(' ');
+      if (parts.some(w => STOPWORDS.has(w))) continue;
+      addFreq(freq, p, it, 5, true);
+    }
+
     const bg = bigrams(tokens).filter(b => {
       const [a, c] = b.split(' ');
       return a && c && a.length >= 3 && c.length >= 3 && !STOPWORDS.has(a) && !STOPWORDS.has(c);
@@ -122,13 +151,12 @@ export function extractTopics(items, topN = 10) {
 
     // Bigrams get 3x weight; single tokens only count if niche-relevant.
     for (const phrase of bg) {
-      addFreq(freq, phrase, it, 3);
+      addFreq(freq, phrase, it, 3, false);
     }
     for (const tok of tokens) {
       if (tok.length < 4 || STOPWORDS.has(tok)) continue;
-      // Single tokens only counted when they appear in niche vocab
       if (!isInNicheVocab(tok)) continue;
-      addFreq(freq, tok, it, 1);
+      addFreq(freq, tok, it, 1, false);
     }
   }
 
@@ -136,15 +164,21 @@ export function extractTopics(items, topN = 10) {
     .filter(([k, v]) => {
       if (v.count < 2) return false;
       if (k.length < 4) return false;
-      // Reject phrases that are entirely stopword-adjacent fluff
       const parts = k.split(' ');
       const nonStop = parts.filter(p => !STOPWORDS.has(p));
-      return nonStop.length === parts.length;
+      if (nonStop.length !== parts.length) return false;
+      // Quality gate: keep only topics that are a named entity, niche-relevant,
+      // or commercially intentful. Drops conversational junk ("nothing rude").
+      const isProper = v.proper > 0;
+      const isNiche = [...v.niches].some(n => n !== 'general') || parts.some(isInNicheVocab);
+      const isCommercial = COMMERCIAL_HINTS.some(h => k.includes(h));
+      return isProper || isNiche || isCommercial;
     })
     .map(([keyword, v]) => ({
       keyword,
       count: v.count,
-      score: v.score,
+      score: v.score * (v.proper > 0 ? 1.5 : 1),
+      proper: v.proper > 0,
       niches: [...v.niches].filter(n => n !== 'general').concat([...v.niches].filter(n => n === 'general')),
       examples: v.items,
       id: hash(keyword),
@@ -156,11 +190,12 @@ export function extractTopics(items, topN = 10) {
   return topics;
 }
 
-function addFreq(freq, key, item, weight) {
-  const cur = freq.get(key) || { count: 0, score: 0, items: [], niches: new Set() };
+function addFreq(freq, key, item, weight, isProper = false) {
+  const cur = freq.get(key) || { count: 0, score: 0, items: [], niches: new Set(), proper: 0 };
   cur.count += weight;
   cur.score += (item._score || 1) * weight;
   cur.niches.add(item._niche || 'general');
+  if (isProper) cur.proper += 1;
   if (cur.items.length < 5) cur.items.push({ title: item.title, url: item.url, source: item.source });
   freq.set(key, cur);
 }
