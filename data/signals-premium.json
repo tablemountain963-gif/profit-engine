@@ -1,148 +1,137 @@
 {
-  "generatedAt": "2026-05-28T13:32:34.515Z",
-  "sourceCount": 204,
+  "generatedAt": "2026-05-28T14:26:54.719Z",
+  "sourceCount": 206,
   "topItems": [
     {
       "title": "Today, we have imposed a €200 million fine on Temu under the Digital Services Act, for failing to identify, analyse, and assess the systemic risks of illegal products being offered on its platform. Th",
       "url": "https://ec.social-network.europa.eu/@EUCommission/116651733534611734",
-      "score": 11.17,
+      "score": 11.86,
       "niche": "ai",
       "source": "mastodon",
       "engagement": {
-        "score": 218,
-        "comments": 18
+        "score": 320,
+        "comments": 19
       }
     },
     {
       "title": "I think Anthropic and OpenAI have found product-market fit",
       "url": "https://simonwillison.net/2026/May/27/product-market-fit/",
-      "score": 10.28,
+      "score": 10.3,
       "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 959,
-        "comments": 1069
+        "score": 980,
+        "comments": 1086
       }
     },
     {
       "title": "Found this on Instagram, it's from Threads.kyamawebb wrote,\"Teenagers have started calling AI art \"boomer art\" and consider it cringe, and YouTubers have stopped using AI-generated thumbnails because ",
       "url": "https://mastodon.social/@amalia12/116651284250866500",
-      "score": 9.6,
+      "score": 9.75,
       "niche": "ai",
       "source": "mastodon",
       "engagement": {
-        "score": 378,
+        "score": 418,
         "comments": 14
-      }
-    },
-    {
-      "title": "YouTube to automatically label AI-generated videos",
-      "url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
-      "score": 8.59,
-      "niche": "ai",
-      "source": "hackernews",
-      "engagement": {
-        "score": 1029,
-        "comments": 621
-      }
-    },
-    {
-      "title": "DuckDuckGo search saw 28% more visits after Google said people love AI mode",
-      "url": "https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/",
-      "score": 8.35,
-      "niche": "ai",
-      "source": "hackernews",
-      "engagement": {
-        "score": 941,
-        "comments": 444
-      }
-    },
-    {
-      "title": "I do not use AI in my legal work.Some of my clients use AI.I saw an AI output this morning, purporting to give information about data protection law (whether an IP address is personal data).It include",
-      "url": "https://mastodon.neilzone.co.uk/@neil/116652237696180769",
-      "score": 8.35,
-      "niche": "ai",
-      "source": "mastodon",
-      "engagement": {
-        "score": 169,
-        "comments": 8
-      }
-    },
-    {
-      "title": "the infosec people at my work are rioting because the Distant Corporate Overlord sent an email that scores 10/10 on the phishing scale (“We want to give you a present to thank you for all your hard wo",
-      "url": "https://infosec.exchange/@0xabad1dea/116651490286301582",
-      "score": 8.19,
-      "niche": "ai",
-      "source": "mastodon",
-      "engagement": {
-        "score": 323,
-        "comments": 19
-      }
-    },
-    {
-      "title": "Five frontier LLMs disagree on 67% of 1k real-world fact-check claims",
-      "url": "https://lenz.io/research/llm-disagreement",
-      "score": 7.99,
-      "niche": "ai",
-      "source": "hackernews",
-      "engagement": {
-        "score": 144,
-        "comments": 84
-      }
-    },
-    {
-      "title": "AI sticker shock hits corporate America",
-      "url": "https://www.axios.com/2026/05/28/ai-spending-roi-enterprise-costs",
-      "score": 7.93,
-      "niche": "ai",
-      "source": "hackernews",
-      "engagement": {
-        "score": 115,
-        "comments": 92
-      }
-    },
-    {
-      "title": "AMD pulls a bait-and-switch on Linux users with Vivado licensing changes",
-      "url": "https://itsfoss.com/news/amd-vivado-bait-and-switch-on-linux-users/",
-      "score": 7.92,
-      "niche": "ai",
-      "source": "hackernews",
-      "engagement": {
-        "score": 153,
-        "comments": 72
       }
     },
     {
       "title": "Dear Fedi friends,I hereby present you my new favorite website: https://isaiprofitable.com, which tracks the spending and revenue of all the major AI companies.Oh it is glorious - the perfect link to ",
       "url": "https://mastodon.social/@_elena/116652356526060818",
-      "score": 7.56,
+      "score": 9.25,
       "niche": "ai",
       "source": "mastodon",
       "engagement": {
-        "score": 98,
-        "comments": 7
+        "score": 296,
+        "comments": 15
+      }
+    },
+    {
+      "title": "I do not use AI in my legal work.Some of my clients use AI.I saw an AI output this morning, purporting to give information about data protection law (whether an IP address is personal data).It include",
+      "url": "https://mastodon.neilzone.co.uk/@neil/116652237696180769",
+      "score": 9.13,
+      "niche": "ai",
+      "source": "mastodon",
+      "engagement": {
+        "score": 280,
+        "comments": 11
+      }
+    },
+    {
+      "title": "Five frontier LLMs disagree on 67% of 1k real-world fact-check claims",
+      "url": "https://lenz.io/research/llm-disagreement",
+      "score": 8.85,
+      "niche": "ai",
+      "source": "hackernews",
+      "engagement": {
+        "score": 254,
+        "comments": 165
+      }
+    },
+    {
+      "title": "YouTube to automatically label AI-generated videos",
+      "url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
+      "score": 8.63,
+      "niche": "ai",
+      "source": "hackernews",
+      "engagement": {
+        "score": 1065,
+        "comments": 643
+      }
+    },
+    {
+      "title": "DuckDuckGo search saw 28% more visits after Google said people love AI mode",
+      "url": "https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/",
+      "score": 8.38,
+      "niche": "ai",
+      "source": "hackernews",
+      "engagement": {
+        "score": 958,
+        "comments": 458
+      }
+    },
+    {
+      "title": "the infosec people at my work are rioting because the Distant Corporate Overlord sent an email that scores 10/10 on the phishing scale (“We want to give you a present to thank you for all your hard wo",
+      "url": "https://infosec.exchange/@0xabad1dea/116651490286301582",
+      "score": 8.34,
+      "niche": "ai",
+      "source": "mastodon",
+      "engagement": {
+        "score": 362,
+        "comments": 21
+      }
+    },
+    {
+      "title": "AMD pulls a bait-and-switch on Linux users with Vivado licensing changes",
+      "url": "https://itsfoss.com/news/amd-vivado-bait-and-switch-on-linux-users/",
+      "score": 8.31,
+      "niche": "ai",
+      "source": "hackernews",
+      "engagement": {
+        "score": 213,
+        "comments": 90
       }
     },
     {
       "title": "RE: https://infosec.exchange/@masek/116651124103630936This does not just affect gaming, but all general purpose compute.Supply chains and value chains are breaking and will not come back. Artificial A",
       "url": "https://infosec.exchange/@isotopp/116651775368120051",
+      "score": 7.55,
+      "niche": "ai",
+      "source": "mastodon",
+      "engagement": {
+        "score": 207,
+        "comments": 10
+      }
+    },
+    {
+      "title": "Using AI-generated imagery for your blog posts adds a lot!- people will get rightfully angry  with you- it distracts from what you have to say - you’ll get unfollowed and blocked- you’ve wasted time, ",
+      "url": "https://hachyderm.io/@thomasfuchs/116652232242957112",
       "score": 7.14,
       "niche": "ai",
       "source": "mastodon",
       "engagement": {
-        "score": 157,
-        "comments": 6
-      }
-    },
-    {
-      "title": "Canada dumps Trump. Instead of buying the Boeing E-7, Canada has chosen the Swedish Saab Global Eye, which is the monitoring and control aircraft currently used by Ukraine.Right in this moment, Trump ",
-      "url": "https://mastodon.social/@randahl/116650882477207083",
-      "score": 7.07,
-      "niche": "ai",
-      "source": "mastodon",
-      "engagement": {
-        "score": 239,
-        "comments": 6
+        "score": 161,
+        "comments": 4
       }
     },
     {
@@ -168,58 +157,58 @@
       }
     },
     {
-      "title": "Szili1994/create-aeronautics-minecraft-mod — aeronautics create minecraft mod github modrinth curseforge create addon sable physics engine simulated offroad airships planes drones vehicles contraption",
-      "url": "https://github.com/Szili1994/create-aeronautics-minecraft-mod",
-      "score": 6.37,
+      "title": "ShadowSpread/polymarket-auto-trading — polymarket trading bot, polymarket auto trading bot, polymarket profitable bot, polymarket, trading bot, polymarket trading bot, polymarket arbitrage bot, polyma",
+      "url": "https://github.com/ShadowSpread/polymarket-auto-trading",
+      "score": 6.42,
       "niche": "ai",
       "source": "github",
       "engagement": {
-        "score": 143,
-        "comments": 1
+        "score": 151,
+        "comments": 0
       }
     },
     {
-      "title": "ShadowSpread/polymarket-auto-trading — polymarket trading bot, polymarket auto trading bot, polymarket profitable bot, polymarket, trading bot, polymarket trading bot, polymarket arbitrage bot, polyma",
-      "url": "https://github.com/ShadowSpread/polymarket-auto-trading",
-      "score": 6.35,
+      "title": "Szili1994/create-aeronautics-minecraft-mod — aeronautics create minecraft mod github modrinth curseforge create addon sable physics engine simulated offroad airships planes drones vehicles contraption",
+      "url": "https://github.com/Szili1994/create-aeronautics-minecraft-mod",
+      "score": 6.41,
       "niche": "ai",
       "source": "github",
       "engagement": {
-        "score": 143,
-        "comments": 0
+        "score": 147,
+        "comments": 1
       }
     },
     {
       "title": "Harkirat1462/claude-code-cli — claude code cli install codex github anthropic agentic coding system terminal assistant codebase git workflows multi file editing mcp protocol model context protocol sub",
       "url": "https://github.com/Harkirat1462/claude-code-cli",
-      "score": 6.35,
+      "score": 6.38,
       "niche": "ai",
       "source": "github",
       "engagement": {
-        "score": 140,
+        "score": 144,
         "comments": 1
       }
     },
     {
-      "title": "Using AI-generated imagery for your blog posts adds a lot!- people will get rightfully angry  with you- it distracts from what you have to say - you’ll get unfollowed and blocked- you’ve wasted time, ",
-      "url": "https://hachyderm.io/@thomasfuchs/116652232242957112",
-      "score": 6.25,
+      "title": "Impressively bad day already.  But I found a bunch of prairie peas, one flowering, growing in a pile of moose turds, and there's probably some symbolism there.  Or something.",
+      "url": "https://mastodon.social/@sundogplanets/116652487634948171",
+      "score": 6.22,
       "niche": "ai",
       "source": "mastodon",
       "engagement": {
-        "score": 85,
-        "comments": 2
+        "score": 42,
+        "comments": 3
       }
     },
     {
       "title": "Rust (and Slint) on a Jailbroken Kindle",
       "url": "https://sverre.me/blog/rust-on-kindle/",
-      "score": 6.13,
+      "score": 6.18,
       "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 191,
-        "comments": 28
+        "score": 200,
+        "comments": 29
       }
     },
     {
@@ -245,44 +234,55 @@
       }
     },
     {
-      "title": "Oracle vs. ServiceNow: Which Artificial Intelligence (AI) Tech Stock Is a Better Buy in 2026?",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZEZheXNGaWVDYmFTUVRfNUMxMU1kZmdVQ2Jiam85RG4yalVieE8tVFkyQTY1NE9ndkpNWEw2OUZBcE1ZdmxsOTZoVnBjRWJsWWtCR0lHWFNkMEk1Z1l2WlNaeFduU3V1MmJXWHBqeDh6NjRvd1BmanFNYkV6TVg3clFwYWxFOGY2bEN2ckl4Um04SEtOUENhazVneHVDZl9OUkdhd09aaHBZVDQxbEE?oc=5",
-      "score": 5.99,
+      "title": "withkynam/vibecode-pro-max-kit — Your AI forgets. This remembers. Spec-driven coding harness for vibecoders, product owners, CEOs and real builders — self-improving context memory, 12 agents, 32 skill",
+      "url": "https://github.com/withkynam/vibecode-pro-max-kit",
+      "score": 5.93,
       "niche": "ai",
-      "source": "gnews",
+      "source": "github",
       "engagement": {
-        "score": 40,
-        "comments": 0
+        "score": 204,
+        "comments": 16
       }
     },
     {
-      "title": "AI is changing this job so fast the interview process can’t keep up",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB6YW5qaWVpQTh3V05RbDMzYXE4cFB1Y0U5Z2N4YmZQSFJCUUo3U0JPN0tuTmNvc0hOZ0p3NEVmc2hDV0R4cVdEVVZDejBvZjgwTzJ2WXlNVXE3RUhCNXN6OWJqV1FhUWoxa0NYZ29xaDRGWmNVVlQ0THFIMW1adw?oc=5",
-      "score": 5.94,
+      "title": "A Eureka machine that thinks like nature and explores what AI cannot",
+      "url": "https://iisc.ac.in/a-eureka-machine-that-thinks-like-nature-and-explores-what-ai-cannot/",
+      "score": 5.86,
       "niche": "ai",
-      "source": "gnews",
+      "source": "hackernews",
       "engagement": {
-        "score": 40,
-        "comments": 0
+        "score": 124,
+        "comments": 35
       }
     },
     {
-      "title": "IBM and Red Hat Commit $5 Billion to Redefine the Future of Open Source in the AI Era",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWWt0OS15bUhvZjZXbVdBYkE4MHI4R3ptWldmOV9SNzNCUXhhUm9iU3V2OVc0eUl0em0wRm0xblpoUXFlR185Wk5SSy04a2JicUlrMWdQeXJzQ0xDRVh4N0hBS0ZFcFVSYmNUVFJRUTVRVXhTYjFRS3cxODdlNGpMOFVDbnVJOUoyNS15RUZOMTlmUm9USEtHQ2kyUWFLUVlNaE5WTzliazF1TTJlNHVqNVVZMkFLR3JBckJ3eA?oc=5",
-      "score": 5.94,
+      "title": "actuallyaridan/linux-devmgmt — A faithful recreation of the Windows Device Manager built with Qt6 and real hardware backends via sysfs/procfs. Best enjoyed with AeroThemePlasma, but looks great on reg",
+      "url": "https://github.com/actuallyaridan/linux-devmgmt",
+      "score": 5.78,
       "niche": "ai",
-      "source": "gnews",
+      "source": "github",
       "engagement": {
-        "score": 40,
-        "comments": 0
+        "score": 204,
+        "comments": 1
+      }
+    },
+    {
+      "title": "Investigating how prompt politeness affects LLM accuracy (2025)",
+      "url": "https://arxiv.org/abs/2510.04950",
+      "score": 5.58,
+      "niche": "ai",
+      "source": "hackernews",
+      "engagement": {
+        "score": 99,
+        "comments": 119
       }
     }
   ],
   "topics": [
     {
       "keyword": "claude code",
-      "count": 25,
-      "score": 171.312730465263,
+      "count": 22,
+      "score": 167.483066339728,
       "proper": true,
       "niches": [
         "ai"
@@ -318,37 +318,27 @@
       "slug": "claude-code"
     },
     {
-      "keyword": "open source",
-      "count": 14,
-      "score": 122.74550842336517,
+      "keyword": "dear fedi",
+      "count": 8,
+      "score": 111.04242875747823,
       "proper": true,
       "niches": [
         "ai"
       ],
       "examples": [
         {
-          "title": "IBM and Red Hat Commit $5 Billion to Redefine the Future of Open Source in the AI Era",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWWt0OS15bUhvZjZXbVdBYkE4MHI4R3ptWldmOV9SNzNCUXhhUm9iU3V2OVc0eUl0em0wRm0xblpoUXFlR185Wk5SSy04a2JicUlrMWdQeXJzQ0xDRVh4N0hBS0ZFcFVSYmNUVFJRUTVRVXhTYjFRS3cxODdlNGpMOFVDbnVJOUoyNS15RUZOMTlmUm9USEtHQ2kyUWFLUVlNaE5WTzliazF1TTJlNHVqNVVZMkFLR3JBckJ3eA?oc=5",
-          "source": "gnews"
+          "title": "Dear Fedi friends,I hereby present you my new favorite website: https://isaiprofitable.com, which tracks the spending and revenue of all the major AI companies.Oh it is glorious - the perfect link to ",
+          "url": "https://mastodon.social/@_elena/116652356526060818",
+          "source": "mastodon"
         },
         {
-          "title": "IBM and Red Hat Commit $5 Billion to Redefine the Future of Open Source in the AI Era",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWWt0OS15bUhvZjZXbVdBYkE4MHI4R3ptWldmOV9SNzNCUXhhUm9iU3V2OVc0eUl0em0wRm0xblpoUXFlR185Wk5SSy04a2JicUlrMWdQeXJzQ0xDRVh4N0hBS0ZFcFVSYmNUVFJRUTVRVXhTYjFRS3cxODdlNGpMOFVDbnVJOUoyNS15RUZOMTlmUm9USEtHQ2kyUWFLUVlNaE5WTzliazF1TTJlNHVqNVVZMkFLR3JBckJ3eA?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "IBM and Red Hat Commit $5 Billion to Redefine the Future of Open Source in the AI Era",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWWt0OS15bUhvZjZXbVdBYkE4MHI4R3ptWldmOV9SNzNCUXhhUm9iU3V2OVc0eUl0em0wRm0xblpoUXFlR185Wk5SSy04a2JicUlrMWdQeXJzQ0xDRVh4N0hBS0ZFcFVSYmNUVFJRUTVRVXhTYjFRS3cxODdlNGpMOFVDbnVJOUoyNS15RUZOMTlmUm9USEtHQ2kyUWFLUVlNaE5WTzliazF1TTJlNHVqNVVZMkFLR3JBckJ3eA?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "zhristophe/Claude-Mythos-AI-Anthropic-App — claude mythos ai anthropic app github open source desktop mobile client abhishekk130804 anthropic api key creative writing roleplay character cards deep rea",
-          "url": "https://github.com/zhristophe/Claude-Mythos-AI-Anthropic-App",
-          "source": "github"
+          "title": "Dear Fedi friends,I hereby present you my new favorite website: https://isaiprofitable.com, which tracks the spending and revenue of all the major AI companies.Oh it is glorious - the perfect link to ",
+          "url": "https://mastodon.social/@_elena/116652356526060818",
+          "source": "mastodon"
         }
       ],
-      "id": "1ae64990e804",
-      "slug": "open-source"
+      "id": "657aec826a89",
+      "slug": "dear-fedi"
     },
     {
       "keyword": "business intelligence",
@@ -381,7 +371,7 @@
     {
       "keyword": "bot polymarket",
       "count": 15,
-      "score": 95.31328765092624,
+      "score": 96.35021284364117,
       "proper": false,
       "niches": [
         "ai"
@@ -417,32 +407,9 @@
       "slug": "bot-polymarket"
     },
     {
-      "keyword": "dear fedi",
-      "count": 8,
-      "score": 90.66394406422779,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "Dear Fedi friends,I hereby present you my new favorite website: https://isaiprofitable.com, which tracks the spending and revenue of all the major AI companies.Oh it is glorious - the perfect link to ",
-          "url": "https://mastodon.social/@_elena/116652356526060818",
-          "source": "mastodon"
-        },
-        {
-          "title": "Dear Fedi friends,I hereby present you my new favorite website: https://isaiprofitable.com, which tracks the spending and revenue of all the major AI companies.Oh it is glorious - the perfect link to ",
-          "url": "https://mastodon.social/@_elena/116652356526060818",
-          "source": "mastodon"
-        }
-      ],
-      "id": "657aec826a89",
-      "slug": "dear-fedi"
-    },
-    {
       "keyword": "claude",
-      "count": 13,
-      "score": 85.70525667992278,
+      "count": 12,
+      "score": 84.50113108086785,
       "proper": true,
       "niches": [
         "ai"
@@ -480,7 +447,7 @@
     {
       "keyword": "trading bot",
       "count": 12,
-      "score": 76.250630120741,
+      "score": 77.08017027491294,
       "proper": false,
       "niches": [
         "ai"
@@ -513,7 +480,7 @@
     {
       "keyword": "jailbroken kindle",
       "count": 8,
-      "score": 73.55755563498137,
+      "score": 74.13656875257607,
       "proper": true,
       "niches": [
         "ai"
@@ -574,7 +541,7 @@
     {
       "keyword": "polymarket trading",
       "count": 9,
-      "score": 57.187972590555745,
+      "score": 57.81012770618471,
       "proper": false,
       "niches": [
         "ai"
@@ -600,12 +567,91 @@
       "slug": "polymarket-trading"
     },
     {
+      "keyword": "buy forecasts",
+      "count": 18,
+      "score": 52.834799146138536,
+      "proper": false,
+      "niches": [
+        "gear"
+      ],
+      "examples": [
+        {
+          "title": "Best Buy forecasts upbeat quarterly sales on steady gadgets demand; shares up",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPaXkzaVhKV3c1eUQ1c3ZyT18tQlBiRGJzcnI3MkxKQlJPVi1FeVFnQ0c5a29zZDdMZXpNYTJGTWdyUlo3ZS1IbVhhTlpESm5FN0MzN0VpaG9CS2NyemNZYmtYT1VEdnVLMjJkcDRWa0ZjM1AzRGlRY3BYOHVrWlZ3bVJEdWoyRm90dzRCV2ljZEtRYmdXeEMyd3c5dzFfNG51dXJ3UlN5RnJRU0V1WWNQdDlBZVJzRnd1bFdocDdn?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Best Buy forecasts upbeat quarterly sales on steady gadgets demand; shares up",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPaXkzaVhKV3c1eUQ1c3ZyT18tQlBiRGJzcnI3MkxKQlJPVi1FeVFnQ0c5a29zZDdMZXpNYTJGTWdyUlo3ZS1IbVhhTlpESm5FN0MzN0VpaG9CS2NyemNZYmtYT1VEdnVLMjJkcDRWa0ZjM1AzRGlRY3BYOHVrWlZ3bVJEdWoyRm90dzRCV2ljZEtRYmdXeEMyd3c5dzFfNG51dXJ3UlN5RnJRU0V1WWNQdDlBZVJzRnd1bFdocDdn?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Best Buy forecasts upbeat sales on steady gadgets demand, ads and marketplace growth",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVnRiYmFuSlhEbzNQRE5OU2pTaGZmVU9Tb0swMWJiR3JjRE5Ld3Z6REpLM2FjMkdQMXo0Uk1JdnRhMk1VTFFqdEg3Rm9jQm5QT0RRQTBhR2FUWC1qZEM2aG1lUVYtMzNONFVvUzhUTnRlNGQ1eXhfc1VhT25tci11amxvUlE5NU5WVktrUndNd0JNbzlIbGNFVTlFRERwQkJFWENzQThwWDk4VU1URUhsUlhZNzFzcWp5U3MxNFJRREt1cURyWFhuTklvMA?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Best Buy forecasts upbeat sales on steady gadgets demand, ads and marketplace growth",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVnRiYmFuSlhEbzNQRE5OU2pTaGZmVU9Tb0swMWJiR3JjRE5Ld3Z6REpLM2FjMkdQMXo0Uk1JdnRhMk1VTFFqdEg3Rm9jQm5QT0RRQTBhR2FUWC1qZEM2aG1lUVYtMzNONFVvUzhUTnRlNGQ1eXhfc1VhT25tci11amxvUlE5NU5WVktrUndNd0JNbzlIbGNFVTlFRERwQkJFWENzQThwWDk4VU1URUhsUlhZNzFzcWp5U3MxNFJRREt1cURyWFhuTklvMA?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Best Buy forecasts upbeat quarterly sales on steady gadgets demand; shares up By Reuters",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPaVVuTGFUa3BnZDFKeEV4UU5jTmlqeHFzc05CSF9USGZXc0Y2NHFqZExVNjZlUDFrRnQwMnh4TWpUTHFFOHNwTGMyMi1HVG1LOFFsam1iNmtXVWFyZVlFc2RXek5Fb0hMbGl2MU1oZWs2Q3FWQXJTaWVNNG83akNwUW15N01CZkdZSGlJM0VQUDQzck9KQUhFamlxT18xYXlJM1BWd1hvakVyYXFjRmJDVHV6UDJndnpZbzFpOHoxWUpMaEtwSGlUekI2Yi1yWGtzREZOZGZTOA?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "2f9557951ca1",
+      "slug": "buy-forecasts"
+    },
+    {
+      "keyword": "forecasts upbeat",
+      "count": 18,
+      "score": 52.834799146138536,
+      "proper": false,
+      "niches": [
+        "gear"
+      ],
+      "examples": [
+        {
+          "title": "Best Buy forecasts upbeat quarterly sales on steady gadgets demand; shares up",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPaXkzaVhKV3c1eUQ1c3ZyT18tQlBiRGJzcnI3MkxKQlJPVi1FeVFnQ0c5a29zZDdMZXpNYTJGTWdyUlo3ZS1IbVhhTlpESm5FN0MzN0VpaG9CS2NyemNZYmtYT1VEdnVLMjJkcDRWa0ZjM1AzRGlRY3BYOHVrWlZ3bVJEdWoyRm90dzRCV2ljZEtRYmdXeEMyd3c5dzFfNG51dXJ3UlN5RnJRU0V1WWNQdDlBZVJzRnd1bFdocDdn?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Best Buy forecasts upbeat quarterly sales on steady gadgets demand; shares up",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPaXkzaVhKV3c1eUQ1c3ZyT18tQlBiRGJzcnI3MkxKQlJPVi1FeVFnQ0c5a29zZDdMZXpNYTJGTWdyUlo3ZS1IbVhhTlpESm5FN0MzN0VpaG9CS2NyemNZYmtYT1VEdnVLMjJkcDRWa0ZjM1AzRGlRY3BYOHVrWlZ3bVJEdWoyRm90dzRCV2ljZEtRYmdXeEMyd3c5dzFfNG51dXJ3UlN5RnJRU0V1WWNQdDlBZVJzRnd1bFdocDdn?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Best Buy forecasts upbeat sales on steady gadgets demand, ads and marketplace growth",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVnRiYmFuSlhEbzNQRE5OU2pTaGZmVU9Tb0swMWJiR3JjRE5Ld3Z6REpLM2FjMkdQMXo0Uk1JdnRhMk1VTFFqdEg3Rm9jQm5QT0RRQTBhR2FUWC1qZEM2aG1lUVYtMzNONFVvUzhUTnRlNGQ1eXhfc1VhT25tci11amxvUlE5NU5WVktrUndNd0JNbzlIbGNFVTlFRERwQkJFWENzQThwWDk4VU1URUhsUlhZNzFzcWp5U3MxNFJRREt1cURyWFhuTklvMA?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Best Buy forecasts upbeat sales on steady gadgets demand, ads and marketplace growth",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVnRiYmFuSlhEbzNQRE5OU2pTaGZmVU9Tb0swMWJiR3JjRE5Ld3Z6REpLM2FjMkdQMXo0Uk1JdnRhMk1VTFFqdEg3Rm9jQm5QT0RRQTBhR2FUWC1qZEM2aG1lUVYtMzNONFVvUzhUTnRlNGQ1eXhfc1VhT25tci11amxvUlE5NU5WVktrUndNd0JNbzlIbGNFVTlFRERwQkJFWENzQThwWDk4VU1URUhsUlhZNzFzcWp5U3MxNFJRREt1cURyWFhuTklvMA?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Best Buy forecasts upbeat quarterly sales on steady gadgets demand; shares up By Reuters",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPaVVuTGFUa3BnZDFKeEV4UU5jTmlqeHFzc05CSF9USGZXc0Y2NHFqZExVNjZlUDFrRnQwMnh4TWpUTHFFOHNwTGMyMi1HVG1LOFFsam1iNmtXVWFyZVlFc2RXek5Fb0hMbGl2MU1oZWs2Q3FWQXJTaWVNNG83akNwUW15N01CZkdZSGlJM0VQUDQzck9KQUhFamlxT18xYXlJM1BWd1hvakVyYXFjRmJDVHV6UDJndnpZbzFpOHoxWUpMaEtwSGlUekI2Yi1yWGtzREZOZGZTOA?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "68a472032a50",
+      "slug": "forecasts-upbeat"
+    },
+    {
       "keyword": "2026 _blank",
-      "count": 12,
-      "score": 54.99270394642954,
+      "count": 21,
+      "score": 50.59948072072498,
       "proper": false,
       "niches": [
         "ai",
+        "finance",
+        "software",
+        "gear",
         "general"
       ],
       "examples": [
@@ -620,13 +666,18 @@
           "source": "gnews"
         },
         {
-          "title": "Oracle vs. ServiceNow: Which Artificial Intelligence (AI) Tech Stock Is a Better Buy in 2026?",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZEZheXNGaWVDYmFTUVRfNUMxMU1kZmdVQ2Jiam85RG4yalVieE8tVFkyQTY1NE9ndkpNWEw2OUZBcE1ZdmxsOTZoVnBjRWJsWWtCR0lHWFNkMEk1Z1l2WlNaeFduU3V1MmJXWHBqeDh6NjRvd1BmanFNYkV6TVg3clFwYWxFOGY2bEN2ckl4Um04SEtOUENhazVneHVDZl9OUkdhd09aaHBZVDQxbEE?oc=5",
+          "title": "Best Budgeting Apps Of 2026",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBfUGVtV1FGTnJWeTNxS2R0QmVaQzlwbFVNZHlaU1BnNWlrNWx5WDIxb1k0UzVTaDNGVzhUaDNmenJBZ28xMW9VWEtyRU01ODNyV2x3WlBZZkpIb2dnNFVXQ19ReFkzVDJVaEg4?oc=5",
           "source": "gnews"
         },
         {
-          "title": "WFH 101: The Best Home Office Devices We've Tested for 2026",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9ZWmNLNzg1aWFBWDAxUDRvYlB4MERBdS1hd1FIZnl5TDA3c2RnalRsMXhBRVdKMlZtcko3dlRWVWt3Nk5VMUJVMy1Jd1dGM1hmQTNtaFVRbVI0Z3lOWm1QbWZaTnlRSHdHRkNoZXlnMFZuUQ?oc=5",
+          "title": "The Best Tenkeyless (TKL) Keyboards for 2026",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1DN0tQWlcySnluZ19LTlZ1V0RGSFhSRmRINUMyVDFrM2t3dXJVNVpnS0ZhR0pQZE1QUnJoVXJwOVM0TFdwZjdTMHdFd0pJNktGNHplZFFsaXlRanBmM0FsYklhZ3NOdzJt?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "The Best Productivity Apps We've Tested for 2026",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9veGdZYVZtQXhoeGdoN19Db0JwMFZndFd3a3dIczJDZkIxeHBPUHEySTlDT2xzZS1PVkdCVnpla0pWWjRMUVczUm9kaVhnOFB3MzNpNk1YUnl2LUI5YVVJ?oc=5",
           "source": "gnews"
         }
       ],
@@ -634,96 +685,96 @@
       "slug": "2026-_blank"
     },
     {
-      "keyword": "buy forecasts",
-      "count": 15,
-      "score": 45.04505311818221,
+      "keyword": "2026 6f6f6f",
+      "count": 21,
+      "score": 50.59948072072498,
       "proper": false,
       "niches": [
-        "gear"
+        "ai",
+        "finance",
+        "software",
+        "gear",
+        "general"
       ],
       "examples": [
         {
-          "title": "Best Buy forecasts upbeat sales on steady gadgets demand, ads and marketplace growth",
-          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQYmRSWmVzVlQ0T0ZsX1Y5V2MtY3ViQ0NGSlItWDR4SU96ZmhlTmQ4cWxmenpmQW5qZWMxaFNqNVdydzFmaHdoUnAxc1VaeWM1aXZlVEo4ODBGY3NUTmVJb1pyanVaV3VSb0U5QXIzTWhabVl1ZEx1OUFLdWhHWHE4b0QxaW5ZR1JZaHVUbGlYbFU4NnphRTcxb0QzZVBYbEdiQWpzQk96OHQwcTRDa2hDSFYzeWhybzdOT21CUnJTeFBQQzY4eFV0amlCbkx6ei0wVDVYUkZ4U3RUc0xaMFlDb1BOLU5SVUVt?oc=5",
+          "title": "10 Best AI Text Generator Tools Tested for 2026",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE94ajFVejBCX2U3MUo1d3FlWFNzeTBXZU1ENl9LZkRrVWczWHRFN2lmNVd2U0E4Tk1YNFpqYnhfLTRmTVNhVUttOFNrQWdEOHZyNGF0Vm8xQQ?oc=5",
           "source": "gnews"
         },
         {
-          "title": "Best Buy forecasts upbeat quarterly sales on steady gadgets demand; shares up",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPaXkzaVhKV3c1eUQ1c3ZyT18tQlBiRGJzcnI3MkxKQlJPVi1FeVFnQ0c5a29zZDdMZXpNYTJGTWdyUlo3ZS1IbVhhTlpESm5FN0MzN0VpaG9CS2NyemNZYmtYT1VEdnVLMjJkcDRWa0ZjM1AzRGlRY3BYOHVrWlZ3bVJEdWoyRm90dzRCV2ljZEtRYmdXeEMyd3c5dzFfNG51dXJ3UlN5RnJRU0V1WWNQdDlBZVJzRnd1bFdocDdn?oc=5",
+          "title": "Best AI Tools for Business Intelligence in 2026",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBqWDgyZ1EzRDIxNkpBSFpZOEIxdXk1QXByak5lRmFLQWY5bjMxaVE3dlFrSXYtRXlDX0ljWHFwTHZYN0I3MEtyOUlLcGpXbDlLYlE1WUxXTk0tMk5DbU02WHBaNVVjNDdpQ2NtNzZtYS1DSzg?oc=5",
           "source": "gnews"
         },
         {
-          "title": "Best Buy forecasts upbeat quarterly sales on steady gadgets demand; shares up",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPaXkzaVhKV3c1eUQ1c3ZyT18tQlBiRGJzcnI3MkxKQlJPVi1FeVFnQ0c5a29zZDdMZXpNYTJGTWdyUlo3ZS1IbVhhTlpESm5FN0MzN0VpaG9CS2NyemNZYmtYT1VEdnVLMjJkcDRWa0ZjM1AzRGlRY3BYOHVrWlZ3bVJEdWoyRm90dzRCV2ljZEtRYmdXeEMyd3c5dzFfNG51dXJ3UlN5RnJRU0V1WWNQdDlBZVJzRnd1bFdocDdn?oc=5",
+          "title": "Best Budgeting Apps Of 2026",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBfUGVtV1FGTnJWeTNxS2R0QmVaQzlwbFVNZHlaU1BnNWlrNWx5WDIxb1k0UzVTaDNGVzhUaDNmenJBZ28xMW9VWEtyRU01ODNyV2x3WlBZZkpIb2dnNFVXQ19ReFkzVDJVaEg4?oc=5",
           "source": "gnews"
         },
         {
-          "title": "Best Buy forecasts upbeat sales on steady gadgets demand, ads and marketplace growth",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVnRiYmFuSlhEbzNQRE5OU2pTaGZmVU9Tb0swMWJiR3JjRE5Ld3Z6REpLM2FjMkdQMXo0Uk1JdnRhMk1VTFFqdEg3Rm9jQm5QT0RRQTBhR2FUWC1qZEM2aG1lUVYtMzNONFVvUzhUTnRlNGQ1eXhfc1VhT25tci11amxvUlE5NU5WVktrUndNd0JNbzlIbGNFVTlFRERwQkJFWENzQThwWDk4VU1URUhsUlhZNzFzcWp5U3MxNFJRREt1cURyWFhuTklvMA?oc=5",
+          "title": "The Best Tenkeyless (TKL) Keyboards for 2026",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1DN0tQWlcySnluZ19LTlZ1V0RGSFhSRmRINUMyVDFrM2t3dXJVNVpnS0ZhR0pQZE1QUnJoVXJwOVM0TFdwZjdTMHdFd0pJNktGNHplZFFsaXlRanBmM0FsYklhZ3NOdzJt?oc=5",
           "source": "gnews"
         },
         {
-          "title": "Best Buy forecasts upbeat sales on steady gadgets demand, ads and marketplace growth",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVnRiYmFuSlhEbzNQRE5OU2pTaGZmVU9Tb0swMWJiR3JjRE5Ld3Z6REpLM2FjMkdQMXo0Uk1JdnRhMk1VTFFqdEg3Rm9jQm5QT0RRQTBhR2FUWC1qZEM2aG1lUVYtMzNONFVvUzhUTnRlNGQ1eXhfc1VhT25tci11amxvUlE5NU5WVktrUndNd0JNbzlIbGNFVTlFRERwQkJFWENzQThwWDk4VU1URUhsUlhZNzFzcWp5U3MxNFJRREt1cURyWFhuTklvMA?oc=5",
+          "title": "The Best Productivity Apps We've Tested for 2026",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9veGdZYVZtQXhoeGdoN19Db0JwMFZndFd3a3dIczJDZkIxeHBPUHEySTlDT2xzZS1PVkdCVnpla0pWWjRMUVczUm9kaVhnOFB3MzNpNk1YUnl2LUI5YVVJ?oc=5",
           "source": "gnews"
         }
       ],
-      "id": "2f9557951ca1",
-      "slug": "buy-forecasts"
+      "id": "819223dcf234",
+      "slug": "2026-6f6f6f"
     },
     {
-      "keyword": "forecasts upbeat",
-      "count": 15,
-      "score": 45.04505311818221,
-      "proper": false,
+      "keyword": "fitness gear",
+      "count": 35,
+      "score": 44.57089466430661,
+      "proper": true,
       "niches": [
-        "gear"
+        "gear",
+        "software"
       ],
       "examples": [
         {
-          "title": "Best Buy forecasts upbeat sales on steady gadgets demand, ads and marketplace growth",
-          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQYmRSWmVzVlQ0T0ZsX1Y5V2MtY3ViQ0NGSlItWDR4SU96ZmhlTmQ4cWxmenpmQW5qZWMxaFNqNVdydzFmaHdoUnAxc1VaeWM1aXZlVEo4ODBGY3NUTmVJb1pyanVaV3VSb0U5QXIzTWhabVl1ZEx1OUFLdWhHWHE4b0QxaW5ZR1JZaHVUbGlYbFU4NnphRTcxb0QzZVBYbEdiQWpzQk96OHQwcTRDa2hDSFYzeWhybzdOT21CUnJTeFBQQzY4eFV0amlCbkx6ei0wVDVYUkZ4U3RUc0xaMFlDb1BOLU5SVUVt?oc=5",
+          "title": "Memorial Day Sales: Great Deals on Fitness Gear",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWEx2T2hXVnExdVY4T2tVczl4cUd1QjcyM2ZMaG0wU3NIdUg1UnR2WnJPVkxjNnAwQ3RGOVlxOGRESXNabVpvejJkem5LN2pfOHhBbUhKYnpMczU3enpBenYzSjRHTUJuSm80QjVxVjI5RFNwdnItSWEtLS1vNlJUNjFDS2Y?oc=5",
           "source": "gnews"
         },
         {
-          "title": "Best Buy forecasts upbeat quarterly sales on steady gadgets demand; shares up",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPaXkzaVhKV3c1eUQ1c3ZyT18tQlBiRGJzcnI3MkxKQlJPVi1FeVFnQ0c5a29zZDdMZXpNYTJGTWdyUlo3ZS1IbVhhTlpESm5FN0MzN0VpaG9CS2NyemNZYmtYT1VEdnVLMjJkcDRWa0ZjM1AzRGlRY3BYOHVrWlZ3bVJEdWoyRm90dzRCV2ljZEtRYmdXeEMyd3c5dzFfNG51dXJ3UlN5RnJRU0V1WWNQdDlBZVJzRnd1bFdocDdn?oc=5",
+          "title": "Memorial Day Sales: Great Deals on Fitness Gear",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWEx2T2hXVnExdVY4T2tVczl4cUd1QjcyM2ZMaG0wU3NIdUg1UnR2WnJPVkxjNnAwQ3RGOVlxOGRESXNabVpvejJkem5LN2pfOHhBbUhKYnpMczU3enpBenYzSjRHTUJuSm80QjVxVjI5RFNwdnItSWEtLS1vNlJUNjFDS2Y?oc=5",
           "source": "gnews"
         },
         {
-          "title": "Best Buy forecasts upbeat quarterly sales on steady gadgets demand; shares up",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPaXkzaVhKV3c1eUQ1c3ZyT18tQlBiRGJzcnI3MkxKQlJPVi1FeVFnQ0c5a29zZDdMZXpNYTJGTWdyUlo3ZS1IbVhhTlpESm5FN0MzN0VpaG9CS2NyemNZYmtYT1VEdnVLMjJkcDRWa0ZjM1AzRGlRY3BYOHVrWlZ3bVJEdWoyRm90dzRCV2ljZEtRYmdXeEMyd3c5dzFfNG51dXJ3UlN5RnJRU0V1WWNQdDlBZVJzRnd1bFdocDdn?oc=5",
+          "title": "Memorial Day Sales: Great Deals on Fitness Gear",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWEx2T2hXVnExdVY4T2tVczl4cUd1QjcyM2ZMaG0wU3NIdUg1UnR2WnJPVkxjNnAwQ3RGOVlxOGRESXNabVpvejJkem5LN2pfOHhBbUhKYnpMczU3enpBenYzSjRHTUJuSm80QjVxVjI5RFNwdnItSWEtLS1vNlJUNjFDS2Y?oc=5",
           "source": "gnews"
         },
         {
-          "title": "Best Buy forecasts upbeat sales on steady gadgets demand, ads and marketplace growth",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVnRiYmFuSlhEbzNQRE5OU2pTaGZmVU9Tb0swMWJiR3JjRE5Ld3Z6REpLM2FjMkdQMXo0Uk1JdnRhMk1VTFFqdEg3Rm9jQm5QT0RRQTBhR2FUWC1qZEM2aG1lUVYtMzNONFVvUzhUTnRlNGQ1eXhfc1VhT25tci11amxvUlE5NU5WVktrUndNd0JNbzlIbGNFVTlFRERwQkJFWENzQThwWDk4VU1URUhsUlhZNzFzcWp5U3MxNFJRREt1cURyWFhuTklvMA?oc=5",
+          "title": "I've tested women's workout clothes for over 10 years — these 9 brands make the best fitness gear by far",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcHJDSU5rMFRPUEZCQ1VfNm8xc3BNYmllcjE1Wi1fU29OQUVUVktCUU5yUWZLRkZQSlR0YzN4d3JTNjRrNmgwdVkwa3FFREl2UGUyM1ZOV3hxRERIN3dXTDlZNEZtcVNrZHo4Z1BYaWdkTjF3RzY2Zlk0aTN2NjFBb1J6RE1VbEk?oc=5",
           "source": "gnews"
         },
         {
-          "title": "Best Buy forecasts upbeat sales on steady gadgets demand, ads and marketplace growth",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVnRiYmFuSlhEbzNQRE5OU2pTaGZmVU9Tb0swMWJiR3JjRE5Ld3Z6REpLM2FjMkdQMXo0Uk1JdnRhMk1VTFFqdEg3Rm9jQm5QT0RRQTBhR2FUWC1qZEM2aG1lUVYtMzNONFVvUzhUTnRlNGQ1eXhfc1VhT25tci11amxvUlE5NU5WVktrUndNd0JNbzlIbGNFVTlFRERwQkJFWENzQThwWDk4VU1URUhsUlhZNzFzcWp5U3MxNFJRREt1cURyWFhuTklvMA?oc=5",
+          "title": "I've tested women's workout clothes for over 10 years — these 9 brands make the best fitness gear by far",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcHJDSU5rMFRPUEZCQ1VfNm8xc3BNYmllcjE1Wi1fU29OQUVUVktCUU5yUWZLRkZQSlR0YzN4d3JTNjRrNmgwdVkwa3FFREl2UGUyM1ZOV3hxRERIN3dXTDlZNEZtcVNrZHo4Z1BYaWdkTjF3RzY2Zlk0aTN2NjFBb1J6RE1VbEk?oc=5",
           "source": "gnews"
         }
       ],
-      "id": "68a472032a50",
-      "slug": "forecasts-upbeat"
+      "id": "a8b7e45842c3",
+      "slug": "fitness-gear"
     },
     {
       "keyword": "sales steady",
       "count": 15,
-      "score": 45.04505311818221,
+      "score": 44.02899928844878,
       "proper": false,
       "niches": [
         "gear"
       ],
       "examples": [
         {
-          "title": "Best Buy forecasts upbeat sales on steady gadgets demand, ads and marketplace growth",
-          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQYmRSWmVzVlQ0T0ZsX1Y5V2MtY3ViQ0NGSlItWDR4SU96ZmhlTmQ4cWxmenpmQW5qZWMxaFNqNVdydzFmaHdoUnAxc1VaeWM1aXZlVEo4ODBGY3NUTmVJb1pyanVaV3VSb0U5QXIzTWhabVl1ZEx1OUFLdWhHWHE4b0QxaW5ZR1JZaHVUbGlYbFU4NnphRTcxb0QzZVBYbEdiQWpzQk96OHQwcTRDa2hDSFYzeWhybzdOT21CUnJTeFBQQzY4eFV0amlCbkx6ei0wVDVYUkZ4U3RUc0xaMFlDb1BOLU5SVUVt?oc=5",
-          "source": "gnews"
-        },
-        {
           "title": "Best Buy forecasts upbeat quarterly sales on steady gadgets demand; shares up",
           "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPaXkzaVhKV3c1eUQ1c3ZyT18tQlBiRGJzcnI3MkxKQlJPVi1FeVFnQ0c5a29zZDdMZXpNYTJGTWdyUlo3ZS1IbVhhTlpESm5FN0MzN0VpaG9CS2NyemNZYmtYT1VEdnVLMjJkcDRWa0ZjM1AzRGlRY3BYOHVrWlZ3bVJEdWoyRm90dzRCV2ljZEtRYmdXeEMyd3c5dzFfNG51dXJ3UlN5RnJRU0V1WWNQdDlBZVJzRnd1bFdocDdn?oc=5",
           "source": "gnews"
@@ -741,56 +792,23 @@
         {
           "title": "Best Buy forecasts upbeat sales on steady gadgets demand, ads and marketplace growth",
           "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVnRiYmFuSlhEbzNQRE5OU2pTaGZmVU9Tb0swMWJiR3JjRE5Ld3Z6REpLM2FjMkdQMXo0Uk1JdnRhMk1VTFFqdEg3Rm9jQm5QT0RRQTBhR2FUWC1qZEM2aG1lUVYtMzNONFVvUzhUTnRlNGQ1eXhfc1VhT25tci11amxvUlE5NU5WVktrUndNd0JNbzlIbGNFVTlFRERwQkJFWENzQThwWDk4VU1URUhsUlhZNzFzcWp5U3MxNFJRREt1cURyWFhuTklvMA?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Best Buy forecasts upbeat quarterly sales on steady gadgets demand; shares up By Reuters",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPaVVuTGFUa3BnZDFKeEV4UU5jTmlqeHFzc05CSF9USGZXc0Y2NHFqZExVNjZlUDFrRnQwMnh4TWpUTHFFOHNwTGMyMi1HVG1LOFFsam1iNmtXVWFyZVlFc2RXek5Fb0hMbGl2MU1oZWs2Q3FWQXJTaWVNNG83akNwUW15N01CZkdZSGlJM0VQUDQzck9KQUhFamlxT18xYXlJM1BWd1hvakVyYXFjRmJDVHV6UDJndnpZbzFpOHoxWUpMaEtwSGlUekI2Yi1yWGtzREZOZGZTOA?oc=5",
           "source": "gnews"
         }
       ],
       "id": "b8cc8f69e0dc",
       "slug": "sales-steady"
-    },
-    {
-      "keyword": "steady gadgets",
-      "count": 15,
-      "score": 45.04505311818221,
-      "proper": false,
-      "niches": [
-        "gear"
-      ],
-      "examples": [
-        {
-          "title": "Best Buy forecasts upbeat sales on steady gadgets demand, ads and marketplace growth",
-          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQYmRSWmVzVlQ0T0ZsX1Y5V2MtY3ViQ0NGSlItWDR4SU96ZmhlTmQ4cWxmenpmQW5qZWMxaFNqNVdydzFmaHdoUnAxc1VaeWM1aXZlVEo4ODBGY3NUTmVJb1pyanVaV3VSb0U5QXIzTWhabVl1ZEx1OUFLdWhHWHE4b0QxaW5ZR1JZaHVUbGlYbFU4NnphRTcxb0QzZVBYbEdiQWpzQk96OHQwcTRDa2hDSFYzeWhybzdOT21CUnJTeFBQQzY4eFV0amlCbkx6ei0wVDVYUkZ4U3RUc0xaMFlDb1BOLU5SVUVt?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Best Buy forecasts upbeat quarterly sales on steady gadgets demand; shares up",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPaXkzaVhKV3c1eUQ1c3ZyT18tQlBiRGJzcnI3MkxKQlJPVi1FeVFnQ0c5a29zZDdMZXpNYTJGTWdyUlo3ZS1IbVhhTlpESm5FN0MzN0VpaG9CS2NyemNZYmtYT1VEdnVLMjJkcDRWa0ZjM1AzRGlRY3BYOHVrWlZ3bVJEdWoyRm90dzRCV2ljZEtRYmdXeEMyd3c5dzFfNG51dXJ3UlN5RnJRU0V1WWNQdDlBZVJzRnd1bFdocDdn?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Best Buy forecasts upbeat quarterly sales on steady gadgets demand; shares up",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPaXkzaVhKV3c1eUQ1c3ZyT18tQlBiRGJzcnI3MkxKQlJPVi1FeVFnQ0c5a29zZDdMZXpNYTJGTWdyUlo3ZS1IbVhhTlpESm5FN0MzN0VpaG9CS2NyemNZYmtYT1VEdnVLMjJkcDRWa0ZjM1AzRGlRY3BYOHVrWlZ3bVJEdWoyRm90dzRCV2ljZEtRYmdXeEMyd3c5dzFfNG51dXJ3UlN5RnJRU0V1WWNQdDlBZVJzRnd1bFdocDdn?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Best Buy forecasts upbeat sales on steady gadgets demand, ads and marketplace growth",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVnRiYmFuSlhEbzNQRE5OU2pTaGZmVU9Tb0swMWJiR3JjRE5Ld3Z6REpLM2FjMkdQMXo0Uk1JdnRhMk1VTFFqdEg3Rm9jQm5QT0RRQTBhR2FUWC1qZEM2aG1lUVYtMzNONFVvUzhUTnRlNGQ1eXhfc1VhT25tci11amxvUlE5NU5WVktrUndNd0JNbzlIbGNFVTlFRERwQkJFWENzQThwWDk4VU1URUhsUlhZNzFzcWp5U3MxNFJRREt1cURyWFhuTklvMA?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Best Buy forecasts upbeat sales on steady gadgets demand, ads and marketplace growth",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVnRiYmFuSlhEbzNQRE5OU2pTaGZmVU9Tb0swMWJiR3JjRE5Ld3Z6REpLM2FjMkdQMXo0Uk1JdnRhMk1VTFFqdEg3Rm9jQm5QT0RRQTBhR2FUWC1qZEM2aG1lUVYtMzNONFVvUzhUTnRlNGQ1eXhfc1VhT25tci11amxvUlE5NU5WVktrUndNd0JNbzlIbGNFVTlFRERwQkJFWENzQThwWDk4VU1URUhsUlhZNzFzcWp5U3MxNFJRREt1cURyWFhuTklvMA?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "a783c1712922",
-      "slug": "steady-gadgets"
     }
   ],
   "opportunities": [
     {
       "keyword": "claude code",
-      "count": 25,
-      "score": 171.312730465263,
+      "count": 22,
+      "score": 167.483066339728,
       "proper": true,
       "niches": [
         "ai"
@@ -830,37 +848,27 @@
       }
     },
     {
-      "keyword": "open source",
-      "count": 14,
-      "score": 122.74550842336517,
+      "keyword": "dear fedi",
+      "count": 8,
+      "score": 111.04242875747823,
       "proper": true,
       "niches": [
         "ai"
       ],
       "examples": [
         {
-          "title": "IBM and Red Hat Commit $5 Billion to Redefine the Future of Open Source in the AI Era",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWWt0OS15bUhvZjZXbVdBYkE4MHI4R3ptWldmOV9SNzNCUXhhUm9iU3V2OVc0eUl0em0wRm0xblpoUXFlR185Wk5SSy04a2JicUlrMWdQeXJzQ0xDRVh4N0hBS0ZFcFVSYmNUVFJRUTVRVXhTYjFRS3cxODdlNGpMOFVDbnVJOUoyNS15RUZOMTlmUm9USEtHQ2kyUWFLUVlNaE5WTzliazF1TTJlNHVqNVVZMkFLR3JBckJ3eA?oc=5",
-          "source": "gnews"
+          "title": "Dear Fedi friends,I hereby present you my new favorite website: https://isaiprofitable.com, which tracks the spending and revenue of all the major AI companies.Oh it is glorious - the perfect link to ",
+          "url": "https://mastodon.social/@_elena/116652356526060818",
+          "source": "mastodon"
         },
         {
-          "title": "IBM and Red Hat Commit $5 Billion to Redefine the Future of Open Source in the AI Era",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWWt0OS15bUhvZjZXbVdBYkE4MHI4R3ptWldmOV9SNzNCUXhhUm9iU3V2OVc0eUl0em0wRm0xblpoUXFlR185Wk5SSy04a2JicUlrMWdQeXJzQ0xDRVh4N0hBS0ZFcFVSYmNUVFJRUTVRVXhTYjFRS3cxODdlNGpMOFVDbnVJOUoyNS15RUZOMTlmUm9USEtHQ2kyUWFLUVlNaE5WTzliazF1TTJlNHVqNVVZMkFLR3JBckJ3eA?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "IBM and Red Hat Commit $5 Billion to Redefine the Future of Open Source in the AI Era",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWWt0OS15bUhvZjZXbVdBYkE4MHI4R3ptWldmOV9SNzNCUXhhUm9iU3V2OVc0eUl0em0wRm0xblpoUXFlR185Wk5SSy04a2JicUlrMWdQeXJzQ0xDRVh4N0hBS0ZFcFVSYmNUVFJRUTVRVXhTYjFRS3cxODdlNGpMOFVDbnVJOUoyNS15RUZOMTlmUm9USEtHQ2kyUWFLUVlNaE5WTzliazF1TTJlNHVqNVVZMkFLR3JBckJ3eA?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "zhristophe/Claude-Mythos-AI-Anthropic-App — claude mythos ai anthropic app github open source desktop mobile client abhishekk130804 anthropic api key creative writing roleplay character cards deep rea",
-          "url": "https://github.com/zhristophe/Claude-Mythos-AI-Anthropic-App",
-          "source": "github"
+          "title": "Dear Fedi friends,I hereby present you my new favorite website: https://isaiprofitable.com, which tracks the spending and revenue of all the major AI companies.Oh it is glorious - the perfect link to ",
+          "url": "https://mastodon.social/@_elena/116652356526060818",
+          "source": "mastodon"
         }
       ],
-      "id": "1ae64990e804",
-      "slug": "open-source",
+      "id": "657aec826a89",
+      "slug": "dear-fedi",
       "opportunity": {
         "type": "niche-content",
         "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
@@ -901,7 +909,7 @@
     {
       "keyword": "bot polymarket",
       "count": 15,
-      "score": 95.31328765092624,
+      "score": 96.35021284364117,
       "proper": false,
       "niches": [
         "ai"
@@ -941,36 +949,9 @@
       }
     },
     {
-      "keyword": "dear fedi",
-      "count": 8,
-      "score": 90.66394406422779,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "Dear Fedi friends,I hereby present you my new favorite website: https://isaiprofitable.com, which tracks the spending and revenue of all the major AI companies.Oh it is glorious - the perfect link to ",
-          "url": "https://mastodon.social/@_elena/116652356526060818",
-          "source": "mastodon"
-        },
-        {
-          "title": "Dear Fedi friends,I hereby present you my new favorite website: https://isaiprofitable.com, which tracks the spending and revenue of all the major AI companies.Oh it is glorious - the perfect link to ",
-          "url": "https://mastodon.social/@_elena/116652356526060818",
-          "source": "mastodon"
-        }
-      ],
-      "id": "657aec826a89",
-      "slug": "dear-fedi",
-      "opportunity": {
-        "type": "niche-content",
-        "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
-      }
-    },
-    {
       "keyword": "claude",
-      "count": 13,
-      "score": 85.70525667992278,
+      "count": 12,
+      "score": 84.50113108086785,
       "proper": true,
       "niches": [
         "ai"
@@ -1012,7 +993,7 @@
     {
       "keyword": "trading bot",
       "count": 12,
-      "score": 76.250630120741,
+      "score": 77.08017027491294,
       "proper": false,
       "niches": [
         "ai"
@@ -1049,7 +1030,7 @@
     {
       "keyword": "jailbroken kindle",
       "count": 8,
-      "score": 73.55755563498137,
+      "score": 74.13656875257607,
       "proper": true,
       "niches": [
         "ai"
@@ -1071,6 +1052,48 @@
       "opportunity": {
         "type": "tooling",
         "recommended": "Build / list AI tools; monetize via affiliate links + lead magnet."
+      }
+    },
+    {
+      "keyword": "kitchen gadgets",
+      "count": 17,
+      "score": 62.45344206761503,
+      "proper": true,
+      "niches": [
+        "gear"
+      ],
+      "examples": [
+        {
+          "title": "I’ve Tested Dozens of Clever Kitchen Gadgets in 2026 — These Are the Only Ones That Stand Out",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYjN3YXF5MGV2R19DTkxmejBVdGdrelUxM01LSzJaNFF0TFNoN1NnMzdxSWplUjI1RkVnR1NDLXNXTDMyQnZuQmtWeG04a3BlQzU2UWEycFVzT1FsOUcxYVl1WjhvSzdUd2dSajBPMHRRZTZSVlBSS0xKbWVjYUxXelg3b0dZV1o1RXVQamtxX28zU3Rh?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "I’ve Tested Dozens of Clever Kitchen Gadgets in 2026 — These Are the Only Ones That Stand Out",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYjN3YXF5MGV2R19DTkxmejBVdGdrelUxM01LSzJaNFF0TFNoN1NnMzdxSWplUjI1RkVnR1NDLXNXTDMyQnZuQmtWeG04a3BlQzU2UWEycFVzT1FsOUcxYVl1WjhvSzdUd2dSajBPMHRRZTZSVlBSS0xKbWVjYUxXelg3b0dZV1o1RXVQamtxX28zU3Rh?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "I’ve Tested Dozens of Clever Kitchen Gadgets in 2026 — These Are the Only Ones That Stand Out",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYjN3YXF5MGV2R19DTkxmejBVdGdrelUxM01LSzJaNFF0TFNoN1NnMzdxSWplUjI1RkVnR1NDLXNXTDMyQnZuQmtWeG04a3BlQzU2UWEycFVzT1FsOUcxYVl1WjhvSzdUd2dSajBPMHRRZTZSVlBSS0xKbWVjYUxXelg3b0dZV1o1RXVQamtxX28zU3Rh?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "It’s My Job to Test Kitchen Gadgets, and These Are My 13 Favorite Finds of 2026 So Far",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1MZkotUkM5UXM5MGU1c3ctSGV4Rmhncm10dC1kRmJZaW1HeFhRYjU5Y2pPa0NqTEVtS2l5YWJ4WUs0dVdqc29HTnJILXZndXVYM3ptamMtWXdtQ3hsUW5kNVVHQjNYS2RVU1d5TE42OTVnN2l4M2J6OWNB?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "It’s My Job to Test Kitchen Gadgets, and These Are My 13 Favorite Finds of 2026 So Far",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1MZkotUkM5UXM5MGU1c3ctSGV4Rmhncm10dC1kRmJZaW1HeFhRYjU5Y2pPa0NqTEVtS2l5YWJ4WUs0dVdqc29HTnJILXZndXVYM3ptamMtWXdtQ3hsUW5kNVVHQjNYS2RVU1d5TE42OTVnN2l4M2J6OWNB?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "4e4a1c4cb31e",
+      "slug": "kitchen-gadgets",
+      "opportunity": {
+        "type": "affiliate",
+        "recommended": "Write SEO comparison/roundup article with affiliate links."
       }
     }
   ]

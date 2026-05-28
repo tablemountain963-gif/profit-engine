@@ -127,11 +127,43 @@
       "wins": 1,
       "losses": 0,
       "niche": "ai"
+    },
+    "dear-fedi": {
+      "firstSeen": "2026-05-28T14:27:02.310Z",
+      "lastSeen": "2026-05-28T14:27:02.310Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "ibm-red": {
+      "firstSeen": "2026-05-28T14:27:02.882Z",
+      "lastSeen": "2026-05-28T14:27:02.882Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "red-hat": {
+      "firstSeen": "2026-05-28T14:27:03.295Z",
+      "lastSeen": "2026-05-28T14:27:03.295Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "fitness-gear": {
+      "firstSeen": "2026-05-28T14:27:03.986Z",
+      "lastSeen": "2026-05-28T14:27:03.986Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "gear"
     }
   },
   "niches": {
     "ai": {
-      "count": 49,
+      "count": 52,
       "wins": 15,
       "losses": 0
     },
@@ -146,7 +178,7 @@
       "losses": 0
     },
     "gear": {
-      "count": 2,
+      "count": 3,
       "wins": 1,
       "losses": 0
     }
