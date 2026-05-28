@@ -2,17 +2,17 @@
   "topics": {
     "claude-code": {
       "firstSeen": "2026-05-28T04:01:44.987Z",
-      "lastSeen": "2026-05-28T04:01:44.987Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-05-28T04:07:35.381Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
     "google": {
       "firstSeen": "2026-05-28T04:01:48.390Z",
-      "lastSeen": "2026-05-28T04:01:48.390Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-05-28T04:07:35.381Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -71,12 +71,60 @@
       "wins": 0,
       "losses": 0,
       "niche": "ai"
+    },
+    "white-house": {
+      "firstSeen": "2026-05-28T04:07:40.438Z",
+      "lastSeen": "2026-05-28T04:07:40.438Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "rude-don": {
+      "firstSeen": "2026-05-28T04:07:43.614Z",
+      "lastSeen": "2026-05-28T04:07:43.614Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "jailbroken-kindle": {
+      "firstSeen": "2026-05-28T04:07:46.194Z",
+      "lastSeen": "2026-05-28T04:07:46.194Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "anthropic": {
+      "firstSeen": "2026-05-28T04:07:53.485Z",
+      "lastSeen": "2026-05-28T04:07:53.485Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "open": {
+      "firstSeen": "2026-05-28T04:07:55.914Z",
+      "lastSeen": "2026-05-28T04:07:55.914Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "regenerative-adult-stem-cells": {
+      "firstSeen": "2026-05-28T04:07:55.955Z",
+      "lastSeen": "2026-05-28T04:07:55.955Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
     }
   },
   "niches": {
     "ai": {
-      "count": 7,
-      "wins": 0,
+      "count": 15,
+      "wins": 2,
       "losses": 0
     },
     "finance": {
