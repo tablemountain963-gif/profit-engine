@@ -122,9 +122,9 @@
     },
     "boost-sales": {
       "firstSeen": "2026-05-28T07:48:50.326Z",
-      "lastSeen": "2026-05-28T07:48:50.326Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-05-28T11:29:42.850Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -143,12 +143,68 @@
       "wins": 0,
       "losses": 0,
       "niche": "ai"
+    },
+    "open-source": {
+      "firstSeen": "2026-05-28T11:29:48.152Z",
+      "lastSeen": "2026-05-28T11:29:48.152Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "steam-deck": {
+      "firstSeen": "2026-05-28T11:29:51.325Z",
+      "lastSeen": "2026-05-28T11:29:51.325Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "tomas-sanchez": {
+      "firstSeen": "2026-05-28T11:29:54.239Z",
+      "lastSeen": "2026-05-28T11:29:54.239Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "temu": {
+      "firstSeen": "2026-05-28T11:30:01.409Z",
+      "lastSeen": "2026-05-28T11:30:01.409Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "digital-services-act": {
+      "firstSeen": "2026-05-28T11:30:01.866Z",
+      "lastSeen": "2026-05-28T11:30:01.866Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "salesforce": {
+      "firstSeen": "2026-05-28T11:30:01.920Z",
+      "lastSeen": "2026-05-28T11:30:01.920Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "swiss": {
+      "firstSeen": "2026-05-28T11:30:01.968Z",
+      "lastSeen": "2026-05-28T11:30:01.968Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
     }
   },
   "niches": {
     "ai": {
-      "count": 21,
-      "wins": 5,
+      "count": 29,
+      "wins": 6,
       "losses": 0
     },
     "finance": {

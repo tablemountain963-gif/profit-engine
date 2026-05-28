@@ -1,104 +1,126 @@
 {
-  "generatedAt": "2026-05-28T07:48:45.726Z",
-  "sourceCount": 207,
+  "generatedAt": "2026-05-28T11:29:43.640Z",
+  "sourceCount": 204,
   "topItems": [
+    {
+      "title": "Today, we have imposed a €200 million fine on Temu under the Digital Services Act, for failing to identify, analyse, and assess the systemic risks of illegal products being offered on its platform. Th",
+      "url": "https://ec.social-network.europa.eu/@EUCommission/116651733534611734",
+      "score": 10.36,
+      "niche": "ai",
+      "source": "mastodon",
+      "engagement": {
+        "score": 146,
+        "comments": 12
+      }
+    },
     {
       "title": "I think Anthropic and OpenAI have found product-market fit",
       "url": "https://simonwillison.net/2026/May/27/product-market-fit/",
-      "score": 10.12,
+      "score": 10.21,
       "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 822,
-        "comments": 956
+        "score": 898,
+        "comments": 1017
       }
     },
     {
-      "title": "Pasting a huge AI generated explanation to a problem in an issue or pull-request is nothing but RUDE. Don't do it. You look stupid and the receivers of that feel insulted.We are humans. We communicate",
-      "url": "https://mastodon.social/@bagder/116648467657760137",
-      "score": 10.01,
+      "title": "Found this on Instagram, it's from Threads.kyamawebb wrote,\"Teenagers have started calling AI art \"boomer art\" and consider it cringe, and YouTubers have stopped using AI-generated thumbnails because ",
+      "url": "https://mastodon.social/@amalia12/116651284250866500",
+      "score": 8.5,
       "niche": "ai",
       "source": "mastodon",
       "engagement": {
-        "score": 970,
-        "comments": 22
-      }
-    },
-    {
-      "title": "Beyond friggen pitiful and has to be among the absolute worst things to happen to the main portion of the White House since the British burned it during the War of 1812.#USpol “That is one helluva bef",
-      "url": "https://mastodon.world/@BrianJopek/116649816830581006",
-      "score": 8.82,
-      "niche": "ai",
-      "source": "mastodon",
-      "engagement": {
-        "score": 207,
-        "comments": 21
+        "score": 195,
+        "comments": 4
       }
     },
     {
       "title": "YouTube to automatically label AI-generated videos",
       "url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
-      "score": 8.3,
+      "score": 8.49,
       "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 813,
-        "comments": 469
+        "score": 940,
+        "comments": 569
       }
     },
     {
       "title": "DuckDuckGo search saw 28% more visits after Google said people love AI mode",
       "url": "https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/",
-      "score": 8.2,
+      "score": 8.31,
       "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 826,
-        "comments": 387
+        "score": 895,
+        "comments": 431
       }
     },
     {
-      "title": "Francesca Albanese's family recently won a case against punitive US sanctions, but a US appeal has put the sanctions back in place.Albanese says the sanctioning “equates to a civil death. She is unabl",
-      "url": "https://mastodon.social/@DrALJONES/116650243651991279",
-      "score": 8.17,
+      "title": "Canada dumps Trump. Instead of buying the Boeing E-7, Canada has chosen the Swedish Saab Global Eye, which is the monitoring and control aircraft currently used by Ukraine.Right in this moment, Trump ",
+      "url": "https://mastodon.social/@randahl/116650882477207083",
+      "score": 7.78,
       "niche": "ai",
       "source": "mastodon",
       "engagement": {
-        "score": 159,
-        "comments": 3
+        "score": 127,
+        "comments": 1
       }
     },
     {
-      "title": "Has anyone made a browser plug-in that does the following:1) alert you if the domain was registered after 2023 (especially if it was registered in the last month)2) tell you if the domain blocks the i",
-      "url": "https://mastodon.social/@Rycaut/116650367708929336",
-      "score": 7.55,
+      "title": "the infosec people at my work are rioting because the Distant Corporate Overlord sent an email that scores 10/10 on the phishing scale (“We want to give you a present to thank you for all your hard wo",
+      "url": "https://infosec.exchange/@0xabad1dea/116651490286301582",
+      "score": 7.7,
       "niche": "ai",
       "source": "mastodon",
       "engagement": {
-        "score": 214,
-        "comments": 7
+        "score": 230,
+        "comments": 12
       }
     },
     {
-      "title": "10 Best AI Text Generator Tools Tested for 2026",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE94ajFVejBCX2U3MUo1d3FlWFNzeTBXZU1ENl9LZkRrVWczWHRFN2lmNVd2U0E4Tk1YNFpqYnhfLTRmTVNhVUttOFNrQWdEOHZyNGF0Vm8xQQ?oc=5",
-      "score": 7.48,
+      "title": "Valve massively raised the prices for the Steam Deck:1TB OLED $649 -> $949512GB OLED $549 -> $789The items are out of stock nonetheless.Get used to the pattern: The unavailable hardware will become un",
+      "url": "https://infosec.exchange/@masek/116651124103630936",
+      "score": 7.14,
       "niche": "ai",
-      "source": "gnews",
+      "source": "mastodon",
       "engagement": {
-        "score": 40,
+        "score": 145,
+        "comments": 12
+      }
+    },
+    {
+      "title": "op7418/guizang-social-card-skill — 🪧 Claude Code / Codex skill — generate Xiaohongshu carousels & WeChat 21:9+1:1 cover pairs. Editorial × Swiss visual systems, 28 layouts, 10 themes, single-file HTM",
+      "url": "https://github.com/op7418/guizang-social-card-skill",
+      "score": 7.03,
+      "niche": "ai",
+      "source": "github",
+      "engagement": {
+        "score": 554,
         "comments": 0
       }
     },
     {
-      "title": "Gemini, Gophers, and Fingers. Oh My Alternative Internets Beyond HTTPS",
-      "url": "https://brennan.day/gemini-gophers-and-fingers-oh-my-alternative-internets-beyond-https/",
-      "score": 6.9,
+      "title": "Light: outside inside, Tomas Sanchez , Acrylic on linen, 2021 #Art #Painting",
+      "url": "https://mastodon.social/@cmconseils/116651150658821237",
+      "score": 6.95,
+      "niche": "ai",
+      "source": "mastodon",
+      "engagement": {
+        "score": 146,
+        "comments": 1
+      }
+    },
+    {
+      "title": "A Eureka machine that thinks like nature and explores what AI cannot",
+      "url": "https://iisc.ac.in/a-eureka-machine-that-thinks-like-nature-and-explores-what-ai-cannot/",
+      "score": 6.86,
       "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 116,
-        "comments": 52
+        "score": 82,
+        "comments": 28
       }
     },
     {
@@ -113,75 +135,42 @@
       }
     },
     {
-      "title": "op7418/guizang-social-card-skill — 🪧 Claude Code / Codex skill — generate Xiaohongshu carousels & WeChat 21:9+1:1 cover pairs. Editorial × Swiss visual systems, 28 layouts, 10 themes, single-file HTM",
-      "url": "https://github.com/op7418/guizang-social-card-skill",
-      "score": 6.71,
-      "niche": "ai",
-      "source": "github",
-      "engagement": {
-        "score": 416,
-        "comments": 0
-      }
-    },
-    {
-      "title": "Best AI Tools for eCommerce 2026: Boost Sales, Emails, and Pricing",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE56cTZNNkg4aXpPQkdReU5abjU3dk5tb1BjcFhlelZrWmExWjlvOFBlLWpWaDVkTjNCTnpuQkwxc1pRTjR2VHVnT0UzQl9ndVBUeURiaVdSZ29Za0Nxak9GWUFTQlM5dGYxR2tr?oc=5",
-      "score": 6.61,
-      "niche": "ai",
-      "source": "gnews",
-      "engagement": {
-        "score": 40,
-        "comments": 0
-      }
-    },
-    {
-      "title": "Digital permitting, AI tools top of mind for NIBS panelists",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPLXBPcS1ZSXVFd3JkbmpqaHFqSGMyVFQwbVYzTnVHNUlPS1RFRWZvSHJUVjZXT1pqVEJVQ0tWN055SXZIcHFOSk1PVmo4NzFBYWlBMmZDaWNUUC1qT1J4cWJQa0ZUQlltR2ZKbDdMbUxQemd3SjVXZFItVk81M282WU9Dc2Q?oc=5",
-      "score": 6.61,
-      "niche": "ai",
-      "source": "gnews",
-      "engagement": {
-        "score": 40,
-        "comments": 0
-      }
-    },
-    {
-      "title": "ai-best-tools/ai-image-video-gen — Millions of users trust this AI tool for realistic image and video generation. Advanced editing, full privacy protection, automatic deletion after every session. The",
-      "url": "https://github.com/ai-best-tools/ai-image-video-gen",
-      "score": 6.47,
-      "niche": "ai",
-      "source": "github",
-      "engagement": {
-        "score": 127,
-        "comments": 0
-      }
-    },
-    {
-      "title": "the misled and lonely travailer.Arthur Rackham, from \"Comus\" by John Milton, London, New York: [1921?] #illustration #art  https://www.oldbookillustrations.com/illustrations/lonely-traveler/",
-      "url": "https://mastodon.social/@oldbookillustrations/116650373827986153",
-      "score": 6.33,
+      "title": "Has anyone made a browser plug-in that does the following:1) alert you if the domain was registered after 2023 (especially if it was registered in the last month)2) tell you if the domain blocks the i",
+      "url": "https://mastodon.social/@Rycaut/116650367708929336",
+      "score": 6.41,
       "niche": "ai",
       "source": "mastodon",
       "engagement": {
-        "score": 92,
-        "comments": 1
+        "score": 301,
+        "comments": 9
       }
     },
     {
       "title": "Szili1994/create-aeronautics-minecraft-mod — aeronautics create minecraft mod github modrinth curseforge create addon sable physics engine simulated offroad airships planes drones vehicles contraption",
       "url": "https://github.com/Szili1994/create-aeronautics-minecraft-mod",
-      "score": 6.1,
+      "score": 6.26,
       "niche": "ai",
       "source": "github",
       "engagement": {
-        "score": 115,
+        "score": 131,
         "comments": 1
       }
     },
     {
-      "title": "I barely open some of my favorite apps anymore after using Gemini this way",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNM21hRW5DT1VqQmVMMjk2c1doQ1dPVEVOd25JeTdmWURULXh3OTJtM0ZlcFlNQ1V5YlFjWnhGR0x1c2E4STd4Mjl6SG9BSVlGejZKdWlKMFRJS0lvSURMbmhoc0MxQklValZqUHRGS1UwWHlkOE8yVzR6MF9fOVBEZndQN1pkUmRoLWV1cnprMU8ybHlQOUt3?oc=5",
-      "score": 5.99,
+      "title": "Rust (and Slint) on a Jailbroken Kindle",
+      "url": "https://sverre.me/blog/rust-on-kindle/",
+      "score": 6,
+      "niche": "ai",
+      "source": "hackernews",
+      "engagement": {
+        "score": 172,
+        "comments": 24
+      }
+    },
+    {
+      "title": "AI is changing this job so fast the interview process can’t keep up",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB6YW5qaWVpQTh3V05RbDMzYXE4cFB1Y0U5Z2N4YmZQSFJCUUo3U0JPN0tuTmNvc0hOZ0p3NEVmc2hDV0R4cVdEVVZDejBvZjgwTzJ2WXlNVXE3RUhCNXN6OWJqV1FhUWoxa0NYZ29xaDRGWmNVVlQ0THFIMW1adw?oc=5",
+      "score": 5.94,
       "niche": "ai",
       "source": "gnews",
       "engagement": {
@@ -190,86 +179,97 @@
       }
     },
     {
-      "title": "Canada dumps Trump. Instead of buying the Boeing E-7, Canada has chosen the Swedish Saab Global Eye, which is the monitoring and control aircraft currently used by Ukraine.Right in this moment, Trump ",
-      "url": "https://mastodon.social/@randahl/116650882477207083",
-      "score": 5.81,
+      "title": "IBM and Red Hat Commit $5 Billion to Redefine the Future of Open Source in the AI Era",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWWt0OS15bUhvZjZXbVdBYkE4MHI4R3ptWldmOV9SNzNCUXhhUm9iU3V2OVc0eUl0em0wRm0xblpoUXFlR185Wk5SSy04a2JicUlrMWdQeXJzQ0xDRVh4N0hBS0ZFcFVSYmNUVFJRUTVRVXhTYjFRS3cxODdlNGpMOFVDbnVJOUoyNS15RUZOMTlmUm9USEtHQ2kyUWFLUVlNaE5WTzliazF1TTJlNHVqNVVZMkFLR3JBckJ3eA?oc=5",
+      "score": 5.94,
       "niche": "ai",
-      "source": "mastodon",
+      "source": "gnews",
       "engagement": {
-        "score": 37,
+        "score": 40,
         "comments": 0
-      }
-    },
-    {
-      "title": "Rust (and Slint) on a Jailbroken Kindle",
-      "url": "https://sverre.me/blog/rust-on-kindle/",
-      "score": 5.81,
-      "niche": "ai",
-      "source": "hackernews",
-      "engagement": {
-        "score": 149,
-        "comments": 18
       }
     },
     {
       "title": "actuallyaridan/linux-devmgmt — A faithful recreation of the Windows Device Manager built with Qt6 and real hardware backends via sysfs/procfs. Best enjoyed with AeroThemePlasma, but looks great on reg",
       "url": "https://github.com/actuallyaridan/linux-devmgmt",
-      "score": 5.74,
+      "score": 5.75,
       "niche": "ai",
       "source": "github",
       "engagement": {
-        "score": 197,
+        "score": 199,
         "comments": 1
+      }
+    },
+    {
+      "title": "RE: https://infosec.exchange/@masek/116651124103630936This does not just affect gaming, but all general purpose compute.Supply chains and value chains are breaking and will not come back. Artificial A",
+      "url": "https://infosec.exchange/@isotopp/116651775368120051",
+      "score": 5.74,
+      "niche": "ai",
+      "source": "mastodon",
+      "engagement": {
+        "score": 55,
+        "comments": 3
+      }
+    },
+    {
+      "title": "withkynam/vibecode-pro-max-kit — Your AI forgets. This remembers. Spec-driven coding harness for vibecoders, product owners, CEOs and real builders — self-improving context memory, 12 agents, 32 skill",
+      "url": "https://github.com/withkynam/vibecode-pro-max-kit",
+      "score": 5.6,
+      "niche": "ai",
+      "source": "github",
+      "engagement": {
+        "score": 144,
+        "comments": 15
       }
     },
     {
       "title": "Bhojendra-dev/LSFG-Desktop — lossless scaling steam desck download github reddit android lsfg 3 frame generation best settings upscaling ai ls1 fsr nis integer scaling windows 11 steam deck decky load",
       "url": "https://github.com/Bhojendra-dev/LSFG-Desktop",
-      "score": 5.39,
+      "score": 5.46,
       "niche": "ai",
       "source": "github",
       "engagement": {
-        "score": 141,
+        "score": 151,
         "comments": 1
       }
     },
     {
       "title": "zhristophe/Claude-Mythos-AI-Anthropic-App — claude mythos ai anthropic app github open source desktop mobile client abhishekk130804 anthropic api key creative writing roleplay character cards deep rea",
       "url": "https://github.com/zhristophe/Claude-Mythos-AI-Anthropic-App",
-      "score": 5.37,
+      "score": 5.45,
       "niche": "ai",
       "source": "github",
       "engagement": {
-        "score": 139,
+        "score": 150,
         "comments": 1
-      }
-    },
-    {
-      "title": "Salesforce First-Quarter Sales, Profit Rise Amid Agentforce Efforts",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQeks0UVVsN1ljWTV0Sm5tcGFzTG9GTElzeUFtNnhCSlVVc1o1QTViVlJ1YWtRQ3dVd0FOUWRjTmdleUtBWm9HR0d1bi1jdHdmZ0VMM25kNGxwMzBvT0V4dWJCSGVNd3FpcS02RnZHOUtzRERPNDhTek5talhBSGZhRHYxZTB6ZFN1RDF5V2NTZVBsVHh0ZzBESDBOcjJHNVlEUkphVnY5NEtGOHNBUDE2ZHpyQQ?oc=5",
-      "score": 5.37,
-      "niche": "ai",
-      "source": "gnews",
-      "engagement": {
-        "score": 40,
-        "comments": 0
       }
     },
     {
       "title": "Investigating how prompt politeness affects LLM accuracy (2025)",
       "url": "https://arxiv.org/abs/2510.04950",
-      "score": 5.05,
+      "score": 5.24,
       "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 65,
-        "comments": 64
+        "score": 80,
+        "comments": 77
       }
     },
     {
-      "title": "Salesforce revenue forecast disappoints amid AI disruption fears",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORkFLb0FRajRJYXgyQlZzREx3djlySjJ2QjRGSmswY2hTZEJpanBVWnVtRFl2WGdQMjJpb0dYWFUxSlV5LVpqcFdQUDVWWkRXVzBaVzhseXAyNkg3bGtORkJVQThyRl9NWWZ5Rk84RTBQWnNrOGk1bk9GSDBfMVBTRkI1RU5CN0QwOWxna3Bad0YxbWV2VVFoZW9pZWJsSy1ERnNLRU53?oc=5",
-      "score": 4.75,
+      "title": "AMD pulls a bait-and-switch on Linux users with Vivado licensing changes",
+      "url": "https://itsfoss.com/news/amd-vivado-bait-and-switch-on-linux-users/",
+      "score": 5.16,
+      "niche": "ai",
+      "source": "hackernews",
+      "engagement": {
+        "score": 30,
+        "comments": 5
+      }
+    },
+    {
+      "title": "Salesforce beats on every metric but the existential AI question lingers",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcUJVVUlsdnJvMzVraGlpTWNiQlBmb082UzlRWlp1eWN5WGZVVktzQ3dvNG1VTGV1YWVkX2ZTRXVjV1EzR0VnanhWTHhNOFBQaXNvWFpRQktpTTFUV2Z0YmRERkVIUjhKWHJxdE11bUFaczFGWEVQMDh3OWV4VGE4NzNBUFhTWkxGZFFzbzlwNnpUSXREZklMMGVnTGxUQ2NKNWROaFRrOHNCQQ?oc=5",
+      "score": 5.16,
       "niche": "ai",
       "source": "gnews",
       "engagement": {
@@ -280,9 +280,70 @@
   ],
   "topics": [
     {
+      "keyword": "open source",
+      "count": 14,
+      "score": 122.46668993096561,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "IBM and Red Hat Commit $5 Billion to Redefine the Future of Open Source in the AI Era",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWWt0OS15bUhvZjZXbVdBYkE4MHI4R3ptWldmOV9SNzNCUXhhUm9iU3V2OVc0eUl0em0wRm0xblpoUXFlR185Wk5SSy04a2JicUlrMWdQeXJzQ0xDRVh4N0hBS0ZFcFVSYmNUVFJRUTVRVXhTYjFRS3cxODdlNGpMOFVDbnVJOUoyNS15RUZOMTlmUm9USEtHQ2kyUWFLUVlNaE5WTzliazF1TTJlNHVqNVVZMkFLR3JBckJ3eA?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "IBM and Red Hat Commit $5 Billion to Redefine the Future of Open Source in the AI Era",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWWt0OS15bUhvZjZXbVdBYkE4MHI4R3ptWldmOV9SNzNCUXhhUm9iU3V2OVc0eUl0em0wRm0xblpoUXFlR185Wk5SSy04a2JicUlrMWdQeXJzQ0xDRVh4N0hBS0ZFcFVSYmNUVFJRUTVRVXhTYjFRS3cxODdlNGpMOFVDbnVJOUoyNS15RUZOMTlmUm9USEtHQ2kyUWFLUVlNaE5WTzliazF1TTJlNHVqNVVZMkFLR3JBckJ3eA?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "IBM and Red Hat Commit $5 Billion to Redefine the Future of Open Source in the AI Era",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWWt0OS15bUhvZjZXbVdBYkE4MHI4R3ptWldmOV9SNzNCUXhhUm9iU3V2OVc0eUl0em0wRm0xblpoUXFlR185Wk5SSy04a2JicUlrMWdQeXJzQ0xDRVh4N0hBS0ZFcFVSYmNUVFJRUTVRVXhTYjFRS3cxODdlNGpMOFVDbnVJOUoyNS15RUZOMTlmUm9USEtHQ2kyUWFLUVlNaE5WTzliazF1TTJlNHVqNVVZMkFLR3JBckJ3eA?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "zhristophe/Claude-Mythos-AI-Anthropic-App — claude mythos ai anthropic app github open source desktop mobile client abhishekk130804 anthropic api key creative writing roleplay character cards deep rea",
+          "url": "https://github.com/zhristophe/Claude-Mythos-AI-Anthropic-App",
+          "source": "github"
+        }
+      ],
+      "id": "1ae64990e804",
+      "slug": "open-source"
+    },
+    {
+      "keyword": "steam deck",
+      "count": 11,
+      "score": 110.2194713173609,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "Valve massively raised the prices for the Steam Deck:1TB OLED $649 -> $949512GB OLED $549 -> $789The items are out of stock nonetheless.Get used to the pattern: The unavailable hardware will become un",
+          "url": "https://infosec.exchange/@masek/116651124103630936",
+          "source": "mastodon"
+        },
+        {
+          "title": "Valve massively raised the prices for the Steam Deck:1TB OLED $649 -> $949512GB OLED $549 -> $789The items are out of stock nonetheless.Get used to the pattern: The unavailable hardware will become un",
+          "url": "https://infosec.exchange/@masek/116651124103630936",
+          "source": "mastodon"
+        },
+        {
+          "title": "Bhojendra-dev/LSFG-Desktop — lossless scaling steam desck download github reddit android lsfg 3 frame generation best settings upscaling ai ls1 fsr nis integer scaling windows 11 steam deck decky load",
+          "url": "https://github.com/Bhojendra-dev/LSFG-Desktop",
+          "source": "github"
+        }
+      ],
+      "id": "ec712b2804d1",
+      "slug": "steam-deck"
+    },
+    {
       "keyword": "claude code",
-      "count": 19,
-      "score": 154.57541885107162,
+      "count": 8,
+      "score": 84.30468044152863,
       "proper": true,
       "niches": [
         "ai"
@@ -297,158 +358,38 @@
           "title": "op7418/guizang-social-card-skill — 🪧 Claude Code / Codex skill — generate Xiaohongshu carousels & WeChat 21:9+1:1 cover pairs. Editorial × Swiss visual systems, 28 layouts, 10 themes, single-file HTM",
           "url": "https://github.com/op7418/guizang-social-card-skill",
           "source": "github"
-        },
-        {
-          "title": "Claude Code is the best AI coding tool I've used, and I’m not entirely sure if I can recommend it",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMnJUQnpneEtHMEJFZzZ0V0djN24zOVQyM3hpT09WYm5sUXBRVEo0QkFCZG50Q3RMMUtuczFwYk9aMEYxSFpBMVkxNDhrRmpOTUNJWE9teEVsR3JDYW9YMktENFYxQlBjTC1lM2hfYTJ3WkI4c0tyMTh3X0UzSWUwVUFMRlQtSjhIcnRuTTVYUW9OeXFVbUtHYmt3?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Claude Code is the best AI coding tool I've used, and I’m not entirely sure if I can recommend it",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMnJUQnpneEtHMEJFZzZ0V0djN24zOVQyM3hpT09WYm5sUXBRVEo0QkFCZG50Q3RMMUtuczFwYk9aMEYxSFpBMVkxNDhrRmpOTUNJWE9teEVsR3JDYW9YMktENFYxQlBjTC1lM2hfYTJ3WkI4c0tyMTh3X0UzSWUwVUFMRlQtSjhIcnRuTTVYUW9OeXFVbUtHYmt3?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Claude Code is the best AI coding tool I've used, and I’m not entirely sure if I can recommend it",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMnJUQnpneEtHMEJFZzZ0V0djN24zOVQyM3hpT09WYm5sUXBRVEo0QkFCZG50Q3RMMUtuczFwYk9aMEYxSFpBMVkxNDhrRmpOTUNJWE9teEVsR3JDYW9YMktENFYxQlBjTC1lM2hfYTJ3WkI4c0tyMTh3X0UzSWUwVUFMRlQtSjhIcnRuTTVYUW9OeXFVbUtHYmt3?oc=5",
-          "source": "gnews"
         }
       ],
       "id": "a625159d18da",
       "slug": "claude-code"
     },
     {
-      "keyword": "passive income",
-      "count": 50,
-      "score": 129.41622779861842,
-      "proper": true,
-      "niches": [
-        "ai",
-        "finance"
-      ],
-      "examples": [
-        {
-          "title": "5 Strong Buy Passive Income Giants Have Raised Their Dividends by Double Digits for Years",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPYXVpZFpKTGhLS0ZuWDQtemx4TTZ4dnVZZTQwUjUwa3BoWXNGZlNsampXbUhqNjVMbkw3eUVQU0E4NF9rbm54RlZXdXZSTmVSN1ozdlM0d2JjUG9WVmU1a0hWczJCeFROeERzeF9ocmZVZUpKMHd0ZFFTSG1MMjgtVnhtRXNQV0MyV21WS3M5bmJicGF4d1JJWThDNnJiMkl3eTBMQnFWMUM0cVg0YVFHSnNNMXlBT3BZdldueVNESVJMWmp2bmJ3ZjJtSmI?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "5 Strong Buy Passive Income Giants Have Raised Their Dividends by Double Digits for Years",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPYXVpZFpKTGhLS0ZuWDQtemx4TTZ4dnVZZTQwUjUwa3BoWXNGZlNsampXbUhqNjVMbkw3eUVQU0E4NF9rbm54RlZXdXZSTmVSN1ozdlM0d2JjUG9WVmU1a0hWczJCeFROeERzeF9ocmZVZUpKMHd0ZFFTSG1MMjgtVnhtRXNQV0MyV21WS3M5bmJicGF4d1JJWThDNnJiMkl3eTBMQnFWMUM0cVg0YVFHSnNNMXlBT3BZdldueVNESVJMWmp2bmJ3ZjJtSmI?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "How much does someone need to put in the stock market to stop working and live off passive income?",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQdkd2UDdXWUliUWZGUl9RclI3Z3plejNKNHIzTTNxMkRDSGNIRGtCVzZFYi1LbF9ER0VsNmgza2J1bFJmem1XVFVMc3M3c2RXak43ZEdhclpUZjZvR3RkNHJscmhYSnNJVWpMMFdQS2xBNUx0NjVoQWtrZXRiTGpFdGdYa19hbG5oZWVDeEVBV2h3c1NrdUlraEoyWXIyTWhKcXVydmVYdS1hSFpNNERPSjFCdVA0bHQ5VV91aDhoOWIyQjJIZF9yOFhwcnhuaWcwRTlPRjhn?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "How many HSBC shares are needed to target a £1,000 monthly passive income?",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNTzkwSDZDamg5RXlVelY1TW44d0J0eFF4cXZLbUdpbTc4M0hsb3N1dnl6UXlTTGJwLXB0Z01lX29jQ3MzUm1abWE1VHhvMWZLXzBwT1J1SVdCNWItcFB5bXpqTmpvWG5NRG1DODJWRkxGUTRRd29FbW9USkVlVERUM0N6aHhTUQ?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "How many HSBC shares are needed to target a £1,000 monthly passive income?",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNTzkwSDZDamg5RXlVelY1TW44d0J0eFF4cXZLbUdpbTc4M0hsb3N1dnl6UXlTTGJwLXB0Z01lX29jQ3MzUm1abWE1VHhvMWZLXzBwT1J1SVdCNWItcFB5bXpqTmpvWG5NRG1DODJWRkxGUTRRd29FbW9USkVlVERUM0N6aHhTUQ?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "cf2dbbbf8c8c",
-      "slug": "passive-income"
-    },
-    {
-      "keyword": "gemini",
-      "count": 14,
-      "score": 127.0546600246222,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "Gemini, Gophers, and Fingers. Oh My Alternative Internets Beyond HTTPS",
-          "url": "https://brennan.day/gemini-gophers-and-fingers-oh-my-alternative-internets-beyond-https/",
-          "source": "hackernews"
-        },
-        {
-          "title": "Gemini, Gophers, and Fingers. Oh My Alternative Internets Beyond HTTPS",
-          "url": "https://brennan.day/gemini-gophers-and-fingers-oh-my-alternative-internets-beyond-https/",
-          "source": "hackernews"
-        },
-        {
-          "title": "I barely open some of my favorite apps anymore after using Gemini this way",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNM21hRW5DT1VqQmVMMjk2c1doQ1dPVEVOd25JeTdmWURULXh3OTJtM0ZlcFlNQ1V5YlFjWnhGR0x1c2E4STd4Mjl6SG9BSVlGejZKdWlKMFRJS0lvSURMbmhoc0MxQklValZqUHRGS1UwWHlkOE8yVzR6MF9fOVBEZndQN1pkUmRoLWV1cnprMU8ybHlQOUt3?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "I barely open some of my favorite apps anymore after using Gemini this way",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNM21hRW5DT1VqQmVMMjk2c1doQ1dPVEVOd25JeTdmWURULXh3OTJtM0ZlcFlNQ1V5YlFjWnhGR0x1c2E4STd4Mjl6SG9BSVlGejZKdWlKMFRJS0lvSURMbmhoc0MxQklValZqUHRGS1UwWHlkOE8yVzR6MF9fOVBEZndQN1pkUmRoLWV1cnprMU8ybHlQOUt3?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "I barely open some of my favorite apps anymore after using Gemini this way",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNM21hRW5DT1VqQmVMMjk2c1doQ1dPVEVOd25JeTdmWURULXh3OTJtM0ZlcFlNQ1V5YlFjWnhGR0x1c2E4STd4Mjl6SG9BSVlGejZKdWlKMFRJS0lvSURMbmhoc0MxQklValZqUHRGS1UwWHlkOE8yVzR6MF9fOVBEZndQN1pkUmRoLWV1cnprMU8ybHlQOUt3?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "5d72436256ad",
-      "slug": "gemini"
-    },
-    {
-      "keyword": "boost sales",
-      "count": 11,
-      "score": 108.99838417254662,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "Best AI Tools for eCommerce 2026: Boost Sales, Emails, and Pricing",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE56cTZNNkg4aXpPQkdReU5abjU3dk5tb1BjcFhlelZrWmExWjlvOFBlLWpWaDVkTjNCTnpuQkwxc1pRTjR2VHVnT0UzQl9ndVBUeURiaVdSZ29Za0Nxak9GWUFTQlM5dGYxR2tr?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Best AI Tools for eCommerce 2026: Boost Sales, Emails, and Pricing",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE56cTZNNkg4aXpPQkdReU5abjU3dk5tb1BjcFhlelZrWmExWjlvOFBlLWpWaDVkTjNCTnpuQkwxc1pRTjR2VHVnT0UzQl9ndVBUeURiaVdSZ29Za0Nxak9GWUFTQlM5dGYxR2tr?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Best AI Tools for eCommerce 2026: Boost Sales, Emails, and Pricing",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE56cTZNNkg4aXpPQkdReU5abjU3dk5tb1BjcFhlelZrWmExWjlvOFBlLWpWaDVkTjNCTnpuQkwxc1pRTjR2VHVnT0UzQl9ndVBUeURiaVdSZ29Za0Nxak9GWUFTQlM5dGYxR2tr?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "c2f5b8bf738e",
-      "slug": "boost-sales"
-    },
-    {
-      "keyword": "white house",
+      "keyword": "tomas sanchez",
       "count": 8,
-      "score": 105.89303078295717,
+      "score": 83.45035270703133,
       "proper": true,
       "niches": [
         "ai"
       ],
       "examples": [
         {
-          "title": "Beyond friggen pitiful and has to be among the absolute worst things to happen to the main portion of the White House since the British burned it during the War of 1812.#USpol “That is one helluva bef",
-          "url": "https://mastodon.world/@BrianJopek/116649816830581006",
+          "title": "Light: outside inside, Tomas Sanchez , Acrylic on linen, 2021 #Art #Painting",
+          "url": "https://mastodon.social/@cmconseils/116651150658821237",
           "source": "mastodon"
         },
         {
-          "title": "Beyond friggen pitiful and has to be among the absolute worst things to happen to the main portion of the White House since the British burned it during the War of 1812.#USpol “That is one helluva bef",
-          "url": "https://mastodon.world/@BrianJopek/116649816830581006",
+          "title": "Light: outside inside, Tomas Sanchez , Acrylic on linen, 2021 #Art #Painting",
+          "url": "https://mastodon.social/@cmconseils/116651150658821237",
           "source": "mastodon"
         }
       ],
-      "id": "c75bae7088ed",
-      "slug": "white-house"
+      "id": "f6e046aeab0f",
+      "slug": "tomas-sanchez"
     },
     {
       "keyword": "google",
       "count": 10,
-      "score": 76.39571254641362,
+      "score": 78.15320698118947,
       "proper": true,
       "niches": [
         "ai",
@@ -470,134 +411,45 @@
       "slug": "google"
     },
     {
-      "keyword": "arthur rackham",
-      "count": 8,
-      "score": 75.94458644309177,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "the misled and lonely travailer.Arthur Rackham, from \"Comus\" by John Milton, London, New York: [1921?] #illustration #art  https://www.oldbookillustrations.com/illustrations/lonely-traveler/",
-          "url": "https://mastodon.social/@oldbookillustrations/116650373827986153",
-          "source": "mastodon"
-        },
-        {
-          "title": "the misled and lonely travailer.Arthur Rackham, from \"Comus\" by John Milton, London, New York: [1921?] #illustration #art  https://www.oldbookillustrations.com/illustrations/lonely-traveler/",
-          "url": "https://mastodon.social/@oldbookillustrations/116650373827986153",
-          "source": "mastodon"
-        }
-      ],
-      "id": "1c6cc22e8bed",
-      "slug": "arthur-rackham"
-    },
-    {
-      "keyword": "john milton",
-      "count": 8,
-      "score": 75.94458644309177,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "the misled and lonely travailer.Arthur Rackham, from \"Comus\" by John Milton, London, New York: [1921?] #illustration #art  https://www.oldbookillustrations.com/illustrations/lonely-traveler/",
-          "url": "https://mastodon.social/@oldbookillustrations/116650373827986153",
-          "source": "mastodon"
-        },
-        {
-          "title": "the misled and lonely travailer.Arthur Rackham, from \"Comus\" by John Milton, London, New York: [1921?] #illustration #art  https://www.oldbookillustrations.com/illustrations/lonely-traveler/",
-          "url": "https://mastodon.social/@oldbookillustrations/116650373827986153",
-          "source": "mastodon"
-        }
-      ],
-      "id": "f3686fb04d0c",
-      "slug": "john-milton"
-    },
-    {
-      "keyword": "rude. don",
+      "keyword": "temu",
       "count": 5,
-      "score": 75.04139241454082,
+      "score": 77.70826464164696,
       "proper": true,
       "niches": [
         "ai"
       ],
       "examples": [
         {
-          "title": "Pasting a huge AI generated explanation to a problem in an issue or pull-request is nothing but RUDE. Don't do it. You look stupid and the receivers of that feel insulted.We are humans. We communicate",
-          "url": "https://mastodon.social/@bagder/116648467657760137",
+          "title": "Today, we have imposed a €200 million fine on Temu under the Digital Services Act, for failing to identify, analyse, and assess the systemic risks of illegal products being offered on its platform. Th",
+          "url": "https://ec.social-network.europa.eu/@EUCommission/116651733534611734",
           "source": "mastodon"
         }
       ],
-      "id": "66cacbc954ef",
-      "slug": "rude-don"
+      "id": "5849f0dbde1a",
+      "slug": "temu"
     },
     {
-      "keyword": "claude",
-      "count": 9,
-      "score": 71.88029859064345,
+      "keyword": "digital services act",
+      "count": 5,
+      "score": 77.70826464164696,
       "proper": true,
       "niches": [
         "ai"
       ],
       "examples": [
         {
-          "title": "op7418/guizang-social-card-skill — 🪧 Claude Code / Codex skill — generate Xiaohongshu carousels & WeChat 21:9+1:1 cover pairs. Editorial × Swiss visual systems, 28 layouts, 10 themes, single-file HTM",
-          "url": "https://github.com/op7418/guizang-social-card-skill",
-          "source": "github"
-        },
-        {
-          "title": "zhristophe/Claude-Mythos-AI-Anthropic-App — claude mythos ai anthropic app github open source desktop mobile client abhishekk130804 anthropic api key creative writing roleplay character cards deep rea",
-          "url": "https://github.com/zhristophe/Claude-Mythos-AI-Anthropic-App",
-          "source": "github"
-        },
-        {
-          "title": "zhristophe/Claude-Mythos-AI-Anthropic-App — claude mythos ai anthropic app github open source desktop mobile client abhishekk130804 anthropic api key creative writing roleplay character cards deep rea",
-          "url": "https://github.com/zhristophe/Claude-Mythos-AI-Anthropic-App",
-          "source": "github"
-        },
-        {
-          "title": "Claude Code is the best AI coding tool I've used, and I’m not entirely sure if I can recommend it",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMnJUQnpneEtHMEJFZzZ0V0djN24zOVQyM3hpT09WYm5sUXBRVEo0QkFCZG50Q3RMMUtuczFwYk9aMEYxSFpBMVkxNDhrRmpOTUNJWE9teEVsR3JDYW9YMktENFYxQlBjTC1lM2hfYTJ3WkI4c0tyMTh3X0UzSWUwVUFMRlQtSjhIcnRuTTVYUW9OeXFVbUtHYmt3?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Claude Code is the best AI coding tool I've used, and I’m not entirely sure if I can recommend it",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMnJUQnpneEtHMEJFZzZ0V0djN24zOVQyM3hpT09WYm5sUXBRVEo0QkFCZG50Q3RMMUtuczFwYk9aMEYxSFpBMVkxNDhrRmpOTUNJWE9teEVsR3JDYW9YMktENFYxQlBjTC1lM2hfYTJ3WkI4c0tyMTh3X0UzSWUwVUFMRlQtSjhIcnRuTTVYUW9OeXFVbUtHYmt3?oc=5",
-          "source": "gnews"
+          "title": "Today, we have imposed a €200 million fine on Temu under the Digital Services Act, for failing to identify, analyse, and assess the systemic risks of illegal products being offered on its platform. Th",
+          "url": "https://ec.social-network.europa.eu/@EUCommission/116651733534611734",
+          "source": "mastodon"
         }
       ],
-      "id": "c857d09db23e",
-      "slug": "claude"
-    },
-    {
-      "keyword": "anthropic",
-      "count": 10,
-      "score": 70.48215160464427,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "zhristophe/Claude-Mythos-AI-Anthropic-App — claude mythos ai anthropic app github open source desktop mobile client abhishekk130804 anthropic api key creative writing roleplay character cards deep rea",
-          "url": "https://github.com/zhristophe/Claude-Mythos-AI-Anthropic-App",
-          "source": "github"
-        },
-        {
-          "title": "Anthropic’s expansion of legal AI tools is good for lawyers, experts say",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxON29yWkx6TnprRmNac3lObVViVmxxRnMxYk00MjJFOFFLdDBJOWtDY1R6ckxWa0tFTWgxY0ZvVzJGR2x5T09rX0hOVE1xM1ZUbVdSMHBnUVpsSmI3X2JucUFIUUdoUlplaEFCbXdjTHhpblYyM09jNkZtNlh4SzZtamM2em5LX19SdElfWU1EMUxITUljZUdHLWRUbjRWVTd6U0JVWVItaG83N2VyYTdzWHJYb0N5QVRrSXc?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "c70eca6b0f88",
-      "slug": "anthropic"
+      "id": "cfcc5e5e9e8f",
+      "slug": "digital-services-act"
     },
     {
       "keyword": "jailbroken kindle",
       "count": 8,
-      "score": 69.7194376463744,
+      "score": 72.01973064760661,
       "proper": true,
       "niches": [
         "ai"
@@ -620,15 +472,15 @@
     {
       "keyword": "salesforce",
       "count": 10,
-      "score": 66.57571760539068,
+      "score": 69.67226261029258,
       "proper": true,
       "niches": [
         "ai"
       ],
       "examples": [
         {
-          "title": "Salesforce revenue forecast disappoints amid AI disruption fears",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORkFLb0FRajRJYXgyQlZzREx3djlySjJ2QjRGSmswY2hTZEJpanBVWnVtRFl2WGdQMjJpb0dYWFUxSlV5LVpqcFdQUDVWWkRXVzBaVzhseXAyNkg3bGtORkJVQThyRl9NWWZ5Rk84RTBQWnNrOGk1bk9GSDBfMVBTRkI1RU5CN0QwOWxna3Bad0YxbWV2VVFoZW9pZWJsSy1ERnNLRU53?oc=5",
+          "title": "Salesforce beats on every metric but the existential AI question lingers",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcUJVVUlsdnJvMzVraGlpTWNiQlBmb082UzlRWlp1eWN5WGZVVktzQ3dvNG1VTGV1YWVkX2ZTRXVjV1EzR0VnanhWTHhNOFBQaXNvWFpRQktpTTFUV2Z0YmRERkVIUjhKWHJxdE11bUFaczFGWEVQMDh3OWV4VGE4NzNBUFhTWkxGZFFzbzlwNnpUSXREZklMMGVnTGxUQ2NKNWROaFRrOHNCQQ?oc=5",
           "source": "gnews"
         },
         {
@@ -641,47 +493,194 @@
       "slug": "salesforce"
     },
     {
-      "keyword": "beyond",
-      "count": 5,
-      "score": 66.18314423934822,
+      "keyword": "swiss",
+      "count": 10,
+      "score": 64.1413353892273,
       "proper": true,
       "niches": [
-        "ai"
+        "ai",
+        "general"
       ],
       "examples": [
         {
-          "title": "Beyond friggen pitiful and has to be among the absolute worst things to happen to the main portion of the White House since the British burned it during the War of 1812.#USpol “That is one helluva bef",
-          "url": "https://mastodon.world/@BrianJopek/116649816830581006",
-          "source": "mastodon"
+          "title": "op7418/guizang-social-card-skill — 🪧 Claude Code / Codex skill — generate Xiaohongshu carousels & WeChat 21:9+1:1 cover pairs. Editorial × Swiss visual systems, 28 layouts, 10 themes, single-file HTM",
+          "url": "https://github.com/op7418/guizang-social-card-skill",
+          "source": "github"
+        },
+        {
+          "title": "Biff is a command line datetime Swiss army knife",
+          "url": "https://github.com/BurntSushi/biff",
+          "source": "hackernews"
         }
       ],
-      "id": "5e8818d1dd19",
-      "slug": "beyond"
+      "id": "898fa2c62735",
+      "slug": "swiss"
     },
     {
-      "keyword": "british",
+      "keyword": "instagram",
       "count": 5,
-      "score": 66.18314423934822,
+      "score": 63.745792620954816,
       "proper": true,
       "niches": [
         "ai"
       ],
       "examples": [
         {
-          "title": "Beyond friggen pitiful and has to be among the absolute worst things to happen to the main portion of the White House since the British burned it during the War of 1812.#USpol “That is one helluva bef",
-          "url": "https://mastodon.world/@BrianJopek/116649816830581006",
+          "title": "Found this on Instagram, it's from Threads.kyamawebb wrote,\"Teenagers have started calling AI art \"boomer art\" and consider it cringe, and YouTubers have stopped using AI-generated thumbnails because ",
+          "url": "https://mastodon.social/@amalia12/116651284250866500",
           "source": "mastodon"
         }
       ],
-      "id": "17684a3307c6",
-      "slug": "british"
+      "id": "5ede56738376",
+      "slug": "instagram"
+    },
+    {
+      "keyword": "threads.kyamawebb",
+      "count": 5,
+      "score": 63.745792620954816,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "Found this on Instagram, it's from Threads.kyamawebb wrote,\"Teenagers have started calling AI art \"boomer art\" and consider it cringe, and YouTubers have stopped using AI-generated thumbnails because ",
+          "url": "https://mastodon.social/@amalia12/116651284250866500",
+          "source": "mastodon"
+        }
+      ],
+      "id": "106502aefd50",
+      "slug": "threadskyamawebb"
+    },
+    {
+      "keyword": "teenagers",
+      "count": 5,
+      "score": 63.745792620954816,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "Found this on Instagram, it's from Threads.kyamawebb wrote,\"Teenagers have started calling AI art \"boomer art\" and consider it cringe, and YouTubers have stopped using AI-generated thumbnails because ",
+          "url": "https://mastodon.social/@amalia12/116651284250866500",
+          "source": "mastodon"
+        }
+      ],
+      "id": "76d6a925b599",
+      "slug": "teenagers"
+    },
+    {
+      "keyword": "youtubers",
+      "count": 5,
+      "score": 63.745792620954816,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "Found this on Instagram, it's from Threads.kyamawebb wrote,\"Teenagers have started calling AI art \"boomer art\" and consider it cringe, and YouTubers have stopped using AI-generated thumbnails because ",
+          "url": "https://mastodon.social/@amalia12/116651284250866500",
+          "source": "mastodon"
+        }
+      ],
+      "id": "64827040a46c",
+      "slug": "youtubers"
+    },
+    {
+      "keyword": "youtube",
+      "count": 5,
+      "score": 63.70280619516422,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "YouTube to automatically label AI-generated videos",
+          "url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
+          "source": "hackernews"
+        }
+      ],
+      "id": "24e6654bfd1a",
+      "slug": "youtube"
     }
   ],
   "opportunities": [
     {
+      "keyword": "open source",
+      "count": 14,
+      "score": 122.46668993096561,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "IBM and Red Hat Commit $5 Billion to Redefine the Future of Open Source in the AI Era",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWWt0OS15bUhvZjZXbVdBYkE4MHI4R3ptWldmOV9SNzNCUXhhUm9iU3V2OVc0eUl0em0wRm0xblpoUXFlR185Wk5SSy04a2JicUlrMWdQeXJzQ0xDRVh4N0hBS0ZFcFVSYmNUVFJRUTVRVXhTYjFRS3cxODdlNGpMOFVDbnVJOUoyNS15RUZOMTlmUm9USEtHQ2kyUWFLUVlNaE5WTzliazF1TTJlNHVqNVVZMkFLR3JBckJ3eA?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "IBM and Red Hat Commit $5 Billion to Redefine the Future of Open Source in the AI Era",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWWt0OS15bUhvZjZXbVdBYkE4MHI4R3ptWldmOV9SNzNCUXhhUm9iU3V2OVc0eUl0em0wRm0xblpoUXFlR185Wk5SSy04a2JicUlrMWdQeXJzQ0xDRVh4N0hBS0ZFcFVSYmNUVFJRUTVRVXhTYjFRS3cxODdlNGpMOFVDbnVJOUoyNS15RUZOMTlmUm9USEtHQ2kyUWFLUVlNaE5WTzliazF1TTJlNHVqNVVZMkFLR3JBckJ3eA?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "IBM and Red Hat Commit $5 Billion to Redefine the Future of Open Source in the AI Era",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWWt0OS15bUhvZjZXbVdBYkE4MHI4R3ptWldmOV9SNzNCUXhhUm9iU3V2OVc0eUl0em0wRm0xblpoUXFlR185Wk5SSy04a2JicUlrMWdQeXJzQ0xDRVh4N0hBS0ZFcFVSYmNUVFJRUTVRVXhTYjFRS3cxODdlNGpMOFVDbnVJOUoyNS15RUZOMTlmUm9USEtHQ2kyUWFLUVlNaE5WTzliazF1TTJlNHVqNVVZMkFLR3JBckJ3eA?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "zhristophe/Claude-Mythos-AI-Anthropic-App — claude mythos ai anthropic app github open source desktop mobile client abhishekk130804 anthropic api key creative writing roleplay character cards deep rea",
+          "url": "https://github.com/zhristophe/Claude-Mythos-AI-Anthropic-App",
+          "source": "github"
+        }
+      ],
+      "id": "1ae64990e804",
+      "slug": "open-source",
+      "opportunity": {
+        "type": "niche-content",
+        "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
+      }
+    },
+    {
+      "keyword": "steam deck",
+      "count": 11,
+      "score": 110.2194713173609,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "Valve massively raised the prices for the Steam Deck:1TB OLED $649 -> $949512GB OLED $549 -> $789The items are out of stock nonetheless.Get used to the pattern: The unavailable hardware will become un",
+          "url": "https://infosec.exchange/@masek/116651124103630936",
+          "source": "mastodon"
+        },
+        {
+          "title": "Valve massively raised the prices for the Steam Deck:1TB OLED $649 -> $949512GB OLED $549 -> $789The items are out of stock nonetheless.Get used to the pattern: The unavailable hardware will become un",
+          "url": "https://infosec.exchange/@masek/116651124103630936",
+          "source": "mastodon"
+        },
+        {
+          "title": "Bhojendra-dev/LSFG-Desktop — lossless scaling steam desck download github reddit android lsfg 3 frame generation best settings upscaling ai ls1 fsr nis integer scaling windows 11 steam deck decky load",
+          "url": "https://github.com/Bhojendra-dev/LSFG-Desktop",
+          "source": "github"
+        }
+      ],
+      "id": "ec712b2804d1",
+      "slug": "steam-deck",
+      "opportunity": {
+        "type": "niche-content",
+        "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
+      }
+    },
+    {
       "keyword": "claude code",
-      "count": 19,
-      "score": 154.57541885107162,
+      "count": 8,
+      "score": 84.30468044152863,
       "proper": true,
       "niches": [
         "ai"
@@ -696,21 +695,6 @@
           "title": "op7418/guizang-social-card-skill — 🪧 Claude Code / Codex skill — generate Xiaohongshu carousels & WeChat 21:9+1:1 cover pairs. Editorial × Swiss visual systems, 28 layouts, 10 themes, single-file HTM",
           "url": "https://github.com/op7418/guizang-social-card-skill",
           "source": "github"
-        },
-        {
-          "title": "Claude Code is the best AI coding tool I've used, and I’m not entirely sure if I can recommend it",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMnJUQnpneEtHMEJFZzZ0V0djN24zOVQyM3hpT09WYm5sUXBRVEo0QkFCZG50Q3RMMUtuczFwYk9aMEYxSFpBMVkxNDhrRmpOTUNJWE9teEVsR3JDYW9YMktENFYxQlBjTC1lM2hfYTJ3WkI4c0tyMTh3X0UzSWUwVUFMRlQtSjhIcnRuTTVYUW9OeXFVbUtHYmt3?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Claude Code is the best AI coding tool I've used, and I’m not entirely sure if I can recommend it",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMnJUQnpneEtHMEJFZzZ0V0djN24zOVQyM3hpT09WYm5sUXBRVEo0QkFCZG50Q3RMMUtuczFwYk9aMEYxSFpBMVkxNDhrRmpOTUNJWE9teEVsR3JDYW9YMktENFYxQlBjTC1lM2hfYTJ3WkI4c0tyMTh3X0UzSWUwVUFMRlQtSjhIcnRuTTVYUW9OeXFVbUtHYmt3?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Claude Code is the best AI coding tool I've used, and I’m not entirely sure if I can recommend it",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMnJUQnpneEtHMEJFZzZ0V0djN24zOVQyM3hpT09WYm5sUXBRVEo0QkFCZG50Q3RMMUtuczFwYk9aMEYxSFpBMVkxNDhrRmpOTUNJWE9teEVsR3JDYW9YMktENFYxQlBjTC1lM2hfYTJ3WkI4c0tyMTh3X0UzSWUwVUFMRlQtSjhIcnRuTTVYUW9OeXFVbUtHYmt3?oc=5",
-          "source": "gnews"
         }
       ],
       "id": "a625159d18da",
@@ -721,144 +705,27 @@
       }
     },
     {
-      "keyword": "passive income",
-      "count": 50,
-      "score": 129.41622779861842,
-      "proper": true,
-      "niches": [
-        "ai",
-        "finance"
-      ],
-      "examples": [
-        {
-          "title": "5 Strong Buy Passive Income Giants Have Raised Their Dividends by Double Digits for Years",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPYXVpZFpKTGhLS0ZuWDQtemx4TTZ4dnVZZTQwUjUwa3BoWXNGZlNsampXbUhqNjVMbkw3eUVQU0E4NF9rbm54RlZXdXZSTmVSN1ozdlM0d2JjUG9WVmU1a0hWczJCeFROeERzeF9ocmZVZUpKMHd0ZFFTSG1MMjgtVnhtRXNQV0MyV21WS3M5bmJicGF4d1JJWThDNnJiMkl3eTBMQnFWMUM0cVg0YVFHSnNNMXlBT3BZdldueVNESVJMWmp2bmJ3ZjJtSmI?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "5 Strong Buy Passive Income Giants Have Raised Their Dividends by Double Digits for Years",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPYXVpZFpKTGhLS0ZuWDQtemx4TTZ4dnVZZTQwUjUwa3BoWXNGZlNsampXbUhqNjVMbkw3eUVQU0E4NF9rbm54RlZXdXZSTmVSN1ozdlM0d2JjUG9WVmU1a0hWczJCeFROeERzeF9ocmZVZUpKMHd0ZFFTSG1MMjgtVnhtRXNQV0MyV21WS3M5bmJicGF4d1JJWThDNnJiMkl3eTBMQnFWMUM0cVg0YVFHSnNNMXlBT3BZdldueVNESVJMWmp2bmJ3ZjJtSmI?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "How much does someone need to put in the stock market to stop working and live off passive income?",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQdkd2UDdXWUliUWZGUl9RclI3Z3plejNKNHIzTTNxMkRDSGNIRGtCVzZFYi1LbF9ER0VsNmgza2J1bFJmem1XVFVMc3M3c2RXak43ZEdhclpUZjZvR3RkNHJscmhYSnNJVWpMMFdQS2xBNUx0NjVoQWtrZXRiTGpFdGdYa19hbG5oZWVDeEVBV2h3c1NrdUlraEoyWXIyTWhKcXVydmVYdS1hSFpNNERPSjFCdVA0bHQ5VV91aDhoOWIyQjJIZF9yOFhwcnhuaWcwRTlPRjhn?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "How many HSBC shares are needed to target a £1,000 monthly passive income?",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNTzkwSDZDamg5RXlVelY1TW44d0J0eFF4cXZLbUdpbTc4M0hsb3N1dnl6UXlTTGJwLXB0Z01lX29jQ3MzUm1abWE1VHhvMWZLXzBwT1J1SVdCNWItcFB5bXpqTmpvWG5NRG1DODJWRkxGUTRRd29FbW9USkVlVERUM0N6aHhTUQ?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "How many HSBC shares are needed to target a £1,000 monthly passive income?",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNTzkwSDZDamg5RXlVelY1TW44d0J0eFF4cXZLbUdpbTc4M0hsb3N1dnl6UXlTTGJwLXB0Z01lX29jQ3MzUm1abWE1VHhvMWZLXzBwT1J1SVdCNWItcFB5bXpqTmpvWG5NRG1DODJWRkxGUTRRd29FbW9USkVlVERUM0N6aHhTUQ?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "cf2dbbbf8c8c",
-      "slug": "passive-income",
-      "opportunity": {
-        "type": "niche-content",
-        "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
-      }
-    },
-    {
-      "keyword": "gemini",
-      "count": 14,
-      "score": 127.0546600246222,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "Gemini, Gophers, and Fingers. Oh My Alternative Internets Beyond HTTPS",
-          "url": "https://brennan.day/gemini-gophers-and-fingers-oh-my-alternative-internets-beyond-https/",
-          "source": "hackernews"
-        },
-        {
-          "title": "Gemini, Gophers, and Fingers. Oh My Alternative Internets Beyond HTTPS",
-          "url": "https://brennan.day/gemini-gophers-and-fingers-oh-my-alternative-internets-beyond-https/",
-          "source": "hackernews"
-        },
-        {
-          "title": "I barely open some of my favorite apps anymore after using Gemini this way",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNM21hRW5DT1VqQmVMMjk2c1doQ1dPVEVOd25JeTdmWURULXh3OTJtM0ZlcFlNQ1V5YlFjWnhGR0x1c2E4STd4Mjl6SG9BSVlGejZKdWlKMFRJS0lvSURMbmhoc0MxQklValZqUHRGS1UwWHlkOE8yVzR6MF9fOVBEZndQN1pkUmRoLWV1cnprMU8ybHlQOUt3?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "I barely open some of my favorite apps anymore after using Gemini this way",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNM21hRW5DT1VqQmVMMjk2c1doQ1dPVEVOd25JeTdmWURULXh3OTJtM0ZlcFlNQ1V5YlFjWnhGR0x1c2E4STd4Mjl6SG9BSVlGejZKdWlKMFRJS0lvSURMbmhoc0MxQklValZqUHRGS1UwWHlkOE8yVzR6MF9fOVBEZndQN1pkUmRoLWV1cnprMU8ybHlQOUt3?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "I barely open some of my favorite apps anymore after using Gemini this way",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNM21hRW5DT1VqQmVMMjk2c1doQ1dPVEVOd25JeTdmWURULXh3OTJtM0ZlcFlNQ1V5YlFjWnhGR0x1c2E4STd4Mjl6SG9BSVlGejZKdWlKMFRJS0lvSURMbmhoc0MxQklValZqUHRGS1UwWHlkOE8yVzR6MF9fOVBEZndQN1pkUmRoLWV1cnprMU8ybHlQOUt3?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "5d72436256ad",
-      "slug": "gemini",
-      "opportunity": {
-        "type": "niche-content",
-        "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
-      }
-    },
-    {
-      "keyword": "boost sales",
-      "count": 11,
-      "score": 108.99838417254662,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "Best AI Tools for eCommerce 2026: Boost Sales, Emails, and Pricing",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE56cTZNNkg4aXpPQkdReU5abjU3dk5tb1BjcFhlelZrWmExWjlvOFBlLWpWaDVkTjNCTnpuQkwxc1pRTjR2VHVnT0UzQl9ndVBUeURiaVdSZ29Za0Nxak9GWUFTQlM5dGYxR2tr?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Best AI Tools for eCommerce 2026: Boost Sales, Emails, and Pricing",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE56cTZNNkg4aXpPQkdReU5abjU3dk5tb1BjcFhlelZrWmExWjlvOFBlLWpWaDVkTjNCTnpuQkwxc1pRTjR2VHVnT0UzQl9ndVBUeURiaVdSZ29Za0Nxak9GWUFTQlM5dGYxR2tr?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Best AI Tools for eCommerce 2026: Boost Sales, Emails, and Pricing",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE56cTZNNkg4aXpPQkdReU5abjU3dk5tb1BjcFhlelZrWmExWjlvOFBlLWpWaDVkTjNCTnpuQkwxc1pRTjR2VHVnT0UzQl9ndVBUeURiaVdSZ29Za0Nxak9GWUFTQlM5dGYxR2tr?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "c2f5b8bf738e",
-      "slug": "boost-sales",
-      "opportunity": {
-        "type": "niche-content",
-        "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
-      }
-    },
-    {
-      "keyword": "white house",
+      "keyword": "tomas sanchez",
       "count": 8,
-      "score": 105.89303078295717,
+      "score": 83.45035270703133,
       "proper": true,
       "niches": [
         "ai"
       ],
       "examples": [
         {
-          "title": "Beyond friggen pitiful and has to be among the absolute worst things to happen to the main portion of the White House since the British burned it during the War of 1812.#USpol “That is one helluva bef",
-          "url": "https://mastodon.world/@BrianJopek/116649816830581006",
+          "title": "Light: outside inside, Tomas Sanchez , Acrylic on linen, 2021 #Art #Painting",
+          "url": "https://mastodon.social/@cmconseils/116651150658821237",
           "source": "mastodon"
         },
         {
-          "title": "Beyond friggen pitiful and has to be among the absolute worst things to happen to the main portion of the White House since the British burned it during the War of 1812.#USpol “That is one helluva bef",
-          "url": "https://mastodon.world/@BrianJopek/116649816830581006",
+          "title": "Light: outside inside, Tomas Sanchez , Acrylic on linen, 2021 #Art #Painting",
+          "url": "https://mastodon.social/@cmconseils/116651150658821237",
           "source": "mastodon"
         }
       ],
-      "id": "c75bae7088ed",
-      "slug": "white-house",
+      "id": "f6e046aeab0f",
+      "slug": "tomas-sanchez",
       "opportunity": {
         "type": "niche-content",
         "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
@@ -867,7 +734,7 @@
     {
       "keyword": "google",
       "count": 10,
-      "score": 76.39571254641362,
+      "score": 78.15320698118947,
       "proper": true,
       "niches": [
         "ai",
@@ -893,57 +760,74 @@
       }
     },
     {
-      "keyword": "arthur rackham",
-      "count": 8,
-      "score": 75.94458644309177,
+      "keyword": "temu",
+      "count": 5,
+      "score": 77.70826464164696,
       "proper": true,
       "niches": [
         "ai"
       ],
       "examples": [
         {
-          "title": "the misled and lonely travailer.Arthur Rackham, from \"Comus\" by John Milton, London, New York: [1921?] #illustration #art  https://www.oldbookillustrations.com/illustrations/lonely-traveler/",
-          "url": "https://mastodon.social/@oldbookillustrations/116650373827986153",
-          "source": "mastodon"
-        },
-        {
-          "title": "the misled and lonely travailer.Arthur Rackham, from \"Comus\" by John Milton, London, New York: [1921?] #illustration #art  https://www.oldbookillustrations.com/illustrations/lonely-traveler/",
-          "url": "https://mastodon.social/@oldbookillustrations/116650373827986153",
+          "title": "Today, we have imposed a €200 million fine on Temu under the Digital Services Act, for failing to identify, analyse, and assess the systemic risks of illegal products being offered on its platform. Th",
+          "url": "https://ec.social-network.europa.eu/@EUCommission/116651733534611734",
           "source": "mastodon"
         }
       ],
-      "id": "1c6cc22e8bed",
-      "slug": "arthur-rackham",
+      "id": "5849f0dbde1a",
+      "slug": "temu",
       "opportunity": {
         "type": "niche-content",
         "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
       }
     },
     {
-      "keyword": "john milton",
-      "count": 8,
-      "score": 75.94458644309177,
+      "keyword": "digital services act",
+      "count": 5,
+      "score": 77.70826464164696,
       "proper": true,
       "niches": [
         "ai"
       ],
       "examples": [
         {
-          "title": "the misled and lonely travailer.Arthur Rackham, from \"Comus\" by John Milton, London, New York: [1921?] #illustration #art  https://www.oldbookillustrations.com/illustrations/lonely-traveler/",
-          "url": "https://mastodon.social/@oldbookillustrations/116650373827986153",
-          "source": "mastodon"
-        },
-        {
-          "title": "the misled and lonely travailer.Arthur Rackham, from \"Comus\" by John Milton, London, New York: [1921?] #illustration #art  https://www.oldbookillustrations.com/illustrations/lonely-traveler/",
-          "url": "https://mastodon.social/@oldbookillustrations/116650373827986153",
+          "title": "Today, we have imposed a €200 million fine on Temu under the Digital Services Act, for failing to identify, analyse, and assess the systemic risks of illegal products being offered on its platform. Th",
+          "url": "https://ec.social-network.europa.eu/@EUCommission/116651733534611734",
           "source": "mastodon"
         }
       ],
-      "id": "f3686fb04d0c",
-      "slug": "john-milton",
+      "id": "cfcc5e5e9e8f",
+      "slug": "digital-services-act",
       "opportunity": {
-        "type": "niche-content",
-        "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
+        "type": "affiliate",
+        "recommended": "Write SEO comparison/roundup article with affiliate links."
+      }
+    },
+    {
+      "keyword": "jailbroken kindle",
+      "count": 8,
+      "score": 72.01973064760661,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "Rust (and Slint) on a Jailbroken Kindle",
+          "url": "https://sverre.me/blog/rust-on-kindle/",
+          "source": "hackernews"
+        },
+        {
+          "title": "Rust (and Slint) on a Jailbroken Kindle",
+          "url": "https://sverre.me/blog/rust-on-kindle/",
+          "source": "hackernews"
+        }
+      ],
+      "id": "fcbb4fb8232c",
+      "slug": "jailbroken-kindle",
+      "opportunity": {
+        "type": "tooling",
+        "recommended": "Build / list AI tools; monetize via affiliate links + lead magnet."
       }
     }
   ]
