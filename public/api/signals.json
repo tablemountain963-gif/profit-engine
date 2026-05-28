@@ -1,0 +1,203 @@
+{
+  "generatedAt": "2026-05-28T01:58:49.350Z",
+  "tier": "free",
+  "top": [
+    {
+      "title": "I think Anthropic and OpenAI have found product-market fit",
+      "url": "https://simonwillison.net/2026/May/27/product-market-fit/",
+      "score": 4.94,
+      "niche": "ai",
+      "source": "hackernews",
+      "engagement": {
+        "score": 656,
+        "comments": 801
+      }
+    },
+    {
+      "title": "YouTube to automatically label AI-generated videos",
+      "url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
+      "score": 4.92,
+      "niche": "ai",
+      "source": "hackernews",
+      "engagement": {
+        "score": 544,
+        "comments": 324
+      }
+    },
+    {
+      "title": "Tech CEOs are apparently suffering from AI psychosis",
+      "url": "https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/",
+      "score": 4.51,
+      "niche": "ai",
+      "source": "hackernews",
+      "engagement": {
+        "score": 573,
+        "comments": 289
+      }
+    },
+    {
+      "title": "DuckDuckGo search saw 28% more visits after Google said people love AI mode",
+      "url": "https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/",
+      "score": 4.01,
+      "niche": "ai",
+      "source": "hackernews",
+      "engagement": {
+        "score": 675,
+        "comments": 336
+      }
+    },
+    {
+      "title": "What are some of your favourite developer tools?",
+      "url": "https://lobste.rs/s/2jdvxa/what_are_some_your_favourite_developer",
+      "score": 3.7,
+      "niche": "software",
+      "source": "lobsters",
+      "engagement": {
+        "score": 85,
+        "comments": 131
+      }
+    },
+    {
+      "title": "What Apple and Google are doing to push notifications",
+      "url": "https://www.jacquescorbytuech.com/writing/what-apple-and-google-are-doing-your-push-notifications",
+      "score": 3.53,
+      "niche": "software",
+      "source": "hackernews",
+      "engagement": {
+        "score": 179,
+        "comments": 183
+      }
+    },
+    {
+      "title": "5-m0cftvuvif/stake-monthly — Stake Monthly is one of the most discussed topics in online platform communities, loyalty systems, and crypto entertainment ecosystems. This educational guide explains how",
+      "url": "https://github.com/5-m0cftvuvif/stake-monthly",
+      "score": 3.38,
+      "niche": "ai",
+      "source": "github",
+      "engagement": {
+        "score": 267,
+        "comments": 0
+      }
+    },
+    {
+      "title": "Gemini, Gophers, and Fingers. Oh My Alternative Internets Beyond HTTPS",
+      "url": "https://brennan.day/gemini-gophers-and-fingers-oh-my-alternative-internets-beyond-https/",
+      "score": 3.34,
+      "niche": "ai",
+      "source": "hackernews",
+      "engagement": {
+        "score": 91,
+        "comments": 47
+      }
+    },
+    {
+      "title": "ai-best-tools/ai-image-video-gen — Millions of users trust this AI tool for realistic image and video generation. Advanced editing, full privacy protection, automatic deletion after every session. The",
+      "url": "https://github.com/ai-best-tools/ai-image-video-gen",
+      "score": 3.24,
+      "niche": "ai",
+      "source": "github",
+      "engagement": {
+        "score": 127,
+        "comments": 0
+      }
+    },
+    {
+      "title": "Incident with Pull Requests, Issues, Git Operations and API Requests",
+      "url": "https://www.githubstatus.com/incidents/xy1tt3hs572m",
+      "score": 3.15,
+      "niche": "software",
+      "source": "hackernews",
+      "engagement": {
+        "score": 261,
+        "comments": 193
+      }
+    }
+  ],
+  "topics": [
+    {
+      "keyword": "anthropic openai",
+      "count": 3,
+      "score": 14.810894075744326,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "I think Anthropic and OpenAI have found product-market fit",
+          "url": "https://simonwillison.net/2026/May/27/product-market-fit/",
+          "source": "hackernews"
+        }
+      ],
+      "id": "f01b77252a47",
+      "slug": "anthropic-openai"
+    },
+    {
+      "keyword": "openai product-market",
+      "count": 3,
+      "score": 14.810894075744326,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "I think Anthropic and OpenAI have found product-market fit",
+          "url": "https://simonwillison.net/2026/May/27/product-market-fit/",
+          "source": "hackernews"
+        }
+      ],
+      "id": "2f161f5c4dec",
+      "slug": "openai-product-market"
+    },
+    {
+      "keyword": "product-market fit",
+      "count": 3,
+      "score": 14.810894075744326,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "I think Anthropic and OpenAI have found product-market fit",
+          "url": "https://simonwillison.net/2026/May/27/product-market-fit/",
+          "source": "hackernews"
+        }
+      ],
+      "id": "c707fb8e955d",
+      "slug": "product-market-fit"
+    },
+    {
+      "keyword": "youtube automatically",
+      "count": 3,
+      "score": 14.767874129617642,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "YouTube to automatically label AI-generated videos",
+          "url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
+          "source": "hackernews"
+        }
+      ],
+      "id": "1c195bc090cd",
+      "slug": "youtube-automatically"
+    },
+    {
+      "keyword": "automatically label",
+      "count": 3,
+      "score": 14.767874129617642,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "YouTube to automatically label AI-generated videos",
+          "url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
+          "source": "hackernews"
+        }
+      ],
+      "id": "53491a8b17a8",
+      "slug": "automatically-label"
+    }
+  ]
+}
