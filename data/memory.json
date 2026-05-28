@@ -271,11 +271,51 @@
       "wins": 1,
       "losses": 0,
       "niche": "ai"
+    },
+    "saas-teams": {
+      "firstSeen": "2026-05-28T20:12:57.381Z",
+      "lastSeen": "2026-05-28T20:12:57.381Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "red-teaming": {
+      "firstSeen": "2026-05-28T20:13:00.481Z",
+      "lastSeen": "2026-05-28T20:13:00.481Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "gamestop": {
+      "firstSeen": "2026-05-28T20:13:03.935Z",
+      "lastSeen": "2026-05-28T20:13:03.935Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "software": {
+      "firstSeen": "2026-05-28T20:13:05.178Z",
+      "lastSeen": "2026-05-28T20:13:05.178Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "producer-suite": {
+      "firstSeen": "2026-05-28T20:13:09.239Z",
+      "lastSeen": "2026-05-28T20:13:09.239Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
     }
   },
   "niches": {
     "ai": {
-      "count": 65,
+      "count": 70,
       "wins": 18,
       "losses": 0
     },

@@ -1,46 +1,46 @@
 {
-  "runs": 25,
-  "lastRun": "2026-05-28T20:11:45.985Z",
+  "runs": 26,
+  "lastRun": "2026-05-28T20:12:50.233Z",
   "streams": {
     "trend-signals": {
-      "lastRunAt": "2026-05-28T15:28:45.141Z",
+      "lastRunAt": "2026-05-28T20:12:52.713Z",
       "lastResult": "25 items / 20 topics / 8 opps",
-      "totalRuns": 17
-    },
-    "affiliate-content": {
-      "lastRunAt": "2026-05-28T15:28:49.954Z",
-      "lastResult": "3 articles",
-      "totalRuns": 17
-    },
-    "digital-products": {
-      "lastRunAt": "2026-05-28T15:28:50.823Z",
-      "lastResult": "0 products",
-      "totalRuns": 16
-    },
-    "viral-factory": {
-      "lastRunAt": "2026-05-28T18:16:42.395Z",
-      "lastResult": "3 content packs",
       "totalRuns": 18
     },
+    "affiliate-content": {
+      "lastRunAt": "2026-05-28T20:13:03.935Z",
+      "lastResult": "3 articles",
+      "totalRuns": 18
+    },
+    "digital-products": {
+      "lastRunAt": "2026-05-28T20:13:04.536Z",
+      "lastResult": "0 products",
+      "totalRuns": 17
+    },
+    "viral-factory": {
+      "lastRunAt": "2026-05-28T20:13:13.240Z",
+      "lastResult": "2 content packs",
+      "totalRuns": 19
+    },
     "x-publisher": {
-      "lastRunAt": "2026-05-28T16:40:31.279Z",
+      "lastRunAt": "2026-05-28T20:13:27.067Z",
       "lastResult": "posted 1 thread(s)",
-      "totalRuns": 3
+      "totalRuns": 4
     },
     "mastodon-publisher": {
-      "lastRunAt": "2026-05-28T16:11:46.839Z",
-      "lastResult": "mastodon creds not set (no-op)",
-      "totalRuns": 1
+      "lastRunAt": "2026-05-28T20:13:27.068Z",
+      "lastResult": "nothing to post",
+      "totalRuns": 2
     },
     "bluesky-publisher": {
-      "lastRunAt": "2026-05-28T18:57:31.614Z",
-      "lastResult": "bluesky creds not set (no-op)",
-      "totalRuns": 1
+      "lastRunAt": "2026-05-28T20:13:35.503Z",
+      "lastResult": "posted 1 thread(s)",
+      "totalRuns": 2
     },
     "stripe-lister": {
-      "lastRunAt": "2026-05-28T20:11:47.452Z",
-      "lastResult": "stripe key not set (no-op)",
-      "totalRuns": 1
+      "lastRunAt": "2026-05-28T20:13:04.537Z",
+      "lastResult": "nothing to list",
+      "totalRuns": 2
     }
   },
   "totals": {
