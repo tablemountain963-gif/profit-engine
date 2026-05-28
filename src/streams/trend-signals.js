@@ -89,7 +89,7 @@ Be specific. No filler. No emojis.`;
 
   const { text } = await complete(
     [{ role: 'system', content: sys }, { role: 'user', content: user }],
-    { maxTokens: 1500, temperature: 0.6 }
+    { maxTokens: 1500, temperature: 0.6, kind: 'digest', topicHint: `Daily Trend Digest ${date}` }
   );
 
   const front = `---
