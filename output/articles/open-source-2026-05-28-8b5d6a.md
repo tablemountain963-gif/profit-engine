@@ -69,7 +69,7 @@ Some picks below for Open Source. Links use affiliate codes when available — y
 
 ## Want the Deep-Dive Pack?
 
-The **Open Source Starter Pack** condenses everything in this guide plus printable checklists, templates, and a 30-day plan. [See pack →](/products/)
+The **Open Source Starter Pack** condenses everything in this guide plus printable checklists, templates, and a 30-day plan. [See pack →](/products.html)
 
 ---
 *Sponsored by your brand? [Get in front of this audience.](mailto:sponsor@example.com?subject=Sponsorship%20Inquiry)*

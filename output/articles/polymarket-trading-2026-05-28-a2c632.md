@@ -80,7 +80,7 @@ Some picks below for Polymarket Trading. Links use affiliate codes when availabl
 
 ## Want the Deep-Dive Pack?
 
-The **Polymarket Trading Starter Pack** condenses everything in this guide plus printable checklists, templates, and a 30-day plan. [See pack →](/products/)
+The **Polymarket Trading Starter Pack** condenses everything in this guide plus printable checklists, templates, and a 30-day plan. [See pack →](/products.html)
 
 ---
 *Sponsored by your brand? [Get in front of this audience.](mailto:sponsor@example.com?subject=Sponsorship%20Inquiry)*

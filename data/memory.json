@@ -96,41 +96,9 @@
       "losses": 0,
       "niche": "ai"
     },
-    "bot-polymarket": {
-      "firstSeen": "2026-05-28T13:12:03.308Z",
-      "lastSeen": "2026-05-28T13:12:03.308Z",
-      "count": 1,
-      "wins": 1,
-      "losses": 0,
-      "niche": "ai"
-    },
-    "trading-bot": {
-      "firstSeen": "2026-05-28T13:12:03.308Z",
-      "lastSeen": "2026-05-28T13:12:03.308Z",
-      "count": 1,
-      "wins": 1,
-      "losses": 0,
-      "niche": "ai"
-    },
     "business-intelligence": {
       "firstSeen": "2026-05-28T13:12:06.583Z",
       "lastSeen": "2026-05-28T13:12:06.583Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "ai"
-    },
-    "threadskyamawebb": {
-      "firstSeen": "2026-05-28T13:12:06.925Z",
-      "lastSeen": "2026-05-28T13:12:06.925Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "ai"
-    },
-    "youtubers": {
-      "firstSeen": "2026-05-28T13:12:06.970Z",
-      "lastSeen": "2026-05-28T13:12:06.970Z",
       "count": 1,
       "wins": 0,
       "losses": 0,
@@ -176,6 +144,9 @@
     "threads",
     "digital-services-act",
     "regenerative-adult",
-    "stem-cells"
+    "stem-cells",
+    "youtubers",
+    "threadsky",
+    "amawebb"
   ]
 }

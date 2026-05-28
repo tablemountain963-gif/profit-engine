@@ -68,7 +68,7 @@ Some picks below for Passive Income. Links use affiliate codes when available �
 
 ## Want the Deep-Dive Pack?
 
-The **Passive Income Starter Pack** condenses everything in this guide plus printable checklists, templates, and a 30-day plan. [See pack →](/products/)
+The **Passive Income Starter Pack** condenses everything in this guide plus printable checklists, templates, and a 30-day plan. [See pack →](/products.html)
 
 ---
 *Sponsored by your brand? [Get in front of this audience.](mailto:sponsor@example.com?subject=Sponsorship%20Inquiry)*

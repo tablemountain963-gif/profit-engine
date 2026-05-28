@@ -1,7 +1,7 @@
 // Targeted cleanup: remove junk-topic / duplicate / corrupt content while KEEPING
 // good Groq-era content and both live products. Blacklists junk so the engine
 // won't regenerate it. Run: node scripts/purge-junk.js
-import { paths, readJson, writeJson, readText, logger, slugify } from '../src/lib/util.js';
+import { paths, readJson, writeJson, readText, writeText, logger, slugify } from '../src/lib/util.js';
 import { looksCorrupt } from '../src/ai/providers.js';
 import { join } from 'node:path';
 import { existsSync, rmSync, readdirSync } from 'node:fs';
@@ -19,8 +19,8 @@ const JUNK_TOPICS = [
   'trading-bot', 'bot-polymarket',         // near-dups of polymarket-trading
   'google',                                // bare brand noun, thin
   'temu', 'anthropic', 'job-cuts', 'explanation-problem',  // weak/grim product topics
-  'bay-area', 'swiss', 'teenagers', 'instagram', 'youtube', 'salesforce',
-  'threads', 'digital-services-act', 'regenerative-adult', 'stem-cells',
+  'bay-area', 'swiss', 'teenagers', 'instagram', 'youtube', 'youtubers', 'salesforce',
+  'threads', 'threadsky', 'amawebb', 'digital-services-act', 'regenerative-adult', 'stem-cells',
 ];
 
 function rm(p) { try { if (existsSync(p)) rmSync(p, { recursive: true, force: true }); } catch {} }
@@ -43,6 +43,19 @@ for (const a of am.items || []) {
 am.items = keptArticles;
 writeJson(join(paths.data, 'articles.json'), am);
 logger.ok(`articles kept: ${keptArticles.length}`);
+
+// Patch legacy /products/ (404 dir) -> /products.html in surviving article files.
+let patched = 0;
+for (const a of keptArticles) {
+  const file = join(paths.output, a.file);
+  if (!existsSync(file)) continue;
+  const md = readText(file);
+  if (md.includes('](/products/)')) {
+    writeText(file, md.replaceAll('](/products/)', '](/products.html)'));
+    patched++;
+  }
+}
+if (patched) logger.ok(`patched /products/ link in ${patched} articles`);
 
 // ── Products: keep whitelist + non-junk non-corrupt; drop rest ──
 const prodDir = join(paths.output, 'products');

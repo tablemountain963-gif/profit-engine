@@ -178,15 +178,17 @@ export function extractTopics(items, topN = 10) {
       const parts = k.split(' ');
       const nonStop = parts.filter(p => !STOPWORDS.has(p));
       if (nonStop.length !== parts.length) return false;
-      // Drop news/political/geographic entities — keeps storefront commercial, on-theme.
-      if (NEWS_JUNK.has(k)) return false;
+      // Drop news/political/geographic entities (substring) — keeps storefront on-theme.
+      if ([...NEWS_JUNK].some(j => k.includes(j))) return false;
       // Quality gate: keep named entities, niche-relevant, or commercial topics.
       const isProper = v.proper > 0;
       const isNiche = [...v.niches].some(n => n !== 'general') || parts.some(isInNicheVocab);
       const isCommercial = COMMERCIAL_HINTS.some(h => k.includes(h));
-      // Bare person/place names: only keep if strongly recurring (count>=10 ≈ 2+ proper mentions)
-      // AND carrying niche/commercial signal. Single-mention names get dropped.
-      if (isProper && !isNiche && !isCommercial && looksNameLike(k) && v.count < 10) return false;
+      // Person names ("John Milton") — drop unless commercial signal.
+      if (isPersonName(k) && !isCommercial) return false;
+      // Bare single-word proper nouns (brand/handle: "google", "youtubers",
+      // "threadskyamawebb") — weak as standalone topics. Require niche/commercial.
+      if (parts.length === 1 && isProper && !isNiche && !isCommercial) return false;
       return isProper || isNiche || isCommercial;
     })
     .map(([keyword, v]) => ({
@@ -232,16 +234,17 @@ const NEWS_JUNK = new Set([
   'salesforce','swiss','teenagers','instagram','youtube','threads','regenerative adult','stem cells',
 ]);
 
-// Heuristic: looks like a person name or bare proper noun with no commercial/niche value.
-// Two Title-case words, neither niche nor commercial, no digits/symbols.
-function looksNameLike(keyword) {
+// Common given names — first token of a 2-word phrase being one of these strongly
+// implies a person ("John Milton", "Arthur Rackham"), not a product.
+const PERSON_FIRST_NAMES = new Set('james john robert michael william david richard joseph thomas charles christopher daniel matthew anthony donald mark paul steven andrew kenneth joshua kevin brian george edward ronald timothy jason jeffrey ryan jacob gary nicholas eric jonathan stephen larry justin scott brandon benjamin samuel gregory alexander patrick frank raymond jack dennis jerry tyler aaron jose henry adam douglas nathan peter zachary kyle walter ethan jeremy harold carl keith roger gerald arthur terry sean austin noah lawrence jesse joe bryan billy bruce albert willie elon vladimir tomas mary patricia jennifer linda elizabeth barbara susan jessica sarah karen nancy lisa margaret betty sandra ashley dorothy kimberly emily donna michelle carol amanda melissa deborah stephanie rebecca laura sharon cynthia kathleen amy angela anna brenda emma olivia sophia ava mia'.split(' '));
+
+// True if a 2-word phrase is "FirstName Lastname"-shaped.
+function isPersonName(keyword) {
   const parts = keyword.split(' ');
   if (parts.length !== 2) return false;
-  if (parts.some(p => isInNicheVocab(p))) return false;
   if (COMMERCIAL_HINTS.some(h => keyword.includes(h))) return false;
-  if (/[0-9]/.test(keyword)) return false;
-  // both parts are plain alpha words (typical of "First Last")
-  return parts.every(p => /^[a-z]{3,}$/.test(p));
+  if (parts.some(isInNicheVocab)) return false;
+  return PERSON_FIRST_NAMES.has(parts[0]) && /^[a-z]{3,}$/.test(parts[1]);
 }
 
 export function selectOpportunities(items, count = 5) {
