@@ -1,6 +1,6 @@
 {
-  "runs": 20,
-  "lastRun": "2026-05-28T16:11:45.581Z",
+  "runs": 21,
+  "lastRun": "2026-05-28T16:40:02.462Z",
   "streams": {
     "trend-signals": {
       "lastRunAt": "2026-05-28T15:28:45.141Z",
@@ -23,9 +23,9 @@
       "totalRuns": 16
     },
     "x-publisher": {
-      "lastRunAt": "2026-05-28T15:28:51.544Z",
-      "lastResult": "x creds not set (no-op)",
-      "totalRuns": 2
+      "lastRunAt": "2026-05-28T16:40:31.279Z",
+      "lastResult": "posted 1 thread(s)",
+      "totalRuns": 3
     },
     "mastodon-publisher": {
       "lastRunAt": "2026-05-28T16:11:46.839Z",
