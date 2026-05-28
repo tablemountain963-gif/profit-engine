@@ -247,11 +247,35 @@
       "wins": 0,
       "losses": 0,
       "niche": "ai"
+    },
+    "desktop": {
+      "firstSeen": "2026-05-28T18:30:48.222Z",
+      "lastSeen": "2026-05-28T18:30:48.222Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "_blank-buy": {
+      "firstSeen": "2026-05-28T18:30:48.651Z",
+      "lastSeen": "2026-05-28T18:30:48.652Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "upbeat-sales": {
+      "firstSeen": "2026-05-28T18:30:49.094Z",
+      "lastSeen": "2026-05-28T18:30:49.094Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
     }
   },
   "niches": {
     "ai": {
-      "count": 60,
+      "count": 63,
       "wins": 16,
       "losses": 0
     },
