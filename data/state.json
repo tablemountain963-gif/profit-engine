@@ -1,6 +1,6 @@
 {
-  "runs": 24,
-  "lastRun": "2026-05-28T18:57:30.492Z",
+  "runs": 25,
+  "lastRun": "2026-05-28T20:11:45.985Z",
   "streams": {
     "trend-signals": {
       "lastRunAt": "2026-05-28T15:28:45.141Z",
@@ -35,6 +35,11 @@
     "bluesky-publisher": {
       "lastRunAt": "2026-05-28T18:57:31.614Z",
       "lastResult": "bluesky creds not set (no-op)",
+      "totalRuns": 1
+    },
+    "stripe-lister": {
+      "lastRunAt": "2026-05-28T20:11:47.452Z",
+      "lastResult": "stripe key not set (no-op)",
       "totalRuns": 1
     }
   },

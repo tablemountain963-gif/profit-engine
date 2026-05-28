@@ -9,6 +9,7 @@ import { runViralFactory } from '../streams/viral-factory.js';
 import { runXPublisher } from '../streams/x-publisher.js';
 import { runMastodonPublisher } from '../streams/mastodon-publisher.js';
 import { runBlueskyPublisher } from '../streams/bluesky-publisher.js';
+import { runStripeLister } from '../streams/stripe-lister.js';
 import { pullAll } from './sources.js';
 import { resolveAgainst } from './feedback.js';
 import { topNiches } from './memory.js';
@@ -18,6 +19,7 @@ const STREAMS = {
   trends: { name: 'trend-signals', fn: runTrendSignals, every: 30 * 60_000 },
   content: { name: 'affiliate-content', fn: runAffiliateContent, every: 4 * 60 * 60_000 },
   products: { name: 'digital-products', fn: runDigitalProducts, every: 24 * 60 * 60_000 },
+  list: { name: 'stripe-lister', fn: runStripeLister, every: 6 * 60 * 60_000 },
   viral: { name: 'viral-factory', fn: runViralFactory, every: 6 * 60 * 60_000 },
   // ~7h cadence → fires at the 13:00 and 21:00 UTC peak-ET crons (8h apart),
   // skips the 16:00/01:00 runs. ~2 posts/day per network at peak attention.

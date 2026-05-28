@@ -61,6 +61,7 @@ jobs:
           MASTODON_ACCESS_TOKEN: ${{ secrets.MASTODON_ACCESS_TOKEN }}
           BLUESKY_HANDLE: ${{ secrets.BLUESKY_HANDLE }}
           BLUESKY_APP_PASSWORD: ${{ secrets.BLUESKY_APP_PASSWORD }}
+          STRIPE_API_KEY: ${{ secrets.STRIPE_API_KEY }}
         run: |
           set -e
           if [ "${{ inputs.skip_generation }}" = "true" ]; then

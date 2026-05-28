@@ -159,6 +159,25 @@ export async function buildSite() {
     }
   }
 
+  // Buyer delivery: copy bundles of SOLD (buy-link) products to /downloads/<slug>/,
+  // with a per-pack index. Linked only from the post-purchase thank-you page.
+  const buyLinks2 = readJson(join(paths.data, 'buy-links.json'), {});
+  const bundlesSrc = join(paths.output, 'bundles');
+  if (existsSync(bundlesSrc)) {
+    for (const slug of Object.keys(buyLinks2)) {
+      const bdir = join(bundlesSrc, slug);
+      if (!existsSync(bdir)) continue;
+      const outDir = join(SITE, 'downloads', slug);
+      ensureDir(outDir);
+      const files = readdirSync(bdir);
+      for (const f of files) { try { copyFileSync(join(bdir, f), join(outDir, f)); } catch {} }
+      const prod = products.find(p => p.slug === slug) || {};
+      writeText(join(outDir, 'index.html'), downloadIndex(prod.title || slug, files));
+    }
+  }
+  // Post-purchase landing — redirects to the buyer's download folder.
+  writeText(join(SITE, 'thank-you.html'), thankYouPage());
+
   // Render social packs
   const socialSrc = join(paths.output, 'social');
   if (existsSync(socialSrc)) {
@@ -196,7 +215,7 @@ export async function buildSite() {
   writeText(join(SITE, 'about.html'), aboutPage());
   writeText(join(SITE, 'status.html'), statusPage({ articles, digests, products, social }));
   writeText(join(SITE, 'sitemap.xml'), sitemap({ articles, digests, products }));
-  writeText(join(SITE, 'robots.txt'), `User-agent: *\nAllow: /\nSitemap: ${siteBaseUrl()}/sitemap.xml\n`);
+  writeText(join(SITE, 'robots.txt'), `User-agent: *\nAllow: /\nDisallow: /downloads/\nDisallow: /thank-you.html\nSitemap: ${siteBaseUrl()}/sitemap.xml\n`);
   writeText(join(SITE, 'feed.xml'), rssFeed({ articles, digests }));
   writeText(join(SITE, 'style.css'), css());
 
@@ -1029,6 +1048,39 @@ table.stats tr:hover td { background: var(--bg-1); }
   .hero h1 { font-size: clamp(38px, 13vw, 56px); }
 }
 `;
+}
+
+// Per-pack download index (linked only post-purchase). noindex.
+function downloadIndex(title, files) {
+  const links = files.filter(f => f !== 'index.html')
+    .map(f => `<li><a href="${encodeURIComponent(f)}" download>${escapeHtml(f)}</a></li>`).join('');
+  return `<!doctype html><html lang="en"><head><meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width,initial-scale=1"/>
+<meta name="robots" content="noindex,nofollow"/>
+<title>Download — ${escapeHtml(title)}</title><link rel="stylesheet" href="/style.css"/></head>
+<body><main class="prose"><h1>Thanks — here's your download</h1>
+<p class="meta">${escapeHtml(title)}</p>
+<p>Open <strong>00-START-HERE</strong> first, then the pack files:</p>
+<ul>${links}</ul>
+<p class="meta">Lifetime access. Lost this page? Reply to your Stripe receipt and we'll resend.</p>
+</main></body></html>`;
+}
+
+// Post-purchase landing: ?p=<slug> → redirect to that pack's download folder.
+function thankYouPage() {
+  const base = siteBaseUrl();
+  return `<!doctype html><html lang="en"><head><meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width,initial-scale=1"/>
+<meta name="robots" content="noindex,nofollow"/>
+<title>Thank you — Profit Engine</title><link rel="stylesheet" href="/style.css"/></head>
+<body><main class="prose"><h1>Payment received — thank you</h1>
+<p id="msg">Preparing your download…</p>
+<p><a id="dl" class="btn" href="/">Continue</a></p>
+<script>
+var p=new URLSearchParams(location.search).get('p');
+if(p && /^[a-z0-9-]+$/.test(p)){var u='${base}/downloads/'+p+'/';document.getElementById('dl').href=u;document.getElementById('msg').textContent='Your files are ready.';location.replace(u);}
+else{document.getElementById('msg').textContent='Check your Stripe receipt email for your download link.';}
+</script></main></body></html>`;
 }
 
 // Pick up to 3 related articles: same niche first, then most recent. Excludes self.
