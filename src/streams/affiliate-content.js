@@ -99,7 +99,7 @@ Requirements:
 
   const { provider, text } = await complete(
     [{ role: 'system', content: sys }, { role: 'user', content: user }],
-    { maxTokens: 2200, temperature: 0.75 }
+    { maxTokens: 2200, temperature: 0.75, topicHint: topic, kind: 'article' }
   );
 
   const title = extractTitle(text) || topic;

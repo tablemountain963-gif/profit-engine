@@ -84,11 +84,13 @@ async function callAnthropic(messages, opts = {}) {
 }
 
 // Public API.
+// opts.topicHint — a clean human topic; used by the template fallback so it never
+// echoes raw prompt instructions. opts.kind — 'article'|'product'|'digest'|'social'.
 export async function complete(messages, opts = {}) {
   const provider = opts.provider || pickProvider();
   if (!provider) {
     logger.dbg('AI: no provider key, using template fallback');
-    return { provider: 'template', text: templateFallback(messages) };
+    return { provider: 'template', text: templateFallback(messages, opts) };
   }
   try {
     const text = provider === 'anthropic'
@@ -97,30 +99,38 @@ export async function complete(messages, opts = {}) {
     return { provider, text };
   } catch (e) {
     logger.warn(`AI provider ${provider} failed: ${e.message}`);
-    return { provider: 'template', text: templateFallback(messages) };
+    return { provider: 'template', text: templateFallback(messages, opts) };
   }
 }
 
 // Template fallback: lets engine run without any AI key.
-// Substitutes user prompt into structural templates based on simple intent detection.
-function templateFallback(messages) {
+// Uses an explicit topicHint when provided so it never leaks prompt instructions.
+function templateFallback(messages, opts = {}) {
   const userMsg = messages.filter(m => m.role === 'user').pop()?.content || '';
-  const lower = userMsg.toLowerCase();
+  const topic = (opts.topicHint && opts.topicHint.trim()) || extractTopic(userMsg);
+  const kind = opts.kind || detectKind(userMsg);
 
-  if (lower.includes('article') || lower.includes('blog') || lower.includes('post')) {
-    return templateArticle(userMsg);
-  }
-  if (lower.includes('product') || lower.includes('pack') || lower.includes('ebook')) {
-    return templateProduct(userMsg);
-  }
-  if (lower.includes('summar') || lower.includes('digest')) {
-    return templateDigest(userMsg);
-  }
-  return `# Generated Response\n\n${userMsg.slice(0, 500)}\n\n(Template fallback. Add GROQ_API_KEY or another provider for richer output.)`;
+  if (kind === 'article') return templateArticle(topic);
+  if (kind === 'product') return templateProduct(topic);
+  if (kind === 'digest') return templateDigest(topic);
+  return `# ${topic}\n\nA practical overview of ${topic}. (Add GROQ_API_KEY for full AI-generated content.)`;
 }
 
-function templateArticle(prompt) {
-  const topic = extractTopic(prompt);
+function detectKind(userMsg) {
+  const lower = userMsg.toLowerCase();
+  if (lower.includes('article') || lower.includes('blog')) return 'article';
+  if (lower.includes('prompt pack') || lower.includes('starter kit') || lower.includes('checklist') || lower.includes('field guide') || lower.includes('ebook')) return 'product';
+  if (lower.includes('digest') || lower.includes('summar')) return 'digest';
+  return 'other';
+}
+
+// True if model output looks like leaked prompt instructions (fallback corruption guard).
+export function looksCorrupt(text) {
+  if (!text || text.length < 80) return true;
+  return /produce a markdown document|containing exactly \d+|^#\s*(produce|write|generate|create) /i.test(text.slice(0, 200));
+}
+
+function templateArticle(topic) {
   return `# ${topic}: A Complete Guide
 
 ## Introduction
@@ -162,8 +172,7 @@ ${topic} rewards consistency over intensity. Pick a default, measure honestly, a
 `;
 }
 
-function templateProduct(prompt) {
-  const topic = extractTopic(prompt);
+function templateProduct(topic) {
   return `# ${topic} — Starter Pack
 
 ## What's Inside
@@ -185,7 +194,7 @@ Most material on ${topic} is either too theoretical to act on or too narrow to g
 `;
 }
 
-function templateDigest(prompt) {
+function templateDigest(topic) {
   return `# Daily Signal Digest
 
 ## Top Movers
@@ -203,9 +212,17 @@ Brief commentary on what changed and why it's worth watching.
 }
 
 function extractTopic(prompt) {
-  const cleaned = prompt.replace(/^[^a-z0-9]*write[^:]*:?\s*/i, '').trim();
-  const firstLine = cleaned.split('\n')[0] || 'the topic';
-  return firstLine.slice(0, 80).replace(/[.!?]+$/, '');
+  let s = String(prompt);
+  // Pull a quoted title if the instruction names one: titled "X"
+  const titled = s.match(/titled\s+["“]([^"”]{3,80})["”]/i);
+  if (titled) return titled[1].replace(/\s*prompt pack\s*$/i, '').trim();
+  // Pull "about: X" or "for: X"
+  const about = s.match(/\b(?:about|for|on)\s*:?\s*([A-Za-z0-9][^\n.!?]{2,70})/i);
+  if (about) return about[1].trim();
+  // Strip leading verb instruction, take first clause
+  s = s.replace(/^[^a-z0-9]*(write|produce|create|generate|compose)[^:]*:?\s*/i, '').trim();
+  const firstLine = (s.split('\n')[0] || 'the topic').replace(/^[^a-zA-Z0-9]+/, '');
+  return firstLine.slice(0, 70).replace(/[.!?]+$/, '').trim() || 'the topic';
 }
 
 export function describeProviders() {

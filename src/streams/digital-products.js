@@ -2,7 +2,7 @@
 // Generates niche packages: prompt packs, checklists, templates, mini-ebooks.
 // Output is bundle-ready for Gumroad/Payhip/direct download via GitHub Pages.
 import { logger, paths, writeJson, readJson, writeText, slugify, todayKey, nowIso, ensureDir, hash } from '../lib/util.js';
-import { complete } from '../ai/providers.js';
+import { complete, looksCorrupt } from '../ai/providers.js';
 import { pullAll } from '../engine/sources.js';
 import { selectOpportunities } from '../engine/trends.js';
 import { filterFresh, recordTopic } from '../engine/memory.js';
@@ -43,7 +43,7 @@ const PRODUCT_TYPES = [
 
 export async function runDigitalProducts(opts = {}) {
   ensureDir(PRODUCTS_DIR);
-  const count = opts.count || 1;
+  const count = opts.count || 3;
   logger.info(`product factory: targeting ${count} product(s)`);
 
   // Find a productizable opportunity
@@ -116,6 +116,9 @@ async function generateProduct(topic, opp, ptype, slug) {
 
   // Generate the main payload using AI (or templates)
   const payload = await generatePayload(topic, ptype);
+  if (looksCorrupt(payload)) {
+    throw new Error('payload failed quality guard (instruction leak / too short)');
+  }
   writeText(join(dir, mainFileFor(ptype)), payload);
 
   // README — sales / use page
@@ -167,7 +170,7 @@ async function generatePayload(topic, ptype) {
 
   const { text } = await complete(
     [{ role: 'system', content: sys }, { role: 'user', content: user }],
-    { maxTokens: 3500, temperature: 0.7 }
+    { maxTokens: 3500, temperature: 0.7, topicHint: topic, kind: 'product' }
   );
 
   return text;
