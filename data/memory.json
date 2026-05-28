@@ -98,7 +98,39 @@
     },
     "business-intelligence": {
       "firstSeen": "2026-05-28T13:12:06.583Z",
-      "lastSeen": "2026-05-28T13:12:06.583Z",
+      "lastSeen": "2026-05-28T13:16:56.087Z",
+      "count": 2,
+      "wins": 1,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "youtubers": {
+      "firstSeen": "2026-05-28T13:16:56.088Z",
+      "lastSeen": "2026-05-28T13:16:56.088Z",
+      "count": 1,
+      "wins": 1,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "kitchen-gadgets": {
+      "firstSeen": "2026-05-28T13:16:58.330Z",
+      "lastSeen": "2026-05-28T13:16:58.330Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "gear"
+    },
+    "distant-corporate-overlord": {
+      "firstSeen": "2026-05-28T13:16:58.829Z",
+      "lastSeen": "2026-05-28T13:16:58.829Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "shadowspread": {
+      "firstSeen": "2026-05-28T13:16:59.503Z",
+      "lastSeen": "2026-05-28T13:16:59.503Z",
       "count": 1,
       "wins": 0,
       "losses": 0,
@@ -107,8 +139,8 @@
   },
   "niches": {
     "ai": {
-      "count": 43,
-      "wins": 11,
+      "count": 47,
+      "wins": 13,
       "losses": 0
     },
     "finance": {
@@ -117,6 +149,11 @@
       "losses": 0
     },
     "software": {
+      "count": 1,
+      "wins": 0,
+      "losses": 0
+    },
+    "gear": {
       "count": 1,
       "wins": 0,
       "losses": 0
