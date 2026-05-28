@@ -157,27 +157,27 @@ function mainFileFor(ptype) {
 }
 
 async function generatePayload(topic, ptype) {
-  const sys = `You are a senior content engineer producing high-leverage digital products. Output dense, useful, actionable material. No filler.`;
+  const sys = `You are a senior practitioner producing a paid digital product about ${topic}. Every line must be specific and immediately usable — concrete numbers, named tools, real tradeoffs, exact steps. No generic filler, no "in today's world", no repeated sentence shapes. A buyer paid for this; make it worth $19.`;
   let user;
 
   switch (ptype.type) {
     case 'prompt-pack':
-      user = `Produce a markdown document titled "${topic} Prompt Pack" containing exactly 50 numbered prompts for working with LLMs (Claude, GPT, Gemini) in the ${topic} domain. Each prompt should be 2-6 sentences, copy/paste ready, and labeled by use case (e.g., research, drafting, analysis, automation). Group by use case sections. Include a "How to Use" section at the top.`;
+      user = `Write 50 DISTINCT prompts for using LLMs (Claude, GPT, Gemini) on ${topic}. Markdown. Start with a 2-line "How to Use". Group under: Research, Drafting, Analysis, Automation. Hard rules: every prompt is copy/paste-ready, 2-5 sentences, contains at least one [BRACKETED] variable the user fills in, and NO two prompts share the same opening or structure. Make them specific to ${topic}, not generic. Number 1-50.`;
       break;
     case 'checklist':
-      user = `Produce a one-page printable markdown checklist for ${topic}. Format: short title, intro paragraph (2-3 sentences), 12-20 atomic checklist items grouped under 3-4 phase headings. End with "Print and Pin" line.`;
+      user = `Write a one-page printable checklist for ${topic}. Markdown. Short title, 2-sentence intro, then 12-20 atomic, verifiable checklist items (each starts with a verb, is concrete enough to tick off) grouped under 3-4 phase headings. Add a one-line "why it matters" under any item that's non-obvious. End with "Print and pin." No vague items.`;
       break;
     case 'starter-kit':
-      user = `Produce a starter kit playbook for ${topic} in markdown. Sections: (1) Why this kit exists (3-4 sentences), (2) Playbook — 7-10 numbered moves with rationale, (3) Templates — 3-5 copy/paste templates, (4) 30-day plan — week-by-week breakdown, (5) Pitfalls to avoid, (6) Next steps. Be specific and actionable.`;
+      user = `Write a ${topic} starter kit in markdown. Sections: (1) Why this kit (3 sentences, name the specific pain it removes); (2) Playbook — 7-10 numbered moves, each with a one-line rationale and a concrete example; (3) Templates — 3-5 copy/paste templates with [brackets] to fill; (4) 30-day plan — week-by-week with a measurable goal each week; (5) Pitfalls — 4-6 specific mistakes + the fix; (6) Next steps. Specific > generic everywhere.`;
       break;
     case 'mini-ebook':
     default:
-      user = `Produce a 30-minute field guide for ${topic} in markdown. 8-12 chapters of 2-4 paragraphs each. Start with a 'Read This First' chapter. End with 'What to Do Next'. Aim for ~3000-4000 words total. Be concrete, opinionated, and useful.`;
+      user = `Write a 30-minute field guide on ${topic} in markdown. 8-12 chapters, 2-4 paragraphs each. Ch.1 = "Read This First" (the one thing most people get wrong). Use concrete examples, numbers, and named approaches throughout — opinionated, not encyclopedic. End with "What to Do Next" (3 concrete actions). ~3000-4000 words.`;
   }
 
   const { text } = await complete(
     [{ role: 'system', content: sys }, { role: 'user', content: user }],
-    { maxTokens: 3500, temperature: 0.7, topicHint: topic, kind: 'product' }
+    { maxTokens: 3500, temperature: 0.75, topicHint: topic, kind: 'product' }
   );
 
   return text;

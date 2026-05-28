@@ -54,7 +54,7 @@ export async function buildSite() {
   const base = siteBaseUrl();
   const newUrls = [];
 
-  // Render each article
+  // Render each article (+ internal "Related" links for SEO + dwell time)
   for (const a of articles) {
     const src = join(paths.output, a.file);
     if (!existsSync(src)) continue;
@@ -64,10 +64,14 @@ export async function buildSite() {
     const url = `${base}/articles/${a.slug}.html`;
     newUrls.push(url);
     const schema = articleSchema({ title: a.title, description: desc, url, datePublished: a.date });
+    const related = relatedArticles(a, articles);
+    const relatedHtml = related.length
+      ? `\n<h2>Related reading</h2>\n<ul class="cards">${related.map(r => `<li class="card"><a href="/articles/${r.slug}.html"><strong>${escapeHtml(r.title)}</strong></a><span class="meta">${r.niche || ''}</span></li>`).join('')}</ul>`
+      : '';
     const html = renderPage({
       title: a.title,
       desc,
-      body: mdToHtml(stripped),
+      body: mdToHtml(stripped) + relatedHtml,
       breadcrumb: 'Articles',
       breadcrumbHref: 'articles.html',
       published: a.date,
@@ -1025,6 +1029,14 @@ table.stats tr:hover td { background: var(--bg-1); }
   .hero h1 { font-size: clamp(38px, 13vw, 56px); }
 }
 `;
+}
+
+// Pick up to 3 related articles: same niche first, then most recent. Excludes self.
+function relatedArticles(article, all, n = 3) {
+  const others = all.filter(x => x.slug !== article.slug);
+  const sameNiche = others.filter(x => x.niche && x.niche === article.niche);
+  const rest = others.filter(x => !sameNiche.includes(x));
+  return [...sameNiche, ...rest].slice(0, n);
 }
 
 function escapeHtml(s) { return String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;'); }
