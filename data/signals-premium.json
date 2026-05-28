@@ -1,114 +1,103 @@
 {
-  "generatedAt": "2026-05-28T02:26:58.572Z",
+  "generatedAt": "2026-05-28T02:43:40.653Z",
   "sourceCount": 157,
   "topItems": [
     {
-      "title": "Pasting a huge AI generated explanation to a problem in an issue or pull-request is nothing but RUDE. Don't do it. You look stupid and the receivers of that feel insulted.We are humans. We communicate",
-      "url": "https://mastodon.social/@bagder/116648467657760137",
-      "score": 11.71,
-      "niche": "ai",
-      "source": "mastodon",
-      "engagement": {
-        "score": 621,
-        "comments": 16
-      }
-    },
-    {
       "title": "I think Anthropic and OpenAI have found product-market fit",
       "url": "https://simonwillison.net/2026/May/27/product-market-fit/",
-      "score": 9.9,
+      "score": 9.91,
       "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 664,
-        "comments": 817
+        "score": 675,
+        "comments": 828
+      }
+    },
+    {
+      "title": "Pasting a huge AI generated explanation to a problem in an issue or pull-request is nothing but RUDE. Don't do it. You look stupid and the receivers of that feel insulted.We are humans. We communicate",
+      "url": "https://mastodon.social/@bagder/116648467657760137",
+      "score": 9.39,
+      "niche": "ai",
+      "source": "mastodon",
+      "engagement": {
+        "score": 628,
+        "comments": 16
       }
     },
     {
       "title": "Tech CEOs are apparently suffering from AI psychosis",
       "url": "https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/",
-      "score": 9.04,
+      "score": 9.05,
       "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 584,
-        "comments": 294
+        "score": 590,
+        "comments": 296
       }
     },
     {
       "title": "\"Our entire economy is being artificially propped up by astrology for men: AI, crypto, sports betting, and prediction markets. It's an economy shaped entirely by male insecurity and lack of impulse co",
       "url": "https://mastodon.social/@gwynnion/116648655369385136",
-      "score": 8.99,
+      "score": 9.05,
       "niche": "ai",
       "source": "mastodon",
       "engagement": {
-        "score": 263,
+        "score": 272,
         "comments": 7
       }
     },
     {
       "title": "DuckDuckGo's AI-free search saw nearly 28% more visits in the week following Google's insistence that people love AI mode. Is anyone surprised by this result?https://xcancel.com/DuckDuckGo/status/2059",
       "url": "https://mastodon.social/@nixCraft/116647832352017668",
-      "score": 8.56,
+      "score": 8.57,
       "niche": "ai",
       "source": "mastodon",
       "engagement": {
-        "score": 737,
+        "score": 744,
         "comments": 35
-      }
-    },
-    {
-      "title": "to catch a train you have to think like a train",
-      "url": "https://infosec.exchange/@catsalad/116648420964526804",
-      "score": 8.53,
-      "niche": "ai",
-      "source": "mastodon",
-      "engagement": {
-        "score": 412,
-        "comments": 25
       }
     },
     {
       "title": "DuckDuckGo search saw 28% more visits after Google said people love AI mode",
       "url": "https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/",
-      "score": 8.03,
+      "score": 8.04,
       "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 684,
+        "score": 691,
         "comments": 343
       }
     },
     {
       "title": "YouTube to automatically label AI-generated videos",
       "url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
-      "score": 7.91,
+      "score": 7.93,
       "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 555,
-        "comments": 336
+        "score": 564,
+        "comments": 342
       }
     },
     {
       "title": "This is how the AI bubble bursts: https://www.theverge.com/ai-artificial-intelligence/917380/ai-monetization-anthropic-openai-token-economics-revenueThere is no conceivable way to break even for the A",
       "url": "https://wandering.shop/@cstross/116648209688298468",
-      "score": 7.51,
+      "score": 7.53,
       "niche": "ai",
       "source": "mastodon",
       "engagement": {
-        "score": 800,
-        "comments": 29
+        "score": 809,
+        "comments": 30
       }
     },
     {
       "title": "These AI agent attacks are getting ridiculousMalicious code hidden in source code repositories can trick AI coding agents into overwriting their own configuration fileshttps://adversa.ai/blog/the-appr",
       "url": "https://mastodon.social/@campuscodi/116649022439044971",
-      "score": 7.28,
+      "score": 7.36,
       "niche": "ai",
       "source": "mastodon",
       "engagement": {
-        "score": 88,
+        "score": 93,
         "comments": 3
       }
     },
@@ -135,6 +124,17 @@
       }
     },
     {
+      "title": "Do you like bumping your music a little loud? Cops are searching Flock Safety ALPR data to investigate noise complaints. The creeping use cases keep getting more absurd. https://www.eff.org/deeplinks/",
+      "url": "https://mastodon.social/@eff/116649248906707388",
+      "score": 6.49,
+      "niche": "ai",
+      "source": "mastodon",
+      "engagement": {
+        "score": 106,
+        "comments": 0
+      }
+    },
+    {
       "title": "ai-best-tools/ai-image-video-gen — Millions of users trust this AI tool for realistic image and video generation. Advanced editing, full privacy protection, automatic deletion after every session. The",
       "url": "https://github.com/ai-best-tools/ai-image-video-gen",
       "score": 6.47,
@@ -142,17 +142,6 @@
       "source": "github",
       "engagement": {
         "score": 127,
-        "comments": 0
-      }
-    },
-    {
-      "title": "Do you like bumping your music a little loud? Cops are searching Flock Safety ALPR data to investigate noise complaints. The creeping use cases keep getting more absurd. https://www.eff.org/deeplinks/",
-      "url": "https://mastodon.social/@eff/116649248906707388",
-      "score": 6.47,
-      "niche": "ai",
-      "source": "mastodon",
-      "engagement": {
-        "score": 104,
         "comments": 0
       }
     },
@@ -179,6 +168,28 @@
       }
     },
     {
+      "title": "op7418/guizang-social-card-skill — 🪧 Claude Code / Codex skill — generate Xiaohongshu carousels & WeChat 21:9+1:1 cover pairs. Editorial × Swiss visual systems, 28 layouts, 10 themes, single-file HTM",
+      "url": "https://github.com/op7418/guizang-social-card-skill",
+      "score": 5.39,
+      "niche": "ai",
+      "source": "github",
+      "engagement": {
+        "score": 127,
+        "comments": 0
+      }
+    },
+    {
+      "title": "The cold civil war in the U.S. rages on, with the federal government contemplating a new assault on states and cities that exercise their right not to collaborate with ICE. https://www.theguardian.com",
+      "url": "https://mastodon.social/@heidilifeldman/116649449858093133",
+      "score": 5.38,
+      "niche": "ai",
+      "source": "mastodon",
+      "engagement": {
+        "score": 47,
+        "comments": 0
+      }
+    },
+    {
       "title": "Bhojendra-dev/LSFG-Desktop — lossless scaling steam desck download github reddit android lsfg 3 frame generation best settings upscaling ai ls1 fsr nis integer scaling windows 11 steam deck decky load",
       "url": "https://github.com/Bhojendra-dev/LSFG-Desktop",
       "score": 5.33,
@@ -186,17 +197,6 @@
       "source": "github",
       "engagement": {
         "score": 135,
-        "comments": 0
-      }
-    },
-    {
-      "title": "The cold civil war in the U.S. rages on, with the federal government contemplating a new assault on states and cities that exercise their right not to collaborate with ICE. https://www.theguardian.com",
-      "url": "https://mastodon.social/@heidilifeldman/116649449858093133",
-      "score": 5.32,
-      "niche": "ai",
-      "source": "mastodon",
-      "engagement": {
-        "score": 45,
         "comments": 0
       }
     },
@@ -212,17 +212,6 @@
       }
     },
     {
-      "title": "op7418/guizang-social-card-skill — 🪧 Claude Code / Codex skill — generate Xiaohongshu carousels & WeChat 21:9+1:1 cover pairs. Editorial × Swiss visual systems, 28 layouts, 10 themes, single-file HTM",
-      "url": "https://github.com/op7418/guizang-social-card-skill",
-      "score": 5.18,
-      "niche": "ai",
-      "source": "github",
-      "engagement": {
-        "score": 105,
-        "comments": 0
-      }
-    },
-    {
       "title": "Why does AI forget what you said (and how to fix it)",
       "url": "https://dev.to/aws/why-does-ai-forget-what-you-said-and-how-to-fix-it-52f6",
       "score": 4.65,
@@ -231,28 +220,6 @@
       "engagement": {
         "score": 45,
         "comments": 41
-      }
-    },
-    {
-      "title": "Justice Dept. Is Said to Open Criminal Inquiry of E. Jean Carroll",
-      "url": "https://www.nytimes.com/2026/05/27/us/politics/criminal-inquiry-e-jean-carroll-trump-accusations.html",
-      "score": 4.63,
-      "niche": "ai",
-      "source": "hackernews",
-      "engagement": {
-        "score": 19,
-        "comments": 4
-      }
-    },
-    {
-      "title": "Show HN: Open-Source AI Racing Harness",
-      "url": "https://www.elodin.systems/post/elodin-ai-grand-prix-race-sim-harness",
-      "score": 4.53,
-      "niche": "ai",
-      "source": "hackernews",
-      "engagement": {
-        "score": 17,
-        "comments": 4
       }
     },
     {
@@ -269,11 +236,44 @@
     {
       "title": "cellinlab/how-pi-agent-works — Pi Agent 原理与实现",
       "url": "https://github.com/cellinlab/how-pi-agent-works",
-      "score": 4.14,
+      "score": 4.15,
       "niche": "ai",
       "source": "github",
       "engagement": {
-        "score": 143,
+        "score": 144,
+        "comments": 0
+      }
+    },
+    {
+      "title": "A couple of weeks ago a woman who’d followed me on Instagram for 10 years happened to be in town and came to pay me a visit. We had written back and forth over the years and sent each other gifts in t",
+      "url": "https://mastodon.social/@potterybyosa/116649056834031429",
+      "score": 4.13,
+      "niche": "software",
+      "source": "mastodon",
+      "engagement": {
+        "score": 352,
+        "comments": 7
+      }
+    },
+    {
+      "title": "ace-trump-tech/DeltaForce-OBS-Locker — 三角洲行动OBS锁头插件 – 基于OBS渲染注入的智能锁头辅助，支持QQ音乐/网易云联精准骨骼识别、平滑自瞄、压枪抑制，稳定过检，提升击杀效率。动加载。DeltaForce OBS Lockhead Plugin – Smart aim assist via OBS injection, supports QQ Musi",
+      "url": "https://github.com/ace-trump-tech/DeltaForce-OBS-Locker",
+      "score": 4.1,
+      "niche": "ai",
+      "source": "github",
+      "engagement": {
+        "score": 134,
+        "comments": 1
+      }
+    },
+    {
+      "title": "hieunc229/mailflare — Email client with custom domain based on Cloudflare",
+      "url": "https://github.com/hieunc229/mailflare",
+      "score": 4.03,
+      "niche": "ai",
+      "source": "github",
+      "engagement": {
+        "score": 124,
         "comments": 0
       }
     }
@@ -282,7 +282,7 @@
     {
       "keyword": "search visits",
       "count": 6,
-      "score": 49.7707047911446,
+      "score": 49.820777991341416,
       "niches": [
         "ai"
       ],
@@ -304,7 +304,7 @@
     {
       "keyword": "love mode",
       "count": 6,
-      "score": 49.7707047911446,
+      "score": 49.820777991341416,
       "niches": [
         "ai"
       ],
@@ -324,9 +324,92 @@
       "slug": "love-mode"
     },
     {
+      "keyword": "claude code",
+      "count": 12,
+      "score": 35.41635371411201,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "op7418/guizang-social-card-skill — 🪧 Claude Code / Codex skill — generate Xiaohongshu carousels & WeChat 21:9+1:1 cover pairs. Editorial × Swiss visual systems, 28 layouts, 10 themes, single-file HTM",
+          "url": "https://github.com/op7418/guizang-social-card-skill",
+          "source": "github"
+        },
+        {
+          "title": "nekocode/filetree-skill — A Claude Code plugin that maintains `FILETREE.md`.",
+          "url": "https://github.com/nekocode/filetree-skill",
+          "source": "github"
+        },
+        {
+          "title": "Why Ctrl+V won't paste images in Claude Code on WSL, with a fix",
+          "url": "https://rajveerbachkaniwala.com/blog/2026/05/24/on-the-difficulty-of-pasting-a-picture/",
+          "source": "hackernews"
+        },
+        {
+          "title": "caliper-ai 0.0.71",
+          "url": "https://pypi.org/project/caliper-ai/0.0.71/",
+          "source": "pypi"
+        }
+      ],
+      "id": "a625159d18da",
+      "slug": "claude-code"
+    },
+    {
+      "keyword": "anthropic openai",
+      "count": 3,
+      "score": 29.743778519040177,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "I think Anthropic and OpenAI have found product-market fit",
+          "url": "https://simonwillison.net/2026/May/27/product-market-fit/",
+          "source": "hackernews"
+        }
+      ],
+      "id": "f01b77252a47",
+      "slug": "anthropic-openai"
+    },
+    {
+      "keyword": "openai product-market",
+      "count": 3,
+      "score": 29.743778519040177,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "I think Anthropic and OpenAI have found product-market fit",
+          "url": "https://simonwillison.net/2026/May/27/product-market-fit/",
+          "source": "hackernews"
+        }
+      ],
+      "id": "2f161f5c4dec",
+      "slug": "openai-product-market"
+    },
+    {
+      "keyword": "product-market fit",
+      "count": 3,
+      "score": 29.743778519040177,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "I think Anthropic and OpenAI have found product-market fit",
+          "url": "https://simonwillison.net/2026/May/27/product-market-fit/",
+          "source": "hackernews"
+        }
+      ],
+      "id": "c707fb8e955d",
+      "slug": "product-market-fit"
+    },
+    {
       "keyword": "pasting huge",
       "count": 3,
-      "score": 35.13841029908686,
+      "score": 28.156891371504628,
       "niches": [
         "ai"
       ],
@@ -343,7 +426,7 @@
     {
       "keyword": "huge generated",
       "count": 3,
-      "score": 35.13841029908686,
+      "score": 28.156891371504628,
       "niches": [
         "ai"
       ],
@@ -360,7 +443,7 @@
     {
       "keyword": "generated explanation",
       "count": 3,
-      "score": 35.13841029908686,
+      "score": 28.156891371504628,
       "niches": [
         "ai"
       ],
@@ -377,7 +460,7 @@
     {
       "keyword": "explanation problem",
       "count": 3,
-      "score": 35.13841029908686,
+      "score": 28.156891371504628,
       "niches": [
         "ai"
       ],
@@ -394,7 +477,7 @@
     {
       "keyword": "problem issue",
       "count": 3,
-      "score": 35.13841029908686,
+      "score": 28.156891371504628,
       "niches": [
         "ai"
       ],
@@ -411,7 +494,7 @@
     {
       "keyword": "issue pull-request",
       "count": 3,
-      "score": 35.13841029908686,
+      "score": 28.156891371504628,
       "niches": [
         "ai"
       ],
@@ -428,7 +511,7 @@
     {
       "keyword": "pull-request nothing",
       "count": 3,
-      "score": 35.13841029908686,
+      "score": 28.156891371504628,
       "niches": [
         "ai"
       ],
@@ -445,7 +528,7 @@
     {
       "keyword": "nothing rude",
       "count": 3,
-      "score": 35.13841029908686,
+      "score": 28.156891371504628,
       "niches": [
         "ai"
       ],
@@ -462,7 +545,7 @@
     {
       "keyword": "rude don't",
       "count": 3,
-      "score": 35.13841029908686,
+      "score": 28.156891371504628,
       "niches": [
         "ai"
       ],
@@ -475,81 +558,13 @@
       ],
       "id": "d3cd7ee29662",
       "slug": "rude-dont"
-    },
-    {
-      "keyword": "don't stupid",
-      "count": 3,
-      "score": 35.13841029908686,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "Pasting a huge AI generated explanation to a problem in an issue or pull-request is nothing but RUDE. Don't do it. You look stupid and the receivers of that feel insulted.We are humans. We communicate",
-          "url": "https://mastodon.social/@bagder/116648467657760137",
-          "source": "mastodon"
-        }
-      ],
-      "id": "6240f0083269",
-      "slug": "dont-stupid"
-    },
-    {
-      "keyword": "stupid receivers",
-      "count": 3,
-      "score": 35.13841029908686,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "Pasting a huge AI generated explanation to a problem in an issue or pull-request is nothing but RUDE. Don't do it. You look stupid and the receivers of that feel insulted.We are humans. We communicate",
-          "url": "https://mastodon.social/@bagder/116648467657760137",
-          "source": "mastodon"
-        }
-      ],
-      "id": "ac95573dae08",
-      "slug": "stupid-receivers"
-    },
-    {
-      "keyword": "receivers insulted",
-      "count": 3,
-      "score": 35.13841029908686,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "Pasting a huge AI generated explanation to a problem in an issue or pull-request is nothing but RUDE. Don't do it. You look stupid and the receivers of that feel insulted.We are humans. We communicate",
-          "url": "https://mastodon.social/@bagder/116648467657760137",
-          "source": "mastodon"
-        }
-      ],
-      "id": "27091ff4b9e8",
-      "slug": "receivers-insulted"
-    },
-    {
-      "keyword": "insulted humans",
-      "count": 3,
-      "score": 35.13841029908686,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "Pasting a huge AI generated explanation to a problem in an issue or pull-request is nothing but RUDE. Don't do it. You look stupid and the receivers of that feel insulted.We are humans. We communicate",
-          "url": "https://mastodon.social/@bagder/116648467657760137",
-          "source": "mastodon"
-        }
-      ],
-      "id": "bf0955bec34f",
-      "slug": "insulted-humans"
     }
   ],
   "opportunities": [
     {
       "keyword": "search visits",
       "count": 6,
-      "score": 49.7707047911446,
+      "score": 49.820777991341416,
       "niches": [
         "ai"
       ],
@@ -575,7 +590,7 @@
     {
       "keyword": "love mode",
       "count": 6,
-      "score": 49.7707047911446,
+      "score": 49.820777991341416,
       "niches": [
         "ai"
       ],
@@ -599,9 +614,108 @@
       }
     },
     {
+      "keyword": "claude code",
+      "count": 12,
+      "score": 35.41635371411201,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "op7418/guizang-social-card-skill — 🪧 Claude Code / Codex skill — generate Xiaohongshu carousels & WeChat 21:9+1:1 cover pairs. Editorial × Swiss visual systems, 28 layouts, 10 themes, single-file HTM",
+          "url": "https://github.com/op7418/guizang-social-card-skill",
+          "source": "github"
+        },
+        {
+          "title": "nekocode/filetree-skill — A Claude Code plugin that maintains `FILETREE.md`.",
+          "url": "https://github.com/nekocode/filetree-skill",
+          "source": "github"
+        },
+        {
+          "title": "Why Ctrl+V won't paste images in Claude Code on WSL, with a fix",
+          "url": "https://rajveerbachkaniwala.com/blog/2026/05/24/on-the-difficulty-of-pasting-a-picture/",
+          "source": "hackernews"
+        },
+        {
+          "title": "caliper-ai 0.0.71",
+          "url": "https://pypi.org/project/caliper-ai/0.0.71/",
+          "source": "pypi"
+        }
+      ],
+      "id": "a625159d18da",
+      "slug": "claude-code",
+      "opportunity": {
+        "type": "tooling",
+        "recommended": "Build / list AI tools; monetize via affiliate links + lead magnet."
+      }
+    },
+    {
+      "keyword": "anthropic openai",
+      "count": 3,
+      "score": 29.743778519040177,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "I think Anthropic and OpenAI have found product-market fit",
+          "url": "https://simonwillison.net/2026/May/27/product-market-fit/",
+          "source": "hackernews"
+        }
+      ],
+      "id": "f01b77252a47",
+      "slug": "anthropic-openai",
+      "opportunity": {
+        "type": "tooling",
+        "recommended": "Build / list AI tools; monetize via affiliate links + lead magnet."
+      }
+    },
+    {
+      "keyword": "openai product-market",
+      "count": 3,
+      "score": 29.743778519040177,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "I think Anthropic and OpenAI have found product-market fit",
+          "url": "https://simonwillison.net/2026/May/27/product-market-fit/",
+          "source": "hackernews"
+        }
+      ],
+      "id": "2f161f5c4dec",
+      "slug": "openai-product-market",
+      "opportunity": {
+        "type": "affiliate",
+        "recommended": "Write SEO comparison/roundup article with affiliate links."
+      }
+    },
+    {
+      "keyword": "product-market fit",
+      "count": 3,
+      "score": 29.743778519040177,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "I think Anthropic and OpenAI have found product-market fit",
+          "url": "https://simonwillison.net/2026/May/27/product-market-fit/",
+          "source": "hackernews"
+        }
+      ],
+      "id": "c707fb8e955d",
+      "slug": "product-market-fit",
+      "opportunity": {
+        "type": "affiliate",
+        "recommended": "Write SEO comparison/roundup article with affiliate links."
+      }
+    },
+    {
       "keyword": "pasting huge",
       "count": 3,
-      "score": 35.13841029908686,
+      "score": 28.156891371504628,
       "niches": [
         "ai"
       ],
@@ -622,7 +736,7 @@
     {
       "keyword": "huge generated",
       "count": 3,
-      "score": 35.13841029908686,
+      "score": 28.156891371504628,
       "niches": [
         "ai"
       ],
@@ -635,90 +749,6 @@
       ],
       "id": "755d8da0e49e",
       "slug": "huge-generated",
-      "opportunity": {
-        "type": "niche-content",
-        "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
-      }
-    },
-    {
-      "keyword": "generated explanation",
-      "count": 3,
-      "score": 35.13841029908686,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "Pasting a huge AI generated explanation to a problem in an issue or pull-request is nothing but RUDE. Don't do it. You look stupid and the receivers of that feel insulted.We are humans. We communicate",
-          "url": "https://mastodon.social/@bagder/116648467657760137",
-          "source": "mastodon"
-        }
-      ],
-      "id": "e8e18b0e6fcd",
-      "slug": "generated-explanation",
-      "opportunity": {
-        "type": "affiliate",
-        "recommended": "Write SEO comparison/roundup article with affiliate links."
-      }
-    },
-    {
-      "keyword": "explanation problem",
-      "count": 3,
-      "score": 35.13841029908686,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "Pasting a huge AI generated explanation to a problem in an issue or pull-request is nothing but RUDE. Don't do it. You look stupid and the receivers of that feel insulted.We are humans. We communicate",
-          "url": "https://mastodon.social/@bagder/116648467657760137",
-          "source": "mastodon"
-        }
-      ],
-      "id": "9299b633fb16",
-      "slug": "explanation-problem",
-      "opportunity": {
-        "type": "affiliate",
-        "recommended": "Write SEO comparison/roundup article with affiliate links."
-      }
-    },
-    {
-      "keyword": "problem issue",
-      "count": 3,
-      "score": 35.13841029908686,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "Pasting a huge AI generated explanation to a problem in an issue or pull-request is nothing but RUDE. Don't do it. You look stupid and the receivers of that feel insulted.We are humans. We communicate",
-          "url": "https://mastodon.social/@bagder/116648467657760137",
-          "source": "mastodon"
-        }
-      ],
-      "id": "463df09bddb1",
-      "slug": "problem-issue",
-      "opportunity": {
-        "type": "affiliate",
-        "recommended": "Write SEO comparison/roundup article with affiliate links."
-      }
-    },
-    {
-      "keyword": "issue pull-request",
-      "count": 3,
-      "score": 35.13841029908686,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "Pasting a huge AI generated explanation to a problem in an issue or pull-request is nothing but RUDE. Don't do it. You look stupid and the receivers of that feel insulted.We are humans. We communicate",
-          "url": "https://mastodon.social/@bagder/116648467657760137",
-          "source": "mastodon"
-        }
-      ],
-      "id": "2f56ac8de9fa",
-      "slug": "issue-pull-request",
       "opportunity": {
         "type": "niche-content",
         "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
