@@ -113,17 +113,28 @@ export function rankItems(items) {
 // Extract capitalized multi-word sequences (proper nouns / named entities) from
 // an original-cased title. "Anthropic OpenAI", "Product Market Fit", "Claude Code".
 // These are far higher-value topics than lowercase conversational fragments.
+// Common sentence-initial words that get falsely capitalized as "proper nouns".
+const PROPER_FALSE_POSITIVES = new Set('this that these those here there what when where why how who which our your their here pasting making taking getting using building running asking telling showing finding adding doing going coming looking seeming the don dont cant wont isnt arent here'.split(' '));
+
 function properPhrases(title) {
   const out = new Set();
-  // Sequences of 1-4 Capitalized words (allowing internal lowercase like "of")
+  const t = String(title);
+  // Strip leading word after sentence boundaries to reduce false capitalization.
+  // Sequences of 1-4 Capitalized words (allowing internal lowercase connectors).
   const re = /\b([A-Z][a-zA-Z0-9.+]{1,}(?:\s+(?:[A-Z][a-zA-Z0-9.+]{1,}|of|the|for|and)){0,3})\b/g;
   let m;
-  while ((m = re.exec(String(title)))) {
-    const phrase = m[1].trim();
+  while ((m = re.exec(t))) {
+    const phrase = m[1].trim().replace(/\.$/, '');
     const words = phrase.split(/\s+/).filter(w => !['of', 'the', 'for', 'and'].includes(w.toLowerCase()));
-    if (words.length >= 1 && words.join('').length >= 4) {
-      out.add(phrase.toLowerCase());
+    const lower = phrase.toLowerCase();
+    // Single-word "propers" must not be common gerunds/sentence-starters.
+    if (words.length === 1) {
+      const w = words[0].toLowerCase();
+      if (w.endsWith('ing')) continue;
+      if (PROPER_FALSE_POSITIVES.has(w)) continue;
+      if (w.length < 4) continue;
     }
+    if (words.join('').length >= 4) out.add(lower);
   }
   return out;
 }

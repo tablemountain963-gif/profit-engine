@@ -333,6 +333,7 @@ function renderPage({ title, desc, body, breadcrumb, breadcrumbHref, published, 
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
   <meta name="theme-color" content="#0a0c0b" />
+  ${process.env.GOOGLE_SITE_VERIFICATION ? `<meta name="google-site-verification" content="${escapeHtml(process.env.GOOGLE_SITE_VERIFICATION)}" />` : ''}
   <title>${escapeHtml(title)} — ${SITE_TITLE}</title>
   ${seoMeta || `<meta name="description" content="${escapeHtml(desc || SITE_DESC)}" />`}
   <link rel="alternate" type="application/rss+xml" href="/feed.xml" />
