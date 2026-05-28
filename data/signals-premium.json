@@ -1,44 +1,132 @@
 {
-  "generatedAt": "2026-05-28T20:12:51.948Z",
-  "sourceCount": 207,
+  "generatedAt": "2026-05-28T22:24:35.917Z",
+  "sourceCount": 205,
   "topItems": [
     {
       "title": "Claude Opus 4.8",
       "url": "https://www.anthropic.com/news/claude-opus-4-8",
-      "score": 10.66,
+      "score": 10.99,
       "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 853,
-        "comments": 647
+        "score": 1051,
+        "comments": 838
       }
     },
     {
       "title": "\"After years of painstaking research in ancient grimoires and microcontroller logic, I have perfected it!\" the professor exclaimed. \"What?\"\"All printers are possessed. I've made a PDF which performs a",
       "url": "https://mastodon.art/@MicroSFF/116653295990557708",
-      "score": 9.71,
+      "score": 10.08,
       "niche": "ai",
       "source": "mastodon",
       "engagement": {
-        "score": 419,
-        "comments": 7
+        "score": 528,
+        "comments": 9
       }
     },
     {
       "title": "Dryad, a poster illustration for the Geek Faeries Festival.#krita #illustration #digitalpainting #fantasy #dryad",
       "url": "https://framapiaf.org/@davidrevoy/116653488325014758",
-      "score": 9.18,
+      "score": 9.73,
       "niche": "ai",
       "source": "mastodon",
       "engagement": {
-        "score": 718,
+        "score": 1072,
+        "comments": 12
+      }
+    },
+    {
+      "title": "RE: https://techhub.social/@Techmeme/116653554177369852If anybody is wondering how this bubble hasn’t popped yet - I still run into companies with blockchain teams. Everybody pretended GameStop could ",
+      "url": "https://cyberplace.social/@GossiTheDog/116653564674462809",
+      "score": 9.17,
+      "niche": "ai",
+      "source": "mastodon",
+      "engagement": {
+        "score": 275,
+        "comments": 17
+      }
+    },
+    {
+      "title": "Dear Fedi friends,I hereby present you my new favorite website: https://isaiprofitable.com, which tracks the spending and revenue of all the major AI companies.Oh it is glorious - the perfect link to ",
+      "url": "https://mastodon.social/@_elena/116652356526060818",
+      "score": 8.84,
+      "niche": "ai",
+      "source": "mastodon",
+      "engagement": {
+        "score": 914,
+        "comments": 44
+      }
+    },
+    {
+      "title": "Anthropic raises $65B in Series H funding at $965B post-money valuation",
+      "url": "https://www.anthropic.com/news/series-h",
+      "score": 8.73,
+      "niche": "ai",
+      "source": "hackernews",
+      "engagement": {
+        "score": 197,
+        "comments": 168
+      }
+    },
+    {
+      "title": "Seattle gave Mark Zuckerberg a proper welcome after he pulled up in his mega-yacht the day after Meta cut 1,400 local jobs. One local artist even set up an easel on the dock and painted Zuck’s yacht g",
+      "url": "https://mastodon.online/@streetartutopia/116654006949503850",
+      "score": 8.57,
+      "niche": "ai",
+      "source": "mastodon",
+      "engagement": {
+        "score": 200,
+        "comments": 6
+      }
+    },
+    {
+      "title": "Dynamic Workflows in Claude Code",
+      "url": "https://claude.com/blog/introducing-dynamic-workflows-in-claude-code",
+      "score": 8.09,
+      "niche": "ai",
+      "source": "hackernews",
+      "engagement": {
+        "score": 129,
+        "comments": 104
+      }
+    },
+    {
+      "title": "Sam Altman and Dario Amodei are both walking back AI jobs apocalypse predictions",
+      "url": "https://fortune.com/2026/05/26/sam-altman-dario-amodei-walking-back-ai-jobs-apocalypse-prophecies-ipo/",
+      "score": 8.02,
+      "niche": "ai",
+      "source": "hackernews",
+      "engagement": {
+        "score": 120,
+        "comments": 100
+      }
+    },
+    {
+      "title": "“Can I just say f**k AI, f**k AI, f**k AI?” the comedian, actor, and rotating host of The Daily Show asked in his keynote speech during the Class Day celebration on Wednesday. The crowd at Tercentenar",
+      "url": "https://glammr.us/@overholt/116653735304880392",
+      "score": 7.75,
+      "niche": "ai",
+      "source": "mastodon",
+      "engagement": {
+        "score": 245,
         "comments": 9
+      }
+    },
+    {
+      "title": "Various LLM Smells",
+      "url": "https://shvbsle.in/various-llm-smells/",
+      "score": 7.7,
+      "niche": "ai",
+      "source": "hackernews",
+      "engagement": {
+        "score": 110,
+        "comments": 72
       }
     },
     {
       "title": "adelaideacfalle50838568946/ChatGPT-Pro-Desktop-2026 — A comprehensive desktop application package for advanced ChatGPT interactions and management.",
       "url": "https://github.com/adelaideacfalle50838568946/ChatGPT-Pro-Desktop-2026",
-      "score": 9.14,
+      "score": 6.86,
       "niche": "ai",
       "source": "github",
       "engagement": {
@@ -47,145 +135,13 @@
       }
     },
     {
-      "title": "Dear Fedi friends,I hereby present you my new favorite website: https://isaiprofitable.com, which tracks the spending and revenue of all the major AI companies.Oh it is glorious - the perfect link to ",
-      "url": "https://mastodon.social/@_elena/116652356526060818",
-      "score": 8.69,
-      "niche": "ai",
-      "source": "mastodon",
-      "engagement": {
-        "score": 813,
-        "comments": 42
-      }
-    },
-    {
-      "title": "I do not use AI in my legal work.Some of my clients use AI.I saw an AI output this morning, purporting to give information about data protection law (whether an IP address is personal data).It include",
-      "url": "https://mastodon.neilzone.co.uk/@neil/116652237696180769",
-      "score": 8.57,
-      "niche": "ai",
-      "source": "mastodon",
-      "engagement": {
-        "score": 749,
-        "comments": 32
-      }
-    },
-    {
-      "title": "manuelageske58246958801/DeepFake-AI-2026-RealTime — An advanced, LLM-powered toolkit providing comprehensive capabilities for ethical synthetic media detection, analysis, and responsible content gener",
-      "url": "https://github.com/manuelageske58246958801/DeepFake-AI-2026-RealTime",
-      "score": 8.57,
-      "niche": "ai",
-      "source": "github",
-      "engagement": {
-        "score": 202,
-        "comments": 0
-      }
-    },
-    {
-      "title": "RE: https://techhub.social/@Techmeme/116653554177369852If anybody is wondering how this bubble hasn’t popped yet - I still run into companies with blockchain teams. Everybody pretended GameStop could ",
-      "url": "https://cyberplace.social/@GossiTheDog/116653564674462809",
-      "score": 8.37,
-      "niche": "ai",
-      "source": "mastodon",
-      "engagement": {
-        "score": 169,
-        "comments": 9
-      }
-    },
-    {
-      "title": "AI App Builders Cheat Sheet: Best No-Code, Full-Stack, and Mobile App Tools",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1zMWpBTmxvVG1mNS02SW1NS0ltdVlHcTlhNnMybTBXQ2hlUWJnUlRvekF3YnpQU1lNNG51RVZVVTNUR1RlVzFZUmdkTWVoeVdYdUl1UXBjdGx1WW1QalhYbFVjZXZ0WV9tZENJQw?oc=5",
-      "score": 8.26,
-      "niche": "ai",
-      "source": "gnews",
-      "engagement": {
-        "score": 40,
-        "comments": 0
-      }
-    },
-    {
-      "title": "Anthropic raises $65B in Series H funding at $965B post-money valuation",
-      "url": "https://www.anthropic.com/news/series-h",
-      "score": 8.14,
-      "niche": "ai",
-      "source": "hackernews",
-      "engagement": {
-        "score": 132,
-        "comments": 108
-      }
-    },
-    {
-      "title": "Dynamic Workflows in Claude Code",
-      "url": "https://claude.com/blog/introducing-dynamic-workflows-in-claude-code",
-      "score": 7.87,
-      "niche": "ai",
-      "source": "hackernews",
-      "engagement": {
-        "score": 105,
-        "comments": 91
-      }
-    },
-    {
-      "title": "The 5 Best AI Tools to Maximize Your Online Meetings",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9WR3I5eEkzMklJRmZ6MjJBVENIbGJFT09sTUFDem8tLXFwRWJXd0ViNndjSHFNR2xraVIyeEZXTTNwa0VaM044aFFiZl8tUWxQLTFHNFpHWTZrdE1HdHlpc2x3MnJ5QlRmUGJmVWdKRE81c0pxXzhN?oc=5",
-      "score": 7.48,
-      "niche": "ai",
-      "source": "gnews",
-      "engagement": {
-        "score": 40,
-        "comments": 0
-      }
-    },
-    {
-      "title": "YouTube to automatically label AI-generated videos https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/This is a good start. Next give me button where I want to hide all AI slop ",
-      "url": "https://mastodon.social/@nixCraft/116653334796708338",
-      "score": 7.23,
-      "niche": "ai",
-      "source": "mastodon",
-      "engagement": {
-        "score": 83,
-        "comments": 4
-      }
-    },
-    {
-      "title": "“The Family Pet” Postcard from my collection, mailed 1910.",
-      "url": "https://mastodon.social/@CatsOfYore/116653245263244222",
-      "score": 6.94,
-      "niche": "ai",
-      "source": "mastodon",
-      "engagement": {
-        "score": 146,
-        "comments": 0
-      }
-    },
-    {
-      "title": "About LLMs at Zig Days",
-      "url": "https://kristoff.it/blog/llms-at-zig-days/",
-      "score": 6.92,
-      "niche": "ai",
-      "source": "hackernews",
-      "engagement": {
-        "score": 58,
-        "comments": 43
-      }
-    },
-    {
       "title": "Sophomoresty/gemini-web2api — Convert Google Gemini web into OpenAI-compatible API. Zero auth, cross-platform, single file.",
       "url": "https://github.com/Sophomoresty/gemini-web2api",
-      "score": 6.8,
+      "score": 6.82,
       "niche": "ai",
       "source": "github",
       "engagement": {
-        "score": 203,
-        "comments": 0
-      }
-    },
-    {
-      "title": "beykantemel0702azfy8144/WorpGPT-Latest-2026-AllPrompts — A comprehensive Red Teaming framework for testing Large Language Model (LLM) robustness against adversarial prompt engineering and jailbreak ve",
-      "url": "https://github.com/beykantemel0702azfy8144/WorpGPT-Latest-2026-AllPrompts",
-      "score": 6.79,
-      "niche": "ai",
-      "source": "github",
-      "engagement": {
-        "score": 202,
+        "score": 206,
         "comments": 0
       }
     },
@@ -201,41 +157,52 @@
       }
     },
     {
-      "title": "YouTube to automatically label AI-generated videos",
-      "url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
-      "score": 6.6,
+      "title": "Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue",
+      "url": "https://llmgame.scalex.dev",
+      "score": 6.64,
       "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 1244,
-        "comments": 739
+        "score": 201,
+        "comments": 96
       }
     },
     {
-      "title": "Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue",
-      "url": "https://llmgame.scalex.dev",
-      "score": 6.45,
+      "title": "YouTube to automatically label AI-generated videos",
+      "url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
+      "score": 6.61,
       "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 164,
-        "comments": 83
+        "score": 1260,
+        "comments": 750
+      }
+    },
+    {
+      "title": "manuelageske58246958801/DeepFake-AI-2026-RealTime — An advanced, LLM-powered toolkit providing comprehensive capabilities for ethical synthetic media detection, analysis, and responsible content gener",
+      "url": "https://github.com/manuelageske58246958801/DeepFake-AI-2026-RealTime",
+      "score": 6.42,
+      "niche": "ai",
+      "source": "github",
+      "engagement": {
+        "score": 202,
+        "comments": 0
       }
     },
     {
       "title": "withkynam/vibecode-pro-max-kit — Your AI forgets. This remembers. Spec-driven coding harness for vibecoders, product owners, CEOs and real builders — self-improving context memory, 12 agents, 32 skill",
       "url": "https://github.com/withkynam/vibecode-pro-max-kit",
-      "score": 6.18,
+      "score": 6.21,
       "niche": "ai",
       "source": "github",
       "engagement": {
-        "score": 267,
+        "score": 274,
         "comments": 16
       }
     },
     {
-      "title": "10 Best AI Text Generator Tools Tested for 2026",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE94ajFVejBCX2U3MUo1d3FlWFNzeTBXZU1ENl9LZkRrVWczWHRFN2lmNVd2U0E4Tk1YNFpqYnhfLTRmTVNhVUttOFNrQWdEOHZyNGF0Vm8xQQ?oc=5",
+      "title": "Best Buy stock gains as new gadgets and higher tax refunds boost sales",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPaEJoWVphTXpnR2tSRTR1N0t1d2FsNDBiclJrdEdCSnNMdEhzQURydWl1WHNNWE5EaUVSa2dDdFQ1SEJnRW13alJ2cVpjZ2dtVW9rZUVEQ2E3TFhqN0oxb0REcmMxUldRc3VSVGp6eVBOUHJwLUFuLTAzWUJkODQ0ZFZsM0F0TVBHcHpBZWRnZE5ibWNRTHpvNE9nU3ZxRVBBVW5fc201M0FnRzh4NjhCSXZSRWZQWDJ2SXlZbVUzY0RkaG5LQXVPS2NITzkyckU?oc=5",
       "score": 5.99,
       "niche": "ai",
       "source": "gnews",
@@ -245,20 +212,53 @@
       }
     },
     {
-      "title": "The 20 Best Sales Closing Tools for SaaS Teams in 2026",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZndZN3ExZWd2dWUyM2gzRlpvb19UY1BNbC1iZldyWDlpRjBNZlQ4b2Vkb1llNWF6azEwQkZBZ0ZpSXFnMG9uMFd2emw0UU11LW9QSmVDcVBncDNuLTJKdG5CMWNGQmludy1vclVmUndZejlzZjJSbHpVT3NhTGJoY2tqYW9TWTZ5ZXc?oc=5",
-      "score": 5.99,
+      "title": "actuallyaridan/linux-devmgmt — A faithful recreation of the Windows Device Manager built with Qt6 and real hardware backends via sysfs/procfs. Best enjoyed with AeroThemePlasma, but looks great on reg",
+      "url": "https://github.com/actuallyaridan/linux-devmgmt",
+      "score": 5.82,
       "niche": "ai",
-      "source": "gnews",
+      "source": "github",
       "engagement": {
-        "score": 40,
+        "score": 212,
+        "comments": 1
+      }
+    },
+    {
+      "title": "zhristophe/Claude-Mythos-AI-Anthropic-App — claude mythos ai anthropic app github open source desktop mobile client abhishekk130804 anthropic api key creative writing roleplay character cards deep rea",
+      "url": "https://github.com/zhristophe/Claude-Mythos-AI-Anthropic-App",
+      "score": 5.69,
+      "niche": "ai",
+      "source": "github",
+      "engagement": {
+        "score": 188,
+        "comments": 1
+      }
+    },
+    {
+      "title": "Bhojendra-dev/LSFG-Desktop — lossless scaling steam desck download github reddit android lsfg 3 frame generation best settings upscaling ai ls1 fsr nis integer scaling windows 11 steam deck decky load",
+      "url": "https://github.com/Bhojendra-dev/LSFG-Desktop",
+      "score": 5.69,
+      "niche": "ai",
+      "source": "github",
+      "engagement": {
+        "score": 188,
+        "comments": 1
+      }
+    },
+    {
+      "title": "op7418/guizang-social-card-skill — 🪧 Claude Code / Codex skill — generate Xiaohongshu carousels & WeChat 21:9+1:1 cover pairs. Editorial × Swiss visual systems, 28 layouts, 10 themes, single-file HTM",
+      "url": "https://github.com/op7418/guizang-social-card-skill",
+      "score": 5.5,
+      "niche": "ai",
+      "source": "github",
+      "engagement": {
+        "score": 730,
         "comments": 0
       }
     },
     {
-      "title": "Tech stocks today: Software stocks gain as Snowflake earnings allay AI fears, Anthropic upgrades its flagship model",
-      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPNXNremcydElxR09WRFg0cUhpd0l4ZmZObFpYR2ZYZnZib090NmpsQVh6SUJRZHJuWi11YVVBRHRvSS00alpDV2xiWGF0djROZG1jcGlSUXpYYmFHaDZzN2IwRGRNU0c1V1M3eTBqVTVYMXYzbXpqclBUNGh2cGoyZmZNc0F5U1o3Z3BlNzFpblRUR2pTVWxkbzREcnRIT0ZXcER3TlF4YThFNmh1ODJZc3V0Qk12Q2RBX0hsQUtqS1gxY2NwdkVwdjlPQUlfVzRRaUd1Wkg5SVlHUFlzX0tua2Zad0hOSlRMWHVjLWFhQzNGdHF5LXVnbWpaTTlkU0R6c2taaXVLWU12UQ?oc=5",
-      "score": 5.94,
+      "title": "Best Buy forecasts upbeat sales as AI gadgets boost demand; shares rise",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPaXkzaVhKV3c1eUQ1c3ZyT18tQlBiRGJzcnI3MkxKQlJPVi1FeVFnQ0c5a29zZDdMZXpNYTJGTWdyUlo3ZS1IbVhhTlpESm5FN0MzN0VpaG9CS2NyemNZYmtYT1VEdnVLMjJkcDRWa0ZjM1AzRGlRY3BYOHVrWlZ3bVJEdWoyRm90dzRCV2ljZEtRYmdXeEMyd3c5dzFfNG51dXJ3UlN5RnJRU0V1WWNQdDlBZVJzRnd1bFdocDdn?oc=5",
+      "score": 5.37,
       "niche": "ai",
       "source": "gnews",
       "engagement": {
@@ -268,8 +268,8 @@
     },
     {
       "title": "Daily walks can add years to your life, says study",
-      "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxPUTlZMDVreFJLWVNIT2pRSm9PdG1SdUpCQmRHTWEzME15YzUxd3BSM1BpWDZzOXRTRm5nRmlydVQ3Z09sUmZNUUp5ejRiWjE5UmUwM1owdVhUd2lQTm5nUmJSa3pQSkdxWmRzWFNnUTl5VF9wYnZ4aFlBUzZWRk1CMS13cU9rb19JRXhpUGpvSENnNDBoVjlvXzExT1RzQ01MR29HR1liQ1ZFeFlmREltZHFHQU9RZUt3U3NBRy13SmlNN2VWWGM0NTdWNjhoOFRHR3pOYmJzZDZqMTg4WFl5Tmkxc2JhbjlSdFJpOTNhT08zRjEyNVU3LXlGdEFUeDFYTFIzc3JFMUQ5dW9ySDE3Q2JjRVJpUXJCcXBOSUsxVVI5SkZoaVJiVnpXdHJtRzhjV0ZLeWVFRdIByAFBVV95cUxOdUZOamdqY1hMdXlfNmgxS0hkWmRUTVFaVFhIcDVrQ1dOWVpSQUFILTR4a1QwMjRoR2JFZC12WmdMM2xnVUdYRVBpNS10VnFjb1hxcGJKNUF5YklhMXhHLS14NEtPXzRKTUxqMWM2ZkhqZnlzUm8xcGg2bmdfVkVqbFVXU3FwZnZjZTRSbTdsWUR6Z0FjNFpYX3kydHhKanIwM2M0eC1rNVo4T3pjOFlIOU5hUW9PdGdDT1ZWNFAwd3dFMXdpRElfXw?oc=5",
-      "score": 5.94,
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVmtueTBQUUF6RWlRMWc4QWlpRzQydEphTHhBX05IbE5NMjNBSVFqT1ZpMERmZUpMRHBpWDVXbDkzek4zX2xyQllqUm9NZGhvaWU5NFpaYjYzSm5pRVVpd1RjWHVNQmdHQUotSDIweTUzaHdXTUhsTmstYXA2SU9KUThKc1RpTUZvRU1tU0hHOF9yckF6cGcwenl4Tmh3OFdaSE5aeF83S2dIRG1pV3JVVWpTY1TSAboBQVVfeXFMTmVQVU5ZRlR1NFdHTGhFVHpFWktJNEt4TzB2alpfVFZsVTcxUDBpMGR4cUQwQ3hpV3BiOXVqclRuNFgzcFo3TnJiSDh5cHJHX3lxSlhCTzJSV05HbDRuRURwd3ZMS3JEalpvQTdCR3RySEw3REtyWHk5anFlYm41TWtEZkY0NzNWUDdrZFdUMlZtTjRKbVdTZm9yU290bE9iUnBtdUk5V242V25iVGdCTHNwMFNiZjk0Y0J3?oc=5",
+      "score": 5.16,
       "niche": "ai",
       "source": "gnews",
       "engagement": {
@@ -281,8 +281,8 @@
   "topics": [
     {
       "keyword": "claude code",
-      "count": 30,
-      "score": 238.9414905131624,
+      "count": 16,
+      "score": 163.09505765577103,
       "proper": true,
       "niches": [
         "ai"
@@ -307,11 +307,6 @@
           "title": "op7418/guizang-social-card-skill — 🪧 Claude Code / Codex skill — generate Xiaohongshu carousels & WeChat 21:9+1:1 cover pairs. Editorial × Swiss visual systems, 28 layouts, 10 themes, single-file HTM",
           "url": "https://github.com/op7418/guizang-social-card-skill",
           "source": "github"
-        },
-        {
-          "title": "Claude Code is the best AI coding tool I've used, and I’m not entirely sure if I can recommend it",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMnJUQnpneEtHMEJFZzZ0V0djN24zOVQyM3hpT09WYm5sUXBRVEo0QkFCZG50Q3RMMUtuczFwYk9aMEYxSFpBMVkxNDhrRmpOTUNJWE9teEVsR3JDYW9YMktENFYxQlBjTC1lM2hfYTJ3WkI4c0tyMTh3X0UzSWUwVUFMRlQtSjhIcnRuTTVYUW9OeXFVbUtHYmt3?oc=5",
-          "source": "gnews"
         }
       ],
       "id": "a625159d18da",
@@ -320,7 +315,7 @@
     {
       "keyword": "claude opus",
       "count": 8,
-      "score": 127.95011623785669,
+      "score": 131.93642365380256,
       "proper": true,
       "niches": [
         "ai"
@@ -341,32 +336,9 @@
       "slug": "claude-opus"
     },
     {
-      "keyword": "desktop",
-      "count": 10,
-      "score": 110.99461501721136,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "adelaideacfalle50838568946/ChatGPT-Pro-Desktop-2026 — A comprehensive desktop application package for advanced ChatGPT interactions and management.",
-          "url": "https://github.com/adelaideacfalle50838568946/ChatGPT-Pro-Desktop-2026",
-          "source": "github"
-        },
-        {
-          "title": "Bhojendra-dev/LSFG-Desktop — lossless scaling steam desck download github reddit android lsfg 3 frame generation best settings upscaling ai ls1 fsr nis integer scaling windows 11 steam deck decky load",
-          "url": "https://github.com/Bhojendra-dev/LSFG-Desktop",
-          "source": "github"
-        }
-      ],
-      "id": "68693d02ab4f",
-      "slug": "desktop"
-    },
-    {
       "keyword": "dear fedi",
       "count": 8,
-      "score": 104.33334642178255,
+      "score": 106.02995936174534,
       "proper": true,
       "niches": [
         "ai"
@@ -387,9 +359,47 @@
       "slug": "dear-fedi"
     },
     {
+      "keyword": "kitchen gadgets",
+      "count": 17,
+      "score": 105.5341244483126,
+      "proper": true,
+      "niches": [
+        "gear"
+      ],
+      "examples": [
+        {
+          "title": "I’ve Tested Dozens of Clever Kitchen Gadgets in 2026 — These Are the Only Ones That Stand Out",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYjN3YXF5MGV2R19DTkxmejBVdGdrelUxM01LSzJaNFF0TFNoN1NnMzdxSWplUjI1RkVnR1NDLXNXTDMyQnZuQmtWeG04a3BlQzU2UWEycFVzT1FsOUcxYVl1WjhvSzdUd2dSajBPMHRRZTZSVlBSS0xKbWVjYUxXelg3b0dZV1o1RXVQamtxX28zU3Rh?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "I’ve Tested Dozens of Clever Kitchen Gadgets in 2026 — These Are the Only Ones That Stand Out",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYjN3YXF5MGV2R19DTkxmejBVdGdrelUxM01LSzJaNFF0TFNoN1NnMzdxSWplUjI1RkVnR1NDLXNXTDMyQnZuQmtWeG04a3BlQzU2UWEycFVzT1FsOUcxYVl1WjhvSzdUd2dSajBPMHRRZTZSVlBSS0xKbWVjYUxXelg3b0dZV1o1RXVQamtxX28zU3Rh?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "I’ve Tested Dozens of Clever Kitchen Gadgets in 2026 — These Are the Only Ones That Stand Out",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYjN3YXF5MGV2R19DTkxmejBVdGdrelUxM01LSzJaNFF0TFNoN1NnMzdxSWplUjI1RkVnR1NDLXNXTDMyQnZuQmtWeG04a3BlQzU2UWEycFVzT1FsOUcxYVl1WjhvSzdUd2dSajBPMHRRZTZSVlBSS0xKbWVjYUxXelg3b0dZV1o1RXVQamtxX28zU3Rh?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "It’s My Job to Test Kitchen Gadgets, and These Are My 13 Favorite Finds of 2026 So Far",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1MZkotUkM5UXM5MGU1c3ctSGV4Rmhncm10dC1kRmJZaW1HeFhRYjU5Y2pPa0NqTEVtS2l5YWJ4WUs0dVdqc29HTnJILXZndXVYM3ptamMtWXdtQ3hsUW5kNVVHQjNYS2RVU1d5TE42OTVnN2l4M2J6OWNB?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "It’s My Job to Test Kitchen Gadgets, and These Are My 13 Favorite Finds of 2026 So Far",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1MZkotUkM5UXM5MGU1c3ctSGV4Rmhncm10dC1kRmJZaW1HeFhRYjU5Y2pPa0NqTEVtS2l5YWJ4WUs0dVdqc29HTnJILXZndXVYM3ptamMtWXdtQ3hsUW5kNVVHQjNYS2RVU1d5TE42OTVnN2l4M2J6OWNB?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "4e4a1c4cb31e",
+      "slug": "kitchen-gadgets"
+    },
+    {
       "keyword": "open source",
       "count": 14,
-      "score": 103.8337580134735,
+      "score": 103.96315540494436,
       "proper": true,
       "niches": [
         "ai"
@@ -420,9 +430,55 @@
       "slug": "open-source"
     },
     {
+      "keyword": "dynamic workflows",
+      "count": 8,
+      "score": 97.11040129066194,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "Dynamic Workflows in Claude Code",
+          "url": "https://claude.com/blog/introducing-dynamic-workflows-in-claude-code",
+          "source": "hackernews"
+        },
+        {
+          "title": "Dynamic Workflows in Claude Code",
+          "url": "https://claude.com/blog/introducing-dynamic-workflows-in-claude-code",
+          "source": "hackernews"
+        }
+      ],
+      "id": "8c592fcd6b07",
+      "slug": "dynamic-workflows"
+    },
+    {
+      "keyword": "desktop",
+      "count": 10,
+      "score": 94.11581483100767,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "adelaideacfalle50838568946/ChatGPT-Pro-Desktop-2026 — A comprehensive desktop application package for advanced ChatGPT interactions and management.",
+          "url": "https://github.com/adelaideacfalle50838568946/ChatGPT-Pro-Desktop-2026",
+          "source": "github"
+        },
+        {
+          "title": "Bhojendra-dev/LSFG-Desktop — lossless scaling steam desck download github reddit android lsfg 3 frame generation best settings upscaling ai ls1 fsr nis integer scaling windows 11 steam deck decky load",
+          "url": "https://github.com/Bhojendra-dev/LSFG-Desktop",
+          "source": "github"
+        }
+      ],
+      "id": "68693d02ab4f",
+      "slug": "desktop"
+    },
+    {
       "keyword": "claude",
-      "count": 12,
-      "score": 101.99065548882717,
+      "count": 11,
+      "score": 91.68109548118684,
       "proper": true,
       "niches": [
         "ai"
@@ -458,188 +514,83 @@
       "slug": "claude"
     },
     {
-      "keyword": "open",
-      "count": 14,
-      "score": 100.36070400854373,
-      "proper": true,
-      "niches": [
-        "ai",
-        "general"
-      ],
-      "examples": [
-        {
-          "title": "zhristophe/Claude-Mythos-AI-Anthropic-App — claude mythos ai anthropic app github open source desktop mobile client abhishekk130804 anthropic api key creative writing roleplay character cards deep rea",
-          "url": "https://github.com/zhristophe/Claude-Mythos-AI-Anthropic-App",
-          "source": "github"
-        },
-        {
-          "title": "Show HN: Ktx – Open-source executable context layer for data agents",
-          "url": "https://github.com/Kaelio/ktx",
-          "source": "hackernews"
-        },
-        {
-          "title": "IBM and Red Hat Commit $5 Billion to Redefine the Future of Open Source in the AI Era",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWWt0OS15bUhvZjZXbVdBYkE4MHI4R3ptWldmOV9SNzNCUXhhUm9iU3V2OVc0eUl0em0wRm0xblpoUXFlR185Wk5SSy04a2JicUlrMWdQeXJzQ0xDRVh4N0hBS0ZFcFVSYmNUVFJRUTVRVXhTYjFRS3cxODdlNGpMOFVDbnVJOUoyNS15RUZOMTlmUm9USEtHQ2kyUWFLUVlNaE5WTzliazF1TTJlNHVqNVVZMkFLR3JBckJ3eA?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "IBM and Red Hat Commit $5 Billion to Redefine the Future of Open Source in the AI Era",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWWt0OS15bUhvZjZXbVdBYkE4MHI4R3ptWldmOV9SNzNCUXhhUm9iU3V2OVc0eUl0em0wRm0xblpoUXFlR185Wk5SSy04a2JicUlrMWdQeXJzQ0xDRVh4N0hBS0ZFcFVSYmNUVFJRUTVRVXhTYjFRS3cxODdlNGpMOFVDbnVJOUoyNS15RUZOMTlmUm9USEtHQ2kyUWFLUVlNaE5WTzliazF1TTJlNHVqNVVZMkFLR3JBckJ3eA?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Show HN: Open-Source AI Racing Harness",
-          "url": "https://www.elodin.systems/post/elodin-ai-grand-prix-race-sim-harness",
-          "source": "hackernews"
-        }
-      ],
-      "id": "2348f9987442",
-      "slug": "open"
-    },
-    {
-      "keyword": "software",
-      "count": 13,
-      "score": 99.55392190759584,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "Tech stocks today: Software stocks gain as Snowflake earnings allay AI fears, Anthropic upgrades its flagship model",
-          "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPNXNremcydElxR09WRFg0cUhpd0l4ZmZObFpYR2ZYZnZib090NmpsQVh6SUJRZHJuWi11YVVBRHRvSS00alpDV2xiWGF0djROZG1jcGlSUXpYYmFHaDZzN2IwRGRNU0c1V1M3eTBqVTVYMXYzbXpqclBUNGh2cGoyZmZNc0F5U1o3Z3BlNzFpblRUR2pTVWxkbzREcnRIT0ZXcER3TlF4YThFNmh1ODJZc3V0Qk12Q2RBX0hsQUtqS1gxY2NwdkVwdjlPQUlfVzRRaUd1Wkg5SVlHUFlzX0tua2Zad0hOSlRMWHVjLWFhQzNGdHF5LXVnbWpaTTlkU0R6c2taaXVLWU12UQ?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Tech stocks today: Software stocks gain as Snowflake earnings allay AI fears, Anthropic upgrades its flagship model",
-          "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPNXNremcydElxR09WRFg0cUhpd0l4ZmZObFpYR2ZYZnZib090NmpsQVh6SUJRZHJuWi11YVVBRHRvSS00alpDV2xiWGF0djROZG1jcGlSUXpYYmFHaDZzN2IwRGRNU0c1V1M3eTBqVTVYMXYzbXpqclBUNGh2cGoyZmZNc0F5U1o3Z3BlNzFpblRUR2pTVWxkbzREcnRIT0ZXcER3TlF4YThFNmh1ODJZc3V0Qk12Q2RBX0hsQUtqS1gxY2NwdkVwdjlPQUlfVzRRaUd1Wkg5SVlHUFlzX0tua2Zad0hOSlRMWHVjLWFhQzNGdHF5LXVnbWpaTTlkU0R6c2taaXVLWU12UQ?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Snowflake surges 37% toward best day ever on AI frenzy, fueling software rally",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE44eUlqYUwzM3RabUg3ZXItM3hEbjY2amRfNnJwMHdhbnpCYzRyaTBiNWlRNmt4a2JyR3prQkVXNERzZmdvT01Nc2RQRFFuQ2J5SEdjM2FiY3d5Yk1RVkdxOU9jQjRFc2k0TnlDWjB6UGxUWDNiZTJZemxoZ07SAYIBQVVfeXFMTmpNQkl1aGdILVVlRmZwSmFyZE45Y2EyMFhBT1F6MVRGRGlXQXBVbElkT2hBZXBGcUh3aV9vbE1kRlRlOXplRC1vdjFJeXNPQllETkM2WkNfMFh3bmR2LWE5VjYzeE9MemZxNkdOTjJHSVZzeDhVM2taOWx0STVmM0tYZw?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Snowflake vs. Salesforce earnings: Is AI still disrupting software?",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTUgySlNBYjRnVGNER1UxblQ0VkhaaGh0YU5Lc1Vib1FHZFZIU19tU0FkWGt5TXo4VTJ0MHNCZjhVODRvend2LXlKWkJzcFBNZkJJbHhVd0VVNkxQdlpzaFk3aXZ5RFRyVnoyZERxa3UxX01hVDZiRFF2ZXBfS3pFVTV2N2ZwTzV2MExQQUVJYnJRVjFkT2o0OUNuZHQwaW0tWW1WcUFTOHpudnkzNmx5bw?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Snowflake vs. Salesforce earnings: Is AI still disrupting software?",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTUgySlNBYjRnVGNER1UxblQ0VkhaaGh0YU5Lc1Vib1FHZFZIU19tU0FkWGt5TXo4VTJ0MHNCZjhVODRvend2LXlKWkJzcFBNZkJJbHhVd0VVNkxQdlpzaFk3aXZ5RFRyVnoyZERxa3UxX01hVDZiRFF2ZXBfS3pFVTV2N2ZwTzV2MExQQUVJYnJRVjFkT2o0OUNuZHQwaW0tWW1WcUFTOHpudnkzNmx5bw?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "35390f5453e8",
-      "slug": "software"
-    },
-    {
-      "keyword": "saas teams",
+      "keyword": "arm metis",
       "count": 11,
-      "score": 98.77978565637038,
+      "score": 78.34258862401788,
       "proper": true,
       "niches": [
         "ai"
       ],
       "examples": [
         {
-          "title": "The 20 Best Sales Closing Tools for SaaS Teams in 2026",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZndZN3ExZWd2dWUyM2gzRlpvb19UY1BNbC1iZldyWDlpRjBNZlQ4b2Vkb1llNWF6azEwQkZBZ0ZpSXFnMG9uMFd2emw0UU11LW9QSmVDcVBncDNuLTJKdG5CMWNGQmludy1vclVmUndZejlzZjJSbHpVT3NhTGJoY2tqYW9TWTZ5ZXc?oc=5",
+          "title": "Agentic AI-powered Arm Metis advances security vulnerability discovery in software",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9MXzlkT2NIQUY0eUxLUFcwbU56ZTVCcjhfV05GYmM4b1E1WWFRMnZ3em1TVVhwNDk3SHJiYUVxT3BQX1BzVkVSOWxyYnJUUDl0N3J3THlDOW9EaTVWbU5wU1dPek9id3RUMmFz?oc=5",
           "source": "gnews"
         },
         {
-          "title": "The 20 Best Sales Closing Tools for SaaS Teams in 2026",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZndZN3ExZWd2dWUyM2gzRlpvb19UY1BNbC1iZldyWDlpRjBNZlQ4b2Vkb1llNWF6azEwQkZBZ0ZpSXFnMG9uMFd2emw0UU11LW9QSmVDcVBncDNuLTJKdG5CMWNGQmludy1vclVmUndZejlzZjJSbHpVT3NhTGJoY2tqYW9TWTZ5ZXc?oc=5",
+          "title": "Agentic AI-powered Arm Metis advances security vulnerability discovery in software",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9MXzlkT2NIQUY0eUxLUFcwbU56ZTVCcjhfV05GYmM4b1E1WWFRMnZ3em1TVVhwNDk3SHJiYUVxT3BQX1BzVkVSOWxyYnJUUDl0N3J3THlDOW9EaTVWbU5wU1dPek9id3RUMmFz?oc=5",
           "source": "gnews"
         },
         {
-          "title": "The 20 Best Sales Closing Tools for SaaS Teams in 2026",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZndZN3ExZWd2dWUyM2gzRlpvb19UY1BNbC1iZldyWDlpRjBNZlQ4b2Vkb1llNWF6azEwQkZBZ0ZpSXFnMG9uMFd2emw0UU11LW9QSmVDcVBncDNuLTJKdG5CMWNGQmludy1vclVmUndZejlzZjJSbHpVT3NhTGJoY2tqYW9TWTZ5ZXc?oc=5",
+          "title": "Agentic AI-powered Arm Metis advances security vulnerability discovery in software",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9MXzlkT2NIQUY0eUxLUFcwbU56ZTVCcjhfV05GYmM4b1E1WWFRMnZ3em1TVVhwNDk3SHJiYUVxT3BQX1BzVkVSOWxyYnJUUDl0N3J3THlDOW9EaTVWbU5wU1dPek9id3RUMmFz?oc=5",
           "source": "gnews"
         }
       ],
-      "id": "3388d099d228",
-      "slug": "saas-teams"
+      "id": "b4557f2dc721",
+      "slug": "arm-metis"
     },
     {
-      "keyword": "dynamic workflows",
-      "count": 8,
-      "score": 94.44067152995447,
+      "keyword": "gamestop",
+      "count": 5,
+      "score": 68.76158274982592,
       "proper": true,
       "niches": [
         "ai"
       ],
       "examples": [
         {
-          "title": "Dynamic Workflows in Claude Code",
-          "url": "https://claude.com/blog/introducing-dynamic-workflows-in-claude-code",
-          "source": "hackernews"
-        },
-        {
-          "title": "Dynamic Workflows in Claude Code",
-          "url": "https://claude.com/blog/introducing-dynamic-workflows-in-claude-code",
-          "source": "hackernews"
+          "title": "RE: https://techhub.social/@Techmeme/116653554177369852If anybody is wondering how this bubble hasn’t popped yet - I still run into companies with blockchain teams. Everybody pretended GameStop could ",
+          "url": "https://cyberplace.social/@GossiTheDog/116653564674462809",
+          "source": "mastodon"
         }
       ],
-      "id": "8c592fcd6b07",
-      "slug": "dynamic-workflows"
+      "id": "29d242f5a983",
+      "slug": "gamestop"
     },
     {
-      "keyword": "boost sales",
+      "keyword": "success won",
       "count": 11,
-      "score": 81.74878812940996,
+      "score": 68.12399010784164,
       "proper": true,
       "niches": [
         "ai"
       ],
       "examples": [
         {
-          "title": "Best AI Tools for eCommerce 2026: Boost Sales, Emails, and Pricing",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE56cTZNNkg4aXpPQkdReU5abjU3dk5tb1BjcFhlelZrWmExWjlvOFBlLWpWaDVkTjNCTnpuQkwxc1pRTjR2VHVnT0UzQl9ndVBUeURiaVdSZ29Za0Nxak9GWUFTQlM5dGYxR2tr?oc=5",
+          "title": "AI Has Caused a Software Winter for Markets. Snowflake’s Success Won’t End It.",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTlkxa2VIeHBKeFVtd3BfdDNPb0Y2dWxxOHZEUlpZaWJmTnRtdXVIMWRfZmlqRmxfS0JmZjZ0YlprN1BCcEdEOHZyWUVIUXUzZHNlcHdhQlg4RXBqVEpJcUVRREh0bTY3YThKSWFKY29oNkE4Y1E1X0xQaU1KS0NnVTlQcnpHbGw1ckYyYWR2N1dsZw?oc=5",
           "source": "gnews"
         },
         {
-          "title": "Best AI Tools for eCommerce 2026: Boost Sales, Emails, and Pricing",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE56cTZNNkg4aXpPQkdReU5abjU3dk5tb1BjcFhlelZrWmExWjlvOFBlLWpWaDVkTjNCTnpuQkwxc1pRTjR2VHVnT0UzQl9ndVBUeURiaVdSZ29Za0Nxak9GWUFTQlM5dGYxR2tr?oc=5",
+          "title": "AI Has Caused a Software Winter for Markets. Snowflake’s Success Won’t End It.",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTlkxa2VIeHBKeFVtd3BfdDNPb0Y2dWxxOHZEUlpZaWJmTnRtdXVIMWRfZmlqRmxfS0JmZjZ0YlprN1BCcEdEOHZyWUVIUXUzZHNlcHdhQlg4RXBqVEpJcUVRREh0bTY3YThKSWFKY29oNkE4Y1E1X0xQaU1KS0NnVTlQcnpHbGw1ckYyYWR2N1dsZw?oc=5",
           "source": "gnews"
         },
         {
-          "title": "Best AI Tools for eCommerce 2026: Boost Sales, Emails, and Pricing",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE56cTZNNkg4aXpPQkdReU5abjU3dk5tb1BjcFhlelZrWmExWjlvOFBlLWpWaDVkTjNCTnpuQkwxc1pRTjR2VHVnT0UzQl9ndVBUeURiaVdSZ29Za0Nxak9GWUFTQlM5dGYxR2tr?oc=5",
+          "title": "AI Has Caused a Software Winter for Markets. Snowflake’s Success Won’t End It.",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTlkxa2VIeHBKeFVtd3BfdDNPb0Y2dWxxOHZEUlpZaWJmTnRtdXVIMWRfZmlqRmxfS0JmZjZ0YlprN1BCcEdEOHZyWUVIUXUzZHNlcHdhQlg4RXBqVEpJcUVRREh0bTY3YThKSWFKY29oNkE4Y1E1X0xQaU1KS0NnVTlQcnpHbGw1ckYyYWR2N1dsZw?oc=5",
           "source": "gnews"
         }
       ],
-      "id": "c2f5b8bf738e",
-      "slug": "boost-sales"
-    },
-    {
-      "keyword": "red teaming",
-      "count": 8,
-      "score": 81.51922002739799,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "beykantemel0702azfy8144/WorpGPT-Latest-2026-AllPrompts — A comprehensive Red Teaming framework for testing Large Language Model (LLM) robustness against adversarial prompt engineering and jailbreak ve",
-          "url": "https://github.com/beykantemel0702azfy8144/WorpGPT-Latest-2026-AllPrompts",
-          "source": "github"
-        },
-        {
-          "title": "beykantemel0702azfy8144/WorpGPT-Latest-2026-AllPrompts — A comprehensive Red Teaming framework for testing Large Language Model (LLM) robustness against adversarial prompt engineering and jailbreak ve",
-          "url": "https://github.com/beykantemel0702azfy8144/WorpGPT-Latest-2026-AllPrompts",
-          "source": "github"
-        }
-      ],
-      "id": "0d3bf7bd70cc",
-      "slug": "red-teaming"
+      "id": "9f29e4ef7a87",
+      "slug": "success-won"
     },
     {
       "keyword": "fitness gear",
-      "count": 29,
-      "score": 74.51061418045177,
+      "count": 23,
+      "score": 65.1629189469042,
       "proper": true,
       "niches": [
         "gear",
@@ -676,57 +627,96 @@
       "slug": "fitness-gear"
     },
     {
-      "keyword": "success won",
-      "count": 11,
-      "score": 68.12399010784164,
+      "keyword": "open",
+      "count": 9,
+      "score": 61.381296649670915,
       "proper": true,
       "niches": [
-        "ai"
+        "ai",
+        "general"
       ],
       "examples": [
         {
-          "title": "AI Has Caused a Software Winter for Markets. Snowflake’s Success Won’t End It.",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTlkxa2VIeHBKeFVtd3BfdDNPb0Y2dWxxOHZEUlpZaWJmTnRtdXVIMWRfZmlqRmxfS0JmZjZ0YlprN1BCcEdEOHZyWUVIUXUzZHNlcHdhQlg4RXBqVEpJcUVRREh0bTY3YThKSWFKY29oNkE4Y1E1X0xQaU1KS0NnVTlQcnpHbGw1ckYyYWR2N1dsZw?oc=5",
+          "title": "zhristophe/Claude-Mythos-AI-Anthropic-App — claude mythos ai anthropic app github open source desktop mobile client abhishekk130804 anthropic api key creative writing roleplay character cards deep rea",
+          "url": "https://github.com/zhristophe/Claude-Mythos-AI-Anthropic-App",
+          "source": "github"
+        },
+        {
+          "title": "IBM and Red Hat Commit $5 Billion to Redefine the Future of Open Source in the AI Era",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWWt0OS15bUhvZjZXbVdBYkE4MHI4R3ptWldmOV9SNzNCUXhhUm9iU3V2OVc0eUl0em0wRm0xblpoUXFlR185Wk5SSy04a2JicUlrMWdQeXJzQ0xDRVh4N0hBS0ZFcFVSYmNUVFJRUTVRVXhTYjFRS3cxODdlNGpMOFVDbnVJOUoyNS15RUZOMTlmUm9USEtHQ2kyUWFLUVlNaE5WTzliazF1TTJlNHVqNVVZMkFLR3JBckJ3eA?oc=5",
           "source": "gnews"
         },
         {
-          "title": "AI Has Caused a Software Winter for Markets. Snowflake’s Success Won’t End It.",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTlkxa2VIeHBKeFVtd3BfdDNPb0Y2dWxxOHZEUlpZaWJmTnRtdXVIMWRfZmlqRmxfS0JmZjZ0YlprN1BCcEdEOHZyWUVIUXUzZHNlcHdhQlg4RXBqVEpJcUVRREh0bTY3YThKSWFKY29oNkE4Y1E1X0xQaU1KS0NnVTlQcnpHbGw1ckYyYWR2N1dsZw?oc=5",
+          "title": "IBM and Red Hat Commit $5 Billion to Redefine the Future of Open Source in the AI Era",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWWt0OS15bUhvZjZXbVdBYkE4MHI4R3ptWldmOV9SNzNCUXhhUm9iU3V2OVc0eUl0em0wRm0xblpoUXFlR185Wk5SSy04a2JicUlrMWdQeXJzQ0xDRVh4N0hBS0ZFcFVSYmNUVFJRUTVRVXhTYjFRS3cxODdlNGpMOFVDbnVJOUoyNS15RUZOMTlmUm9USEtHQ2kyUWFLUVlNaE5WTzliazF1TTJlNHVqNVVZMkFLR3JBckJ3eA?oc=5",
           "source": "gnews"
         },
         {
-          "title": "AI Has Caused a Software Winter for Markets. Snowflake’s Success Won’t End It.",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTlkxa2VIeHBKeFVtd3BfdDNPb0Y2dWxxOHZEUlpZaWJmTnRtdXVIMWRfZmlqRmxfS0JmZjZ0YlprN1BCcEdEOHZyWUVIUXUzZHNlcHdhQlg4RXBqVEpJcUVRREh0bTY3YThKSWFKY29oNkE4Y1E1X0xQaU1KS0NnVTlQcnpHbGw1ckYyYWR2N1dsZw?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "9f29e4ef7a87",
-      "slug": "success-won"
-    },
-    {
-      "keyword": "gamestop",
-      "count": 5,
-      "score": 62.76675663967757,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
+          "title": "Show HN: Ktx – Open-source executable context layer for data agents",
+          "url": "https://github.com/Kaelio/ktx",
+          "source": "hackernews"
+        },
         {
-          "title": "RE: https://techhub.social/@Techmeme/116653554177369852If anybody is wondering how this bubble hasn’t popped yet - I still run into companies with blockchain teams. Everybody pretended GameStop could ",
-          "url": "https://cyberplace.social/@GossiTheDog/116653564674462809",
+          "title": "Even after three visits, I still get goosebumps as I push open the heavy doors and step inside once more.Built in the 1920s, this stunning oval powerplant control room is one of the most impressive ex",
+          "url": "https://mstdn.social/@ObsidianUrbex/116653289996730077",
           "source": "mastodon"
         }
       ],
-      "id": "29d242f5a983",
-      "slug": "gamestop"
+      "id": "2348f9987442",
+      "slug": "open"
+    },
+    {
+      "keyword": "red teaming",
+      "count": 8,
+      "score": 61.13941502054848,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "beykantemel0702azfy8144/WorpGPT-Latest-2026-AllPrompts — A comprehensive Red Teaming framework for testing Large Language Model (LLM) robustness against adversarial prompt engineering and jailbreak ve",
+          "url": "https://github.com/beykantemel0702azfy8144/WorpGPT-Latest-2026-AllPrompts",
+          "source": "github"
+        },
+        {
+          "title": "beykantemel0702azfy8144/WorpGPT-Latest-2026-AllPrompts — A comprehensive Red Teaming framework for testing Large Language Model (LLM) robustness against adversarial prompt engineering and jailbreak ve",
+          "url": "https://github.com/beykantemel0702azfy8144/WorpGPT-Latest-2026-AllPrompts",
+          "source": "github"
+        }
+      ],
+      "id": "0d3bf7bd70cc",
+      "slug": "red-teaming"
+    },
+    {
+      "keyword": "producer suite",
+      "count": 8,
+      "score": 61.13941502054848,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "lawson8451jour1871/FL-Product-Version-26 — FL Studio 25 Producer Suite (2026) — Advanced audio engine optimization and offline licensing environment. Unlock All-Plugins Edition features, AI-Stem Separ",
+          "url": "https://github.com/lawson8451jour1871/FL-Product-Version-26",
+          "source": "github"
+        },
+        {
+          "title": "lawson8451jour1871/FL-Product-Version-26 — FL Studio 25 Producer Suite (2026) — Advanced audio engine optimization and offline licensing environment. Unlock All-Plugins Edition features, AI-Stem Separ",
+          "url": "https://github.com/lawson8451jour1871/FL-Product-Version-26",
+          "source": "github"
+        }
+      ],
+      "id": "3ff9e0ca613b",
+      "slug": "producer-suite"
     }
   ],
   "opportunities": [
     {
       "keyword": "claude code",
-      "count": 30,
-      "score": 238.9414905131624,
+      "count": 16,
+      "score": 163.09505765577103,
       "proper": true,
       "niches": [
         "ai"
@@ -751,11 +741,6 @@
           "title": "op7418/guizang-social-card-skill — 🪧 Claude Code / Codex skill — generate Xiaohongshu carousels & WeChat 21:9+1:1 cover pairs. Editorial × Swiss visual systems, 28 layouts, 10 themes, single-file HTM",
           "url": "https://github.com/op7418/guizang-social-card-skill",
           "source": "github"
-        },
-        {
-          "title": "Claude Code is the best AI coding tool I've used, and I’m not entirely sure if I can recommend it",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMnJUQnpneEtHMEJFZzZ0V0djN24zOVQyM3hpT09WYm5sUXBRVEo0QkFCZG50Q3RMMUtuczFwYk9aMEYxSFpBMVkxNDhrRmpOTUNJWE9teEVsR3JDYW9YMktENFYxQlBjTC1lM2hfYTJ3WkI4c0tyMTh3X0UzSWUwVUFMRlQtSjhIcnRuTTVYUW9OeXFVbUtHYmt3?oc=5",
-          "source": "gnews"
         }
       ],
       "id": "a625159d18da",
@@ -768,7 +753,7 @@
     {
       "keyword": "claude opus",
       "count": 8,
-      "score": 127.95011623785669,
+      "score": 131.93642365380256,
       "proper": true,
       "niches": [
         "ai"
@@ -793,36 +778,9 @@
       }
     },
     {
-      "keyword": "desktop",
-      "count": 10,
-      "score": 110.99461501721136,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "adelaideacfalle50838568946/ChatGPT-Pro-Desktop-2026 — A comprehensive desktop application package for advanced ChatGPT interactions and management.",
-          "url": "https://github.com/adelaideacfalle50838568946/ChatGPT-Pro-Desktop-2026",
-          "source": "github"
-        },
-        {
-          "title": "Bhojendra-dev/LSFG-Desktop — lossless scaling steam desck download github reddit android lsfg 3 frame generation best settings upscaling ai ls1 fsr nis integer scaling windows 11 steam deck decky load",
-          "url": "https://github.com/Bhojendra-dev/LSFG-Desktop",
-          "source": "github"
-        }
-      ],
-      "id": "68693d02ab4f",
-      "slug": "desktop",
-      "opportunity": {
-        "type": "affiliate",
-        "recommended": "Write SEO comparison/roundup article with affiliate links."
-      }
-    },
-    {
       "keyword": "dear fedi",
       "count": 8,
-      "score": 104.33334642178255,
+      "score": 106.02995936174534,
       "proper": true,
       "niches": [
         "ai"
@@ -847,9 +805,51 @@
       }
     },
     {
+      "keyword": "kitchen gadgets",
+      "count": 17,
+      "score": 105.5341244483126,
+      "proper": true,
+      "niches": [
+        "gear"
+      ],
+      "examples": [
+        {
+          "title": "I’ve Tested Dozens of Clever Kitchen Gadgets in 2026 — These Are the Only Ones That Stand Out",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYjN3YXF5MGV2R19DTkxmejBVdGdrelUxM01LSzJaNFF0TFNoN1NnMzdxSWplUjI1RkVnR1NDLXNXTDMyQnZuQmtWeG04a3BlQzU2UWEycFVzT1FsOUcxYVl1WjhvSzdUd2dSajBPMHRRZTZSVlBSS0xKbWVjYUxXelg3b0dZV1o1RXVQamtxX28zU3Rh?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "I’ve Tested Dozens of Clever Kitchen Gadgets in 2026 — These Are the Only Ones That Stand Out",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYjN3YXF5MGV2R19DTkxmejBVdGdrelUxM01LSzJaNFF0TFNoN1NnMzdxSWplUjI1RkVnR1NDLXNXTDMyQnZuQmtWeG04a3BlQzU2UWEycFVzT1FsOUcxYVl1WjhvSzdUd2dSajBPMHRRZTZSVlBSS0xKbWVjYUxXelg3b0dZV1o1RXVQamtxX28zU3Rh?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "I’ve Tested Dozens of Clever Kitchen Gadgets in 2026 — These Are the Only Ones That Stand Out",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYjN3YXF5MGV2R19DTkxmejBVdGdrelUxM01LSzJaNFF0TFNoN1NnMzdxSWplUjI1RkVnR1NDLXNXTDMyQnZuQmtWeG04a3BlQzU2UWEycFVzT1FsOUcxYVl1WjhvSzdUd2dSajBPMHRRZTZSVlBSS0xKbWVjYUxXelg3b0dZV1o1RXVQamtxX28zU3Rh?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "It’s My Job to Test Kitchen Gadgets, and These Are My 13 Favorite Finds of 2026 So Far",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1MZkotUkM5UXM5MGU1c3ctSGV4Rmhncm10dC1kRmJZaW1HeFhRYjU5Y2pPa0NqTEVtS2l5YWJ4WUs0dVdqc29HTnJILXZndXVYM3ptamMtWXdtQ3hsUW5kNVVHQjNYS2RVU1d5TE42OTVnN2l4M2J6OWNB?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "It’s My Job to Test Kitchen Gadgets, and These Are My 13 Favorite Finds of 2026 So Far",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1MZkotUkM5UXM5MGU1c3ctSGV4Rmhncm10dC1kRmJZaW1HeFhRYjU5Y2pPa0NqTEVtS2l5YWJ4WUs0dVdqc29HTnJILXZndXVYM3ptamMtWXdtQ3hsUW5kNVVHQjNYS2RVU1d5TE42OTVnN2l4M2J6OWNB?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "4e4a1c4cb31e",
+      "slug": "kitchen-gadgets",
+      "opportunity": {
+        "type": "affiliate",
+        "recommended": "Write SEO comparison/roundup article with affiliate links."
+      }
+    },
+    {
       "keyword": "open source",
       "count": 14,
-      "score": 103.8337580134735,
+      "score": 103.96315540494436,
       "proper": true,
       "niches": [
         "ai"
@@ -884,9 +884,63 @@
       }
     },
     {
+      "keyword": "dynamic workflows",
+      "count": 8,
+      "score": 97.11040129066194,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "Dynamic Workflows in Claude Code",
+          "url": "https://claude.com/blog/introducing-dynamic-workflows-in-claude-code",
+          "source": "hackernews"
+        },
+        {
+          "title": "Dynamic Workflows in Claude Code",
+          "url": "https://claude.com/blog/introducing-dynamic-workflows-in-claude-code",
+          "source": "hackernews"
+        }
+      ],
+      "id": "8c592fcd6b07",
+      "slug": "dynamic-workflows",
+      "opportunity": {
+        "type": "niche-content",
+        "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
+      }
+    },
+    {
+      "keyword": "desktop",
+      "count": 10,
+      "score": 94.11581483100767,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "adelaideacfalle50838568946/ChatGPT-Pro-Desktop-2026 — A comprehensive desktop application package for advanced ChatGPT interactions and management.",
+          "url": "https://github.com/adelaideacfalle50838568946/ChatGPT-Pro-Desktop-2026",
+          "source": "github"
+        },
+        {
+          "title": "Bhojendra-dev/LSFG-Desktop — lossless scaling steam desck download github reddit android lsfg 3 frame generation best settings upscaling ai ls1 fsr nis integer scaling windows 11 steam deck decky load",
+          "url": "https://github.com/Bhojendra-dev/LSFG-Desktop",
+          "source": "github"
+        }
+      ],
+      "id": "68693d02ab4f",
+      "slug": "desktop",
+      "opportunity": {
+        "type": "affiliate",
+        "recommended": "Write SEO comparison/roundup article with affiliate links."
+      }
+    },
+    {
       "keyword": "claude",
-      "count": 12,
-      "score": 101.99065548882717,
+      "count": 11,
+      "score": 91.68109548118684,
       "proper": true,
       "niches": [
         "ai"
@@ -923,91 +977,6 @@
       "opportunity": {
         "type": "tooling",
         "recommended": "Build / list AI tools; monetize via affiliate links + lead magnet."
-      }
-    },
-    {
-      "keyword": "open",
-      "count": 14,
-      "score": 100.36070400854373,
-      "proper": true,
-      "niches": [
-        "ai",
-        "general"
-      ],
-      "examples": [
-        {
-          "title": "zhristophe/Claude-Mythos-AI-Anthropic-App — claude mythos ai anthropic app github open source desktop mobile client abhishekk130804 anthropic api key creative writing roleplay character cards deep rea",
-          "url": "https://github.com/zhristophe/Claude-Mythos-AI-Anthropic-App",
-          "source": "github"
-        },
-        {
-          "title": "Show HN: Ktx – Open-source executable context layer for data agents",
-          "url": "https://github.com/Kaelio/ktx",
-          "source": "hackernews"
-        },
-        {
-          "title": "IBM and Red Hat Commit $5 Billion to Redefine the Future of Open Source in the AI Era",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWWt0OS15bUhvZjZXbVdBYkE4MHI4R3ptWldmOV9SNzNCUXhhUm9iU3V2OVc0eUl0em0wRm0xblpoUXFlR185Wk5SSy04a2JicUlrMWdQeXJzQ0xDRVh4N0hBS0ZFcFVSYmNUVFJRUTVRVXhTYjFRS3cxODdlNGpMOFVDbnVJOUoyNS15RUZOMTlmUm9USEtHQ2kyUWFLUVlNaE5WTzliazF1TTJlNHVqNVVZMkFLR3JBckJ3eA?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "IBM and Red Hat Commit $5 Billion to Redefine the Future of Open Source in the AI Era",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWWt0OS15bUhvZjZXbVdBYkE4MHI4R3ptWldmOV9SNzNCUXhhUm9iU3V2OVc0eUl0em0wRm0xblpoUXFlR185Wk5SSy04a2JicUlrMWdQeXJzQ0xDRVh4N0hBS0ZFcFVSYmNUVFJRUTVRVXhTYjFRS3cxODdlNGpMOFVDbnVJOUoyNS15RUZOMTlmUm9USEtHQ2kyUWFLUVlNaE5WTzliazF1TTJlNHVqNVVZMkFLR3JBckJ3eA?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Show HN: Open-Source AI Racing Harness",
-          "url": "https://www.elodin.systems/post/elodin-ai-grand-prix-race-sim-harness",
-          "source": "hackernews"
-        }
-      ],
-      "id": "2348f9987442",
-      "slug": "open",
-      "opportunity": {
-        "type": "niche-content",
-        "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
-      }
-    },
-    {
-      "keyword": "software",
-      "count": 13,
-      "score": 99.55392190759584,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "Tech stocks today: Software stocks gain as Snowflake earnings allay AI fears, Anthropic upgrades its flagship model",
-          "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPNXNremcydElxR09WRFg0cUhpd0l4ZmZObFpYR2ZYZnZib090NmpsQVh6SUJRZHJuWi11YVVBRHRvSS00alpDV2xiWGF0djROZG1jcGlSUXpYYmFHaDZzN2IwRGRNU0c1V1M3eTBqVTVYMXYzbXpqclBUNGh2cGoyZmZNc0F5U1o3Z3BlNzFpblRUR2pTVWxkbzREcnRIT0ZXcER3TlF4YThFNmh1ODJZc3V0Qk12Q2RBX0hsQUtqS1gxY2NwdkVwdjlPQUlfVzRRaUd1Wkg5SVlHUFlzX0tua2Zad0hOSlRMWHVjLWFhQzNGdHF5LXVnbWpaTTlkU0R6c2taaXVLWU12UQ?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Tech stocks today: Software stocks gain as Snowflake earnings allay AI fears, Anthropic upgrades its flagship model",
-          "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPNXNremcydElxR09WRFg0cUhpd0l4ZmZObFpYR2ZYZnZib090NmpsQVh6SUJRZHJuWi11YVVBRHRvSS00alpDV2xiWGF0djROZG1jcGlSUXpYYmFHaDZzN2IwRGRNU0c1V1M3eTBqVTVYMXYzbXpqclBUNGh2cGoyZmZNc0F5U1o3Z3BlNzFpblRUR2pTVWxkbzREcnRIT0ZXcER3TlF4YThFNmh1ODJZc3V0Qk12Q2RBX0hsQUtqS1gxY2NwdkVwdjlPQUlfVzRRaUd1Wkg5SVlHUFlzX0tua2Zad0hOSlRMWHVjLWFhQzNGdHF5LXVnbWpaTTlkU0R6c2taaXVLWU12UQ?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Snowflake surges 37% toward best day ever on AI frenzy, fueling software rally",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE44eUlqYUwzM3RabUg3ZXItM3hEbjY2amRfNnJwMHdhbnpCYzRyaTBiNWlRNmt4a2JyR3prQkVXNERzZmdvT01Nc2RQRFFuQ2J5SEdjM2FiY3d5Yk1RVkdxOU9jQjRFc2k0TnlDWjB6UGxUWDNiZTJZemxoZ07SAYIBQVVfeXFMTmpNQkl1aGdILVVlRmZwSmFyZE45Y2EyMFhBT1F6MVRGRGlXQXBVbElkT2hBZXBGcUh3aV9vbE1kRlRlOXplRC1vdjFJeXNPQllETkM2WkNfMFh3bmR2LWE5VjYzeE9MemZxNkdOTjJHSVZzeDhVM2taOWx0STVmM0tYZw?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Snowflake vs. Salesforce earnings: Is AI still disrupting software?",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTUgySlNBYjRnVGNER1UxblQ0VkhaaGh0YU5Lc1Vib1FHZFZIU19tU0FkWGt5TXo4VTJ0MHNCZjhVODRvend2LXlKWkJzcFBNZkJJbHhVd0VVNkxQdlpzaFk3aXZ5RFRyVnoyZERxa3UxX01hVDZiRFF2ZXBfS3pFVTV2N2ZwTzV2MExQQUVJYnJRVjFkT2o0OUNuZHQwaW0tWW1WcUFTOHpudnkzNmx5bw?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Snowflake vs. Salesforce earnings: Is AI still disrupting software?",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTUgySlNBYjRnVGNER1UxblQ0VkhaaGh0YU5Lc1Vib1FHZFZIU19tU0FkWGt5TXo4VTJ0MHNCZjhVODRvend2LXlKWkJzcFBNZkJJbHhVd0VVNkxQdlpzaFk3aXZ5RFRyVnoyZERxa3UxX01hVDZiRFF2ZXBfS3pFVTV2N2ZwTzV2MExQQUVJYnJRVjFkT2o0OUNuZHQwaW0tWW1WcUFTOHpudnkzNmx5bw?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "35390f5453e8",
-      "slug": "software",
-      "opportunity": {
-        "type": "niche-content",
-        "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
       }
     }
   ]

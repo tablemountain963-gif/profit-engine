@@ -311,11 +311,51 @@
       "wins": 0,
       "losses": 0,
       "niche": "ai"
+    },
+    "various-llm-smells": {
+      "firstSeen": "2026-05-28T22:24:39.777Z",
+      "lastSeen": "2026-05-28T22:24:39.777Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "wallpaper-engine": {
+      "firstSeen": "2026-05-28T22:24:42.941Z",
+      "lastSeen": "2026-05-28T22:24:42.941Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "software"
+    },
+    "hermes-mentor": {
+      "firstSeen": "2026-05-28T22:24:45.468Z",
+      "lastSeen": "2026-05-28T22:24:45.468Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "ai-prompts-for-teachers-and-educators": {
+      "firstSeen": "2026-05-28T22:24:51.257Z",
+      "lastSeen": "2026-05-28T22:24:51.257Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "tutorial-hell": {
+      "firstSeen": "2026-05-28T22:24:53.251Z",
+      "lastSeen": "2026-05-28T22:24:53.251Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
     }
   },
   "niches": {
     "ai": {
-      "count": 73,
+      "count": 77,
       "wins": 21,
       "losses": 0
     },
@@ -325,7 +365,7 @@
       "losses": 0
     },
     "software": {
-      "count": 1,
+      "count": 2,
       "wins": 0,
       "losses": 0
     },

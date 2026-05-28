@@ -1,6 +1,21 @@
 {
   "x": [
     {
+      "slug": "tutorial-hell-2026-05-28",
+      "topic": "Tutorial Hell",
+      "tweetIds": [
+        "2060125199803039884",
+        "2060125206824267828",
+        "2060125213941977479",
+        "2060125221030433036",
+        "2060125228152275069",
+        "2060125235299471844",
+        "2060125242404565174",
+        "2060125249455239358"
+      ],
+      "postedAt": "2026-05-28T22:25:11.016Z"
+    },
+    {
       "slug": "producer-suite-2026-05-28",
       "topic": "Producer Suite",
       "tweetIds": [
@@ -47,6 +62,22 @@
     }
   ],
   "bluesky": [
+    {
+      "slug": "tutorial-hell-2026-05-28",
+      "topic": "Tutorial Hell",
+      "ids": [
+        "at://did:plc:tyttf4ceoibzsfb2tn764jic/app.bsky.feed.post/3mmx2tt6n3l2p",
+        "at://did:plc:tyttf4ceoibzsfb2tn764jic/app.bsky.feed.post/3mmx2tu6gnk2d",
+        "at://did:plc:tyttf4ceoibzsfb2tn764jic/app.bsky.feed.post/3mmx2tv544d2u",
+        "at://did:plc:tyttf4ceoibzsfb2tn764jic/app.bsky.feed.post/3mmx2tw3hsd23",
+        "at://did:plc:tyttf4ceoibzsfb2tn764jic/app.bsky.feed.post/3mmx2twzrjf2a",
+        "at://did:plc:tyttf4ceoibzsfb2tn764jic/app.bsky.feed.post/3mmx2txyd2t23",
+        "at://did:plc:tyttf4ceoibzsfb2tn764jic/app.bsky.feed.post/3mmx2tyworb24",
+        "at://did:plc:tyttf4ceoibzsfb2tn764jic/app.bsky.feed.post/3mmx2tzv4e22d"
+      ],
+      "url": "https://bsky.app/profile/solmercer.bsky.social/post/3mmx2tt6n3l2p",
+      "postedAt": "2026-05-28T22:25:19.359Z"
+    },
     {
       "slug": "producer-suite-2026-05-28",
       "topic": "Producer Suite",
