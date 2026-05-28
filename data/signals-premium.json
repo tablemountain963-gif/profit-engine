@@ -1,49 +1,49 @@
 {
-  "generatedAt": "2026-05-28T13:16:56.784Z",
+  "generatedAt": "2026-05-28T13:29:55.516Z",
   "sourceCount": 204,
   "topItems": [
     {
       "title": "Today, we have imposed a €200 million fine on Temu under the Digital Services Act, for failing to identify, analyse, and assess the systemic risks of illegal products being offered on its platform. Th",
       "url": "https://ec.social-network.europa.eu/@EUCommission/116651733534611734",
-      "score": 11.53,
+      "score": 11.16,
       "niche": "ai",
       "source": "mastodon",
       "engagement": {
-        "score": 268,
+        "score": 217,
         "comments": 18
       }
     },
     {
       "title": "I think Anthropic and OpenAI have found product-market fit",
       "url": "https://simonwillison.net/2026/May/27/product-market-fit/",
-      "score": 10.27,
+      "score": 10.28,
       "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 952,
-        "comments": 1065
+        "score": 958,
+        "comments": 1068
       }
     },
     {
       "title": "Found this on Instagram, it's from Threads.kyamawebb wrote,\"Teenagers have started calling AI art \"boomer art\" and consider it cringe, and YouTubers have stopped using AI-generated thumbnails because ",
       "url": "https://mastodon.social/@amalia12/116651284250866500",
-      "score": 9.54,
+      "score": 9.59,
       "niche": "ai",
       "source": "mastodon",
       "engagement": {
-        "score": 369,
-        "comments": 11
+        "score": 376,
+        "comments": 13
       }
     },
     {
       "title": "YouTube to automatically label AI-generated videos",
       "url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
-      "score": 8.58,
+      "score": 8.59,
       "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 1017,
-        "comments": 617
+        "score": 1029,
+        "comments": 620
       }
     },
     {
@@ -53,95 +53,95 @@
       "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 937,
-        "comments": 442
-      }
-    },
-    {
-      "title": "the infosec people at my work are rioting because the Distant Corporate Overlord sent an email that scores 10/10 on the phishing scale (“We want to give you a present to thank you for all your hard wo",
-      "url": "https://infosec.exchange/@0xabad1dea/116651490286301582",
-      "score": 8.1,
-      "niche": "ai",
-      "source": "mastodon",
-      "engagement": {
-        "score": 301,
-        "comments": 19
-      }
-    },
-    {
-      "title": "ShadowSpread/polymarket-auto-trading — polymarket trading bot, polymarket auto trading bot, polymarket profitable bot, polymarket, trading bot, polymarket trading bot, polymarket arbitrage bot, polyma",
-      "url": "https://github.com/ShadowSpread/polymarket-auto-trading",
-      "score": 7.9,
-      "niche": "ai",
-      "source": "github",
-      "engagement": {
-        "score": 139,
-        "comments": 0
-      }
-    },
-    {
-      "title": "AI sticker shock hits corporate America",
-      "url": "https://www.axios.com/2026/05/28/ai-spending-roi-enterprise-costs",
-      "score": 7.81,
-      "niche": "ai",
-      "source": "hackernews",
-      "engagement": {
-        "score": 110,
-        "comments": 82
-      }
-    },
-    {
-      "title": "AMD pulls a bait-and-switch on Linux users with Vivado licensing changes",
-      "url": "https://itsfoss.com/news/amd-vivado-bait-and-switch-on-linux-users/",
-      "score": 7.8,
-      "niche": "ai",
-      "source": "hackernews",
-      "engagement": {
-        "score": 144,
-        "comments": 64
+        "score": 941,
+        "comments": 444
       }
     },
     {
       "title": "I do not use AI in my legal work.Some of my clients use AI.I saw an AI output this morning, purporting to give information about data protection law (whether an IP address is personal data).It include",
       "url": "https://mastodon.neilzone.co.uk/@neil/116652237696180769",
-      "score": 7.78,
+      "score": 8.32,
       "niche": "ai",
       "source": "mastodon",
       "engagement": {
-        "score": 115,
-        "comments": 7
+        "score": 165,
+        "comments": 8
+      }
+    },
+    {
+      "title": "the infosec people at my work are rioting because the Distant Corporate Overlord sent an email that scores 10/10 on the phishing scale (“We want to give you a present to thank you for all your hard wo",
+      "url": "https://infosec.exchange/@0xabad1dea/116651490286301582",
+      "score": 8.18,
+      "niche": "ai",
+      "source": "mastodon",
+      "engagement": {
+        "score": 322,
+        "comments": 19
       }
     },
     {
       "title": "Five frontier LLMs disagree on 67% of 1k real-world fact-check claims",
       "url": "https://lenz.io/research/llm-disagreement",
-      "score": 7.61,
+      "score": 7.94,
       "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 113,
-        "comments": 62
+        "score": 139,
+        "comments": 81
       }
     },
     {
-      "title": "Canada dumps Trump. Instead of buying the Boeing E-7, Canada has chosen the Swedish Saab Global Eye, which is the monitoring and control aircraft currently used by Ukraine.Right in this moment, Trump ",
-      "url": "https://mastodon.social/@randahl/116650882477207083",
-      "score": 7.03,
+      "title": "AI sticker shock hits corporate America",
+      "url": "https://www.axios.com/2026/05/28/ai-spending-roi-enterprise-costs",
+      "score": 7.9,
+      "niche": "ai",
+      "source": "hackernews",
+      "engagement": {
+        "score": 115,
+        "comments": 89
+      }
+    },
+    {
+      "title": "AMD pulls a bait-and-switch on Linux users with Vivado licensing changes",
+      "url": "https://itsfoss.com/news/amd-vivado-bait-and-switch-on-linux-users/",
+      "score": 7.89,
+      "niche": "ai",
+      "source": "hackernews",
+      "engagement": {
+        "score": 151,
+        "comments": 70
+      }
+    },
+    {
+      "title": "Dear Fedi friends,I hereby present you my new favorite website: https://isaiprofitable.com, which tracks the spending and revenue of all the major AI companies.Oh it is glorious - the perfect link to ",
+      "url": "https://mastodon.social/@_elena/116652356526060818",
+      "score": 7.31,
       "niche": "ai",
       "source": "mastodon",
       "engagement": {
-        "score": 232,
-        "comments": 6
+        "score": 82,
+        "comments": 7
       }
     },
     {
       "title": "RE: https://infosec.exchange/@masek/116651124103630936This does not just affect gaming, but all general purpose compute.Supply chains and value chains are breaking and will not come back. Artificial A",
       "url": "https://infosec.exchange/@isotopp/116651775368120051",
-      "score": 7.02,
+      "score": 7.13,
       "niche": "ai",
       "source": "mastodon",
       "engagement": {
-        "score": 143,
+        "score": 156,
+        "comments": 6
+      }
+    },
+    {
+      "title": "Canada dumps Trump. Instead of buying the Boeing E-7, Canada has chosen the Swedish Saab Global Eye, which is the monitoring and control aircraft currently used by Ukraine.Right in this moment, Trump ",
+      "url": "https://mastodon.social/@randahl/116650882477207083",
+      "score": 7.07,
+      "niche": "ai",
+      "source": "mastodon",
+      "engagement": {
+        "score": 239,
         "comments": 6
       }
     },
@@ -157,24 +157,57 @@
       }
     },
     {
+      "title": "Digital permitting, AI tools top of mind for NIBS panelists",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPLXBPcS1ZSXVFd3JkbmpqaHFqSGMyVFQwbVYzTnVHNUlPS1RFRWZvSHJUVjZXT1pqVEJVQ0tWN055SXZIcHFOSk1PVmo4NzFBYWlBMmZDaWNUUC1qT1J4cWJQa0ZUQlltR2ZKbDdMbUxQemd3SjVXZFItVk81M282WU9Dc2Q?oc=5",
+      "score": 6.61,
+      "niche": "ai",
+      "source": "gnews",
+      "engagement": {
+        "score": 40,
+        "comments": 0
+      }
+    },
+    {
       "title": "Szili1994/create-aeronautics-minecraft-mod — aeronautics create minecraft mod github modrinth curseforge create addon sable physics engine simulated offroad airships planes drones vehicles contraption",
       "url": "https://github.com/Szili1994/create-aeronautics-minecraft-mod",
-      "score": 6.36,
+      "score": 6.37,
       "niche": "ai",
       "source": "github",
       "engagement": {
-        "score": 142,
+        "score": 143,
         "comments": 1
+      }
+    },
+    {
+      "title": "ShadowSpread/polymarket-auto-trading — polymarket trading bot, polymarket auto trading bot, polymarket profitable bot, polymarket, trading bot, polymarket trading bot, polymarket arbitrage bot, polyma",
+      "url": "https://github.com/ShadowSpread/polymarket-auto-trading",
+      "score": 6.35,
+      "niche": "ai",
+      "source": "github",
+      "engagement": {
+        "score": 143,
+        "comments": 0
       }
     },
     {
       "title": "Harkirat1462/claude-code-cli — claude code cli install codex github anthropic agentic coding system terminal assistant codebase git workflows multi file editing mcp protocol model context protocol sub",
       "url": "https://github.com/Harkirat1462/claude-code-cli",
-      "score": 6.34,
+      "score": 6.35,
       "niche": "ai",
       "source": "github",
       "engagement": {
-        "score": 139,
+        "score": 140,
+        "comments": 1
+      }
+    },
+    {
+      "title": "Using AI-generated imagery for your blog posts adds a lot!- people will get rightfully angry  with you- it distracts from what you have to say - you’ll get unfollowed and blocked- you’ve wasted time, ",
+      "url": "https://hachyderm.io/@thomasfuchs/116652232242957112",
+      "score": 6.17,
+      "niche": "ai",
+      "source": "mastodon",
+      "engagement": {
+        "score": 82,
         "comments": 1
       }
     },
@@ -185,13 +218,13 @@
       "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 190,
+        "score": 191,
         "comments": 28
       }
     },
     {
-      "title": "Oracle vs. ServiceNow: Which Artificial Intelligence (AI) Tech Stock Is a Better Buy in 2026?",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZEZheXNGaWVDYmFTUVRfNUMxMU1kZmdVQ2Jiam85RG4yalVieE8tVFkyQTY1NE9ndkpNWEw2OUZBcE1ZdmxsOTZoVnBjRWJsWWtCR0lHWFNkMEk1Z1l2WlNaeFduU3V1MmJXWHBqeDh6NjRvd1BmanFNYkV6TVg3clFwYWxFOGY2bEN2ckl4Um04SEtOUENhazVneHVDZl9OUkdhd09aaHBZVDQxbEE?oc=5",
+      "title": "10 Best AI Text Generator Tools Tested for 2026",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE94ajFVejBCX2U3MUo1d3FlWFNzeTBXZU1ENl9LZkRrVWczWHRFN2lmNVd2U0E4Tk1YNFpqYnhfLTRmTVNhVUttOFNrQWdEOHZyNGF0Vm8xQQ?oc=5",
       "score": 5.99,
       "niche": "ai",
       "source": "gnews",
@@ -201,20 +234,9 @@
       }
     },
     {
-      "title": "AI is changing this job so fast the interview process can’t keep up",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB6YW5qaWVpQTh3V05RbDMzYXE4cFB1Y0U5Z2N4YmZQSFJCUUo3U0JPN0tuTmNvc0hOZ0p3NEVmc2hDV0R4cVdEVVZDejBvZjgwTzJ2WXlNVXE3RUhCNXN6OWJqV1FhUWoxa0NYZ29xaDRGWmNVVlQ0THFIMW1adw?oc=5",
-      "score": 5.94,
-      "niche": "ai",
-      "source": "gnews",
-      "engagement": {
-        "score": 40,
-        "comments": 0
-      }
-    },
-    {
-      "title": "IBM and Red Hat Commit $5 Billion to Redefine the Future of Open Source in the AI Era",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWWt0OS15bUhvZjZXbVdBYkE4MHI4R3ptWldmOV9SNzNCUXhhUm9iU3V2OVc0eUl0em0wRm0xblpoUXFlR185Wk5SSy04a2JicUlrMWdQeXJzQ0xDRVh4N0hBS0ZFcFVSYmNUVFJRUTVRVXhTYjFRS3cxODdlNGpMOFVDbnVJOUoyNS15RUZOMTlmUm9USEtHQ2kyUWFLUVlNaE5WTzliazF1TTJlNHVqNVVZMkFLR3JBckJ3eA?oc=5",
-      "score": 5.94,
+      "title": "Best AI Tools for Business Intelligence in 2026",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBqWDgyZ1EzRDIxNkpBSFpZOEIxdXk1QXByak5lRmFLQWY5bjMxaVE3dlFrSXYtRXlDX0ljWHFwTHZYN0I3MEtyOUlLcGpXbDlLYlE1WUxXTk0tMk5DbU02WHBaNVVjNDdpQ2NtNzZtYS1DSzg?oc=5",
+      "score": 5.99,
       "niche": "ai",
       "source": "gnews",
       "engagement": {
@@ -225,97 +247,147 @@
     {
       "title": "withkynam/vibecode-pro-max-kit — Your AI forgets. This remembers. Spec-driven coding harness for vibecoders, product owners, CEOs and real builders — self-improving context memory, 12 agents, 32 skill",
       "url": "https://github.com/withkynam/vibecode-pro-max-kit",
-      "score": 5.84,
+      "score": 5.85,
       "niche": "ai",
       "source": "github",
       "engagement": {
-        "score": 186,
+        "score": 188,
         "comments": 16
-      }
-    },
-    {
-      "title": "Using AI-generated imagery for your blog posts adds a lot!- people will get rightfully angry  with you- it distracts from what you have to say - you’ll get unfollowed and blocked- you’ve wasted time, ",
-      "url": "https://hachyderm.io/@thomasfuchs/116652232242957112",
-      "score": 5.82,
-      "niche": "ai",
-      "source": "mastodon",
-      "engagement": {
-        "score": 65,
-        "comments": 0
       }
     },
     {
       "title": "A Eureka machine that thinks like nature and explores what AI cannot",
       "url": "https://iisc.ac.in/a-eureka-machine-that-thinks-like-nature-and-explores-what-ai-cannot/",
-      "score": 5.8,
+      "score": 5.82,
       "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 116,
+        "score": 118,
         "comments": 34
       }
     },
     {
       "title": "actuallyaridan/linux-devmgmt — A faithful recreation of the Windows Device Manager built with Qt6 and real hardware backends via sysfs/procfs. Best enjoyed with AeroThemePlasma, but looks great on reg",
       "url": "https://github.com/actuallyaridan/linux-devmgmt",
-      "score": 5.77,
+      "score": 5.78,
       "niche": "ai",
       "source": "github",
       "engagement": {
-        "score": 202,
-        "comments": 1
-      }
-    },
-    {
-      "title": "Bhojendra-dev/LSFG-Desktop — lossless scaling steam desck download github reddit android lsfg 3 frame generation best settings upscaling ai ls1 fsr nis integer scaling windows 11 steam deck decky load",
-      "url": "https://github.com/Bhojendra-dev/LSFG-Desktop",
-      "score": 5.52,
-      "niche": "ai",
-      "source": "github",
-      "engagement": {
-        "score": 160,
+        "score": 203,
         "comments": 1
       }
     }
   ],
   "topics": [
     {
-      "keyword": "open source",
-      "count": 14,
-      "score": 122.71530401961206,
+      "keyword": "claude code",
+      "count": 25,
+      "score": 171.29631348887636,
       "proper": true,
       "niches": [
         "ai"
       ],
       "examples": [
         {
-          "title": "IBM and Red Hat Commit $5 Billion to Redefine the Future of Open Source in the AI Era",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWWt0OS15bUhvZjZXbVdBYkE4MHI4R3ptWldmOV9SNzNCUXhhUm9iU3V2OVc0eUl0em0wRm0xblpoUXFlR185Wk5SSy04a2JicUlrMWdQeXJzQ0xDRVh4N0hBS0ZFcFVSYmNUVFJRUTVRVXhTYjFRS3cxODdlNGpMOFVDbnVJOUoyNS15RUZOMTlmUm9USEtHQ2kyUWFLUVlNaE5WTzliazF1TTJlNHVqNVVZMkFLR3JBckJ3eA?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "IBM and Red Hat Commit $5 Billion to Redefine the Future of Open Source in the AI Era",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWWt0OS15bUhvZjZXbVdBYkE4MHI4R3ptWldmOV9SNzNCUXhhUm9iU3V2OVc0eUl0em0wRm0xblpoUXFlR185Wk5SSy04a2JicUlrMWdQeXJzQ0xDRVh4N0hBS0ZFcFVSYmNUVFJRUTVRVXhTYjFRS3cxODdlNGpMOFVDbnVJOUoyNS15RUZOMTlmUm9USEtHQ2kyUWFLUVlNaE5WTzliazF1TTJlNHVqNVVZMkFLR3JBckJ3eA?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "IBM and Red Hat Commit $5 Billion to Redefine the Future of Open Source in the AI Era",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWWt0OS15bUhvZjZXbVdBYkE4MHI4R3ptWldmOV9SNzNCUXhhUm9iU3V2OVc0eUl0em0wRm0xblpoUXFlR185Wk5SSy04a2JicUlrMWdQeXJzQ0xDRVh4N0hBS0ZFcFVSYmNUVFJRUTVRVXhTYjFRS3cxODdlNGpMOFVDbnVJOUoyNS15RUZOMTlmUm9USEtHQ2kyUWFLUVlNaE5WTzliazF1TTJlNHVqNVVZMkFLR3JBckJ3eA?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "zhristophe/Claude-Mythos-AI-Anthropic-App — claude mythos ai anthropic app github open source desktop mobile client abhishekk130804 anthropic api key creative writing roleplay character cards deep rea",
-          "url": "https://github.com/zhristophe/Claude-Mythos-AI-Anthropic-App",
+          "title": "Harkirat1462/claude-code-cli — claude code cli install codex github anthropic agentic coding system terminal assistant codebase git workflows multi file editing mcp protocol model context protocol sub",
+          "url": "https://github.com/Harkirat1462/claude-code-cli",
           "source": "github"
+        },
+        {
+          "title": "op7418/guizang-social-card-skill — 🪧 Claude Code / Codex skill — generate Xiaohongshu carousels & WeChat 21:9+1:1 cover pairs. Editorial × Swiss visual systems, 28 layouts, 10 themes, single-file HTM",
+          "url": "https://github.com/op7418/guizang-social-card-skill",
+          "source": "github"
+        },
+        {
+          "title": "op7418/guizang-social-card-skill — 🪧 Claude Code / Codex skill — generate Xiaohongshu carousels & WeChat 21:9+1:1 cover pairs. Editorial × Swiss visual systems, 28 layouts, 10 themes, single-file HTM",
+          "url": "https://github.com/op7418/guizang-social-card-skill",
+          "source": "github"
+        },
+        {
+          "title": "Claude Code is the best AI coding tool I've used, and I’m not entirely sure if I can recommend it",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMnJUQnpneEtHMEJFZzZ0V0djN24zOVQyM3hpT09WYm5sUXBRVEo0QkFCZG50Q3RMMUtuczFwYk9aMEYxSFpBMVkxNDhrRmpOTUNJWE9teEVsR3JDYW9YMktENFYxQlBjTC1lM2hfYTJ3WkI4c0tyMTh3X0UzSWUwVUFMRlQtSjhIcnRuTTVYUW9OeXFVbUtHYmt3?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Claude Code is the best AI coding tool I've used, and I’m not entirely sure if I can recommend it",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMnJUQnpneEtHMEJFZzZ0V0djN24zOVQyM3hpT09WYm5sUXBRVEo0QkFCZG50Q3RMMUtuczFwYk9aMEYxSFpBMVkxNDhrRmpOTUNJWE9teEVsR3JDYW9YMktENFYxQlBjTC1lM2hfYTJ3WkI4c0tyMTh3X0UzSWUwVUFMRlQtSjhIcnRuTTVYUW9OeXFVbUtHYmt3?oc=5",
+          "source": "gnews"
         }
       ],
-      "id": "1ae64990e804",
-      "slug": "open-source"
+      "id": "a625159d18da",
+      "slug": "claude-code"
+    },
+    {
+      "keyword": "passive income",
+      "count": 47,
+      "score": 151.6242615056492,
+      "proper": true,
+      "niches": [
+        "ai",
+        "finance"
+      ],
+      "examples": [
+        {
+          "title": "5 Strong Buy Passive Income Giants Have Raised Their Dividends by Double Digits for Years",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPYXVpZFpKTGhLS0ZuWDQtemx4TTZ4dnVZZTQwUjUwa3BoWXNGZlNsampXbUhqNjVMbkw3eUVQU0E4NF9rbm54RlZXdXZSTmVSN1ozdlM0d2JjUG9WVmU1a0hWczJCeFROeERzeF9ocmZVZUpKMHd0ZFFTSG1MMjgtVnhtRXNQV0MyV21WS3M5bmJicGF4d1JJWThDNnJiMkl3eTBMQnFWMUM0cVg0YVFHSnNNMXlBT3BZdldueVNESVJMWmp2bmJ3ZjJtSmI?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "5 Strong Buy Passive Income Giants Have Raised Their Dividends by Double Digits for Years",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPYXVpZFpKTGhLS0ZuWDQtemx4TTZ4dnVZZTQwUjUwa3BoWXNGZlNsampXbUhqNjVMbkw3eUVQU0E4NF9rbm54RlZXdXZSTmVSN1ozdlM0d2JjUG9WVmU1a0hWczJCeFROeERzeF9ocmZVZUpKMHd0ZFFTSG1MMjgtVnhtRXNQV0MyV21WS3M5bmJicGF4d1JJWThDNnJiMkl3eTBMQnFWMUM0cVg0YVFHSnNNMXlBT3BZdldueVNESVJMWmp2bmJ3ZjJtSmI?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "How much passive income could £10,000 invested in the FTSE 100's top dividend stock target?",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPOGFaS004UXd3RU1iMm53TlpLRlRvV1Q4emVZS3Z5NWtvdXZRNnZyX3preDFRZ2ZKMXZ0b0o1bS1RelJ0NFZoYnV3M3B1NUQ2aTlXb2l6TWpGTUdIeENLck55UkItRUMtdmJiRUZRMnJuZlFPenphWEdXRlk4Mk5kVUhEeFAzOFVGRlBGNWVCTHl5c3NXWS1NSUNNNUdwMU5WSUpaeDFQYXBqQkp1TmxtSS0zcnpnUjlYckpRc0dZeHFZbWdEanItdw?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "How much passive income could £10,000 invested in the FTSE 100's top dividend stock target?",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPOGFaS004UXd3RU1iMm53TlpLRlRvV1Q4emVZS3Z5NWtvdXZRNnZyX3preDFRZ2ZKMXZ0b0o1bS1RelJ0NFZoYnV3M3B1NUQ2aTlXb2l6TWpGTUdIeENLck55UkItRUMtdmJiRUZRMnJuZlFPenphWEdXRlk4Mk5kVUhEeFAzOFVGRlBGNWVCTHl5c3NXWS1NSUNNNUdwMU5WSUpaeDFQYXBqQkp1TmxtSS0zcnpnUjlYckpRc0dZeHFZbWdEanItdw?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "How to earn a £1,500 monthly tax-free passive income from an ISA",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOGJDa3JNN0wtdXhuUGMwbUJkNkMyM2NyaF9vWDV0V1loN0hvUHB3YjBieFJBT2tIS0dGZFN6azl4MGx0dWwxXzRnTk42Q2t0ZGRnVV9OamljSGhzdXRyc01TVVdWZkVldXB2eEFYcnVzT1JxV3loTms4ZjJlX1NFR2dBTFdacTIwY1BIV3dpd2xwcUlQemZaN1NnSFN1WUFYLUVKREJKOA?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "cf2dbbbf8c8c",
+      "slug": "passive-income"
+    },
+    {
+      "keyword": "business intelligence",
+      "count": 11,
+      "score": 98.77978565637038,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "Best AI Tools for Business Intelligence in 2026",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBqWDgyZ1EzRDIxNkpBSFpZOEIxdXk1QXByak5lRmFLQWY5bjMxaVE3dlFrSXYtRXlDX0ljWHFwTHZYN0I3MEtyOUlLcGpXbDlLYlE1WUxXTk0tMk5DbU02WHBaNVVjNDdpQ2NtNzZtYS1DSzg?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Best AI Tools for Business Intelligence in 2026",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBqWDgyZ1EzRDIxNkpBSFpZOEIxdXk1QXByak5lRmFLQWY5bjMxaVE3dlFrSXYtRXlDX0ljWHFwTHZYN0I3MEtyOUlLcGpXbDlLYlE1WUxXTk0tMk5DbU02WHBaNVVjNDdpQ2NtNzZtYS1DSzg?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Best AI Tools for Business Intelligence in 2026",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBqWDgyZ1EzRDIxNkpBSFpZOEIxdXk1QXByak5lRmFLQWY5bjMxaVE3dlFrSXYtRXlDX0ljWHFwTHZYN0I3MEtyOUlLcGpXbDlLYlE1WUxXTk0tMk5DbU02WHBaNVVjNDdpQ2NtNzZtYS1DSzg?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "3fbe0f5eddbf",
+      "slug": "business-intelligence"
     },
     {
       "keyword": "bot polymarket",
       "count": 15,
-      "score": 118.46626756943876,
+      "score": 95.31328765092624,
       "proper": false,
       "niches": [
         "ai"
@@ -351,33 +423,70 @@
       "slug": "bot-polymarket"
     },
     {
-      "keyword": "temu",
-      "count": 10,
-      "score": 104.06064631875785,
+      "keyword": "dear fedi",
+      "count": 8,
+      "score": 87.73583978519736,
       "proper": true,
       "niches": [
-        "ai",
-        "general"
+        "ai"
       ],
       "examples": [
         {
-          "title": "Today, we have imposed a €200 million fine on Temu under the Digital Services Act, for failing to identify, analyse, and assess the systemic risks of illegal products being offered on its platform. Th",
-          "url": "https://ec.social-network.europa.eu/@EUCommission/116651733534611734",
+          "title": "Dear Fedi friends,I hereby present you my new favorite website: https://isaiprofitable.com, which tracks the spending and revenue of all the major AI companies.Oh it is glorious - the perfect link to ",
+          "url": "https://mastodon.social/@_elena/116652356526060818",
           "source": "mastodon"
         },
         {
-          "title": "Commission fines Temu €200M for breaching the Digital Services Act",
-          "url": "https://ec.europa.eu/commission/presscorner/home/en",
-          "source": "hackernews"
+          "title": "Dear Fedi friends,I hereby present you my new favorite website: https://isaiprofitable.com, which tracks the spending and revenue of all the major AI companies.Oh it is glorious - the perfect link to ",
+          "url": "https://mastodon.social/@_elena/116652356526060818",
+          "source": "mastodon"
         }
       ],
-      "id": "5849f0dbde1a",
-      "slug": "temu"
+      "id": "657aec826a89",
+      "slug": "dear-fedi"
+    },
+    {
+      "keyword": "claude",
+      "count": 11,
+      "score": 82.14217780223727,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "Harkirat1462/claude-code-cli — claude code cli install codex github anthropic agentic coding system terminal assistant codebase git workflows multi file editing mcp protocol model context protocol sub",
+          "url": "https://github.com/Harkirat1462/claude-code-cli",
+          "source": "github"
+        },
+        {
+          "title": "zhristophe/Claude-Mythos-AI-Anthropic-App — claude mythos ai anthropic app github open source desktop mobile client abhishekk130804 anthropic api key creative writing roleplay character cards deep rea",
+          "url": "https://github.com/zhristophe/Claude-Mythos-AI-Anthropic-App",
+          "source": "github"
+        },
+        {
+          "title": "zhristophe/Claude-Mythos-AI-Anthropic-App — claude mythos ai anthropic app github open source desktop mobile client abhishekk130804 anthropic api key creative writing roleplay character cards deep rea",
+          "url": "https://github.com/zhristophe/Claude-Mythos-AI-Anthropic-App",
+          "source": "github"
+        },
+        {
+          "title": "op7418/guizang-social-card-skill — 🪧 Claude Code / Codex skill — generate Xiaohongshu carousels & WeChat 21:9+1:1 cover pairs. Editorial × Swiss visual systems, 28 layouts, 10 themes, single-file HTM",
+          "url": "https://github.com/op7418/guizang-social-card-skill",
+          "source": "github"
+        },
+        {
+          "title": "Claude Code is the best AI coding tool I've used, and I’m not entirely sure if I can recommend it",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMnJUQnpneEtHMEJFZzZ0V0djN24zOVQyM3hpT09WYm5sUXBRVEo0QkFCZG50Q3RMMUtuczFwYk9aMEYxSFpBMVkxNDhrRmpOTUNJWE9teEVsR3JDYW9YMktENFYxQlBjTC1lM2hfYTJ3WkI4c0tyMTh3X0UzSWUwVUFMRlQtSjhIcnRuTTVYUW9OeXFVbUtHYmt3?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "c857d09db23e",
+      "slug": "claude"
     },
     {
       "keyword": "trading bot",
       "count": 12,
-      "score": 94.773014055551,
+      "score": 76.250630120741,
       "proper": false,
       "niches": [
         "ai"
@@ -408,61 +517,9 @@
       "slug": "trading-bot"
     },
     {
-      "keyword": "claude code",
-      "count": 11,
-      "score": 92.63818342876066,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "Harkirat1462/claude-code-cli — claude code cli install codex github anthropic agentic coding system terminal assistant codebase git workflows multi file editing mcp protocol model context protocol sub",
-          "url": "https://github.com/Harkirat1462/claude-code-cli",
-          "source": "github"
-        },
-        {
-          "title": "op7418/guizang-social-card-skill — 🪧 Claude Code / Codex skill — generate Xiaohongshu carousels & WeChat 21:9+1:1 cover pairs. Editorial × Swiss visual systems, 28 layouts, 10 themes, single-file HTM",
-          "url": "https://github.com/op7418/guizang-social-card-skill",
-          "source": "github"
-        },
-        {
-          "title": "op7418/guizang-social-card-skill — 🪧 Claude Code / Codex skill — generate Xiaohongshu carousels & WeChat 21:9+1:1 cover pairs. Editorial × Swiss visual systems, 28 layouts, 10 themes, single-file HTM",
-          "url": "https://github.com/op7418/guizang-social-card-skill",
-          "source": "github"
-        }
-      ],
-      "id": "a625159d18da",
-      "slug": "claude-code"
-    },
-    {
-      "keyword": "google",
-      "count": 10,
-      "score": 78.96777629680135,
-      "proper": true,
-      "niches": [
-        "ai",
-        "general"
-      ],
-      "examples": [
-        {
-          "title": "DuckDuckGo search saw 28% more visits after Google said people love AI mode",
-          "url": "https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/",
-          "source": "hackernews"
-        },
-        {
-          "title": "Google employee charged with $1M Polymarket insider trading bet on search term",
-          "url": "https://www.cnbc.com/2026/05/27/google-employee-polymarket-insider-trading.html",
-          "source": "hackernews"
-        }
-      ],
-      "id": "bbdefa2950f4",
-      "slug": "google"
-    },
-    {
       "keyword": "jailbroken kindle",
       "count": 8,
-      "score": 73.50365040413695,
+      "score": 73.55755563498137,
       "proper": true,
       "niches": [
         "ai"
@@ -481,90 +538,6 @@
       ],
       "id": "fcbb4fb8232c",
       "slug": "jailbroken-kindle"
-    },
-    {
-      "keyword": "polymarket trading",
-      "count": 9,
-      "score": 71.07976054166325,
-      "proper": false,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "ShadowSpread/polymarket-auto-trading — polymarket trading bot, polymarket auto trading bot, polymarket profitable bot, polymarket, trading bot, polymarket trading bot, polymarket arbitrage bot, polyma",
-          "url": "https://github.com/ShadowSpread/polymarket-auto-trading",
-          "source": "github"
-        },
-        {
-          "title": "ShadowSpread/polymarket-auto-trading — polymarket trading bot, polymarket auto trading bot, polymarket profitable bot, polymarket, trading bot, polymarket trading bot, polymarket arbitrage bot, polyma",
-          "url": "https://github.com/ShadowSpread/polymarket-auto-trading",
-          "source": "github"
-        },
-        {
-          "title": "ShadowSpread/polymarket-auto-trading — polymarket trading bot, polymarket auto trading bot, polymarket profitable bot, polymarket, trading bot, polymarket trading bot, polymarket arbitrage bot, polyma",
-          "url": "https://github.com/ShadowSpread/polymarket-auto-trading",
-          "source": "github"
-        }
-      ],
-      "id": "cc07af2a09d3",
-      "slug": "polymarket-trading"
-    },
-    {
-      "keyword": "claude",
-      "count": 10,
-      "score": 70.65525199390896,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "Harkirat1462/claude-code-cli — claude code cli install codex github anthropic agentic coding system terminal assistant codebase git workflows multi file editing mcp protocol model context protocol sub",
-          "url": "https://github.com/Harkirat1462/claude-code-cli",
-          "source": "github"
-        },
-        {
-          "title": "zhristophe/Claude-Mythos-AI-Anthropic-App — claude mythos ai anthropic app github open source desktop mobile client abhishekk130804 anthropic api key creative writing roleplay character cards deep rea",
-          "url": "https://github.com/zhristophe/Claude-Mythos-AI-Anthropic-App",
-          "source": "github"
-        },
-        {
-          "title": "zhristophe/Claude-Mythos-AI-Anthropic-App — claude mythos ai anthropic app github open source desktop mobile client abhishekk130804 anthropic api key creative writing roleplay character cards deep rea",
-          "url": "https://github.com/zhristophe/Claude-Mythos-AI-Anthropic-App",
-          "source": "github"
-        },
-        {
-          "title": "op7418/guizang-social-card-skill — 🪧 Claude Code / Codex skill — generate Xiaohongshu carousels & WeChat 21:9+1:1 cover pairs. Editorial × Swiss visual systems, 28 layouts, 10 themes, single-file HTM",
-          "url": "https://github.com/op7418/guizang-social-card-skill",
-          "source": "github"
-        },
-        {
-          "title": "The Claude skill I built for myself is the only productivity hack that stuck",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOV081b0ZNOW9QNHBURTVQbERoUzZGWHBtTEloalRabTN0ZUVKaV9IYVZSb3EySHpIcUstOWUxUmR1bUw2Nmdyd1hsOHpxdE53QlN2ejBNaGthT2hTTlJaaG1wRWRzc1hsZm5wLXNEZ0hsUFJLbEt6Y3RTdjZ3Rk93RHBReHFuLVM0cWpKWFF6Y0FpWXgtQTR1OHN6VTNid1BSaWxoXzB4NnM2MUlO?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "c857d09db23e",
-      "slug": "claude"
-    },
-    {
-      "keyword": "duckduckgo",
-      "count": 5,
-      "score": 62.602528754630015,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "DuckDuckGo search saw 28% more visits after Google said people love AI mode",
-          "url": "https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/",
-          "source": "hackernews"
-        }
-      ],
-      "id": "5b8eeb90771c",
-      "slug": "duckduckgo"
     },
     {
       "keyword": "kitchen gadgets",
@@ -605,28 +578,10 @@
       "slug": "kitchen-gadgets"
     },
     {
-      "keyword": "distant corporate overlord",
-      "count": 5,
-      "score": 60.75549400901413,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "the infosec people at my work are rioting because the Distant Corporate Overlord sent an email that scores 10/10 on the phishing scale (“We want to give you a present to thank you for all your hard wo",
-          "url": "https://infosec.exchange/@0xabad1dea/116651490286301582",
-          "source": "mastodon"
-        }
-      ],
-      "id": "dc7d88b2804c",
-      "slug": "distant-corporate-overlord"
-    },
-    {
-      "keyword": "shadowspread",
-      "count": 5,
-      "score": 59.23313378471938,
-      "proper": true,
+      "keyword": "polymarket trading",
+      "count": 9,
+      "score": 57.187972590555745,
+      "proper": false,
       "niches": [
         "ai"
       ],
@@ -635,81 +590,298 @@
           "title": "ShadowSpread/polymarket-auto-trading — polymarket trading bot, polymarket auto trading bot, polymarket profitable bot, polymarket, trading bot, polymarket trading bot, polymarket arbitrage bot, polyma",
           "url": "https://github.com/ShadowSpread/polymarket-auto-trading",
           "source": "github"
+        },
+        {
+          "title": "ShadowSpread/polymarket-auto-trading — polymarket trading bot, polymarket auto trading bot, polymarket profitable bot, polymarket, trading bot, polymarket trading bot, polymarket arbitrage bot, polyma",
+          "url": "https://github.com/ShadowSpread/polymarket-auto-trading",
+          "source": "github"
+        },
+        {
+          "title": "ShadowSpread/polymarket-auto-trading — polymarket trading bot, polymarket auto trading bot, polymarket profitable bot, polymarket, trading bot, polymarket trading bot, polymarket arbitrage bot, polyma",
+          "url": "https://github.com/ShadowSpread/polymarket-auto-trading",
+          "source": "github"
         }
       ],
-      "id": "fe47bfcbd860",
-      "slug": "shadowspread"
+      "id": "cc07af2a09d3",
+      "slug": "polymarket-trading"
     },
     {
-      "keyword": "america",
+      "keyword": "2026 _blank",
+      "count": 18,
+      "score": 50.115645563709066,
+      "proper": false,
+      "niches": [
+        "ai",
+        "finance",
+        "software",
+        "general"
+      ],
+      "examples": [
+        {
+          "title": "10 Best AI Text Generator Tools Tested for 2026",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE94ajFVejBCX2U3MUo1d3FlWFNzeTBXZU1ENl9LZkRrVWczWHRFN2lmNVd2U0E4Tk1YNFpqYnhfLTRmTVNhVUttOFNrQWdEOHZyNGF0Vm8xQQ?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Best AI Tools for Business Intelligence in 2026",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBqWDgyZ1EzRDIxNkpBSFpZOEIxdXk1QXByak5lRmFLQWY5bjMxaVE3dlFrSXYtRXlDX0ljWHFwTHZYN0I3MEtyOUlLcGpXbDlLYlE1WUxXTk0tMk5DbU02WHBaNVVjNDdpQ2NtNzZtYS1DSzg?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Best Budgeting Apps Of 2026",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBfUGVtV1FGTnJWeTNxS2R0QmVaQzlwbFVNZHlaU1BnNWlrNWx5WDIxb1k0UzVTaDNGVzhUaDNmenJBZ28xMW9VWEtyRU01ODNyV2x3WlBZZkpIb2dnNFVXQ19ReFkzVDJVaEg4?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Beyond JEPI and JEPQ: These 2 JPMorgan Dividend ETFs Offer 5%+ Passive Income in 2026",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUGRNQmx1WjFtUGxCejhjN3BCUEdsNzd1MGRNWUpQZzd2MkJDeWRCZ2phNU93YVhGYTdpa2hyWTg0SGpvc3NEYkdQdkR5T2N0aUpTNVhMMS1fQXpjRkVqRERNdTNRVlZhNGkzZm5UUEVMMkdsYm5QSlEtV0QtYzJacHhQbHJYNWZ3cjBfUHJhNWdGZFc4MU8yejdUZWI0RlE4SXdEaXRfdlk5eUg2SzFpNk5JUXE?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Editor-Recommended Fitness Gear and Apparel for 2026",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBWRU1VeHpva004R0pHOFpHM3dzakNYSUtzWVVUQjlQTnJZckZGbGtrVTNHNGlRdlFnQTBBZHBDVEZHR1VlZkVUb3BUaUF2NTM2TVZDTlUyd1RVc1Jjakg5QVVxRHNvUklRYkd2cmRfdXRuVzVrRElfU2FyOTVGQQ?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "436796f27eb8",
+      "slug": "2026-_blank"
+    },
+    {
+      "keyword": "2026 6f6f6f",
+      "count": 15,
+      "score": 45.76112915056578,
+      "proper": false,
+      "niches": [
+        "ai",
+        "finance",
+        "software",
+        "general"
+      ],
+      "examples": [
+        {
+          "title": "10 Best AI Text Generator Tools Tested for 2026",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE94ajFVejBCX2U3MUo1d3FlWFNzeTBXZU1ENl9LZkRrVWczWHRFN2lmNVd2U0E4Tk1YNFpqYnhfLTRmTVNhVUttOFNrQWdEOHZyNGF0Vm8xQQ?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Best AI Tools for Business Intelligence in 2026",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBqWDgyZ1EzRDIxNkpBSFpZOEIxdXk1QXByak5lRmFLQWY5bjMxaVE3dlFrSXYtRXlDX0ljWHFwTHZYN0I3MEtyOUlLcGpXbDlLYlE1WUxXTk0tMk5DbU02WHBaNVVjNDdpQ2NtNzZtYS1DSzg?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Best Budgeting Apps Of 2026",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBfUGVtV1FGTnJWeTNxS2R0QmVaQzlwbFVNZHlaU1BnNWlrNWx5WDIxb1k0UzVTaDNGVzhUaDNmenJBZ28xMW9VWEtyRU01ODNyV2x3WlBZZkpIb2dnNFVXQ19ReFkzVDJVaEg4?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Editor-Recommended Fitness Gear and Apparel for 2026",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBWRU1VeHpva004R0pHOFpHM3dzakNYSUtzWVVUQjlQTnJZckZGbGtrVTNHNGlRdlFnQTBBZHBDVEZHR1VlZkVUb3BUaUF2NTM2TVZDTlUyd1RVc1Jjakg5QVVxRHNvUklRYkd2cmRfdXRuVzVrRElfU2FyOTVGQQ?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "WFH 101: The Best Home Office Devices We've Tested for 2026",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9ZWmNLNzg1aWFBWDAxUDRvYlB4MERBdS1hd1FIZnl5TDA3c2RnalRsMXhBRVdKMlZtcko3dlRWVWt3Nk5VMUJVMy1Jd1dGM1hmQTNtaFVRbVI0Z3lOWm1QbWZaTnlRSHdHRkNoZXlnMFZuUQ?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "819223dcf234",
+      "slug": "2026-6f6f6f"
+    },
+    {
+      "keyword": "fitness gear",
+      "count": 35,
+      "score": 44.57089466430661,
+      "proper": true,
+      "niches": [
+        "gear",
+        "software"
+      ],
+      "examples": [
+        {
+          "title": "Memorial Day Sales: Great Deals on Fitness Gear",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWEx2T2hXVnExdVY4T2tVczl4cUd1QjcyM2ZMaG0wU3NIdUg1UnR2WnJPVkxjNnAwQ3RGOVlxOGRESXNabVpvejJkem5LN2pfOHhBbUhKYnpMczU3enpBenYzSjRHTUJuSm80QjVxVjI5RFNwdnItSWEtLS1vNlJUNjFDS2Y?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Memorial Day Sales: Great Deals on Fitness Gear",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWEx2T2hXVnExdVY4T2tVczl4cUd1QjcyM2ZMaG0wU3NIdUg1UnR2WnJPVkxjNnAwQ3RGOVlxOGRESXNabVpvejJkem5LN2pfOHhBbUhKYnpMczU3enpBenYzSjRHTUJuSm80QjVxVjI5RFNwdnItSWEtLS1vNlJUNjFDS2Y?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Memorial Day Sales: Great Deals on Fitness Gear",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWEx2T2hXVnExdVY4T2tVczl4cUd1QjcyM2ZMaG0wU3NIdUg1UnR2WnJPVkxjNnAwQ3RGOVlxOGRESXNabVpvejJkem5LN2pfOHhBbUhKYnpMczU3enpBenYzSjRHTUJuSm80QjVxVjI5RFNwdnItSWEtLS1vNlJUNjFDS2Y?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "I've tested women's workout clothes for over 10 years — these 9 brands make the best fitness gear by far",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcHJDSU5rMFRPUEZCQ1VfNm8xc3BNYmllcjE1Wi1fU29OQUVUVktCUU5yUWZLRkZQSlR0YzN4d3JTNjRrNmgwdVkwa3FFREl2UGUyM1ZOV3hxRERIN3dXTDlZNEZtcVNrZHo4Z1BYaWdkTjF3RzY2Zlk0aTN2NjFBb1J6RE1VbEk?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "I've tested women's workout clothes for over 10 years — these 9 brands make the best fitness gear by far",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcHJDSU5rMFRPUEZCQ1VfNm8xc3BNYmllcjE1Wi1fU29OQUVUVktCUU5yUWZLRkZQSlR0YzN4d3JTNjRrNmgwdVkwa3FFREl2UGUyM1ZOV3hxRERIN3dXTDlZNEZtcVNrZHo4Z1BYaWdkTjF3RzY2Zlk0aTN2NjFBb1J6RE1VbEk?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "a8b7e45842c3",
+      "slug": "fitness-gear"
+    },
+    {
+      "keyword": "desktop",
       "count": 5,
-      "score": 58.54398465192631,
+      "score": 41.46187683545291,
       "proper": true,
       "niches": [
         "ai"
       ],
       "examples": [
         {
-          "title": "AI sticker shock hits corporate America",
-          "url": "https://www.axios.com/2026/05/28/ai-spending-roi-enterprise-costs",
-          "source": "hackernews"
+          "title": "Bhojendra-dev/LSFG-Desktop — lossless scaling steam desck download github reddit android lsfg 3 frame generation best settings upscaling ai ls1 fsr nis integer scaling windows 11 steam deck decky load",
+          "url": "https://github.com/Bhojendra-dev/LSFG-Desktop",
+          "source": "github"
         }
       ],
-      "id": "b41e6560a446",
-      "slug": "america"
+      "id": "68693d02ab4f",
+      "slug": "desktop"
     },
     {
-      "keyword": "linux",
-      "count": 5,
-      "score": 58.46790352897814,
-      "proper": true,
+      "keyword": "digital services",
+      "count": 6,
+      "score": 40.66089486294129,
+      "proper": false,
       "niches": [
-        "ai"
+        "ai",
+        "general"
       ],
       "examples": [
         {
-          "title": "AMD pulls a bait-and-switch on Linux users with Vivado licensing changes",
-          "url": "https://itsfoss.com/news/amd-vivado-bait-and-switch-on-linux-users/",
+          "title": "Today, we have imposed a €200 million fine on Temu under the Digital Services Act, for failing to identify, analyse, and assess the systemic risks of illegal products being offered on its platform. Th",
+          "url": "https://ec.social-network.europa.eu/@EUCommission/116651733534611734",
+          "source": "mastodon"
+        },
+        {
+          "title": "Commission fines Temu €200M for breaching the Digital Services Act",
+          "url": "https://ec.europa.eu/commission/presscorner/home/en",
           "source": "hackernews"
         }
       ],
-      "id": "caf90169eefa",
-      "slug": "linux"
+      "id": "415d5fd460d8",
+      "slug": "digital-services"
     }
   ],
   "opportunities": [
     {
-      "keyword": "open source",
-      "count": 14,
-      "score": 122.71530401961206,
+      "keyword": "claude code",
+      "count": 25,
+      "score": 171.29631348887636,
       "proper": true,
       "niches": [
         "ai"
       ],
       "examples": [
         {
-          "title": "IBM and Red Hat Commit $5 Billion to Redefine the Future of Open Source in the AI Era",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWWt0OS15bUhvZjZXbVdBYkE4MHI4R3ptWldmOV9SNzNCUXhhUm9iU3V2OVc0eUl0em0wRm0xblpoUXFlR185Wk5SSy04a2JicUlrMWdQeXJzQ0xDRVh4N0hBS0ZFcFVSYmNUVFJRUTVRVXhTYjFRS3cxODdlNGpMOFVDbnVJOUoyNS15RUZOMTlmUm9USEtHQ2kyUWFLUVlNaE5WTzliazF1TTJlNHVqNVVZMkFLR3JBckJ3eA?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "IBM and Red Hat Commit $5 Billion to Redefine the Future of Open Source in the AI Era",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWWt0OS15bUhvZjZXbVdBYkE4MHI4R3ptWldmOV9SNzNCUXhhUm9iU3V2OVc0eUl0em0wRm0xblpoUXFlR185Wk5SSy04a2JicUlrMWdQeXJzQ0xDRVh4N0hBS0ZFcFVSYmNUVFJRUTVRVXhTYjFRS3cxODdlNGpMOFVDbnVJOUoyNS15RUZOMTlmUm9USEtHQ2kyUWFLUVlNaE5WTzliazF1TTJlNHVqNVVZMkFLR3JBckJ3eA?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "IBM and Red Hat Commit $5 Billion to Redefine the Future of Open Source in the AI Era",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWWt0OS15bUhvZjZXbVdBYkE4MHI4R3ptWldmOV9SNzNCUXhhUm9iU3V2OVc0eUl0em0wRm0xblpoUXFlR185Wk5SSy04a2JicUlrMWdQeXJzQ0xDRVh4N0hBS0ZFcFVSYmNUVFJRUTVRVXhTYjFRS3cxODdlNGpMOFVDbnVJOUoyNS15RUZOMTlmUm9USEtHQ2kyUWFLUVlNaE5WTzliazF1TTJlNHVqNVVZMkFLR3JBckJ3eA?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "zhristophe/Claude-Mythos-AI-Anthropic-App — claude mythos ai anthropic app github open source desktop mobile client abhishekk130804 anthropic api key creative writing roleplay character cards deep rea",
-          "url": "https://github.com/zhristophe/Claude-Mythos-AI-Anthropic-App",
+          "title": "Harkirat1462/claude-code-cli — claude code cli install codex github anthropic agentic coding system terminal assistant codebase git workflows multi file editing mcp protocol model context protocol sub",
+          "url": "https://github.com/Harkirat1462/claude-code-cli",
           "source": "github"
+        },
+        {
+          "title": "op7418/guizang-social-card-skill — 🪧 Claude Code / Codex skill — generate Xiaohongshu carousels & WeChat 21:9+1:1 cover pairs. Editorial × Swiss visual systems, 28 layouts, 10 themes, single-file HTM",
+          "url": "https://github.com/op7418/guizang-social-card-skill",
+          "source": "github"
+        },
+        {
+          "title": "op7418/guizang-social-card-skill — 🪧 Claude Code / Codex skill — generate Xiaohongshu carousels & WeChat 21:9+1:1 cover pairs. Editorial × Swiss visual systems, 28 layouts, 10 themes, single-file HTM",
+          "url": "https://github.com/op7418/guizang-social-card-skill",
+          "source": "github"
+        },
+        {
+          "title": "Claude Code is the best AI coding tool I've used, and I’m not entirely sure if I can recommend it",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMnJUQnpneEtHMEJFZzZ0V0djN24zOVQyM3hpT09WYm5sUXBRVEo0QkFCZG50Q3RMMUtuczFwYk9aMEYxSFpBMVkxNDhrRmpOTUNJWE9teEVsR3JDYW9YMktENFYxQlBjTC1lM2hfYTJ3WkI4c0tyMTh3X0UzSWUwVUFMRlQtSjhIcnRuTTVYUW9OeXFVbUtHYmt3?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Claude Code is the best AI coding tool I've used, and I’m not entirely sure if I can recommend it",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMnJUQnpneEtHMEJFZzZ0V0djN24zOVQyM3hpT09WYm5sUXBRVEo0QkFCZG50Q3RMMUtuczFwYk9aMEYxSFpBMVkxNDhrRmpOTUNJWE9teEVsR3JDYW9YMktENFYxQlBjTC1lM2hfYTJ3WkI4c0tyMTh3X0UzSWUwVUFMRlQtSjhIcnRuTTVYUW9OeXFVbUtHYmt3?oc=5",
+          "source": "gnews"
         }
       ],
-      "id": "1ae64990e804",
-      "slug": "open-source",
+      "id": "a625159d18da",
+      "slug": "claude-code",
+      "opportunity": {
+        "type": "tooling",
+        "recommended": "Build / list AI tools; monetize via affiliate links + lead magnet."
+      }
+    },
+    {
+      "keyword": "passive income",
+      "count": 47,
+      "score": 151.6242615056492,
+      "proper": true,
+      "niches": [
+        "ai",
+        "finance"
+      ],
+      "examples": [
+        {
+          "title": "5 Strong Buy Passive Income Giants Have Raised Their Dividends by Double Digits for Years",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPYXVpZFpKTGhLS0ZuWDQtemx4TTZ4dnVZZTQwUjUwa3BoWXNGZlNsampXbUhqNjVMbkw3eUVQU0E4NF9rbm54RlZXdXZSTmVSN1ozdlM0d2JjUG9WVmU1a0hWczJCeFROeERzeF9ocmZVZUpKMHd0ZFFTSG1MMjgtVnhtRXNQV0MyV21WS3M5bmJicGF4d1JJWThDNnJiMkl3eTBMQnFWMUM0cVg0YVFHSnNNMXlBT3BZdldueVNESVJMWmp2bmJ3ZjJtSmI?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "5 Strong Buy Passive Income Giants Have Raised Their Dividends by Double Digits for Years",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPYXVpZFpKTGhLS0ZuWDQtemx4TTZ4dnVZZTQwUjUwa3BoWXNGZlNsampXbUhqNjVMbkw3eUVQU0E4NF9rbm54RlZXdXZSTmVSN1ozdlM0d2JjUG9WVmU1a0hWczJCeFROeERzeF9ocmZVZUpKMHd0ZFFTSG1MMjgtVnhtRXNQV0MyV21WS3M5bmJicGF4d1JJWThDNnJiMkl3eTBMQnFWMUM0cVg0YVFHSnNNMXlBT3BZdldueVNESVJMWmp2bmJ3ZjJtSmI?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "How much passive income could £10,000 invested in the FTSE 100's top dividend stock target?",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPOGFaS004UXd3RU1iMm53TlpLRlRvV1Q4emVZS3Z5NWtvdXZRNnZyX3preDFRZ2ZKMXZ0b0o1bS1RelJ0NFZoYnV3M3B1NUQ2aTlXb2l6TWpGTUdIeENLck55UkItRUMtdmJiRUZRMnJuZlFPenphWEdXRlk4Mk5kVUhEeFAzOFVGRlBGNWVCTHl5c3NXWS1NSUNNNUdwMU5WSUpaeDFQYXBqQkp1TmxtSS0zcnpnUjlYckpRc0dZeHFZbWdEanItdw?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "How much passive income could £10,000 invested in the FTSE 100's top dividend stock target?",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPOGFaS004UXd3RU1iMm53TlpLRlRvV1Q4emVZS3Z5NWtvdXZRNnZyX3preDFRZ2ZKMXZ0b0o1bS1RelJ0NFZoYnV3M3B1NUQ2aTlXb2l6TWpGTUdIeENLck55UkItRUMtdmJiRUZRMnJuZlFPenphWEdXRlk4Mk5kVUhEeFAzOFVGRlBGNWVCTHl5c3NXWS1NSUNNNUdwMU5WSUpaeDFQYXBqQkp1TmxtSS0zcnpnUjlYckpRc0dZeHFZbWdEanItdw?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "How to earn a £1,500 monthly tax-free passive income from an ISA",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOGJDa3JNN0wtdXhuUGMwbUJkNkMyM2NyaF9vWDV0V1loN0hvUHB3YjBieFJBT2tIS0dGZFN6azl4MGx0dWwxXzRnTk42Q2t0ZGRnVV9OamljSGhzdXRyc01TVVdWZkVldXB2eEFYcnVzT1JxV3loTms4ZjJlX1NFR2dBTFdacTIwY1BIV3dpd2xwcUlQemZaN1NnSFN1WUFYLUVKREJKOA?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "cf2dbbbf8c8c",
+      "slug": "passive-income",
+      "opportunity": {
+        "type": "niche-content",
+        "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
+      }
+    },
+    {
+      "keyword": "business intelligence",
+      "count": 11,
+      "score": 98.77978565637038,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "Best AI Tools for Business Intelligence in 2026",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBqWDgyZ1EzRDIxNkpBSFpZOEIxdXk1QXByak5lRmFLQWY5bjMxaVE3dlFrSXYtRXlDX0ljWHFwTHZYN0I3MEtyOUlLcGpXbDlLYlE1WUxXTk0tMk5DbU02WHBaNVVjNDdpQ2NtNzZtYS1DSzg?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Best AI Tools for Business Intelligence in 2026",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBqWDgyZ1EzRDIxNkpBSFpZOEIxdXk1QXByak5lRmFLQWY5bjMxaVE3dlFrSXYtRXlDX0ljWHFwTHZYN0I3MEtyOUlLcGpXbDlLYlE1WUxXTk0tMk5DbU02WHBaNVVjNDdpQ2NtNzZtYS1DSzg?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Best AI Tools for Business Intelligence in 2026",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBqWDgyZ1EzRDIxNkpBSFpZOEIxdXk1QXByak5lRmFLQWY5bjMxaVE3dlFrSXYtRXlDX0ljWHFwTHZYN0I3MEtyOUlLcGpXbDlLYlE1WUxXTk0tMk5DbU02WHBaNVVjNDdpQ2NtNzZtYS1DSzg?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "3fbe0f5eddbf",
+      "slug": "business-intelligence",
       "opportunity": {
         "type": "niche-content",
         "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
@@ -718,7 +890,7 @@
     {
       "keyword": "bot polymarket",
       "count": 15,
-      "score": 118.46626756943876,
+      "score": 95.31328765092624,
       "proper": false,
       "niches": [
         "ai"
@@ -758,37 +930,78 @@
       }
     },
     {
-      "keyword": "temu",
-      "count": 10,
-      "score": 104.06064631875785,
+      "keyword": "dear fedi",
+      "count": 8,
+      "score": 87.73583978519736,
       "proper": true,
       "niches": [
-        "ai",
-        "general"
+        "ai"
       ],
       "examples": [
         {
-          "title": "Today, we have imposed a €200 million fine on Temu under the Digital Services Act, for failing to identify, analyse, and assess the systemic risks of illegal products being offered on its platform. Th",
-          "url": "https://ec.social-network.europa.eu/@EUCommission/116651733534611734",
+          "title": "Dear Fedi friends,I hereby present you my new favorite website: https://isaiprofitable.com, which tracks the spending and revenue of all the major AI companies.Oh it is glorious - the perfect link to ",
+          "url": "https://mastodon.social/@_elena/116652356526060818",
           "source": "mastodon"
         },
         {
-          "title": "Commission fines Temu €200M for breaching the Digital Services Act",
-          "url": "https://ec.europa.eu/commission/presscorner/home/en",
-          "source": "hackernews"
+          "title": "Dear Fedi friends,I hereby present you my new favorite website: https://isaiprofitable.com, which tracks the spending and revenue of all the major AI companies.Oh it is glorious - the perfect link to ",
+          "url": "https://mastodon.social/@_elena/116652356526060818",
+          "source": "mastodon"
         }
       ],
-      "id": "5849f0dbde1a",
-      "slug": "temu",
+      "id": "657aec826a89",
+      "slug": "dear-fedi",
       "opportunity": {
         "type": "niche-content",
         "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
       }
     },
     {
+      "keyword": "claude",
+      "count": 11,
+      "score": 82.14217780223727,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "Harkirat1462/claude-code-cli — claude code cli install codex github anthropic agentic coding system terminal assistant codebase git workflows multi file editing mcp protocol model context protocol sub",
+          "url": "https://github.com/Harkirat1462/claude-code-cli",
+          "source": "github"
+        },
+        {
+          "title": "zhristophe/Claude-Mythos-AI-Anthropic-App — claude mythos ai anthropic app github open source desktop mobile client abhishekk130804 anthropic api key creative writing roleplay character cards deep rea",
+          "url": "https://github.com/zhristophe/Claude-Mythos-AI-Anthropic-App",
+          "source": "github"
+        },
+        {
+          "title": "zhristophe/Claude-Mythos-AI-Anthropic-App — claude mythos ai anthropic app github open source desktop mobile client abhishekk130804 anthropic api key creative writing roleplay character cards deep rea",
+          "url": "https://github.com/zhristophe/Claude-Mythos-AI-Anthropic-App",
+          "source": "github"
+        },
+        {
+          "title": "op7418/guizang-social-card-skill — 🪧 Claude Code / Codex skill — generate Xiaohongshu carousels & WeChat 21:9+1:1 cover pairs. Editorial × Swiss visual systems, 28 layouts, 10 themes, single-file HTM",
+          "url": "https://github.com/op7418/guizang-social-card-skill",
+          "source": "github"
+        },
+        {
+          "title": "Claude Code is the best AI coding tool I've used, and I’m not entirely sure if I can recommend it",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMnJUQnpneEtHMEJFZzZ0V0djN24zOVQyM3hpT09WYm5sUXBRVEo0QkFCZG50Q3RMMUtuczFwYk9aMEYxSFpBMVkxNDhrRmpOTUNJWE9teEVsR3JDYW9YMktENFYxQlBjTC1lM2hfYTJ3WkI4c0tyMTh3X0UzSWUwVUFMRlQtSjhIcnRuTTVYUW9OeXFVbUtHYmt3?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "c857d09db23e",
+      "slug": "claude",
+      "opportunity": {
+        "type": "tooling",
+        "recommended": "Build / list AI tools; monetize via affiliate links + lead magnet."
+      }
+    },
+    {
       "keyword": "trading bot",
       "count": 12,
-      "score": 94.773014055551,
+      "score": 76.250630120741,
       "proper": false,
       "niches": [
         "ai"
@@ -823,69 +1036,9 @@
       }
     },
     {
-      "keyword": "claude code",
-      "count": 11,
-      "score": 92.63818342876066,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "Harkirat1462/claude-code-cli — claude code cli install codex github anthropic agentic coding system terminal assistant codebase git workflows multi file editing mcp protocol model context protocol sub",
-          "url": "https://github.com/Harkirat1462/claude-code-cli",
-          "source": "github"
-        },
-        {
-          "title": "op7418/guizang-social-card-skill — 🪧 Claude Code / Codex skill — generate Xiaohongshu carousels & WeChat 21:9+1:1 cover pairs. Editorial × Swiss visual systems, 28 layouts, 10 themes, single-file HTM",
-          "url": "https://github.com/op7418/guizang-social-card-skill",
-          "source": "github"
-        },
-        {
-          "title": "op7418/guizang-social-card-skill — 🪧 Claude Code / Codex skill — generate Xiaohongshu carousels & WeChat 21:9+1:1 cover pairs. Editorial × Swiss visual systems, 28 layouts, 10 themes, single-file HTM",
-          "url": "https://github.com/op7418/guizang-social-card-skill",
-          "source": "github"
-        }
-      ],
-      "id": "a625159d18da",
-      "slug": "claude-code",
-      "opportunity": {
-        "type": "tooling",
-        "recommended": "Build / list AI tools; monetize via affiliate links + lead magnet."
-      }
-    },
-    {
-      "keyword": "google",
-      "count": 10,
-      "score": 78.96777629680135,
-      "proper": true,
-      "niches": [
-        "ai",
-        "general"
-      ],
-      "examples": [
-        {
-          "title": "DuckDuckGo search saw 28% more visits after Google said people love AI mode",
-          "url": "https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/",
-          "source": "hackernews"
-        },
-        {
-          "title": "Google employee charged with $1M Polymarket insider trading bet on search term",
-          "url": "https://www.cnbc.com/2026/05/27/google-employee-polymarket-insider-trading.html",
-          "source": "hackernews"
-        }
-      ],
-      "id": "bbdefa2950f4",
-      "slug": "google",
-      "opportunity": {
-        "type": "niche-content",
-        "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
-      }
-    },
-    {
       "keyword": "jailbroken kindle",
       "count": 8,
-      "score": 73.50365040413695,
+      "score": 73.55755563498137,
       "proper": true,
       "niches": [
         "ai"
@@ -907,38 +1060,6 @@
       "opportunity": {
         "type": "tooling",
         "recommended": "Build / list AI tools; monetize via affiliate links + lead magnet."
-      }
-    },
-    {
-      "keyword": "polymarket trading",
-      "count": 9,
-      "score": 71.07976054166325,
-      "proper": false,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "ShadowSpread/polymarket-auto-trading — polymarket trading bot, polymarket auto trading bot, polymarket profitable bot, polymarket, trading bot, polymarket trading bot, polymarket arbitrage bot, polyma",
-          "url": "https://github.com/ShadowSpread/polymarket-auto-trading",
-          "source": "github"
-        },
-        {
-          "title": "ShadowSpread/polymarket-auto-trading — polymarket trading bot, polymarket auto trading bot, polymarket profitable bot, polymarket, trading bot, polymarket trading bot, polymarket arbitrage bot, polyma",
-          "url": "https://github.com/ShadowSpread/polymarket-auto-trading",
-          "source": "github"
-        },
-        {
-          "title": "ShadowSpread/polymarket-auto-trading — polymarket trading bot, polymarket auto trading bot, polymarket profitable bot, polymarket, trading bot, polymarket trading bot, polymarket arbitrage bot, polyma",
-          "url": "https://github.com/ShadowSpread/polymarket-auto-trading",
-          "source": "github"
-        }
-      ],
-      "id": "cc07af2a09d3",
-      "slug": "polymarket-trading",
-      "opportunity": {
-        "type": "niche-content",
-        "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
       }
     }
   ]

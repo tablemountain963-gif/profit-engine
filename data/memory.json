@@ -106,17 +106,33 @@
     },
     "kitchen-gadgets": {
       "firstSeen": "2026-05-28T13:16:58.330Z",
-      "lastSeen": "2026-05-28T13:16:58.330Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-05-28T13:29:54.660Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "gear"
+    },
+    "distant-corporate-overlord": {
+      "firstSeen": "2026-05-28T13:29:54.660Z",
+      "lastSeen": "2026-05-28T13:29:54.660Z",
+      "count": 1,
+      "wins": 1,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "shadowspread": {
+      "firstSeen": "2026-05-28T13:29:54.660Z",
+      "lastSeen": "2026-05-28T13:29:54.660Z",
+      "count": 1,
+      "wins": 1,
+      "losses": 0,
+      "niche": "ai"
     }
   },
   "niches": {
     "ai": {
-      "count": 47,
-      "wins": 13,
+      "count": 49,
+      "wins": 15,
       "losses": 0
     },
     "finance": {
@@ -130,8 +146,8 @@
       "losses": 0
     },
     "gear": {
-      "count": 1,
-      "wins": 0,
+      "count": 2,
+      "wins": 1,
       "losses": 0
     }
   },
