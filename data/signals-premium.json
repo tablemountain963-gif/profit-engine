@@ -1,38 +1,82 @@
 {
-  "generatedAt": "2026-05-28T01:58:49.350Z",
-  "sourceCount": 105,
+  "generatedAt": "2026-05-28T02:20:57.589Z",
+  "sourceCount": 157,
   "topItems": [
     {
-      "title": "I think Anthropic and OpenAI have found product-market fit",
-      "url": "https://simonwillison.net/2026/May/27/product-market-fit/",
-      "score": 4.94,
+      "title": "Pasting a huge AI generated explanation to a problem in an issue or pull-request is nothing but RUDE. Don't do it. You look stupid and the receivers of that feel insulted.We are humans. We communicate",
+      "url": "https://mastodon.social/@bagder/116648467657760137",
+      "score": 5.85,
       "niche": "ai",
-      "source": "hackernews",
+      "source": "mastodon",
       "engagement": {
-        "score": 656,
-        "comments": 801
+        "score": 617,
+        "comments": 16
       }
     },
     {
-      "title": "YouTube to automatically label AI-generated videos",
-      "url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
-      "score": 4.92,
+      "title": "I think Anthropic and OpenAI have found product-market fit",
+      "url": "https://simonwillison.net/2026/May/27/product-market-fit/",
+      "score": 4.95,
       "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 544,
-        "comments": 324
+        "score": 661,
+        "comments": 814
       }
     },
     {
       "title": "Tech CEOs are apparently suffering from AI psychosis",
       "url": "https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/",
-      "score": 4.51,
+      "score": 4.52,
       "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 573,
-        "comments": 289
+        "score": 581,
+        "comments": 294
+      }
+    },
+    {
+      "title": "\"Our entire economy is being artificially propped up by astrology for men: AI, crypto, sports betting, and prediction markets. It's an economy shaped entirely by male insecurity and lack of impulse co",
+      "url": "https://mastodon.social/@gwynnion/116648655369385136",
+      "score": 4.48,
+      "niche": "ai",
+      "source": "mastodon",
+      "engagement": {
+        "score": 256,
+        "comments": 7
+      }
+    },
+    {
+      "title": "DuckDuckGo's AI-free search saw nearly 28% more visits in the week following Google's insistence that people love AI mode. Is anyone surprised by this result?https://xcancel.com/DuckDuckGo/status/2059",
+      "url": "https://mastodon.social/@nixCraft/116647832352017668",
+      "score": 4.28,
+      "niche": "ai",
+      "source": "mastodon",
+      "engagement": {
+        "score": 736,
+        "comments": 35
+      }
+    },
+    {
+      "title": "to catch a train you have to think like a train",
+      "url": "https://infosec.exchange/@catsalad/116648420964526804",
+      "score": 4.26,
+      "niche": "ai",
+      "source": "mastodon",
+      "engagement": {
+        "score": 411,
+        "comments": 25
+      }
+    },
+    {
+      "title": "A couple of weeks ago a woman who’d followed me on Instagram for 10 years happened to be in town and came to pay me a visit. We had written back and forth over the years and sent each other gifts in t",
+      "url": "https://mastodon.social/@potterybyosa/116649056834031429",
+      "score": 4.07,
+      "niche": "software",
+      "source": "mastodon",
+      "engagement": {
+        "score": 322,
+        "comments": 7
       }
     },
     {
@@ -42,8 +86,30 @@
       "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 675,
-        "comments": 336
+        "score": 683,
+        "comments": 342
+      }
+    },
+    {
+      "title": "YouTube to automatically label AI-generated videos",
+      "url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
+      "score": 3.95,
+      "niche": "ai",
+      "source": "hackernews",
+      "engagement": {
+        "score": 554,
+        "comments": 330
+      }
+    },
+    {
+      "title": "This is how the AI bubble bursts: https://www.theverge.com/ai-artificial-intelligence/917380/ai-monetization-anthropic-openai-token-economics-revenueThere is no conceivable way to break even for the A",
+      "url": "https://wandering.shop/@cstross/116648209688298468",
+      "score": 3.75,
+      "niche": "ai",
+      "source": "mastodon",
+      "engagement": {
+        "score": 795,
+        "comments": 29
       }
     },
     {
@@ -58,14 +124,25 @@
       }
     },
     {
+      "title": "These AI agent attacks are getting ridiculousMalicious code hidden in source code repositories can trick AI coding agents into overwriting their own configuration fileshttps://adversa.ai/blog/the-appr",
+      "url": "https://mastodon.social/@campuscodi/116649022439044971",
+      "score": 3.63,
+      "niche": "ai",
+      "source": "mastodon",
+      "engagement": {
+        "score": 87,
+        "comments": 3
+      }
+    },
+    {
       "title": "What Apple and Google are doing to push notifications",
       "url": "https://www.jacquescorbytuech.com/writing/what-apple-and-google-are-doing-your-push-notifications",
-      "score": 3.53,
+      "score": 3.54,
       "niche": "software",
       "source": "hackernews",
       "engagement": {
-        "score": 179,
-        "comments": 183
+        "score": 182,
+        "comments": 187
       }
     },
     {
@@ -82,11 +159,11 @@
     {
       "title": "Gemini, Gophers, and Fingers. Oh My Alternative Internets Beyond HTTPS",
       "url": "https://brennan.day/gemini-gophers-and-fingers-oh-my-alternative-internets-beyond-https/",
-      "score": 3.34,
+      "score": 3.35,
       "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 91,
+        "score": 94,
         "comments": 47
       }
     },
@@ -102,14 +179,36 @@
       }
     },
     {
+      "title": "Do you like bumping your music a little loud? Cops are searching Flock Safety ALPR data to investigate noise complaints. The creeping use cases keep getting more absurd. https://www.eff.org/deeplinks/",
+      "url": "https://mastodon.social/@eff/116649248906707388",
+      "score": 3.23,
+      "niche": "ai",
+      "source": "mastodon",
+      "engagement": {
+        "score": 104,
+        "comments": 0
+      }
+    },
+    {
       "title": "Incident with Pull Requests, Issues, Git Operations and API Requests",
       "url": "https://www.githubstatus.com/incidents/xy1tt3hs572m",
       "score": 3.15,
       "niche": "software",
       "source": "hackernews",
       "engagement": {
-        "score": 261,
+        "score": 263,
         "comments": 193
+      }
+    },
+    {
+      "title": "Can we have the day off?",
+      "url": "https://mlsu.io/posts/day-off/",
+      "score": 2.92,
+      "niche": "general",
+      "source": "hackernews",
+      "engagement": {
+        "score": 375,
+        "comments": 229
       }
     },
     {
@@ -119,8 +218,8 @@
       "niche": "general",
       "source": "hackernews",
       "engagement": {
-        "score": 439,
-        "comments": 493
+        "score": 442,
+        "comments": 496
       }
     },
     {
@@ -141,30 +240,8 @@
       "niche": "ai",
       "source": "github",
       "engagement": {
-        "score": 184,
+        "score": 187,
         "comments": 1
-      }
-    },
-    {
-      "title": "Can we have the day off?",
-      "url": "https://mlsu.io/posts/day-off/",
-      "score": 2.82,
-      "niche": "general",
-      "source": "hackernews",
-      "engagement": {
-        "score": 289,
-        "comments": 187
-      }
-    },
-    {
-      "title": "Szili1994/create-aeronautics-minecraft-mod — aeronautics create minecraft mod github modrinth curseforge create addon sable physics engine simulated offroad airships planes drones vehicles contraption",
-      "url": "https://github.com/Szili1994/create-aeronautics-minecraft-mod",
-      "score": 2.82,
-      "niche": "ai",
-      "source": "github",
-      "engagement": {
-        "score": 81,
-        "comments": 0
       }
     },
     {
@@ -174,323 +251,47 @@
       "niche": "general",
       "source": "hackernews",
       "engagement": {
-        "score": 414,
-        "comments": 303
+        "score": 419,
+        "comments": 308
       }
     },
     {
       "title": "Rust (and Slint) on a Jailbroken Kindle",
       "url": "https://sverre.me/blog/rust-on-kindle/",
-      "score": 2.7,
+      "score": 2.71,
       "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 105,
+        "score": 107,
         "comments": 11
       }
     },
     {
-      "title": "Bhojendra-dev/LSFG-Desktop — lossless scaling steam desck download github reddit android lsfg 3 frame generation best settings upscaling ai ls1 fsr nis integer scaling windows 11 steam deck decky load",
-      "url": "https://github.com/Bhojendra-dev/LSFG-Desktop",
-      "score": 2.66,
-      "niche": "ai",
-      "source": "github",
-      "engagement": {
-        "score": 134,
-        "comments": 0
-      }
-    },
-    {
-      "title": "zhristophe/Claude-Mythos-AI-Anthropic-App — claude mythos ai anthropic app github open source desktop mobile client abhishekk130804 anthropic api key creative writing roleplay character cards deep rea",
-      "url": "https://github.com/zhristophe/Claude-Mythos-AI-Anthropic-App",
-      "score": 2.64,
-      "niche": "ai",
-      "source": "github",
-      "engagement": {
-        "score": 130,
-        "comments": 0
-      }
-    },
-    {
-      "title": "Stress disrupts hippocampal integration of overlapping events, memory inference",
-      "url": "https://www.science.org/doi/10.1126/sciadv.aea5496?user_id=66c4bf745d78644b3aa57b08",
-      "score": 2.59,
-      "niche": "software",
-      "source": "hackernews",
-      "engagement": {
-        "score": 77,
-        "comments": 12
-      }
-    },
-    {
-      "title": "Last.fm is now independent",
-      "url": "https://support.last.fm/t/last-fm-is-now-independent/118591",
-      "score": 2.39,
+      "title": "Finally, a quest worth doingSources and bonus timelapse: https://www.peppercarrot.com/en/miniFantasyTheater/054.html#webcomic #krita #miniFantasyTheater",
+      "url": "https://framapiaf.org/@davidrevoy/116647444357182250",
+      "score": 2.68,
       "niche": "general",
-      "source": "hackernews",
+      "source": "mastodon",
       "engagement": {
-        "score": 630,
-        "comments": 177
-      }
-    },
-    {
-      "title": "Why does AI forget what you said (and how to fix it)",
-      "url": "https://dev.to/aws/why-does-ai-forget-what-you-said-and-how-to-fix-it-52f6",
-      "score": 2.33,
-      "niche": "ai",
-      "source": "devto",
-      "engagement": {
-        "score": 45,
-        "comments": 41
-      }
-    },
-    {
-      "title": "All of human cooking compressed into 2 megabytes",
-      "url": "https://arxiv.org/abs/2605.22391",
-      "score": 2.26,
-      "niche": "general",
-      "source": "hackernews",
-      "engagement": {
-        "score": 363,
-        "comments": 149
-      }
-    },
-    {
-      "title": "Show HN: Open-Source AI Racing Harness",
-      "url": "https://www.elodin.systems/post/elodin-ai-grand-prix-race-sim-harness",
-      "score": 2.24,
-      "niche": "ai",
-      "source": "hackernews",
-      "engagement": {
-        "score": 16,
-        "comments": 4
-      }
-    },
-    {
-      "title": "FBI Arrests CIA Official with $40M in Gold Bars in His Home",
-      "url": "https://www.nytimes.com/2026/05/27/us/politics/fbi-arrest-cia-official-gold-bars.html",
-      "score": 2.2,
-      "niche": "general",
-      "source": "hackernews",
-      "engagement": {
-        "score": 80,
-        "comments": 39
+        "score": 2175,
+        "comments": 38
       }
     }
   ],
   "topics": [
     {
-      "keyword": "anthropic openai",
-      "count": 3,
-      "score": 14.810894075744326,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "I think Anthropic and OpenAI have found product-market fit",
-          "url": "https://simonwillison.net/2026/May/27/product-market-fit/",
-          "source": "hackernews"
-        }
-      ],
-      "id": "f01b77252a47",
-      "slug": "anthropic-openai"
-    },
-    {
-      "keyword": "openai product-market",
-      "count": 3,
-      "score": 14.810894075744326,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "I think Anthropic and OpenAI have found product-market fit",
-          "url": "https://simonwillison.net/2026/May/27/product-market-fit/",
-          "source": "hackernews"
-        }
-      ],
-      "id": "2f161f5c4dec",
-      "slug": "openai-product-market"
-    },
-    {
-      "keyword": "product-market fit",
-      "count": 3,
-      "score": 14.810894075744326,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "I think Anthropic and OpenAI have found product-market fit",
-          "url": "https://simonwillison.net/2026/May/27/product-market-fit/",
-          "source": "hackernews"
-        }
-      ],
-      "id": "c707fb8e955d",
-      "slug": "product-market-fit"
-    },
-    {
-      "keyword": "youtube automatically",
-      "count": 3,
-      "score": 14.767874129617642,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "YouTube to automatically label AI-generated videos",
-          "url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
-          "source": "hackernews"
-        }
-      ],
-      "id": "1c195bc090cd",
-      "slug": "youtube-automatically"
-    },
-    {
-      "keyword": "automatically label",
-      "count": 3,
-      "score": 14.767874129617642,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "YouTube to automatically label AI-generated videos",
-          "url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
-          "source": "hackernews"
-        }
-      ],
-      "id": "53491a8b17a8",
-      "slug": "automatically-label"
-    },
-    {
-      "keyword": "label ai-generated",
-      "count": 3,
-      "score": 14.767874129617642,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "YouTube to automatically label AI-generated videos",
-          "url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
-          "source": "hackernews"
-        }
-      ],
-      "id": "f97d8427b5db",
-      "slug": "label-ai-generated"
-    },
-    {
-      "keyword": "ai-generated videos",
-      "count": 3,
-      "score": 14.767874129617642,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "YouTube to automatically label AI-generated videos",
-          "url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
-          "source": "hackernews"
-        }
-      ],
-      "id": "05de668d5bcc",
-      "slug": "ai-generated-videos"
-    },
-    {
-      "keyword": "tech ceos",
-      "count": 3,
-      "score": 13.519374147649046,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "Tech CEOs are apparently suffering from AI psychosis",
-          "url": "https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/",
-          "source": "hackernews"
-        }
-      ],
-      "id": "ff0bf88139f4",
-      "slug": "tech-ceos"
-    },
-    {
-      "keyword": "ceos apparently",
-      "count": 3,
-      "score": 13.519374147649046,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "Tech CEOs are apparently suffering from AI psychosis",
-          "url": "https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/",
-          "source": "hackernews"
-        }
-      ],
-      "id": "78b50d77e32e",
-      "slug": "ceos-apparently"
-    },
-    {
-      "keyword": "apparently suffering",
-      "count": 3,
-      "score": 13.519374147649046,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "Tech CEOs are apparently suffering from AI psychosis",
-          "url": "https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/",
-          "source": "hackernews"
-        }
-      ],
-      "id": "c1298cb46d92",
-      "slug": "apparently-suffering"
-    },
-    {
-      "keyword": "suffering psychosis",
-      "count": 3,
-      "score": 13.519374147649046,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "Tech CEOs are apparently suffering from AI psychosis",
-          "url": "https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/",
-          "source": "hackernews"
-        }
-      ],
-      "id": "3dc52dd89efd",
-      "slug": "suffering-psychosis"
-    },
-    {
-      "keyword": "duckduckgo search",
-      "count": 3,
-      "score": 12.018009186045317,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "DuckDuckGo search saw 28% more visits after Google said people love AI mode",
-          "url": "https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/",
-          "source": "hackernews"
-        }
-      ],
-      "id": "dc6f57920152",
-      "slug": "duckduckgo-search"
-    },
-    {
       "keyword": "search visits",
-      "count": 3,
-      "score": 12.018009186045317,
+      "count": 6,
+      "score": 24.879324143287597,
       "niches": [
         "ai"
       ],
       "examples": [
+        {
+          "title": "DuckDuckGo's AI-free search saw nearly 28% more visits in the week following Google's insistence that people love AI mode. Is anyone surprised by this result?https://xcancel.com/DuckDuckGo/status/2059",
+          "url": "https://mastodon.social/@nixCraft/116647832352017668",
+          "source": "mastodon"
+        },
         {
           "title": "DuckDuckGo search saw 28% more visits after Google said people love AI mode",
           "url": "https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/",
@@ -501,204 +302,423 @@
       "slug": "search-visits"
     },
     {
-      "keyword": "visits after",
-      "count": 3,
-      "score": 12.018009186045317,
+      "keyword": "love mode",
+      "count": 6,
+      "score": 24.879324143287597,
       "niches": [
         "ai"
       ],
       "examples": [
+        {
+          "title": "DuckDuckGo's AI-free search saw nearly 28% more visits in the week following Google's insistence that people love AI mode. Is anyone surprised by this result?https://xcancel.com/DuckDuckGo/status/2059",
+          "url": "https://mastodon.social/@nixCraft/116647832352017668",
+          "source": "mastodon"
+        },
         {
           "title": "DuckDuckGo search saw 28% more visits after Google said people love AI mode",
           "url": "https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/",
           "source": "hackernews"
         }
       ],
-      "id": "216e7176e2a2",
-      "slug": "visits-after"
+      "id": "c983b17fac5e",
+      "slug": "love-mode"
     },
     {
-      "keyword": "after google",
+      "keyword": "pasting huge",
       "count": 3,
-      "score": 12.018009186045317,
+      "score": 17.55257934545142,
       "niches": [
         "ai"
       ],
       "examples": [
         {
-          "title": "DuckDuckGo search saw 28% more visits after Google said people love AI mode",
-          "url": "https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/",
-          "source": "hackernews"
+          "title": "Pasting a huge AI generated explanation to a problem in an issue or pull-request is nothing but RUDE. Don't do it. You look stupid and the receivers of that feel insulted.We are humans. We communicate",
+          "url": "https://mastodon.social/@bagder/116648467657760137",
+          "source": "mastodon"
         }
       ],
-      "id": "677d34f54a0d",
-      "slug": "after-google"
+      "id": "3c50c2fc845c",
+      "slug": "pasting-huge"
+    },
+    {
+      "keyword": "huge generated",
+      "count": 3,
+      "score": 17.55257934545142,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "Pasting a huge AI generated explanation to a problem in an issue or pull-request is nothing but RUDE. Don't do it. You look stupid and the receivers of that feel insulted.We are humans. We communicate",
+          "url": "https://mastodon.social/@bagder/116648467657760137",
+          "source": "mastodon"
+        }
+      ],
+      "id": "755d8da0e49e",
+      "slug": "huge-generated"
+    },
+    {
+      "keyword": "generated explanation",
+      "count": 3,
+      "score": 17.55257934545142,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "Pasting a huge AI generated explanation to a problem in an issue or pull-request is nothing but RUDE. Don't do it. You look stupid and the receivers of that feel insulted.We are humans. We communicate",
+          "url": "https://mastodon.social/@bagder/116648467657760137",
+          "source": "mastodon"
+        }
+      ],
+      "id": "e8e18b0e6fcd",
+      "slug": "generated-explanation"
+    },
+    {
+      "keyword": "explanation problem",
+      "count": 3,
+      "score": 17.55257934545142,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "Pasting a huge AI generated explanation to a problem in an issue or pull-request is nothing but RUDE. Don't do it. You look stupid and the receivers of that feel insulted.We are humans. We communicate",
+          "url": "https://mastodon.social/@bagder/116648467657760137",
+          "source": "mastodon"
+        }
+      ],
+      "id": "9299b633fb16",
+      "slug": "explanation-problem"
+    },
+    {
+      "keyword": "problem issue",
+      "count": 3,
+      "score": 17.55257934545142,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "Pasting a huge AI generated explanation to a problem in an issue or pull-request is nothing but RUDE. Don't do it. You look stupid and the receivers of that feel insulted.We are humans. We communicate",
+          "url": "https://mastodon.social/@bagder/116648467657760137",
+          "source": "mastodon"
+        }
+      ],
+      "id": "463df09bddb1",
+      "slug": "problem-issue"
+    },
+    {
+      "keyword": "issue pull-request",
+      "count": 3,
+      "score": 17.55257934545142,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "Pasting a huge AI generated explanation to a problem in an issue or pull-request is nothing but RUDE. Don't do it. You look stupid and the receivers of that feel insulted.We are humans. We communicate",
+          "url": "https://mastodon.social/@bagder/116648467657760137",
+          "source": "mastodon"
+        }
+      ],
+      "id": "2f56ac8de9fa",
+      "slug": "issue-pull-request"
+    },
+    {
+      "keyword": "pull-request nothing",
+      "count": 3,
+      "score": 17.55257934545142,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "Pasting a huge AI generated explanation to a problem in an issue or pull-request is nothing but RUDE. Don't do it. You look stupid and the receivers of that feel insulted.We are humans. We communicate",
+          "url": "https://mastodon.social/@bagder/116648467657760137",
+          "source": "mastodon"
+        }
+      ],
+      "id": "fda1f65bc37e",
+      "slug": "pull-request-nothing"
+    },
+    {
+      "keyword": "nothing rude",
+      "count": 3,
+      "score": 17.55257934545142,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "Pasting a huge AI generated explanation to a problem in an issue or pull-request is nothing but RUDE. Don't do it. You look stupid and the receivers of that feel insulted.We are humans. We communicate",
+          "url": "https://mastodon.social/@bagder/116648467657760137",
+          "source": "mastodon"
+        }
+      ],
+      "id": "560f6da9e4b8",
+      "slug": "nothing-rude"
+    },
+    {
+      "keyword": "rude don't",
+      "count": 3,
+      "score": 17.55257934545142,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "Pasting a huge AI generated explanation to a problem in an issue or pull-request is nothing but RUDE. Don't do it. You look stupid and the receivers of that feel insulted.We are humans. We communicate",
+          "url": "https://mastodon.social/@bagder/116648467657760137",
+          "source": "mastodon"
+        }
+      ],
+      "id": "d3cd7ee29662",
+      "slug": "rude-dont"
+    },
+    {
+      "keyword": "don't stupid",
+      "count": 3,
+      "score": 17.55257934545142,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "Pasting a huge AI generated explanation to a problem in an issue or pull-request is nothing but RUDE. Don't do it. You look stupid and the receivers of that feel insulted.We are humans. We communicate",
+          "url": "https://mastodon.social/@bagder/116648467657760137",
+          "source": "mastodon"
+        }
+      ],
+      "id": "6240f0083269",
+      "slug": "dont-stupid"
+    },
+    {
+      "keyword": "stupid receivers",
+      "count": 3,
+      "score": 17.55257934545142,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "Pasting a huge AI generated explanation to a problem in an issue or pull-request is nothing but RUDE. Don't do it. You look stupid and the receivers of that feel insulted.We are humans. We communicate",
+          "url": "https://mastodon.social/@bagder/116648467657760137",
+          "source": "mastodon"
+        }
+      ],
+      "id": "ac95573dae08",
+      "slug": "stupid-receivers"
+    },
+    {
+      "keyword": "receivers insulted",
+      "count": 3,
+      "score": 17.55257934545142,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "Pasting a huge AI generated explanation to a problem in an issue or pull-request is nothing but RUDE. Don't do it. You look stupid and the receivers of that feel insulted.We are humans. We communicate",
+          "url": "https://mastodon.social/@bagder/116648467657760137",
+          "source": "mastodon"
+        }
+      ],
+      "id": "27091ff4b9e8",
+      "slug": "receivers-insulted"
+    },
+    {
+      "keyword": "insulted humans",
+      "count": 3,
+      "score": 17.55257934545142,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "Pasting a huge AI generated explanation to a problem in an issue or pull-request is nothing but RUDE. Don't do it. You look stupid and the receivers of that feel insulted.We are humans. We communicate",
+          "url": "https://mastodon.social/@bagder/116648467657760137",
+          "source": "mastodon"
+        }
+      ],
+      "id": "bf0955bec34f",
+      "slug": "insulted-humans"
     }
   ],
   "opportunities": [
     {
-      "keyword": "anthropic openai",
-      "count": 3,
-      "score": 14.810894075744326,
+      "keyword": "search visits",
+      "count": 6,
+      "score": 24.879324143287597,
       "niches": [
         "ai"
       ],
       "examples": [
         {
-          "title": "I think Anthropic and OpenAI have found product-market fit",
-          "url": "https://simonwillison.net/2026/May/27/product-market-fit/",
-          "source": "hackernews"
-        }
-      ],
-      "id": "f01b77252a47",
-      "slug": "anthropic-openai",
-      "opportunity": {
-        "type": "tooling",
-        "recommended": "Build / list AI tools; monetize via affiliate links + lead magnet."
-      }
-    },
-    {
-      "keyword": "openai product-market",
-      "count": 3,
-      "score": 14.810894075744326,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
+          "title": "DuckDuckGo's AI-free search saw nearly 28% more visits in the week following Google's insistence that people love AI mode. Is anyone surprised by this result?https://xcancel.com/DuckDuckGo/status/2059",
+          "url": "https://mastodon.social/@nixCraft/116647832352017668",
+          "source": "mastodon"
+        },
         {
-          "title": "I think Anthropic and OpenAI have found product-market fit",
-          "url": "https://simonwillison.net/2026/May/27/product-market-fit/",
+          "title": "DuckDuckGo search saw 28% more visits after Google said people love AI mode",
+          "url": "https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/",
           "source": "hackernews"
         }
       ],
-      "id": "2f161f5c4dec",
-      "slug": "openai-product-market",
-      "opportunity": {
-        "type": "affiliate",
-        "recommended": "Write SEO comparison/roundup article with affiliate links."
-      }
-    },
-    {
-      "keyword": "product-market fit",
-      "count": 3,
-      "score": 14.810894075744326,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "I think Anthropic and OpenAI have found product-market fit",
-          "url": "https://simonwillison.net/2026/May/27/product-market-fit/",
-          "source": "hackernews"
-        }
-      ],
-      "id": "c707fb8e955d",
-      "slug": "product-market-fit",
-      "opportunity": {
-        "type": "affiliate",
-        "recommended": "Write SEO comparison/roundup article with affiliate links."
-      }
-    },
-    {
-      "keyword": "youtube automatically",
-      "count": 3,
-      "score": 14.767874129617642,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "YouTube to automatically label AI-generated videos",
-          "url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
-          "source": "hackernews"
-        }
-      ],
-      "id": "1c195bc090cd",
-      "slug": "youtube-automatically",
+      "id": "f68fe37a94a9",
+      "slug": "search-visits",
       "opportunity": {
         "type": "niche-content",
         "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
       }
     },
     {
-      "keyword": "automatically label",
-      "count": 3,
-      "score": 14.767874129617642,
+      "keyword": "love mode",
+      "count": 6,
+      "score": 24.879324143287597,
       "niches": [
         "ai"
       ],
       "examples": [
         {
-          "title": "YouTube to automatically label AI-generated videos",
-          "url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
+          "title": "DuckDuckGo's AI-free search saw nearly 28% more visits in the week following Google's insistence that people love AI mode. Is anyone surprised by this result?https://xcancel.com/DuckDuckGo/status/2059",
+          "url": "https://mastodon.social/@nixCraft/116647832352017668",
+          "source": "mastodon"
+        },
+        {
+          "title": "DuckDuckGo search saw 28% more visits after Google said people love AI mode",
+          "url": "https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/",
           "source": "hackernews"
         }
       ],
-      "id": "53491a8b17a8",
-      "slug": "automatically-label",
+      "id": "c983b17fac5e",
+      "slug": "love-mode",
       "opportunity": {
         "type": "niche-content",
         "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
       }
     },
     {
-      "keyword": "label ai-generated",
+      "keyword": "pasting huge",
       "count": 3,
-      "score": 14.767874129617642,
+      "score": 17.55257934545142,
       "niches": [
         "ai"
       ],
       "examples": [
         {
-          "title": "YouTube to automatically label AI-generated videos",
-          "url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
-          "source": "hackernews"
+          "title": "Pasting a huge AI generated explanation to a problem in an issue or pull-request is nothing but RUDE. Don't do it. You look stupid and the receivers of that feel insulted.We are humans. We communicate",
+          "url": "https://mastodon.social/@bagder/116648467657760137",
+          "source": "mastodon"
         }
       ],
-      "id": "f97d8427b5db",
-      "slug": "label-ai-generated",
+      "id": "3c50c2fc845c",
+      "slug": "pasting-huge",
       "opportunity": {
-        "type": "tooling",
-        "recommended": "Build / list AI tools; monetize via affiliate links + lead magnet."
+        "type": "niche-content",
+        "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
       }
     },
     {
-      "keyword": "ai-generated videos",
+      "keyword": "huge generated",
       "count": 3,
-      "score": 14.767874129617642,
+      "score": 17.55257934545142,
       "niches": [
         "ai"
       ],
       "examples": [
         {
-          "title": "YouTube to automatically label AI-generated videos",
-          "url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
-          "source": "hackernews"
+          "title": "Pasting a huge AI generated explanation to a problem in an issue or pull-request is nothing but RUDE. Don't do it. You look stupid and the receivers of that feel insulted.We are humans. We communicate",
+          "url": "https://mastodon.social/@bagder/116648467657760137",
+          "source": "mastodon"
         }
       ],
-      "id": "05de668d5bcc",
-      "slug": "ai-generated-videos",
+      "id": "755d8da0e49e",
+      "slug": "huge-generated",
       "opportunity": {
-        "type": "tooling",
-        "recommended": "Build / list AI tools; monetize via affiliate links + lead magnet."
+        "type": "niche-content",
+        "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
       }
     },
     {
-      "keyword": "tech ceos",
+      "keyword": "generated explanation",
       "count": 3,
-      "score": 13.519374147649046,
+      "score": 17.55257934545142,
       "niches": [
         "ai"
       ],
       "examples": [
         {
-          "title": "Tech CEOs are apparently suffering from AI psychosis",
-          "url": "https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/",
-          "source": "hackernews"
+          "title": "Pasting a huge AI generated explanation to a problem in an issue or pull-request is nothing but RUDE. Don't do it. You look stupid and the receivers of that feel insulted.We are humans. We communicate",
+          "url": "https://mastodon.social/@bagder/116648467657760137",
+          "source": "mastodon"
         }
       ],
-      "id": "ff0bf88139f4",
-      "slug": "tech-ceos",
+      "id": "e8e18b0e6fcd",
+      "slug": "generated-explanation",
+      "opportunity": {
+        "type": "affiliate",
+        "recommended": "Write SEO comparison/roundup article with affiliate links."
+      }
+    },
+    {
+      "keyword": "explanation problem",
+      "count": 3,
+      "score": 17.55257934545142,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "Pasting a huge AI generated explanation to a problem in an issue or pull-request is nothing but RUDE. Don't do it. You look stupid and the receivers of that feel insulted.We are humans. We communicate",
+          "url": "https://mastodon.social/@bagder/116648467657760137",
+          "source": "mastodon"
+        }
+      ],
+      "id": "9299b633fb16",
+      "slug": "explanation-problem",
+      "opportunity": {
+        "type": "affiliate",
+        "recommended": "Write SEO comparison/roundup article with affiliate links."
+      }
+    },
+    {
+      "keyword": "problem issue",
+      "count": 3,
+      "score": 17.55257934545142,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "Pasting a huge AI generated explanation to a problem in an issue or pull-request is nothing but RUDE. Don't do it. You look stupid and the receivers of that feel insulted.We are humans. We communicate",
+          "url": "https://mastodon.social/@bagder/116648467657760137",
+          "source": "mastodon"
+        }
+      ],
+      "id": "463df09bddb1",
+      "slug": "problem-issue",
+      "opportunity": {
+        "type": "affiliate",
+        "recommended": "Write SEO comparison/roundup article with affiliate links."
+      }
+    },
+    {
+      "keyword": "issue pull-request",
+      "count": 3,
+      "score": 17.55257934545142,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "Pasting a huge AI generated explanation to a problem in an issue or pull-request is nothing but RUDE. Don't do it. You look stupid and the receivers of that feel insulted.We are humans. We communicate",
+          "url": "https://mastodon.social/@bagder/116648467657760137",
+          "source": "mastodon"
+        }
+      ],
+      "id": "2f56ac8de9fa",
+      "slug": "issue-pull-request",
       "opportunity": {
         "type": "niche-content",
         "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."

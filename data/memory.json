@@ -1,0 +1,68 @@
+{
+  "topics": {
+    "search-visits": {
+      "firstSeen": "2026-05-28T02:20:57.730Z",
+      "lastSeen": "2026-05-28T02:20:57.730Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "love-mode": {
+      "firstSeen": "2026-05-28T02:20:57.731Z",
+      "lastSeen": "2026-05-28T02:20:57.731Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "pasting-huge": {
+      "firstSeen": "2026-05-28T02:20:57.732Z",
+      "lastSeen": "2026-05-28T02:20:57.732Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "huge-generated": {
+      "firstSeen": "2026-05-28T02:20:58.631Z",
+      "lastSeen": "2026-05-28T02:20:58.631Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "generated-explanation": {
+      "firstSeen": "2026-05-28T02:20:59.325Z",
+      "lastSeen": "2026-05-28T02:20:59.325Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "explanation-problem": {
+      "firstSeen": "2026-05-28T02:20:59.326Z",
+      "lastSeen": "2026-05-28T02:20:59.326Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "problem-issue": {
+      "firstSeen": "2026-05-28T02:20:59.327Z",
+      "lastSeen": "2026-05-28T02:20:59.327Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    }
+  },
+  "niches": {
+    "ai": {
+      "count": 7,
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "blacklist": []
+}
