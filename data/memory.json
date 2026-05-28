@@ -138,25 +138,25 @@
     },
     "google": {
       "firstSeen": "2026-05-28T03:13:17.200Z",
-      "lastSeen": "2026-05-28T03:13:17.200Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-05-28T03:16:49.757Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
     "gemini": {
       "firstSeen": "2026-05-28T03:13:22.560Z",
-      "lastSeen": "2026-05-28T03:13:22.560Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-05-28T03:16:49.757Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
     "duckduckgo": {
       "firstSeen": "2026-05-28T03:13:25.524Z",
-      "lastSeen": "2026-05-28T03:13:25.524Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-05-28T03:16:49.758Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -191,12 +191,52 @@
       "wins": 0,
       "losses": 0,
       "niche": "ai"
+    },
+    "white-house": {
+      "firstSeen": "2026-05-28T03:16:55.635Z",
+      "lastSeen": "2026-05-28T03:16:55.635Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "pasting": {
+      "firstSeen": "2026-05-28T03:16:58.027Z",
+      "lastSeen": "2026-05-28T03:16:58.027Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "rude-don": {
+      "firstSeen": "2026-05-28T03:17:00.863Z",
+      "lastSeen": "2026-05-28T03:17:00.863Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "job-cuts": {
+      "firstSeen": "2026-05-28T03:17:08.295Z",
+      "lastSeen": "2026-05-28T03:17:08.295Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "jailbroken-kindle": {
+      "firstSeen": "2026-05-28T03:17:10.813Z",
+      "lastSeen": "2026-05-28T03:17:10.813Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
     }
   },
   "niches": {
     "ai": {
-      "count": 36,
-      "wins": 12,
+      "count": 44,
+      "wins": 15,
       "losses": 0
     }
   },
