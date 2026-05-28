@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-05-28T03:16:50.370Z",
+  "generatedAt": "2026-05-28T03:19:04.622Z",
   "sourceCount": 205,
   "topItems": [
     {
       "title": "I think Anthropic and OpenAI have found product-market fit",
       "url": "https://simonwillison.net/2026/May/27/product-market-fit/",
-      "score": 9.94,
+      "score": 9.95,
       "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 689,
-        "comments": 848
+        "score": 692,
+        "comments": 849
       }
     },
     {
@@ -27,11 +27,11 @@
     {
       "title": "\"Our entire economy is being artificially propped up by astrology for men: AI, crypto, sports betting, and prediction markets. It's an economy shaped entirely by male insecurity and lack of impulse co",
       "url": "https://mastodon.social/@gwynnion/116648655369385136",
-      "score": 9.11,
+      "score": 9.12,
       "niche": "ai",
       "source": "mastodon",
       "engagement": {
-        "score": 284,
+        "score": 286,
         "comments": 7
       }
     },
@@ -43,7 +43,7 @@
       "source": "hackernews",
       "engagement": {
         "score": 602,
-        "comments": 297
+        "comments": 298
       }
     },
     {
@@ -60,12 +60,12 @@
     {
       "title": "DuckDuckGo search saw 28% more visits after Google said people love AI mode",
       "url": "https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/",
-      "score": 8.05,
+      "score": 8.06,
       "niche": "ai",
       "source": "hackernews",
       "engagement": {
         "score": 702,
-        "comments": 349
+        "comments": 350
       }
     },
     {
@@ -86,18 +86,18 @@
       "niche": "ai",
       "source": "mastodon",
       "engagement": {
-        "score": 822,
+        "score": 825,
         "comments": 32
       }
     },
     {
       "title": "The period blood that's been treated with fear and disgust is also the most easily and non-invasively available place to find Regenerative Adult Stem Cells. You know, the kind scientists are studying ",
       "url": "https://beige.party/@RickiTarr/116649271328963001",
-      "score": 6.87,
+      "score": 6.88,
       "niche": "ai",
       "source": "mastodon",
       "engagement": {
-        "score": 125,
+        "score": 126,
         "comments": 7
       }
     },
@@ -170,12 +170,23 @@
     {
       "title": "Beyond friggen pitiful and has to be among the absolute worst things to happen to the main portion of the White House since the British burned it during the War of 1812.#USpol “That is one helluva bef",
       "url": "https://mastodon.world/@BrianJopek/116649816830581006",
-      "score": 6.15,
+      "score": 6.19,
       "niche": "ai",
       "source": "mastodon",
       "engagement": {
-        "score": 40,
+        "score": 41,
         "comments": 3
+      }
+    },
+    {
+      "title": "Best AI Tools for Business Intelligence in 2026",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBqWDgyZ1EzRDIxNkpBSFpZOEIxdXk1QXByak5lRmFLQWY5bjMxaVE3dlFrSXYtRXlDX0ljWHFwTHZYN0I3MEtyOUlLcGpXbDlLYlE1WUxXTk0tMk5DbU02WHBaNVVjNDdpQ2NtNzZtYS1DSzg?oc=5",
+      "score": 5.99,
+      "niche": "ai",
+      "source": "gnews",
+      "engagement": {
+        "score": 40,
+        "comments": 0
       }
     },
     {
@@ -207,7 +218,7 @@
       "niche": "ai",
       "source": "github",
       "engagement": {
-        "score": 181,
+        "score": 182,
         "comments": 0
       }
     },
@@ -225,11 +236,11 @@
     {
       "title": "Rust (and Slint) on a Jailbroken Kindle",
       "url": "https://sverre.me/blog/rust-on-kindle/",
-      "score": 5.46,
+      "score": 5.47,
       "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 111,
+        "score": 112,
         "comments": 12
       }
     },
@@ -256,25 +267,14 @@
       }
     },
     {
-      "title": "Salesforce's beat fails to convince the market that software can survive AI",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbXpHNGtsMy1zTFMyWkF2SDI2UnlWam1KajNwY2JQOFlOV1BrdDhsUTdqbzR6TkhjT2ZKQzF4TzdvWnZlWnFLbGExYmR6MlU1bDdiaW1pdy1IWFhLOTRVaXdHSk5icU5IanVMQ1pKbl82ekV5QldxbDZ1QUpTRXZQeFFzSlJIcUxjOF8yUHV2N0doVjVRLVJxNTQ0czZtNGNOVHdaOTVCVTM0bTA?oc=5",
-      "score": 5.16,
+      "title": "Why does AI forget what you said (and how to fix it)",
+      "url": "https://dev.to/aws/why-does-ai-forget-what-you-said-and-how-to-fix-it-52f6",
+      "score": 4.65,
       "niche": "ai",
-      "source": "gnews",
+      "source": "devto",
       "engagement": {
-        "score": 40,
-        "comments": 0
-      }
-    },
-    {
-      "title": "Synopsys raises annual forecast on demand for AI chip design software",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTG1VRkR5VEM0dW5CZndjdDFXQVZObUpBNXlMQnJCckU2WGdzYzRtanZuYmFKRGtxR0hNa2lWUUttd3ljSnlkX1djcEVZMWpPWnZCMV9tQzdfVWdmSFpCOGZjalBua1ZLX1lJekowVlVraTcxMnFWaFJFZTJyeXZmcVB1UTBYWmRzWmtCOTdXVEYzZE9JWDA2blZFOUZZZndteFFRMzRpNVo4VGc?oc=5",
-      "score": 5.16,
-      "niche": "ai",
-      "source": "gnews",
-      "engagement": {
-        "score": 40,
-        "comments": 0
+        "score": 45,
+        "comments": 41
       }
     }
   ],
@@ -282,7 +282,7 @@
     {
       "keyword": "claude code",
       "count": 35,
-      "score": 221.681970084282,
+      "score": 221.75507452189927,
       "proper": true,
       "niches": [
         "ai"
@@ -320,7 +320,7 @@
     {
       "keyword": "google",
       "count": 15,
-      "score": 138.99040247249064,
+      "score": 139.12679202239426,
       "proper": true,
       "niches": [
         "ai",
@@ -349,7 +349,7 @@
     {
       "keyword": "duckduckgo",
       "count": 10,
-      "score": 124.84172203369704,
+      "score": 124.85361711995469,
       "proper": true,
       "niches": [
         "ai"
@@ -372,7 +372,7 @@
     {
       "keyword": "tech ceos",
       "count": 8,
-      "score": 108.74291014555767,
+      "score": 108.76852410051612,
       "proper": true,
       "niches": [
         "ai"
@@ -391,6 +391,34 @@
       ],
       "id": "ff0bf88139f4",
       "slug": "tech-ceos"
+    },
+    {
+      "keyword": "business intelligence",
+      "count": 11,
+      "score": 98.77978565637038,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "Best AI Tools for Business Intelligence in 2026",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBqWDgyZ1EzRDIxNkpBSFpZOEIxdXk1QXByak5lRmFLQWY5bjMxaVE3dlFrSXYtRXlDX0ljWHFwTHZYN0I3MEtyOUlLcGpXbDlLYlE1WUxXTk0tMk5DbU02WHBaNVVjNDdpQ2NtNzZtYS1DSzg?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Best AI Tools for Business Intelligence in 2026",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBqWDgyZ1EzRDIxNkpBSFpZOEIxdXk1QXByak5lRmFLQWY5bjMxaVE3dlFrSXYtRXlDX0ljWHFwTHZYN0I3MEtyOUlLcGpXbDlLYlE1WUxXTk0tMk5DbU02WHBaNVVjNDdpQ2NtNzZtYS1DSzg?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Best AI Tools for Business Intelligence in 2026",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBqWDgyZ1EzRDIxNkpBSFpZOEIxdXk1QXByak5lRmFLQWY5bjMxaVE3dlFrSXYtRXlDX0ljWHFwTHZYN0I3MEtyOUlLcGpXbDlLYlE1WUxXTk0tMk5DbU02WHBaNVVjNDdpQ2NtNzZtYS1DSzg?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "3fbe0f5eddbf",
+      "slug": "business-intelligence"
     },
     {
       "keyword": "passive income",
@@ -432,37 +460,9 @@
       "slug": "passive-income"
     },
     {
-      "keyword": "job cuts",
-      "count": 11,
-      "score": 81.74878812940996,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "Top Australia Banker Flags Job Cuts as More AI Tools Roll Out",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQeU1kazdQWENGN0QzQmVMSlhWNW5ib1hfWE5WNFZzZ0xaMmFNYkJVMlFJMmZrRDZXNndlYmdMSUNOZ00wbFVLOUNvS1hUamNZckJBSTJDQW5xZW9OdWZjR2ZDclFFaG9Zd3BnUjkyaHZleTN5YnR5d1B1RWlRTjN4WVhYZThLdUVVVDFtU3Z0UlF0SW9WZGxhZ1VuZzNrVV9YVS1nQ253SmZfaXFJNkdfTER3?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Top Australia Banker Flags Job Cuts as More AI Tools Roll Out",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQeU1kazdQWENGN0QzQmVMSlhWNW5ib1hfWE5WNFZzZ0xaMmFNYkJVMlFJMmZrRDZXNndlYmdMSUNOZ00wbFVLOUNvS1hUamNZckJBSTJDQW5xZW9OdWZjR2ZDclFFaG9Zd3BnUjkyaHZleTN5YnR5d1B1RWlRTjN4WVhYZThLdUVVVDFtU3Z0UlF0SW9WZGxhZ1VuZzNrVV9YVS1nQ253SmZfaXFJNkdfTER3?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Top Australia Banker Flags Job Cuts as More AI Tools Roll Out",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQeU1kazdQWENGN0QzQmVMSlhWNW5ib1hfWE5WNFZzZ0xaMmFNYkJVMlFJMmZrRDZXNndlYmdMSUNOZ00wbFVLOUNvS1hUamNZckJBSTJDQW5xZW9OdWZjR2ZDclFFaG9Zd3BnUjkyaHZleTN5YnR5d1B1RWlRTjN4WVhYZThLdUVVVDFtU3Z0UlF0SW9WZGxhZ1VuZzNrVV9YVS1nQ253SmZfaXFJNkdfTER3?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "20042a3a900d",
-      "slug": "job-cuts"
-    },
-    {
       "keyword": "claude",
       "count": 11,
-      "score": 79.62981538925838,
+      "score": 79.63895344396053,
       "proper": true,
       "niches": [
         "ai"
@@ -500,7 +500,7 @@
     {
       "keyword": "youtube",
       "count": 10,
-      "score": 75.7614156004601,
+      "score": 75.78427329857514,
       "proper": true,
       "niches": [
         "ai",
@@ -524,7 +524,7 @@
     {
       "keyword": "white house",
       "count": 8,
-      "score": 73.83984140644128,
+      "score": 74.24361304250593,
       "proper": true,
       "niches": [
         "ai"
@@ -543,24 +543,6 @@
       ],
       "id": "c75bae7088ed",
       "slug": "white-house"
-    },
-    {
-      "keyword": "pasting",
-      "count": 5,
-      "score": 70.69942246114766,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "Pasting a huge AI generated explanation to a problem in an issue or pull-request is nothing but RUDE. Don't do it. You look stupid and the receivers of that feel insulted.We are humans. We communicate",
-          "url": "https://mastodon.social/@bagder/116648467657760137",
-          "source": "mastodon"
-        }
-      ],
-      "id": "a7f3efa73537",
-      "slug": "pasting"
     },
     {
       "keyword": "rude. don",
@@ -606,7 +588,7 @@
     {
       "keyword": "jailbroken kindle",
       "count": 8,
-      "score": 65.54231526513308,
+      "score": 65.64005582304482,
       "proper": true,
       "niches": [
         "ai"
@@ -655,35 +637,47 @@
       "slug": "gemini"
     },
     {
-      "keyword": "salesforce",
-      "count": 10,
-      "score": 53.221867271751265,
+      "keyword": "regenerative adult stem cells",
+      "count": 5,
+      "score": 51.58125870372911,
       "proper": true,
       "niches": [
-        "ai",
-        "finance"
+        "ai"
       ],
       "examples": [
         {
-          "title": "Salesforce's beat fails to convince the market that software can survive AI",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbXpHNGtsMy1zTFMyWkF2SDI2UnlWam1KajNwY2JQOFlOV1BrdDhsUTdqbzR6TkhjT2ZKQzF4TzdvWnZlWnFLbGExYmR6MlU1bDdiaW1pdy1IWFhLOTRVaXdHSk5icU5IanVMQ1pKbl82ekV5QldxbDZ1QUpTRXZQeFFzSlJIcUxjOF8yUHV2N0doVjVRLVJxNTQ0czZtNGNOVHdaOTVCVTM0bTA?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Salesforce beats first-quarter revenue estimates",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORkFLb0FRajRJYXgyQlZzREx3djlySjJ2QjRGSmswY2hTZEJpanBVWnVtRFl2WGdQMjJpb0dYWFUxSlV5LVpqcFdQUDVWWkRXVzBaVzhseXAyNkg3bGtORkJVQThyRl9NWWZ5Rk84RTBQWnNrOGk1bk9GSDBfMVBTRkI1RU5CN0QwOWxna3Bad0YxbWV2VVFoZW9pZWJsSy1ERnNLRU53?oc=5",
-          "source": "gnews"
+          "title": "The period blood that's been treated with fear and disgust is also the most easily and non-invasively available place to find Regenerative Adult Stem Cells. You know, the kind scientists are studying ",
+          "url": "https://beige.party/@RickiTarr/116649271328963001",
+          "source": "mastodon"
         }
       ],
-      "id": "3ccbd9105a45",
-      "slug": "salesforce"
+      "id": "6c0b80527c5f",
+      "slug": "regenerative-adult-stem-cells"
+    },
+    {
+      "keyword": "gophers",
+      "count": 5,
+      "score": 50.5146621968594,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "Gemini, Gophers, and Fingers. Oh My Alternative Internets Beyond HTTPS",
+          "url": "https://brennan.day/gemini-gophers-and-fingers-oh-my-alternative-internets-beyond-https/",
+          "source": "hackernews"
+        }
+      ],
+      "id": "47de10493ba4",
+      "slug": "gophers"
     }
   ],
   "opportunities": [
     {
       "keyword": "claude code",
       "count": 35,
-      "score": 221.681970084282,
+      "score": 221.75507452189927,
       "proper": true,
       "niches": [
         "ai"
@@ -725,7 +719,7 @@
     {
       "keyword": "google",
       "count": 15,
-      "score": 138.99040247249064,
+      "score": 139.12679202239426,
       "proper": true,
       "niches": [
         "ai",
@@ -758,7 +752,7 @@
     {
       "keyword": "duckduckgo",
       "count": 10,
-      "score": 124.84172203369704,
+      "score": 124.85361711995469,
       "proper": true,
       "niches": [
         "ai"
@@ -785,7 +779,7 @@
     {
       "keyword": "tech ceos",
       "count": 8,
-      "score": 108.74291014555767,
+      "score": 108.76852410051612,
       "proper": true,
       "niches": [
         "ai"
@@ -804,6 +798,38 @@
       ],
       "id": "ff0bf88139f4",
       "slug": "tech-ceos",
+      "opportunity": {
+        "type": "niche-content",
+        "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
+      }
+    },
+    {
+      "keyword": "business intelligence",
+      "count": 11,
+      "score": 98.77978565637038,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "Best AI Tools for Business Intelligence in 2026",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBqWDgyZ1EzRDIxNkpBSFpZOEIxdXk1QXByak5lRmFLQWY5bjMxaVE3dlFrSXYtRXlDX0ljWHFwTHZYN0I3MEtyOUlLcGpXbDlLYlE1WUxXTk0tMk5DbU02WHBaNVVjNDdpQ2NtNzZtYS1DSzg?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Best AI Tools for Business Intelligence in 2026",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBqWDgyZ1EzRDIxNkpBSFpZOEIxdXk1QXByak5lRmFLQWY5bjMxaVE3dlFrSXYtRXlDX0ljWHFwTHZYN0I3MEtyOUlLcGpXbDlLYlE1WUxXTk0tMk5DbU02WHBaNVVjNDdpQ2NtNzZtYS1DSzg?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Best AI Tools for Business Intelligence in 2026",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBqWDgyZ1EzRDIxNkpBSFpZOEIxdXk1QXByak5lRmFLQWY5bjMxaVE3dlFrSXYtRXlDX0ljWHFwTHZYN0I3MEtyOUlLcGpXbDlLYlE1WUxXTk0tMk5DbU02WHBaNVVjNDdpQ2NtNzZtYS1DSzg?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "3fbe0f5eddbf",
+      "slug": "business-intelligence",
       "opportunity": {
         "type": "niche-content",
         "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
@@ -853,41 +879,9 @@
       }
     },
     {
-      "keyword": "job cuts",
-      "count": 11,
-      "score": 81.74878812940996,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "Top Australia Banker Flags Job Cuts as More AI Tools Roll Out",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQeU1kazdQWENGN0QzQmVMSlhWNW5ib1hfWE5WNFZzZ0xaMmFNYkJVMlFJMmZrRDZXNndlYmdMSUNOZ00wbFVLOUNvS1hUamNZckJBSTJDQW5xZW9OdWZjR2ZDclFFaG9Zd3BnUjkyaHZleTN5YnR5d1B1RWlRTjN4WVhYZThLdUVVVDFtU3Z0UlF0SW9WZGxhZ1VuZzNrVV9YVS1nQ253SmZfaXFJNkdfTER3?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Top Australia Banker Flags Job Cuts as More AI Tools Roll Out",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQeU1kazdQWENGN0QzQmVMSlhWNW5ib1hfWE5WNFZzZ0xaMmFNYkJVMlFJMmZrRDZXNndlYmdMSUNOZ00wbFVLOUNvS1hUamNZckJBSTJDQW5xZW9OdWZjR2ZDclFFaG9Zd3BnUjkyaHZleTN5YnR5d1B1RWlRTjN4WVhYZThLdUVVVDFtU3Z0UlF0SW9WZGxhZ1VuZzNrVV9YVS1nQ253SmZfaXFJNkdfTER3?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Top Australia Banker Flags Job Cuts as More AI Tools Roll Out",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQeU1kazdQWENGN0QzQmVMSlhWNW5ib1hfWE5WNFZzZ0xaMmFNYkJVMlFJMmZrRDZXNndlYmdMSUNOZ00wbFVLOUNvS1hUamNZckJBSTJDQW5xZW9OdWZjR2ZDclFFaG9Zd3BnUjkyaHZleTN5YnR5d1B1RWlRTjN4WVhYZThLdUVVVDFtU3Z0UlF0SW9WZGxhZ1VuZzNrVV9YVS1nQ253SmZfaXFJNkdfTER3?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "20042a3a900d",
-      "slug": "job-cuts",
-      "opportunity": {
-        "type": "niche-content",
-        "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
-      }
-    },
-    {
       "keyword": "claude",
       "count": 11,
-      "score": 79.62981538925838,
+      "score": 79.63895344396053,
       "proper": true,
       "niches": [
         "ai"
@@ -929,7 +923,7 @@
     {
       "keyword": "youtube",
       "count": 10,
-      "score": 75.7614156004601,
+      "score": 75.78427329857514,
       "proper": true,
       "niches": [
         "ai",
