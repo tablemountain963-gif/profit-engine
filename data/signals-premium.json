@@ -1,136 +1,147 @@
 {
-  "generatedAt": "2026-05-28T14:26:54.719Z",
-  "sourceCount": 206,
+  "generatedAt": "2026-05-28T15:28:44.265Z",
+  "sourceCount": 205,
   "topItems": [
     {
       "title": "Today, we have imposed a €200 million fine on Temu under the Digital Services Act, for failing to identify, analyse, and assess the systemic risks of illegal products being offered on its platform. Th",
       "url": "https://ec.social-network.europa.eu/@EUCommission/116651733534611734",
-      "score": 11.86,
+      "score": 12,
       "niche": "ai",
       "source": "mastodon",
       "engagement": {
-        "score": 320,
-        "comments": 19
+        "score": 344,
+        "comments": 20
       }
     },
     {
       "title": "I think Anthropic and OpenAI have found product-market fit",
       "url": "https://simonwillison.net/2026/May/27/product-market-fit/",
-      "score": 10.3,
+      "score": 10.33,
       "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 980,
-        "comments": 1086
-      }
-    },
-    {
-      "title": "Found this on Instagram, it's from Threads.kyamawebb wrote,\"Teenagers have started calling AI art \"boomer art\" and consider it cringe, and YouTubers have stopped using AI-generated thumbnails because ",
-      "url": "https://mastodon.social/@amalia12/116651284250866500",
-      "score": 9.75,
-      "niche": "ai",
-      "source": "mastodon",
-      "engagement": {
-        "score": 418,
-        "comments": 14
+        "score": 1007,
+        "comments": 1114
       }
     },
     {
       "title": "Dear Fedi friends,I hereby present you my new favorite website: https://isaiprofitable.com, which tracks the spending and revenue of all the major AI companies.Oh it is glorious - the perfect link to ",
       "url": "https://mastodon.social/@_elena/116652356526060818",
-      "score": 9.25,
+      "score": 9.81,
       "niche": "ai",
       "source": "mastodon",
       "engagement": {
-        "score": 296,
-        "comments": 15
+        "score": 422,
+        "comments": 20
       }
     },
     {
       "title": "I do not use AI in my legal work.Some of my clients use AI.I saw an AI output this morning, purporting to give information about data protection law (whether an IP address is personal data).It include",
       "url": "https://mastodon.neilzone.co.uk/@neil/116652237696180769",
-      "score": 9.13,
+      "score": 9.72,
       "niche": "ai",
       "source": "mastodon",
       "engagement": {
-        "score": 280,
-        "comments": 11
+        "score": 405,
+        "comments": 16
       }
     },
     {
       "title": "Five frontier LLMs disagree on 67% of 1k real-world fact-check claims",
       "url": "https://lenz.io/research/llm-disagreement",
-      "score": 8.85,
+      "score": 9.36,
       "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 254,
-        "comments": 165
+        "score": 358,
+        "comments": 242
       }
     },
     {
       "title": "YouTube to automatically label AI-generated videos",
       "url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
-      "score": 8.63,
+      "score": 8.68,
       "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 1065,
-        "comments": 643
-      }
-    },
-    {
-      "title": "DuckDuckGo search saw 28% more visits after Google said people love AI mode",
-      "url": "https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/",
-      "score": 8.38,
-      "niche": "ai",
-      "source": "hackernews",
-      "engagement": {
-        "score": 958,
-        "comments": 458
-      }
-    },
-    {
-      "title": "the infosec people at my work are rioting because the Distant Corporate Overlord sent an email that scores 10/10 on the phishing scale (“We want to give you a present to thank you for all your hard wo",
-      "url": "https://infosec.exchange/@0xabad1dea/116651490286301582",
-      "score": 8.34,
-      "niche": "ai",
-      "source": "mastodon",
-      "engagement": {
-        "score": 362,
-        "comments": 21
+        "score": 1117,
+        "comments": 669
       }
     },
     {
       "title": "AMD pulls a bait-and-switch on Linux users with Vivado licensing changes",
       "url": "https://itsfoss.com/news/amd-vivado-bait-and-switch-on-linux-users/",
-      "score": 8.31,
+      "score": 8.61,
       "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 213,
-        "comments": 90
+        "score": 264,
+        "comments": 113
       }
     },
     {
-      "title": "RE: https://infosec.exchange/@masek/116651124103630936This does not just affect gaming, but all general purpose compute.Supply chains and value chains are breaking and will not come back. Artificial A",
-      "url": "https://infosec.exchange/@isotopp/116651775368120051",
-      "score": 7.55,
+      "title": "DuckDuckGo search saw 28% more visits after Google said people love AI mode",
+      "url": "https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/",
+      "score": 8.41,
+      "niche": "ai",
+      "source": "hackernews",
+      "engagement": {
+        "score": 985,
+        "comments": 474
+      }
+    },
+    {
+      "title": "Sophomoresty/gemini-web2api — Convert Google Gemini web into OpenAI-compatible API. Zero auth, cross-platform, single file.",
+      "url": "https://github.com/Sophomoresty/gemini-web2api",
+      "score": 8.03,
+      "niche": "ai",
+      "source": "github",
+      "engagement": {
+        "score": 149,
+        "comments": 1
+      }
+    },
+    {
+      "title": "Found this on Instagram, it's from Threads.kyamawebb wrote,\"Teenagers have started calling AI art \"boomer art\" and consider it cringe, and YouTubers have stopped using AI-generated thumbnails because ",
+      "url": "https://mastodon.social/@amalia12/116651284250866500",
+      "score": 7.87,
       "niche": "ai",
       "source": "mastodon",
       "engagement": {
-        "score": 207,
-        "comments": 10
+        "score": 444,
+        "comments": 14
       }
     },
     {
       "title": "Using AI-generated imagery for your blog posts adds a lot!- people will get rightfully angry  with you- it distracts from what you have to say - you’ll get unfollowed and blocked- you’ve wasted time, ",
       "url": "https://hachyderm.io/@thomasfuchs/116652232242957112",
-      "score": 7.14,
+      "score": 7.41,
       "niche": "ai",
       "source": "mastodon",
       "engagement": {
-        "score": 161,
+        "score": 196,
+        "comments": 5
+      }
+    },
+    {
+      "title": "People are burning down Ebola treatment centers set up to stop the spread of the deadly disease. Is it bc they're \"low IQ\" as anti-quarantine Redditors say, or is it bc Elon Musk destroyed USAID, whic",
+      "url": "https://mstdn.social/@rebeccawatson/116652724759999060",
+      "score": 7.02,
+      "niche": "ai",
+      "source": "mastodon",
+      "engagement": {
+        "score": 76,
+        "comments": 2
+      }
+    },
+    {
+      "title": "Impressively bad day already.  But I found a bunch of prairie peas, one flowering, growing in a pile of moose turds, and there's probably some symbolism there.  Or something.",
+      "url": "https://mastodon.social/@sundogplanets/116652487634948171",
+      "score": 6.81,
+      "niche": "ai",
+      "source": "mastodon",
+      "engagement": {
+        "score": 62,
         "comments": 4
       }
     },
@@ -159,56 +170,34 @@
     {
       "title": "ShadowSpread/polymarket-auto-trading — polymarket trading bot, polymarket auto trading bot, polymarket profitable bot, polymarket, trading bot, polymarket trading bot, polymarket arbitrage bot, polyma",
       "url": "https://github.com/ShadowSpread/polymarket-auto-trading",
-      "score": 6.42,
+      "score": 6.49,
       "niche": "ai",
       "source": "github",
       "engagement": {
-        "score": 151,
+        "score": 159,
         "comments": 0
       }
     },
     {
       "title": "Szili1994/create-aeronautics-minecraft-mod — aeronautics create minecraft mod github modrinth curseforge create addon sable physics engine simulated offroad airships planes drones vehicles contraption",
       "url": "https://github.com/Szili1994/create-aeronautics-minecraft-mod",
-      "score": 6.41,
+      "score": 6.44,
       "niche": "ai",
       "source": "github",
       "engagement": {
-        "score": 147,
+        "score": 151,
         "comments": 1
-      }
-    },
-    {
-      "title": "Harkirat1462/claude-code-cli — claude code cli install codex github anthropic agentic coding system terminal assistant codebase git workflows multi file editing mcp protocol model context protocol sub",
-      "url": "https://github.com/Harkirat1462/claude-code-cli",
-      "score": 6.38,
-      "niche": "ai",
-      "source": "github",
-      "engagement": {
-        "score": 144,
-        "comments": 1
-      }
-    },
-    {
-      "title": "Impressively bad day already.  But I found a bunch of prairie peas, one flowering, growing in a pile of moose turds, and there's probably some symbolism there.  Or something.",
-      "url": "https://mastodon.social/@sundogplanets/116652487634948171",
-      "score": 6.22,
-      "niche": "ai",
-      "source": "mastodon",
-      "engagement": {
-        "score": 42,
-        "comments": 3
       }
     },
     {
       "title": "Rust (and Slint) on a Jailbroken Kindle",
       "url": "https://sverre.me/blog/rust-on-kindle/",
-      "score": 6.18,
+      "score": 6.23,
       "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 200,
-        "comments": 29
+        "score": 209,
+        "comments": 31
       }
     },
     {
@@ -223,10 +212,32 @@
       }
     },
     {
-      "title": "Best AI Tools for Business Intelligence in 2026",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBqWDgyZ1EzRDIxNkpBSFpZOEIxdXk1QXByak5lRmFLQWY5bjMxaVE3dlFrSXYtRXlDX0ljWHFwTHZYN0I3MEtyOUlLcGpXbDlLYlE1WUxXTk0tMk5DbU02WHBaNVVjNDdpQ2NtNzZtYS1DSzg?oc=5",
-      "score": 5.99,
+      "title": "withkynam/vibecode-pro-max-kit — Your AI forgets. This remembers. Spec-driven coding harness for vibecoders, product owners, CEOs and real builders — self-improving context memory, 12 agents, 32 skill",
+      "url": "https://github.com/withkynam/vibecode-pro-max-kit",
+      "score": 5.97,
       "niche": "ai",
+      "source": "github",
+      "engagement": {
+        "score": 214,
+        "comments": 16
+      }
+    },
+    {
+      "title": "A Eureka machine that thinks like nature and explores what AI cannot",
+      "url": "https://iisc.ac.in/a-eureka-machine-that-thinks-like-nature-and-explores-what-ai-cannot/",
+      "score": 5.94,
+      "niche": "ai",
+      "source": "hackernews",
+      "engagement": {
+        "score": 132,
+        "comments": 38
+      }
+    },
+    {
+      "title": "Best Buy forecasts upbeat quarterly sales on steady gadgets demand; shares up",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPaXkzaVhKV3c1eUQ1c3ZyT18tQlBiRGJzcnI3MkxKQlJPVi1FeVFnQ0c5a29zZDdMZXpNYTJGTWdyUlo3ZS1IbVhhTlpESm5FN0MzN0VpaG9CS2NyemNZYmtYT1VEdnVLMjJkcDRWa0ZjM1AzRGlRY3BYOHVrWlZ3bVJEdWoyRm90dzRCV2ljZEtRYmdXeEMyd3c5dzFfNG51dXJ3UlN5RnJRU0V1WWNQdDlBZVJzRnd1bFdocDdn?oc=5",
+      "score": 5.87,
+      "niche": "gear",
       "source": "gnews",
       "engagement": {
         "score": 40,
@@ -234,66 +245,89 @@
       }
     },
     {
-      "title": "withkynam/vibecode-pro-max-kit — Your AI forgets. This remembers. Spec-driven coding harness for vibecoders, product owners, CEOs and real builders — self-improving context memory, 12 agents, 32 skill",
-      "url": "https://github.com/withkynam/vibecode-pro-max-kit",
-      "score": 5.93,
-      "niche": "ai",
-      "source": "github",
+      "title": "Best Buy forecasts upbeat sales on steady gadgets demand, ads and marketplace growth",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVnRiYmFuSlhEbzNQRE5OU2pTaGZmVU9Tb0swMWJiR3JjRE5Ld3Z6REpLM2FjMkdQMXo0Uk1JdnRhMk1VTFFqdEg3Rm9jQm5QT0RRQTBhR2FUWC1qZEM2aG1lUVYtMzNONFVvUzhUTnRlNGQ1eXhfc1VhT25tci11amxvUlE5NU5WVktrUndNd0JNbzlIbGNFVTlFRERwQkJFWENzQThwWDk4VU1URUhsUlhZNzFzcWp5U3MxNFJRREt1cURyWFhuTklvMA?oc=5",
+      "score": 5.87,
+      "niche": "gear",
+      "source": "gnews",
       "engagement": {
-        "score": 204,
-        "comments": 16
+        "score": 40,
+        "comments": 0
       }
     },
     {
-      "title": "A Eureka machine that thinks like nature and explores what AI cannot",
-      "url": "https://iisc.ac.in/a-eureka-machine-that-thinks-like-nature-and-explores-what-ai-cannot/",
-      "score": 5.86,
-      "niche": "ai",
-      "source": "hackernews",
+      "title": "29 \"Cool\" gadgets and gear for working in the heat",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUW5Ya2tvVEhZSWhETk9VaHF1ekNoSzEyMnZVS2ZhVURXMWpJemZremhSOEd3b1puZ0I3eGNrVm5SVnhXTGNjNUExeld1TnlfRU0wT0ZJRlE1YldnRzVHYUV3dDlGcnRHclVtNjRLVHhPVVNkejRvNmZpWUVLX1JmaTNYWTFxdWVtYXdVcjNUclNaUElPaFhpdHAzbjlzTGZublFzelNSYzk?oc=5",
+      "score": 5.87,
+      "niche": "gear",
+      "source": "gnews",
       "engagement": {
-        "score": 124,
-        "comments": 35
+        "score": 40,
+        "comments": 0
       }
     },
     {
-      "title": "actuallyaridan/linux-devmgmt — A faithful recreation of the Windows Device Manager built with Qt6 and real hardware backends via sysfs/procfs. Best enjoyed with AeroThemePlasma, but looks great on reg",
-      "url": "https://github.com/actuallyaridan/linux-devmgmt",
-      "score": 5.78,
-      "niche": "ai",
-      "source": "github",
+      "title": "Best Buy forecasts upbeat quarterly sales on steady gadgets demand; shares up By Reuters",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPaVVuTGFUa3BnZDFKeEV4UU5jTmlqeHFzc05CSF9USGZXc0Y2NHFqZExVNjZlUDFrRnQwMnh4TWpUTHFFOHNwTGMyMi1HVG1LOFFsam1iNmtXVWFyZVlFc2RXek5Fb0hMbGl2MU1oZWs2Q3FWQXJTaWVNNG83akNwUW15N01CZkdZSGlJM0VQUDQzck9KQUhFamlxT18xYXlJM1BWd1hvakVyYXFjRmJDVHV6UDJndnpZbzFpOHoxWUpMaEtwSGlUekI2Yi1yWGtzREZOZGZTOA?oc=5",
+      "score": 5.87,
+      "niche": "gear",
+      "source": "gnews",
       "engagement": {
-        "score": 204,
-        "comments": 1
-      }
-    },
-    {
-      "title": "Investigating how prompt politeness affects LLM accuracy (2025)",
-      "url": "https://arxiv.org/abs/2510.04950",
-      "score": 5.58,
-      "niche": "ai",
-      "source": "hackernews",
-      "engagement": {
-        "score": 99,
-        "comments": 119
+        "score": 40,
+        "comments": 0
       }
     }
   ],
   "topics": [
     {
+      "keyword": "passive income",
+      "count": 47,
+      "score": 151.6242615056492,
+      "proper": true,
+      "niches": [
+        "ai",
+        "finance"
+      ],
+      "examples": [
+        {
+          "title": "5 Strong Buy Passive Income Giants Have Raised Their Dividends by Double Digits for Years",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPYXVpZFpKTGhLS0ZuWDQtemx4TTZ4dnVZZTQwUjUwa3BoWXNGZlNsampXbUhqNjVMbkw3eUVQU0E4NF9rbm54RlZXdXZSTmVSN1ozdlM0d2JjUG9WVmU1a0hWczJCeFROeERzeF9ocmZVZUpKMHd0ZFFTSG1MMjgtVnhtRXNQV0MyV21WS3M5bmJicGF4d1JJWThDNnJiMkl3eTBMQnFWMUM0cVg0YVFHSnNNMXlBT3BZdldueVNESVJMWmp2bmJ3ZjJtSmI?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "5 Strong Buy Passive Income Giants Have Raised Their Dividends by Double Digits for Years",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPYXVpZFpKTGhLS0ZuWDQtemx4TTZ4dnVZZTQwUjUwa3BoWXNGZlNsampXbUhqNjVMbkw3eUVQU0E4NF9rbm54RlZXdXZSTmVSN1ozdlM0d2JjUG9WVmU1a0hWczJCeFROeERzeF9ocmZVZUpKMHd0ZFFTSG1MMjgtVnhtRXNQV0MyV21WS3M5bmJicGF4d1JJWThDNnJiMkl3eTBMQnFWMUM0cVg0YVFHSnNNMXlBT3BZdldueVNESVJMWmp2bmJ3ZjJtSmI?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "How much passive income could £10,000 invested in the FTSE 100's top dividend stock target?",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPOGFaS004UXd3RU1iMm53TlpLRlRvV1Q4emVZS3Z5NWtvdXZRNnZyX3preDFRZ2ZKMXZ0b0o1bS1RelJ0NFZoYnV3M3B1NUQ2aTlXb2l6TWpGTUdIeENLck55UkItRUMtdmJiRUZRMnJuZlFPenphWEdXRlk4Mk5kVUhEeFAzOFVGRlBGNWVCTHl5c3NXWS1NSUNNNUdwMU5WSUpaeDFQYXBqQkp1TmxtSS0zcnpnUjlYckpRc0dZeHFZbWdEanItdw?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "How much passive income could £10,000 invested in the FTSE 100's top dividend stock target?",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPOGFaS004UXd3RU1iMm53TlpLRlRvV1Q4emVZS3Z5NWtvdXZRNnZyX3preDFRZ2ZKMXZ0b0o1bS1RelJ0NFZoYnV3M3B1NUQ2aTlXb2l6TWpGTUdIeENLck55UkItRUMtdmJiRUZRMnJuZlFPenphWEdXRlk4Mk5kVUhEeFAzOFVGRlBGNWVCTHl5c3NXWS1NSUNNNUdwMU5WSUpaeDFQYXBqQkp1TmxtSS0zcnpnUjlYckpRc0dZeHFZbWdEanItdw?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "How to earn a £1,500 monthly tax-free passive income from an ISA",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOGJDa3JNN0wtdXhuUGMwbUJkNkMyM2NyaF9vWDV0V1loN0hvUHB3YjBieFJBT2tIS0dGZFN6azl4MGx0dWwxXzRnTk42Q2t0ZGRnVV9OamljSGhzdXRyc01TVVdWZkVldXB2eEFYcnVzT1JxV3loTms4ZjJlX1NFR2dBTFdacTIwY1BIV3dpd2xwcUlQemZaN1NnSFN1WUFYLUVKREJKOA?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "cf2dbbbf8c8c",
+      "slug": "passive-income"
+    },
+    {
       "keyword": "claude code",
       "count": 22,
-      "score": 167.483066339728,
+      "score": 143.74230632199823,
       "proper": true,
       "niches": [
         "ai"
       ],
       "examples": [
         {
-          "title": "Harkirat1462/claude-code-cli — claude code cli install codex github anthropic agentic coding system terminal assistant codebase git workflows multi file editing mcp protocol model context protocol sub",
-          "url": "https://github.com/Harkirat1462/claude-code-cli",
-          "source": "github"
-        },
-        {
           "title": "op7418/guizang-social-card-skill — 🪧 Claude Code / Codex skill — generate Xiaohongshu carousels & WeChat 21:9+1:1 cover pairs. Editorial × Swiss visual systems, 28 layouts, 10 themes, single-file HTM",
           "url": "https://github.com/op7418/guizang-social-card-skill",
           "source": "github"
@@ -302,6 +336,11 @@
           "title": "op7418/guizang-social-card-skill — 🪧 Claude Code / Codex skill — generate Xiaohongshu carousels & WeChat 21:9+1:1 cover pairs. Editorial × Swiss visual systems, 28 layouts, 10 themes, single-file HTM",
           "url": "https://github.com/op7418/guizang-social-card-skill",
           "source": "github"
+        },
+        {
+          "title": "Claude Code is the best AI coding tool I've used, and I’m not entirely sure if I can recommend it",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMnJUQnpneEtHMEJFZzZ0V0djN24zOVQyM3hpT09WYm5sUXBRVEo0QkFCZG50Q3RMMUtuczFwYk9aMEYxSFpBMVkxNDhrRmpOTUNJWE9teEVsR3JDYW9YMktENFYxQlBjTC1lM2hfYTJ3WkI4c0tyMTh3X0UzSWUwVUFMRlQtSjhIcnRuTTVYUW9OeXFVbUtHYmt3?oc=5",
+          "source": "gnews"
         },
         {
           "title": "Claude Code is the best AI coding tool I've used, and I’m not entirely sure if I can recommend it",
@@ -320,7 +359,7 @@
     {
       "keyword": "dear fedi",
       "count": 8,
-      "score": 111.04242875747823,
+      "score": 117.71205656335283,
       "proper": true,
       "niches": [
         "ai"
@@ -341,235 +380,9 @@
       "slug": "dear-fedi"
     },
     {
-      "keyword": "business intelligence",
-      "count": 11,
-      "score": 98.77978565637038,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "Best AI Tools for Business Intelligence in 2026",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBqWDgyZ1EzRDIxNkpBSFpZOEIxdXk1QXByak5lRmFLQWY5bjMxaVE3dlFrSXYtRXlDX0ljWHFwTHZYN0I3MEtyOUlLcGpXbDlLYlE1WUxXTk0tMk5DbU02WHBaNVVjNDdpQ2NtNzZtYS1DSzg?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Best AI Tools for Business Intelligence in 2026",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBqWDgyZ1EzRDIxNkpBSFpZOEIxdXk1QXByak5lRmFLQWY5bjMxaVE3dlFrSXYtRXlDX0ljWHFwTHZYN0I3MEtyOUlLcGpXbDlLYlE1WUxXTk0tMk5DbU02WHBaNVVjNDdpQ2NtNzZtYS1DSzg?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Best AI Tools for Business Intelligence in 2026",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBqWDgyZ1EzRDIxNkpBSFpZOEIxdXk1QXByak5lRmFLQWY5bjMxaVE3dlFrSXYtRXlDX0ljWHFwTHZYN0I3MEtyOUlLcGpXbDlLYlE1WUxXTk0tMk5DbU02WHBaNVVjNDdpQ2NtNzZtYS1DSzg?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "3fbe0f5eddbf",
-      "slug": "business-intelligence"
-    },
-    {
-      "keyword": "bot polymarket",
-      "count": 15,
-      "score": 96.35021284364117,
-      "proper": false,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "ShadowSpread/polymarket-auto-trading — polymarket trading bot, polymarket auto trading bot, polymarket profitable bot, polymarket, trading bot, polymarket trading bot, polymarket arbitrage bot, polyma",
-          "url": "https://github.com/ShadowSpread/polymarket-auto-trading",
-          "source": "github"
-        },
-        {
-          "title": "ShadowSpread/polymarket-auto-trading — polymarket trading bot, polymarket auto trading bot, polymarket profitable bot, polymarket, trading bot, polymarket trading bot, polymarket arbitrage bot, polyma",
-          "url": "https://github.com/ShadowSpread/polymarket-auto-trading",
-          "source": "github"
-        },
-        {
-          "title": "ShadowSpread/polymarket-auto-trading — polymarket trading bot, polymarket auto trading bot, polymarket profitable bot, polymarket, trading bot, polymarket trading bot, polymarket arbitrage bot, polyma",
-          "url": "https://github.com/ShadowSpread/polymarket-auto-trading",
-          "source": "github"
-        },
-        {
-          "title": "ShadowSpread/polymarket-auto-trading — polymarket trading bot, polymarket auto trading bot, polymarket profitable bot, polymarket, trading bot, polymarket trading bot, polymarket arbitrage bot, polyma",
-          "url": "https://github.com/ShadowSpread/polymarket-auto-trading",
-          "source": "github"
-        },
-        {
-          "title": "ShadowSpread/polymarket-auto-trading — polymarket trading bot, polymarket auto trading bot, polymarket profitable bot, polymarket, trading bot, polymarket trading bot, polymarket arbitrage bot, polyma",
-          "url": "https://github.com/ShadowSpread/polymarket-auto-trading",
-          "source": "github"
-        }
-      ],
-      "id": "eb9ff6d7608d",
-      "slug": "bot-polymarket"
-    },
-    {
-      "keyword": "claude",
-      "count": 12,
-      "score": 84.50113108086785,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "Harkirat1462/claude-code-cli — claude code cli install codex github anthropic agentic coding system terminal assistant codebase git workflows multi file editing mcp protocol model context protocol sub",
-          "url": "https://github.com/Harkirat1462/claude-code-cli",
-          "source": "github"
-        },
-        {
-          "title": "zhristophe/Claude-Mythos-AI-Anthropic-App — claude mythos ai anthropic app github open source desktop mobile client abhishekk130804 anthropic api key creative writing roleplay character cards deep rea",
-          "url": "https://github.com/zhristophe/Claude-Mythos-AI-Anthropic-App",
-          "source": "github"
-        },
-        {
-          "title": "zhristophe/Claude-Mythos-AI-Anthropic-App — claude mythos ai anthropic app github open source desktop mobile client abhishekk130804 anthropic api key creative writing roleplay character cards deep rea",
-          "url": "https://github.com/zhristophe/Claude-Mythos-AI-Anthropic-App",
-          "source": "github"
-        },
-        {
-          "title": "op7418/guizang-social-card-skill — 🪧 Claude Code / Codex skill — generate Xiaohongshu carousels & WeChat 21:9+1:1 cover pairs. Editorial × Swiss visual systems, 28 layouts, 10 themes, single-file HTM",
-          "url": "https://github.com/op7418/guizang-social-card-skill",
-          "source": "github"
-        },
-        {
-          "title": "Claude Code is the best AI coding tool I've used, and I’m not entirely sure if I can recommend it",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMnJUQnpneEtHMEJFZzZ0V0djN24zOVQyM3hpT09WYm5sUXBRVEo0QkFCZG50Q3RMMUtuczFwYk9aMEYxSFpBMVkxNDhrRmpOTUNJWE9teEVsR3JDYW9YMktENFYxQlBjTC1lM2hfYTJ3WkI4c0tyMTh3X0UzSWUwVUFMRlQtSjhIcnRuTTVYUW9OeXFVbUtHYmt3?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "c857d09db23e",
-      "slug": "claude"
-    },
-    {
-      "keyword": "trading bot",
-      "count": 12,
-      "score": 77.08017027491294,
-      "proper": false,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "ShadowSpread/polymarket-auto-trading — polymarket trading bot, polymarket auto trading bot, polymarket profitable bot, polymarket, trading bot, polymarket trading bot, polymarket arbitrage bot, polyma",
-          "url": "https://github.com/ShadowSpread/polymarket-auto-trading",
-          "source": "github"
-        },
-        {
-          "title": "ShadowSpread/polymarket-auto-trading — polymarket trading bot, polymarket auto trading bot, polymarket profitable bot, polymarket, trading bot, polymarket trading bot, polymarket arbitrage bot, polyma",
-          "url": "https://github.com/ShadowSpread/polymarket-auto-trading",
-          "source": "github"
-        },
-        {
-          "title": "ShadowSpread/polymarket-auto-trading — polymarket trading bot, polymarket auto trading bot, polymarket profitable bot, polymarket, trading bot, polymarket trading bot, polymarket arbitrage bot, polyma",
-          "url": "https://github.com/ShadowSpread/polymarket-auto-trading",
-          "source": "github"
-        },
-        {
-          "title": "ShadowSpread/polymarket-auto-trading — polymarket trading bot, polymarket auto trading bot, polymarket profitable bot, polymarket, trading bot, polymarket trading bot, polymarket arbitrage bot, polyma",
-          "url": "https://github.com/ShadowSpread/polymarket-auto-trading",
-          "source": "github"
-        }
-      ],
-      "id": "31a0ef9ff729",
-      "slug": "trading-bot"
-    },
-    {
-      "keyword": "jailbroken kindle",
-      "count": 8,
-      "score": 74.13656875257607,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "Rust (and Slint) on a Jailbroken Kindle",
-          "url": "https://sverre.me/blog/rust-on-kindle/",
-          "source": "hackernews"
-        },
-        {
-          "title": "Rust (and Slint) on a Jailbroken Kindle",
-          "url": "https://sverre.me/blog/rust-on-kindle/",
-          "source": "hackernews"
-        }
-      ],
-      "id": "fcbb4fb8232c",
-      "slug": "jailbroken-kindle"
-    },
-    {
-      "keyword": "kitchen gadgets",
-      "count": 17,
-      "score": 62.45344206761503,
-      "proper": true,
-      "niches": [
-        "gear"
-      ],
-      "examples": [
-        {
-          "title": "I’ve Tested Dozens of Clever Kitchen Gadgets in 2026 — These Are the Only Ones That Stand Out",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYjN3YXF5MGV2R19DTkxmejBVdGdrelUxM01LSzJaNFF0TFNoN1NnMzdxSWplUjI1RkVnR1NDLXNXTDMyQnZuQmtWeG04a3BlQzU2UWEycFVzT1FsOUcxYVl1WjhvSzdUd2dSajBPMHRRZTZSVlBSS0xKbWVjYUxXelg3b0dZV1o1RXVQamtxX28zU3Rh?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "I’ve Tested Dozens of Clever Kitchen Gadgets in 2026 — These Are the Only Ones That Stand Out",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYjN3YXF5MGV2R19DTkxmejBVdGdrelUxM01LSzJaNFF0TFNoN1NnMzdxSWplUjI1RkVnR1NDLXNXTDMyQnZuQmtWeG04a3BlQzU2UWEycFVzT1FsOUcxYVl1WjhvSzdUd2dSajBPMHRRZTZSVlBSS0xKbWVjYUxXelg3b0dZV1o1RXVQamtxX28zU3Rh?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "I’ve Tested Dozens of Clever Kitchen Gadgets in 2026 — These Are the Only Ones That Stand Out",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYjN3YXF5MGV2R19DTkxmejBVdGdrelUxM01LSzJaNFF0TFNoN1NnMzdxSWplUjI1RkVnR1NDLXNXTDMyQnZuQmtWeG04a3BlQzU2UWEycFVzT1FsOUcxYVl1WjhvSzdUd2dSajBPMHRRZTZSVlBSS0xKbWVjYUxXelg3b0dZV1o1RXVQamtxX28zU3Rh?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "It’s My Job to Test Kitchen Gadgets, and These Are My 13 Favorite Finds of 2026 So Far",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1MZkotUkM5UXM5MGU1c3ctSGV4Rmhncm10dC1kRmJZaW1HeFhRYjU5Y2pPa0NqTEVtS2l5YWJ4WUs0dVdqc29HTnJILXZndXVYM3ptamMtWXdtQ3hsUW5kNVVHQjNYS2RVU1d5TE42OTVnN2l4M2J6OWNB?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "It’s My Job to Test Kitchen Gadgets, and These Are My 13 Favorite Finds of 2026 So Far",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1MZkotUkM5UXM5MGU1c3ctSGV4Rmhncm10dC1kRmJZaW1HeFhRYjU5Y2pPa0NqTEVtS2l5YWJ4WUs0dVdqc29HTnJILXZndXVYM3ptamMtWXdtQ3hsUW5kNVVHQjNYS2RVU1d5TE42OTVnN2l4M2J6OWNB?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "4e4a1c4cb31e",
-      "slug": "kitchen-gadgets"
-    },
-    {
-      "keyword": "polymarket trading",
-      "count": 9,
-      "score": 57.81012770618471,
-      "proper": false,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "ShadowSpread/polymarket-auto-trading — polymarket trading bot, polymarket auto trading bot, polymarket profitable bot, polymarket, trading bot, polymarket trading bot, polymarket arbitrage bot, polyma",
-          "url": "https://github.com/ShadowSpread/polymarket-auto-trading",
-          "source": "github"
-        },
-        {
-          "title": "ShadowSpread/polymarket-auto-trading — polymarket trading bot, polymarket auto trading bot, polymarket profitable bot, polymarket, trading bot, polymarket trading bot, polymarket arbitrage bot, polyma",
-          "url": "https://github.com/ShadowSpread/polymarket-auto-trading",
-          "source": "github"
-        },
-        {
-          "title": "ShadowSpread/polymarket-auto-trading — polymarket trading bot, polymarket auto trading bot, polymarket profitable bot, polymarket, trading bot, polymarket trading bot, polymarket arbitrage bot, polyma",
-          "url": "https://github.com/ShadowSpread/polymarket-auto-trading",
-          "source": "github"
-        }
-      ],
-      "id": "cc07af2a09d3",
-      "slug": "polymarket-trading"
-    },
-    {
       "keyword": "buy forecasts",
       "count": 18,
-      "score": 52.834799146138536,
+      "score": 105.66959829227707,
       "proper": false,
       "niches": [
         "gear"
@@ -607,7 +420,7 @@
     {
       "keyword": "forecasts upbeat",
       "count": 18,
-      "score": 52.834799146138536,
+      "score": 105.66959829227707,
       "proper": false,
       "niches": [
         "gear"
@@ -643,93 +456,283 @@
       "slug": "forecasts-upbeat"
     },
     {
-      "keyword": "2026 _blank",
-      "count": 21,
-      "score": 50.59948072072498,
-      "proper": false,
+      "keyword": "kitchen gadgets",
+      "count": 17,
+      "score": 105.5341244483126,
+      "proper": true,
       "niches": [
-        "ai",
-        "finance",
-        "software",
-        "gear",
-        "general"
+        "gear"
       ],
       "examples": [
         {
-          "title": "10 Best AI Text Generator Tools Tested for 2026",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE94ajFVejBCX2U3MUo1d3FlWFNzeTBXZU1ENl9LZkRrVWczWHRFN2lmNVd2U0E4Tk1YNFpqYnhfLTRmTVNhVUttOFNrQWdEOHZyNGF0Vm8xQQ?oc=5",
+          "title": "I’ve Tested Dozens of Clever Kitchen Gadgets in 2026 — These Are the Only Ones That Stand Out",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYjN3YXF5MGV2R19DTkxmejBVdGdrelUxM01LSzJaNFF0TFNoN1NnMzdxSWplUjI1RkVnR1NDLXNXTDMyQnZuQmtWeG04a3BlQzU2UWEycFVzT1FsOUcxYVl1WjhvSzdUd2dSajBPMHRRZTZSVlBSS0xKbWVjYUxXelg3b0dZV1o1RXVQamtxX28zU3Rh?oc=5",
           "source": "gnews"
         },
         {
-          "title": "Best AI Tools for Business Intelligence in 2026",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBqWDgyZ1EzRDIxNkpBSFpZOEIxdXk1QXByak5lRmFLQWY5bjMxaVE3dlFrSXYtRXlDX0ljWHFwTHZYN0I3MEtyOUlLcGpXbDlLYlE1WUxXTk0tMk5DbU02WHBaNVVjNDdpQ2NtNzZtYS1DSzg?oc=5",
+          "title": "I’ve Tested Dozens of Clever Kitchen Gadgets in 2026 — These Are the Only Ones That Stand Out",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYjN3YXF5MGV2R19DTkxmejBVdGdrelUxM01LSzJaNFF0TFNoN1NnMzdxSWplUjI1RkVnR1NDLXNXTDMyQnZuQmtWeG04a3BlQzU2UWEycFVzT1FsOUcxYVl1WjhvSzdUd2dSajBPMHRRZTZSVlBSS0xKbWVjYUxXelg3b0dZV1o1RXVQamtxX28zU3Rh?oc=5",
           "source": "gnews"
         },
         {
-          "title": "Best Budgeting Apps Of 2026",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBfUGVtV1FGTnJWeTNxS2R0QmVaQzlwbFVNZHlaU1BnNWlrNWx5WDIxb1k0UzVTaDNGVzhUaDNmenJBZ28xMW9VWEtyRU01ODNyV2x3WlBZZkpIb2dnNFVXQ19ReFkzVDJVaEg4?oc=5",
+          "title": "I’ve Tested Dozens of Clever Kitchen Gadgets in 2026 — These Are the Only Ones That Stand Out",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYjN3YXF5MGV2R19DTkxmejBVdGdrelUxM01LSzJaNFF0TFNoN1NnMzdxSWplUjI1RkVnR1NDLXNXTDMyQnZuQmtWeG04a3BlQzU2UWEycFVzT1FsOUcxYVl1WjhvSzdUd2dSajBPMHRRZTZSVlBSS0xKbWVjYUxXelg3b0dZV1o1RXVQamtxX28zU3Rh?oc=5",
           "source": "gnews"
         },
         {
-          "title": "The Best Tenkeyless (TKL) Keyboards for 2026",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1DN0tQWlcySnluZ19LTlZ1V0RGSFhSRmRINUMyVDFrM2t3dXJVNVpnS0ZhR0pQZE1QUnJoVXJwOVM0TFdwZjdTMHdFd0pJNktGNHplZFFsaXlRanBmM0FsYklhZ3NOdzJt?oc=5",
+          "title": "It’s My Job to Test Kitchen Gadgets, and These Are My 13 Favorite Finds of 2026 So Far",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1MZkotUkM5UXM5MGU1c3ctSGV4Rmhncm10dC1kRmJZaW1HeFhRYjU5Y2pPa0NqTEVtS2l5YWJ4WUs0dVdqc29HTnJILXZndXVYM3ptamMtWXdtQ3hsUW5kNVVHQjNYS2RVU1d5TE42OTVnN2l4M2J6OWNB?oc=5",
           "source": "gnews"
         },
         {
-          "title": "The Best Productivity Apps We've Tested for 2026",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9veGdZYVZtQXhoeGdoN19Db0JwMFZndFd3a3dIczJDZkIxeHBPUHEySTlDT2xzZS1PVkdCVnpla0pWWjRMUVczUm9kaVhnOFB3MzNpNk1YUnl2LUI5YVVJ?oc=5",
+          "title": "It’s My Job to Test Kitchen Gadgets, and These Are My 13 Favorite Finds of 2026 So Far",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1MZkotUkM5UXM5MGU1c3ctSGV4Rmhncm10dC1kRmJZaW1HeFhRYjU5Y2pPa0NqTEVtS2l5YWJ4WUs0dVdqc29HTnJILXZndXVYM3ptamMtWXdtQ3hsUW5kNVVHQjNYS2RVU1d5TE42OTVnN2l4M2J6OWNB?oc=5",
           "source": "gnews"
         }
       ],
-      "id": "436796f27eb8",
-      "slug": "2026-_blank"
+      "id": "4e4a1c4cb31e",
+      "slug": "kitchen-gadgets"
     },
     {
-      "keyword": "2026 6f6f6f",
-      "count": 21,
-      "score": 50.59948072072498,
+      "keyword": "bot polymarket",
+      "count": 15,
+      "score": 97.33393843408565,
       "proper": false,
       "niches": [
-        "ai",
-        "finance",
-        "software",
-        "gear",
-        "general"
+        "ai"
       ],
       "examples": [
         {
-          "title": "10 Best AI Text Generator Tools Tested for 2026",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE94ajFVejBCX2U3MUo1d3FlWFNzeTBXZU1ENl9LZkRrVWczWHRFN2lmNVd2U0E4Tk1YNFpqYnhfLTRmTVNhVUttOFNrQWdEOHZyNGF0Vm8xQQ?oc=5",
+          "title": "ShadowSpread/polymarket-auto-trading — polymarket trading bot, polymarket auto trading bot, polymarket profitable bot, polymarket, trading bot, polymarket trading bot, polymarket arbitrage bot, polyma",
+          "url": "https://github.com/ShadowSpread/polymarket-auto-trading",
+          "source": "github"
+        },
+        {
+          "title": "ShadowSpread/polymarket-auto-trading — polymarket trading bot, polymarket auto trading bot, polymarket profitable bot, polymarket, trading bot, polymarket trading bot, polymarket arbitrage bot, polyma",
+          "url": "https://github.com/ShadowSpread/polymarket-auto-trading",
+          "source": "github"
+        },
+        {
+          "title": "ShadowSpread/polymarket-auto-trading — polymarket trading bot, polymarket auto trading bot, polymarket profitable bot, polymarket, trading bot, polymarket trading bot, polymarket arbitrage bot, polyma",
+          "url": "https://github.com/ShadowSpread/polymarket-auto-trading",
+          "source": "github"
+        },
+        {
+          "title": "ShadowSpread/polymarket-auto-trading — polymarket trading bot, polymarket auto trading bot, polymarket profitable bot, polymarket, trading bot, polymarket trading bot, polymarket arbitrage bot, polyma",
+          "url": "https://github.com/ShadowSpread/polymarket-auto-trading",
+          "source": "github"
+        },
+        {
+          "title": "ShadowSpread/polymarket-auto-trading — polymarket trading bot, polymarket auto trading bot, polymarket profitable bot, polymarket, trading bot, polymarket trading bot, polymarket arbitrage bot, polyma",
+          "url": "https://github.com/ShadowSpread/polymarket-auto-trading",
+          "source": "github"
+        }
+      ],
+      "id": "eb9ff6d7608d",
+      "slug": "bot-polymarket"
+    },
+    {
+      "keyword": "sales steady",
+      "count": 15,
+      "score": 88.05799857689756,
+      "proper": false,
+      "niches": [
+        "gear"
+      ],
+      "examples": [
+        {
+          "title": "Best Buy forecasts upbeat quarterly sales on steady gadgets demand; shares up",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPaXkzaVhKV3c1eUQ1c3ZyT18tQlBiRGJzcnI3MkxKQlJPVi1FeVFnQ0c5a29zZDdMZXpNYTJGTWdyUlo3ZS1IbVhhTlpESm5FN0MzN0VpaG9CS2NyemNZYmtYT1VEdnVLMjJkcDRWa0ZjM1AzRGlRY3BYOHVrWlZ3bVJEdWoyRm90dzRCV2ljZEtRYmdXeEMyd3c5dzFfNG51dXJ3UlN5RnJRU0V1WWNQdDlBZVJzRnd1bFdocDdn?oc=5",
           "source": "gnews"
         },
         {
-          "title": "Best AI Tools for Business Intelligence in 2026",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBqWDgyZ1EzRDIxNkpBSFpZOEIxdXk1QXByak5lRmFLQWY5bjMxaVE3dlFrSXYtRXlDX0ljWHFwTHZYN0I3MEtyOUlLcGpXbDlLYlE1WUxXTk0tMk5DbU02WHBaNVVjNDdpQ2NtNzZtYS1DSzg?oc=5",
+          "title": "Best Buy forecasts upbeat quarterly sales on steady gadgets demand; shares up",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPaXkzaVhKV3c1eUQ1c3ZyT18tQlBiRGJzcnI3MkxKQlJPVi1FeVFnQ0c5a29zZDdMZXpNYTJGTWdyUlo3ZS1IbVhhTlpESm5FN0MzN0VpaG9CS2NyemNZYmtYT1VEdnVLMjJkcDRWa0ZjM1AzRGlRY3BYOHVrWlZ3bVJEdWoyRm90dzRCV2ljZEtRYmdXeEMyd3c5dzFfNG51dXJ3UlN5RnJRU0V1WWNQdDlBZVJzRnd1bFdocDdn?oc=5",
           "source": "gnews"
         },
         {
-          "title": "Best Budgeting Apps Of 2026",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBfUGVtV1FGTnJWeTNxS2R0QmVaQzlwbFVNZHlaU1BnNWlrNWx5WDIxb1k0UzVTaDNGVzhUaDNmenJBZ28xMW9VWEtyRU01ODNyV2x3WlBZZkpIb2dnNFVXQ19ReFkzVDJVaEg4?oc=5",
+          "title": "Best Buy forecasts upbeat sales on steady gadgets demand, ads and marketplace growth",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVnRiYmFuSlhEbzNQRE5OU2pTaGZmVU9Tb0swMWJiR3JjRE5Ld3Z6REpLM2FjMkdQMXo0Uk1JdnRhMk1VTFFqdEg3Rm9jQm5QT0RRQTBhR2FUWC1qZEM2aG1lUVYtMzNONFVvUzhUTnRlNGQ1eXhfc1VhT25tci11amxvUlE5NU5WVktrUndNd0JNbzlIbGNFVTlFRERwQkJFWENzQThwWDk4VU1URUhsUlhZNzFzcWp5U3MxNFJRREt1cURyWFhuTklvMA?oc=5",
           "source": "gnews"
         },
         {
-          "title": "The Best Tenkeyless (TKL) Keyboards for 2026",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1DN0tQWlcySnluZ19LTlZ1V0RGSFhSRmRINUMyVDFrM2t3dXJVNVpnS0ZhR0pQZE1QUnJoVXJwOVM0TFdwZjdTMHdFd0pJNktGNHplZFFsaXlRanBmM0FsYklhZ3NOdzJt?oc=5",
+          "title": "Best Buy forecasts upbeat sales on steady gadgets demand, ads and marketplace growth",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVnRiYmFuSlhEbzNQRE5OU2pTaGZmVU9Tb0swMWJiR3JjRE5Ld3Z6REpLM2FjMkdQMXo0Uk1JdnRhMk1VTFFqdEg3Rm9jQm5QT0RRQTBhR2FUWC1qZEM2aG1lUVYtMzNONFVvUzhUTnRlNGQ1eXhfc1VhT25tci11amxvUlE5NU5WVktrUndNd0JNbzlIbGNFVTlFRERwQkJFWENzQThwWDk4VU1URUhsUlhZNzFzcWp5U3MxNFJRREt1cURyWFhuTklvMA?oc=5",
           "source": "gnews"
         },
         {
-          "title": "The Best Productivity Apps We've Tested for 2026",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9veGdZYVZtQXhoeGdoN19Db0JwMFZndFd3a3dIczJDZkIxeHBPUHEySTlDT2xzZS1PVkdCVnpla0pWWjRMUVczUm9kaVhnOFB3MzNpNk1YUnl2LUI5YVVJ?oc=5",
+          "title": "Best Buy forecasts upbeat quarterly sales on steady gadgets demand; shares up By Reuters",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPaVVuTGFUa3BnZDFKeEV4UU5jTmlqeHFzc05CSF9USGZXc0Y2NHFqZExVNjZlUDFrRnQwMnh4TWpUTHFFOHNwTGMyMi1HVG1LOFFsam1iNmtXVWFyZVlFc2RXek5Fb0hMbGl2MU1oZWs2Q3FWQXJTaWVNNG83akNwUW15N01CZkdZSGlJM0VQUDQzck9KQUhFamlxT18xYXlJM1BWd1hvakVyYXFjRmJDVHV6UDJndnpZbzFpOHoxWUpMaEtwSGlUekI2Yi1yWGtzREZOZGZTOA?oc=5",
           "source": "gnews"
         }
       ],
-      "id": "819223dcf234",
-      "slug": "2026-6f6f6f"
+      "id": "b8cc8f69e0dc",
+      "slug": "sales-steady"
+    },
+    {
+      "keyword": "steady gadgets",
+      "count": 15,
+      "score": 88.05799857689756,
+      "proper": false,
+      "niches": [
+        "gear"
+      ],
+      "examples": [
+        {
+          "title": "Best Buy forecasts upbeat quarterly sales on steady gadgets demand; shares up",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPaXkzaVhKV3c1eUQ1c3ZyT18tQlBiRGJzcnI3MkxKQlJPVi1FeVFnQ0c5a29zZDdMZXpNYTJGTWdyUlo3ZS1IbVhhTlpESm5FN0MzN0VpaG9CS2NyemNZYmtYT1VEdnVLMjJkcDRWa0ZjM1AzRGlRY3BYOHVrWlZ3bVJEdWoyRm90dzRCV2ljZEtRYmdXeEMyd3c5dzFfNG51dXJ3UlN5RnJRU0V1WWNQdDlBZVJzRnd1bFdocDdn?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Best Buy forecasts upbeat quarterly sales on steady gadgets demand; shares up",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPaXkzaVhKV3c1eUQ1c3ZyT18tQlBiRGJzcnI3MkxKQlJPVi1FeVFnQ0c5a29zZDdMZXpNYTJGTWdyUlo3ZS1IbVhhTlpESm5FN0MzN0VpaG9CS2NyemNZYmtYT1VEdnVLMjJkcDRWa0ZjM1AzRGlRY3BYOHVrWlZ3bVJEdWoyRm90dzRCV2ljZEtRYmdXeEMyd3c5dzFfNG51dXJ3UlN5RnJRU0V1WWNQdDlBZVJzRnd1bFdocDdn?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Best Buy forecasts upbeat sales on steady gadgets demand, ads and marketplace growth",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVnRiYmFuSlhEbzNQRE5OU2pTaGZmVU9Tb0swMWJiR3JjRE5Ld3Z6REpLM2FjMkdQMXo0Uk1JdnRhMk1VTFFqdEg3Rm9jQm5QT0RRQTBhR2FUWC1qZEM2aG1lUVYtMzNONFVvUzhUTnRlNGQ1eXhfc1VhT25tci11amxvUlE5NU5WVktrUndNd0JNbzlIbGNFVTlFRERwQkJFWENzQThwWDk4VU1URUhsUlhZNzFzcWp5U3MxNFJRREt1cURyWFhuTklvMA?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Best Buy forecasts upbeat sales on steady gadgets demand, ads and marketplace growth",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVnRiYmFuSlhEbzNQRE5OU2pTaGZmVU9Tb0swMWJiR3JjRE5Ld3Z6REpLM2FjMkdQMXo0Uk1JdnRhMk1VTFFqdEg3Rm9jQm5QT0RRQTBhR2FUWC1qZEM2aG1lUVYtMzNONFVvUzhUTnRlNGQ1eXhfc1VhT25tci11amxvUlE5NU5WVktrUndNd0JNbzlIbGNFVTlFRERwQkJFWENzQThwWDk4VU1URUhsUlhZNzFzcWp5U3MxNFJRREt1cURyWFhuTklvMA?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Best Buy forecasts upbeat quarterly sales on steady gadgets demand; shares up By Reuters",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPaVVuTGFUa3BnZDFKeEV4UU5jTmlqeHFzc05CSF9USGZXc0Y2NHFqZExVNjZlUDFrRnQwMnh4TWpUTHFFOHNwTGMyMi1HVG1LOFFsam1iNmtXVWFyZVlFc2RXek5Fb0hMbGl2MU1oZWs2Q3FWQXJTaWVNNG83akNwUW15N01CZkdZSGlJM0VQUDQzck9KQUhFamlxT18xYXlJM1BWd1hvakVyYXFjRmJDVHV6UDJndnpZbzFpOHoxWUpMaEtwSGlUekI2Yi1yWGtzREZOZGZTOA?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "a783c1712922",
+      "slug": "steady-gadgets"
+    },
+    {
+      "keyword": "boost sales",
+      "count": 11,
+      "score": 81.74878812940996,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "Best AI Tools for eCommerce 2026: Boost Sales, Emails, and Pricing",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE56cTZNNkg4aXpPQkdReU5abjU3dk5tb1BjcFhlelZrWmExWjlvOFBlLWpWaDVkTjNCTnpuQkwxc1pRTjR2VHVnT0UzQl9ndVBUeURiaVdSZ29Za0Nxak9GWUFTQlM5dGYxR2tr?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Best AI Tools for eCommerce 2026: Boost Sales, Emails, and Pricing",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE56cTZNNkg4aXpPQkdReU5abjU3dk5tb1BjcFhlelZrWmExWjlvOFBlLWpWaDVkTjNCTnpuQkwxc1pRTjR2VHVnT0UzQl9ndVBUeURiaVdSZ29Za0Nxak9GWUFTQlM5dGYxR2tr?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Best AI Tools for eCommerce 2026: Boost Sales, Emails, and Pricing",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE56cTZNNkg4aXpPQkdReU5abjU3dk5tb1BjcFhlelZrWmExWjlvOFBlLWpWaDVkTjNCTnpuQkwxc1pRTjR2VHVnT0UzQl9ndVBUeURiaVdSZ29Za0Nxak9GWUFTQlM5dGYxR2tr?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "c2f5b8bf738e",
+      "slug": "boost-sales"
+    },
+    {
+      "keyword": "trading bot",
+      "count": 12,
+      "score": 77.86715074726852,
+      "proper": false,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "ShadowSpread/polymarket-auto-trading — polymarket trading bot, polymarket auto trading bot, polymarket profitable bot, polymarket, trading bot, polymarket trading bot, polymarket arbitrage bot, polyma",
+          "url": "https://github.com/ShadowSpread/polymarket-auto-trading",
+          "source": "github"
+        },
+        {
+          "title": "ShadowSpread/polymarket-auto-trading — polymarket trading bot, polymarket auto trading bot, polymarket profitable bot, polymarket, trading bot, polymarket trading bot, polymarket arbitrage bot, polyma",
+          "url": "https://github.com/ShadowSpread/polymarket-auto-trading",
+          "source": "github"
+        },
+        {
+          "title": "ShadowSpread/polymarket-auto-trading — polymarket trading bot, polymarket auto trading bot, polymarket profitable bot, polymarket, trading bot, polymarket trading bot, polymarket arbitrage bot, polyma",
+          "url": "https://github.com/ShadowSpread/polymarket-auto-trading",
+          "source": "github"
+        },
+        {
+          "title": "ShadowSpread/polymarket-auto-trading — polymarket trading bot, polymarket auto trading bot, polymarket profitable bot, polymarket, trading bot, polymarket trading bot, polymarket arbitrage bot, polyma",
+          "url": "https://github.com/ShadowSpread/polymarket-auto-trading",
+          "source": "github"
+        }
+      ],
+      "id": "31a0ef9ff729",
+      "slug": "trading-bot"
+    },
+    {
+      "keyword": "claude",
+      "count": 12,
+      "score": 76.66502861661525,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "zhristophe/Claude-Mythos-AI-Anthropic-App — claude mythos ai anthropic app github open source desktop mobile client abhishekk130804 anthropic api key creative writing roleplay character cards deep rea",
+          "url": "https://github.com/zhristophe/Claude-Mythos-AI-Anthropic-App",
+          "source": "github"
+        },
+        {
+          "title": "zhristophe/Claude-Mythos-AI-Anthropic-App — claude mythos ai anthropic app github open source desktop mobile client abhishekk130804 anthropic api key creative writing roleplay character cards deep rea",
+          "url": "https://github.com/zhristophe/Claude-Mythos-AI-Anthropic-App",
+          "source": "github"
+        },
+        {
+          "title": "op7418/guizang-social-card-skill — 🪧 Claude Code / Codex skill — generate Xiaohongshu carousels & WeChat 21:9+1:1 cover pairs. Editorial × Swiss visual systems, 28 layouts, 10 themes, single-file HTM",
+          "url": "https://github.com/op7418/guizang-social-card-skill",
+          "source": "github"
+        },
+        {
+          "title": "Claude Code is the best AI coding tool I've used, and I’m not entirely sure if I can recommend it",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMnJUQnpneEtHMEJFZzZ0V0djN24zOVQyM3hpT09WYm5sUXBRVEo0QkFCZG50Q3RMMUtuczFwYk9aMEYxSFpBMVkxNDhrRmpOTUNJWE9teEVsR3JDYW9YMktENFYxQlBjTC1lM2hfYTJ3WkI4c0tyMTh3X0UzSWUwVUFMRlQtSjhIcnRuTTVYUW9OeXFVbUtHYmt3?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Claude Code is the best AI coding tool I've used, and I’m not entirely sure if I can recommend it",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMnJUQnpneEtHMEJFZzZ0V0djN24zOVQyM3hpT09WYm5sUXBRVEo0QkFCZG50Q3RMMUtuczFwYk9aMEYxSFpBMVkxNDhrRmpOTUNJWE9teEVsR3JDYW9YMktENFYxQlBjTC1lM2hfYTJ3WkI4c0tyMTh3X0UzSWUwVUFMRlQtSjhIcnRuTTVYUW9OeXFVbUtHYmt3?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "c857d09db23e",
+      "slug": "claude"
+    },
+    {
+      "keyword": "jailbroken kindle",
+      "count": 8,
+      "score": 74.7899567319306,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "Rust (and Slint) on a Jailbroken Kindle",
+          "url": "https://sverre.me/blog/rust-on-kindle/",
+          "source": "hackernews"
+        },
+        {
+          "title": "Rust (and Slint) on a Jailbroken Kindle",
+          "url": "https://sverre.me/blog/rust-on-kindle/",
+          "source": "hackernews"
+        }
+      ],
+      "id": "fcbb4fb8232c",
+      "slug": "jailbroken-kindle"
     },
     {
       "keyword": "fitness gear",
-      "count": 35,
-      "score": 44.57089466430661,
+      "count": 29,
+      "score": 74.51061418045177,
       "proper": true,
       "niches": [
         "gear",
@@ -766,9 +769,156 @@
       "slug": "fitness-gear"
     },
     {
-      "keyword": "sales steady",
-      "count": 15,
-      "score": 44.02899928844878,
+      "keyword": "upbeat quarterly",
+      "count": 12,
+      "score": 70.44639886151805,
+      "proper": false,
+      "niches": [
+        "gear"
+      ],
+      "examples": [
+        {
+          "title": "Best Buy forecasts upbeat quarterly sales on steady gadgets demand; shares up",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPaXkzaVhKV3c1eUQ1c3ZyT18tQlBiRGJzcnI3MkxKQlJPVi1FeVFnQ0c5a29zZDdMZXpNYTJGTWdyUlo3ZS1IbVhhTlpESm5FN0MzN0VpaG9CS2NyemNZYmtYT1VEdnVLMjJkcDRWa0ZjM1AzRGlRY3BYOHVrWlZ3bVJEdWoyRm90dzRCV2ljZEtRYmdXeEMyd3c5dzFfNG51dXJ3UlN5RnJRU0V1WWNQdDlBZVJzRnd1bFdocDdn?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Best Buy forecasts upbeat quarterly sales on steady gadgets demand; shares up",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPaXkzaVhKV3c1eUQ1c3ZyT18tQlBiRGJzcnI3MkxKQlJPVi1FeVFnQ0c5a29zZDdMZXpNYTJGTWdyUlo3ZS1IbVhhTlpESm5FN0MzN0VpaG9CS2NyemNZYmtYT1VEdnVLMjJkcDRWa0ZjM1AzRGlRY3BYOHVrWlZ3bVJEdWoyRm90dzRCV2ljZEtRYmdXeEMyd3c5dzFfNG51dXJ3UlN5RnJRU0V1WWNQdDlBZVJzRnd1bFdocDdn?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Best Buy forecasts upbeat quarterly sales on steady gadgets demand; shares up By Reuters",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPaVVuTGFUa3BnZDFKeEV4UU5jTmlqeHFzc05CSF9USGZXc0Y2NHFqZExVNjZlUDFrRnQwMnh4TWpUTHFFOHNwTGMyMi1HVG1LOFFsam1iNmtXVWFyZVlFc2RXek5Fb0hMbGl2MU1oZWs2Q3FWQXJTaWVNNG83akNwUW15N01CZkdZSGlJM0VQUDQzck9KQUhFamlxT18xYXlJM1BWd1hvakVyYXFjRmJDVHV6UDJndnpZbzFpOHoxWUpMaEtwSGlUekI2Yi1yWGtzREZOZGZTOA?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Best Buy forecasts upbeat quarterly sales on steady gadgets demand; shares up By Reuters",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPaVVuTGFUa3BnZDFKeEV4UU5jTmlqeHFzc05CSF9USGZXc0Y2NHFqZExVNjZlUDFrRnQwMnh4TWpUTHFFOHNwTGMyMi1HVG1LOFFsam1iNmtXVWFyZVlFc2RXek5Fb0hMbGl2MU1oZWs2Q3FWQXJTaWVNNG83akNwUW15N01CZkdZSGlJM0VQUDQzck9KQUhFamlxT18xYXlJM1BWd1hvakVyYXFjRmJDVHV6UDJndnpZbzFpOHoxWUpMaEtwSGlUekI2Yi1yWGtzREZOZGZTOA?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "c32026218645",
+      "slug": "upbeat-quarterly"
+    }
+  ],
+  "opportunities": [
+    {
+      "keyword": "passive income",
+      "count": 47,
+      "score": 151.6242615056492,
+      "proper": true,
+      "niches": [
+        "ai",
+        "finance"
+      ],
+      "examples": [
+        {
+          "title": "5 Strong Buy Passive Income Giants Have Raised Their Dividends by Double Digits for Years",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPYXVpZFpKTGhLS0ZuWDQtemx4TTZ4dnVZZTQwUjUwa3BoWXNGZlNsampXbUhqNjVMbkw3eUVQU0E4NF9rbm54RlZXdXZSTmVSN1ozdlM0d2JjUG9WVmU1a0hWczJCeFROeERzeF9ocmZVZUpKMHd0ZFFTSG1MMjgtVnhtRXNQV0MyV21WS3M5bmJicGF4d1JJWThDNnJiMkl3eTBMQnFWMUM0cVg0YVFHSnNNMXlBT3BZdldueVNESVJMWmp2bmJ3ZjJtSmI?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "5 Strong Buy Passive Income Giants Have Raised Their Dividends by Double Digits for Years",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPYXVpZFpKTGhLS0ZuWDQtemx4TTZ4dnVZZTQwUjUwa3BoWXNGZlNsampXbUhqNjVMbkw3eUVQU0E4NF9rbm54RlZXdXZSTmVSN1ozdlM0d2JjUG9WVmU1a0hWczJCeFROeERzeF9ocmZVZUpKMHd0ZFFTSG1MMjgtVnhtRXNQV0MyV21WS3M5bmJicGF4d1JJWThDNnJiMkl3eTBMQnFWMUM0cVg0YVFHSnNNMXlBT3BZdldueVNESVJMWmp2bmJ3ZjJtSmI?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "How much passive income could £10,000 invested in the FTSE 100's top dividend stock target?",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPOGFaS004UXd3RU1iMm53TlpLRlRvV1Q4emVZS3Z5NWtvdXZRNnZyX3preDFRZ2ZKMXZ0b0o1bS1RelJ0NFZoYnV3M3B1NUQ2aTlXb2l6TWpGTUdIeENLck55UkItRUMtdmJiRUZRMnJuZlFPenphWEdXRlk4Mk5kVUhEeFAzOFVGRlBGNWVCTHl5c3NXWS1NSUNNNUdwMU5WSUpaeDFQYXBqQkp1TmxtSS0zcnpnUjlYckpRc0dZeHFZbWdEanItdw?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "How much passive income could £10,000 invested in the FTSE 100's top dividend stock target?",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPOGFaS004UXd3RU1iMm53TlpLRlRvV1Q4emVZS3Z5NWtvdXZRNnZyX3preDFRZ2ZKMXZ0b0o1bS1RelJ0NFZoYnV3M3B1NUQ2aTlXb2l6TWpGTUdIeENLck55UkItRUMtdmJiRUZRMnJuZlFPenphWEdXRlk4Mk5kVUhEeFAzOFVGRlBGNWVCTHl5c3NXWS1NSUNNNUdwMU5WSUpaeDFQYXBqQkp1TmxtSS0zcnpnUjlYckpRc0dZeHFZbWdEanItdw?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "How to earn a £1,500 monthly tax-free passive income from an ISA",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOGJDa3JNN0wtdXhuUGMwbUJkNkMyM2NyaF9vWDV0V1loN0hvUHB3YjBieFJBT2tIS0dGZFN6azl4MGx0dWwxXzRnTk42Q2t0ZGRnVV9OamljSGhzdXRyc01TVVdWZkVldXB2eEFYcnVzT1JxV3loTms4ZjJlX1NFR2dBTFdacTIwY1BIV3dpd2xwcUlQemZaN1NnSFN1WUFYLUVKREJKOA?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "cf2dbbbf8c8c",
+      "slug": "passive-income",
+      "opportunity": {
+        "type": "niche-content",
+        "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
+      }
+    },
+    {
+      "keyword": "claude code",
+      "count": 22,
+      "score": 143.74230632199823,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "op7418/guizang-social-card-skill — 🪧 Claude Code / Codex skill — generate Xiaohongshu carousels & WeChat 21:9+1:1 cover pairs. Editorial × Swiss visual systems, 28 layouts, 10 themes, single-file HTM",
+          "url": "https://github.com/op7418/guizang-social-card-skill",
+          "source": "github"
+        },
+        {
+          "title": "op7418/guizang-social-card-skill — 🪧 Claude Code / Codex skill — generate Xiaohongshu carousels & WeChat 21:9+1:1 cover pairs. Editorial × Swiss visual systems, 28 layouts, 10 themes, single-file HTM",
+          "url": "https://github.com/op7418/guizang-social-card-skill",
+          "source": "github"
+        },
+        {
+          "title": "Claude Code is the best AI coding tool I've used, and I’m not entirely sure if I can recommend it",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMnJUQnpneEtHMEJFZzZ0V0djN24zOVQyM3hpT09WYm5sUXBRVEo0QkFCZG50Q3RMMUtuczFwYk9aMEYxSFpBMVkxNDhrRmpOTUNJWE9teEVsR3JDYW9YMktENFYxQlBjTC1lM2hfYTJ3WkI4c0tyMTh3X0UzSWUwVUFMRlQtSjhIcnRuTTVYUW9OeXFVbUtHYmt3?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Claude Code is the best AI coding tool I've used, and I’m not entirely sure if I can recommend it",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMnJUQnpneEtHMEJFZzZ0V0djN24zOVQyM3hpT09WYm5sUXBRVEo0QkFCZG50Q3RMMUtuczFwYk9aMEYxSFpBMVkxNDhrRmpOTUNJWE9teEVsR3JDYW9YMktENFYxQlBjTC1lM2hfYTJ3WkI4c0tyMTh3X0UzSWUwVUFMRlQtSjhIcnRuTTVYUW9OeXFVbUtHYmt3?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Claude Code is the best AI coding tool I've used, and I’m not entirely sure if I can recommend it",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMnJUQnpneEtHMEJFZzZ0V0djN24zOVQyM3hpT09WYm5sUXBRVEo0QkFCZG50Q3RMMUtuczFwYk9aMEYxSFpBMVkxNDhrRmpOTUNJWE9teEVsR3JDYW9YMktENFYxQlBjTC1lM2hfYTJ3WkI4c0tyMTh3X0UzSWUwVUFMRlQtSjhIcnRuTTVYUW9OeXFVbUtHYmt3?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "a625159d18da",
+      "slug": "claude-code",
+      "opportunity": {
+        "type": "tooling",
+        "recommended": "Build / list AI tools; monetize via affiliate links + lead magnet."
+      }
+    },
+    {
+      "keyword": "dear fedi",
+      "count": 8,
+      "score": 117.71205656335283,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "Dear Fedi friends,I hereby present you my new favorite website: https://isaiprofitable.com, which tracks the spending and revenue of all the major AI companies.Oh it is glorious - the perfect link to ",
+          "url": "https://mastodon.social/@_elena/116652356526060818",
+          "source": "mastodon"
+        },
+        {
+          "title": "Dear Fedi friends,I hereby present you my new favorite website: https://isaiprofitable.com, which tracks the spending and revenue of all the major AI companies.Oh it is glorious - the perfect link to ",
+          "url": "https://mastodon.social/@_elena/116652356526060818",
+          "source": "mastodon"
+        }
+      ],
+      "id": "657aec826a89",
+      "slug": "dear-fedi",
+      "opportunity": {
+        "type": "niche-content",
+        "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
+      }
+    },
+    {
+      "keyword": "buy forecasts",
+      "count": 18,
+      "score": 105.66959829227707,
       "proper": false,
       "niches": [
         "gear"
@@ -800,116 +950,101 @@
           "source": "gnews"
         }
       ],
-      "id": "b8cc8f69e0dc",
-      "slug": "sales-steady"
-    }
-  ],
-  "opportunities": [
-    {
-      "keyword": "claude code",
-      "count": 22,
-      "score": 167.483066339728,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "Harkirat1462/claude-code-cli — claude code cli install codex github anthropic agentic coding system terminal assistant codebase git workflows multi file editing mcp protocol model context protocol sub",
-          "url": "https://github.com/Harkirat1462/claude-code-cli",
-          "source": "github"
-        },
-        {
-          "title": "op7418/guizang-social-card-skill — 🪧 Claude Code / Codex skill — generate Xiaohongshu carousels & WeChat 21:9+1:1 cover pairs. Editorial × Swiss visual systems, 28 layouts, 10 themes, single-file HTM",
-          "url": "https://github.com/op7418/guizang-social-card-skill",
-          "source": "github"
-        },
-        {
-          "title": "op7418/guizang-social-card-skill — 🪧 Claude Code / Codex skill — generate Xiaohongshu carousels & WeChat 21:9+1:1 cover pairs. Editorial × Swiss visual systems, 28 layouts, 10 themes, single-file HTM",
-          "url": "https://github.com/op7418/guizang-social-card-skill",
-          "source": "github"
-        },
-        {
-          "title": "Claude Code is the best AI coding tool I've used, and I’m not entirely sure if I can recommend it",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMnJUQnpneEtHMEJFZzZ0V0djN24zOVQyM3hpT09WYm5sUXBRVEo0QkFCZG50Q3RMMUtuczFwYk9aMEYxSFpBMVkxNDhrRmpOTUNJWE9teEVsR3JDYW9YMktENFYxQlBjTC1lM2hfYTJ3WkI4c0tyMTh3X0UzSWUwVUFMRlQtSjhIcnRuTTVYUW9OeXFVbUtHYmt3?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Claude Code is the best AI coding tool I've used, and I’m not entirely sure if I can recommend it",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMnJUQnpneEtHMEJFZzZ0V0djN24zOVQyM3hpT09WYm5sUXBRVEo0QkFCZG50Q3RMMUtuczFwYk9aMEYxSFpBMVkxNDhrRmpOTUNJWE9teEVsR3JDYW9YMktENFYxQlBjTC1lM2hfYTJ3WkI4c0tyMTh3X0UzSWUwVUFMRlQtSjhIcnRuTTVYUW9OeXFVbUtHYmt3?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "a625159d18da",
-      "slug": "claude-code",
+      "id": "2f9557951ca1",
+      "slug": "buy-forecasts",
       "opportunity": {
-        "type": "tooling",
-        "recommended": "Build / list AI tools; monetize via affiliate links + lead magnet."
+        "type": "affiliate",
+        "recommended": "Write SEO comparison/roundup article with affiliate links."
       }
     },
     {
-      "keyword": "dear fedi",
-      "count": 8,
-      "score": 111.04242875747823,
-      "proper": true,
+      "keyword": "forecasts upbeat",
+      "count": 18,
+      "score": 105.66959829227707,
+      "proper": false,
       "niches": [
-        "ai"
+        "gear"
       ],
       "examples": [
         {
-          "title": "Dear Fedi friends,I hereby present you my new favorite website: https://isaiprofitable.com, which tracks the spending and revenue of all the major AI companies.Oh it is glorious - the perfect link to ",
-          "url": "https://mastodon.social/@_elena/116652356526060818",
-          "source": "mastodon"
+          "title": "Best Buy forecasts upbeat quarterly sales on steady gadgets demand; shares up",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPaXkzaVhKV3c1eUQ1c3ZyT18tQlBiRGJzcnI3MkxKQlJPVi1FeVFnQ0c5a29zZDdMZXpNYTJGTWdyUlo3ZS1IbVhhTlpESm5FN0MzN0VpaG9CS2NyemNZYmtYT1VEdnVLMjJkcDRWa0ZjM1AzRGlRY3BYOHVrWlZ3bVJEdWoyRm90dzRCV2ljZEtRYmdXeEMyd3c5dzFfNG51dXJ3UlN5RnJRU0V1WWNQdDlBZVJzRnd1bFdocDdn?oc=5",
+          "source": "gnews"
         },
         {
-          "title": "Dear Fedi friends,I hereby present you my new favorite website: https://isaiprofitable.com, which tracks the spending and revenue of all the major AI companies.Oh it is glorious - the perfect link to ",
-          "url": "https://mastodon.social/@_elena/116652356526060818",
-          "source": "mastodon"
+          "title": "Best Buy forecasts upbeat quarterly sales on steady gadgets demand; shares up",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPaXkzaVhKV3c1eUQ1c3ZyT18tQlBiRGJzcnI3MkxKQlJPVi1FeVFnQ0c5a29zZDdMZXpNYTJGTWdyUlo3ZS1IbVhhTlpESm5FN0MzN0VpaG9CS2NyemNZYmtYT1VEdnVLMjJkcDRWa0ZjM1AzRGlRY3BYOHVrWlZ3bVJEdWoyRm90dzRCV2ljZEtRYmdXeEMyd3c5dzFfNG51dXJ3UlN5RnJRU0V1WWNQdDlBZVJzRnd1bFdocDdn?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Best Buy forecasts upbeat sales on steady gadgets demand, ads and marketplace growth",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVnRiYmFuSlhEbzNQRE5OU2pTaGZmVU9Tb0swMWJiR3JjRE5Ld3Z6REpLM2FjMkdQMXo0Uk1JdnRhMk1VTFFqdEg3Rm9jQm5QT0RRQTBhR2FUWC1qZEM2aG1lUVYtMzNONFVvUzhUTnRlNGQ1eXhfc1VhT25tci11amxvUlE5NU5WVktrUndNd0JNbzlIbGNFVTlFRERwQkJFWENzQThwWDk4VU1URUhsUlhZNzFzcWp5U3MxNFJRREt1cURyWFhuTklvMA?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Best Buy forecasts upbeat sales on steady gadgets demand, ads and marketplace growth",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVnRiYmFuSlhEbzNQRE5OU2pTaGZmVU9Tb0swMWJiR3JjRE5Ld3Z6REpLM2FjMkdQMXo0Uk1JdnRhMk1VTFFqdEg3Rm9jQm5QT0RRQTBhR2FUWC1qZEM2aG1lUVYtMzNONFVvUzhUTnRlNGQ1eXhfc1VhT25tci11amxvUlE5NU5WVktrUndNd0JNbzlIbGNFVTlFRERwQkJFWENzQThwWDk4VU1URUhsUlhZNzFzcWp5U3MxNFJRREt1cURyWFhuTklvMA?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Best Buy forecasts upbeat quarterly sales on steady gadgets demand; shares up By Reuters",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPaVVuTGFUa3BnZDFKeEV4UU5jTmlqeHFzc05CSF9USGZXc0Y2NHFqZExVNjZlUDFrRnQwMnh4TWpUTHFFOHNwTGMyMi1HVG1LOFFsam1iNmtXVWFyZVlFc2RXek5Fb0hMbGl2MU1oZWs2Q3FWQXJTaWVNNG83akNwUW15N01CZkdZSGlJM0VQUDQzck9KQUhFamlxT18xYXlJM1BWd1hvakVyYXFjRmJDVHV6UDJndnpZbzFpOHoxWUpMaEtwSGlUekI2Yi1yWGtzREZOZGZTOA?oc=5",
+          "source": "gnews"
         }
       ],
-      "id": "657aec826a89",
-      "slug": "dear-fedi",
+      "id": "68a472032a50",
+      "slug": "forecasts-upbeat",
       "opportunity": {
         "type": "niche-content",
-        "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
+        "recommended": "Publish niche guide for \"gear\"; bundle into digital product later."
       }
     },
     {
-      "keyword": "business intelligence",
-      "count": 11,
-      "score": 98.77978565637038,
+      "keyword": "kitchen gadgets",
+      "count": 17,
+      "score": 105.5341244483126,
       "proper": true,
       "niches": [
-        "ai"
+        "gear"
       ],
       "examples": [
         {
-          "title": "Best AI Tools for Business Intelligence in 2026",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBqWDgyZ1EzRDIxNkpBSFpZOEIxdXk1QXByak5lRmFLQWY5bjMxaVE3dlFrSXYtRXlDX0ljWHFwTHZYN0I3MEtyOUlLcGpXbDlLYlE1WUxXTk0tMk5DbU02WHBaNVVjNDdpQ2NtNzZtYS1DSzg?oc=5",
+          "title": "I’ve Tested Dozens of Clever Kitchen Gadgets in 2026 — These Are the Only Ones That Stand Out",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYjN3YXF5MGV2R19DTkxmejBVdGdrelUxM01LSzJaNFF0TFNoN1NnMzdxSWplUjI1RkVnR1NDLXNXTDMyQnZuQmtWeG04a3BlQzU2UWEycFVzT1FsOUcxYVl1WjhvSzdUd2dSajBPMHRRZTZSVlBSS0xKbWVjYUxXelg3b0dZV1o1RXVQamtxX28zU3Rh?oc=5",
           "source": "gnews"
         },
         {
-          "title": "Best AI Tools for Business Intelligence in 2026",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBqWDgyZ1EzRDIxNkpBSFpZOEIxdXk1QXByak5lRmFLQWY5bjMxaVE3dlFrSXYtRXlDX0ljWHFwTHZYN0I3MEtyOUlLcGpXbDlLYlE1WUxXTk0tMk5DbU02WHBaNVVjNDdpQ2NtNzZtYS1DSzg?oc=5",
+          "title": "I’ve Tested Dozens of Clever Kitchen Gadgets in 2026 — These Are the Only Ones That Stand Out",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYjN3YXF5MGV2R19DTkxmejBVdGdrelUxM01LSzJaNFF0TFNoN1NnMzdxSWplUjI1RkVnR1NDLXNXTDMyQnZuQmtWeG04a3BlQzU2UWEycFVzT1FsOUcxYVl1WjhvSzdUd2dSajBPMHRRZTZSVlBSS0xKbWVjYUxXelg3b0dZV1o1RXVQamtxX28zU3Rh?oc=5",
           "source": "gnews"
         },
         {
-          "title": "Best AI Tools for Business Intelligence in 2026",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBqWDgyZ1EzRDIxNkpBSFpZOEIxdXk1QXByak5lRmFLQWY5bjMxaVE3dlFrSXYtRXlDX0ljWHFwTHZYN0I3MEtyOUlLcGpXbDlLYlE1WUxXTk0tMk5DbU02WHBaNVVjNDdpQ2NtNzZtYS1DSzg?oc=5",
+          "title": "I’ve Tested Dozens of Clever Kitchen Gadgets in 2026 — These Are the Only Ones That Stand Out",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYjN3YXF5MGV2R19DTkxmejBVdGdrelUxM01LSzJaNFF0TFNoN1NnMzdxSWplUjI1RkVnR1NDLXNXTDMyQnZuQmtWeG04a3BlQzU2UWEycFVzT1FsOUcxYVl1WjhvSzdUd2dSajBPMHRRZTZSVlBSS0xKbWVjYUxXelg3b0dZV1o1RXVQamtxX28zU3Rh?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "It’s My Job to Test Kitchen Gadgets, and These Are My 13 Favorite Finds of 2026 So Far",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1MZkotUkM5UXM5MGU1c3ctSGV4Rmhncm10dC1kRmJZaW1HeFhRYjU5Y2pPa0NqTEVtS2l5YWJ4WUs0dVdqc29HTnJILXZndXVYM3ptamMtWXdtQ3hsUW5kNVVHQjNYS2RVU1d5TE42OTVnN2l4M2J6OWNB?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "It’s My Job to Test Kitchen Gadgets, and These Are My 13 Favorite Finds of 2026 So Far",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1MZkotUkM5UXM5MGU1c3ctSGV4Rmhncm10dC1kRmJZaW1HeFhRYjU5Y2pPa0NqTEVtS2l5YWJ4WUs0dVdqc29HTnJILXZndXVYM3ptamMtWXdtQ3hsUW5kNVVHQjNYS2RVU1d5TE42OTVnN2l4M2J6OWNB?oc=5",
           "source": "gnews"
         }
       ],
-      "id": "3fbe0f5eddbf",
-      "slug": "business-intelligence",
+      "id": "4e4a1c4cb31e",
+      "slug": "kitchen-gadgets",
       "opportunity": {
-        "type": "niche-content",
-        "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
+        "type": "affiliate",
+        "recommended": "Write SEO comparison/roundup article with affiliate links."
       }
     },
     {
       "keyword": "bot polymarket",
       "count": 15,
-      "score": 96.35021284364117,
+      "score": 97.33393843408565,
       "proper": false,
       "niches": [
         "ai"
@@ -949,151 +1084,45 @@
       }
     },
     {
-      "keyword": "claude",
-      "count": 12,
-      "score": 84.50113108086785,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "Harkirat1462/claude-code-cli — claude code cli install codex github anthropic agentic coding system terminal assistant codebase git workflows multi file editing mcp protocol model context protocol sub",
-          "url": "https://github.com/Harkirat1462/claude-code-cli",
-          "source": "github"
-        },
-        {
-          "title": "zhristophe/Claude-Mythos-AI-Anthropic-App — claude mythos ai anthropic app github open source desktop mobile client abhishekk130804 anthropic api key creative writing roleplay character cards deep rea",
-          "url": "https://github.com/zhristophe/Claude-Mythos-AI-Anthropic-App",
-          "source": "github"
-        },
-        {
-          "title": "zhristophe/Claude-Mythos-AI-Anthropic-App — claude mythos ai anthropic app github open source desktop mobile client abhishekk130804 anthropic api key creative writing roleplay character cards deep rea",
-          "url": "https://github.com/zhristophe/Claude-Mythos-AI-Anthropic-App",
-          "source": "github"
-        },
-        {
-          "title": "op7418/guizang-social-card-skill — 🪧 Claude Code / Codex skill — generate Xiaohongshu carousels & WeChat 21:9+1:1 cover pairs. Editorial × Swiss visual systems, 28 layouts, 10 themes, single-file HTM",
-          "url": "https://github.com/op7418/guizang-social-card-skill",
-          "source": "github"
-        },
-        {
-          "title": "Claude Code is the best AI coding tool I've used, and I’m not entirely sure if I can recommend it",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMnJUQnpneEtHMEJFZzZ0V0djN24zOVQyM3hpT09WYm5sUXBRVEo0QkFCZG50Q3RMMUtuczFwYk9aMEYxSFpBMVkxNDhrRmpOTUNJWE9teEVsR3JDYW9YMktENFYxQlBjTC1lM2hfYTJ3WkI4c0tyMTh3X0UzSWUwVUFMRlQtSjhIcnRuTTVYUW9OeXFVbUtHYmt3?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "c857d09db23e",
-      "slug": "claude",
-      "opportunity": {
-        "type": "tooling",
-        "recommended": "Build / list AI tools; monetize via affiliate links + lead magnet."
-      }
-    },
-    {
-      "keyword": "trading bot",
-      "count": 12,
-      "score": 77.08017027491294,
+      "keyword": "sales steady",
+      "count": 15,
+      "score": 88.05799857689756,
       "proper": false,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "ShadowSpread/polymarket-auto-trading — polymarket trading bot, polymarket auto trading bot, polymarket profitable bot, polymarket, trading bot, polymarket trading bot, polymarket arbitrage bot, polyma",
-          "url": "https://github.com/ShadowSpread/polymarket-auto-trading",
-          "source": "github"
-        },
-        {
-          "title": "ShadowSpread/polymarket-auto-trading — polymarket trading bot, polymarket auto trading bot, polymarket profitable bot, polymarket, trading bot, polymarket trading bot, polymarket arbitrage bot, polyma",
-          "url": "https://github.com/ShadowSpread/polymarket-auto-trading",
-          "source": "github"
-        },
-        {
-          "title": "ShadowSpread/polymarket-auto-trading — polymarket trading bot, polymarket auto trading bot, polymarket profitable bot, polymarket, trading bot, polymarket trading bot, polymarket arbitrage bot, polyma",
-          "url": "https://github.com/ShadowSpread/polymarket-auto-trading",
-          "source": "github"
-        },
-        {
-          "title": "ShadowSpread/polymarket-auto-trading — polymarket trading bot, polymarket auto trading bot, polymarket profitable bot, polymarket, trading bot, polymarket trading bot, polymarket arbitrage bot, polyma",
-          "url": "https://github.com/ShadowSpread/polymarket-auto-trading",
-          "source": "github"
-        }
-      ],
-      "id": "31a0ef9ff729",
-      "slug": "trading-bot",
-      "opportunity": {
-        "type": "niche-content",
-        "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
-      }
-    },
-    {
-      "keyword": "jailbroken kindle",
-      "count": 8,
-      "score": 74.13656875257607,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "Rust (and Slint) on a Jailbroken Kindle",
-          "url": "https://sverre.me/blog/rust-on-kindle/",
-          "source": "hackernews"
-        },
-        {
-          "title": "Rust (and Slint) on a Jailbroken Kindle",
-          "url": "https://sverre.me/blog/rust-on-kindle/",
-          "source": "hackernews"
-        }
-      ],
-      "id": "fcbb4fb8232c",
-      "slug": "jailbroken-kindle",
-      "opportunity": {
-        "type": "tooling",
-        "recommended": "Build / list AI tools; monetize via affiliate links + lead magnet."
-      }
-    },
-    {
-      "keyword": "kitchen gadgets",
-      "count": 17,
-      "score": 62.45344206761503,
-      "proper": true,
       "niches": [
         "gear"
       ],
       "examples": [
         {
-          "title": "I’ve Tested Dozens of Clever Kitchen Gadgets in 2026 — These Are the Only Ones That Stand Out",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYjN3YXF5MGV2R19DTkxmejBVdGdrelUxM01LSzJaNFF0TFNoN1NnMzdxSWplUjI1RkVnR1NDLXNXTDMyQnZuQmtWeG04a3BlQzU2UWEycFVzT1FsOUcxYVl1WjhvSzdUd2dSajBPMHRRZTZSVlBSS0xKbWVjYUxXelg3b0dZV1o1RXVQamtxX28zU3Rh?oc=5",
+          "title": "Best Buy forecasts upbeat quarterly sales on steady gadgets demand; shares up",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPaXkzaVhKV3c1eUQ1c3ZyT18tQlBiRGJzcnI3MkxKQlJPVi1FeVFnQ0c5a29zZDdMZXpNYTJGTWdyUlo3ZS1IbVhhTlpESm5FN0MzN0VpaG9CS2NyemNZYmtYT1VEdnVLMjJkcDRWa0ZjM1AzRGlRY3BYOHVrWlZ3bVJEdWoyRm90dzRCV2ljZEtRYmdXeEMyd3c5dzFfNG51dXJ3UlN5RnJRU0V1WWNQdDlBZVJzRnd1bFdocDdn?oc=5",
           "source": "gnews"
         },
         {
-          "title": "I’ve Tested Dozens of Clever Kitchen Gadgets in 2026 — These Are the Only Ones That Stand Out",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYjN3YXF5MGV2R19DTkxmejBVdGdrelUxM01LSzJaNFF0TFNoN1NnMzdxSWplUjI1RkVnR1NDLXNXTDMyQnZuQmtWeG04a3BlQzU2UWEycFVzT1FsOUcxYVl1WjhvSzdUd2dSajBPMHRRZTZSVlBSS0xKbWVjYUxXelg3b0dZV1o1RXVQamtxX28zU3Rh?oc=5",
+          "title": "Best Buy forecasts upbeat quarterly sales on steady gadgets demand; shares up",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPaXkzaVhKV3c1eUQ1c3ZyT18tQlBiRGJzcnI3MkxKQlJPVi1FeVFnQ0c5a29zZDdMZXpNYTJGTWdyUlo3ZS1IbVhhTlpESm5FN0MzN0VpaG9CS2NyemNZYmtYT1VEdnVLMjJkcDRWa0ZjM1AzRGlRY3BYOHVrWlZ3bVJEdWoyRm90dzRCV2ljZEtRYmdXeEMyd3c5dzFfNG51dXJ3UlN5RnJRU0V1WWNQdDlBZVJzRnd1bFdocDdn?oc=5",
           "source": "gnews"
         },
         {
-          "title": "I’ve Tested Dozens of Clever Kitchen Gadgets in 2026 — These Are the Only Ones That Stand Out",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYjN3YXF5MGV2R19DTkxmejBVdGdrelUxM01LSzJaNFF0TFNoN1NnMzdxSWplUjI1RkVnR1NDLXNXTDMyQnZuQmtWeG04a3BlQzU2UWEycFVzT1FsOUcxYVl1WjhvSzdUd2dSajBPMHRRZTZSVlBSS0xKbWVjYUxXelg3b0dZV1o1RXVQamtxX28zU3Rh?oc=5",
+          "title": "Best Buy forecasts upbeat sales on steady gadgets demand, ads and marketplace growth",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVnRiYmFuSlhEbzNQRE5OU2pTaGZmVU9Tb0swMWJiR3JjRE5Ld3Z6REpLM2FjMkdQMXo0Uk1JdnRhMk1VTFFqdEg3Rm9jQm5QT0RRQTBhR2FUWC1qZEM2aG1lUVYtMzNONFVvUzhUTnRlNGQ1eXhfc1VhT25tci11amxvUlE5NU5WVktrUndNd0JNbzlIbGNFVTlFRERwQkJFWENzQThwWDk4VU1URUhsUlhZNzFzcWp5U3MxNFJRREt1cURyWFhuTklvMA?oc=5",
           "source": "gnews"
         },
         {
-          "title": "It’s My Job to Test Kitchen Gadgets, and These Are My 13 Favorite Finds of 2026 So Far",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1MZkotUkM5UXM5MGU1c3ctSGV4Rmhncm10dC1kRmJZaW1HeFhRYjU5Y2pPa0NqTEVtS2l5YWJ4WUs0dVdqc29HTnJILXZndXVYM3ptamMtWXdtQ3hsUW5kNVVHQjNYS2RVU1d5TE42OTVnN2l4M2J6OWNB?oc=5",
+          "title": "Best Buy forecasts upbeat sales on steady gadgets demand, ads and marketplace growth",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVnRiYmFuSlhEbzNQRE5OU2pTaGZmVU9Tb0swMWJiR3JjRE5Ld3Z6REpLM2FjMkdQMXo0Uk1JdnRhMk1VTFFqdEg3Rm9jQm5QT0RRQTBhR2FUWC1qZEM2aG1lUVYtMzNONFVvUzhUTnRlNGQ1eXhfc1VhT25tci11amxvUlE5NU5WVktrUndNd0JNbzlIbGNFVTlFRERwQkJFWENzQThwWDk4VU1URUhsUlhZNzFzcWp5U3MxNFJRREt1cURyWFhuTklvMA?oc=5",
           "source": "gnews"
         },
         {
-          "title": "It’s My Job to Test Kitchen Gadgets, and These Are My 13 Favorite Finds of 2026 So Far",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1MZkotUkM5UXM5MGU1c3ctSGV4Rmhncm10dC1kRmJZaW1HeFhRYjU5Y2pPa0NqTEVtS2l5YWJ4WUs0dVdqc29HTnJILXZndXVYM3ptamMtWXdtQ3hsUW5kNVVHQjNYS2RVU1d5TE42OTVnN2l4M2J6OWNB?oc=5",
+          "title": "Best Buy forecasts upbeat quarterly sales on steady gadgets demand; shares up By Reuters",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPaVVuTGFUa3BnZDFKeEV4UU5jTmlqeHFzc05CSF9USGZXc0Y2NHFqZExVNjZlUDFrRnQwMnh4TWpUTHFFOHNwTGMyMi1HVG1LOFFsam1iNmtXVWFyZVlFc2RXek5Fb0hMbGl2MU1oZWs2Q3FWQXJTaWVNNG83akNwUW15N01CZkdZSGlJM0VQUDQzck9KQUhFamlxT18xYXlJM1BWd1hvakVyYXFjRmJDVHV6UDJndnpZbzFpOHoxWUpMaEtwSGlUekI2Yi1yWGtzREZOZGZTOA?oc=5",
           "source": "gnews"
         }
       ],
-      "id": "4e4a1c4cb31e",
-      "slug": "kitchen-gadgets",
+      "id": "b8cc8f69e0dc",
+      "slug": "sales-steady",
       "opportunity": {
-        "type": "affiliate",
-        "recommended": "Write SEO comparison/roundup article with affiliate links."
+        "type": "niche-content",
+        "recommended": "Publish niche guide for \"gear\"; bundle into digital product later."
       }
     }
   ]

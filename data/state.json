@@ -1,31 +1,31 @@
 {
-  "runs": 18,
-  "lastRun": "2026-05-28T15:18:01.398Z",
+  "runs": 19,
+  "lastRun": "2026-05-28T15:28:40.711Z",
   "streams": {
     "trend-signals": {
-      "lastRunAt": "2026-05-28T13:29:55.659Z",
+      "lastRunAt": "2026-05-28T15:28:45.141Z",
       "lastResult": "25 items / 20 topics / 8 opps",
-      "totalRuns": 16
+      "totalRuns": 17
     },
     "affiliate-content": {
-      "lastRunAt": "2026-05-28T13:16:59.503Z",
+      "lastRunAt": "2026-05-28T15:28:49.954Z",
       "lastResult": "3 articles",
-      "totalRuns": 16
+      "totalRuns": 17
     },
     "digital-products": {
-      "lastRunAt": "2026-05-28T13:17:00.022Z",
-      "lastResult": "no opps",
-      "totalRuns": 15
+      "lastRunAt": "2026-05-28T15:28:50.823Z",
+      "lastResult": "0 products",
+      "totalRuns": 16
     },
     "viral-factory": {
-      "lastRunAt": "2026-05-28T13:17:00.154Z",
-      "lastResult": "0 content packs",
-      "totalRuns": 15
+      "lastRunAt": "2026-05-28T15:28:51.544Z",
+      "lastResult": "2 content packs",
+      "totalRuns": 16
     },
     "x-publisher": {
-      "lastRunAt": "2026-05-28T15:18:03.771Z",
+      "lastRunAt": "2026-05-28T15:28:51.544Z",
       "lastResult": "x creds not set (no-op)",
-      "totalRuns": 1
+      "totalRuns": 2
     }
   },
   "totals": {

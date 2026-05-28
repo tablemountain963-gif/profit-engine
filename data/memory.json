@@ -130,9 +130,9 @@
     },
     "dear-fedi": {
       "firstSeen": "2026-05-28T14:27:02.310Z",
-      "lastSeen": "2026-05-28T14:27:02.310Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-05-28T15:28:42.777Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -159,12 +159,52 @@
       "wins": 0,
       "losses": 0,
       "niche": "gear"
+    },
+    "buy-forecasts": {
+      "firstSeen": "2026-05-28T15:28:49.011Z",
+      "lastSeen": "2026-05-28T15:28:49.011Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "gear"
+    },
+    "forecasts-upbeat": {
+      "firstSeen": "2026-05-28T15:28:49.502Z",
+      "lastSeen": "2026-05-28T15:28:49.502Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "gear"
+    },
+    "sales-steady": {
+      "firstSeen": "2026-05-28T15:28:49.954Z",
+      "lastSeen": "2026-05-28T15:28:49.954Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "gear"
+    },
+    "steady-gadgets": {
+      "firstSeen": "2026-05-28T15:28:51.497Z",
+      "lastSeen": "2026-05-28T15:28:51.497Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "gear"
+    },
+    "success-won": {
+      "firstSeen": "2026-05-28T15:28:51.544Z",
+      "lastSeen": "2026-05-28T15:28:51.544Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
     }
   },
   "niches": {
     "ai": {
-      "count": 52,
-      "wins": 15,
+      "count": 54,
+      "wins": 16,
       "losses": 0
     },
     "finance": {
@@ -178,7 +218,7 @@
       "losses": 0
     },
     "gear": {
-      "count": 3,
+      "count": 7,
       "wins": 1,
       "losses": 0
     }
