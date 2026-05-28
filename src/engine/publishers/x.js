@@ -74,6 +74,29 @@ export async function postThread(tweets, opts = {}) {
   return ids;
 }
 
+// Delete a tweet by id (DELETE /2/tweets/:id).
+export async function deleteTweet(id) {
+  if (!hasXCreds()) throw new Error('X creds not set');
+  const url = `${TWEET_URL}/${id}`;
+  const r = await fetch(url, {
+    method: 'DELETE',
+    headers: { 'Authorization': authHeader('DELETE', url) },
+  });
+  const data = await r.json().catch(() => ({}));
+  if (!r.ok) throw new Error(`X delete ${r.status}: ${JSON.stringify(data)}`);
+  return data;
+}
+
+// Delete a whole thread (reverse order — leaves no orphan replies).
+export async function deleteThread(ids) {
+  const out = [];
+  for (const id of [...ids].reverse()) {
+    try { await deleteTweet(id); out.push(id); await sleep(800); }
+    catch (e) { logger.warn(`x delete ${id} fail: ${e.message}`); }
+  }
+  return out;
+}
+
 // X hard limit 280 chars. Trim safely on word boundary.
 function clampTweet(text) {
   const t = String(text).trim();

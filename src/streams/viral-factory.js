@@ -17,7 +17,10 @@ export async function runViralFactory(opts = {}) {
   logger.info(`viral factory: targeting ${target} content units`);
 
   const items = await pullAll({ timeframe: 'day' });
-  const opps = filterFresh(selectOpportunities(items, target * 4), { days: 5 });
+  // Prefer commercial/niche/named topics for social — skip thin bigrams like "success won".
+  const ranked = filterFresh(selectOpportunities(items, target * 6), { days: 5 });
+  const strong = ranked.filter(o => o.proper || (o.niches || []).some(n => n !== 'general') || (o.opportunity?.type && o.opportunity.type !== 'editorial'));
+  const opps = (strong.length >= target ? strong : ranked);
 
   const generated = [];
   const seen = new Set((readJson(join(paths.data, 'social.json'), { items: [] }).items || []).map(s => s.slug));
@@ -46,28 +49,50 @@ export async function runViralFactory(opts = {}) {
 }
 
 async function generateContentPack(topic, opp) {
-  const sys = `You produce viral short-form content packs. For each topic you generate 4 formats: a 7-tweet X/Twitter thread, a LinkedIn post (180-240 words), a TikTok/Reels hook (3 hook variants), and a Reddit comment-bait headline. Style: concrete, hook-forward, no hype, no emoji unless format demands.`;
+  const niche = opp.niches?.[0] || 'tech';
+  const examples = (opp.examples || []).slice(0, 3).map(e => `- ${e.title}`).join('\n');
+
+  // Engagement-optimized per 2026 X algorithm research:
+  // - hook line 1 stops the scroll (number / contrarian claim), NO link, NO "🧵 here's why"
+  // - 5-8 self-contained body posts, concrete specifics (not platitudes)
+  // - final post is a QUESTION (replies weigh ~150x likes) + 1-2 hashtags max
+  // - sophisticated audience rejects generic AI: be specific, opinionated, real
+  const sys = `You are a sharp ${niche} operator who writes X threads that actually get replies. Voice: direct, specific, lightly contrarian, zero corporate fluff, zero hype words ("game-changer", "unlock", "leverage", "dive in"), no emoji except at most one. You NEVER write generic filler like "matters more than people think" or "here's why 🧵". Every line earns the next.`;
+
   const user = `Topic: ${topic}
+Niche: ${niche}
+Recent real signals on this:
+${examples || '- (none)'}
 
-Context — recent signals:
-${(opp.examples || []).slice(0, 3).map(e => `- ${e.title}`).join('\n')}
+Write an X thread + repurposes. Rules:
+- Thread = 6 to 8 tweets, each under 270 chars, each self-contained.
+- Tweet 1 = a scroll-stopping HOOK: lead with a specific number, a concrete claim, or a contrarian observation about ${topic}. No link. No "thread/🧵" label. No throat-clearing.
+- Tweets 2..n-1 = concrete, specific substance — real tactics, numbers, named tools/approaches, a mistake to avoid. Not vague advice.
+- Final tweet = a genuine QUESTION that invites a reply (ask the reader's experience/opinion) + 1-2 relevant lowercase hashtags.
+- Do NOT put any URL in the thread.
 
-Output as JSON with keys: twitter_thread (array of 7 strings), linkedin (string), tiktok_hooks (array of 3 strings), reddit_headline (string). No commentary outside JSON. Output valid JSON only.`;
+Output ONLY valid JSON, keys:
+  "twitter_thread": [strings],
+  "linkedin": "180-240 word post, same substance, ends with a question",
+  "tiktok_hooks": [3 punchy spoken hooks],
+  "reddit_headline": "title that invites debate"`;
 
   const { text, provider } = await complete(
     [{ role: 'system', content: sys }, { role: 'user', content: user }],
-    { maxTokens: 1800, temperature: 0.8 }
+    { maxTokens: 2000, temperature: 0.9, kind: 'social', topicHint: topic }
   );
 
-  // Parse JSON. If model wrapped it, extract.
-  const parsed = tryParseJson(text) || templatePack(topic);
+  const parsed = tryParseJson(text);
+  const pack = (parsed && Array.isArray(parsed.twitter_thread) && parsed.twitter_thread.length >= 4)
+    ? parsed
+    : templatePack(topic, niche);
 
   return {
     topic,
     provider,
     generatedAt: nowIso(),
-    pack: parsed,
-    niche: opp.niches?.[0] || 'general',
+    pack,
+    niche,
   };
 }
 
@@ -83,25 +108,25 @@ function tryParseJson(text) {
   }
 }
 
-function templatePack(topic) {
+function templatePack(topic, niche = 'tech') {
+  const tag = (niche || 'tech').replace(/[^a-z0-9]/gi, '').toLowerCase();
   return {
     twitter_thread: [
-      `${topic} matters more than people think. Here's why → 🧵`,
-      `1/ The default approach to ${topic} wastes time and money.`,
-      `2/ The cause: most resources oversimplify or assume too much.`,
-      `3/ The fix is three moves: survey, default, iterate.`,
-      `4/ Survey: find the 3 leading options, ignore long-tail.`,
-      `5/ Default: pick one that covers 80% of cases.`,
-      `6/ Iterate: time-box a trial, measure honestly.`,
-      `7/ That's it. Save this thread for later.`,
+      `Most people evaluating ${topic} burn a week before making a single decision. The fix takes an afternoon.`,
+      `The trap: treating ${topic} like a research project. You don't need the perfect answer — you need a working default you can correct later.`,
+      `Step 1: list only the 3 most-mentioned options. Ignore the long tail. If it's not in the top 3 conversations, it's noise right now.`,
+      `Step 2: pick the one that covers ~80% of your cases. Write down WHY in one sentence. That sentence is your rollback plan if it fails.`,
+      `Step 3: time-box a 14-day trial. Track one number that tells you if it's working. No number = no decision, just vibes.`,
+      `The mistake almost everyone makes: optimizing before measuring. You can't tune what you haven't instrumented.`,
+      `What's your current default for ${topic} — and what made you pick it? #${tag} #buildinpublic`,
     ],
-    linkedin: `${topic} is one of those topics where most takes are either too generic or too in-the-weeds.\n\nHere is a framework that has worked in practice: start with a survey, pick a default, iterate on a trial window. The point is to make the first decision quickly, then learn from doing.\n\nIf you are evaluating ${topic} right now and feeling stuck, the cheapest mistake is overthinking. Pick the option that covers the most cases, set a date when you will review it, and start.\n\nWhat is your current default?`,
+    linkedin: `Everyone overcomplicates ${topic}.\n\nThe people who move fastest don't find the perfect option — they pick a sane default, write down why, and set a date to review it.\n\nThree moves: (1) shortlist the top 3 options, ignore the rest; (2) pick the one covering ~80% of cases; (3) time-box a 14-day trial against ONE metric.\n\nThe expensive mistake is optimizing before you measure. Instrument first, tune second.\n\nWhat's your current default for ${topic}, and what made you choose it?`,
     tiktok_hooks: [
-      `Stop overthinking ${topic} — here's the 3-move framework`,
-      `${topic} mistake everyone makes (and how to skip it)`,
-      `${topic} in 60 seconds: what actually matters`,
+      `You're overthinking ${topic}. Here's the afternoon version.`,
+      `The ${topic} mistake that costs you a week — and the 3-step skip.`,
+      `Stop researching ${topic}. Start a 14-day trial instead.`,
     ],
-    reddit_headline: `I spent 6 months testing ${topic} so you don't have to. Here's what actually worked.`,
+    reddit_headline: `Unpopular take: most ${topic} advice is overthinking. Pick a default, measure one number, move on. Change my mind.`,
   };
 }
 
