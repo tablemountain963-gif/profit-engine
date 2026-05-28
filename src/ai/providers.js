@@ -47,8 +47,12 @@ async function callOpenAICompat(provider, messages, opts = {}) {
     temperature: opts.temperature ?? 0.7,
     max_tokens: opts.maxTokens || 1500,
   };
-  // Retry on 429 (rate/TPM limit) and 5xx with backoff — free tiers burst-limit.
-  const maxAttempts = 4;
+  // Retry on transient 429/5xx with SHORT backoff. A long retry-after means the
+  // provider's daily/window quota is exhausted — fail fast to fallback instead of
+  // hanging the job (Groq free tier returns retry-after of hundreds of seconds).
+  const maxAttempts = 3;
+  const MAX_WAIT_MS = 15000;       // never block longer than this per attempt
+  const GIVE_UP_AFTER_S = 20;      // retry-after beyond this = quota exhausted, bail
   let lastErr = '';
   for (let attempt = 1; attempt <= maxAttempts; attempt++) {
     const r = await fetch(p.url, {
@@ -60,15 +64,19 @@ async function callOpenAICompat(provider, messages, opts = {}) {
       const data = await r.json();
       return data.choices?.[0]?.message?.content || '';
     }
-    lastErr = `${provider} ${r.status}: ${await r.text()}`;
-    if ((r.status === 429 || r.status >= 500) && attempt < maxAttempts) {
-      const retryAfter = parseFloat(r.headers.get('retry-after') || '');
-      const wait = Number.isFinite(retryAfter) ? retryAfter * 1000 : Math.min(2000 * 2 ** (attempt - 1), 12000);
-      logger.dbg(`${provider} ${r.status} — retry ${attempt}/${maxAttempts} in ${Math.round(wait)}ms`);
-      await _sleep(wait);
-      continue;
+    lastErr = `${provider} ${r.status}: ${(await r.text()).slice(0, 300)}`;
+    const transient = r.status === 429 || r.status >= 500;
+    if (!transient || attempt === maxAttempts) break;
+    const retryAfter = parseFloat(r.headers.get('retry-after') || '');
+    if (Number.isFinite(retryAfter) && retryAfter > GIVE_UP_AFTER_S) {
+      logger.warn(`${provider} ${r.status} retry-after ${retryAfter}s — quota exhausted, using fallback`);
+      break;
     }
-    break;
+    const wait = Number.isFinite(retryAfter)
+      ? Math.min(retryAfter * 1000, MAX_WAIT_MS)
+      : Math.min(1500 * 2 ** (attempt - 1), MAX_WAIT_MS);
+    logger.dbg(`${provider} ${r.status} — retry ${attempt}/${maxAttempts} in ${Math.round(wait)}ms`);
+    await _sleep(wait);
   }
   throw new Error(lastErr);
 }
@@ -102,20 +110,25 @@ async function callAnthropic(messages, opts = {}) {
 // opts.topicHint — a clean human topic; used by the template fallback so it never
 // echoes raw prompt instructions. opts.kind — 'article'|'product'|'digest'|'social'.
 export async function complete(messages, opts = {}) {
-  const provider = opts.provider || pickProvider();
-  if (!provider) {
+  // Ordered list of providers that have a key. Try each on failure (one provider's
+  // daily quota exhaustion falls through to the next free provider).
+  const order = opts.provider ? [opts.provider] : Object.keys(PROVIDERS).filter(n => process.env[PROVIDERS[n].keyEnv]);
+  if (order.length === 0) {
     logger.dbg('AI: no provider key, using template fallback');
     return { provider: 'template', text: templateFallback(messages, opts) };
   }
-  try {
-    const text = provider === 'anthropic'
-      ? await callAnthropic(messages, opts)
-      : await callOpenAICompat(provider, messages, opts);
-    return { provider, text };
-  } catch (e) {
-    logger.warn(`AI provider ${provider} failed: ${e.message}`);
-    return { provider: 'template', text: templateFallback(messages, opts) };
+  for (const provider of order) {
+    try {
+      const text = provider === 'anthropic'
+        ? await callAnthropic(messages, opts)
+        : await callOpenAICompat(provider, messages, opts);
+      if (text && text.trim()) return { provider, text };
+    } catch (e) {
+      logger.warn(`AI provider ${provider} failed: ${e.message}`);
+      // try next provider
+    }
   }
+  return { provider: 'template', text: templateFallback(messages, opts) };
 }
 
 // Template fallback: lets engine run without any AI key.
