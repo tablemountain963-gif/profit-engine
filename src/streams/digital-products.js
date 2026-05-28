@@ -46,17 +46,22 @@ export async function runDigitalProducts(opts = {}) {
   const count = opts.count || 3;
   logger.info(`product factory: targeting ${count} product(s)`);
 
-  // Find a productizable opportunity
+  // Find a productizable opportunity from trends...
   const items = await pullAll({ timeframe: 'week' });
-  const opps = selectOpportunities(items, 10);
+  const opps = selectOpportunities(items, 12);
 
-  const productizable = filterFresh(opps.filter(o => {
+  let productizable = filterFresh(opps.filter(o => {
     const niche = o.niches?.[0];
-    return ['software', 'ai', 'productivity', 'finance', 'health'].includes(niche);
+    return ['software', 'ai', 'productivity', 'finance', 'health', 'gear'].includes(niche);
   }), { days: 14 });
 
+  // ...and ALWAYS top up from an evergreen bank so the factory never starves.
+  // Digital products sell on evergreen demand, not trend-freshness.
+  if (productizable.length < count) {
+    productizable = productizable.concat(filterFresh(evergreenOpps(), { days: 30 }));
+  }
   if (productizable.length === 0) {
-    logger.warn('no productizable opportunities found this cycle');
+    logger.warn('no productizable opportunities (even evergreen exhausted this window)');
     return { summary: 'no opps', generated: [], ok: true };
   }
 
@@ -88,6 +93,36 @@ export async function runDigitalProducts(opts = {}) {
 function humanize(kw) {
   return kw.replace(/[_-]/g, ' ').split(' ').filter(Boolean)
     .map(w => w[0].toUpperCase() + w.slice(1)).join(' ');
+}
+
+// Evergreen high-demand digital-product topics — proven buyer intent, sell year-round.
+// Shuffled each call so the factory keeps producing variety even on dry trend days.
+const EVERGREEN = [
+  ['chatgpt prompts for marketing', 'ai'],
+  ['ai prompts for resume and job search', 'ai'],
+  ['cold email templates that book meetings', 'finance'],
+  ['notion templates for founders', 'productivity'],
+  ['chatgpt prompts for small business owners', 'ai'],
+  ['content calendar and caption templates', 'productivity'],
+  ['ai prompts for teachers and educators', 'ai'],
+  ['freelance proposal and contract templates', 'finance'],
+  ['midjourney prompt pack for brand visuals', 'ai'],
+  ['personal finance and budgeting toolkit', 'finance'],
+  ['sales email sequences that convert', 'finance'],
+  ['developer productivity prompt pack', 'software'],
+  ['ai prompts for real estate agents', 'finance'],
+  ['fitness and meal-plan template pack', 'health'],
+  ['customer support reply templates', 'productivity'],
+  ['ai prompts for ecommerce and product listings', 'ai'],
+];
+
+function evergreenOpps() {
+  return [...EVERGREEN].sort(() => Math.random() - 0.5).map(([keyword, niche]) => ({
+    keyword,
+    niches: [niche],
+    examples: [],
+    opportunity: { type: 'niche-content', recommended: '' },
+  }));
 }
 
 function pickProductType(opp) {

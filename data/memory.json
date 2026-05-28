@@ -274,25 +274,25 @@
     },
     "saas-teams": {
       "firstSeen": "2026-05-28T20:12:57.381Z",
-      "lastSeen": "2026-05-28T20:12:57.381Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-05-28T20:14:48.815Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
     "red-teaming": {
       "firstSeen": "2026-05-28T20:13:00.481Z",
-      "lastSeen": "2026-05-28T20:13:00.481Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-05-28T20:14:48.815Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
     "gamestop": {
       "firstSeen": "2026-05-28T20:13:03.935Z",
-      "lastSeen": "2026-05-28T20:13:03.935Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-05-28T20:14:48.816Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -315,8 +315,8 @@
   },
   "niches": {
     "ai": {
-      "count": 70,
-      "wins": 18,
+      "count": 73,
+      "wins": 21,
       "losses": 0
     },
     "finance": {
