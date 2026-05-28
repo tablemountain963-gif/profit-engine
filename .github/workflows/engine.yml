@@ -60,8 +60,10 @@ jobs:
         run: |
           git config user.name "profit-engine[bot]"
           git config user.email "engine@profit.local"
-          git add -A
+          # Stage only source artifacts — public/ is built fresh each run and served via Pages artifact.
+          git add data/ output/
           git diff --cached --quiet || git commit -m "engine: autonomous run $(date -u +%Y-%m-%dT%H:%MZ)"
+          git pull --rebase origin main 2>/dev/null || true
           git push || echo "no changes to push"
 
       - name: Setup Pages
