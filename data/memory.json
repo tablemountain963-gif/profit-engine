@@ -234,25 +234,25 @@
     },
     "business-intelligence": {
       "firstSeen": "2026-05-28T03:19:09.551Z",
-      "lastSeen": "2026-05-28T03:19:09.551Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-05-28T03:34:22.067Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
     "anthropic": {
       "firstSeen": "2026-05-28T03:19:13.041Z",
-      "lastSeen": "2026-05-28T03:19:13.041Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-05-28T03:34:22.067Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
     "open": {
       "firstSeen": "2026-05-28T03:19:16.202Z",
-      "lastSeen": "2026-05-28T03:19:16.202Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-05-28T03:34:22.068Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -263,12 +263,36 @@
       "wins": 0,
       "losses": 0,
       "niche": "ai"
+    },
+    "2026-_blank": {
+      "firstSeen": "2026-05-28T03:34:27.118Z",
+      "lastSeen": "2026-05-28T03:34:27.118Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "2026-6f6f6f": {
+      "firstSeen": "2026-05-28T03:34:30.454Z",
+      "lastSeen": "2026-05-28T03:34:30.454Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "focus-attention": {
+      "firstSeen": "2026-05-28T03:34:34.111Z",
+      "lastSeen": "2026-05-28T03:34:34.111Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
     }
   },
   "niches": {
     "ai": {
-      "count": 51,
-      "wins": 18,
+      "count": 57,
+      "wins": 21,
       "losses": 0
     }
   },
