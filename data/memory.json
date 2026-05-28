@@ -18,9 +18,9 @@
     },
     "passive-income": {
       "firstSeen": "2026-05-28T04:01:51.171Z",
-      "lastSeen": "2026-05-28T04:01:51.171Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-05-28T07:48:44.980Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "finance"
     },
@@ -74,25 +74,25 @@
     },
     "white-house": {
       "firstSeen": "2026-05-28T04:07:40.438Z",
-      "lastSeen": "2026-05-28T04:07:40.438Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-05-28T07:48:44.981Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
     "rude-don": {
       "firstSeen": "2026-05-28T04:07:43.614Z",
-      "lastSeen": "2026-05-28T04:07:43.614Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-05-28T07:48:44.981Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
     "jailbroken-kindle": {
       "firstSeen": "2026-05-28T04:07:46.194Z",
-      "lastSeen": "2026-05-28T04:07:46.194Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-05-28T07:48:44.982Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -119,17 +119,41 @@
       "wins": 0,
       "losses": 0,
       "niche": "ai"
+    },
+    "boost-sales": {
+      "firstSeen": "2026-05-28T07:48:50.326Z",
+      "lastSeen": "2026-05-28T07:48:50.326Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "arthur-rackham": {
+      "firstSeen": "2026-05-28T07:48:52.941Z",
+      "lastSeen": "2026-05-28T07:48:52.941Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "john-milton": {
+      "firstSeen": "2026-05-28T07:48:55.457Z",
+      "lastSeen": "2026-05-28T07:48:55.457Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
     }
   },
   "niches": {
     "ai": {
-      "count": 15,
-      "wins": 2,
+      "count": 21,
+      "wins": 5,
       "losses": 0
     },
     "finance": {
-      "count": 1,
-      "wins": 0,
+      "count": 2,
+      "wins": 1,
       "losses": 0
     },
     "software": {
