@@ -6,6 +6,7 @@ import { logger, paths, writeJson, readJson, writeText, slugify, todayKey, nowIs
 import { complete } from '../ai/providers.js';
 import { pullAll } from '../engine/sources.js';
 import { selectOpportunities } from '../engine/trends.js';
+import { filterFresh, recordTopic } from '../engine/memory.js';
 import { join } from 'node:path';
 
 const VIRAL_DIR = join(paths.output, 'social');
@@ -16,7 +17,7 @@ export async function runViralFactory(opts = {}) {
   logger.info(`viral factory: targeting ${target} content units`);
 
   const items = await pullAll({ timeframe: 'day' });
-  const opps = selectOpportunities(items, target * 2);
+  const opps = filterFresh(selectOpportunities(items, target * 4), { days: 5 });
 
   const generated = [];
   const seen = new Set((readJson(join(paths.data, 'social.json'), { items: [] }).items || []).map(s => s.slug));
@@ -34,6 +35,7 @@ export async function runViralFactory(opts = {}) {
       saveContentPack(pack);
       generated.push(pack);
       seen.add(slug);
+      recordTopic(opp.keyword, opp.niches?.[0] || 'general', 'attempt');
       logger.ok(`viral pack: ${pack.slug}`);
     } catch (e) {
       logger.warn(`viral fail (${topic}): ${e.message}`);

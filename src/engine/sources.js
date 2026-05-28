@@ -129,6 +129,65 @@ export async function productHuntRss() {
   }
 }
 
+// ─── Mastodon trending ────────────────────────────────────
+// No-auth public endpoint on mastodon.social.
+export async function mastodonTrending(server = 'mastodon.social', limit = 20) {
+  try {
+    const data = await fetchJson(`https://${server}/api/v1/trends/statuses?limit=${limit}`);
+    return (data || []).map(s => ({
+      id: `mas-${s.id}`,
+      title: stripTags(s.content || '').slice(0, 200),
+      url: s.url,
+      score: (s.favourites_count || 0) + (s.reblogs_count || 0),
+      comments: s.replies_count || 0,
+      tags: (s.tags || []).map(t => t.name),
+      created: Math.floor(new Date(s.created_at).getTime() / 1000),
+      source: 'mastodon',
+    })).filter(x => x.title);
+  } catch (e) {
+    logger.warn(`mastodon fail: ${e.message}`);
+    return [];
+  }
+}
+
+// ─── npm trending (heuristic) ─────────────────────────────
+// npm doesn't expose "trending" but most-depended-on weekly proxy via libraries.io feed
+// Fallback: use registry recent updates via search.
+export async function npmRecent(keyword = '', limit = 15) {
+  const q = keyword || 'modified:>=last-week';
+  const url = `https://registry.npmjs.org/-/v1/search?text=${encodeURIComponent(q)}&size=${limit}&popularity=1.0&quality=0.5&maintenance=0.0`;
+  try {
+    const data = await fetchJson(url);
+    return (data.objects || []).map(o => {
+      const p = o.package;
+      return {
+        id: `npm-${p.name}`,
+        title: `${p.name} — ${p.description || ''}`.slice(0, 200),
+        url: p.links?.npm || `https://www.npmjs.com/package/${p.name}`,
+        score: Math.round((o.score?.detail?.popularity || 0) * 100),
+        comments: 0,
+        tags: p.keywords || [],
+        created: Math.floor(new Date(p.date || Date.now()).getTime() / 1000),
+        source: 'npm',
+      };
+    });
+  } catch (e) {
+    logger.warn(`npm fail: ${e.message}`);
+    return [];
+  }
+}
+
+// ─── PyPI recent ──────────────────────────────────────────
+export async function pypiRecent() {
+  try {
+    const xml = await fetchText('https://pypi.org/rss/updates.xml');
+    return parseRssItems(xml).slice(0, 20).map(it => ({ ...it, source: 'pypi' }));
+  } catch (e) {
+    logger.warn(`pypi fail: ${e.message}`);
+    return [];
+  }
+}
+
 // ─── IndieHackers (RSS-ish via products endpoint) ─────────
 // Falls back to community subreddit if upstream missing.
 export async function indieHackersFallback() {
@@ -183,7 +242,7 @@ const NICHE_SUBREDDITS = [
 export async function pullAll(opts = {}) {
   const subs = opts.subreddits || NICHE_SUBREDDITS;
   const t = opts.timeframe || 'day';
-  logger.info(`pulling trend sources (${subs.length} subreddits + 5 others)`);
+  logger.info(`pulling trend sources (${subs.length} subreddits + 9 others)`);
 
   const results = await Promise.allSettled([
     ...subs.map(s => redditTop(s, { t, limit: 10 })),
@@ -192,6 +251,9 @@ export async function pullAll(opts = {}) {
     lobstersHot(25),
     devTo(30),
     productHuntRss(),
+    mastodonTrending(),
+    npmRecent('', 15),
+    pypiRecent(),
   ]);
 
   const flat = results
@@ -199,6 +261,15 @@ export async function pullAll(opts = {}) {
     .flatMap(r => r.value)
     .filter(x => x && x.title);
 
-  logger.ok(`pulled ${flat.length} items across ${results.length} sources`);
-  return flat;
+  // Dedup by URL
+  const seen = new Set();
+  const unique = flat.filter(it => {
+    const key = (it.url || it.id || it.title).toLowerCase();
+    if (seen.has(key)) return false;
+    seen.add(key);
+    return true;
+  });
+
+  logger.ok(`pulled ${unique.length} items (deduped from ${flat.length}) across ${results.length} sources`);
+  return unique;
 }

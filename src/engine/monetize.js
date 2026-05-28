@@ -33,27 +33,44 @@ function loadAffiliateConfig() {
 }
 
 // Builds an affiliate-enriched link given a generic product query.
-export function affiliateLink(productQuery, network = 'amazon') {
+// Adds UTM params so affiliate dashboards attribute by article.
+export function affiliateLink(productQuery, network = 'amazon', utmContent = '') {
   const cfg = loadAffiliateConfig();
+  let url;
   if (cfg.amazon?.enabled && network === 'amazon') {
-    return cfg.amazon.buildLink(productQuery);
+    url = cfg.amazon.buildLink(productQuery);
+  } else if (network === 'amazon') {
+    url = `https://www.amazon.com/s?k=${encodeURIComponent(productQuery)}`;
+  } else {
+    url = `https://duckduckgo.com/?q=${encodeURIComponent(productQuery + ' best price')}`;
   }
-  if (network === 'amazon') return `https://www.amazon.com/s?k=${encodeURIComponent(productQuery)}`;
-  // Generic search fallback (works without tag, captures intent)
-  return `https://duckduckgo.com/?q=${encodeURIComponent(productQuery + ' best price')}`;
+  return appendUtm(url, { source: 'profit-engine', medium: 'article', content: utmContent });
+}
+
+function appendUtm(url, { source, medium, content }) {
+  try {
+    const u = new URL(url);
+    if (source) u.searchParams.set('utm_source', source);
+    if (medium) u.searchParams.set('utm_medium', medium);
+    if (content) u.searchParams.set('utm_content', content);
+    return u.toString();
+  } catch {
+    return url;
+  }
 }
 
 // Inserts CTA blocks into rendered markdown so every article has revenue paths.
 export function injectMonetization(markdown, topic, opts = {}) {
   const productQueries = opts.products || extractProductCandidates(markdown, topic);
   const cfg = loadAffiliateConfig();
+  const articleSlug = opts.slug || slugify(topic);
 
   let out = markdown;
 
-  // 1. Recommended Tools section (affiliate links)
+  // 1. Recommended Tools section (affiliate links with UTM attribution)
   if (productQueries.length > 0) {
     const links = productQueries.slice(0, 6).map((q, i) =>
-      `${i + 1}. **${q}** — [Compare prices](${affiliateLink(q, 'amazon')})`
+      `${i + 1}. **${q}** — [Compare prices](${affiliateLink(q, 'amazon', articleSlug)})`
     ).join('\n');
     const cta = `\n\n## Recommended Tools\n\nSome picks below for ${topic}. Links use affiliate codes when available — your purchase price stays the same.\n\n${links}\n`;
     out += cta;

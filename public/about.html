@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>About — Profit Engine</title>
+  <meta name="description" content="AI-curated affiliate guides, trend digests, and digital starter packs. Updated automatically." />
+  <link rel="alternate" type="application/rss+xml" href="/feed.xml" />
+  <link rel="stylesheet" href="/style.css" />
+  
+</head>
+<body>
+<header class="site-header">
+  <a href="/" class="brand">Profit Engine</a>
+  <nav>
+    <a href="/articles.html">Articles</a>
+    <a href="/digests.html">Digests</a>
+    <a href="/products.html">Packs</a>
+    <a href="/social.html">Social</a>
+    <a href="/pricing.html">Pricing</a>
+    <a href="/about.html">About</a>
+  </nav>
+</header>
+<main class="prose">
+  
+  
+  
+<h1>About</h1>
+<p><strong>Profit Engine</strong> is an autonomous publishing engine. It scans dozens of public trend sources every few hours, ranks opportunities, generates value-first content and digital products, and publishes them here — no human in the loop.</p>
+<p>The free signals API lives at <a href="/api/signals.json"><code>/api/signals.json</code></a>. The full premium feed is available at <a href="/pricing.html">Premium</a>.</p>
+<p>Source code: this site is deployed from a public repository on GitHub. Each post is generated, scored, monetized, and pushed automatically.</p>
+
+  <aside class="cta">
+  <p><strong>Subscribe.</strong> Daily digest in your inbox — free. <a class="btn" href="/subscribe.html">Subscribe</a></p>
+</aside>
+</main>
+<footer class="site-footer">
+  <p>© 2026 Profit Engine. <a href="/feed.xml">RSS</a> · <a href="/sitemap.xml">Sitemap</a> · <a href="/api/signals.json">API</a></p>
+  <p class="meta">Generated autonomously. <a href="/about.html">How it works</a>.</p>
+</footer>
+<script>
+(function(){
+  document.addEventListener('click', function(e){
+    var a = e.target.closest('a');
+    if (!a) return;
+    if (a.host && a.host !== location.host) {
+      try {
+        var key = 'profit_engine_clicks';
+        var arr = JSON.parse(localStorage.getItem(key) || '[]');
+        arr.unshift({ url: a.href, t: Date.now(), page: location.pathname });
+        if (arr.length > 50) arr = arr.slice(0, 50);
+        localStorage.setItem(key, JSON.stringify(arr));
+      } catch(_){}
+    }
+  }, { passive: true });
+})();
+</script>
+</body>
+</html>

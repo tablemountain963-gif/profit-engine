@@ -70,6 +70,27 @@ The engine writes `data/signals-premium.json` (full unredacted data) every run. 
 
 **Option C — Mintlify/Stoplight:** generate hosted API docs and use a paid tier on Stripe Apps.
 
+## Analytics (privacy-respecting, opt-in)
+
+The engine ships **no third-party tracking by default** for security and privacy. To enable analytics, paste your provider's full HTML snippet into a repo secret named `ANALYTICS_HEAD_SNIPPET`:
+
+```bash
+gh secret set ANALYTICS_HEAD_SNIPPET --repo tablemountain963-gif/profit-engine
+# paste the full snippet, e.g.:
+# <script defer data-domain="example.com"
+#   src="https://plausible.io/js/script.js"
+#   integrity="sha384-..." crossorigin="anonymous"></script>
+```
+
+**Always include `integrity="sha384-..."` and `crossorigin="anonymous"`** on any external `<script>` tag — Subresource Integrity protects you from CDN compromise. Get the SRI hash for any script via https://www.srihash.org/.
+
+Recommended providers (free tiers):
+- **Plausible** (cookieless, GDPR-safe): https://plausible.io/
+- **GoatCounter** (open source, ad-free): https://www.goatcounter.com/
+- **Umami** (self-hosted): https://umami.is/
+
+The site also ships a tiny **outbound link tracker** built-in that records the last 50 outbound clicks in `localStorage` — useful as a sanity check from your own browser.
+
 ## Compound effects
 
 Each path feeds the others:

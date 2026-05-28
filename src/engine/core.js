@@ -6,6 +6,9 @@ import { runAffiliateContent } from '../streams/affiliate-content.js';
 import { runDigitalProducts } from '../streams/digital-products.js';
 import { runTrendSignals } from '../streams/trend-signals.js';
 import { runViralFactory } from '../streams/viral-factory.js';
+import { pullAll } from './sources.js';
+import { resolveAgainst } from './feedback.js';
+import { topNiches } from './memory.js';
 import { buildSite } from '../../scripts/build-site.js';
 
 const STREAMS = {
@@ -57,6 +60,22 @@ export async function runEngine(opts = {}) {
 
   logger.info(`▷ Profit Engine run #${state.runs}`);
   logger.dbg(`AI providers: ${JSON.stringify(describeProviders())}`);
+
+  // Feedback loop: resolve pending topics against current fresh trends.
+  // Topics that reappear = traction (win). Stale topics that don't = loss.
+  try {
+    const fresh = await pullAll({ timeframe: 'day' });
+    const fb = resolveAgainst(fresh);
+    if (fb.wins || fb.losses) {
+      logger.ok(`feedback resolved: +${fb.wins}/-${fb.losses}`);
+    }
+    const winners = topNiches(3);
+    if (winners.length > 0) {
+      logger.dbg(`top niches: ${winners.map(n => `${n.niche}(${n.wins}w/${n.losses}l)`).join(', ')}`);
+    }
+  } catch (e) {
+    logger.warn(`feedback resolution skipped: ${e.message}`);
+  }
 
   const force = opts.force || opts.all;
   const onlyStream = opts.only;

@@ -5,6 +5,7 @@ import { logger, paths, writeJson, readJson, writeText, slugify, todayKey, nowIs
 import { complete } from '../ai/providers.js';
 import { pullAll } from '../engine/sources.js';
 import { selectOpportunities } from '../engine/trends.js';
+import { filterFresh, recordTopic } from '../engine/memory.js';
 import { join } from 'node:path';
 
 const PRODUCTS_DIR = join(paths.output, 'products');
@@ -49,10 +50,10 @@ export async function runDigitalProducts(opts = {}) {
   const items = await pullAll({ timeframe: 'week' });
   const opps = selectOpportunities(items, 10);
 
-  const productizable = opps.filter(o => {
+  const productizable = filterFresh(opps.filter(o => {
     const niche = o.niches?.[0];
     return ['software', 'ai', 'productivity', 'finance', 'health'].includes(niche);
-  });
+  }), { days: 14 });
 
   if (productizable.length === 0) {
     logger.warn('no productizable opportunities found this cycle');
@@ -74,6 +75,7 @@ export async function runDigitalProducts(opts = {}) {
       saveProduct(product);
       generated.push(product);
       seen.add(slug);
+      recordTopic(opp.keyword, opp.niches?.[0] || 'general', 'attempt');
       logger.ok(`product generated: ${product.slug} (${productType.type})`);
     } catch (e) {
       logger.warn(`product fail (${topic}): ${e.message}`);

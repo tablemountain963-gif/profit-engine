@@ -5,6 +5,8 @@ import { pullAll } from '../engine/sources.js';
 import { selectOpportunities } from '../engine/trends.js';
 import { complete } from '../ai/providers.js';
 import { injectMonetization } from '../engine/monetize.js';
+import { filterFresh, recordTopic, pruneMemory } from '../engine/memory.js';
+import { schedulePending } from '../engine/feedback.js';
 import { join } from 'node:path';
 
 const ARTICLES_DIR = join(paths.output, 'articles');
@@ -25,9 +27,11 @@ export async function runAffiliateContent(opts = {}) {
   const target = opts.count || 3;
   logger.info(`affiliate content stream: targeting ${target} articles`);
 
+  pruneMemory();
   const items = await pullAll({ timeframe: 'day' });
-  const opps = selectOpportunities(items, target * 3);
-  logger.info(`opportunities found: ${opps.length}`);
+  const rawOpps = selectOpportunities(items, target * 6);
+  const opps = filterFresh(rawOpps, { days: 7 });
+  logger.info(`opportunities: ${rawOpps.length} raw → ${opps.length} fresh`);
 
   const generated = [];
   const seen = loadSeenSlugs();
@@ -43,7 +47,8 @@ export async function runAffiliateContent(opts = {}) {
       const out = saveArticle(article);
       generated.push(out);
       seen.add(slug);
-      persistSeen(seen);
+      recordTopic(opp.keyword, opp.niches?.[0] || 'general', 'attempt');
+      schedulePending(opp.keyword, opp.niches?.[0] || 'general');
       logger.ok(`generated: ${article.meta.slug}`);
     } catch (e) {
       logger.warn(`article fail (${topic}): ${e.message}`);
@@ -105,7 +110,7 @@ Requirements:
   let body = text.replace(/^#\s+.+\n/, '').trim();
 
   // Inject monetization (affiliate links, CTAs, ad zones)
-  body = injectMonetization(body, topic, { products: deriveProductQueries(topic, opp) });
+  body = injectMonetization(body, topic, { products: deriveProductQueries(topic, opp), slug });
 
   return { meta, body };
 }

@@ -1,6 +1,7 @@
 // Static site builder. Renders generated markdown into HTML for GitHub Pages.
 // Pure stdlib. Zero deps. Minimal markdown → HTML.
 import { paths, readJson, readText, writeText, listFiles, ensureDir, logger, nowIso } from '../src/lib/util.js';
+import { siteBaseUrl, metaDescription, articleSchema, productSchema, websiteSchema, breadcrumbSchema, metaBlock, indexNowKeyFile, pingIndexNow } from '../src/engine/seo.js';
 import { join, basename } from 'node:path';
 import { readdirSync, statSync, existsSync } from 'node:fs';
 
@@ -26,19 +27,29 @@ export async function buildSite() {
   const products = readJson(join(paths.data, 'products.json'), { items: [] }).items || [];
   const social = readJson(join(paths.data, 'social.json'), { items: [] }).items || [];
 
+  const base = siteBaseUrl();
+  const newUrls = [];
+
   // Render each article
   for (const a of articles) {
     const src = join(paths.output, a.file);
     if (!existsSync(src)) continue;
     const md = readText(src);
+    const stripped = stripFrontMatter(md);
+    const desc = metaDescription(stripped, a.title);
+    const url = `${base}/articles/${a.slug}.html`;
+    newUrls.push(url);
+    const schema = articleSchema({ title: a.title, description: desc, url, datePublished: a.date });
     const html = renderPage({
       title: a.title,
-      desc: `${a.title} — ${a.keywords?.join(', ') || ''}`,
-      body: mdToHtml(stripFrontMatter(md)),
+      desc,
+      body: mdToHtml(stripped),
       breadcrumb: 'Articles',
-      breadcrumbHref: 'index.html',
+      breadcrumbHref: 'articles.html',
       published: a.date,
       type: 'article',
+      url,
+      schema,
     });
     writeText(join(ARTICLES_OUT, `${a.slug}.html`), html);
   }
@@ -48,14 +59,21 @@ export async function buildSite() {
     const src = join(paths.output, d.file);
     if (!existsSync(src)) continue;
     const md = readText(src);
+    const stripped = stripFrontMatter(md);
+    const desc = metaDescription(stripped, `Daily trend digest for ${d.date}`);
+    const url = `${base}/digests/${d.date}.html`;
+    newUrls.push(url);
+    const schema = articleSchema({ title: `Daily Trend Digest — ${d.date}`, description: desc, url, datePublished: d.date });
     const html = renderPage({
       title: `Daily Trend Digest — ${d.date}`,
-      desc: `Trend digest for ${d.date}`,
-      body: mdToHtml(stripFrontMatter(md)),
+      desc,
+      body: mdToHtml(stripped),
       breadcrumb: 'Digests',
       breadcrumbHref: 'digests.html',
       published: d.date,
       type: 'digest',
+      url,
+      schema,
     });
     writeText(join(DIGESTS_OUT, `${d.date}.html`), html);
   }
@@ -66,13 +84,23 @@ export async function buildSite() {
     for (const f of readdirSync(salesDir).filter(x => x.endsWith('.md'))) {
       const slug = f.replace(/\.md$/, '');
       const md = readText(join(salesDir, f));
+      const stripped = stripFrontMatter(md);
+      const title = extractTitle(md) || slug;
+      const desc = metaDescription(stripped, title);
+      const url = `${base}/products/${slug}.html`;
+      newUrls.push(url);
+      // Lookup product price/info from manifest
+      const productInfo = products.find(p => p.slug === slug) || {};
+      const schema = productSchema({ title, description: desc, price: productInfo.price || 19, slug });
       const html = renderPage({
-        title: extractTitle(md) || slug,
-        desc: `Product: ${slug}`,
-        body: mdToHtml(stripFrontMatter(md)),
+        title,
+        desc,
+        body: mdToHtml(stripped),
         breadcrumb: 'Products',
         breadcrumbHref: 'products.html',
         type: 'product',
+        url,
+        schema,
       });
       writeText(join(PRODUCTS_OUT, `${slug}.html`), html);
     }
@@ -118,6 +146,13 @@ export async function buildSite() {
   writeText(join(SITE, 'feed.xml'), rssFeed({ articles, digests }));
   writeText(join(SITE, 'style.css'), css());
 
+  // IndexNow key file
+  const keyFile = indexNowKeyFile();
+  writeText(join(SITE, keyFile.name), keyFile.body);
+
+  // OG default image (svg generated inline so we don't need a CDN)
+  writeText(join(SITE, 'og-default.svg'), defaultOgImage());
+
   // Copy state snapshot for transparency
   writeText(join(SITE, 'engine-state.json'), JSON.stringify({
     builtAt: nowIso(),
@@ -129,7 +164,27 @@ export async function buildSite() {
     },
   }, null, 2));
 
+  // Ping IndexNow with new URLs (Bing/Yandex). Non-blocking.
+  if (newUrls.length > 0 && process.env.GITHUB_ACTIONS) {
+    pingIndexNow(newUrls).catch(() => {});
+  }
+
   return `articles=${articles.length} digests=${digests.length} products=${products.length} social=${social.length}`;
+}
+
+function defaultOgImage() {
+  return `<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0a8a4a"/>
+      <stop offset="100%" stop-color="#055530"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#g)"/>
+  <text x="80" y="280" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-weight="800" font-size="96" fill="#fff">Profit Engine</text>
+  <text x="80" y="360" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="34" fill="rgba(255,255,255,.85)">Autonomous trends · curated picks · daily signals</text>
+  <text x="80" y="560" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="22" fill="rgba(255,255,255,.7)">tablemountain963-gif.github.io/profit-engine</text>
+</svg>`;
 }
 
 // ─── Markdown → HTML (minimal) ───────────────────────────
@@ -206,20 +261,51 @@ function extractTitle(md) {
 }
 
 // ─── Page templates ──────────────────────────────────────
-function renderPage({ title, desc, body, breadcrumb, breadcrumbHref, published, type }) {
+// Analytics opt-in via env var. User pastes their full snippet — they are
+// responsible for adding integrity="sha384-..." crossorigin="anonymous" to any
+// external <script> tag to prevent CDN compromise (Subresource Integrity).
+// We deliberately do NOT inject external CDN scripts automatically.
+function analyticsTag() {
+  if (process.env.ANALYTICS_HEAD_SNIPPET) {
+    return process.env.ANALYTICS_HEAD_SNIPPET;
+  }
+  return '';
+}
+
+function outboundTracker() {
+  // Lightweight client-side outbound link tracker — pure JS, no remote calls.
+  // Stores last 50 outbound clicks in localStorage and exposes them via console.
+  return `<script>
+(function(){
+  document.addEventListener('click', function(e){
+    var a = e.target.closest('a');
+    if (!a) return;
+    if (a.host && a.host !== location.host) {
+      try {
+        var key = 'profit_engine_clicks';
+        var arr = JSON.parse(localStorage.getItem(key) || '[]');
+        arr.unshift({ url: a.href, t: Date.now(), page: location.pathname });
+        if (arr.length > 50) arr = arr.slice(0, 50);
+        localStorage.setItem(key, JSON.stringify(arr));
+      } catch(_){}
+    }
+  }, { passive: true });
+})();
+</script>`;
+}
+
+function renderPage({ title, desc, body, breadcrumb, breadcrumbHref, published, type, url, schema }) {
+  const seoMeta = url ? metaBlock({ title, description: desc || SITE_DESC, url, type, schema }) : '';
   return `<!doctype html>
 <html lang="en">
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
   <title>${escapeHtml(title)} — ${SITE_TITLE}</title>
-  <meta name="description" content="${escapeHtml(desc || SITE_DESC)}" />
-  <meta property="og:title" content="${escapeHtml(title)}" />
-  <meta property="og:description" content="${escapeHtml(desc || SITE_DESC)}" />
-  <meta property="og:type" content="${type || 'article'}" />
-  <meta name="twitter:card" content="summary_large_image" />
+  ${seoMeta || `<meta name="description" content="${escapeHtml(desc || SITE_DESC)}" />`}
   <link rel="alternate" type="application/rss+xml" href="/feed.xml" />
   <link rel="stylesheet" href="/style.css" />
+  ${analyticsTag()}
 </head>
 <body>
 ${header()}
@@ -230,6 +316,7 @@ ${header()}
   ${footerCta()}
 </main>
 ${footer()}
+${outboundTracker()}
 </body>
 </html>`;
 }
@@ -283,6 +370,8 @@ function homeIndex({ articles, digests, products }) {
     desc: SITE_DESC,
     body,
     type: 'website',
+    url: siteBaseUrl() + '/',
+    schema: websiteSchema(),
   });
 }
 

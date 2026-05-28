@@ -1,6 +1,7 @@
 // Trend ranking + opportunity scoring.
 // Takes raw items from sources, normalizes, deduplicates, scores opportunity value.
 import { hash, slugify, logger } from '../lib/util.js';
+import { nicheBias } from './memory.js';
 
 // Stopwords trimmed to high-value signal extraction.
 const STOPWORDS = new Set([
@@ -86,15 +87,16 @@ function ageDecay(createdEpoch) {
   return 0.2;
 }
 
-// Composite score: engagement × niche weight × commercial hints × recency.
+// Composite score: engagement × niche weight × commercial hints × recency × historical bias.
 function scoreItem(item) {
   const text = `${item.title} ${item.selftext || item.desc || ''}`;
   const { weight, niche } = nicheBoost(text);
   const commercial = commercialScore(text);
   const engagement = Math.log10(1 + (item.score || 0) + (item.comments || 0) * 2);
   const recency = ageDecay(item.created);
-  const score = engagement * weight * recency * (1 + commercial * 0.15);
-  return { score, niche, commercial, weight, recency };
+  const bias = nicheBias(niche); // historical performance multiplier
+  const score = engagement * weight * recency * (1 + commercial * 0.15) * bias;
+  return { score, niche, commercial, weight, recency, bias };
 }
 
 export function rankItems(items) {
