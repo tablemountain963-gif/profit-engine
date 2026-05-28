@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400..900&family=JetBrains+Mono:wght@400;500;700&display=swap" />
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  html, body { width: 1024px; height: 1024px; overflow: hidden; }
+  :root { --accent: #4fe08a; --ink: #eae3d6; --bg: #0a0c0b; }
+  .a {
+    position: relative; width: 1024px; height: 1024px; background: var(--bg);
+    font-family: 'Fraunces', serif; color: var(--ink); overflow: hidden;
+    display: flex; align-items: center; justify-content: center;
+  }
+  /* depth: green glow + faint grid + vignette */
+  .a::before { content:""; position:absolute; inset:0;
+    background:
+      radial-gradient(80% 70% at 50% 30%, rgba(79,224,138,.20), transparent 60%),
+      repeating-linear-gradient(0deg, transparent 0 63px, rgba(255,255,255,.025) 63px 64px),
+      repeating-linear-gradient(90deg, transparent 0 63px, rgba(255,255,255,.025) 63px 64px); }
+  .a::after { content:""; position:absolute; inset:0; background: radial-gradient(120% 120% at 50% 50%, transparent 48%, rgba(0,0,0,.7)); }
+  /* thin signal ring (circle-safe framing) */
+  .ring { position:absolute; width: 760px; height: 760px; border-radius:50%;
+    border: 2px solid rgba(79,224,138,.28); box-shadow: 0 0 60px rgba(79,224,138,.12) inset; }
+  .ring::before { /* live pulse node on the ring */
+    content:""; position:absolute; top: -9px; left: 50%; transform: translateX(-50%);
+    width: 16px; height: 16px; border-radius:50%; background: var(--accent);
+    box-shadow: 0 0 22px 4px rgba(79,224,138,.85); }
+  .mono {
+    position: relative; z-index: 3; text-align: center; line-height: .82;
+  }
+  .mono .glyph { font-weight: 900; font-size: 460px; letter-spacing: -.04em;
+    background: linear-gradient(180deg, #ffffff, #cfe9d6 55%, var(--accent));
+    -webkit-background-clip: text; background-clip: text; color: transparent;
+    text-shadow: 0 0 50px rgba(79,224,138,.18); }
+  .tag { position:absolute; z-index:3; bottom: 132px; left:0; right:0; text-align:center;
+    font-family:'JetBrains Mono', monospace; font-size: 30px; letter-spacing:.42em;
+    text-transform:uppercase; color: var(--accent); }
+  .sub { position:absolute; z-index:3; bottom: 92px; left:0; right:0; text-align:center;
+    font-family:'JetBrains Mono', monospace; font-size: 19px; letter-spacing:.2em;
+    text-transform:uppercase; color: #6b746b; }
+</style>
+</head>
+<body>
+<div class="a">
+  <div class="ring"></div>
+  <div class="mono"><span class="glyph" id="glyph">SM</span></div>
+  <div class="tag" id="tag">Sol Mercer</div>
+  <div class="sub" id="sub">signal · not noise</div>
+</div>
+<script>
+  const q = new URLSearchParams(location.search);
+  const accent = q.get('accent'); if (accent) document.documentElement.style.setProperty('--accent', accent);
+  if (q.get('glyph')) document.getElementById('glyph').textContent = q.get('glyph');
+  if (q.get('tag')) document.getElementById('tag').textContent = q.get('tag');
+  if (q.get('sub')) document.getElementById('sub').textContent = q.get('sub');
+</script>
+</body>
+</html>
