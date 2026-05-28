@@ -199,11 +199,35 @@
       "wins": 0,
       "losses": 0,
       "niche": "ai"
+    },
+    "world-fact": {
+      "firstSeen": "2026-05-28T16:52:59.074Z",
+      "lastSeen": "2026-05-28T16:52:59.074Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "claude-opus": {
+      "firstSeen": "2026-05-28T16:52:59.144Z",
+      "lastSeen": "2026-05-28T16:52:59.144Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "convert-google-gemini": {
+      "firstSeen": "2026-05-28T16:52:59.240Z",
+      "lastSeen": "2026-05-28T16:52:59.240Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
     }
   },
   "niches": {
     "ai": {
-      "count": 54,
+      "count": 57,
       "wins": 16,
       "losses": 0
     },
