@@ -3,7 +3,7 @@
 import { paths, readJson, readText, writeText, listFiles, ensureDir, logger, nowIso } from '../src/lib/util.js';
 import { siteBaseUrl, metaDescription, articleSchema, productSchema, websiteSchema, breadcrumbSchema, metaBlock, indexNowKeyFile, pingIndexNow } from '../src/engine/seo.js';
 import { join, basename } from 'node:path';
-import { readdirSync, statSync, existsSync } from 'node:fs';
+import { readdirSync, statSync, existsSync, copyFileSync } from 'node:fs';
 
 const SITE = paths.public;
 const ARTICLES_OUT = join(SITE, 'articles');
@@ -102,6 +102,9 @@ export async function buildSite() {
     writeText(join(DIGESTS_OUT, `${d.date}.html`), html);
   }
 
+  // Buy-link map (slug -> { url, cover, platform }) for monetized products.
+  const buyLinks = readJson(join(paths.data, 'buy-links.json'), {});
+
   // Render each product sales page (sales/<slug>.md)
   const salesDir = join(paths.output, 'sales');
   if (existsSync(salesDir)) {
@@ -113,13 +116,25 @@ export async function buildSite() {
       const desc = metaDescription(stripped, title);
       const url = `${base}/products/${slug}.html`;
       newUrls.push(url);
-      // Lookup product price/info from manifest
       const productInfo = products.find(p => p.slug === slug) || {};
-      const schema = productSchema({ title, description: desc, price: productInfo.price || 19, slug });
+      const buy = buyLinks[slug];
+      const schema = productSchema({ title, description: desc, price: productInfo.price || 19, slug, image: buy?.cover ? `${base}${buy.cover}` : undefined });
+
+      let bodyHtml = mdToHtml(stripped);
+      // Inject real buy button: replace the placeholder anchor (#buy-<slug>) with the live URL.
+      if (buy?.url) {
+        const buyBtn = `<a class="btn buy" href="${buy.url}" rel="noopener" target="_blank">Buy now — $${productInfo.price || 19} →</a>`;
+        bodyHtml = bodyHtml.replace(new RegExp(`<a href="#buy-${slug}"[^>]*>[^<]*</a>`, 'g'), buyBtn)
+                           .replace(/<a href="#buy-[^"]*"[^>]*>([^<]*)<\/a>/g, buyBtn);
+        // Prepend cover image + a top buy bar.
+        const cover = buy.cover ? `<img class="product-cover" src="${buy.cover}" alt="${escapeHtml(title)}" />` : '';
+        bodyHtml = `${cover}\n<p class="buybar">${buyBtn} <span class="secure">Secure checkout via ${buy.platform || 'Gumroad'}</span></p>\n` + bodyHtml;
+      }
+
       const html = renderPage({
         title,
         desc,
-        body: mdToHtml(stripped),
+        body: bodyHtml,
         breadcrumb: 'Products',
         breadcrumbHref: 'products.html',
         type: 'product',
@@ -127,6 +142,16 @@ export async function buildSite() {
         schema,
       });
       writeText(join(PRODUCTS_OUT, `${slug}.html`), html);
+    }
+  }
+
+  // Copy generated assets (covers/thumbnails) into the published site.
+  const assetsSrc = join(paths.output, 'assets');
+  if (existsSync(assetsSrc)) {
+    const assetsOut = join(SITE, 'assets');
+    ensureDir(assetsOut);
+    for (const f of readdirSync(assetsSrc)) {
+      try { copyFileSync(join(assetsSrc, f), join(assetsOut, f)); } catch { /* skip */ }
     }
   }
 
@@ -945,6 +970,12 @@ table.stats th { color: var(--fg-dim); text-transform: uppercase; letter-spacing
 table.stats td { color: var(--fg); }
 table.stats td:nth-child(n+2) { font-variant-numeric: tabular-nums; }
 table.stats tr:hover td { background: var(--bg-1); }
+
+/* ── Product page ─────────────────────────────────────── */
+.product-cover { width: 100%; height: auto; border: 1px solid var(--hair); border-radius: var(--radius); margin: 8px 0 20px; display: block; }
+.buybar { display: flex; align-items: center; gap: 16px; flex-wrap: wrap; margin: 0 0 28px; padding: 18px 20px; background: var(--bg-1); border: 1px solid var(--hair); border-radius: var(--radius); }
+.btn.buy { font-size: 15px; padding: 14px 26px; }
+.buybar .secure { font-family: var(--mono); font-size: 12px; color: var(--fg-faint); }
 
 /* ── Ad zone ──────────────────────────────────────────── */
 .ad-zone { margin: 30px 0; padding: 16px; border: 1px dashed var(--hair-2); border-radius: var(--radius); min-height: 60px; text-align: center; color: var(--fg-faint); font-family: var(--mono); font-size: 12px; }

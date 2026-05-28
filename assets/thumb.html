@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400..900&family=JetBrains+Mono:wght@400;500;700&display=swap" />
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  html, body { width: 1080px; height: 1080px; overflow: hidden; }
+  .t {
+    position: relative; width: 1080px; height: 1080px; background: #0a0c0b;
+    font-family: 'Fraunces', serif; color: #eae3d6; overflow: hidden;
+  }
+  .t::before { content:""; position:absolute; inset:0;
+    background: radial-gradient(120% 70% at 50% -10%, rgba(79,224,138,.18), transparent 55%),
+      repeating-linear-gradient(0deg, transparent 0 53px, rgba(255,255,255,.022) 53px 54px),
+      repeating-linear-gradient(90deg, transparent 0 53px, rgba(255,255,255,.022) 53px 54px); }
+  .t::after { content:""; position:absolute; inset:0; background: radial-gradient(130% 120% at 50% 45%, transparent 52%, rgba(0,0,0,.62)); }
+  .inner { position: relative; z-index: 2; height: 100%; padding: 90px; display: flex; flex-direction: column; justify-content: center; align-items: flex-start; }
+  .big { font-family: 'JetBrains Mono', monospace; font-weight: 700; font-size: 168px; line-height: .9; color: #4fe08a; letter-spacing: -.03em; text-shadow: 0 0 40px rgba(79,224,138,.35); }
+  .big small { font-size: 64px; color:#eae3d6; display:block; font-weight:400; letter-spacing:0; }
+  h1 { font-weight: 900; font-size: 76px; line-height: 1.0; letter-spacing: -.03em; margin-top: 40px; }
+  h1 .grn { color:#4fe08a; }
+  .kick { font-family:'JetBrains Mono', monospace; font-size: 22px; letter-spacing:.28em; text-transform:uppercase; color:#9aa39a; margin-top: 36px; }
+  .brand { position:absolute; left:90px; bottom:70px; z-index:2; font-family:'JetBrains Mono', monospace; font-size:24px; color:#9aa39a; letter-spacing:.12em; display:flex; align-items:center; gap:13px; }
+  .brand .dot { width:13px; height:13px; border-radius:50%; background:#4fe08a; box-shadow:0 0 16px rgba(79,224,138,.8); }
+</style>
+</head>
+<body>
+<div class="t">
+  <div class="inner">
+    <div class="big">50<small>prompts</small></div>
+    <h1>AI Sales &amp;<br>Marketing <span class="grn">Pack</span></h1>
+    <div class="kick">ChatGPT · Claude · Gemini</div>
+  </div>
+  <div class="brand"><span class="dot"></span>PROFIT ENGINE</div>
+</div>
+</body>
+</html>
