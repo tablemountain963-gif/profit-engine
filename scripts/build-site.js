@@ -141,6 +141,7 @@ export async function buildSite() {
   writeText(join(SITE, 'subscribe.html'), subscribePage());
   writeText(join(SITE, 'pricing.html'), pricingPage());
   writeText(join(SITE, 'about.html'), aboutPage());
+  writeText(join(SITE, 'status.html'), statusPage({ articles, digests, products, social }));
   writeText(join(SITE, 'sitemap.xml'), sitemap({ articles, digests, products }));
   writeText(join(SITE, 'robots.txt'), 'User-agent: *\nAllow: /\nSitemap: /sitemap.xml\n');
   writeText(join(SITE, 'feed.xml'), rssFeed({ articles, digests }));
@@ -450,6 +451,81 @@ function pricingPage() {
   });
 }
 
+function statusPage({ articles, digests, products, social }) {
+  const state = readJson(join(paths.data, 'state.json'), { runs: 0, streams: {}, lastRun: null });
+  const memory = readJson(join(paths.data, 'memory.json'), { topics: {}, niches: {} });
+
+  const nichesByCount = Object.entries(memory.niches || {})
+    .map(([k, v]) => ({ niche: k, count: v.count || 0, wins: v.wins || 0, losses: v.losses || 0 }))
+    .sort((a, b) => b.count - a.count);
+
+  const recentArticles = articles.slice(0, 8);
+  const recentDigests = digests.slice(0, 5);
+  const recentProducts = products.slice(0, 5);
+
+  const lastByStream = state.streams || {};
+  const streamRows = ['trend-signals', 'affiliate-content', 'digital-products', 'viral-factory'].map(name => {
+    const s = lastByStream[name] || {};
+    return `<tr><td>${name}</td><td>${s.totalRuns || 0}</td><td>${s.lastRunAt || '—'}</td><td>${s.lastResult || s.lastError || '—'}</td></tr>`;
+  }).join('');
+
+  const body = `
+<h1>Engine Status</h1>
+<p class="meta">Public transparency dashboard. Updated on every engine run.</p>
+
+<h2>Cycle Summary</h2>
+<table class="stats">
+  <tr><th>Metric</th><th>Value</th></tr>
+  <tr><td>Total runs</td><td>${state.runs || 0}</td></tr>
+  <tr><td>Last run</td><td>${state.lastRun || '—'}</td></tr>
+  <tr><td>Articles published</td><td>${articles.length}</td></tr>
+  <tr><td>Daily digests</td><td>${digests.length}</td></tr>
+  <tr><td>Digital products</td><td>${products.length}</td></tr>
+  <tr><td>Social packs</td><td>${social.length}</td></tr>
+</table>
+
+<h2>Streams</h2>
+<table class="stats">
+  <tr><th>Stream</th><th>Runs</th><th>Last run</th><th>Last result</th></tr>
+  ${streamRows}
+</table>
+
+<h2>Niche Activity</h2>
+<table class="stats">
+  <tr><th>Niche</th><th>Attempts</th><th>Wins</th><th>Losses</th></tr>
+  ${nichesByCount.map(n => `<tr><td>${n.niche}</td><td>${n.count}</td><td>${n.wins}</td><td>${n.losses}</td></tr>`).join('') || '<tr><td colspan="4">No activity yet</td></tr>'}
+</table>
+<p class="meta">"Win" = a topic the engine published reappeared in fresh trends within 5 days (traction signal). "Loss" = no resurfacing in window. The engine biases future selection toward winning niches.</p>
+
+<h2>Recent Activity</h2>
+<h3>Articles</h3>
+<ul>
+  ${recentArticles.map(a => `<li><a href="/articles/${a.slug}.html">${escapeHtml(a.title)}</a> <span class="meta">— ${a.date}</span></li>`).join('') || '<li class="meta">None yet</li>'}
+</ul>
+<h3>Digests</h3>
+<ul>
+  ${recentDigests.map(d => `<li><a href="/digests/${d.date}.html">Daily Trend Digest — ${d.date}</a></li>`).join('') || '<li class="meta">None yet</li>'}
+</ul>
+<h3>Products</h3>
+<ul>
+  ${recentProducts.map(p => `<li><a href="/products/${p.slug}.html">${escapeHtml(p.title)}</a> <span class="meta">— $${p.price}</span></li>`).join('') || '<li class="meta">None yet</li>'}
+</ul>
+
+<h2>Live API</h2>
+<p>Machine-readable feed: <a href="/api/signals.json"><code>/api/signals.json</code></a></p>
+<p>Engine state snapshot: <a href="/engine-state.json"><code>/engine-state.json</code></a></p>
+<p>RSS: <a href="/feed.xml"><code>/feed.xml</code></a></p>
+`;
+
+  return renderPage({
+    title: 'Engine Status',
+    desc: 'Live transparency dashboard for the Profit Engine autonomous publishing system.',
+    body,
+    type: 'website',
+    url: siteBaseUrl() + '/status.html',
+  });
+}
+
 function aboutPage() {
   return renderPage({
     title: 'About',
@@ -472,6 +548,7 @@ function header() {
     <a href="/products.html">Packs</a>
     <a href="/social.html">Social</a>
     <a href="/pricing.html">Pricing</a>
+    <a href="/status.html">Status</a>
     <a href="/about.html">About</a>
   </nav>
 </header>`;
@@ -567,6 +644,10 @@ blockquote { margin: 12px 0; padding: 8px 16px; border-left: 4px solid var(--bor
 .site-footer { max-width: 960px; margin: 40px auto 0; padding: 22px 20px; border-top: 1px solid var(--border); color: var(--muted); font-size: 14px; }
 .site-footer a { color: var(--muted); }
 .ad-zone { margin: 24px 0; padding: 12px; border: 1px dashed var(--border); border-radius: 6px; min-height: 60px; text-align: center; color: var(--muted); font-size: 13px; }
+table.stats { width: 100%; border-collapse: collapse; margin: 12px 0 24px; font-size: 14px; }
+table.stats th, table.stats td { padding: 8px 10px; border-bottom: 1px solid var(--border); text-align: left; }
+table.stats th { background: var(--card); font-weight: 600; }
+table.stats td:nth-child(n+2) { font-variant-numeric: tabular-nums; }
 @media (max-width:640px) { nav a { margin-left: 10px; font-size: 13px; } main.prose h1 { font-size: 26px; } }
 `;
 }

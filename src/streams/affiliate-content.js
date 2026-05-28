@@ -7,6 +7,7 @@ import { complete } from '../ai/providers.js';
 import { injectMonetization } from '../engine/monetize.js';
 import { filterFresh, recordTopic, pruneMemory } from '../engine/memory.js';
 import { schedulePending } from '../engine/feedback.js';
+import { gatherResearch, renderSourcesBlock, renderKeyPointsBlock } from '../engine/research.js';
 import { join } from 'node:path';
 
 const ARTICLES_DIR = join(paths.output, 'articles');
@@ -71,13 +72,23 @@ function humanizeKeyword(kw) {
 }
 
 async function generateArticle(topic, opp) {
-  const sys = `You are an expert affiliate content writer. You write SEO-optimized, value-first long-form articles. Style: clear, concrete, helpful, no fluff. Length: 900-1400 words. Include sections with H2 headers. Mention specific product categories where relevant so affiliate links can be inserted. Avoid making up brand specifics — use category language.`;
+  // Pull actual content from top trending sources backing this topic.
+  // Used as both LLM grounding (when key present) and as a Sources block (always).
+  const research = await gatherResearch(opp, 3);
+  const researchSummary = research
+    .filter(n => n.excerpt)
+    .map(n => `- ${n.title} (${n.source}): ${n.excerpt.slice(0, 220)}`)
+    .join('\n');
+
+  const sys = `You are an expert affiliate content writer. You write SEO-optimized, value-first long-form articles. Style: clear, concrete, helpful, no fluff. Length: 900-1400 words. Include sections with H2 headers. Mention specific product categories where relevant so affiliate links can be inserted. Cite the supplied sources by paraphrase only — do not quote them verbatim. Avoid making up brand specifics — use category language.`;
   const examplesText = (opp.examples || []).slice(0, 3).map(e => `- ${e.title} (${e.source})`).join('\n');
   const user = `Write a comprehensive article about: ${topic}
 
-Context — trending signals from across the web include:
+Trending signals on this topic:
 ${examplesText}
 
+${researchSummary ? `Source excerpts you may paraphrase (DO NOT QUOTE VERBATIM, do paraphrase the FACTS):
+${researchSummary}\n` : ''}
 Requirements:
 - Hook the reader in the first 2 sentences
 - Include H2 sections: Overview, Why It Matters, How to Start, Common Pitfalls, Recommendations
@@ -108,6 +119,10 @@ Requirements:
 
   // Strip duplicate title heading if AI emitted one
   let body = text.replace(/^#\s+.+\n/, '').trim();
+
+  // Append research blocks (key points + sources) — always, regardless of LLM
+  body += renderKeyPointsBlock(research, topic);
+  body += renderSourcesBlock(research);
 
   // Inject monetization (affiliate links, CTAs, ad zones)
   body = injectMonetization(body, topic, { products: deriveProductQueries(topic, opp), slug });
