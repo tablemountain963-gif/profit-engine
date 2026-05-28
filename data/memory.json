@@ -2,9 +2,9 @@
   "topics": {
     "claude-code": {
       "firstSeen": "2026-05-28T02:24:34.688Z",
-      "lastSeen": "2026-05-28T02:24:34.688Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-05-28T02:26:58.203Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -18,7 +18,63 @@
     },
     "claude": {
       "firstSeen": "2026-05-28T02:24:34.695Z",
-      "lastSeen": "2026-05-28T02:24:34.695Z",
+      "lastSeen": "2026-05-28T02:26:58.204Z",
+      "count": 2,
+      "wins": 1,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "search-visits": {
+      "firstSeen": "2026-05-28T02:26:59.200Z",
+      "lastSeen": "2026-05-28T02:26:59.200Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "love-mode": {
+      "firstSeen": "2026-05-28T02:26:59.263Z",
+      "lastSeen": "2026-05-28T02:26:59.263Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "pasting-huge": {
+      "firstSeen": "2026-05-28T02:26:59.748Z",
+      "lastSeen": "2026-05-28T02:26:59.748Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "generated-explanation": {
+      "firstSeen": "2026-05-28T02:26:59.876Z",
+      "lastSeen": "2026-05-28T02:26:59.876Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "huge-generated": {
+      "firstSeen": "2026-05-28T02:27:00.287Z",
+      "lastSeen": "2026-05-28T02:27:00.287Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "issue-pull-request": {
+      "firstSeen": "2026-05-28T02:27:00.288Z",
+      "lastSeen": "2026-05-28T02:27:00.288Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "pull-request-nothing": {
+      "firstSeen": "2026-05-28T02:27:00.288Z",
+      "lastSeen": "2026-05-28T02:27:00.288Z",
       "count": 1,
       "wins": 0,
       "losses": 0,
@@ -27,8 +83,8 @@
   },
   "niches": {
     "ai": {
-      "count": 3,
-      "wins": 0,
+      "count": 12,
+      "wins": 2,
       "losses": 0
     }
   },

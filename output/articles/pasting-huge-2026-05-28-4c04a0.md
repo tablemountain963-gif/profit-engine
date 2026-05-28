@@ -5,7 +5,7 @@ slug: pasting-huge-2026-05-28-4c04a0
 niche: ai
 keywords: ["Pasting Huge", "ai"]
 source_topic: "Pasting Huge"
-score: 17.55
+score: 35.14
 ---
 
 ## Introduction
@@ -44,6 +44,21 @@ Below are tools that the community consistently recommends for Pasting Huge. Eac
 ## Conclusion
 
 Pasting Huge rewards consistency over intensity. Pick a default, measure honestly, and iterate. Subscribe for new guides as they are published.
+
+## What People Are Saying About Pasting Huge
+
+- daniel:// stenberg://: "Pasting a huge AI generated explanation to a prob…" - Mastodon.
+
+
+## Sources & Context
+
+Reporting and discussion this guide draws on:
+
+- [**Pasting a huge AI generated explanation to a problem in an issue or pull-request is nothing but RUDE. Don't do it. You look stupid and the receivers of that feel insulted.We are humans. We communicate**](https://mastodon.social/@bagder/116648467657760137) — Mastodon
+   > daniel:// stenberg://: "Pasting a huge AI generated explanation to a prob…" - Mastodon
+
+*All sources are linked. Excerpts are quoted under fair use to give you context before clicking through.*
+
 
 ## Recommended Tools
 
