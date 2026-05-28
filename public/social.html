@@ -5,9 +5,12 @@
   <meta name="viewport" content="width=device-width,initial-scale=1" />
   <title>Social — Profit Engine</title>
   <meta name="description" content="AI-curated affiliate guides, trend digests, and digital starter packs. Updated automatically." />
+  <meta property="og:title" content="Social" />
+  <meta property="og:description" content="AI-curated affiliate guides, trend digests, and digital starter packs. Updated automatically." />
+  <meta property="og:type" content="list" />
+  <meta name="twitter:card" content="summary_large_image" />
   <link rel="alternate" type="application/rss+xml" href="/feed.xml" />
   <link rel="stylesheet" href="/style.css" />
-  
 </head>
 <body>
 <header class="site-header">
@@ -27,9 +30,9 @@
   
 <h1>Social</h1>
 <ul class="cards">
-<li class="card"><a href="/social/lawn-mower-2026-05-28.html"><strong>Lawn Mower</strong></a><p class="meta">2026-05-28 · finance</p></li>
-<li class="card"><a href="/social/riding-lawn-2026-05-28.html"><strong>Riding Lawn</strong></a><p class="meta">2026-05-28 · finance</p></li>
-<li class="card"><a href="/social/passive-income-2026-05-28.html"><strong>Passive Income</strong></a><p class="meta">2026-05-28 · ai</p></li>
+<li class="card"><a href="/social/product-market-fit-2026-05-28.html"><strong>Product Market Fit</strong></a><p class="meta">2026-05-28 · ai</p></li>
+<li class="card"><a href="/social/openai-product-market-2026-05-28.html"><strong>Openai Product Market</strong></a><p class="meta">2026-05-28 · ai</p></li>
+<li class="card"><a href="/social/anthropic-openai-2026-05-28.html"><strong>Anthropic Openai</strong></a><p class="meta">2026-05-28 · ai</p></li>
 </ul>
 
 
@@ -41,22 +44,5 @@
   <p>© 2026 Profit Engine. <a href="/feed.xml">RSS</a> · <a href="/sitemap.xml">Sitemap</a> · <a href="/api/signals.json">API</a></p>
   <p class="meta">Generated autonomously. <a href="/about.html">How it works</a>.</p>
 </footer>
-<script>
-(function(){
-  document.addEventListener('click', function(e){
-    var a = e.target.closest('a');
-    if (!a) return;
-    if (a.host && a.host !== location.host) {
-      try {
-        var key = 'profit_engine_clicks';
-        var arr = JSON.parse(localStorage.getItem(key) || '[]');
-        arr.unshift({ url: a.href, t: Date.now(), page: location.pathname });
-        if (arr.length > 50) arr = arr.slice(0, 50);
-        localStorage.setItem(key, JSON.stringify(arr));
-      } catch(_){}
-    }
-  }, { passive: true });
-})();
-</script>
 </body>
 </html>

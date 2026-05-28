@@ -5,9 +5,12 @@
   <meta name="viewport" content="width=device-width,initial-scale=1" />
   <title>Products — Profit Engine</title>
   <meta name="description" content="AI-curated affiliate guides, trend digests, and digital starter packs. Updated automatically." />
+  <meta property="og:title" content="Products" />
+  <meta property="og:description" content="AI-curated affiliate guides, trend digests, and digital starter packs. Updated automatically." />
+  <meta property="og:type" content="list" />
+  <meta name="twitter:card" content="summary_large_image" />
   <link rel="alternate" type="application/rss+xml" href="/feed.xml" />
   <link rel="stylesheet" href="/style.css" />
-  
 </head>
 <body>
 <header class="site-header">
@@ -27,7 +30,7 @@
   
 <h1>Products</h1>
 <ul class="cards">
-<li class="card"><a href="/products/starter-kit-side-hustle-2026-05-28.html"><strong>Side Hustle Starter Kit — Templates + Playbook</strong></a><p class="meta">2026-05-28 · $29 · finance</p></li>
+<li class="card"><a href="/products/prompt-pack-anthropic-openai-2026-05-28.html"><strong>Anthropic Openai Prompt Pack — 50 Battle-Tested Prompts</strong></a><p class="meta">2026-05-28 · $19 · ai</p></li>
 </ul>
 
 
@@ -39,22 +42,5 @@
   <p>© 2026 Profit Engine. <a href="/feed.xml">RSS</a> · <a href="/sitemap.xml">Sitemap</a> · <a href="/api/signals.json">API</a></p>
   <p class="meta">Generated autonomously. <a href="/about.html">How it works</a>.</p>
 </footer>
-<script>
-(function(){
-  document.addEventListener('click', function(e){
-    var a = e.target.closest('a');
-    if (!a) return;
-    if (a.host && a.host !== location.host) {
-      try {
-        var key = 'profit_engine_clicks';
-        var arr = JSON.parse(localStorage.getItem(key) || '[]');
-        arr.unshift({ url: a.href, t: Date.now(), page: location.pathname });
-        if (arr.length > 50) arr = arr.slice(0, 50);
-        localStorage.setItem(key, JSON.stringify(arr));
-      } catch(_){}
-    }
-  }, { passive: true });
-})();
-</script>
 </body>
 </html>

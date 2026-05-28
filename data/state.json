@@ -1,0 +1,31 @@
+{
+  "runs": 1,
+  "lastRun": "2026-05-28T01:58:48.341Z",
+  "streams": {
+    "trend-signals": {
+      "lastRunAt": "2026-05-28T01:58:49.352Z",
+      "lastResult": "25 items / 20 topics / 8 opps",
+      "totalRuns": 1
+    },
+    "affiliate-content": {
+      "lastRunAt": "2026-05-28T01:58:49.477Z",
+      "lastResult": "3 articles",
+      "totalRuns": 1
+    },
+    "digital-products": {
+      "lastRunAt": "2026-05-28T01:58:49.618Z",
+      "lastResult": "1 products",
+      "totalRuns": 1
+    },
+    "viral-factory": {
+      "lastRunAt": "2026-05-28T01:58:49.997Z",
+      "lastResult": "3 content packs",
+      "totalRuns": 1
+    }
+  },
+  "totals": {
+    "posts": 0,
+    "products": 0,
+    "signals": 0
+  }
+}
