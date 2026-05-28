@@ -80,7 +80,7 @@ export function injectMonetization(markdown, topic, opts = {}) {
   out += `\n\n## Get Weekly Picks Like This\n\n[Subscribe to the free newsletter](/subscribe.html) — one curated email per week on ${topic} and related niches.\n`;
 
   // 3. Digital product cross-sell
-  out += `\n## Want the Deep-Dive Pack?\n\nThe **${capitalize(topic)} Starter Pack** condenses everything in this guide plus printable checklists, templates, and a 30-day plan. [See pack →](/products/)\n`;
+  out += `\n## Want the Deep-Dive Pack?\n\nThe **${capitalize(topic)} Starter Pack** condenses everything in this guide plus printable checklists, templates, and a 30-day plan. [See pack →](/products.html)\n`;
 
   // 4. Sponsorship slot
   if (cfg.direct?.enabled) {

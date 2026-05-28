@@ -178,11 +178,15 @@ export function extractTopics(items, topN = 10) {
       const parts = k.split(' ');
       const nonStop = parts.filter(p => !STOPWORDS.has(p));
       if (nonStop.length !== parts.length) return false;
-      // Quality gate: keep only topics that are a named entity, niche-relevant,
-      // or commercially intentful. Drops conversational junk ("nothing rude").
+      // Drop news/political/geographic entities — keeps storefront commercial, on-theme.
+      if (NEWS_JUNK.has(k)) return false;
+      // Quality gate: keep named entities, niche-relevant, or commercial topics.
       const isProper = v.proper > 0;
       const isNiche = [...v.niches].some(n => n !== 'general') || parts.some(isInNicheVocab);
       const isCommercial = COMMERCIAL_HINTS.some(h => k.includes(h));
+      // Bare person/place names: only keep if strongly recurring (count>=10 ≈ 2+ proper mentions)
+      // AND carrying niche/commercial signal. Single-mention names get dropped.
+      if (isProper && !isNiche && !isCommercial && looksNameLike(k) && v.count < 10) return false;
       return isProper || isNiche || isCommercial;
     })
     .map(([keyword, v]) => ({
@@ -216,6 +220,28 @@ function isInNicheVocab(token) {
     if (words.some(w => w === token || w.split(' ').includes(token))) return true;
   }
   return false;
+}
+
+// News / political / geographic / generic entities that are NOT commercial topics.
+// Keeps the storefront on-theme (products & guides, not headlines).
+const NEWS_JUNK = new Set([
+  'white house','supreme court','united states','new york','los angeles','san francisco','bay area',
+  'european union','prime minister','president','congress','senate','parliament','pentagon',
+  'wall street','silicon valley','north korea','south korea','middle east','united kingdom',
+  'donald trump','joe biden','elon musk','vladimir putin','rude don','digital services act',
+  'salesforce','swiss','teenagers','instagram','youtube','threads','regenerative adult','stem cells',
+]);
+
+// Heuristic: looks like a person name or bare proper noun with no commercial/niche value.
+// Two Title-case words, neither niche nor commercial, no digits/symbols.
+function looksNameLike(keyword) {
+  const parts = keyword.split(' ');
+  if (parts.length !== 2) return false;
+  if (parts.some(p => isInNicheVocab(p))) return false;
+  if (COMMERCIAL_HINTS.some(h => keyword.includes(h))) return false;
+  if (/[0-9]/.test(keyword)) return false;
+  // both parts are plain alpha words (typical of "First Last")
+  return parts.every(p => /^[a-z]{3,}$/.test(p));
 }
 
 export function selectOpportunities(items, count = 5) {
