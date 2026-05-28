@@ -1,0 +1,12 @@
+node_modules/
+.env
+.env.local
+*.log
+data/engine.log
+.DS_Store
+.cache/
+.turbo/
+.next/
+dist/
+.idea/
+.vscode/

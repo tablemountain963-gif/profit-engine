@@ -1,0 +1,77 @@
+name: profit-engine
+
+on:
+  schedule:
+    # Every 4 hours — content + trend + viral cycles
+    - cron: '0 */4 * * *'
+    # Daily product factory at 11:00 UTC
+    - cron: '0 11 * * *'
+  workflow_dispatch:
+    inputs:
+      stream:
+        description: 'Run a specific stream only (trends | content | products | viral)'
+        required: false
+        default: ''
+      force:
+        description: 'Force run even if not due'
+        required: false
+        default: 'true'
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: profit-engine
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Run engine
+        env:
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+          CEREBRAS_API_KEY: ${{ secrets.CEREBRAS_API_KEY }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          AMAZON_ASSOC_TAG: ${{ secrets.AMAZON_ASSOC_TAG }}
+          SPONSOR_URL: ${{ secrets.SPONSOR_URL }}
+        run: |
+          set -e
+          if [ -n "${{ inputs.stream }}" ]; then
+            node src/engine/core.js --only ${{ inputs.stream }} ${{ inputs.force == 'true' && '--force' || '' }}
+          else
+            node src/engine/core.js --all
+          fi
+
+      - name: Commit generated content
+        run: |
+          git config user.name "profit-engine[bot]"
+          git config user.email "engine@profit.local"
+          git add -A
+          git diff --cached --quiet || git commit -m "engine: autonomous run $(date -u +%Y-%m-%dT%H:%MZ)"
+          git push || echo "no changes to push"
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload site artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: public
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

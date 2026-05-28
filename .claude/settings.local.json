@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(rm -rf output/articles/* data/articles.json)",
+      "Bash(node src/engine/core.js --only content --force)",
+      "Bash(rm -rf output/articles/* output/products/* output/sales/* output/digests/* output/social/* data/articles.json data/products.json data/digests.json data/social.json data/signals*.json data/state.json)",
+      "Bash(node src/engine/core.js --all --force)",
+      "Bash(git config *)",
+      "Bash(rm -rf output/articles/* output/products/* output/sales/* output/digests/* output/social/* data/articles.json data/products.json data/digests.json data/social.json data/signals*.json data/state.json public/)",
+      "Bash(git add *)",
+      "Bash(git commit -m 'feat: initial profit engine — autonomous multi-stream revenue system *)"
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "name": "profit-engine",
+  "version": "0.1.0",
+  "description": "Autonomous multi-stream revenue engine. Trend detection, content generation, digital product factory, affiliate distribution. Zero-input operation.",
+  "type": "module",
+  "main": "src/engine/core.js",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "engine": "node src/engine/core.js",
+    "stream:content": "node src/streams/affiliate-content.js",
+    "stream:products": "node src/streams/digital-products.js",
+    "stream:trends": "node src/streams/trend-signals.js",
+    "stream:viral": "node src/streams/viral-factory.js",
+    "build:site": "node scripts/build-site.js",
+    "report": "node scripts/report.js",
+    "all": "node src/engine/core.js --all"
+  },
+  "keywords": ["automation", "affiliate", "content", "ai", "revenue"],
+  "author": "Profit Engine",
+  "license": "UNLICENSED",
+  "private": true,
+  "dependencies": {}
+}
