@@ -1,3 +1,25 @@
 {
-  "items": []
+  "items": [
+    {
+      "slug": "claude-2026-05-28",
+      "topic": "Claude",
+      "date": "2026-05-28",
+      "niche": "ai",
+      "file": "social/claude-2026-05-28.md"
+    },
+    {
+      "slug": "bay-area-2026-05-28",
+      "topic": "Bay Area",
+      "date": "2026-05-28",
+      "niche": "software",
+      "file": "social/bay-area-2026-05-28.md"
+    },
+    {
+      "slug": "youtube-2026-05-28",
+      "topic": "Youtube",
+      "date": "2026-05-28",
+      "niche": "ai",
+      "file": "social/youtube-2026-05-28.md"
+    }
+  ]
 }

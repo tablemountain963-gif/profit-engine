@@ -1,88 +1,99 @@
 {
-  "generatedAt": "2026-05-28T03:34:22.602Z",
+  "generatedAt": "2026-05-28T04:01:39.366Z",
   "sourceCount": 204,
   "topItems": [
     {
       "title": "I think Anthropic and OpenAI have found product-market fit",
       "url": "https://simonwillison.net/2026/May/27/product-market-fit/",
-      "score": 9.96,
+      "score": 4.99,
       "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 694,
-        "comments": 860
+        "score": 699,
+        "comments": 869
       }
     },
     {
       "title": "Pasting a huge AI generated explanation to a problem in an issue or pull-request is nothing but RUDE. Don't do it. You look stupid and the receivers of that feel insulted.We are humans. We communicate",
       "url": "https://mastodon.social/@bagder/116648467657760137",
-      "score": 9.45,
+      "score": 4.75,
       "niche": "ai",
       "source": "mastodon",
       "engagement": {
-        "score": 656,
-        "comments": 16
+        "score": 678,
+        "comments": 17
       }
     },
     {
       "title": "Tech CEOs are apparently suffering from AI psychosis",
       "url": "https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/",
-      "score": 9.08,
+      "score": 4.54,
       "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 605,
-        "comments": 303
+        "score": 612,
+        "comments": 305
       }
     },
     {
       "title": "DuckDuckGo's AI-free search saw nearly 28% more visits in the week following Google's insistence that people love AI mode. Is anyone surprised by this result?https://xcancel.com/DuckDuckGo/status/2059",
       "url": "https://mastodon.social/@nixCraft/116647832352017668",
-      "score": 8.59,
+      "score": 4.3,
       "niche": "ai",
       "source": "mastodon",
       "engagement": {
-        "score": 757,
+        "score": 764,
         "comments": 36
+      }
+    },
+    {
+      "title": "A couple of weeks ago a woman who’d followed me on Instagram for 10 years happened to be in town and came to pay me a visit. We had written back and forth over the years and sent each other gifts in t",
+      "url": "https://mastodon.social/@potterybyosa/116649056834031429",
+      "score": 4.27,
+      "niche": "software",
+      "source": "mastodon",
+      "engagement": {
+        "score": 433,
+        "comments": 9
       }
     },
     {
       "title": "DuckDuckGo search saw 28% more visits after Google said people love AI mode",
       "url": "https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/",
-      "score": 8.06,
+      "score": 4.04,
       "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 707,
-        "comments": 351
+        "score": 714,
+        "comments": 355
       }
     },
     {
       "title": "YouTube to automatically label AI-generated videos",
       "url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
-      "score": 7.96,
+      "score": 3.99,
       "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 582,
-        "comments": 351
+        "score": 597,
+        "comments": 359
       }
     },
     {
       "title": "This is how the AI bubble bursts: https://www.theverge.com/ai-artificial-intelligence/917380/ai-monetization-anthropic-openai-token-economics-revenueThere is no conceivable way to break even for the A",
       "url": "https://wandering.shop/@cstross/116648209688298468",
-      "score": 7.57,
+      "score": 3.79,
       "niche": "ai",
       "source": "mastodon",
       "engagement": {
-        "score": 837,
-        "comments": 32
+        "score": 846,
+        "comments": 33
       }
     },
     {
       "title": "10 Best AI Text Generator Tools Tested for 2026",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE94ajFVejBCX2U3MUo1d3FlWFNzeTBXZU1ENl9LZkRrVWczWHRFN2lmNVd2U0E4Tk1YNFpqYnhfLTRmTVNhVUttOFNrQWdEOHZyNGF0Vm8xQQ?oc=5",
-      "score": 7.48,
+      "score": 3.74,
       "niche": "ai",
       "source": "gnews",
       "engagement": {
@@ -91,31 +102,64 @@
       }
     },
     {
+      "title": "What are some of your favourite developer tools?",
+      "url": "https://lobste.rs/s/2jdvxa/what_are_some_your_favourite_developer",
+      "score": 3.72,
+      "niche": "software",
+      "source": "lobsters",
+      "engagement": {
+        "score": 87,
+        "comments": 135
+      }
+    },
+    {
       "title": "\"Our entire economy is being artificially propped up by astrology for men: AI, crypto, sports betting, and prediction markets. It's an economy shaped entirely by male insecurity and lack of impulse co",
       "url": "https://mastodon.social/@gwynnion/116648655369385136",
-      "score": 7.32,
+      "score": 3.69,
       "niche": "ai",
       "source": "mastodon",
       "engagement": {
-        "score": 292,
-        "comments": 7
+        "score": 303,
+        "comments": 8
+      }
+    },
+    {
+      "title": "What Apple and Google are doing to push notifications",
+      "url": "https://www.jacquescorbytuech.com/writing/what-apple-and-google-are-doing-your-push-notifications",
+      "score": 3.61,
+      "niche": "software",
+      "source": "hackernews",
+      "engagement": {
+        "score": 207,
+        "comments": 214
       }
     },
     {
       "title": "The period blood that's been treated with fear and disgust is also the most easily and non-invasively available place to find Regenerative Adult Stem Cells. You know, the kind scientists are studying ",
       "url": "https://beige.party/@RickiTarr/116649271328963001",
-      "score": 6.97,
+      "score": 3.55,
       "niche": "ai",
       "source": "mastodon",
       "engagement": {
-        "score": 136,
-        "comments": 7
+        "score": 149,
+        "comments": 8
+      }
+    },
+    {
+      "title": "Beyond friggen pitiful and has to be among the absolute worst things to happen to the main portion of the White House since the British burned it during the War of 1812.#USpol “That is one helluva bef",
+      "url": "https://mastodon.world/@BrianJopek/116649816830581006",
+      "score": 3.44,
+      "niche": "ai",
+      "source": "mastodon",
+      "engagement": {
+        "score": 65,
+        "comments": 4
       }
     },
     {
       "title": "5-m0cftvuvif/stake-monthly — Stake Monthly is one of the most discussed topics in online platform communities, loyalty systems, and crypto entertainment ecosystems. This educational guide explains how",
       "url": "https://github.com/5-m0cftvuvif/stake-monthly",
-      "score": 6.76,
+      "score": 3.38,
       "niche": "ai",
       "source": "github",
       "engagement": {
@@ -126,29 +170,29 @@
     {
       "title": "Gemini, Gophers, and Fingers. Oh My Alternative Internets Beyond HTTPS",
       "url": "https://brennan.day/gemini-gophers-and-fingers-oh-my-alternative-internets-beyond-https/",
-      "score": 6.74,
+      "score": 3.37,
       "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 97,
+        "score": 99,
         "comments": 48
       }
     },
     {
       "title": "Do you like bumping your music a little loud? Cops are searching Flock Safety ALPR data to investigate noise complaints. The creeping use cases keep getting more absurd. https://www.eff.org/deeplinks/",
       "url": "https://mastodon.social/@eff/116649248906707388",
-      "score": 6.66,
+      "score": 3.35,
       "niche": "ai",
       "source": "mastodon",
       "engagement": {
-        "score": 120,
-        "comments": 0
+        "score": 121,
+        "comments": 1
       }
     },
     {
       "title": "Digital permitting, AI tools top of mind for NIBS panelists",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPLXBPcS1ZSXVFd3JkbmpqaHFqSGMyVFQwbVYzTnVHNUlPS1RFRWZvSHJUVjZXT1pqVEJVQ0tWN055SXZIcHFOSk1PVmo4NzFBYWlBMmZDaWNUUC1qT1J4cWJQa0ZUQlltR2ZKbDdMbUxQemd3SjVXZFItVk81M282WU9Dc2Q?oc=5",
-      "score": 6.61,
+      "score": 3.3,
       "niche": "ai",
       "source": "gnews",
       "engagement": {
@@ -159,7 +203,7 @@
     {
       "title": "I asked AI to turn my content into a PDF bookazine — these are the 4 tools that produced the best results",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTUU3UnZZd3pXc0FKSThuWjEyZUlZLUtWcGFUeno4V2NjYjZudjR5T3FFOWhLanZvc0hsbWI4N0Vfb3NONVdtOVV2YnlxQTNmZTFDV1dnRF81QmlTVzE4RDAyZ1RpRlJncmo0cndwY24wREFKWGxlamNVc1pJLU95WXhKbw?oc=5",
-      "score": 6.61,
+      "score": 3.3,
       "niche": "ai",
       "source": "gnews",
       "engagement": {
@@ -168,20 +212,9 @@
       }
     },
     {
-      "title": "Beyond friggen pitiful and has to be among the absolute worst things to happen to the main portion of the White House since the British burned it during the War of 1812.#USpol “That is one helluva bef",
-      "url": "https://mastodon.world/@BrianJopek/116649816830581006",
-      "score": 6.52,
-      "niche": "ai",
-      "source": "mastodon",
-      "engagement": {
-        "score": 52,
-        "comments": 3
-      }
-    },
-    {
       "title": "ai-best-tools/ai-image-video-gen — Millions of users trust this AI tool for realistic image and video generation. Advanced editing, full privacy protection, automatic deletion after every session. The",
       "url": "https://github.com/ai-best-tools/ai-image-video-gen",
-      "score": 6.47,
+      "score": 3.24,
       "niche": "ai",
       "source": "github",
       "engagement": {
@@ -190,90 +223,57 @@
       }
     },
     {
-      "title": "I barely open some of my favorite apps anymore after using Gemini this way",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNM21hRW5DT1VqQmVMMjk2c1doQ1dPVEVOd25JeTdmWURULXh3OTJtM0ZlcFlNQ1V5YlFjWnhGR0x1c2E4STd4Mjl6SG9BSVlGejZKdWlKMFRJS0lvSURMbmhoc0MxQklValZqUHRGS1UwWHlkOE8yVzR6MF9fOVBEZndQN1pkUmRoLWV1cnprMU8ybHlQOUt3?oc=5",
-      "score": 5.99,
-      "niche": "ai",
-      "source": "gnews",
+      "title": "Incident with Pull Requests, Issues, Git Operations and API Requests",
+      "url": "https://www.githubstatus.com/incidents/xy1tt3hs572m",
+      "score": 3.16,
+      "niche": "software",
+      "source": "hackernews",
       "engagement": {
-        "score": 40,
-        "comments": 0
+        "score": 275,
+        "comments": 194
       }
     },
     {
-      "title": "Best AI Tools for Business Intelligence in 2026",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBqWDgyZ1EzRDIxNkpBSFpZOEIxdXk1QXByak5lRmFLQWY5bjMxaVE3dlFrSXYtRXlDX0ljWHFwTHZYN0I3MEtyOUlLcGpXbDlLYlE1WUxXTk0tMk5DbU02WHBaNVVjNDdpQ2NtNzZtYS1DSzg?oc=5",
-      "score": 5.99,
-      "niche": "ai",
-      "source": "gnews",
+      "title": "Can we have the day off?",
+      "url": "https://mlsu.io/posts/day-off/",
+      "score": 3.16,
+      "niche": "general",
+      "source": "hackernews",
       "engagement": {
-        "score": 40,
-        "comments": 0
-      }
-    },
-    {
-      "title": "op7418/guizang-social-card-skill — 🪧 Claude Code / Codex skill — generate Xiaohongshu carousels & WeChat 21:9+1:1 cover pairs. Editorial × Swiss visual systems, 28 layouts, 10 themes, single-file HTM",
-      "url": "https://github.com/op7418/guizang-social-card-skill",
-      "score": 5.89,
-      "niche": "ai",
-      "source": "github",
-      "engagement": {
-        "score": 198,
-        "comments": 0
+        "score": 662,
+        "comments": 388
       }
     },
     {
       "title": "The cold civil war in the U.S. rages on, with the federal government contemplating a new assault on states and cities that exercise their right not to collaborate with ICE. https://www.theguardian.com",
       "url": "https://mastodon.social/@heidilifeldman/116649449858093133",
-      "score": 5.88,
+      "score": 3.04,
       "niche": "ai",
       "source": "mastodon",
       "engagement": {
-        "score": 66,
+        "score": 77,
         "comments": 1
       }
     },
     {
-      "title": "actuallyaridan/linux-devmgmt — A faithful recreation of the Windows Device Manager built with Qt6 and real hardware backends via sysfs/procfs. Best enjoyed with AeroThemePlasma, but looks great on reg",
-      "url": "https://github.com/actuallyaridan/linux-devmgmt",
-      "score": 5.7,
+      "title": "op7418/guizang-social-card-skill — 🪧 Claude Code / Codex skill — generate Xiaohongshu carousels & WeChat 21:9+1:1 cover pairs. Editorial × Swiss visual systems, 28 layouts, 10 themes, single-file HTM",
+      "url": "https://github.com/op7418/guizang-social-card-skill",
+      "score": 3.04,
       "niche": "ai",
       "source": "github",
       "engagement": {
-        "score": 189,
-        "comments": 1
-      }
-    },
-    {
-      "title": "Rust (and Slint) on a Jailbroken Kindle",
-      "url": "https://sverre.me/blog/rust-on-kindle/",
-      "score": 5.47,
-      "niche": "ai",
-      "source": "hackernews",
-      "engagement": {
-        "score": 112,
-        "comments": 12
-      }
-    },
-    {
-      "title": "Salesforce First-Quarter Sales, Profit Rise Amid Agentforce Efforts",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQeks0UVVsN1ljWTV0Sm5tcGFzTG9GTElzeUFtNnhCSlVVc1o1QTViVlJ1YWtRQ3dVd0FOUWRjTmdleUtBWm9HR0d1bi1jdHdmZ0VMM25kNGxwMzBvT0V4dWJCSGVNd3FpcS02RnZHOUtzRERPNDhTek5talhBSGZhRHYxZTB6ZFN1RDF5V2NTZVBsVHh0ZzBESDBOcjJHNVlEUkphVnY5NEtGOHNBUDE2ZHpyQQ?oc=5",
-      "score": 5.37,
-      "niche": "ai",
-      "source": "gnews",
-      "engagement": {
-        "score": 40,
+        "score": 237,
         "comments": 0
       }
     },
     {
-      "title": "Bhojendra-dev/LSFG-Desktop — lossless scaling steam desck download github reddit android lsfg 3 frame generation best settings upscaling ai ls1 fsr nis integer scaling windows 11 steam deck decky load",
-      "url": "https://github.com/Bhojendra-dev/LSFG-Desktop",
-      "score": 5.33,
+      "title": "Top 10: AI Benchmarking Tools",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9TSml2ay1UVjFKeVZjSVN1dS04WTJjV2NzUVZ0Ymd6cmMtNUtnNmJlTzJsUVBub2JWWHRUSXlaWWZnZ1hrWDlGLVZSaTFFaUtZd1VzUnRYcF9IakFqT25qVlRBdGdHaGFQ?oc=5",
+      "score": 2.99,
       "niche": "ai",
-      "source": "github",
+      "source": "gnews",
       "engagement": {
-        "score": 135,
+        "score": 40,
         "comments": 0
       }
     }
@@ -281,8 +281,8 @@
   "topics": [
     {
       "keyword": "claude code",
-      "count": 40,
-      "score": 254.82464483917414,
+      "count": 35,
+      "score": 115.59258493787394,
       "proper": true,
       "niches": [
         "ai"
@@ -320,7 +320,7 @@
     {
       "keyword": "google",
       "count": 15,
-      "score": 139.95066154601682,
+      "score": 78.37293458119743,
       "proper": true,
       "niches": [
         "ai",
@@ -347,9 +347,48 @@
       "slug": "google"
     },
     {
+      "keyword": "passive income",
+      "count": 42,
+      "score": 70.42704545523742,
+      "proper": false,
+      "niches": [
+        "finance",
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "How much does someone need to put in the stock market to stop working and live off passive income?",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQdkd2UDdXWUliUWZGUl9RclI3Z3plejNKNHIzTTNxMkRDSGNIRGtCVzZFYi1LbF9ER0VsNmgza2J1bFJmem1XVFVMc3M3c2RXak43ZEdhclpUZjZvR3RkNHJscmhYSnNJVWpMMFdQS2xBNUx0NjVoQWtrZXRiTGpFdGdYa19hbG5oZWVDeEVBV2h3c1NrdUlraEoyWXIyTWhKcXVydmVYdS1hSFpNNERPSjFCdVA0bHQ5VV91aDhoOWIyQjJIZF9yOFhwcnhuaWcwRTlPRjhn?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "5 Strong Buy Passive Income Giants Have Raised Their Dividends by Double Digits for Years",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPYXVpZFpKTGhLS0ZuWDQtemx4TTZ4dnVZZTQwUjUwa3BoWXNGZlNsampXbUhqNjVMbkw3eUVQU0E4NF9rbm54RlZXdXZSTmVSN1ozdlM0d2JjUG9WVmU1a0hWczJCeFROeERzeF9ocmZVZUpKMHd0ZFFTSG1MMjgtVnhtRXNQV0MyV21WS3M5bmJicGF4d1JJWThDNnJiMkl3eTBMQnFWMUM0cVg0YVFHSnNNMXlBT3BZdldueVNESVJMWmp2bmJ3ZjJtSmI?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "5 Strong Buy Passive Income Giants Have Raised Their Dividends by Double Digits for Years",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPYXVpZFpKTGhLS0ZuWDQtemx4TTZ4dnVZZTQwUjUwa3BoWXNGZlNsampXbUhqNjVMbkw3eUVQU0E4NF9rbm54RlZXdXZSTmVSN1ozdlM0d2JjUG9WVmU1a0hWczJCeFROeERzeF9ocmZVZUpKMHd0ZFFTSG1MMjgtVnhtRXNQV0MyV21WS3M5bmJicGF4d1JJWThDNnJiMkl3eTBMQnFWMUM0cVg0YVFHSnNNMXlBT3BZdldueVNESVJMWmp2bmJ3ZjJtSmI?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "6.3% yield! Could Aviva shares give me passive income for life?",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBicW5zbkhQYXBHXzlHazZ2c0ExNG93M3pMTW1NOGdLVVk4cEIxQ3BFbDJTbGFPaHNWRFR3NEJjUnhvRUdpX1dDMWJUMjBUNnkya1BMUWJQVVdQMUVwX181cTFiWkNwUGtJYmZLemtINGkxd2pnR05rdERn?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "6.3% yield! Could Aviva shares give me passive income for life?",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBicW5zbkhQYXBHXzlHazZ2c0ExNG93M3pMTW1NOGdLVVk4cEIxQ3BFbDJTbGFPaHNWRFR3NEJjUnhvRUdpX1dDMWJUMjBUNnkya1BMUWJQVVdQMUVwX181cTFiWkNwUGtJYmZLemtINGkxd2pnR05rdERn?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "cf2dbbbf8c8c",
+      "slug": "passive-income"
+    },
+    {
       "keyword": "gemini",
       "count": 14,
-      "score": 125.5552369772928,
+      "score": 62.83662960386134,
       "proper": true,
       "niches": [
         "ai"
@@ -387,7 +426,7 @@
     {
       "keyword": "duckduckgo",
       "count": 10,
-      "score": 124.91825124264699,
+      "score": 62.54351175395307,
       "proper": true,
       "niches": [
         "ai"
@@ -410,7 +449,7 @@
     {
       "keyword": "tech ceos",
       "count": 8,
-      "score": 108.93398055336368,
+      "score": 54.53630093708895,
       "proper": true,
       "niches": [
         "ai"
@@ -431,37 +470,84 @@
       "slug": "tech-ceos"
     },
     {
-      "keyword": "business intelligence",
+      "keyword": "youtube",
+      "count": 10,
+      "score": 46.47575640698763,
+      "proper": true,
+      "niches": [
+        "ai",
+        "general"
+      ],
+      "examples": [
+        {
+          "title": "YouTube to automatically label AI-generated videos",
+          "url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
+          "source": "hackernews"
+        },
+        {
+          "title": "Stephen Colbert has a new YouTube channel, spread the word. Nothing on it besides his hilarious “Only In Monroe” cable access video from this past weekend, but… stay tuned, I presume?https://www.youtu",
+          "url": "https://mstdn.social/@Dr_Bombay/116649199563131844",
+          "source": "mastodon"
+        }
+      ],
+      "id": "24e6654bfd1a",
+      "slug": "youtube"
+    },
+    {
+      "keyword": "bay area",
       "count": 11,
-      "score": 98.77978565637038,
+      "score": 44.662173470882465,
+      "proper": true,
+      "niches": [
+        "software"
+      ],
+      "examples": [
+        {
+          "title": "Bay Area peeps! What are you doing this weekend? Why not join me and a bunch of other amazing authors at the Bay Area Book Festival?? It's all happening in downtown Berkeley! I'll be there Saturday an",
+          "url": "https://wandering.shop/@annaleen/116649967707845196",
+          "source": "mastodon"
+        },
+        {
+          "title": "Bay Area peeps! What are you doing this weekend? Why not join me and a bunch of other amazing authors at the Bay Area Book Festival?? It's all happening in downtown Berkeley! I'll be there Saturday an",
+          "url": "https://wandering.shop/@annaleen/116649967707845196",
+          "source": "mastodon"
+        },
+        {
+          "title": "Bay Area peeps! What are you doing this weekend? Why not join me and a bunch of other amazing authors at the Bay Area Book Festival?? It's all happening in downtown Berkeley! I'll be there Saturday an",
+          "url": "https://wandering.shop/@annaleen/116649967707845196",
+          "source": "mastodon"
+        }
+      ],
+      "id": "45b9dcc6740f",
+      "slug": "bay-area"
+    },
+    {
+      "keyword": "white house",
+      "count": 8,
+      "score": 41.27263637165996,
       "proper": true,
       "niches": [
         "ai"
       ],
       "examples": [
         {
-          "title": "Best AI Tools for Business Intelligence in 2026",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBqWDgyZ1EzRDIxNkpBSFpZOEIxdXk1QXByak5lRmFLQWY5bjMxaVE3dlFrSXYtRXlDX0ljWHFwTHZYN0I3MEtyOUlLcGpXbDlLYlE1WUxXTk0tMk5DbU02WHBaNVVjNDdpQ2NtNzZtYS1DSzg?oc=5",
-          "source": "gnews"
+          "title": "Beyond friggen pitiful and has to be among the absolute worst things to happen to the main portion of the White House since the British burned it during the War of 1812.#USpol “That is one helluva bef",
+          "url": "https://mastodon.world/@BrianJopek/116649816830581006",
+          "source": "mastodon"
         },
         {
-          "title": "Best AI Tools for Business Intelligence in 2026",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBqWDgyZ1EzRDIxNkpBSFpZOEIxdXk1QXByak5lRmFLQWY5bjMxaVE3dlFrSXYtRXlDX0ljWHFwTHZYN0I3MEtyOUlLcGpXbDlLYlE1WUxXTk0tMk5DbU02WHBaNVVjNDdpQ2NtNzZtYS1DSzg?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Best AI Tools for Business Intelligence in 2026",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBqWDgyZ1EzRDIxNkpBSFpZOEIxdXk1QXByak5lRmFLQWY5bjMxaVE3dlFrSXYtRXlDX0ljWHFwTHZYN0I3MEtyOUlLcGpXbDlLYlE1WUxXTk0tMk5DbU02WHBaNVVjNDdpQ2NtNzZtYS1DSzg?oc=5",
-          "source": "gnews"
+          "title": "Beyond friggen pitiful and has to be among the absolute worst things to happen to the main portion of the White House since the British burned it during the War of 1812.#USpol “That is one helluva bef",
+          "url": "https://mastodon.world/@BrianJopek/116649816830581006",
+          "source": "mastodon"
         }
       ],
-      "id": "3fbe0f5eddbf",
-      "slug": "business-intelligence"
+      "id": "c75bae7088ed",
+      "slug": "white-house"
     },
     {
       "keyword": "claude",
-      "count": 15,
-      "score": 95.63628778365029,
+      "count": 11,
+      "score": 40.44539714548701,
       "proper": true,
       "niches": [
         "ai"
@@ -497,95 +583,32 @@
       "slug": "claude"
     },
     {
-      "keyword": "passive income",
-      "count": 42,
-      "score": 82.50357097435479,
-      "proper": false,
-      "niches": [
-        "ai",
-        "finance"
-      ],
-      "examples": [
-        {
-          "title": "5 Strong Buy Passive Income Giants Have Raised Their Dividends by Double Digits for Years",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPYXVpZFpKTGhLS0ZuWDQtemx4TTZ4dnVZZTQwUjUwa3BoWXNGZlNsampXbUhqNjVMbkw3eUVQU0E4NF9rbm54RlZXdXZSTmVSN1ozdlM0d2JjUG9WVmU1a0hWczJCeFROeERzeF9ocmZVZUpKMHd0ZFFTSG1MMjgtVnhtRXNQV0MyV21WS3M5bmJicGF4d1JJWThDNnJiMkl3eTBMQnFWMUM0cVg0YVFHSnNNMXlBT3BZdldueVNESVJMWmp2bmJ3ZjJtSmI?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "5 Strong Buy Passive Income Giants Have Raised Their Dividends by Double Digits for Years",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPYXVpZFpKTGhLS0ZuWDQtemx4TTZ4dnVZZTQwUjUwa3BoWXNGZlNsampXbUhqNjVMbkw3eUVQU0E4NF9rbm54RlZXdXZSTmVSN1ozdlM0d2JjUG9WVmU1a0hWczJCeFROeERzeF9ocmZVZUpKMHd0ZFFTSG1MMjgtVnhtRXNQV0MyV21WS3M5bmJicGF4d1JJWThDNnJiMkl3eTBMQnFWMUM0cVg0YVFHSnNNMXlBT3BZdldueVNESVJMWmp2bmJ3ZjJtSmI?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "How much does someone need to put in the stock market to stop working and live off passive income?",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQdkd2UDdXWUliUWZGUl9RclI3Z3plejNKNHIzTTNxMkRDSGNIRGtCVzZFYi1LbF9ER0VsNmgza2J1bFJmem1XVFVMc3M3c2RXak43ZEdhclpUZjZvR3RkNHJscmhYSnNJVWpMMFdQS2xBNUx0NjVoQWtrZXRiTGpFdGdYa19hbG5oZWVDeEVBV2h3c1NrdUlraEoyWXIyTWhKcXVydmVYdS1hSFpNNERPSjFCdVA0bHQ5VV91aDhoOWIyQjJIZF9yOFhwcnhuaWcwRTlPRjhn?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "6.3% yield! Could Aviva shares give me passive income for life?",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBicW5zbkhQYXBHXzlHazZ2c0ExNG93M3pMTW1NOGdLVVk4cEIxQ3BFbDJTbGFPaHNWRFR3NEJjUnhvRUdpX1dDMWJUMjBUNnkya1BMUWJQVVdQMUVwX181cTFiWkNwUGtJYmZLemtINGkxd2pnR05rdERn?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "6.3% yield! Could Aviva shares give me passive income for life?",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBicW5zbkhQYXBHXzlHazZ2c0ExNG93M3pMTW1NOGdLVVk4cEIxQ3BFbDJTbGFPaHNWRFR3NEJjUnhvRUdpX1dDMWJUMjBUNnkya1BMUWJQVVdQMUVwX181cTFiWkNwUGtJYmZLemtINGkxd2pnR05rdERn?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "cf2dbbbf8c8c",
-      "slug": "passive-income"
-    },
-    {
-      "keyword": "white house",
+      "keyword": "pull requests",
       "count": 8,
-      "score": 78.2008248341171,
+      "score": 37.929938986706155,
       "proper": true,
       "niches": [
-        "ai"
+        "software"
       ],
       "examples": [
         {
-          "title": "Beyond friggen pitiful and has to be among the absolute worst things to happen to the main portion of the White House since the British burned it during the War of 1812.#USpol “That is one helluva bef",
-          "url": "https://mastodon.world/@BrianJopek/116649816830581006",
-          "source": "mastodon"
-        },
-        {
-          "title": "Beyond friggen pitiful and has to be among the absolute worst things to happen to the main portion of the White House since the British burned it during the War of 1812.#USpol “That is one helluva bef",
-          "url": "https://mastodon.world/@BrianJopek/116649816830581006",
-          "source": "mastodon"
-        }
-      ],
-      "id": "c75bae7088ed",
-      "slug": "white-house"
-    },
-    {
-      "keyword": "youtube",
-      "count": 10,
-      "score": 76.0761257823444,
-      "proper": true,
-      "niches": [
-        "ai",
-        "general"
-      ],
-      "examples": [
-        {
-          "title": "YouTube to automatically label AI-generated videos",
-          "url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
+          "title": "Incident with Pull Requests, Issues, Git Operations and API Requests",
+          "url": "https://www.githubstatus.com/incidents/xy1tt3hs572m",
           "source": "hackernews"
         },
         {
-          "title": "Stephen Colbert has a new YouTube channel, spread the word. Nothing on it besides his hilarious “Only In Monroe” cable access video from this past weekend, but… stay tuned, I presume?https://www.youtu",
-          "url": "https://mstdn.social/@Dr_Bombay/116649199563131844",
-          "source": "mastodon"
+          "title": "Incident with Pull Requests, Issues, Git Operations and API Requests",
+          "url": "https://www.githubstatus.com/incidents/xy1tt3hs572m",
+          "source": "hackernews"
         }
       ],
-      "id": "24e6654bfd1a",
-      "slug": "youtube"
+      "id": "dcf2de551320",
+      "slug": "pull-requests"
     },
     {
       "keyword": "rude. don",
       "count": 5,
-      "score": 70.84195177881435,
+      "score": 35.60655733255129,
       "proper": true,
       "niches": [
         "ai"
@@ -603,7 +626,7 @@
     {
       "keyword": "anthropic",
       "count": 10,
-      "score": 69.9498165166973,
+      "score": 35.005357811591324,
       "proper": true,
       "niches": [
         "ai"
@@ -626,7 +649,7 @@
     {
       "keyword": "jailbroken kindle",
       "count": 8,
-      "score": 65.64005582304482,
+      "score": 33.012005570386634,
       "proper": true,
       "niches": [
         "ai"
@@ -647,68 +670,34 @@
       "slug": "jailbroken-kindle"
     },
     {
-      "keyword": "open",
-      "count": 9,
-      "score": 56.706209600876136,
+      "keyword": "gold bars",
+      "count": 8,
+      "score": 30.408313272673617,
       "proper": true,
       "niches": [
-        "ai",
         "general"
       ],
       "examples": [
         {
-          "title": "I barely open some of my favorite apps anymore after using Gemini this way",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNM21hRW5DT1VqQmVMMjk2c1doQ1dPVEVOd25JeTdmWURULXh3OTJtM0ZlcFlNQ1V5YlFjWnhGR0x1c2E4STd4Mjl6SG9BSVlGejZKdWlKMFRJS0lvSURMbmhoc0MxQklValZqUHRGS1UwWHlkOE8yVzR6MF9fOVBEZndQN1pkUmRoLWV1cnprMU8ybHlQOUt3?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "I barely open some of my favorite apps anymore after using Gemini this way",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNM21hRW5DT1VqQmVMMjk2c1doQ1dPVEVOd25JeTdmWURULXh3OTJtM0ZlcFlNQ1V5YlFjWnhGR0x1c2E4STd4Mjl6SG9BSVlGejZKdWlKMFRJS0lvSURMbmhoc0MxQklValZqUHRGS1UwWHlkOE8yVzR6MF9fOVBEZndQN1pkUmRoLWV1cnprMU8ybHlQOUt3?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "zhristophe/Claude-Mythos-AI-Anthropic-App — claude mythos ai anthropic app github open source desktop mobile client abhishekk130804 anthropic api key creative writing roleplay character cards deep rea",
-          "url": "https://github.com/zhristophe/Claude-Mythos-AI-Anthropic-App",
-          "source": "github"
-        },
-        {
-          "title": "Show HN: Open-Source AI Racing Harness",
-          "url": "https://www.elodin.systems/post/elodin-ai-grand-prix-race-sim-harness",
+          "title": "FBI Arrests CIA Official with $40M in Gold Bars in His Home",
+          "url": "https://www.nytimes.com/2026/05/27/us/politics/fbi-arrest-cia-official-gold-bars.html",
           "source": "hackernews"
         },
         {
-          "title": "Noahmusahdevs/roblox-account-manager — roblox account manager github Download  Multi Roblox Account ic3w0lf22 rbx account manager alt manager multi instance roblox alt accounts cookie extractor open s",
-          "url": "https://github.com/Noahmusahdevs/roblox-account-manager",
-          "source": "github"
+          "title": "FBI Arrests CIA Official with $40M in Gold Bars in His Home",
+          "url": "https://www.nytimes.com/2026/05/27/us/politics/fbi-arrest-cia-official-gold-bars.html",
+          "source": "hackernews"
         }
       ],
-      "id": "2348f9987442",
-      "slug": "open"
-    },
-    {
-      "keyword": "regenerative adult stem cells",
-      "count": 5,
-      "score": 52.295446735036066,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "The period blood that's been treated with fear and disgust is also the most easily and non-invasively available place to find Regenerative Adult Stem Cells. You know, the kind scientists are studying ",
-          "url": "https://beige.party/@RickiTarr/116649271328963001",
-          "source": "mastodon"
-        }
-      ],
-      "id": "6c0b80527c5f",
-      "slug": "regenerative-adult-stem-cells"
+      "id": "9ae71ce5f599",
+      "slug": "gold-bars"
     }
   ],
   "opportunities": [
     {
       "keyword": "claude code",
-      "count": 40,
-      "score": 254.82464483917414,
+      "count": 35,
+      "score": 115.59258493787394,
       "proper": true,
       "niches": [
         "ai"
@@ -750,7 +739,7 @@
     {
       "keyword": "google",
       "count": 15,
-      "score": 139.95066154601682,
+      "score": 78.37293458119743,
       "proper": true,
       "niches": [
         "ai",
@@ -781,9 +770,52 @@
       }
     },
     {
+      "keyword": "passive income",
+      "count": 42,
+      "score": 70.42704545523742,
+      "proper": false,
+      "niches": [
+        "finance",
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "How much does someone need to put in the stock market to stop working and live off passive income?",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQdkd2UDdXWUliUWZGUl9RclI3Z3plejNKNHIzTTNxMkRDSGNIRGtCVzZFYi1LbF9ER0VsNmgza2J1bFJmem1XVFVMc3M3c2RXak43ZEdhclpUZjZvR3RkNHJscmhYSnNJVWpMMFdQS2xBNUx0NjVoQWtrZXRiTGpFdGdYa19hbG5oZWVDeEVBV2h3c1NrdUlraEoyWXIyTWhKcXVydmVYdS1hSFpNNERPSjFCdVA0bHQ5VV91aDhoOWIyQjJIZF9yOFhwcnhuaWcwRTlPRjhn?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "5 Strong Buy Passive Income Giants Have Raised Their Dividends by Double Digits for Years",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPYXVpZFpKTGhLS0ZuWDQtemx4TTZ4dnVZZTQwUjUwa3BoWXNGZlNsampXbUhqNjVMbkw3eUVQU0E4NF9rbm54RlZXdXZSTmVSN1ozdlM0d2JjUG9WVmU1a0hWczJCeFROeERzeF9ocmZVZUpKMHd0ZFFTSG1MMjgtVnhtRXNQV0MyV21WS3M5bmJicGF4d1JJWThDNnJiMkl3eTBMQnFWMUM0cVg0YVFHSnNNMXlBT3BZdldueVNESVJMWmp2bmJ3ZjJtSmI?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "5 Strong Buy Passive Income Giants Have Raised Their Dividends by Double Digits for Years",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPYXVpZFpKTGhLS0ZuWDQtemx4TTZ4dnVZZTQwUjUwa3BoWXNGZlNsampXbUhqNjVMbkw3eUVQU0E4NF9rbm54RlZXdXZSTmVSN1ozdlM0d2JjUG9WVmU1a0hWczJCeFROeERzeF9ocmZVZUpKMHd0ZFFTSG1MMjgtVnhtRXNQV0MyV21WS3M5bmJicGF4d1JJWThDNnJiMkl3eTBMQnFWMUM0cVg0YVFHSnNNMXlBT3BZdldueVNESVJMWmp2bmJ3ZjJtSmI?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "6.3% yield! Could Aviva shares give me passive income for life?",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBicW5zbkhQYXBHXzlHazZ2c0ExNG93M3pMTW1NOGdLVVk4cEIxQ3BFbDJTbGFPaHNWRFR3NEJjUnhvRUdpX1dDMWJUMjBUNnkya1BMUWJQVVdQMUVwX181cTFiWkNwUGtJYmZLemtINGkxd2pnR05rdERn?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "6.3% yield! Could Aviva shares give me passive income for life?",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBicW5zbkhQYXBHXzlHazZ2c0ExNG93M3pMTW1NOGdLVVk4cEIxQ3BFbDJTbGFPaHNWRFR3NEJjUnhvRUdpX1dDMWJUMjBUNnkya1BMUWJQVVdQMUVwX181cTFiWkNwUGtJYmZLemtINGkxd2pnR05rdERn?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "cf2dbbbf8c8c",
+      "slug": "passive-income",
+      "opportunity": {
+        "type": "niche-content",
+        "recommended": "Publish niche guide for \"finance\"; bundle into digital product later."
+      }
+    },
+    {
       "keyword": "gemini",
       "count": 14,
-      "score": 125.5552369772928,
+      "score": 62.83662960386134,
       "proper": true,
       "niches": [
         "ai"
@@ -825,7 +857,7 @@
     {
       "keyword": "duckduckgo",
       "count": 10,
-      "score": 124.91825124264699,
+      "score": 62.54351175395307,
       "proper": true,
       "niches": [
         "ai"
@@ -852,7 +884,7 @@
     {
       "keyword": "tech ceos",
       "count": 8,
-      "score": 108.93398055336368,
+      "score": 54.53630093708895,
       "proper": true,
       "niches": [
         "ai"
@@ -877,120 +909,63 @@
       }
     },
     {
-      "keyword": "business intelligence",
-      "count": 11,
-      "score": 98.77978565637038,
+      "keyword": "youtube",
+      "count": 10,
+      "score": 46.47575640698763,
       "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "Best AI Tools for Business Intelligence in 2026",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBqWDgyZ1EzRDIxNkpBSFpZOEIxdXk1QXByak5lRmFLQWY5bjMxaVE3dlFrSXYtRXlDX0ljWHFwTHZYN0I3MEtyOUlLcGpXbDlLYlE1WUxXTk0tMk5DbU02WHBaNVVjNDdpQ2NtNzZtYS1DSzg?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Best AI Tools for Business Intelligence in 2026",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBqWDgyZ1EzRDIxNkpBSFpZOEIxdXk1QXByak5lRmFLQWY5bjMxaVE3dlFrSXYtRXlDX0ljWHFwTHZYN0I3MEtyOUlLcGpXbDlLYlE1WUxXTk0tMk5DbU02WHBaNVVjNDdpQ2NtNzZtYS1DSzg?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Best AI Tools for Business Intelligence in 2026",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBqWDgyZ1EzRDIxNkpBSFpZOEIxdXk1QXByak5lRmFLQWY5bjMxaVE3dlFrSXYtRXlDX0ljWHFwTHZYN0I3MEtyOUlLcGpXbDlLYlE1WUxXTk0tMk5DbU02WHBaNVVjNDdpQ2NtNzZtYS1DSzg?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "3fbe0f5eddbf",
-      "slug": "business-intelligence",
-      "opportunity": {
-        "type": "niche-content",
-        "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
-      }
-    },
-    {
-      "keyword": "claude",
-      "count": 15,
-      "score": 95.63628778365029,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "op7418/guizang-social-card-skill — 🪧 Claude Code / Codex skill — generate Xiaohongshu carousels & WeChat 21:9+1:1 cover pairs. Editorial × Swiss visual systems, 28 layouts, 10 themes, single-file HTM",
-          "url": "https://github.com/op7418/guizang-social-card-skill",
-          "source": "github"
-        },
-        {
-          "title": "zhristophe/Claude-Mythos-AI-Anthropic-App — claude mythos ai anthropic app github open source desktop mobile client abhishekk130804 anthropic api key creative writing roleplay character cards deep rea",
-          "url": "https://github.com/zhristophe/Claude-Mythos-AI-Anthropic-App",
-          "source": "github"
-        },
-        {
-          "title": "zhristophe/Claude-Mythos-AI-Anthropic-App — claude mythos ai anthropic app github open source desktop mobile client abhishekk130804 anthropic api key creative writing roleplay character cards deep rea",
-          "url": "https://github.com/zhristophe/Claude-Mythos-AI-Anthropic-App",
-          "source": "github"
-        },
-        {
-          "title": "Claude Code is the best AI coding tool I've used, and I’m not entirely sure if I can recommend it",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMnJUQnpneEtHMEJFZzZ0V0djN24zOVQyM3hpT09WYm5sUXBRVEo0QkFCZG50Q3RMMUtuczFwYk9aMEYxSFpBMVkxNDhrRmpOTUNJWE9teEVsR3JDYW9YMktENFYxQlBjTC1lM2hfYTJ3WkI4c0tyMTh3X0UzSWUwVUFMRlQtSjhIcnRuTTVYUW9OeXFVbUtHYmt3?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Claude Code is the best AI coding tool I've used, and I’m not entirely sure if I can recommend it",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMnJUQnpneEtHMEJFZzZ0V0djN24zOVQyM3hpT09WYm5sUXBRVEo0QkFCZG50Q3RMMUtuczFwYk9aMEYxSFpBMVkxNDhrRmpOTUNJWE9teEVsR3JDYW9YMktENFYxQlBjTC1lM2hfYTJ3WkI4c0tyMTh3X0UzSWUwVUFMRlQtSjhIcnRuTTVYUW9OeXFVbUtHYmt3?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "c857d09db23e",
-      "slug": "claude",
-      "opportunity": {
-        "type": "tooling",
-        "recommended": "Build / list AI tools; monetize via affiliate links + lead magnet."
-      }
-    },
-    {
-      "keyword": "passive income",
-      "count": 42,
-      "score": 82.50357097435479,
-      "proper": false,
       "niches": [
         "ai",
-        "finance"
+        "general"
       ],
       "examples": [
         {
-          "title": "5 Strong Buy Passive Income Giants Have Raised Their Dividends by Double Digits for Years",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPYXVpZFpKTGhLS0ZuWDQtemx4TTZ4dnVZZTQwUjUwa3BoWXNGZlNsampXbUhqNjVMbkw3eUVQU0E4NF9rbm54RlZXdXZSTmVSN1ozdlM0d2JjUG9WVmU1a0hWczJCeFROeERzeF9ocmZVZUpKMHd0ZFFTSG1MMjgtVnhtRXNQV0MyV21WS3M5bmJicGF4d1JJWThDNnJiMkl3eTBMQnFWMUM0cVg0YVFHSnNNMXlBT3BZdldueVNESVJMWmp2bmJ3ZjJtSmI?oc=5",
-          "source": "gnews"
+          "title": "YouTube to automatically label AI-generated videos",
+          "url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
+          "source": "hackernews"
         },
         {
-          "title": "5 Strong Buy Passive Income Giants Have Raised Their Dividends by Double Digits for Years",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPYXVpZFpKTGhLS0ZuWDQtemx4TTZ4dnVZZTQwUjUwa3BoWXNGZlNsampXbUhqNjVMbkw3eUVQU0E4NF9rbm54RlZXdXZSTmVSN1ozdlM0d2JjUG9WVmU1a0hWczJCeFROeERzeF9ocmZVZUpKMHd0ZFFTSG1MMjgtVnhtRXNQV0MyV21WS3M5bmJicGF4d1JJWThDNnJiMkl3eTBMQnFWMUM0cVg0YVFHSnNNMXlBT3BZdldueVNESVJMWmp2bmJ3ZjJtSmI?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "How much does someone need to put in the stock market to stop working and live off passive income?",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQdkd2UDdXWUliUWZGUl9RclI3Z3plejNKNHIzTTNxMkRDSGNIRGtCVzZFYi1LbF9ER0VsNmgza2J1bFJmem1XVFVMc3M3c2RXak43ZEdhclpUZjZvR3RkNHJscmhYSnNJVWpMMFdQS2xBNUx0NjVoQWtrZXRiTGpFdGdYa19hbG5oZWVDeEVBV2h3c1NrdUlraEoyWXIyTWhKcXVydmVYdS1hSFpNNERPSjFCdVA0bHQ5VV91aDhoOWIyQjJIZF9yOFhwcnhuaWcwRTlPRjhn?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "6.3% yield! Could Aviva shares give me passive income for life?",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBicW5zbkhQYXBHXzlHazZ2c0ExNG93M3pMTW1NOGdLVVk4cEIxQ3BFbDJTbGFPaHNWRFR3NEJjUnhvRUdpX1dDMWJUMjBUNnkya1BMUWJQVVdQMUVwX181cTFiWkNwUGtJYmZLemtINGkxd2pnR05rdERn?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "6.3% yield! Could Aviva shares give me passive income for life?",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBicW5zbkhQYXBHXzlHazZ2c0ExNG93M3pMTW1NOGdLVVk4cEIxQ3BFbDJTbGFPaHNWRFR3NEJjUnhvRUdpX1dDMWJUMjBUNnkya1BMUWJQVVdQMUVwX181cTFiWkNwUGtJYmZLemtINGkxd2pnR05rdERn?oc=5",
-          "source": "gnews"
+          "title": "Stephen Colbert has a new YouTube channel, spread the word. Nothing on it besides his hilarious “Only In Monroe” cable access video from this past weekend, but… stay tuned, I presume?https://www.youtu",
+          "url": "https://mstdn.social/@Dr_Bombay/116649199563131844",
+          "source": "mastodon"
         }
       ],
-      "id": "cf2dbbbf8c8c",
-      "slug": "passive-income",
+      "id": "24e6654bfd1a",
+      "slug": "youtube",
       "opportunity": {
         "type": "niche-content",
         "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
+      }
+    },
+    {
+      "keyword": "bay area",
+      "count": 11,
+      "score": 44.662173470882465,
+      "proper": true,
+      "niches": [
+        "software"
+      ],
+      "examples": [
+        {
+          "title": "Bay Area peeps! What are you doing this weekend? Why not join me and a bunch of other amazing authors at the Bay Area Book Festival?? It's all happening in downtown Berkeley! I'll be there Saturday an",
+          "url": "https://wandering.shop/@annaleen/116649967707845196",
+          "source": "mastodon"
+        },
+        {
+          "title": "Bay Area peeps! What are you doing this weekend? Why not join me and a bunch of other amazing authors at the Bay Area Book Festival?? It's all happening in downtown Berkeley! I'll be there Saturday an",
+          "url": "https://wandering.shop/@annaleen/116649967707845196",
+          "source": "mastodon"
+        },
+        {
+          "title": "Bay Area peeps! What are you doing this weekend? Why not join me and a bunch of other amazing authors at the Bay Area Book Festival?? It's all happening in downtown Berkeley! I'll be there Saturday an",
+          "url": "https://wandering.shop/@annaleen/116649967707845196",
+          "source": "mastodon"
+        }
+      ],
+      "id": "45b9dcc6740f",
+      "slug": "bay-area",
+      "opportunity": {
+        "type": "niche-content",
+        "recommended": "Publish niche guide for \"software\"; bundle into digital product later."
       }
     }
   ]

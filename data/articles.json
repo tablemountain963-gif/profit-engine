@@ -1,3 +1,42 @@
 {
-  "items": []
+  "items": [
+    {
+      "slug": "passive-income-2026-05-28-815ae5",
+      "title": "Passive Income",
+      "date": "2026-05-28",
+      "niche": "finance",
+      "keywords": [
+        "Passive Income",
+        "finance",
+        "ai"
+      ],
+      "score": 70.43,
+      "file": "articles/passive-income-2026-05-28-815ae5.md"
+    },
+    {
+      "slug": "google-2026-05-28-5a409f",
+      "title": "Google",
+      "date": "2026-05-28",
+      "niche": "ai",
+      "keywords": [
+        "Google",
+        "ai",
+        "general"
+      ],
+      "score": 78.43,
+      "file": "articles/google-2026-05-28-5a409f.md"
+    },
+    {
+      "slug": "claude-code-2026-05-28-5a43da",
+      "title": "Claude Code",
+      "date": "2026-05-28",
+      "niche": "ai",
+      "keywords": [
+        "Claude Code",
+        "ai"
+      ],
+      "score": 78.55,
+      "file": "articles/claude-code-2026-05-28-5a43da.md"
+    }
+  ]
 }
