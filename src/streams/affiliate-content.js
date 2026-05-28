@@ -30,9 +30,13 @@ export async function runAffiliateContent(opts = {}) {
 
   pruneMemory();
   const items = await pullAll({ timeframe: 'day' });
-  const rawOpps = selectOpportunities(items, target * 6);
-  const opps = filterFresh(rawOpps, { days: 7 });
-  logger.info(`opportunities: ${rawOpps.length} raw → ${opps.length} fresh`);
+  const rawOpps = selectOpportunities(items, target * 8);
+  const fresh = filterFresh(rawOpps, { days: 7 });
+  // Articles must be commercial/niche — skip 'editorial' news fragments
+  // ("Comeback Attempt", "Blank Buy"). Fall back to fresh only if too few qualify.
+  const commercial = fresh.filter(o => o.opportunity?.type && o.opportunity.type !== 'editorial');
+  const opps = commercial.length >= target ? commercial : fresh;
+  logger.info(`opportunities: ${rawOpps.length} raw → ${fresh.length} fresh → ${opps.length} commercial`);
 
   const generated = [];
   const seen = loadSeenSlugs();
