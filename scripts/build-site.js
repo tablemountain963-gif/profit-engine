@@ -388,18 +388,20 @@ ${items.length === 0 ? '<p class="meta">No items yet — autonomous engine will 
 }
 
 function subscribePage() {
+  const formId = process.env.FORMSPREE_FORM_ID || 'mzdwyopv';
   return renderPage({
     title: 'Subscribe',
     desc: 'Get the daily trend digest in your inbox.',
     body: `
 <h1>Subscribe to the daily digest</h1>
 <p>One curated email each morning: top movers, rising topics, and opportunity radar.</p>
-<form action="https://formspree.io/f/YOUR_FORM_ID" method="POST" class="signup">
+<form action="https://formspree.io/f/${formId}" method="POST" class="signup">
   <label>Email <input type="email" name="email" required placeholder="you@example.com" /></label>
+  <input type="hidden" name="_subject" value="New Profit Engine subscriber" />
+  <input type="text" name="_gotcha" style="display:none" tabindex="-1" autocomplete="off" />
   <button type="submit">Subscribe</button>
   <p class="meta">Free. Unsubscribe anytime. No spam.</p>
 </form>
-<p class="meta">Configure form delivery in <code>public/subscribe.html</code> — point to Formspree, ConvertKit, Buttondown, or your own webhook.</p>
 `,
     type: 'website',
   });
