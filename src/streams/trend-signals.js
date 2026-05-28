@@ -64,33 +64,55 @@ export async function runTrendSignals(opts = {}) {
   };
 }
 
+function digestHumanize(kw) {
+  return String(kw).replace(/[_-]/g, ' ').split(' ').filter(Boolean)
+    .map(w => w[0].toUpperCase() + w.slice(1)).join(' ');
+}
+function digestSource(s) {
+  return ({ hackernews: 'Hacker News', reddit: 'Reddit', github: 'GitHub', lobsters: 'Lobsters',
+    devto: 'DEV.to', producthunt: 'Product Hunt', mastodon: 'Mastodon', npm: 'npm', pypi: 'PyPI',
+    gnews: 'Google News' }[s] || (s || 'web'));
+}
+
 async function composeDigest(signal) {
   const date = todayKey();
-  const top5 = signal.topItems.slice(0, 5);
-  const oppList = signal.opportunities.slice(0, 5);
-  const topicList = signal.topics.slice(0, 8);
+  const top = signal.topItems.slice(0, 7);
+  const topics = signal.topics.slice(0, 8);
+  const opps = signal.opportunities.slice(0, 5);
 
-  // Try AI synthesis. Falls back to structured template if no provider.
-  const sys = `You write a crisp daily trend digest newsletter. Tone: signal > noise, no hype. 250-400 words. Markdown.`;
-  const user = `Compose today's digest (${date}).
+  // Optional AI-written intro (2-3 sentences). Validated — ignored on fallback.
+  let intro = '';
+  try {
+    const sys = `Write one tight paragraph (2-3 sentences) introducing a daily tech/market trend digest. No hype, no emojis, no lists, no headings.`;
+    const user = `Date ${date}. Leading items today:\n${top.slice(0, 5).map(i => `- ${i.title}`).join('\n')}\nFrame what's moving today in 2-3 sentences.`;
+    const { text, provider } = await complete(
+      [{ role: 'system', content: sys }, { role: 'user', content: user }],
+      { maxTokens: 220, temperature: 0.6, kind: 'digest', topicHint: `digest ${date}` }
+    );
+    if (provider !== 'template' && text && !/placeholder/i.test(text) && text.length > 40) {
+      intro = text.trim().replace(/^#+\s.*$/gm, '').trim();
+    }
+  } catch { /* deterministic body still renders */ }
 
-Top items (raw):
-${top5.map((i, ix) => `${ix + 1}. ${i.title} (${i.source}, score ${i.score})\n   ${i.url}`).join('\n')}
+  const sc = s => Math.round((s || 0) * 100) / 100;
+  const body = `# Daily Trend Digest — ${date}
 
-Topic clusters: ${topicList.map(t => t.keyword).slice(0, 8).join(', ')}
+${intro ? intro + '\n\n' : ''}## Today in 30 seconds
 
-Output sections:
-1. **Today in 30 seconds** — 3 bullets
-2. **Picks worth your click** — 3-5 items with one-sentence commentary
-3. **Topics rising** — list with brief context
-4. **Opportunity radar** — 1-2 sentences each on action-worthy opportunities
+${top.slice(0, 3).map(i => `- ${i.title}`).join('\n') || '- Quiet day across tracked sources.'}
 
-Be specific. No filler. No emojis.`;
+## Picks worth your click
 
-  const { text } = await complete(
-    [{ role: 'system', content: sys }, { role: 'user', content: user }],
-    { maxTokens: 1500, temperature: 0.6, kind: 'digest', topicHint: `Daily Trend Digest ${date}` }
-  );
+${top.map((i, ix) => `${ix + 1}. [${i.title}](${i.url}) — ${digestSource(i.source)} · score ${sc(i.score)}`).join('\n')}
+
+## Topics rising
+
+${topics.length ? topics.map(t => `- **${digestHumanize(t.keyword)}** — ${t.count} mentions${t.niches?.[0] && t.niches[0] !== 'general' ? ` · ${t.niches[0]}` : ''}`).join('\n') : '- No strong clusters today.'}
+
+## Opportunity radar
+
+${opps.length ? opps.map(o => `- **${digestHumanize(o.keyword)}** — ${o.opportunity?.recommended || 'worth a closer look'}`).join('\n') : '- Nothing actionable surfaced today.'}
+`;
 
   const front = `---
 title: "Daily Trend Digest — ${date}"
@@ -114,7 +136,7 @@ Get this digest in your inbox each morning — [subscribe to the newsletter](/su
 Want the full opportunity scores, per-niche breakouts, and machine-readable API access? [Upgrade to Premium →](/pricing.html)
 `;
 
-  return front + text + cta;
+  return front + body + cta;
 }
 
 function appendArchive(entry) {
