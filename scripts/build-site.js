@@ -196,6 +196,19 @@ export async function buildSite() {
   writeText(join(SITE, 'feed.xml'), rssFeed({ articles, digests }));
   writeText(join(SITE, 'style.css'), css());
 
+  // Public free-tier signals API — derived from persisted premium data so it
+  // survives any deploy (including skip_generation rebuilds). public/ is ephemeral.
+  ensureDir(join(SITE, 'api'));
+  const premium = readJson(join(paths.data, 'signals-premium.json'), null);
+  if (premium) {
+    writeText(join(SITE, 'api', 'signals.json'), JSON.stringify({
+      generatedAt: premium.generatedAt,
+      tier: 'free',
+      top: (premium.topItems || []).slice(0, 10),
+      topics: (premium.topics || []).slice(0, 5),
+    }, null, 2));
+  }
+
   // IndexNow key file
   const keyFile = indexNowKeyFile();
   writeText(join(SITE, keyFile.name), keyFile.body);
