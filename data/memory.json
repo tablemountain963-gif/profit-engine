@@ -82,25 +82,25 @@
     },
     "anthropic-openai": {
       "firstSeen": "2026-05-28T02:43:44.978Z",
-      "lastSeen": "2026-05-28T02:43:44.978Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-05-28T03:07:27.702Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
     "openai-product-market": {
       "firstSeen": "2026-05-28T02:43:47.748Z",
-      "lastSeen": "2026-05-28T02:43:47.748Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-05-28T03:07:27.702Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
     "product-market-fit": {
       "firstSeen": "2026-05-28T02:43:49.899Z",
-      "lastSeen": "2026-05-28T02:43:49.899Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-05-28T03:07:27.702Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -111,12 +111,36 @@
       "wins": 0,
       "losses": 0,
       "niche": "ai"
+    },
+    "problem-issue": {
+      "firstSeen": "2026-05-28T03:07:31.676Z",
+      "lastSeen": "2026-05-28T03:07:31.676Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "nothing-rude": {
+      "firstSeen": "2026-05-28T03:07:34.029Z",
+      "lastSeen": "2026-05-28T03:07:34.029Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "rude-dont": {
+      "firstSeen": "2026-05-28T03:07:36.548Z",
+      "lastSeen": "2026-05-28T03:07:36.548Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
     }
   },
   "niches": {
     "ai": {
-      "count": 19,
-      "wins": 5,
+      "count": 25,
+      "wins": 8,
       "losses": 0
     }
   },

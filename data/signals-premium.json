@@ -1,103 +1,103 @@
 {
-  "generatedAt": "2026-05-28T02:43:40.653Z",
+  "generatedAt": "2026-05-28T03:07:27.884Z",
   "sourceCount": 157,
   "topItems": [
     {
       "title": "I think Anthropic and OpenAI have found product-market fit",
       "url": "https://simonwillison.net/2026/May/27/product-market-fit/",
-      "score": 9.91,
+      "score": 9.93,
       "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 675,
-        "comments": 828
+        "score": 684,
+        "comments": 840
       }
     },
     {
       "title": "Pasting a huge AI generated explanation to a problem in an issue or pull-request is nothing but RUDE. Don't do it. You look stupid and the receivers of that feel insulted.We are humans. We communicate",
       "url": "https://mastodon.social/@bagder/116648467657760137",
-      "score": 9.39,
+      "score": 9.42,
       "niche": "ai",
       "source": "mastodon",
       "engagement": {
-        "score": 628,
+        "score": 643,
         "comments": 16
-      }
-    },
-    {
-      "title": "Tech CEOs are apparently suffering from AI psychosis",
-      "url": "https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/",
-      "score": 9.05,
-      "niche": "ai",
-      "source": "hackernews",
-      "engagement": {
-        "score": 590,
-        "comments": 296
       }
     },
     {
       "title": "\"Our entire economy is being artificially propped up by astrology for men: AI, crypto, sports betting, and prediction markets. It's an economy shaped entirely by male insecurity and lack of impulse co",
       "url": "https://mastodon.social/@gwynnion/116648655369385136",
-      "score": 9.05,
+      "score": 9.09,
       "niche": "ai",
       "source": "mastodon",
       "engagement": {
-        "score": 272,
+        "score": 281,
         "comments": 7
+      }
+    },
+    {
+      "title": "Tech CEOs are apparently suffering from AI psychosis",
+      "url": "https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/",
+      "score": 9.06,
+      "niche": "ai",
+      "source": "hackernews",
+      "engagement": {
+        "score": 601,
+        "comments": 297
       }
     },
     {
       "title": "DuckDuckGo's AI-free search saw nearly 28% more visits in the week following Google's insistence that people love AI mode. Is anyone surprised by this result?https://xcancel.com/DuckDuckGo/status/2059",
       "url": "https://mastodon.social/@nixCraft/116647832352017668",
-      "score": 8.57,
+      "score": 8.59,
       "niche": "ai",
       "source": "mastodon",
       "engagement": {
-        "score": 744,
-        "comments": 35
+        "score": 755,
+        "comments": 36
       }
     },
     {
       "title": "DuckDuckGo search saw 28% more visits after Google said people love AI mode",
       "url": "https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/",
-      "score": 8.04,
+      "score": 8.05,
       "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 691,
-        "comments": 343
+        "score": 699,
+        "comments": 348
       }
     },
     {
       "title": "YouTube to automatically label AI-generated videos",
       "url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
-      "score": 7.93,
+      "score": 7.94,
       "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 564,
-        "comments": 342
+        "score": 573,
+        "comments": 346
       }
     },
     {
       "title": "This is how the AI bubble bursts: https://www.theverge.com/ai-artificial-intelligence/917380/ai-monetization-anthropic-openai-token-economics-revenueThere is no conceivable way to break even for the A",
       "url": "https://wandering.shop/@cstross/116648209688298468",
-      "score": 7.53,
+      "score": 7.54,
       "niche": "ai",
       "source": "mastodon",
       "engagement": {
-        "score": 809,
-        "comments": 30
+        "score": 820,
+        "comments": 31
       }
     },
     {
       "title": "These AI agent attacks are getting ridiculousMalicious code hidden in source code repositories can trick AI coding agents into overwriting their own configuration fileshttps://adversa.ai/blog/the-appr",
       "url": "https://mastodon.social/@campuscodi/116649022439044971",
-      "score": 7.36,
+      "score": 7.42,
       "niche": "ai",
       "source": "mastodon",
       "engagement": {
-        "score": 93,
+        "score": 97,
         "comments": 3
       }
     },
@@ -115,22 +115,22 @@
     {
       "title": "Gemini, Gophers, and Fingers. Oh My Alternative Internets Beyond HTTPS",
       "url": "https://brennan.day/gemini-gophers-and-fingers-oh-my-alternative-internets-beyond-https/",
-      "score": 6.71,
+      "score": 6.74,
       "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 95,
-        "comments": 47
+        "score": 97,
+        "comments": 48
       }
     },
     {
       "title": "Do you like bumping your music a little loud? Cops are searching Flock Safety ALPR data to investigate noise complaints. The creeping use cases keep getting more absurd. https://www.eff.org/deeplinks/",
       "url": "https://mastodon.social/@eff/116649248906707388",
-      "score": 6.49,
+      "score": 6.58,
       "niche": "ai",
       "source": "mastodon",
       "engagement": {
-        "score": 106,
+        "score": 113,
         "comments": 0
       }
     },
@@ -146,47 +146,58 @@
       }
     },
     {
-      "title": "actuallyaridan/linux-devmgmt — A faithful recreation of the Windows Device Manager built with Qt6 and real hardware backends via sysfs/procfs. Best enjoyed with AeroThemePlasma, but looks great on reg",
-      "url": "https://github.com/actuallyaridan/linux-devmgmt",
-      "score": 5.69,
+      "title": "Beyond friggen pitiful and has to be among the absolute worst things to happen to the main portion of the White House since the British burned it during the War of 1812.#USpol “That is one helluva bef",
+      "url": "https://mastodon.world/@BrianJopek/116649816830581006",
+      "score": 5.94,
       "niche": "ai",
-      "source": "github",
+      "source": "mastodon",
       "engagement": {
-        "score": 187,
-        "comments": 1
+        "score": 34,
+        "comments": 3
       }
     },
     {
-      "title": "Rust (and Slint) on a Jailbroken Kindle",
-      "url": "https://sverre.me/blog/rust-on-kindle/",
-      "score": 5.41,
+      "title": "actuallyaridan/linux-devmgmt — A faithful recreation of the Windows Device Manager built with Qt6 and real hardware backends via sysfs/procfs. Best enjoyed with AeroThemePlasma, but looks great on reg",
+      "url": "https://github.com/actuallyaridan/linux-devmgmt",
+      "score": 5.7,
       "niche": "ai",
-      "source": "hackernews",
+      "source": "github",
       "engagement": {
-        "score": 107,
-        "comments": 11
+        "score": 189,
+        "comments": 1
       }
     },
     {
       "title": "op7418/guizang-social-card-skill — 🪧 Claude Code / Codex skill — generate Xiaohongshu carousels & WeChat 21:9+1:1 cover pairs. Editorial × Swiss visual systems, 28 layouts, 10 themes, single-file HTM",
       "url": "https://github.com/op7418/guizang-social-card-skill",
-      "score": 5.39,
+      "score": 5.65,
       "niche": "ai",
       "source": "github",
       "engagement": {
-        "score": 127,
+        "score": 160,
         "comments": 0
       }
     },
     {
       "title": "The cold civil war in the U.S. rages on, with the federal government contemplating a new assault on states and cities that exercise their right not to collaborate with ICE. https://www.theguardian.com",
       "url": "https://mastodon.social/@heidilifeldman/116649449858093133",
-      "score": 5.38,
+      "score": 5.62,
       "niche": "ai",
       "source": "mastodon",
       "engagement": {
-        "score": 47,
+        "score": 56,
         "comments": 0
+      }
+    },
+    {
+      "title": "Rust (and Slint) on a Jailbroken Kindle",
+      "url": "https://sverre.me/blog/rust-on-kindle/",
+      "score": 5.46,
+      "niche": "ai",
+      "source": "hackernews",
+      "engagement": {
+        "score": 111,
+        "comments": 12
       }
     },
     {
@@ -203,11 +214,11 @@
     {
       "title": "zhristophe/Claude-Mythos-AI-Anthropic-App — claude mythos ai anthropic app github open source desktop mobile client abhishekk130804 anthropic api key creative writing roleplay character cards deep rea",
       "url": "https://github.com/zhristophe/Claude-Mythos-AI-Anthropic-App",
-      "score": 5.29,
+      "score": 5.3,
       "niche": "ai",
       "source": "github",
       "engagement": {
-        "score": 131,
+        "score": 132,
         "comments": 0
       }
     },
@@ -234,6 +245,17 @@
       }
     },
     {
+      "title": "A couple of weeks ago a woman who’d followed me on Instagram for 10 years happened to be in town and came to pay me a visit. We had written back and forth over the years and sent each other gifts in t",
+      "url": "https://mastodon.social/@potterybyosa/116649056834031429",
+      "score": 4.18,
+      "niche": "software",
+      "source": "mastodon",
+      "engagement": {
+        "score": 376,
+        "comments": 9
+      }
+    },
+    {
       "title": "cellinlab/how-pi-agent-works — Pi Agent 原理与实现",
       "url": "https://github.com/cellinlab/how-pi-agent-works",
       "score": 4.15,
@@ -245,36 +267,14 @@
       }
     },
     {
-      "title": "A couple of weeks ago a woman who’d followed me on Instagram for 10 years happened to be in town and came to pay me a visit. We had written back and forth over the years and sent each other gifts in t",
-      "url": "https://mastodon.social/@potterybyosa/116649056834031429",
-      "score": 4.13,
-      "niche": "software",
-      "source": "mastodon",
-      "engagement": {
-        "score": 352,
-        "comments": 7
-      }
-    },
-    {
       "title": "ace-trump-tech/DeltaForce-OBS-Locker — 三角洲行动OBS锁头插件 – 基于OBS渲染注入的智能锁头辅助，支持QQ音乐/网易云联精准骨骼识别、平滑自瞄、压枪抑制，稳定过检，提升击杀效率。动加载。DeltaForce OBS Lockhead Plugin – Smart aim assist via OBS injection, supports QQ Musi",
       "url": "https://github.com/ace-trump-tech/DeltaForce-OBS-Locker",
-      "score": 4.1,
+      "score": 4.11,
       "niche": "ai",
       "source": "github",
       "engagement": {
-        "score": 134,
+        "score": 135,
         "comments": 1
-      }
-    },
-    {
-      "title": "hieunc229/mailflare — Email client with custom domain based on Cloudflare",
-      "url": "https://github.com/hieunc229/mailflare",
-      "score": 4.03,
-      "niche": "ai",
-      "source": "github",
-      "engagement": {
-        "score": 124,
-        "comments": 0
       }
     }
   ],
@@ -282,7 +282,7 @@
     {
       "keyword": "search visits",
       "count": 6,
-      "score": 49.820777991341416,
+      "score": 49.92476394692932,
       "niches": [
         "ai"
       ],
@@ -304,7 +304,7 @@
     {
       "keyword": "love mode",
       "count": 6,
-      "score": 49.820777991341416,
+      "score": 49.92476394692932,
       "niches": [
         "ai"
       ],
@@ -325,8 +325,8 @@
     },
     {
       "keyword": "claude code",
-      "count": 12,
-      "score": 35.41635371411201,
+      "count": 9,
+      "score": 35.570480323783414,
       "niches": [
         "ai"
       ],
@@ -345,11 +345,6 @@
           "title": "Why Ctrl+V won't paste images in Claude Code on WSL, with a fix",
           "url": "https://rajveerbachkaniwala.com/blog/2026/05/24/on-the-difficulty-of-pasting-a-picture/",
           "source": "hackernews"
-        },
-        {
-          "title": "caliper-ai 0.0.71",
-          "url": "https://pypi.org/project/caliper-ai/0.0.71/",
-          "source": "pypi"
         }
       ],
       "id": "a625159d18da",
@@ -358,7 +353,7 @@
     {
       "keyword": "anthropic openai",
       "count": 3,
-      "score": 29.743778519040177,
+      "score": 29.797676673292074,
       "niches": [
         "ai"
       ],
@@ -375,7 +370,7 @@
     {
       "keyword": "openai product-market",
       "count": 3,
-      "score": 29.743778519040177,
+      "score": 29.797676673292074,
       "niches": [
         "ai"
       ],
@@ -392,7 +387,7 @@
     {
       "keyword": "product-market fit",
       "count": 3,
-      "score": 29.743778519040177,
+      "score": 29.797676673292074,
       "niches": [
         "ai"
       ],
@@ -409,7 +404,7 @@
     {
       "keyword": "pasting huge",
       "count": 3,
-      "score": 28.156891371504628,
+      "score": 28.254187812281298,
       "niches": [
         "ai"
       ],
@@ -426,7 +421,7 @@
     {
       "keyword": "huge generated",
       "count": 3,
-      "score": 28.156891371504628,
+      "score": 28.254187812281298,
       "niches": [
         "ai"
       ],
@@ -443,7 +438,7 @@
     {
       "keyword": "generated explanation",
       "count": 3,
-      "score": 28.156891371504628,
+      "score": 28.254187812281298,
       "niches": [
         "ai"
       ],
@@ -460,7 +455,7 @@
     {
       "keyword": "explanation problem",
       "count": 3,
-      "score": 28.156891371504628,
+      "score": 28.254187812281298,
       "niches": [
         "ai"
       ],
@@ -477,7 +472,7 @@
     {
       "keyword": "problem issue",
       "count": 3,
-      "score": 28.156891371504628,
+      "score": 28.254187812281298,
       "niches": [
         "ai"
       ],
@@ -494,7 +489,7 @@
     {
       "keyword": "issue pull-request",
       "count": 3,
-      "score": 28.156891371504628,
+      "score": 28.254187812281298,
       "niches": [
         "ai"
       ],
@@ -511,7 +506,7 @@
     {
       "keyword": "pull-request nothing",
       "count": 3,
-      "score": 28.156891371504628,
+      "score": 28.254187812281298,
       "niches": [
         "ai"
       ],
@@ -528,7 +523,7 @@
     {
       "keyword": "nothing rude",
       "count": 3,
-      "score": 28.156891371504628,
+      "score": 28.254187812281298,
       "niches": [
         "ai"
       ],
@@ -545,7 +540,7 @@
     {
       "keyword": "rude don't",
       "count": 3,
-      "score": 28.156891371504628,
+      "score": 28.254187812281298,
       "niches": [
         "ai"
       ],
@@ -564,7 +559,7 @@
     {
       "keyword": "search visits",
       "count": 6,
-      "score": 49.820777991341416,
+      "score": 49.92476394692932,
       "niches": [
         "ai"
       ],
@@ -590,7 +585,7 @@
     {
       "keyword": "love mode",
       "count": 6,
-      "score": 49.820777991341416,
+      "score": 49.92476394692932,
       "niches": [
         "ai"
       ],
@@ -615,8 +610,8 @@
     },
     {
       "keyword": "claude code",
-      "count": 12,
-      "score": 35.41635371411201,
+      "count": 9,
+      "score": 35.570480323783414,
       "niches": [
         "ai"
       ],
@@ -635,11 +630,6 @@
           "title": "Why Ctrl+V won't paste images in Claude Code on WSL, with a fix",
           "url": "https://rajveerbachkaniwala.com/blog/2026/05/24/on-the-difficulty-of-pasting-a-picture/",
           "source": "hackernews"
-        },
-        {
-          "title": "caliper-ai 0.0.71",
-          "url": "https://pypi.org/project/caliper-ai/0.0.71/",
-          "source": "pypi"
         }
       ],
       "id": "a625159d18da",
@@ -652,7 +642,7 @@
     {
       "keyword": "anthropic openai",
       "count": 3,
-      "score": 29.743778519040177,
+      "score": 29.797676673292074,
       "niches": [
         "ai"
       ],
@@ -673,7 +663,7 @@
     {
       "keyword": "openai product-market",
       "count": 3,
-      "score": 29.743778519040177,
+      "score": 29.797676673292074,
       "niches": [
         "ai"
       ],
@@ -694,7 +684,7 @@
     {
       "keyword": "product-market fit",
       "count": 3,
-      "score": 29.743778519040177,
+      "score": 29.797676673292074,
       "niches": [
         "ai"
       ],
@@ -715,7 +705,7 @@
     {
       "keyword": "pasting huge",
       "count": 3,
-      "score": 28.156891371504628,
+      "score": 28.254187812281298,
       "niches": [
         "ai"
       ],
@@ -736,7 +726,7 @@
     {
       "keyword": "huge generated",
       "count": 3,
-      "score": 28.156891371504628,
+      "score": 28.254187812281298,
       "niches": [
         "ai"
       ],
