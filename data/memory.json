@@ -162,7 +162,7 @@
     },
     "buy-forecasts": {
       "firstSeen": "2026-05-28T15:28:49.011Z",
-      "lastSeen": "2026-05-28T16:08:49.413Z",
+      "lastSeen": "2026-05-28T16:11:46.833Z",
       "count": 2,
       "wins": 1,
       "losses": 0,
@@ -170,7 +170,7 @@
     },
     "forecasts-upbeat": {
       "firstSeen": "2026-05-28T15:28:49.502Z",
-      "lastSeen": "2026-05-28T16:08:49.413Z",
+      "lastSeen": "2026-05-28T16:11:46.835Z",
       "count": 2,
       "wins": 1,
       "losses": 0,
@@ -178,7 +178,7 @@
     },
     "sales-steady": {
       "firstSeen": "2026-05-28T15:28:49.954Z",
-      "lastSeen": "2026-05-28T16:08:49.414Z",
+      "lastSeen": "2026-05-28T16:11:46.835Z",
       "count": 2,
       "wins": 1,
       "losses": 0,
@@ -199,35 +199,11 @@
       "wins": 0,
       "losses": 0,
       "niche": "ai"
-    },
-    "comeback-attempt": {
-      "firstSeen": "2026-05-28T16:08:55.830Z",
-      "lastSeen": "2026-05-28T16:08:55.830Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "ai"
-    },
-    "upbeat-quarterly": {
-      "firstSeen": "2026-05-28T16:08:56.229Z",
-      "lastSeen": "2026-05-28T16:08:56.229Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "gear"
-    },
-    "gadgets-demand": {
-      "firstSeen": "2026-05-28T16:08:56.624Z",
-      "lastSeen": "2026-05-28T16:08:56.624Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "gear"
     }
   },
   "niches": {
     "ai": {
-      "count": 55,
+      "count": 54,
       "wins": 16,
       "losses": 0
     },
@@ -242,7 +218,7 @@
       "losses": 0
     },
     "gear": {
-      "count": 12,
+      "count": 10,
       "wins": 4,
       "losses": 0
     }

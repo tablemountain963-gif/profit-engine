@@ -1,3 +1,10 @@
+> ⚠️ **X free API blocks posting (2026).** With valid OAuth 1.0a creds, `POST /2/tweets`
+> returns `402 CreditsDepleted` — X gated write behind paid plans (Basic ~$200/mo).
+> The X poster works the instant the account has write credits, but for **free**
+> autonomous posting use **Mastodon** (below) — same generated content, no paywall.
+
+---
+
 # Automated X (Twitter) Posting
 
 The engine already writes X threads (viral-factory → `output/social/*.json`). With X API
@@ -52,9 +59,35 @@ Next engine run with social packs in the queue posts a thread automatically.
 node src/engine/core.js --only xpost --force   # post one queued thread now (needs creds in env)
 ```
 
+---
+
+# Mastodon Posting (FREE — recommended)
+
+Mastodon's API is free, no credits, single bearer token. The engine posts the same
+generated threads here every ~12h (`toot` stream). No-op without creds.
+
+## Setup (~3 min)
+
+1. Sign in / create account on any instance (e.g. https://mastodon.social).
+2. Settings → **Development** → **New application**.
+   - Application name: `Profit Engine`
+   - Scopes: tick **write:statuses** (read is on by default; that's enough).
+   - Submit.
+3. Open the app → copy **Your access token**.
+4. Add 2 secrets:
+
+```bash
+gh secret set MASTODON_INSTANCE       --repo tablemountain963-gif/profit-engine   # e.g. https://mastodon.social
+gh secret set MASTODON_ACCESS_TOKEN   --repo tablemountain963-gif/profit-engine
+```
+
+Next run posts a thread automatically. Tracked in `data/posted.json` (key `mastodon`).
+
+Manual: `node src/engine/core.js --only toot --force` (needs creds in env).
+
 ## Other platforms (future)
 
-The same publisher pattern extends to:
-- **LinkedIn** — packs already include a LinkedIn post (`pack.linkedin`). LinkedIn API needs OAuth2 + company page.
-- **Mastodon** — simplest API (single access token, POST /api/v1/statuses). Good next target.
-- **Buffer / Typefully** — if you'd rather schedule via a tool, their APIs accept the generated packs.
+Same publisher pattern extends to:
+- **LinkedIn** — packs already include `pack.linkedin`. Needs OAuth2 + company page.
+- **Bluesky** — free AT Protocol API (app password). Strong next target.
+- **Buffer / Typefully** — schedule via their APIs if preferred.
