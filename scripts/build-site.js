@@ -15,6 +15,30 @@ const SITE_TITLE = 'Profit Engine';
 const SITE_TAGLINE = 'Autonomous trends · curated picks · daily signals';
 const SITE_DESC = 'AI-curated affiliate guides, trend digests, and digital starter packs. Updated automatically.';
 
+// GitHub Pages project sites serve from /<repo>, so root-absolute paths (/style.css)
+// must be prefixed. User/org sites (user.github.io) and custom domains serve from root.
+// Override with SITE_BASE_PATH env ('' for root).
+function basePath() {
+  if (process.env.SITE_BASE_PATH !== undefined) return process.env.SITE_BASE_PATH;
+  const repo = process.env.GITHUB_REPOSITORY;
+  if (repo && repo.includes('/')) {
+    const name = repo.split('/')[1];
+    if (name.toLowerCase().endsWith('.github.io')) return '';
+    return '/' + name;
+  }
+  return '';
+}
+
+// Rewrite root-absolute href/src ("/x") to include the base path. Leaves
+// protocol-relative ("//"), absolute (https://), anchors (#), and mailto untouched.
+function applyBase(html) {
+  const base = basePath();
+  if (!base) return html;
+  return html
+    .replace(/(href|src)="\/(?!\/)/g, `$1="${base}/`)
+    .replace(/url\(\/(?!\/)/g, `url(${base}/`);
+}
+
 export async function buildSite() {
   ensureDir(SITE);
   ensureDir(ARTICLES_OUT);
@@ -143,7 +167,7 @@ export async function buildSite() {
   writeText(join(SITE, 'about.html'), aboutPage());
   writeText(join(SITE, 'status.html'), statusPage({ articles, digests, products, social }));
   writeText(join(SITE, 'sitemap.xml'), sitemap({ articles, digests, products }));
-  writeText(join(SITE, 'robots.txt'), 'User-agent: *\nAllow: /\nSitemap: /sitemap.xml\n');
+  writeText(join(SITE, 'robots.txt'), `User-agent: *\nAllow: /\nSitemap: ${siteBaseUrl()}/sitemap.xml\n`);
   writeText(join(SITE, 'feed.xml'), rssFeed({ articles, digests }));
   writeText(join(SITE, 'style.css'), css());
 
@@ -303,7 +327,7 @@ function fontLinks() {
 
 function renderPage({ title, desc, body, breadcrumb, breadcrumbHref, published, type, url, schema, layout = 'prose', hideCta = false }) {
   const seoMeta = url ? metaBlock({ title, description: desc || SITE_DESC, url, type, schema }) : '';
-  return `<!doctype html>
+  const html = `<!doctype html>
 <html lang="en">
 <head>
   <meta charset="utf-8" />
@@ -328,6 +352,7 @@ ${footer()}
 ${outboundTracker()}
 </body>
 </html>`;
+  return applyBase(html);
 }
 
 function homeIndex({ articles, digests, products }) {
@@ -638,6 +663,7 @@ function footerCta() {
 }
 
 function sitemap({ articles, digests, products }) {
+  const b = siteBaseUrl();
   const urls = [
     '/',
     '/articles.html',
@@ -653,20 +679,21 @@ function sitemap({ articles, digests, products }) {
   ];
   return `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-${urls.map(u => `<url><loc>${u}</loc></url>`).join('\n')}
+${urls.map(u => `<url><loc>${b}${u}</loc></url>`).join('\n')}
 </urlset>`;
 }
 
 function rssFeed({ articles, digests }) {
+  const b = siteBaseUrl();
   const items = [
-    ...articles.slice(0, 30).map(a => ({ title: a.title, link: `/articles/${a.slug}.html`, date: a.date, desc: (a.keywords || []).join(' · ') })),
-    ...digests.slice(0, 30).map(d => ({ title: `Daily Trend Digest — ${d.date}`, link: `/digests/${d.date}.html`, date: d.date, desc: 'Daily trend digest' })),
+    ...articles.slice(0, 30).map(a => ({ title: a.title, link: `${b}/articles/${a.slug}.html`, date: a.date, desc: (a.keywords || []).join(' · ') })),
+    ...digests.slice(0, 30).map(d => ({ title: `Daily Trend Digest — ${d.date}`, link: `${b}/digests/${d.date}.html`, date: d.date, desc: 'Daily trend digest' })),
   ].sort((a, b) => (a.date < b.date ? 1 : -1)).slice(0, 50);
 
   return `<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"><channel>
 <title>${SITE_TITLE}</title>
-<link>/</link>
+<link>${b}/</link>
 <description>${SITE_DESC}</description>
 ${items.map(it => `<item><title>${escapeXml(it.title)}</title><link>${it.link}</link><pubDate>${it.date}</pubDate><description>${escapeXml(it.desc || '')}</description></item>`).join('\n')}
 </channel></rss>`;
