@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400..900;1,9..144,400..900&family=JetBrains+Mono:wght@400;500;700&display=swap" />
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  html, body { width: 1500px; height: 500px; overflow: hidden; }
+  :root { --accent:#4fe08a; --ink:#eae3d6; --bg:#0a0c0b; --dim:#9aa39a; }
+  .b { position:relative; width:1500px; height:500px; background:var(--bg);
+    font-family:'Fraunces', serif; color:var(--ink); overflow:hidden; }
+  .b::before { content:""; position:absolute; inset:0;
+    background:
+      radial-gradient(70% 130% at 82% 30%, rgba(79,224,138,.20), transparent 60%),
+      repeating-linear-gradient(0deg, transparent 0 47px, rgba(255,255,255,.02) 47px 48px),
+      repeating-linear-gradient(90deg, transparent 0 47px, rgba(255,255,255,.02) 47px 48px); }
+  .b::after { content:""; position:absolute; inset:0; background: radial-gradient(120% 140% at 50% 50%, transparent 60%, rgba(0,0,0,.55)); }
+  .wrap { position:relative; z-index:3; height:100%; padding:64px 80px; display:flex; flex-direction:column; justify-content:center; }
+  .kick { font-family:'JetBrains Mono', monospace; font-size:17px; letter-spacing:.34em; text-transform:uppercase; color:var(--accent); display:flex; align-items:center; gap:13px; margin-bottom:20px; }
+  .kick::before { content:""; width:34px; height:2px; background:var(--accent); display:inline-block; }
+  h1 { font-weight:900; font-size:84px; line-height:.92; letter-spacing:-.035em; color:var(--ink); }
+  h1 em { font-style:italic; color:var(--accent); font-weight:400; }
+  .sub { font-family:'JetBrains Mono', monospace; font-size:18px; letter-spacing:.04em; color:var(--dim); margin-top:24px; }
+  /* faint vertical ticker chips on the right */
+  .chips { position:absolute; right:70px; top:50%; transform:translateY(-50%); z-index:3; display:flex; flex-direction:column; gap:12px; align-items:flex-end; }
+  .chip { font-family:'JetBrains Mono', monospace; font-size:14px; color:var(--dim); border:1px solid #2a312c; border-radius:5px; padding:8px 14px; background:rgba(20,25,23,.5); display:flex; gap:10px; align-items:center; }
+  .chip .up { color:var(--accent); }
+  /* live dot top-right */
+  .live { position:absolute; right:80px; top:54px; z-index:3; font-family:'JetBrains Mono', monospace; font-size:14px; letter-spacing:.2em; color:var(--accent); display:flex; align-items:center; gap:10px; }
+  .live .dot { width:11px; height:11px; border-radius:50%; background:var(--accent); box-shadow:0 0 16px 3px rgba(79,224,138,.7); }
+</style>
+</head>
+<body>
+<div class="b">
+  <div class="live"><span class="dot"></span>LIVE</div>
+  <div class="wrap">
+    <div class="kick" id="kick">Profit Engine · Sol Mercer</div>
+    <h1 id="title">Signal,<br><em>not noise.</em></h1>
+    <div class="sub" id="sub">Autonomous trend &amp; market intelligence — new signals every day.</div>
+  </div>
+  <div class="chips" id="chips"></div>
+</div>
+<script>
+  const q = new URLSearchParams(location.search);
+  const accent = q.get('accent'); if (accent) document.documentElement.style.setProperty('--accent', accent);
+  if (q.get('kick')) document.getElementById('kick').textContent = q.get('kick');
+  if (q.get('title')) document.getElementById('title').innerHTML = q.get('title');
+  if (q.get('sub')) document.getElementById('sub').innerHTML = q.get('sub');
+  const chips = (q.get('chips') || 'AI · 9.9,SOFTWARE · 8.1,FINANCE · 7.4,GEAR · 6.8').split(',');
+  document.getElementById('chips').innerHTML = chips.map(c => '<span class="chip"><span class="up">▲</span>'+c.trim()+'</span>').join('');
+</script>
+</body>
+</html>
