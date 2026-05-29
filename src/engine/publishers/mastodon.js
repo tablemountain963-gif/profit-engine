@@ -10,7 +10,9 @@ export function hasMastodonCreds() {
 }
 
 function instanceBase() {
-  return (process.env.MASTODON_INSTANCE || '').replace(/\/$/, '');
+  let host = (process.env.MASTODON_INSTANCE || '').trim().replace(/\/$/, '');
+  if (host && !/^https?:\/\//i.test(host)) host = 'https://' + host; // tolerate "mastodon.social"
+  return host;
 }
 
 // Post one status. opts.replyTo = status id to chain a thread.
