@@ -394,17 +394,17 @@
     },
     "hardware-bets": {
       "firstSeen": "2026-05-29T16:41:13.699Z",
-      "lastSeen": "2026-05-29T16:41:13.699Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-05-29T18:27:12.521Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
     "home-assistant": {
       "firstSeen": "2026-05-29T16:41:17.274Z",
-      "lastSeen": "2026-05-29T16:41:17.274Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-05-29T18:27:12.521Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "software"
     },
@@ -455,27 +455,88 @@
       "wins": 0,
       "losses": 0,
       "niche": "ai"
+    },
+    "servicenow-soars": {
+      "firstSeen": "2026-05-29T18:27:17.682Z",
+      "lastSeen": "2026-05-29T18:27:17.682Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "marketing-tools": {
+      "firstSeen": "2026-05-29T18:27:20.159Z",
+      "lastSeen": "2026-05-29T18:27:20.159Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "framework": {
+      "firstSeen": "2026-05-29T18:27:24.191Z",
+      "lastSeen": "2026-05-29T18:27:24.191Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "software"
+    },
+    "fitness-and-meal-plan-template-pack": {
+      "firstSeen": "2026-05-29T18:27:32.801Z",
+      "lastSeen": "2026-05-29T18:27:32.801Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "health"
+    },
+    "ai-prompts-for-resume-and-job-search": {
+      "firstSeen": "2026-05-29T18:27:38.975Z",
+      "lastSeen": "2026-05-29T18:27:38.975Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "cold-email-templates-that-book-meetings": {
+      "firstSeen": "2026-05-29T18:27:43.051Z",
+      "lastSeen": "2026-05-29T18:27:43.051Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "finance"
+    },
+    "tools-2026": {
+      "firstSeen": "2026-05-29T18:28:06.277Z",
+      "lastSeen": "2026-05-29T18:28:06.277Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
     }
   },
   "niches": {
     "ai": {
-      "count": 91,
-      "wins": 23,
+      "count": 96,
+      "wins": 24,
       "losses": 0
     },
     "finance": {
-      "count": 2,
+      "count": 3,
       "wins": 1,
       "losses": 0
     },
     "software": {
-      "count": 7,
-      "wins": 1,
+      "count": 9,
+      "wins": 2,
       "losses": 0
     },
     "gear": {
       "count": 10,
       "wins": 4,
+      "losses": 0
+    },
+    "health": {
+      "count": 1,
+      "wins": 0,
       "losses": 0
     }
   },
