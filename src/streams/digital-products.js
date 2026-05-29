@@ -304,7 +304,7 @@ ${preview.slice(0, 800)}...
 - **Format:** Markdown (copy/paste) + a clean printable HTML version
 - **Delivery:** instant digital download right after checkout
 - **License:** single user, lifetime access, free updates
-- **Guarantee:** 30-day no-questions refund
+- **All sales final:** digital goods delivered instantly — no refunds ([terms](/terms.html))
 - **Works with:** ChatGPT, Claude, Gemini, and any LLM
 
 ## Pricing
@@ -313,10 +313,12 @@ ${preview.slice(0, 800)}...
 
 [Buy Now →](#buy-${meta.slug})
 
+By purchasing you agree to the [Terms of Service](/terms.html) — all sales final.
+
 Or [join the free newsletter](/subscribe.html) for weekly picks in ${meta.niche}.
 
 ---
-*Instant digital download · secure checkout · lifetime access + free updates · 30-day refund.*
+*Instant digital download · secure checkout · lifetime access + free updates · all sales final.*
 `;
 }
 

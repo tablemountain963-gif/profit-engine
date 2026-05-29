@@ -17,7 +17,7 @@ function richDescription(p) {
     'starter-kit': 'a playbook, templates, and a 30-day plan',
     'mini-ebook': 'a focused field guide',
   })[p.type] || 'a curated pack';
-  return `${p.blurb || p.title}. Includes ${inside}. Instant digital download (Markdown + HTML), lifetime access and free updates. 30-day refund.`.slice(0, 500);
+  return `${p.blurb || p.title}. Includes ${inside}. Instant digital download (Markdown + HTML), lifetime access and free updates. All sales final — digital goods.`.slice(0, 500);
 }
 
 export async function runStripeLister(opts = {}) {

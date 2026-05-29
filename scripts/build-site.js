@@ -217,6 +217,9 @@ export async function buildSite() {
   writeText(join(SITE, 'pricing.html'), pricingPage());
   writeText(join(SITE, 'about.html'), aboutPage());
   writeText(join(SITE, 'status.html'), statusPage({ articles, digests, products, social }));
+  writeText(join(SITE, 'terms.html'), termsPage());
+  writeText(join(SITE, 'refund-policy.html'), refundPage());
+  writeText(join(SITE, 'privacy.html'), privacyPage());
   writeText(join(SITE, 'sitemap.xml'), sitemap({ articles, digests, products }));
   writeText(join(SITE, 'robots.txt'), `User-agent: *\nAllow: /\nDisallow: /downloads/\nDisallow: /thank-you.html\nSitemap: ${siteBaseUrl()}/sitemap.xml\n`);
   writeText(join(SITE, 'feed.xml'), rssFeed({ articles, digests }));
@@ -655,6 +658,116 @@ function statusPage({ articles, digests, products, social }) {
   });
 }
 
+// Legal config — overridable via env. Defaults are safe placeholders to replace.
+function legal() {
+  return {
+    entity: process.env.LEGAL_NAME || 'Profit Engine',
+    contact: process.env.CONTACT_EMAIL || 'support@example.com',
+    jurisdiction: process.env.LEGAL_JURISDICTION || 'the United States',
+    updated: new Date().toISOString().slice(0, 10),
+  };
+}
+
+function termsPage() {
+  const L = legal();
+  return renderPage({
+    title: 'Terms of Service',
+    desc: 'Terms of Service — all sales final on digital products.',
+    url: siteBaseUrl() + '/terms.html',
+    body: `
+<h1>Terms of Service</h1>
+<p class="meta">Last updated ${L.updated}</p>
+
+<p>These Terms govern your use of ${SITE_TITLE} (the "Site") and any digital products, downloads, guides, prompt packs, templates, articles, digests, or data ("Products") offered through it, operated by ${L.entity} ("we", "us"). By accessing the Site or purchasing a Product you agree to these Terms. If you do not agree, do not use the Site or purchase.</p>
+
+<h2>1. Digital products — all sales final</h2>
+<p><strong>All purchases are final and non-refundable.</strong> Products are digital goods delivered electronically and made available for immediate download upon payment. Because their full value is accessible the moment they are delivered and they can be copied, <strong>we do not offer refunds, returns, exchanges, or cancellations</strong> once a purchase is completed, except where a non-refundable sale is prohibited by applicable law.</p>
+<p>By completing a purchase you acknowledge that (a) you are buying digital content delivered immediately, (b) you expressly consent to immediate delivery and access, and (c) you understand you thereby waive any statutory cancellation or "cooling-off" right that would otherwise apply once delivery begins (including, where applicable, the EU/UK right of withdrawal for digital content supplied with your prior consent).</p>
+
+<h2>2. License</h2>
+<p>Each Product is licensed, not sold. Upon payment you receive a non-exclusive, non-transferable, single-user license to use the Product for personal or internal business purposes. You may <strong>not</strong> resell, redistribute, sublicense, share, publish, or make the Product (in whole or part) available to any third party, or use it to build a competing product, without our prior written permission. All intellectual property in the Products and Site remains ours or our licensors'.</p>
+
+<h2>3. Acceptable use</h2>
+<p>You agree not to misuse the Site: no unlawful use, no attempts to breach security, no automated scraping beyond the public API's intended use, and no reselling of access. We may suspend access for violations.</p>
+
+<h2>4. No professional advice</h2>
+<p>Content and Products are provided for general informational purposes only and are not professional, legal, financial, medical, or investment advice. You are responsible for how you use them. Affiliate links may appear in content; we may earn a commission at no extra cost to you.</p>
+
+<h2>5. Disclaimer of warranties</h2>
+<p>The Site and Products are provided "AS IS" and "AS AVAILABLE", without warranties of any kind, express or implied, including merchantability, fitness for a particular purpose, accuracy, or non-infringement. We do not warrant uninterrupted or error-free operation.</p>
+
+<h2>6. Limitation of liability</h2>
+<p>To the maximum extent permitted by law, ${L.entity} shall not be liable for any indirect, incidental, special, consequential, or punitive damages, or any loss of profits or data, arising from your use of the Site or Products. Our total aggregate liability for any claim shall not exceed the amount you paid for the Product giving rise to the claim.</p>
+
+<h2>7. Delivery & support</h2>
+<p>Products are delivered via an on-screen download link immediately after checkout. If you do not receive your Product or a download fails, contact us at <a href="mailto:${L.contact}">${L.contact}</a> and we will resolve delivery (re-sending the file) — this is the sole remedy for a delivery failure and is not a refund.</p>
+
+<h2>8. Changes</h2>
+<p>We may update these Terms at any time. Continued use after changes constitutes acceptance. Pricing and Products may change without notice.</p>
+
+<h2>9. Governing law</h2>
+<p>These Terms are governed by the laws of ${L.jurisdiction}, without regard to conflict-of-laws rules. Disputes shall be resolved in the courts of that jurisdiction.</p>
+
+<h2>10. Contact</h2>
+<p><a href="mailto:${L.contact}">${L.contact}</a></p>
+
+<p class="meta">See also: <a href="/refund-policy.html">Refund Policy</a> · <a href="/privacy.html">Privacy Policy</a></p>
+`,
+    type: 'website',
+  });
+}
+
+function refundPage() {
+  const L = legal();
+  return renderPage({
+    title: 'Refund Policy',
+    desc: 'All sales are final. Digital products are non-refundable.',
+    url: siteBaseUrl() + '/refund-policy.html',
+    body: `
+<h1>Refund Policy</h1>
+<p class="meta">Last updated ${L.updated}</p>
+<h2>All sales are final</h2>
+<p>${SITE_TITLE} sells <strong>digital products delivered instantly</strong>. Because you receive the complete product — which can be downloaded and copied — the moment your payment is processed, <strong>all sales are final and we do not provide refunds, returns, or exchanges</strong>.</p>
+<p>By purchasing, you consent to immediate delivery and acknowledge that this waives any cooling-off / withdrawal period that might otherwise apply to digital content (including under EU/UK consumer law, where that right is forfeited once delivery of digital content begins with your consent).</p>
+<h2>The one exception: delivery problems</h2>
+<p>If you were charged but did not receive your download, or the file is corrupted, email <a href="mailto:${L.contact}">${L.contact}</a> within 14 days. We will re-deliver a working copy. Re-delivery is the sole remedy; it is not a refund.</p>
+<h2>Chargebacks</h2>
+<p>Initiating a chargeback on a delivered digital product is a breach of these terms and may result in loss of access and being declined for future purchases.</p>
+<p class="meta">See also: <a href="/terms.html">Terms of Service</a></p>
+`,
+    type: 'website',
+  });
+}
+
+function privacyPage() {
+  const L = legal();
+  return renderPage({
+    title: 'Privacy Policy',
+    desc: 'How we handle your data.',
+    url: siteBaseUrl() + '/privacy.html',
+    body: `
+<h1>Privacy Policy</h1>
+<p class="meta">Last updated ${L.updated}</p>
+<p>${L.entity} ("we") respects your privacy. This policy explains what we collect and why.</p>
+<h2>What we collect</h2>
+<ul>
+<li><strong>Email</strong> — if you subscribe to the newsletter or make a purchase, for delivery and updates.</li>
+<li><strong>Payment data</strong> — processed entirely by <strong>Stripe</strong>. We never see or store your card details.</li>
+<li><strong>Basic analytics</strong> — aggregate, privacy-respecting usage stats (if enabled). No selling of personal data.</li>
+</ul>
+<h2>Third parties</h2>
+<p>We rely on: <strong>Stripe</strong> (payments), <strong>Formspree</strong> (newsletter signups), and <strong>GitHub Pages</strong> (hosting). Each processes data under its own policy. We do not sell your data to anyone.</p>
+<h2>Your rights</h2>
+<p>Email <a href="mailto:${L.contact}">${L.contact}</a> to access, correct, or delete your data, or to unsubscribe (every email also has an unsubscribe link).</p>
+<h2>Cookies</h2>
+<p>The Site uses minimal/no tracking cookies. Any analytics used are cookieless or aggregate.</p>
+<h2>Contact</h2>
+<p><a href="mailto:${L.contact}">${L.contact}</a></p>
+`,
+    type: 'website',
+  });
+}
+
 function aboutPage() {
   return renderPage({
     title: 'About',
@@ -707,7 +820,7 @@ function footer() {
   </div>
   <div class="footer-base">
     <span>© ${yr} ${SITE_TITLE} · generated autonomously</span>
-    <span><a href="/sitemap.xml">sitemap</a> · <a href="/about.html">how it works</a></span>
+    <span><a href="/terms.html">Terms</a> · <a href="/refund-policy.html">Refunds</a> · <a href="/privacy.html">Privacy</a> · <a href="/about.html">How it works</a></span>
   </div>
 </footer>`;
 }
@@ -738,6 +851,9 @@ function sitemap({ articles, digests, products }) {
     '/subscribe.html',
     '/pricing.html',
     '/about.html',
+    '/terms.html',
+    '/refund-policy.html',
+    '/privacy.html',
     ...articles.map(a => `/articles/${a.slug}.html`),
     ...digests.map(d => `/digests/${d.date}.html`),
     ...products.map(p => `/products/${p.slug}.html`),
