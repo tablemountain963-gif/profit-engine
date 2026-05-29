@@ -68,10 +68,13 @@ export async function buildSite() {
     const relatedHtml = related.length
       ? `\n<h2>Related reading</h2>\n<ul class="cards">${related.map(r => `<li class="card"><a href="/articles/${r.slug}.html"><strong>${escapeHtml(r.title)}</strong></a><span class="meta">${r.niche || ''}</span></li>`).join('')}</ul>`
       : '';
+    let bodyHtml = mdToHtml(stripped);
+    // Ensure a visible H1 (the generator strips the AI's title heading). SEO + UX.
+    if (!/<h1[\s>]/i.test(bodyHtml)) bodyHtml = `<h1>${escapeHtml(a.title)}</h1>\n` + bodyHtml;
     const html = renderPage({
       title: a.title,
       desc,
-      body: mdToHtml(stripped) + relatedHtml,
+      body: bodyHtml + relatedHtml,
       breadcrumb: 'Articles',
       breadcrumbHref: 'articles.html',
       published: a.date,
@@ -487,7 +490,7 @@ ${featuredProducts.length ? `<ul class="cards">${featuredProducts.map(p => `
 
 function listIndex(label, items) {
   const body = `
-<div class="sec-head"><h2>${label}</h2><span class="more">${items.length} published</span></div>
+<div class="sec-head"><h1>${label}</h1><span class="more">${items.length} published</span></div>
 <ul class="cards">
 ${items.map(it => `<li class="card"><a href="/${it.href}"><strong>${escapeHtml(it.title)}</strong></a><span class="meta">${it.date}${it.meta ? ' · ' + it.meta : ''}</span></li>`).join('\n')}
 </ul>

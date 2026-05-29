@@ -31,12 +31,15 @@ function isJunkSlug(slug) { return JUNK_TOPICS.some(j => slug.includes(j)); }
 const artDir = join(paths.output, 'articles');
 const am = readJson(join(paths.data, 'articles.json'), { items: [] });
 const keptArticles = [];
+// Template-fallback bodies (generated while the LLM was rate-limited) — low quality.
+const TEMPLATE_RE = /has become an essential consideration|matters more than people think|A practical overview of|Topic detected in source feeds/i;
 for (const a of am.items || []) {
   const file = join(paths.output, a.file);
-  const corrupt = existsSync(file) ? looksCorrupt(readText(file)) : true;
+  const body = existsSync(file) ? readText(file) : '';
+  const corrupt = !body || looksCorrupt(body) || TEMPLATE_RE.test(body);
   if (isJunkSlug(a.slug) || corrupt) {
     rm(file);
-    logger.warn(`purged article: ${a.slug}`);
+    logger.warn(`purged article: ${a.slug}${TEMPLATE_RE.test(body) ? ' (template-fallback)' : ''}`);
   } else {
     keptArticles.push(a);
   }
