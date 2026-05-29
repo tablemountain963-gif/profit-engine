@@ -290,25 +290,25 @@
     },
     "various-llm-smells": {
       "firstSeen": "2026-05-28T22:24:39.777Z",
-      "lastSeen": "2026-05-28T22:24:39.777Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-05-29T01:04:11.060Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
     "wallpaper-engine": {
       "firstSeen": "2026-05-28T22:24:42.941Z",
-      "lastSeen": "2026-05-28T22:24:42.941Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-05-29T01:04:11.060Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "software"
     },
     "hermes-mentor": {
       "firstSeen": "2026-05-28T22:24:45.468Z",
-      "lastSeen": "2026-05-28T22:24:45.468Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-05-29T01:04:11.060Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -331,8 +331,8 @@
   },
   "niches": {
     "ai": {
-      "count": 77,
-      "wins": 21,
+      "count": 79,
+      "wins": 23,
       "losses": 0
     },
     "finance": {
@@ -341,8 +341,8 @@
       "losses": 0
     },
     "software": {
-      "count": 2,
-      "wins": 0,
+      "count": 3,
+      "wins": 1,
       "losses": 0
     },
     "gear": {

@@ -1,6 +1,6 @@
 {
-  "runs": 29,
-  "lastRun": "2026-05-28T22:24:33.643Z",
+  "runs": 30,
+  "lastRun": "2026-05-29T01:04:09.748Z",
   "streams": {
     "trend-signals": {
       "lastRunAt": "2026-05-28T22:24:36.551Z",
@@ -38,9 +38,9 @@
       "totalRuns": 3
     },
     "stripe-lister": {
-      "lastRunAt": "2026-05-28T22:24:52.843Z",
-      "lastResult": "listed 1",
-      "totalRuns": 3
+      "lastRunAt": "2026-05-29T01:04:11.335Z",
+      "lastResult": "listed 0, backfilled 1",
+      "totalRuns": 4
     }
   },
   "totals": {
