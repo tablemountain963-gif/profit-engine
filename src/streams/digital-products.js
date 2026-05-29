@@ -90,6 +90,34 @@ export async function runDigitalProducts(opts = {}) {
   return { summary: `${generated.length} products`, generated: generated.map(p => p.slug), ok: true };
 }
 
+// Buyer-facing "what's inside" by product type (not raw filenames).
+function whatYouGet(meta) {
+  const core = ({
+    'prompt-pack': [
+      '**50 plug-and-play prompts**, grouped by use case (research, drafting, analysis, automation)',
+      '**Fill-in [BRACKETED] variables** so each prompt adapts to your work',
+      'A **Start-Here guide** — get value in 5 minutes',
+    ],
+    'checklist': [
+      'A **printable operator checklist** (12-20 atomic, verifiable steps)',
+      'Phase-grouped so nothing slips',
+      'A **Start-Here guide**',
+    ],
+    'starter-kit': [
+      'A **playbook** (7-10 concrete moves with rationale)',
+      '**Copy/paste templates** with fill-in fields',
+      'A **30-day plan** with weekly goals + a pitfalls list',
+    ],
+    'mini-ebook': [
+      'A **focused field guide** you can read in ~30 minutes',
+      'Concrete examples, numbers, and named approaches',
+      'A **What-to-Do-Next** action list',
+    ],
+  })[meta.type] || ['A curated, ready-to-use pack', 'A Start-Here guide'];
+  core.push('A clean **printable HTML** version + the raw Markdown');
+  return core.map(c => `- ${c}`).join('\n');
+}
+
 const ACRONYMS = new Set(['ai','api','seo','llm','llms','saas','ui','ux','ceo','cto','b2b','b2c','roi','crm','kpi','faq','pdf','css','html','js','sql','aws','gpt','nft','diy']);
 function humanize(kw) {
   return kw.replace(/[_-]/g, ' ').split(' ').filter(Boolean)
@@ -263,7 +291,7 @@ If you're working in **${meta.topic}**, you already know how much time gets eate
 
 ## What You Get
 
-${meta.files.map(f => `- **${f}** — production-ready, no filler`).join('\n')}
+${whatYouGet(meta)}
 
 ## Preview
 
@@ -271,16 +299,24 @@ ${meta.files.map(f => `- **${f}** — production-ready, no filler`).join('\n')}
 ${preview.slice(0, 800)}...
 \`\`\`
 
+## Details
+
+- **Format:** Markdown (copy/paste) + a clean printable HTML version
+- **Delivery:** instant digital download right after checkout
+- **License:** single user, lifetime access, free updates
+- **Guarantee:** 30-day no-questions refund
+- **Works with:** ChatGPT, Claude, Gemini, and any LLM
+
 ## Pricing
 
-**$${meta.price}** — one-time, single-user license. Lifetime access.
+**$${meta.price}** — one-time. No subscription. Lifetime access.
 
 [Buy Now →](#buy-${meta.slug})
 
-Or [join the newsletter](/subscribe.html) for free weekly picks in ${meta.niche}.
+Or [join the free newsletter](/subscribe.html) for weekly picks in ${meta.niche}.
 
 ---
-*Instant digital download. Secure checkout. Lifetime access + free updates.*
+*Instant digital download · secure checkout · lifetime access + free updates · 30-day refund.*
 `;
 }
 

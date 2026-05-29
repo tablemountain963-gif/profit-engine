@@ -78,6 +78,18 @@ export async function createPaymentLink({ name, description, priceUsd, slug, ima
   return { url: link.url, productId: product.id, priceId: price.id };
 }
 
+// Update an existing product's description/image (backfill for products listed
+// before covers/rich descriptions existed).
+export async function updateProduct(productId, { description, image } = {}) {
+  if (!hasStripeCreds()) throw new Error('Stripe creds not set');
+  const base = siteBaseUrl();
+  const params = {};
+  if (description) params.description = description.slice(0, 500);
+  if (image) params.images = [image.startsWith('http') ? image : `${base}${image}`];
+  if (!Object.keys(params).length) return null;
+  return api(`products/${productId}`, params);
+}
+
 export function describeStripeStatus() {
   return { configured: hasStripeCreds() };
 }

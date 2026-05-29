@@ -2,10 +2,23 @@
 // buyer bundle exists, creates a Stripe Payment Link, and records it in
 // data/buy-links.json so build-site wires a live "Buy now" button. No-op without key.
 import { logger, paths, readJson, writeJson } from '../lib/util.js';
-import { hasStripeCreds, createPaymentLink } from '../engine/publishers/stripe.js';
+import { hasStripeCreds, createPaymentLink, updateProduct } from '../engine/publishers/stripe.js';
 import { makeBundle } from '../../scripts/make-bundle.js';
 import { join } from 'node:path';
 import { existsSync } from 'node:fs';
+
+const DEFAULT_COVER = '/assets/pack-cover.png';
+
+// Rich checkout description from product meta — what's inside, format, terms.
+function richDescription(p) {
+  const inside = ({
+    'prompt-pack': '50 copy-paste prompts',
+    'checklist': 'a printable operator checklist',
+    'starter-kit': 'a playbook, templates, and a 30-day plan',
+    'mini-ebook': 'a focused field guide',
+  })[p.type] || 'a curated pack';
+  return `${p.blurb || p.title}. Includes ${inside}. Instant digital download (Markdown + HTML), lifetime access and free updates. 30-day refund.`.slice(0, 500);
+}
 
 export async function runStripeLister(opts = {}) {
   if (!hasStripeCreds()) {
@@ -18,19 +31,31 @@ export async function runStripeLister(opts = {}) {
   const buy = readJson(buyFile, {});
   const max = opts.count || 3;
   const listed = [];
+  let backfilled = 0;
 
   for (const p of products) {
-    if (listed.length >= max) break;
-    if (buy[p.slug]) continue;                       // already listed (Stripe or Gumroad)
+    // Backfill existing Stripe products that lack a cover image — add default cover.
+    const existing = buy[p.slug];
+    if (existing && existing.platform === 'stripe' && existing.productId && !existing.cover) {
+      try {
+        await updateProduct(existing.productId, { image: DEFAULT_COVER, description: richDescription(p) });
+        existing.cover = DEFAULT_COVER;
+        writeJson(buyFile, buy);
+        backfilled++;
+        logger.ok(`stripe: backfilled cover/description for ${p.slug}`);
+      } catch (e) { logger.warn(`stripe backfill ${p.slug}: ${e.message}`); }
+    }
+    if (listed.length >= max) continue;
+    if (existing) continue;                            // already listed (Stripe or Gumroad)
     if (!existsSync(join(paths.output, 'products', p.slug))) continue;
 
     try {
       // Build the buyer deliverable (idempotent) so a download exists post-purchase.
       makeBundle(p.slug, p.title);
-      const cover = buy[p.slug]?.cover || undefined;
+      const cover = buy[p.slug]?.cover || DEFAULT_COVER;
       const link = await createPaymentLink({
         name: p.title,
-        description: p.blurb,
+        description: richDescription(p),
         priceUsd: p.price || 19,
         slug: p.slug,
         image: cover,
@@ -40,7 +65,7 @@ export async function runStripeLister(opts = {}) {
         platform: 'stripe',
         price: p.price || 19,
         productId: link.productId,
-        ...(cover ? { cover } : {}),
+        cover,
       };
       writeJson(buyFile, buy);
       listed.push({ slug: p.slug, url: link.url });
@@ -51,5 +76,5 @@ export async function runStripeLister(opts = {}) {
     }
   }
 
-  return { summary: listed.length ? `listed ${listed.length}` : 'nothing to list', listed, ok: true };
+  return { summary: `listed ${listed.length}, backfilled ${backfilled}`, listed, ok: true };
 }
