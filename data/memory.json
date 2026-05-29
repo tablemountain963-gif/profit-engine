@@ -386,9 +386,9 @@
     },
     "lost-decade": {
       "firstSeen": "2026-05-29T16:41:10.499Z",
-      "lastSeen": "2026-05-29T16:41:10.499Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-05-29T22:23:00.784Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -466,17 +466,17 @@
     },
     "marketing-tools": {
       "firstSeen": "2026-05-29T18:27:20.159Z",
-      "lastSeen": "2026-05-29T18:27:20.159Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-05-29T22:23:00.785Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
     "framework": {
       "firstSeen": "2026-05-29T18:27:24.191Z",
-      "lastSeen": "2026-05-29T18:27:24.191Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-05-29T22:23:00.785Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "software"
     },
@@ -511,22 +511,94 @@
       "wins": 0,
       "losses": 0,
       "niche": "ai"
+    },
+    "shine-through": {
+      "firstSeen": "2026-05-29T22:23:05.771Z",
+      "lastSeen": "2026-05-29T22:23:05.771Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "cherry-profile": {
+      "firstSeen": "2026-05-29T22:23:08.803Z",
+      "lastSeen": "2026-05-29T22:23:08.803Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "data-science": {
+      "firstSeen": "2026-05-29T22:23:11.526Z",
+      "lastSeen": "2026-05-29T22:23:11.526Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "gay-hitler": {
+      "firstSeen": "2026-05-29T22:23:17.980Z",
+      "lastSeen": "2026-05-29T22:23:17.980Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "software"
+    },
+    "midjourney-prompt-pack-for-brand-visuals": {
+      "firstSeen": "2026-05-29T22:23:23.415Z",
+      "lastSeen": "2026-05-29T22:23:23.415Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "ai-prompts-for-ecommerce-and-product-listings": {
+      "firstSeen": "2026-05-29T22:23:41.346Z",
+      "lastSeen": "2026-05-29T22:23:41.346Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "income": {
+      "firstSeen": "2026-05-29T22:24:13.712Z",
+      "lastSeen": "2026-05-29T22:24:13.712Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "finance"
+    },
+    "dividend-stocks": {
+      "firstSeen": "2026-05-29T22:24:26.611Z",
+      "lastSeen": "2026-05-29T22:24:26.611Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "finance"
+    },
+    "energy-stocks": {
+      "firstSeen": "2026-05-29T22:24:31.983Z",
+      "lastSeen": "2026-05-29T22:24:31.983Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "finance"
     }
   },
   "niches": {
     "ai": {
-      "count": 96,
-      "wins": 24,
+      "count": 103,
+      "wins": 26,
       "losses": 0
     },
     "finance": {
-      "count": 3,
+      "count": 6,
       "wins": 1,
       "losses": 0
     },
     "software": {
-      "count": 9,
-      "wins": 2,
+      "count": 11,
+      "wins": 3,
       "losses": 0
     },
     "gear": {
