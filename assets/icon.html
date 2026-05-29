@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,700..900&display=swap" />
+<style>
+  * { margin:0; padding:0; box-sizing:border-box; }
+  html,body { width:512px; height:512px; overflow:hidden; }
+  :root { --accent:#4fe08a; --bg:#0a0c0b; }
+  .i { position:relative; width:512px; height:512px; background:var(--bg); overflow:hidden;
+       display:flex; align-items:center; justify-content:center; }
+  .i::before { content:""; position:absolute; inset:0;
+    background: radial-gradient(80% 80% at 50% 30%, rgba(79,224,138,.22), transparent 60%),
+      repeating-linear-gradient(0deg, transparent 0 31px, rgba(255,255,255,.03) 31px 32px),
+      repeating-linear-gradient(90deg, transparent 0 31px, rgba(255,255,255,.03) 31px 32px); }
+  .mark { position:relative; z-index:2; font-family:'Fraunces',serif; font-weight:900;
+    font-size:300px; line-height:1; letter-spacing:-.04em; color:#eae3d6; }
+  .mark .p { color:#eae3d6; }
+  .dot { position:absolute; z-index:3; width:54px; height:54px; border-radius:50%;
+    background:var(--accent); box-shadow:0 0 38px 6px rgba(79,224,138,.6);
+    top:150px; right:120px; }
+  /* signal bars under the P */
+  .bars { position:absolute; z-index:3; bottom:96px; left:50%; transform:translateX(-50%);
+    display:flex; gap:12px; align-items:flex-end; height:60px; }
+  .bars span { width:16px; background:var(--accent); border-radius:3px; opacity:.9; }
+  .bars span:nth-child(1){height:24px} .bars span:nth-child(2){height:44px}
+  .bars span:nth-child(3){height:60px} .bars span:nth-child(4){height:36px}
+</style>
+</head>
+<body>
+<div class="i">
+  <div class="mark"><span class="p">P</span></div>
+  <div class="dot"></div>
+  <div class="bars"><span></span><span></span><span></span><span></span></div>
+</div>
+</body>
+</html>

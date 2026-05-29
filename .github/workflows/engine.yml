@@ -62,6 +62,8 @@ jobs:
           BLUESKY_HANDLE: ${{ secrets.BLUESKY_HANDLE }}
           BLUESKY_APP_PASSWORD: ${{ secrets.BLUESKY_APP_PASSWORD }}
           STRIPE_API_KEY: ${{ secrets.STRIPE_API_KEY }}
+          CONTACT_EMAIL: ${{ secrets.CONTACT_EMAIL }}
+          LEGAL_JURISDICTION: ${{ secrets.LEGAL_JURISDICTION }}
         run: |
           set -e
           if [ "${{ inputs.skip_generation }}" = "true" ]; then
