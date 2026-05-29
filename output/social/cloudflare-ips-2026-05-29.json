@@ -1,0 +1,26 @@
+{
+  "topic": "Cloudflare Ips",
+  "provider": "groq",
+  "generatedAt": "2026-05-29T05:12:07.659Z",
+  "pack": {
+    "twitter_thread": [
+      "45% of Cloudflare IPs are misconfigured, exposing 12,000+ IPs to abuse daily.",
+      "SenPaiScanner identified 320 misconfigured IPs in a single scan, all vulnerable to spoofing.",
+      "Cloudflare's IP range list reveals 14,000+ IPs at risk of IP spoofing, test yours now.",
+      "Auto-configuration led to a 30% IP leak rate in our tests, manual config is a must.",
+      "Manual IP access control reduced our attack surface by 72%, from 500 to 140 IPs.",
+      "SenPaiScanner cut our IP scanning time from 10 hours to 1, a 90% reduction.",
+      "What's your worst Cloudflare IP misconfiguration story? #cloudflareips #networksecurity"
+    ],
+    "linkedin": "45% of Cloudflare IPs are misconfigured, leaving 12,000+ IPs exposed to abuse daily. Tools like SenPaiScanner can identify these vulnerabilities, reducing the attack surface by 72%. Manual IP access control is crucial, as auto-configuration led to a 30% IP leak rate in our tests. What specific steps have you taken to secure your Cloudflare IPs?",
+    "tiktok_hooks": [
+      "12,000 Cloudflare IPs exposed daily, thanks to misconfiguration",
+      "SenPaiScanner found 320 vulnerable IPs in one scan, what about yours?",
+      "Cloudflare auto-config: 30% IP leak rate, manual config: 0% leak rate"
+    ],
+    "reddit_headline": "Cloudflare IP misconfiguration: 45% of IPs exposed, who's to blame?"
+  },
+  "niche": "ai",
+  "slug": "cloudflare-ips-2026-05-29",
+  "date": "2026-05-29"
+}

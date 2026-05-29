@@ -327,11 +327,67 @@
       "wins": 0,
       "losses": 0,
       "niche": "ai"
+    },
+    "holy-shitparamount": {
+      "firstSeen": "2026-05-29T05:11:26.958Z",
+      "lastSeen": "2026-05-29T05:11:26.958Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "hy3-llm": {
+      "firstSeen": "2026-05-29T05:11:30.111Z",
+      "lastSeen": "2026-05-29T05:11:30.111Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "outdo-earns": {
+      "firstSeen": "2026-05-29T05:11:32.825Z",
+      "lastSeen": "2026-05-29T05:11:32.825Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "software"
+    },
+    "generator-tools": {
+      "firstSeen": "2026-05-29T05:11:39.467Z",
+      "lastSeen": "2026-05-29T05:11:39.467Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "chatgpt-prompts-for-marketing": {
+      "firstSeen": "2026-05-29T05:11:47.937Z",
+      "lastSeen": "2026-05-29T05:11:47.937Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "developer-productivity-prompt-pack": {
+      "firstSeen": "2026-05-29T05:11:58.881Z",
+      "lastSeen": "2026-05-29T05:11:58.881Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "software"
+    },
+    "cloudflare-ips": {
+      "firstSeen": "2026-05-29T05:12:07.659Z",
+      "lastSeen": "2026-05-29T05:12:07.659Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
     }
   },
   "niches": {
     "ai": {
-      "count": 79,
+      "count": 84,
       "wins": 23,
       "losses": 0
     },
@@ -341,7 +397,7 @@
       "losses": 0
     },
     "software": {
-      "count": 3,
+      "count": 5,
       "wins": 1,
       "losses": 0
     },
