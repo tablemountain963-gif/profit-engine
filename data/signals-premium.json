@@ -1,170 +1,115 @@
 {
-  "generatedAt": "2026-05-29T05:11:22.858Z",
-  "sourceCount": 206,
+  "generatedAt": "2026-05-29T16:41:05.706Z",
+  "sourceCount": 190,
   "topItems": [
     {
-      "title": "So my systems recently updated to rsync 3.4.3, and as soon as that happened my backup system - which does incremental backups using multiple --compare-dest= arguments - started to fail on anything but",
-      "url": "https://mastodon.gamedev.place/@JeremiahFieldhaven/116654345332213390",
-      "score": 9.29,
+      "title": "this is how you all fucking soundby stillvreni : https://bsky.app/profile/vreni.bsky.social/post/3mms5baylac2p#ai #noAI",
+      "url": "https://boitam.eu/@joachim/116657447008262434",
+      "score": 12.28,
       "niche": "ai",
       "source": "mastodon",
       "engagement": {
-        "score": 581,
-        "comments": 19
+        "score": 859,
+        "comments": 17
+      }
+    },
+    {
+      "title": "Flathub moves to ban nearly all apps and submissions made with generative AI https://www.gamingonlinux.com/2026/05/flathub-moves-to-ban-nearly-all-apps-and-submissions-made-with-generative-ai/#Linux #",
+      "url": "https://mastodon.social/@gamingonlinux/116657845799564800",
+      "score": 11.43,
+      "niche": "ai",
+      "source": "mastodon",
+      "engagement": {
+        "score": 542,
+        "comments": 8
       }
     },
     {
       "title": "Claude Opus 4.8",
       "url": "https://www.anthropic.com/news/claude-opus-4-8",
-      "score": 9.08,
+      "score": 9.3,
       "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 1347,
-        "comments": 1080
+        "score": 1687,
+        "comments": 1308
       }
     },
     {
-      "title": "alfiyahkamilah1239298/WallpaperDownloader-26 — A comprehensive community toolkit for organizing, creating, and managing dynamic wallpaper projects and assets, enhancing your Wallpaper Engine experienc",
-      "url": "https://github.com/alfiyahkamilah1239298/WallpaperDownloader-26",
-      "score": 8.45,
-      "niche": "software",
-      "source": "github",
-      "engagement": {
-        "score": 399,
-        "comments": 0
-      }
-    },
-    {
-      "title": "SF startup is testing robots in Airbnbs, and trashing them, lawsuit claims",
-      "url": "https://sfstandard.com/2026/05/28/sf-startup-secretly-testing-robots-airbnbs-trashing-lawsuit-claims/",
-      "score": 7.9,
-      "niche": "ai",
-      "source": "hackernews",
-      "engagement": {
-        "score": 149,
-        "comments": 72
-      }
-    },
-    {
-      "title": "As spotted by Ryan Estrada on Bluesky, HOLY SHITParamount+ created a thumbnail for \"Star Trek II: The Wrath of Khan\" where it genAI-filled a closeup shot of Shatner, giving him a sensible haircut and ",
-      "url": "https://mastodon.social/@tvaziri/116655032766028317",
-      "score": 7.7,
+      "title": "\"Maintainer works as designed.\"Absolute legend. https://github.com/jqwik-team/jqwik/issues/709",
+      "url": "https://scalie.zone/@aks/116657631072999341",
+      "score": 8.77,
       "niche": "ai",
       "source": "mastodon",
       "engagement": {
-        "score": 210,
-        "comments": 22
+        "score": 500,
+        "comments": 24
       }
     },
     {
-      "title": "Anthropic raises $65B in Series H funding at $965B post-money valuation",
-      "url": "https://www.anthropic.com/news/series-h",
-      "score": 7.61,
+      "title": "Is AI causing a repeat of Front end's Lost Decade?",
+      "url": "https://mastrojs.github.io/blog/2026-05-23-is-AI-causing-a-repeat-of-frontends-lost-decade/",
+      "score": 8.72,
       "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 301,
-        "comments": 317
+        "score": 180,
+        "comments": 174
       }
     },
     {
-      "title": "Best AI Music Video Generator Tools in 2026 for Character Consistency and Artist Branding",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPelFTeTNzMnByMDJPV1Z2SGE1Sm5qcENiZUhmeEJCeDdHWHRRQnNKVzRPMkhvTEhtTy1xNTMyRE5XM1RNZk1XZnF1NW96Qk1BeHJoZDdncUlWb190RXdFWXJIQS03S1NGdmEzWl9vckloZ19tREdmSzB3U1piUFJnVUxUNVMyTGpMM2g3SnN2UjU0RldpZmkyRm9WN3dWY3ZyUWx2RERJUDZJTGJhTjNzX1ktWTBCSW5WOFFrdWNBRENLWldYVnY0Rg?oc=5",
-      "score": 7.48,
-      "niche": "ai",
-      "source": "gnews",
-      "engagement": {
-        "score": 40,
-        "comments": 0
-      }
-    },
-    {
-      "title": "ChatGPT and Codex Not Working Today: Here are top alternate AI tools you can use to complete your tasks",
-      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPX3JmSGNIemFGZ3U3UEptUDg5U3h3NnpmZnJIZWZyLWJwTGczaWZOVEZoUXlOd1ZCREUzSENERk1RU0YxSU96eDVwblZCWlZPdG5fUEYyaVcwamdSckVqakZaX1EtS2xHVWxjVDhuZ3dtb0pjbmlXRUs3Nm94R181ei1wVXp5Rmd6SWo4RTlKS2wwR0Raa3lBejZRQmxwc2dVdHdDcXlOajhIR0FTNFhWZkJNVXUtT2xXSlhrMDlnazZrZk52QWZGOEFKZm9CeUxYRHZMc3JRbjU3MFdtd3h0cTRfRjFFeFo5OHQ0cUUxR29pNHBkb3Y3TWY3NFNDdko2dENv0gGIAkFVX3lxTFBQdE9PNDFnS0pwZ2wyUUlQTWFJQUJkWVk5WjZINWRldVFqM0tyLVVLeFJsQ01xUHhCSU1KYWxKYkpCRkpjM0szMk9aLW5pZU5ZNXBqWlFqejE3ZnZNT1k5V09ZT2pNdDVwelpsZjFVWWVoOWd1aVhnUEFrWmNaNFdWeVAzZ1Flc1dYajhvOXVkWFg1eXhkM3MxSERYYTJNX1lrVU84R2VWQjRvcXNDVE96UThBaW51UEJwV3RDTHJoamJwRURrQkxKamdkSUVheWNUaXRTNzctWDZtVnBoa001N0pZSFh0N3EwQTk3MlF6U1duN0tZajZNelYwblZ6Vm53OWdyR3ZBZw?oc=5",
-      "score": 7.48,
-      "niche": "ai",
-      "source": "gnews",
-      "engagement": {
-        "score": 40,
-        "comments": 0
-      }
-    },
-    {
-      "title": "Sophomoresty/gemini-web2api — Convert Google Gemini web into OpenAI-compatible API. Zero auth, cross-platform, single file.",
-      "url": "https://github.com/Sophomoresty/gemini-web2api",
-      "score": 7.25,
-      "niche": "ai",
-      "source": "github",
-      "engagement": {
-        "score": 285,
-        "comments": 2
-      }
-    },
-    {
-      "title": "Various LLM Smells",
-      "url": "https://shvbsle.in/various-llm-smells/",
-      "score": 7.21,
-      "niche": "ai",
-      "source": "hackernews",
-      "engagement": {
-        "score": 267,
-        "comments": 195
-      }
-    },
-    {
-      "title": "The most spectacular rocket explosion since N1 just happened in Florida",
-      "url": "https://arstechnica.com/space/2026/05/blue-origins-new-glenn-rocket-just-exploded-during-a-static-fire-test/",
-      "score": 7.15,
-      "niche": "software",
-      "source": "hackernews",
-      "engagement": {
-        "score": 95,
-        "comments": 35
-      }
-    },
-    {
-      "title": "private launch verhicles are awesome they saidbezos’ rocket exploded on launchpad today",
-      "url": "https://hachyderm.io/@thomasfuchs/116655264770130874",
-      "score": 7.1,
+      "title": "Now you can keep track of how many billions companies are losing on GenAI. Red is spending, green is revenue. https://isaiprofitable.com",
+      "url": "https://cyberplace.social/@GossiTheDog/116658614091808061",
+      "score": 8.48,
       "niche": "ai",
       "source": "mastodon",
       "engagement": {
-        "score": 133,
-        "comments": 16
+        "score": 176,
+        "comments": 12
       }
     },
     {
-      "title": "The mysterious Hy3 LLM is topping OpenRouter Model Rankings by a large margin",
-      "url": "https://minimaxir.com/2026/05/openrouter-hy3/",
-      "score": 6.96,
+      "title": "We should be more tired than the model",
+      "url": "https://vickiboykis.com/2026/05/28/we-should-be-more-tired-than-the-model/",
+      "score": 7.62,
       "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 41,
-        "comments": 18
+        "score": 84,
+        "comments": 78
       }
     },
     {
-      "title": "Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue",
-      "url": "https://llmgame.scalex.dev",
-      "score": 6.94,
+      "title": "Excuse me, I think my cat (@Menhit) is broken:(To clarify: she's SLEEPING in that position, lying on her upside-down head with her front paw raised in mid-air. This wasn't an action shot of cat yoga, ",
+      "url": "https://wandering.shop/@cstross/116658433965578976",
+      "score": 7.45,
       "niche": "ai",
-      "source": "hackernews",
+      "source": "mastodon",
       "engagement": {
-        "score": 279,
-        "comments": 117
+        "score": 182,
+        "comments": 15
       }
     },
     {
-      "title": "ShadowSpread/polymarket-auto-trading — polymarket trading bot, polymarket auto trading bot, polymarket profitable bot, polymarket, trading bot, polymarket trading bot, polymarket arbitrage bot, polyma",
-      "url": "https://github.com/ShadowSpread/polymarket-auto-trading",
-      "score": 6.86,
+      "title": "Every job post I see involves AI 🙃Let me know if you see one that doesn't. I'm looking. #NoAI #GetFediHired",
+      "url": "https://infosec.exchange/@Em0nM4stodon/116658459118719252",
+      "score": 7.13,
       "niche": "ai",
-      "source": "github",
+      "source": "mastodon",
       "engagement": {
-        "score": 213,
-        "comments": 0
+        "score": 158,
+        "comments": 5
+      }
+    },
+    {
+      "title": "Protestware for coding agents",
+      "url": "https://nesbitt.io/2026/05/28/protestware-for-coding-agents.html",
+      "score": 7.09,
+      "niche": "ai",
+      "source": "lobsters",
+      "engagement": {
+        "score": 94,
+        "comments": 81
       }
     },
     {
@@ -181,52 +126,52 @@
     {
       "title": "withkynam/vibecode-pro-max-kit — Your AI forgets. This remembers. Spec-driven coding harness for vibecoders, product owners, CEOs and real builders — self-improving context memory, 12 agents, 32 skill",
       "url": "https://github.com/withkynam/vibecode-pro-max-kit",
-      "score": 6.44,
+      "score": 6.77,
       "niche": "ai",
       "source": "github",
       "engagement": {
-        "score": 348,
+        "score": 485,
         "comments": 16
       }
     },
     {
-      "title": "manuelageske58246958801/DeepFake-AI-2026-RealTime — An advanced, LLM-powered toolkit providing comprehensive capabilities for ethical synthetic media detection, analysis, and responsible content gener",
-      "url": "https://github.com/manuelageske58246958801/DeepFake-AI-2026-RealTime",
-      "score": 6.42,
+      "title": "Claude Code – Everything You Can Configure That the Docs Don't Tell You",
+      "url": "https://buildingbetter.tech/p/i-read-the-claude-code-source-code",
+      "score": 6.71,
       "niche": "ai",
-      "source": "github",
+      "source": "hackernews",
       "engagement": {
-        "score": 202,
-        "comments": 0
-      }
-    },
-    {
-      "title": "🧵1/3 What happens when libraries can no longer preserve the knowledge they collect? 📚⚠️@brewsterkahle warns that the systems connecting libraries, readers, and cultural memory are becoming dangerous",
-      "url": "https://mastodon.archive.org/@internetarchive/116654712547989011",
-      "score": 6.18,
-      "niche": "software",
-      "source": "mastodon",
-      "engagement": {
-        "score": 246,
-        "comments": 2
+        "score": 297,
+        "comments": 60
       }
     },
     {
       "title": "MatinSenPai/SenPaiScanner — A light-weight scanner for Cloudflare IPs, written in Golang",
       "url": "https://github.com/MatinSenPai/SenPaiScanner",
-      "score": 6.1,
+      "score": 6.55,
       "niche": "ai",
       "source": "github",
       "engagement": {
-        "score": 231,
-        "comments": 5
+        "score": 339,
+        "comments": 11
       }
     },
     {
-      "title": "The 5 Best AI Tools to Maximize Your Online Meetings",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9WR3I5eEkzMklJRmZ6MjJBVENIbGJFT09sTUFDem8tLXFwRWJXd0ViNndjSHFNR2xraVIyeEZXTTNwa0VaM044aFFiZl8tUWxQLTFHNFpHWTZrdE1HdHlpc2x3MnJ5QlRmUGJmVWdKRE81c0pxXzhN?oc=5",
-      "score": 5.99,
-      "niche": "ai",
+      "title": "alfiyahkamilah1239298/WallpaperDownloader-26 — A comprehensive community toolkit for organizing, creating, and managing dynamic wallpaper projects and assets, enhancing your Wallpaper Engine experienc",
+      "url": "https://github.com/alfiyahkamilah1239298/WallpaperDownloader-26",
+      "score": 6.35,
+      "niche": "software",
+      "source": "github",
+      "engagement": {
+        "score": 400,
+        "comments": 1
+      }
+    },
+    {
+      "title": "I swapped 3 costly productivity tools for Google's NotebookLM, and I'm never going back",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNb2RJX0xZZ0RnYmN5NlRlcmNmb0VUSDVMX3gwT1VsWmV6YTJGQjJ2SUJWX0cxRy0tWkc3elN5U3pkZzBSV3JTcWRJZGEtQjJlNkZVcFFQdE40X3lHbkRjamhRSy1kV0E5RUdtc2xjOVFTdzhiY0l5TUw5VG9MUnM5VUllSHVnUWQ1RVF4MUwtN09hWmZP?oc=5",
+      "score": 6.32,
+      "niche": "software",
       "source": "gnews",
       "engagement": {
         "score": 40,
@@ -234,8 +179,30 @@
       }
     },
     {
-      "title": "Kerala man thought he’d become a millionaire selling ₹640 photos in London — then the police arrived",
-      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNcmo2V2dJSDVWcU1WVTlqSXNucnBGQjFJMzlOcUFDTmFSNEpGdkQ4cnhJSUpnNHZ4VjVISVprS2ZPdnhTYVpmWWFpSHRTQ3FJYTJHdE01YTFHdHlNS0tFa0VWRGdxMUM4YWM4cDJYTDJCUDhmYjhzZmN6S3dEN2pOMjVhYUd5V19wTml1MVA1a1pMblpRSTZOSmhTQ3lYMVZYMXlVR1ZpZmRQeUlaTWh0R280SVpvTVBlVi16c1BiemJGQmhSRnowZVlnS1EtUHQ2b0JUZEU2QW9qak9SWi1mVjRKYWlKT2Z5OGd1Q19SNDg0c0VsVGZ2TExhNG43NU9jVjFna9IBigJBVV95cUxNaS1vMDR2NDBOUWFxUGYwM09aS1lIMGtEU0x5YTNwN2VZd18tTURsU04zdWEzTGhaNU1kd2RVZUhBWjV3VHlGZm82cjgzQ1gyU2hUNVJXV09xWWNtdjd3YnVoMU5JN1d2cEMzQkt5dnpNbHM1YVE4Tl84UllqMDBxcDRJcXBueFpsTGFpdVJYX3ctaFR6d2RTbHZWSGRMeFZQUUU4RHcwZklMTWY0Nk82bHJiT1RUdTJJREdfRWFsb3VIWEJMRGxTaEVjSXBST3lDekhNM3dCNTMzbkJiZ0VZa3RSS0tWamJIVkJzU2lDdlBQM2RBUjgzZWJQeHFfcDBqS2tGaGlvaEhMdw?oc=5",
+      "title": "Volkswagen blocks Home Assistant by requiring client assertion",
+      "url": "https://github.com/robinostlund/homeassistant-volkswagencarnet/issues/967",
+      "score": 6.32,
+      "niche": "software",
+      "source": "hackernews",
+      "engagement": {
+        "score": 327,
+        "comments": 167
+      }
+    },
+    {
+      "title": "Real-time LLM Inference on Standard GPUs: 3k tokens/s per request",
+      "url": "https://blog.kog.ai/real-time-llm-inference-on-standard-gpus-3-000-tokens-s-per-request/",
+      "score": 6.23,
+      "niche": "ai",
+      "source": "hackernews",
+      "engagement": {
+        "score": 139,
+        "comments": 66
+      }
+    },
+    {
+      "title": "ServiceNow leads software rally as AI fears turn to optimism",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPakRUeUJXeDRVVl9abG53TzNZNkZsYXBUdXpOaXBBZzhXY1I4NnVGY0M4OTl4VVpUNUlGRks5WkVpLUw0UjdfSjBTRkZyTmdKeUhyanBTTGF0UXlLTEJXNzlfZFpCTnZBNDJkV3ZWaUJYeFk4bzFkRk5TWHZOZE5sbE9wbmhTZHRILVdZOHd4U2JTa1dFMk9fMndYVERtSGM?oc=5",
       "score": 5.94,
       "niche": "ai",
       "source": "gnews",
@@ -245,49 +212,92 @@
       }
     },
     {
-      "title": "What are some of your favourite developer tools?",
-      "url": "https://lobste.rs/s/2jdvxa/what_are_some_your_favourite_developer",
-      "score": 5.89,
-      "niche": "software",
-      "source": "lobsters",
+      "title": "Venture Capital Turns to Hardware Bets as AI Threatens Software Companies",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSlhnYVN6dXU4QW1sYkZLcnVsRXJOSkJIVzFCTHhuYVNHWGpRbWo3NkdPMlpyLW5PN2pXYzc3R3lLUHo5MVZabVBpMU9NWktPT3ZmU0RERkJFSml5U0s5dXpWSDJBVDA3RGVCUmtZbkEyT19qU0JPcHlXY3pVcEpwX3Uwb1pPektxMWFvT0dnM0JLekd1dU5pZzNMczFMZG1OOGp3cUdaTWhNd0d0Vk1n?oc=5",
+      "score": 5.94,
+      "niche": "ai",
+      "source": "gnews",
       "engagement": {
-        "score": 116,
-        "comments": 189
+        "score": 40,
+        "comments": 0
       }
     },
     {
       "title": "op7418/guizang-social-card-skill — 🪧 Claude Code / Codex skill — generate Xiaohongshu carousels & WeChat 21:9+1:1 cover pairs. Editorial × Swiss visual systems, 28 layouts, 10 themes, single-file HTM",
       "url": "https://github.com/op7418/guizang-social-card-skill",
-      "score": 5.67,
+      "score": 5.87,
       "niche": "ai",
       "source": "github",
       "engagement": {
-        "score": 900,
+        "score": 1141,
         "comments": 0
       }
     },
     {
-      "title": "Protestware for coding agents",
-      "url": "https://nesbitt.io/2026/05/28/protestware-for-coding-agents.html",
-      "score": 5.43,
+      "title": "GordenSun/GordenPPTSkill — AI-friendly PPT builder skill: 17 hand-polished Chinese PPTX templates + non-destructive text-only editing tools (python-pptx based). Pick a template, write edits.json, buil",
+      "url": "https://github.com/GordenSun/GordenPPTSkill",
+      "score": 5.85,
       "niche": "ai",
-      "source": "lobsters",
+      "source": "github",
       "engagement": {
-        "score": 39,
-        "comments": 15
+        "score": 219,
+        "comments": 0
+      }
+    },
+    {
+      "title": "Sophomoresty/gemini-web2api — Convert Google Gemini web into OpenAI-compatible API. Zero auth, cross-platform, single file.",
+      "url": "https://github.com/Sophomoresty/gemini-web2api",
+      "score": 5.7,
+      "niche": "ai",
+      "source": "github",
+      "engagement": {
+        "score": 378,
+        "comments": 2
+      }
+    },
+    {
+      "title": "Automation Software Stocks Q1 In Review: SoundHound AI (NASDAQ:SOUN) Vs Peers",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNd19UVDR2SEM3SGJsV2podWFEN1dRZENwWEJua3BhYTJtdTNiZnBXYVJxWGRNRWpzb2wxdjJialBnN3Jfd1p2c0dnTm1zLUh5SkdNME9KT3pOU09NRWZNTlUyY0VvVkNYbHFXYTdKckdDRkZQX2V1U0dQZENNOEF1Z0J5Q1VTbnY4cTNoYW5OS2ZTM1FNVFN2QVZuckNXM1E3Ry1N?oc=5",
+      "score": 5.37,
+      "niche": "ai",
+      "source": "gnews",
+      "engagement": {
+        "score": 40,
+        "comments": 0
+      }
+    },
+    {
+      "title": "Rivian Software Chief Says Apple CarPlay and Android Auto Are Redundant in the World of AI",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOLXBYRVplUk9lRFpkYmptLWlicnk4RGwtWG15aVpzbk1kVU5YTXh6T1lnc0IxV3hnQmpVSTdmQVBlYmYyLWFvNFJWNVVtQXF2VWNBd0JUajdfaU5OWE9ITGxVa0NnUXZwd3JtWGNoNW1TY3oxQUxvemNoWXRnTUpfOGh0Yndoc0NfcUFPc1I0STNuWmxBM1ZTaTFmZm9oZzRGZEZTWVFySlY5bHJWWXZMVjFpUFc?oc=5",
+      "score": 5.37,
+      "niche": "ai",
+      "source": "gnews",
+      "engagement": {
+        "score": 40,
+        "comments": 0
       }
     }
   ],
   "topics": [
     {
       "keyword": "claude code",
-      "count": 30,
-      "score": 203.2260459634088,
+      "count": 19,
+      "score": 174.30391952945808,
       "proper": true,
       "niches": [
         "ai"
       ],
       "examples": [
+        {
+          "title": "Claude Code – Everything You Can Configure That the Docs Don't Tell You",
+          "url": "https://buildingbetter.tech/p/i-read-the-claude-code-source-code",
+          "source": "hackernews"
+        },
+        {
+          "title": "Claude Code – Everything You Can Configure That the Docs Don't Tell You",
+          "url": "https://buildingbetter.tech/p/i-read-the-claude-code-source-code",
+          "source": "hackernews"
+        },
         {
           "title": "op7418/guizang-social-card-skill — 🪧 Claude Code / Codex skill — generate Xiaohongshu carousels & WeChat 21:9+1:1 cover pairs. Editorial × Swiss visual systems, 28 layouts, 10 themes, single-file HTM",
           "url": "https://github.com/op7418/guizang-social-card-skill",
@@ -302,16 +312,6 @@
           "title": "Harkirat1462/claude-code-cli — claude code cli install codex github anthropic agentic coding system terminal assistant codebase git workflows multi file editing mcp protocol model context protocol sub",
           "url": "https://github.com/Harkirat1462/claude-code-cli",
           "source": "github"
-        },
-        {
-          "title": "Claude Code is the best AI coding tool I've used, and I’m not entirely sure if I can recommend it",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMnJUQnpneEtHMEJFZzZ0V0djN24zOVQyM3hpT09WYm5sUXBRVEo0QkFCZG50Q3RMMUtuczFwYk9aMEYxSFpBMVkxNDhrRmpOTUNJWE9teEVsR3JDYW9YMktENFYxQlBjTC1lM2hfYTJ3WkI4c0tyMTh3X0UzSWUwVUFMRlQtSjhIcnRuTTVYUW9OeXFVbUtHYmt3?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Claude Code is the best AI coding tool I've used, and I’m not entirely sure if I can recommend it",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMnJUQnpneEtHMEJFZzZ0V0djN24zOVQyM3hpT09WYm5sUXBRVEo0QkFCZG50Q3RMMUtuczFwYk9aMEYxSFpBMVkxNDhrRmpOTUNJWE9teEVsR3JDYW9YMktENFYxQlBjTC1lM2hfYTJ3WkI4c0tyMTh3X0UzSWUwVUFMRlQtSjhIcnRuTTVYUW9OeXFVbUtHYmt3?oc=5",
-          "source": "gnews"
         }
       ],
       "id": "a625159d18da",
@@ -319,37 +319,36 @@
     },
     {
       "keyword": "passive income",
-      "count": 47,
-      "score": 130.06940526058995,
+      "count": 58,
+      "score": 153.532991200077,
       "proper": true,
       "niches": [
-        "ai",
         "finance"
       ],
       "examples": [
         {
-          "title": "5 Strong Buy Passive Income Giants Have Raised Their Dividends by Double Digits for Years",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPYXVpZFpKTGhLS0ZuWDQtemx4TTZ4dnVZZTQwUjUwa3BoWXNGZlNsampXbUhqNjVMbkw3eUVQU0E4NF9rbm54RlZXdXZSTmVSN1ozdlM0d2JjUG9WVmU1a0hWczJCeFROeERzeF9ocmZVZUpKMHd0ZFFTSG1MMjgtVnhtRXNQV0MyV21WS3M5bmJicGF4d1JJWThDNnJiMkl3eTBMQnFWMUM0cVg0YVFHSnNNMXlBT3BZdldueVNESVJMWmp2bmJ3ZjJtSmI?oc=5",
+          "title": "Want $1,400 in Passive Income? Invest $10,000 Into These 4 Dividend Stocks",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVS1vaXdmWkVhYmt2RDJySjB5M29FQ0tyd3NRVmMzUXhCZ2pzV0hXcXduOFo5Vk5PRGlVT0p5dC1zTGhrazBQYlRpY2s1RDZGa2dZSDZVcWd5dThBRF9NemJjSEZGY0hWdGwwam52UnMxNjI2VU9MQ3RRM3A5OEtkRjBRNVhFTXdyUkdTR3B1TWpjdUZr?oc=5",
           "source": "gnews"
         },
         {
-          "title": "5 Strong Buy Passive Income Giants Have Raised Their Dividends by Double Digits for Years",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPYXVpZFpKTGhLS0ZuWDQtemx4TTZ4dnVZZTQwUjUwa3BoWXNGZlNsampXbUhqNjVMbkw3eUVQU0E4NF9rbm54RlZXdXZSTmVSN1ozdlM0d2JjUG9WVmU1a0hWczJCeFROeERzeF9ocmZVZUpKMHd0ZFFTSG1MMjgtVnhtRXNQV0MyV21WS3M5bmJicGF4d1JJWThDNnJiMkl3eTBMQnFWMUM0cVg0YVFHSnNNMXlBT3BZdldueVNESVJMWmp2bmJ3ZjJtSmI?oc=5",
+          "title": "Want $1,400 in Passive Income? Invest $10,000 Into These 4 Dividend Stocks",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVS1vaXdmWkVhYmt2RDJySjB5M29FQ0tyd3NRVmMzUXhCZ2pzV0hXcXduOFo5Vk5PRGlVT0p5dC1zTGhrazBQYlRpY2s1RDZGa2dZSDZVcWd5dThBRF9NemJjSEZGY0hWdGwwam52UnMxNjI2VU9MQ3RRM3A5OEtkRjBRNVhFTXdyUkdTR3B1TWpjdUZr?oc=5",
           "source": "gnews"
         },
         {
-          "title": "Want $9,000 in Annual Passive Income? Invest $100,000 Into These 3 Monthly Paying Funds",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRnVGZVNMZnBGbVZsbXZYem5Cc01PbEx6ZFZzTnQxd2tHVExiam5DUmc1N19PeTVRNmpRV0FrLXBMYVMxWk1FUzB4ZGxPUnBKSXpIb2MxM0NubmVGSE1pTnZCdFdSX09MR1k4d1ptbTZwcGVzWDQzcFd4U01wZGV1dEdGNXlKaXpOTWNXQVJ2Q1lFWFRIckE?oc=5",
+          "title": "Want $1,400 in Passive Income? Invest $10,000 Into These 4 Dividend Stocks",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVS1vaXdmWkVhYmt2RDJySjB5M29FQ0tyd3NRVmMzUXhCZ2pzV0hXcXduOFo5Vk5PRGlVT0p5dC1zTGhrazBQYlRpY2s1RDZGa2dZSDZVcWd5dThBRF9NemJjSEZGY0hWdGwwam52UnMxNjI2VU9MQ3RRM3A5OEtkRjBRNVhFTXdyUkdTR3B1TWpjdUZr?oc=5",
           "source": "gnews"
         },
         {
-          "title": "Want $9,000 in Annual Passive Income? Invest $100,000 Into These 3 Monthly Paying Funds",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRnVGZVNMZnBGbVZsbXZYem5Cc01PbEx6ZFZzTnQxd2tHVExiam5DUmc1N19PeTVRNmpRV0FrLXBMYVMxWk1FUzB4ZGxPUnBKSXpIb2MxM0NubmVGSE1pTnZCdFdSX09MR1k4d1ptbTZwcGVzWDQzcFd4U01wZGV1dEdGNXlKaXpOTWNXQVJ2Q1lFWFRIckE?oc=5",
+          "title": "Want $4,800 in Annual Passive Income? Invest $40,000 Into These 3 High Yield Dividend Stocks",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVVY3WEdrUjk1OFFYZ24zWk11bFdnVWxnVHV5UEhuQkp0LVg3dmh4ckN6ZGlkUFVIaDM2V0txRXNVQkVmZDIwNnY3VnBqdDlxeWJ1cU1idm1TZGJrYjNKTnRXY3pLOFQ4Z0ZYdnNhSS0tbU9tbG4tSTRTS3dteTNISkxITDRVX2hVWExNSEFpa2hfVnJv?oc=5",
           "source": "gnews"
         },
         {
-          "title": "Want $9,000 in Annual Passive Income? Invest $100,000 Into These 3 Monthly Paying Funds",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOb3Z6T01uTmRORUFIeTY0N0VTWGJyQm1QWU1uZVRLT2RmZkFsNU9fSzdyc0JXcG5nMlJTY0c4d3l0amhXVEd2LUZBZkVNZk83X1lCWHRDNTBVeFBHdXpwLVVhQUdjbHR1N1BlY3A1V01HVzFnUEgwT05ZOFVKWkxJc3Z4UFBxUWtELTZxazF0ejB6Wk5GLXJ6UUJJdzhhRE1tZThlT2I2R3Q0Z0llOHNxOUFGNzlUTkg3MlJyV0pwSXhXMmdaaFBSSE1Gemowdw?oc=5",
+          "title": "Want $4,800 in Annual Passive Income? Invest $40,000 Into These 3 High Yield Dividend Stocks",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVVY3WEdrUjk1OFFYZ24zWk11bFdnVWxnVHV5UEhuQkp0LVg3dmh4ckN6ZGlkUFVIaDM2V0txRXNVQkVmZDIwNnY3VnBqdDlxeWJ1cU1idm1TZGJrYjNKTnRXY3pLOFQ4Z0ZYdnNhSS0tbU9tbG4tSTRTS3dteTNISkxITDRVX2hVWExNSEFpa2hfVnJv?oc=5",
           "source": "gnews"
         }
       ],
@@ -357,37 +356,9 @@
       "slug": "passive-income"
     },
     {
-      "keyword": "generator tools",
-      "count": 11,
-      "score": 123.47473207046296,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "Best AI Music Video Generator Tools in 2026 for Character Consistency and Artist Branding",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPelFTeTNzMnByMDJPV1Z2SGE1Sm5qcENiZUhmeEJCeDdHWHRRQnNKVzRPMkhvTEhtTy1xNTMyRE5XM1RNZk1XZnF1NW96Qk1BeHJoZDdncUlWb190RXdFWXJIQS03S1NGdmEzWl9vckloZ19tREdmSzB3U1piUFJnVUxUNVMyTGpMM2g3SnN2UjU0RldpZmkyRm9WN3dWY3ZyUWx2RERJUDZJTGJhTjNzX1ktWTBCSW5WOFFrdWNBRENLWldYVnY0Rg?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Best AI Music Video Generator Tools in 2026 for Character Consistency and Artist Branding",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPelFTeTNzMnByMDJPV1Z2SGE1Sm5qcENiZUhmeEJCeDdHWHRRQnNKVzRPMkhvTEhtTy1xNTMyRE5XM1RNZk1XZnF1NW96Qk1BeHJoZDdncUlWb190RXdFWXJIQS03S1NGdmEzWl9vckloZ19tREdmSzB3U1piUFJnVUxUNVMyTGpMM2g3SnN2UjU0RldpZmkyRm9WN3dWY3ZyUWx2RERJUDZJTGJhTjNzX1ktWTBCSW5WOFFrdWNBRENLWldYVnY0Rg?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Best AI Music Video Generator Tools in 2026 for Character Consistency and Artist Branding",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPelFTeTNzMnByMDJPV1Z2SGE1Sm5qcENiZUhmeEJCeDdHWHRRQnNKVzRPMkhvTEhtTy1xNTMyRE5XM1RNZk1XZnF1NW96Qk1BeHJoZDdncUlWb190RXdFWXJIQS03S1NGdmEzWl9vckloZ19tREdmSzB3U1piUFJnVUxUNVMyTGpMM2g3SnN2UjU0RldpZmkyRm9WN3dWY3ZyUWx2RERJUDZJTGJhTjNzX1ktWTBCSW5WOFFrdWNBRENLWldYVnY0Rg?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "81ce3e74b27a",
-      "slug": "generator-tools"
-    },
-    {
       "keyword": "claude opus",
       "count": 8,
-      "score": 108.90423044179978,
+      "score": 111.63255590886399,
       "proper": true,
       "niches": [
         "ai"
@@ -408,9 +379,60 @@
       "slug": "claude-opus"
     },
     {
+      "keyword": "lost decade",
+      "count": 8,
+      "score": 104.58069780615114,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "Is AI causing a repeat of Front end's Lost Decade?",
+          "url": "https://mastrojs.github.io/blog/2026-05-23-is-AI-causing-a-repeat-of-frontends-lost-decade/",
+          "source": "hackernews"
+        },
+        {
+          "title": "Is AI causing a repeat of Front end's Lost Decade?",
+          "url": "https://mastrojs.github.io/blog/2026-05-23-is-AI-causing-a-repeat-of-frontends-lost-decade/",
+          "source": "hackernews"
+        }
+      ],
+      "id": "159e5d9c924f",
+      "slug": "lost-decade"
+    },
+    {
+      "keyword": "hardware bets",
+      "count": 11,
+      "score": 97.92823578002233,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "Venture Capital Turns to Hardware Bets as AI Threatens Software Companies",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSlhnYVN6dXU4QW1sYkZLcnVsRXJOSkJIVzFCTHhuYVNHWGpRbWo3NkdPMlpyLW5PN2pXYzc3R3lLUHo5MVZabVBpMU9NWktPT3ZmU0RERkJFSml5U0s5dXpWSDJBVDA3RGVCUmtZbkEyT19qU0JPcHlXY3pVcEpwX3Uwb1pPektxMWFvT0dnM0JLekd1dU5pZzNMczFMZG1OOGp3cUdaTWhNd0d0Vk1n?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Venture Capital Turns to Hardware Bets as AI Threatens Software Companies",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSlhnYVN6dXU4QW1sYkZLcnVsRXJOSkJIVzFCTHhuYVNHWGpRbWo3NkdPMlpyLW5PN2pXYzc3R3lLUHo5MVZabVBpMU9NWktPT3ZmU0RERkJFSml5U0s5dXpWSDJBVDA3RGVCUmtZbkEyT19qU0JPcHlXY3pVcEpwX3Uwb1pPektxMWFvT0dnM0JLekd1dU5pZzNMczFMZG1OOGp3cUdaTWhNd0d0Vk1n?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Venture Capital Turns to Hardware Bets as AI Threatens Software Companies",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSlhnYVN6dXU4QW1sYkZLcnVsRXJOSkJIVzFCTHhuYVNHWGpRbWo3NkdPMlpyLW5PN2pXYzc3R3lLUHo5MVZabVBpMU9NWktPT3ZmU0RERkJFSml5U0s5dXpWSDJBVDA3RGVCUmtZbkEyT19qU0JPcHlXY3pVcEpwX3Uwb1pPektxMWFvT0dnM0JLekd1dU5pZzNMczFMZG1OOGp3cUdaTWhNd0d0Vk1n?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "46c131305791",
+      "slug": "hardware-bets"
+    },
+    {
       "keyword": "bot polymarket",
       "count": 15,
-      "score": 102.91107223110026,
+      "score": 79.18777074726391,
       "proper": false,
       "niches": [
         "ai"
@@ -446,195 +468,9 @@
       "slug": "bot-polymarket"
     },
     {
-      "keyword": "wallpaper engine",
-      "count": 8,
-      "score": 101.41789022199868,
-      "proper": true,
-      "niches": [
-        "software"
-      ],
-      "examples": [
-        {
-          "title": "alfiyahkamilah1239298/WallpaperDownloader-26 — A comprehensive community toolkit for organizing, creating, and managing dynamic wallpaper projects and assets, enhancing your Wallpaper Engine experienc",
-          "url": "https://github.com/alfiyahkamilah1239298/WallpaperDownloader-26",
-          "source": "github"
-        },
-        {
-          "title": "alfiyahkamilah1239298/WallpaperDownloader-26 — A comprehensive community toolkit for organizing, creating, and managing dynamic wallpaper projects and assets, enhancing your Wallpaper Engine experienc",
-          "url": "https://github.com/alfiyahkamilah1239298/WallpaperDownloader-26",
-          "source": "github"
-        }
-      ],
-      "id": "443b951bb650",
-      "slug": "wallpaper-engine"
-    },
-    {
-      "keyword": "holy shitparamount",
-      "count": 8,
-      "score": 92.41114292866388,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "As spotted by Ryan Estrada on Bluesky, HOLY SHITParamount+ created a thumbnail for \"Star Trek II: The Wrath of Khan\" where it genAI-filled a closeup shot of Shatner, giving him a sensible haircut and ",
-          "url": "https://mastodon.social/@tvaziri/116655032766028317",
-          "source": "mastodon"
-        },
-        {
-          "title": "As spotted by Ryan Estrada on Bluesky, HOLY SHITParamount+ created a thumbnail for \"Star Trek II: The Wrath of Khan\" where it genAI-filled a closeup shot of Shatner, giving him a sensible haircut and ",
-          "url": "https://mastodon.social/@tvaziri/116655032766028317",
-          "source": "mastodon"
-        }
-      ],
-      "id": "47f78cf07bb5",
-      "slug": "holy-shitparamount"
-    },
-    {
-      "keyword": "hy3 llm",
-      "count": 8,
-      "score": 83.55489765481161,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "The mysterious Hy3 LLM is topping OpenRouter Model Rankings by a large margin",
-          "url": "https://minimaxir.com/2026/05/openrouter-hy3/",
-          "source": "hackernews"
-        },
-        {
-          "title": "The mysterious Hy3 LLM is topping OpenRouter Model Rankings by a large margin",
-          "url": "https://minimaxir.com/2026/05/openrouter-hy3/",
-          "source": "hackernews"
-        }
-      ],
-      "id": "a410750ecdeb",
-      "slug": "hy3-llm"
-    },
-    {
-      "keyword": "trading bot",
-      "count": 12,
-      "score": 82.32885778488021,
-      "proper": false,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "ShadowSpread/polymarket-auto-trading — polymarket trading bot, polymarket auto trading bot, polymarket profitable bot, polymarket, trading bot, polymarket trading bot, polymarket arbitrage bot, polyma",
-          "url": "https://github.com/ShadowSpread/polymarket-auto-trading",
-          "source": "github"
-        },
-        {
-          "title": "ShadowSpread/polymarket-auto-trading — polymarket trading bot, polymarket auto trading bot, polymarket profitable bot, polymarket, trading bot, polymarket trading bot, polymarket arbitrage bot, polyma",
-          "url": "https://github.com/ShadowSpread/polymarket-auto-trading",
-          "source": "github"
-        },
-        {
-          "title": "ShadowSpread/polymarket-auto-trading — polymarket trading bot, polymarket auto trading bot, polymarket profitable bot, polymarket, trading bot, polymarket trading bot, polymarket arbitrage bot, polyma",
-          "url": "https://github.com/ShadowSpread/polymarket-auto-trading",
-          "source": "github"
-        },
-        {
-          "title": "ShadowSpread/polymarket-auto-trading — polymarket trading bot, polymarket auto trading bot, polymarket profitable bot, polymarket, trading bot, polymarket trading bot, polymarket arbitrage bot, polyma",
-          "url": "https://github.com/ShadowSpread/polymarket-auto-trading",
-          "source": "github"
-        }
-      ],
-      "id": "31a0ef9ff729",
-      "slug": "trading-bot"
-    },
-    {
-      "keyword": "boost sales",
-      "count": 11,
-      "score": 81.74878812940996,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "Best AI Tools for eCommerce 2026: Boost Sales, Emails, and Pricing",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE56cTZNNkg4aXpPQkdReU5abjU3dk5tb1BjcFhlelZrWmExWjlvOFBlLWpWaDVkTjNCTnpuQkwxc1pRTjR2VHVnT0UzQl9ndVBUeURiaVdSZ29Za0Nxak9GWUFTQlM5dGYxR2tr?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Best AI Tools for eCommerce 2026: Boost Sales, Emails, and Pricing",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE56cTZNNkg4aXpPQkdReU5abjU3dk5tb1BjcFhlelZrWmExWjlvOFBlLWpWaDVkTjNCTnpuQkwxc1pRTjR2VHVnT0UzQl9ndVBUeURiaVdSZ29Za0Nxak9GWUFTQlM5dGYxR2tr?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Best AI Tools for eCommerce 2026: Boost Sales, Emails, and Pricing",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE56cTZNNkg4aXpPQkdReU5abjU3dk5tb1BjcFhlelZrWmExWjlvOFBlLWpWaDVkTjNCTnpuQkwxc1pRTjR2VHVnT0UzQl9ndVBUeURiaVdSZ29Za0Nxak9GWUFTQlM5dGYxR2tr?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "c2f5b8bf738e",
-      "slug": "boost-sales"
-    },
-    {
-      "keyword": "open source",
-      "count": 11,
-      "score": 78.34258862401788,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "IBM and Red Hat Commit $5 Billion to Redefine the Future of Open Source in the AI Era",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWWt0OS15bUhvZjZXbVdBYkE4MHI4R3ptWldmOV9SNzNCUXhhUm9iU3V2OVc0eUl0em0wRm0xblpoUXFlR185Wk5SSy04a2JicUlrMWdQeXJzQ0xDRVh4N0hBS0ZFcFVSYmNUVFJRUTVRVXhTYjFRS3cxODdlNGpMOFVDbnVJOUoyNS15RUZOMTlmUm9USEtHQ2kyUWFLUVlNaE5WTzliazF1TTJlNHVqNVVZMkFLR3JBckJ3eA?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "IBM and Red Hat Commit $5 Billion to Redefine the Future of Open Source in the AI Era",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWWt0OS15bUhvZjZXbVdBYkE4MHI4R3ptWldmOV9SNzNCUXhhUm9iU3V2OVc0eUl0em0wRm0xblpoUXFlR185Wk5SSy04a2JicUlrMWdQeXJzQ0xDRVh4N0hBS0ZFcFVSYmNUVFJRUTVRVXhTYjFRS3cxODdlNGpMOFVDbnVJOUoyNS15RUZOMTlmUm9USEtHQ2kyUWFLUVlNaE5WTzliazF1TTJlNHVqNVVZMkFLR3JBckJ3eA?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "IBM and Red Hat Commit $5 Billion to Redefine the Future of Open Source in the AI Era",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWWt0OS15bUhvZjZXbVdBYkE4MHI4R3ptWldmOV9SNzNCUXhhUm9iU3V2OVc0eUl0em0wRm0xblpoUXFlR185Wk5SSy04a2JicUlrMWdQeXJzQ0xDRVh4N0hBS0ZFcFVSYmNUVFJRUTVRVXhTYjFRS3cxODdlNGpMOFVDbnVJOUoyNS15RUZOMTlmUm9USEtHQ2kyUWFLUVlNaE5WTzliazF1TTJlNHVqNVVZMkFLR3JBckJ3eA?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "1ae64990e804",
-      "slug": "open-source"
-    },
-    {
-      "keyword": "arm metis",
-      "count": 11,
-      "score": 78.34258862401788,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "Agentic AI-powered Arm Metis advances security vulnerability discovery in software",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9MXzlkT2NIQUY0eUxLUFcwbU56ZTVCcjhfV05GYmM4b1E1WWFRMnZ3em1TVVhwNDk3SHJiYUVxT3BQX1BzVkVSOWxyYnJUUDl0N3J3THlDOW9EaTVWbU5wU1dPek9id3RUMmFz?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Agentic AI-powered Arm Metis advances security vulnerability discovery in software",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9MXzlkT2NIQUY0eUxLUFcwbU56ZTVCcjhfV05GYmM4b1E1WWFRMnZ3em1TVVhwNDk3SHJiYUVxT3BQX1BzVkVSOWxyYnJUUDl0N3J3THlDOW9EaTVWbU5wU1dPek9id3RUMmFz?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Agentic AI-powered Arm Metis advances security vulnerability discovery in software",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9MXzlkT2NIQUY0eUxLUFcwbU56ZTVCcjhfV05GYmM4b1E1WWFRMnZ3em1TVVhwNDk3SHJiYUVxT3BQX1BzVkVSOWxyYnJUUDl0N3J3THlDOW9EaTVWbU5wU1dPek9id3RUMmFz?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "b4557f2dc721",
-      "slug": "arm-metis"
-    },
-    {
       "keyword": "cloudflare ips",
       "count": 8,
-      "score": 73.23080804291885,
+      "score": 78.60352728677884,
       "proper": true,
       "niches": [
         "ai"
@@ -655,83 +491,251 @@
       "slug": "cloudflare-ips"
     },
     {
-      "keyword": "fitness gear",
-      "count": 29,
-      "score": 69.22713426583792,
+      "keyword": "open source",
+      "count": 14,
+      "score": 76.58614633878457,
       "proper": true,
       "niches": [
-        "gear",
+        "software",
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "Someone used my open source project to phish 14,000 people",
+          "url": "https://andrej.sh/posts/phishing-through-my-open-source-project",
+          "source": "hackernews"
+        },
+        {
+          "title": "IBM and Red Hat Commit $5 Billion to Redefine the Future of Open Source in the AI Era",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWWt0OS15bUhvZjZXbVdBYkE4MHI4R3ptWldmOV9SNzNCUXhhUm9iU3V2OVc0eUl0em0wRm0xblpoUXFlR185Wk5SSy04a2JicUlrMWdQeXJzQ0xDRVh4N0hBS0ZFcFVSYmNUVFJRUTVRVXhTYjFRS3cxODdlNGpMOFVDbnVJOUoyNS15RUZOMTlmUm9USEtHQ2kyUWFLUVlNaE5WTzliazF1TTJlNHVqNVVZMkFLR3JBckJ3eA?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "IBM and Red Hat Commit $5 Billion to Redefine the Future of Open Source in the AI Era",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWWt0OS15bUhvZjZXbVdBYkE4MHI4R3ptWldmOV9SNzNCUXhhUm9iU3V2OVc0eUl0em0wRm0xblpoUXFlR185Wk5SSy04a2JicUlrMWdQeXJzQ0xDRVh4N0hBS0ZFcFVSYmNUVFJRUTVRVXhTYjFRS3cxODdlNGpMOFVDbnVJOUoyNS15RUZOMTlmUm9USEtHQ2kyUWFLUVlNaE5WTzliazF1TTJlNHVqNVVZMkFLR3JBckJ3eA?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "IBM and Red Hat Commit $5 Billion to Redefine the Future of Open Source in the AI Era",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWWt0OS15bUhvZjZXbVdBYkE4MHI4R3ptWldmOV9SNzNCUXhhUm9iU3V2OVc0eUl0em0wRm0xblpoUXFlR185Wk5SSy04a2JicUlrMWdQeXJzQ0xDRVh4N0hBS0ZFcFVSYmNUVFJRUTVRVXhTYjFRS3cxODdlNGpMOFVDbnVJOUoyNS15RUZOMTlmUm9USEtHQ2kyUWFLUVlNaE5WTzliazF1TTJlNHVqNVVZMkFLR3JBckJ3eA?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "1ae64990e804",
+      "slug": "open-source"
+    },
+    {
+      "keyword": "wallpaper engine",
+      "count": 8,
+      "score": 76.1582771087969,
+      "proper": true,
+      "niches": [
         "software"
       ],
       "examples": [
         {
-          "title": "Memorial Day Sales: Great Deals on Fitness Gear",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWEx2T2hXVnExdVY4T2tVczl4cUd1QjcyM2ZMaG0wU3NIdUg1UnR2WnJPVkxjNnAwQ3RGOVlxOGRESXNabVpvejJkem5LN2pfOHhBbUhKYnpMczU3enpBenYzSjRHTUJuSm80QjVxVjI5RFNwdnItSWEtLS1vNlJUNjFDS2Y?oc=5",
-          "source": "gnews"
+          "title": "alfiyahkamilah1239298/WallpaperDownloader-26 — A comprehensive community toolkit for organizing, creating, and managing dynamic wallpaper projects and assets, enhancing your Wallpaper Engine experienc",
+          "url": "https://github.com/alfiyahkamilah1239298/WallpaperDownloader-26",
+          "source": "github"
         },
         {
-          "title": "Memorial Day Sales: Great Deals on Fitness Gear",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWEx2T2hXVnExdVY4T2tVczl4cUd1QjcyM2ZMaG0wU3NIdUg1UnR2WnJPVkxjNnAwQ3RGOVlxOGRESXNabVpvejJkem5LN2pfOHhBbUhKYnpMczU3enpBenYzSjRHTUJuSm80QjVxVjI5RFNwdnItSWEtLS1vNlJUNjFDS2Y?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Memorial Day Sales: Great Deals on Fitness Gear",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWEx2T2hXVnExdVY4T2tVczl4cUd1QjcyM2ZMaG0wU3NIdUg1UnR2WnJPVkxjNnAwQ3RGOVlxOGRESXNabVpvejJkem5LN2pfOHhBbUhKYnpMczU3enpBenYzSjRHTUJuSm80QjVxVjI5RFNwdnItSWEtLS1vNlJUNjFDS2Y?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Editor-Recommended Fitness Gear and Apparel for 2026",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBWRU1VeHpva004R0pHOFpHM3dzakNYSUtzWVVUQjlQTnJZckZGbGtrVTNHNGlRdlFnQTBBZHBDVEZHR1VlZkVUb3BUaUF2NTM2TVZDTlUyd1RVc1Jjakg5QVVxRHNvUklRYkd2cmRfdXRuVzVrRElfU2FyOTVGQQ?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Editor-Recommended Fitness Gear and Apparel for 2026",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBWRU1VeHpva004R0pHOFpHM3dzakNYSUtzWVVUQjlQTnJZckZGbGtrVTNHNGlRdlFnQTBBZHBDVEZHR1VlZkVUb3BUaUF2NTM2TVZDTlUyd1RVc1Jjakg5QVVxRHNvUklRYkd2cmRfdXRuVzVrRElfU2FyOTVGQQ?oc=5",
-          "source": "gnews"
+          "title": "alfiyahkamilah1239298/WallpaperDownloader-26 — A comprehensive community toolkit for organizing, creating, and managing dynamic wallpaper projects and assets, enhancing your Wallpaper Engine experienc",
+          "url": "https://github.com/alfiyahkamilah1239298/WallpaperDownloader-26",
+          "source": "github"
         }
       ],
-      "id": "a8b7e45842c3",
-      "slug": "fitness-gear"
+      "id": "443b951bb650",
+      "slug": "wallpaper-engine"
     },
     {
-      "keyword": "success won",
-      "count": 11,
-      "score": 68.12399010784164,
+      "keyword": "home assistant",
+      "count": 8,
+      "score": 75.82466275613913,
+      "proper": true,
+      "niches": [
+        "software"
+      ],
+      "examples": [
+        {
+          "title": "Volkswagen blocks Home Assistant by requiring client assertion",
+          "url": "https://github.com/robinostlund/homeassistant-volkswagencarnet/issues/967",
+          "source": "hackernews"
+        },
+        {
+          "title": "Volkswagen blocks Home Assistant by requiring client assertion",
+          "url": "https://github.com/robinostlund/homeassistant-volkswagencarnet/issues/967",
+          "source": "hackernews"
+        }
+      ],
+      "id": "a955b9f5c160",
+      "slug": "home-assistant"
+    },
+    {
+      "keyword": "llm inference",
+      "count": 8,
+      "score": 74.7899567319306,
       "proper": true,
       "niches": [
         "ai"
       ],
       "examples": [
         {
-          "title": "AI Has Caused a Software Winter for Markets. Snowflake’s Success Won’t End It.",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTlkxa2VIeHBKeFVtd3BfdDNPb0Y2dWxxOHZEUlpZaWJmTnRtdXVIMWRfZmlqRmxfS0JmZjZ0YlprN1BCcEdEOHZyWUVIUXUzZHNlcHdhQlg4RXBqVEpJcUVRREh0bTY3YThKSWFKY29oNkE4Y1E1X0xQaU1KS0NnVTlQcnpHbGw1ckYyYWR2N1dsZw?oc=5",
+          "title": "Real-time LLM Inference on Standard GPUs: 3k tokens/s per request",
+          "url": "https://blog.kog.ai/real-time-llm-inference-on-standard-gpus-3-000-tokens-s-per-request/",
+          "source": "hackernews"
+        },
+        {
+          "title": "Real-time LLM Inference on Standard GPUs: 3k tokens/s per request",
+          "url": "https://blog.kog.ai/real-time-llm-inference-on-standard-gpus-3-000-tokens-s-per-request/",
+          "source": "hackernews"
+        }
+      ],
+      "id": "3c4e717b2163",
+      "slug": "llm-inference"
+    },
+    {
+      "keyword": "standard gpus",
+      "count": 8,
+      "score": 74.7899567319306,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "Real-time LLM Inference on Standard GPUs: 3k tokens/s per request",
+          "url": "https://blog.kog.ai/real-time-llm-inference-on-standard-gpus-3-000-tokens-s-per-request/",
+          "source": "hackernews"
+        },
+        {
+          "title": "Real-time LLM Inference on Standard GPUs: 3k tokens/s per request",
+          "url": "https://blog.kog.ai/real-time-llm-inference-on-standard-gpus-3-000-tokens-s-per-request/",
+          "source": "hackernews"
+        }
+      ],
+      "id": "664c2524277d",
+      "slug": "standard-gpus"
+    },
+    {
+      "keyword": "chinese pptx",
+      "count": 8,
+      "score": 70.16024413598672,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "GordenSun/GordenPPTSkill — AI-friendly PPT builder skill: 17 hand-polished Chinese PPTX templates + non-destructive text-only editing tools (python-pptx based). Pick a template, write edits.json, buil",
+          "url": "https://github.com/GordenSun/GordenPPTSkill",
+          "source": "github"
+        },
+        {
+          "title": "GordenSun/GordenPPTSkill — AI-friendly PPT builder skill: 17 hand-polished Chinese PPTX templates + non-destructive text-only editing tools (python-pptx based). Pick a template, write edits.json, buil",
+          "url": "https://github.com/GordenSun/GordenPPTSkill",
+          "source": "github"
+        }
+      ],
+      "id": "767e6a9f3af0",
+      "slug": "chinese-pptx"
+    },
+    {
+      "keyword": "productivity apps",
+      "count": 27,
+      "score": 69.36260810980238,
+      "proper": false,
+      "niches": [
+        "software"
+      ],
+      "examples": [
+        {
+          "title": "The Best Productivity Apps for 2026",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1hcGhhTzd4UXY0VzB6MjRBcjZDR3ozczlxVFd4eVZmRGpjNVk2Z1ZCd3pIa0hBMUcxN3hEQTloZjh0dmdLMl9EakVNYjl0ZFBRQldfZEtqbGVmNGNtYTBNSllINjZ1aUU3aWp0ZGMyOTg0eGJE?oc=5",
           "source": "gnews"
         },
         {
-          "title": "AI Has Caused a Software Winter for Markets. Snowflake’s Success Won’t End It.",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTlkxa2VIeHBKeFVtd3BfdDNPb0Y2dWxxOHZEUlpZaWJmTnRtdXVIMWRfZmlqRmxfS0JmZjZ0YlprN1BCcEdEOHZyWUVIUXUzZHNlcHdhQlg4RXBqVEpJcUVRREh0bTY3YThKSWFKY29oNkE4Y1E1X0xQaU1KS0NnVTlQcnpHbGw1ckYyYWR2N1dsZw?oc=5",
+          "title": "The Best Productivity Apps for 2026",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1hcGhhTzd4UXY0VzB6MjRBcjZDR3ozczlxVFd4eVZmRGpjNVk2Z1ZCd3pIa0hBMUcxN3hEQTloZjh0dmdLMl9EakVNYjl0ZFBRQldfZEtqbGVmNGNtYTBNSllINjZ1aUU3aWp0ZGMyOTg0eGJE?oc=5",
           "source": "gnews"
         },
         {
-          "title": "AI Has Caused a Software Winter for Markets. Snowflake’s Success Won’t End It.",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTlkxa2VIeHBKeFVtd3BfdDNPb0Y2dWxxOHZEUlpZaWJmTnRtdXVIMWRfZmlqRmxfS0JmZjZ0YlprN1BCcEdEOHZyWUVIUXUzZHNlcHdhQlg4RXBqVEpJcUVRREh0bTY3YThKSWFKY29oNkE4Y1E1X0xQaU1KS0NnVTlQcnpHbGw1ckYyYWR2N1dsZw?oc=5",
+          "title": "This tool replaces your pile of productivity apps for $65 for life",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVUd4Z1hPelFOZ0NQT3VZcXhoRUdGSGZvSDBJeEhrRkphR1ZzNG5CMFRMLW1Edk42Qzd1UVFJMmt5a3dhbU9tTi1hOTVEV1pPY1Zteks2OGVOSW5lQVJEVFR3ZTJPNDlEYmV1M0txRS1KMmlxRVhYYjRZTWt2WlYxenhGNWd3ejY2cDhockNEMzNzZi1oVkFYRlZEZnpkRVZSOXM0QlA3Z9IBrAFBVV95cUxQbGZucTNlcXhxRW9ST3ktMkxYQ00xVkNRQlgyM1JLVFZ1V2h3bkFvdzQ2RDRrQTQ5MTVoMkpvRk41aWh0NFdaR2kxYTJnUGRjdE9kNzdTMTN2M2NlZkN6bndDQmpTOU1xcGs5YUtpQlNRUWxZNURnb1ZoZTJndVp1d0ZKSl9mSk1RLUF6bFc3WnFLRHdMbVJqT3N2a3k4RDVpSVVDQXBjSUozVmhz?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Top Productivity Apps That Save Time",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1weEhlXzc3U3NFVnVmN0gweWZ5U3FXdGtyOGY2eXROWlBzWER5WjEyQUdZWjl4OFc4Qk1kYktvZUVXLXBMSTh2d0dNbDF4RllwZS1XVUZWN05zWVl5MEFBdDI5Zk5HMnEzcFdyUTE0NEJ1TjQ?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Top Productivity Apps That Save Time",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1weEhlXzc3U3NFVnVmN0gweWZ5U3FXdGtyOGY2eXROWlBzWER5WjEyQUdZWjl4OFc4Qk1kYktvZUVXLXBMSTh2d0dNbDF4RllwZS1XVUZWN05zWVl5MEFBdDI5Zk5HMnEzcFdyUTE0NEJ1TjQ?oc=5",
           "source": "gnews"
         }
       ],
-      "id": "9f29e4ef7a87",
-      "slug": "success-won"
+      "id": "c3d816ac2a46",
+      "slug": "productivity-apps"
+    },
+    {
+      "keyword": "dividend stocks",
+      "count": 17,
+      "score": 67.67644258760188,
+      "proper": true,
+      "niches": [
+        "finance"
+      ],
+      "examples": [
+        {
+          "title": "Want $1,400 in Passive Income? Invest $10,000 Into These 4 Dividend Stocks",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVS1vaXdmWkVhYmt2RDJySjB5M29FQ0tyd3NRVmMzUXhCZ2pzV0hXcXduOFo5Vk5PRGlVT0p5dC1zTGhrazBQYlRpY2s1RDZGa2dZSDZVcWd5dThBRF9NemJjSEZGY0hWdGwwam52UnMxNjI2VU9MQ3RRM3A5OEtkRjBRNVhFTXdyUkdTR3B1TWpjdUZr?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Want $1,400 in Passive Income? Invest $10,000 Into These 4 Dividend Stocks",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVS1vaXdmWkVhYmt2RDJySjB5M29FQ0tyd3NRVmMzUXhCZ2pzV0hXcXduOFo5Vk5PRGlVT0p5dC1zTGhrazBQYlRpY2s1RDZGa2dZSDZVcWd5dThBRF9NemJjSEZGY0hWdGwwam52UnMxNjI2VU9MQ3RRM3A5OEtkRjBRNVhFTXdyUkdTR3B1TWpjdUZr?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Want $1,400 in Passive Income? Invest $10,000 Into These 4 Dividend Stocks",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVS1vaXdmWkVhYmt2RDJySjB5M29FQ0tyd3NRVmMzUXhCZ2pzV0hXcXduOFo5Vk5PRGlVT0p5dC1zTGhrazBQYlRpY2s1RDZGa2dZSDZVcWd5dThBRF9NemJjSEZGY0hWdGwwam52UnMxNjI2VU9MQ3RRM3A5OEtkRjBRNVhFTXdyUkdTR3B1TWpjdUZr?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Want $4,800 in Annual Passive Income? Invest $40,000 Into These 3 High Yield Dividend Stocks",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVVY3WEdrUjk1OFFYZ24zWk11bFdnVWxnVHV5UEhuQkp0LVg3dmh4ckN6ZGlkUFVIaDM2V0txRXNVQkVmZDIwNnY3VnBqdDlxeWJ1cU1idm1TZGJrYjNKTnRXY3pLOFQ4Z0ZYdnNhSS0tbU9tbG4tSTRTS3dteTNISkxITDRVX2hVWExNSEFpa2hfVnJv?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Want $4,800 in Annual Passive Income? Invest $40,000 Into These 3 High Yield Dividend Stocks",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVVY3WEdrUjk1OFFYZ24zWk11bFdnVWxnVHV5UEhuQkp0LVg3dmh4ckN6ZGlkUFVIaDM2V0txRXNVQkVmZDIwNnY3VnBqdDlxeWJ1cU1idm1TZGJrYjNKTnRXY3pLOFQ4Z0ZYdnNhSS0tbU9tbG4tSTRTS3dteTNISkxITDRVX2hVWExNSEFpa2hfVnJv?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "e1fa01b8fed7",
+      "slug": "dividend-stocks"
     }
   ],
   "opportunities": [
     {
       "keyword": "claude code",
-      "count": 30,
-      "score": 203.2260459634088,
+      "count": 19,
+      "score": 174.30391952945808,
       "proper": true,
       "niches": [
         "ai"
       ],
       "examples": [
+        {
+          "title": "Claude Code – Everything You Can Configure That the Docs Don't Tell You",
+          "url": "https://buildingbetter.tech/p/i-read-the-claude-code-source-code",
+          "source": "hackernews"
+        },
+        {
+          "title": "Claude Code – Everything You Can Configure That the Docs Don't Tell You",
+          "url": "https://buildingbetter.tech/p/i-read-the-claude-code-source-code",
+          "source": "hackernews"
+        },
         {
           "title": "op7418/guizang-social-card-skill — 🪧 Claude Code / Codex skill — generate Xiaohongshu carousels & WeChat 21:9+1:1 cover pairs. Editorial × Swiss visual systems, 28 layouts, 10 themes, single-file HTM",
           "url": "https://github.com/op7418/guizang-social-card-skill",
@@ -746,16 +750,6 @@
           "title": "Harkirat1462/claude-code-cli — claude code cli install codex github anthropic agentic coding system terminal assistant codebase git workflows multi file editing mcp protocol model context protocol sub",
           "url": "https://github.com/Harkirat1462/claude-code-cli",
           "source": "github"
-        },
-        {
-          "title": "Claude Code is the best AI coding tool I've used, and I’m not entirely sure if I can recommend it",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMnJUQnpneEtHMEJFZzZ0V0djN24zOVQyM3hpT09WYm5sUXBRVEo0QkFCZG50Q3RMMUtuczFwYk9aMEYxSFpBMVkxNDhrRmpOTUNJWE9teEVsR3JDYW9YMktENFYxQlBjTC1lM2hfYTJ3WkI4c0tyMTh3X0UzSWUwVUFMRlQtSjhIcnRuTTVYUW9OeXFVbUtHYmt3?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Claude Code is the best AI coding tool I've used, and I’m not entirely sure if I can recommend it",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMnJUQnpneEtHMEJFZzZ0V0djN24zOVQyM3hpT09WYm5sUXBRVEo0QkFCZG50Q3RMMUtuczFwYk9aMEYxSFpBMVkxNDhrRmpOTUNJWE9teEVsR3JDYW9YMktENFYxQlBjTC1lM2hfYTJ3WkI4c0tyMTh3X0UzSWUwVUFMRlQtSjhIcnRuTTVYUW9OeXFVbUtHYmt3?oc=5",
-          "source": "gnews"
         }
       ],
       "id": "a625159d18da",
@@ -767,37 +761,36 @@
     },
     {
       "keyword": "passive income",
-      "count": 47,
-      "score": 130.06940526058995,
+      "count": 58,
+      "score": 153.532991200077,
       "proper": true,
       "niches": [
-        "ai",
         "finance"
       ],
       "examples": [
         {
-          "title": "5 Strong Buy Passive Income Giants Have Raised Their Dividends by Double Digits for Years",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPYXVpZFpKTGhLS0ZuWDQtemx4TTZ4dnVZZTQwUjUwa3BoWXNGZlNsampXbUhqNjVMbkw3eUVQU0E4NF9rbm54RlZXdXZSTmVSN1ozdlM0d2JjUG9WVmU1a0hWczJCeFROeERzeF9ocmZVZUpKMHd0ZFFTSG1MMjgtVnhtRXNQV0MyV21WS3M5bmJicGF4d1JJWThDNnJiMkl3eTBMQnFWMUM0cVg0YVFHSnNNMXlBT3BZdldueVNESVJMWmp2bmJ3ZjJtSmI?oc=5",
+          "title": "Want $1,400 in Passive Income? Invest $10,000 Into These 4 Dividend Stocks",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVS1vaXdmWkVhYmt2RDJySjB5M29FQ0tyd3NRVmMzUXhCZ2pzV0hXcXduOFo5Vk5PRGlVT0p5dC1zTGhrazBQYlRpY2s1RDZGa2dZSDZVcWd5dThBRF9NemJjSEZGY0hWdGwwam52UnMxNjI2VU9MQ3RRM3A5OEtkRjBRNVhFTXdyUkdTR3B1TWpjdUZr?oc=5",
           "source": "gnews"
         },
         {
-          "title": "5 Strong Buy Passive Income Giants Have Raised Their Dividends by Double Digits for Years",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPYXVpZFpKTGhLS0ZuWDQtemx4TTZ4dnVZZTQwUjUwa3BoWXNGZlNsampXbUhqNjVMbkw3eUVQU0E4NF9rbm54RlZXdXZSTmVSN1ozdlM0d2JjUG9WVmU1a0hWczJCeFROeERzeF9ocmZVZUpKMHd0ZFFTSG1MMjgtVnhtRXNQV0MyV21WS3M5bmJicGF4d1JJWThDNnJiMkl3eTBMQnFWMUM0cVg0YVFHSnNNMXlBT3BZdldueVNESVJMWmp2bmJ3ZjJtSmI?oc=5",
+          "title": "Want $1,400 in Passive Income? Invest $10,000 Into These 4 Dividend Stocks",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVS1vaXdmWkVhYmt2RDJySjB5M29FQ0tyd3NRVmMzUXhCZ2pzV0hXcXduOFo5Vk5PRGlVT0p5dC1zTGhrazBQYlRpY2s1RDZGa2dZSDZVcWd5dThBRF9NemJjSEZGY0hWdGwwam52UnMxNjI2VU9MQ3RRM3A5OEtkRjBRNVhFTXdyUkdTR3B1TWpjdUZr?oc=5",
           "source": "gnews"
         },
         {
-          "title": "Want $9,000 in Annual Passive Income? Invest $100,000 Into These 3 Monthly Paying Funds",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRnVGZVNMZnBGbVZsbXZYem5Cc01PbEx6ZFZzTnQxd2tHVExiam5DUmc1N19PeTVRNmpRV0FrLXBMYVMxWk1FUzB4ZGxPUnBKSXpIb2MxM0NubmVGSE1pTnZCdFdSX09MR1k4d1ptbTZwcGVzWDQzcFd4U01wZGV1dEdGNXlKaXpOTWNXQVJ2Q1lFWFRIckE?oc=5",
+          "title": "Want $1,400 in Passive Income? Invest $10,000 Into These 4 Dividend Stocks",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVS1vaXdmWkVhYmt2RDJySjB5M29FQ0tyd3NRVmMzUXhCZ2pzV0hXcXduOFo5Vk5PRGlVT0p5dC1zTGhrazBQYlRpY2s1RDZGa2dZSDZVcWd5dThBRF9NemJjSEZGY0hWdGwwam52UnMxNjI2VU9MQ3RRM3A5OEtkRjBRNVhFTXdyUkdTR3B1TWpjdUZr?oc=5",
           "source": "gnews"
         },
         {
-          "title": "Want $9,000 in Annual Passive Income? Invest $100,000 Into These 3 Monthly Paying Funds",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRnVGZVNMZnBGbVZsbXZYem5Cc01PbEx6ZFZzTnQxd2tHVExiam5DUmc1N19PeTVRNmpRV0FrLXBMYVMxWk1FUzB4ZGxPUnBKSXpIb2MxM0NubmVGSE1pTnZCdFdSX09MR1k4d1ptbTZwcGVzWDQzcFd4U01wZGV1dEdGNXlKaXpOTWNXQVJ2Q1lFWFRIckE?oc=5",
+          "title": "Want $4,800 in Annual Passive Income? Invest $40,000 Into These 3 High Yield Dividend Stocks",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVVY3WEdrUjk1OFFYZ24zWk11bFdnVWxnVHV5UEhuQkp0LVg3dmh4ckN6ZGlkUFVIaDM2V0txRXNVQkVmZDIwNnY3VnBqdDlxeWJ1cU1idm1TZGJrYjNKTnRXY3pLOFQ4Z0ZYdnNhSS0tbU9tbG4tSTRTS3dteTNISkxITDRVX2hVWExNSEFpa2hfVnJv?oc=5",
           "source": "gnews"
         },
         {
-          "title": "Want $9,000 in Annual Passive Income? Invest $100,000 Into These 3 Monthly Paying Funds",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOb3Z6T01uTmRORUFIeTY0N0VTWGJyQm1QWU1uZVRLT2RmZkFsNU9fSzdyc0JXcG5nMlJTY0c4d3l0amhXVEd2LUZBZkVNZk83X1lCWHRDNTBVeFBHdXpwLVVhQUdjbHR1N1BlY3A1V01HVzFnUEgwT05ZOFVKWkxJc3Z4UFBxUWtELTZxazF0ejB6Wk5GLXJ6UUJJdzhhRE1tZThlT2I2R3Q0Z0llOHNxOUFGNzlUTkg3MlJyV0pwSXhXMmdaaFBSSE1Gemowdw?oc=5",
+          "title": "Want $4,800 in Annual Passive Income? Invest $40,000 Into These 3 High Yield Dividend Stocks",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVVY3WEdrUjk1OFFYZ24zWk11bFdnVWxnVHV5UEhuQkp0LVg3dmh4ckN6ZGlkUFVIaDM2V0txRXNVQkVmZDIwNnY3VnBqdDlxeWJ1cU1idm1TZGJrYjNKTnRXY3pLOFQ4Z0ZYdnNhSS0tbU9tbG4tSTRTS3dteTNISkxITDRVX2hVWExNSEFpa2hfVnJv?oc=5",
           "source": "gnews"
         }
       ],
@@ -805,45 +798,13 @@
       "slug": "passive-income",
       "opportunity": {
         "type": "niche-content",
-        "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
-      }
-    },
-    {
-      "keyword": "generator tools",
-      "count": 11,
-      "score": 123.47473207046296,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "Best AI Music Video Generator Tools in 2026 for Character Consistency and Artist Branding",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPelFTeTNzMnByMDJPV1Z2SGE1Sm5qcENiZUhmeEJCeDdHWHRRQnNKVzRPMkhvTEhtTy1xNTMyRE5XM1RNZk1XZnF1NW96Qk1BeHJoZDdncUlWb190RXdFWXJIQS03S1NGdmEzWl9vckloZ19tREdmSzB3U1piUFJnVUxUNVMyTGpMM2g3SnN2UjU0RldpZmkyRm9WN3dWY3ZyUWx2RERJUDZJTGJhTjNzX1ktWTBCSW5WOFFrdWNBRENLWldYVnY0Rg?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Best AI Music Video Generator Tools in 2026 for Character Consistency and Artist Branding",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPelFTeTNzMnByMDJPV1Z2SGE1Sm5qcENiZUhmeEJCeDdHWHRRQnNKVzRPMkhvTEhtTy1xNTMyRE5XM1RNZk1XZnF1NW96Qk1BeHJoZDdncUlWb190RXdFWXJIQS03S1NGdmEzWl9vckloZ19tREdmSzB3U1piUFJnVUxUNVMyTGpMM2g3SnN2UjU0RldpZmkyRm9WN3dWY3ZyUWx2RERJUDZJTGJhTjNzX1ktWTBCSW5WOFFrdWNBRENLWldYVnY0Rg?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Best AI Music Video Generator Tools in 2026 for Character Consistency and Artist Branding",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPelFTeTNzMnByMDJPV1Z2SGE1Sm5qcENiZUhmeEJCeDdHWHRRQnNKVzRPMkhvTEhtTy1xNTMyRE5XM1RNZk1XZnF1NW96Qk1BeHJoZDdncUlWb190RXdFWXJIQS03S1NGdmEzWl9vckloZ19tREdmSzB3U1piUFJnVUxUNVMyTGpMM2g3SnN2UjU0RldpZmkyRm9WN3dWY3ZyUWx2RERJUDZJTGJhTjNzX1ktWTBCSW5WOFFrdWNBRENLWldYVnY0Rg?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "81ce3e74b27a",
-      "slug": "generator-tools",
-      "opportunity": {
-        "type": "affiliate",
-        "recommended": "Write SEO comparison/roundup article with affiliate links."
+        "recommended": "Publish niche guide for \"finance\"; bundle into digital product later."
       }
     },
     {
       "keyword": "claude opus",
       "count": 8,
-      "score": 108.90423044179978,
+      "score": 111.63255590886399,
       "proper": true,
       "niches": [
         "ai"
@@ -868,9 +829,68 @@
       }
     },
     {
+      "keyword": "lost decade",
+      "count": 8,
+      "score": 104.58069780615114,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "Is AI causing a repeat of Front end's Lost Decade?",
+          "url": "https://mastrojs.github.io/blog/2026-05-23-is-AI-causing-a-repeat-of-frontends-lost-decade/",
+          "source": "hackernews"
+        },
+        {
+          "title": "Is AI causing a repeat of Front end's Lost Decade?",
+          "url": "https://mastrojs.github.io/blog/2026-05-23-is-AI-causing-a-repeat-of-frontends-lost-decade/",
+          "source": "hackernews"
+        }
+      ],
+      "id": "159e5d9c924f",
+      "slug": "lost-decade",
+      "opportunity": {
+        "type": "niche-content",
+        "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
+      }
+    },
+    {
+      "keyword": "hardware bets",
+      "count": 11,
+      "score": 97.92823578002233,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "Venture Capital Turns to Hardware Bets as AI Threatens Software Companies",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSlhnYVN6dXU4QW1sYkZLcnVsRXJOSkJIVzFCTHhuYVNHWGpRbWo3NkdPMlpyLW5PN2pXYzc3R3lLUHo5MVZabVBpMU9NWktPT3ZmU0RERkJFSml5U0s5dXpWSDJBVDA3RGVCUmtZbkEyT19qU0JPcHlXY3pVcEpwX3Uwb1pPektxMWFvT0dnM0JLekd1dU5pZzNMczFMZG1OOGp3cUdaTWhNd0d0Vk1n?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Venture Capital Turns to Hardware Bets as AI Threatens Software Companies",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSlhnYVN6dXU4QW1sYkZLcnVsRXJOSkJIVzFCTHhuYVNHWGpRbWo3NkdPMlpyLW5PN2pXYzc3R3lLUHo5MVZabVBpMU9NWktPT3ZmU0RERkJFSml5U0s5dXpWSDJBVDA3RGVCUmtZbkEyT19qU0JPcHlXY3pVcEpwX3Uwb1pPektxMWFvT0dnM0JLekd1dU5pZzNMczFMZG1OOGp3cUdaTWhNd0d0Vk1n?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Venture Capital Turns to Hardware Bets as AI Threatens Software Companies",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSlhnYVN6dXU4QW1sYkZLcnVsRXJOSkJIVzFCTHhuYVNHWGpRbWo3NkdPMlpyLW5PN2pXYzc3R3lLUHo5MVZabVBpMU9NWktPT3ZmU0RERkJFSml5U0s5dXpWSDJBVDA3RGVCUmtZbkEyT19qU0JPcHlXY3pVcEpwX3Uwb1pPektxMWFvT0dnM0JLekd1dU5pZzNMczFMZG1OOGp3cUdaTWhNd0d0Vk1n?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "46c131305791",
+      "slug": "hardware-bets",
+      "opportunity": {
+        "type": "niche-content",
+        "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
+      }
+    },
+    {
       "keyword": "bot polymarket",
       "count": 15,
-      "score": 102.91107223110026,
+      "score": 79.18777074726391,
       "proper": false,
       "niches": [
         "ai"
@@ -910,84 +930,68 @@
       }
     },
     {
-      "keyword": "wallpaper engine",
+      "keyword": "cloudflare ips",
       "count": 8,
-      "score": 101.41789022199868,
-      "proper": true,
-      "niches": [
-        "software"
-      ],
-      "examples": [
-        {
-          "title": "alfiyahkamilah1239298/WallpaperDownloader-26 — A comprehensive community toolkit for organizing, creating, and managing dynamic wallpaper projects and assets, enhancing your Wallpaper Engine experienc",
-          "url": "https://github.com/alfiyahkamilah1239298/WallpaperDownloader-26",
-          "source": "github"
-        },
-        {
-          "title": "alfiyahkamilah1239298/WallpaperDownloader-26 — A comprehensive community toolkit for organizing, creating, and managing dynamic wallpaper projects and assets, enhancing your Wallpaper Engine experienc",
-          "url": "https://github.com/alfiyahkamilah1239298/WallpaperDownloader-26",
-          "source": "github"
-        }
-      ],
-      "id": "443b951bb650",
-      "slug": "wallpaper-engine",
-      "opportunity": {
-        "type": "niche-content",
-        "recommended": "Publish niche guide for \"software\"; bundle into digital product later."
-      }
-    },
-    {
-      "keyword": "holy shitparamount",
-      "count": 8,
-      "score": 92.41114292866388,
+      "score": 78.60352728677884,
       "proper": true,
       "niches": [
         "ai"
       ],
       "examples": [
         {
-          "title": "As spotted by Ryan Estrada on Bluesky, HOLY SHITParamount+ created a thumbnail for \"Star Trek II: The Wrath of Khan\" where it genAI-filled a closeup shot of Shatner, giving him a sensible haircut and ",
-          "url": "https://mastodon.social/@tvaziri/116655032766028317",
-          "source": "mastodon"
+          "title": "MatinSenPai/SenPaiScanner — A light-weight scanner for Cloudflare IPs, written in Golang",
+          "url": "https://github.com/MatinSenPai/SenPaiScanner",
+          "source": "github"
         },
         {
-          "title": "As spotted by Ryan Estrada on Bluesky, HOLY SHITParamount+ created a thumbnail for \"Star Trek II: The Wrath of Khan\" where it genAI-filled a closeup shot of Shatner, giving him a sensible haircut and ",
-          "url": "https://mastodon.social/@tvaziri/116655032766028317",
-          "source": "mastodon"
+          "title": "MatinSenPai/SenPaiScanner — A light-weight scanner for Cloudflare IPs, written in Golang",
+          "url": "https://github.com/MatinSenPai/SenPaiScanner",
+          "source": "github"
         }
       ],
-      "id": "47f78cf07bb5",
-      "slug": "holy-shitparamount",
+      "id": "b4c19082aca1",
+      "slug": "cloudflare-ips",
       "opportunity": {
         "type": "niche-content",
         "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
       }
     },
     {
-      "keyword": "hy3 llm",
-      "count": 8,
-      "score": 83.55489765481161,
+      "keyword": "open source",
+      "count": 14,
+      "score": 76.58614633878457,
       "proper": true,
       "niches": [
+        "software",
         "ai"
       ],
       "examples": [
         {
-          "title": "The mysterious Hy3 LLM is topping OpenRouter Model Rankings by a large margin",
-          "url": "https://minimaxir.com/2026/05/openrouter-hy3/",
+          "title": "Someone used my open source project to phish 14,000 people",
+          "url": "https://andrej.sh/posts/phishing-through-my-open-source-project",
           "source": "hackernews"
         },
         {
-          "title": "The mysterious Hy3 LLM is topping OpenRouter Model Rankings by a large margin",
-          "url": "https://minimaxir.com/2026/05/openrouter-hy3/",
-          "source": "hackernews"
+          "title": "IBM and Red Hat Commit $5 Billion to Redefine the Future of Open Source in the AI Era",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWWt0OS15bUhvZjZXbVdBYkE4MHI4R3ptWldmOV9SNzNCUXhhUm9iU3V2OVc0eUl0em0wRm0xblpoUXFlR185Wk5SSy04a2JicUlrMWdQeXJzQ0xDRVh4N0hBS0ZFcFVSYmNUVFJRUTVRVXhTYjFRS3cxODdlNGpMOFVDbnVJOUoyNS15RUZOMTlmUm9USEtHQ2kyUWFLUVlNaE5WTzliazF1TTJlNHVqNVVZMkFLR3JBckJ3eA?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "IBM and Red Hat Commit $5 Billion to Redefine the Future of Open Source in the AI Era",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWWt0OS15bUhvZjZXbVdBYkE4MHI4R3ptWldmOV9SNzNCUXhhUm9iU3V2OVc0eUl0em0wRm0xblpoUXFlR185Wk5SSy04a2JicUlrMWdQeXJzQ0xDRVh4N0hBS0ZFcFVSYmNUVFJRUTVRVXhTYjFRS3cxODdlNGpMOFVDbnVJOUoyNS15RUZOMTlmUm9USEtHQ2kyUWFLUVlNaE5WTzliazF1TTJlNHVqNVVZMkFLR3JBckJ3eA?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "IBM and Red Hat Commit $5 Billion to Redefine the Future of Open Source in the AI Era",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWWt0OS15bUhvZjZXbVdBYkE4MHI4R3ptWldmOV9SNzNCUXhhUm9iU3V2OVc0eUl0em0wRm0xblpoUXFlR185Wk5SSy04a2JicUlrMWdQeXJzQ0xDRVh4N0hBS0ZFcFVSYmNUVFJRUTVRVXhTYjFRS3cxODdlNGpMOFVDbnVJOUoyNS15RUZOMTlmUm9USEtHQ2kyUWFLUVlNaE5WTzliazF1TTJlNHVqNVVZMkFLR3JBckJ3eA?oc=5",
+          "source": "gnews"
         }
       ],
-      "id": "a410750ecdeb",
-      "slug": "hy3-llm",
+      "id": "1ae64990e804",
+      "slug": "open-source",
       "opportunity": {
-        "type": "tooling",
-        "recommended": "Build / list AI tools; monetize via affiliate links + lead magnet."
+        "type": "niche-content",
+        "recommended": "Publish niche guide for \"software\"; bundle into digital product later."
       }
     }
   ]

@@ -1,0 +1,79 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width,initial-scale=1"/>
+<title>LLM Inference Prompt Pack — 50 Battle-Tested Prompts</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"/><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400..900&family=Newsreader:opsz,wght@6..72,400..600&family=JetBrains+Mono:wght@400;500;700&display=swap"/>
+<style>
+:root{--bg:#0a0c0b;--ink:#eae3d6;--fg:#d7d3c8;--dim:#9aa39a;--accent:#4fe08a;--hair:#232a26;--bg1:#0f1311}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--fg);font-family:'Newsreader',Georgia,serif;font-size:17px;line-height:1.7}
+.wrap{max-width:760px;margin:0 auto;padding:64px 24px 96px}
+h1{font-family:'Fraunces',serif;font-weight:900;font-size:clamp(34px,6vw,52px);line-height:1.05;letter-spacing:-.03em;color:var(--ink);margin:0 0 10px}
+h2{font-family:'Fraunces',serif;font-weight:600;font-size:24px;color:var(--ink);margin:44px 0 6px;padding-top:22px;border-top:1px solid var(--hair)}
+h3{font-family:'Fraunces',serif;font-weight:600;font-size:19px;color:var(--ink);margin:26px 0 4px}
+p{margin:14px 0}strong{color:var(--ink)}
+ol,ul{padding-left:0;list-style:none}
+ol>li,ul>li{margin:14px 0;padding:16px 18px;background:var(--bg1);border:1px solid var(--hair);border-radius:4px;position:relative}
+ol{counter-reset:p}ol>li{counter-increment:p;padding-left:54px}
+ol>li::before{content:counter(p);position:absolute;left:16px;top:16px;font-family:'JetBrains Mono',monospace;font-size:13px;font-weight:700;color:var(--accent)}
+code{font-family:'JetBrains Mono',monospace;background:#141917;color:#cfe9d6;padding:2px 6px;border-radius:3px;font-size:.86em}
+hr{border:0;border-top:1px solid var(--hair);margin:32px 0}
+.kick{font-family:'JetBrains Mono',monospace;font-size:12px;letter-spacing:.24em;text-transform:uppercase;color:var(--accent);margin-bottom:18px}
+.brand{font-family:'JetBrains Mono',monospace;font-size:12px;color:var(--dim);letter-spacing:.1em;margin-top:56px;padding-top:20px;border-top:1px solid var(--hair)}
+@media print{body{background:#fff;color:#111}h1,h2,h3{color:#000}ol>li,ul>li{background:#f6f6f4;border-color:#ddd}.kick,ol>li::before{color:#0a8a4a}code{background:#eee;color:#0a5}}
+</style></head><body><div class="wrap">
+<div class="kick">Profit Engine · Prompt Pack</div>
+<h3>How to Use</h3>
+To get the most out of these prompts, fill in the [BRACKETED] variables with your specific needs and adjust according to the task at hand. Use these prompts with Claude, GPT, or Gemini to enhance your LLM inference capabilities.
+
+<h3>Research</h3>
+<ol><li>Analyze the performance of [MODEL_NAME] on [DATASET_NAME] using [METRIC_NAME] and compare it to [BASELINE_MODEL]. Provide a detailed report on the results, including visualizations and insights. Utilize Gemini for data analysis and Claude for visualization suggestions.</li><li>Investigate the effect of [HYPERPARAMETER_NAME] on the inference speed of [MODEL_NAME] using GPT for hyperparameter tuning. Compare the results to [BASELINE_MODEL] and discuss the tradeoffs.</li><li>Research the current state of [TASK_NAME] in LLM inference, focusing on [SPECIFIC_AREA]. Use Claude to summarize key findings and GPT to generate a list of relevant papers.</li></ol>
+
+<h3>Drafting</h3>
+<ol><li>Generate a [LENGTH]-word article on [TOPIC_NAME] using GPT, incorporating [NUMBER] of specific examples and [NUMBER] of expert quotes. Revise the article based on feedback from Claude.</li><li>Create a [STYLE]-style blog post on [SUBJECT_NAME], using Gemini to suggest engaging headlines and GPT to draft the content. Incorporate [NUMBER] of relevant images.</li><li>Draft a [LENGTH]-page report on [REPORT_TOPIC], using Claude to outline the structure and GPT to fill in the content. Include [NUMBER] of visual aids and [NUMBER] of references.</li></ol>
+
+<h3>Analysis</h3>
+<ol><li>Evaluate the performance of [MODEL_NAME] on [DATASET_NAME] using [METRIC_NAME], and compare it to [BASELINE_MODEL]. Use Gemini to analyze the results and GPT to generate recommendations for improvement.</li><li>Analyze the [FEATURE_IMPORTANCE] of [MODEL_NAME] on [DATASET_NAME], using Claude to interpret the results and GPT to suggest feature engineering techniques.</li><li>Investigate the [UNCERTAINTY_ESTIMATION] of [MODEL_NAME] on [DATASET_NAME], using GPT to generate uncertainty estimates and Claude to visualize the results.</li></ol>
+
+<h3>Automation</h3>
+<ol><li>Automate the [TASK_NAME] process using [MODEL_NAME] and GPT, integrating with [EXTERNAL_TOOL] for [SPECIFIC_FUNCTION]. Test the automation script on [TEST_DATASET].</li><li>Develop a [SCRIPT_NAME] script to automate [TASK_NAME] using Claude and Gemini, incorporating [NUMBER] of conditional statements and [NUMBER] of loops.</li><li>Create a [WORKFLOW_NAME] workflow to automate [TASK_NAME] using GPT and [EXTERNAL_TOOL], including [NUMBER] of tasks and [NUMBER] of decision points.</li></ol>
+
+<h3>Research</h3>
+<ol><li>Compare the performance of [MODEL_NAME] and [MODEL_NAME] on [DATASET_NAME], using Gemini to analyze the results and Claude to visualize the comparison.</li><li>Investigate the effect of [PRETRAINING_DATA] on the performance of [MODEL_NAME], using GPT to generate pretraining data and Claude to evaluate the results.</li><li>Research the current state of [TASK_NAME] in LLM inference, focusing on [SPECIFIC_AREA]. Use GPT to summarize key findings and Claude to generate a list of relevant papers.</li></ol>
+
+<h3>Drafting</h3>
+<ol><li>Generate a [LENGTH]-word summary of [DOCUMENT_NAME], using Claude to identify key points and GPT to draft the summary. Incorporate [NUMBER] of specific examples.</li><li>Create a [STYLE]-style presentation on [SUBJECT_NAME], using Gemini to suggest engaging visuals and GPT to draft the content. Include [NUMBER] of relevant images.</li><li>Draft a [LENGTH]-page whitepaper on [WHITEPAPER_TOPIC], using GPT to outline the structure and Claude to fill in the content. Include [NUMBER] of visual aids and [NUMBER] of references.</li></ol>
+
+<h3>Analysis</h3>
+<ol><li>Evaluate the [EXPLAINABILITY] of [MODEL_NAME] on [DATASET_NAME], using Claude to interpret the results and GPT to generate explanations.</li><li>Analyze the [ROBUSTNESS] of [MODEL_NAME] on [DATASET_NAME], using Gemini to analyze the results and GPT to suggest robustness improvement techniques.</li><li>Investigate the [FAIRNESS] of [MODEL_NAME] on [DATASET_NAME], using GPT to generate fairness metrics and Claude to visualize the results.</li></ol>
+
+<h3>Automation</h3>
+<ol><li>Automate the [TASK_NAME] process using [MODEL_NAME] and Claude, integrating with [EXTERNAL_TOOL] for [SPECIFIC_FUNCTION]. Test the automation script on [TEST_DATASET].</li><li>Develop a [SCRIPT_NAME] script to automate [TASK_NAME] using GPT and Gemini, incorporating [NUMBER] of conditional statements and [NUMBER] of loops.</li><li>Create a [WORKFLOW_NAME] workflow to automate [TASK_NAME] using Claude and [EXTERNAL_TOOL], including [NUMBER] of tasks and [NUMBER] of decision points.</li></ol>
+
+<h3>Research</h3>
+<ol><li>Compare the performance of [MODEL_NAME] and [MODEL_NAME] on [DATASET_NAME], using GPT to analyze the results and Claude to visualize the comparison.</li><li>Investigate the effect of [FINE_TUNING] on the performance of [MODEL_NAME], using Gemini to analyze the results and Claude to evaluate the tradeoffs.</li><li>Research the current state of [TASK_NAME] in LLM inference, focusing on [SPECIFIC_AREA]. Use Claude to summarize key findings and GPT to generate a list of relevant papers.</li></ol>
+
+<h3>Drafting</h3>
+<ol><li>Generate a [LENGTH]-word article on [TOPIC_NAME], using GPT to draft the content and Claude to revise the article based on feedback.</li><li>Create a [STYLE]-style blog post on [SUBJECT_NAME], using Gemini to suggest engaging headlines and Claude to draft the content. Incorporate [NUMBER] of relevant images.</li><li>Draft a [LENGTH]-page report on [REPORT_TOPIC], using GPT to outline the structure and Claude to fill in the content. Include [NUMBER] of visual aids and [NUMBER] of references.</li></ol>
+
+<h3>Analysis</h3>
+<ol><li>Evaluate the [PERFORMANCE] of [MODEL_NAME] on [DATASET_NAME], using Claude to interpret the results and GPT to generate recommendations for improvement.</li><li>Analyze the [ERROR_ANALYSIS] of [MODEL_NAME] on [DATASET_NAME], using Gemini to analyze the results and GPT to suggest error correction techniques.</li><li>Investigate the [INTERPRETABILITY] of [MODEL_NAME] on [DATASET_NAME], using GPT to generate interpretability metrics and Claude to visualize the results.</li></ol>
+
+<h3>Automation</h3>
+<ol><li>Automate the [TASK_NAME] process using [MODEL_NAME] and GPT, integrating with [EXTERNAL_TOOL] for [SPECIFIC_FUNCTION]. Test the automation script on [TEST_DATASET].</li><li>Develop a [SCRIPT_NAME] script to automate [TASK_NAME] using Claude and Gemini, incorporating [NUMBER] of conditional statements and [NUMBER] of loops.</li><li>Create a [WORKFLOW_NAME] workflow to automate [TASK_NAME] using GPT and [EXTERNAL_TOOL], including [NUMBER] of tasks and [NUMBER] of decision points.</li></ol>
+
+<h3>Research</h3>
+<ol><li>Compare the performance of [MODEL_NAME] and [MODEL_NAME] on [DATASET_NAME], using Gemini to analyze the results and Claude to visualize the comparison.</li><li>Investigate the effect of [REGULARIZATION] on the performance of [MODEL_NAME], using GPT to generate regularization techniques and Claude to evaluate the results.</li><li>Research the current state of [TASK_NAME] in LLM inference, focusing on [SPECIFIC_AREA]. Use GPT to summarize key findings and Claude to generate a list of relevant papers.</li></ol>
+
+<h3>Drafting</h3>
+<ol><li>Generate a [LENGTH]-word summary of [DOCUMENT_NAME], using Claude to identify key points and GPT to draft the summary. Incorporate [NUMBER] of specific examples.</li><li>Create a [STYLE]-style presentation on [SUBJECT_NAME], using Gemini to suggest engaging visuals and Claude to draft the content. Include [NUMBER] of relevant images.</li><li>Draft a [LENGTH]-page whitepaper on [WHITEPAPER_TOPIC], using GPT to outline the structure and Claude to fill in the content. Include [NUMBER] of visual aids and [NUMBER] of references.</li></ol>
+
+<h3>Analysis</h3>
+<ol><li>Evaluate the [RELIABILITY] of [MODEL_NAME] on [DATASET_NAME], using Claude to interpret the results and GPT to generate recommendations for improvement.</li><li>Analyze the [SENSITIVITY] of [MODEL_NAME] on [DATASET_NAME], using Gemini to analyze the results and GPT to suggest sensitivity improvement techniques.</li><li>Investigate the [SPECIFICITY] of [MODEL_NAME] on [DATASET_NAME], using GPT to generate specificity metrics and Claude to visualize the results.</li></ol>
+
+<h3>Automation</h3>
+<ol><li>Automate the [TASK_NAME] process using [MODEL_NAME] and Claude, integrating with [EXTERNAL_TOOL] for [SPECIFIC_FUNCTION]. Test the automation script on [TEST_DATASET].</li><li>Develop a [SCRIPT_NAME] script to automate [TASK_NAME] using GPT and Gemini, incorporating [NUMBER] of conditional statements and [NUMBER] of loops.</li><li>Create a [WORKFLOW_NAME] workflow to automate [TASK_NAME] using Claude and [EXTERNAL_TOOL], including [NUMBER] of tasks and [NUMBER] of decision points.</li></ol>
+
+<h3>Research</h3>
+<ol><li>Compare the performance of [MODEL_NAME] and [MODEL_NAME] on [DATASET_NAME], using GPT to analyze the results and Claude to visualize the comparison.</li><li>Investigate the effect of [KNOWLEDGE_DISTILLATION] on the performance of [MODEL_NAME], using Gemini to analyze the results and Claude to evaluate the tradeoffs.</li></ol>
+<div class="brand">© 2026 Profit Engine · single-user license · free lifetime updates</div>
+</div></body></html>

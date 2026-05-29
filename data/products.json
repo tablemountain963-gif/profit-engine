@@ -1,6 +1,51 @@
 {
   "items": [
     {
+      "slug": "prompt-pack-chinese-pptx-2026-05-29",
+      "title": "Chinese Pptx Prompt Pack — 50 Battle-Tested Prompts",
+      "blurb": "50 proven prompts for Chinese Pptx. Copy/paste ready. Tested across Claude, GPT, Gemini.",
+      "type": "prompt-pack",
+      "topic": "Chinese Pptx",
+      "niche": "ai",
+      "price": 19,
+      "generatedAt": "2026-05-29T16:41:30.392Z",
+      "files": [
+        "prompts.md",
+        "README.md",
+        "LICENSE.txt"
+      ]
+    },
+    {
+      "slug": "prompt-pack-standard-gpus-2026-05-29",
+      "title": "Standard Gpus Prompt Pack — 50 Battle-Tested Prompts",
+      "blurb": "50 proven prompts for Standard Gpus. Copy/paste ready. Tested across Claude, GPT, Gemini.",
+      "type": "prompt-pack",
+      "topic": "Standard Gpus",
+      "niche": "ai",
+      "price": 19,
+      "generatedAt": "2026-05-29T16:41:23.718Z",
+      "files": [
+        "prompts.md",
+        "README.md",
+        "LICENSE.txt"
+      ]
+    },
+    {
+      "slug": "prompt-pack-llm-inference-2026-05-29",
+      "title": "LLM Inference Prompt Pack — 50 Battle-Tested Prompts",
+      "blurb": "50 proven prompts for LLM Inference. Copy/paste ready. Tested across Claude, GPT, Gemini.",
+      "type": "prompt-pack",
+      "topic": "LLM Inference",
+      "niche": "ai",
+      "price": 19,
+      "generatedAt": "2026-05-29T16:41:18.207Z",
+      "files": [
+        "prompts.md",
+        "README.md",
+        "LICENSE.txt"
+      ]
+    },
+    {
       "slug": "prompt-pack-developer-productivity-prompt-pack-2026-05-29",
       "title": "Developer Productivity Prompt Pack Prompt Pack — 50 Battle-Tested Prompts",
       "blurb": "50 proven prompts for Developer Productivity Prompt Pack. Copy/paste ready. Tested across Claude, GPT, Gemini.",

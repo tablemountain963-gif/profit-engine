@@ -36,5 +36,26 @@
     "price": 19,
     "productId": "prod_UbVjkilHIN88BX",
     "cover": "/assets/pack-cover.png"
+  },
+  "prompt-pack-chinese-pptx-2026-05-29": {
+    "url": "https://buy.stripe.com/7sY7sK3OU1z8gMbckcfjG05",
+    "platform": "stripe",
+    "price": 19,
+    "productId": "prod_UbgrQ6S0YBuVHQ",
+    "cover": "/assets/pack-cover.png"
+  },
+  "prompt-pack-standard-gpus-2026-05-29": {
+    "url": "https://buy.stripe.com/5kQcN4716a5EanNac4fjG06",
+    "platform": "stripe",
+    "price": 19,
+    "productId": "prod_Ubgruh5VmjOcnm",
+    "cover": "/assets/pack-cover.png"
+  },
+  "prompt-pack-llm-inference-2026-05-29": {
+    "url": "https://buy.stripe.com/5kQdR8bhm91AcvV980fjG07",
+    "platform": "stripe",
+    "price": 19,
+    "productId": "prod_UbgrEfTAvt5FyA",
+    "cover": "/assets/pack-cover.png"
   }
 }

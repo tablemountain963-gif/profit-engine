@@ -383,11 +383,83 @@
       "wins": 0,
       "losses": 0,
       "niche": "ai"
+    },
+    "lost-decade": {
+      "firstSeen": "2026-05-29T16:41:10.499Z",
+      "lastSeen": "2026-05-29T16:41:10.499Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "hardware-bets": {
+      "firstSeen": "2026-05-29T16:41:13.699Z",
+      "lastSeen": "2026-05-29T16:41:13.699Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "home-assistant": {
+      "firstSeen": "2026-05-29T16:41:17.274Z",
+      "lastSeen": "2026-05-29T16:41:17.274Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "software"
+    },
+    "llm-inference": {
+      "firstSeen": "2026-05-29T16:41:23.718Z",
+      "lastSeen": "2026-05-29T16:41:23.718Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "standard-gpus": {
+      "firstSeen": "2026-05-29T16:41:30.392Z",
+      "lastSeen": "2026-05-29T16:41:30.392Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "chinese-pptx": {
+      "firstSeen": "2026-05-29T16:41:46.301Z",
+      "lastSeen": "2026-05-29T16:41:46.301Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "productivity-apps": {
+      "firstSeen": "2026-05-29T16:42:02.875Z",
+      "lastSeen": "2026-05-29T16:42:02.875Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "software"
+    },
+    "genai-red": {
+      "firstSeen": "2026-05-29T16:42:25.784Z",
+      "lastSeen": "2026-05-29T16:42:25.784Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "agentic-code": {
+      "firstSeen": "2026-05-29T16:42:39.269Z",
+      "lastSeen": "2026-05-29T16:42:39.269Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
     }
   },
   "niches": {
     "ai": {
-      "count": 84,
+      "count": 91,
       "wins": 23,
       "losses": 0
     },
@@ -397,7 +469,7 @@
       "losses": 0
     },
     "software": {
-      "count": 5,
+      "count": 7,
       "wins": 1,
       "losses": 0
     },
