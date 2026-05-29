@@ -90,9 +90,10 @@ export async function runDigitalProducts(opts = {}) {
   return { summary: `${generated.length} products`, generated: generated.map(p => p.slug), ok: true };
 }
 
+const ACRONYMS = new Set(['ai','api','seo','llm','llms','saas','ui','ux','ceo','cto','b2b','b2c','roi','crm','kpi','faq','pdf','css','html','js','sql','aws','gpt','nft','diy']);
 function humanize(kw) {
   return kw.replace(/[_-]/g, ' ').split(' ').filter(Boolean)
-    .map(w => w[0].toUpperCase() + w.slice(1)).join(' ');
+    .map(w => ACRONYMS.has(w.toLowerCase()) ? w.toUpperCase() : w[0].toUpperCase() + w.slice(1)).join(' ');
 }
 
 // Evergreen high-demand digital-product topics — proven buyer intent, sell year-round.
@@ -279,7 +280,7 @@ ${preview.slice(0, 800)}...
 Or [join the newsletter](/subscribe.html) for free weekly picks in ${meta.niche}.
 
 ---
-*Sales fulfillment integration: Connect Gumroad / Payhip / Lemon Squeezy — see \`docs/MONETIZATION.md\`.*
+*Instant digital download. Secure checkout. Lifetime access + free updates.*
 `;
 }
 
