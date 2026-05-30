@@ -695,16 +695,48 @@
       "wins": 0,
       "losses": 0,
       "niche": "ai"
+    },
+    "goldilocks-yield": {
+      "firstSeen": "2026-05-30T16:52:14.549Z",
+      "lastSeen": "2026-05-30T16:52:14.549Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "finance"
+    },
+    "papal-visits": {
+      "firstSeen": "2026-05-30T16:52:37.299Z",
+      "lastSeen": "2026-05-30T16:52:37.299Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "passive": {
+      "firstSeen": "2026-05-30T16:52:40.063Z",
+      "lastSeen": "2026-05-30T16:52:40.063Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "finance"
+    },
+    "customer-support-reply-templates": {
+      "firstSeen": "2026-05-30T16:52:48.877Z",
+      "lastSeen": "2026-05-30T16:52:48.877Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "productivity"
     }
   },
   "niches": {
     "ai": {
-      "count": 117,
+      "count": 118,
       "wins": 32,
       "losses": 0
     },
     "finance": {
-      "count": 10,
+      "count": 12,
       "wins": 1,
       "losses": 0
     },
@@ -719,6 +751,11 @@
       "losses": 0
     },
     "health": {
+      "count": 1,
+      "wins": 0,
+      "losses": 0
+    },
+    "productivity": {
       "count": 1,
       "wins": 0,
       "losses": 0
