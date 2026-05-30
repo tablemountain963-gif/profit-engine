@@ -586,9 +586,9 @@
     },
     "tech-giant": {
       "firstSeen": "2026-05-30T04:50:35.126Z",
-      "lastSeen": "2026-05-30T04:50:35.126Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-05-30T14:27:41.711Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -602,9 +602,9 @@
     },
     "duel-agents": {
       "firstSeen": "2026-05-30T04:50:40.644Z",
-      "lastSeen": "2026-05-30T04:50:40.644Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-05-30T14:27:41.713Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -631,21 +631,85 @@
       "wins": 0,
       "losses": 0,
       "niche": "ai"
+    },
+    "cost-skyrockets": {
+      "firstSeen": "2026-05-30T14:27:46.366Z",
+      "lastSeen": "2026-05-30T14:27:46.366Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "stop": {
+      "firstSeen": "2026-05-30T14:27:49.434Z",
+      "lastSeen": "2026-05-30T14:27:49.434Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "happy": {
+      "firstSeen": "2026-05-30T14:27:52.108Z",
+      "lastSeen": "2026-05-30T14:27:52.108Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "software"
+    },
+    "sales-email-sequences-that-convert": {
+      "firstSeen": "2026-05-30T14:27:58.785Z",
+      "lastSeen": "2026-05-30T14:27:58.785Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "finance"
+    },
+    "freelance-proposal-and-contract-templates": {
+      "firstSeen": "2026-05-30T14:28:02.720Z",
+      "lastSeen": "2026-05-30T14:28:02.720Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "finance"
+    },
+    "understandingvalue-warmthxp": {
+      "firstSeen": "2026-05-30T14:28:20.602Z",
+      "lastSeen": "2026-05-30T14:28:20.602Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "ration-ai": {
+      "firstSeen": "2026-05-30T14:28:32.665Z",
+      "lastSeen": "2026-05-30T14:28:32.665Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "liquid-ai": {
+      "firstSeen": "2026-05-30T14:28:39.988Z",
+      "lastSeen": "2026-05-30T14:28:39.988Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
     }
   },
   "niches": {
     "ai": {
-      "count": 110,
-      "wins": 30,
+      "count": 117,
+      "wins": 32,
       "losses": 0
     },
     "finance": {
-      "count": 8,
+      "count": 10,
       "wins": 1,
       "losses": 0
     },
     "software": {
-      "count": 12,
+      "count": 13,
       "wins": 3,
       "losses": 0
     },

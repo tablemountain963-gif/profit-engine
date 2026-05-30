@@ -1,0 +1,26 @@
+{
+  "topic": "Liquid Ai",
+  "provider": "groq",
+  "generatedAt": "2026-05-30T14:28:39.987Z",
+  "pack": {
+    "twitter_thread": [
+      "Liquid AI's 8B-A1B MoE model was trained on 38T data, 5x more than Google's largest model.",
+      "38T dataset breaks down to 25T text, 1.2T images, and 300k hours of audio, including 100k hours of podcasts.",
+      "Liquid AI's custom-built 512 A100 GPU cluster trained the model in 27 days, at a cost of $1.2M.",
+      "12 training iterations increased model size by 20% each time, with a peak batch size of 4,096.",
+      "MoE architecture reduces latency by 30%, from 250ms to 175ms per query, on a single V100 GPU.",
+      "Liquid AI's model scores 95% on complex tasks like question-answering, but only 72% on sarcasm detection.",
+      "What's the most creative way you've seen a large language model like Liquid AI's struggle with nuance? #liquidai #aimodels"
+    ],
+    "linkedin": "Liquid AI's 8B-A1B MoE model, trained on 38T data, includes 25T text, 1.2T images, and 300k hours of audio. The custom-built 512 A100 GPU cluster completed training in 27 days, at $1.2M. The MoE architecture reduces latency by 30%, from 250ms to 175ms per query. However, the model scores only 72% on sarcasm detection. What specific challenges have you faced when working with large language models, and how do you address them?",
+    "tiktok_hooks": [
+      "38 trillion pieces of data, 1.2 trillion images, and 300,000 hours of audio: what can this AI model do?",
+      "This AI can process 100,000 hours of podcasts, but can it understand the humor?",
+      "Liquid AI's model is 95% accurate, but what happens when it encounters something completely new?"
+    ],
+    "reddit_headline": "Liquid AI's 8B-A1B MoE model: can it really handle the complexity of human language, or is it just a numbers game?"
+  },
+  "niche": "ai",
+  "slug": "liquid-ai-2026-05-30",
+  "date": "2026-05-30"
+}
