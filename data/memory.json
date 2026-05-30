@@ -642,9 +642,9 @@
     },
     "stop": {
       "firstSeen": "2026-05-30T14:27:49.434Z",
-      "lastSeen": "2026-05-30T14:27:49.434Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-05-30T21:47:31.259Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -727,12 +727,60 @@
       "wins": 0,
       "losses": 0,
       "niche": "productivity"
+    },
+    "fifth-amendment": {
+      "firstSeen": "2026-05-30T21:47:35.908Z",
+      "lastSeen": "2026-05-30T21:47:35.908Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "zx-spectrum": {
+      "firstSeen": "2026-05-30T21:47:38.814Z",
+      "lastSeen": "2026-05-30T21:47:38.814Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "tls-wiretapping": {
+      "firstSeen": "2026-05-30T21:47:41.548Z",
+      "lastSeen": "2026-05-30T21:47:41.548Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "software"
+    },
+    "apps-2026": {
+      "firstSeen": "2026-05-30T21:47:54.301Z",
+      "lastSeen": "2026-05-30T21:47:54.301Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "tools": {
+      "firstSeen": "2026-05-30T21:48:02.147Z",
+      "lastSeen": "2026-05-30T21:48:02.147Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "apps": {
+      "firstSeen": "2026-05-30T21:48:13.917Z",
+      "lastSeen": "2026-05-30T21:48:13.917Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
     }
   },
   "niches": {
     "ai": {
-      "count": 118,
-      "wins": 32,
+      "count": 124,
+      "wins": 33,
       "losses": 0
     },
     "finance": {
@@ -741,7 +789,7 @@
       "losses": 0
     },
     "software": {
-      "count": 13,
+      "count": 14,
       "wins": 3,
       "losses": 0
     },
