@@ -746,9 +746,9 @@
     },
     "tls-wiretapping": {
       "firstSeen": "2026-05-30T21:47:41.548Z",
-      "lastSeen": "2026-05-30T21:47:41.548Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-05-31T05:16:32.644Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "software"
     },
@@ -775,11 +775,59 @@
       "wins": 0,
       "losses": 0,
       "niche": "ai"
+    },
+    "money": {
+      "firstSeen": "2026-05-31T05:16:37.979Z",
+      "lastSeen": "2026-05-31T05:16:37.979Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "polymarket-bot": {
+      "firstSeen": "2026-05-31T05:16:41.090Z",
+      "lastSeen": "2026-05-31T05:16:41.090Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "llm-multi": {
+      "firstSeen": "2026-05-31T05:16:44.088Z",
+      "lastSeen": "2026-05-31T05:16:44.088Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "free": {
+      "firstSeen": "2026-05-31T05:16:49.371Z",
+      "lastSeen": "2026-05-31T05:16:49.371Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "snowflake-ceo": {
+      "firstSeen": "2026-05-31T05:17:03.002Z",
+      "lastSeen": "2026-05-31T05:17:03.002Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "download-free": {
+      "firstSeen": "2026-05-31T05:17:18.087Z",
+      "lastSeen": "2026-05-31T05:17:18.087Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
     }
   },
   "niches": {
     "ai": {
-      "count": 124,
+      "count": 130,
       "wins": 33,
       "losses": 0
     },
@@ -789,8 +837,8 @@
       "losses": 0
     },
     "software": {
-      "count": 14,
-      "wins": 3,
+      "count": 15,
+      "wins": 4,
       "losses": 0
     },
     "gear": {
