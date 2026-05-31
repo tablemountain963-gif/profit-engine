@@ -148,5 +148,19 @@
     "price": 19,
     "productId": "prod_UcGGsfQP2y1zao",
     "cover": "/assets/pack-cover.png"
+  },
+  "starter-kit-000-into-2026-05-31": {
+    "url": "https://buy.stripe.com/28EcN44SY1z8fI7gAsfjG0l",
+    "platform": "stripe",
+    "price": 29,
+    "productId": "prod_UcRYmgRtyIxwHG",
+    "cover": "/assets/pack-cover.png"
+  },
+  "starter-kit-income-invest-2026-05-31": {
+    "url": "https://buy.stripe.com/cNi14m85a2DcdzZ0BufjG0m",
+    "platform": "stripe",
+    "price": 29,
+    "productId": "prod_UcRYdzzu1at29X",
+    "cover": "/assets/pack-cover.png"
   }
 }

@@ -634,9 +634,9 @@
     },
     "cost-skyrockets": {
       "firstSeen": "2026-05-30T14:27:46.366Z",
-      "lastSeen": "2026-05-30T14:27:46.366Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-05-31T16:56:31.692Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -650,9 +650,9 @@
     },
     "happy": {
       "firstSeen": "2026-05-30T14:27:52.108Z",
-      "lastSeen": "2026-05-30T14:27:52.108Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-05-31T16:56:31.693Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "software"
     },
@@ -826,17 +826,17 @@
     },
     "amnesty-international": {
       "firstSeen": "2026-05-31T14:42:36.645Z",
-      "lastSeen": "2026-05-31T14:42:36.645Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-05-31T16:56:31.693Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
     "metamask-sdk": {
       "firstSeen": "2026-05-31T14:42:39.706Z",
-      "lastSeen": "2026-05-31T14:42:39.706Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-05-31T16:56:31.693Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -847,22 +847,70 @@
       "wins": 0,
       "losses": 0,
       "niche": "ai"
+    },
+    "photography": {
+      "firstSeen": "2026-05-31T16:56:37.269Z",
+      "lastSeen": "2026-05-31T16:56:37.269Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "breathe-cli": {
+      "firstSeen": "2026-05-31T16:56:39.872Z",
+      "lastSeen": "2026-05-31T16:56:39.872Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "software"
+    },
+    "coding-tools": {
+      "firstSeen": "2026-05-31T16:56:42.796Z",
+      "lastSeen": "2026-05-31T16:56:42.796Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "income-invest": {
+      "firstSeen": "2026-05-31T16:56:47.918Z",
+      "lastSeen": "2026-05-31T16:56:47.918Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "finance"
+    },
+    "000-into": {
+      "firstSeen": "2026-05-31T16:56:51.925Z",
+      "lastSeen": "2026-05-31T16:56:51.925Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "finance"
+    },
+    "invest-000": {
+      "firstSeen": "2026-05-31T16:57:10.210Z",
+      "lastSeen": "2026-05-31T16:57:10.210Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "finance"
     }
   },
   "niches": {
     "ai": {
-      "count": 137,
-      "wins": 37,
+      "count": 142,
+      "wins": 40,
       "losses": 0
     },
     "finance": {
-      "count": 12,
+      "count": 15,
       "wins": 1,
       "losses": 0
     },
     "software": {
-      "count": 15,
-      "wins": 4,
+      "count": 17,
+      "wins": 5,
       "losses": 0
     },
     "gear": {
