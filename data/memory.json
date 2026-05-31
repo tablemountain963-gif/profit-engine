@@ -738,9 +738,9 @@
     },
     "zx-spectrum": {
       "firstSeen": "2026-05-30T21:47:38.814Z",
-      "lastSeen": "2026-05-30T21:47:38.814Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-05-31T14:42:30.901Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -778,25 +778,25 @@
     },
     "money": {
       "firstSeen": "2026-05-31T05:16:37.979Z",
-      "lastSeen": "2026-05-31T05:16:37.979Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-05-31T14:42:30.902Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
     "polymarket-bot": {
       "firstSeen": "2026-05-31T05:16:41.090Z",
-      "lastSeen": "2026-05-31T05:16:41.090Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-05-31T14:42:30.904Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
     "llm-multi": {
       "firstSeen": "2026-05-31T05:16:44.088Z",
-      "lastSeen": "2026-05-31T05:16:44.088Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-05-31T14:42:30.904Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -823,12 +823,36 @@
       "wins": 0,
       "losses": 0,
       "niche": "ai"
+    },
+    "amnesty-international": {
+      "firstSeen": "2026-05-31T14:42:36.645Z",
+      "lastSeen": "2026-05-31T14:42:36.645Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "metamask-sdk": {
+      "firstSeen": "2026-05-31T14:42:39.706Z",
+      "lastSeen": "2026-05-31T14:42:39.706Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "silent-sunday": {
+      "firstSeen": "2026-05-31T14:42:42.541Z",
+      "lastSeen": "2026-05-31T14:42:42.541Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
     }
   },
   "niches": {
     "ai": {
-      "count": 130,
-      "wins": 33,
+      "count": 137,
+      "wins": 37,
       "losses": 0
     },
     "finance": {
