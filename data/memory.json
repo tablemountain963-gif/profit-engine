@@ -698,9 +698,9 @@
     },
     "goldilocks-yield": {
       "firstSeen": "2026-05-30T16:52:14.549Z",
-      "lastSeen": "2026-05-30T16:52:14.549Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-05-31T21:45:06.665Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "finance"
     },
@@ -714,9 +714,9 @@
     },
     "passive": {
       "firstSeen": "2026-05-30T16:52:40.063Z",
-      "lastSeen": "2026-05-30T16:52:40.063Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-05-31T21:45:06.665Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "finance"
     },
@@ -858,17 +858,17 @@
     },
     "breathe-cli": {
       "firstSeen": "2026-05-31T16:56:39.872Z",
-      "lastSeen": "2026-05-31T16:56:39.872Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-05-31T21:45:06.665Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "software"
     },
     "coding-tools": {
       "firstSeen": "2026-05-31T16:56:42.796Z",
-      "lastSeen": "2026-05-31T16:56:42.796Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-05-31T21:45:06.666Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -895,26 +895,82 @@
       "wins": 0,
       "losses": 0,
       "niche": "finance"
+    },
+    "pride-beam": {
+      "firstSeen": "2026-05-31T21:45:12.608Z",
+      "lastSeen": "2026-05-31T21:45:12.608Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "united-airlines": {
+      "firstSeen": "2026-05-31T21:45:15.517Z",
+      "lastSeen": "2026-05-31T21:45:15.517Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "alprs-mapped": {
+      "firstSeen": "2026-05-31T21:45:18.666Z",
+      "lastSeen": "2026-05-31T21:45:18.666Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "software"
+    },
+    "whatsapp": {
+      "firstSeen": "2026-05-31T21:45:24.304Z",
+      "lastSeen": "2026-05-31T21:45:24.304Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "software"
+    },
+    "side": {
+      "firstSeen": "2026-05-31T21:45:33.718Z",
+      "lastSeen": "2026-05-31T21:45:33.718Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "finance"
+    },
+    "dan-mcateer": {
+      "firstSeen": "2026-05-31T21:45:50.922Z",
+      "lastSeen": "2026-05-31T21:45:50.922Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "2026-_blank": {
+      "firstSeen": "2026-05-31T21:45:59.853Z",
+      "lastSeen": "2026-05-31T21:45:59.853Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "gear"
     }
   },
   "niches": {
     "ai": {
-      "count": 142,
-      "wins": 40,
+      "count": 146,
+      "wins": 41,
       "losses": 0
     },
     "finance": {
-      "count": 15,
-      "wins": 1,
+      "count": 18,
+      "wins": 3,
       "losses": 0
     },
     "software": {
-      "count": 17,
-      "wins": 5,
+      "count": 20,
+      "wins": 6,
       "losses": 0
     },
     "gear": {
-      "count": 10,
+      "count": 11,
       "wins": 4,
       "losses": 0
     },
