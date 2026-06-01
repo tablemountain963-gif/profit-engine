@@ -994,25 +994,25 @@
     },
     "happy-pride": {
       "firstSeen": "2026-06-01T18:36:58.272Z",
-      "lastSeen": "2026-06-01T18:36:58.272Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-01T20:10:18.706Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "software"
     },
     "software-rally": {
       "firstSeen": "2026-06-01T18:37:01.745Z",
-      "lastSeen": "2026-06-01T18:37:01.745Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-01T20:10:18.707Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
     "language-modeling": {
       "firstSeen": "2026-06-01T18:37:04.344Z",
-      "lastSeen": "2026-06-01T18:37:04.344Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-01T20:10:18.707Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -1047,12 +1047,44 @@
       "wins": 0,
       "losses": 0,
       "niche": "finance"
+    },
+    "sam-altman": {
+      "firstSeen": "2026-06-01T20:10:24.394Z",
+      "lastSeen": "2026-06-01T20:10:24.394Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "against-software": {
+      "firstSeen": "2026-06-01T20:10:27.627Z",
+      "lastSeen": "2026-06-01T20:10:27.627Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "servicenow": {
+      "firstSeen": "2026-06-01T20:10:31.411Z",
+      "lastSeen": "2026-06-01T20:10:31.411Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "side-hustle": {
+      "firstSeen": "2026-06-01T20:10:58.499Z",
+      "lastSeen": "2026-06-01T20:10:58.499Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
     }
   },
   "niches": {
     "ai": {
-      "count": 156,
-      "wins": 45,
+      "count": 162,
+      "wins": 47,
       "losses": 0
     },
     "finance": {
@@ -1061,8 +1093,8 @@
       "losses": 0
     },
     "software": {
-      "count": 24,
-      "wins": 6,
+      "count": 25,
+      "wins": 7,
       "losses": 0
     },
     "gear": {
