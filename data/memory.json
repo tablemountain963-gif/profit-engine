@@ -730,9 +730,9 @@
     },
     "fifth-amendment": {
       "firstSeen": "2026-05-30T21:47:35.908Z",
-      "lastSeen": "2026-05-30T21:47:35.908Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-01T05:59:04.336Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -898,17 +898,17 @@
     },
     "pride-beam": {
       "firstSeen": "2026-05-31T21:45:12.608Z",
-      "lastSeen": "2026-05-31T21:45:12.608Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-01T05:59:04.336Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
     "united-airlines": {
       "firstSeen": "2026-05-31T21:45:15.517Z",
-      "lastSeen": "2026-05-31T21:45:15.517Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-01T05:59:04.337Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -951,12 +951,52 @@
       "wins": 0,
       "losses": 0,
       "niche": "gear"
+    },
+    "hive-mind": {
+      "firstSeen": "2026-06-01T05:59:09.853Z",
+      "lastSeen": "2026-06-01T05:59:09.853Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "software"
+    },
+    "chatgpt-plus": {
+      "firstSeen": "2026-06-01T05:59:12.945Z",
+      "lastSeen": "2026-06-01T05:59:12.945Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "mount-rainier": {
+      "firstSeen": "2026-06-01T05:59:16.048Z",
+      "lastSeen": "2026-06-01T05:59:16.048Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "flight-simulator": {
+      "firstSeen": "2026-06-01T05:59:23.881Z",
+      "lastSeen": "2026-06-01T05:59:23.881Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "software"
+    },
+    "2026-6f6f6f": {
+      "firstSeen": "2026-06-01T05:59:34.077Z",
+      "lastSeen": "2026-06-01T05:59:34.077Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "gear"
     }
   },
   "niches": {
     "ai": {
-      "count": 146,
-      "wins": 41,
+      "count": 151,
+      "wins": 44,
       "losses": 0
     },
     "finance": {
@@ -965,12 +1005,12 @@
       "losses": 0
     },
     "software": {
-      "count": 20,
+      "count": 22,
       "wins": 6,
       "losses": 0
     },
     "gear": {
-      "count": 11,
+      "count": 12,
       "wins": 4,
       "losses": 0
     },

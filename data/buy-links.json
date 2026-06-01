@@ -169,5 +169,19 @@
     "price": 19,
     "productId": "prod_UcWD6ePAY8RxQ9",
     "cover": "/assets/pack-cover.png"
+  },
+  "mini-ebook-2026-6f6f6f-2026-06-01": {
+    "url": "https://buy.stripe.com/fZudR8fxCa5EeE3eskfjG0o",
+    "platform": "stripe",
+    "price": 14,
+    "productId": "prod_UceBYZ3MQXHAw4",
+    "cover": "/assets/pack-cover.png"
+  },
+  "prompt-pack-flight-simulator-2026-06-01": {
+    "url": "https://buy.stripe.com/aFadR8dpu4Lk1Rh1FyfjG0p",
+    "platform": "stripe",
+    "price": 19,
+    "productId": "prod_UceB6XRNsU7cQh",
+    "cover": "/assets/pack-cover.png"
   }
 }
