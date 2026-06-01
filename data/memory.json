@@ -962,9 +962,9 @@
     },
     "chatgpt-plus": {
       "firstSeen": "2026-06-01T05:59:12.945Z",
-      "lastSeen": "2026-06-01T05:59:12.945Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-01T18:36:51.347Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -991,21 +991,77 @@
       "wins": 0,
       "losses": 0,
       "niche": "gear"
+    },
+    "happy-pride": {
+      "firstSeen": "2026-06-01T18:36:58.272Z",
+      "lastSeen": "2026-06-01T18:36:58.272Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "software"
+    },
+    "software-rally": {
+      "firstSeen": "2026-06-01T18:37:01.745Z",
+      "lastSeen": "2026-06-01T18:37:01.745Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "language-modeling": {
+      "firstSeen": "2026-06-01T18:37:04.344Z",
+      "lastSeen": "2026-06-01T18:37:04.344Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "laptop-cosplaying": {
+      "firstSeen": "2026-06-01T18:37:10.837Z",
+      "lastSeen": "2026-06-01T18:37:10.837Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "wallpaper-eng": {
+      "firstSeen": "2026-06-01T18:37:16.847Z",
+      "lastSeen": "2026-06-01T18:37:16.847Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "software"
+    },
+    "software-advantage": {
+      "firstSeen": "2026-06-01T18:37:58.077Z",
+      "lastSeen": "2026-06-01T18:37:58.077Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "competitive-play": {
+      "firstSeen": "2026-06-01T18:38:18.470Z",
+      "lastSeen": "2026-06-01T18:38:18.470Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "finance"
     }
   },
   "niches": {
     "ai": {
-      "count": 151,
-      "wins": 44,
+      "count": 156,
+      "wins": 45,
       "losses": 0
     },
     "finance": {
-      "count": 18,
+      "count": 19,
       "wins": 3,
       "losses": 0
     },
     "software": {
-      "count": 22,
+      "count": 24,
       "wins": 6,
       "losses": 0
     },
