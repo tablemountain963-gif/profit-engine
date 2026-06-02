@@ -1,6 +1,21 @@
 {
   "x": [
     {
+      "slug": "compared-2026-06-02",
+      "topic": "Compared",
+      "tweetIds": [
+        "2061681203783037243",
+        "2061681210959573242",
+        "2061681218131779757",
+        "2061681225463452144",
+        "2061681232728010959",
+        "2061681240000926075",
+        "2061681247395487784",
+        "2061681254618022292"
+      ],
+      "postedAt": "2026-06-02T05:28:11.584Z"
+    },
+    {
       "slug": "software-advantage-2026-06-01",
       "topic": "Software Advantage",
       "tweetIds": [
@@ -300,6 +315,22 @@
     }
   ],
   "bluesky": [
+    {
+      "slug": "compared-2026-06-02",
+      "topic": "Compared",
+      "ids": [
+        "at://did:plc:tyttf4ceoibzsfb2tn764jic/app.bsky.feed.post/3mnbudvvyjw2b",
+        "at://did:plc:tyttf4ceoibzsfb2tn764jic/app.bsky.feed.post/3mnbudwv64k2f",
+        "at://did:plc:tyttf4ceoibzsfb2tn764jic/app.bsky.feed.post/3mnbudxtxmn2b",
+        "at://did:plc:tyttf4ceoibzsfb2tn764jic/app.bsky.feed.post/3mnbudysqb32z",
+        "at://did:plc:tyttf4ceoibzsfb2tn764jic/app.bsky.feed.post/3mnbudzroo324",
+        "at://did:plc:tyttf4ceoibzsfb2tn764jic/app.bsky.feed.post/3mnbue2qguu2n",
+        "at://did:plc:tyttf4ceoibzsfb2tn764jic/app.bsky.feed.post/3mnbue3pnmv2b",
+        "at://did:plc:tyttf4ceoibzsfb2tn764jic/app.bsky.feed.post/3mnbue4o3p324"
+      ],
+      "url": "https://bsky.app/profile/solmercer.bsky.social/post/3mnbudvvyjw2b",
+      "postedAt": "2026-06-02T05:28:20.071Z"
+    },
     {
       "slug": "software-advantage-2026-06-01",
       "topic": "Software Advantage",
