@@ -1,6 +1,20 @@
 {
   "x": [
     {
+      "slug": "bench-pro-2026-06-02",
+      "topic": "Bench Pro",
+      "tweetIds": [
+        "2061895071771803935",
+        "2061895079069986923",
+        "2061895086602924203",
+        "2061895094068760727",
+        "2061895101408739709",
+        "2061895108891472099",
+        "2061895116281774264"
+      ],
+      "postedAt": "2026-06-02T19:38:00.171Z"
+    },
+    {
       "slug": "generative-ai-2026-06-02",
       "topic": "Generative Ai",
       "tweetIds": [
@@ -330,6 +344,21 @@
     }
   ],
   "bluesky": [
+    {
+      "slug": "bench-pro-2026-06-02",
+      "topic": "Bench Pro",
+      "ids": [
+        "at://did:plc:tyttf4ceoibzsfb2tn764jic/app.bsky.feed.post/3mnddtiaht323",
+        "at://did:plc:tyttf4ceoibzsfb2tn764jic/app.bsky.feed.post/3mnddtj7koj2e",
+        "at://did:plc:tyttf4ceoibzsfb2tn764jic/app.bsky.feed.post/3mnddtmz6k323",
+        "at://did:plc:tyttf4ceoibzsfb2tn764jic/app.bsky.feed.post/3mnddto5rgq24",
+        "at://did:plc:tyttf4ceoibzsfb2tn764jic/app.bsky.feed.post/3mnddtp4kce2d",
+        "at://did:plc:tyttf4ceoibzsfb2tn764jic/app.bsky.feed.post/3mnddtq3pn22z",
+        "at://did:plc:tyttf4ceoibzsfb2tn764jic/app.bsky.feed.post/3mnddtr7cjs24"
+      ],
+      "url": "https://bsky.app/profile/solmercer.bsky.social/post/3mnddtiaht323",
+      "postedAt": "2026-06-02T19:38:10.794Z"
+    },
     {
       "slug": "generative-ai-2026-06-02",
       "topic": "Generative Ai",

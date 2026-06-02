@@ -10,8 +10,8 @@
     },
     "passive-income": {
       "firstSeen": "2026-05-28T04:01:51.171Z",
-      "lastSeen": "2026-05-28T07:48:44.980Z",
-      "count": 2,
+      "lastSeen": "2026-06-02T19:37:13.672Z",
+      "count": 3,
       "wins": 1,
       "losses": 0,
       "niche": "finance"
@@ -234,10 +234,10 @@
     },
     "_blank-buy": {
       "firstSeen": "2026-05-28T18:30:48.651Z",
-      "lastSeen": "2026-05-28T18:30:48.652Z",
-      "count": 1,
+      "lastSeen": "2026-06-02T19:36:34.952Z",
+      "count": 2,
       "wins": 0,
-      "losses": 0,
+      "losses": 1,
       "niche": "ai"
     },
     "upbeat-sales": {
@@ -1170,25 +1170,25 @@
     },
     "hermes-agent": {
       "firstSeen": "2026-06-02T17:21:22.787Z",
-      "lastSeen": "2026-06-02T17:21:22.787Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-02T19:36:34.953Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
     "mr-banky": {
       "firstSeen": "2026-06-02T17:21:25.568Z",
-      "lastSeen": "2026-06-02T17:21:25.568Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-02T19:36:34.953Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
     "trump-administration": {
       "firstSeen": "2026-06-02T17:21:29.023Z",
-      "lastSeen": "2026-06-02T17:21:29.023Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-02T19:36:34.955Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "software"
     },
@@ -1223,13 +1223,53 @@
       "wins": 0,
       "losses": 0,
       "niche": "ai"
+    },
+    "active-params": {
+      "firstSeen": "2026-06-02T19:36:39.934Z",
+      "lastSeen": "2026-06-02T19:36:39.934Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "bsides-prague": {
+      "firstSeen": "2026-06-02T19:36:43.270Z",
+      "lastSeen": "2026-06-02T19:36:43.270Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "torment-nexus": {
+      "firstSeen": "2026-06-02T19:36:46.724Z",
+      "lastSeen": "2026-06-02T19:36:46.724Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "flash-scores": {
+      "firstSeen": "2026-06-02T19:37:31.802Z",
+      "lastSeen": "2026-06-02T19:37:31.802Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "bench-pro": {
+      "firstSeen": "2026-06-02T19:37:43.737Z",
+      "lastSeen": "2026-06-02T19:37:43.737Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
     }
   },
   "niches": {
     "ai": {
-      "count": 186,
-      "wins": 55,
-      "losses": 6
+      "count": 195,
+      "wins": 57,
+      "losses": 7
     },
     "finance": {
       "count": 21,
@@ -1237,8 +1277,8 @@
       "losses": 0
     },
     "software": {
-      "count": 29,
-      "wins": 7,
+      "count": 30,
+      "wins": 8,
       "losses": 0
     },
     "gear": {

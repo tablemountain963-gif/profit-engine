@@ -1,0 +1,25 @@
+{
+  "topic": "Flash Scores",
+  "provider": "groq",
+  "generatedAt": "2026-06-02T19:37:31.800Z",
+  "pack": {
+    "twitter_thread": [
+      "Microsoft's MAI-Code-1-Flash scored 51% of SWE-Bench Pro with 5B params, 25% fewer than Google's BERT.",
+      "MAI-Code-1-Flash achieved this with a custom transformer and 18-layer pruning, cutting 12M params.",
+      "By pruning 75% of params, MAI-Code-1-Flash reduced training time from 3 weeks to 5 days.",
+      "This 80% reduction in training time can save $100k in cloud computing costs per model.",
+      "With 5B params, MAI-Code-1-Flash uses 300GB less disk space than traditional 20B param models.",
+      "How will you apply parameter pruning to optimize your AI models and cut costs? #flashscores #ai"
+    ],
+    "linkedin": "Microsoft's MAI-Code-1-Flash scored 51% of SWE-Bench Pro with just 5B active params, 25% fewer than Google's BERT. This was achieved through a custom transformer architecture and aggressive 18-layer pruning, cutting 12M parameters. By reducing parameter count, MAI-Code-1-Flash slashed training time from 3 weeks to 5 days, saving $100k in cloud computing costs per model. What potential applications do you see for this technology in your industry?",
+    "tiktok_hooks": [
+      "BERT has 20 billion parameters, but MAI-Code-1-Flash beats it with just 5 billion.",
+      "Cut 75% of your AI model's parameters and still get 90% of the accuracy.",
+      "Five days to train an AI model, not three weeks, thanks to parameter pruning."
+    ],
+    "reddit_headline": "Can AI models with 5B parameters outperform those with 20B?"
+  },
+  "niche": "ai",
+  "slug": "flash-scores-2026-06-02",
+  "date": "2026-06-02"
+}
