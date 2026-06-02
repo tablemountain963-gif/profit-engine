@@ -1,6 +1,21 @@
 {
   "x": [
     {
+      "slug": "desktop-2026-06-02",
+      "topic": "Desktop",
+      "tweetIds": [
+        "2061944576911323166",
+        "2061944583966126387",
+        "2061944591327133861",
+        "2061944598511976614",
+        "2061944605663269036",
+        "2061944612780978584",
+        "2061944619877752883",
+        "2061944627008073856"
+      ],
+      "postedAt": "2026-06-02T22:54:44.426Z"
+    },
+    {
       "slug": "bench-pro-2026-06-02",
       "topic": "Bench Pro",
       "tweetIds": [
@@ -344,6 +359,22 @@
     }
   ],
   "bluesky": [
+    {
+      "slug": "desktop-2026-06-02",
+      "topic": "Desktop",
+      "ids": [
+        "at://did:plc:tyttf4ceoibzsfb2tn764jic/app.bsky.feed.post/3mndotbpspm2a",
+        "at://did:plc:tyttf4ceoibzsfb2tn764jic/app.bsky.feed.post/3mndotcpja322",
+        "at://did:plc:tyttf4ceoibzsfb2tn764jic/app.bsky.feed.post/3mndotdpqi322",
+        "at://did:plc:tyttf4ceoibzsfb2tn764jic/app.bsky.feed.post/3mndotepvyq2q",
+        "at://did:plc:tyttf4ceoibzsfb2tn764jic/app.bsky.feed.post/3mndotfpy5d22",
+        "at://did:plc:tyttf4ceoibzsfb2tn764jic/app.bsky.feed.post/3mndotgpyva2l",
+        "at://did:plc:tyttf4ceoibzsfb2tn764jic/app.bsky.feed.post/3mndothq63s24",
+        "at://did:plc:tyttf4ceoibzsfb2tn764jic/app.bsky.feed.post/3mndotipzny2e"
+      ],
+      "url": "https://bsky.app/profile/solmercer.bsky.social/post/3mndotbpspm2a",
+      "postedAt": "2026-06-02T22:54:53.080Z"
+    },
     {
       "slug": "bench-pro-2026-06-02",
       "topic": "Bench Pro",

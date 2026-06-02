@@ -226,8 +226,8 @@
     },
     "desktop": {
       "firstSeen": "2026-05-28T18:30:48.222Z",
-      "lastSeen": "2026-05-28T20:11:47.449Z",
-      "count": 2,
+      "lastSeen": "2026-06-02T22:54:26.614Z",
+      "count": 3,
       "wins": 1,
       "losses": 0,
       "niche": "ai"
@@ -274,8 +274,8 @@
     },
     "software": {
       "firstSeen": "2026-05-28T20:13:05.178Z",
-      "lastSeen": "2026-05-28T20:13:05.178Z",
-      "count": 1,
+      "lastSeen": "2026-06-02T22:54:03.876Z",
+      "count": 2,
       "wins": 0,
       "losses": 0,
       "niche": "ai"
@@ -1234,17 +1234,17 @@
     },
     "bsides-prague": {
       "firstSeen": "2026-06-02T19:36:43.270Z",
-      "lastSeen": "2026-06-02T19:36:43.270Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-02T22:53:26.861Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
     "torment-nexus": {
       "firstSeen": "2026-06-02T19:36:46.724Z",
-      "lastSeen": "2026-06-02T19:36:46.724Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-02T22:53:26.861Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -1263,21 +1263,61 @@
       "wins": 0,
       "losses": 0,
       "niche": "ai"
+    },
+    "inside-microsoft": {
+      "firstSeen": "2026-06-02T22:53:32.207Z",
+      "lastSeen": "2026-06-02T22:53:32.207Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "project-solara": {
+      "firstSeen": "2026-06-02T22:53:36.165Z",
+      "lastSeen": "2026-06-02T22:53:36.165Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "agentic-era": {
+      "firstSeen": "2026-06-02T22:53:39.125Z",
+      "lastSeen": "2026-06-02T22:53:39.125Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "software-stocks": {
+      "firstSeen": "2026-06-02T22:53:45.557Z",
+      "lastSeen": "2026-06-02T22:53:45.557Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "starting-immediately": {
+      "firstSeen": "2026-06-02T22:54:14.592Z",
+      "lastSeen": "2026-06-02T22:54:14.592Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "finance"
     }
   },
   "niches": {
     "ai": {
-      "count": 195,
-      "wins": 57,
+      "count": 202,
+      "wins": 59,
       "losses": 7
     },
     "finance": {
-      "count": 21,
+      "count": 22,
       "wins": 4,
       "losses": 0
     },
     "software": {
-      "count": 30,
+      "count": 31,
       "wins": 8,
       "losses": 0
     },
