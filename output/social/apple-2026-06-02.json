@@ -1,0 +1,26 @@
+{
+  "topic": "Apple",
+  "provider": "groq",
+  "generatedAt": "2026-06-02T17:22:17.985Z",
+  "pack": {
+    "twitter_thread": [
+      "4 out of 10 dictation apps I've built have been rejected by Apple for using the accessibility API.",
+      "Switching to UI Automation added 300ms latency to my app, making it unusable for real-time dictation.",
+      "AXQuery works on macOS, but its iOS equivalent is private API, which I've seen get 9 out of 10 apps rejected.",
+      "Private APIs may seem like a workaround, but Apple's rejection rate for those is 95%.",
+      "The App Store review guidelines have 247 words on accessibility APIs, but no clear examples of approved use cases.",
+      "Has anyone successfully appealed an accessibility API rejection, and if so, how?",
+      "What's the most frustrating experience you've had with Apple's app review process regarding accessibility APIs? #accessibility #iosdev"
+    ],
+    "linkedin": "I've had 4 dictation apps rejected by Apple for using the accessibility API, a problem 40% of devs I know have faced. UI Automation adds significant latency, while AXQuery is only available on macOS. Private APIs are not a viable solution, with a 95% rejection rate. The App Store review guidelines lack concrete examples of approved use cases. What has been your experience with Apple's app review process regarding accessibility APIs?",
+    "tiktok_hooks": [
+      "Apple just rejected my 4th app for using an accessibility feature",
+      "40% of devs I know have been shut down by Apple for this",
+      "Can you build an iOS app without using private APIs or getting rejected?"
+    ],
+    "reddit_headline": "Apple Rejects 40% of Dictation Apps: Is the Accessibility API Policy Too Strict?"
+  },
+  "niche": "software",
+  "slug": "apple-2026-06-02",
+  "date": "2026-06-02"
+}
