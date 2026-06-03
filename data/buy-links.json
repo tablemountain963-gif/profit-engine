@@ -232,5 +232,19 @@
     "price": 19,
     "productId": "prod_UdOfUXlNwlWLdd",
     "cover": "/assets/pack-cover.png"
+  },
+  "prompt-pack-affordability-crisis-2026-06-03": {
+    "url": "https://buy.stripe.com/8x2aEW85aelUanN4RKfjG0x",
+    "platform": "stripe",
+    "price": 19,
+    "productId": "prod_UdaFYPPXSeuzt2",
+    "cover": "/assets/pack-cover.png"
+  },
+  "mini-ebook-sleep-2026-06-03": {
+    "url": "https://buy.stripe.com/bJe00i85a5Po7bB2JCfjG0y",
+    "platform": "stripe",
+    "price": 14,
+    "productId": "prod_UdaFaXTsbRXHnu",
+    "cover": "/assets/pack-cover.png"
   }
 }

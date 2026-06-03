@@ -42,8 +42,8 @@
     },
     "claude": {
       "firstSeen": "2026-05-28T04:02:03.327Z",
-      "lastSeen": "2026-05-28T04:02:03.327Z",
-      "count": 1,
+      "lastSeen": "2026-06-03T17:59:54.580Z",
+      "count": 2,
       "wins": 0,
       "losses": 0,
       "niche": "ai"
@@ -850,9 +850,9 @@
     },
     "photography": {
       "firstSeen": "2026-05-31T16:56:37.269Z",
-      "lastSeen": "2026-05-31T16:56:37.269Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-03T17:59:00.770Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -1306,17 +1306,17 @@
     },
     "cbs-news": {
       "firstSeen": "2026-06-03T06:01:20.629Z",
-      "lastSeen": "2026-06-03T06:01:20.629Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-03T17:59:00.771Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "software"
     },
     "wellness-briefing": {
       "firstSeen": "2026-06-03T06:01:23.658Z",
-      "lastSeen": "2026-06-03T06:01:23.658Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-03T17:59:00.771Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -1375,12 +1375,68 @@
       "wins": 0,
       "losses": 0,
       "niche": "ai"
+    },
+    "tech-sovereignty": {
+      "firstSeen": "2026-06-03T17:59:07.841Z",
+      "lastSeen": "2026-06-03T17:59:07.841Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "software"
+    },
+    "oss-project": {
+      "firstSeen": "2026-06-03T17:59:10.771Z",
+      "lastSeen": "2026-06-03T17:59:10.771Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "transplant-industry": {
+      "firstSeen": "2026-06-03T17:59:14.053Z",
+      "lastSeen": "2026-06-03T17:59:14.053Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "sleep": {
+      "firstSeen": "2026-06-03T17:59:22.430Z",
+      "lastSeen": "2026-06-03T17:59:22.430Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "gear"
+    },
+    "affordability-crisis": {
+      "firstSeen": "2026-06-03T17:59:29.318Z",
+      "lastSeen": "2026-06-03T17:59:29.318Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "production": {
+      "firstSeen": "2026-06-03T18:00:01.857Z",
+      "lastSeen": "2026-06-03T18:00:01.857Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "software"
+    },
+    "gaming-keyboard": {
+      "firstSeen": "2026-06-03T18:00:25.085Z",
+      "lastSeen": "2026-06-03T18:00:25.085Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
     }
   },
   "niches": {
     "ai": {
-      "count": 213,
-      "wins": 62,
+      "count": 220,
+      "wins": 64,
       "losses": 9
     },
     "finance": {
@@ -1389,12 +1445,12 @@
       "losses": 0
     },
     "software": {
-      "count": 35,
-      "wins": 8,
+      "count": 38,
+      "wins": 9,
       "losses": 1
     },
     "gear": {
-      "count": 12,
+      "count": 13,
       "wins": 4,
       "losses": 0
     },

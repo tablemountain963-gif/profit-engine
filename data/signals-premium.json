@@ -1,321 +1,316 @@
 {
-  "generatedAt": "2026-06-03T06:01:16.142Z",
-  "sourceCount": 206,
+  "generatedAt": "2026-06-03T17:59:01.564Z",
+  "sourceCount": 203,
   "topItems": [
     {
-      "title": "Wellness Briefing: How top brands are training employees to use AI tools, plus news",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZlJidlk4QllzVUVncmRoMTRLQjh1SVRTSFZJNWhNWTRjTFVmWnM1N0lvUzdzMFNMa25obEc2UEs5RlpBdzBLSFBpYTJJaDd3X0kwam5ncm84RUFIVVI4NWpUMmVsM1Y1eFNwcG8yNDBIY0JRMXYyTl92VVNseHpOcDNPYUd5N0hEck9KM0hweU1aaUlUeTdUQkFqQnMzVURYeWlrRw?oc=5",
-      "score": 9.03,
-      "niche": "ai",
-      "source": "gnews",
-      "engagement": {
-        "score": 40,
-        "comments": 0
-      }
-    },
-    {
-      "title": "PBS did a documentary showing infrared/thermal drone footage of the massive gas turbine plants being built next to AI datacenters.As I’ve pointed out in the past, despite greenwashing these massive da",
-      "url": "https://mas.to/@bascule/116683354142565989",
-      "score": 8.56,
+      "title": "It is okay to release a F/OSS project where the expected set of users is you.It is okay to declare that a F/OSS project that you maintain is feature complete and stop.It is okay to stop writing new co",
+      "url": "https://infosec.exchange/@david_chisnall/116686294283987486",
+      "score": 11.28,
       "niche": "ai",
       "source": "mastodon",
       "engagement": {
-        "score": 207,
-        "comments": 2
+        "score": 485,
+        "comments": 15
       }
     },
     {
-      "title": "Gmail thinks I'm stupid, so I left",
-      "url": "https://moddedbear.com/gmail-thinks-im-stupid-so-i-left",
-      "score": 8.27,
+      "title": "Gemma 4 12B: A unified, encoder-free multimodal model",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/",
+      "score": 9.83,
       "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 778,
-        "comments": 457
+        "score": 269,
+        "comments": 99
       }
     },
     {
-      "title": "What's happening to CBS News is what the tech oligarchs call \"parallel\" strategy. Buy an existing institution, gut it, and convert it into a right-wing zombie version of itself. They are doing this to",
-      "url": "https://journa.host/@gilduran/116683865616530771",
-      "score": 8.16,
-      "niche": "software",
-      "source": "mastodon",
-      "engagement": {
-        "score": 164,
-        "comments": 5
-      }
-    },
-    {
-      "title": "Air to Ground Message: OK. WE WILL UNLEASH THE FURRY. Area: Valparaiso, IN, USA Type: Boeing 737 MAX 9A: #a37aff9e0ae F: #fa9f8729936 #acars #vdlm2",
-      "url": "https://live.acarsdrama.com/@acarsdrama/116683531117865946",
-      "score": 8.02,
+      "title": "something I'm finding frustrating recently isa) I feel like LLMs have helped me learn some programming things that were hard for me to learn previouslyb) I'm tired of LLMs being relentlessly pushed on",
+      "url": "https://social.jvns.ca/@b0rk/116686717106120965",
+      "score": 9.63,
       "niche": "ai",
       "source": "mastodon",
       "engagement": {
-        "score": 306,
-        "comments": 7
+        "score": 355,
+        "comments": 29
       }
     },
     {
-      "title": "What's happening to CBS News is what the tech oligarchs call \"parallel\" strategy. \n\nBuy an existing institution, gut it, and convert it into a right-wing zombie version of itself. They are doing this ",
-      "url": "https://fed.brid.gy/r/https://bsky.app/profile/did:plc:waplkqr2wuy2c4qbge6h6ed4/post/3mne2l6gnok25",
-      "score": 7.89,
-      "niche": "software",
-      "source": "mastodon",
-      "engagement": {
-        "score": 140,
-        "comments": 3
-      }
-    },
-    {
-      "title": "AI outperforms law professors in Stanford Law study",
-      "url": "https://law.stanford.edu/press/ai-outperforms-law-professors-in-stanford-law-study/",
-      "score": 7.8,
-      "niche": "ai",
-      "source": "hackernews",
-      "engagement": {
-        "score": 168,
-        "comments": 138
-      }
-    },
-    {
-      "title": "Researchers found that writers using biased AI agents to auto-complete suggestions had their sociopolitical values shifted without their knowledge it was happening.https://www.science.org/doi/10.1126/",
-      "url": "https://mastodon.social/@JulianOliver/116682673383826121",
-      "score": 7.61,
-      "niche": "ai",
-      "source": "mastodon",
-      "engagement": {
-        "score": 376,
-        "comments": 4
-      }
-    },
-    {
-      "title": "MAI-Code-1-Flash",
-      "url": "https://microsoft.ai/news/introducingmai-code-1-flash/",
-      "score": 7.45,
-      "niche": "ai",
-      "source": "hackernews",
-      "engagement": {
-        "score": 437,
-        "comments": 189
-      }
-    },
-    {
-      "title": "tools-lua/steam-tools — steam tools steamtools github download  lua tools manifest  official client backup mirror beyonddimension archive proxy lua manifest generator Watt Toolkit」是一个开源跨平台的多功能 Steam 工",
-      "url": "https://github.com/tools-lua/steam-tools",
-      "score": 7.43,
-      "niche": "software",
-      "source": "github",
-      "engagement": {
-        "score": 117,
-        "comments": 0
-      }
-    },
-    {
-      "title": "Agentic Mfw",
-      "url": "https://agenticmotherfucking.website",
-      "score": 7.36,
-      "niche": "ai",
-      "source": "hackernews",
-      "engagement": {
-        "score": 127,
-        "comments": 36
-      }
-    },
-    {
-      "title": "At this point, Mastodon should simply advertise with screenshots of the abuse on Zuckerberg's platforms.♥️🐘",
-      "url": "https://mastodon.social/@randahl/116683445092837768",
-      "score": 7.33,
-      "niche": "software",
-      "source": "mastodon",
-      "engagement": {
-        "score": 162,
-        "comments": 13
-      }
-    },
-    {
-      "title": "Fidonet: Technology, Use, Tools, and History (1993)",
-      "url": "https://www.fidonet.org/inet92_Randy_Bush.txt",
-      "score": 7.16,
+      "title": "I built a ceiling projection mapping of the planes flying over my house",
+      "url": "https://old.reddit.com/r/nextfuckinglevel/comments/1tvmcin/i_live_in_the_take_off_path_of_sfo_and_built_a/",
+      "score": 9.52,
       "niche": "software",
       "source": "hackernews",
       "engagement": {
-        "score": 158,
-        "comments": 64
+        "score": 172,
+        "comments": 24
+      }
+    },
+    {
+      "title": "32GB of DDR5 now costs $375 – AI shortage continues to squeeze PC building",
+      "url": "https://www.tomshardware.com/pc-components/ddr5/32gb-of-ddr5-now-costs-usd375-minimum-ai-shortage-continues-to-squeeze-pc-building",
+      "score": 9.25,
+      "niche": "ai",
+      "source": "hackernews",
+      "engagement": {
+        "score": 261,
+        "comments": 259
       }
     },
     {
       "title": "cpaczek/skylight — Project the aircraft passing overhead onto your ceiling in real time, from an RTL-SDR — with a live sky layer (sun, moon, stars, ISS) and where each plane is headed.",
       "url": "https://github.com/cpaczek/skylight",
-      "score": 6.91,
+      "score": 9.08,
       "niche": "ai",
       "source": "github",
       "engagement": {
-        "score": 118,
+        "score": 534,
         "comments": 0
       }
     },
     {
-      "title": "Trump signs downsized AI order after weeks of reversals",
-      "url": "https://www.politico.com/news/2026/06/02/trump-signs-downsized-ai-order-00946389",
-      "score": 6.89,
+      "title": "We just released the first beta version of Mastodon 4.6 🎉Highlights for this release are the profile page redesign and the ability to create curated Collections of Mastodon accounts, but it contains ",
+      "url": "https://mastodon.social/@MastodonEngineering/116687014689391748",
+      "score": 8.58,
       "niche": "ai",
-      "source": "hackernews",
+      "source": "mastodon",
       "engagement": {
-        "score": 197,
-        "comments": 147
+        "score": 204,
+        "comments": 5
       }
     },
     {
-      "title": "We are not \"living in the future.\" We are living in the present. The future is something different that hasn't happened yet. I know this sounds facile, but once you ponder it for a while you start to ",
-      "url": "https://wandering.shop/@annaleen/116684293269827812",
-      "score": 6.71,
+      "title": "My Siberian Husky's fess. She always leaves one meaty of her dinner behind in the bowl and steps back as the cat approaches at eats that bit. I think it's a mutual agreement they seem to have with eac",
+      "url": "https://mastodon.social/@fesshole/116686376562874133",
+      "score": 8.35,
       "niche": "software",
       "source": "mastodon",
       "engagement": {
-        "score": 104,
-        "comments": 8
+        "score": 190,
+        "comments": 3
       }
     },
     {
-      "title": "Back-to-school shoppers to utilize AI tools to find best deals, value",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQV3hfR2lmb29NcmYzZXhqaWtBUTZJdThtVzN1V1BlUVowblh6TGs5TjI1OXhMdEduMjRoY2lsYVlXVldqVG9TV19LcGVHZm1pcF9KS3VxMldCMUEtdER4bXRyVjJ0a0hxYlo3MnpMYjFyT0J1Q2xMMGNJY1hTa1dpY0dNaVV6b0ppc1ZteTdR?oc=5",
-      "score": 6.61,
+      "title": "The @EUCommission just released a statement positioning open source as central to #Europe’s #TechSovereignty.We couldn’t agree more. #OpenSource is critical to a robust and independent society.Here’s ",
+      "url": "https://mastodon.social/@Mastodon/116686738841941842",
+      "score": 8.11,
+      "niche": "software",
+      "source": "mastodon",
+      "engagement": {
+        "score": 770,
+        "comments": 7
+      }
+    },
+    {
+      "title": "“We’re spending more on tokens than it would cost to have a person do this.”- real thing, said out loud, to me, yesterday",
+      "url": "https://mastodon.world/@paninid/116686657181541916",
+      "score": 7.78,
+      "niche": "ai",
+      "source": "mastodon",
+      "engagement": {
+        "score": 236,
+        "comments": 16
+      }
+    },
+    {
+      "title": "MAI-Code-1-Flash",
+      "url": "https://microsoft.ai/news/introducingmai-code-1-flash/",
+      "score": 7.69,
+      "niche": "ai",
+      "source": "hackernews",
+      "engagement": {
+        "score": 519,
+        "comments": 243
+      }
+    },
+    {
+      "title": "this email could have been a pay rise.",
+      "url": "https://infosec.exchange/@i0null/116686604657925818",
+      "score": 7.65,
+      "niche": "ai",
+      "source": "mastodon",
+      "engagement": {
+        "score": 237,
+        "comments": 4
+      }
+    },
+    {
+      "title": "Your digital future should be open, secure, and made in Europe. We are home to over 3 million open source developers across the EU. With our new Tech Sovereignty plan, we are taking concrete steps to ",
+      "url": "https://ec.social-network.europa.eu/@EUCommission/116686960335861976",
+      "score": 7.58,
+      "niche": "software",
+      "source": "mastodon",
+      "engagement": {
+        "score": 201,
+        "comments": 12
+      }
+    },
+    {
+      "title": "Wellness Briefing: How top brands are training employees to use AI tools, plus news",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZlJidlk4QllzVUVncmRoMTRLQjh1SVRTSFZJNWhNWTRjTFVmWnM1N0lvUzdzMFNMa25obEc2UEs5RlpBdzBLSFBpYTJJaDd3X0kwam5ncm84RUFIVVI4NWpUMmVsM1Y1eFNwcG8yNDBIY0JRMXYyTl92VVNseHpOcDNPYUd5N0hEck9KM0hweU1aaUlUeTdUQkFqQnMzVURYeWlrRw?oc=5",
+      "score": 7.23,
       "niche": "ai",
       "source": "gnews",
       "engagement": {
         "score": 40,
+        "comments": 0
+      }
+    },
+    {
+      "title": "MacBook Neo Is So Popular That Apple Doubled Production",
+      "url": "https://www.macrumors.com/2026/06/03/macbook-neo-production-doubled-says-kuo/",
+      "score": 7.04,
+      "niche": "software",
+      "source": "hackernews",
+      "engagement": {
+        "score": 45,
+        "comments": 20
+      }
+    },
+    {
+      "title": "Today is the day: The European Commission is expected to publish the EU Tech Sovereignty Package.  🇪🇺And the demand is clear. When purchasing software products, European authorities must prioritize-",
+      "url": "https://mastodon.social/@Tutanota/116685879969751753",
+      "score": 6.85,
+      "niche": "software",
+      "source": "mastodon",
+      "engagement": {
+        "score": 420,
+        "comments": 18
+      }
+    },
+    {
+      "title": "If AI data centers are so great, why are they being built in secret?",
+      "url": "https://www.thebrockovichreport.com/p/if-data-centers-are-so-great-why",
+      "score": 6.84,
+      "niche": "ai",
+      "source": "hackernews",
+      "engagement": {
+        "score": 56,
+        "comments": 40
+      }
+    },
+    {
+      "title": "Putting art on your wall transforms those ordinary moments when you're just walking past into tiny moments of joy – like discovering a twenty in an old jacket, except it happens every single time you ",
+      "url": "https://mastodon.social/@warandpeas/116687018169871678",
+      "score": 6.73,
+      "niche": "software",
+      "source": "mastodon",
+      "engagement": {
+        "score": 120,
+        "comments": 1
+      }
+    },
+    {
+      "title": "Robotaxis don't cut traffic any more than ride-hailing, study findsData shows Waymo's robotaxis are empty for almost half of the miles they drive.https://arstechnica.com/cars/2026/06/robotaxis-dont-cu",
+      "url": "https://mastodon.social/@arstechnica/116686825077177223",
+      "score": 6.68,
+      "niche": "ai",
+      "source": "mastodon",
+      "engagement": {
+        "score": 101,
+        "comments": 10
+      }
+    },
+    {
+      "title": "Hacking your PC using your speaker without ever touching it",
+      "url": "https://blog.nns.ee/2026/06/03/katana-badusb/",
+      "score": 6.32,
+      "niche": "gear",
+      "source": "hackernews",
+      "engagement": {
+        "score": 499,
+        "comments": 83
+      }
+    },
+    {
+      "title": "rsync and outrage",
+      "url": "https://medium.com/@tridge60/rsync-and-outrage-d9849599e5a0",
+      "score": 6.2,
+      "niche": "ai",
+      "source": "lobsters",
+      "engagement": {
+        "score": 82,
+        "comments": 90
+      }
+    },
+    {
+      "title": "I've noted elsewhere I was gifted a pair of Meta glasses and they haven't left their box, not only for the privacy implications outlined in the this video, but because of all the companies I want to s",
+      "url": "https://mastodon.social/@scalzi/116687329066602627",
+      "score": 5.98,
+      "niche": "ai",
+      "source": "mastodon",
+      "engagement": {
+        "score": 57,
+        "comments": 8
+      }
+    },
+    {
+      "title": ".furry - A Top-Level Domain for furries",
+      "url": "https://www.dotfurry.org/",
+      "score": 5.97,
+      "niche": "ai",
+      "source": "lobsters",
+      "engagement": {
+        "score": 46,
+        "comments": 30
+      }
+    },
+    {
+      "title": "@vltpkg/registry-client — Fetch package artifacts and metadata from registries",
+      "url": "https://www.npmjs.com/package/@vltpkg/registry-client",
+      "score": 5.61,
+      "niche": "software",
+      "source": "npm",
+      "engagement": {
+        "score": 100,
         "comments": 0
       }
     },
     {
       "title": "1-Click GitHub Token Stealing via a VSCode Bug",
       "url": "https://blog.ammaraskar.com/github-token-stealing/",
-      "score": 6.35,
+      "score": 5.59,
       "niche": "software",
       "source": "hackernews",
       "engagement": {
-        "score": 229,
-        "comments": 31
-      }
-    },
-    {
-      "title": "870238472001/Canva-Pro-Crack — Canva Pro - Drag-and-drop design tool with templates, brand kit, background remover, and Magic Studio AI.",
-      "url": "https://github.com/870238472001/Canva-Pro-Crack",
-      "score": 5.67,
-      "niche": "ai",
-      "source": "github",
-      "engagement": {
-        "score": 108,
-        "comments": 0
-      }
-    },
-    {
-      "title": "5 Best Budget Tech Gadgets Under $100 in 2026 You Will Actually Use Every Day",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWHBUMWNjNC01S01hN2dwSWxDNVVDRHJJem95LV9NdG8wcktuQVVPc3BfS2lQbGZhYzIwdmJxdk84WGUxbmlreTRFbVJDWmx3STdiWmlvczRjbU9PVThvTFpybkZDbEpxdmdFUjNmazdsa1k1WmNBSUd6SkI3U09YRjRpZlc4SGpSVmJOLUNDUzlua0EyTU11alJCbGVnWDcwUDFSRHhzdDRmT2hhQ2F6QXhudTV5cTluenNVSkptT3FBTGZKaGNn?oc=5",
-      "score": 5.61,
-      "niche": "finance",
-      "source": "gnews",
-      "engagement": {
-        "score": 40,
-        "comments": 0
-      }
-    },
-    {
-      "title": "How we index images for RAG",
-      "url": "https://www.kapa.ai/blog/how-we-index-images-for-rag",
-      "score": 5.47,
-      "niche": "ai",
-      "source": "hackernews",
-      "engagement": {
-        "score": 108,
-        "comments": 14
-      }
-    },
-    {
-      "title": "Roku LT Operating System open source distribution",
-      "url": "https://blog.roku.com/developer/roku-lt-os",
-      "score": 5.44,
-      "niche": "software",
-      "source": "hackernews",
-      "engagement": {
-        "score": 59,
-        "comments": 14
-      }
-    },
-    {
-      "title": "Realtor.com collabs with Google on AI tool; co-buyer ‘prenup’ launches",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQV2xXcXVhQU1FZmN6UWZ1bHhmbmpOLVZqdVhCTVQwWjlWVm5vUmxHQnhLaF91SzA4blRDZG91OGpRenU5SmtjMjFUT0ZfbVMzRVBERTFsc2NrbXZCNHVEa2pXZVJrMkJEWFVQSGJiNW1Kb3VJVk5Kck1QMm11QW9fY3Z6dzc1ZEdEVEhGT0d3MVNBcEpvQU5LQUlYbEpaSmN3UzZFQUduQ18wWFlnV2c?oc=5",
-      "score": 5.37,
-      "niche": "ai",
-      "source": "gnews",
-      "engagement": {
-        "score": 40,
-        "comments": 0
-      }
-    },
-    {
-      "title": "Open Repair Data Standard – Open Repair Alliance",
-      "url": "https://openrepair.org/open-data/open-standard/",
-      "score": 5.36,
-      "niche": "ai",
-      "source": "hackernews",
-      "engagement": {
-        "score": 117,
-        "comments": 3
-      }
-    },
-    {
-      "title": "Show HN: Paseo – Beautiful open-source coding agent interface",
-      "url": "https://github.com/getpaseo/paseo",
-      "score": 5.2,
-      "niche": "ai",
-      "source": "hackernews",
-      "engagement": {
-        "score": 54,
-        "comments": 26
+        "score": 603,
+        "comments": 90
       }
     }
   ],
   "topics": [
     {
-      "keyword": "cbs news",
-      "count": 16,
-      "score": 192.64432314841764,
+      "keyword": "tech sovereignty",
+      "count": 11,
+      "score": 121.79649867986524,
       "proper": true,
       "niches": [
         "software"
       ],
       "examples": [
         {
-          "title": "What's happening to CBS News is what the tech oligarchs call \"parallel\" strategy. Buy an existing institution, gut it, and convert it into a right-wing zombie version of itself. They are doing this to",
-          "url": "https://journa.host/@gilduran/116683865616530771",
+          "title": "Your digital future should be open, secure, and made in Europe. We are home to over 3 million open source developers across the EU. With our new Tech Sovereignty plan, we are taking concrete steps to ",
+          "url": "https://ec.social-network.europa.eu/@EUCommission/116686960335861976",
           "source": "mastodon"
         },
         {
-          "title": "What's happening to CBS News is what the tech oligarchs call \"parallel\" strategy. Buy an existing institution, gut it, and convert it into a right-wing zombie version of itself. They are doing this to",
-          "url": "https://journa.host/@gilduran/116683865616530771",
+          "title": "Your digital future should be open, secure, and made in Europe. We are home to over 3 million open source developers across the EU. With our new Tech Sovereignty plan, we are taking concrete steps to ",
+          "url": "https://ec.social-network.europa.eu/@EUCommission/116686960335861976",
           "source": "mastodon"
         },
         {
-          "title": "What's happening to CBS News is what the tech oligarchs call \"parallel\" strategy. \n\nBuy an existing institution, gut it, and convert it into a right-wing zombie version of itself. They are doing this ",
-          "url": "https://fed.brid.gy/r/https://bsky.app/profile/did:plc:waplkqr2wuy2c4qbge6h6ed4/post/3mne2l6gnok25",
-          "source": "mastodon"
-        },
-        {
-          "title": "What's happening to CBS News is what the tech oligarchs call \"parallel\" strategy. \n\nBuy an existing institution, gut it, and convert it into a right-wing zombie version of itself. They are doing this ",
-          "url": "https://fed.brid.gy/r/https://bsky.app/profile/did:plc:waplkqr2wuy2c4qbge6h6ed4/post/3mne2l6gnok25",
+          "title": "Today is the day: The European Commission is expected to publish the EU Tech Sovereignty Package.  🇪🇺And the demand is clear. When purchasing software products, European authorities must prioritize-",
+          "url": "https://mastodon.social/@Tutanota/116685879969751753",
           "source": "mastodon"
         }
       ],
-      "id": "45e68bda8464",
-      "slug": "cbs-news"
+      "id": "a5f39d90652a",
+      "slug": "tech-sovereignty"
     },
     {
       "keyword": "wellness briefing",
       "count": 11,
-      "score": 149.02122836090356,
+      "score": 119.21698268872287,
       "proper": true,
       "niches": [
         "ai"
@@ -341,175 +336,32 @@
       "slug": "wellness-briefing"
     },
     {
-      "keyword": "ground message",
-      "count": 8,
-      "score": 96.24979324434709,
+      "keyword": "data science",
+      "count": 22,
+      "score": 74.08483924227778,
       "proper": true,
       "niches": [
         "ai"
       ],
       "examples": [
         {
-          "title": "Air to Ground Message: OK. WE WILL UNLEASH THE FURRY. Area: Valparaiso, IN, USA Type: Boeing 737 MAX 9A: #a37aff9e0ae F: #fa9f8729936 #acars #vdlm2",
-          "url": "https://live.acarsdrama.com/@acarsdrama/116683531117865946",
-          "source": "mastodon"
-        },
-        {
-          "title": "Air to Ground Message: OK. WE WILL UNLEASH THE FURRY. Area: Valparaiso, IN, USA Type: Boeing 737 MAX 9A: #a37aff9e0ae F: #fa9f8729936 #acars #vdlm2",
-          "url": "https://live.acarsdrama.com/@acarsdrama/116683531117865946",
-          "source": "mastodon"
-        }
-      ],
-      "id": "f1551c0406af",
-      "slug": "ground-message"
-    },
-    {
-      "keyword": "usa type",
-      "count": 8,
-      "score": 96.24979324434709,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "Air to Ground Message: OK. WE WILL UNLEASH THE FURRY. Area: Valparaiso, IN, USA Type: Boeing 737 MAX 9A: #a37aff9e0ae F: #fa9f8729936 #acars #vdlm2",
-          "url": "https://live.acarsdrama.com/@acarsdrama/116683531117865946",
-          "source": "mastodon"
-        },
-        {
-          "title": "Air to Ground Message: OK. WE WILL UNLEASH THE FURRY. Area: Valparaiso, IN, USA Type: Boeing 737 MAX 9A: #a37aff9e0ae F: #fa9f8729936 #acars #vdlm2",
-          "url": "https://live.acarsdrama.com/@acarsdrama/116683531117865946",
-          "source": "mastodon"
-        }
-      ],
-      "id": "a51ac65e172c",
-      "slug": "usa-type"
-    },
-    {
-      "keyword": "stanford law",
-      "count": 8,
-      "score": 93.56126246793437,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "AI outperforms law professors in Stanford Law study",
-          "url": "https://law.stanford.edu/press/ai-outperforms-law-professors-in-stanford-law-study/",
-          "source": "hackernews"
-        },
-        {
-          "title": "AI outperforms law professors in Stanford Law study",
-          "url": "https://law.stanford.edu/press/ai-outperforms-law-professors-in-stanford-law-study/",
-          "source": "hackernews"
-        }
-      ],
-      "id": "e5165d7d20c3",
-      "slug": "stanford-law"
-    },
-    {
-      "keyword": "watt toolkit",
-      "count": 8,
-      "score": 89.10750137022185,
-      "proper": true,
-      "niches": [
-        "software"
-      ],
-      "examples": [
-        {
-          "title": "tools-lua/steam-tools — steam tools steamtools github download  lua tools manifest  official client backup mirror beyonddimension archive proxy lua manifest generator Watt Toolkit」是一个开源跨平台的多功能 Steam 工",
-          "url": "https://github.com/tools-lua/steam-tools",
-          "source": "github"
-        },
-        {
-          "title": "tools-lua/steam-tools — steam tools steamtools github download  lua tools manifest  official client backup mirror beyonddimension archive proxy lua manifest generator Watt Toolkit」是一个开源跨平台的多功能 Steam 工",
-          "url": "https://github.com/tools-lua/steam-tools",
-          "source": "github"
-        }
-      ],
-      "id": "6c5fde772f8c",
-      "slug": "watt-toolkit"
-    },
-    {
-      "keyword": "agentic mfw",
-      "count": 8,
-      "score": 88.35955183349688,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "Agentic Mfw",
-          "url": "https://agenticmotherfucking.website",
-          "source": "hackernews"
-        },
-        {
-          "title": "Agentic Mfw",
-          "url": "https://agenticmotherfucking.website",
-          "source": "hackernews"
-        }
-      ],
-      "id": "f33afeae6bc8",
-      "slug": "agentic-mfw"
-    },
-    {
-      "keyword": "tools",
-      "count": 10,
-      "score": 85.4197269249148,
-      "proper": true,
-      "niches": [
-        "software",
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "Fidonet: Technology, Use, Tools, and History (1993)",
-          "url": "https://www.fidonet.org/inet92_Randy_Bush.txt",
-          "source": "hackernews"
-        },
-        {
-          "title": "10 Best AI Face Swap Tools & Apps in 2026 (Free & Paid)",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9ld1JqQjlqWUM5c1dHT1k5WkVEcThZNEM5eXpFRlVsd3huUHFpd0VtcHF1UGoyR01oRHZuajdKZUxnSjlzekVtdDRjN2w0dEFUeVB5LWRkYlZKQTNE0gFcQVVfeXFMT2V3UmpCOWpZQzlzV0dPWTlaRURxOFk0Qzl5ekVGVWx3eG5QcWl3RW1wcXVQajJHTWhEdm5qN0plTGdKOXN6RW10NGM3bDR0QVR5UHktZGRiVkpBM0Q?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "f9d35d43770d",
-      "slug": "tools"
-    },
-    {
-      "keyword": "2026 _blank",
-      "count": 33,
-      "score": 81.4101035194988,
-      "proper": false,
-      "niches": [
-        "finance",
-        "gear",
-        "ai",
-        "software",
-        "general"
-      ],
-      "examples": [
-        {
-          "title": "5 Best Budget Tech Gadgets Under $100 in 2026 You Will Actually Use Every Day",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWHBUMWNjNC01S01hN2dwSWxDNVVDRHJJem95LV9NdG8wcktuQVVPc3BfS2lQbGZhYzIwdmJxdk84WGUxbmlreTRFbVJDWmx3STdiWmlvczRjbU9PVThvTFpybkZDbEpxdmdFUjNmazdsa1k1WmNBSUd6SkI3U09YRjRpZlc4SGpSVmJOLUNDUzlua0EyTU11alJCbGVnWDcwUDFSRHhzdDRmT2hhQ2F6QXhudTV5cTluenNVSkptT3FBTGZKaGNn?oc=5",
+          "title": "12 Best AI for Coding Tools in 2026 (Vibecoding & Data Science)",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9uRXpOS19rZ1pvYWc2c0FDTDBhQUc5WFBXcUFpMGlnWWZzOGxpTXotX19Ja1dtdm9yV2RXM0tzX3MzVmNvNXlPdUJ2bjEtMTJMTVo5eDNR0gFWQVVfeXFMT25Fek5LX2tnWm9hZzZzQUNMMGFBRzlYUFdxQWkwaWdZZnM4bGlNei1fX0lrV212b3JXZFczS3NfczNWY281eU91QnZuMS0xMkxNWjl4M1E?oc=5",
           "source": "gnews"
         },
         {
-          "title": "12 Of Our Favorite New Gadgets From April 2026",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBnRWkwY2tTdFlndUpFcnBjbDdiVGRVSnBxUWppV3pabjh1UDk1ZDdDc2ZfelJieUwwQzZrcmJMUmFTdkszSUtkN3Q0THFFQzZSTGxnWmJOeVB1NVExN2JDNnNOWjBiZnZuTk1BS2hiZlBFQjBsYmc?oc=5",
+          "title": "12 Best AI for Coding Tools in 2026 (Vibecoding & Data Science)",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9uRXpOS19rZ1pvYWc2c0FDTDBhQUc5WFBXcUFpMGlnWWZzOGxpTXotX19Ja1dtdm9yV2RXM0tzX3MzVmNvNXlPdUJ2bjEtMTJMTVo5eDNR0gFWQVVfeXFMT25Fek5LX2tnWm9hZzZzQUNMMGFBRzlYUFdxQWkwaWdZZnM4bGlNei1fX0lrV212b3JXZFczS3NfczNWY281eU91QnZuMS0xMkxNWjl4M1E?oc=5",
           "source": "gnews"
         },
         {
-          "title": "The Best Gadgets of May 2026",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBjUkYzZ0xucXROVjlwVE1DN3BNSWo1eTlUTzN0dVhqd3loUm1RUEF5eFZMNVRnQXBVOUYxZFRhdHlES25hRVdyY0lnU195SXlMYnpZOExXbWZfWUpEYzU2enFn?oc=5",
+          "title": "12 Best AI for Coding Tools in 2026 (Vibecoding & Data Science)",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9uRXpOS19rZ1pvYWc2c0FDTDBhQUc5WFBXcUFpMGlnWWZzOGxpTXotX19Ja1dtdm9yV2RXM0tzX3MzVmNvNXlPdUJ2bjEtMTJMTVo5eDNR0gFWQVVfeXFMT25Fek5LX2tnWm9hZzZzQUNMMGFBRzlYUFdxQWkwaWdZZnM4bGlNei1fX0lrV212b3JXZFczS3NfczNWY281eU91QnZuMS0xMkxNWjl4M1E?oc=5",
           "source": "gnews"
         },
         {
-          "title": "The Top 10 AI Tools for Business in 2026",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8ycWJacjB1V0c0UlEwdEhVUm9lbFVXaXpaWEZxYU5KVGFaVzNsLXJjdDBFYVpRNWk3bkFQa3dfTXlaWHFaeDNPSWpMSTA0M21FME5mUFhmMzgzOVdVdEtYT3RTU1ZJaEJxOTh0X0Zn?oc=5",
+          "title": "11 Best AI Coding Tools for Data Science & ML in 2026",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPaHBGOWZOaERaNVMxVVpPTU9FU1VaMnJ3WkZvMUtUd1MwaGtUQThJZE1nNnNsN25ZemFPZXpUZ1pEdG10NjhhNEx1MnBLTWZOMVg1WUd2MEhzeXM0eWZuOWc3cVgwYkRHUXpYTUF4ZnR0dzlsYmhoVnpKRDd4RjFqRkw4RTE?oc=5",
           "source": "gnews"
         },
         {
@@ -518,13 +370,76 @@
           "source": "gnews"
         }
       ],
-      "id": "436796f27eb8",
-      "slug": "2026-_blank"
+      "id": "aa90a6f24112",
+      "slug": "data-science"
+    },
+    {
+      "keyword": "oss project",
+      "count": 6,
+      "score": 67.7077365526152,
+      "proper": false,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "It is okay to release a F/OSS project where the expected set of users is you.It is okay to declare that a F/OSS project that you maintain is feature complete and stop.It is okay to stop writing new co",
+          "url": "https://infosec.exchange/@david_chisnall/116686294283987486",
+          "source": "mastodon"
+        },
+        {
+          "title": "It is okay to release a F/OSS project where the expected set of users is you.It is okay to declare that a F/OSS project that you maintain is feature complete and stop.It is okay to stop writing new co",
+          "url": "https://infosec.exchange/@david_chisnall/116686294283987486",
+          "source": "mastodon"
+        }
+      ],
+      "id": "6b54b572e0a4",
+      "slug": "oss-project"
+    },
+    {
+      "keyword": "side",
+      "count": 23,
+      "score": 67.45746993436948,
+      "proper": true,
+      "niches": [
+        "finance",
+        "ai",
+        "software"
+      ],
+      "examples": [
+        {
+          "title": "6 side hustle businesses you can launch with $0",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONzdLLVdBSkp5bUlVMVVvR040ZEtEQWdZZWJSTzZzREZfSlo1Q19OcXZsLTNXWnhId3YwVUhHZkYtdW1ySEpkRVFzS0h1bFc4blhhbWVBb3lUemNJZHFfdFMzTklhOFVpb0Y4SldrZVJ0cnMxTlNJU1FNN3JKRXc0WkZVRmlQSkswMVE?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "6 side hustle businesses you can launch with $0",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONzdLLVdBSkp5bUlVMVVvR040ZEtEQWdZZWJSTzZzREZfSlo1Q19OcXZsLTNXWnhId3YwVUhHZkYtdW1ySEpkRVFzS0h1bFc4blhhbWVBb3lUemNJZHFfdFMzTklhOFVpb0Y4SldrZVJ0cnMxTlNJU1FNN3JKRXc0WkZVRmlQSkswMVE?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "How To Use ChatGPT To Launch A Travel Side Hustle This Summer",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORGhBZ21jbkpIUDRDZ2Y3dzhMUTJ6V2ZPSXM4ZUljUVhrcjNBbHBidmQ2ekJjWHRndGN5NEM5c1Jpai03cDlCZzlDckUtUk9HYkNTYmt0WHhWVWRuUG45RDB0UUt6cTNsQm0xeWNSQjgybFpvM3RRT3BRejFaQmNCNUNMM1RVS2M?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "How To Use ChatGPT To Launch A Travel Side Hustle This Summer",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORGhBZ21jbkpIUDRDZ2Y3dzhMUTJ6V2ZPSXM4ZUljUVhrcjNBbHBidmQ2ekJjWHRndGN5NEM5c1Jpai03cDlCZzlDckUtUk9HYkNTYmt0WHhWVWRuUG45RDB0UUt6cTNsQm0xeWNSQjgybFpvM3RRT3BRejFaQmNCNUNMM1RVS2M?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "20 Realistic Ways to Make Money on the Side",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE12ZTRWMFVPY0t0N0dxdGtySTl3dl9vRkFwTTVINE0wWjd4WXpwWUN0eWo1cFR4ejhkRTVxRWFQbVg1M3p6WG5TLU95NFZSN3AxQWV2MldiTVRMd1R6RU9ITld4bXF1S1BVWlE?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "ea7bf4bb7230",
+      "slug": "side"
     },
     {
       "keyword": "vscode bug",
       "count": 8,
-      "score": 76.2099147039735,
+      "score": 67.101823597276,
       "proper": true,
       "niches": [
         "software"
@@ -543,29 +458,6 @@
       ],
       "id": "fb3ba035cfba",
       "slug": "vscode-bug"
-    },
-    {
-      "keyword": "canva pro",
-      "count": 8,
-      "score": 68.06634444320036,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "870238472001/Canva-Pro-Crack — Canva Pro - Drag-and-drop design tool with templates, brand kit, background remover, and Magic Studio AI.",
-          "url": "https://github.com/870238472001/Canva-Pro-Crack",
-          "source": "github"
-        },
-        {
-          "title": "870238472001/Canva-Pro-Crack — Canva Pro - Drag-and-drop design tool with templates, brand kit, background remover, and Magic Studio AI.",
-          "url": "https://github.com/870238472001/Canva-Pro-Crack",
-          "source": "github"
-        }
-      ],
-      "id": "23b214bd379e",
-      "slug": "canva-pro"
     },
     {
       "keyword": "flight simulator",
@@ -596,126 +488,285 @@
       "slug": "flight-simulator"
     },
     {
-      "keyword": "2026 6f6f6f",
-      "count": 30,
-      "score": 64.57264005534476,
-      "proper": false,
-      "niches": [
-        "gear",
-        "ai",
-        "software",
-        "general"
-      ],
-      "examples": [
-        {
-          "title": "12 Of Our Favorite New Gadgets From April 2026",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBnRWkwY2tTdFlndUpFcnBjbDdiVGRVSnBxUWppV3pabjh1UDk1ZDdDc2ZfelJieUwwQzZrcmJMUmFTdkszSUtkN3Q0THFFQzZSTGxnWmJOeVB1NVExN2JDNnNOWjBiZnZuTk1BS2hiZlBFQjBsYmc?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "The Best Gadgets of May 2026",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBjUkYzZ0xucXROVjlwVE1DN3BNSWo1eTlUTzN0dVhqd3loUm1RUEF5eFZMNVRnQXBVOUYxZFRhdHlES25hRVdyY0lnU195SXlMYnpZOExXbWZfWUpEYzU2enFn?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "The Top 10 AI Tools for Business in 2026",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8ycWJacjB1V0c0UlEwdEhVUm9lbFVXaXpaWEZxYU5KVGFaVzNsLXJjdDBFYVpRNWk3bkFQa3dfTXlaWHFaeDNPSWpMSTA0M21FME5mUFhmMzgzOVdVdEtYT3RTU1ZJaEJxOTh0X0Zn?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "11 Best AI Coding Tools for Data Science & ML in 2026",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPaHBGOWZOaERaNVMxVVpPTU9FU1VaMnJ3WkZvMUtUd1MwaGtUQThJZE1nNnNsN25ZemFPZXpUZ1pEdG10NjhhNEx1MnBLTWZOMVg1WUd2MEhzeXM0eWZuOWc3cVgwYkRHUXpYTUF4ZnR0dzlsYmhoVnpKRDd4RjFqRkw4RTE?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "The Best Productivity Apps We've Tested for 2026",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9veGdZYVZtQXhoeGdoN19Db0JwMFZndFd3a3dIczJDZkIxeHBPUHEySTlDT2xzZS1PVkdCVnpla0pWWjRMUVczUm9kaVhnOFB3MzNpNk1YUnl2LUI5YVVJ?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "819223dcf234",
-      "slug": "2026-6f6f6f"
-    },
-    {
-      "keyword": "microsoft ceo",
-      "count": 8,
-      "score": 60.643372702963326,
+      "keyword": "claude",
+      "count": 10,
+      "score": 61.41814584485164,
       "proper": true,
       "niches": [
         "ai"
       ],
       "examples": [
         {
-          "title": "Microsoft CEO: We’re moving from OS and apps to agents instead",
-          "url": "https://9to5mac.com/2026/06/02/microsoft-ceo-were-moving-from-os-and-apps-to-agents-instead/",
-          "source": "lobsters"
+          "title": "ChatGPT vs Claude vs Gemini: Which AI Is Best?",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1TTGpXM1BWTGllMVNFTXRLemlzUXEtZ3NpMXVmbS1IVmhlNGpTM0NxeVpsaTNmVzRXYlhCYkViRUJLbFMzX3VXTzNneUtWb3VyQ0ZuUU1HOXRabU5FQTUtbnZIbGpLS1VlUVd6WHBLRl8?oc=5",
+          "source": "gnews"
         },
         {
-          "title": "Microsoft CEO: We’re moving from OS and apps to agents instead",
-          "url": "https://9to5mac.com/2026/06/02/microsoft-ceo-were-moving-from-os-and-apps-to-agents-instead/",
-          "source": "lobsters"
+          "title": "ChatGPT vs Claude vs Gemini: Which AI Is Best?",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1TTGpXM1BWTGllMVNFTXRLemlzUXEtZ3NpMXVmbS1IVmhlNGpTM0NxeVpsaTNmVzRXYlhCYkViRUJLbFMzX3VXTzNneUtWb3VyQ0ZuUU1HOXRabU5FQTUtbnZIbGpLS1VlUVd6WHBLRl8?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "ChatGPT vs Claude vs Gemini: Which AI Is Best?",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1TTGpXM1BWTGllMVNFTXRLemlzUXEtZ3NpMXVmbS1IVmhlNGpTM0NxeVpsaTNmVzRXYlhCYkViRUJLbFMzX3VXTzNneUtWb3VyQ0ZuUU1HOXRabU5FQTUtbnZIbGpLS1VlUVd6WHBLRl8?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "The Claude skill I built for myself is the only productivity hack that stuck",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOV081b0ZNOW9QNHBURTVQbERoUzZGWHBtTEloalRabTN0ZUVKaV9IYVZSb3EySHpIcUstOWUxUmR1bUw2Nmdyd1hsOHpxdE53QlN2ejBNaGthT2hTTlJaaG1wRWRzc1hsZm5wLXNEZ0hsUFJLbEt6Y3RTdjZ3Rk93RHBReHFuLVM0cWpKWFF6Y0FpWXgtQTR1OHN6VTNid1BSaWxoXzB4NnM2MUlO?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "The Claude skill I built for myself is the only productivity hack that stuck",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOV081b0ZNOW9QNHBURTVQbERoUzZGWHBtTEloalRabTN0ZUVKaV9IYVZSb3EySHpIcUstOWUxUmR1bUw2Nmdyd1hsOHpxdE53QlN2ejBNaGthT2hTTlJaaG1wRWRzc1hsZm5wLXNEZ0hsUFJLbEt6Y3RTdjZ3Rk93RHBReHFuLVM0cWpKWFF6Y0FpWXgtQTR1OHN6VTNid1BSaWxoXzB4NnM2MUlO?oc=5",
+          "source": "gnews"
         }
       ],
-      "id": "718972a2158f",
-      "slug": "microsoft-ceo"
+      "id": "c857d09db23e",
+      "slug": "claude"
     },
     {
-      "keyword": "briefing top",
-      "count": 6,
-      "score": 54.189537585783114,
-      "proper": false,
+      "keyword": "transplant industry",
+      "count": 8,
+      "score": 59.755700295217196,
+      "proper": true,
       "niches": [
         "ai"
       ],
       "examples": [
         {
-          "title": "Wellness Briefing: How top brands are training employees to use AI tools, plus news",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZlJidlk4QllzVUVncmRoMTRLQjh1SVRTSFZJNWhNWTRjTFVmWnM1N0lvUzdzMFNMa25obEc2UEs5RlpBdzBLSFBpYTJJaDd3X0kwam5ncm84RUFIVVI4NWpUMmVsM1Y1eFNwcG8yNDBIY0JRMXYyTl92VVNseHpOcDNPYUd5N0hEck9KM0hweU1aaUlUeTdUQkFqQnMzVURYeWlrRw?oc=5",
+          "title": "Turkey Hacked the Hair Transplant Industry",
+          "url": "https://www.wired.com/story/how-turkey-hacked-the-hair-transplant-industry/",
+          "source": "hackernews"
+        },
+        {
+          "title": "Turkey Hacked the Hair Transplant Industry",
+          "url": "https://www.wired.com/story/how-turkey-hacked-the-hair-transplant-industry/",
+          "source": "hackernews"
+        }
+      ],
+      "id": "28888abbcb89",
+      "slug": "transplant-industry"
+    },
+    {
+      "keyword": "side hustle",
+      "count": 18,
+      "score": 59.376250468993774,
+      "proper": false,
+      "niches": [
+        "finance",
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "6 side hustle businesses you can launch with $0",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONzdLLVdBSkp5bUlVMVVvR040ZEtEQWdZZWJSTzZzREZfSlo1Q19OcXZsLTNXWnhId3YwVUhHZkYtdW1ySEpkRVFzS0h1bFc4blhhbWVBb3lUemNJZHFfdFMzTklhOFVpb0Y4SldrZVJ0cnMxTlNJU1FNN3JKRXc0WkZVRmlQSkswMVE?oc=5",
           "source": "gnews"
         },
         {
-          "title": "Wellness Briefing: How top brands are training employees to use AI tools, plus news",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZlJidlk4QllzVUVncmRoMTRLQjh1SVRTSFZJNWhNWTRjTFVmWnM1N0lvUzdzMFNMa25obEc2UEs5RlpBdzBLSFBpYTJJaDd3X0kwam5ncm84RUFIVVI4NWpUMmVsM1Y1eFNwcG8yNDBIY0JRMXYyTl92VVNseHpOcDNPYUd5N0hEck9KM0hweU1aaUlUeTdUQkFqQnMzVURYeWlrRw?oc=5",
+          "title": "6 side hustle businesses you can launch with $0",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONzdLLVdBSkp5bUlVMVVvR040ZEtEQWdZZWJSTzZzREZfSlo1Q19OcXZsLTNXWnhId3YwVUhHZkYtdW1ySEpkRVFzS0h1bFc4blhhbWVBb3lUemNJZHFfdFMzTklhOFVpb0Y4SldrZVJ0cnMxTlNJU1FNN3JKRXc0WkZVRmlQSkswMVE?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "How To Use ChatGPT To Launch A Travel Side Hustle This Summer",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORGhBZ21jbkpIUDRDZ2Y3dzhMUTJ6V2ZPSXM4ZUljUVhrcjNBbHBidmQ2ekJjWHRndGN5NEM5c1Jpai03cDlCZzlDckUtUk9HYkNTYmt0WHhWVWRuUG45RDB0UUt6cTNsQm0xeWNSQjgybFpvM3RRT3BRejFaQmNCNUNMM1RVS2M?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "How To Use ChatGPT To Launch A Travel Side Hustle This Summer",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORGhBZ21jbkpIUDRDZ2Y3dzhMUTJ6V2ZPSXM4ZUljUVhrcjNBbHBidmQ2ekJjWHRndGN5NEM5c1Jpai03cDlCZzlDckUtUk9HYkNTYmt0WHhWVWRuUG45RDB0UUt6cTNsQm0xeWNSQjgybFpvM3RRT3BRejFaQmNCNUNMM1RVS2M?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "6 AI Side Hustle Businesses Anyone Can Start",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZzNLUGhvaGhQTFNBODNVTVBBeHNfTDhYcHdzUTJva3lKZjlOZ0JkZFRKWWE1R3lpc2ZKdUlESEttR1pMODBiQVNmUmxEbG1GdkRUT2RjVU4yYmdQSGVFc1ZuVTRLUXBJYm1Ub09XVjAzNWRGcm5RaUdnekdRRDRpcXhfWEFvcktoc1h4QzRmMA?oc=5",
           "source": "gnews"
         }
       ],
-      "id": "0ced7f4cbfa8",
-      "slug": "briefing-top"
-    }
-  ],
-  "opportunities": [
+      "id": "57270ed2efc7",
+      "slug": "side-hustle"
+    },
     {
-      "keyword": "cbs news",
-      "count": 16,
-      "score": 192.64432314841764,
+      "keyword": "affordability crisis",
+      "count": 11,
+      "score": 58.75694146801339,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "Affordability Crisis: Five smart side-hustle ideas to the rescue",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTlpoczY3VEVXQ2JHVVdwenZjRjJUS2xrNkZ1VS1BODZyZ0g1TkNjcnJfZldCa2xyenEyXzlKMzlDMDVCMXdvdFdlbmNhV0tqU3N6YkxkdjFzbFZVWEwzQl9ELWd6TlBacm1wOTloc0Z4a0ZKczBrY1N5MHNwUnFFZm1vVTNFeU15N0hIeFZCQWNqMlVIWnlHTXFlTEh0VEVVREhDaWpIWGptUG82QU9hZ0lod0NiWkNER3hxWQ?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Affordability Crisis: Five smart side-hustle ideas to the rescue",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTlpoczY3VEVXQ2JHVVdwenZjRjJUS2xrNkZ1VS1BODZyZ0g1TkNjcnJfZldCa2xyenEyXzlKMzlDMDVCMXdvdFdlbmNhV0tqU3N6YkxkdjFzbFZVWEwzQl9ELWd6TlBacm1wOTloc0Z4a0ZKczBrY1N5MHNwUnFFZm1vVTNFeU15N0hIeFZCQWNqMlVIWnlHTXFlTEh0VEVVREhDaWpIWGptUG82QU9hZ0lod0NiWkNER3hxWQ?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Affordability Crisis: Five smart side-hustle ideas to the rescue",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTlpoczY3VEVXQ2JHVVdwenZjRjJUS2xrNkZ1VS1BODZyZ0g1TkNjcnJfZldCa2xyenEyXzlKMzlDMDVCMXdvdFdlbmNhV0tqU3N6YkxkdjFzbFZVWEwzQl9ELWd6TlBacm1wOTloc0Z4a0ZKczBrY1N5MHNwUnFFZm1vVTNFeU15N0hIeFZCQWNqMlVIWnlHTXFlTEh0VEVVREhDaWpIWGptUG82QU9hZ0lod0NiWkNER3hxWQ?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "75c4782cb45d",
+      "slug": "affordability-crisis"
+    },
+    {
+      "keyword": "gemini",
+      "count": 7,
+      "score": 56.35711908921445,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "ChatGPT vs Claude vs Gemini: Which AI Is Best?",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1TTGpXM1BWTGllMVNFTXRLemlzUXEtZ3NpMXVmbS1IVmhlNGpTM0NxeVpsaTNmVzRXYlhCYkViRUJLbFMzX3VXTzNneUtWb3VyQ0ZuUU1HOXRabU5FQTUtbnZIbGpLS1VlUVd6WHBLRl8?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "ChatGPT vs Claude vs Gemini: Which AI Is Best?",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1TTGpXM1BWTGllMVNFTXRLemlzUXEtZ3NpMXVmbS1IVmhlNGpTM0NxeVpsaTNmVzRXYlhCYkViRUJLbFMzX3VXTzNneUtWb3VyQ0ZuUU1HOXRabU5FQTUtbnZIbGpLS1VlUVd6WHBLRl8?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "ChatGPT vs Claude vs Gemini: Which AI Is Best?",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1TTGpXM1BWTGllMVNFTXRLemlzUXEtZ3NpMXVmbS1IVmhlNGpTM0NxeVpsaTNmVzRXYlhCYkViRUJLbFMzX3VXTzNneUtWb3VyQ0ZuUU1HOXRabU5FQTUtbnZIbGpLS1VlUVd6WHBLRl8?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "5d72436256ad",
+      "slug": "gemini"
+    },
+    {
+      "keyword": "productivity apps",
+      "count": 27,
+      "score": 54.32501142974756,
+      "proper": false,
+      "niches": [
+        "software"
+      ],
+      "examples": [
+        {
+          "title": "New auxiliary display for Flight Simulator, sim racing and productivity apps unveiled",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVHhJWE9tTFRKaEE1ZUdYejhWVlZITHAxRVNROFcydmpMbnpZQS1KYzdjV3ZVVU9vTDAzN01uV2dFcjZRUXFER3dQeDROMDNVZF80Szl5N2Q0RmVtU2IzRzluYWthQ2NaQVZaaTJJby0tQlBUMWc5UEhtUURIV3NQUnQ5NHZENEdaN1NGRjJ1ZXhnWnNnMWJqbHR1dllqRl81dU96cTFoQmF2SW1tS1A3M29ad2NZWktJWUpIc2pXZzN5dmFRUzRPNA?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "The Best Productivity Apps for 2026",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1hcGhhTzd4UXY0VzB6MjRBcjZDR3ozczlxVFd4eVZmRGpjNVk2Z1ZCd3pIa0hBMUcxN3hEQTloZjh0dmdLMl9EakVNYjl0ZFBRQldfZEtqbGVmNGNtYTBNSllINjZ1aUU3aWp0ZGMyOTg0eGJE?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "The Best Productivity Apps for 2026",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1hcGhhTzd4UXY0VzB6MjRBcjZDR3ozczlxVFd4eVZmRGpjNVk2Z1ZCd3pIa0hBMUcxN3hEQTloZjh0dmdLMl9EakVNYjl0ZFBRQldfZEtqbGVmNGNtYTBNSllINjZ1aUU3aWp0ZGMyOTg0eGJE?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Best productivity apps in Windows to go from idea to done faster",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNc1hnaURNdXZhTVBPcUZCLWFjZ2FqWW5zdm1LTWZ6WDExclJjMkh4S0FXQmEyVjFGbTBZNXdlcXpnREc0YjhoWUtpM1hyNTBiTmo3NHo4N1pZV3lwZ21YNnJGazk4QnU5NDlacmRNVll1V3JCQ201TTdPZ2RRc1cxN0V4bVdhbkg5Yk5YRVVKeUZwa2s?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Best productivity apps in Windows to go from idea to done faster",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNc1hnaURNdXZhTVBPcUZCLWFjZ2FqWW5zdm1LTWZ6WDExclJjMkh4S0FXQmEyVjFGbTBZNXdlcXpnREc0YjhoWUtpM1hyNTBiTmo3NHo4N1pZV3lwZ21YNnJGazk4QnU5NDlacmRNVll1V3JCQ201TTdPZ2RRc1cxN0V4bVdhbkg5Yk5YRVVKeUZwa2s?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "c3d816ac2a46",
+      "slug": "productivity-apps"
+    },
+    {
+      "keyword": "production",
+      "count": 5,
+      "score": 52.811807718949396,
       "proper": true,
       "niches": [
         "software"
       ],
       "examples": [
         {
-          "title": "What's happening to CBS News is what the tech oligarchs call \"parallel\" strategy. Buy an existing institution, gut it, and convert it into a right-wing zombie version of itself. They are doing this to",
-          "url": "https://journa.host/@gilduran/116683865616530771",
+          "title": "MacBook Neo Is So Popular That Apple Doubled Production",
+          "url": "https://www.macrumors.com/2026/06/03/macbook-neo-production-doubled-says-kuo/",
+          "source": "hackernews"
+        }
+      ],
+      "id": "ab8e18ef4ebe",
+      "slug": "production"
+    },
+    {
+      "keyword": "gaming keyboard",
+      "count": 27,
+      "score": 51.96389586350987,
+      "proper": false,
+      "niches": [
+        "ai",
+        "general"
+      ],
+      "examples": [
+        {
+          "title": "Ducky's Year of the Horse gaming keyboard, as expected, has a huge horse covering most of the keys",
+          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQUkVuYWhlaEstNXc0U0tjdmRYWHNwMU9paHFHaDhBaXhHbTQ5R1V0aUhYcExTSnlNU2JHdmwwQ0d1eHpIS0ptWDYyWDRMUGkzU2pMWVNnUXk0WS1rOFNKdS11MjZ3YkpNNUtoR1lxai1kUmZJUVRGcjhGbTRCeXRYNWJQZkN1Njdmc0N4N3lUdVFldjBzcW5OcjVuV2U0dzlSMm5HX25DTFlITDlzbWdncHlISzdxSUdQeXozdEVnaGZFeWptNERrbnlid1U0SVg0enF3WEZEUG9TbGZtU3ExWFZoV2lNR1dxUzAxM1lFcmU4cHQwTEdJYQ?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "CHERRY XTRFY K63W Pro: World’s First Wireless 8K UWB Gaming Keyboard",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPaUVvNDItaFlBN3JLbFczTDhNdjhybktKZlpLSW5PS05sUS1Ud3NmNXU1c25abFpHY2prWDZONnRnR0FDLTltdWUxZEptZWd3NExRYjlZZnFtVzRLVnZveWFVS0hHSGtiVENieTN4RDBvY2YtME1xWkFaRjJQQTB1bFNESjFkTk4xTWFHOWtDU0s4V2FXXzZaa0ZQajhITUt2S1pF?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "CHERRY XTRFY K63W Pro: World’s First Wireless 8K UWB Gaming Keyboard",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPaUVvNDItaFlBN3JLbFczTDhNdjhybktKZlpLSW5PS05sUS1Ud3NmNXU1c25abFpHY2prWDZONnRnR0FDLTltdWUxZEptZWd3NExRYjlZZnFtVzRLVnZveWFVS0hHSGtiVENieTN4RDBvY2YtME1xWkFaRjJQQTB1bFNESjFkTk4xTWFHOWtDU0s4V2FXXzZaa0ZQajhITUt2S1pF?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Cherry XTRFY launches the world's first 8K ultra-wideband gaming keyboard",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMTdsZ2tNakJPWDVpcXo4c1E0a1JFTTN1SkVzRG5EdnFYcFZ4UVhHS2hybDRXX3RaQkNKS3hUU05OVnVEbWZyTTlXYlRSMjlGMl83TzloQjMyRFB6YkxIWUJzcGFwZXdnUGpvZ1NSZmZ6N0NNcTE1OFE1S2VhZllBVGcwZTB0WEI3ekx4cGVrUmRoNGZPT0I0MQ?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Cherry XTRFY launches the world's first 8K ultra-wideband gaming keyboard",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMTdsZ2tNakJPWDVpcXo4c1E0a1JFTTN1SkVzRG5EdnFYcFZ4UVhHS2hybDRXX3RaQkNKS3hUU05OVnVEbWZyTTlXYlRSMjlGMl83TzloQjMyRFB6YkxIWUJzcGFwZXdnUGpvZ1NSZmZ6N0NNcTE1OFE1S2VhZllBVGcwZTB0WEI3ekx4cGVrUmRoNGZPT0I0MQ?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "229ae79c17a3",
+      "slug": "gaming-keyboard"
+    }
+  ],
+  "opportunities": [
+    {
+      "keyword": "tech sovereignty",
+      "count": 11,
+      "score": 121.79649867986524,
+      "proper": true,
+      "niches": [
+        "software"
+      ],
+      "examples": [
+        {
+          "title": "Your digital future should be open, secure, and made in Europe. We are home to over 3 million open source developers across the EU. With our new Tech Sovereignty plan, we are taking concrete steps to ",
+          "url": "https://ec.social-network.europa.eu/@EUCommission/116686960335861976",
           "source": "mastodon"
         },
         {
-          "title": "What's happening to CBS News is what the tech oligarchs call \"parallel\" strategy. Buy an existing institution, gut it, and convert it into a right-wing zombie version of itself. They are doing this to",
-          "url": "https://journa.host/@gilduran/116683865616530771",
+          "title": "Your digital future should be open, secure, and made in Europe. We are home to over 3 million open source developers across the EU. With our new Tech Sovereignty plan, we are taking concrete steps to ",
+          "url": "https://ec.social-network.europa.eu/@EUCommission/116686960335861976",
           "source": "mastodon"
         },
         {
-          "title": "What's happening to CBS News is what the tech oligarchs call \"parallel\" strategy. \n\nBuy an existing institution, gut it, and convert it into a right-wing zombie version of itself. They are doing this ",
-          "url": "https://fed.brid.gy/r/https://bsky.app/profile/did:plc:waplkqr2wuy2c4qbge6h6ed4/post/3mne2l6gnok25",
-          "source": "mastodon"
-        },
-        {
-          "title": "What's happening to CBS News is what the tech oligarchs call \"parallel\" strategy. \n\nBuy an existing institution, gut it, and convert it into a right-wing zombie version of itself. They are doing this ",
-          "url": "https://fed.brid.gy/r/https://bsky.app/profile/did:plc:waplkqr2wuy2c4qbge6h6ed4/post/3mne2l6gnok25",
+          "title": "Today is the day: The European Commission is expected to publish the EU Tech Sovereignty Package.  🇪🇺And the demand is clear. When purchasing software products, European authorities must prioritize-",
+          "url": "https://mastodon.social/@Tutanota/116685879969751753",
           "source": "mastodon"
         }
       ],
-      "id": "45e68bda8464",
-      "slug": "cbs-news",
+      "id": "a5f39d90652a",
+      "slug": "tech-sovereignty",
       "opportunity": {
         "type": "niche-content",
         "recommended": "Publish niche guide for \"software\"; bundle into digital product later."
@@ -724,7 +775,7 @@
     {
       "keyword": "wellness briefing",
       "count": 11,
-      "score": 149.02122836090356,
+      "score": 119.21698268872287,
       "proper": true,
       "niches": [
         "ai"
@@ -754,166 +805,217 @@
       }
     },
     {
-      "keyword": "ground message",
-      "count": 8,
-      "score": 96.24979324434709,
+      "keyword": "data science",
+      "count": 22,
+      "score": 74.08483924227778,
       "proper": true,
       "niches": [
         "ai"
       ],
       "examples": [
         {
-          "title": "Air to Ground Message: OK. WE WILL UNLEASH THE FURRY. Area: Valparaiso, IN, USA Type: Boeing 737 MAX 9A: #a37aff9e0ae F: #fa9f8729936 #acars #vdlm2",
-          "url": "https://live.acarsdrama.com/@acarsdrama/116683531117865946",
-          "source": "mastodon"
+          "title": "12 Best AI for Coding Tools in 2026 (Vibecoding & Data Science)",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9uRXpOS19rZ1pvYWc2c0FDTDBhQUc5WFBXcUFpMGlnWWZzOGxpTXotX19Ja1dtdm9yV2RXM0tzX3MzVmNvNXlPdUJ2bjEtMTJMTVo5eDNR0gFWQVVfeXFMT25Fek5LX2tnWm9hZzZzQUNMMGFBRzlYUFdxQWkwaWdZZnM4bGlNei1fX0lrV212b3JXZFczS3NfczNWY281eU91QnZuMS0xMkxNWjl4M1E?oc=5",
+          "source": "gnews"
         },
         {
-          "title": "Air to Ground Message: OK. WE WILL UNLEASH THE FURRY. Area: Valparaiso, IN, USA Type: Boeing 737 MAX 9A: #a37aff9e0ae F: #fa9f8729936 #acars #vdlm2",
-          "url": "https://live.acarsdrama.com/@acarsdrama/116683531117865946",
-          "source": "mastodon"
+          "title": "12 Best AI for Coding Tools in 2026 (Vibecoding & Data Science)",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9uRXpOS19rZ1pvYWc2c0FDTDBhQUc5WFBXcUFpMGlnWWZzOGxpTXotX19Ja1dtdm9yV2RXM0tzX3MzVmNvNXlPdUJ2bjEtMTJMTVo5eDNR0gFWQVVfeXFMT25Fek5LX2tnWm9hZzZzQUNMMGFBRzlYUFdxQWkwaWdZZnM4bGlNei1fX0lrV212b3JXZFczS3NfczNWY281eU91QnZuMS0xMkxNWjl4M1E?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "12 Best AI for Coding Tools in 2026 (Vibecoding & Data Science)",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9uRXpOS19rZ1pvYWc2c0FDTDBhQUc5WFBXcUFpMGlnWWZzOGxpTXotX19Ja1dtdm9yV2RXM0tzX3MzVmNvNXlPdUJ2bjEtMTJMTVo5eDNR0gFWQVVfeXFMT25Fek5LX2tnWm9hZzZzQUNMMGFBRzlYUFdxQWkwaWdZZnM4bGlNei1fX0lrV212b3JXZFczS3NfczNWY281eU91QnZuMS0xMkxNWjl4M1E?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "11 Best AI Coding Tools for Data Science & ML in 2026",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPaHBGOWZOaERaNVMxVVpPTU9FU1VaMnJ3WkZvMUtUd1MwaGtUQThJZE1nNnNsN25ZemFPZXpUZ1pEdG10NjhhNEx1MnBLTWZOMVg1WUd2MEhzeXM0eWZuOWc3cVgwYkRHUXpYTUF4ZnR0dzlsYmhoVnpKRDd4RjFqRkw4RTE?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "11 Best AI Coding Tools for Data Science & ML in 2026",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPaHBGOWZOaERaNVMxVVpPTU9FU1VaMnJ3WkZvMUtUd1MwaGtUQThJZE1nNnNsN25ZemFPZXpUZ1pEdG10NjhhNEx1MnBLTWZOMVg1WUd2MEhzeXM0eWZuOWc3cVgwYkRHUXpYTUF4ZnR0dzlsYmhoVnpKRDd4RjFqRkw4RTE?oc=5",
+          "source": "gnews"
         }
       ],
-      "id": "f1551c0406af",
-      "slug": "ground-message",
+      "id": "aa90a6f24112",
+      "slug": "data-science",
       "opportunity": {
         "type": "niche-content",
         "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
       }
     },
     {
-      "keyword": "usa type",
-      "count": 8,
-      "score": 96.24979324434709,
-      "proper": true,
+      "keyword": "oss project",
+      "count": 6,
+      "score": 67.7077365526152,
+      "proper": false,
       "niches": [
         "ai"
       ],
       "examples": [
         {
-          "title": "Air to Ground Message: OK. WE WILL UNLEASH THE FURRY. Area: Valparaiso, IN, USA Type: Boeing 737 MAX 9A: #a37aff9e0ae F: #fa9f8729936 #acars #vdlm2",
-          "url": "https://live.acarsdrama.com/@acarsdrama/116683531117865946",
+          "title": "It is okay to release a F/OSS project where the expected set of users is you.It is okay to declare that a F/OSS project that you maintain is feature complete and stop.It is okay to stop writing new co",
+          "url": "https://infosec.exchange/@david_chisnall/116686294283987486",
           "source": "mastodon"
         },
         {
-          "title": "Air to Ground Message: OK. WE WILL UNLEASH THE FURRY. Area: Valparaiso, IN, USA Type: Boeing 737 MAX 9A: #a37aff9e0ae F: #fa9f8729936 #acars #vdlm2",
-          "url": "https://live.acarsdrama.com/@acarsdrama/116683531117865946",
+          "title": "It is okay to release a F/OSS project where the expected set of users is you.It is okay to declare that a F/OSS project that you maintain is feature complete and stop.It is okay to stop writing new co",
+          "url": "https://infosec.exchange/@david_chisnall/116686294283987486",
           "source": "mastodon"
         }
       ],
-      "id": "a51ac65e172c",
-      "slug": "usa-type",
+      "id": "6b54b572e0a4",
+      "slug": "oss-project",
       "opportunity": {
-        "type": "niche-content",
-        "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
+        "type": "affiliate",
+        "recommended": "Write SEO comparison/roundup article with affiliate links."
       }
     },
     {
-      "keyword": "stanford law",
-      "count": 8,
-      "score": 93.56126246793437,
+      "keyword": "side",
+      "count": 23,
+      "score": 67.45746993436948,
       "proper": true,
       "niches": [
-        "ai"
+        "finance",
+        "ai",
+        "software"
       ],
       "examples": [
         {
-          "title": "AI outperforms law professors in Stanford Law study",
-          "url": "https://law.stanford.edu/press/ai-outperforms-law-professors-in-stanford-law-study/",
-          "source": "hackernews"
+          "title": "6 side hustle businesses you can launch with $0",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONzdLLVdBSkp5bUlVMVVvR040ZEtEQWdZZWJSTzZzREZfSlo1Q19OcXZsLTNXWnhId3YwVUhHZkYtdW1ySEpkRVFzS0h1bFc4blhhbWVBb3lUemNJZHFfdFMzTklhOFVpb0Y4SldrZVJ0cnMxTlNJU1FNN3JKRXc0WkZVRmlQSkswMVE?oc=5",
+          "source": "gnews"
         },
         {
-          "title": "AI outperforms law professors in Stanford Law study",
-          "url": "https://law.stanford.edu/press/ai-outperforms-law-professors-in-stanford-law-study/",
-          "source": "hackernews"
+          "title": "6 side hustle businesses you can launch with $0",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONzdLLVdBSkp5bUlVMVVvR040ZEtEQWdZZWJSTzZzREZfSlo1Q19OcXZsLTNXWnhId3YwVUhHZkYtdW1ySEpkRVFzS0h1bFc4blhhbWVBb3lUemNJZHFfdFMzTklhOFVpb0Y4SldrZVJ0cnMxTlNJU1FNN3JKRXc0WkZVRmlQSkswMVE?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "How To Use ChatGPT To Launch A Travel Side Hustle This Summer",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORGhBZ21jbkpIUDRDZ2Y3dzhMUTJ6V2ZPSXM4ZUljUVhrcjNBbHBidmQ2ekJjWHRndGN5NEM5c1Jpai03cDlCZzlDckUtUk9HYkNTYmt0WHhWVWRuUG45RDB0UUt6cTNsQm0xeWNSQjgybFpvM3RRT3BRejFaQmNCNUNMM1RVS2M?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "How To Use ChatGPT To Launch A Travel Side Hustle This Summer",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORGhBZ21jbkpIUDRDZ2Y3dzhMUTJ6V2ZPSXM4ZUljUVhrcjNBbHBidmQ2ekJjWHRndGN5NEM5c1Jpai03cDlCZzlDckUtUk9HYkNTYmt0WHhWVWRuUG45RDB0UUt6cTNsQm0xeWNSQjgybFpvM3RRT3BRejFaQmNCNUNMM1RVS2M?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "20 Realistic Ways to Make Money on the Side",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE12ZTRWMFVPY0t0N0dxdGtySTl3dl9vRkFwTTVINE0wWjd4WXpwWUN0eWo1cFR4ejhkRTVxRWFQbVg1M3p6WG5TLU95NFZSN3AxQWV2MldiTVRMd1R6RU9ITld4bXF1S1BVWlE?oc=5",
+          "source": "gnews"
         }
       ],
-      "id": "e5165d7d20c3",
-      "slug": "stanford-law",
+      "id": "ea7bf4bb7230",
+      "slug": "side",
       "opportunity": {
         "type": "niche-content",
-        "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
+        "recommended": "Publish niche guide for \"finance\"; bundle into digital product later."
       }
     },
     {
-      "keyword": "watt toolkit",
+      "keyword": "vscode bug",
       "count": 8,
-      "score": 89.10750137022185,
+      "score": 67.101823597276,
       "proper": true,
       "niches": [
         "software"
       ],
       "examples": [
         {
-          "title": "tools-lua/steam-tools — steam tools steamtools github download  lua tools manifest  official client backup mirror beyonddimension archive proxy lua manifest generator Watt Toolkit」是一个开源跨平台的多功能 Steam 工",
-          "url": "https://github.com/tools-lua/steam-tools",
-          "source": "github"
+          "title": "1-Click GitHub Token Stealing via a VSCode Bug",
+          "url": "https://blog.ammaraskar.com/github-token-stealing/",
+          "source": "hackernews"
         },
         {
-          "title": "tools-lua/steam-tools — steam tools steamtools github download  lua tools manifest  official client backup mirror beyonddimension archive proxy lua manifest generator Watt Toolkit」是一个开源跨平台的多功能 Steam 工",
-          "url": "https://github.com/tools-lua/steam-tools",
-          "source": "github"
+          "title": "1-Click GitHub Token Stealing via a VSCode Bug",
+          "url": "https://blog.ammaraskar.com/github-token-stealing/",
+          "source": "hackernews"
         }
       ],
-      "id": "6c5fde772f8c",
-      "slug": "watt-toolkit",
+      "id": "fb3ba035cfba",
+      "slug": "vscode-bug",
       "opportunity": {
         "type": "affiliate",
         "recommended": "Write SEO comparison/roundup article with affiliate links."
       }
     },
     {
-      "keyword": "agentic mfw",
-      "count": 8,
-      "score": 88.35955183349688,
+      "keyword": "flight simulator",
+      "count": 11,
+      "score": 64.82423433699304,
       "proper": true,
       "niches": [
-        "ai"
+        "software"
       ],
       "examples": [
         {
-          "title": "Agentic Mfw",
-          "url": "https://agenticmotherfucking.website",
-          "source": "hackernews"
+          "title": "New auxiliary display for Flight Simulator, sim racing and productivity apps unveiled",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVHhJWE9tTFRKaEE1ZUdYejhWVlZITHAxRVNROFcydmpMbnpZQS1KYzdjV3ZVVU9vTDAzN01uV2dFcjZRUXFER3dQeDROMDNVZF80Szl5N2Q0RmVtU2IzRzluYWthQ2NaQVZaaTJJby0tQlBUMWc5UEhtUURIV3NQUnQ5NHZENEdaN1NGRjJ1ZXhnWnNnMWJqbHR1dllqRl81dU96cTFoQmF2SW1tS1A3M29ad2NZWktJWUpIc2pXZzN5dmFRUzRPNA?oc=5",
+          "source": "gnews"
         },
         {
-          "title": "Agentic Mfw",
-          "url": "https://agenticmotherfucking.website",
-          "source": "hackernews"
-        }
-      ],
-      "id": "f33afeae6bc8",
-      "slug": "agentic-mfw",
-      "opportunity": {
-        "type": "niche-content",
-        "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
-      }
-    },
-    {
-      "keyword": "tools",
-      "count": 10,
-      "score": 85.4197269249148,
-      "proper": true,
-      "niches": [
-        "software",
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "Fidonet: Technology, Use, Tools, and History (1993)",
-          "url": "https://www.fidonet.org/inet92_Randy_Bush.txt",
-          "source": "hackernews"
+          "title": "New auxiliary display for Flight Simulator, sim racing and productivity apps unveiled",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVHhJWE9tTFRKaEE1ZUdYejhWVlZITHAxRVNROFcydmpMbnpZQS1KYzdjV3ZVVU9vTDAzN01uV2dFcjZRUXFER3dQeDROMDNVZF80Szl5N2Q0RmVtU2IzRzluYWthQ2NaQVZaaTJJby0tQlBUMWc5UEhtUURIV3NQUnQ5NHZENEdaN1NGRjJ1ZXhnWnNnMWJqbHR1dllqRl81dU96cTFoQmF2SW1tS1A3M29ad2NZWktJWUpIc2pXZzN5dmFRUzRPNA?oc=5",
+          "source": "gnews"
         },
         {
-          "title": "10 Best AI Face Swap Tools & Apps in 2026 (Free & Paid)",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9ld1JqQjlqWUM5c1dHT1k5WkVEcThZNEM5eXpFRlVsd3huUHFpd0VtcHF1UGoyR01oRHZuajdKZUxnSjlzekVtdDRjN2w0dEFUeVB5LWRkYlZKQTNE0gFcQVVfeXFMT2V3UmpCOWpZQzlzV0dPWTlaRURxOFk0Qzl5ekVGVWx3eG5QcWl3RW1wcXVQajJHTWhEdm5qN0plTGdKOXN6RW10NGM3bDR0QVR5UHktZGRiVkpBM0Q?oc=5",
+          "title": "New auxiliary display for Flight Simulator, sim racing and productivity apps unveiled",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVHhJWE9tTFRKaEE1ZUdYejhWVlZITHAxRVNROFcydmpMbnpZQS1KYzdjV3ZVVU9vTDAzN01uV2dFcjZRUXFER3dQeDROMDNVZF80Szl5N2Q0RmVtU2IzRzluYWthQ2NaQVZaaTJJby0tQlBUMWc5UEhtUURIV3NQUnQ5NHZENEdaN1NGRjJ1ZXhnWnNnMWJqbHR1dllqRl81dU96cTFoQmF2SW1tS1A3M29ad2NZWktJWUpIc2pXZzN5dmFRUzRPNA?oc=5",
           "source": "gnews"
         }
       ],
-      "id": "f9d35d43770d",
-      "slug": "tools",
+      "id": "1f16f19af453",
+      "slug": "flight-simulator",
       "opportunity": {
-        "type": "affiliate",
-        "recommended": "Write SEO comparison/roundup article with affiliate links."
+        "type": "niche-content",
+        "recommended": "Publish niche guide for \"software\"; bundle into digital product later."
+      }
+    },
+    {
+      "keyword": "claude",
+      "count": 10,
+      "score": 61.41814584485164,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "ChatGPT vs Claude vs Gemini: Which AI Is Best?",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1TTGpXM1BWTGllMVNFTXRLemlzUXEtZ3NpMXVmbS1IVmhlNGpTM0NxeVpsaTNmVzRXYlhCYkViRUJLbFMzX3VXTzNneUtWb3VyQ0ZuUU1HOXRabU5FQTUtbnZIbGpLS1VlUVd6WHBLRl8?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "ChatGPT vs Claude vs Gemini: Which AI Is Best?",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1TTGpXM1BWTGllMVNFTXRLemlzUXEtZ3NpMXVmbS1IVmhlNGpTM0NxeVpsaTNmVzRXYlhCYkViRUJLbFMzX3VXTzNneUtWb3VyQ0ZuUU1HOXRabU5FQTUtbnZIbGpLS1VlUVd6WHBLRl8?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "ChatGPT vs Claude vs Gemini: Which AI Is Best?",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1TTGpXM1BWTGllMVNFTXRLemlzUXEtZ3NpMXVmbS1IVmhlNGpTM0NxeVpsaTNmVzRXYlhCYkViRUJLbFMzX3VXTzNneUtWb3VyQ0ZuUU1HOXRabU5FQTUtbnZIbGpLS1VlUVd6WHBLRl8?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "The Claude skill I built for myself is the only productivity hack that stuck",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOV081b0ZNOW9QNHBURTVQbERoUzZGWHBtTEloalRabTN0ZUVKaV9IYVZSb3EySHpIcUstOWUxUmR1bUw2Nmdyd1hsOHpxdE53QlN2ejBNaGthT2hTTlJaaG1wRWRzc1hsZm5wLXNEZ0hsUFJLbEt6Y3RTdjZ3Rk93RHBReHFuLVM0cWpKWFF6Y0FpWXgtQTR1OHN6VTNid1BSaWxoXzB4NnM2MUlO?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "The Claude skill I built for myself is the only productivity hack that stuck",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOV081b0ZNOW9QNHBURTVQbERoUzZGWHBtTEloalRabTN0ZUVKaV9IYVZSb3EySHpIcUstOWUxUmR1bUw2Nmdyd1hsOHpxdE53QlN2ejBNaGthT2hTTlJaaG1wRWRzc1hsZm5wLXNEZ0hsUFJLbEt6Y3RTdjZ3Rk93RHBReHFuLVM0cWpKWFF6Y0FpWXgtQTR1OHN6VTNid1BSaWxoXzB4NnM2MUlO?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "c857d09db23e",
+      "slug": "claude",
+      "opportunity": {
+        "type": "tooling",
+        "recommended": "Build / list AI tools; monetize via affiliate links + lead magnet."
       }
     }
   ]
