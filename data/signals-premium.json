@@ -1,148 +1,115 @@
 {
-  "generatedAt": "2026-06-03T17:59:01.564Z",
-  "sourceCount": 203,
+  "generatedAt": "2026-06-03T19:42:00.992Z",
+  "sourceCount": 201,
   "topItems": [
-    {
-      "title": "It is okay to release a F/OSS project where the expected set of users is you.It is okay to declare that a F/OSS project that you maintain is feature complete and stop.It is okay to stop writing new co",
-      "url": "https://infosec.exchange/@david_chisnall/116686294283987486",
-      "score": 11.28,
-      "niche": "ai",
-      "source": "mastodon",
-      "engagement": {
-        "score": 485,
-        "comments": 15
-      }
-    },
     {
       "title": "Gemma 4 12B: A unified, encoder-free multimodal model",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/",
-      "score": 9.83,
+      "score": 10.63,
       "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 269,
-        "comments": 99
+        "score": 450,
+        "comments": 162
       }
     },
     {
       "title": "something I'm finding frustrating recently isa) I feel like LLMs have helped me learn some programming things that were hard for me to learn previouslyb) I'm tired of LLMs being relentlessly pushed on",
       "url": "https://social.jvns.ca/@b0rk/116686717106120965",
-      "score": 9.63,
+      "score": 9.89,
       "niche": "ai",
       "source": "mastodon",
       "engagement": {
-        "score": 355,
-        "comments": 29
+        "score": 418,
+        "comments": 34
       }
     },
     {
-      "title": "I built a ceiling projection mapping of the planes flying over my house",
-      "url": "https://old.reddit.com/r/nextfuckinglevel/comments/1tvmcin/i_live_in_the_take_off_path_of_sfo_and_built_a/",
-      "score": 9.52,
+      "title": "MacBook Neo Is So Popular That Apple Doubled Production",
+      "url": "https://www.macrumors.com/2026/06/03/macbook-neo-production-doubled-says-kuo/",
+      "score": 9.54,
       "niche": "software",
       "source": "hackernews",
       "engagement": {
-        "score": 172,
-        "comments": 24
-      }
-    },
-    {
-      "title": "32GB of DDR5 now costs $375 – AI shortage continues to squeeze PC building",
-      "url": "https://www.tomshardware.com/pc-components/ddr5/32gb-of-ddr5-now-costs-usd375-minimum-ai-shortage-continues-to-squeeze-pc-building",
-      "score": 9.25,
-      "niche": "ai",
-      "source": "hackernews",
-      "engagement": {
-        "score": 261,
-        "comments": 259
+        "score": 166,
+        "comments": 125
       }
     },
     {
       "title": "cpaczek/skylight — Project the aircraft passing overhead onto your ceiling in real time, from an RTL-SDR — with a live sky layer (sun, moon, stars, ISS) and where each plane is headed.",
       "url": "https://github.com/cpaczek/skylight",
-      "score": 9.08,
+      "score": 9.29,
       "niche": "ai",
       "source": "github",
       "engagement": {
-        "score": 534,
+        "score": 616,
         "comments": 0
       }
     },
     {
       "title": "We just released the first beta version of Mastodon 4.6 🎉Highlights for this release are the profile page redesign and the ability to create curated Collections of Mastodon accounts, but it contains ",
       "url": "https://mastodon.social/@MastodonEngineering/116687014689391748",
-      "score": 8.58,
+      "score": 9.12,
       "niche": "ai",
       "source": "mastodon",
       "engagement": {
-        "score": 204,
-        "comments": 5
+        "score": 286,
+        "comments": 7
       }
     },
     {
-      "title": "My Siberian Husky's fess. She always leaves one meaty of her dinner behind in the bowl and steps back as the cat approaches at eats that bit. I think it's a mutual agreement they seem to have with eac",
-      "url": "https://mastodon.social/@fesshole/116686376562874133",
-      "score": 8.35,
-      "niche": "software",
-      "source": "mastodon",
+      "title": "Uber's $1,500/month AI limit is a useful signal for AI tool pricing",
+      "url": "https://simonwillison.net/2026/Jun/3/uber-caps-usage/",
+      "score": 9.07,
+      "niche": "ai",
+      "source": "hackernews",
       "engagement": {
-        "score": 190,
-        "comments": 3
+        "score": 153,
+        "comments": 188
       }
     },
     {
       "title": "The @EUCommission just released a statement positioning open source as central to #Europe’s #TechSovereignty.We couldn’t agree more. #OpenSource is critical to a robust and independent society.Here’s ",
       "url": "https://mastodon.social/@Mastodon/116686738841941842",
-      "score": 8.11,
+      "score": 8.38,
       "niche": "software",
       "source": "mastodon",
       "engagement": {
-        "score": 770,
-        "comments": 7
-      }
-    },
-    {
-      "title": "“We’re spending more on tokens than it would cost to have a person do this.”- real thing, said out loud, to me, yesterday",
-      "url": "https://mastodon.world/@paninid/116686657181541916",
-      "score": 7.78,
-      "niche": "ai",
-      "source": "mastodon",
-      "engagement": {
-        "score": 236,
-        "comments": 16
-      }
-    },
-    {
-      "title": "MAI-Code-1-Flash",
-      "url": "https://microsoft.ai/news/introducingmai-code-1-flash/",
-      "score": 7.69,
-      "niche": "ai",
-      "source": "hackernews",
-      "engagement": {
-        "score": 519,
-        "comments": 243
-      }
-    },
-    {
-      "title": "this email could have been a pay rise.",
-      "url": "https://infosec.exchange/@i0null/116686604657925818",
-      "score": 7.65,
-      "niche": "ai",
-      "source": "mastodon",
-      "engagement": {
-        "score": 237,
-        "comments": 4
+        "score": 961,
+        "comments": 10
       }
     },
     {
       "title": "Your digital future should be open, secure, and made in Europe. We are home to over 3 million open source developers across the EU. With our new Tech Sovereignty plan, we are taking concrete steps to ",
       "url": "https://ec.social-network.europa.eu/@EUCommission/116686960335861976",
-      "score": 7.58,
+      "score": 7.97,
       "niche": "software",
       "source": "mastodon",
       "engagement": {
-        "score": 201,
-        "comments": 12
+        "score": 269,
+        "comments": 14
+      }
+    },
+    {
+      "title": "Happy #PrideMonth ! I drew some #Poly #Yuri .#Polyamorous #Pride #LGBT #LGBTQ",
+      "url": "https://vt.social/@ExpiredPopsicle/116687482692933271",
+      "score": 7.94,
+      "niche": "software",
+      "source": "mastodon",
+      "engagement": {
+        "score": 279,
+        "comments": 6
+      }
+    },
+    {
+      "title": "32GB of DDR5 now costs $375 – AI shortage continues to squeeze PC building",
+      "url": "https://www.tomshardware.com/pc-components/ddr5/32gb-of-ddr5-now-costs-usd375-minimum-ai-shortage-continues-to-squeeze-pc-building",
+      "score": 7.55,
+      "niche": "ai",
+      "source": "hackernews",
+      "engagement": {
+        "score": 313,
+        "comments": 286
       }
     },
     {
@@ -157,102 +124,124 @@
       }
     },
     {
-      "title": "MacBook Neo Is So Popular That Apple Doubled Production",
-      "url": "https://www.macrumors.com/2026/06/03/macbook-neo-production-doubled-says-kuo/",
+      "title": "I've noted elsewhere I was gifted a pair of Meta glasses and they haven't left their box, not only for the privacy implications outlined in the this video, but because of all the companies I want to s",
+      "url": "https://mastodon.social/@scalzi/116687329066602627",
       "score": 7.04,
-      "niche": "software",
-      "source": "hackernews",
-      "engagement": {
-        "score": 45,
-        "comments": 20
-      }
-    },
-    {
-      "title": "Today is the day: The European Commission is expected to publish the EU Tech Sovereignty Package.  🇪🇺And the demand is clear. When purchasing software products, European authorities must prioritize-",
-      "url": "https://mastodon.social/@Tutanota/116685879969751753",
-      "score": 6.85,
-      "niche": "software",
+      "niche": "ai",
       "source": "mastodon",
       "engagement": {
-        "score": 420,
-        "comments": 18
+        "score": 132,
+        "comments": 13
       }
     },
     {
-      "title": "If AI data centers are so great, why are they being built in secret?",
-      "url": "https://www.thebrockovichreport.com/p/if-data-centers-are-so-great-why",
-      "score": 6.84,
-      "niche": "ai",
-      "source": "hackernews",
+      "title": "Adult gaming routine:✓ Spend 8 hours earning money✓ Spend 1 hour deciding what to play✓ Start a game✓ Play through exactly one loading screen & 10 mins✓ Suddenly remember you're 40+ and exhausted✓ Clo",
+      "url": "https://mastodon.social/@nixCraft/116687647323839962",
+      "score": 7.03,
+      "niche": "finance",
+      "source": "mastodon",
       "engagement": {
-        "score": 56,
-        "comments": 40
+        "score": 173,
+        "comments": 23
       }
     },
     {
       "title": "Putting art on your wall transforms those ordinary moments when you're just walking past into tiny moments of joy – like discovering a twenty in an old jacket, except it happens every single time you ",
       "url": "https://mastodon.social/@warandpeas/116687018169871678",
-      "score": 6.73,
+      "score": 6.99,
       "niche": "software",
       "source": "mastodon",
       "engagement": {
-        "score": 120,
+        "score": 145,
         "comments": 1
       }
     },
     {
-      "title": "Robotaxis don't cut traffic any more than ride-hailing, study findsData shows Waymo's robotaxis are empty for almost half of the miles they drive.https://arstechnica.com/cars/2026/06/robotaxis-dont-cu",
-      "url": "https://mastodon.social/@arstechnica/116686825077177223",
-      "score": 6.68,
+      "title": "1/7 We just proved corporate bullies are not above the law!Big Oil bully Energy Transfer and its Trump-donating Chairman just got handed a massive reality check in court. Today, @greenpeace won the pr",
+      "url": "https://mastodon.social/@greenpeace/116687536659932781",
+      "score": 6.72,
       "niche": "ai",
       "source": "mastodon",
       "engagement": {
-        "score": 101,
-        "comments": 10
+        "score": 62,
+        "comments": 2
+      }
+    },
+    {
+      "title": "Mathematicians issue warning as AI rapidly gains ground",
+      "url": "https://www.science.org/content/article/mathematicians-issue-warning-ai-rapidly-gains-ground",
+      "score": 6.47,
+      "niche": "ai",
+      "source": "hackernews",
+      "engagement": {
+        "score": 93,
+        "comments": 122
       }
     },
     {
       "title": "Hacking your PC using your speaker without ever touching it",
       "url": "https://blog.nns.ee/2026/06/03/katana-badusb/",
-      "score": 6.32,
+      "score": 6.41,
       "niche": "gear",
       "source": "hackernews",
       "engagement": {
-        "score": 499,
-        "comments": 83
+        "score": 541,
+        "comments": 92
       }
     },
     {
       "title": "rsync and outrage",
       "url": "https://medium.com/@tridge60/rsync-and-outrage-d9849599e5a0",
-      "score": 6.2,
+      "score": 6.32,
       "niche": "ai",
       "source": "lobsters",
       "engagement": {
-        "score": 82,
-        "comments": 90
-      }
-    },
-    {
-      "title": "I've noted elsewhere I was gifted a pair of Meta glasses and they haven't left their box, not only for the privacy implications outlined in the this video, but because of all the companies I want to s",
-      "url": "https://mastodon.social/@scalzi/116687329066602627",
-      "score": 5.98,
-      "niche": "ai",
-      "source": "mastodon",
-      "engagement": {
-        "score": 57,
-        "comments": 8
+        "score": 87,
+        "comments": 103
       }
     },
     {
       "title": ".furry - A Top-Level Domain for furries",
       "url": "https://www.dotfurry.org/",
-      "score": 5.97,
+      "score": 6.17,
       "niche": "ai",
       "source": "lobsters",
       "engagement": {
-        "score": 46,
-        "comments": 30
+        "score": 54,
+        "comments": 35
+      }
+    },
+    {
+      "title": "Launch HN: Hyper (YC P26) – Company brain to power agentic development",
+      "url": "https://news.ycombinator.com/item?id=48387095",
+      "score": 5.92,
+      "niche": "ai",
+      "source": "hackernews",
+      "engagement": {
+        "score": 26,
+        "comments": 22
+      }
+    },
+    {
+      "title": "Best of Computex 2026: The 17 greatest gadgets from the world’s largest computing show",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4za2xLTHNNdC1VQ1FsVXJkTkRkRDRacjhZREVIZ19CVk1lZWIxMFlZRzhSZVdCLVFsR2NmVGVWOTJrYTh3bFBxV3ZTZlBJWHBpa2lqb09LS0FvUWpWOFgybWEtNVNSZFI5?oc=5",
+      "score": 5.87,
+      "niche": "gear",
+      "source": "gnews",
+      "engagement": {
+        "score": 40,
+        "comments": 0
+      }
+    },
+    {
+      "title": "1-Click GitHub Token Stealing via a VSCode Bug",
+      "url": "https://blog.ammaraskar.com/github-token-stealing/",
+      "score": 5.62,
+      "niche": "software",
+      "source": "hackernews",
+      "engagement": {
+        "score": 616,
+        "comments": 95
       }
     },
     {
@@ -267,45 +256,66 @@
       }
     },
     {
-      "title": "1-Click GitHub Token Stealing via a VSCode Bug",
-      "url": "https://blog.ammaraskar.com/github-token-stealing/",
-      "score": 5.59,
+      "title": "How turkey hacked the hair-transplant industry",
+      "url": "https://www.wired.com/story/how-turkey-hacked-the-hair-transplant-industry/",
+      "score": 5.54,
+      "niche": "ai",
+      "source": "hackernews",
+      "engagement": {
+        "score": 83,
+        "comments": 119
+      }
+    },
+    {
+      "title": "Gooey: A GPU-accelerated UI framework for Zig",
+      "url": "https://github.com/duanebester/gooey",
+      "score": 5.37,
       "niche": "software",
       "source": "hackernews",
       "engagement": {
-        "score": 603,
-        "comments": 90
+        "score": 66,
+        "comments": 8
       }
     }
   ],
   "topics": [
     {
-      "keyword": "tech sovereignty",
-      "count": 11,
-      "score": 121.79649867986524,
+      "keyword": "sleep",
+      "count": 18,
+      "score": 140.21542850321376,
       "proper": true,
       "niches": [
-        "software"
+        "gear"
       ],
       "examples": [
         {
-          "title": "Your digital future should be open, secure, and made in Europe. We are home to over 3 million open source developers across the EU. With our new Tech Sovereignty plan, we are taking concrete steps to ",
-          "url": "https://ec.social-network.europa.eu/@EUCommission/116686960335861976",
-          "source": "mastodon"
+          "title": "The 10 Best Sleep Gadgets on Amazon for Getting a Good Night’s Sleep",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYVVYdDdEUUVXSTJqR096RXV5NzgwQUJ0X1NGaE5mZFoxOWhjNDR5MURvMld3WHNhNlh4aDBueDR0by1lR2VIeV9CazRzTll0eDdyeHNtZTZDOWpXbTZUOEhUd09GR2ZWNUpSeGw4TE1ZVnRGemVQcDdBWFE4MkNHejZ3R3I0azNfa3poQ1lPNkZWSXR2YzZr?oc=5",
+          "source": "gnews"
         },
         {
-          "title": "Your digital future should be open, secure, and made in Europe. We are home to over 3 million open source developers across the EU. With our new Tech Sovereignty plan, we are taking concrete steps to ",
-          "url": "https://ec.social-network.europa.eu/@EUCommission/116686960335861976",
-          "source": "mastodon"
+          "title": "The 10 Best Sleep Gadgets on Amazon for Getting a Good Night’s Sleep",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYVVYdDdEUUVXSTJqR096RXV5NzgwQUJ0X1NGaE5mZFoxOWhjNDR5MURvMld3WHNhNlh4aDBueDR0by1lR2VIeV9CazRzTll0eDdyeHNtZTZDOWpXbTZUOEhUd09GR2ZWNUpSeGw4TE1ZVnRGemVQcDdBWFE4MkNHejZ3R3I0azNfa3poQ1lPNkZWSXR2YzZr?oc=5",
+          "source": "gnews"
         },
         {
-          "title": "Today is the day: The European Commission is expected to publish the EU Tech Sovereignty Package.  🇪🇺And the demand is clear. When purchasing software products, European authorities must prioritize-",
-          "url": "https://mastodon.social/@Tutanota/116685879969751753",
-          "source": "mastodon"
+          "title": "The 10 Best Sleep Gadgets on Amazon for Getting a Good Night’s Sleep",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYVVYdDdEUUVXSTJqR096RXV5NzgwQUJ0X1NGaE5mZFoxOWhjNDR5MURvMld3WHNhNlh4aDBueDR0by1lR2VIeV9CazRzTll0eDdyeHNtZTZDOWpXbTZUOEhUd09GR2ZWNUpSeGw4TE1ZVnRGemVQcDdBWFE4MkNHejZ3R3I0azNfa3poQ1lPNkZWSXR2YzZr?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "The 10 Best Sleep Gadgets on Amazon for Getting a Good Night’s Sleep",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYVVYdDdEUUVXSTJqR096RXV5NzgwQUJ0X1NGaE5mZFoxOWhjNDR5MURvMld3WHNhNlh4aDBueDR0by1lR2VIeV9CazRzTll0eDdyeHNtZTZDOWpXbTZUOEhUd09GR2ZWNUpSeGw4TE1ZVnRGemVQcDdBWFE4MkNHejZ3R3I0azNfa3poQ1lPNkZWSXR2YzZr?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "The 10 Best Sleep Gadgets on Amazon for Getting a Good Night’s Sleep",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYVVYdDdEUUVXSTJqR096RXV5NzgwQUJ0X1NGaE5mZFoxOWhjNDR5MURvMld3WHNhNlh4aDBueDR0by1lR2VIeV9CazRzTll0eDdyeHNtZTZDOWpXbTZUOEhUd09GR2ZWNUpSeGw4TE1ZVnRGemVQcDdBWFE4MkNHejZ3R3I0azNfa3poQ1lPNkZWSXR2YzZr?oc=5",
+          "source": "gnews"
         }
       ],
-      "id": "a5f39d90652a",
-      "slug": "tech-sovereignty"
+      "id": "0afa5bb5d5f1",
+      "slug": "sleep"
     },
     {
       "keyword": "wellness briefing",
@@ -334,6 +344,29 @@
       ],
       "id": "27d0c1986522",
       "slug": "wellness-briefing"
+    },
+    {
+      "keyword": "tech sovereignty",
+      "count": 8,
+      "score": 95.6037164439065,
+      "proper": true,
+      "niches": [
+        "software"
+      ],
+      "examples": [
+        {
+          "title": "Your digital future should be open, secure, and made in Europe. We are home to over 3 million open source developers across the EU. With our new Tech Sovereignty plan, we are taking concrete steps to ",
+          "url": "https://ec.social-network.europa.eu/@EUCommission/116686960335861976",
+          "source": "mastodon"
+        },
+        {
+          "title": "Your digital future should be open, secure, and made in Europe. We are home to over 3 million open source developers across the EU. With our new Tech Sovereignty plan, we are taking concrete steps to ",
+          "url": "https://ec.social-network.europa.eu/@EUCommission/116686960335861976",
+          "source": "mastodon"
+        }
+      ],
+      "id": "a5f39d90652a",
+      "slug": "tech-sovereignty"
     },
     {
       "keyword": "data science",
@@ -374,72 +407,27 @@
       "slug": "data-science"
     },
     {
-      "keyword": "oss project",
-      "count": 6,
-      "score": 67.7077365526152,
-      "proper": false,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "It is okay to release a F/OSS project where the expected set of users is you.It is okay to declare that a F/OSS project that you maintain is feature complete and stop.It is okay to stop writing new co",
-          "url": "https://infosec.exchange/@david_chisnall/116686294283987486",
-          "source": "mastodon"
-        },
-        {
-          "title": "It is okay to release a F/OSS project where the expected set of users is you.It is okay to declare that a F/OSS project that you maintain is feature complete and stop.It is okay to stop writing new co",
-          "url": "https://infosec.exchange/@david_chisnall/116686294283987486",
-          "source": "mastodon"
-        }
-      ],
-      "id": "6b54b572e0a4",
-      "slug": "oss-project"
-    },
-    {
-      "keyword": "side",
-      "count": 23,
-      "score": 67.45746993436948,
+      "keyword": "production",
+      "count": 5,
+      "score": 71.52971430078358,
       "proper": true,
       "niches": [
-        "finance",
-        "ai",
         "software"
       ],
       "examples": [
         {
-          "title": "6 side hustle businesses you can launch with $0",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONzdLLVdBSkp5bUlVMVVvR040ZEtEQWdZZWJSTzZzREZfSlo1Q19OcXZsLTNXWnhId3YwVUhHZkYtdW1ySEpkRVFzS0h1bFc4blhhbWVBb3lUemNJZHFfdFMzTklhOFVpb0Y4SldrZVJ0cnMxTlNJU1FNN3JKRXc0WkZVRmlQSkswMVE?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "6 side hustle businesses you can launch with $0",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONzdLLVdBSkp5bUlVMVVvR040ZEtEQWdZZWJSTzZzREZfSlo1Q19OcXZsLTNXWnhId3YwVUhHZkYtdW1ySEpkRVFzS0h1bFc4blhhbWVBb3lUemNJZHFfdFMzTklhOFVpb0Y4SldrZVJ0cnMxTlNJU1FNN3JKRXc0WkZVRmlQSkswMVE?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "How To Use ChatGPT To Launch A Travel Side Hustle This Summer",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORGhBZ21jbkpIUDRDZ2Y3dzhMUTJ6V2ZPSXM4ZUljUVhrcjNBbHBidmQ2ekJjWHRndGN5NEM5c1Jpai03cDlCZzlDckUtUk9HYkNTYmt0WHhWVWRuUG45RDB0UUt6cTNsQm0xeWNSQjgybFpvM3RRT3BRejFaQmNCNUNMM1RVS2M?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "How To Use ChatGPT To Launch A Travel Side Hustle This Summer",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORGhBZ21jbkpIUDRDZ2Y3dzhMUTJ6V2ZPSXM4ZUljUVhrcjNBbHBidmQ2ekJjWHRndGN5NEM5c1Jpai03cDlCZzlDckUtUk9HYkNTYmt0WHhWVWRuUG45RDB0UUt6cTNsQm0xeWNSQjgybFpvM3RRT3BRejFaQmNCNUNMM1RVS2M?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "20 Realistic Ways to Make Money on the Side",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE12ZTRWMFVPY0t0N0dxdGtySTl3dl9vRkFwTTVINE0wWjd4WXpwWUN0eWo1cFR4ejhkRTVxRWFQbVg1M3p6WG5TLU95NFZSN3AxQWV2MldiTVRMd1R6RU9ITld4bXF1S1BVWlE?oc=5",
-          "source": "gnews"
+          "title": "MacBook Neo Is So Popular That Apple Doubled Production",
+          "url": "https://www.macrumors.com/2026/06/03/macbook-neo-production-doubled-says-kuo/",
+          "source": "hackernews"
         }
       ],
-      "id": "ea7bf4bb7230",
-      "slug": "side"
+      "id": "ab8e18ef4ebe",
+      "slug": "production"
     },
     {
       "keyword": "vscode bug",
       "count": 8,
-      "score": 67.101823597276,
+      "score": 67.39295602899647,
       "proper": true,
       "niches": [
         "software"
@@ -460,98 +448,9 @@
       "slug": "vscode-bug"
     },
     {
-      "keyword": "flight simulator",
-      "count": 11,
-      "score": 64.82423433699304,
-      "proper": true,
-      "niches": [
-        "software"
-      ],
-      "examples": [
-        {
-          "title": "New auxiliary display for Flight Simulator, sim racing and productivity apps unveiled",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVHhJWE9tTFRKaEE1ZUdYejhWVlZITHAxRVNROFcydmpMbnpZQS1KYzdjV3ZVVU9vTDAzN01uV2dFcjZRUXFER3dQeDROMDNVZF80Szl5N2Q0RmVtU2IzRzluYWthQ2NaQVZaaTJJby0tQlBUMWc5UEhtUURIV3NQUnQ5NHZENEdaN1NGRjJ1ZXhnWnNnMWJqbHR1dllqRl81dU96cTFoQmF2SW1tS1A3M29ad2NZWktJWUpIc2pXZzN5dmFRUzRPNA?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "New auxiliary display for Flight Simulator, sim racing and productivity apps unveiled",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVHhJWE9tTFRKaEE1ZUdYejhWVlZITHAxRVNROFcydmpMbnpZQS1KYzdjV3ZVVU9vTDAzN01uV2dFcjZRUXFER3dQeDROMDNVZF80Szl5N2Q0RmVtU2IzRzluYWthQ2NaQVZaaTJJby0tQlBUMWc5UEhtUURIV3NQUnQ5NHZENEdaN1NGRjJ1ZXhnWnNnMWJqbHR1dllqRl81dU96cTFoQmF2SW1tS1A3M29ad2NZWktJWUpIc2pXZzN5dmFRUzRPNA?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "New auxiliary display for Flight Simulator, sim racing and productivity apps unveiled",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVHhJWE9tTFRKaEE1ZUdYejhWVlZITHAxRVNROFcydmpMbnpZQS1KYzdjV3ZVVU9vTDAzN01uV2dFcjZRUXFER3dQeDROMDNVZF80Szl5N2Q0RmVtU2IzRzluYWthQ2NaQVZaaTJJby0tQlBUMWc5UEhtUURIV3NQUnQ5NHZENEdaN1NGRjJ1ZXhnWnNnMWJqbHR1dllqRl81dU96cTFoQmF2SW1tS1A3M29ad2NZWktJWUpIc2pXZzN5dmFRUzRPNA?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "1f16f19af453",
-      "slug": "flight-simulator"
-    },
-    {
-      "keyword": "claude",
-      "count": 10,
-      "score": 61.41814584485164,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "ChatGPT vs Claude vs Gemini: Which AI Is Best?",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1TTGpXM1BWTGllMVNFTXRLemlzUXEtZ3NpMXVmbS1IVmhlNGpTM0NxeVpsaTNmVzRXYlhCYkViRUJLbFMzX3VXTzNneUtWb3VyQ0ZuUU1HOXRabU5FQTUtbnZIbGpLS1VlUVd6WHBLRl8?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "ChatGPT vs Claude vs Gemini: Which AI Is Best?",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1TTGpXM1BWTGllMVNFTXRLemlzUXEtZ3NpMXVmbS1IVmhlNGpTM0NxeVpsaTNmVzRXYlhCYkViRUJLbFMzX3VXTzNneUtWb3VyQ0ZuUU1HOXRabU5FQTUtbnZIbGpLS1VlUVd6WHBLRl8?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "ChatGPT vs Claude vs Gemini: Which AI Is Best?",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1TTGpXM1BWTGllMVNFTXRLemlzUXEtZ3NpMXVmbS1IVmhlNGpTM0NxeVpsaTNmVzRXYlhCYkViRUJLbFMzX3VXTzNneUtWb3VyQ0ZuUU1HOXRabU5FQTUtbnZIbGpLS1VlUVd6WHBLRl8?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "The Claude skill I built for myself is the only productivity hack that stuck",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOV081b0ZNOW9QNHBURTVQbERoUzZGWHBtTEloalRabTN0ZUVKaV9IYVZSb3EySHpIcUstOWUxUmR1bUw2Nmdyd1hsOHpxdE53QlN2ejBNaGthT2hTTlJaaG1wRWRzc1hsZm5wLXNEZ0hsUFJLbEt6Y3RTdjZ3Rk93RHBReHFuLVM0cWpKWFF6Y0FpWXgtQTR1OHN6VTNid1BSaWxoXzB4NnM2MUlO?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "The Claude skill I built for myself is the only productivity hack that stuck",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOV081b0ZNOW9QNHBURTVQbERoUzZGWHBtTEloalRabTN0ZUVKaV9IYVZSb3EySHpIcUstOWUxUmR1bUw2Nmdyd1hsOHpxdE53QlN2ejBNaGthT2hTTlJaaG1wRWRzc1hsZm5wLXNEZ0hsUFJLbEt6Y3RTdjZ3Rk93RHBReHFuLVM0cWpKWFF6Y0FpWXgtQTR1OHN6VTNid1BSaWxoXzB4NnM2MUlO?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "c857d09db23e",
-      "slug": "claude"
-    },
-    {
-      "keyword": "transplant industry",
-      "count": 8,
-      "score": 59.755700295217196,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "Turkey Hacked the Hair Transplant Industry",
-          "url": "https://www.wired.com/story/how-turkey-hacked-the-hair-transplant-industry/",
-          "source": "hackernews"
-        },
-        {
-          "title": "Turkey Hacked the Hair Transplant Industry",
-          "url": "https://www.wired.com/story/how-turkey-hacked-the-hair-transplant-industry/",
-          "source": "hackernews"
-        }
-      ],
-      "id": "28888abbcb89",
-      "slug": "transplant-industry"
-    },
-    {
       "keyword": "side hustle",
-      "count": 18,
-      "score": 59.376250468993774,
+      "count": 24,
+      "score": 65.18227235318483,
       "proper": false,
       "niches": [
         "finance",
@@ -588,65 +487,37 @@
       "slug": "side-hustle"
     },
     {
-      "keyword": "affordability crisis",
+      "keyword": "flight simulator",
       "count": 11,
-      "score": 58.75694146801339,
+      "score": 64.82423433699304,
       "proper": true,
       "niches": [
-        "ai"
+        "software"
       ],
       "examples": [
         {
-          "title": "Affordability Crisis: Five smart side-hustle ideas to the rescue",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTlpoczY3VEVXQ2JHVVdwenZjRjJUS2xrNkZ1VS1BODZyZ0g1TkNjcnJfZldCa2xyenEyXzlKMzlDMDVCMXdvdFdlbmNhV0tqU3N6YkxkdjFzbFZVWEwzQl9ELWd6TlBacm1wOTloc0Z4a0ZKczBrY1N5MHNwUnFFZm1vVTNFeU15N0hIeFZCQWNqMlVIWnlHTXFlTEh0VEVVREhDaWpIWGptUG82QU9hZ0lod0NiWkNER3hxWQ?oc=5",
+          "title": "New auxiliary display for Flight Simulator, sim racing and productivity apps unveiled",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVHhJWE9tTFRKaEE1ZUdYejhWVlZITHAxRVNROFcydmpMbnpZQS1KYzdjV3ZVVU9vTDAzN01uV2dFcjZRUXFER3dQeDROMDNVZF80Szl5N2Q0RmVtU2IzRzluYWthQ2NaQVZaaTJJby0tQlBUMWc5UEhtUURIV3NQUnQ5NHZENEdaN1NGRjJ1ZXhnWnNnMWJqbHR1dllqRl81dU96cTFoQmF2SW1tS1A3M29ad2NZWktJWUpIc2pXZzN5dmFRUzRPNA?oc=5",
           "source": "gnews"
         },
         {
-          "title": "Affordability Crisis: Five smart side-hustle ideas to the rescue",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTlpoczY3VEVXQ2JHVVdwenZjRjJUS2xrNkZ1VS1BODZyZ0g1TkNjcnJfZldCa2xyenEyXzlKMzlDMDVCMXdvdFdlbmNhV0tqU3N6YkxkdjFzbFZVWEwzQl9ELWd6TlBacm1wOTloc0Z4a0ZKczBrY1N5MHNwUnFFZm1vVTNFeU15N0hIeFZCQWNqMlVIWnlHTXFlTEh0VEVVREhDaWpIWGptUG82QU9hZ0lod0NiWkNER3hxWQ?oc=5",
+          "title": "New auxiliary display for Flight Simulator, sim racing and productivity apps unveiled",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVHhJWE9tTFRKaEE1ZUdYejhWVlZITHAxRVNROFcydmpMbnpZQS1KYzdjV3ZVVU9vTDAzN01uV2dFcjZRUXFER3dQeDROMDNVZF80Szl5N2Q0RmVtU2IzRzluYWthQ2NaQVZaaTJJby0tQlBUMWc5UEhtUURIV3NQUnQ5NHZENEdaN1NGRjJ1ZXhnWnNnMWJqbHR1dllqRl81dU96cTFoQmF2SW1tS1A3M29ad2NZWktJWUpIc2pXZzN5dmFRUzRPNA?oc=5",
           "source": "gnews"
         },
         {
-          "title": "Affordability Crisis: Five smart side-hustle ideas to the rescue",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTlpoczY3VEVXQ2JHVVdwenZjRjJUS2xrNkZ1VS1BODZyZ0g1TkNjcnJfZldCa2xyenEyXzlKMzlDMDVCMXdvdFdlbmNhV0tqU3N6YkxkdjFzbFZVWEwzQl9ELWd6TlBacm1wOTloc0Z4a0ZKczBrY1N5MHNwUnFFZm1vVTNFeU15N0hIeFZCQWNqMlVIWnlHTXFlTEh0VEVVREhDaWpIWGptUG82QU9hZ0lod0NiWkNER3hxWQ?oc=5",
+          "title": "New auxiliary display for Flight Simulator, sim racing and productivity apps unveiled",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVHhJWE9tTFRKaEE1ZUdYejhWVlZITHAxRVNROFcydmpMbnpZQS1KYzdjV3ZVVU9vTDAzN01uV2dFcjZRUXFER3dQeDROMDNVZF80Szl5N2Q0RmVtU2IzRzluYWthQ2NaQVZaaTJJby0tQlBUMWc5UEhtUURIV3NQUnQ5NHZENEdaN1NGRjJ1ZXhnWnNnMWJqbHR1dllqRl81dU96cTFoQmF2SW1tS1A3M29ad2NZWktJWUpIc2pXZzN5dmFRUzRPNA?oc=5",
           "source": "gnews"
         }
       ],
-      "id": "75c4782cb45d",
-      "slug": "affordability-crisis"
-    },
-    {
-      "keyword": "gemini",
-      "count": 7,
-      "score": 56.35711908921445,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "ChatGPT vs Claude vs Gemini: Which AI Is Best?",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1TTGpXM1BWTGllMVNFTXRLemlzUXEtZ3NpMXVmbS1IVmhlNGpTM0NxeVpsaTNmVzRXYlhCYkViRUJLbFMzX3VXTzNneUtWb3VyQ0ZuUU1HOXRabU5FQTUtbnZIbGpLS1VlUVd6WHBLRl8?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "ChatGPT vs Claude vs Gemini: Which AI Is Best?",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1TTGpXM1BWTGllMVNFTXRLemlzUXEtZ3NpMXVmbS1IVmhlNGpTM0NxeVpsaTNmVzRXYlhCYkViRUJLbFMzX3VXTzNneUtWb3VyQ0ZuUU1HOXRabU5FQTUtbnZIbGpLS1VlUVd6WHBLRl8?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "ChatGPT vs Claude vs Gemini: Which AI Is Best?",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1TTGpXM1BWTGllMVNFTXRLemlzUXEtZ3NpMXVmbS1IVmhlNGpTM0NxeVpsaTNmVzRXYlhCYkViRUJLbFMzX3VXTzNneUtWb3VyQ0ZuUU1HOXRabU5FQTUtbnZIbGpLS1VlUVd6WHBLRl8?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "5d72436256ad",
-      "slug": "gemini"
+      "id": "1f16f19af453",
+      "slug": "flight-simulator"
     },
     {
       "keyword": "productivity apps",
-      "count": 27,
-      "score": 54.32501142974756,
+      "count": 33,
+      "score": 62.99533744347286,
       "proper": false,
       "niches": [
         "software"
@@ -682,94 +553,237 @@
       "slug": "productivity-apps"
     },
     {
-      "keyword": "production",
+      "keyword": "sleep gadgets",
+      "count": 12,
+      "score": 62.31796822365057,
+      "proper": false,
+      "niches": [
+        "gear"
+      ],
+      "examples": [
+        {
+          "title": "The 10 Best Sleep Gadgets on Amazon for Getting a Good Night’s Sleep",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYVVYdDdEUUVXSTJqR096RXV5NzgwQUJ0X1NGaE5mZFoxOWhjNDR5MURvMld3WHNhNlh4aDBueDR0by1lR2VIeV9CazRzTll0eDdyeHNtZTZDOWpXbTZUOEhUd09GR2ZWNUpSeGw4TE1ZVnRGemVQcDdBWFE4MkNHejZ3R3I0azNfa3poQ1lPNkZWSXR2YzZr?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "The 10 Best Sleep Gadgets on Amazon for Getting a Good Night’s Sleep",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYVVYdDdEUUVXSTJqR096RXV5NzgwQUJ0X1NGaE5mZFoxOWhjNDR5MURvMld3WHNhNlh4aDBueDR0by1lR2VIeV9CazRzTll0eDdyeHNtZTZDOWpXbTZUOEhUd09GR2ZWNUpSeGw4TE1ZVnRGemVQcDdBWFE4MkNHejZ3R3I0azNfa3poQ1lPNkZWSXR2YzZr?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "The 10 Best Sleep Gadgets on Amazon for Getting a Good Night’s Sleep",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4zcFJtOWJwd1pLSEVfdzR4a2E1UFZ3UzI5UlU4WlNhMUV2ZU56MUtZUHNDMUp2MzhfTDJoSnRqc3N2XzBTc0NIeVpMd0FjMVpMWnBYbWhuRF80UkJoX3BkYWxRTWlfSDI5OE16VkhndGNiU3B4UXl5RnpLRjk?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "The 10 Best Sleep Gadgets on Amazon for Getting a Good Night’s Sleep",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4zcFJtOWJwd1pLSEVfdzR4a2E1UFZ3UzI5UlU4WlNhMUV2ZU56MUtZUHNDMUp2MzhfTDJoSnRqc3N2XzBTc0NIeVpMd0FjMVpMWnBYbWhuRF80UkJoX3BkYWxRTWlfSDI5OE16VkhndGNiU3B4UXl5RnpLRjk?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "5ad38b777617",
+      "slug": "sleep-gadgets"
+    },
+    {
+      "keyword": "gadgets amazon",
+      "count": 12,
+      "score": 62.31796822365057,
+      "proper": false,
+      "niches": [
+        "gear"
+      ],
+      "examples": [
+        {
+          "title": "The 10 Best Sleep Gadgets on Amazon for Getting a Good Night’s Sleep",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYVVYdDdEUUVXSTJqR096RXV5NzgwQUJ0X1NGaE5mZFoxOWhjNDR5MURvMld3WHNhNlh4aDBueDR0by1lR2VIeV9CazRzTll0eDdyeHNtZTZDOWpXbTZUOEhUd09GR2ZWNUpSeGw4TE1ZVnRGemVQcDdBWFE4MkNHejZ3R3I0azNfa3poQ1lPNkZWSXR2YzZr?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "The 10 Best Sleep Gadgets on Amazon for Getting a Good Night’s Sleep",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYVVYdDdEUUVXSTJqR096RXV5NzgwQUJ0X1NGaE5mZFoxOWhjNDR5MURvMld3WHNhNlh4aDBueDR0by1lR2VIeV9CazRzTll0eDdyeHNtZTZDOWpXbTZUOEhUd09GR2ZWNUpSeGw4TE1ZVnRGemVQcDdBWFE4MkNHejZ3R3I0azNfa3poQ1lPNkZWSXR2YzZr?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "The 10 Best Sleep Gadgets on Amazon for Getting a Good Night’s Sleep",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4zcFJtOWJwd1pLSEVfdzR4a2E1UFZ3UzI5UlU4WlNhMUV2ZU56MUtZUHNDMUp2MzhfTDJoSnRqc3N2XzBTc0NIeVpMd0FjMVpMWnBYbWhuRF80UkJoX3BkYWxRTWlfSDI5OE16VkhndGNiU3B4UXl5RnpLRjk?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "The 10 Best Sleep Gadgets on Amazon for Getting a Good Night’s Sleep",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4zcFJtOWJwd1pLSEVfdzR4a2E1UFZ3UzI5UlU4WlNhMUV2ZU56MUtZUHNDMUp2MzhfTDJoSnRqc3N2XzBTc0NIeVpMd0FjMVpMWnBYbWhuRF80UkJoX3BkYWxRTWlfSDI5OE16VkhndGNiU3B4UXl5RnpLRjk?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "147124fbc310",
+      "slug": "gadgets-amazon"
+    },
+    {
+      "keyword": "amazon night",
+      "count": 12,
+      "score": 62.31796822365057,
+      "proper": false,
+      "niches": [
+        "gear"
+      ],
+      "examples": [
+        {
+          "title": "The 10 Best Sleep Gadgets on Amazon for Getting a Good Night’s Sleep",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYVVYdDdEUUVXSTJqR096RXV5NzgwQUJ0X1NGaE5mZFoxOWhjNDR5MURvMld3WHNhNlh4aDBueDR0by1lR2VIeV9CazRzTll0eDdyeHNtZTZDOWpXbTZUOEhUd09GR2ZWNUpSeGw4TE1ZVnRGemVQcDdBWFE4MkNHejZ3R3I0azNfa3poQ1lPNkZWSXR2YzZr?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "The 10 Best Sleep Gadgets on Amazon for Getting a Good Night’s Sleep",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYVVYdDdEUUVXSTJqR096RXV5NzgwQUJ0X1NGaE5mZFoxOWhjNDR5MURvMld3WHNhNlh4aDBueDR0by1lR2VIeV9CazRzTll0eDdyeHNtZTZDOWpXbTZUOEhUd09GR2ZWNUpSeGw4TE1ZVnRGemVQcDdBWFE4MkNHejZ3R3I0azNfa3poQ1lPNkZWSXR2YzZr?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "The 10 Best Sleep Gadgets on Amazon for Getting a Good Night’s Sleep",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4zcFJtOWJwd1pLSEVfdzR4a2E1UFZ3UzI5UlU4WlNhMUV2ZU56MUtZUHNDMUp2MzhfTDJoSnRqc3N2XzBTc0NIeVpMd0FjMVpMWnBYbWhuRF80UkJoX3BkYWxRTWlfSDI5OE16VkhndGNiU3B4UXl5RnpLRjk?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "The 10 Best Sleep Gadgets on Amazon for Getting a Good Night’s Sleep",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4zcFJtOWJwd1pLSEVfdzR4a2E1UFZ3UzI5UlU4WlNhMUV2ZU56MUtZUHNDMUp2MzhfTDJoSnRqc3N2XzBTc0NIeVpMd0FjMVpMWnBYbWhuRF80UkJoX3BkYWxRTWlfSDI5OE16VkhndGNiU3B4UXl5RnpLRjk?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "0e08b9c188ce",
+      "slug": "amazon-night"
+    },
+    {
+      "keyword": "night sleep",
+      "count": 12,
+      "score": 62.31796822365057,
+      "proper": false,
+      "niches": [
+        "gear"
+      ],
+      "examples": [
+        {
+          "title": "The 10 Best Sleep Gadgets on Amazon for Getting a Good Night’s Sleep",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYVVYdDdEUUVXSTJqR096RXV5NzgwQUJ0X1NGaE5mZFoxOWhjNDR5MURvMld3WHNhNlh4aDBueDR0by1lR2VIeV9CazRzTll0eDdyeHNtZTZDOWpXbTZUOEhUd09GR2ZWNUpSeGw4TE1ZVnRGemVQcDdBWFE4MkNHejZ3R3I0azNfa3poQ1lPNkZWSXR2YzZr?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "The 10 Best Sleep Gadgets on Amazon for Getting a Good Night’s Sleep",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYVVYdDdEUUVXSTJqR096RXV5NzgwQUJ0X1NGaE5mZFoxOWhjNDR5MURvMld3WHNhNlh4aDBueDR0by1lR2VIeV9CazRzTll0eDdyeHNtZTZDOWpXbTZUOEhUd09GR2ZWNUpSeGw4TE1ZVnRGemVQcDdBWFE4MkNHejZ3R3I0azNfa3poQ1lPNkZWSXR2YzZr?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "The 10 Best Sleep Gadgets on Amazon for Getting a Good Night’s Sleep",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4zcFJtOWJwd1pLSEVfdzR4a2E1UFZ3UzI5UlU4WlNhMUV2ZU56MUtZUHNDMUp2MzhfTDJoSnRqc3N2XzBTc0NIeVpMd0FjMVpMWnBYbWhuRF80UkJoX3BkYWxRTWlfSDI5OE16VkhndGNiU3B4UXl5RnpLRjk?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "The 10 Best Sleep Gadgets on Amazon for Getting a Good Night’s Sleep",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4zcFJtOWJwd1pLSEVfdzR4a2E1UFZ3UzI5UlU4WlNhMUV2ZU56MUtZUHNDMUp2MzhfTDJoSnRqc3N2XzBTc0NIeVpMd0FjMVpMWnBYbWhuRF80UkJoX3BkYWxRTWlfSDI5OE16VkhndGNiU3B4UXl5RnpLRjk?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "107a6e5b3ecd",
+      "slug": "night-sleep"
+    },
+    {
+      "keyword": "happy",
       "count": 5,
-      "score": 52.811807718949396,
+      "score": 59.5389958624793,
       "proper": true,
       "niches": [
         "software"
       ],
       "examples": [
         {
-          "title": "MacBook Neo Is So Popular That Apple Doubled Production",
-          "url": "https://www.macrumors.com/2026/06/03/macbook-neo-production-doubled-says-kuo/",
-          "source": "hackernews"
+          "title": "Happy #PrideMonth ! I drew some #Poly #Yuri .#Polyamorous #Pride #LGBT #LGBTQ",
+          "url": "https://vt.social/@ExpiredPopsicle/116687482692933271",
+          "source": "mastodon"
         }
       ],
-      "id": "ab8e18ef4ebe",
-      "slug": "production"
+      "id": "489f719cadf9",
+      "slug": "happy"
     },
     {
-      "keyword": "gaming keyboard",
-      "count": 27,
-      "score": 51.96389586350987,
-      "proper": false,
+      "keyword": "side",
+      "count": 18,
+      "score": 58.76426530629375,
+      "proper": true,
       "niches": [
+        "finance",
         "ai",
-        "general"
+        "software"
       ],
       "examples": [
         {
-          "title": "Ducky's Year of the Horse gaming keyboard, as expected, has a huge horse covering most of the keys",
-          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQUkVuYWhlaEstNXc0U0tjdmRYWHNwMU9paHFHaDhBaXhHbTQ5R1V0aUhYcExTSnlNU2JHdmwwQ0d1eHpIS0ptWDYyWDRMUGkzU2pMWVNnUXk0WS1rOFNKdS11MjZ3YkpNNUtoR1lxai1kUmZJUVRGcjhGbTRCeXRYNWJQZkN1Njdmc0N4N3lUdVFldjBzcW5OcjVuV2U0dzlSMm5HX25DTFlITDlzbWdncHlISzdxSUdQeXozdEVnaGZFeWptNERrbnlid1U0SVg0enF3WEZEUG9TbGZtU3ExWFZoV2lNR1dxUzAxM1lFcmU4cHQwTEdJYQ?oc=5",
+          "title": "6 side hustle businesses you can launch with $0",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONzdLLVdBSkp5bUlVMVVvR040ZEtEQWdZZWJSTzZzREZfSlo1Q19OcXZsLTNXWnhId3YwVUhHZkYtdW1ySEpkRVFzS0h1bFc4blhhbWVBb3lUemNJZHFfdFMzTklhOFVpb0Y4SldrZVJ0cnMxTlNJU1FNN3JKRXc0WkZVRmlQSkswMVE?oc=5",
           "source": "gnews"
         },
         {
-          "title": "CHERRY XTRFY K63W Pro: World’s First Wireless 8K UWB Gaming Keyboard",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPaUVvNDItaFlBN3JLbFczTDhNdjhybktKZlpLSW5PS05sUS1Ud3NmNXU1c25abFpHY2prWDZONnRnR0FDLTltdWUxZEptZWd3NExRYjlZZnFtVzRLVnZveWFVS0hHSGtiVENieTN4RDBvY2YtME1xWkFaRjJQQTB1bFNESjFkTk4xTWFHOWtDU0s4V2FXXzZaa0ZQajhITUt2S1pF?oc=5",
+          "title": "6 side hustle businesses you can launch with $0",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONzdLLVdBSkp5bUlVMVVvR040ZEtEQWdZZWJSTzZzREZfSlo1Q19OcXZsLTNXWnhId3YwVUhHZkYtdW1ySEpkRVFzS0h1bFc4blhhbWVBb3lUemNJZHFfdFMzTklhOFVpb0Y4SldrZVJ0cnMxTlNJU1FNN3JKRXc0WkZVRmlQSkswMVE?oc=5",
           "source": "gnews"
         },
         {
-          "title": "CHERRY XTRFY K63W Pro: World’s First Wireless 8K UWB Gaming Keyboard",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPaUVvNDItaFlBN3JLbFczTDhNdjhybktKZlpLSW5PS05sUS1Ud3NmNXU1c25abFpHY2prWDZONnRnR0FDLTltdWUxZEptZWd3NExRYjlZZnFtVzRLVnZveWFVS0hHSGtiVENieTN4RDBvY2YtME1xWkFaRjJQQTB1bFNESjFkTk4xTWFHOWtDU0s4V2FXXzZaa0ZQajhITUt2S1pF?oc=5",
+          "title": "How To Use ChatGPT To Launch A Travel Side Hustle This Summer",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORGhBZ21jbkpIUDRDZ2Y3dzhMUTJ6V2ZPSXM4ZUljUVhrcjNBbHBidmQ2ekJjWHRndGN5NEM5c1Jpai03cDlCZzlDckUtUk9HYkNTYmt0WHhWVWRuUG45RDB0UUt6cTNsQm0xeWNSQjgybFpvM3RRT3BRejFaQmNCNUNMM1RVS2M?oc=5",
           "source": "gnews"
         },
         {
-          "title": "Cherry XTRFY launches the world's first 8K ultra-wideband gaming keyboard",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMTdsZ2tNakJPWDVpcXo4c1E0a1JFTTN1SkVzRG5EdnFYcFZ4UVhHS2hybDRXX3RaQkNKS3hUU05OVnVEbWZyTTlXYlRSMjlGMl83TzloQjMyRFB6YkxIWUJzcGFwZXdnUGpvZ1NSZmZ6N0NNcTE1OFE1S2VhZllBVGcwZTB0WEI3ekx4cGVrUmRoNGZPT0I0MQ?oc=5",
+          "title": "How To Use ChatGPT To Launch A Travel Side Hustle This Summer",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORGhBZ21jbkpIUDRDZ2Y3dzhMUTJ6V2ZPSXM4ZUljUVhrcjNBbHBidmQ2ekJjWHRndGN5NEM5c1Jpai03cDlCZzlDckUtUk9HYkNTYmt0WHhWVWRuUG45RDB0UUt6cTNsQm0xeWNSQjgybFpvM3RRT3BRejFaQmNCNUNMM1RVS2M?oc=5",
           "source": "gnews"
         },
         {
-          "title": "Cherry XTRFY launches the world's first 8K ultra-wideband gaming keyboard",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMTdsZ2tNakJPWDVpcXo4c1E0a1JFTTN1SkVzRG5EdnFYcFZ4UVhHS2hybDRXX3RaQkNKS3hUU05OVnVEbWZyTTlXYlRSMjlGMl83TzloQjMyRFB6YkxIWUJzcGFwZXdnUGpvZ1NSZmZ6N0NNcTE1OFE1S2VhZllBVGcwZTB0WEI3ekx4cGVrUmRoNGZPT0I0MQ?oc=5",
+          "title": "20 Realistic Ways to Make Money on the Side",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE12ZTRWMFVPY0t0N0dxdGtySTl3dl9vRkFwTTVINE0wWjd4WXpwWUN0eWo1cFR4ejhkRTVxRWFQbVg1M3p6WG5TLU95NFZSN3AxQWV2MldiTVRMd1R6RU9ITld4bXF1S1BVWlE?oc=5",
           "source": "gnews"
         }
       ],
-      "id": "229ae79c17a3",
-      "slug": "gaming-keyboard"
+      "id": "ea7bf4bb7230",
+      "slug": "side"
     }
   ],
   "opportunities": [
     {
-      "keyword": "tech sovereignty",
-      "count": 11,
-      "score": 121.79649867986524,
+      "keyword": "sleep",
+      "count": 18,
+      "score": 140.21542850321376,
       "proper": true,
       "niches": [
-        "software"
+        "gear"
       ],
       "examples": [
         {
-          "title": "Your digital future should be open, secure, and made in Europe. We are home to over 3 million open source developers across the EU. With our new Tech Sovereignty plan, we are taking concrete steps to ",
-          "url": "https://ec.social-network.europa.eu/@EUCommission/116686960335861976",
-          "source": "mastodon"
+          "title": "The 10 Best Sleep Gadgets on Amazon for Getting a Good Night’s Sleep",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYVVYdDdEUUVXSTJqR096RXV5NzgwQUJ0X1NGaE5mZFoxOWhjNDR5MURvMld3WHNhNlh4aDBueDR0by1lR2VIeV9CazRzTll0eDdyeHNtZTZDOWpXbTZUOEhUd09GR2ZWNUpSeGw4TE1ZVnRGemVQcDdBWFE4MkNHejZ3R3I0azNfa3poQ1lPNkZWSXR2YzZr?oc=5",
+          "source": "gnews"
         },
         {
-          "title": "Your digital future should be open, secure, and made in Europe. We are home to over 3 million open source developers across the EU. With our new Tech Sovereignty plan, we are taking concrete steps to ",
-          "url": "https://ec.social-network.europa.eu/@EUCommission/116686960335861976",
-          "source": "mastodon"
+          "title": "The 10 Best Sleep Gadgets on Amazon for Getting a Good Night’s Sleep",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYVVYdDdEUUVXSTJqR096RXV5NzgwQUJ0X1NGaE5mZFoxOWhjNDR5MURvMld3WHNhNlh4aDBueDR0by1lR2VIeV9CazRzTll0eDdyeHNtZTZDOWpXbTZUOEhUd09GR2ZWNUpSeGw4TE1ZVnRGemVQcDdBWFE4MkNHejZ3R3I0azNfa3poQ1lPNkZWSXR2YzZr?oc=5",
+          "source": "gnews"
         },
         {
-          "title": "Today is the day: The European Commission is expected to publish the EU Tech Sovereignty Package.  🇪🇺And the demand is clear. When purchasing software products, European authorities must prioritize-",
-          "url": "https://mastodon.social/@Tutanota/116685879969751753",
-          "source": "mastodon"
+          "title": "The 10 Best Sleep Gadgets on Amazon for Getting a Good Night’s Sleep",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYVVYdDdEUUVXSTJqR096RXV5NzgwQUJ0X1NGaE5mZFoxOWhjNDR5MURvMld3WHNhNlh4aDBueDR0by1lR2VIeV9CazRzTll0eDdyeHNtZTZDOWpXbTZUOEhUd09GR2ZWNUpSeGw4TE1ZVnRGemVQcDdBWFE4MkNHejZ3R3I0azNfa3poQ1lPNkZWSXR2YzZr?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "The 10 Best Sleep Gadgets on Amazon for Getting a Good Night’s Sleep",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYVVYdDdEUUVXSTJqR096RXV5NzgwQUJ0X1NGaE5mZFoxOWhjNDR5MURvMld3WHNhNlh4aDBueDR0by1lR2VIeV9CazRzTll0eDdyeHNtZTZDOWpXbTZUOEhUd09GR2ZWNUpSeGw4TE1ZVnRGemVQcDdBWFE4MkNHejZ3R3I0azNfa3poQ1lPNkZWSXR2YzZr?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "The 10 Best Sleep Gadgets on Amazon for Getting a Good Night’s Sleep",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYVVYdDdEUUVXSTJqR096RXV5NzgwQUJ0X1NGaE5mZFoxOWhjNDR5MURvMld3WHNhNlh4aDBueDR0by1lR2VIeV9CazRzTll0eDdyeHNtZTZDOWpXbTZUOEhUd09GR2ZWNUpSeGw4TE1ZVnRGemVQcDdBWFE4MkNHejZ3R3I0azNfa3poQ1lPNkZWSXR2YzZr?oc=5",
+          "source": "gnews"
         }
       ],
-      "id": "a5f39d90652a",
-      "slug": "tech-sovereignty",
+      "id": "0afa5bb5d5f1",
+      "slug": "sleep",
       "opportunity": {
         "type": "niche-content",
-        "recommended": "Publish niche guide for \"software\"; bundle into digital product later."
+        "recommended": "Publish niche guide for \"gear\"; bundle into digital product later."
       }
     },
     {
@@ -802,6 +816,33 @@
       "opportunity": {
         "type": "niche-content",
         "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
+      }
+    },
+    {
+      "keyword": "tech sovereignty",
+      "count": 8,
+      "score": 95.6037164439065,
+      "proper": true,
+      "niches": [
+        "software"
+      ],
+      "examples": [
+        {
+          "title": "Your digital future should be open, secure, and made in Europe. We are home to over 3 million open source developers across the EU. With our new Tech Sovereignty plan, we are taking concrete steps to ",
+          "url": "https://ec.social-network.europa.eu/@EUCommission/116686960335861976",
+          "source": "mastodon"
+        },
+        {
+          "title": "Your digital future should be open, secure, and made in Europe. We are home to over 3 million open source developers across the EU. With our new Tech Sovereignty plan, we are taking concrete steps to ",
+          "url": "https://ec.social-network.europa.eu/@EUCommission/116686960335861976",
+          "source": "mastodon"
+        }
+      ],
+      "id": "a5f39d90652a",
+      "slug": "tech-sovereignty",
+      "opportunity": {
+        "type": "niche-content",
+        "recommended": "Publish niche guide for \"software\"; bundle into digital product later."
       }
     },
     {
@@ -847,80 +888,31 @@
       }
     },
     {
-      "keyword": "oss project",
-      "count": 6,
-      "score": 67.7077365526152,
-      "proper": false,
+      "keyword": "production",
+      "count": 5,
+      "score": 71.52971430078358,
+      "proper": true,
       "niches": [
-        "ai"
+        "software"
       ],
       "examples": [
         {
-          "title": "It is okay to release a F/OSS project where the expected set of users is you.It is okay to declare that a F/OSS project that you maintain is feature complete and stop.It is okay to stop writing new co",
-          "url": "https://infosec.exchange/@david_chisnall/116686294283987486",
-          "source": "mastodon"
-        },
-        {
-          "title": "It is okay to release a F/OSS project where the expected set of users is you.It is okay to declare that a F/OSS project that you maintain is feature complete and stop.It is okay to stop writing new co",
-          "url": "https://infosec.exchange/@david_chisnall/116686294283987486",
-          "source": "mastodon"
+          "title": "MacBook Neo Is So Popular That Apple Doubled Production",
+          "url": "https://www.macrumors.com/2026/06/03/macbook-neo-production-doubled-says-kuo/",
+          "source": "hackernews"
         }
       ],
-      "id": "6b54b572e0a4",
-      "slug": "oss-project",
+      "id": "ab8e18ef4ebe",
+      "slug": "production",
       "opportunity": {
         "type": "affiliate",
         "recommended": "Write SEO comparison/roundup article with affiliate links."
       }
     },
     {
-      "keyword": "side",
-      "count": 23,
-      "score": 67.45746993436948,
-      "proper": true,
-      "niches": [
-        "finance",
-        "ai",
-        "software"
-      ],
-      "examples": [
-        {
-          "title": "6 side hustle businesses you can launch with $0",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONzdLLVdBSkp5bUlVMVVvR040ZEtEQWdZZWJSTzZzREZfSlo1Q19OcXZsLTNXWnhId3YwVUhHZkYtdW1ySEpkRVFzS0h1bFc4blhhbWVBb3lUemNJZHFfdFMzTklhOFVpb0Y4SldrZVJ0cnMxTlNJU1FNN3JKRXc0WkZVRmlQSkswMVE?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "6 side hustle businesses you can launch with $0",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONzdLLVdBSkp5bUlVMVVvR040ZEtEQWdZZWJSTzZzREZfSlo1Q19OcXZsLTNXWnhId3YwVUhHZkYtdW1ySEpkRVFzS0h1bFc4blhhbWVBb3lUemNJZHFfdFMzTklhOFVpb0Y4SldrZVJ0cnMxTlNJU1FNN3JKRXc0WkZVRmlQSkswMVE?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "How To Use ChatGPT To Launch A Travel Side Hustle This Summer",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORGhBZ21jbkpIUDRDZ2Y3dzhMUTJ6V2ZPSXM4ZUljUVhrcjNBbHBidmQ2ekJjWHRndGN5NEM5c1Jpai03cDlCZzlDckUtUk9HYkNTYmt0WHhWVWRuUG45RDB0UUt6cTNsQm0xeWNSQjgybFpvM3RRT3BRejFaQmNCNUNMM1RVS2M?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "How To Use ChatGPT To Launch A Travel Side Hustle This Summer",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORGhBZ21jbkpIUDRDZ2Y3dzhMUTJ6V2ZPSXM4ZUljUVhrcjNBbHBidmQ2ekJjWHRndGN5NEM5c1Jpai03cDlCZzlDckUtUk9HYkNTYmt0WHhWVWRuUG45RDB0UUt6cTNsQm0xeWNSQjgybFpvM3RRT3BRejFaQmNCNUNMM1RVS2M?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "20 Realistic Ways to Make Money on the Side",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE12ZTRWMFVPY0t0N0dxdGtySTl3dl9vRkFwTTVINE0wWjd4WXpwWUN0eWo1cFR4ejhkRTVxRWFQbVg1M3p6WG5TLU95NFZSN3AxQWV2MldiTVRMd1R6RU9ITld4bXF1S1BVWlE?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "ea7bf4bb7230",
-      "slug": "side",
-      "opportunity": {
-        "type": "niche-content",
-        "recommended": "Publish niche guide for \"finance\"; bundle into digital product later."
-      }
-    },
-    {
       "keyword": "vscode bug",
       "count": 8,
-      "score": 67.101823597276,
+      "score": 67.39295602899647,
       "proper": true,
       "niches": [
         "software"
@@ -942,6 +934,49 @@
       "opportunity": {
         "type": "affiliate",
         "recommended": "Write SEO comparison/roundup article with affiliate links."
+      }
+    },
+    {
+      "keyword": "side hustle",
+      "count": 24,
+      "score": 65.18227235318483,
+      "proper": false,
+      "niches": [
+        "finance",
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "6 side hustle businesses you can launch with $0",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONzdLLVdBSkp5bUlVMVVvR040ZEtEQWdZZWJSTzZzREZfSlo1Q19OcXZsLTNXWnhId3YwVUhHZkYtdW1ySEpkRVFzS0h1bFc4blhhbWVBb3lUemNJZHFfdFMzTklhOFVpb0Y4SldrZVJ0cnMxTlNJU1FNN3JKRXc0WkZVRmlQSkswMVE?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "6 side hustle businesses you can launch with $0",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONzdLLVdBSkp5bUlVMVVvR040ZEtEQWdZZWJSTzZzREZfSlo1Q19OcXZsLTNXWnhId3YwVUhHZkYtdW1ySEpkRVFzS0h1bFc4blhhbWVBb3lUemNJZHFfdFMzTklhOFVpb0Y4SldrZVJ0cnMxTlNJU1FNN3JKRXc0WkZVRmlQSkswMVE?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "How To Use ChatGPT To Launch A Travel Side Hustle This Summer",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORGhBZ21jbkpIUDRDZ2Y3dzhMUTJ6V2ZPSXM4ZUljUVhrcjNBbHBidmQ2ekJjWHRndGN5NEM5c1Jpai03cDlCZzlDckUtUk9HYkNTYmt0WHhWVWRuUG45RDB0UUt6cTNsQm0xeWNSQjgybFpvM3RRT3BRejFaQmNCNUNMM1RVS2M?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "How To Use ChatGPT To Launch A Travel Side Hustle This Summer",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORGhBZ21jbkpIUDRDZ2Y3dzhMUTJ6V2ZPSXM4ZUljUVhrcjNBbHBidmQ2ekJjWHRndGN5NEM5c1Jpai03cDlCZzlDckUtUk9HYkNTYmt0WHhWVWRuUG45RDB0UUt6cTNsQm0xeWNSQjgybFpvM3RRT3BRejFaQmNCNUNMM1RVS2M?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "6 AI Side Hustle Businesses Anyone Can Start",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZzNLUGhvaGhQTFNBODNVTVBBeHNfTDhYcHdzUTJva3lKZjlOZ0JkZFRKWWE1R3lpc2ZKdUlESEttR1pMODBiQVNmUmxEbG1GdkRUT2RjVU4yYmdQSGVFc1ZuVTRLUXBJYm1Ub09XVjAzNWRGcm5RaUdnekdRRDRpcXhfWEFvcktoc1h4QzRmMA?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "57270ed2efc7",
+      "slug": "side-hustle",
+      "opportunity": {
+        "type": "niche-content",
+        "recommended": "Publish niche guide for \"finance\"; bundle into digital product later."
       }
     },
     {
@@ -974,48 +1009,6 @@
       "opportunity": {
         "type": "niche-content",
         "recommended": "Publish niche guide for \"software\"; bundle into digital product later."
-      }
-    },
-    {
-      "keyword": "claude",
-      "count": 10,
-      "score": 61.41814584485164,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "ChatGPT vs Claude vs Gemini: Which AI Is Best?",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1TTGpXM1BWTGllMVNFTXRLemlzUXEtZ3NpMXVmbS1IVmhlNGpTM0NxeVpsaTNmVzRXYlhCYkViRUJLbFMzX3VXTzNneUtWb3VyQ0ZuUU1HOXRabU5FQTUtbnZIbGpLS1VlUVd6WHBLRl8?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "ChatGPT vs Claude vs Gemini: Which AI Is Best?",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1TTGpXM1BWTGllMVNFTXRLemlzUXEtZ3NpMXVmbS1IVmhlNGpTM0NxeVpsaTNmVzRXYlhCYkViRUJLbFMzX3VXTzNneUtWb3VyQ0ZuUU1HOXRabU5FQTUtbnZIbGpLS1VlUVd6WHBLRl8?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "ChatGPT vs Claude vs Gemini: Which AI Is Best?",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1TTGpXM1BWTGllMVNFTXRLemlzUXEtZ3NpMXVmbS1IVmhlNGpTM0NxeVpsaTNmVzRXYlhCYkViRUJLbFMzX3VXTzNneUtWb3VyQ0ZuUU1HOXRabU5FQTUtbnZIbGpLS1VlUVd6WHBLRl8?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "The Claude skill I built for myself is the only productivity hack that stuck",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOV081b0ZNOW9QNHBURTVQbERoUzZGWHBtTEloalRabTN0ZUVKaV9IYVZSb3EySHpIcUstOWUxUmR1bUw2Nmdyd1hsOHpxdE53QlN2ejBNaGthT2hTTlJaaG1wRWRzc1hsZm5wLXNEZ0hsUFJLbEt6Y3RTdjZ3Rk93RHBReHFuLVM0cWpKWFF6Y0FpWXgtQTR1OHN6VTNid1BSaWxoXzB4NnM2MUlO?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "The Claude skill I built for myself is the only productivity hack that stuck",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOV081b0ZNOW9QNHBURTVQbERoUzZGWHBtTEloalRabTN0ZUVKaV9IYVZSb3EySHpIcUstOWUxUmR1bUw2Nmdyd1hsOHpxdE53QlN2ejBNaGthT2hTTlJaaG1wRWRzc1hsZm5wLXNEZ0hsUFJLbEt6Y3RTdjZ3Rk93RHBReHFuLVM0cWpKWFF6Y0FpWXgtQTR1OHN6VTNid1BSaWxoXzB4NnM2MUlO?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "c857d09db23e",
-      "slug": "claude",
-      "opportunity": {
-        "type": "tooling",
-        "recommended": "Build / list AI tools; monetize via affiliate links + lead magnet."
       }
     }
   ]

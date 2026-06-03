@@ -246,5 +246,26 @@
     "price": 14,
     "productId": "prod_UdaFaXTsbRXHnu",
     "cover": "/assets/pack-cover.png"
+  },
+  "mini-ebook-amazon-night-2026-06-03": {
+    "url": "https://buy.stripe.com/00weVcgBG2Dc53tgAsfjG0z",
+    "platform": "stripe",
+    "price": 14,
+    "productId": "prod_UdbuXyXg8WvSV2",
+    "cover": "/assets/pack-cover.png"
+  },
+  "mini-ebook-gadgets-amazon-2026-06-03": {
+    "url": "https://buy.stripe.com/3cI9ASclq6Ts7bB2JCfjG0A",
+    "platform": "stripe",
+    "price": 14,
+    "productId": "prod_UdbumWdSrSBWsp",
+    "cover": "/assets/pack-cover.png"
+  },
+  "mini-ebook-sleep-gadgets-2026-06-03": {
+    "url": "https://buy.stripe.com/7sYfZgdpu3HggMbfwofjG0B",
+    "platform": "stripe",
+    "price": 14,
+    "productId": "prod_Udbucpk9LTfA4T",
+    "cover": "/assets/pack-cover.png"
   }
 }

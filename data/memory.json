@@ -434,8 +434,8 @@
     },
     "productivity-apps": {
       "firstSeen": "2026-05-29T16:42:02.875Z",
-      "lastSeen": "2026-05-29T16:42:02.875Z",
-      "count": 1,
+      "lastSeen": "2026-06-03T19:43:39.710Z",
+      "count": 2,
       "wins": 0,
       "losses": 0,
       "niche": "software"
@@ -1322,9 +1322,9 @@
     },
     "ground-message": {
       "firstSeen": "2026-06-03T06:01:28.733Z",
-      "lastSeen": "2026-06-03T06:01:28.733Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-03T19:42:00.223Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -1378,25 +1378,25 @@
     },
     "tech-sovereignty": {
       "firstSeen": "2026-06-03T17:59:07.841Z",
-      "lastSeen": "2026-06-03T17:59:07.841Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-03T19:42:00.223Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "software"
     },
     "oss-project": {
       "firstSeen": "2026-06-03T17:59:10.771Z",
-      "lastSeen": "2026-06-03T17:59:10.771Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-03T19:42:00.225Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
     "transplant-industry": {
       "firstSeen": "2026-06-03T17:59:14.053Z",
-      "lastSeen": "2026-06-03T17:59:14.053Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-03T19:42:00.226Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -1431,12 +1431,76 @@
       "wins": 0,
       "losses": 0,
       "niche": "ai"
+    },
+    "nvidia-nemoclaw": {
+      "firstSeen": "2026-06-03T19:42:06.049Z",
+      "lastSeen": "2026-06-03T19:42:06.049Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "google-cloud": {
+      "firstSeen": "2026-06-03T19:42:09.353Z",
+      "lastSeen": "2026-06-03T19:42:09.353Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "software-etf": {
+      "firstSeen": "2026-06-03T19:42:12.445Z",
+      "lastSeen": "2026-06-03T19:42:12.445Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "sleep-gadgets": {
+      "firstSeen": "2026-06-03T19:42:22.004Z",
+      "lastSeen": "2026-06-03T19:42:22.004Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "gear"
+    },
+    "gadgets-amazon": {
+      "firstSeen": "2026-06-03T19:42:48.959Z",
+      "lastSeen": "2026-06-03T19:42:48.959Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "gear"
+    },
+    "amazon-night": {
+      "firstSeen": "2026-06-03T19:43:17.239Z",
+      "lastSeen": "2026-06-03T19:43:17.239Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "gear"
+    },
+    "swiftui-metal": {
+      "firstSeen": "2026-06-03T19:44:03.012Z",
+      "lastSeen": "2026-06-03T19:44:03.012Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "typed-view": {
+      "firstSeen": "2026-06-03T19:44:15.072Z",
+      "lastSeen": "2026-06-03T19:44:15.072Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
     }
   },
   "niches": {
     "ai": {
-      "count": 220,
-      "wins": 64,
+      "count": 228,
+      "wins": 67,
       "losses": 9
     },
     "finance": {
@@ -1445,12 +1509,12 @@
       "losses": 0
     },
     "software": {
-      "count": 38,
-      "wins": 9,
+      "count": 40,
+      "wins": 10,
       "losses": 1
     },
     "gear": {
-      "count": 13,
+      "count": 16,
       "wins": 4,
       "losses": 0
     },
