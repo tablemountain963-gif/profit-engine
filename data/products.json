@@ -1,6 +1,51 @@
 {
   "items": [
     {
+      "slug": "prompt-pack-watt-toolkit-2026-06-03",
+      "title": "Watt Toolkit Prompt Pack — 50 Battle-Tested Prompts",
+      "blurb": "50 proven prompts for Watt Toolkit. Copy/paste ready. Tested across Claude, GPT, Gemini.",
+      "type": "prompt-pack",
+      "topic": "Watt Toolkit",
+      "niche": "software",
+      "price": 19,
+      "generatedAt": "2026-06-03T06:01:42.555Z",
+      "files": [
+        "prompts.md",
+        "README.md",
+        "LICENSE.txt"
+      ]
+    },
+    {
+      "slug": "prompt-pack-stanford-law-2026-06-03",
+      "title": "Stanford Law Prompt Pack — 50 Battle-Tested Prompts",
+      "blurb": "50 proven prompts for Stanford Law. Copy/paste ready. Tested across Claude, GPT, Gemini.",
+      "type": "prompt-pack",
+      "topic": "Stanford Law",
+      "niche": "ai",
+      "price": 19,
+      "generatedAt": "2026-06-03T06:01:37.015Z",
+      "files": [
+        "prompts.md",
+        "README.md",
+        "LICENSE.txt"
+      ]
+    },
+    {
+      "slug": "prompt-pack-usa-type-2026-06-03",
+      "title": "Usa Type Prompt Pack — 50 Battle-Tested Prompts",
+      "blurb": "50 proven prompts for Usa Type. Copy/paste ready. Tested across Claude, GPT, Gemini.",
+      "type": "prompt-pack",
+      "topic": "Usa Type",
+      "niche": "ai",
+      "price": 19,
+      "generatedAt": "2026-06-03T06:01:29.458Z",
+      "files": [
+        "prompts.md",
+        "README.md",
+        "LICENSE.txt"
+      ]
+    },
+    {
       "slug": "prompt-pack-software-stocks-2026-06-02",
       "title": "Software Stocks Prompt Pack — 50 Battle-Tested Prompts",
       "blurb": "50 proven prompts for Software Stocks. Copy/paste ready. Tested across Claude, GPT, Gemini.",

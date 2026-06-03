@@ -1,6 +1,21 @@
 {
   "x": [
     {
+      "slug": "canva-pro-2026-06-03",
+      "topic": "Canva Pro",
+      "tweetIds": [
+        "2062052360117944644",
+        "2062052367202214023",
+        "2062052374257004971",
+        "2062052381299265552",
+        "2062052388379209828",
+        "2062052395631235166",
+        "2062052402656596146",
+        "2062052409673752917"
+      ],
+      "postedAt": "2026-06-03T06:03:01.808Z"
+    },
+    {
       "slug": "desktop-2026-06-02",
       "topic": "Desktop",
       "tweetIds": [
@@ -359,6 +374,22 @@
     }
   ],
   "bluesky": [
+    {
+      "slug": "canva-pro-2026-06-03",
+      "topic": "Canva Pro",
+      "ids": [
+        "at://did:plc:tyttf4ceoibzsfb2tn764jic/app.bsky.feed.post/3mnegr4i55z23",
+        "at://did:plc:tyttf4ceoibzsfb2tn764jic/app.bsky.feed.post/3mnegraiy7j23",
+        "at://did:plc:tyttf4ceoibzsfb2tn764jic/app.bsky.feed.post/3mnegrbhkjx26",
+        "at://did:plc:tyttf4ceoibzsfb2tn764jic/app.bsky.feed.post/3mnegrcg3u324",
+        "at://did:plc:tyttf4ceoibzsfb2tn764jic/app.bsky.feed.post/3mnegrdegkl24",
+        "at://did:plc:tyttf4ceoibzsfb2tn764jic/app.bsky.feed.post/3mnegrecwqa2j",
+        "at://did:plc:tyttf4ceoibzsfb2tn764jic/app.bsky.feed.post/3mnegrfb6wr26",
+        "at://did:plc:tyttf4ceoibzsfb2tn764jic/app.bsky.feed.post/3mnegrgaf5x26"
+      ],
+      "url": "https://bsky.app/profile/solmercer.bsky.social/post/3mnegr4i55z23",
+      "postedAt": "2026-06-03T06:03:13.138Z"
+    },
     {
       "slug": "desktop-2026-06-02",
       "topic": "Desktop",
