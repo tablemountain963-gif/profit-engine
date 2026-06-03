@@ -1434,25 +1434,25 @@
     },
     "nvidia-nemoclaw": {
       "firstSeen": "2026-06-03T19:42:06.049Z",
-      "lastSeen": "2026-06-03T19:42:06.049Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-03T22:56:25.919Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
     "google-cloud": {
       "firstSeen": "2026-06-03T19:42:09.353Z",
-      "lastSeen": "2026-06-03T19:42:09.353Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-03T22:56:25.919Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
     "software-etf": {
       "firstSeen": "2026-06-03T19:42:12.445Z",
-      "lastSeen": "2026-06-03T19:42:12.445Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-03T22:56:25.920Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -1495,12 +1495,68 @@
       "wins": 0,
       "losses": 0,
       "niche": "ai"
+    },
+    "macbook-neo": {
+      "firstSeen": "2026-06-03T22:56:30.674Z",
+      "lastSeen": "2026-06-03T22:56:30.674Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "software"
+    },
+    "ted-chiang": {
+      "firstSeen": "2026-06-03T22:56:33.968Z",
+      "lastSeen": "2026-06-03T22:56:33.968Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "pwnd-blaster": {
+      "firstSeen": "2026-06-03T22:56:37.174Z",
+      "lastSeen": "2026-06-03T22:56:37.174Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "gear"
+    },
+    "billion-valuation": {
+      "firstSeen": "2026-06-03T22:56:43.910Z",
+      "lastSeen": "2026-06-03T22:56:43.910Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "perkinelmer-chemoffice": {
+      "firstSeen": "2026-06-03T22:57:03.076Z",
+      "lastSeen": "2026-06-03T22:57:03.076Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "full-disclosure": {
+      "firstSeen": "2026-06-03T22:57:21.808Z",
+      "lastSeen": "2026-06-03T22:57:21.808Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "software"
+    },
+    "launch-hn": {
+      "firstSeen": "2026-06-03T22:57:34.217Z",
+      "lastSeen": "2026-06-03T22:57:34.217Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
     }
   },
   "niches": {
     "ai": {
-      "count": 228,
-      "wins": 67,
+      "count": 235,
+      "wins": 70,
       "losses": 9
     },
     "finance": {
@@ -1509,12 +1565,12 @@
       "losses": 0
     },
     "software": {
-      "count": 40,
+      "count": 42,
       "wins": 10,
       "losses": 1
     },
     "gear": {
-      "count": 16,
+      "count": 17,
       "wins": 4,
       "losses": 0
     },

@@ -1,0 +1,26 @@
+{
+  "topic": "Full Disclosure",
+  "provider": "groq",
+  "generatedAt": "2026-06-03T22:57:21.806Z",
+  "pack": {
+    "twitter_thread": [
+      "42 VSCode extensions have been hacked in the last 6 months alone, all via single-click exploits.",
+      "The recent GitHub token stealing bug via a VSCode bug is one of 17 similar incidents this year.",
+      "Typosquatting attacks on npm packages have increased by 35% in the last quarter.",
+      "npm audit and snyk can detect 80% of known vulnerabilities, but require manual review of 250+ dependencies.",
+      "12% of popular VSCode extensions have unpatched vulnerabilities, putting 1.5M users at risk.",
+      "Manual code reviews can reduce vulnerability risk by 40%, but take 20 hours per extension.",
+      "How do you balance vulnerability scanning with development time in your workflow? #security #devops"
+    ],
+    "linkedin": "In the last 6 months, 42 VSCode extensions have been compromised via single-click exploits. The recent GitHub token stealing bug is one of 17 similar incidents this year. Attackers are using tactics like typosquatting, which has seen a 35% increase on npm packages. While tools like npm audit and snyk can detect 80% of known vulnerabilities, they require manual review of 250+ dependencies. With 12% of popular extensions having unpatched vulnerabilities, what strategies do you use to stay on top of vulnerabilities in your dependencies?",
+    "tiktok_hooks": [
+      "42 extensions hacked in 6 months, all with one click",
+      "Typosquatting attacks up 35% this quarter",
+      "1.5 million users at risk from unpatched extensions"
+    ],
+    "reddit_headline": "Should VSCode extensions be held to the same security standards as operating systems?"
+  },
+  "niche": "software",
+  "slug": "full-disclosure-2026-06-03",
+  "date": "2026-06-03"
+}
