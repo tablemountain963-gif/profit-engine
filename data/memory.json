@@ -842,9 +842,9 @@
     },
     "silent-sunday": {
       "firstSeen": "2026-05-31T14:42:42.541Z",
-      "lastSeen": "2026-05-31T14:42:42.541Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-04T16:19:28.174Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -1570,9 +1570,9 @@
     },
     "berkeley-cs": {
       "firstSeen": "2026-06-04T05:53:59.950Z",
-      "lastSeen": "2026-06-04T05:53:59.950Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-04T16:19:28.175Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -1591,12 +1591,84 @@
       "wins": 0,
       "losses": 0,
       "niche": "ai"
+    },
+    "marjane-satrapi": {
+      "firstSeen": "2026-06-04T16:19:33.931Z",
+      "lastSeen": "2026-06-04T16:19:33.931Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "software"
+    },
+    "asvine-c2000": {
+      "firstSeen": "2026-06-04T16:19:37.226Z",
+      "lastSeen": "2026-06-04T16:19:37.226Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "codex-skill": {
+      "firstSeen": "2026-06-04T16:19:40.401Z",
+      "lastSeen": "2026-06-04T16:19:40.401Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "saas": {
+      "firstSeen": "2026-06-04T16:19:54.681Z",
+      "lastSeen": "2026-06-04T16:19:54.681Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "code-puppy": {
+      "firstSeen": "2026-06-04T16:19:59.764Z",
+      "lastSeen": "2026-06-04T16:19:59.764Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "light-mount": {
+      "firstSeen": "2026-06-04T16:20:09.286Z",
+      "lastSeen": "2026-06-04T16:20:09.286Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "gear"
+    },
+    "several-injured": {
+      "firstSeen": "2026-06-04T16:20:39.069Z",
+      "lastSeen": "2026-06-04T16:20:39.069Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "gear"
+    },
+    "fred-rogers-productions": {
+      "firstSeen": "2026-06-04T16:21:01.107Z",
+      "lastSeen": "2026-06-04T16:21:01.107Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "software"
+    },
+    "mister-rogers": {
+      "firstSeen": "2026-06-04T16:21:24.015Z",
+      "lastSeen": "2026-06-04T16:21:24.015Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "software"
     }
   },
   "niches": {
     "ai": {
-      "count": 241,
-      "wins": 71,
+      "count": 247,
+      "wins": 73,
       "losses": 9
     },
     "finance": {
@@ -1605,12 +1677,12 @@
       "losses": 0
     },
     "software": {
-      "count": 43,
+      "count": 46,
       "wins": 10,
       "losses": 2
     },
     "gear": {
-      "count": 19,
+      "count": 21,
       "wins": 5,
       "losses": 0
     },

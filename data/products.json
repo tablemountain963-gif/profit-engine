@@ -1,6 +1,51 @@
 {
   "items": [
     {
+      "slug": "mini-ebook-light-mount-2026-06-04",
+      "title": "Light Mount: A 30-Minute Field Guide",
+      "blurb": "Read it in 30 minutes. Apply it forever. Field guide to Light Mount.",
+      "type": "mini-ebook",
+      "topic": "Light Mount",
+      "niche": "gear",
+      "price": 14,
+      "generatedAt": "2026-06-04T16:19:59.764Z",
+      "files": [
+        "ebook.md",
+        "README.md",
+        "LICENSE.txt"
+      ]
+    },
+    {
+      "slug": "prompt-pack-code-puppy-2026-06-04",
+      "title": "Code Puppy Prompt Pack — 50 Battle-Tested Prompts",
+      "blurb": "50 proven prompts for Code Puppy. Copy/paste ready. Tested across Claude, GPT, Gemini.",
+      "type": "prompt-pack",
+      "topic": "Code Puppy",
+      "niche": "ai",
+      "price": 19,
+      "generatedAt": "2026-06-04T16:19:54.682Z",
+      "files": [
+        "prompts.md",
+        "README.md",
+        "LICENSE.txt"
+      ]
+    },
+    {
+      "slug": "prompt-pack-saas-2026-06-04",
+      "title": "SAAS Prompt Pack — 50 Battle-Tested Prompts",
+      "blurb": "50 proven prompts for SAAS. Copy/paste ready. Tested across Claude, GPT, Gemini.",
+      "type": "prompt-pack",
+      "topic": "SAAS",
+      "niche": "ai",
+      "price": 19,
+      "generatedAt": "2026-06-04T16:19:40.741Z",
+      "files": [
+        "prompts.md",
+        "README.md",
+        "LICENSE.txt"
+      ]
+    },
+    {
       "slug": "mini-ebook-night-sleep-2026-06-04",
       "title": "Night Sleep: A 30-Minute Field Guide",
       "blurb": "Read it in 30 minutes. Apply it forever. Field guide to Night Sleep.",

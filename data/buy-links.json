@@ -281,5 +281,26 @@
     "price": 14,
     "productId": "prod_UdlmzDItYZEuff",
     "cover": "/assets/pack-cover.png"
+  },
+  "mini-ebook-light-mount-2026-06-04": {
+    "url": "https://buy.stripe.com/eVqdR84SY7XwanNdogfjG0E",
+    "platform": "stripe",
+    "price": 14,
+    "productId": "prod_UdvrGQbvI5YNG6",
+    "cover": "/assets/pack-cover.png"
+  },
+  "prompt-pack-code-puppy-2026-06-04": {
+    "url": "https://buy.stripe.com/bJefZg0CI7Xw8fFeskfjG0F",
+    "platform": "stripe",
+    "price": 19,
+    "productId": "prod_UdvrIaouCbMJAY",
+    "cover": "/assets/pack-cover.png"
+  },
+  "prompt-pack-saas-2026-06-04": {
+    "url": "https://buy.stripe.com/4gMbJ099eb9I2Vl2JCfjG0G",
+    "platform": "stripe",
+    "price": 19,
+    "productId": "prod_UdvrZuKsykJpVI",
+    "cover": "/assets/pack-cover.png"
   }
 }

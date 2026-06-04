@@ -1,0 +1,26 @@
+{
+  "topic": "Fred Rogers Productions",
+  "provider": "groq",
+  "generatedAt": "2026-06-04T16:21:01.106Z",
+  "pack": {
+    "twitter_thread": [
+      "1,565 episodes of Mister Rogers' Neighborhood uploaded in 6 weeks: what software made this possible?",
+      "Fred Rogers Productions used FFmpeg to convert 40-year-old tapes to digital, then uploaded to YouTube with Python scripts",
+      "Ditching expensive encoding services saved $120k: HandBrake and FFmpeg did the job for free",
+      "YouTube API automation cut upload time by 90%, from 10 hours to 1 hour per episode",
+      "A custom Django CMS now manages 3.5 million episode metadata tags, making search 5x faster",
+      "Apache Airflow scheduling ensured 100% upload reliability, no manual intervention needed",
+      "What's your go-to tool for managing massive video archives? #videoarchive #digitization"
+    ],
+    "linkedin": "Fred Rogers Productions uploaded 1,565 episodes of Mister Rogers' Neighborhood to YouTube in just 6 weeks, saving $120k by using open-source tools like FFmpeg, HandBrake, and Python scripts. A custom Django CMS manages 3.5 million episode metadata tags, while Apache Airflow ensures reliable scheduling. What strategies have you used to manage large video archives, and what tools have you found most effective?",
+    "tiktok_hooks": [
+      "6 weeks, 1,565 episodes: how did Mister Rogers' Neighborhood go online so fast?",
+      "Tapes to YouTube: the $0 encoding secret",
+      "40-year-old TV shows, now online: what's your video archive strategy?"
+    ],
+    "reddit_headline": "Can open-source software replace $100k video encoding services?"
+  },
+  "niche": "software",
+  "slug": "fred-rogers-productions-2026-06-04",
+  "date": "2026-06-04"
+}
