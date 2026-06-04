@@ -1,265 +1,188 @@
 {
-  "generatedAt": "2026-06-03T22:56:26.751Z",
+  "generatedAt": "2026-06-04T05:53:49.289Z",
   "sourceCount": 204,
   "topItems": [
     {
       "title": "Uber's $1,500/month AI limit is a useful signal for AI tool pricing",
       "url": "https://simonwillison.net/2026/Jun/3/uber-caps-usage/",
-      "score": 10.11,
+      "score": 10.58,
       "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 310,
-        "comments": 391
+        "score": 431,
+        "comments": 540
       }
     },
     {
-      "title": "cpaczek/skylight — Project the aircraft passing overhead onto your ceiling in real time, from an RTL-SDR — with a live sky layer (sun, moon, stars, ISS) and where each plane is headed.",
-      "url": "https://github.com/cpaczek/skylight",
-      "score": 9.53,
-      "niche": "ai",
-      "source": "github",
-      "engagement": {
-        "score": 729,
-        "comments": 0
-      }
-    },
-    {
-      "title": "\"You have improved,\" the swordmaster said.\"Thanks to my new sword,\" said the student. The swordmaster studied the blade and frowned. \"This is enchanted?\"\"You know about cursed swords that whisper that",
-      "url": "https://mastodon.art/@MicroSFF/116688080234570106",
-      "score": 9.2,
+      "title": "I guess fundamentally my objection to vibe coding and LLM contributions in general is that, at least to me, the process of figuring shit out is the point.I think cutting out that journey is bad engine",
+      "url": "https://social.treehouse.systems/@ariadne/116688916287254403",
+      "score": 9.65,
       "niche": "ai",
       "source": "mastodon",
       "engagement": {
-        "score": 309,
-        "comments": 3
+        "score": 383,
+        "comments": 18
       }
     },
     {
       "title": "Gemma 4 12B: A unified, encoder-free multimodal model",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/",
-      "score": 8.98,
+      "score": 9.27,
       "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 616,
-        "comments": 251
+        "score": 776,
+        "comments": 314
       }
     },
     {
-      "title": "MacBook Neo is so popular that Apple doubled production",
-      "url": "https://www.macrumors.com/2026/06/03/macbook-neo-production-doubled-says-kuo/",
-      "score": 8.62,
-      "niche": "software",
+      "title": "I built a vulnerable app and spent $1,500 seeing if LLMs could hack it",
+      "url": "https://kasra.blog/blog/i-spent-1500-seeing-if-llms-could-hack-my-app/",
+      "score": 8.65,
+      "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 295,
-        "comments": 309
+        "score": 127,
+        "comments": 48
+      }
+    },
+    {
+      "title": "The ways we contain Claude across products",
+      "url": "https://www.anthropic.com/engineering/how-we-contain-claude",
+      "score": 8.23,
+      "niche": "ai",
+      "source": "hackernews",
+      "engagement": {
+        "score": 89,
+        "comments": 41
       }
     },
     {
       "title": "For pride month, you can no longer use the phrase \"let me get this straight\".You have to use \"just so we're queer\".",
       "url": "https://mastodon.social/@paultk/116688278793224139",
-      "score": 8.21,
+      "score": 8.17,
       "niche": "ai",
       "source": "mastodon",
       "engagement": {
-        "score": 353,
-        "comments": 7
-      }
-    },
-    {
-      "title": "Adult gaming routine:✓ Spend 8 hours earning money✓ Spend 1 hour deciding what to play✓ Start a game✓ Play through exactly one loading screen & 10 mins✓ Suddenly remember you're 40+ and exhausted✓ Clo",
-      "url": "https://mastodon.social/@nixCraft/116687647323839962",
-      "score": 8.18,
-      "niche": "finance",
-      "source": "mastodon",
-      "engagement": {
-        "score": 452,
-        "comments": 40
-      }
-    },
-    {
-      "title": "I've noted elsewhere I was gifted a pair of Meta glasses and they haven't left their box, not only for the privacy implications outlined in the this video, but because of all the companies I want to s",
-      "url": "https://mastodon.social/@scalzi/116687329066602627",
-      "score": 7.59,
-      "niche": "ai",
-      "source": "mastodon",
-      "engagement": {
-        "score": 203,
+        "score": 1519,
         "comments": 16
       }
     },
     {
-      "title": "Another banger by Ted Chiang on \"AI\":\"Employing philosophers might endow LLM companies with an air of respectability that slot-machine makers don’t get from the behavioral psychologists they hire, but",
-      "url": "https://tldr.nettime.org/@tante/116687765595271436",
-      "score": 7.58,
-      "niche": "ai",
-      "source": "mastodon",
-      "engagement": {
-        "score": 218,
-        "comments": 7
-      }
-    },
-    {
-      "title": "We just released the first beta version of Mastodon 4.6 🎉Highlights for this release are the profile page redesign and the ability to create curated Collections of Mastodon accounts, but it contains ",
-      "url": "https://mastodon.social/@MastodonEngineering/116687014689391748",
-      "score": 7.55,
-      "niche": "ai",
-      "source": "mastodon",
-      "engagement": {
-        "score": 349,
-        "comments": 9
-      }
-    },
-    {
-      "title": "A company that makes a no-tech, repairable tractor is having trouble keeping up with demand from farmers sick of John Deere's repair monopoly and simply want a tractor that turns on and works:\n\nwww.40",
-      "url": "https://fed.brid.gy/r/https://bsky.app/profile/did:plc:cjfcz3t36f6nrprarkhkycxo/post/3mnfpcu6x5c2t",
-      "score": 7.37,
-      "niche": "ai",
-      "source": "mastodon",
-      "engagement": {
-        "score": 182,
-        "comments": 9
-      }
-    },
-    {
-      "title": "Rootshell: A new E2EE email service hosted in Iceland",
-      "url": "https://rootshell.is",
-      "score": 7.29,
+      "title": "Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes",
+      "url": "https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html",
+      "score": 7.91,
       "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 37,
-        "comments": 29
+        "score": 137,
+        "comments": 79
       }
     },
     {
-      "title": "The future used to be flying cars. Now I'm excited when a product comes with a headphone jack.",
-      "url": "https://mastodon.social/@fribbledom/116688031245140064",
-      "score": 7.24,
-      "niche": "gear",
+      "title": "I promise this is not AI.This is the sitting US president trying to convince the press, that he is doing important work, because he is renovating the pool in the local park, and that pool is longer th",
+      "url": "https://mastodon.social/@randahl/116688680964145926",
+      "score": 7.62,
+      "niche": "ai",
       "source": "mastodon",
       "engagement": {
-        "score": 170,
-        "comments": 3
+        "score": 318,
+        "comments": 35
       }
     },
     {
-      "title": "Wellness Briefing: How top brands are training employees to use AI tools, plus news",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZlJidlk4QllzVUVncmRoMTRLQjh1SVRTSFZJNWhNWTRjTFVmWnM1N0lvUzdzMFNMa25obEc2UEs5RlpBdzBLSFBpYTJJaDd3X0kwam5ncm84RUFIVVI4NWpUMmVsM1Y1eFNwcG8yNDBIY0JRMXYyTl92VVNseHpOcDNPYUd5N0hEck9KM0hweU1aaUlUeTdUQkFqQnMzVURYeWlrRw?oc=5",
-      "score": 7.23,
+      "title": "cpaczek/skylight — Project the aircraft passing overhead onto your ceiling in real time, from an RTL-SDR — with a live sky layer (sun, moon, stars, ISS) and where each plane is headed.",
+      "url": "https://github.com/cpaczek/skylight",
+      "score": 7.38,
       "niche": "ai",
-      "source": "gnews",
+      "source": "github",
       "engagement": {
-        "score": 40,
+        "score": 903,
         "comments": 0
       }
     },
     {
-      "title": "I'm putting together a talk for next week, and I had to go through my photos of the Crew Dragon Trunk debris pickup by SpaceX employees in Ituna, Saskatchewan 2 years ago.And damn, if I've accomplishe",
-      "url": "https://mastodon.social/@sundogplanets/116687995823654845",
-      "score": 7.16,
+      "title": "TIL, Vim Classic is HERE. A fork of Vim 8.x, built for long-term stability, maintained entirely by humans. No chaos. No breaking changes. Just the editor you trust, kept alive https://vim-classic.org",
+      "url": "https://mastodon.social/@nixCraft/116689189489486460",
+      "score": 7.38,
       "niche": "ai",
       "source": "mastodon",
       "engagement": {
-        "score": 164,
-        "comments": 4
+        "score": 189,
+        "comments": 6
       }
     },
     {
       "title": "Mathematicians issue warning as AI rapidly gains ground",
       "url": "https://www.science.org/content/article/mathematicians-issue-warning-ai-rapidly-gains-ground",
-      "score": 6.95,
+      "score": 7.3,
       "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 145,
-        "comments": 187
+        "score": 210,
+        "comments": 251
       }
     },
     {
-      "title": "The @EUCommission just released a statement positioning open source as central to #Europe’s #TechSovereignty.We couldn’t agree more. #OpenSource is critical to a robust and independent society.Here’s ",
-      "url": "https://mastodon.social/@Mastodon/116686738841941842",
-      "score": 6.95,
-      "niche": "software",
+      "title": "My fundamental view on this is simple. LLM AI systems being operated by Big Tech, and presented as \"virtual humans\", that is, interacting with users in a manner similar to that of a human being and pr",
+      "url": "https://mastodon.laurenweinstein.org/@lauren/116689309792745029",
+      "score": 6.93,
+      "niche": "ai",
       "source": "mastodon",
       "engagement": {
-        "score": 1240,
-        "comments": 11
+        "score": 137,
+        "comments": 4
       }
     },
     {
-      "title": "Launch HN: Hyper (YC P26) – Company brain to power agentic development",
-      "url": "https://news.ycombinator.com/item?id=48387095",
-      "score": 6.79,
+      "title": "🖨️🩷 Longshot… do I know anyone in/near Portland, Oregon who happens to own the same printer/toner as me?Xerox VersaLink C500 — magenta tonerI just ran out while printing a mountain of zines for an e",
+      "url": "https://ruby.social/@veganstraightedge/116689532473580426",
+      "score": 6.81,
       "niche": "ai",
-      "source": "hackernews",
+      "source": "mastodon",
       "engagement": {
-        "score": 45,
-        "comments": 43
-      }
-    },
-    {
-      "title": "Pwnd Blaster: Hacking your PC using your speaker without ever touching it",
-      "url": "https://blog.nns.ee/2026/06/03/katana-badusb/",
-      "score": 6.52,
-      "niche": "gear",
-      "source": "hackernews",
-      "engagement": {
-        "score": 619,
-        "comments": 98
-      }
-    },
-    {
-      "title": "rsync and outrage",
-      "url": "https://medium.com/@tridge60/rsync-and-outrage-d9849599e5a0",
-      "score": 6.51,
-      "niche": "ai",
-      "source": "lobsters",
-      "engagement": {
-        "score": 97,
-        "comments": 126
+        "score": 68,
+        "comments": 1
       }
     },
     {
       "title": ".furry - A Top-Level Domain for furries",
       "url": "https://www.dotfurry.org/",
-      "score": 6.46,
+      "score": 6.65,
       "niche": "ai",
       "source": "lobsters",
       "engagement": {
-        "score": 72,
-        "comments": 42
+        "score": 84,
+        "comments": 48
       }
     },
     {
-      "title": "Gooey: A GPU-accelerated UI framework for Zig",
-      "url": "https://github.com/duanebester/gooey",
-      "score": 6.39,
-      "niche": "software",
-      "source": "hackernews",
+      "title": "Clouds being born behind the village of Fasaig.",
+      "url": "https://mastodonapp.uk/@GetCarter/116689891389647233",
+      "score": 6.17,
+      "niche": "ai",
+      "source": "mastodon",
       "engagement": {
-        "score": 122,
-        "comments": 34
+        "score": 82,
+        "comments": 1
       }
     },
     {
-      "title": "Brume is a 24-voice multi-timbral desktop synth for the CM5",
-      "url": "https://brume.aftertone.co/",
-      "score": 5.9,
-      "niche": "gear",
-      "source": "hackernews",
+      "title": "With Steven Spielberg’s new film \"Disclosure Day\" about to debut, scientists and educators will face a new barrage of questions from students and the public about UAPs.Andrew Fraknoi has put together ",
+      "url": "https://mastodon.social/@setiinstitute/116688816596322164",
+      "score": 6.13,
+      "niche": "ai",
+      "source": "mastodon",
       "engagement": {
-        "score": 39,
-        "comments": 14
+        "score": 238,
+        "comments": 5
       }
     },
     {
-      "title": "10 Of The Best Gadgets On Amazon For Dog Lovers",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNa01ZMlZZVGlNVDNlYnVoTGtqbEtxN0JBUzJkWHFYUkh3STRrM1pjQk1wRzhlbWdMcXVpekp0OTZ2VlAxSEx2Sk80SlBYR3k1NzN0M05ncU1KX3Qtckw3c1dqc3kydWxCcGRIOHRmdG4zRE9faFVSOHJRTTdsM1ljTQ?oc=5",
-      "score": 5.87,
-      "niche": "gear",
+      "title": "CORSAIR Reveals New Gaming Keyboard, Stream Deck Mouse And Headsets At Computex 2026",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZjFXX3ZocGZxeVM1Y18zMXdqOVVSSS1PZVFhUmRwZmlGZ3ZnTzgzNmxvemhpRE9sV01FSEl3eVN4RVNYUFVHY1lGbjVFNnYtMUxnUy1oNFNRSVZSTjBkNl9KZWhjS2JwLTlSOHRjNzZTQkQ2S2Yzb2hiczZjVmwyWnJDVTREM2hYN0dxczlqRmRDNnFzamlYRkNqejVid0h2WmxPSHZqRUR2aHZzQXBxc05xNA?oc=5",
+      "score": 5.94,
+      "niche": "ai",
       "source": "gnews",
       "engagement": {
         "score": 40,
@@ -267,50 +190,99 @@
       }
     },
     {
-      "title": "Best of Computex 2026: The 17 greatest gadgets from the world’s largest computing show",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4za2xLTHNNdC1VQ1FsVXJkTkRkRDRacjhZREVIZ19CVk1lZWIxMFlZRzhSZVdCLVFsR2NmVGVWOTJrYTh3bFBxV3ZTZlBJWHBpa2lqb09LS0FvUWpWOFgybWEtNVNSZFI5?oc=5",
-      "score": 5.87,
-      "niche": "gear",
+      "title": "Launch HN: Hyper (YC P26) – Company brain to power agentic development",
+      "url": "https://news.ycombinator.com/item?id=48387095",
+      "score": 5.77,
+      "niche": "ai",
+      "source": "hackernews",
+      "engagement": {
+        "score": 62,
+        "comments": 58
+      }
+    },
+    {
+      "title": "Gooey: A GPU-accelerated UI framework for Zig",
+      "url": "https://github.com/duanebester/gooey",
+      "score": 5.44,
+      "niche": "software",
+      "source": "hackernews",
+      "engagement": {
+        "score": 156,
+        "comments": 55
+      }
+    },
+    {
+      "title": "Best AI for PPC: Cut CPC and Scale Campaigns Smarter",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5odTQ3LUxja3pyNEF1amxFS0RZSGFHRzdvS2Ewell4bDY0UllvUzJ0eC1jUUhTamdGNzFrLV9ycUNhXzQxaURKMlVTTDh1eXd5ZFFQS1Z5YnVIWFk?oc=5",
+      "score": 5.37,
+      "niche": "ai",
       "source": "gnews",
       "engagement": {
         "score": 40,
+        "comments": 0
+      }
+    },
+    {
+      "title": "Self-hosted dev sandboxes with preview URLs (Docker, Go, no K8s)",
+      "url": "https://github.com/tastyeffectco/sandboxes",
+      "score": 5.31,
+      "niche": "software",
+      "source": "hackernews",
+      "engagement": {
+        "score": 74,
+        "comments": 20
+      }
+    },
+    {
+      "title": "BoltMerchant/PerkinElmer-ChemOffice-cracked — PerkinElmer ChemOffice - Chemistry productivity suite with drawing, modeling, and databases. Includes setup guide, feature overview, and download instruct",
+      "url": "https://github.com/BoltMerchant/PerkinElmer-ChemOffice-cracked",
+      "score": 5.13,
+      "niche": "ai",
+      "source": "github",
+      "engagement": {
+        "score": 113,
+        "comments": 0
+      }
+    },
+    {
+      "title": "rsync and outrage",
+      "url": "https://medium.com/@tridge60/rsync-and-outrage-d9849599e5a0",
+      "score": 4.96,
+      "niche": "ai",
+      "source": "lobsters",
+      "engagement": {
+        "score": 108,
+        "comments": 137
+      }
+    },
+    {
+      "title": "Back-to-school shoppers to utilize AI tools to find best deals, value",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQV3hfR2lmb29NcmYzZXhqaWtBUTZJdThtVzN1V1BlUVowblh6TGs5TjI1OXhMdEduMjRoY2lsYVlXVldqVG9TV19LcGVHZm1pcF9KS3VxMldCMUEtdER4bXRyVjJ0a0hxYlo3MnpMYjFyT0J1Q2xMMGNJY1hTa1dpY0dNaVV6b0ppc1ZteTdR?oc=5",
+      "score": 4.95,
+      "niche": "ai",
+      "source": "gnews",
+      "engagement": {
+        "score": 40,
+        "comments": 0
+      }
+    },
+    {
+      "title": "isvylaur/LSFG-Github — lossless scaling lsfg 3.0 steam github android download lsfg 3.1 lsfg 4.0 frame generation x2 x3 x4 amd fsr ls1 nvidia nis integer scaling download steam official application st",
+      "url": "https://github.com/isvylaur/LSFG-Github",
+      "score": 4.93,
+      "niche": "software",
+      "source": "github",
+      "engagement": {
+        "score": 81,
         "comments": 0
       }
     }
   ],
   "topics": [
     {
-      "keyword": "wellness briefing",
-      "count": 11,
-      "score": 119.21698268872287,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "Wellness Briefing: How top brands are training employees to use AI tools, plus news",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZlJidlk4QllzVUVncmRoMTRLQjh1SVRTSFZJNWhNWTRjTFVmWnM1N0lvUzdzMFNMa25obEc2UEs5RlpBdzBLSFBpYTJJaDd3X0kwam5ncm84RUFIVVI4NWpUMmVsM1Y1eFNwcG8yNDBIY0JRMXYyTl92VVNseHpOcDNPYUd5N0hEck9KM0hweU1aaUlUeTdUQkFqQnMzVURYeWlrRw?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Wellness Briefing: How top brands are training employees to use AI tools, plus news",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZlJidlk4QllzVUVncmRoMTRLQjh1SVRTSFZJNWhNWTRjTFVmWnM1N0lvUzdzMFNMa25obEc2UEs5RlpBdzBLSFBpYTJJaDd3X0kwam5ncm84RUFIVVI4NWpUMmVsM1Y1eFNwcG8yNDBIY0JRMXYyTl92VVNseHpOcDNPYUd5N0hEck9KM0hweU1aaUlUeTdUQkFqQnMzVURYeWlrRw?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Wellness Briefing: How top brands are training employees to use AI tools, plus news",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZlJidlk4QllzVUVncmRoMTRLQjh1SVRTSFZJNWhNWTRjTFVmWnM1N0lvUzdzMFNMa25obEc2UEs5RlpBdzBLSFBpYTJJaDd3X0kwam5ncm84RUFIVVI4NWpUMmVsM1Y1eFNwcG8yNDBIY0JRMXYyTl92VVNseHpOcDNPYUd5N0hEck9KM0hweU1aaUlUeTdUQkFqQnMzVURYeWlrRw?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "27d0c1986522",
-      "slug": "wellness-briefing"
-    },
-    {
       "keyword": "sleep",
-      "count": 18,
-      "score": 112.17234280257102,
+      "count": 27,
+      "score": 168.25851420385652,
       "proper": true,
       "niches": [
         "gear"
@@ -346,70 +318,221 @@
       "slug": "sleep"
     },
     {
-      "keyword": "macbook neo",
-      "count": 8,
-      "score": 103.46730386372302,
+      "keyword": "vim classic",
+      "count": 16,
+      "score": 103.8638957199144,
       "proper": true,
       "niches": [
-        "software"
+        "ai",
+        "general"
       ],
       "examples": [
         {
-          "title": "MacBook Neo is so popular that Apple doubled production",
-          "url": "https://www.macrumors.com/2026/06/03/macbook-neo-production-doubled-says-kuo/",
-          "source": "hackernews"
+          "title": "TIL, Vim Classic is HERE. A fork of Vim 8.x, built for long-term stability, maintained entirely by humans. No chaos. No breaking changes. Just the editor you trust, kept alive https://vim-classic.org",
+          "url": "https://mastodon.social/@nixCraft/116689189489486460",
+          "source": "mastodon"
         },
         {
-          "title": "MacBook Neo is so popular that Apple doubled production",
-          "url": "https://www.macrumors.com/2026/06/03/macbook-neo-production-doubled-says-kuo/",
-          "source": "hackernews"
+          "title": "TIL, Vim Classic is HERE. A fork of Vim 8.x, built for long-term stability, maintained entirely by humans. No chaos. No breaking changes. Just the editor you trust, kept alive https://vim-classic.org",
+          "url": "https://mastodon.social/@nixCraft/116689189489486460",
+          "source": "mastodon"
+        },
+        {
+          "title": "Vim Classic 8.3 released",
+          "url": "https://vim-classic.org/news/vim-8.3-released.html",
+          "source": "lobsters"
+        },
+        {
+          "title": "Vim Classic 8.3 released",
+          "url": "https://vim-classic.org/news/vim-8.3-released.html",
+          "source": "lobsters"
         }
       ],
-      "id": "373e6b671b36",
-      "slug": "macbook-neo"
+      "id": "8e5a6ddc679c",
+      "slug": "vim-classic"
     },
     {
-      "keyword": "ted chiang",
-      "count": 8,
-      "score": 90.90646736739913,
+      "keyword": "campaigns smarter",
+      "count": 11,
+      "score": 88.56118714019414,
       "proper": true,
       "niches": [
         "ai"
       ],
       "examples": [
         {
-          "title": "Another banger by Ted Chiang on \"AI\":\"Employing philosophers might endow LLM companies with an air of respectability that slot-machine makers don’t get from the behavioral psychologists they hire, but",
-          "url": "https://tldr.nettime.org/@tante/116687765595271436",
-          "source": "mastodon"
+          "title": "Best AI for PPC: Cut CPC and Scale Campaigns Smarter",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5odTQ3LUxja3pyNEF1amxFS0RZSGFHRzdvS2Ewell4bDY0UllvUzJ0eC1jUUhTamdGNzFrLV9ycUNhXzQxaURKMlVTTDh1eXd5ZFFQS1Z5YnVIWFk?oc=5",
+          "source": "gnews"
         },
         {
-          "title": "Another banger by Ted Chiang on \"AI\":\"Employing philosophers might endow LLM companies with an air of respectability that slot-machine makers don’t get from the behavioral psychologists they hire, but",
-          "url": "https://tldr.nettime.org/@tante/116687765595271436",
-          "source": "mastodon"
+          "title": "Best AI for PPC: Cut CPC and Scale Campaigns Smarter",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5odTQ3LUxja3pyNEF1amxFS0RZSGFHRzdvS2Ewell4bDY0UllvUzJ0eC1jUUhTamdGNzFrLV9ycUNhXzQxaURKMlVTTDh1eXd5ZFFQS1Z5YnVIWFk?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Best AI for PPC: Cut CPC and Scale Campaigns Smarter",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5odTQ3LUxja3pyNEF1amxFS0RZSGFHRzdvS2Ewell4bDY0UllvUzJ0eC1jUUhTamdGNzFrLV9ycUNhXzQxaURKMlVTTDh1eXd5ZFFQS1Z5YnVIWFk?oc=5",
+          "source": "gnews"
         }
       ],
-      "id": "6eb0ea9bd7a1",
-      "slug": "ted-chiang"
+      "id": "8823f3771060",
+      "slug": "campaigns-smarter"
     },
     {
-      "keyword": "gadgets amazon",
+      "keyword": "software",
+      "count": 16,
+      "score": 81.54498782879017,
+      "proper": true,
+      "niches": [
+        "ai",
+        "software"
+      ],
+      "examples": [
+        {
+          "title": "Lovable Expands Collaboration With Google Cloud to Scale AI-Powered Software Creation",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNdk4yYUlnYVJqeVRQd3hYdG8tWkY4VHAzbWZaYV85UWp0M1NZM29ST2Vvd21tamkxOTU2RjBmZTFhZXFPQTQ3YmtZNEgwc2h1RkYtUUJMRHZaOUVFNUM1by1TbkpYc2haenZ4TnZmUHRVNWE0ZVNHSUI4Z1dEamIwd3ZCWFZDYnBXSkJYaFFDT0hXcm81NktMU3U0QWhFbW5CLXJtVGNERmFrZmZBbFg0QlFZTmh2NjJ6bHVSekVkd1Z6WTV0Z2gwRy1PMFVQNUVC?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "A software engineer created a 90-day AI course to help workers across departments build the tech they want",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSmM3Y2Z3blFEcnFGUFBBTF9GamF6WFk0YzM4ZXN0WVpIemsxYVFhbnA2YWRpYXMxbFM5VGkyWnpKZGhnTnNvMk4tZ3BoZzdibjFONHYwRFRMWm12OGhKOG9Qc1dpUlFQNmtSUU1QRmExVGI2a3ZkYzZnb0xIMGNHSEFLVU5vbHhKU3JLdjdVY0dBbmFGbm5qdURRUFgyRG8?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "A software engineer created a 90-day AI course to help workers across departments build the tech they want",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSmM3Y2Z3blFEcnFGUFBBTF9GamF6WFk0YzM4ZXN0WVpIemsxYVFhbnA2YWRpYXMxbFM5VGkyWnpKZGhnTnNvMk4tZ3BoZzdibjFONHYwRFRMWm12OGhKOG9Qc1dpUlFQNmtSUU1QRmExVGI2a3ZkYzZnb0xIMGNHSEFLVU5vbHhKU3JLdjdVY0dBbmFGbm5qdURRUFgyRG8?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Broadcom stock plunges on weak software sales, unchanged AI chip forecast for the year",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9MUWNtalczVVl2UEVtVFhSUF9QVnZVd2ZuU01aaFZaTGZuOWpNWW1Wc1Y3Q050V1ZiRWs3MVE0R3ZUd196Sno4LUZkWUJadnRHaWI5VHpLVGRwQTBTZkJuY2JZelp1VWQyUTlpYVJrVTd2YkdSblQwNzV6dmk0aknSAYQBQVVfeXFMTTBfUHNDN2g0eG9Gc3VON0cwRFlFRUhLcDBMbmNZUXVPcTFVWFNwWTZibW51MkFuS1BON0xTTXVHbFd6N21LekpLZVF5NFBobnJTTnJxa0VhdGxzV3hDS3RYc2RIWHJlMG1LR2xXUlYtSGhsbGx1Y3JsTm8wbk5UUXhOZGJU?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "My Software North Star",
+          "url": "https://kristoff.it/blog/north-star/",
+          "source": "lobsters"
+        }
+      ],
+      "id": "35390f5453e8",
+      "slug": "software"
+    },
+    {
+      "keyword": "keyboard",
+      "count": 16,
+      "score": 81.36172000379722,
+      "proper": true,
+      "niches": [
+        "ai",
+        "gear",
+        "general"
+      ],
+      "examples": [
+        {
+          "title": "CORSAIR Reveals New Gaming Keyboard, Stream Deck Mouse And Headsets At Computex 2026",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZjFXX3ZocGZxeVM1Y18zMXdqOVVSSS1PZVFhUmRwZmlGZ3ZnTzgzNmxvemhpRE9sV01FSEl3eVN4RVNYUFVHY1lGbjVFNnYtMUxnUy1oNFNRSVZSTjBkNl9KZWhjS2JwLTlSOHRjNzZTQkQ2S2Yzb2hiczZjVmwyWnJDVTREM2hYN0dxczlqRmRDNnFzamlYRkNqejVid0h2WmxPSHZqRUR2aHZzQXBxc05xNA?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "CORSAIR Reveals New Gaming Keyboard, Stream Deck Mouse And Headsets At Computex 2026",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZjFXX3ZocGZxeVM1Y18zMXdqOVVSSS1PZVFhUmRwZmlGZ3ZnTzgzNmxvemhpRE9sV01FSEl3eVN4RVNYUFVHY1lGbjVFNnYtMUxnUy1oNFNRSVZSTjBkNl9KZWhjS2JwLTlSOHRjNzZTQkQ2S2Yzb2hiczZjVmwyWnJDVTREM2hYN0dxczlqRmRDNnFzamlYRkNqejVid0h2WmxPSHZqRUR2aHZzQXBxc05xNA?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "CORSAIR Reveals New Gaming Keyboard, Stream Deck Mouse And Headsets At Computex 2026",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZjFXX3ZocGZxeVM1Y18zMXdqOVVSSS1PZVFhUmRwZmlGZ3ZnTzgzNmxvemhpRE9sV01FSEl3eVN4RVNYUFVHY1lGbjVFNnYtMUxnUy1oNFNRSVZSTjBkNl9KZWhjS2JwLTlSOHRjNzZTQkQ2S2Yzb2hiczZjVmwyWnJDVTREM2hYN0dxczlqRmRDNnFzamlYRkNqejVid0h2WmxPSHZqRUR2aHZzQXBxc05xNA?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Hands-on with Asus’ ROG Azoth Extreme Edition 20 mechanical keyboard – when carbon fiber isn’t enough, Asus goes for the gold",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVEJtTlpSVzdIM2I2ZGpIaUx3ZzM5YzF2WGRLY2FnQkZFY2dIZlJrdXF0V3BUYi1TbEZ0M3dtbUFvcUU1LTNQbTdWMWNvZnZnVHBBNzczR3ZkQURoaHJqTUhJSDVFRWcweUg3NWZiNC1iQmk1N2pPbGhWRGkzN0pEMktucUM2a0sta2lUSmFXcjZwT04zeXNyaE9oT1Nmd25tamZQUTBEVTBSNjJRVTY3Q01CNVowTkVYV1VyMENzaEd6Q0U?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "CHERRY XTRFY K63W Pro: World’s First Wireless 8K UWB Gaming Keyboard",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPaUVvNDItaFlBN3JLbFczTDhNdjhybktKZlpLSW5PS05sUS1Ud3NmNXU1c25abFpHY2prWDZONnRnR0FDLTltdWUxZEptZWd3NExRYjlZZnFtVzRLVnZveWFVS0hHSGtiVENieTN4RDBvY2YtME1xWkFaRjJQQTB1bFNESjFkTk4xTWFHOWtDU0s4V2FXXzZaa0ZQajhITUt2S1pF?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "91f060a9ad4b",
+      "slug": "keyboard"
+    },
+    {
+      "keyword": "claude",
+      "count": 9,
+      "score": 79.10172891721518,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "The ways we contain Claude across products",
+          "url": "https://www.anthropic.com/engineering/how-we-contain-claude",
+          "source": "hackernews"
+        },
+        {
+          "title": "The ways we contain Claude across products",
+          "url": "https://www.anthropic.com/engineering/how-we-contain-claude",
+          "source": "hackernews"
+        },
+        {
+          "title": "The Claude skill I built for myself is the only productivity hack that stuck",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOV081b0ZNOW9QNHBURTVQbERoUzZGWHBtTEloalRabTN0ZUVKaV9IYVZSb3EySHpIcUstOWUxUmR1bUw2Nmdyd1hsOHpxdE53QlN2ejBNaGthT2hTTlJaaG1wRWRzc1hsZm5wLXNEZ0hsUFJLbEt6Y3RTdjZ3Rk93RHBReHFuLVM0cWpKWFF6Y0FpWXgtQTR1OHN6VTNid1BSaWxoXzB4NnM2MUlO?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "The Claude skill I built for myself is the only productivity hack that stuck",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOV081b0ZNOW9QNHBURTVQbERoUzZGWHBtTEloalRabTN0ZUVKaV9IYVZSb3EySHpIcUstOWUxUmR1bUw2Nmdyd1hsOHpxdE53QlN2ejBNaGthT2hTTlJaaG1wRWRzc1hsZm5wLXNEZ0hsUFJLbEt6Y3RTdjZ3Rk93RHBReHFuLVM0cWpKWFF6Y0FpWXgtQTR1OHN6VTNid1BSaWxoXzB4NnM2MUlO?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "claude-code-generator 0.6.5",
+          "url": "https://pypi.org/project/claude-code-generator/0.6.5/",
+          "source": "pypi"
+        }
+      ],
+      "id": "c857d09db23e",
+      "slug": "claude"
+    },
+    {
+      "keyword": "google cloud",
+      "count": 11,
+      "score": 78.34258862401788,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "Lovable Expands Collaboration With Google Cloud to Scale AI-Powered Software Creation",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNdk4yYUlnYVJqeVRQd3hYdG8tWkY4VHAzbWZaYV85UWp0M1NZM29ST2Vvd21tamkxOTU2RjBmZTFhZXFPQTQ3YmtZNEgwc2h1RkYtUUJMRHZaOUVFNUM1by1TbkpYc2haenZ4TnZmUHRVNWE0ZVNHSUI4Z1dEamIwd3ZCWFZDYnBXSkJYaFFDT0hXcm81NktMU3U0QWhFbW5CLXJtVGNERmFrZmZBbFg0QlFZTmh2NjJ6bHVSekVkd1Z6WTV0Z2gwRy1PMFVQNUVC?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Lovable Expands Collaboration With Google Cloud to Scale AI-Powered Software Creation",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNdk4yYUlnYVJqeVRQd3hYdG8tWkY4VHAzbWZaYV85UWp0M1NZM29ST2Vvd21tamkxOTU2RjBmZTFhZXFPQTQ3YmtZNEgwc2h1RkYtUUJMRHZaOUVFNUM1by1TbkpYc2haenZ4TnZmUHRVNWE0ZVNHSUI4Z1dEamIwd3ZCWFZDYnBXSkJYaFFDT0hXcm81NktMU3U0QWhFbW5CLXJtVGNERmFrZmZBbFg0QlFZTmh2NjJ6bHVSekVkd1Z6WTV0Z2gwRy1PMFVQNUVC?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Lovable Expands Collaboration With Google Cloud to Scale AI-Powered Software Creation",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNdk4yYUlnYVJqeVRQd3hYdG8tWkY4VHAzbWZaYV85UWp0M1NZM29ST2Vvd21tamkxOTU2RjBmZTFhZXFPQTQ3YmtZNEgwc2h1RkYtUUJMRHZaOUVFNUM1by1TbkpYc2haenZ4TnZmUHRVNWE0ZVNHSUI4Z1dEamIwd3ZCWFZDYnBXSkJYaFFDT0hXcm81NktMU3U0QWhFbW5CLXJtVGNERmFrZmZBbFg0QlFZTmh2NjJ6bHVSekVkd1Z6WTV0Z2gwRy1PMFVQNUVC?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "d9b1d7819af9",
+      "slug": "google-cloud"
+    },
+    {
+      "keyword": "sleep gadgets",
       "count": 18,
-      "score": 85.07757400967947,
+      "score": 74.78156186838068,
       "proper": false,
       "niches": [
         "gear"
       ],
       "examples": [
-        {
-          "title": "10 Of The Best Gadgets On Amazon For Dog Lovers",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNa01ZMlZZVGlNVDNlYnVoTGtqbEtxN0JBUzJkWHFYUkh3STRrM1pjQk1wRzhlbWdMcXVpekp0OTZ2VlAxSEx2Sk80SlBYR3k1NzN0M05ncU1KX3Qtckw3c1dqc3kydWxCcGRIOHRmdG4zRE9faFVSOHJRTTdsM1ljTQ?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "10 Of The Best Gadgets On Amazon For Dog Lovers",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNa01ZMlZZVGlNVDNlYnVoTGtqbEtxN0JBUzJkWHFYUkh3STRrM1pjQk1wRzhlbWdMcXVpekp0OTZ2VlAxSEx2Sk80SlBYR3k1NzN0M05ncU1KX3Qtckw3c1dqc3kydWxCcGRIOHRmdG4zRE9faFVSOHJRTTdsM1ljTQ?oc=5",
-          "source": "gnews"
-        },
         {
           "title": "The 10 Best Sleep Gadgets on Amazon for Getting a Good Night’s Sleep",
           "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYVVYdDdEUUVXSTJqR096RXV5NzgwQUJ0X1NGaE5mZFoxOWhjNDR5MURvMld3WHNhNlh4aDBueDR0by1lR2VIeV9CazRzTll0eDdyeHNtZTZDOWpXbTZUOEhUd09GR2ZWNUpSeGw4TE1ZVnRGemVQcDdBWFE4MkNHejZ3R3I0azNfa3poQ1lPNkZWSXR2YzZr?oc=5",
@@ -424,33 +547,134 @@
           "title": "The 10 Best Sleep Gadgets on Amazon for Getting a Good Night’s Sleep",
           "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQU3hUOGVmYWpXMHc0LXhob3ZXMkZNel9yc0E0T1QwSzN3TENyVmZBQ3otNGtLRW92UmpuM0IxLUU0Ynl0a1ZxbUFqVFRMenVvMVdhQ2Q5ak5ub29nYVpmX2lFOFpnZmVXc2ttRDlhZ1d4YWJzV3JmWndQOFpMUjYwZk13?oc=5",
           "source": "gnews"
+        },
+        {
+          "title": "The 10 Best Sleep Gadgets on Amazon for Getting a Good Night’s Sleep",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQU3hUOGVmYWpXMHc0LXhob3ZXMkZNel9yc0E0T1QwSzN3TENyVmZBQ3otNGtLRW92UmpuM0IxLUU0Ynl0a1ZxbUFqVFRMenVvMVdhQ2Q5ak5ub29nYVpmX2lFOFpnZmVXc2ttRDlhZ1d4YWJzV3JmWndQOFpMUjYwZk13?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "The 10 Best Sleep Gadgets on Amazon for Getting a Good Night’s Sleep",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9BZkZxT0hza2FEUng4ODc0cWFWUjdGa1NjVlNtLUR5SXYwZTl6dWEwSnkwSEdqdDZXYjJHZHdkS0JjOXJWQzg0T0lHWHVkeTc0dVJITktFazVkd0ZZcC1zM3R3U3E5a1BlZVN3aXEtUUE5dThELUoybUNRc20?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "5ad38b777617",
+      "slug": "sleep-gadgets"
+    },
+    {
+      "keyword": "gadgets amazon",
+      "count": 18,
+      "score": 74.78156186838068,
+      "proper": false,
+      "niches": [
+        "gear"
+      ],
+      "examples": [
+        {
+          "title": "The 10 Best Sleep Gadgets on Amazon for Getting a Good Night’s Sleep",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYVVYdDdEUUVXSTJqR096RXV5NzgwQUJ0X1NGaE5mZFoxOWhjNDR5MURvMld3WHNhNlh4aDBueDR0by1lR2VIeV9CazRzTll0eDdyeHNtZTZDOWpXbTZUOEhUd09GR2ZWNUpSeGw4TE1ZVnRGemVQcDdBWFE4MkNHejZ3R3I0azNfa3poQ1lPNkZWSXR2YzZr?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "The 10 Best Sleep Gadgets on Amazon for Getting a Good Night’s Sleep",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYVVYdDdEUUVXSTJqR096RXV5NzgwQUJ0X1NGaE5mZFoxOWhjNDR5MURvMld3WHNhNlh4aDBueDR0by1lR2VIeV9CazRzTll0eDdyeHNtZTZDOWpXbTZUOEhUd09GR2ZWNUpSeGw4TE1ZVnRGemVQcDdBWFE4MkNHejZ3R3I0azNfa3poQ1lPNkZWSXR2YzZr?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "The 10 Best Sleep Gadgets on Amazon for Getting a Good Night’s Sleep",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQU3hUOGVmYWpXMHc0LXhob3ZXMkZNel9yc0E0T1QwSzN3TENyVmZBQ3otNGtLRW92UmpuM0IxLUU0Ynl0a1ZxbUFqVFRMenVvMVdhQ2Q5ak5ub29nYVpmX2lFOFpnZmVXc2ttRDlhZ1d4YWJzV3JmWndQOFpMUjYwZk13?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "The 10 Best Sleep Gadgets on Amazon for Getting a Good Night’s Sleep",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQU3hUOGVmYWpXMHc0LXhob3ZXMkZNel9yc0E0T1QwSzN3TENyVmZBQ3otNGtLRW92UmpuM0IxLUU0Ynl0a1ZxbUFqVFRMenVvMVdhQ2Q5ak5ub29nYVpmX2lFOFpnZmVXc2ttRDlhZ1d4YWJzV3JmWndQOFpMUjYwZk13?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "The 10 Best Sleep Gadgets on Amazon for Getting a Good Night’s Sleep",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9BZkZxT0hza2FEUng4ODc0cWFWUjdGa1NjVlNtLUR5SXYwZTl6dWEwSnkwSEdqdDZXYjJHZHdkS0JjOXJWQzg0T0lHWHVkeTc0dVJITktFazVkd0ZZcC1zM3R3U3E5a1BlZVN3aXEtUUE5dThELUoybUNRc20?oc=5",
+          "source": "gnews"
         }
       ],
       "id": "147124fbc310",
       "slug": "gadgets-amazon"
     },
     {
-      "keyword": "pwnd blaster",
-      "count": 8,
-      "score": 78.26623146730378,
-      "proper": true,
+      "keyword": "amazon night",
+      "count": 18,
+      "score": 74.78156186838068,
+      "proper": false,
       "niches": [
         "gear"
       ],
       "examples": [
         {
-          "title": "Pwnd Blaster: Hacking your PC using your speaker without ever touching it",
-          "url": "https://blog.nns.ee/2026/06/03/katana-badusb/",
-          "source": "hackernews"
+          "title": "The 10 Best Sleep Gadgets on Amazon for Getting a Good Night’s Sleep",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYVVYdDdEUUVXSTJqR096RXV5NzgwQUJ0X1NGaE5mZFoxOWhjNDR5MURvMld3WHNhNlh4aDBueDR0by1lR2VIeV9CazRzTll0eDdyeHNtZTZDOWpXbTZUOEhUd09GR2ZWNUpSeGw4TE1ZVnRGemVQcDdBWFE4MkNHejZ3R3I0azNfa3poQ1lPNkZWSXR2YzZr?oc=5",
+          "source": "gnews"
         },
         {
-          "title": "Pwnd Blaster: Hacking your PC using your speaker without ever touching it",
-          "url": "https://blog.nns.ee/2026/06/03/katana-badusb/",
-          "source": "hackernews"
+          "title": "The 10 Best Sleep Gadgets on Amazon for Getting a Good Night’s Sleep",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYVVYdDdEUUVXSTJqR096RXV5NzgwQUJ0X1NGaE5mZFoxOWhjNDR5MURvMld3WHNhNlh4aDBueDR0by1lR2VIeV9CazRzTll0eDdyeHNtZTZDOWpXbTZUOEhUd09GR2ZWNUpSeGw4TE1ZVnRGemVQcDdBWFE4MkNHejZ3R3I0azNfa3poQ1lPNkZWSXR2YzZr?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "The 10 Best Sleep Gadgets on Amazon for Getting a Good Night’s Sleep",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQU3hUOGVmYWpXMHc0LXhob3ZXMkZNel9yc0E0T1QwSzN3TENyVmZBQ3otNGtLRW92UmpuM0IxLUU0Ynl0a1ZxbUFqVFRMenVvMVdhQ2Q5ak5ub29nYVpmX2lFOFpnZmVXc2ttRDlhZ1d4YWJzV3JmWndQOFpMUjYwZk13?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "The 10 Best Sleep Gadgets on Amazon for Getting a Good Night’s Sleep",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQU3hUOGVmYWpXMHc0LXhob3ZXMkZNel9yc0E0T1QwSzN3TENyVmZBQ3otNGtLRW92UmpuM0IxLUU0Ynl0a1ZxbUFqVFRMenVvMVdhQ2Q5ak5ub29nYVpmX2lFOFpnZmVXc2ttRDlhZ1d4YWJzV3JmWndQOFpMUjYwZk13?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "The 10 Best Sleep Gadgets on Amazon for Getting a Good Night’s Sleep",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9BZkZxT0hza2FEUng4ODc0cWFWUjdGa1NjVlNtLUR5SXYwZTl6dWEwSnkwSEdqdDZXYjJHZHdkS0JjOXJWQzg0T0lHWHVkeTc0dVJITktFazVkd0ZZcC1zM3R3U3E5a1BlZVN3aXEtUUE5dThELUoybUNRc20?oc=5",
+          "source": "gnews"
         }
       ],
-      "id": "de5681935097",
-      "slug": "pwnd-blaster"
+      "id": "0e08b9c188ce",
+      "slug": "amazon-night"
+    },
+    {
+      "keyword": "night sleep",
+      "count": 18,
+      "score": 74.78156186838068,
+      "proper": false,
+      "niches": [
+        "gear"
+      ],
+      "examples": [
+        {
+          "title": "The 10 Best Sleep Gadgets on Amazon for Getting a Good Night’s Sleep",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYVVYdDdEUUVXSTJqR096RXV5NzgwQUJ0X1NGaE5mZFoxOWhjNDR5MURvMld3WHNhNlh4aDBueDR0by1lR2VIeV9CazRzTll0eDdyeHNtZTZDOWpXbTZUOEhUd09GR2ZWNUpSeGw4TE1ZVnRGemVQcDdBWFE4MkNHejZ3R3I0azNfa3poQ1lPNkZWSXR2YzZr?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "The 10 Best Sleep Gadgets on Amazon for Getting a Good Night’s Sleep",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYVVYdDdEUUVXSTJqR096RXV5NzgwQUJ0X1NGaE5mZFoxOWhjNDR5MURvMld3WHNhNlh4aDBueDR0by1lR2VIeV9CazRzTll0eDdyeHNtZTZDOWpXbTZUOEhUd09GR2ZWNUpSeGw4TE1ZVnRGemVQcDdBWFE4MkNHejZ3R3I0azNfa3poQ1lPNkZWSXR2YzZr?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "The 10 Best Sleep Gadgets on Amazon for Getting a Good Night’s Sleep",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQU3hUOGVmYWpXMHc0LXhob3ZXMkZNel9yc0E0T1QwSzN3TENyVmZBQ3otNGtLRW92UmpuM0IxLUU0Ynl0a1ZxbUFqVFRMenVvMVdhQ2Q5ak5ub29nYVpmX2lFOFpnZmVXc2ttRDlhZ1d4YWJzV3JmWndQOFpMUjYwZk13?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "The 10 Best Sleep Gadgets on Amazon for Getting a Good Night’s Sleep",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQU3hUOGVmYWpXMHc0LXhob3ZXMkZNel9yc0E0T1QwSzN3TENyVmZBQ3otNGtLRW92UmpuM0IxLUU0Ynl0a1ZxbUFqVFRMenVvMVdhQ2Q5ak5ub29nYVpmX2lFOFpnZmVXc2ttRDlhZ1d4YWJzV3JmWndQOFpMUjYwZk13?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "The 10 Best Sleep Gadgets on Amazon for Getting a Good Night’s Sleep",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9BZkZxT0hza2FEUng4ODc0cWFWUjdGa1NjVlNtLUR5SXYwZTl6dWEwSnkwSEdqdDZXYjJHZHdkS0JjOXJWQzg0T0lHWHVkeTc0dVJITktFazVkd0ZZcC1zM3R3U3E5a1BlZVN3aXEtUUE5dThELUoybUNRc20?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "107a6e5b3ecd",
+      "slug": "night-sleep"
     },
     {
       "keyword": "data science",
@@ -492,8 +716,8 @@
     },
     {
       "keyword": "personal finance",
-      "count": 33,
-      "score": 67.30147034091456,
+      "count": 24,
+      "score": 64.83391104013337,
       "proper": false,
       "niches": [
         "ai",
@@ -521,8 +745,8 @@
           "source": "gnews"
         },
         {
-          "title": "The best personal finance tools to help you reach 6 money goals in 2026",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNTjlkR1VlMXJ1MjR0LURjbjl2QWo5ejdlYjN0UWFYQnZrVWNydkh2cUxEeEZRQXpaWXhpT2VNeHNtUlRoUy1JaW44WmMwQTdaVEtDbE5Yb3kzUWEzUTdaNlVLYXd1LXJTbC1pQ181U0ktRVM1OGUwbkhpN3F6Y1JMNUtzcUJfUdIBiwFBVV95cUxPc3pfOHZqRlMxakh3cVhGbEZ1SzgzY2tUR0ppcEg4ZVlxNlZyaF9hd01YZDJ5a0lpRkV5RHoySHZ4Qzlta0U0cW5XYzNDMlRaUTNIaGZmb3hzaXpaR1dnUGt0MFZDNmpIYTRISXBfQTBHdmYxOVotR2VhakU2U3pZbWNJQk9zNkdjeE9J?oc=5",
+          "title": "3 things Dave Ramsey gets wrong about personal finance",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPR3FubUJpRHkzRHJyS2JsaGtWUUI4LTJNYnJPcGpLbHRRd3NIZHRfbmJQNHBIV3llZW45OWZNbnZOOEZrZ2xxWlVtQVhMcGo5VUJ6QXJ2WFJOb0VFMENoWERvSTB4b1FqVkszVE5pME8yZlpsSUhOX19FRm83a0JuTVlyS2gxbEN6Z3d2SnJDa2piTUZnOXFab1d6YVRFQjYtX1Ew?oc=5",
           "source": "gnews"
         }
       ],
@@ -530,127 +754,38 @@
       "slug": "personal-finance"
     },
     {
-      "keyword": "flight simulator",
-      "count": 11,
-      "score": 64.82423433699304,
-      "proper": true,
-      "niches": [
-        "software"
-      ],
-      "examples": [
-        {
-          "title": "New auxiliary display for Flight Simulator, sim racing and productivity apps unveiled",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVHhJWE9tTFRKaEE1ZUdYejhWVlZITHAxRVNROFcydmpMbnpZQS1KYzdjV3ZVVU9vTDAzN01uV2dFcjZRUXFER3dQeDROMDNVZF80Szl5N2Q0RmVtU2IzRzluYWthQ2NaQVZaaTJJby0tQlBUMWc5UEhtUURIV3NQUnQ5NHZENEdaN1NGRjJ1ZXhnWnNnMWJqbHR1dllqRl81dU96cTFoQmF2SW1tS1A3M29ad2NZWktJWUpIc2pXZzN5dmFRUzRPNA?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "New auxiliary display for Flight Simulator, sim racing and productivity apps unveiled",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVHhJWE9tTFRKaEE1ZUdYejhWVlZITHAxRVNROFcydmpMbnpZQS1KYzdjV3ZVVU9vTDAzN01uV2dFcjZRUXFER3dQeDROMDNVZF80Szl5N2Q0RmVtU2IzRzluYWthQ2NaQVZaaTJJby0tQlBUMWc5UEhtUURIV3NQUnQ5NHZENEdaN1NGRjJ1ZXhnWnNnMWJqbHR1dllqRl81dU96cTFoQmF2SW1tS1A3M29ad2NZWktJWUpIc2pXZzN5dmFRUzRPNA?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "New auxiliary display for Flight Simulator, sim racing and productivity apps unveiled",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVHhJWE9tTFRKaEE1ZUdYejhWVlZITHAxRVNROFcydmpMbnpZQS1KYzdjV3ZVVU9vTDAzN01uV2dFcjZRUXFER3dQeDROMDNVZF80Szl5N2Q0RmVtU2IzRzluYWthQ2NaQVZaaTJJby0tQlBUMWc5UEhtUURIV3NQUnQ5NHZENEdaN1NGRjJ1ZXhnWnNnMWJqbHR1dllqRl81dU96cTFoQmF2SW1tS1A3M29ad2NZWktJWUpIc2pXZzN5dmFRUzRPNA?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "1f16f19af453",
-      "slug": "flight-simulator"
-    },
-    {
-      "keyword": "apple",
-      "count": 5,
-      "score": 64.66706491482688,
-      "proper": true,
-      "niches": [
-        "software"
-      ],
-      "examples": [
-        {
-          "title": "MacBook Neo is so popular that Apple doubled production",
-          "url": "https://www.macrumors.com/2026/06/03/macbook-neo-production-doubled-says-kuo/",
-          "source": "hackernews"
-        }
-      ],
-      "id": "3a7bd3e2360a",
-      "slug": "apple"
-    },
-    {
-      "keyword": "productivity apps",
-      "count": 33,
-      "score": 62.99533744347286,
+      "keyword": "computex 2026",
+      "count": 12,
+      "score": 63.78882710097898,
       "proper": false,
       "niches": [
-        "software"
+        "ai",
+        "gear"
       ],
       "examples": [
         {
-          "title": "New auxiliary display for Flight Simulator, sim racing and productivity apps unveiled",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVHhJWE9tTFRKaEE1ZUdYejhWVlZITHAxRVNROFcydmpMbnpZQS1KYzdjV3ZVVU9vTDAzN01uV2dFcjZRUXFER3dQeDROMDNVZF80Szl5N2Q0RmVtU2IzRzluYWthQ2NaQVZaaTJJby0tQlBUMWc5UEhtUURIV3NQUnQ5NHZENEdaN1NGRjJ1ZXhnWnNnMWJqbHR1dllqRl81dU96cTFoQmF2SW1tS1A3M29ad2NZWktJWUpIc2pXZzN5dmFRUzRPNA?oc=5",
+          "title": "CORSAIR Reveals New Gaming Keyboard, Stream Deck Mouse And Headsets At Computex 2026",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZjFXX3ZocGZxeVM1Y18zMXdqOVVSSS1PZVFhUmRwZmlGZ3ZnTzgzNmxvemhpRE9sV01FSEl3eVN4RVNYUFVHY1lGbjVFNnYtMUxnUy1oNFNRSVZSTjBkNl9KZWhjS2JwLTlSOHRjNzZTQkQ2S2Yzb2hiczZjVmwyWnJDVTREM2hYN0dxczlqRmRDNnFzamlYRkNqejVid0h2WmxPSHZqRUR2aHZzQXBxc05xNA?oc=5",
           "source": "gnews"
         },
         {
-          "title": "The Best Productivity Apps for 2026",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1hcGhhTzd4UXY0VzB6MjRBcjZDR3ozczlxVFd4eVZmRGpjNVk2Z1ZCd3pIa0hBMUcxN3hEQTloZjh0dmdLMl9EakVNYjl0ZFBRQldfZEtqbGVmNGNtYTBNSllINjZ1aUU3aWp0ZGMyOTg0eGJE?oc=5",
+          "title": "CORSAIR Reveals New Gaming Keyboard, Stream Deck Mouse And Headsets At Computex 2026",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZjFXX3ZocGZxeVM1Y18zMXdqOVVSSS1PZVFhUmRwZmlGZ3ZnTzgzNmxvemhpRE9sV01FSEl3eVN4RVNYUFVHY1lGbjVFNnYtMUxnUy1oNFNRSVZSTjBkNl9KZWhjS2JwLTlSOHRjNzZTQkQ2S2Yzb2hiczZjVmwyWnJDVTREM2hYN0dxczlqRmRDNnFzamlYRkNqejVid0h2WmxPSHZqRUR2aHZzQXBxc05xNA?oc=5",
           "source": "gnews"
         },
         {
-          "title": "The Best Productivity Apps for 2026",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1hcGhhTzd4UXY0VzB6MjRBcjZDR3ozczlxVFd4eVZmRGpjNVk2Z1ZCd3pIa0hBMUcxN3hEQTloZjh0dmdLMl9EakVNYjl0ZFBRQldfZEtqbGVmNGNtYTBNSllINjZ1aUU3aWp0ZGMyOTg0eGJE?oc=5",
+          "title": "Best of Computex 2026: The 17 greatest gadgets from the world’s largest computing show",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4za2xLTHNNdC1VQ1FsVXJkTkRkRDRacjhZREVIZ19CVk1lZWIxMFlZRzhSZVdCLVFsR2NmVGVWOTJrYTh3bFBxV3ZTZlBJWHBpa2lqb09LS0FvUWpWOFgybWEtNVNSZFI5?oc=5",
           "source": "gnews"
         },
         {
-          "title": "Best productivity apps in Windows to go from idea to done faster",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNc1hnaURNdXZhTVBPcUZCLWFjZ2FqWW5zdm1LTWZ6WDExclJjMkh4S0FXQmEyVjFGbTBZNXdlcXpnREc0YjhoWUtpM1hyNTBiTmo3NHo4N1pZV3lwZ21YNnJGazk4QnU5NDlacmRNVll1V3JCQ201TTdPZ2RRc1cxN0V4bVdhbkg5Yk5YRVVKeUZwa2s?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Best productivity apps in Windows to go from idea to done faster",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNc1hnaURNdXZhTVBPcUZCLWFjZ2FqWW5zdm1LTWZ6WDExclJjMkh4S0FXQmEyVjFGbTBZNXdlcXpnREc0YjhoWUtpM1hyNTBiTmo3NHo4N1pZV3lwZ21YNnJGazk4QnU5NDlacmRNVll1V3JCQ201TTdPZ2RRc1cxN0V4bVdhbkg5Yk5YRVVKeUZwa2s?oc=5",
+          "title": "Best of Computex 2026: The 17 greatest gadgets from the world’s largest computing show",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4za2xLTHNNdC1VQ1FsVXJkTkRkRDRacjhZREVIZ19CVk1lZWIxMFlZRzhSZVdCLVFsR2NmVGVWOTJrYTh3bFBxV3ZTZlBJWHBpa2lqb09LS0FvUWpWOFgybWEtNVNSZFI5?oc=5",
           "source": "gnews"
         }
       ],
-      "id": "c3d816ac2a46",
-      "slug": "productivity-apps"
-    },
-    {
-      "keyword": "side hustle",
-      "count": 24,
-      "score": 62.39538184877313,
-      "proper": false,
-      "niches": [
-        "finance",
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "6 side hustle businesses you can launch with $0",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONzdLLVdBSkp5bUlVMVVvR040ZEtEQWdZZWJSTzZzREZfSlo1Q19OcXZsLTNXWnhId3YwVUhHZkYtdW1ySEpkRVFzS0h1bFc4blhhbWVBb3lUemNJZHFfdFMzTklhOFVpb0Y4SldrZVJ0cnMxTlNJU1FNN3JKRXc0WkZVRmlQSkswMVE?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "6 side hustle businesses you can launch with $0",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONzdLLVdBSkp5bUlVMVVvR040ZEtEQWdZZWJSTzZzREZfSlo1Q19OcXZsLTNXWnhId3YwVUhHZkYtdW1ySEpkRVFzS0h1bFc4blhhbWVBb3lUemNJZHFfdFMzTklhOFVpb0Y4SldrZVJ0cnMxTlNJU1FNN3JKRXc0WkZVRmlQSkswMVE?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "How To Use ChatGPT To Launch A Travel Side Hustle This Summer",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZDduOF9jUElRSVltd1ZNSEVwYzIza1dDNy1MUVFOMklSZVZJZmhDYU90dlNGSXE4b1BWTzd2WVk4T3NvcWtsZXRRMnVpYk9WR0Q1TDlzNVR5SVg0WjlTellOV00xUUM1MDZjblRqNWE2SWJja0pDdk51MTFKWUt2YzNHRWRFb1BhcHA2WWp5OUNfbTFMTWVjVTBFbGF4ZTVOaEIyMS1LaGRMNDRyakIxUkxqTno0bWs?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "How To Use ChatGPT To Launch A Travel Side Hustle This Summer",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZDduOF9jUElRSVltd1ZNSEVwYzIza1dDNy1MUVFOMklSZVZJZmhDYU90dlNGSXE4b1BWTzd2WVk4T3NvcWtsZXRRMnVpYk9WR0Q1TDlzNVR5SVg0WjlTellOV00xUUM1MDZjblRqNWE2SWJja0pDdk51MTFKWUt2YzNHRWRFb1BhcHA2WWp5OUNfbTFMTWVjVTBFbGF4ZTVOaEIyMS1LaGRMNDRyakIxUkxqTno0bWs?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "6 AI Side Hustle Businesses Anyone Can Start",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZzNLUGhvaGhQTFNBODNVTVBBeHNfTDhYcHdzUTJva3lKZjlOZ0JkZFRKWWE1R3lpc2ZKdUlESEttR1pMODBiQVNmUmxEbG1GdkRUT2RjVU4yYmdQSGVFc1ZuVTRLUXBJYm1Ub09XVjAzNWRGcm5RaUdnekdRRDRpcXhfWEFvcktoc1h4QzRmMA?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "57270ed2efc7",
-      "slug": "side-hustle"
+      "id": "d101def4eb02",
+      "slug": "computex-2026"
     },
     {
       "keyword": "perkinelmer chemoffice",
@@ -674,106 +809,13 @@
       ],
       "id": "d399dfcb18a3",
       "slug": "perkinelmer-chemoffice"
-    },
-    {
-      "keyword": "claude",
-      "count": 9,
-      "score": 59.91814584485164,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "ChatGPT vs Claude vs Gemini: Which AI Is Best?",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1TTGpXM1BWTGllMVNFTXRLemlzUXEtZ3NpMXVmbS1IVmhlNGpTM0NxeVpsaTNmVzRXYlhCYkViRUJLbFMzX3VXTzNneUtWb3VyQ0ZuUU1HOXRabU5FQTUtbnZIbGpLS1VlUVd6WHBLRl8?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "ChatGPT vs Claude vs Gemini: Which AI Is Best?",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1TTGpXM1BWTGllMVNFTXRLemlzUXEtZ3NpMXVmbS1IVmhlNGpTM0NxeVpsaTNmVzRXYlhCYkViRUJLbFMzX3VXTzNneUtWb3VyQ0ZuUU1HOXRabU5FQTUtbnZIbGpLS1VlUVd6WHBLRl8?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "ChatGPT vs Claude vs Gemini: Which AI Is Best?",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1TTGpXM1BWTGllMVNFTXRLemlzUXEtZ3NpMXVmbS1IVmhlNGpTM0NxeVpsaTNmVzRXYlhCYkViRUJLbFMzX3VXTzNneUtWb3VyQ0ZuUU1HOXRabU5FQTUtbnZIbGpLS1VlUVd6WHBLRl8?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "The Claude skill I built for myself is the only productivity hack that stuck",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOV081b0ZNOW9QNHBURTVQbERoUzZGWHBtTEloalRabTN0ZUVKaV9IYVZSb3EySHpIcUstOWUxUmR1bUw2Nmdyd1hsOHpxdE53QlN2ejBNaGthT2hTTlJaaG1wRWRzc1hsZm5wLXNEZ0hsUFJLbEt6Y3RTdjZ3Rk93RHBReHFuLVM0cWpKWFF6Y0FpWXgtQTR1OHN6VTNid1BSaWxoXzB4NnM2MUlO?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "The Claude skill I built for myself is the only productivity hack that stuck",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOV081b0ZNOW9QNHBURTVQbERoUzZGWHBtTEloalRabTN0ZUVKaV9IYVZSb3EySHpIcUstOWUxUmR1bUw2Nmdyd1hsOHpxdE53QlN2ejBNaGthT2hTTlJaaG1wRWRzc1hsZm5wLXNEZ0hsUFJLbEt6Y3RTdjZ3Rk93RHBReHFuLVM0cWpKWFF6Y0FpWXgtQTR1OHN6VTNid1BSaWxoXzB4NnM2MUlO?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "c857d09db23e",
-      "slug": "claude"
-    },
-    {
-      "keyword": "full disclosure",
-      "count": 8,
-      "score": 59.159813804885445,
-      "proper": true,
-      "niches": [
-        "software"
-      ],
-      "examples": [
-        {
-          "title": "Full Disclosure: 1-Click GitHub Token Stealing via a VSCode Bug",
-          "url": "https://blog.ammaraskar.com/github-token-stealing/",
-          "source": "lobsters"
-        },
-        {
-          "title": "Full Disclosure: 1-Click GitHub Token Stealing via a VSCode Bug",
-          "url": "https://blog.ammaraskar.com/github-token-stealing/",
-          "source": "lobsters"
-        }
-      ],
-      "id": "ec8819a6bdcb",
-      "slug": "full-disclosure"
     }
   ],
   "opportunities": [
     {
-      "keyword": "wellness briefing",
-      "count": 11,
-      "score": 119.21698268872287,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "Wellness Briefing: How top brands are training employees to use AI tools, plus news",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZlJidlk4QllzVUVncmRoMTRLQjh1SVRTSFZJNWhNWTRjTFVmWnM1N0lvUzdzMFNMa25obEc2UEs5RlpBdzBLSFBpYTJJaDd3X0kwam5ncm84RUFIVVI4NWpUMmVsM1Y1eFNwcG8yNDBIY0JRMXYyTl92VVNseHpOcDNPYUd5N0hEck9KM0hweU1aaUlUeTdUQkFqQnMzVURYeWlrRw?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Wellness Briefing: How top brands are training employees to use AI tools, plus news",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZlJidlk4QllzVUVncmRoMTRLQjh1SVRTSFZJNWhNWTRjTFVmWnM1N0lvUzdzMFNMa25obEc2UEs5RlpBdzBLSFBpYTJJaDd3X0kwam5ncm84RUFIVVI4NWpUMmVsM1Y1eFNwcG8yNDBIY0JRMXYyTl92VVNseHpOcDNPYUd5N0hEck9KM0hweU1aaUlUeTdUQkFqQnMzVURYeWlrRw?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Wellness Briefing: How top brands are training employees to use AI tools, plus news",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZlJidlk4QllzVUVncmRoMTRLQjh1SVRTSFZJNWhNWTRjTFVmWnM1N0lvUzdzMFNMa25obEc2UEs5RlpBdzBLSFBpYTJJaDd3X0kwam5ncm84RUFIVVI4NWpUMmVsM1Y1eFNwcG8yNDBIY0JRMXYyTl92VVNseHpOcDNPYUd5N0hEck9KM0hweU1aaUlUeTdUQkFqQnMzVURYeWlrRw?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "27d0c1986522",
-      "slug": "wellness-briefing",
-      "opportunity": {
-        "type": "niche-content",
-        "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
-      }
-    },
-    {
       "keyword": "sleep",
-      "count": 18,
-      "score": 112.17234280257102,
+      "count": 27,
+      "score": 168.25851420385652,
       "proper": true,
       "niches": [
         "gear"
@@ -813,78 +855,245 @@
       }
     },
     {
-      "keyword": "macbook neo",
-      "count": 8,
-      "score": 103.46730386372302,
+      "keyword": "vim classic",
+      "count": 16,
+      "score": 103.8638957199144,
       "proper": true,
       "niches": [
-        "software"
+        "ai",
+        "general"
       ],
       "examples": [
         {
-          "title": "MacBook Neo is so popular that Apple doubled production",
-          "url": "https://www.macrumors.com/2026/06/03/macbook-neo-production-doubled-says-kuo/",
-          "source": "hackernews"
-        },
-        {
-          "title": "MacBook Neo is so popular that Apple doubled production",
-          "url": "https://www.macrumors.com/2026/06/03/macbook-neo-production-doubled-says-kuo/",
-          "source": "hackernews"
-        }
-      ],
-      "id": "373e6b671b36",
-      "slug": "macbook-neo",
-      "opportunity": {
-        "type": "niche-content",
-        "recommended": "Publish niche guide for \"software\"; bundle into digital product later."
-      }
-    },
-    {
-      "keyword": "ted chiang",
-      "count": 8,
-      "score": 90.90646736739913,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "Another banger by Ted Chiang on \"AI\":\"Employing philosophers might endow LLM companies with an air of respectability that slot-machine makers don’t get from the behavioral psychologists they hire, but",
-          "url": "https://tldr.nettime.org/@tante/116687765595271436",
+          "title": "TIL, Vim Classic is HERE. A fork of Vim 8.x, built for long-term stability, maintained entirely by humans. No chaos. No breaking changes. Just the editor you trust, kept alive https://vim-classic.org",
+          "url": "https://mastodon.social/@nixCraft/116689189489486460",
           "source": "mastodon"
         },
         {
-          "title": "Another banger by Ted Chiang on \"AI\":\"Employing philosophers might endow LLM companies with an air of respectability that slot-machine makers don’t get from the behavioral psychologists they hire, but",
-          "url": "https://tldr.nettime.org/@tante/116687765595271436",
+          "title": "TIL, Vim Classic is HERE. A fork of Vim 8.x, built for long-term stability, maintained entirely by humans. No chaos. No breaking changes. Just the editor you trust, kept alive https://vim-classic.org",
+          "url": "https://mastodon.social/@nixCraft/116689189489486460",
           "source": "mastodon"
+        },
+        {
+          "title": "Vim Classic 8.3 released",
+          "url": "https://vim-classic.org/news/vim-8.3-released.html",
+          "source": "lobsters"
+        },
+        {
+          "title": "Vim Classic 8.3 released",
+          "url": "https://vim-classic.org/news/vim-8.3-released.html",
+          "source": "lobsters"
         }
       ],
-      "id": "6eb0ea9bd7a1",
-      "slug": "ted-chiang",
+      "id": "8e5a6ddc679c",
+      "slug": "vim-classic",
       "opportunity": {
         "type": "niche-content",
         "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
       }
     },
     {
-      "keyword": "gadgets amazon",
+      "keyword": "campaigns smarter",
+      "count": 11,
+      "score": 88.56118714019414,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "Best AI for PPC: Cut CPC and Scale Campaigns Smarter",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5odTQ3LUxja3pyNEF1amxFS0RZSGFHRzdvS2Ewell4bDY0UllvUzJ0eC1jUUhTamdGNzFrLV9ycUNhXzQxaURKMlVTTDh1eXd5ZFFQS1Z5YnVIWFk?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Best AI for PPC: Cut CPC and Scale Campaigns Smarter",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5odTQ3LUxja3pyNEF1amxFS0RZSGFHRzdvS2Ewell4bDY0UllvUzJ0eC1jUUhTamdGNzFrLV9ycUNhXzQxaURKMlVTTDh1eXd5ZFFQS1Z5YnVIWFk?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Best AI for PPC: Cut CPC and Scale Campaigns Smarter",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5odTQ3LUxja3pyNEF1amxFS0RZSGFHRzdvS2Ewell4bDY0UllvUzJ0eC1jUUhTamdGNzFrLV9ycUNhXzQxaURKMlVTTDh1eXd5ZFFQS1Z5YnVIWFk?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "8823f3771060",
+      "slug": "campaigns-smarter",
+      "opportunity": {
+        "type": "tooling",
+        "recommended": "Build / list AI tools; monetize via affiliate links + lead magnet."
+      }
+    },
+    {
+      "keyword": "software",
+      "count": 16,
+      "score": 81.54498782879017,
+      "proper": true,
+      "niches": [
+        "ai",
+        "software"
+      ],
+      "examples": [
+        {
+          "title": "Lovable Expands Collaboration With Google Cloud to Scale AI-Powered Software Creation",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNdk4yYUlnYVJqeVRQd3hYdG8tWkY4VHAzbWZaYV85UWp0M1NZM29ST2Vvd21tamkxOTU2RjBmZTFhZXFPQTQ3YmtZNEgwc2h1RkYtUUJMRHZaOUVFNUM1by1TbkpYc2haenZ4TnZmUHRVNWE0ZVNHSUI4Z1dEamIwd3ZCWFZDYnBXSkJYaFFDT0hXcm81NktMU3U0QWhFbW5CLXJtVGNERmFrZmZBbFg0QlFZTmh2NjJ6bHVSekVkd1Z6WTV0Z2gwRy1PMFVQNUVC?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "A software engineer created a 90-day AI course to help workers across departments build the tech they want",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSmM3Y2Z3blFEcnFGUFBBTF9GamF6WFk0YzM4ZXN0WVpIemsxYVFhbnA2YWRpYXMxbFM5VGkyWnpKZGhnTnNvMk4tZ3BoZzdibjFONHYwRFRMWm12OGhKOG9Qc1dpUlFQNmtSUU1QRmExVGI2a3ZkYzZnb0xIMGNHSEFLVU5vbHhKU3JLdjdVY0dBbmFGbm5qdURRUFgyRG8?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "A software engineer created a 90-day AI course to help workers across departments build the tech they want",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSmM3Y2Z3blFEcnFGUFBBTF9GamF6WFk0YzM4ZXN0WVpIemsxYVFhbnA2YWRpYXMxbFM5VGkyWnpKZGhnTnNvMk4tZ3BoZzdibjFONHYwRFRMWm12OGhKOG9Qc1dpUlFQNmtSUU1QRmExVGI2a3ZkYzZnb0xIMGNHSEFLVU5vbHhKU3JLdjdVY0dBbmFGbm5qdURRUFgyRG8?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Broadcom stock plunges on weak software sales, unchanged AI chip forecast for the year",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9MUWNtalczVVl2UEVtVFhSUF9QVnZVd2ZuU01aaFZaTGZuOWpNWW1Wc1Y3Q050V1ZiRWs3MVE0R3ZUd196Sno4LUZkWUJadnRHaWI5VHpLVGRwQTBTZkJuY2JZelp1VWQyUTlpYVJrVTd2YkdSblQwNzV6dmk0aknSAYQBQVVfeXFMTTBfUHNDN2g0eG9Gc3VON0cwRFlFRUhLcDBMbmNZUXVPcTFVWFNwWTZibW51MkFuS1BON0xTTXVHbFd6N21LekpLZVF5NFBobnJTTnJxa0VhdGxzV3hDS3RYc2RIWHJlMG1LR2xXUlYtSGhsbGx1Y3JsTm8wbk5UUXhOZGJU?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "My Software North Star",
+          "url": "https://kristoff.it/blog/north-star/",
+          "source": "lobsters"
+        }
+      ],
+      "id": "35390f5453e8",
+      "slug": "software",
+      "opportunity": {
+        "type": "niche-content",
+        "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
+      }
+    },
+    {
+      "keyword": "keyboard",
+      "count": 16,
+      "score": 81.36172000379722,
+      "proper": true,
+      "niches": [
+        "ai",
+        "gear",
+        "general"
+      ],
+      "examples": [
+        {
+          "title": "CORSAIR Reveals New Gaming Keyboard, Stream Deck Mouse And Headsets At Computex 2026",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZjFXX3ZocGZxeVM1Y18zMXdqOVVSSS1PZVFhUmRwZmlGZ3ZnTzgzNmxvemhpRE9sV01FSEl3eVN4RVNYUFVHY1lGbjVFNnYtMUxnUy1oNFNRSVZSTjBkNl9KZWhjS2JwLTlSOHRjNzZTQkQ2S2Yzb2hiczZjVmwyWnJDVTREM2hYN0dxczlqRmRDNnFzamlYRkNqejVid0h2WmxPSHZqRUR2aHZzQXBxc05xNA?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "CORSAIR Reveals New Gaming Keyboard, Stream Deck Mouse And Headsets At Computex 2026",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZjFXX3ZocGZxeVM1Y18zMXdqOVVSSS1PZVFhUmRwZmlGZ3ZnTzgzNmxvemhpRE9sV01FSEl3eVN4RVNYUFVHY1lGbjVFNnYtMUxnUy1oNFNRSVZSTjBkNl9KZWhjS2JwLTlSOHRjNzZTQkQ2S2Yzb2hiczZjVmwyWnJDVTREM2hYN0dxczlqRmRDNnFzamlYRkNqejVid0h2WmxPSHZqRUR2aHZzQXBxc05xNA?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "CORSAIR Reveals New Gaming Keyboard, Stream Deck Mouse And Headsets At Computex 2026",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZjFXX3ZocGZxeVM1Y18zMXdqOVVSSS1PZVFhUmRwZmlGZ3ZnTzgzNmxvemhpRE9sV01FSEl3eVN4RVNYUFVHY1lGbjVFNnYtMUxnUy1oNFNRSVZSTjBkNl9KZWhjS2JwLTlSOHRjNzZTQkQ2S2Yzb2hiczZjVmwyWnJDVTREM2hYN0dxczlqRmRDNnFzamlYRkNqejVid0h2WmxPSHZqRUR2aHZzQXBxc05xNA?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Hands-on with Asus’ ROG Azoth Extreme Edition 20 mechanical keyboard – when carbon fiber isn’t enough, Asus goes for the gold",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVEJtTlpSVzdIM2I2ZGpIaUx3ZzM5YzF2WGRLY2FnQkZFY2dIZlJrdXF0V3BUYi1TbEZ0M3dtbUFvcUU1LTNQbTdWMWNvZnZnVHBBNzczR3ZkQURoaHJqTUhJSDVFRWcweUg3NWZiNC1iQmk1N2pPbGhWRGkzN0pEMktucUM2a0sta2lUSmFXcjZwT04zeXNyaE9oT1Nmd25tamZQUTBEVTBSNjJRVTY3Q01CNVowTkVYV1VyMENzaEd6Q0U?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "CHERRY XTRFY K63W Pro: World’s First Wireless 8K UWB Gaming Keyboard",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPaUVvNDItaFlBN3JLbFczTDhNdjhybktKZlpLSW5PS05sUS1Ud3NmNXU1c25abFpHY2prWDZONnRnR0FDLTltdWUxZEptZWd3NExRYjlZZnFtVzRLVnZveWFVS0hHSGtiVENieTN4RDBvY2YtME1xWkFaRjJQQTB1bFNESjFkTk4xTWFHOWtDU0s4V2FXXzZaa0ZQajhITUt2S1pF?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "91f060a9ad4b",
+      "slug": "keyboard",
+      "opportunity": {
+        "type": "niche-content",
+        "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
+      }
+    },
+    {
+      "keyword": "claude",
+      "count": 9,
+      "score": 79.10172891721518,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "The ways we contain Claude across products",
+          "url": "https://www.anthropic.com/engineering/how-we-contain-claude",
+          "source": "hackernews"
+        },
+        {
+          "title": "The ways we contain Claude across products",
+          "url": "https://www.anthropic.com/engineering/how-we-contain-claude",
+          "source": "hackernews"
+        },
+        {
+          "title": "The Claude skill I built for myself is the only productivity hack that stuck",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOV081b0ZNOW9QNHBURTVQbERoUzZGWHBtTEloalRabTN0ZUVKaV9IYVZSb3EySHpIcUstOWUxUmR1bUw2Nmdyd1hsOHpxdE53QlN2ejBNaGthT2hTTlJaaG1wRWRzc1hsZm5wLXNEZ0hsUFJLbEt6Y3RTdjZ3Rk93RHBReHFuLVM0cWpKWFF6Y0FpWXgtQTR1OHN6VTNid1BSaWxoXzB4NnM2MUlO?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "The Claude skill I built for myself is the only productivity hack that stuck",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOV081b0ZNOW9QNHBURTVQbERoUzZGWHBtTEloalRabTN0ZUVKaV9IYVZSb3EySHpIcUstOWUxUmR1bUw2Nmdyd1hsOHpxdE53QlN2ejBNaGthT2hTTlJaaG1wRWRzc1hsZm5wLXNEZ0hsUFJLbEt6Y3RTdjZ3Rk93RHBReHFuLVM0cWpKWFF6Y0FpWXgtQTR1OHN6VTNid1BSaWxoXzB4NnM2MUlO?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "claude-code-generator 0.6.5",
+          "url": "https://pypi.org/project/claude-code-generator/0.6.5/",
+          "source": "pypi"
+        }
+      ],
+      "id": "c857d09db23e",
+      "slug": "claude",
+      "opportunity": {
+        "type": "tooling",
+        "recommended": "Build / list AI tools; monetize via affiliate links + lead magnet."
+      }
+    },
+    {
+      "keyword": "google cloud",
+      "count": 11,
+      "score": 78.34258862401788,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "Lovable Expands Collaboration With Google Cloud to Scale AI-Powered Software Creation",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNdk4yYUlnYVJqeVRQd3hYdG8tWkY4VHAzbWZaYV85UWp0M1NZM29ST2Vvd21tamkxOTU2RjBmZTFhZXFPQTQ3YmtZNEgwc2h1RkYtUUJMRHZaOUVFNUM1by1TbkpYc2haenZ4TnZmUHRVNWE0ZVNHSUI4Z1dEamIwd3ZCWFZDYnBXSkJYaFFDT0hXcm81NktMU3U0QWhFbW5CLXJtVGNERmFrZmZBbFg0QlFZTmh2NjJ6bHVSekVkd1Z6WTV0Z2gwRy1PMFVQNUVC?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Lovable Expands Collaboration With Google Cloud to Scale AI-Powered Software Creation",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNdk4yYUlnYVJqeVRQd3hYdG8tWkY4VHAzbWZaYV85UWp0M1NZM29ST2Vvd21tamkxOTU2RjBmZTFhZXFPQTQ3YmtZNEgwc2h1RkYtUUJMRHZaOUVFNUM1by1TbkpYc2haenZ4TnZmUHRVNWE0ZVNHSUI4Z1dEamIwd3ZCWFZDYnBXSkJYaFFDT0hXcm81NktMU3U0QWhFbW5CLXJtVGNERmFrZmZBbFg0QlFZTmh2NjJ6bHVSekVkd1Z6WTV0Z2gwRy1PMFVQNUVC?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Lovable Expands Collaboration With Google Cloud to Scale AI-Powered Software Creation",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNdk4yYUlnYVJqeVRQd3hYdG8tWkY4VHAzbWZaYV85UWp0M1NZM29ST2Vvd21tamkxOTU2RjBmZTFhZXFPQTQ3YmtZNEgwc2h1RkYtUUJMRHZaOUVFNUM1by1TbkpYc2haenZ4TnZmUHRVNWE0ZVNHSUI4Z1dEamIwd3ZCWFZDYnBXSkJYaFFDT0hXcm81NktMU3U0QWhFbW5CLXJtVGNERmFrZmZBbFg0QlFZTmh2NjJ6bHVSekVkd1Z6WTV0Z2gwRy1PMFVQNUVC?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "d9b1d7819af9",
+      "slug": "google-cloud",
+      "opportunity": {
+        "type": "niche-content",
+        "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
+      }
+    },
+    {
+      "keyword": "sleep gadgets",
       "count": 18,
-      "score": 85.07757400967947,
+      "score": 74.78156186838068,
       "proper": false,
       "niches": [
         "gear"
       ],
       "examples": [
-        {
-          "title": "10 Of The Best Gadgets On Amazon For Dog Lovers",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNa01ZMlZZVGlNVDNlYnVoTGtqbEtxN0JBUzJkWHFYUkh3STRrM1pjQk1wRzhlbWdMcXVpekp0OTZ2VlAxSEx2Sk80SlBYR3k1NzN0M05ncU1KX3Qtckw3c1dqc3kydWxCcGRIOHRmdG4zRE9faFVSOHJRTTdsM1ljTQ?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "10 Of The Best Gadgets On Amazon For Dog Lovers",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNa01ZMlZZVGlNVDNlYnVoTGtqbEtxN0JBUzJkWHFYUkh3STRrM1pjQk1wRzhlbWdMcXVpekp0OTZ2VlAxSEx2Sk80SlBYR3k1NzN0M05ncU1KX3Qtckw3c1dqc3kydWxCcGRIOHRmdG4zRE9faFVSOHJRTTdsM1ljTQ?oc=5",
-          "source": "gnews"
-        },
         {
           "title": "The 10 Best Sleep Gadgets on Amazon for Getting a Good Night’s Sleep",
           "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYVVYdDdEUUVXSTJqR096RXV5NzgwQUJ0X1NGaE5mZFoxOWhjNDR5MURvMld3WHNhNlh4aDBueDR0by1lR2VIeV9CazRzTll0eDdyeHNtZTZDOWpXbTZUOEhUd09GR2ZWNUpSeGw4TE1ZVnRGemVQcDdBWFE4MkNHejZ3R3I0azNfa3poQ1lPNkZWSXR2YzZr?oc=5",
@@ -899,125 +1108,23 @@
           "title": "The 10 Best Sleep Gadgets on Amazon for Getting a Good Night’s Sleep",
           "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQU3hUOGVmYWpXMHc0LXhob3ZXMkZNel9yc0E0T1QwSzN3TENyVmZBQ3otNGtLRW92UmpuM0IxLUU0Ynl0a1ZxbUFqVFRMenVvMVdhQ2Q5ak5ub29nYVpmX2lFOFpnZmVXc2ttRDlhZ1d4YWJzV3JmWndQOFpMUjYwZk13?oc=5",
           "source": "gnews"
+        },
+        {
+          "title": "The 10 Best Sleep Gadgets on Amazon for Getting a Good Night’s Sleep",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQU3hUOGVmYWpXMHc0LXhob3ZXMkZNel9yc0E0T1QwSzN3TENyVmZBQ3otNGtLRW92UmpuM0IxLUU0Ynl0a1ZxbUFqVFRMenVvMVdhQ2Q5ak5ub29nYVpmX2lFOFpnZmVXc2ttRDlhZ1d4YWJzV3JmWndQOFpMUjYwZk13?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "The 10 Best Sleep Gadgets on Amazon for Getting a Good Night’s Sleep",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9BZkZxT0hza2FEUng4ODc0cWFWUjdGa1NjVlNtLUR5SXYwZTl6dWEwSnkwSEdqdDZXYjJHZHdkS0JjOXJWQzg0T0lHWHVkeTc0dVJITktFazVkd0ZZcC1zM3R3U3E5a1BlZVN3aXEtUUE5dThELUoybUNRc20?oc=5",
+          "source": "gnews"
         }
       ],
-      "id": "147124fbc310",
-      "slug": "gadgets-amazon",
+      "id": "5ad38b777617",
+      "slug": "sleep-gadgets",
       "opportunity": {
         "type": "niche-content",
         "recommended": "Publish niche guide for \"gear\"; bundle into digital product later."
-      }
-    },
-    {
-      "keyword": "pwnd blaster",
-      "count": 8,
-      "score": 78.26623146730378,
-      "proper": true,
-      "niches": [
-        "gear"
-      ],
-      "examples": [
-        {
-          "title": "Pwnd Blaster: Hacking your PC using your speaker without ever touching it",
-          "url": "https://blog.nns.ee/2026/06/03/katana-badusb/",
-          "source": "hackernews"
-        },
-        {
-          "title": "Pwnd Blaster: Hacking your PC using your speaker without ever touching it",
-          "url": "https://blog.nns.ee/2026/06/03/katana-badusb/",
-          "source": "hackernews"
-        }
-      ],
-      "id": "de5681935097",
-      "slug": "pwnd-blaster",
-      "opportunity": {
-        "type": "niche-content",
-        "recommended": "Publish niche guide for \"gear\"; bundle into digital product later."
-      }
-    },
-    {
-      "keyword": "data science",
-      "count": 22,
-      "score": 74.08483924227778,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "12 Best AI for Coding Tools in 2026 (Vibecoding & Data Science)",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9uRXpOS19rZ1pvYWc2c0FDTDBhQUc5WFBXcUFpMGlnWWZzOGxpTXotX19Ja1dtdm9yV2RXM0tzX3MzVmNvNXlPdUJ2bjEtMTJMTVo5eDNR0gFWQVVfeXFMT25Fek5LX2tnWm9hZzZzQUNMMGFBRzlYUFdxQWkwaWdZZnM4bGlNei1fX0lrV212b3JXZFczS3NfczNWY281eU91QnZuMS0xMkxNWjl4M1E?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "12 Best AI for Coding Tools in 2026 (Vibecoding & Data Science)",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9uRXpOS19rZ1pvYWc2c0FDTDBhQUc5WFBXcUFpMGlnWWZzOGxpTXotX19Ja1dtdm9yV2RXM0tzX3MzVmNvNXlPdUJ2bjEtMTJMTVo5eDNR0gFWQVVfeXFMT25Fek5LX2tnWm9hZzZzQUNMMGFBRzlYUFdxQWkwaWdZZnM4bGlNei1fX0lrV212b3JXZFczS3NfczNWY281eU91QnZuMS0xMkxNWjl4M1E?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "12 Best AI for Coding Tools in 2026 (Vibecoding & Data Science)",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9uRXpOS19rZ1pvYWc2c0FDTDBhQUc5WFBXcUFpMGlnWWZzOGxpTXotX19Ja1dtdm9yV2RXM0tzX3MzVmNvNXlPdUJ2bjEtMTJMTVo5eDNR0gFWQVVfeXFMT25Fek5LX2tnWm9hZzZzQUNMMGFBRzlYUFdxQWkwaWdZZnM4bGlNei1fX0lrV212b3JXZFczS3NfczNWY281eU91QnZuMS0xMkxNWjl4M1E?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "11 Best AI Coding Tools for Data Science & ML in 2026",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPaHBGOWZOaERaNVMxVVpPTU9FU1VaMnJ3WkZvMUtUd1MwaGtUQThJZE1nNnNsN25ZemFPZXpUZ1pEdG10NjhhNEx1MnBLTWZOMVg1WUd2MEhzeXM0eWZuOWc3cVgwYkRHUXpYTUF4ZnR0dzlsYmhoVnpKRDd4RjFqRkw4RTE?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "11 Best AI Coding Tools for Data Science & ML in 2026",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPaHBGOWZOaERaNVMxVVpPTU9FU1VaMnJ3WkZvMUtUd1MwaGtUQThJZE1nNnNsN25ZemFPZXpUZ1pEdG10NjhhNEx1MnBLTWZOMVg1WUd2MEhzeXM0eWZuOWc3cVgwYkRHUXpYTUF4ZnR0dzlsYmhoVnpKRDd4RjFqRkw4RTE?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "aa90a6f24112",
-      "slug": "data-science",
-      "opportunity": {
-        "type": "niche-content",
-        "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
-      }
-    },
-    {
-      "keyword": "personal finance",
-      "count": 33,
-      "score": 67.30147034091456,
-      "proper": false,
-      "niches": [
-        "ai",
-        "finance"
-      ],
-      "examples": [
-        {
-          "title": "AI tips for safer personal finance use",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQcVFHU19OWVh5VTRrZnlmN0hrVXd1dTJIeXc5MWlnMmpoWk9iUTdybm0zckdhLWtuQ1hTSGZGWjVzZzIyT1kxYWNMS0dzM0taNHdWRGJ4RHpRaURHenZIUmtCcGIxdUE2eGJpMU1OSkU4Vm53YTJOMTVmMDlNZ0s3N2hrTnR4Y3UxUmhZbmVUdzZJeXNBdjJOMGkwUjhIX1o0TmVnMzdob01CaDZKQjhxRVhhQTN6QmkzM1RWQWJVcFFCanY4TjZn?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "AI tips for safer personal finance use",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQcVFHU19OWVh5VTRrZnlmN0hrVXd1dTJIeXc5MWlnMmpoWk9iUTdybm0zckdhLWtuQ1hTSGZGWjVzZzIyT1kxYWNMS0dzM0taNHdWRGJ4RHpRaURHenZIUmtCcGIxdUE2eGJpMU1OSkU4Vm53YTJOMTVmMDlNZ0s3N2hrTnR4Y3UxUmhZbmVUdzZJeXNBdjJOMGkwUjhIX1o0TmVnMzdob01CaDZKQjhxRVhhQTN6QmkzM1RWQWJVcFFCanY4TjZn?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Personal finance writer offers ways to be a mindful shopper to save money",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNOW9wOFBuNDU4QjZRcUtYNHJLTGdBWGhYNFhoZ1Jyem5tUnJtRy1mOWFCX29oSW5ydDRuczliZjVSX0oyZ3VIcThxZlFMRTJ6YWlmZVl2eDhvN0s3Q0l5Y0pzUzRxcVpGLVB1VVpHRGxPcWlZTFF2SzRnOFA2N09MVUs5WXMzQzJ0d3c?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Personal finance writer offers ways to be a mindful shopper to save money",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNOW9wOFBuNDU4QjZRcUtYNHJLTGdBWGhYNFhoZ1Jyem5tUnJtRy1mOWFCX29oSW5ydDRuczliZjVSX0oyZ3VIcThxZlFMRTJ6YWlmZVl2eDhvN0s3Q0l5Y0pzUzRxcVpGLVB1VVpHRGxPcWlZTFF2SzRnOFA2N09MVUs5WXMzQzJ0d3c?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "The best personal finance tools to help you reach 6 money goals in 2026",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNTjlkR1VlMXJ1MjR0LURjbjl2QWo5ejdlYjN0UWFYQnZrVWNydkh2cUxEeEZRQXpaWXhpT2VNeHNtUlRoUy1JaW44WmMwQTdaVEtDbE5Yb3kzUWEzUTdaNlVLYXd1LXJTbC1pQ181U0ktRVM1OGUwbkhpN3F6Y1JMNUtzcUJfUdIBiwFBVV95cUxPc3pfOHZqRlMxakh3cVhGbEZ1SzgzY2tUR0ppcEg4ZVlxNlZyaF9hd01YZDJ5a0lpRkV5RHoySHZ4Qzlta0U0cW5XYzNDMlRaUTNIaGZmb3hzaXpaR1dnUGt0MFZDNmpIYTRISXBfQTBHdmYxOVotR2VhakU2U3pZbWNJQk9zNkdjeE9J?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "61108514445d",
-      "slug": "personal-finance",
-      "opportunity": {
-        "type": "niche-content",
-        "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
       }
     }
   ]

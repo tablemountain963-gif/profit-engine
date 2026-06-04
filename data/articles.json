@@ -1,6 +1,43 @@
 {
   "items": [
     {
+      "slug": "berkeley-cs-2026-06-04-568c73",
+      "title": "40% of Berkeley CS Students Are Failing: The Unintended Consequences of AI in Education",
+      "date": "2026-06-04",
+      "niche": "ai",
+      "keywords": [
+        "Berkeley Cs",
+        "ai"
+      ],
+      "score": 59.31,
+      "file": "articles/berkeley-cs-2026-06-04-568c73.md"
+    },
+    {
+      "slug": "campaigns-smarter-2026-06-04-4b0c10",
+      "title": "Campaigns Smarter",
+      "date": "2026-06-04",
+      "niche": "ai",
+      "keywords": [
+        "Campaigns Smarter",
+        "ai"
+      ],
+      "score": 88.56,
+      "file": "articles/campaigns-smarter-2026-06-04-4b0c10.md"
+    },
+    {
+      "slug": "vim-classic-2026-06-04-d937ec",
+      "title": "Vim Classic",
+      "date": "2026-06-04",
+      "niche": "ai",
+      "keywords": [
+        "Vim Classic",
+        "ai",
+        "general"
+      ],
+      "score": 103.86,
+      "file": "articles/vim-classic-2026-06-04-d937ec.md"
+    },
+    {
       "slug": "pwnd-blaster-2026-06-03-b0b4ac",
       "title": "Pwnd Blaster: The Hidden Vulnerability in Your PC's Speaker",
       "date": "2026-06-03",

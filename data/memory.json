@@ -530,8 +530,8 @@
     },
     "data-science": {
       "firstSeen": "2026-05-29T22:23:11.526Z",
-      "lastSeen": "2026-05-30T04:50:30.635Z",
-      "count": 2,
+      "lastSeen": "2026-06-04T05:54:39.038Z",
+      "count": 3,
       "wins": 1,
       "losses": 0,
       "niche": "ai"
@@ -594,10 +594,10 @@
     },
     "nightmare-eclipse": {
       "firstSeen": "2026-05-30T04:50:37.820Z",
-      "lastSeen": "2026-05-30T04:50:37.820Z",
-      "count": 1,
+      "lastSeen": "2026-06-04T05:53:48.388Z",
+      "count": 2,
       "wins": 0,
-      "losses": 0,
+      "losses": 1,
       "niche": "software"
     },
     "duel-agents": {
@@ -1506,17 +1506,17 @@
     },
     "ted-chiang": {
       "firstSeen": "2026-06-03T22:56:33.968Z",
-      "lastSeen": "2026-06-03T22:56:33.968Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-04T05:53:48.388Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
     "pwnd-blaster": {
       "firstSeen": "2026-06-03T22:56:37.174Z",
-      "lastSeen": "2026-06-03T22:56:37.174Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-04T05:53:48.429Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "gear"
     },
@@ -1551,12 +1551,52 @@
       "wins": 0,
       "losses": 0,
       "niche": "ai"
+    },
+    "vim-classic": {
+      "firstSeen": "2026-06-04T05:53:53.915Z",
+      "lastSeen": "2026-06-04T05:53:53.915Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "campaigns-smarter": {
+      "firstSeen": "2026-06-04T05:53:57.380Z",
+      "lastSeen": "2026-06-04T05:53:57.380Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "berkeley-cs": {
+      "firstSeen": "2026-06-04T05:53:59.950Z",
+      "lastSeen": "2026-06-04T05:53:59.950Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "night-sleep": {
+      "firstSeen": "2026-06-04T05:54:09.073Z",
+      "lastSeen": "2026-06-04T05:54:09.073Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "gear"
+    },
+    "llm-ai": {
+      "firstSeen": "2026-06-04T05:55:01.433Z",
+      "lastSeen": "2026-06-04T05:55:01.433Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
     }
   },
   "niches": {
     "ai": {
-      "count": 235,
-      "wins": 70,
+      "count": 241,
+      "wins": 71,
       "losses": 9
     },
     "finance": {
@@ -1565,13 +1605,13 @@
       "losses": 0
     },
     "software": {
-      "count": 42,
+      "count": 43,
       "wins": 10,
-      "losses": 1
+      "losses": 2
     },
     "gear": {
-      "count": 17,
-      "wins": 4,
+      "count": 19,
+      "wins": 5,
       "losses": 0
     },
     "health": {
