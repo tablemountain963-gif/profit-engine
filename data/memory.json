@@ -1666,17 +1666,17 @@
     },
     "ken-jones": {
       "firstSeen": "2026-06-04T18:08:51.871Z",
-      "lastSeen": "2026-06-04T18:08:51.871Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-04T22:15:31.032Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
     "blue-shield": {
       "firstSeen": "2026-06-04T18:08:55.005Z",
-      "lastSeen": "2026-06-04T18:08:55.005Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-04T22:15:31.033Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -1695,12 +1695,76 @@
       "wins": 0,
       "losses": 0,
       "niche": "ai"
+    },
+    "scottish-government": {
+      "firstSeen": "2026-06-04T22:15:36.159Z",
+      "lastSeen": "2026-06-04T22:15:36.159Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "thoma-bravo": {
+      "firstSeen": "2026-06-04T22:15:39.256Z",
+      "lastSeen": "2026-06-04T22:15:39.256Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "chris-onstad": {
+      "firstSeen": "2026-06-04T22:15:42.273Z",
+      "lastSeen": "2026-06-04T22:15:42.273Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "workflow": {
+      "firstSeen": "2026-06-04T22:15:47.711Z",
+      "lastSeen": "2026-06-04T22:15:47.711Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "based-tools": {
+      "firstSeen": "2026-06-04T22:15:52.749Z",
+      "lastSeen": "2026-06-04T22:15:52.749Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "ffmpeg-webcli": {
+      "firstSeen": "2026-06-04T22:16:08.517Z",
+      "lastSeen": "2026-06-04T22:16:08.517Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "software"
+    },
+    "full-ffmpeg": {
+      "firstSeen": "2026-06-04T22:16:20.482Z",
+      "lastSeen": "2026-06-04T22:16:20.482Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "software"
+    },
+    "offline-pwa": {
+      "firstSeen": "2026-06-04T22:16:32.015Z",
+      "lastSeen": "2026-06-04T22:16:32.015Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "software"
     }
   },
   "niches": {
     "ai": {
-      "count": 255,
-      "wins": 74,
+      "count": 262,
+      "wins": 76,
       "losses": 10
     },
     "finance": {
@@ -1709,7 +1773,7 @@
       "losses": 0
     },
     "software": {
-      "count": 47,
+      "count": 50,
       "wins": 11,
       "losses": 2
     },

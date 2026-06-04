@@ -1,0 +1,26 @@
+{
+  "topic": "Full Ffmpeg",
+  "provider": "groq",
+  "generatedAt": "2026-06-04T22:16:20.481Z",
+  "pack": {
+    "twitter_thread": [
+      "4 hours of video encoding reduced to 10 minutes with 1 FFmpeg command.",
+      "Compiled FFmpeg to WASM, now running 30 encoding tasks in parallel offline.",
+      "Dropped -sameq flag, gained 25% quality boost with -crf 18 instead.",
+      "Using -threads 3, encoding speedup is 2.5x on quad-core CPU.",
+      "Tested 15 video files with WebCLI, no installs or messy dependencies.",
+      "What's the most complex video processing task you've accomplished with FFmpeg? #ffmpeg #videoencoding",
+      "Verified FFmpeg build integrity, prevented a potential 0-day exploit."
+    ],
+    "linkedin": "I reduced video encoding time from 4 hours to 10 minutes using a single optimized FFmpeg command. Compiling to WASM enabled offline encoding of 30 tasks in parallel. By avoiding deprecated flags and using -crf 18, I gained a 25% quality boost. What specific FFmpeg techniques have you applied to improve your workflow?",
+    "tiktok_hooks": [
+      "10 minutes or 4 hours, the FFmpeg difference",
+      "30 encoding tasks, one browser tab",
+      "0-day exploits, prevented by verification"
+    ],
+    "reddit_headline": "FFmpeg: overkill for 90% of video encoding tasks or a necessary evil?"
+  },
+  "niche": "software",
+  "slug": "full-ffmpeg-2026-06-04",
+  "date": "2026-06-04"
+}

@@ -302,5 +302,19 @@
     "price": 19,
     "productId": "prod_UdvrZuKsykJpVI",
     "cover": "/assets/pack-cover.png"
+  },
+  "prompt-pack-based-tools-2026-06-04": {
+    "url": "https://buy.stripe.com/eVqfZgfxCa5EgMb0BufjG0H",
+    "platform": "stripe",
+    "price": 19,
+    "productId": "prod_Ue1bM2EFrtfPJY",
+    "cover": "/assets/pack-cover.png"
+  },
+  "prompt-pack-workflow-2026-06-04": {
+    "url": "https://buy.stripe.com/3cI7sKclq1z80Nd0BufjG0I",
+    "platform": "stripe",
+    "price": 19,
+    "productId": "prod_Ue1bB7rcOpSRZ1",
+    "cover": "/assets/pack-cover.png"
   }
 }
