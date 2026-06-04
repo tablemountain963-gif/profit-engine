@@ -506,8 +506,8 @@
     },
     "tools-2026": {
       "firstSeen": "2026-05-29T18:28:06.277Z",
-      "lastSeen": "2026-05-29T18:28:06.277Z",
-      "count": 1,
+      "lastSeen": "2026-06-04T18:09:37.881Z",
+      "count": 2,
       "wins": 0,
       "losses": 0,
       "niche": "ai"
@@ -570,8 +570,8 @@
     },
     "dividend-stocks": {
       "firstSeen": "2026-05-29T22:24:26.611Z",
-      "lastSeen": "2026-05-29T22:24:26.611Z",
-      "count": 1,
+      "lastSeen": "2026-06-04T18:09:16.031Z",
+      "count": 2,
       "wins": 0,
       "losses": 0,
       "niche": "finance"
@@ -706,10 +706,10 @@
     },
     "papal-visits": {
       "firstSeen": "2026-05-30T16:52:37.299Z",
-      "lastSeen": "2026-05-30T16:52:37.299Z",
-      "count": 1,
+      "lastSeen": "2026-06-04T18:08:46.710Z",
+      "count": 2,
       "wins": 0,
-      "losses": 0,
+      "losses": 1,
       "niche": "ai"
     },
     "passive": {
@@ -1594,9 +1594,9 @@
     },
     "marjane-satrapi": {
       "firstSeen": "2026-06-04T16:19:33.931Z",
-      "lastSeen": "2026-06-04T16:19:33.931Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-04T18:08:46.711Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "software"
     },
@@ -1610,9 +1610,9 @@
     },
     "codex-skill": {
       "firstSeen": "2026-06-04T16:19:40.401Z",
-      "lastSeen": "2026-06-04T16:19:40.401Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-04T18:08:46.713Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -1663,13 +1663,45 @@
       "wins": 0,
       "losses": 0,
       "niche": "software"
+    },
+    "ken-jones": {
+      "firstSeen": "2026-06-04T18:08:51.871Z",
+      "lastSeen": "2026-06-04T18:08:51.871Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "blue-shield": {
+      "firstSeen": "2026-06-04T18:08:55.005Z",
+      "lastSeen": "2026-06-04T18:08:55.005Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "sports-betting": {
+      "firstSeen": "2026-06-04T18:08:58.216Z",
+      "lastSeen": "2026-06-04T18:08:58.216Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "prompt": {
+      "firstSeen": "2026-06-04T18:09:44.518Z",
+      "lastSeen": "2026-06-04T18:09:44.518Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
     }
   },
   "niches": {
     "ai": {
-      "count": 247,
-      "wins": 73,
-      "losses": 9
+      "count": 255,
+      "wins": 74,
+      "losses": 10
     },
     "finance": {
       "count": 22,
@@ -1677,8 +1709,8 @@
       "losses": 0
     },
     "software": {
-      "count": 46,
-      "wins": 10,
+      "count": 47,
+      "wins": 11,
       "losses": 2
     },
     "gear": {

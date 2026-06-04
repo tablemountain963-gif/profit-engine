@@ -1,6 +1,21 @@
 {
   "x": [
     {
+      "slug": "prompt-2026-06-04",
+      "topic": "Prompt",
+      "tweetIds": [
+        "2062597704576799044",
+        "2062597711661031846",
+        "2062597718720057808",
+        "2062597725779038448",
+        "2062597732863287355",
+        "2062597740110983610",
+        "2062597747404837204",
+        "2062597754497462770"
+      ],
+      "postedAt": "2026-06-04T18:10:02.149Z"
+    },
+    {
       "slug": "mister-rogers-2026-06-04",
       "topic": "Mister Rogers",
       "tweetIds": [
@@ -449,6 +464,22 @@
     }
   ],
   "bluesky": [
+    {
+      "slug": "prompt-2026-06-04",
+      "topic": "Prompt",
+      "ids": [
+        "at://did:plc:tyttf4ceoibzsfb2tn764jic/app.bsky.feed.post/3mni7tzkm4s2j",
+        "at://did:plc:tyttf4ceoibzsfb2tn764jic/app.bsky.feed.post/3mni7u4rttk2j",
+        "at://did:plc:tyttf4ceoibzsfb2tn764jic/app.bsky.feed.post/3mni7u5qhuf2k",
+        "at://did:plc:tyttf4ceoibzsfb2tn764jic/app.bsky.feed.post/3mni7u6owmt2u",
+        "at://did:plc:tyttf4ceoibzsfb2tn764jic/app.bsky.feed.post/3mni7u7nvbc2b",
+        "at://did:plc:tyttf4ceoibzsfb2tn764jic/app.bsky.feed.post/3mni7uamdqu2a",
+        "at://did:plc:tyttf4ceoibzsfb2tn764jic/app.bsky.feed.post/3mni7ubljwd22",
+        "at://did:plc:tyttf4ceoibzsfb2tn764jic/app.bsky.feed.post/3mni7uck2ee2a"
+      ],
+      "url": "https://bsky.app/profile/solmercer.bsky.social/post/3mni7tzkm4s2j",
+      "postedAt": "2026-06-04T18:10:12.706Z"
+    },
     {
       "slug": "mister-rogers-2026-06-04",
       "topic": "Mister Rogers",

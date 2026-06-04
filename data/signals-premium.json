@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-06-04T16:19:29.023Z",
-  "sourceCount": 196,
+  "generatedAt": "2026-06-04T18:08:47.661Z",
+  "sourceCount": 203,
   "topItems": [
     {
       "title": "So apparently Fred Rogers Productions just started a new YouTube channel where they'll be uploading every episode of Mister Rogers' Neighborhoodhttps://youtube.com/@misterrogersneighborhood?si=o9FcfHu",
       "url": "https://dice.camp/@squishymage42/116692076148476089",
-      "score": 9.52,
+      "score": 10.14,
       "niche": "software",
       "source": "mastodon",
       "engagement": {
-        "score": 390,
-        "comments": 11
+        "score": 585,
+        "comments": 12
       }
     },
     {
@@ -25,201 +25,223 @@
       }
     },
     {
-      "title": "Remember the vacuum tube train? The car tunnels? The brain implant chip? The humanoid robots? Making government “efficient”? An AGI based on… tweets (wtf)?But sure, colonizing Mars is totally real.",
-      "url": "https://hachyderm.io/@thomasfuchs/116691995299016772",
-      "score": 8.65,
+      "title": "Literacy is the GOP's worst nightmare. https://www.comicsands.com/missouri-gop-cut-parton-funding?utm_source=mastodon&utm_medium=infeed&utm_campaign=linkprogram",
+      "url": "https://universeodon.com/@georgetakei/116692551819065356",
+      "score": 8.79,
       "niche": "ai",
       "source": "mastodon",
       "engagement": {
-        "score": 195,
-        "comments": 14
+        "score": 236,
+        "comments": 4
       }
     },
     {
-      "title": "I built a vulnerable app and spent $1,500 seeing if LLMs could hack it",
-      "url": "https://kasra.blog/blog/i-spent-1500-seeing-if-llms-could-hack-my-app/",
-      "score": 8.3,
+      "title": "Bots just officially outnumbered humans on the internet for the first time ever. Cloudflare’s latest report shows AI and agentic traffic has grown so fast its now the majority of online traffic. We cr",
+      "url": "https://mastodon.social/@nixCraft/116692731365193814",
+      "score": 8.56,
       "niche": "ai",
-      "source": "hackernews",
+      "source": "mastodon",
       "engagement": {
-        "score": 322,
-        "comments": 169
+        "score": 434,
+        "comments": 19
       }
     },
     {
       "title": "https://www.france24.com/en/culture/20260604-french-iranian-author-marjane-satrapi-author-of-persepolis-dies-at-56 I'm sad that Marjane Satrapi has died.I have often come across the quote below. Befor",
       "url": "https://social.coop/@brainwane/116691760325159725",
-      "score": 8.26,
+      "score": 8.56,
       "niche": "software",
       "source": "mastodon",
       "engagement": {
-        "score": 862,
-        "comments": 14
+        "score": 1105,
+        "comments": 15
       }
     },
     {
-      "title": "Uber's $1,500/month AI limit is a useful signal for AI tool pricing",
-      "url": "https://simonwillison.net/2026/Jun/3/uber-caps-usage/",
-      "score": 8.21,
+      "title": "I built a vulnerable app and spent $1,500 seeing if LLMs could hack it",
+      "url": "https://kasra.blog/blog/i-spent-1500-seeing-if-llms-could-hack-my-app/",
+      "score": 8.38,
       "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 563,
-        "comments": 688
+        "score": 344,
+        "comments": 179
       }
     },
     {
       "title": "Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes",
       "url": "https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html",
-      "score": 8.2,
+      "score": 8.3,
       "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 555,
-        "comments": 522
+        "score": 599,
+        "comments": 572
+      }
+    },
+    {
+      "title": "How to Navigate the Shift from Prompt-Based Tools to Workflow-Driven AI",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQR1cwbU9jeUp5dkZQZDQ3TnBaMHpOczlHc3gtX2NlMmstbXJoUTZkRG5xSjhMdXhBUG1TZk9OcnZrc1hwTG5pamQzdjlvaEVIU3NfdVZRUDI5Q2tWQXktZTc2cVpWRGNoNE1aSlBGbk1hMlUwRFdhUlp0UjRxbW80U3FBVG83cDhGNENQdnFfTkNQTkFQdVdSc3hJSXlyQnZ0cFE4TVdB?oc=5",
+      "score": 8.26,
+      "niche": "ai",
+      "source": "gnews",
+      "engagement": {
+        "score": 40,
+        "comments": 0
+      }
+    },
+    {
+      "title": "Uber's $1,500/month AI limit is a useful signal for AI tool pricing",
+      "url": "https://simonwillison.net/2026/Jun/3/uber-caps-usage/",
+      "score": 8.24,
+      "niche": "ai",
+      "source": "hackernews",
+      "engagement": {
+        "score": 579,
+        "comments": 707
+      }
+    },
+    {
+      "title": "good morning, here is your #DailyInspiration",
+      "url": "https://ohai.social/@redsad/116692355845337357",
+      "score": 8.12,
+      "niche": "ai",
+      "source": "mastodon",
+      "engagement": {
+        "score": 335,
+        "comments": 4
+      }
+    },
+    {
+      "title": "This is so deeply embarrassing and shocking at the same time. Navigate to whitehouse.gov/aliens/ and you will see a page that at first glance appears to tease unclassified information about aliens fro",
+      "url": "https://infosec.exchange/@briankrebs/116692692022103103",
+      "score": 7.63,
+      "niche": "software",
+      "source": "mastodon",
+      "engagement": {
+        "score": 200,
+        "comments": 17
       }
     },
     {
       "title": "cpaczek/skylight — Project the aircraft passing overhead onto your ceiling in real time, from an RTL-SDR — with a live sky layer (sun, moon, stars, ISS) and where each plane is headed.",
       "url": "https://github.com/cpaczek/skylight",
-      "score": 7.58,
+      "score": 7.61,
       "niche": "ai",
       "source": "github",
       "engagement": {
-        "score": 1084,
+        "score": 1121,
         "comments": 1
       }
     },
     {
       "title": "The ways we contain Claude across products",
       "url": "https://www.anthropic.com/engineering/how-we-contain-claude",
-      "score": 7.5,
+      "score": 7.58,
       "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 187,
-        "comments": 82
+        "score": 203,
+        "comments": 86
       }
     },
     {
       "title": "tastyeffectco/sandboxes — Self-hosted dev sandboxes with preview URLs. One command. No Kubernetes, perfect for coding agents and Saas factories",
       "url": "https://github.com/tastyeffectco/sandboxes",
-      "score": 7.45,
+      "score": 7.49,
       "niche": "ai",
       "source": "github",
       "engagement": {
-        "score": 339,
+        "score": 350,
         "comments": 0
       }
     },
     {
-      "title": "Over the years, I've managed to lock myself into a corner made of proprietary software, even though I use #linux I decided to make changes, so here is how I'm removing almost all proprietary software ",
-      "url": "https://mastodon.social/@thelinuxEXP/116691652117163729",
+      "title": "The New York Stock Exchange recently#SpaceX #Musk #Grok #Twitter",
+      "url": "https://mastodon.social/@benroyce/116691872058164645",
       "score": 7.43,
-      "niche": "software",
+      "niche": "finance",
       "source": "mastodon",
       "engagement": {
-        "score": 188,
+        "score": 293,
+        "comments": 3
+      }
+    },
+    {
+      "title": "When AI Builds Itself: Our progress toward recursive self-improvement",
+      "url": "https://www.anthropic.com/institute/recursive-self-improvement",
+      "score": 7.42,
+      "niche": "ai",
+      "source": "hackernews",
+      "engagement": {
+        "score": 39,
+        "comments": 32
+      }
+    },
+    {
+      "title": "Gemma 4 12B: A unified, encoder-free multimodal model",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/",
+      "score": 7.14,
+      "niche": "ai",
+      "source": "hackernews",
+      "engagement": {
+        "score": 975,
+        "comments": 365
+      }
+    },
+    {
+      "title": "Ask HN: So what happened to Facebook \"localhost\" tracking?",
+      "url": "https://news.ycombinator.com/item?id=48397731",
+      "score": 7.02,
+      "niche": "software",
+      "source": "hackernews",
+      "engagement": {
+        "score": 42,
+        "comments": 54
+      }
+    },
+    {
+      "title": "Show HN: Boxes.dev: ditch localhost; run Claude Code and Codex in the cloud",
+      "url": "https://boxes.dev",
+      "score": 6.66,
+      "niche": "ai",
+      "source": "hackernews",
+      "engagement": {
+        "score": 60,
+        "comments": 30
+      }
+    },
+    {
+      "title": "Ken Jones, a retired San Francisco firefighter, has died from lung cancer after Blue Shield denied his treatment claims.Let me be clear, any politician running for President in 2028 who does not champ",
+      "url": "https://mastodon.social/@QasimRashid/116692928697071956",
+      "score": 6.62,
+      "niche": "ai",
+      "source": "mastodon",
+      "engagement": {
+        "score": 114,
+        "comments": 1
+      }
+    },
+    {
+      "title": "KVarN: Native vLLM backend for KV-cache quantization by Huawei",
+      "url": "https://github.com/huawei-csl/KVarN",
+      "score": 6.11,
+      "niche": "ai",
+      "source": "hackernews",
+      "engagement": {
+        "score": 66,
         "comments": 7
       }
     },
     {
       "title": "French-Iranian author Marjane Satrapi, author of 'Persepolis', dies at 56",
       "url": "https://www.france24.com/en/culture/20260604-french-iranian-author-marjane-satrapi-author-of-persepolis-dies-at-56",
-      "score": 7.33,
+      "score": 6.08,
       "niche": "software",
       "source": "hackernews",
       "engagement": {
-        "score": 259,
-        "comments": 77
-      }
-    },
-    {
-      "title": "This is the Asvine C2000 fountain pen with the stub nib. Super awesome for so cheap! Love the sheen and shimmer of the Organics Studio Nitrogen ink! Breaking in the pen with a grumpy cat sketch, as al",
-      "url": "https://mastodon.social/@joyousjoyness/116692198144194790",
-      "score": 7.29,
-      "niche": "ai",
-      "source": "mastodon",
-      "engagement": {
-        "score": 91,
-        "comments": 2
-      }
-    },
-    {
-      "title": "good morning, here is your #DailyInspiration",
-      "url": "https://ohai.social/@redsad/116692355845337357",
-      "score": 7.29,
-      "niche": "ai",
-      "source": "mastodon",
-      "engagement": {
-        "score": 185,
-        "comments": 2
-      }
-    },
-    {
-      "title": "UK media fails to disclose defence sector links in nearly 60% of cases",
-      "url": "https://aoav.org.uk/2026/military-experts-or-arms-industry-insiders-uk-media-fails-to-disclose-defence-sector-links-in-nearly-60-of-cases/",
-      "score": 7.29,
-      "niche": "ai",
-      "source": "hackernews",
-      "engagement": {
-        "score": 326,
-        "comments": 189
-      }
-    },
-    {
-      "title": "The New York Stock Exchange recently#SpaceX #Musk #Grok #Twitter",
-      "url": "https://mastodon.social/@benroyce/116691872058164645",
-      "score": 7.19,
-      "niche": "finance",
-      "source": "mastodon",
-      "engagement": {
-        "score": 242,
-        "comments": 3
-      }
-    },
-    {
-      "title": "Gemma 4 12B: A unified, encoder-free multimodal model",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/",
-      "score": 7.12,
-      "niche": "ai",
-      "source": "hackernews",
-      "engagement": {
-        "score": 958,
-        "comments": 359
-      }
-    },
-    {
-      "title": "PostStokerStride/llm-intern-skill-232 — LLM internship resume and job-search Codex Skill: resume polish, JD tailoring, evidence guard, interview grilling, and Project Scout for LLM/RAG/Agent roles. 大模",
-      "url": "https://github.com/PostStokerStride/llm-intern-skill-232",
-      "score": 7.1,
-      "niche": "ai",
-      "source": "github",
-      "engagement": {
-        "score": 84,
-        "comments": 0
-      }
-    },
-    {
-      "title": "yeah don’t use chatgpt to write your blog post or social media post or create pictures . instead follow my path and use late night manic episode to let your creative juices flow 😂",
-      "url": "https://mastodon.social/@nixCraft/116692275598095661",
-      "score": 6.21,
-      "niche": "ai",
-      "source": "mastodon",
-      "engagement": {
-        "score": 80,
-        "comments": 3
-      }
-    },
-    {
-      "title": "Several Injured in Boeing 787 Nose-Gear Collapse in Frankfurt",
-      "url": "https://www.reuters.com/business/aerospace-defense/lufthansa-787-jet-suffers-front-wheel-collapse-frankfurt-gate-2026-06-04/",
-      "score": 6.07,
-      "niche": "gear",
-      "source": "hackernews",
-      "engagement": {
-        "score": 28,
-        "comments": 24
+        "score": 324,
+        "comments": 96
       }
     },
     {
@@ -234,32 +256,10 @@
       }
     },
     {
-      "title": "Google Employees Internally Share Memes About How Its AI Sucks",
-      "url": "https://www.404media.co/google-employees-internally-share-memes-about-how-its-ai-sucks/",
-      "score": 5.32,
-      "niche": "ai",
-      "source": "hackernews",
-      "engagement": {
-        "score": 29,
-        "comments": 8
-      }
-    },
-    {
-      "title": ".furry - A Top-Level Domain for furries",
-      "url": "https://www.dotfurry.org/",
-      "score": 5.16,
-      "niche": "ai",
-      "source": "lobsters",
-      "engagement": {
-        "score": 97,
-        "comments": 60
-      }
-    },
-    {
-      "title": "What Are A.I. Agents Actually Doing?",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5VNGN4MkJmZC1TbHdxNURoUE9Oa0xiVUhodHRGeUUzQVdSQ3dHQ1FCSUI3cnQ4blJVWjhXSElQZlJ4aVhibmtCa0ZpS2xwcF9Bb1l2ZEdJVDR2cENXdG54TFJfS0tEZHQyX2duZFlpeVBqeDlH?oc=5",
-      "score": 5.16,
-      "niche": "ai",
+      "title": "JP Morgan’s Analyst Focus List for June Has 5 Top Passive Income Dividend Picks",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQk9vRnYyOHZMTElOdjZyR19ReF91TXVkam5HbXF5ZjZ4ODA1TTVrWHNwOGR2SXVEQmpfXzNEVmUtQ2IyR09CWDFqTXEwaTZoU3JkMERJR21FdTdrcm53MWNheGtwTm03YklwQm1iYWx3dWhQdHhuajBHODZyZGJFYnh1ZjlvenNpZmNKTzhWbm5LejhTNHdreXR2dTFqVVpGYVZXRVh0TnFOYktsTDByVGw2bHg3NlJJUHNRbDJn?oc=5",
+      "score": 5.56,
+      "niche": "finance",
       "source": "gnews",
       "engagement": {
         "score": 40,
@@ -267,22 +267,61 @@
       }
     },
     {
-      "title": "rsync and outrage",
-      "url": "https://medium.com/@tridge60/rsync-and-outrage-d9849599e5a0",
-      "score": 4.99,
-      "niche": "ai",
-      "source": "lobsters",
+      "title": "I found an app that finally gives Android the one productivity feature I miss from my Mac",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOOUpqZ2xMYWwzLTIxT2oxWU5VS3FCd0xlVmxqWGtwVGZNY2dSZ2h6aEJPWVNteFBacWkza25XYU1nLXltazZ1WUZQRTNhbWdmOGxKTC01NlpMNWgycGFTdXVrLXhqbGJRV3RLRU1lNmFreDYzWHJpd1N5MTJxMWhHMU85T3plNnFOc1ZLX21VT3c4b00?oc=5",
+      "score": 5.24,
+      "niche": "software",
+      "source": "gnews",
       "engagement": {
-        "score": 118,
-        "comments": 139
+        "score": 40,
+        "comments": 0
       }
     }
   ],
   "topics": [
     {
+      "keyword": "passive income",
+      "count": 50,
+      "score": 246.11726767085858,
+      "proper": true,
+      "niches": [
+        "finance",
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "JP Morgan’s Analyst Focus List for June Has 5 Top Passive Income Dividend Picks",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQk9vRnYyOHZMTElOdjZyR19ReF91TXVkam5HbXF5ZjZ4ODA1TTVrWHNwOGR2SXVEQmpfXzNEVmUtQ2IyR09CWDFqTXEwaTZoU3JkMERJR21FdTdrcm53MWNheGtwTm03YklwQm1iYWx3dWhQdHhuajBHODZyZGJFYnh1ZjlvenNpZmNKTzhWbm5LejhTNHdreXR2dTFqVVpGYVZXRVh0TnFOYktsTDByVGw2bHg3NlJJUHNRbDJn?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "JP Morgan’s Analyst Focus List for June Has 5 Top Passive Income Dividend Picks",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQk9vRnYyOHZMTElOdjZyR19ReF91TXVkam5HbXF5ZjZ4ODA1TTVrWHNwOGR2SXVEQmpfXzNEVmUtQ2IyR09CWDFqTXEwaTZoU3JkMERJR21FdTdrcm53MWNheGtwTm03YklwQm1iYWx3dWhQdHhuajBHODZyZGJFYnh1ZjlvenNpZmNKTzhWbm5LejhTNHdreXR2dTFqVVpGYVZXRVh0TnFOYktsTDByVGw2bHg3NlJJUHNRbDJn?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "3 passive income shares to consider buying for a 7% yield",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWDJWb2RzNnk4SWNFbWJXY2g5dzAwOFoyREd4QWRxekhJem9sblgxdV9WTFZtNzRLdFJCVV9laEhTZ21LM0RkZzd6dmtVQXJqQ1FQTTRpTjY0eDYzUWNkcVU5dDd0TEVpV1YwN2FBTGwxMUdkazdOY1o3c3prOXF5NG9lMEdvQWtqaklVaHdPSE84TG1PdDVKN2ZTYXJocUU?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "3 passive income shares to consider buying for a 7% yield",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWDJWb2RzNnk4SWNFbWJXY2g5dzAwOFoyREd4QWRxekhJem9sblgxdV9WTFZtNzRLdFJCVV9laEhTZ21LM0RkZzd6dmtVQXJqQ1FQTTRpTjY0eDYzUWNkcVU5dDd0TEVpV1YwN2FBTGwxMUdkazdOY1o3c3prOXF5NG9lMEdvQWtqaklVaHdPSE84TG1PdDVKN2ZTYXJocUU?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "3 High-Yield Dividend Stocks I Can't Wait to Buy in June to Boost My Passive Income",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOYU90Tzg5YTJFd1dyV3Fpa2xTWEtjZ2NNRjFNa0pvdUlWMDM5ODlqZWhPUkl0SFlWdXNUaDdia0pXZXhmTEVCWGlzeTlyd1J0a2t0SEVpb054bEdNV0REVGdXcEpKRjFGcmJWSXQ0bFVma0Z1VkpQX2NsTzhyRVR5NHM4WlBHQWRkLTkydDFCanM3TWxxU05BRw?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "cf2dbbbf8c8c",
+      "slug": "passive-income"
+    },
+    {
       "keyword": "marjane satrapi",
       "count": 16,
-      "score": 187.04710231730118,
+      "score": 175.59933773256517,
       "proper": true,
       "niches": [
         "software"
@@ -313,65 +352,16 @@
       "slug": "marjane-satrapi"
     },
     {
-      "keyword": "passive income",
-      "count": 39,
-      "score": 128.85497901648003,
-      "proper": false,
-      "niches": [
-        "finance",
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "A quality FTSE 100 dividend share to buy to lock down a passive income?",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQb0VxZ2luakRSbVB3ejRfczB2cjVsRUJITDc5X2swbzJDb2VuaXJpM094Z2dKZDJTV3k4UXIxUVMzQy1ydjJEUWJhLUZyQzM2MGtpZWdWeWtacG9IMWIwNFBOd0xLdTNVWGJsMmdmY1FuR0tJZGJQNFdOcnd5WTRjODBQNmZxNzJpWGF1YTF6X2t2Wm9HRGF1aUJRQm5KMFFqLWh6UV8zSUpGSC1rMkh2cXdB?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "A quality FTSE 100 dividend share to buy to lock down a passive income?",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQb0VxZ2luakRSbVB3ejRfczB2cjVsRUJITDc5X2swbzJDb2VuaXJpM094Z2dKZDJTV3k4UXIxUVMzQy1ydjJEUWJhLUZyQzM2MGtpZWdWeWtacG9IMWIwNFBOd0xLdTNVWGJsMmdmY1FuR0tJZGJQNFdOcnd5WTRjODBQNmZxNzJpWGF1YTF6X2t2Wm9HRGF1aUJRQm5KMFFqLWh6UV8zSUpGSC1rMkh2cXdB?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "3 passive income shares to consider buying for a 7% yield",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWDJWb2RzNnk4SWNFbWJXY2g5dzAwOFoyREd4QWRxekhJem9sblgxdV9WTFZtNzRLdFJCVV9laEhTZ21LM0RkZzd6dmtVQXJqQ1FQTTRpTjY0eDYzUWNkcVU5dDd0TEVpV1YwN2FBTGwxMUdkazdOY1o3c3prOXF5NG9lMEdvQWtqaklVaHdPSE84TG1PdDVKN2ZTYXJocUU?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "3 passive income shares to consider buying for a 7% yield",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWDJWb2RzNnk4SWNFbWJXY2g5dzAwOFoyREd4QWRxekhJem9sblgxdV9WTFZtNzRLdFJCVV9laEhTZ21LM0RkZzd6dmtVQXJqQ1FQTTRpTjY0eDYzUWNkcVU5dDd0TEVpV1YwN2FBTGwxMUdkazdOY1o3c3prOXF5NG9lMEdvQWtqaklVaHdPSE84TG1PdDVKN2ZTYXJocUU?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "3 High-Yield Dividend Stocks I Can't Wait to Buy in June to Boost My Passive Income",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQaDNhenNjajdzNFlRYTBzR25kSTItMkxHVzhsTkZleEJSQTZjQXJJNHFqNi1SajlaMkc1cjltWnN2Uk1KNlNWRlZfWlhOb0t2ejNKaVpnMFZrdzVKaVl0ZkhuaXhXazEzeFBFUkJuRTk4Q1cxVVE1anNGUU1ZamwwVTFCRkZnWGVzMF9sZFNwUkxmQTYzOEExTw?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "cf2dbbbf8c8c",
-      "slug": "passive-income"
-    },
-    {
       "keyword": "software",
       "count": 17,
-      "score": 115.92205938988496,
+      "score": 106.04955131219324,
       "proper": true,
       "niches": [
-        "software",
-        "ai"
+        "ai",
+        "software"
       ],
       "examples": [
         {
-          "title": "Over the years, I've managed to lock myself into a corner made of proprietary software, even though I use #linux I decided to make changes, so here is how I'm removing almost all proprietary software ",
-          "url": "https://mastodon.social/@thelinuxEXP/116691652117163729",
-          "source": "mastodon"
-        },
-        {
-          "title": "Over the years, I've managed to lock myself into a corner made of proprietary software, even though I use #linux I decided to make changes, so here is how I'm removing almost all proprietary software ",
-          "url": "https://mastodon.social/@thelinuxEXP/116691652117163729",
-          "source": "mastodon"
-        },
-        {
           "title": "AI tools have sparked a coding revolution. Software engineers are figuring out what comes next.",
           "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQ3dYSWR4UWVXcDhRNGdKUjN6a2FiSXg2b2VZZmJjRVh1YUQtRjRRSnY5RjM4d0ZzYnE4T3JIdjloaFRXUGdnZGJpVDA5Z1ZBTWZVR0ZZWWNheHFWdlhfYWdtTkppTWl1bE9PV2hQVGVSdGFUTDRKSXlob2I4UzJPQm9GOEFOTW1HOVplX2hxb0xrYUpDX1dVN3Jn?oc=5",
           "source": "gnews"
@@ -384,6 +374,16 @@
         {
           "title": "AI tools have sparked a coding revolution. Software engineers are figuring out what comes next.",
           "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQ3dYSWR4UWVXcDhRNGdKUjN6a2FiSXg2b2VZZmJjRVh1YUQtRjRRSnY5RjM4d0ZzYnE4T3JIdjloaFRXUGdnZGJpVDA5Z1ZBTWZVR0ZZWWNheHFWdlhfYWdtTkppTWl1bE9PV2hQVGVSdGFUTDRKSXlob2I4UzJPQm9GOEFOTW1HOVplX2hxb0xrYUpDX1dVN3Jn?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Cisco rolls out software tools to protect IT systems from AI agents",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZ3NvT1JfQVdfS2JiWXpvM2tsS1FZQWNza1J5NGZWU2YtbzZwTFptcVdoUl9lOER5UXJkbHJvMlNwejFNVVctdEJ5cnpTa0JBbll6TGVrNnRuenBaYmxrYUNSbTZOSlJTQ0tlS01DbVBmc0FmNjJDQ2ZreWZnQ3I5cXp6U0RkZEM3WVVmUHZRXzV5MUlJSFpRU29xX3BaNHJoRmRWVEJmN2w5SEFLZmhXZ3BSMk03NzZ4aHc?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Cisco rolls out software tools to protect IT systems from AI agents",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZ3NvT1JfQVdfS2JiWXpvM2tsS1FZQWNza1J5NGZWU2YtbzZwTFptcVdoUl9lOER5UXJkbHJvMlNwejFNVVctdEJ5cnpTa0JBbll6TGVrNnRuenBaYmxrYUNSbTZOSlJTQ0tlS01DbVBmc0FmNjJDQ2ZreWZnQ3I5cXp6U0RkZEM3WVVmUHZRXzV5MUlJSFpRU29xX3BaNHJoRmRWVEJmN2w5SEFLZmhXZ3BSMk03NzZ4aHc?oc=5",
           "source": "gnews"
         }
       ],
@@ -391,116 +391,9 @@
       "slug": "software"
     },
     {
-      "keyword": "asvine c2000",
-      "count": 8,
-      "score": 87.53709765102735,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "This is the Asvine C2000 fountain pen with the stub nib. Super awesome for so cheap! Love the sheen and shimmer of the Organics Studio Nitrogen ink! Breaking in the pen with a grumpy cat sketch, as al",
-          "url": "https://mastodon.social/@joyousjoyness/116692198144194790",
-          "source": "mastodon"
-        },
-        {
-          "title": "This is the Asvine C2000 fountain pen with the stub nib. Super awesome for so cheap! Love the sheen and shimmer of the Organics Studio Nitrogen ink! Breaking in the pen with a grumpy cat sketch, as al",
-          "url": "https://mastodon.social/@joyousjoyness/116692198144194790",
-          "source": "mastodon"
-        }
-      ],
-      "id": "2bf019458e3d",
-      "slug": "asvine-c2000"
-    },
-    {
-      "keyword": "codex skill",
-      "count": 8,
-      "score": 85.20313975954318,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "PostStokerStride/llm-intern-skill-232 — LLM internship resume and job-search Codex Skill: resume polish, JD tailoring, evidence guard, interview grilling, and Project Scout for LLM/RAG/Agent roles. 大模",
-          "url": "https://github.com/PostStokerStride/llm-intern-skill-232",
-          "source": "github"
-        },
-        {
-          "title": "PostStokerStride/llm-intern-skill-232 — LLM internship resume and job-search Codex Skill: resume polish, JD tailoring, evidence guard, interview grilling, and Project Scout for LLM/RAG/Agent roles. 大模",
-          "url": "https://github.com/PostStokerStride/llm-intern-skill-232",
-          "source": "github"
-        }
-      ],
-      "id": "9b6caa794677",
-      "slug": "codex-skill"
-    },
-    {
-      "keyword": "saas",
-      "count": 12,
-      "score": 78.34462842361106,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "tastyeffectco/sandboxes — Self-hosted dev sandboxes with preview URLs. One command. No Kubernetes, perfect for coding agents and Saas factories",
-          "url": "https://github.com/tastyeffectco/sandboxes",
-          "source": "github"
-        },
-        {
-          "title": "tastyeffectco/sandboxes — Self-hosted dev sandboxes with preview URLs. One command. No Kubernetes, perfect for coding agents and Saas factories",
-          "url": "https://github.com/tastyeffectco/sandboxes",
-          "source": "github"
-        },
-        {
-          "title": "AccessOwl (YC S22) is hiring an AI TypeScript Engineer to connect 300 SaaS tools",
-          "url": "https://www.ycombinator.com/companies/accessowl/jobs/hfWAhVp-ai-enabled-senior-software-engineer-typescript-focus",
-          "source": "hackernews"
-        },
-        {
-          "title": "AccessOwl (YC S22) is hiring an AI TypeScript Engineer to connect 300 SaaS tools",
-          "url": "https://www.ycombinator.com/companies/accessowl/jobs/hfWAhVp-ai-enabled-senior-software-engineer-typescript-focus",
-          "source": "hackernews"
-        }
-      ],
-      "id": "98650c35cd5e",
-      "slug": "saas"
-    },
-    {
-      "keyword": "code puppy",
-      "count": 11,
-      "score": 78.34258862401788,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "Code Puppy: Walmart's Secret Weapon Against AI Lock-in",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOX1BqSFExYXhXMFdGZHJHdjlUaGx6a1p1T3AycnAzbTJVSVRGMHVSX0NkTlpNNngzSm5QMFhRNFBQc21rNGZnR181RGhKYjV3eXQtVF80YnhkYUhMVmphUFJCNFVwRDRobi1Wb2JkemRSUzJqbmRuVU16Z1NfR05YQkl0UVpOdWJmNUxLSm1PRERFWklhWDFvMnVWRQ?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Code Puppy: Walmart's Secret Weapon Against AI Lock-in",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOX1BqSFExYXhXMFdGZHJHdjlUaGx6a1p1T3AycnAzbTJVSVRGMHVSX0NkTlpNNngzSm5QMFhRNFBQc21rNGZnR181RGhKYjV3eXQtVF80YnhkYUhMVmphUFJCNFVwRDRobi1Wb2JkemRSUzJqbmRuVU16Z1NfR05YQkl0UVpOdWJmNUxLSm1PRERFWklhWDFvMnVWRQ?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Code Puppy: Walmart's Secret Weapon Against AI Lock-in",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOX1BqSFExYXhXMFdGZHJHdjlUaGx6a1p1T3AycnAzbTJVSVRGMHVSX0NkTlpNNngzSm5QMFhRNFBQc21rNGZnR181RGhKYjV3eXQtVF80YnhkYUhMVmphUFJCNFVwRDRobi1Wb2JkemRSUzJqbmRuVU16Z1NfR05YQkl0UVpOdWJmNUxLSm1PRERFWklhWDFvMnVWRQ?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "2096e7e1898e",
-      "slug": "code-puppy"
-    },
-    {
       "keyword": "claude",
-      "count": 7,
-      "score": 74.88472102439789,
+      "count": 10,
+      "score": 83.29057367235944,
       "proper": true,
       "niches": [
         "ai"
@@ -520,38 +413,71 @@
           "title": "Show HN: Boxes.dev: ditch localhost; run Claude Code and Codex in the cloud",
           "url": "https://boxes.dev",
           "source": "hackernews"
+        },
+        {
+          "title": "The Claude skill I built for myself is the only productivity hack that stuck",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOV081b0ZNOW9QNHBURTVQbERoUzZGWHBtTEloalRabTN0ZUVKaV9IYVZSb3EySHpIcUstOWUxUmR1bUw2Nmdyd1hsOHpxdE53QlN2ejBNaGthT2hTTlJaaG1wRWRzc1hsZm5wLXNEZ0hsUFJLbEt6Y3RTdjZ3Rk93RHBReHFuLVM0cWpKWFF6Y0FpWXgtQTR1OHN6VTNid1BSaWxoXzB4NnM2MUlO?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "The Claude skill I built for myself is the only productivity hack that stuck",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOV081b0ZNOW9QNHBURTVQbERoUzZGWHBtTEloalRabTN0ZUVKaV9IYVZSb3EySHpIcUstOWUxUmR1bUw2Nmdyd1hsOHpxdE53QlN2ejBNaGthT2hTTlJaaG1wRWRzc1hsZm5wLXNEZ0hsUFJLbEt6Y3RTdjZ3Rk93RHBReHFuLVM0cWpKWFF6Y0FpWXgtQTR1OHN6VTNid1BSaWxoXzB4NnM2MUlO?oc=5",
+          "source": "gnews"
         }
       ],
       "id": "c857d09db23e",
       "slug": "claude"
     },
     {
-      "keyword": "several injured",
+      "keyword": "ken jones",
       "count": 8,
-      "score": 72.89400162066468,
+      "score": 79.41833709105262,
       "proper": true,
       "niches": [
-        "gear"
+        "ai"
       ],
       "examples": [
         {
-          "title": "Several Injured in Boeing 787 Nose-Gear Collapse in Frankfurt",
-          "url": "https://www.reuters.com/business/aerospace-defense/lufthansa-787-jet-suffers-front-wheel-collapse-frankfurt-gate-2026-06-04/",
-          "source": "hackernews"
+          "title": "Ken Jones, a retired San Francisco firefighter, has died from lung cancer after Blue Shield denied his treatment claims.Let me be clear, any politician running for President in 2028 who does not champ",
+          "url": "https://mastodon.social/@QasimRashid/116692928697071956",
+          "source": "mastodon"
         },
         {
-          "title": "Several Injured in Boeing 787 Nose-Gear Collapse in Frankfurt",
-          "url": "https://www.reuters.com/business/aerospace-defense/lufthansa-787-jet-suffers-front-wheel-collapse-frankfurt-gate-2026-06-04/",
-          "source": "hackernews"
+          "title": "Ken Jones, a retired San Francisco firefighter, has died from lung cancer after Blue Shield denied his treatment claims.Let me be clear, any politician running for President in 2028 who does not champ",
+          "url": "https://mastodon.social/@QasimRashid/116692928697071956",
+          "source": "mastodon"
         }
       ],
-      "id": "dad0b2b76a46",
-      "slug": "several-injured"
+      "id": "abe1358245eb",
+      "slug": "ken-jones"
+    },
+    {
+      "keyword": "blue shield",
+      "count": 8,
+      "score": 79.41833709105262,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "Ken Jones, a retired San Francisco firefighter, has died from lung cancer after Blue Shield denied his treatment claims.Let me be clear, any politician running for President in 2028 who does not champ",
+          "url": "https://mastodon.social/@QasimRashid/116692928697071956",
+          "source": "mastodon"
+        },
+        {
+          "title": "Ken Jones, a retired San Francisco firefighter, has died from lung cancer after Blue Shield denied his treatment claims.Let me be clear, any politician running for President in 2028 who does not champ",
+          "url": "https://mastodon.social/@QasimRashid/116692928697071956",
+          "source": "mastodon"
+        }
+      ],
+      "id": "72aadb6e3bf6",
+      "slug": "blue-shield"
     },
     {
       "keyword": "fred rogers productions",
       "count": 5,
-      "score": 71.41543641021974,
+      "score": 76.03950449579395,
       "proper": true,
       "niches": [
         "software"
@@ -569,7 +495,7 @@
     {
       "keyword": "mister rogers",
       "count": 5,
-      "score": 71.41543641021974,
+      "score": 76.03950449579395,
       "proper": true,
       "niches": [
         "software"
@@ -585,37 +511,110 @@
       "slug": "mister-rogers"
     },
     {
-      "keyword": "agent",
-      "count": 8,
-      "score": 69.0562875946819,
-      "proper": true,
+      "keyword": "side hustle",
+      "count": 27,
+      "score": 76.02985657348178,
+      "proper": false,
       "niches": [
+        "finance",
         "ai"
       ],
       "examples": [
         {
-          "title": "PostStokerStride/llm-intern-skill-232 — LLM internship resume and job-search Codex Skill: resume polish, JD tailoring, evidence guard, interview grilling, and Project Scout for LLM/RAG/Agent roles. 大模",
-          "url": "https://github.com/PostStokerStride/llm-intern-skill-232",
-          "source": "github"
+          "title": "Rachel Cruz Shares Side Hustle Ideas for Stay-At-Home Moms, but Honesty, They're Great for Retirees Too",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQXRmckg2U0VwdzFlRFFBNm51a2IySHZBQ0NJMnlUTW9WRDdiRm9FdkVJQ0dSZlJ3U2F2cDF6bU0xUjhnLUQwZkVKbzE0dU9xWTQzREJFbVMyQzhDZVpxdHh4c0tjV0diczBYY3g0eElfQXhxc3ljX25FMlhzWFVmVmxwQjdPSW9sbTltRGZBYkxrLUxEWlFpVmU3NTU?oc=5",
+          "source": "gnews"
         },
         {
-          "title": "PostStokerStride/llm-intern-skill-232 — LLM internship resume and job-search Codex Skill: resume polish, JD tailoring, evidence guard, interview grilling, and Project Scout for LLM/RAG/Agent roles. 大模",
-          "url": "https://github.com/PostStokerStride/llm-intern-skill-232",
-          "source": "github"
+          "title": "Rachel Cruz Shares Side Hustle Ideas for Stay-At-Home Moms, but Honesty, They're Great for Retirees Too",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQXRmckg2U0VwdzFlRFFBNm51a2IySHZBQ0NJMnlUTW9WRDdiRm9FdkVJQ0dSZlJ3U2F2cDF6bU0xUjhnLUQwZkVKbzE0dU9xWTQzREJFbVMyQzhDZVpxdHh4c0tjV0diczBYY3g0eElfQXhxc3ljX25FMlhzWFVmVmxwQjdPSW9sbTltRGZBYkxrLUxEWlFpVmU3NTU?oc=5",
+          "source": "gnews"
         },
         {
-          "title": "Dev Opportunity Radar #1: A $100K AI Grant, Two Fellowships, and an AI Agent Resource",
-          "url": "https://dev.to/hemapriya_kanagala/dev-opportunity-radar-1-a-100k-ai-grant-two-fellowships-and-an-ai-agent-resource-2ja3",
-          "source": "devto"
+          "title": "6 side hustle businesses you can launch with $0",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONzdLLVdBSkp5bUlVMVVvR040ZEtEQWdZZWJSTzZzREZfSlo1Q19OcXZsLTNXWnhId3YwVUhHZkYtdW1ySEpkRVFzS0h1bFc4blhhbWVBb3lUemNJZHFfdFMzTklhOFVpb0Y4SldrZVJ0cnMxTlNJU1FNN3JKRXc0WkZVRmlQSkswMVE?oc=5",
+          "source": "gnews"
         },
         {
-          "title": "ai-task-board-mcp 0.2.0",
-          "url": "https://pypi.org/project/ai-task-board-mcp/0.2.0/",
-          "source": "pypi"
+          "title": "6 side hustle businesses you can launch with $0",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONzdLLVdBSkp5bUlVMVVvR040ZEtEQWdZZWJSTzZzREZfSlo1Q19OcXZsLTNXWnhId3YwVUhHZkYtdW1ySEpkRVFzS0h1bFc4blhhbWVBb3lUemNJZHFfdFMzTklhOFVpb0Y4SldrZVJ0cnMxTlNJU1FNN3JKRXc0WkZVRmlQSkswMVE?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "How To Use ChatGPT To Launch A Travel Side Hustle This Summer",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZDduOF9jUElRSVltd1ZNSEVwYzIza1dDNy1MUVFOMklSZVZJZmhDYU90dlNGSXE4b1BWTzd2WVk4T3NvcWtsZXRRMnVpYk9WR0Q1TDlzNVR5SVg0WjlTellOV00xUUM1MDZjblRqNWE2SWJja0pDdk51MTFKWUt2YzNHRWRFb1BhcHA2WWp5OUNfbTFMTWVjVTBFbGF4ZTVOaEIyMS1LaGRMNDRyakIxUkxqTno0bWs?oc=5",
+          "source": "gnews"
         }
       ],
-      "id": "d4f0bc5a29de",
-      "slug": "agent"
+      "id": "57270ed2efc7",
+      "slug": "side-hustle"
+    },
+    {
+      "keyword": "light mount",
+      "count": 11,
+      "score": 74.51061418045177,
+      "proper": true,
+      "niches": [
+        "gear"
+      ],
+      "examples": [
+        {
+          "title": "be quiet! trims its Light Mount mechanical keyboard down to TKL size",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOd3pWc1hPQzN4ak9TNzZSMjJlYkJCSG96Wk1DZFF6em5VaUg1a1REMmFCTE9TWUJva2NESDVWTmNTTDhGQ1ozOEJmT3lFY3g5akJHRlQwZ1hBSi1nb0NtbF9iUTBZRXFlNWR4bzBpU0dZbHRYUElNMGNLRkh3S3JnS0l3bTViRGw5WnlBTWsxZ29QX3lFY3VV?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "be quiet! trims its Light Mount mechanical keyboard down to TKL size",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOd3pWc1hPQzN4ak9TNzZSMjJlYkJCSG96Wk1DZFF6em5VaUg1a1REMmFCTE9TWUJva2NESDVWTmNTTDhGQ1ozOEJmT3lFY3g5akJHRlQwZ1hBSi1nb0NtbF9iUTBZRXFlNWR4bzBpU0dZbHRYUElNMGNLRkh3S3JnS0l3bTViRGw5WnlBTWsxZ29QX3lFY3VV?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "be quiet! trims its Light Mount mechanical keyboard down to TKL size",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOd3pWc1hPQzN4ak9TNzZSMjJlYkJCSG96Wk1DZFF6em5VaUg1a1REMmFCTE9TWUJva2NESDVWTmNTTDhGQ1ozOEJmT3lFY3g5akJHRlQwZ1hBSi1nb0NtbF9iUTBZRXFlNWR4bzBpU0dZbHRYUElNMGNLRkh3S3JnS0l3bTViRGw5WnlBTWsxZ29QX3lFY3VV?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "8074d5972ab5",
+      "slug": "light-mount"
+    },
+    {
+      "keyword": "dividend stocks",
+      "count": 17,
+      "score": 68.77232921824296,
+      "proper": true,
+      "niches": [
+        "ai",
+        "finance"
+      ],
+      "examples": [
+        {
+          "title": "3 High-Yield Dividend Stocks I Can't Wait to Buy in June to Boost My Passive Income",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOYU90Tzg5YTJFd1dyV3Fpa2xTWEtjZ2NNRjFNa0pvdUlWMDM5ODlqZWhPUkl0SFlWdXNUaDdia0pXZXhmTEVCWGlzeTlyd1J0a2t0SEVpb054bEdNV0REVGdXcEpKRjFGcmJWSXQ0bFVma0Z1VkpQX2NsTzhyRVR5NHM4WlBHQWRkLTkydDFCanM3TWxxU05BRw?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "3 High-Yield Dividend Stocks I Can't Wait to Buy in June to Boost My Passive Income",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOYU90Tzg5YTJFd1dyV3Fpa2xTWEtjZ2NNRjFNa0pvdUlWMDM5ODlqZWhPUkl0SFlWdXNUaDdia0pXZXhmTEVCWGlzeTlyd1J0a2t0SEVpb054bEdNV0REVGdXcEpKRjFGcmJWSXQ0bFVma0Z1VkpQX2NsTzhyRVR5NHM4WlBHQWRkLTkydDFCanM3TWxxU05BRw?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Want $1,400 in Passive Income? Invest $10,000 Into These 4 Dividend Stocks",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbFNCNl9LNTRZcUJRajAxWVpETGhJOFBIRzV1WHZrcW92WkRsVTRBX1JsbXJ1b2JzYncwLVdrMUdILTlTNkItOVhFelBJRUhpUkRIZ052NXh4MXo0emtpMUdJX0tWY2tKWFdNOEtWOGdnTmwwQ0d0ZUtrbGNBRUVrNW5FUTNwRFRYd0hibXIxZzlaMmtycUIta2RPUGpNMGZOa0tfQmdNUzFvejQ1X2FzeGFsTQ?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Want $1,400 in Passive Income? Invest $10,000 Into These 4 Dividend Stocks",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbFNCNl9LNTRZcUJRajAxWVpETGhJOFBIRzV1WHZrcW92WkRsVTRBX1JsbXJ1b2JzYncwLVdrMUdILTlTNkItOVhFelBJRUhpUkRIZ052NXh4MXo0emtpMUdJX0tWY2tKWFdNOEtWOGdnTmwwQ0d0ZUtrbGNBRUVrNW5FUTNwRFRYd0hibXIxZzlaMmtycUIta2RPUGpNMGZOa0tfQmdNUzFvejQ1X2FzeGFsTQ?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Want $1,400 in Passive Income? Invest $10,000 Into These 4 Dividend Stocks",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbFNCNl9LNTRZcUJRajAxWVpETGhJOFBIRzV1WHZrcW92WkRsVTRBX1JsbXJ1b2JzYncwLVdrMUdILTlTNkItOVhFelBJRUhpUkRIZ052NXh4MXo0emtpMUdJX0tWY2tKWFdNOEtWOGdnTmwwQ0d0ZUtrbGNBRUVrNW5FUTNwRFRYd0hibXIxZzlaMmtycUIta2RPUGpNMGZOa0tfQmdNUzFvejQ1X2FzeGFsTQ?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "e1fa01b8fed7",
+      "slug": "dividend-stocks"
     },
     {
       "keyword": "tools",
@@ -654,44 +653,105 @@
       "slug": "compared"
     },
     {
-      "keyword": "tools 2026",
-      "count": 12,
-      "score": 64.09848160146917,
-      "proper": false,
+      "keyword": "saas",
+      "count": 6,
+      "score": 67.44045735787847,
+      "proper": true,
       "niches": [
         "ai"
       ],
       "examples": [
         {
-          "title": "10 Best AI Resume Builder Tools in 2026 (Tested & Compared)",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9VUWVQRE1HSTdQb2M2amFzWTdwdkJoT2diR1VJOFVKQXRGcVh6ZTQyaWo4Wk5oNDZMVnNSMGV2WVJGV2E4Mmx6d2hST1RETkZic2dyRmItVm82QjTSAVtBVV95cUxPVVFlUERNR0k3UG9jNmphc1k3cHZCaE9nYkdVSThVSkF0RnFYemU0MmlqOFpOaDQ2TFZzUjBldllSRldhODJsendoUk9URE5GYnNnckZiLVZvNkI0?oc=5",
+          "title": "tastyeffectco/sandboxes — Self-hosted dev sandboxes with preview URLs. One command. No Kubernetes, perfect for coding agents and Saas factories",
+          "url": "https://github.com/tastyeffectco/sandboxes",
+          "source": "github"
+        },
+        {
+          "title": "tastyeffectco/sandboxes — Self-hosted dev sandboxes with preview URLs. One command. No Kubernetes, perfect for coding agents and Saas factories",
+          "url": "https://github.com/tastyeffectco/sandboxes",
+          "source": "github"
+        }
+      ],
+      "id": "98650c35cd5e",
+      "slug": "saas"
+    },
+    {
+      "keyword": "sports betting",
+      "count": 11,
+      "score": 66.42089035514559,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "What is the Best AI Tool for Sports Betting in June 2026?",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE10ZFhMc2J6U3VfaVZLOVNjVnJ5b3Y2YmpmMnJDSTI3a2t2X1ZOUjJPNGVRZHBHVDZCQU4xaFpwSm5Vb0ZrTFY5d05aT25wR1NDQ29fWmpGQWNSc25NNktXQTVLdjctc3A3?oc=5",
           "source": "gnews"
         },
         {
-          "title": "10 Best AI Resume Builder Tools in 2026 (Tested & Compared)",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9VUWVQRE1HSTdQb2M2amFzWTdwdkJoT2diR1VJOFVKQXRGcVh6ZTQyaWo4Wk5oNDZMVnNSMGV2WVJGV2E4Mmx6d2hST1RETkZic2dyRmItVm82QjTSAVtBVV95cUxPVVFlUERNR0k3UG9jNmphc1k3cHZCaE9nYkdVSThVSkF0RnFYemU0MmlqOFpOaDQ2TFZzUjBldllSRldhODJsendoUk9URE5GYnNnckZiLVZvNkI0?oc=5",
+          "title": "What is the Best AI Tool for Sports Betting in June 2026?",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE10ZFhMc2J6U3VfaVZLOVNjVnJ5b3Y2YmpmMnJDSTI3a2t2X1ZOUjJPNGVRZHBHVDZCQU4xaFpwSm5Vb0ZrTFY5d05aT25wR1NDQ29fWmpGQWNSc25NNktXQTVLdjctc3A3?oc=5",
           "source": "gnews"
         },
         {
-          "title": "Best AI Writing Tools for 2026: Top Picks for Teams",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE42RUVJblRGWnRvMHphM1EweGFlWW9NWlAxYXRITjVOeTNzQndLLTFkTDBKY1hqRUp4QXJHWFlXbVd0ejlaeW1YT0dUYWh4alFGSmo2cmJCLXcwc0ZYV2RQdDFXNklXY0hB?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Best AI Writing Tools for 2026: Top Picks for Teams",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE42RUVJblRGWnRvMHphM1EweGFlWW9NWlAxYXRITjVOeTNzQndLLTFkTDBKY1hqRUp4QXJHWFlXbVd0ejlaeW1YT0dUYWh4alFGSmo2cmJCLXcwc0ZYV2RQdDFXNklXY0hB?oc=5",
+          "title": "What is the Best AI Tool for Sports Betting in June 2026?",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE10ZFhMc2J6U3VfaVZLOVNjVnJ5b3Y2YmpmMnJDSTI3a2t2X1ZOUjJPNGVRZHBHVDZCQU4xaFpwSm5Vb0ZrTFY5d05aT25wR1NDQ29fWmpGQWNSc25NNktXQTVLdjctc3A3?oc=5",
           "source": "gnews"
         }
       ],
-      "id": "8d5dbe4649e1",
-      "slug": "tools-2026"
+      "id": "d651e202e22d",
+      "slug": "sports-betting"
     }
   ],
   "opportunities": [
     {
+      "keyword": "passive income",
+      "count": 50,
+      "score": 246.11726767085858,
+      "proper": true,
+      "niches": [
+        "finance",
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "JP Morgan’s Analyst Focus List for June Has 5 Top Passive Income Dividend Picks",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQk9vRnYyOHZMTElOdjZyR19ReF91TXVkam5HbXF5ZjZ4ODA1TTVrWHNwOGR2SXVEQmpfXzNEVmUtQ2IyR09CWDFqTXEwaTZoU3JkMERJR21FdTdrcm53MWNheGtwTm03YklwQm1iYWx3dWhQdHhuajBHODZyZGJFYnh1ZjlvenNpZmNKTzhWbm5LejhTNHdreXR2dTFqVVpGYVZXRVh0TnFOYktsTDByVGw2bHg3NlJJUHNRbDJn?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "JP Morgan’s Analyst Focus List for June Has 5 Top Passive Income Dividend Picks",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQk9vRnYyOHZMTElOdjZyR19ReF91TXVkam5HbXF5ZjZ4ODA1TTVrWHNwOGR2SXVEQmpfXzNEVmUtQ2IyR09CWDFqTXEwaTZoU3JkMERJR21FdTdrcm53MWNheGtwTm03YklwQm1iYWx3dWhQdHhuajBHODZyZGJFYnh1ZjlvenNpZmNKTzhWbm5LejhTNHdreXR2dTFqVVpGYVZXRVh0TnFOYktsTDByVGw2bHg3NlJJUHNRbDJn?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "3 passive income shares to consider buying for a 7% yield",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWDJWb2RzNnk4SWNFbWJXY2g5dzAwOFoyREd4QWRxekhJem9sblgxdV9WTFZtNzRLdFJCVV9laEhTZ21LM0RkZzd6dmtVQXJqQ1FQTTRpTjY0eDYzUWNkcVU5dDd0TEVpV1YwN2FBTGwxMUdkazdOY1o3c3prOXF5NG9lMEdvQWtqaklVaHdPSE84TG1PdDVKN2ZTYXJocUU?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "3 passive income shares to consider buying for a 7% yield",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWDJWb2RzNnk4SWNFbWJXY2g5dzAwOFoyREd4QWRxekhJem9sblgxdV9WTFZtNzRLdFJCVV9laEhTZ21LM0RkZzd6dmtVQXJqQ1FQTTRpTjY0eDYzUWNkcVU5dDd0TEVpV1YwN2FBTGwxMUdkazdOY1o3c3prOXF5NG9lMEdvQWtqaklVaHdPSE84TG1PdDVKN2ZTYXJocUU?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "3 High-Yield Dividend Stocks I Can't Wait to Buy in June to Boost My Passive Income",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOYU90Tzg5YTJFd1dyV3Fpa2xTWEtjZ2NNRjFNa0pvdUlWMDM5ODlqZWhPUkl0SFlWdXNUaDdia0pXZXhmTEVCWGlzeTlyd1J0a2t0SEVpb054bEdNV0REVGdXcEpKRjFGcmJWSXQ0bFVma0Z1VkpQX2NsTzhyRVR5NHM4WlBHQWRkLTkydDFCanM3TWxxU05BRw?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "cf2dbbbf8c8c",
+      "slug": "passive-income",
+      "opportunity": {
+        "type": "niche-content",
+        "recommended": "Publish niche guide for \"finance\"; bundle into digital product later."
+      }
+    },
+    {
       "keyword": "marjane satrapi",
       "count": 16,
-      "score": 187.04710231730118,
+      "score": 175.59933773256517,
       "proper": true,
       "niches": [
         "software"
@@ -726,69 +786,16 @@
       }
     },
     {
-      "keyword": "passive income",
-      "count": 39,
-      "score": 128.85497901648003,
-      "proper": false,
-      "niches": [
-        "finance",
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "A quality FTSE 100 dividend share to buy to lock down a passive income?",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQb0VxZ2luakRSbVB3ejRfczB2cjVsRUJITDc5X2swbzJDb2VuaXJpM094Z2dKZDJTV3k4UXIxUVMzQy1ydjJEUWJhLUZyQzM2MGtpZWdWeWtacG9IMWIwNFBOd0xLdTNVWGJsMmdmY1FuR0tJZGJQNFdOcnd5WTRjODBQNmZxNzJpWGF1YTF6X2t2Wm9HRGF1aUJRQm5KMFFqLWh6UV8zSUpGSC1rMkh2cXdB?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "A quality FTSE 100 dividend share to buy to lock down a passive income?",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQb0VxZ2luakRSbVB3ejRfczB2cjVsRUJITDc5X2swbzJDb2VuaXJpM094Z2dKZDJTV3k4UXIxUVMzQy1ydjJEUWJhLUZyQzM2MGtpZWdWeWtacG9IMWIwNFBOd0xLdTNVWGJsMmdmY1FuR0tJZGJQNFdOcnd5WTRjODBQNmZxNzJpWGF1YTF6X2t2Wm9HRGF1aUJRQm5KMFFqLWh6UV8zSUpGSC1rMkh2cXdB?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "3 passive income shares to consider buying for a 7% yield",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWDJWb2RzNnk4SWNFbWJXY2g5dzAwOFoyREd4QWRxekhJem9sblgxdV9WTFZtNzRLdFJCVV9laEhTZ21LM0RkZzd6dmtVQXJqQ1FQTTRpTjY0eDYzUWNkcVU5dDd0TEVpV1YwN2FBTGwxMUdkazdOY1o3c3prOXF5NG9lMEdvQWtqaklVaHdPSE84TG1PdDVKN2ZTYXJocUU?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "3 passive income shares to consider buying for a 7% yield",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWDJWb2RzNnk4SWNFbWJXY2g5dzAwOFoyREd4QWRxekhJem9sblgxdV9WTFZtNzRLdFJCVV9laEhTZ21LM0RkZzd6dmtVQXJqQ1FQTTRpTjY0eDYzUWNkcVU5dDd0TEVpV1YwN2FBTGwxMUdkazdOY1o3c3prOXF5NG9lMEdvQWtqaklVaHdPSE84TG1PdDVKN2ZTYXJocUU?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "3 High-Yield Dividend Stocks I Can't Wait to Buy in June to Boost My Passive Income",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQaDNhenNjajdzNFlRYTBzR25kSTItMkxHVzhsTkZleEJSQTZjQXJJNHFqNi1SajlaMkc1cjltWnN2Uk1KNlNWRlZfWlhOb0t2ejNKaVpnMFZrdzVKaVl0ZkhuaXhXazEzeFBFUkJuRTk4Q1cxVVE1anNGUU1ZamwwVTFCRkZnWGVzMF9sZFNwUkxmQTYzOEExTw?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "cf2dbbbf8c8c",
-      "slug": "passive-income",
-      "opportunity": {
-        "type": "niche-content",
-        "recommended": "Publish niche guide for \"finance\"; bundle into digital product later."
-      }
-    },
-    {
       "keyword": "software",
       "count": 17,
-      "score": 115.92205938988496,
+      "score": 106.04955131219324,
       "proper": true,
       "niches": [
-        "software",
-        "ai"
+        "ai",
+        "software"
       ],
       "examples": [
         {
-          "title": "Over the years, I've managed to lock myself into a corner made of proprietary software, even though I use #linux I decided to make changes, so here is how I'm removing almost all proprietary software ",
-          "url": "https://mastodon.social/@thelinuxEXP/116691652117163729",
-          "source": "mastodon"
-        },
-        {
-          "title": "Over the years, I've managed to lock myself into a corner made of proprietary software, even though I use #linux I decided to make changes, so here is how I'm removing almost all proprietary software ",
-          "url": "https://mastodon.social/@thelinuxEXP/116691652117163729",
-          "source": "mastodon"
-        },
-        {
           "title": "AI tools have sparked a coding revolution. Software engineers are figuring out what comes next.",
           "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQ3dYSWR4UWVXcDhRNGdKUjN6a2FiSXg2b2VZZmJjRVh1YUQtRjRRSnY5RjM4d0ZzYnE4T3JIdjloaFRXUGdnZGJpVDA5Z1ZBTWZVR0ZZWWNheHFWdlhfYWdtTkppTWl1bE9PV2hQVGVSdGFUTDRKSXlob2I4UzJPQm9GOEFOTW1HOVplX2hxb0xrYUpDX1dVN3Jn?oc=5",
           "source": "gnews"
@@ -801,6 +808,16 @@
         {
           "title": "AI tools have sparked a coding revolution. Software engineers are figuring out what comes next.",
           "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQ3dYSWR4UWVXcDhRNGdKUjN6a2FiSXg2b2VZZmJjRVh1YUQtRjRRSnY5RjM4d0ZzYnE4T3JIdjloaFRXUGdnZGJpVDA5Z1ZBTWZVR0ZZWWNheHFWdlhfYWdtTkppTWl1bE9PV2hQVGVSdGFUTDRKSXlob2I4UzJPQm9GOEFOTW1HOVplX2hxb0xrYUpDX1dVN3Jn?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Cisco rolls out software tools to protect IT systems from AI agents",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZ3NvT1JfQVdfS2JiWXpvM2tsS1FZQWNza1J5NGZWU2YtbzZwTFptcVdoUl9lOER5UXJkbHJvMlNwejFNVVctdEJ5cnpTa0JBbll6TGVrNnRuenBaYmxrYUNSbTZOSlJTQ0tlS01DbVBmc0FmNjJDQ2ZreWZnQ3I5cXp6U0RkZEM3WVVmUHZRXzV5MUlJSFpRU29xX3BaNHJoRmRWVEJmN2w5SEFLZmhXZ3BSMk03NzZ4aHc?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Cisco rolls out software tools to protect IT systems from AI agents",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZ3NvT1JfQVdfS2JiWXpvM2tsS1FZQWNza1J5NGZWU2YtbzZwTFptcVdoUl9lOER5UXJkbHJvMlNwejFNVVctdEJ5cnpTa0JBbll6TGVrNnRuenBaYmxrYUNSbTZOSlJTQ0tlS01DbVBmc0FmNjJDQ2ZreWZnQ3I5cXp6U0RkZEM3WVVmUHZRXzV5MUlJSFpRU29xX3BaNHJoRmRWVEJmN2w5SEFLZmhXZ3BSMk03NzZ4aHc?oc=5",
           "source": "gnews"
         }
       ],
@@ -808,136 +825,13 @@
       "slug": "software",
       "opportunity": {
         "type": "niche-content",
-        "recommended": "Publish niche guide for \"software\"; bundle into digital product later."
-      }
-    },
-    {
-      "keyword": "asvine c2000",
-      "count": 8,
-      "score": 87.53709765102735,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "This is the Asvine C2000 fountain pen with the stub nib. Super awesome for so cheap! Love the sheen and shimmer of the Organics Studio Nitrogen ink! Breaking in the pen with a grumpy cat sketch, as al",
-          "url": "https://mastodon.social/@joyousjoyness/116692198144194790",
-          "source": "mastodon"
-        },
-        {
-          "title": "This is the Asvine C2000 fountain pen with the stub nib. Super awesome for so cheap! Love the sheen and shimmer of the Organics Studio Nitrogen ink! Breaking in the pen with a grumpy cat sketch, as al",
-          "url": "https://mastodon.social/@joyousjoyness/116692198144194790",
-          "source": "mastodon"
-        }
-      ],
-      "id": "2bf019458e3d",
-      "slug": "asvine-c2000",
-      "opportunity": {
-        "type": "niche-content",
-        "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
-      }
-    },
-    {
-      "keyword": "codex skill",
-      "count": 8,
-      "score": 85.20313975954318,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "PostStokerStride/llm-intern-skill-232 — LLM internship resume and job-search Codex Skill: resume polish, JD tailoring, evidence guard, interview grilling, and Project Scout for LLM/RAG/Agent roles. 大模",
-          "url": "https://github.com/PostStokerStride/llm-intern-skill-232",
-          "source": "github"
-        },
-        {
-          "title": "PostStokerStride/llm-intern-skill-232 — LLM internship resume and job-search Codex Skill: resume polish, JD tailoring, evidence guard, interview grilling, and Project Scout for LLM/RAG/Agent roles. 大模",
-          "url": "https://github.com/PostStokerStride/llm-intern-skill-232",
-          "source": "github"
-        }
-      ],
-      "id": "9b6caa794677",
-      "slug": "codex-skill",
-      "opportunity": {
-        "type": "niche-content",
-        "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
-      }
-    },
-    {
-      "keyword": "saas",
-      "count": 12,
-      "score": 78.34462842361106,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "tastyeffectco/sandboxes — Self-hosted dev sandboxes with preview URLs. One command. No Kubernetes, perfect for coding agents and Saas factories",
-          "url": "https://github.com/tastyeffectco/sandboxes",
-          "source": "github"
-        },
-        {
-          "title": "tastyeffectco/sandboxes — Self-hosted dev sandboxes with preview URLs. One command. No Kubernetes, perfect for coding agents and Saas factories",
-          "url": "https://github.com/tastyeffectco/sandboxes",
-          "source": "github"
-        },
-        {
-          "title": "AccessOwl (YC S22) is hiring an AI TypeScript Engineer to connect 300 SaaS tools",
-          "url": "https://www.ycombinator.com/companies/accessowl/jobs/hfWAhVp-ai-enabled-senior-software-engineer-typescript-focus",
-          "source": "hackernews"
-        },
-        {
-          "title": "AccessOwl (YC S22) is hiring an AI TypeScript Engineer to connect 300 SaaS tools",
-          "url": "https://www.ycombinator.com/companies/accessowl/jobs/hfWAhVp-ai-enabled-senior-software-engineer-typescript-focus",
-          "source": "hackernews"
-        }
-      ],
-      "id": "98650c35cd5e",
-      "slug": "saas",
-      "opportunity": {
-        "type": "niche-content",
-        "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
-      }
-    },
-    {
-      "keyword": "code puppy",
-      "count": 11,
-      "score": 78.34258862401788,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "Code Puppy: Walmart's Secret Weapon Against AI Lock-in",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOX1BqSFExYXhXMFdGZHJHdjlUaGx6a1p1T3AycnAzbTJVSVRGMHVSX0NkTlpNNngzSm5QMFhRNFBQc21rNGZnR181RGhKYjV3eXQtVF80YnhkYUhMVmphUFJCNFVwRDRobi1Wb2JkemRSUzJqbmRuVU16Z1NfR05YQkl0UVpOdWJmNUxLSm1PRERFWklhWDFvMnVWRQ?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Code Puppy: Walmart's Secret Weapon Against AI Lock-in",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOX1BqSFExYXhXMFdGZHJHdjlUaGx6a1p1T3AycnAzbTJVSVRGMHVSX0NkTlpNNngzSm5QMFhRNFBQc21rNGZnR181RGhKYjV3eXQtVF80YnhkYUhMVmphUFJCNFVwRDRobi1Wb2JkemRSUzJqbmRuVU16Z1NfR05YQkl0UVpOdWJmNUxLSm1PRERFWklhWDFvMnVWRQ?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Code Puppy: Walmart's Secret Weapon Against AI Lock-in",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOX1BqSFExYXhXMFdGZHJHdjlUaGx6a1p1T3AycnAzbTJVSVRGMHVSX0NkTlpNNngzSm5QMFhRNFBQc21rNGZnR181RGhKYjV3eXQtVF80YnhkYUhMVmphUFJCNFVwRDRobi1Wb2JkemRSUzJqbmRuVU16Z1NfR05YQkl0UVpOdWJmNUxLSm1PRERFWklhWDFvMnVWRQ?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "2096e7e1898e",
-      "slug": "code-puppy",
-      "opportunity": {
-        "type": "niche-content",
         "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
       }
     },
     {
       "keyword": "claude",
-      "count": 7,
-      "score": 74.88472102439789,
+      "count": 10,
+      "score": 83.29057367235944,
       "proper": true,
       "niches": [
         "ai"
@@ -957,6 +851,16 @@
           "title": "Show HN: Boxes.dev: ditch localhost; run Claude Code and Codex in the cloud",
           "url": "https://boxes.dev",
           "source": "hackernews"
+        },
+        {
+          "title": "The Claude skill I built for myself is the only productivity hack that stuck",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOV081b0ZNOW9QNHBURTVQbERoUzZGWHBtTEloalRabTN0ZUVKaV9IYVZSb3EySHpIcUstOWUxUmR1bUw2Nmdyd1hsOHpxdE53QlN2ejBNaGthT2hTTlJaaG1wRWRzc1hsZm5wLXNEZ0hsUFJLbEt6Y3RTdjZ3Rk93RHBReHFuLVM0cWpKWFF6Y0FpWXgtQTR1OHN6VTNid1BSaWxoXzB4NnM2MUlO?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "The Claude skill I built for myself is the only productivity hack that stuck",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOV081b0ZNOW9QNHBURTVQbERoUzZGWHBtTEloalRabTN0ZUVKaV9IYVZSb3EySHpIcUstOWUxUmR1bUw2Nmdyd1hsOHpxdE53QlN2ejBNaGthT2hTTlJaaG1wRWRzc1hsZm5wLXNEZ0hsUFJLbEt6Y3RTdjZ3Rk93RHBReHFuLVM0cWpKWFF6Y0FpWXgtQTR1OHN6VTNid1BSaWxoXzB4NnM2MUlO?oc=5",
+          "source": "gnews"
         }
       ],
       "id": "c857d09db23e",
@@ -964,6 +868,104 @@
       "opportunity": {
         "type": "tooling",
         "recommended": "Build / list AI tools; monetize via affiliate links + lead magnet."
+      }
+    },
+    {
+      "keyword": "ken jones",
+      "count": 8,
+      "score": 79.41833709105262,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "Ken Jones, a retired San Francisco firefighter, has died from lung cancer after Blue Shield denied his treatment claims.Let me be clear, any politician running for President in 2028 who does not champ",
+          "url": "https://mastodon.social/@QasimRashid/116692928697071956",
+          "source": "mastodon"
+        },
+        {
+          "title": "Ken Jones, a retired San Francisco firefighter, has died from lung cancer after Blue Shield denied his treatment claims.Let me be clear, any politician running for President in 2028 who does not champ",
+          "url": "https://mastodon.social/@QasimRashid/116692928697071956",
+          "source": "mastodon"
+        }
+      ],
+      "id": "abe1358245eb",
+      "slug": "ken-jones",
+      "opportunity": {
+        "type": "niche-content",
+        "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
+      }
+    },
+    {
+      "keyword": "blue shield",
+      "count": 8,
+      "score": 79.41833709105262,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "Ken Jones, a retired San Francisco firefighter, has died from lung cancer after Blue Shield denied his treatment claims.Let me be clear, any politician running for President in 2028 who does not champ",
+          "url": "https://mastodon.social/@QasimRashid/116692928697071956",
+          "source": "mastodon"
+        },
+        {
+          "title": "Ken Jones, a retired San Francisco firefighter, has died from lung cancer after Blue Shield denied his treatment claims.Let me be clear, any politician running for President in 2028 who does not champ",
+          "url": "https://mastodon.social/@QasimRashid/116692928697071956",
+          "source": "mastodon"
+        }
+      ],
+      "id": "72aadb6e3bf6",
+      "slug": "blue-shield",
+      "opportunity": {
+        "type": "niche-content",
+        "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
+      }
+    },
+    {
+      "keyword": "fred rogers productions",
+      "count": 5,
+      "score": 76.03950449579395,
+      "proper": true,
+      "niches": [
+        "software"
+      ],
+      "examples": [
+        {
+          "title": "So apparently Fred Rogers Productions just started a new YouTube channel where they'll be uploading every episode of Mister Rogers' Neighborhoodhttps://youtube.com/@misterrogersneighborhood?si=o9FcfHu",
+          "url": "https://dice.camp/@squishymage42/116692076148476089",
+          "source": "mastodon"
+        }
+      ],
+      "id": "8b9efdff95c4",
+      "slug": "fred-rogers-productions",
+      "opportunity": {
+        "type": "affiliate",
+        "recommended": "Write SEO comparison/roundup article with affiliate links."
+      }
+    },
+    {
+      "keyword": "mister rogers",
+      "count": 5,
+      "score": 76.03950449579395,
+      "proper": true,
+      "niches": [
+        "software"
+      ],
+      "examples": [
+        {
+          "title": "So apparently Fred Rogers Productions just started a new YouTube channel where they'll be uploading every episode of Mister Rogers' Neighborhoodhttps://youtube.com/@misterrogersneighborhood?si=o9FcfHu",
+          "url": "https://dice.camp/@squishymage42/116692076148476089",
+          "source": "mastodon"
+        }
+      ],
+      "id": "8289ca6964a1",
+      "slug": "mister-rogers",
+      "opportunity": {
+        "type": "niche-content",
+        "recommended": "Publish niche guide for \"software\"; bundle into digital product later."
       }
     }
   ]
