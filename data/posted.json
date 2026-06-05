@@ -1,6 +1,21 @@
 {
   "x": [
     {
+      "slug": "azure-redops-2026-06-05",
+      "topic": "Azure Redops",
+      "tweetIds": [
+        "2062765069667098760",
+        "2062765076675805549",
+        "2062765083785048310",
+        "2062765090940629196",
+        "2062765098008035463",
+        "2062765105041859015",
+        "2062765112209940550",
+        "2062765119503831146"
+      ],
+      "postedAt": "2026-06-05T05:15:05.118Z"
+    },
+    {
       "slug": "offline-pwa-2026-06-04",
       "topic": "Offline Pwa",
       "tweetIds": [
@@ -479,6 +494,22 @@
     }
   ],
   "bluesky": [
+    {
+      "slug": "azure-redops-2026-06-05",
+      "topic": "Azure Redops",
+      "ids": [
+        "at://did:plc:tyttf4ceoibzsfb2tn764jic/app.bsky.feed.post/3mnjeza6csk2f",
+        "at://did:plc:tyttf4ceoibzsfb2tn764jic/app.bsky.feed.post/3mnjezb6kpz2c",
+        "at://did:plc:tyttf4ceoibzsfb2tn764jic/app.bsky.feed.post/3mnjezc5pnt23",
+        "at://did:plc:tyttf4ceoibzsfb2tn764jic/app.bsky.feed.post/3mnjezd4xox2p",
+        "at://did:plc:tyttf4ceoibzsfb2tn764jic/app.bsky.feed.post/3mnjeze3zen22",
+        "at://did:plc:tyttf4ceoibzsfb2tn764jic/app.bsky.feed.post/3mnjezf3cwp2b",
+        "at://did:plc:tyttf4ceoibzsfb2tn764jic/app.bsky.feed.post/3mnjezg23ls2f",
+        "at://did:plc:tyttf4ceoibzsfb2tn764jic/app.bsky.feed.post/3mnjezgzazy2a"
+      ],
+      "url": "https://bsky.app/profile/solmercer.bsky.social/post/3mnjeza6csk2f",
+      "postedAt": "2026-06-05T05:15:13.616Z"
+    },
     {
       "slug": "offline-pwa-2026-06-04",
       "topic": "Offline Pwa",

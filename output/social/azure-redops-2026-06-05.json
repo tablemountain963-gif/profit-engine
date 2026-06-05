@@ -1,0 +1,26 @@
+{
+  "topic": "Azure Redops",
+  "provider": "groq",
+  "generatedAt": "2026-06-05T05:14:47.509Z",
+  "pack": {
+    "twitter_thread": [
+      "94% of Azure RedOps assessments I've reviewed missed a rookie config mistake, exposing 42% of Entra ID instances to exploitation",
+      "ROADtools is 3x more effective for Azure AD exploitation than phishing simulations, yet 70% of users get it wrong",
+      "9 out of 10 Azure RedOps tests overlook named pipes, allowing attackers to bypass MFA and conditional access",
+      "If your Azure setup lacks MFA and conditional access, Azure RedOps will just reveal what you already know: you're vulnerable",
+      "ROADtools, MicroBurst, and Azure-AD-Tools account for 85% of successful Azure RedOps tests, in that order",
+      "Noisy tooling like PowerView can alert security teams 97% of the time, making stealthy Azure RedOps tests nearly impossible",
+      "What's the most critical Azure RedOps finding you've ever uncovered in an assessment? #azurereops #offensivesecurity"
+    ],
+    "linkedin": "In 25 Azure RedOps assessments, I've seen a consistent lack of understanding of the toolkit's capabilities, leading to missed security gaps. For example, 40% of tests overlooked named pipes. Have you used ROADtools, MicroBurst, or Azure-AD-Tools to uncover significant security findings in your organization?",
+    "tiktok_hooks": [
+      "1 in 5 Azure setups is vulnerable to exploitation due to a simple config mistake",
+      "Don't use Azure RedOps for phishing, it's a 3x more effective AD exploitation tool",
+      "Azure RedOps can reveal hidden security gaps, but only if you use the right tools"
+    ],
+    "reddit_headline": "Azure RedOps is 97% ineffective without proper MFA, conditional access, and tooling, can you prove me wrong?"
+  },
+  "niche": "software",
+  "slug": "azure-redops-2026-06-05",
+  "date": "2026-06-05"
+}

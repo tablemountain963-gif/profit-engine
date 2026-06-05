@@ -762,8 +762,8 @@
     },
     "tools": {
       "firstSeen": "2026-05-30T21:48:02.147Z",
-      "lastSeen": "2026-05-30T21:48:02.147Z",
-      "count": 1,
+      "lastSeen": "2026-06-05T05:14:27.008Z",
+      "count": 2,
       "wins": 0,
       "losses": 0,
       "niche": "ai"
@@ -1759,11 +1759,75 @@
       "wins": 0,
       "losses": 0,
       "niche": "software"
+    },
+    "happy-thorsday": {
+      "firstSeen": "2026-06-05T05:13:42.400Z",
+      "lastSeen": "2026-06-05T05:13:42.400Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "ai-censorship-tools": {
+      "firstSeen": "2026-06-05T05:13:46.097Z",
+      "lastSeen": "2026-06-05T05:13:46.097Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "open-code-review": {
+      "firstSeen": "2026-06-05T05:13:50.094Z",
+      "lastSeen": "2026-06-05T05:13:50.094Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "special-supplemental-nutrition-program": {
+      "firstSeen": "2026-06-05T05:13:56.198Z",
+      "lastSeen": "2026-06-05T05:13:56.198Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "lossless-scaling": {
+      "firstSeen": "2026-06-05T05:14:02.966Z",
+      "lastSeen": "2026-06-05T05:14:02.966Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "software"
+    },
+    "code-review": {
+      "firstSeen": "2026-06-05T05:14:08.863Z",
+      "lastSeen": "2026-06-05T05:14:08.863Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "budget-blowout": {
+      "firstSeen": "2026-06-05T05:14:35.338Z",
+      "lastSeen": "2026-06-05T05:14:35.338Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "azure-redops": {
+      "firstSeen": "2026-06-05T05:14:47.510Z",
+      "lastSeen": "2026-06-05T05:14:47.510Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "software"
     }
   },
   "niches": {
     "ai": {
-      "count": 262,
+      "count": 269,
       "wins": 76,
       "losses": 10
     },
@@ -1773,7 +1837,7 @@
       "losses": 0
     },
     "software": {
-      "count": 50,
+      "count": 52,
       "wins": 11,
       "losses": 2
     },

@@ -1,6 +1,51 @@
 {
   "items": [
     {
+      "slug": "prompt-pack-code-review-2026-06-05",
+      "title": "Code Review Prompt Pack — 50 Battle-Tested Prompts",
+      "blurb": "50 proven prompts for Code Review. Copy/paste ready. Tested across Claude, GPT, Gemini.",
+      "type": "prompt-pack",
+      "topic": "Code Review",
+      "niche": "ai",
+      "price": 19,
+      "generatedAt": "2026-06-05T05:14:02.967Z",
+      "files": [
+        "prompts.md",
+        "README.md",
+        "LICENSE.txt"
+      ]
+    },
+    {
+      "slug": "prompt-pack-lossless-scaling-2026-06-05",
+      "title": "Lossless Scaling Prompt Pack — 50 Battle-Tested Prompts",
+      "blurb": "50 proven prompts for Lossless Scaling. Copy/paste ready. Tested across Claude, GPT, Gemini.",
+      "type": "prompt-pack",
+      "topic": "Lossless Scaling",
+      "niche": "software",
+      "price": 19,
+      "generatedAt": "2026-06-05T05:13:56.198Z",
+      "files": [
+        "prompts.md",
+        "README.md",
+        "LICENSE.txt"
+      ]
+    },
+    {
+      "slug": "prompt-pack-special-supplemental-nutrition-program-2026-06-05",
+      "title": "Special Supplemental Nutrition Program Prompt Pack — 50 Battle-Tested Prompts",
+      "blurb": "50 proven prompts for Special Supplemental Nutrition Program. Copy/paste ready. Tested across Claude, GPT, Gemini.",
+      "type": "prompt-pack",
+      "topic": "Special Supplemental Nutrition Program",
+      "niche": "ai",
+      "price": 19,
+      "generatedAt": "2026-06-05T05:13:50.486Z",
+      "files": [
+        "prompts.md",
+        "README.md",
+        "LICENSE.txt"
+      ]
+    },
+    {
       "slug": "prompt-pack-based-tools-2026-06-04",
       "title": "Based Tools Prompt Pack — 50 Battle-Tested Prompts",
       "blurb": "50 proven prompts for Based Tools. Copy/paste ready. Tested across Claude, GPT, Gemini.",
