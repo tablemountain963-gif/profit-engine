@@ -914,10 +914,10 @@
     },
     "alprs-mapped": {
       "firstSeen": "2026-05-31T21:45:18.666Z",
-      "lastSeen": "2026-05-31T21:45:18.666Z",
-      "count": 1,
+      "lastSeen": "2026-06-05T22:07:45.542Z",
+      "count": 2,
       "wins": 0,
-      "losses": 0,
+      "losses": 1,
       "niche": "software"
     },
     "whatsapp": {
@@ -1890,25 +1890,25 @@
     },
     "advancing-cybersecurity": {
       "firstSeen": "2026-06-05T17:47:29.872Z",
-      "lastSeen": "2026-06-05T17:47:29.872Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-05T22:07:45.544Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
     "open-source-strategy": {
       "firstSeen": "2026-06-05T17:47:33.609Z",
-      "lastSeen": "2026-06-05T17:47:33.609Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-05T22:07:45.545Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "software"
     },
     "qualys-steps": {
       "firstSeen": "2026-06-05T17:47:36.632Z",
-      "lastSeen": "2026-06-05T17:47:36.632Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-05T22:07:45.545Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -1927,12 +1927,60 @@
       "wins": 0,
       "losses": 0,
       "niche": "ai"
+    },
+    "real-reviews": {
+      "firstSeen": "2026-06-05T22:07:50.996Z",
+      "lastSeen": "2026-06-05T22:07:50.996Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "sleeping-beauty": {
+      "firstSeen": "2026-06-05T22:07:54.545Z",
+      "lastSeen": "2026-06-05T22:07:54.545Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "software"
+    },
+    "conventional-commits": {
+      "firstSeen": "2026-06-05T22:07:57.603Z",
+      "lastSeen": "2026-06-05T22:07:57.603Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "hacker-news": {
+      "firstSeen": "2026-06-05T22:08:05.005Z",
+      "lastSeen": "2026-06-05T22:08:05.005Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "project-glasswing": {
+      "firstSeen": "2026-06-05T22:08:54.765Z",
+      "lastSeen": "2026-06-05T22:08:54.765Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "namecheap": {
+      "firstSeen": "2026-06-05T22:09:08.103Z",
+      "lastSeen": "2026-06-05T22:09:08.103Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
     }
   },
   "niches": {
     "ai": {
-      "count": 281,
-      "wins": 78,
+      "count": 288,
+      "wins": 80,
       "losses": 10
     },
     "finance": {
@@ -1941,9 +1989,9 @@
       "losses": 0
     },
     "software": {
-      "count": 56,
-      "wins": 13,
-      "losses": 2
+      "count": 59,
+      "wins": 14,
+      "losses": 3
     },
     "gear": {
       "count": 22,
