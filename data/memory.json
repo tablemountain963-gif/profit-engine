@@ -562,8 +562,8 @@
     },
     "income": {
       "firstSeen": "2026-05-29T22:24:13.712Z",
-      "lastSeen": "2026-05-29T22:24:13.712Z",
-      "count": 1,
+      "lastSeen": "2026-06-05T15:53:11.530Z",
+      "count": 2,
       "wins": 0,
       "losses": 0,
       "niche": "finance"
@@ -954,9 +954,9 @@
     },
     "hive-mind": {
       "firstSeen": "2026-06-01T05:59:09.853Z",
-      "lastSeen": "2026-06-01T05:59:09.853Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-05T15:51:55.562Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "software"
     },
@@ -1770,17 +1770,17 @@
     },
     "ai-censorship-tools": {
       "firstSeen": "2026-06-05T05:13:46.097Z",
-      "lastSeen": "2026-06-05T05:13:46.097Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-05T15:51:55.564Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
     "open-code-review": {
       "firstSeen": "2026-06-05T05:13:50.094Z",
-      "lastSeen": "2026-06-05T05:13:50.094Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-05T15:51:55.565Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -1823,26 +1823,90 @@
       "wins": 0,
       "losses": 0,
       "niche": "software"
+    },
+    "disguised-russian": {
+      "firstSeen": "2026-06-05T15:52:00.493Z",
+      "lastSeen": "2026-06-05T15:52:00.493Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "software"
+    },
+    "nicolas-sutrich": {
+      "firstSeen": "2026-06-05T15:52:03.262Z",
+      "lastSeen": "2026-06-05T15:52:03.262Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "jalen-brunson": {
+      "firstSeen": "2026-06-05T15:52:05.782Z",
+      "lastSeen": "2026-06-05T15:52:05.782Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "gear"
+    },
+    "content-marketers": {
+      "firstSeen": "2026-06-05T15:52:13.164Z",
+      "lastSeen": "2026-06-05T15:52:13.164Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "tested-ranked": {
+      "firstSeen": "2026-06-05T15:52:27.576Z",
+      "lastSeen": "2026-06-05T15:52:27.576Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "schweizer-entwicklungsteams": {
+      "firstSeen": "2026-06-05T15:52:38.971Z",
+      "lastSeen": "2026-06-05T15:52:38.971Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "google-drive": {
+      "firstSeen": "2026-06-05T15:53:33.309Z",
+      "lastSeen": "2026-06-05T15:53:33.309Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "programmers": {
+      "firstSeen": "2026-06-05T15:53:41.626Z",
+      "lastSeen": "2026-06-05T15:53:41.626Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
     }
   },
   "niches": {
     "ai": {
-      "count": 269,
-      "wins": 76,
+      "count": 277,
+      "wins": 78,
       "losses": 10
     },
     "finance": {
-      "count": 22,
+      "count": 23,
       "wins": 4,
       "losses": 0
     },
     "software": {
-      "count": 52,
-      "wins": 11,
+      "count": 54,
+      "wins": 12,
       "losses": 2
     },
     "gear": {
-      "count": 21,
+      "count": 22,
       "wins": 5,
       "losses": 0
     },
