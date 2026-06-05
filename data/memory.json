@@ -1826,9 +1826,9 @@
     },
     "disguised-russian": {
       "firstSeen": "2026-06-05T15:52:00.493Z",
-      "lastSeen": "2026-06-05T15:52:00.493Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-05T17:47:24.433Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "software"
     },
@@ -1887,11 +1887,51 @@
       "wins": 0,
       "losses": 0,
       "niche": "ai"
+    },
+    "advancing-cybersecurity": {
+      "firstSeen": "2026-06-05T17:47:29.872Z",
+      "lastSeen": "2026-06-05T17:47:29.872Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "open-source-strategy": {
+      "firstSeen": "2026-06-05T17:47:33.609Z",
+      "lastSeen": "2026-06-05T17:47:33.609Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "software"
+    },
+    "qualys-steps": {
+      "firstSeen": "2026-06-05T17:47:36.632Z",
+      "lastSeen": "2026-06-05T17:47:36.632Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "kuratierte-agent-skills": {
+      "firstSeen": "2026-06-05T17:47:46.640Z",
+      "lastSeen": "2026-06-05T17:47:46.640Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "general-instinct": {
+      "firstSeen": "2026-06-05T17:47:56.465Z",
+      "lastSeen": "2026-06-05T17:47:56.465Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
     }
   },
   "niches": {
     "ai": {
-      "count": 277,
+      "count": 281,
       "wins": 78,
       "losses": 10
     },
@@ -1901,8 +1941,8 @@
       "losses": 0
     },
     "software": {
-      "count": 54,
-      "wins": 12,
+      "count": 56,
+      "wins": 13,
       "losses": 2
     },
     "gear": {
