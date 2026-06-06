@@ -106,8 +106,8 @@
     },
     "kitchen-gadgets": {
       "firstSeen": "2026-05-28T13:16:58.330Z",
-      "lastSeen": "2026-05-28T13:29:54.660Z",
-      "count": 2,
+      "lastSeen": "2026-06-06T04:53:09.773Z",
+      "count": 3,
       "wins": 1,
       "losses": 0,
       "niche": "gear"
@@ -946,8 +946,8 @@
     },
     "2026-_blank": {
       "firstSeen": "2026-05-31T21:45:59.853Z",
-      "lastSeen": "2026-05-31T21:45:59.853Z",
-      "count": 1,
+      "lastSeen": "2026-06-06T04:53:23.652Z",
+      "count": 2,
       "wins": 0,
       "losses": 0,
       "niche": "gear"
@@ -1554,9 +1554,9 @@
     },
     "vim-classic": {
       "firstSeen": "2026-06-04T05:53:53.915Z",
-      "lastSeen": "2026-06-04T05:53:53.915Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-06T04:51:42.954Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -1842,9 +1842,9 @@
     },
     "jalen-brunson": {
       "firstSeen": "2026-06-05T15:52:05.782Z",
-      "lastSeen": "2026-06-05T15:52:05.782Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-06T04:51:42.955Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "gear"
     },
@@ -1930,9 +1930,9 @@
     },
     "real-reviews": {
       "firstSeen": "2026-06-05T22:07:50.996Z",
-      "lastSeen": "2026-06-05T22:07:50.996Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-06T04:51:42.957Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -1946,9 +1946,9 @@
     },
     "conventional-commits": {
       "firstSeen": "2026-06-05T22:07:57.603Z",
-      "lastSeen": "2026-06-05T22:07:57.603Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-06T04:51:42.959Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -1975,27 +1975,67 @@
       "wins": 0,
       "losses": 0,
       "niche": "ai"
+    },
+    "tank-man": {
+      "firstSeen": "2026-06-06T04:51:49.101Z",
+      "lastSeen": "2026-06-06T04:51:49.101Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "software"
+    },
+    "tienanmen-square": {
+      "firstSeen": "2026-06-06T04:51:52.536Z",
+      "lastSeen": "2026-06-06T04:51:52.536Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "software"
+    },
+    "gps-cryptography": {
+      "firstSeen": "2026-06-06T04:51:57.478Z",
+      "lastSeen": "2026-06-06T04:51:57.478Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "finance"
+    },
+    "power-stations": {
+      "firstSeen": "2026-06-06T04:52:07.263Z",
+      "lastSeen": "2026-06-06T04:52:07.263Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "gear"
+    },
+    "gadgets-2026": {
+      "firstSeen": "2026-06-06T04:52:39.475Z",
+      "lastSeen": "2026-06-06T04:52:39.475Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "gear"
     }
   },
   "niches": {
     "ai": {
-      "count": 288,
-      "wins": 80,
+      "count": 292,
+      "wins": 83,
       "losses": 10
     },
     "finance": {
-      "count": 23,
+      "count": 24,
       "wins": 4,
       "losses": 0
     },
     "software": {
-      "count": 59,
+      "count": 61,
       "wins": 14,
       "losses": 3
     },
     "gear": {
-      "count": 22,
-      "wins": 5,
+      "count": 26,
+      "wins": 6,
       "losses": 0
     },
     "health": {
