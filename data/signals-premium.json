@@ -1,122 +1,111 @@
 {
-  "generatedAt": "2026-06-06T14:28:27.159Z",
-  "sourceCount": 203,
+  "generatedAt": "2026-06-06T16:59:30.036Z",
+  "sourceCount": 205,
   "topItems": [
-    {
-      "title": "I don’t know what was worse, Stack Overflow’s moderation system, which many IT communities find annoying, or AI killing the site 🤔 Both extremes seem bad for the open web…. I still think that we don’",
-      "url": "https://mastodon.social/@nixCraft/116702330805717638",
-      "score": 8.56,
-      "niche": "ai",
-      "source": "mastodon",
-      "engagement": {
-        "score": 427,
-        "comments": 23
-      }
-    },
-    {
-      "title": "Gemma 4 QAT models: Optimizing compression for mobile and laptop efficiency",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4/",
-      "score": 8.16,
-      "niche": "ai",
-      "source": "hackernews",
-      "engagement": {
-        "score": 366,
-        "comments": 112
-      }
-    },
     {
       "title": "S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic",
       "url": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/",
-      "score": 8.09,
+      "score": 8.34,
       "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 859,
-        "comments": 296
-      }
-    },
-    {
-      "title": "John Finnemore on the French horn/cor anglais:\"I was idly wondering why the cor anglais has a French name meaning ‘English horn’, and the French horn has an English name meaning… well, ‘French horn’. ",
-      "url": "https://infosec.exchange/@davep/116702752713268309",
-      "score": 7.65,
-      "niche": "ai",
-      "source": "mastodon",
-      "engagement": {
-        "score": 227,
-        "comments": 9
-      }
-    },
-    {
-      "title": "Astronauts told to return to ISS after sheltering over air leak repairs",
-      "url": "https://www.bbc.com/news/live/c4g44ew3g1kt",
-      "score": 7.58,
-      "niche": "ai",
-      "source": "hackernews",
-      "engagement": {
-        "score": 408,
-        "comments": 253
-      }
-    },
-    {
-      "title": "RE: https://mathstodon.xyz/@11011110/116702037049926326The rebellions continue! The publisher Springer put pressure on a journal's editors to accept more papers, to make more money. The editors resign",
-      "url": "https://mathstodon.xyz/@johncarlosbaez/116702226989736548",
-      "score": 7.56,
-      "niche": "finance",
-      "source": "mastodon",
-      "engagement": {
-        "score": 326,
-        "comments": 2
-      }
-    },
-    {
-      "title": "Conventional Commits encourages focus on the wrong things",
-      "url": "https://sumnerevans.com/posts/software-engineering/stop-using-conventional-commits/",
-      "score": 7.46,
-      "niche": "ai",
-      "source": "hackernews",
-      "engagement": {
-        "score": 336,
-        "comments": 240
+        "score": 1051,
+        "comments": 381
       }
     },
     {
       "title": "New, by me: Meta has filed a data breach notice confirming that *thousands* of people had their Instagram accounts hacked as part of a months-long campaign abusing its Meta AI chatbot.Meta's breach no",
       "url": "https://mastodon.social/@zackwhittaker/116703018430127671",
-      "score": 7.22,
+      "score": 8.29,
       "niche": "ai",
       "source": "mastodon",
       "engagement": {
-        "score": 175,
-        "comments": 2
+        "score": 380,
+        "comments": 5
+      }
+    },
+    {
+      "title": "US House lawmakers release draft bill to prohibit state AI rules",
+      "url": "https://www.reuters.com/business/us-house-lawmakers-release-draft-bill-regulate-ai-2026-06-04/",
+      "score": 7.84,
+      "niche": "ai",
+      "source": "hackernews",
+      "engagement": {
+        "score": 72,
+        "comments": 31
+      }
+    },
+    {
+      "title": "The AI vibe shift is real: Why the backlash is growing - https://mashable.com/tech/ai-backlash-vibe-shift excellent summary of #ai's current and growing problems...",
+      "url": "https://mastodon.social/@glynmoody/116703524999173131",
+      "score": 7.44,
+      "niche": "ai",
+      "source": "mastodon",
+      "engagement": {
+        "score": 98,
+        "comments": 3
+      }
+    },
+    {
+      "title": "John Finnemore on the French horn/cor anglais:\"I was idly wondering why the cor anglais has a French name meaning ‘English horn’, and the French horn has an English name meaning… well, ‘French horn’. ",
+      "url": "https://infosec.exchange/@davep/116702752713268309",
+      "score": 7.43,
+      "niche": "ai",
+      "source": "mastodon",
+      "engagement": {
+        "score": 750,
+        "comments": 24
       }
     },
     {
       "title": "best-spicy-ai/ai-naughty-tools — Discover uncensored AI image & video tools trusted by users worldwide for highly photorealistic results. Create without unnecessary limits using platforms built for re",
       "url": "https://github.com/best-spicy-ai/ai-naughty-tools",
-      "score": 7.15,
+      "score": 7.18,
       "niche": "ai",
       "source": "github",
       "engagement": {
-        "score": 209,
+        "score": 215,
         "comments": 1
       }
     },
     {
-      "title": "The Smart TV in Your LivingRoom Is a Node in the AIScraping Economy",
-      "url": "https://blog.includesecurity.com/2026/06/the-smart-tv-in-your-livingroom-is-a-node-in-the-aiscraping-economy/",
-      "score": 7.14,
+      "title": "I don’t know what was worse, Stack Overflow’s moderation system, which many IT communities find annoying, or AI killing the site 🤔 Both extremes seem bad for the open web…. I still think that we don’",
+      "url": "https://mastodon.social/@nixCraft/116702330805717638",
+      "score": 7.12,
       "niche": "ai",
-      "source": "hackernews",
+      "source": "mastodon",
       "engagement": {
-        "score": 115,
-        "comments": 27
+        "score": 543,
+        "comments": 31
       }
     },
     {
-      "title": "A Barbell Approach To Passive Income As Inflation Roars Back To Life",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObWp3VFhBUUU1c1l1NmdvSGRSV1l0bDRwamZPU2lwOEl1Vi1VTFVfYnhvdGxDNHUyaXZaRU5rNkRjeDE5T3F1R1p2ZzB0Unh4QnBCZ1IyZkpwNWRHZ2RNYVREWDJVVWUtZkhhNUZKM3M3ejl1cVZOUDc3WTB4VHhJZDNzZXZUajgzMWJwWlJPSmM3NG5aejNlQ1FjQm9kU2t4ckV5RXM5VnkyUjFmdXc?oc=5",
-      "score": 7.02,
-      "niche": "finance",
+      "title": "You, the people, and NLnet, have funded a fully open TikTok alternative with web and mobile clients, ActivityPub federation and an opt-out For You feed algorithm that is privacy friendly.Anyone can st",
+      "url": "https://mastodon.social/@dansup/116703408692610174",
+      "score": 6.85,
+      "niche": "software",
+      "source": "mastodon",
+      "engagement": {
+        "score": 131,
+        "comments": 1
+      }
+    },
+    {
+      "title": "Another reply, “but LLMs are closer to reasoning”.Yes, similar to how I’m closer to the Moon when I’m standing on tiptoes.",
+      "url": "https://hachyderm.io/@thomasfuchs/116703645711660263",
+      "score": 6.8,
+      "niche": "ai",
+      "source": "mastodon",
+      "engagement": {
+        "score": 130,
+        "comments": 1
+      }
+    },
+    {
+      "title": "Why Smart CEOs Are Choosing ‘DIY AI’ Instead of Build or Buy",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbFNjWE5OMGlNeDBtOUlKRVhBN3JuNDFPSGtLUFM4TElDelMteEFjRWNwUUF1U0N1Mkc2Y2hvQm5pT0tadkRRVE1sbmI5VlJRdFJ4WXVFcHFya1dPUFRzeFpVbFV1NExma3R1UTY5Ulo2SGpVSk80SWwwWHRCWUFvWGozd1h3dlVwSVUzQUc4a25MT0J3bW52b1BlRGtZQ0U?oc=5",
+      "score": 6.71,
+      "niche": "ai",
       "source": "gnews",
       "engagement": {
         "score": 40,
@@ -124,10 +113,21 @@
       }
     },
     {
-      "title": "Consumer Productivity Apps",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAteEZfVnFoSTNuTFdfemp3VEFXOGFKbnpfaFREZ0t0a205Y1JkUGJEemFBX2VLLUZBVTBVRzhleHNOV2ZWRFVyY3BFN1FNTDVWQ1M4aHpFMEFsMXRLUm83c9IBYEFVX3lxTFAteEZfVnFoSTNuTFdfemp3VEFXOGFKbnpfaFREZ0t0a205Y1JkUGJEemFBX2VLLUZBVTBVRzhleHNOV2ZWRFVyY3BFN1FNTDVWQ1M4aHpFMEFsMXRLUm83cw?oc=5",
-      "score": 6.55,
-      "niche": "software",
+      "title": "If you have ever said to yourself, \"Wow, I wonder what it would be like if John Scalzi and Brandon Sanderson sat down in front of an audience and talked about writing and life and everything else for ",
+      "url": "https://mastodon.social/@scalzi/116703603198422791",
+      "score": 6.68,
+      "niche": "ai",
+      "source": "mastodon",
+      "engagement": {
+        "score": 121,
+        "comments": 0
+      }
+    },
+    {
+      "title": "10 best AI tools for small business owners in 2026 - how to start your business with AI",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPcWc0SVBoZWpTLWhOZ0g3LVl6cjNkNVRwQlk5OW1pYUtTd2NuYlo3aWxqQ290a2phRk5EZVRvdnlRSXVXOUh3UWt3bGRscUY4SWxTV3RuUVBKTEhpWnAyZ3BlcjNUREluTUdPbnJuOFFQQjhLQk5vRWpmaTBtNXcwcEtpOVJhQl9rcVJXRTFoODdPRWVfYVBBVG1GWThQQThSU3dPZWxYRmlaM0RORlVhZ3UzSG43ZnBoZDN3Nk9EMU5jNG1xbFVtLVVKTEYwaGRBZGRBRXRpdlBLU0w3QXFhSWp1TWZ3YVdWQzloaXlwYzlXWENTMFB6QlAxbmRfQQ?oc=5",
+      "score": 6.61,
+      "niche": "ai",
       "source": "gnews",
       "engagement": {
         "score": 40,
@@ -137,45 +137,45 @@
     {
       "title": "The intracies of modern camera lens repair (2024)",
       "url": "https://salvagedcircuitry.com/sigma-45mm.html",
-      "score": 6.48,
+      "score": 6.58,
       "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 200,
-        "comments": 70
-      }
-    },
-    {
-      "title": "The Emotional Pains That Shaped Van Gogh’s Art and How to See Them on the CanvasFrom dark and depressing tones to vibrant canvases saturated with color, Van Gogh’s art acts as a window into his emotio",
-      "url": "https://mastodon.social/@gutenberg_org/116703171864072062",
-      "score": 6.46,
-      "niche": "ai",
-      "source": "mastodon",
-      "engagement": {
-        "score": 56,
-        "comments": 0
+        "score": 216,
+        "comments": 78
       }
     },
     {
       "title": "Ask HN: What was your \"oh shit\" moment with GenAI?",
       "url": "https://news.ycombinator.com/item?id=48406174",
-      "score": 6.3,
+      "score": 6.38,
       "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 417,
-        "comments": 744
+        "score": 461,
+        "comments": 817
       }
     },
     {
-      "title": "pg_durable: Microsoft open sources in-database durable execution",
-      "url": "https://github.com/microsoft/pg_durable",
-      "score": 6.25,
-      "niche": "software",
+      "title": "Some messy mixed media fun~ ✨#MastoArt #TraditionalArt #MixedMedia #Painting",
+      "url": "https://mastodon.social/@lindenshieldarts/116703556966106206",
+      "score": 6.28,
+      "niche": "ai",
+      "source": "mastodon",
+      "engagement": {
+        "score": 89,
+        "comments": 1
+      }
+    },
+    {
+      "title": "Gemma 4 QAT models: Optimizing compression for mobile and laptop efficiency",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4/",
+      "score": 6.16,
+      "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 428,
-        "comments": 94
+        "score": 378,
+        "comments": 120
       }
     },
     {
@@ -190,68 +190,68 @@
       }
     },
     {
-      "title": "Did Claude increase bugs in rsync?",
+      "title": "Did Claude Increase Bugs in rsync?",
       "url": "https://alexispurslane.github.io/rsync-analysis/",
-      "score": 6.04,
+      "score": 5.87,
       "niche": "ai",
-      "source": "hackernews",
+      "source": "lobsters",
       "engagement": {
-        "score": 461,
-        "comments": 470
-      }
-    },
-    {
-      "title": "The back cover of C++: The Language raises questions not answered by front cover",
-      "url": "https://devblogs.microsoft.com/oldnewthing/20260605-01/?p=112391",
-      "score": 5.9,
-      "niche": "ai",
-      "source": "hackernews",
-      "engagement": {
-        "score": 120,
-        "comments": 40
-      }
-    },
-    {
-      "title": "You, the people, and NLnet, have funded a fully open TikTok alternative with web and mobile clients, ActivityPub federation and an opt-out For You feed algorithm that is privacy friendly.Anyone can st",
-      "url": "https://mastodon.social/@dansup/116703408692610174",
-      "score": 5.88,
-      "niche": "software",
-      "source": "mastodon",
-      "engagement": {
-        "score": 66,
-        "comments": 0
-      }
-    },
-    {
-      "title": "Dev Opportunity Radar #2: A Fully-Funded Residency in Finland, AI Research Program, and a $60K Hackathon",
-      "url": "https://dev.to/hemapriya_kanagala/dev-opportunity-radar-2-a-fully-funded-residency-in-finland-ai-research-program-and-a-60k-33l4",
-      "score": 5.85,
-      "niche": "ai",
-      "source": "devto",
-      "engagement": {
-        "score": 54,
-        "comments": 21
+        "score": 87,
+        "comments": 54
       }
     },
     {
       "title": "How LLMs work",
       "url": "https://www.0xkato.xyz/how-llms-actually-work/",
-      "score": 5.65,
+      "score": 5.78,
       "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 551,
-        "comments": 163
+        "score": 660,
+        "comments": 183
+      }
+    },
+    {
+      "title": "Astronauts told to return to ISS after sheltering over air leak repairs",
+      "url": "https://www.bbc.com/news/live/c4g44ew3g1kt",
+      "score": 5.69,
+      "niche": "ai",
+      "source": "hackernews",
+      "engagement": {
+        "score": 414,
+        "comments": 255
+      }
+    },
+    {
+      "title": "KRYU2002/Gothic-1-Remake-Release — Gothic Remake Release 1 download game pc steam gothic  gothic remake ps5 review link iso fitgirl dlc trainer gameplay",
+      "url": "https://github.com/KRYU2002/Gothic-1-Remake-Release",
+      "score": 5.68,
+      "niche": "ai",
+      "source": "github",
+      "engagement": {
+        "score": 84,
+        "comments": 0
+      }
+    },
+    {
+      "title": "Police in England and Wales told to halt AI use in court statements",
+      "url": "https://www.ft.com/content/229e5949-3ebc-4151-8a86-a01b5e259241",
+      "score": 5.57,
+      "niche": "ai",
+      "source": "hackernews",
+      "engagement": {
+        "score": 42,
+        "comments": 6
       }
     },
     {
       "title": "zenhosta/9drive — 9Drive is a storage gateway web app for connecting multiple Google Drive accounts into one virtual storage dashboard. Users can connect Google Drive accounts, track quota, upload fil",
       "url": "https://github.com/zenhosta/9drive",
-      "score": 5.41,
+      "score": 5.44,
       "niche": "ai",
       "source": "github",
       "engagement": {
-        "score": 282,
+        "score": 291,
         "comments": 0
       }
     },
@@ -267,135 +267,61 @@
       }
     },
     {
-      "title": "Note to self: fold washing before going out cycling.#CatsOfMastodon #Caturday",
-      "url": "https://mastodon.social/@GoingDownWithSundial/116703079906805369",
-      "score": 5.18,
+      "title": "Jane-xiaoer/xiaoer-videolab — One click on the toolbar grabs the current page's video into ~/Downloads — local yt-dlp daemon, 1800+ sites. 小耳抓视频：一键把当前页视频抓到本地。",
+      "url": "https://github.com/Jane-xiaoer/xiaoer-videolab",
+      "score": 5.13,
       "niche": "software",
-      "source": "mastodon",
+      "source": "github",
       "engagement": {
-        "score": 66,
-        "comments": 2
+        "score": 451,
+        "comments": 0
       }
     }
   ],
   "topics": [
     {
-      "keyword": "passive income",
-      "count": 47,
-      "score": 186.779724014426,
-      "proper": true,
+      "keyword": "side hustle",
+      "count": 33,
+      "score": 92.32542466177797,
+      "proper": false,
       "niches": [
-        "finance",
-        "ai"
+        "ai",
+        "finance"
       ],
       "examples": [
         {
-          "title": "A Barbell Approach To Passive Income As Inflation Roars Back To Life",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObWp3VFhBUUU1c1l1NmdvSGRSV1l0bDRwamZPU2lwOEl1Vi1VTFVfYnhvdGxDNHUyaXZaRU5rNkRjeDE5T3F1R1p2ZzB0Unh4QnBCZ1IyZkpwNWRHZ2RNYVREWDJVVWUtZkhhNUZKM3M3ejl1cVZOUDc3WTB4VHhJZDNzZXZUajgzMWJwWlJPSmM3NG5aejNlQ1FjQm9kU2t4ckV5RXM5VnkyUjFmdXc?oc=5",
+          "title": "I Asked ChatGPT How To Turn $100 Into a Thriving Side Hustle — Here’s What It Said",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ua3lIYkhzUkV6MTkyaUJaNzRNZ0dkR2s2TllrVjU0bWNRWWZhNHZsR3hSUHJ4MlFZdS04Q09od1J0YkVYT09faWQ0Wm9MTkxBdUp1ekNVbmFQbGJ6TG9SUTBuUmstYTJjNzg1VFRNa05RWExuVy03c1pOU2JrWnM?oc=5",
           "source": "gnews"
         },
         {
-          "title": "A Barbell Approach To Passive Income As Inflation Roars Back To Life",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObWp3VFhBUUU1c1l1NmdvSGRSV1l0bDRwamZPU2lwOEl1Vi1VTFVfYnhvdGxDNHUyaXZaRU5rNkRjeDE5T3F1R1p2ZzB0Unh4QnBCZ1IyZkpwNWRHZ2RNYVREWDJVVWUtZkhhNUZKM3M3ejl1cVZOUDc3WTB4VHhJZDNzZXZUajgzMWJwWlJPSmM3NG5aejNlQ1FjQm9kU2t4ckV5RXM5VnkyUjFmdXc?oc=5",
+          "title": "I Asked ChatGPT How To Turn $100 Into a Thriving Side Hustle — Here’s What It Said",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ua3lIYkhzUkV6MTkyaUJaNzRNZ0dkR2s2TllrVjU0bWNRWWZhNHZsR3hSUHJ4MlFZdS04Q09od1J0YkVYT09faWQ0Wm9MTkxBdUp1ekNVbmFQbGJ6TG9SUTBuUmstYTJjNzg1VFRNa05RWExuVy03c1pOU2JrWnM?oc=5",
           "source": "gnews"
         },
         {
-          "title": "How much is needed in an ISA to target a £1,046 monthly passive income in retirement?",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1fRXNjNTZzQ0d0MU1VUkJqMWZYVHZTVW9Nb0FqQ1c2R0l1eWRXaUtLbkZPbWFUNkxMVUZUSzl1VE1oWmxfOGs5VXYyQW1aM3BkOVlqVElhV1VMalJGUkhVeXpESGU3NHllTVBKdFB6c2tuWnlWRzE4Wi13bG1VQQ?oc=5",
+          "title": "Rachel Cruz's Top Side Hustle Ideas for Stay-at-Home Moms and Retirees to Earn Extra Cash",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUGVYdzFWbGVieU51NEkxYzZBdm5MeVFDYzRJX0xtTUoxY2dSZWlrNThKYmlfRHEtUDVUVE9Sc2FTU0toUDU1X0pEYXU3cTR4MkFBek10TmoyaG5Gd2VUcnFUT09OMlBVS1ZGU2dUWkk5OFFMRWh6TUhSZGhwS2t1RTRzTnBLU1lhX09nby1WRQ?oc=5",
           "source": "gnews"
         },
         {
-          "title": "How much is needed in an ISA to target a £1,046 monthly passive income in retirement?",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1fRXNjNTZzQ0d0MU1VUkJqMWZYVHZTVW9Nb0FqQ1c2R0l1eWRXaUtLbkZPbWFUNkxMVUZUSzl1VE1oWmxfOGs5VXYyQW1aM3BkOVlqVElhV1VMalJGUkhVeXpESGU3NHllTVBKdFB6c2tuWnlWRzE4Wi13bG1VQQ?oc=5",
+          "title": "Rachel Cruz's Top Side Hustle Ideas for Stay-at-Home Moms and Retirees to Earn Extra Cash",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUGVYdzFWbGVieU51NEkxYzZBdm5MeVFDYzRJX0xtTUoxY2dSZWlrNThKYmlfRHEtUDVUVE9Sc2FTU0toUDU1X0pEYXU3cTR4MkFBek10TmoyaG5Gd2VUcnFUT09OMlBVS1ZGU2dUWkk5OFFMRWh6TUhSZGhwS2t1RTRzTnBLU1lhX09nby1WRQ?oc=5",
           "source": "gnews"
         },
         {
-          "title": "JP Morgan’s Analyst Focus List for June Has 5 Top Passive Income Dividend Picks",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUWJPTUdnelBtMHZMQkVYV21uSERkWG1HMHlzd0NZMXZzZ0FNcEs4ampQNHdRSm5Qd1ZDdXZmU2E5bFo1MGxZRklUR09CM0EzYVY4Z25HZXc5V09uUFV2S295QVRMRUozTW9LNEZNbS1oMUI0VVlrdTE5Wmxza3lVMjlDRGR3MVNyUENIMXVUSTVrUDZxVUttVQ?oc=5",
+          "title": "6 side hustle businesses you can launch with $0",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONzdLLVdBSkp5bUlVMVVvR040ZEtEQWdZZWJSTzZzREZfSlo1Q19OcXZsLTNXWnhId3YwVUhHZkYtdW1ySEpkRVFzS0h1bFc4blhhbWVBb3lUemNJZHFfdFMzTklhOFVpb0Y4SldrZVJ0cnMxTlNJU1FNN3JKRXc0WkZVRmlQSkswMVE?oc=5",
           "source": "gnews"
         }
       ],
-      "id": "cf2dbbbf8c8c",
-      "slug": "passive-income"
-    },
-    {
-      "keyword": "van gogh",
-      "count": 11,
-      "score": 106.61672123643366,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "The Emotional Pains That Shaped Van Gogh’s Art and How to See Them on the CanvasFrom dark and depressing tones to vibrant canvases saturated with color, Van Gogh’s art acts as a window into his emotio",
-          "url": "https://mastodon.social/@gutenberg_org/116703171864072062",
-          "source": "mastodon"
-        },
-        {
-          "title": "The Emotional Pains That Shaped Van Gogh’s Art and How to See Them on the CanvasFrom dark and depressing tones to vibrant canvases saturated with color, Van Gogh’s art acts as a window into his emotio",
-          "url": "https://mastodon.social/@gutenberg_org/116703171864072062",
-          "source": "mastodon"
-        },
-        {
-          "title": "The Emotional Pains That Shaped Van Gogh’s Art and How to See Them on the CanvasFrom dark and depressing tones to vibrant canvases saturated with color, Van Gogh’s art acts as a window into his emotio",
-          "url": "https://mastodon.social/@gutenberg_org/116703171864072062",
-          "source": "mastodon"
-        }
-      ],
-      "id": "cb094c1f669c",
-      "slug": "van-gogh"
-    },
-    {
-      "keyword": "stack overflow",
-      "count": 8,
-      "score": 102.74988832028488,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "I don’t know what was worse, Stack Overflow’s moderation system, which many IT communities find annoying, or AI killing the site 🤔 Both extremes seem bad for the open web…. I still think that we don’",
-          "url": "https://mastodon.social/@nixCraft/116702330805717638",
-          "source": "mastodon"
-        },
-        {
-          "title": "I don’t know what was worse, Stack Overflow’s moderation system, which many IT communities find annoying, or AI killing the site 🤔 Both extremes seem bad for the open web…. I still think that we don’",
-          "url": "https://mastodon.social/@nixCraft/116702330805717638",
-          "source": "mastodon"
-        }
-      ],
-      "id": "000d18240b7c",
-      "slug": "stack-overflow"
-    },
-    {
-      "keyword": "conventional commits",
-      "count": 8,
-      "score": 89.46346157667583,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "Conventional Commits encourages focus on the wrong things",
-          "url": "https://sumnerevans.com/posts/software-engineering/stop-using-conventional-commits/",
-          "source": "hackernews"
-        },
-        {
-          "title": "Conventional Commits encourages focus on the wrong things",
-          "url": "https://sumnerevans.com/posts/software-engineering/stop-using-conventional-commits/",
-          "source": "hackernews"
-        }
-      ],
-      "id": "d87898497da1",
-      "slug": "conventional-commits"
+      "id": "57270ed2efc7",
+      "slug": "side-hustle"
     },
     {
       "keyword": "google drive",
       "count": 11,
-      "score": 89.32348341902093,
+      "score": 89.81882804396878,
       "proper": true,
       "niches": [
         "ai"
@@ -421,27 +347,104 @@
       "slug": "google-drive"
     },
     {
-      "keyword": "aiscraping economy",
+      "keyword": "stack overflow",
       "count": 8,
-      "score": 85.64923858092573,
+      "score": 85.47755901438832,
       "proper": true,
       "niches": [
         "ai"
       ],
       "examples": [
         {
-          "title": "The Smart TV in Your LivingRoom Is a Node in the AIScraping Economy",
-          "url": "https://blog.includesecurity.com/2026/06/the-smart-tv-in-your-livingroom-is-a-node-in-the-aiscraping-economy/",
-          "source": "hackernews"
+          "title": "I don’t know what was worse, Stack Overflow’s moderation system, which many IT communities find annoying, or AI killing the site 🤔 Both extremes seem bad for the open web…. I still think that we don’",
+          "url": "https://mastodon.social/@nixCraft/116702330805717638",
+          "source": "mastodon"
         },
         {
-          "title": "The Smart TV in Your LivingRoom Is a Node in the AIScraping Economy",
-          "url": "https://blog.includesecurity.com/2026/06/the-smart-tv-in-your-livingroom-is-a-node-in-the-aiscraping-economy/",
-          "source": "hackernews"
+          "title": "I don’t know what was worse, Stack Overflow’s moderation system, which many IT communities find annoying, or AI killing the site 🤔 Both extremes seem bad for the open web…. I still think that we don’",
+          "url": "https://mastodon.social/@nixCraft/116702330805717638",
+          "source": "mastodon"
         }
       ],
-      "id": "3acdde0fd322",
-      "slug": "aiscraping-economy"
+      "id": "000d18240b7c",
+      "slug": "stack-overflow"
+    },
+    {
+      "keyword": "personal finance",
+      "count": 35,
+      "score": 78.67159653078869,
+      "proper": true,
+      "niches": [
+        "finance",
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "Personal finance writer offers ways to be a mindful shopper to save money",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNOW9wOFBuNDU4QjZRcUtYNHJLTGdBWGhYNFhoZ1Jyem5tUnJtRy1mOWFCX29oSW5ydDRuczliZjVSX0oyZ3VIcThxZlFMRTJ6YWlmZVl2eDhvN0s3Q0l5Y0pzUzRxcVpGLVB1VVpHRGxPcWlZTFF2SzRnOFA2N09MVUs5WXMzQzJ0d3c?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Personal finance writer offers ways to be a mindful shopper to save money",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNOW9wOFBuNDU4QjZRcUtYNHJLTGdBWGhYNFhoZ1Jyem5tUnJtRy1mOWFCX29oSW5ydDRuczliZjVSX0oyZ3VIcThxZlFMRTJ6YWlmZVl2eDhvN0s3Q0l5Y0pzUzRxcVpGLVB1VVpHRGxPcWlZTFF2SzRnOFA2N09MVUs5WXMzQzJ0d3c?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "AI tips for safer personal finance use",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQcVFHU19OWVh5VTRrZnlmN0hrVXd1dTJIeXc5MWlnMmpoWk9iUTdybm0zckdhLWtuQ1hTSGZGWjVzZzIyT1kxYWNMS0dzM0taNHdWRGJ4RHpRaURHenZIUmtCcGIxdUE2eGJpMU1OSkU4Vm53YTJOMTVmMDlNZ0s3N2hrTnR4Y3UxUmhZbmVUdzZJeXNBdjJOMGkwUjhIX1o0TmVnMzdob01CaDZKQjhxRVhhQTN6QmkzM1RWQWJVcFFCanY4TjZn?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "AI tips for safer personal finance use",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQcVFHU19OWVh5VTRrZnlmN0hrVXd1dTJIeXc5MWlnMmpoWk9iUTdybm0zckdhLWtuQ1hTSGZGWjVzZzIyT1kxYWNMS0dzM0taNHdWRGJ4RHpRaURHenZIUmtCcGIxdUE2eGJpMU1OSkU4Vm53YTJOMTVmMDlNZ0s3N2hrTnR4Y3UxUmhZbmVUdzZJeXNBdjJOMGkwUjhIX1o0TmVnMzdob01CaDZKQjhxRVhhQTN6QmkzM1RWQWJVcFFCanY4TjZn?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "How to Talk to Your Kids and Parents About Money: A Generational Finance Guide | Personal Finance - U.S. News",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUlU3X3p5NldNZ0dhMWdZZWttOHZmd0RDaUk2eEVHOElWTWVQOGp0LUpFVTE4Z01kNnpQLW9yb2ExU3pWdlphY3lRekpCQnN5cnZxTk8yRHE4N1V0V1lfX0w2LUQ0LUkyV0NUTlJwclNlWGNQQlREUnlSRi1PNFJxQzRNYw?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "61108514445d",
+      "slug": "personal-finance"
+    },
+    {
+      "keyword": "software",
+      "count": 16,
+      "score": 76.02017987034145,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "ServiceNow: The Purple Pill Of AI Software, With Rerating Just Beginning (NYSE:NOW)",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPb0hpM0xUclA5d0NHaUNSV2tqbHdpdXdJWkZ4SENjWHhDY0NCMmZEV19BdXcta0ZDblZ0SVhFZ0F0RkZnNlpEMGttVEMyLXRoZjl3aTJlVkdrYUJiQW9HemJLeDVlZGJEVFBtYTBGbFJaMzRJMnBXaW9VVndIeXVnejRQaV93RnhBNkNLTUxrZmpnSTFwNFdCams1NkVvcUp1cnVCR09SekhZc2d1X1JuUg?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "ServiceNow: The Purple Pill Of AI Software, With Rerating Just Beginning (NYSE:NOW)",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPb0hpM0xUclA5d0NHaUNSV2tqbHdpdXdJWkZ4SENjWHhDY0NCMmZEV19BdXcta0ZDblZ0SVhFZ0F0RkZnNlpEMGttVEMyLXRoZjl3aTJlVkdrYUJiQW9HemJLeDVlZGJEVFBtYTBGbFJaMzRJMnBXaW9VVndIeXVnejRQaV93RnhBNkNLTUxrZmpnSTFwNFdCams1NkVvcUp1cnVCR09SekhZc2d1X1JuUg?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "The Week’s 10 Biggest Funding Rounds: Megarounds Proliferate, Led By Enterprise Software, AI, And Space Tech",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8zc1hsOHRIOWpsbk9ralpnMXRFU3lkUTItSVNEbmNMd0ZNenVRTk4tV2dOR1BKNGt1ZUpESFdkaGtFUnk5dzZwdGk2Z1dSQ0I1X3pBd3BiVGhQV182MEZlc2RSUndGeTI0Qnh0ck5rZ0I5MG9KSHlKYjZOYw?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "The Week’s 10 Biggest Funding Rounds: Megarounds Proliferate, Led By Enterprise Software, AI, And Space Tech",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8zc1hsOHRIOWpsbk9ralpnMXRFU3lkUTItSVNEbmNMd0ZNenVRTk4tV2dOR1BKNGt1ZUpESFdkaGtFUnk5dzZwdGk2Z1dSQ0I1X3pBd3BiVGhQV182MEZlc2RSUndGeTI0Qnh0ck5rZ0I5MG9KSHlKYjZOYw?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "What We Learned About the AI Threat From Q1 Software Earnings",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVUlzb0tETEh5WWZjNHpQbUZCLTJoZUJuYjQ1UXEtdEpwNk5kUFA4TUpMV2Rtc2loaS1mdmxiTUNsb3ctRi1NSkFzTXMxOVJsaXZQOG9ZQ0xSNjd1eVk4UEpFdVV2WUd0VkFqX080Qmh5WUZBd3pWSFVQcUpWMEFiS1Z4MkVOTThYUm93d0RTNHk?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "35390f5453e8",
+      "slug": "software"
     },
     {
       "keyword": "schweizer entwicklungsteams",
@@ -465,34 +468,6 @@
       ],
       "id": "649e084a5075",
       "slug": "schweizer-entwicklungsteams"
-    },
-    {
-      "keyword": "french horn",
-      "count": 9,
-      "score": 68.85893108457734,
-      "proper": false,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "John Finnemore on the French horn/cor anglais:\"I was idly wondering why the cor anglais has a French name meaning ‘English horn’, and the French horn has an English name meaning… well, ‘French horn’. ",
-          "url": "https://infosec.exchange/@davep/116702752713268309",
-          "source": "mastodon"
-        },
-        {
-          "title": "John Finnemore on the French horn/cor anglais:\"I was idly wondering why the cor anglais has a French name meaning ‘English horn’, and the French horn has an English name meaning… well, ‘French horn’. ",
-          "url": "https://infosec.exchange/@davep/116702752713268309",
-          "source": "mastodon"
-        },
-        {
-          "title": "John Finnemore on the French horn/cor anglais:\"I was idly wondering why the cor anglais has a French name meaning ‘English horn’, and the French horn has an English name meaning… well, ‘French horn’. ",
-          "url": "https://infosec.exchange/@davep/116702752713268309",
-          "source": "mastodon"
-        }
-      ],
-      "id": "b8a43c24ad9e",
-      "slug": "french-horn"
     },
     {
       "keyword": "power stations",
@@ -523,70 +498,144 @@
       "slug": "power-stations"
     },
     {
-      "keyword": "productivity apps",
-      "count": 24,
-      "score": 65.29839279086865,
+      "keyword": "french horn",
+      "count": 9,
+      "score": 66.87467779539436,
       "proper": false,
       "niches": [
-        "software"
+        "ai"
       ],
       "examples": [
         {
-          "title": "Consumer Productivity Apps",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAteEZfVnFoSTNuTFdfemp3VEFXOGFKbnpfaFREZ0t0a205Y1JkUGJEemFBX2VLLUZBVTBVRzhleHNOV2ZWRFVyY3BFN1FNTDVWQ1M4aHpFMEFsMXRLUm83c9IBYEFVX3lxTFAteEZfVnFoSTNuTFdfemp3VEFXOGFKbnpfaFREZ0t0a205Y1JkUGJEemFBX2VLLUZBVTBVRzhleHNOV2ZWRFVyY3BFN1FNTDVWQ1M4aHpFMEFsMXRLUm83cw?oc=5",
-          "source": "gnews"
+          "title": "John Finnemore on the French horn/cor anglais:\"I was idly wondering why the cor anglais has a French name meaning ‘English horn’, and the French horn has an English name meaning… well, ‘French horn’. ",
+          "url": "https://infosec.exchange/@davep/116702752713268309",
+          "source": "mastodon"
         },
         {
-          "title": "Consumer Productivity Apps",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAteEZfVnFoSTNuTFdfemp3VEFXOGFKbnpfaFREZ0t0a205Y1JkUGJEemFBX2VLLUZBVTBVRzhleHNOV2ZWRFVyY3BFN1FNTDVWQ1M4aHpFMEFsMXRLUm83c9IBYEFVX3lxTFAteEZfVnFoSTNuTFdfemp3VEFXOGFKbnpfaFREZ0t0a205Y1JkUGJEemFBX2VLLUZBVTBVRzhleHNOV2ZWRFVyY3BFN1FNTDVWQ1M4aHpFMEFsMXRLUm83cw?oc=5",
-          "source": "gnews"
+          "title": "John Finnemore on the French horn/cor anglais:\"I was idly wondering why the cor anglais has a French name meaning ‘English horn’, and the French horn has an English name meaning… well, ‘French horn’. ",
+          "url": "https://infosec.exchange/@davep/116702752713268309",
+          "source": "mastodon"
         },
         {
-          "title": "The Best Productivity Apps for 2026",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUWdjWkQzZTNMTXlTWkpWd3UyXzdtZDduUXd6MEkyd1hBeWJFV1Q0bW5mOTdOemlRNWNlUEpQcXZjS3RRTkZzS3dWakNLeV8zdUtSOVBrajVfaGVTRzFSWE8temxZenNxamdLNVpYaDNMQURUMGpqNnc4cVhOWHhMNm5oNGU?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "The Best Productivity Apps for 2026",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUWdjWkQzZTNMTXlTWkpWd3UyXzdtZDduUXd6MEkyd1hBeWJFV1Q0bW5mOTdOemlRNWNlUEpQcXZjS3RRTkZzS3dWakNLeV8zdUtSOVBrajVfaGVTRzFSWE8temxZenNxamdLNVpYaDNMQURUMGpqNnc4cVhOWHhMNm5oNGU?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Best productivity apps in Windows to go from idea to done faster",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNc1hnaURNdXZhTVBPcUZCLWFjZ2FqWW5zdm1LTWZ6WDExclJjMkh4S0FXQmEyVjFGbTBZNXdlcXpnREc0YjhoWUtpM1hyNTBiTmo3NHo4N1pZV3lwZ21YNnJGazk4QnU5NDlacmRNVll1V3JCQ201TTdPZ2RRc1cxN0V4bVdhbkg5Yk5YRVVKeUZwa2s?oc=5",
-          "source": "gnews"
+          "title": "John Finnemore on the French horn/cor anglais:\"I was idly wondering why the cor anglais has a French name meaning ‘English horn’, and the French horn has an English name meaning… well, ‘French horn’. ",
+          "url": "https://infosec.exchange/@davep/116702752713268309",
+          "source": "mastodon"
         }
       ],
-      "id": "c3d816ac2a46",
-      "slug": "productivity-apps"
+      "id": "b8a43c24ad9e",
+      "slug": "french-horn"
     },
     {
-      "keyword": "disguised russian",
+      "keyword": "megarounds proliferate",
       "count": 11,
-      "score": 58.118279060752386,
+      "score": 58.75694146801339,
       "proper": true,
       "niches": [
-        "software"
+        "ai"
       ],
       "examples": [
         {
-          "title": "Disguised Russian banking app surged to top three on the US App Store",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSlFPQ2hXejB4Vi1iWWE3TWNEU2hFWHlic2FtNElPY2xqSU9jeWxwdThSUTAtd2swdEtuQTlJTVAwSnpmODhPZnNkYk01d00yamRuUkpXY09VOG94SUR6YlFDQWVhSExtMkt6Q1RCdGV2SDZWZ0xCcU1FM0VHNVJObk90MzR5cDd0VmRFZW5ZVVRwNHZIMlVRTjc1VW9xU3NzaVJB?oc=5",
+          "title": "The Week’s 10 Biggest Funding Rounds: Megarounds Proliferate, Led By Enterprise Software, AI, And Space Tech",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8zc1hsOHRIOWpsbk9ralpnMXRFU3lkUTItSVNEbmNMd0ZNenVRTk4tV2dOR1BKNGt1ZUpESFdkaGtFUnk5dzZwdGk2Z1dSQ0I1X3pBd3BiVGhQV182MEZlc2RSUndGeTI0Qnh0ck5rZ0I5MG9KSHlKYjZOYw?oc=5",
           "source": "gnews"
         },
         {
-          "title": "Disguised Russian banking app surged to top three on the US App Store",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSlFPQ2hXejB4Vi1iWWE3TWNEU2hFWHlic2FtNElPY2xqSU9jeWxwdThSUTAtd2swdEtuQTlJTVAwSnpmODhPZnNkYk01d00yamRuUkpXY09VOG94SUR6YlFDQWVhSExtMkt6Q1RCdGV2SDZWZ0xCcU1FM0VHNVJObk90MzR5cDd0VmRFZW5ZVVRwNHZIMlVRTjc1VW9xU3NzaVJB?oc=5",
+          "title": "The Week’s 10 Biggest Funding Rounds: Megarounds Proliferate, Led By Enterprise Software, AI, And Space Tech",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8zc1hsOHRIOWpsbk9ralpnMXRFU3lkUTItSVNEbmNMd0ZNenVRTk4tV2dOR1BKNGt1ZUpESFdkaGtFUnk5dzZwdGk2Z1dSQ0I1X3pBd3BiVGhQV182MEZlc2RSUndGeTI0Qnh0ck5rZ0I5MG9KSHlKYjZOYw?oc=5",
           "source": "gnews"
         },
         {
-          "title": "Disguised Russian banking app surged to top three on the US App Store",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSlFPQ2hXejB4Vi1iWWE3TWNEU2hFWHlic2FtNElPY2xqSU9jeWxwdThSUTAtd2swdEtuQTlJTVAwSnpmODhPZnNkYk01d00yamRuUkpXY09VOG94SUR6YlFDQWVhSExtMkt6Q1RCdGV2SDZWZ0xCcU1FM0VHNVJObk90MzR5cDd0VmRFZW5ZVVRwNHZIMlVRTjc1VW9xU3NzaVJB?oc=5",
+          "title": "The Week’s 10 Biggest Funding Rounds: Megarounds Proliferate, Led By Enterprise Software, AI, And Space Tech",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8zc1hsOHRIOWpsbk9ralpnMXRFU3lkUTItSVNEbmNMd0ZNenVRTk4tV2dOR1BKNGt1ZUpESFdkaGtFUnk5dzZwdGk2Z1dSQ0I1X3pBd3BiVGhQV182MEZlc2RSUndGeTI0Qnh0ck5rZ0I5MG9KSHlKYjZOYw?oc=5",
           "source": "gnews"
         }
       ],
-      "id": "5b10bdb97866",
-      "slug": "disguised-russian"
+      "id": "217a059a21ab",
+      "slug": "megarounds-proliferate"
+    },
+    {
+      "keyword": "mechanical keyboard",
+      "count": 21,
+      "score": 57.4409098409301,
+      "proper": false,
+      "niches": [
+        "gear"
+      ],
+      "examples": [
+        {
+          "title": "Epomaker RT98 Mechanical Keyboard Review",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNb3hKTVB4bGw0SlhyN2lzQ2NxN05raFBNZlhFTHJFalBDMmxYZV91Qnphd0ZLZHdNdTBYRlRON1pCRXF0clJOcERGUDZnTDdLREZINll1OXFieFVHWThfRWI2Tm5neFFST2F6SklpdE5mU1pIU2ZQOVpMcGFNQWloWEJYSkc?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Epomaker RT98 Mechanical Keyboard Review",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNb3hKTVB4bGw0SlhyN2lzQ2NxN05raFBNZlhFTHJFalBDMmxYZV91Qnphd0ZLZHdNdTBYRlRON1pCRXF0clJOcERGUDZnTDdLREZINll1OXFieFVHWThfRWI2Tm5neFFST2F6SklpdE5mU1pIU2ZQOVpMcGFNQWloWEJYSkc?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "be quiet! trims its Light Mount mechanical keyboard down to TKL size",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOd3pWc1hPQzN4ak9TNzZSMjJlYkJCSG96Wk1DZFF6em5VaUg1a1REMmFCTE9TWUJva2NESDVWTmNTTDhGQ1ozOEJmT3lFY3g5akJHRlQwZ1hBSi1nb0NtbF9iUTBZRXFlNWR4bzBpU0dZbHRYUElNMGNLRkh3S3JnS0l3bTViRGw5WnlBTWsxZ29QX3lFY3VV?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "be quiet! trims its Light Mount mechanical keyboard down to TKL size",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOd3pWc1hPQzN4ak9TNzZSMjJlYkJCSG96Wk1DZFF6em5VaUg1a1REMmFCTE9TWUJva2NESDVWTmNTTDhGQ1ozOEJmT3lFY3g5akJHRlQwZ1hBSi1nb0NtbF9iUTBZRXFlNWR4bzBpU0dZbHRYUElNMGNLRkh3S3JnS0l3bTViRGw5WnlBTWsxZ29QX3lFY3VV?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "This $65 mechanical keyboard surprised me as one of the unsung heroes of Computex 2026",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZThuOHRkMGdYWEp1NWlYU0ZIYzZmNUxkdWpLdVFObHVBSWJ2WVFBd0U0VEdWRkhGZlJXZUUzSW40NmRqaXB6T0pjbnVPcTdCS0E2bWgxMmpwSDVpZEpvZ3FFRzJKdDZMV0JHRHJZLWhZNDNORGFtdW5CclhzVi0zUzBRdVNZMVE3MFFQeUx2SWgtMDlzdjFrVHVUOUxLTm5YT0xISFlwbVlhdUFFdng3SnZlR1Q2Wk9SaXJEbGtVZFhKQQ?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "e31f9fac7533",
+      "slug": "mechanical-keyboard"
+    },
+    {
+      "keyword": "software earnings",
+      "count": 11,
+      "score": 51.092992580881216,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "What We Learned About the AI Threat From Q1 Software Earnings",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVUlzb0tETEh5WWZjNHpQbUZCLTJoZUJuYjQ1UXEtdEpwNk5kUFA4TUpMV2Rtc2loaS1mdmxiTUNsb3ctRi1NSkFzTXMxOVJsaXZQOG9ZQ0xSNjd1eVk4UEpFdVV2WUd0VkFqX080Qmh5WUZBd3pWSFVQcUpWMEFiS1Z4MkVOTThYUm93d0RTNHk?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "What We Learned About the AI Threat From Q1 Software Earnings",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVUlzb0tETEh5WWZjNHpQbUZCLTJoZUJuYjQ1UXEtdEpwNk5kUFA4TUpMV2Rtc2loaS1mdmxiTUNsb3ctRi1NSkFzTXMxOVJsaXZQOG9ZQ0xSNjd1eVk4UEpFdVV2WUd0VkFqX080Qmh5WUZBd3pWSFVQcUpWMEFiS1Z4MkVOTThYUm93d0RTNHk?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "What We Learned About the AI Threat From Q1 Software Earnings",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVUlzb0tETEh5WWZjNHpQbUZCLTJoZUJuYjQ1UXEtdEpwNk5kUFA4TUpMV2Rtc2loaS1mdmxiTUNsb3ctRi1NSkFzTXMxOVJsaXZQOG9ZQ0xSNjd1eVk4UEpFdVV2WUd0VkFqX080Qmh5WUZBd3pWSFVQcUpWMEFiS1Z4MkVOTThYUm93d0RTNHk?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "cbf31190e6a2",
+      "slug": "software-earnings"
+    },
+    {
+      "keyword": "diy ai",
+      "count": 5,
+      "score": 50.318856329655745,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "Why Smart CEOs Are Choosing ‘DIY AI’ Instead of Build or Buy",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbFNjWE5OMGlNeDBtOUlKRVhBN3JuNDFPSGtLUFM4TElDelMteEFjRWNwUUF1U0N1Mkc2Y2hvQm5pT0tadkRRVE1sbmI5VlJRdFJ4WXVFcHFya1dPUFRzeFpVbFV1NExma3R1UTY5Ulo2SGpVSk80SWwwWHRCWUFvWGozd1h3dlVwSVUzQUc4a25MT0J3bW52b1BlRGtZQ0U?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "d0f8446306ab",
+      "slug": "diy-ai"
     },
     {
       "keyword": "gadgets 2026",
@@ -627,210 +676,86 @@
       "slug": "gadgets-2026"
     },
     {
-      "keyword": "consumer productivity apps",
+      "keyword": "kuratierte agent skills",
       "count": 5,
-      "score": 49.109268437115944,
+      "score": 45.39378423773358,
       "proper": true,
-      "niches": [
-        "software"
-      ],
-      "examples": [
-        {
-          "title": "Consumer Productivity Apps",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAteEZfVnFoSTNuTFdfemp3VEFXOGFKbnpfaFREZ0t0a205Y1JkUGJEemFBX2VLLUZBVTBVRzhleHNOV2ZWRFVyY3BFN1FNTDVWQ1M4aHpFMEFsMXRLUm83c9IBYEFVX3lxTFAteEZfVnFoSTNuTFdfemp3VEFXOGFKbnpfaFREZ0t0a205Y1JkUGJEemFBX2VLLUZBVTBVRzhleHNOV2ZWRFVyY3BFN1FNTDVWQ1M4aHpFMEFsMXRLUm83cw?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "1383a44f0f78",
-      "slug": "consumer-productivity-apps"
-    },
-    {
-      "keyword": "mechanical keyboard",
-      "count": 15,
-      "score": 47.41584538756022,
-      "proper": false,
-      "niches": [
-        "gear"
-      ],
-      "examples": [
-        {
-          "title": "Epomaker RT98 Mechanical Keyboard Review",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNb3hKTVB4bGw0SlhyN2lzQ2NxN05raFBNZlhFTHJFalBDMmxYZV91Qnphd0ZLZHdNdTBYRlRON1pCRXF0clJOcERGUDZnTDdLREZINll1OXFieFVHWThfRWI2Tm5neFFST2F6SklpdE5mU1pIU2ZQOVpMcGFNQWloWEJYSkc?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Epomaker RT98 Mechanical Keyboard Review",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNb3hKTVB4bGw0SlhyN2lzQ2NxN05raFBNZlhFTHJFalBDMmxYZV91Qnphd0ZLZHdNdTBYRlRON1pCRXF0clJOcERGUDZnTDdLREZINll1OXFieFVHWThfRWI2Tm5neFFST2F6SklpdE5mU1pIU2ZQOVpMcGFNQWloWEJYSkc?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "This $65 mechanical keyboard surprised me as one of the unsung heroes of Computex 2026",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZThuOHRkMGdYWEp1NWlYU0ZIYzZmNUxkdWpLdVFObHVBSWJ2WVFBd0U0VEdWRkhGZlJXZUUzSW40NmRqaXB6T0pjbnVPcTdCS0E2bWgxMmpwSDVpZEpvZ3FFRzJKdDZMV0JHRHJZLWhZNDNORGFtdW5CclhzVi0zUzBRdVNZMVE3MFFQeUx2SWgtMDlzdjFrVHVUOUxLTm5YT0xISFlwbVlhdUFFdng3SnZlR1Q2Wk9SaXJEbGtVZFhKQQ?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "This $65 mechanical keyboard surprised me as one of the unsung heroes of Computex 2026",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZThuOHRkMGdYWEp1NWlYU0ZIYzZmNUxkdWpLdVFObHVBSWJ2WVFBd0U0VEdWRkhGZlJXZUUzSW40NmRqaXB6T0pjbnVPcTdCS0E2bWgxMmpwSDVpZEpvZ3FFRzJKdDZMV0JHRHJZLWhZNDNORGFtdW5CclhzVi0zUzBRdVNZMVE3MFFQeUx2SWgtMDlzdjFrVHVUOUxLTm5YT0xISFlwbVlhdUFFdng3SnZlR1Q2Wk9SaXJEbGtVZFhKQQ?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Hands-on with Asus’ ROG Azoth Extreme Edition 20 mechanical keyboard – when carbon fiber isn’t enough, Asus goes for the gold",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVEJtTlpSVzdIM2I2ZGpIaUx3ZzM5YzF2WGRLY2FnQkZFY2dIZlJrdXF0V3BUYi1TbEZ0M3dtbUFvcUU1LTNQbTdWMWNvZnZnVHBBNzczR3ZkQURoaHJqTUhJSDVFRWcweUg3NWZiNC1iQmk1N2pPbGhWRGkzN0pEMktucUM2a0sta2lUSmFXcjZwT04zeXNyaE9oT1Nmd25tamZQUTBEVTBSNjJRVTY3Q01CNVowTkVYV1VyMENzaEd6Q0U?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "e31f9fac7533",
-      "slug": "mechanical-keyboard"
-    },
-    {
-      "keyword": "cor anglais",
-      "count": 6,
-      "score": 45.905954056384886,
-      "proper": false,
       "niches": [
         "ai"
       ],
       "examples": [
         {
-          "title": "John Finnemore on the French horn/cor anglais:\"I was idly wondering why the cor anglais has a French name meaning ‘English horn’, and the French horn has an English name meaning… well, ‘French horn’. ",
-          "url": "https://infosec.exchange/@davep/116702752713268309",
-          "source": "mastodon"
-        },
-        {
-          "title": "John Finnemore on the French horn/cor anglais:\"I was idly wondering why the cor anglais has a French name meaning ‘English horn’, and the French horn has an English name meaning… well, ‘French horn’. ",
-          "url": "https://infosec.exchange/@davep/116702752713268309",
-          "source": "mastodon"
+          "title": "CWS6206/ai-coding-starter-kit — Kuratierte Agent Skills, Checklisten, Templates und Leitfäden für Schweizer Entwicklungsteams – direkt aus meinen Blog-Artikeln destilliert.",
+          "url": "https://github.com/CWS6206/ai-coding-starter-kit",
+          "source": "github"
         }
       ],
-      "id": "f13a995ce478",
-      "slug": "cor-anglais"
+      "id": "abab2f525e85",
+      "slug": "kuratierte-agent-skills"
+    },
+    {
+      "keyword": "diffusion models",
+      "count": 8,
+      "score": 45.16190434773816,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "Trees to Flows and Back: Unifying Decision Trees and Diffusion Models",
+          "url": "https://arxiv.org/abs/2605.00414",
+          "source": "hackernews"
+        },
+        {
+          "title": "Trees to Flows and Back: Unifying Decision Trees and Diffusion Models",
+          "url": "https://arxiv.org/abs/2605.00414",
+          "source": "hackernews"
+        }
+      ],
+      "id": "f1e3a4221bbe",
+      "slug": "diffusion-models"
     }
   ],
   "opportunities": [
     {
-      "keyword": "passive income",
-      "count": 47,
-      "score": 186.779724014426,
-      "proper": true,
+      "keyword": "side hustle",
+      "count": 33,
+      "score": 92.32542466177797,
+      "proper": false,
       "niches": [
-        "finance",
-        "ai"
+        "ai",
+        "finance"
       ],
       "examples": [
         {
-          "title": "A Barbell Approach To Passive Income As Inflation Roars Back To Life",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObWp3VFhBUUU1c1l1NmdvSGRSV1l0bDRwamZPU2lwOEl1Vi1VTFVfYnhvdGxDNHUyaXZaRU5rNkRjeDE5T3F1R1p2ZzB0Unh4QnBCZ1IyZkpwNWRHZ2RNYVREWDJVVWUtZkhhNUZKM3M3ejl1cVZOUDc3WTB4VHhJZDNzZXZUajgzMWJwWlJPSmM3NG5aejNlQ1FjQm9kU2t4ckV5RXM5VnkyUjFmdXc?oc=5",
+          "title": "I Asked ChatGPT How To Turn $100 Into a Thriving Side Hustle — Here’s What It Said",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ua3lIYkhzUkV6MTkyaUJaNzRNZ0dkR2s2TllrVjU0bWNRWWZhNHZsR3hSUHJ4MlFZdS04Q09od1J0YkVYT09faWQ0Wm9MTkxBdUp1ekNVbmFQbGJ6TG9SUTBuUmstYTJjNzg1VFRNa05RWExuVy03c1pOU2JrWnM?oc=5",
           "source": "gnews"
         },
         {
-          "title": "A Barbell Approach To Passive Income As Inflation Roars Back To Life",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObWp3VFhBUUU1c1l1NmdvSGRSV1l0bDRwamZPU2lwOEl1Vi1VTFVfYnhvdGxDNHUyaXZaRU5rNkRjeDE5T3F1R1p2ZzB0Unh4QnBCZ1IyZkpwNWRHZ2RNYVREWDJVVWUtZkhhNUZKM3M3ejl1cVZOUDc3WTB4VHhJZDNzZXZUajgzMWJwWlJPSmM3NG5aejNlQ1FjQm9kU2t4ckV5RXM5VnkyUjFmdXc?oc=5",
+          "title": "I Asked ChatGPT How To Turn $100 Into a Thriving Side Hustle — Here’s What It Said",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ua3lIYkhzUkV6MTkyaUJaNzRNZ0dkR2s2TllrVjU0bWNRWWZhNHZsR3hSUHJ4MlFZdS04Q09od1J0YkVYT09faWQ0Wm9MTkxBdUp1ekNVbmFQbGJ6TG9SUTBuUmstYTJjNzg1VFRNa05RWExuVy03c1pOU2JrWnM?oc=5",
           "source": "gnews"
         },
         {
-          "title": "How much is needed in an ISA to target a £1,046 monthly passive income in retirement?",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1fRXNjNTZzQ0d0MU1VUkJqMWZYVHZTVW9Nb0FqQ1c2R0l1eWRXaUtLbkZPbWFUNkxMVUZUSzl1VE1oWmxfOGs5VXYyQW1aM3BkOVlqVElhV1VMalJGUkhVeXpESGU3NHllTVBKdFB6c2tuWnlWRzE4Wi13bG1VQQ?oc=5",
+          "title": "Rachel Cruz's Top Side Hustle Ideas for Stay-at-Home Moms and Retirees to Earn Extra Cash",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUGVYdzFWbGVieU51NEkxYzZBdm5MeVFDYzRJX0xtTUoxY2dSZWlrNThKYmlfRHEtUDVUVE9Sc2FTU0toUDU1X0pEYXU3cTR4MkFBek10TmoyaG5Gd2VUcnFUT09OMlBVS1ZGU2dUWkk5OFFMRWh6TUhSZGhwS2t1RTRzTnBLU1lhX09nby1WRQ?oc=5",
           "source": "gnews"
         },
         {
-          "title": "How much is needed in an ISA to target a £1,046 monthly passive income in retirement?",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1fRXNjNTZzQ0d0MU1VUkJqMWZYVHZTVW9Nb0FqQ1c2R0l1eWRXaUtLbkZPbWFUNkxMVUZUSzl1VE1oWmxfOGs5VXYyQW1aM3BkOVlqVElhV1VMalJGUkhVeXpESGU3NHllTVBKdFB6c2tuWnlWRzE4Wi13bG1VQQ?oc=5",
+          "title": "Rachel Cruz's Top Side Hustle Ideas for Stay-at-Home Moms and Retirees to Earn Extra Cash",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUGVYdzFWbGVieU51NEkxYzZBdm5MeVFDYzRJX0xtTUoxY2dSZWlrNThKYmlfRHEtUDVUVE9Sc2FTU0toUDU1X0pEYXU3cTR4MkFBek10TmoyaG5Gd2VUcnFUT09OMlBVS1ZGU2dUWkk5OFFMRWh6TUhSZGhwS2t1RTRzTnBLU1lhX09nby1WRQ?oc=5",
           "source": "gnews"
         },
         {
-          "title": "JP Morgan’s Analyst Focus List for June Has 5 Top Passive Income Dividend Picks",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUWJPTUdnelBtMHZMQkVYV21uSERkWG1HMHlzd0NZMXZzZ0FNcEs4ampQNHdRSm5Qd1ZDdXZmU2E5bFo1MGxZRklUR09CM0EzYVY4Z25HZXc5V09uUFV2S295QVRMRUozTW9LNEZNbS1oMUI0VVlrdTE5Wmxza3lVMjlDRGR3MVNyUENIMXVUSTVrUDZxVUttVQ?oc=5",
+          "title": "6 side hustle businesses you can launch with $0",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONzdLLVdBSkp5bUlVMVVvR040ZEtEQWdZZWJSTzZzREZfSlo1Q19OcXZsLTNXWnhId3YwVUhHZkYtdW1ySEpkRVFzS0h1bFc4blhhbWVBb3lUemNJZHFfdFMzTklhOFVpb0Y4SldrZVJ0cnMxTlNJU1FNN3JKRXc0WkZVRmlQSkswMVE?oc=5",
           "source": "gnews"
         }
       ],
-      "id": "cf2dbbbf8c8c",
-      "slug": "passive-income",
-      "opportunity": {
-        "type": "niche-content",
-        "recommended": "Publish niche guide for \"finance\"; bundle into digital product later."
-      }
-    },
-    {
-      "keyword": "van gogh",
-      "count": 11,
-      "score": 106.61672123643366,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "The Emotional Pains That Shaped Van Gogh’s Art and How to See Them on the CanvasFrom dark and depressing tones to vibrant canvases saturated with color, Van Gogh’s art acts as a window into his emotio",
-          "url": "https://mastodon.social/@gutenberg_org/116703171864072062",
-          "source": "mastodon"
-        },
-        {
-          "title": "The Emotional Pains That Shaped Van Gogh’s Art and How to See Them on the CanvasFrom dark and depressing tones to vibrant canvases saturated with color, Van Gogh’s art acts as a window into his emotio",
-          "url": "https://mastodon.social/@gutenberg_org/116703171864072062",
-          "source": "mastodon"
-        },
-        {
-          "title": "The Emotional Pains That Shaped Van Gogh’s Art and How to See Them on the CanvasFrom dark and depressing tones to vibrant canvases saturated with color, Van Gogh’s art acts as a window into his emotio",
-          "url": "https://mastodon.social/@gutenberg_org/116703171864072062",
-          "source": "mastodon"
-        }
-      ],
-      "id": "cb094c1f669c",
-      "slug": "van-gogh",
-      "opportunity": {
-        "type": "niche-content",
-        "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
-      }
-    },
-    {
-      "keyword": "stack overflow",
-      "count": 8,
-      "score": 102.74988832028488,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "I don’t know what was worse, Stack Overflow’s moderation system, which many IT communities find annoying, or AI killing the site 🤔 Both extremes seem bad for the open web…. I still think that we don’",
-          "url": "https://mastodon.social/@nixCraft/116702330805717638",
-          "source": "mastodon"
-        },
-        {
-          "title": "I don’t know what was worse, Stack Overflow’s moderation system, which many IT communities find annoying, or AI killing the site 🤔 Both extremes seem bad for the open web…. I still think that we don’",
-          "url": "https://mastodon.social/@nixCraft/116702330805717638",
-          "source": "mastodon"
-        }
-      ],
-      "id": "000d18240b7c",
-      "slug": "stack-overflow",
-      "opportunity": {
-        "type": "niche-content",
-        "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
-      }
-    },
-    {
-      "keyword": "conventional commits",
-      "count": 8,
-      "score": 89.46346157667583,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "Conventional Commits encourages focus on the wrong things",
-          "url": "https://sumnerevans.com/posts/software-engineering/stop-using-conventional-commits/",
-          "source": "hackernews"
-        },
-        {
-          "title": "Conventional Commits encourages focus on the wrong things",
-          "url": "https://sumnerevans.com/posts/software-engineering/stop-using-conventional-commits/",
-          "source": "hackernews"
-        }
-      ],
-      "id": "d87898497da1",
-      "slug": "conventional-commits",
+      "id": "57270ed2efc7",
+      "slug": "side-hustle",
       "opportunity": {
         "type": "niche-content",
         "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
@@ -839,7 +764,7 @@
     {
       "keyword": "google drive",
       "count": 11,
-      "score": 89.32348341902093,
+      "score": 89.81882804396878,
       "proper": true,
       "niches": [
         "ai"
@@ -869,30 +794,115 @@
       }
     },
     {
-      "keyword": "aiscraping economy",
+      "keyword": "stack overflow",
       "count": 8,
-      "score": 85.64923858092573,
+      "score": 85.47755901438832,
       "proper": true,
       "niches": [
         "ai"
       ],
       "examples": [
         {
-          "title": "The Smart TV in Your LivingRoom Is a Node in the AIScraping Economy",
-          "url": "https://blog.includesecurity.com/2026/06/the-smart-tv-in-your-livingroom-is-a-node-in-the-aiscraping-economy/",
-          "source": "hackernews"
+          "title": "I don’t know what was worse, Stack Overflow’s moderation system, which many IT communities find annoying, or AI killing the site 🤔 Both extremes seem bad for the open web…. I still think that we don’",
+          "url": "https://mastodon.social/@nixCraft/116702330805717638",
+          "source": "mastodon"
         },
         {
-          "title": "The Smart TV in Your LivingRoom Is a Node in the AIScraping Economy",
-          "url": "https://blog.includesecurity.com/2026/06/the-smart-tv-in-your-livingroom-is-a-node-in-the-aiscraping-economy/",
-          "source": "hackernews"
+          "title": "I don’t know what was worse, Stack Overflow’s moderation system, which many IT communities find annoying, or AI killing the site 🤔 Both extremes seem bad for the open web…. I still think that we don’",
+          "url": "https://mastodon.social/@nixCraft/116702330805717638",
+          "source": "mastodon"
         }
       ],
-      "id": "3acdde0fd322",
-      "slug": "aiscraping-economy",
+      "id": "000d18240b7c",
+      "slug": "stack-overflow",
       "opportunity": {
-        "type": "tooling",
-        "recommended": "Build / list AI tools; monetize via affiliate links + lead magnet."
+        "type": "niche-content",
+        "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
+      }
+    },
+    {
+      "keyword": "personal finance",
+      "count": 35,
+      "score": 78.67159653078869,
+      "proper": true,
+      "niches": [
+        "finance",
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "Personal finance writer offers ways to be a mindful shopper to save money",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNOW9wOFBuNDU4QjZRcUtYNHJLTGdBWGhYNFhoZ1Jyem5tUnJtRy1mOWFCX29oSW5ydDRuczliZjVSX0oyZ3VIcThxZlFMRTJ6YWlmZVl2eDhvN0s3Q0l5Y0pzUzRxcVpGLVB1VVpHRGxPcWlZTFF2SzRnOFA2N09MVUs5WXMzQzJ0d3c?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Personal finance writer offers ways to be a mindful shopper to save money",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNOW9wOFBuNDU4QjZRcUtYNHJLTGdBWGhYNFhoZ1Jyem5tUnJtRy1mOWFCX29oSW5ydDRuczliZjVSX0oyZ3VIcThxZlFMRTJ6YWlmZVl2eDhvN0s3Q0l5Y0pzUzRxcVpGLVB1VVpHRGxPcWlZTFF2SzRnOFA2N09MVUs5WXMzQzJ0d3c?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "AI tips for safer personal finance use",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQcVFHU19OWVh5VTRrZnlmN0hrVXd1dTJIeXc5MWlnMmpoWk9iUTdybm0zckdhLWtuQ1hTSGZGWjVzZzIyT1kxYWNMS0dzM0taNHdWRGJ4RHpRaURHenZIUmtCcGIxdUE2eGJpMU1OSkU4Vm53YTJOMTVmMDlNZ0s3N2hrTnR4Y3UxUmhZbmVUdzZJeXNBdjJOMGkwUjhIX1o0TmVnMzdob01CaDZKQjhxRVhhQTN6QmkzM1RWQWJVcFFCanY4TjZn?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "AI tips for safer personal finance use",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQcVFHU19OWVh5VTRrZnlmN0hrVXd1dTJIeXc5MWlnMmpoWk9iUTdybm0zckdhLWtuQ1hTSGZGWjVzZzIyT1kxYWNMS0dzM0taNHdWRGJ4RHpRaURHenZIUmtCcGIxdUE2eGJpMU1OSkU4Vm53YTJOMTVmMDlNZ0s3N2hrTnR4Y3UxUmhZbmVUdzZJeXNBdjJOMGkwUjhIX1o0TmVnMzdob01CaDZKQjhxRVhhQTN6QmkzM1RWQWJVcFFCanY4TjZn?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "How to Talk to Your Kids and Parents About Money: A Generational Finance Guide | Personal Finance - U.S. News",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUlU3X3p5NldNZ0dhMWdZZWttOHZmd0RDaUk2eEVHOElWTWVQOGp0LUpFVTE4Z01kNnpQLW9yb2ExU3pWdlphY3lRekpCQnN5cnZxTk8yRHE4N1V0V1lfX0w2LUQ0LUkyV0NUTlJwclNlWGNQQlREUnlSRi1PNFJxQzRNYw?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "61108514445d",
+      "slug": "personal-finance",
+      "opportunity": {
+        "type": "niche-content",
+        "recommended": "Publish niche guide for \"finance\"; bundle into digital product later."
+      }
+    },
+    {
+      "keyword": "software",
+      "count": 16,
+      "score": 76.02017987034145,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "ServiceNow: The Purple Pill Of AI Software, With Rerating Just Beginning (NYSE:NOW)",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPb0hpM0xUclA5d0NHaUNSV2tqbHdpdXdJWkZ4SENjWHhDY0NCMmZEV19BdXcta0ZDblZ0SVhFZ0F0RkZnNlpEMGttVEMyLXRoZjl3aTJlVkdrYUJiQW9HemJLeDVlZGJEVFBtYTBGbFJaMzRJMnBXaW9VVndIeXVnejRQaV93RnhBNkNLTUxrZmpnSTFwNFdCams1NkVvcUp1cnVCR09SekhZc2d1X1JuUg?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "ServiceNow: The Purple Pill Of AI Software, With Rerating Just Beginning (NYSE:NOW)",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPb0hpM0xUclA5d0NHaUNSV2tqbHdpdXdJWkZ4SENjWHhDY0NCMmZEV19BdXcta0ZDblZ0SVhFZ0F0RkZnNlpEMGttVEMyLXRoZjl3aTJlVkdrYUJiQW9HemJLeDVlZGJEVFBtYTBGbFJaMzRJMnBXaW9VVndIeXVnejRQaV93RnhBNkNLTUxrZmpnSTFwNFdCams1NkVvcUp1cnVCR09SekhZc2d1X1JuUg?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "The Week’s 10 Biggest Funding Rounds: Megarounds Proliferate, Led By Enterprise Software, AI, And Space Tech",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8zc1hsOHRIOWpsbk9ralpnMXRFU3lkUTItSVNEbmNMd0ZNenVRTk4tV2dOR1BKNGt1ZUpESFdkaGtFUnk5dzZwdGk2Z1dSQ0I1X3pBd3BiVGhQV182MEZlc2RSUndGeTI0Qnh0ck5rZ0I5MG9KSHlKYjZOYw?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "The Week’s 10 Biggest Funding Rounds: Megarounds Proliferate, Led By Enterprise Software, AI, And Space Tech",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8zc1hsOHRIOWpsbk9ralpnMXRFU3lkUTItSVNEbmNMd0ZNenVRTk4tV2dOR1BKNGt1ZUpESFdkaGtFUnk5dzZwdGk2Z1dSQ0I1X3pBd3BiVGhQV182MEZlc2RSUndGeTI0Qnh0ck5rZ0I5MG9KSHlKYjZOYw?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "What We Learned About the AI Threat From Q1 Software Earnings",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVUlzb0tETEh5WWZjNHpQbUZCLTJoZUJuYjQ1UXEtdEpwNk5kUFA4TUpMV2Rtc2loaS1mdmxiTUNsb3ctRi1NSkFzTXMxOVJsaXZQOG9ZQ0xSNjd1eVk4UEpFdVV2WUd0VkFqX080Qmh5WUZBd3pWSFVQcUpWMEFiS1Z4MkVOTThYUm93d0RTNHk?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "35390f5453e8",
+      "slug": "software",
+      "opportunity": {
+        "type": "niche-content",
+        "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
       }
     },
     {
@@ -923,9 +933,41 @@
       }
     },
     {
+      "keyword": "power stations",
+      "count": 11,
+      "score": 68.54976504601564,
+      "proper": true,
+      "niches": [
+        "gear"
+      ],
+      "examples": [
+        {
+          "title": "From Wearables to Power Stations: 10 Best Gadgets From May 2026",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4wTmQ4WXF0VkVtdjB4SXBkNlExOE5sVnZ5UXVWS2R0UzZaTzRlOXo5cktQNmNwQk41NGFoYm1PbFB0WWNhTUxTM3hiNUF1R1Q2U0tWcDFKZWdrNmhCazhocTFIcVFId01JNjVN?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "From Wearables to Power Stations: 10 Best Gadgets From May 2026",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4wTmQ4WXF0VkVtdjB4SXBkNlExOE5sVnZ5UXVWS2R0UzZaTzRlOXo5cktQNmNwQk41NGFoYm1PbFB0WWNhTUxTM3hiNUF1R1Q2U0tWcDFKZWdrNmhCazhocTFIcVFId01JNjVN?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "From Wearables to Power Stations: 10 Best Gadgets From May 2026",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4wTmQ4WXF0VkVtdjB4SXBkNlExOE5sVnZ5UXVWS2R0UzZaTzRlOXo5cktQNmNwQk41NGFoYm1PbFB0WWNhTUxTM3hiNUF1R1Q2U0tWcDFKZWdrNmhCazhocTFIcVFId01JNjVN?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "945c85649dce",
+      "slug": "power-stations",
+      "opportunity": {
+        "type": "niche-content",
+        "recommended": "Publish niche guide for \"gear\"; bundle into digital product later."
+      }
+    },
+    {
       "keyword": "french horn",
       "count": 9,
-      "score": 68.85893108457734,
+      "score": 66.87467779539436,
       "proper": false,
       "niches": [
         "ai"

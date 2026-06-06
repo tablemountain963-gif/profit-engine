@@ -2026,17 +2026,17 @@
     },
     "stack-overflow": {
       "firstSeen": "2026-06-06T14:28:33.346Z",
-      "lastSeen": "2026-06-06T14:28:33.346Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-06T16:59:29.090Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
     "aiscraping-economy": {
       "firstSeen": "2026-06-06T14:28:36.594Z",
-      "lastSeen": "2026-06-06T14:28:36.594Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-06T16:59:29.090Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -2079,16 +2079,72 @@
       "wins": 0,
       "losses": 0,
       "niche": "gear"
+    },
+    "diy-ai": {
+      "firstSeen": "2026-06-06T16:59:33.928Z",
+      "lastSeen": "2026-06-06T16:59:33.928Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "diffusion-models": {
+      "firstSeen": "2026-06-06T16:59:37.261Z",
+      "lastSeen": "2026-06-06T16:59:37.261Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "cor-anglais": {
+      "firstSeen": "2026-06-06T16:59:40.251Z",
+      "lastSeen": "2026-06-06T16:59:40.251Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "name-meaning": {
+      "firstSeen": "2026-06-06T16:59:51.564Z",
+      "lastSeen": "2026-06-06T16:59:51.564Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "barbell-approach": {
+      "firstSeen": "2026-06-06T17:00:19.079Z",
+      "lastSeen": "2026-06-06T17:00:19.079Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "finance"
+    },
+    "approach-passive": {
+      "firstSeen": "2026-06-06T17:00:36.093Z",
+      "lastSeen": "2026-06-06T17:00:36.093Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "finance"
+    },
+    "income-inflation": {
+      "firstSeen": "2026-06-06T17:00:51.613Z",
+      "lastSeen": "2026-06-06T17:00:51.613Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "finance"
     }
   },
   "niches": {
     "ai": {
-      "count": 298,
-      "wins": 83,
+      "count": 304,
+      "wins": 85,
       "losses": 10
     },
     "finance": {
-      "count": 24,
+      "count": 27,
       "wins": 4,
       "losses": 0
     },
