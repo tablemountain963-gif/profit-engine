@@ -2015,11 +2015,75 @@
       "wins": 0,
       "losses": 0,
       "niche": "gear"
+    },
+    "van-gogh": {
+      "firstSeen": "2026-06-06T14:28:30.462Z",
+      "lastSeen": "2026-06-06T14:28:30.462Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "stack-overflow": {
+      "firstSeen": "2026-06-06T14:28:33.346Z",
+      "lastSeen": "2026-06-06T14:28:33.346Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "aiscraping-economy": {
+      "firstSeen": "2026-06-06T14:28:36.594Z",
+      "lastSeen": "2026-06-06T14:28:36.594Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "megarounds-proliferate": {
+      "firstSeen": "2026-06-06T14:28:45.955Z",
+      "lastSeen": "2026-06-06T14:28:45.955Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "french-horn": {
+      "firstSeen": "2026-06-06T14:28:53.487Z",
+      "lastSeen": "2026-06-06T14:28:53.487Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "software-earnings": {
+      "firstSeen": "2026-06-06T14:29:10.949Z",
+      "lastSeen": "2026-06-06T14:29:10.949Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "consumer-productivity-apps": {
+      "firstSeen": "2026-06-06T14:29:25.925Z",
+      "lastSeen": "2026-06-06T14:29:25.925Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "software"
+    },
+    "mechanical-keyboard": {
+      "firstSeen": "2026-06-06T14:29:44.767Z",
+      "lastSeen": "2026-06-06T14:29:44.767Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "gear"
     }
   },
   "niches": {
     "ai": {
-      "count": 292,
+      "count": 298,
       "wins": 83,
       "losses": 10
     },
@@ -2029,12 +2093,12 @@
       "losses": 0
     },
     "software": {
-      "count": 61,
+      "count": 62,
       "wins": 14,
       "losses": 3
     },
     "gear": {
-      "count": 26,
+      "count": 27,
       "wins": 6,
       "losses": 0
     },

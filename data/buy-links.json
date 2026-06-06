@@ -372,5 +372,19 @@
     "price": 14,
     "productId": "prod_UeVEm2vot2S9aK",
     "cover": "/assets/pack-cover.png"
+  },
+  "prompt-pack-french-horn-2026-06-06": {
+    "url": "https://buy.stripe.com/bJedR8dpuelUgMb5VOfjG0R",
+    "platform": "stripe",
+    "price": 19,
+    "productId": "prod_UeeWTG8FUdPqdg",
+    "cover": "/assets/pack-cover.png"
+  },
+  "prompt-pack-megarounds-proliferate-2026-06-06": {
+    "url": "https://buy.stripe.com/28E4gy1GMb9I2VleskfjG0S",
+    "platform": "stripe",
+    "price": 19,
+    "productId": "prod_UeeWnO5uOtJM7n",
+    "cover": "/assets/pack-cover.png"
   }
 }
