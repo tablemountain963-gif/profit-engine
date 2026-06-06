@@ -986,8 +986,8 @@
     },
     "2026-6f6f6f": {
       "firstSeen": "2026-06-01T05:59:34.077Z",
-      "lastSeen": "2026-06-01T05:59:34.077Z",
-      "count": 1,
+      "lastSeen": "2026-06-06T21:53:33.157Z",
+      "count": 2,
       "wins": 0,
       "losses": 0,
       "niche": "gear"
@@ -1074,8 +1074,8 @@
     },
     "side-hustle": {
       "firstSeen": "2026-06-01T20:10:58.499Z",
-      "lastSeen": "2026-06-01T20:10:58.499Z",
-      "count": 1,
+      "lastSeen": "2026-06-06T21:53:22.449Z",
+      "count": 2,
       "wins": 0,
       "losses": 0,
       "niche": "ai"
@@ -1994,9 +1994,9 @@
     },
     "gps-cryptography": {
       "firstSeen": "2026-06-06T04:51:57.478Z",
-      "lastSeen": "2026-06-06T04:51:57.478Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-06T21:52:57.312Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "finance"
     },
@@ -2090,9 +2090,9 @@
     },
     "diffusion-models": {
       "firstSeen": "2026-06-06T16:59:37.261Z",
-      "lastSeen": "2026-06-06T16:59:37.261Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-06T21:52:57.312Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -2135,21 +2135,53 @@
       "wins": 0,
       "losses": 0,
       "niche": "finance"
+    },
+    "proton": {
+      "firstSeen": "2026-06-06T21:53:02.526Z",
+      "lastSeen": "2026-06-06T21:53:02.526Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "universal-memory-protocol": {
+      "firstSeen": "2026-06-06T21:53:05.224Z",
+      "lastSeen": "2026-06-06T21:53:05.224Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "metamask-openclaw": {
+      "firstSeen": "2026-06-06T21:53:08.122Z",
+      "lastSeen": "2026-06-06T21:53:08.122Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "software"
+    },
+    "mechanical-keyboards": {
+      "firstSeen": "2026-06-06T21:53:48.184Z",
+      "lastSeen": "2026-06-06T21:53:48.184Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "finance"
     }
   },
   "niches": {
     "ai": {
-      "count": 304,
-      "wins": 85,
+      "count": 308,
+      "wins": 86,
       "losses": 10
     },
     "finance": {
-      "count": 27,
-      "wins": 4,
+      "count": 30,
+      "wins": 5,
       "losses": 0
     },
     "software": {
-      "count": 62,
+      "count": 63,
       "wins": 14,
       "losses": 3
     },
