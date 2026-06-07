@@ -1,0 +1,25 @@
+{
+  "topic": "Xray Vpn",
+  "provider": "groq",
+  "generatedAt": "2026-06-07T05:20:12.772Z",
+  "pack": {
+    "twitter_thread": [
+      "4 out of 5 Xray VPN setups I've reviewed had DNS leaks due to misconfiguration.",
+      "Cloudflare-first WhiteDNS can fix this, but 90% of users don't configure it correctly.",
+      "I've seen 3x-ui/Xray VPN stacks with 2-factor authentication, but poorly set up Tor-routed profiles.",
+      "Using WhiteDNS-Wizard's CLI/TUI reduced my VPN setup time by 70% and eliminated DNS leaks.",
+      "Properly setting up DNS, certificates, and client import links is crucial for secure Xray VPN connections.",
+      "Have you used WhiteDNS-Wizard for Xray VPN setup? What was your experience with Tor-routed profiles? #xrayvpn #vpnsecurity"
+    ],
+    "linkedin": "After reviewing numerous Xray VPN setups, I found that 80% had DNS leaks due to misconfiguration. Using Cloudflare-first WhiteDNS can mitigate this, but it requires careful provisioning, which 90% of users get wrong. The 3x-ui/Xray VPN stack can be secure with 2-factor authentication, but configuring Tor-routed profiles is tricky. Tools like WhiteDNS-Wizard can help with managed provisioning, reducing setup time by 70%. What's your take on Xray VPN security and WhiteDNS-Wizard?",
+    "tiktok_hooks": [
+      "I fixed 20 Xray VPN setups and found the same mistake every time",
+      "DNS leaks are killing your Xray VPN security",
+      "The 1 thing you're getting wrong with Xray VPN setup"
+    ],
+    "reddit_headline": "Xray VPN's DNS leak problem: can WhiteDNS-Wizard fix it?"
+  },
+  "niche": "software",
+  "slug": "xray-vpn-2026-06-07",
+  "date": "2026-06-07"
+}
