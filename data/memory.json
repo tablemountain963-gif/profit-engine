@@ -2,9 +2,9 @@
   "topics": {
     "claude-code": {
       "firstSeen": "2026-05-28T04:01:44.987Z",
-      "lastSeen": "2026-06-07T14:50:41.858Z",
-      "count": 3,
-      "wins": 1,
+      "lastSeen": "2026-06-07T17:05:22.822Z",
+      "count": 4,
+      "wins": 2,
       "losses": 0,
       "niche": "ai"
     },
@@ -2263,12 +2263,52 @@
       "wins": 0,
       "losses": 0,
       "niche": "ai"
+    },
+    "brutal-truth": {
+      "firstSeen": "2026-06-07T17:05:27.592Z",
+      "lastSeen": "2026-06-07T17:05:27.592Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "llms-eroding": {
+      "firstSeen": "2026-06-07T17:05:30.550Z",
+      "lastSeen": "2026-06-07T17:05:30.550Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "eroding-software": {
+      "firstSeen": "2026-06-07T17:05:33.816Z",
+      "lastSeen": "2026-06-07T17:05:33.816Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "engineering-career": {
+      "firstSeen": "2026-06-07T17:05:49.578Z",
+      "lastSeen": "2026-06-07T17:05:49.578Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "career-dont": {
+      "firstSeen": "2026-06-07T17:05:59.207Z",
+      "lastSeen": "2026-06-07T17:05:59.207Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
     }
   },
   "niches": {
     "ai": {
-      "count": 325,
-      "wins": 93,
+      "count": 331,
+      "wins": 94,
       "losses": 10
     },
     "finance": {

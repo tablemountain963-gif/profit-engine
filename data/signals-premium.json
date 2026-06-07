@@ -1,65 +1,87 @@
 {
-  "generatedAt": "2026-06-07T14:50:32.510Z",
-  "sourceCount": 205,
+  "generatedAt": "2026-06-07T17:05:23.658Z",
+  "sourceCount": 204,
   "topItems": [
     {
       "title": "LLMs are eroding my software engineering career and I don't know what to do",
       "url": "https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/",
-      "score": 9.19,
+      "score": 10.16,
       "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 300,
-        "comments": 223
-      }
-    },
-    {
-      "title": "#AppFatigue IPA: /æp/ /fəˈtiːɡ/ (n) The tendency to NOT install new apps on your mobile phone because you finally understand that most apps should just be a website so you can seamlessly use a service",
-      "url": "https://social.wildeboer.net/@jwildeboer/116707826442644165",
-      "score": 9.15,
-      "niche": "software",
-      "source": "mastodon",
-      "engagement": {
-        "score": 620,
-        "comments": 18
+        "score": 524,
+        "comments": 484
       }
     },
     {
       "title": "Anthropic, please ship an official Claude Desktop for Linux",
       "url": "https://github.com/anthropics/claude-code/issues/65697",
-      "score": 8.66,
+      "score": 9.8,
       "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 123,
-        "comments": 51
+        "score": 236,
+        "comments": 112
+      }
+    },
+    {
+      "title": "One of the charities we give to each year is Puppies Behind Bars, a program that selects inmates (many of them serving lengthy/life sentences) to train service dogs. They send us a black and white boo",
+      "url": "https://infosec.exchange/@briankrebs/116709522000027611",
+      "score": 9.18,
+      "niche": "ai",
+      "source": "mastodon",
+      "engagement": {
+        "score": 152,
+        "comments": 4
       }
     },
     {
       "title": "RE: https://live.acarsdrama.com/@acarsdrama/116708457056507627“New AI driven flight route optimization software working well so far,” declares airline",
       "url": "https://infosec.exchange/@SecureOwl/116708673966759838",
-      "score": 7.76,
+      "score": 8.73,
       "niche": "ai",
       "source": "mastodon",
       "engagement": {
-        "score": 256,
-        "comments": 5
+        "score": 515,
+        "comments": 9
       }
     },
     {
-      "title": "Something extraordinary just happened: my 5-year-old recognizes the #Fediverse symbol and just asked me about the bag with its logo on it. Hearing her say “fediverso” (we speak Italian with each other",
-      "url": "https://mastodon.social/@_elena/116708258335262445",
-      "score": 7.72,
-      "niche": "software",
+      "title": "Just rewatched Lord of the Rings. I'd forgotten that Sauron's seeing-stone is called Palantir. So, democracy-sceptic, demon-believing Peter Thiel names his company (and models its logo?) after a  devi",
+      "url": "https://mastodon.social/@Richard_Littler/116708923939280843",
+      "score": 8.19,
+      "niche": "ai",
       "source": "mastodon",
       "engagement": {
-        "score": 239,
-        "comments": 5
+        "score": 314,
+        "comments": 24
       }
     },
     {
-      "title": "The war in Ukraine has now gone on for so long that, birds in the Donbas region have adapted and are using strains of Drone control fiber optic cables to build their nests.A post from Ukraine claims t",
-      "url": "https://mastodon.social/@randahl/116708444333095752",
+      "title": "Ukraine is not losing. And for Russia, that's a major defeat. https://www.theatlantic.com/ideas/2026/06/ukraine-war-momentum-shift/687444/?gift=hVZeG3M9DnxL4CekrWGK339Ii2SkHlPWX0PobpYV_fQ",
+      "url": "https://journa.host/@anneapplebaum/116708987023172805",
+      "score": 8,
+      "niche": "ai",
+      "source": "mastodon",
+      "engagement": {
+        "score": 297,
+        "comments": 9
+      }
+    },
+    {
+      "title": "Etsy is at it again, deleting my listings for random, vague reasons (thanks, AI), with zero ability to appeal.  (Edit to add: they’re deleting my Pride/rainbow listings one by one…)This hurts. A lot. ",
+      "url": "https://mstdn.games/@britt/116709466286029054",
+      "score": 7.7,
+      "niche": "ai",
+      "source": "mastodon",
+      "engagement": {
+        "score": 103,
+        "comments": 10
+      }
+    },
+    {
+      "title": "Your data must be yours - not scanned, not used by AI.That's why Tuta is end-to-end encrypted & private by design.Switch today, on #DIDay",
+      "url": "https://mastodon.social/@Tutanota/116708976011538694",
       "score": 7.22,
       "niche": "ai",
       "source": "mastodon",
@@ -71,78 +93,89 @@
     {
       "title": "ShoreAbleCorrect/Canva-Pro-Desktop-Windows — Graphic design platform patched to unlock all Pro templates and premium assets.",
       "url": "https://github.com/ShoreAbleCorrect/Canva-Pro-Desktop-Windows",
-      "score": 7.14,
+      "score": 7.09,
       "niche": "software",
       "source": "github",
       "engagement": {
-        "score": 97,
+        "score": 94,
         "comments": 0
-      }
-    },
-    {
-      "title": "One of the lessons that many in software strangely never learn is that breaking something while being an asshole gets a very different response from people than breaking something while not being an a",
-      "url": "https://toot.cafe/@baldur/116708238082426388",
-      "score": 6.96,
-      "niche": "software",
-      "source": "mastodon",
-      "engagement": {
-        "score": 296,
-        "comments": 4
-      }
-    },
-    {
-      "title": "Ukraine is not losing. And for Russia, that's a major defeat. https://www.theatlantic.com/ideas/2026/06/ukraine-war-momentum-shift/687444/?gift=hVZeG3M9DnxL4CekrWGK339Ii2SkHlPWX0PobpYV_fQ",
-      "url": "https://journa.host/@anneapplebaum/116708987023172805",
-      "score": 6.83,
-      "niche": "ai",
-      "source": "mastodon",
-      "engagement": {
-        "score": 127,
-        "comments": 4
       }
     },
     {
       "title": "JimLiu/baoyu-design — Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/de",
       "url": "https://github.com/JimLiu/baoyu-design",
-      "score": 6.64,
+      "score": 6.81,
       "niche": "ai",
       "source": "github",
       "engagement": {
-        "score": 177,
-        "comments": 1
+        "score": 204,
+        "comments": 0
       }
     },
     {
-      "title": "Your data must be yours - not scanned, not used by AI.That's why Tuta is end-to-end encrypted & private by design.Switch today, on #DIDay",
-      "url": "https://mastodon.social/@Tutanota/116708976011538694",
-      "score": 6.41,
+      "title": "Show HN: Lathe – Use LLMs to learn a new domain, not skip past it",
+      "url": "https://github.com/devenjarvis/lathe",
+      "score": 6.76,
       "niche": "ai",
-      "source": "mastodon",
+      "source": "hackernews",
       "engagement": {
-        "score": 90,
-        "comments": 5
+        "score": 95,
+        "comments": 17
       }
     },
     {
-      "title": "Just rewatched Lord of the Rings. I'd forgotten that Sauron's seeing-stone is called Palantir. So, democracy-sceptic, demon-believing Peter Thiel names his company (and models its logo?) after a  devi",
-      "url": "https://mastodon.social/@Richard_Littler/116708923939280843",
-      "score": 6.16,
+      "title": "A very green and luminous spread~ 🌿✨#MastoArt #TraditionalArt #MixedMedia #Painting #Nature #bloomscrolling",
+      "url": "https://mastodon.social/@lindenshieldarts/116709411500329397",
+      "score": 6.53,
       "niche": "ai",
       "source": "mastodon",
       "engagement": {
-        "score": 73,
-        "comments": 5
+        "score": 105,
+        "comments": 2
       }
     },
     {
       "title": "Tokenomics: Quantifying Where Tokens Are Used in Agentic Software Engineering",
       "url": "https://arxiv.org/abs/2601.14470",
-      "score": 6.13,
+      "score": 6.21,
       "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 132,
-        "comments": 57
+        "score": 143,
+        "comments": 61
+      }
+    },
+    {
+      "title": "LLMs are eroding my software engineering career and I don't know what to do https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/Every mode",
+      "url": "https://mastodon.social/@nixCraft/116709660601121444",
+      "score": 6.21,
+      "niche": "ai",
+      "source": "mastodon",
+      "engagement": {
+        "score": 68,
+        "comments": 9
+      }
+    },
+    {
+      "title": "Public Domain Image Archive",
+      "url": "https://pdimagearchive.org/",
+      "score": 6.17,
+      "niche": "ai",
+      "source": "hackernews",
+      "engagement": {
+        "score": 198,
+        "comments": 29
+      }
+    },
+    {
+      "title": "Note to self: don't agree to give 2 invited talks at a conference ever again.Talk 1 is mostly done.  Talk 2 is not started. I hope I can get it done during during the longer flight.  Through thunderst",
+      "url": "https://mastodon.social/@sundogplanets/116709654478325288",
+      "score": 6.12,
+      "niche": "ai",
+      "source": "mastodon",
+      "engagement": {
+        "score": 71,
+        "comments": 5
       }
     },
     {
@@ -157,30 +190,8 @@
       }
     },
     {
-      "title": "Public Domain Image Archive",
-      "url": "https://pdimagearchive.org/",
-      "score": 6.04,
-      "niche": "ai",
-      "source": "hackernews",
-      "engagement": {
-        "score": 175,
-        "comments": 26
-      }
-    },
-    {
-      "title": "Best 21 Low-Code and No-Code AI Tools in 2026",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQREhlRDJ5Q0FhMzBleHkzZHFyMm05NHZ6bWRTTWgwaXV3U1RRZVpHUHB4SWQ2dFFqTzUzdU1SeVI5SG9RQUVpYXV4NzlVLW1pc3c4WDVIWEMzRVVhTGNSa29ZZG1GRkZMRVdOelcxUnRleFJjMmcyOVcwTEZxY1JEbjBRSm5YSERyUUZ1Uzlhbw?oc=5",
-      "score": 5.99,
-      "niche": "ai",
-      "source": "gnews",
-      "engagement": {
-        "score": 40,
-        "comments": 0
-      }
-    },
-    {
-      "title": "10 Of The Best Gadgets On Amazon For Dog Lovers",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4zSV84M1k5SkFJM19wWndsaEkxaTNHd0VMQmwwYWh1NHRDaWRTai1fYmV4VGJPQTR2UkQwbWJXaEc5UkMxaTJsZGx4ZTd2N1NyZF9pRmlIc0F0TTBCeVNBb3JESXRRQW9nZEIwQ0U1MUNiREFKY2pSTkh3?oc=5",
+      "title": "Agentic AI solved coding — and exposed every other problem in software engineering",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNTNPVE5iWVhKYjFTS09KbmRwUlFvVzJ1UFA5VzFoVTVGbjJJd1JYZE1yaXJJVy1GMG96a09BTUxleWJhX3JrQTNZY0tYSUhNbUpBQVhwTzR3eno5UFJfV1ZRd3F3ckZpbnBUNDR5ZU5IT3JySlZWcFN5bEYwVlRiUHhVMGxzVEhyOURpOS1rZmh3NUpXUnhSeWlpT0VOcW1WTXM3WmxnQkRGalhOSlNSS3NBU2hGQQ?oc=5",
       "score": 5.94,
       "niche": "ai",
       "source": "gnews",
@@ -190,14 +201,14 @@
       }
     },
     {
-      "title": "melojuve31-source/kahoottoolsai-desktop-app — Simple and clean standalone desktop application for KahootToolsAi on Windows PC. Easily manage quizzes, study smarter, and generate educational insights w",
-      "url": "https://github.com/melojuve31-source/kahoottoolsai-desktop-app",
-      "score": 5.81,
+      "title": "12britz/awesome-free-models — A curated list of free AI models, APIs, and tools you can use without paying a cent.",
+      "url": "https://github.com/12britz/awesome-free-models",
+      "score": 5.4,
       "niche": "ai",
       "source": "github",
       "engagement": {
-        "score": 75,
-        "comments": 1
+        "score": 86,
+        "comments": 0
       }
     },
     {
@@ -212,32 +223,10 @@
       }
     },
     {
-      "title": "12britz/awesome-free-models — A curated list of free AI models, APIs, and tools you can use without paying a cent.",
-      "url": "https://github.com/12britz/awesome-free-models",
-      "score": 5.33,
+      "title": "Broadcom CEO drops unexpected message on AI and software",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRkZ4WWluckE3bEZKNUUyeFlwdWFPT3loQVpwV0hiYW01QVlxcHlhb2R0azVRRUdwY2FfczZ4SFNvalkwckk2ajV0YmpjMTB3bFJycHpmc0o2WE1JSlN6dUlRMER3V252dmtWRVZMUDJfQTdrdWk4Z2xJdVZDNDVNQzVEVUhOaEhuRE01bnB5MGkycEh5U3Bhb3FR?oc=5",
+      "score": 5.16,
       "niche": "ai",
-      "source": "github",
-      "engagement": {
-        "score": 81,
-        "comments": 0
-      }
-    },
-    {
-      "title": "Harness engineering: Leveraging Codex in an agent-first world",
-      "url": "https://openai.com/index/harness-engineering/",
-      "score": 5.31,
-      "niche": "ai",
-      "source": "hackernews",
-      "engagement": {
-        "score": 251,
-        "comments": 167
-      }
-    },
-    {
-      "title": "14 Cool New Gadgets to Keep on Your Radar",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE55RkgxUm9nUFVYVE5ObFlqenhGM1YtdnAyY2E0WmVyVWdrTF9QbXg3YmdzcmNaNWcyUi1weXhIX2QxY3Z5a0hYTW42djJaOXpiTk1vMDhsOTVFaF9ZMG5YNU9Cb3oyY3haaENBOUxhcEo?oc=5",
-      "score": 5.19,
-      "niche": "gear",
       "source": "gnews",
       "engagement": {
         "score": 40,
@@ -245,8 +234,8 @@
       }
     },
     {
-      "title": "Broadcom CEO drops unexpected message on AI and software",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRkZ4WWluckE3bEZKNUUyeFlwdWFPT3loQVpwV0hiYW01QVlxcHlhb2R0azVRRUdwY2FfczZ4SFNvalkwckk2ajV0YmpjMTB3bFJycHpmc0o2WE1JSlN6dUlRMER3V252dmtWRVZMUDJfQTdrdWk4Z2xJdVZDNDVNQzVEVUhOaEhuRE01bnB5MGkycEh5U3Bhb3FR?oc=5",
+      "title": "Snowflake, Databricks and the model makers: The battle for the agentic client and AI back end",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNM3JpSmdsZ25zeG5EeHBDSlVJX2czY0VNMlNlOGxoenZxT2lVVk9fWjlXT3JvX0REOHkwX2EwNU9WTFFGLTdOVTlDb0NtSDdMazVkYXhpM1lPR0xfYUhHSlB1NExEYVNjekVaZHNPSVZuaDFZSWItaEczYVgwQnBLZFQyN1M3aWdhWkRud1lFS2kteHlTV1lQTEdpV2lQWDVYTmlacmlYcw?oc=5",
       "score": 5.16,
       "niche": "ai",
       "source": "gnews",
@@ -267,10 +256,21 @@
       }
     },
     {
-      "title": "10 best AI tools for small business owners in 2026 - how to start your business with AI",
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPcWc0SVBoZWpTLWhOZ0g3LVl6cjNkNVRwQlk5OW1pYUtTd2NuYlo3aWxqQ290a2phRk5EZVRvdnlRSXVXOUh3UWt3bGRscUY4SWxTV3RuUVBKTEhpWnAyZ3BlcjNUREluTUdPbnJuOFFQQjhLQk5vRWpmaTBtNXcwcEtpOVJhQl9rcVJXRTFoODdPRWVfYVBBVG1GWThQQThSU3dPZWxYRmlaM0RORlVhZ3UzSG43ZnBoZDN3Nk9EMU5jNG1xbFVtLVVKTEYwaGRBZGRBRXRpdlBLU0w3QXFhSWp1TWZ3YVdWQzloaXlwYzlXWENTMFB6QlAxbmRfQQ?oc=5",
-      "score": 4.95,
-      "niche": "ai",
+      "title": "joseflachendro/DrFone-Screen-Unlock-ToolKit-2 — 📱 Easy-to-use desktop assistant and installer for Dr.Fone Screen Unlocker on Windows. Unlock your smartphone, bypass lock screens, and restore access w",
+      "url": "https://github.com/joseflachendro/DrFone-Screen-Unlock-ToolKit-2",
+      "score": 4.85,
+      "niche": "software",
+      "source": "github",
+      "engagement": {
+        "score": 95,
+        "comments": 1
+      }
+    },
+    {
+      "title": "Best Budgeting Apps Of 2026",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBfUGVtV1FGTnJWeTNxS2R0QmVaQzlwbFVNZHlaU1BnNWlrNWx5WDIxb1k0UzVTaDNGVzhUaDNmenJBZ28xMW9VWEtyRU01ODNyV2x3WlBZZkpIb2dnNFVXQ19ReFkzVDJVaEg4?oc=5",
+      "score": 4.64,
+      "niche": "finance",
       "source": "gnews",
       "engagement": {
         "score": 40,
@@ -280,32 +280,87 @@
   ],
   "topics": [
     {
-      "keyword": "appfatigue ipa",
-      "count": 8,
-      "score": 109.81742784396202,
+      "keyword": "passive income",
+      "count": 50,
+      "score": 170.01483582382434,
       "proper": true,
       "niches": [
+        "finance",
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "A Barbell Approach To Passive Income As Inflation Roars Back To Life",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObWp3VFhBUUU1c1l1NmdvSGRSV1l0bDRwamZPU2lwOEl1Vi1VTFVfYnhvdGxDNHUyaXZaRU5rNkRjeDE5T3F1R1p2ZzB0Unh4QnBCZ1IyZkpwNWRHZ2RNYVREWDJVVWUtZkhhNUZKM3M3ejl1cVZOUDc3WTB4VHhJZDNzZXZUajgzMWJwWlJPSmM3NG5aejNlQ1FjQm9kU2t4ckV5RXM5VnkyUjFmdXc?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "A Barbell Approach To Passive Income As Inflation Roars Back To Life",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObWp3VFhBUUU1c1l1NmdvSGRSV1l0bDRwamZPU2lwOEl1Vi1VTFVfYnhvdGxDNHUyaXZaRU5rNkRjeDE5T3F1R1p2ZzB0Unh4QnBCZ1IyZkpwNWRHZ2RNYVREWDJVVWUtZkhhNUZKM3M3ejl1cVZOUDc3WTB4VHhJZDNzZXZUajgzMWJwWlJPSmM3NG5aejNlQ1FjQm9kU2t4ckV5RXM5VnkyUjFmdXc?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "How much is needed in an ISA to target a £1,046 monthly passive income in retirement?",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1fRXNjNTZzQ0d0MU1VUkJqMWZYVHZTVW9Nb0FqQ1c2R0l1eWRXaUtLbkZPbWFUNkxMVUZUSzl1VE1oWmxfOGs5VXYyQW1aM3BkOVlqVElhV1VMalJGUkhVeXpESGU3NHllTVBKdFB6c2tuWnlWRzE4Wi13bG1VQQ?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "How much is needed in an ISA to target a £1,046 monthly passive income in retirement?",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1fRXNjNTZzQ0d0MU1VUkJqMWZYVHZTVW9Nb0FqQ1c2R0l1eWRXaUtLbkZPbWFUNkxMVUZUSzl1VE1oWmxfOGs5VXYyQW1aM3BkOVlqVElhV1VMalJGUkhVeXpESGU3NHllTVBKdFB6c2tuWnlWRzE4Wi13bG1VQQ?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "2 FTSE investment trusts to consider for passive income in 2026",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWElEY3d0aW1za3pLRGVjX1FLQ1pUMS1jRUptUk9LUUNUcGwza1lkWFVVNlE2MmVXcXREQ29VOTVfblFOTk5hTXkyckhWRWNid3FJWkFsMU9IRVlJcVNpUUFMY3JWYkt2a2VFNGZlUU9SbXBpOGZmY2NRM2piX3NzWXpScnZrenBQZFE?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "cf2dbbbf8c8c",
+      "slug": "passive-income"
+    },
+    {
+      "keyword": "software",
+      "count": 21,
+      "score": 137.67507524009903,
+      "proper": true,
+      "niches": [
+        "ai",
         "software"
       ],
       "examples": [
         {
-          "title": "#AppFatigue IPA: /æp/ /fəˈtiːɡ/ (n) The tendency to NOT install new apps on your mobile phone because you finally understand that most apps should just be a website so you can seamlessly use a service",
-          "url": "https://social.wildeboer.net/@jwildeboer/116707826442644165",
+          "title": "LLMs are eroding my software engineering career and I don't know what to do",
+          "url": "https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/",
+          "source": "hackernews"
+        },
+        {
+          "title": "RE: https://live.acarsdrama.com/@acarsdrama/116708457056507627“New AI driven flight route optimization software working well so far,” declares airline",
+          "url": "https://infosec.exchange/@SecureOwl/116708673966759838",
           "source": "mastodon"
         },
         {
-          "title": "#AppFatigue IPA: /æp/ /fəˈtiːɡ/ (n) The tendency to NOT install new apps on your mobile phone because you finally understand that most apps should just be a website so you can seamlessly use a service",
-          "url": "https://social.wildeboer.net/@jwildeboer/116707826442644165",
+          "title": "Tokenomics: Quantifying Where Tokens Are Used in Agentic Software Engineering",
+          "url": "https://arxiv.org/abs/2601.14470",
+          "source": "hackernews"
+        },
+        {
+          "title": "LLMs are eroding my software engineering career and I don't know what to do https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/Every mode",
+          "url": "https://mastodon.social/@nixCraft/116709660601121444",
           "source": "mastodon"
+        },
+        {
+          "title": "Agentic AI solved coding — and exposed every other problem in software engineering",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNTNPVE5iWVhKYjFTS09KbmRwUlFvVzJ1UFA5VzFoVTVGbjJJd1JYZE1yaXJJVy1GMG96a09BTUxleWJhX3JrQTNZY0tYSUhNbUpBQVhwTzR3eno5UFJfV1ZRd3F3ckZpbnBUNDR5ZU5IT3JySlZWcFN5bEYwVlRiUHhVMGxzVEhyOURpOS1rZmh3NUpXUnhSeWlpT0VOcW1WTXM3WmxnQkRGalhOSlNSS3NBU2hGQQ?oc=5",
+          "source": "gnews"
         }
       ],
-      "id": "2fc1a54c6d96",
-      "slug": "appfatigue-ipa"
+      "id": "35390f5453e8",
+      "slug": "software"
     },
     {
       "keyword": "claude code",
-      "count": 22,
-      "score": 108.8692134743822,
+      "count": 38,
+      "score": 126.66964040337766,
       "proper": true,
       "niches": [
         "ai"
@@ -322,23 +377,56 @@
           "source": "github"
         },
         {
-          "title": "Claude Code is the best AI coding tool I've used, and I’m not entirely sure if I can recommend it",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMnJUQnpneEtHMEJFZzZ0V0djN24zOVQyM3hpT09WYm5sUXBRVEo0QkFCZG50Q3RMMUtuczFwYk9aMEYxSFpBMVkxNDhrRmpOTUNJWE9teEVsR3JDYW9YMktENFYxQlBjTC1lM2hfYTJ3WkI4c0tyMTh3X0UzSWUwVUFMRlQtSjhIcnRuTTVYUW9OeXFVbUtHYmt3?oc=5",
-          "source": "gnews"
+          "title": "agent-natalie 0.1.20",
+          "url": "https://pypi.org/project/agent-natalie/0.1.20/",
+          "source": "pypi"
         },
         {
-          "title": "Claude Code is the best AI coding tool I've used, and I’m not entirely sure if I can recommend it",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMnJUQnpneEtHMEJFZzZ0V0djN24zOVQyM3hpT09WYm5sUXBRVEo0QkFCZG50Q3RMMUtuczFwYk9aMEYxSFpBMVkxNDhrRmpOTUNJWE9teEVsR3JDYW9YMktENFYxQlBjTC1lM2hfYTJ3WkI4c0tyMTh3X0UzSWUwVUFMRlQtSjhIcnRuTTVYUW9OeXFVbUtHYmt3?oc=5",
-          "source": "gnews"
+          "title": "ouroboros-ai 0.41.1.dev12",
+          "url": "https://pypi.org/project/ouroboros-ai/0.41.1.dev12/",
+          "source": "pypi"
         },
         {
-          "title": "Claude Code is the best AI coding tool I've used, and I’m not entirely sure if I can recommend it",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMnJUQnpneEtHMEJFZzZ0V0djN24zOVQyM3hpT09WYm5sUXBRVEo0QkFCZG50Q3RMMUtuczFwYk9aMEYxSFpBMVkxNDhrRmpOTUNJWE9teEVsR3JDYW9YMktENFYxQlBjTC1lM2hfYTJ3WkI4c0tyMTh3X0UzSWUwVUFMRlQtSjhIcnRuTTVYUW9OeXFVbUtHYmt3?oc=5",
-          "source": "gnews"
+          "title": "ouroboros-ai 0.41.1.dev11",
+          "url": "https://pypi.org/project/ouroboros-ai/0.41.1.dev11/",
+          "source": "pypi"
         }
       ],
       "id": "a625159d18da",
       "slug": "claude-code"
+    },
+    {
+      "keyword": "software engineering",
+      "count": 12,
+      "score": 85.51858372681146,
+      "proper": false,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "LLMs are eroding my software engineering career and I don't know what to do",
+          "url": "https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/",
+          "source": "hackernews"
+        },
+        {
+          "title": "Tokenomics: Quantifying Where Tokens Are Used in Agentic Software Engineering",
+          "url": "https://arxiv.org/abs/2601.14470",
+          "source": "hackernews"
+        },
+        {
+          "title": "LLMs are eroding my software engineering career and I don't know what to do https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/Every mode",
+          "url": "https://mastodon.social/@nixCraft/116709660601121444",
+          "source": "mastodon"
+        },
+        {
+          "title": "Agentic AI solved coding — and exposed every other problem in software engineering",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNTNPVE5iWVhKYjFTS09KbmRwUlFvVzJ1UFA5VzFoVTVGbjJJd1JYZE1yaXJJVy1GMG96a09BTUxleWJhX3JrQTNZY0tYSUhNbUpBQVhwTzR3eno5UFJfV1ZRd3F3ckZpbnBUNDR5ZU5IT3JySlZWcFN5bEYwVlRiUHhVMGxzVEhyOURpOS1rZmh3NUpXUnhSeWlpT0VOcW1WTXM3WmxnQkRGalhOSlNSS3NBU2hGQQ?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "0c7d337a1546",
+      "slug": "software-engineering"
     },
     {
       "keyword": "broadcom ceo",
@@ -371,7 +459,7 @@
     {
       "keyword": "agent skill",
       "count": 8,
-      "score": 79.6742670602896,
+      "score": 81.66964040337766,
       "proper": true,
       "niches": [
         "ai"
@@ -415,75 +503,229 @@
       "slug": "schweizer-entwicklungsteams"
     },
     {
-      "keyword": "leveraging codex",
-      "count": 8,
-      "score": 63.7723610730568,
+      "keyword": "desktop",
+      "count": 5,
+      "score": 53.16121051016423,
+      "proper": true,
+      "niches": [
+        "software"
+      ],
+      "examples": [
+        {
+          "title": "ShoreAbleCorrect/Canva-Pro-Desktop-Windows — Graphic design platform patched to unlock all Pro templates and premium assets.",
+          "url": "https://github.com/ShoreAbleCorrect/Canva-Pro-Desktop-Windows",
+          "source": "github"
+        }
+      ],
+      "id": "68693d02ab4f",
+      "slug": "desktop"
+    },
+    {
+      "keyword": "brutal truth",
+      "count": 11,
+      "score": 51.092992580881216,
       "proper": true,
       "niches": [
         "ai"
       ],
       "examples": [
         {
-          "title": "Harness engineering: Leveraging Codex in an agent-first world",
-          "url": "https://openai.com/index/harness-engineering/",
-          "source": "hackernews"
+          "title": "I Tested All 4 of Microsoft's New AI Models. Here's the Brutal Truth",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcE52czFfS0FwMzZLWlFUbFZWSkJfSTlNVDU4eXlraGNudXMxd1BKS0otM2JmMjMzUWNuTGRYRUVjNjE4R2xtU3pKbDUtdDNLLXJPWGdqU0ZkMXVURmNRVFNfQ1dBWXNZUlpQR3czVVlMX2gyYUlaTm9jQkRFc3ZOY1JyV21NTTI4UU1IQXE1MWVKYVFTdEhSUVpKSWc?oc=5",
+          "source": "gnews"
         },
         {
-          "title": "Harness engineering: Leveraging Codex in an agent-first world",
-          "url": "https://openai.com/index/harness-engineering/",
-          "source": "hackernews"
+          "title": "I Tested All 4 of Microsoft's New AI Models. Here's the Brutal Truth",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcE52czFfS0FwMzZLWlFUbFZWSkJfSTlNVDU4eXlraGNudXMxd1BKS0otM2JmMjMzUWNuTGRYRUVjNjE4R2xtU3pKbDUtdDNLLXJPWGdqU0ZkMXVURmNRVFNfQ1dBWXNZUlpQR3czVVlMX2gyYUlaTm9jQkRFc3ZOY1JyV21NTTI4UU1IQXE1MWVKYVFTdEhSUVpKSWc?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "I Tested All 4 of Microsoft's New AI Models. Here's the Brutal Truth",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcE52czFfS0FwMzZLWlFUbFZWSkJfSTlNVDU4eXlraGNudXMxd1BKS0otM2JmMjMzUWNuTGRYRUVjNjE4R2xtU3pKbDUtdDNLLXJPWGdqU0ZkMXVURmNRVFNfQ1dBWXNZUlpQR3czVVlMX2gyYUlaTm9jQkRFc3ZOY1JyV21NTTI4UU1IQXE1MWVKYVFTdEhSUVpKSWc?oc=5",
+          "source": "gnews"
         }
       ],
-      "id": "f291642b92d8",
-      "slug": "leveraging-codex"
+      "id": "9c23384e2d71",
+      "slug": "brutal-truth"
     },
     {
-      "keyword": "2026 _blank",
-      "count": 30,
-      "score": 61.66962911324925,
-      "proper": false,
+      "keyword": "produce",
+      "count": 5,
+      "score": 51.04352525211104,
+      "proper": true,
       "niches": [
-        "ai",
-        "gear",
-        "software",
-        "finance",
-        "general"
+        "ai"
       ],
       "examples": [
         {
-          "title": "Best 21 Low-Code and No-Code AI Tools in 2026",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQREhlRDJ5Q0FhMzBleHkzZHFyMm05NHZ6bWRTTWgwaXV3U1RRZVpHUHB4SWQ2dFFqTzUzdU1SeVI5SG9RQUVpYXV4NzlVLW1pc3c4WDVIWEMzRVVhTGNSa29ZZG1GRkZMRVdOelcxUnRleFJjMmcyOVcwTEZxY1JEbjBRSm5YSERyUUZ1Uzlhbw?oc=5",
+          "title": "JimLiu/baoyu-design — Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/de",
+          "url": "https://github.com/JimLiu/baoyu-design",
+          "source": "github"
+        }
+      ],
+      "id": "1198780b3af7",
+      "slug": "produce"
+    },
+    {
+      "keyword": "llms eroding",
+      "count": 6,
+      "score": 49.09035897929898,
+      "proper": false,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "LLMs are eroding my software engineering career and I don't know what to do",
+          "url": "https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/",
+          "source": "hackernews"
+        },
+        {
+          "title": "LLMs are eroding my software engineering career and I don't know what to do https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/Every mode",
+          "url": "https://mastodon.social/@nixCraft/116709660601121444",
+          "source": "mastodon"
+        }
+      ],
+      "id": "518d95857fda",
+      "slug": "llms-eroding"
+    },
+    {
+      "keyword": "eroding software",
+      "count": 6,
+      "score": 49.09035897929898,
+      "proper": false,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "LLMs are eroding my software engineering career and I don't know what to do",
+          "url": "https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/",
+          "source": "hackernews"
+        },
+        {
+          "title": "LLMs are eroding my software engineering career and I don't know what to do https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/Every mode",
+          "url": "https://mastodon.social/@nixCraft/116709660601121444",
+          "source": "mastodon"
+        }
+      ],
+      "id": "bb0900ed3279",
+      "slug": "eroding-software"
+    },
+    {
+      "keyword": "engineering career",
+      "count": 6,
+      "score": 49.09035897929898,
+      "proper": false,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "LLMs are eroding my software engineering career and I don't know what to do",
+          "url": "https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/",
+          "source": "hackernews"
+        },
+        {
+          "title": "LLMs are eroding my software engineering career and I don't know what to do https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/Every mode",
+          "url": "https://mastodon.social/@nixCraft/116709660601121444",
+          "source": "mastodon"
+        }
+      ],
+      "id": "7d1bd5dd53d4",
+      "slug": "engineering-career"
+    },
+    {
+      "keyword": "career don't",
+      "count": 6,
+      "score": 49.09035897929898,
+      "proper": false,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "LLMs are eroding my software engineering career and I don't know what to do",
+          "url": "https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/",
+          "source": "hackernews"
+        },
+        {
+          "title": "LLMs are eroding my software engineering career and I don't know what to do https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/Every mode",
+          "url": "https://mastodon.social/@nixCraft/116709660601121444",
+          "source": "mastodon"
+        }
+      ],
+      "id": "43284ba03a29",
+      "slug": "career-dont"
+    },
+    {
+      "keyword": "agentic software engineering",
+      "count": 5,
+      "score": 46.55772742331649,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "Tokenomics: Quantifying Where Tokens Are Used in Agentic Software Engineering",
+          "url": "https://arxiv.org/abs/2601.14470",
+          "source": "hackernews"
+        }
+      ],
+      "id": "b7acb2a6f5ed",
+      "slug": "agentic-software-engineering"
+    }
+  ],
+  "opportunities": [
+    {
+      "keyword": "passive income",
+      "count": 50,
+      "score": 170.01483582382434,
+      "proper": true,
+      "niches": [
+        "finance",
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "A Barbell Approach To Passive Income As Inflation Roars Back To Life",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObWp3VFhBUUU1c1l1NmdvSGRSV1l0bDRwamZPU2lwOEl1Vi1VTFVfYnhvdGxDNHUyaXZaRU5rNkRjeDE5T3F1R1p2ZzB0Unh4QnBCZ1IyZkpwNWRHZ2RNYVREWDJVVWUtZkhhNUZKM3M3ejl1cVZOUDc3WTB4VHhJZDNzZXZUajgzMWJwWlJPSmM3NG5aejNlQ1FjQm9kU2t4ckV5RXM5VnkyUjFmdXc?oc=5",
           "source": "gnews"
         },
         {
-          "title": "From Wearables to Power Stations: 10 Best Gadgets From May 2026",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4wTmQ4WXF0VkVtdjB4SXBkNlExOE5sVnZ5UXVWS2R0UzZaTzRlOXo5cktQNmNwQk41NGFoYm1PbFB0WWNhTUxTM3hiNUF1R1Q2U0tWcDFKZWdrNmhCazhocTFIcVFId01JNjVN?oc=5",
+          "title": "A Barbell Approach To Passive Income As Inflation Roars Back To Life",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObWp3VFhBUUU1c1l1NmdvSGRSV1l0bDRwamZPU2lwOEl1Vi1VTFVfYnhvdGxDNHUyaXZaRU5rNkRjeDE5T3F1R1p2ZzB0Unh4QnBCZ1IyZkpwNWRHZ2RNYVREWDJVVWUtZkhhNUZKM3M3ejl1cVZOUDc3WTB4VHhJZDNzZXZUajgzMWJwWlJPSmM3NG5aejNlQ1FjQm9kU2t4ckV5RXM5VnkyUjFmdXc?oc=5",
           "source": "gnews"
         },
         {
-          "title": "What is the Best AI Tool for Sports Betting in June 2026?",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE10ZFhMc2J6U3VfaVZLOVNjVnJ5b3Y2YmpmMnJDSTI3a2t2X1ZOUjJPNGVRZHBHVDZCQU4xaFpwSm5Vb0ZrTFY5d05aT25wR1NDQ29fWmpGQWNSc25NNktXQTVLdjctc3A3?oc=5",
+          "title": "How much is needed in an ISA to target a £1,046 monthly passive income in retirement?",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1fRXNjNTZzQ0d0MU1VUkJqMWZYVHZTVW9Nb0FqQ1c2R0l1eWRXaUtLbkZPbWFUNkxMVUZUSzl1VE1oWmxfOGs5VXYyQW1aM3BkOVlqVElhV1VMalJGUkhVeXpESGU3NHllTVBKdFB6c2tuWnlWRzE4Wi13bG1VQQ?oc=5",
           "source": "gnews"
         },
         {
-          "title": "Best Exercise Equipment Memorial Day Sales for 2026",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdFBSLVV3UGdKTFFpMlp0c2ZTU2swU29TM2dyWXB0VGxMN3k3UGVGbm1HSDNqZms2b1hNcTdjZzFNNWx3aEJPRjUxbUxvc1A2SGFRZVZUa3hWOHVPYmY1aE9NeHFvWnBxSGhIaERXeUdjV0RNQlpSWGlDSVZoU0x3VA?oc=5",
+          "title": "How much is needed in an ISA to target a £1,046 monthly passive income in retirement?",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1fRXNjNTZzQ0d0MU1VUkJqMWZYVHZTVW9Nb0FqQ1c2R0l1eWRXaUtLbkZPbWFUNkxMVUZUSzl1VE1oWmxfOGs5VXYyQW1aM3BkOVlqVElhV1VMalJGUkhVeXpESGU3NHllTVBKdFB6c2tuWnlWRzE4Wi13bG1VQQ?oc=5",
           "source": "gnews"
         },
         {
-          "title": "11 Best AI Coding Tools for Data Science & ML in 2026",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPaHBGOWZOaERaNVMxVVpPTU9FU1VaMnJ3WkZvMUtUd1MwaGtUQThJZE1nNnNsN25ZemFPZXpUZ1pEdG10NjhhNEx1MnBLTWZOMVg1WUd2MEhzeXM0eWZuOWc3cVgwYkRHUXpYTUF4ZnR0dzlsYmhoVnpKRDd4RjFqRkw4RTE?oc=5",
+          "title": "2 FTSE investment trusts to consider for passive income in 2026",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWElEY3d0aW1za3pLRGVjX1FLQ1pUMS1jRUptUk9LUUNUcGwza1lkWFVVNlE2MmVXcXREQ29VOTVfblFOTk5hTXkyckhWRWNid3FJWkFsMU9IRVlJcVNpUUFMY3JWYkt2a2VFNGZlUU9SbXBpOGZmY2NRM2piX3NzWXpScnZrenBQZFE?oc=5",
           "source": "gnews"
         }
       ],
-      "id": "436796f27eb8",
-      "slug": "2026-_blank"
+      "id": "cf2dbbbf8c8c",
+      "slug": "passive-income",
+      "opportunity": {
+        "type": "niche-content",
+        "recommended": "Publish niche guide for \"finance\"; bundle into digital product later."
+      }
     },
     {
       "keyword": "software",
-      "count": 13,
-      "score": 61.513063867561186,
-      "proper": false,
+      "count": 21,
+      "score": 137.67507524009903,
+      "proper": true,
       "niches": [
         "ai",
         "software"
@@ -500,154 +742,32 @@
           "source": "mastodon"
         },
         {
-          "title": "One of the lessons that many in software strangely never learn is that breaking something while being an asshole gets a very different response from people than breaking something while not being an a",
-          "url": "https://toot.cafe/@baldur/116708238082426388",
-          "source": "mastodon"
-        },
-        {
           "title": "Tokenomics: Quantifying Where Tokens Are Used in Agentic Software Engineering",
           "url": "https://arxiv.org/abs/2601.14470",
           "source": "hackernews"
         },
         {
-          "title": "Broadcom CEO drops unexpected message on AI and software",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRkZ4WWluckE3bEZKNUUyeFlwdWFPT3loQVpwV0hiYW01QVlxcHlhb2R0azVRRUdwY2FfczZ4SFNvalkwckk2ajV0YmpjMTB3bFJycHpmc0o2WE1JSlN6dUlRMER3V252dmtWRVZMUDJfQTdrdWk4Z2xJdVZDNDVNQzVEVUhOaEhuRE01bnB5MGkycEh5U3Bhb3FR?oc=5",
+          "title": "LLMs are eroding my software engineering career and I don't know what to do https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/Every mode",
+          "url": "https://mastodon.social/@nixCraft/116709660601121444",
+          "source": "mastodon"
+        },
+        {
+          "title": "Agentic AI solved coding — and exposed every other problem in software engineering",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNTNPVE5iWVhKYjFTS09KbmRwUlFvVzJ1UFA5VzFoVTVGbjJJd1JYZE1yaXJJVy1GMG96a09BTUxleWJhX3JrQTNZY0tYSUhNbUpBQVhwTzR3eno5UFJfV1ZRd3F3ckZpbnBUNDR5ZU5IT3JySlZWcFN5bEYwVlRiUHhVMGxzVEhyOURpOS1rZmh3NUpXUnhSeWlpT0VOcW1WTXM3WmxnQkRGalhOSlNSS3NBU2hGQQ?oc=5",
           "source": "gnews"
         }
       ],
       "id": "35390f5453e8",
-      "slug": "software"
+      "slug": "software",
+      "opportunity": {
+        "type": "niche-content",
+        "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
+      }
     },
     {
-      "keyword": "2026 6f6f6f",
-      "count": 27,
-      "score": 58.76661817115372,
-      "proper": false,
-      "niches": [
-        "ai",
-        "gear",
-        "software",
-        "general"
-      ],
-      "examples": [
-        {
-          "title": "Best 21 Low-Code and No-Code AI Tools in 2026",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQREhlRDJ5Q0FhMzBleHkzZHFyMm05NHZ6bWRTTWgwaXV3U1RRZVpHUHB4SWQ2dFFqTzUzdU1SeVI5SG9RQUVpYXV4NzlVLW1pc3c4WDVIWEMzRVVhTGNSa29ZZG1GRkZMRVdOelcxUnRleFJjMmcyOVcwTEZxY1JEbjBRSm5YSERyUUZ1Uzlhbw?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "From Wearables to Power Stations: 10 Best Gadgets From May 2026",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4wTmQ4WXF0VkVtdjB4SXBkNlExOE5sVnZ5UXVWS2R0UzZaTzRlOXo5cktQNmNwQk41NGFoYm1PbFB0WWNhTUxTM3hiNUF1R1Q2U0tWcDFKZWdrNmhCazhocTFIcVFId01JNjVN?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "What is the Best AI Tool for Sports Betting in June 2026?",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE10ZFhMc2J6U3VfaVZLOVNjVnJ5b3Y2YmpmMnJDSTI3a2t2X1ZOUjJPNGVRZHBHVDZCQU4xaFpwSm5Vb0ZrTFY5d05aT25wR1NDQ29fWmpGQWNSc25NNktXQTVLdjctc3A3?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Best Exercise Equipment Memorial Day Sales for 2026",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdFBSLVV3UGdKTFFpMlp0c2ZTU2swU29TM2dyWXB0VGxMN3k3UGVGbm1HSDNqZms2b1hNcTdjZzFNNWx3aEJPRjUxbUxvc1A2SGFRZVZUa3hWOHVPYmY1aE9NeHFvWnBxSGhIaERXeUdjV0RNQlpSWGlDSVZoU0x3VA?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "11 Best AI Coding Tools for Data Science & ML in 2026",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPaHBGOWZOaERaNVMxVVpPTU9FU1VaMnJ3WkZvMUtUd1MwaGtUQThJZE1nNnNsN25ZemFPZXpUZ1pEdG10NjhhNEx1MnBLTWZOMVg1WUd2MEhzeXM0eWZuOWc3cVgwYkRHUXpYTUF4ZnR0dzlsYmhoVnpKRDd4RjFqRkw4RTE?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "819223dcf234",
-      "slug": "2026-6f6f6f"
-    },
-    {
-      "keyword": "desktop",
-      "count": 5,
-      "score": 53.52415691461425,
-      "proper": true,
-      "niches": [
-        "software"
-      ],
-      "examples": [
-        {
-          "title": "ShoreAbleCorrect/Canva-Pro-Desktop-Windows — Graphic design platform patched to unlock all Pro templates and premium assets.",
-          "url": "https://github.com/ShoreAbleCorrect/Canva-Pro-Desktop-Windows",
-          "source": "github"
-        }
-      ],
-      "id": "68693d02ab4f",
-      "slug": "desktop"
-    },
-    {
-      "keyword": "power stations",
-      "count": 11,
-      "score": 51.41232378451173,
-      "proper": true,
-      "niches": [
-        "gear"
-      ],
-      "examples": [
-        {
-          "title": "From Wearables to Power Stations: 10 Best Gadgets From May 2026",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4wTmQ4WXF0VkVtdjB4SXBkNlExOE5sVnZ5UXVWS2R0UzZaTzRlOXo5cktQNmNwQk41NGFoYm1PbFB0WWNhTUxTM3hiNUF1R1Q2U0tWcDFKZWdrNmhCazhocTFIcVFId01JNjVN?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "From Wearables to Power Stations: 10 Best Gadgets From May 2026",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4wTmQ4WXF0VkVtdjB4SXBkNlExOE5sVnZ5UXVWS2R0UzZaTzRlOXo5cktQNmNwQk41NGFoYm1PbFB0WWNhTUxTM3hiNUF1R1Q2U0tWcDFKZWdrNmhCazhocTFIcVFId01JNjVN?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "From Wearables to Power Stations: 10 Best Gadgets From May 2026",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4wTmQ4WXF0VkVtdjB4SXBkNlExOE5sVnZ5UXVWS2R0UzZaTzRlOXo5cktQNmNwQk41NGFoYm1PbFB0WWNhTUxTM3hiNUF1R1Q2U0tWcDFKZWdrNmhCazhocTFIcVFId01JNjVN?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "945c85649dce",
-      "slug": "power-stations"
-    },
-    {
-      "keyword": "side hustle",
-      "count": 27,
-      "score": 51.33491015938919,
-      "proper": false,
-      "niches": [
-        "finance",
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "Rachel Cruz's Top Side Hustle Ideas for Stay-at-Home Moms and Retirees to Earn Extra Cash",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUGVYdzFWbGVieU51NEkxYzZBdm5MeVFDYzRJX0xtTUoxY2dSZWlrNThKYmlfRHEtUDVUVE9Sc2FTU0toUDU1X0pEYXU3cTR4MkFBek10TmoyaG5Gd2VUcnFUT09OMlBVS1ZGU2dUWkk5OFFMRWh6TUhSZGhwS2t1RTRzTnBLU1lhX09nby1WRQ?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Rachel Cruz's Top Side Hustle Ideas for Stay-at-Home Moms and Retirees to Earn Extra Cash",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUGVYdzFWbGVieU51NEkxYzZBdm5MeVFDYzRJX0xtTUoxY2dSZWlrNThKYmlfRHEtUDVUVE9Sc2FTU0toUDU1X0pEYXU3cTR4MkFBek10TmoyaG5Gd2VUcnFUT09OMlBVS1ZGU2dUWkk5OFFMRWh6TUhSZGhwS2t1RTRzTnBLU1lhX09nby1WRQ?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "This One Side Hustle Strategy Can Speed Up Debt Payoff in the Next 12 Months",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE05WUhvQkVsQ2lfTDJDaTRpaEVkZmR1WDlyWWp1LVNVaWhqUXJ4OGJKUkJjMFh5YXpaZHJxUFdsR0NYbUszZWlmRXlaWDVhMjh1Z3BsT2FNZ3F2WldxM2V0eFJoa0tsdml6cmhnR0E5S3ZfRjBlX21tQWtGRVFKUQ?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "This One Side Hustle Strategy Can Speed Up Debt Payoff in the Next 12 Months",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE05WUhvQkVsQ2lfTDJDaTRpaEVkZmR1WDlyWWp1LVNVaWhqUXJ4OGJKUkJjMFh5YXpaZHJxUFdsR0NYbUszZWlmRXlaWDVhMjh1Z3BsT2FNZ3F2WldxM2V0eFJoa0tsdml6cmhnR0E5S3ZfRjBlX21tQWtGRVFKUQ?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "After Some ‘Pretty Terrible’ Ideas, These Friends Started a College Side Hustle That Made $10K in 30 Days: ‘I Carry My Laptop Everywhere’",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPN1k2a1JZUW51UGtZOFdIZkJPd0Vya196QVo3Qm1FZFJNZG12WWRrb3JMZTN2Nm1oS2NDeFhkd2hoMDU1M1l2eUo4elU2TlNuTllVeXVGeW9DTE9FYVdXOTl5VW1oTWFvbS1hdkNsbzNaNkhCMTJza0Y2TWRUa1V0Nm05Z1BnUVA3VktBNndWeW81cXcwNHBhd241Z2NoRnVRdXhKY3g3NjdLZjFpUjJqSkdwUGJTTTMzcmdiOFdR?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "57270ed2efc7",
-      "slug": "side-hustle"
-    },
-    {
-      "keyword": "produce",
-      "count": 5,
-      "score": 49.796416912680996,
+      "keyword": "claude code",
+      "count": 38,
+      "score": 126.66964040337766,
       "proper": true,
       "niches": [
         "ai"
@@ -657,38 +777,39 @@
           "title": "JimLiu/baoyu-design — Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/de",
           "url": "https://github.com/JimLiu/baoyu-design",
           "source": "github"
-        }
-      ],
-      "id": "1198780b3af7",
-      "slug": "produce"
-    },
-    {
-      "keyword": "metamask openclaw",
-      "count": 8,
-      "score": 46.16458533885479,
-      "proper": true,
-      "niches": [
-        "software"
-      ],
-      "examples": [
+        },
         {
-          "title": "tupopacherryy9-cloud/metamask-openclaw-desktop — 力 Easy-to-use desktop client and helper utility for Metamask Openclaw on Windows. Manage your Web3 connections safely and quickly with a simple .exe se",
-          "url": "https://github.com/tupopacherryy9-cloud/metamask-openclaw-desktop",
+          "title": "JimLiu/baoyu-design — Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/de",
+          "url": "https://github.com/JimLiu/baoyu-design",
           "source": "github"
         },
         {
-          "title": "tupopacherryy9-cloud/metamask-openclaw-desktop — 力 Easy-to-use desktop client and helper utility for Metamask Openclaw on Windows. Manage your Web3 connections safely and quickly with a simple .exe se",
-          "url": "https://github.com/tupopacherryy9-cloud/metamask-openclaw-desktop",
-          "source": "github"
+          "title": "agent-natalie 0.1.20",
+          "url": "https://pypi.org/project/agent-natalie/0.1.20/",
+          "source": "pypi"
+        },
+        {
+          "title": "ouroboros-ai 0.41.1.dev12",
+          "url": "https://pypi.org/project/ouroboros-ai/0.41.1.dev12/",
+          "source": "pypi"
+        },
+        {
+          "title": "ouroboros-ai 0.41.1.dev11",
+          "url": "https://pypi.org/project/ouroboros-ai/0.41.1.dev11/",
+          "source": "pypi"
         }
       ],
-      "id": "4f83a401778a",
-      "slug": "metamask-openclaw"
+      "id": "a625159d18da",
+      "slug": "claude-code",
+      "opportunity": {
+        "type": "tooling",
+        "recommended": "Build / list AI tools; monetize via affiliate links + lead magnet."
+      }
     },
     {
       "keyword": "software engineering",
-      "count": 6,
-      "score": 45.95979037846207,
+      "count": 12,
+      "score": 85.51858372681146,
       "proper": false,
       "niches": [
         "ai"
@@ -703,80 +824,23 @@
           "title": "Tokenomics: Quantifying Where Tokens Are Used in Agentic Software Engineering",
           "url": "https://arxiv.org/abs/2601.14470",
           "source": "hackernews"
+        },
+        {
+          "title": "LLMs are eroding my software engineering career and I don't know what to do https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/Every mode",
+          "url": "https://mastodon.social/@nixCraft/116709660601121444",
+          "source": "mastodon"
+        },
+        {
+          "title": "Agentic AI solved coding — and exposed every other problem in software engineering",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNTNPVE5iWVhKYjFTS09KbmRwUlFvVzJ1UFA5VzFoVTVGbjJJd1JYZE1yaXJJVy1GMG96a09BTUxleWJhX3JrQTNZY0tYSUhNbUpBQVhwTzR3eno5UFJfV1ZRd3F3ckZpbnBUNDR5ZU5IT3JySlZWcFN5bEYwVlRiUHhVMGxzVEhyOURpOS1rZmh3NUpXUnhSeWlpT0VOcW1WTXM3WmxnQkRGalhOSlNSS3NBU2hGQQ?oc=5",
+          "source": "gnews"
         }
       ],
       "id": "0c7d337a1546",
-      "slug": "software-engineering"
-    }
-  ],
-  "opportunities": [
-    {
-      "keyword": "appfatigue ipa",
-      "count": 8,
-      "score": 109.81742784396202,
-      "proper": true,
-      "niches": [
-        "software"
-      ],
-      "examples": [
-        {
-          "title": "#AppFatigue IPA: /æp/ /fəˈtiːɡ/ (n) The tendency to NOT install new apps on your mobile phone because you finally understand that most apps should just be a website so you can seamlessly use a service",
-          "url": "https://social.wildeboer.net/@jwildeboer/116707826442644165",
-          "source": "mastodon"
-        },
-        {
-          "title": "#AppFatigue IPA: /æp/ /fəˈtiːɡ/ (n) The tendency to NOT install new apps on your mobile phone because you finally understand that most apps should just be a website so you can seamlessly use a service",
-          "url": "https://social.wildeboer.net/@jwildeboer/116707826442644165",
-          "source": "mastodon"
-        }
-      ],
-      "id": "2fc1a54c6d96",
-      "slug": "appfatigue-ipa",
+      "slug": "software-engineering",
       "opportunity": {
-        "type": "affiliate",
-        "recommended": "Write SEO comparison/roundup article with affiliate links."
-      }
-    },
-    {
-      "keyword": "claude code",
-      "count": 22,
-      "score": 108.8692134743822,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "JimLiu/baoyu-design — Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/de",
-          "url": "https://github.com/JimLiu/baoyu-design",
-          "source": "github"
-        },
-        {
-          "title": "JimLiu/baoyu-design — Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/de",
-          "url": "https://github.com/JimLiu/baoyu-design",
-          "source": "github"
-        },
-        {
-          "title": "Claude Code is the best AI coding tool I've used, and I’m not entirely sure if I can recommend it",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMnJUQnpneEtHMEJFZzZ0V0djN24zOVQyM3hpT09WYm5sUXBRVEo0QkFCZG50Q3RMMUtuczFwYk9aMEYxSFpBMVkxNDhrRmpOTUNJWE9teEVsR3JDYW9YMktENFYxQlBjTC1lM2hfYTJ3WkI4c0tyMTh3X0UzSWUwVUFMRlQtSjhIcnRuTTVYUW9OeXFVbUtHYmt3?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Claude Code is the best AI coding tool I've used, and I’m not entirely sure if I can recommend it",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMnJUQnpneEtHMEJFZzZ0V0djN24zOVQyM3hpT09WYm5sUXBRVEo0QkFCZG50Q3RMMUtuczFwYk9aMEYxSFpBMVkxNDhrRmpOTUNJWE9teEVsR3JDYW9YMktENFYxQlBjTC1lM2hfYTJ3WkI4c0tyMTh3X0UzSWUwVUFMRlQtSjhIcnRuTTVYUW9OeXFVbUtHYmt3?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Claude Code is the best AI coding tool I've used, and I’m not entirely sure if I can recommend it",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMnJUQnpneEtHMEJFZzZ0V0djN24zOVQyM3hpT09WYm5sUXBRVEo0QkFCZG50Q3RMMUtuczFwYk9aMEYxSFpBMVkxNDhrRmpOTUNJWE9teEVsR3JDYW9YMktENFYxQlBjTC1lM2hfYTJ3WkI4c0tyMTh3X0UzSWUwVUFMRlQtSjhIcnRuTTVYUW9OeXFVbUtHYmt3?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "a625159d18da",
-      "slug": "claude-code",
-      "opportunity": {
-        "type": "tooling",
-        "recommended": "Build / list AI tools; monetize via affiliate links + lead magnet."
+        "type": "niche-content",
+        "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
       }
     },
     {
@@ -814,7 +878,7 @@
     {
       "keyword": "agent skill",
       "count": 8,
-      "score": 79.6742670602896,
+      "score": 81.66964040337766,
       "proper": true,
       "niches": [
         "ai"
@@ -866,119 +930,25 @@
       }
     },
     {
-      "keyword": "leveraging codex",
-      "count": 8,
-      "score": 63.7723610730568,
+      "keyword": "desktop",
+      "count": 5,
+      "score": 53.16121051016423,
       "proper": true,
       "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "Harness engineering: Leveraging Codex in an agent-first world",
-          "url": "https://openai.com/index/harness-engineering/",
-          "source": "hackernews"
-        },
-        {
-          "title": "Harness engineering: Leveraging Codex in an agent-first world",
-          "url": "https://openai.com/index/harness-engineering/",
-          "source": "hackernews"
-        }
-      ],
-      "id": "f291642b92d8",
-      "slug": "leveraging-codex",
-      "opportunity": {
-        "type": "niche-content",
-        "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
-      }
-    },
-    {
-      "keyword": "2026 _blank",
-      "count": 30,
-      "score": 61.66962911324925,
-      "proper": false,
-      "niches": [
-        "ai",
-        "gear",
-        "software",
-        "finance",
-        "general"
-      ],
-      "examples": [
-        {
-          "title": "Best 21 Low-Code and No-Code AI Tools in 2026",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQREhlRDJ5Q0FhMzBleHkzZHFyMm05NHZ6bWRTTWgwaXV3U1RRZVpHUHB4SWQ2dFFqTzUzdU1SeVI5SG9RQUVpYXV4NzlVLW1pc3c4WDVIWEMzRVVhTGNSa29ZZG1GRkZMRVdOelcxUnRleFJjMmcyOVcwTEZxY1JEbjBRSm5YSERyUUZ1Uzlhbw?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "From Wearables to Power Stations: 10 Best Gadgets From May 2026",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4wTmQ4WXF0VkVtdjB4SXBkNlExOE5sVnZ5UXVWS2R0UzZaTzRlOXo5cktQNmNwQk41NGFoYm1PbFB0WWNhTUxTM3hiNUF1R1Q2U0tWcDFKZWdrNmhCazhocTFIcVFId01JNjVN?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "What is the Best AI Tool for Sports Betting in June 2026?",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE10ZFhMc2J6U3VfaVZLOVNjVnJ5b3Y2YmpmMnJDSTI3a2t2X1ZOUjJPNGVRZHBHVDZCQU4xaFpwSm5Vb0ZrTFY5d05aT25wR1NDQ29fWmpGQWNSc25NNktXQTVLdjctc3A3?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Best Exercise Equipment Memorial Day Sales for 2026",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdFBSLVV3UGdKTFFpMlp0c2ZTU2swU29TM2dyWXB0VGxMN3k3UGVGbm1HSDNqZms2b1hNcTdjZzFNNWx3aEJPRjUxbUxvc1A2SGFRZVZUa3hWOHVPYmY1aE9NeHFvWnBxSGhIaERXeUdjV0RNQlpSWGlDSVZoU0x3VA?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "11 Best AI Coding Tools for Data Science & ML in 2026",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPaHBGOWZOaERaNVMxVVpPTU9FU1VaMnJ3WkZvMUtUd1MwaGtUQThJZE1nNnNsN25ZemFPZXpUZ1pEdG10NjhhNEx1MnBLTWZOMVg1WUd2MEhzeXM0eWZuOWc3cVgwYkRHUXpYTUF4ZnR0dzlsYmhoVnpKRDd4RjFqRkw4RTE?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "436796f27eb8",
-      "slug": "2026-_blank",
-      "opportunity": {
-        "type": "niche-content",
-        "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
-      }
-    },
-    {
-      "keyword": "software",
-      "count": 13,
-      "score": 61.513063867561186,
-      "proper": false,
-      "niches": [
-        "ai",
         "software"
       ],
       "examples": [
         {
-          "title": "LLMs are eroding my software engineering career and I don't know what to do",
-          "url": "https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/",
-          "source": "hackernews"
-        },
-        {
-          "title": "RE: https://live.acarsdrama.com/@acarsdrama/116708457056507627“New AI driven flight route optimization software working well so far,” declares airline",
-          "url": "https://infosec.exchange/@SecureOwl/116708673966759838",
-          "source": "mastodon"
-        },
-        {
-          "title": "One of the lessons that many in software strangely never learn is that breaking something while being an asshole gets a very different response from people than breaking something while not being an a",
-          "url": "https://toot.cafe/@baldur/116708238082426388",
-          "source": "mastodon"
-        },
-        {
-          "title": "Tokenomics: Quantifying Where Tokens Are Used in Agentic Software Engineering",
-          "url": "https://arxiv.org/abs/2601.14470",
-          "source": "hackernews"
-        },
-        {
-          "title": "Broadcom CEO drops unexpected message on AI and software",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRkZ4WWluckE3bEZKNUUyeFlwdWFPT3loQVpwV0hiYW01QVlxcHlhb2R0azVRRUdwY2FfczZ4SFNvalkwckk2ajV0YmpjMTB3bFJycHpmc0o2WE1JSlN6dUlRMER3V252dmtWRVZMUDJfQTdrdWk4Z2xJdVZDNDVNQzVEVUhOaEhuRE01bnB5MGkycEh5U3Bhb3FR?oc=5",
-          "source": "gnews"
+          "title": "ShoreAbleCorrect/Canva-Pro-Desktop-Windows — Graphic design platform patched to unlock all Pro templates and premium assets.",
+          "url": "https://github.com/ShoreAbleCorrect/Canva-Pro-Desktop-Windows",
+          "source": "github"
         }
       ],
-      "id": "35390f5453e8",
-      "slug": "software",
+      "id": "68693d02ab4f",
+      "slug": "desktop",
       "opportunity": {
-        "type": "niche-content",
-        "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
+        "type": "affiliate",
+        "recommended": "Write SEO comparison/roundup article with affiliate links."
       }
     }
   ]
