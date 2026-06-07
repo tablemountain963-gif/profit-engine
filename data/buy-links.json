@@ -400,5 +400,19 @@
     "price": 19,
     "productId": "prod_Uest5QesZvPjiB",
     "cover": "/assets/pack-cover.png"
+  },
+  "prompt-pack-produce-2026-06-07": {
+    "url": "https://buy.stripe.com/6oUdR8dpu5Po0Nd3NGfjG0V",
+    "platform": "stripe",
+    "price": 19,
+    "productId": "prod_Uf26Un96wwx1jl",
+    "cover": "/assets/pack-cover.png"
+  },
+  "prompt-pack-agent-skill-2026-06-07": {
+    "url": "https://buy.stripe.com/14A7sKadidhQanN0BufjG0W",
+    "platform": "stripe",
+    "price": 19,
+    "productId": "prod_Uf26yPuqObEzN5",
+    "cover": "/assets/pack-cover.png"
   }
 }
