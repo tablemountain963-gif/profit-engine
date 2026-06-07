@@ -2274,17 +2274,17 @@
     },
     "llms-eroding": {
       "firstSeen": "2026-06-07T17:05:30.550Z",
-      "lastSeen": "2026-06-07T17:05:30.550Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-07T21:56:23.085Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
     "eroding-software": {
       "firstSeen": "2026-06-07T17:05:33.816Z",
-      "lastSeen": "2026-06-07T17:05:33.816Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-07T21:56:23.088Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -2303,12 +2303,76 @@
       "wins": 0,
       "losses": 0,
       "niche": "ai"
+    },
+    "offline-whoop": {
+      "firstSeen": "2026-06-07T21:56:27.823Z",
+      "lastSeen": "2026-06-07T21:56:27.823Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "cassette-beasts": {
+      "firstSeen": "2026-06-07T21:56:32.223Z",
+      "lastSeen": "2026-06-07T21:56:32.223Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "lego-batman": {
+      "firstSeen": "2026-06-07T21:56:35.468Z",
+      "lastSeen": "2026-06-07T21:56:35.468Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "software"
+    },
+    "jensen-huang": {
+      "firstSeen": "2026-06-07T21:56:42.560Z",
+      "lastSeen": "2026-06-07T21:56:42.560Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "empires-ii": {
+      "firstSeen": "2026-06-07T21:57:04.380Z",
+      "lastSeen": "2026-06-07T21:57:04.380Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "noopapp": {
+      "firstSeen": "2026-06-07T21:57:24.865Z",
+      "lastSeen": "2026-06-07T21:57:24.865Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "agentic-ai": {
+      "firstSeen": "2026-06-07T21:57:38.024Z",
+      "lastSeen": "2026-06-07T21:57:38.024Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "frontier-ai": {
+      "firstSeen": "2026-06-07T21:57:48.736Z",
+      "lastSeen": "2026-06-07T21:57:48.736Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
     }
   },
   "niches": {
     "ai": {
-      "count": 331,
-      "wins": 94,
+      "count": 340,
+      "wins": 96,
       "losses": 10
     },
     "finance": {
@@ -2317,7 +2381,7 @@
       "losses": 0
     },
     "software": {
-      "count": 68,
+      "count": 69,
       "wins": 15,
       "losses": 4
     },

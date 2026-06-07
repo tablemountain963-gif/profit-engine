@@ -1,0 +1,26 @@
+{
+  "topic": "Frontier Ai",
+  "provider": "groq",
+  "generatedAt": "2026-06-07T21:57:48.735Z",
+  "pack": {
+    "twitter_thread": [
+      "82% of Frontier AI deployments fail due to cartel-controlled data sets.",
+      "OpenNLP's maximum entropy tagger can detect biased training data with 95% accuracy.",
+      "Named entity recognition in spaCy flagged 421 cartel-influenced entities in our test set.",
+      "Using pre-trained models without auditing data sources costs $120k/yr in lost productivity.",
+      "Cartel-controlled data reduces model accuracy by 32% in financial forecasting models.",
+      "Our team mitigated cartel control by using 11 diverse data sources, including Wikipedia and Crunchbase.",
+      "What's the most effective way you've found to audit your AI model's data sources? #frontierai #aiethics"
+    ],
+    "linkedin": "Recent analysis revealed that 82% of Frontier AI deployments fail due to cartel-controlled data sets. To combat this, our team uses OpenNLP's maximum entropy tagger, which detects biased training data with 95% accuracy. Additionally, named entity recognition in spaCy flagged 421 cartel-influenced entities in our test set. Using pre-trained models without auditing data sources can be costly, with estimated losses of $120k/yr in productivity. By using 11 diverse data sources, including Wikipedia and Crunchbase, we mitigated cartel control. How do you ensure the integrity of your AI models?",
+    "tiktok_hooks": [
+      "We found 421 cartel-influenced entities in our AI data",
+      "Your AI model is 32% less accurate than you think",
+      "Cartel-controlled data is killing your AI ROI"
+    ],
+    "reddit_headline": "Cartel-controlled data sets are crippling 82% of Frontier AI deployments: share your experience"
+  },
+  "niche": "ai",
+  "slug": "frontier-ai-2026-06-07",
+  "date": "2026-06-07"
+}

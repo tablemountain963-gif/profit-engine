@@ -414,5 +414,26 @@
     "price": 19,
     "productId": "prod_Uf26yPuqObEzN5",
     "cover": "/assets/pack-cover.png"
+  },
+  "prompt-pack-noopapp-2026-06-07": {
+    "url": "https://buy.stripe.com/14AbJ0dpua5EdzZ2JCfjG0X",
+    "platform": "stripe",
+    "price": 19,
+    "productId": "prod_Uf8zwnx6fxlYSh",
+    "cover": "/assets/pack-cover.png"
+  },
+  "prompt-pack-empires-ii-2026-06-07": {
+    "url": "https://buy.stripe.com/3cIfZg1GM2DcdzZfwofjG0Y",
+    "platform": "stripe",
+    "price": 19,
+    "productId": "prod_Uf8zU8F0GL7jGC",
+    "cover": "/assets/pack-cover.png"
+  },
+  "prompt-pack-jensen-huang-2026-06-07": {
+    "url": "https://buy.stripe.com/14A8wOfxCb9IanN2JCfjG0Z",
+    "platform": "stripe",
+    "price": 19,
+    "productId": "prod_Uf8zvJ0q56nOkS",
+    "cover": "/assets/pack-cover.png"
   }
 }
