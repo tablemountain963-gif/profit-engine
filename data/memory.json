@@ -1410,8 +1410,8 @@
     },
     "affordability-crisis": {
       "firstSeen": "2026-06-03T17:59:29.318Z",
-      "lastSeen": "2026-06-03T17:59:29.318Z",
-      "count": 1,
+      "lastSeen": "2026-06-08T18:19:33.971Z",
+      "count": 2,
       "wins": 0,
       "losses": 0,
       "niche": "ai"
@@ -2418,25 +2418,25 @@
     },
     "coding-observability": {
       "firstSeen": "2026-06-08T16:47:40.753Z",
-      "lastSeen": "2026-06-08T16:47:40.753Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-08T18:19:13.534Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
     "improvements": {
       "firstSeen": "2026-06-08T16:47:44.372Z",
-      "lastSeen": "2026-06-08T16:47:44.372Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-08T18:19:13.535Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
     "maturity-model": {
       "firstSeen": "2026-06-08T16:47:47.416Z",
-      "lastSeen": "2026-06-08T16:47:47.416Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-08T18:19:13.535Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -2455,12 +2455,52 @@
       "wins": 0,
       "losses": 0,
       "niche": "ai"
+    },
+    "apple-wwdc": {
+      "firstSeen": "2026-06-08T18:19:18.585Z",
+      "lastSeen": "2026-06-08T18:19:18.585Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "software"
+    },
+    "tim-cook": {
+      "firstSeen": "2026-06-08T18:19:21.615Z",
+      "lastSeen": "2026-06-08T18:19:21.615Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "ppt-skill": {
+      "firstSeen": "2026-06-08T18:19:24.981Z",
+      "lastSeen": "2026-06-08T18:19:24.981Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "anthropic-api": {
+      "firstSeen": "2026-06-08T18:19:50.360Z",
+      "lastSeen": "2026-06-08T18:19:50.360Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "responses-api": {
+      "firstSeen": "2026-06-08T18:20:13.198Z",
+      "lastSeen": "2026-06-08T18:20:13.198Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
     }
   },
   "niches": {
     "ai": {
-      "count": 357,
-      "wins": 101,
+      "count": 365,
+      "wins": 104,
       "losses": 10
     },
     "finance": {
@@ -2469,7 +2509,7 @@
       "losses": 0
     },
     "software": {
-      "count": 71,
+      "count": 72,
       "wins": 16,
       "losses": 4
     },

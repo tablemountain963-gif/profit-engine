@@ -1,133 +1,67 @@
 {
-  "generatedAt": "2026-06-08T16:47:36.256Z",
-  "sourceCount": 199,
+  "generatedAt": "2026-06-08T18:19:14.324Z",
+  "sourceCount": 205,
   "topItems": [
     {
       "title": "I don't think Anthropic really meant it this way but what an amazing demonstration of why generative AI's energy consumption is only getting worse, and dirtier. \"Improvements\" only come from nesting c",
       "url": "https://climatejustice.social/@ketan/116714456576849745",
-      "score": 10.36,
+      "score": 10.68,
       "niche": "ai",
       "source": "mastodon",
       "engagement": {
-        "score": 568,
-        "comments": 42
+        "score": 701,
+        "comments": 47
       }
     },
     {
       "title": "MiMo-v2.5-Pro-UltraSpeed: 1T model with 1000 tokens per second",
       "url": "https://mimo.xiaomi.com/blog/mimo-tilert-1000tps",
-      "score": 9.38,
+      "score": 10.45,
       "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 162,
-        "comments": 95
-      }
-    },
-    {
-      "title": "NoopApp/noop — Offline WHOOP companion — pair your strap over Bluetooth, keep all data on your own device. No cloud, no account, no subscription.",
-      "url": "https://github.com/NoopApp/noop",
-      "score": 9,
-      "niche": "ai",
-      "source": "github",
-      "engagement": {
-        "score": 482,
-        "comments": 12
+        "score": 287,
+        "comments": 201
       }
     },
     {
       "title": "If anyone out there with deep pockets would like to sponsor @Iconfactory or hire us for design work and help us keep developing the apps and art you love please get in touch. I hate to be all doom and",
       "url": "https://mastodon.social/@gedeonm/116714528755972031",
-      "score": 8.8,
+      "score": 9.08,
       "niche": "software",
       "source": "mastodon",
       "engagement": {
-        "score": 255,
+        "score": 305,
         "comments": 3
-      }
-    },
-    {
-      "title": "Scanning tech would turn every phone into a surveillance device ⚠️UK Ministers may claim this is to stop children sharing intimate images.But it means forcing every adult through a digital ID checkpoi",
-      "url": "https://social.openrightsgroup.org/@openrightsgroup/116714469329596119",
-      "score": 8.76,
-      "niche": "ai",
-      "source": "mastodon",
-      "engagement": {
-        "score": 225,
-        "comments": 7
-      }
-    },
-    {
-      "title": "I put out a video that was critical of AI without AI being mentioned in title, thumbnail, or description. And it was dogpiled with pro-AI comments almost instantly.This video has almost 2.5X as many c",
-      "url": "https://dialup.space/@TechTangents/116715016103496372",
-      "score": 8.63,
-      "niche": "ai",
-      "source": "mastodon",
-      "engagement": {
-        "score": 192,
-        "comments": 14
-      }
-    },
-    {
-      "title": "I thought people were kidding, turns out Elon really did axe the screwworm containment program back in March 25. fucking imbecile www.agri-pulse.com/articles/226...Bird flu, screwworm monitoring...",
-      "url": "https://fed.brid.gy/r/https://bsky.app/profile/did:plc:p5yoii26kayabauhkym3vtms/post/3mnrss6faed2r",
-      "score": 8.09,
-      "niche": "ai",
-      "source": "mastodon",
-      "engagement": {
-        "score": 135,
-        "comments": 11
       }
     },
     {
       "title": "So, the biggest IPO in the history of the world has the vast majority of its future value being created by an AI platform whose only distinction, thus far, is that it is the only one that's generated ",
       "url": "https://me.dm/@anildash/116715139068984779",
-      "score": 8.06,
+      "score": 8.79,
       "niche": "ai",
       "source": "mastodon",
       "engagement": {
-        "score": 140,
-        "comments": 7
+        "score": 221,
+        "comments": 11
       }
     },
     {
-      "title": "Zig is a modern alternative to C. It is a general purpose programming language and toolchain for maintaining robust, optimal, and reusable software, featuring built-in error handling and memory safety",
-      "url": "https://mastodon.social/@nixCraft/116715268816147389",
-      "score": 7.72,
-      "niche": "ai",
-      "source": "mastodon",
-      "engagement": {
-        "score": 41,
-        "comments": 2
-      }
-    },
-    {
-      "title": "Show HN: Performative-UI – a react component library of design tropes",
-      "url": "https://vorpus.github.io/performativeUI/",
-      "score": 7.32,
+      "title": "Apple WWDC 2026 Livestream",
+      "url": "https://www.apple.com/apple-events/event-stream/",
+      "score": 8.33,
       "niche": "software",
       "source": "hackernews",
       "engagement": {
-        "score": 280,
-        "comments": 66
+        "score": 112,
+        "comments": 137
       }
     },
     {
-      "title": "The Smallest Brain You Can Build: A Perceptron in Python",
-      "url": "https://ranpara.net/posts/perceptron-explained-from-scratch/",
-      "score": 6.66,
+      "title": "ASAN: Agentic apps and platform innovations drive productivity, adoption, and financial growth",
+      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQQjBxQWx5MHRYVUdvZlpJbUN3SzN1MUR5X1VPUGV1aXdYcXF1LWpKelBTUW1SUkVvLS03WWRoZzdFakd2LVRYZDlDUF9qcjMxVTZqWHc5THVKZWd5WHRSQ2hmSzZPZS1MdmlNNm15TGZ4bkY1NVZzN3VneS1oVGpWWFQ3ekF3QUJZalhBWGdJQWt1eXM0akFKWE1ycC1LS1pEd25IZEZldEN5djZrdkNOOGFhOXpFRWJ5Rm9vcHRNdkFsRlpMOWlyVldBbElpaWZIUHNKdmJSc190N05pb2ZMSDNMY2xrdG1pWDJYYlVVY3ptY0g4X1VGbTh5Q1RaNk9QdVJpcGJKV1NVUQ?oc=5",
+      "score": 8.26,
       "niche": "ai",
-      "source": "hackernews",
-      "engagement": {
-        "score": 277,
-        "comments": 61
-      }
-    },
-    {
-      "title": "These are the Best Father’s Day Gifts for Golfers, From Premium Polos to Smart Gadgets",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9jSjJNNUc4NU1nMlJBN2Z4THZzaWZZd3FieV9LNG1KTmg2UFU4T09oM0R5WkZIRGc5b0FQQnV5SWlBajZIZVJ2NzdlR3hENnJiRFVsX3FCc2RnamdILTNpZElETHR5Zy1vQlRoSHlia3hhR3hEcWVEdEZ1NkxPQQ?oc=5",
-      "score": 6.55,
-      "niche": "gear",
       "source": "gnews",
       "engagement": {
         "score": 40,
@@ -135,14 +69,157 @@
       }
     },
     {
-      "title": "More lunar magic~ 🌙🌿#MastoArt #TraditionalArt #MixedMedia #Painting #FantasyArt #Mosstodon #Mushtodon #Nature #Forest",
-      "url": "https://mastodon.social/@lindenshieldarts/116715147273722423",
-      "score": 5.98,
+      "title": "Stop the Apple Music app from launching",
+      "url": "https://lowtechguys.com/musicdecoy/",
+      "score": 8.24,
+      "niche": "software",
+      "source": "hackernews",
+      "engagement": {
+        "score": 122,
+        "comments": 30
+      }
+    },
+    {
+      "title": "I've been running Follow the Crypto since 2024. Today I'm relaunching it as Tech Influence Watch, expanded to cover AI political spending alongside crypto. They’ve spent more than $400 million this el",
+      "url": "https://hachyderm.io/@molly0xfff/116715479378915373",
+      "score": 8.22,
       "niche": "ai",
       "source": "mastodon",
       "engagement": {
-        "score": 69,
+        "score": 366,
         "comments": 2
+      }
+    },
+    {
+      "title": "AI Is Slowing Down",
+      "url": "https://www.wheresyoured.at/ai-is-slowing-down/",
+      "score": 7.92,
+      "niche": "ai",
+      "source": "hackernews",
+      "engagement": {
+        "score": 84,
+        "comments": 107
+      }
+    },
+    {
+      "title": "Show HN: Performative-UI – a react component library of design tropes",
+      "url": "https://vorpus.github.io/performativeUI/",
+      "score": 7.92,
+      "niche": "software",
+      "source": "hackernews",
+      "engagement": {
+        "score": 467,
+        "comments": 102
+      }
+    },
+    {
+      "title": "Apple's including a lot of dead air during its Siri demos to prove this is running on a real device this time 😂",
+      "url": "https://mastodon.social/@stroughtonsmith/116715724378113132",
+      "score": 7.62,
+      "niche": "ai",
+      "source": "mastodon",
+      "engagement": {
+        "score": 61,
+        "comments": 3
+      }
+    },
+    {
+      "title": "Broke up with someone because they couldn't stop telling stories with \"So I asked AI about it and it told me...\"",
+      "url": "https://mastodon.social/@fesshole/116715631782961063",
+      "score": 7.36,
+      "niche": "ai",
+      "source": "mastodon",
+      "engagement": {
+        "score": 71,
+        "comments": 14
+      }
+    },
+    {
+      "title": "Nearly 500,000 russian citizens enjoyed European holidays last year. Meanwhile, Ukrainians were dying on the battlefield.It’s time to end Schengen tourist visas for russian tourists. Holidays in the E",
+      "url": "https://mastodon.ie/@EugeneMcParland/116715361176138020",
+      "score": 7.2,
+      "niche": "ai",
+      "source": "mastodon",
+      "engagement": {
+        "score": 167,
+        "comments": 5
+      }
+    },
+    {
+      "title": "xAI is looking more like a datacentre REIT than a frontier lab",
+      "url": "https://martinalderson.com/posts/xais-new-rental-business/",
+      "score": 6.99,
+      "niche": "ai",
+      "source": "hackernews",
+      "engagement": {
+        "score": 78,
+        "comments": 37
+      }
+    },
+    {
+      "title": "So far so good: Apple is talking about fixing their own shit, not giving us shit to fix.",
+      "url": "https://mastodon.social/@chockenberry/116715619840693606",
+      "score": 6.8,
+      "niche": "software",
+      "source": "mastodon",
+      "engagement": {
+        "score": 124,
+        "comments": 2
+      }
+    },
+    {
+      "title": "NoopApp/noop — Offline WHOOP companion — pair your strap over Bluetooth, keep all data on your own device. No cloud, no account, no subscription.",
+      "url": "https://github.com/NoopApp/noop",
+      "score": 6.77,
+      "niche": "ai",
+      "source": "github",
+      "engagement": {
+        "score": 497,
+        "comments": 9
+      }
+    },
+    {
+      "title": "‘We may be flying blind’: AWS wants to fix the problem of AI agents straying off task",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPd1EyVlJ5WTB1RHlLcVBjMUZqVFVRUThxOVI4SzJBY2J3T0VXenktNno4aW8xYk1aLTlLSDI2SUZMTERVSEpnNmxRbjdzRUhUc3VoaGRiTTFqa1hCUFZES3ZVbHZqZnJBRlJSNlAySDNlZGp0czBmcTFUQXM5ZDhzem11ZTRzUEw3QUc3OEk5amNaa0NhRnR5MmtB?oc=5",
+      "score": 6.71,
+      "niche": "ai",
+      "source": "gnews",
+      "engagement": {
+        "score": 40,
+        "comments": 0
+      }
+    },
+    {
+      "title": "Replies to comments on my \"LLMs are eroding my career\" post",
+      "url": "https://human-in-the-loop.bearblog.dev/replies-to-comments-on-my-llms-are-eroding-my-career-post/",
+      "score": 6.6,
+      "niche": "ai",
+      "source": "hackernews",
+      "engagement": {
+        "score": 92,
+        "comments": 143
+      }
+    },
+    {
+      "title": "This'll be pretty cool if it works…he said about every Siri demo ever",
+      "url": "https://mastodon.social/@marcoarment/116715732458422864",
+      "score": 6.59,
+      "niche": "ai",
+      "source": "mastodon",
+      "engagement": {
+        "score": 102,
+        "comments": 6
+      }
+    },
+    {
+      "title": "Soot lost Mr. Mouse, her previous favorite toy.After a couple of weeks, she has selected this one, which I dub Ms. Cherry, to be her favorite toy. I bought a half dozen of these because I knew she'd d",
+      "url": "https://mastodon.social/@TheZeldaZone/116715306352271089",
+      "score": 6.11,
+      "niche": "gear",
+      "source": "mastodon",
+      "engagement": {
+        "score": 139,
+        "comments": 6
       }
     },
     {
@@ -152,13 +229,13 @@
       "niche": "ai",
       "source": "github",
       "engagement": {
-        "score": 500,
+        "score": 505,
         "comments": 1
       }
     },
     {
-      "title": "New report details Apple’s AI shakeup that led to iOS 27’s major upgrades",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPX2kyQVFqd21mTlVuWTZMdFo2QzZpNXNSeGNrMmtaWUp2OUhzVGlfNlgzWXdtb2lVOExiQjB4eVR4SF9JZVIyVWQ2TE1weE1DQVQ2WVVNS1V5azN2US14ajFvZTU1ZUR1V3FxRFJuNEFIVmMyVmJyd3dCYjNuSldrR2t2R1hwd2ZJUHZYN0hIQVhBdVR3VTlPUkl6YXRHLVYyRkt1SnZR?oc=5",
+      "title": "As Apple's WWDC conference kicks off, investors want to know if AI will save Siri",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQOGY3V080Q3hRTEN5SW9hY0N1OWgwc2RqMGRZMWhzWnp6VXZwUmZCcDhBS2hfYVVHdlhPMDhZWWJQNVp6cWxMSlc2TVpwS3dEZnVzQ1F5VngtZ1F6N0o3LVcyT1BzV3VhVEhva3J6cTg2MWh4ZmNwTU5YaXpGNmJUaXhLVmNmUmIwQWdoSExqVGJRal9xdm1uNnZ3MDBQenFFSUg4?oc=5",
       "score": 5.94,
       "niche": "ai",
       "source": "gnews",
@@ -168,8 +245,8 @@
       }
     },
     {
-      "title": "Accenture and the Carnegie Mellon University Software Engineering Institute Launch AI Adoption Maturity Model to Help Organizations Scale AI with Predictable Outcomes",
-      "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxPM2lsTG10emtvNVExQ2hlSWltcklxWkRpRXZXTm9UcWxLejNINXlQX2g2NEQ0MDhOSWt4SWxDLVVjemFQZ0NGamZ4Q3BHUDVsVEwyYVcwaDVOXy0yNXpYazIycjBOQ0MxdGNxZk4zeXV0ZzVQbFU4VW5McnNNcFZnWUQ5RzdaYWJxdWZxQ3dxOUtTaGZaWklGWVNROWV4UUo3NjgzcndNNnA3eENjR3BaM1VpR0p4dG14X2JfMnlYZWMxelc3aERKU2hQM0ZNeEx4NVY4ZFlJSl9ha0J0am5FV3JCamRRVHphbmdNQjhKUFNmSUZHRHRoUTJYclpIaFc5SFBraDl5ZGZXUnc2dXNJQTl5eVFqVUxfc0J5WWNxc3pjX3pMSWhDbngxbUhJWmhZ?oc=5",
+      "title": "Apple's Tim Cook opens WWDC26 with keynote today with AI, software updates in focus",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTi1aalFienBzUkE1dkMxYVl4Rm80czRSYi1VVVpiZzJXTlgya0wzUS1mSWwzWkdReXRFdTU1S19rZlBkUWlPcXFJenBBMlpySWZIbHRoY3ByTnZ4bmpNZlJBcGFtWEtqVDhnVjVvRDFtS2UwNnQ3LUkwWGFyMlMxVWREWW5NMHcwYi1SaU5MelMtYkXSAZgBQVVfeXFMUFVRUVhDV0VEZTJJZjlGOHFZQ0VzUnhTLTM0WVR4ZmktRk1nVFFKVkhuV3hoeDdvQW95aWRFMTVxdkZZdXUxX29mQUlHdzBlZ2JTN3ZTWk5sRzY3QWU2NXlyakJjSGpzTFhDQlh2elZfRks5Yzc5SVFIT1JMZTZMNkV3X1NnX2J1aTh6cW81bHdKYVF0M2xSeWo?oc=5",
       "score": 5.94,
       "niche": "ai",
       "source": "gnews",
@@ -179,110 +256,72 @@
       }
     },
     {
-      "title": "Meeting The Data Demands Of AI: The 2026 CRN Big Data 100",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaGs3TnRLRlpFeUJvM2Zwc1o4RDFkQUQtREdrTjlZbk1LMjY0V3h1RDlONEt6ajNxN2RrWXlEc0VhVG9lMkFBZEpJcDJnbUhRZ05YbDhLci1xejhvSV9rTEp5M0pMZ3hXOE1abGNRaFpiRmNDNGlGSUgwZVVic0xOcHZzUEZTN3FVRWZlY0ZOMDlUN0JrVTRXN1BOTQ?oc=5",
+      "title": "Apple's Image Playground Gets 'Photorealistic' Capabilities With New AI",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONHQwbUZNdWhWTFRVY1JkMzJCakQ5UUVuWWgtSFc0c3NIbnpTWjVOd3ZLVUt0X1BoX3ZpTGxDa2l0NzIzZXpHMWNmbS1PRVdLNS02aDdESkFHUEp4ZXNjR0JONHZjWWlaVnh6S3RyeHBnTk92ZjhiNGVEN3Z6eXhKQnhzWG51akk0bFJTYzhyMzVlTUk?oc=5",
       "score": 5.94,
       "niche": "ai",
       "source": "gnews",
       "engagement": {
         "score": 40,
-        "comments": 0
-      }
-    },
-    {
-      "title": "12britz/awesome-free-models — A curated list of free AI models, APIs, and tools you can use without paying a cent.",
-      "url": "https://github.com/12britz/awesome-free-models",
-      "score": 5.85,
-      "niche": "ai",
-      "source": "github",
-      "engagement": {
-        "score": 125,
         "comments": 0
       }
     },
     {
       "title": "The Cypherpunk Library",
       "url": "https://www.cypherpunkbooks.com",
-      "score": 5.83,
+      "score": 5.92,
       "niche": "software",
       "source": "hackernews",
       "engagement": {
-        "score": 249,
-        "comments": 76
-      }
-    },
-    {
-      "title": "Nearly 500,000 russian citizens enjoyed European holidays last year. Meanwhile, Ukrainians were dying on the battlefield.It’s time to end Schengen tourist visas for russian tourists. Holidays in the E",
-      "url": "https://mastodon.ie/@EugeneMcParland/116715361176138020",
-      "score": 5.74,
-      "niche": "ai",
-      "source": "mastodon",
-      "engagement": {
-        "score": 59,
-        "comments": 1
-      }
-    },
-    {
-      "title": "Soot lost Mr. Mouse, her previous favorite toy.After a couple of weeks, she has selected this one, which I dub Ms. Cherry, to be her favorite toy. I bought a half dozen of these because I knew she'd d",
-      "url": "https://mastodon.social/@TheZeldaZone/116715306352271089",
-      "score": 5.61,
-      "niche": "gear",
-      "source": "mastodon",
-      "engagement": {
-        "score": 90,
-        "comments": 5
-      }
-    },
-    {
-      "title": "Software Deals Hit COVID-Era Lows Amid AI Disruption",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbmhpTFpJRENsOVdrRXhpZThRdEpVQ0FfU0xDVGVvSUkzdjF5UEVjYTVtbl9BWVBlU19CaDhhcjlKX3hDQ1c0dlo4cjQtSTFDLVQ3Wm9FaGd2M1dWRVJXa3dFZUtxZDM5bHBsMWhxSWFzQVZHVXpHT1RwYWppUl9PWnB3MmRuVGxGbFFuUjdsNU04NHNZVm9mMVpBOW05SUhYbTFnNmRJVU56ams?oc=5",
-      "score": 5.37,
-      "niche": "ai",
-      "source": "gnews",
-      "engagement": {
-        "score": 40,
-        "comments": 0
-      }
-    },
-    {
-      "title": "Software buyout deals collapse to lowest level since pandemic after AI rout",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQnQ5RzdOa1NkeTNPQnpnTmZXMlZHazRRTjFiQTdFcXFmdDYzamtQN256aWhWWFgyaGt2N28xRkhoVC1CZXZlUjhEOEZzZU16WlRyWWxiV3pTYVNMNW1SaGZZRnlFcDViMDV6OU4xakRJa2Y1bTRVbldtdkZEUENsSG4wMlo?oc=5",
-      "score": 5.37,
-      "niche": "ai",
-      "source": "gnews",
-      "engagement": {
-        "score": 40,
-        "comments": 0
-      }
-    },
-    {
-      "title": "chengtx007/fuckoai — Linux container registration control panel",
-      "url": "https://github.com/chengtx007/fuckoai",
-      "score": 5.26,
-      "niche": "ai",
-      "source": "github",
-      "engagement": {
-        "score": 112,
-        "comments": 0
-      }
-    },
-    {
-      "title": "These Kitchen Tools Take the Hassle Out of Chopping, Slicing, and Prepping",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQSGVaMjByMmk2VEE1dFJqUzVuX1AxN0dmX3hyTDd3QVhoS3BXMHdBa1Z0blpJbjRqTlpuQzJtdzB5SWdaQVg3N1RDaTdXcXdEMXpwOC1GREdrMlpJZWxSVzNZcmN2b1lxeGcyMDVKX1ZNT2VKYkVNSmdiYkY3Z2N6b1hB?oc=5",
-      "score": 5.24,
-      "niche": "software",
-      "source": "gnews",
-      "engagement": {
-        "score": 40,
-        "comments": 0
+        "score": 271,
+        "comments": 83
       }
     }
   ],
   "topics": [
     {
+      "keyword": "apple",
+      "count": 25,
+      "score": 236.11941861087246,
+      "proper": true,
+      "niches": [
+        "ai",
+        "software"
+      ],
+      "examples": [
+        {
+          "title": "Apple's including a lot of dead air during its Siri demos to prove this is running on a real device this time 😂",
+          "url": "https://mastodon.social/@stroughtonsmith/116715724378113132",
+          "source": "mastodon"
+        },
+        {
+          "title": "So far so good: Apple is talking about fixing their own shit, not giving us shit to fix.",
+          "url": "https://mastodon.social/@chockenberry/116715619840693606",
+          "source": "mastodon"
+        },
+        {
+          "title": "Apple's Tim Cook opens WWDC26 with keynote today with AI, software updates in focus",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTi1aalFienBzUkE1dkMxYVl4Rm80czRSYi1VVVpiZzJXTlgya0wzUS1mSWwzWkdReXRFdTU1S19rZlBkUWlPcXFJenBBMlpySWZIbHRoY3ByTnZ4bmpNZlJBcGFtWEtqVDhnVjVvRDFtS2UwNnQ3LUkwWGFyMlMxVWREWW5NMHcwYi1SaU5MelMtYkXSAZgBQVVfeXFMUFVRUVhDV0VEZTJJZjlGOHFZQ0VzUnhTLTM0WVR4ZmktRk1nVFFKVkhuV3hoeDdvQW95aWRFMTVxdkZZdXUxX29mQUlHdzBlZ2JTN3ZTWk5sRzY3QWU2NXlyakJjSGpzTFhDQlh2elZfRks5Yzc5SVFIT1JMZTZMNkV3X1NnX2J1aTh6cW81bHdKYVF0M2xSeWo?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Apple's Image Playground Gets 'Photorealistic' Capabilities With New AI",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONHQwbUZNdWhWTFRVY1JkMzJCakQ5UUVuWWgtSFc0c3NIbnpTWjVOd3ZLVUt0X1BoX3ZpTGxDa2l0NzIzZXpHMWNmbS1PRVdLNS02aDdESkFHUEp4ZXNjR0JONHZjWWlaVnh6S3RyeHBnTk92ZjhiNGVEN3Z6eXhKQnhzWG51akk0bFJTYzhyMzVlTUk?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Apple debuts software updates amid Siri overhaul",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE90aUNtS0t6V0ZzOFBrVjJFZmNHVldtSnZIMG1rc3Q5cHhjeFpvMEhMNHdfM0VtQ2Y3SUpWOXpZcVJXdVBJOUlpeDN2N3FmWEZFd3JGclRJVWZzbEw3dm83VTJTaTA2eHRBYWIzYVBoYjg0WlpmNHcyeURwUQ?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "3a7bd3e2360a",
+      "slug": "apple"
+    },
+    {
       "keyword": "passive income",
       "count": 50,
-      "score": 181.43818388097023,
+      "score": 172.72915105468368,
       "proper": true,
       "niches": [
         "finance"
@@ -299,18 +338,18 @@
           "source": "gnews"
         },
         {
-          "title": "Here’s how much is needed in an ISA to earn £46,918 of passive income a year",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8tRlpQVWJHNGpfdDNQODJEM1NVU1NTNW9BZzdPQXBMUTJISlBHeTNMQTQwSmlEbnhFOElleU1XV04tbEdkZFlROTc5N2RQZ2twS3dHR1dkYnNpNmVPMlQxR243RURkaTZhdXRYb1pIWHNsdFc1ck84b1pPN04?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Here’s how much is needed in an ISA to earn £46,918 of passive income a year",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8tRlpQVWJHNGpfdDNQODJEM1NVU1NTNW9BZzdPQXBMUTJISlBHeTNMQTQwSmlEbnhFOElleU1XV04tbEdkZFlROTc5N2RQZ2twS3dHR1dkYnNpNmVPMlQxR243RURkaTZhdXRYb1pIWHNsdFc1ck84b1pPN04?oc=5",
+          "title": "How much is needed in an ISA to target a £1,046 monthly passive income in retirement?",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1fRXNjNTZzQ0d0MU1VUkJqMWZYVHZTVW9Nb0FqQ1c2R0l1eWRXaUtLbkZPbWFUNkxMVUZUSzl1VE1oWmxfOGs5VXYyQW1aM3BkOVlqVElhV1VMalJGUkhVeXpESGU3NHllTVBKdFB6c2tuWnlWRzE4Wi13bG1VQQ?oc=5",
           "source": "gnews"
         },
         {
           "title": "How much is needed in an ISA to target a £1,046 monthly passive income in retirement?",
           "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1fRXNjNTZzQ0d0MU1VUkJqMWZYVHZTVW9Nb0FqQ1c2R0l1eWRXaUtLbkZPbWFUNkxMVUZUSzl1VE1oWmxfOGs5VXYyQW1aM3BkOVlqVElhV1VMalJGUkhVeXpESGU3NHllTVBKdFB6c2tuWnlWRzE4Wi13bG1VQQ?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Here’s how much is needed in an ISA to earn £46,918 of passive income a year",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8tRlpQVWJHNGpfdDNQODJEM1NVU1NTNW9BZzdPQXBMUTJISlBHeTNMQTQwSmlEbnhFOElleU1XV04tbEdkZFlROTc5N2RQZ2twS3dHR1dkYnNpNmVPMlQxR243RURkaTZhdXRYb1pIWHNsdFc1ck84b1pPN04?oc=5",
           "source": "gnews"
         }
       ],
@@ -318,75 +357,32 @@
       "slug": "passive-income"
     },
     {
-      "keyword": "mechanical keyboard",
-      "count": 26,
-      "score": 143.19585307043187,
+      "keyword": "apple wwdc",
+      "count": 8,
+      "score": 99.98915168833072,
       "proper": true,
       "niches": [
-        "gear"
+        "software"
       ],
       "examples": [
         {
-          "title": "8BitDo’s NES-style Mechanical Keyboard with Super Buttons and Joystick is down to $70 today",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSFpyMWlGQmVlaVpiV1ZlbVEzamdPV0pmWTJvbzBPVFU3a1JjUzNCM25jRHRTY3d5MUZKa2VKLUF5YUtkakVXa0lzM0NZeS0tYlRSSzd4X0t5c2VTOFJVV3JOaEk3Q1JBWkJVdVFiVTB3bTd2ZU9FUU1pNEZIc2taZk9TbDJ6RWg2OHc?oc=5",
-          "source": "gnews"
+          "title": "Apple WWDC 2026 Livestream",
+          "url": "https://www.apple.com/apple-events/event-stream/",
+          "source": "hackernews"
         },
         {
-          "title": "8BitDo’s NES-style Mechanical Keyboard with Super Buttons and Joystick is down to $70 today",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSFpyMWlGQmVlaVpiV1ZlbVEzamdPV0pmWTJvbzBPVFU3a1JjUzNCM25jRHRTY3d5MUZKa2VKLUF5YUtkakVXa0lzM0NZeS0tYlRSSzd4X0t5c2VTOFJVV3JOaEk3Q1JBWkJVdVFiVTB3bTd2ZU9FUU1pNEZIc2taZk9TbDJ6RWg2OHc?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "8BitDo’s NES-style Mechanical Keyboard with Super Buttons and Joystick is down to $70 today",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSFpyMWlGQmVlaVpiV1ZlbVEzamdPV0pmWTJvbzBPVFU3a1JjUzNCM25jRHRTY3d5MUZKa2VKLUF5YUtkakVXa0lzM0NZeS0tYlRSSzd4X0t5c2VTOFJVV3JOaEk3Q1JBWkJVdVFiVTB3bTd2ZU9FUU1pNEZIc2taZk9TbDJ6RWg2OHc?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "This $80 Mechanical Keyboard Feels Like It Should Cost Twice As Much",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQaDgzMk5PTVFlZl8zMkJFLXl1b0NtaDZQRHF3dndLaThYc0J1eVdkMUNoaHdZdU5IaWJIdThyQVNGeWdBaFVKczJDNkI5Tmk3anBQeUgtQ202LTgyMmdjTTZpUFNqVFJJYVFUeTAyNUdJbDFPQWFGdVJwY0Z5MWJQZE8zZ0FBYmJkamdz?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "This $80 Mechanical Keyboard Feels Like It Should Cost Twice As Much",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQaDgzMk5PTVFlZl8zMkJFLXl1b0NtaDZQRHF3dndLaThYc0J1eVdkMUNoaHdZdU5IaWJIdThyQVNGeWdBaFVKczJDNkI5Tmk3anBQeUgtQ202LTgyMmdjTTZpUFNqVFJJYVFUeTAyNUdJbDFPQWFGdVJwY0Z5MWJQZE8zZ0FBYmJkamdz?oc=5",
-          "source": "gnews"
+          "title": "Apple WWDC 2026 Livestream",
+          "url": "https://www.apple.com/apple-events/event-stream/",
+          "source": "hackernews"
         }
       ],
-      "id": "e31f9fac7533",
-      "slug": "mechanical-keyboard"
-    },
-    {
-      "keyword": "smart gadgets",
-      "count": 11,
-      "score": 108.04039056165507,
-      "proper": true,
-      "niches": [
-        "gear"
-      ],
-      "examples": [
-        {
-          "title": "These are the Best Father’s Day Gifts for Golfers, From Premium Polos to Smart Gadgets",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9jSjJNNUc4NU1nMlJBN2Z4THZzaWZZd3FieV9LNG1KTmg2UFU4T09oM0R5WkZIRGc5b0FQQnV5SWlBajZIZVJ2NzdlR3hENnJiRFVsX3FCc2RnamdILTNpZElETHR5Zy1vQlRoSHlia3hhR3hEcWVEdEZ1NkxPQQ?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "These are the Best Father’s Day Gifts for Golfers, From Premium Polos to Smart Gadgets",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9jSjJNNUc4NU1nMlJBN2Z4THZzaWZZd3FieV9LNG1KTmg2UFU4T09oM0R5WkZIRGc5b0FQQnV5SWlBajZIZVJ2NzdlR3hENnJiRFVsX3FCc2RnamdILTNpZElETHR5Zy1vQlRoSHlia3hhR3hEcWVEdEZ1NkxPQQ?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "These are the Best Father’s Day Gifts for Golfers, From Premium Polos to Smart Gadgets",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9jSjJNNUc4NU1nMlJBN2Z4THZzaWZZd3FieV9LNG1KTmg2UFU4T09oM0R5WkZIRGc5b0FQQnV5SWlBajZIZVJ2NzdlR3hENnJiRFVsX3FCc2RnamdILTNpZElETHR5Zy1vQlRoSHlia3hhR3hEcWVEdEZ1NkxPQQ?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "7a082513ef62",
-      "slug": "smart-gadgets"
+      "id": "f83efa995f84",
+      "slug": "apple-wwdc"
     },
     {
       "keyword": "offline whoop",
       "count": 8,
-      "score": 108.02719786393612,
+      "score": 81.24928386313823,
       "proper": true,
       "niches": [
         "ai"
@@ -407,99 +403,9 @@
       "slug": "offline-whoop"
     },
     {
-      "keyword": "software",
-      "count": 11,
-      "score": 92.93451451230099,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "Zig is a modern alternative to C. It is a general purpose programming language and toolchain for maintaining robust, optimal, and reusable software, featuring built-in error handling and memory safety",
-          "url": "https://mastodon.social/@nixCraft/116715268816147389",
-          "source": "mastodon"
-        },
-        {
-          "title": "Accenture and the Carnegie Mellon University Software Engineering Institute Launch AI Adoption Maturity Model to Help Organizations Scale AI with Predictable Outcomes",
-          "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxPM2lsTG10emtvNVExQ2hlSWltcklxWkRpRXZXTm9UcWxLejNINXlQX2g2NEQ0MDhOSWt4SWxDLVVjemFQZ0NGamZ4Q3BHUDVsVEwyYVcwaDVOXy0yNXpYazIycjBOQ0MxdGNxZk4zeXV0ZzVQbFU4VW5McnNNcFZnWUQ5RzdaYWJxdWZxQ3dxOUtTaGZaWklGWVNROWV4UUo3NjgzcndNNnA3eENjR3BaM1VpR0p4dG14X2JfMnlYZWMxelc3aERKU2hQM0ZNeEx4NVY4ZFlJSl9ha0J0am5FV3JCamRRVHphbmdNQjhKUFNmSUZHRHRoUTJYclpIaFc5SFBraDl5ZGZXUnc2dXNJQTl5eVFqVUxfc0J5WWNxc3pjX3pMSWhDbngxbUhJWmhZ?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Software Deals Hit COVID-Era Lows Amid AI Disruption",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbmhpTFpJRENsOVdrRXhpZThRdEpVQ0FfU0xDVGVvSUkzdjF5UEVjYTVtbl9BWVBlU19CaDhhcjlKX3hDQ1c0dlo4cjQtSTFDLVQ3Wm9FaGd2M1dWRVJXa3dFZUtxZDM5bHBsMWhxSWFzQVZHVXpHT1RwYWppUl9PWnB3MmRuVGxGbFFuUjdsNU04NHNZVm9mMVpBOW05SUhYbTFnNmRJVU56ams?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Software Deals Hit COVID-Era Lows Amid AI Disruption",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbmhpTFpJRENsOVdrRXhpZThRdEpVQ0FfU0xDVGVvSUkzdjF5UEVjYTVtbl9BWVBlU19CaDhhcjlKX3hDQ1c0dlo4cjQtSTFDLVQ3Wm9FaGd2M1dWRVJXa3dFZUtxZDM5bHBsMWhxSWFzQVZHVXpHT1RwYWppUl9PWnB3MmRuVGxGbFFuUjdsNU04NHNZVm9mMVpBOW05SUhYbTFnNmRJVU56ams?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Software buyout deals collapse to lowest level since pandemic after AI rout",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQnQ5RzdOa1NkeTNPQnpnTmZXMlZHazRRTjFiQTdFcXFmdDYzamtQN256aWhWWFgyaGt2N28xRkhoVC1CZXZlUjhEOEZzZU16WlRyWWxiV3pTYVNMNW1SaGZZRnlFcDViMDV6OU4xakRJa2Y1bTRVbldtdkZEUENsSG4wMlo?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "35390f5453e8",
-      "slug": "software"
-    },
-    {
-      "keyword": "coding observability",
-      "count": 11,
-      "score": 85.15498763480204,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "New Relic Introduces AI Coding Observability to Bring Critical Visibility and Governance to AI Coding Assistants",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaktFQ1VoLVQwd0FpcEE5TjZoUzFrVHgxTFJRSklNcGh4aTFIcGNkNzkxR21oMnQ0XzJLT0FfNEFsR1F5OTVWNGVXd3Bnbl9lZnNFeGZ3MThaQnZJckUzMjFTUWljRGdnWDdMZWNfT1VmRmczZlFDenNCV2dQRFlfZnJGTDJ2MTFXRmlSMXpMSm1HaEJKZThKVTQ4UjR0OGwtYXRZUDNUdUZ1VVdSZWoxemZCeXE?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "New Relic Introduces AI Coding Observability to Bring Critical Visibility and Governance to AI Coding Assistants",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaktFQ1VoLVQwd0FpcEE5TjZoUzFrVHgxTFJRSklNcGh4aTFIcGNkNzkxR21oMnQ0XzJLT0FfNEFsR1F5OTVWNGVXd3Bnbl9lZnNFeGZ3MThaQnZJckUzMjFTUWljRGdnWDdMZWNfT1VmRmczZlFDenNCV2dQRFlfZnJGTDJ2MTFXRmlSMXpMSm1HaEJKZThKVTQ4UjR0OGwtYXRZUDNUdUZ1VVdSZWoxemZCeXE?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "New Relic Introduces AI Coding Observability to Bring Critical Visibility and Governance to AI Coding Assistants",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaktFQ1VoLVQwd0FpcEE5TjZoUzFrVHgxTFJRSklNcGh4aTFIcGNkNzkxR21oMnQ0XzJLT0FfNEFsR1F5OTVWNGVXd3Bnbl9lZnNFeGZ3MThaQnZJckUzMjFTUWljRGdnWDdMZWNfT1VmRmczZlFDenNCV2dQRFlfZnJGTDJ2MTFXRmlSMXpMSm1HaEJKZThKVTQ4UjR0OGwtYXRZUDNUdUZ1VVdSZWoxemZCeXE?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "ab8fc9add4c0",
-      "slug": "coding-observability"
-    },
-    {
-      "keyword": "apple",
-      "count": 10,
-      "score": 83.4615645852463,
-      "proper": true,
-      "niches": [
-        "ai",
-        "software"
-      ],
-      "examples": [
-        {
-          "title": "New report details Apple’s AI shakeup that led to iOS 27’s major upgrades",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPX2kyQVFqd21mTlVuWTZMdFo2QzZpNXNSeGNrMmtaWUp2OUhzVGlfNlgzWXdtb2lVOExiQjB4eVR4SF9JZVIyVWQ2TE1weE1DQVQ2WVVNS1V5azN2US14ajFvZTU1ZUR1V3FxRFJuNEFIVmMyVmJyd3dCYjNuSldrR2t2R1hwd2ZJUHZYN0hIQVhBdVR3VTlPUkl6YXRHLVYyRkt1SnZR?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Apple to make big announcement about popular iPhone feature at annual conference",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOb2VpZ0dFcDhTTm5na3pRNU82LWtNbmZLbmFKTzF0UWxHd2NQOUJsVlhGdkRZb1ZTYVVLa0Z0Y240RDVqdUhpNXBJUWJtSlBoQm9XZm5IaGZCVnlMRXlaZldHZlpGbDRyNXNnZlhYbWN2TlZYV05WYktCMlJwOXAwMmlhYzVjcWVYM3FyamVPdmFpMVlkX2RpbU9LTEJHSEpjWklOLVNWMk8wNVNSZlE2QVhjMnVGMDhD0gHMAUFVX3lxTE5aa01VMXNwMGlsR1ZuUHJ0dDFnUVM2cWxnbTd0ZkV6LWlBRjR1V2poZExRa1BuanVvM2hpc29BeGhhM1BpTm9NeFBNbFo3ZGtieVp5X3FueW01YmNVS0FPSkFIOVd4OXRiMlVjbkFiempzUTE5MW9Sc21tNEJKUHo4bXVzRjZoNFBUMFlhMnFlNlFTUmdYQ09mQ0JVWXFyRUlwYUUzNTRvaWZYcUFxLXFJaW9iX3ZUbFJ0TzlmNUotQmdRTU52dkVXcWVQVA?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "3a7bd3e2360a",
-      "slug": "apple"
-    },
-    {
       "keyword": "improvements",
       "count": 5,
-      "score": 77.69160380319204,
+      "score": 80.06520066955966,
       "proper": true,
       "niches": [
         "ai"
@@ -515,9 +421,65 @@
       "slug": "improvements"
     },
     {
+      "keyword": "affordability crisis",
+      "count": 11,
+      "score": 78.34258862401788,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "Affordability Crisis: Five smart side-hustle ideas to the rescue",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTlpoczY3VEVXQ2JHVVdwenZjRjJUS2xrNkZ1VS1BODZyZ0g1TkNjcnJfZldCa2xyenEyXzlKMzlDMDVCMXdvdFdlbmNhV0tqU3N6YkxkdjFzbFZVWEwzQl9ELWd6TlBacm1wOTloc0Z4a0ZKczBrY1N5MHNwUnFFZm1vVTNFeU15N0hIeFZCQWNqMlVIWnlHTXFlTEh0VEVVREhDaWpIWGptUG82QU9hZ0lod0NiWkNER3hxWQ?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Affordability Crisis: Five smart side-hustle ideas to the rescue",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTlpoczY3VEVXQ2JHVVdwenZjRjJUS2xrNkZ1VS1BODZyZ0g1TkNjcnJfZldCa2xyenEyXzlKMzlDMDVCMXdvdFdlbmNhV0tqU3N6YkxkdjFzbFZVWEwzQl9ELWd6TlBacm1wOTloc0Z4a0ZKczBrY1N5MHNwUnFFZm1vVTNFeU15N0hIeFZCQWNqMlVIWnlHTXFlTEh0VEVVREhDaWpIWGptUG82QU9hZ0lod0NiWkNER3hxWQ?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Affordability Crisis: Five smart side-hustle ideas to the rescue",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTlpoczY3VEVXQ2JHVVdwenZjRjJUS2xrNkZ1VS1BODZyZ0g1TkNjcnJfZldCa2xyenEyXzlKMzlDMDVCMXdvdFdlbmNhV0tqU3N6YkxkdjFzbFZVWEwzQl9ELWd6TlBacm1wOTloc0Z4a0ZKczBrY1N5MHNwUnFFZm1vVTNFeU15N0hIeFZCQWNqMlVIWnlHTXFlTEh0VEVVREhDaWpIWGptUG82QU9hZ0lod0NiWkNER3hxWQ?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "75c4782cb45d",
+      "slug": "affordability-crisis"
+    },
+    {
+      "keyword": "claude code",
+      "count": 11,
+      "score": 76.19456492067472,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "JimLiu/baoyu-design — Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/de",
+          "url": "https://github.com/JimLiu/baoyu-design",
+          "source": "github"
+        },
+        {
+          "title": "JimLiu/baoyu-design — Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/de",
+          "url": "https://github.com/JimLiu/baoyu-design",
+          "source": "github"
+        },
+        {
+          "title": "coding-bridge-agent 2026.6.8.7",
+          "url": "https://pypi.org/project/coding-bridge-agent/2026.6.8.7/",
+          "source": "pypi"
+        }
+      ],
+      "id": "a625159d18da",
+      "slug": "claude-code"
+    },
+    {
       "keyword": "agent skill",
       "count": 8,
-      "score": 71.58074533204186,
+      "score": 71.69456492067472,
       "proper": true,
       "niches": [
         "ai"
@@ -538,30 +500,7 @@
       "slug": "agent-skill"
     },
     {
-      "keyword": "claude code",
-      "count": 8,
-      "score": 71.58074533204186,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "JimLiu/baoyu-design — Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/de",
-          "url": "https://github.com/JimLiu/baoyu-design",
-          "source": "github"
-        },
-        {
-          "title": "JimLiu/baoyu-design — Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/de",
-          "url": "https://github.com/JimLiu/baoyu-design",
-          "source": "github"
-        }
-      ],
-      "id": "a625159d18da",
-      "slug": "claude-code"
-    },
-    {
-      "keyword": "maturity model",
+      "keyword": "tim cook",
       "count": 8,
       "score": 71.22053511274352,
       "proper": true,
@@ -570,77 +509,41 @@
       ],
       "examples": [
         {
-          "title": "Accenture and the Carnegie Mellon University Software Engineering Institute Launch AI Adoption Maturity Model to Help Organizations Scale AI with Predictable Outcomes",
-          "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxPM2lsTG10emtvNVExQ2hlSWltcklxWkRpRXZXTm9UcWxLejNINXlQX2g2NEQ0MDhOSWt4SWxDLVVjemFQZ0NGamZ4Q3BHUDVsVEwyYVcwaDVOXy0yNXpYazIycjBOQ0MxdGNxZk4zeXV0ZzVQbFU4VW5McnNNcFZnWUQ5RzdaYWJxdWZxQ3dxOUtTaGZaWklGWVNROWV4UUo3NjgzcndNNnA3eENjR3BaM1VpR0p4dG14X2JfMnlYZWMxelc3aERKU2hQM0ZNeEx4NVY4ZFlJSl9ha0J0am5FV3JCamRRVHphbmdNQjhKUFNmSUZHRHRoUTJYclpIaFc5SFBraDl5ZGZXUnc2dXNJQTl5eVFqVUxfc0J5WWNxc3pjX3pMSWhDbngxbUhJWmhZ?oc=5",
+          "title": "Apple's Tim Cook opens WWDC26 with keynote today with AI, software updates in focus",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTi1aalFienBzUkE1dkMxYVl4Rm80czRSYi1VVVpiZzJXTlgya0wzUS1mSWwzWkdReXRFdTU1S19rZlBkUWlPcXFJenBBMlpySWZIbHRoY3ByTnZ4bmpNZlJBcGFtWEtqVDhnVjVvRDFtS2UwNnQ3LUkwWGFyMlMxVWREWW5NMHcwYi1SaU5MelMtYkXSAZgBQVVfeXFMUFVRUVhDV0VEZTJJZjlGOHFZQ0VzUnhTLTM0WVR4ZmktRk1nVFFKVkhuV3hoeDdvQW95aWRFMTVxdkZZdXUxX29mQUlHdzBlZ2JTN3ZTWk5sRzY3QWU2NXlyakJjSGpzTFhDQlh2elZfRks5Yzc5SVFIT1JMZTZMNkV3X1NnX2J1aTh6cW81bHdKYVF0M2xSeWo?oc=5",
           "source": "gnews"
         },
         {
-          "title": "Accenture and the Carnegie Mellon University Software Engineering Institute Launch AI Adoption Maturity Model to Help Organizations Scale AI with Predictable Outcomes",
-          "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxPM2lsTG10emtvNVExQ2hlSWltcklxWkRpRXZXTm9UcWxLejNINXlQX2g2NEQ0MDhOSWt4SWxDLVVjemFQZ0NGamZ4Q3BHUDVsVEwyYVcwaDVOXy0yNXpYazIycjBOQ0MxdGNxZk4zeXV0ZzVQbFU4VW5McnNNcFZnWUQ5RzdaYWJxdWZxQ3dxOUtTaGZaWklGWVNROWV4UUo3NjgzcndNNnA3eENjR3BaM1VpR0p4dG14X2JfMnlYZWMxelc3aERKU2hQM0ZNeEx4NVY4ZFlJSl9ha0J0am5FV3JCamRRVHphbmdNQjhKUFNmSUZHRHRoUTJYclpIaFc5SFBraDl5ZGZXUnc2dXNJQTl5eVFqVUxfc0J5WWNxc3pjX3pMSWhDbngxbUhJWmhZ?oc=5",
+          "title": "Apple's Tim Cook opens WWDC26 with keynote today with AI, software updates in focus",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTi1aalFienBzUkE1dkMxYVl4Rm80czRSYi1VVVpiZzJXTlgya0wzUS1mSWwzWkdReXRFdTU1S19rZlBkUWlPcXFJenBBMlpySWZIbHRoY3ByTnZ4bmpNZlJBcGFtWEtqVDhnVjVvRDFtS2UwNnQ3LUkwWGFyMlMxVWREWW5NMHcwYi1SaU5MelMtYkXSAZgBQVVfeXFMUFVRUVhDV0VEZTJJZjlGOHFZQ0VzUnhTLTM0WVR4ZmktRk1nVFFKVkhuV3hoeDdvQW95aWRFMTVxdkZZdXUxX29mQUlHdzBlZ2JTN3ZTWk5sRzY3QWU2NXlyakJjSGpzTFhDQlh2elZfRks5Yzc5SVFIT1JMZTZMNkV3X1NnX2J1aTh6cW81bHdKYVF0M2xSeWo?oc=5",
           "source": "gnews"
         }
       ],
-      "id": "67c7d621fdac",
-      "slug": "maturity-model"
+      "id": "ace82f545301",
+      "slug": "tim-cook"
     },
     {
-      "keyword": "predictable outcomes",
+      "keyword": "ppt skill",
       "count": 8,
-      "score": 71.22053511274352,
+      "score": 58.58669783713951,
       "proper": true,
       "niches": [
         "ai"
       ],
       "examples": [
         {
-          "title": "Accenture and the Carnegie Mellon University Software Engineering Institute Launch AI Adoption Maturity Model to Help Organizations Scale AI with Predictable Outcomes",
-          "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxPM2lsTG10emtvNVExQ2hlSWltcklxWkRpRXZXTm9UcWxLejNINXlQX2g2NEQ0MDhOSWt4SWxDLVVjemFQZ0NGamZ4Q3BHUDVsVEwyYVcwaDVOXy0yNXpYazIycjBOQ0MxdGNxZk4zeXV0ZzVQbFU4VW5McnNNcFZnWUQ5RzdaYWJxdWZxQ3dxOUtTaGZaWklGWVNROWV4UUo3NjgzcndNNnA3eENjR3BaM1VpR0p4dG14X2JfMnlYZWMxelc3aERKU2hQM0ZNeEx4NVY4ZFlJSl9ha0J0am5FV3JCamRRVHphbmdNQjhKUFNmSUZHRHRoUTJYclpIaFc5SFBraDl5ZGZXUnc2dXNJQTl5eVFqVUxfc0J5WWNxc3pjX3pMSWhDbngxbUhJWmhZ?oc=5",
-          "source": "gnews"
+          "title": "GordenSun/GordenSuperPPTSkills — AI PPT赛道终结者，史上最最最强 PPT Skill！！！  使用GPT生成豪华的图片格式PPT，然后转换为完全可编辑的PPTX文件。",
+          "url": "https://github.com/GordenSun/GordenSuperPPTSkills",
+          "source": "github"
         },
         {
-          "title": "Accenture and the Carnegie Mellon University Software Engineering Institute Launch AI Adoption Maturity Model to Help Organizations Scale AI with Predictable Outcomes",
-          "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxPM2lsTG10emtvNVExQ2hlSWltcklxWkRpRXZXTm9UcWxLejNINXlQX2g2NEQ0MDhOSWt4SWxDLVVjemFQZ0NGamZ4Q3BHUDVsVEwyYVcwaDVOXy0yNXpYazIycjBOQ0MxdGNxZk4zeXV0ZzVQbFU4VW5McnNNcFZnWUQ5RzdaYWJxdWZxQ3dxOUtTaGZaWklGWVNROWV4UUo3NjgzcndNNnA3eENjR3BaM1VpR0p4dG14X2JfMnlYZWMxelc3aERKU2hQM0ZNeEx4NVY4ZFlJSl9ha0J0am5FV3JCamRRVHphbmdNQjhKUFNmSUZHRHRoUTJYclpIaFc5SFBraDl5ZGZXUnc2dXNJQTl5eVFqVUxfc0J5WWNxc3pjX3pMSWhDbngxbUhJWmhZ?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "becdb180555b",
-      "slug": "predictable-outcomes"
-    },
-    {
-      "keyword": "noopapp",
-      "count": 5,
-      "score": 67.51699866496007,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "NoopApp/noop — Offline WHOOP companion — pair your strap over Bluetooth, keep all data on your own device. No cloud, no account, no subscription.",
-          "url": "https://github.com/NoopApp/noop",
+          "title": "GordenSun/GordenSuperPPTSkills — AI PPT赛道终结者，史上最最最强 PPT Skill！！！  使用GPT生成豪华的图片格式PPT，然后转换为完全可编辑的PPTX文件。",
+          "url": "https://github.com/GordenSun/GordenSuperPPTSkills",
           "source": "github"
         }
       ],
-      "id": "d8c8c025bef2",
-      "slug": "noopapp"
-    },
-    {
-      "keyword": "uk ministers",
-      "count": 5,
-      "score": 65.69383027124033,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "Scanning tech would turn every phone into a surveillance device ⚠️UK Ministers may claim this is to stop children sharing intimate images.But it means forcing every adult through a digital ID checkpoi",
-          "url": "https://social.openrightsgroup.org/@openrightsgroup/116714469329596119",
-          "source": "mastodon"
-        }
-      ],
-      "id": "16d62cbeb631",
-      "slug": "uk-ministers"
+      "id": "932a9c636fc9",
+      "slug": "ppt-skill"
     },
     {
       "keyword": "anthropic api",
@@ -664,13 +567,148 @@
       ],
       "id": "22c0b2d62656",
       "slug": "anthropic-api"
+    },
+    {
+      "keyword": "responses api",
+      "count": 8,
+      "score": 58.38812947902843,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "ForgetMeAI/FreeDeepseekAPI — Локальный API-прокси для DeepSeek Web Chat с поддержкой OpenAI/Anthropic API, streaming, tool calling, Responses API и Open WebUI",
+          "url": "https://github.com/ForgetMeAI/FreeDeepseekAPI",
+          "source": "github"
+        },
+        {
+          "title": "ForgetMeAI/FreeDeepseekAPI — Локальный API-прокси для DeepSeek Web Chat с поддержкой OpenAI/Anthropic API, streaming, tool calling, Responses API и Open WebUI",
+          "url": "https://github.com/ForgetMeAI/FreeDeepseekAPI",
+          "source": "github"
+        }
+      ],
+      "id": "504a8b5cb7ba",
+      "slug": "responses-api"
+    },
+    {
+      "keyword": "open webui",
+      "count": 8,
+      "score": 58.38812947902843,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "ForgetMeAI/FreeDeepseekAPI — Локальный API-прокси для DeepSeek Web Chat с поддержкой OpenAI/Anthropic API, streaming, tool calling, Responses API и Open WebUI",
+          "url": "https://github.com/ForgetMeAI/FreeDeepseekAPI",
+          "source": "github"
+        },
+        {
+          "title": "ForgetMeAI/FreeDeepseekAPI — Локальный API-прокси для DeepSeek Web Chat с поддержкой OpenAI/Anthropic API, streaming, tool calling, Responses API и Open WebUI",
+          "url": "https://github.com/ForgetMeAI/FreeDeepseekAPI",
+          "source": "github"
+        }
+      ],
+      "id": "c636f1616b8a",
+      "slug": "open-webui"
+    },
+    {
+      "keyword": "maturity model",
+      "count": 8,
+      "score": 56.976428090194815,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "Accenture and the Carnegie Mellon University Software Engineering Institute Launch AI Adoption Maturity Model to Help Organizations Scale AI with Predictable Outcomes",
+          "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxPM2lsTG10emtvNVExQ2hlSWltcklxWkRpRXZXTm9UcWxLejNINXlQX2g2NEQ0MDhOSWt4SWxDLVVjemFQZ0NGamZ4Q3BHUDVsVEwyYVcwaDVOXy0yNXpYazIycjBOQ0MxdGNxZk4zeXV0ZzVQbFU4VW5McnNNcFZnWUQ5RzdaYWJxdWZxQ3dxOUtTaGZaWklGWVNROWV4UUo3NjgzcndNNnA3eENjR3BaM1VpR0p4dG14X2JfMnlYZWMxelc3aERKU2hQM0ZNeEx4NVY4ZFlJSl9ha0J0am5FV3JCamRRVHphbmdNQjhKUFNmSUZHRHRoUTJYclpIaFc5SFBraDl5ZGZXUnc2dXNJQTl5eVFqVUxfc0J5WWNxc3pjX3pMSWhDbngxbUhJWmhZ?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Accenture and the Carnegie Mellon University Software Engineering Institute Launch AI Adoption Maturity Model to Help Organizations Scale AI with Predictable Outcomes",
+          "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxPM2lsTG10emtvNVExQ2hlSWltcklxWkRpRXZXTm9UcWxLejNINXlQX2g2NEQ0MDhOSWt4SWxDLVVjemFQZ0NGamZ4Q3BHUDVsVEwyYVcwaDVOXy0yNXpYazIycjBOQ0MxdGNxZk4zeXV0ZzVQbFU4VW5McnNNcFZnWUQ5RzdaYWJxdWZxQ3dxOUtTaGZaWklGWVNROWV4UUo3NjgzcndNNnA3eENjR3BaM1VpR0p4dG14X2JfMnlYZWMxelc3aERKU2hQM0ZNeEx4NVY4ZFlJSl9ha0J0am5FV3JCamRRVHphbmdNQjhKUFNmSUZHRHRoUTJYclpIaFc5SFBraDl5ZGZXUnc2dXNJQTl5eVFqVUxfc0J5WWNxc3pjX3pMSWhDbngxbUhJWmhZ?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "67c7d621fdac",
+      "slug": "maturity-model"
+    },
+    {
+      "keyword": "predictable outcomes",
+      "count": 8,
+      "score": 56.976428090194815,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "Accenture and the Carnegie Mellon University Software Engineering Institute Launch AI Adoption Maturity Model to Help Organizations Scale AI with Predictable Outcomes",
+          "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxPM2lsTG10emtvNVExQ2hlSWltcklxWkRpRXZXTm9UcWxLejNINXlQX2g2NEQ0MDhOSWt4SWxDLVVjemFQZ0NGamZ4Q3BHUDVsVEwyYVcwaDVOXy0yNXpYazIycjBOQ0MxdGNxZk4zeXV0ZzVQbFU4VW5McnNNcFZnWUQ5RzdaYWJxdWZxQ3dxOUtTaGZaWklGWVNROWV4UUo3NjgzcndNNnA3eENjR3BaM1VpR0p4dG14X2JfMnlYZWMxelc3aERKU2hQM0ZNeEx4NVY4ZFlJSl9ha0J0am5FV3JCamRRVHphbmdNQjhKUFNmSUZHRHRoUTJYclpIaFc5SFBraDl5ZGZXUnc2dXNJQTl5eVFqVUxfc0J5WWNxc3pjX3pMSWhDbngxbUhJWmhZ?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Accenture and the Carnegie Mellon University Software Engineering Institute Launch AI Adoption Maturity Model to Help Organizations Scale AI with Predictable Outcomes",
+          "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxPM2lsTG10emtvNVExQ2hlSWltcklxWkRpRXZXTm9UcWxLejNINXlQX2g2NEQ0MDhOSWt4SWxDLVVjemFQZ0NGamZ4Q3BHUDVsVEwyYVcwaDVOXy0yNXpYazIycjBOQ0MxdGNxZk4zeXV0ZzVQbFU4VW5McnNNcFZnWUQ5RzdaYWJxdWZxQ3dxOUtTaGZaWklGWVNROWV4UUo3NjgzcndNNnA3eENjR3BaM1VpR0p4dG14X2JfMnlYZWMxelc3aERKU2hQM0ZNeEx4NVY4ZFlJSl9ha0J0am5FV3JCamRRVHphbmdNQjhKUFNmSUZHRHRoUTJYclpIaFc5SFBraDl5ZGZXUnc2dXNJQTl5eVFqVUxfc0J5WWNxc3pjX3pMSWhDbngxbUhJWmhZ?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "becdb180555b",
+      "slug": "predictable-outcomes"
     }
   ],
   "opportunities": [
     {
+      "keyword": "apple",
+      "count": 25,
+      "score": 236.11941861087246,
+      "proper": true,
+      "niches": [
+        "ai",
+        "software"
+      ],
+      "examples": [
+        {
+          "title": "Apple's including a lot of dead air during its Siri demos to prove this is running on a real device this time 😂",
+          "url": "https://mastodon.social/@stroughtonsmith/116715724378113132",
+          "source": "mastodon"
+        },
+        {
+          "title": "So far so good: Apple is talking about fixing their own shit, not giving us shit to fix.",
+          "url": "https://mastodon.social/@chockenberry/116715619840693606",
+          "source": "mastodon"
+        },
+        {
+          "title": "Apple's Tim Cook opens WWDC26 with keynote today with AI, software updates in focus",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTi1aalFienBzUkE1dkMxYVl4Rm80czRSYi1VVVpiZzJXTlgya0wzUS1mSWwzWkdReXRFdTU1S19rZlBkUWlPcXFJenBBMlpySWZIbHRoY3ByTnZ4bmpNZlJBcGFtWEtqVDhnVjVvRDFtS2UwNnQ3LUkwWGFyMlMxVWREWW5NMHcwYi1SaU5MelMtYkXSAZgBQVVfeXFMUFVRUVhDV0VEZTJJZjlGOHFZQ0VzUnhTLTM0WVR4ZmktRk1nVFFKVkhuV3hoeDdvQW95aWRFMTVxdkZZdXUxX29mQUlHdzBlZ2JTN3ZTWk5sRzY3QWU2NXlyakJjSGpzTFhDQlh2elZfRks5Yzc5SVFIT1JMZTZMNkV3X1NnX2J1aTh6cW81bHdKYVF0M2xSeWo?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Apple's Image Playground Gets 'Photorealistic' Capabilities With New AI",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONHQwbUZNdWhWTFRVY1JkMzJCakQ5UUVuWWgtSFc0c3NIbnpTWjVOd3ZLVUt0X1BoX3ZpTGxDa2l0NzIzZXpHMWNmbS1PRVdLNS02aDdESkFHUEp4ZXNjR0JONHZjWWlaVnh6S3RyeHBnTk92ZjhiNGVEN3Z6eXhKQnhzWG51akk0bFJTYzhyMzVlTUk?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Apple debuts software updates amid Siri overhaul",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE90aUNtS0t6V0ZzOFBrVjJFZmNHVldtSnZIMG1rc3Q5cHhjeFpvMEhMNHdfM0VtQ2Y3SUpWOXpZcVJXdVBJOUlpeDN2N3FmWEZFd3JGclRJVWZzbEw3dm83VTJTaTA2eHRBYWIzYVBoYjg0WlpmNHcyeURwUQ?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "3a7bd3e2360a",
+      "slug": "apple",
+      "opportunity": {
+        "type": "affiliate",
+        "recommended": "Write SEO comparison/roundup article with affiliate links."
+      }
+    },
+    {
       "keyword": "passive income",
       "count": 50,
-      "score": 181.43818388097023,
+      "score": 172.72915105468368,
       "proper": true,
       "niches": [
         "finance"
@@ -687,18 +725,18 @@
           "source": "gnews"
         },
         {
-          "title": "Here’s how much is needed in an ISA to earn £46,918 of passive income a year",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8tRlpQVWJHNGpfdDNQODJEM1NVU1NTNW9BZzdPQXBMUTJISlBHeTNMQTQwSmlEbnhFOElleU1XV04tbEdkZFlROTc5N2RQZ2twS3dHR1dkYnNpNmVPMlQxR243RURkaTZhdXRYb1pIWHNsdFc1ck84b1pPN04?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Here’s how much is needed in an ISA to earn £46,918 of passive income a year",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8tRlpQVWJHNGpfdDNQODJEM1NVU1NTNW9BZzdPQXBMUTJISlBHeTNMQTQwSmlEbnhFOElleU1XV04tbEdkZFlROTc5N2RQZ2twS3dHR1dkYnNpNmVPMlQxR243RURkaTZhdXRYb1pIWHNsdFc1ck84b1pPN04?oc=5",
+          "title": "How much is needed in an ISA to target a £1,046 monthly passive income in retirement?",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1fRXNjNTZzQ0d0MU1VUkJqMWZYVHZTVW9Nb0FqQ1c2R0l1eWRXaUtLbkZPbWFUNkxMVUZUSzl1VE1oWmxfOGs5VXYyQW1aM3BkOVlqVElhV1VMalJGUkhVeXpESGU3NHllTVBKdFB6c2tuWnlWRzE4Wi13bG1VQQ?oc=5",
           "source": "gnews"
         },
         {
           "title": "How much is needed in an ISA to target a £1,046 monthly passive income in retirement?",
           "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1fRXNjNTZzQ0d0MU1VUkJqMWZYVHZTVW9Nb0FqQ1c2R0l1eWRXaUtLbkZPbWFUNkxMVUZUSzl1VE1oWmxfOGs5VXYyQW1aM3BkOVlqVElhV1VMalJGUkhVeXpESGU3NHllTVBKdFB6c2tuWnlWRzE4Wi13bG1VQQ?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Here’s how much is needed in an ISA to earn £46,918 of passive income a year",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8tRlpQVWJHNGpfdDNQODJEM1NVU1NTNW9BZzdPQXBMUTJISlBHeTNMQTQwSmlEbnhFOElleU1XV04tbEdkZFlROTc5N2RQZ2twS3dHR1dkYnNpNmVPMlQxR243RURkaTZhdXRYb1pIWHNsdFc1ck84b1pPN04?oc=5",
           "source": "gnews"
         }
       ],
@@ -710,83 +748,36 @@
       }
     },
     {
-      "keyword": "mechanical keyboard",
-      "count": 26,
-      "score": 143.19585307043187,
+      "keyword": "apple wwdc",
+      "count": 8,
+      "score": 99.98915168833072,
       "proper": true,
       "niches": [
-        "gear"
+        "software"
       ],
       "examples": [
         {
-          "title": "8BitDo’s NES-style Mechanical Keyboard with Super Buttons and Joystick is down to $70 today",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSFpyMWlGQmVlaVpiV1ZlbVEzamdPV0pmWTJvbzBPVFU3a1JjUzNCM25jRHRTY3d5MUZKa2VKLUF5YUtkakVXa0lzM0NZeS0tYlRSSzd4X0t5c2VTOFJVV3JOaEk3Q1JBWkJVdVFiVTB3bTd2ZU9FUU1pNEZIc2taZk9TbDJ6RWg2OHc?oc=5",
-          "source": "gnews"
+          "title": "Apple WWDC 2026 Livestream",
+          "url": "https://www.apple.com/apple-events/event-stream/",
+          "source": "hackernews"
         },
         {
-          "title": "8BitDo’s NES-style Mechanical Keyboard with Super Buttons and Joystick is down to $70 today",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSFpyMWlGQmVlaVpiV1ZlbVEzamdPV0pmWTJvbzBPVFU3a1JjUzNCM25jRHRTY3d5MUZKa2VKLUF5YUtkakVXa0lzM0NZeS0tYlRSSzd4X0t5c2VTOFJVV3JOaEk3Q1JBWkJVdVFiVTB3bTd2ZU9FUU1pNEZIc2taZk9TbDJ6RWg2OHc?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "8BitDo’s NES-style Mechanical Keyboard with Super Buttons and Joystick is down to $70 today",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSFpyMWlGQmVlaVpiV1ZlbVEzamdPV0pmWTJvbzBPVFU3a1JjUzNCM25jRHRTY3d5MUZKa2VKLUF5YUtkakVXa0lzM0NZeS0tYlRSSzd4X0t5c2VTOFJVV3JOaEk3Q1JBWkJVdVFiVTB3bTd2ZU9FUU1pNEZIc2taZk9TbDJ6RWg2OHc?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "This $80 Mechanical Keyboard Feels Like It Should Cost Twice As Much",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQaDgzMk5PTVFlZl8zMkJFLXl1b0NtaDZQRHF3dndLaThYc0J1eVdkMUNoaHdZdU5IaWJIdThyQVNGeWdBaFVKczJDNkI5Tmk3anBQeUgtQ202LTgyMmdjTTZpUFNqVFJJYVFUeTAyNUdJbDFPQWFGdVJwY0Z5MWJQZE8zZ0FBYmJkamdz?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "This $80 Mechanical Keyboard Feels Like It Should Cost Twice As Much",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQaDgzMk5PTVFlZl8zMkJFLXl1b0NtaDZQRHF3dndLaThYc0J1eVdkMUNoaHdZdU5IaWJIdThyQVNGeWdBaFVKczJDNkI5Tmk3anBQeUgtQ202LTgyMmdjTTZpUFNqVFJJYVFUeTAyNUdJbDFPQWFGdVJwY0Z5MWJQZE8zZ0FBYmJkamdz?oc=5",
-          "source": "gnews"
+          "title": "Apple WWDC 2026 Livestream",
+          "url": "https://www.apple.com/apple-events/event-stream/",
+          "source": "hackernews"
         }
       ],
-      "id": "e31f9fac7533",
-      "slug": "mechanical-keyboard",
+      "id": "f83efa995f84",
+      "slug": "apple-wwdc",
       "opportunity": {
-        "type": "niche-content",
-        "recommended": "Publish niche guide for \"gear\"; bundle into digital product later."
-      }
-    },
-    {
-      "keyword": "smart gadgets",
-      "count": 11,
-      "score": 108.04039056165507,
-      "proper": true,
-      "niches": [
-        "gear"
-      ],
-      "examples": [
-        {
-          "title": "These are the Best Father’s Day Gifts for Golfers, From Premium Polos to Smart Gadgets",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9jSjJNNUc4NU1nMlJBN2Z4THZzaWZZd3FieV9LNG1KTmg2UFU4T09oM0R5WkZIRGc5b0FQQnV5SWlBajZIZVJ2NzdlR3hENnJiRFVsX3FCc2RnamdILTNpZElETHR5Zy1vQlRoSHlia3hhR3hEcWVEdEZ1NkxPQQ?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "These are the Best Father’s Day Gifts for Golfers, From Premium Polos to Smart Gadgets",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9jSjJNNUc4NU1nMlJBN2Z4THZzaWZZd3FieV9LNG1KTmg2UFU4T09oM0R5WkZIRGc5b0FQQnV5SWlBajZIZVJ2NzdlR3hENnJiRFVsX3FCc2RnamdILTNpZElETHR5Zy1vQlRoSHlia3hhR3hEcWVEdEZ1NkxPQQ?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "These are the Best Father’s Day Gifts for Golfers, From Premium Polos to Smart Gadgets",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9jSjJNNUc4NU1nMlJBN2Z4THZzaWZZd3FieV9LNG1KTmg2UFU4T09oM0R5WkZIRGc5b0FQQnV5SWlBajZIZVJ2NzdlR3hENnJiRFVsX3FCc2RnamdILTNpZElETHR5Zy1vQlRoSHlia3hhR3hEcWVEdEZ1NkxPQQ?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "7a082513ef62",
-      "slug": "smart-gadgets",
-      "opportunity": {
-        "type": "niche-content",
-        "recommended": "Publish niche guide for \"gear\"; bundle into digital product later."
+        "type": "affiliate",
+        "recommended": "Write SEO comparison/roundup article with affiliate links."
       }
     },
     {
       "keyword": "offline whoop",
       "count": 8,
-      "score": 108.02719786393612,
+      "score": 81.24928386313823,
       "proper": true,
       "niches": [
         "ai"
@@ -811,111 +802,9 @@
       }
     },
     {
-      "keyword": "software",
-      "count": 11,
-      "score": 92.93451451230099,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "Zig is a modern alternative to C. It is a general purpose programming language and toolchain for maintaining robust, optimal, and reusable software, featuring built-in error handling and memory safety",
-          "url": "https://mastodon.social/@nixCraft/116715268816147389",
-          "source": "mastodon"
-        },
-        {
-          "title": "Accenture and the Carnegie Mellon University Software Engineering Institute Launch AI Adoption Maturity Model to Help Organizations Scale AI with Predictable Outcomes",
-          "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxPM2lsTG10emtvNVExQ2hlSWltcklxWkRpRXZXTm9UcWxLejNINXlQX2g2NEQ0MDhOSWt4SWxDLVVjemFQZ0NGamZ4Q3BHUDVsVEwyYVcwaDVOXy0yNXpYazIycjBOQ0MxdGNxZk4zeXV0ZzVQbFU4VW5McnNNcFZnWUQ5RzdaYWJxdWZxQ3dxOUtTaGZaWklGWVNROWV4UUo3NjgzcndNNnA3eENjR3BaM1VpR0p4dG14X2JfMnlYZWMxelc3aERKU2hQM0ZNeEx4NVY4ZFlJSl9ha0J0am5FV3JCamRRVHphbmdNQjhKUFNmSUZHRHRoUTJYclpIaFc5SFBraDl5ZGZXUnc2dXNJQTl5eVFqVUxfc0J5WWNxc3pjX3pMSWhDbngxbUhJWmhZ?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Software Deals Hit COVID-Era Lows Amid AI Disruption",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbmhpTFpJRENsOVdrRXhpZThRdEpVQ0FfU0xDVGVvSUkzdjF5UEVjYTVtbl9BWVBlU19CaDhhcjlKX3hDQ1c0dlo4cjQtSTFDLVQ3Wm9FaGd2M1dWRVJXa3dFZUtxZDM5bHBsMWhxSWFzQVZHVXpHT1RwYWppUl9PWnB3MmRuVGxGbFFuUjdsNU04NHNZVm9mMVpBOW05SUhYbTFnNmRJVU56ams?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Software Deals Hit COVID-Era Lows Amid AI Disruption",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbmhpTFpJRENsOVdrRXhpZThRdEpVQ0FfU0xDVGVvSUkzdjF5UEVjYTVtbl9BWVBlU19CaDhhcjlKX3hDQ1c0dlo4cjQtSTFDLVQ3Wm9FaGd2M1dWRVJXa3dFZUtxZDM5bHBsMWhxSWFzQVZHVXpHT1RwYWppUl9PWnB3MmRuVGxGbFFuUjdsNU04NHNZVm9mMVpBOW05SUhYbTFnNmRJVU56ams?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Software buyout deals collapse to lowest level since pandemic after AI rout",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQnQ5RzdOa1NkeTNPQnpnTmZXMlZHazRRTjFiQTdFcXFmdDYzamtQN256aWhWWFgyaGt2N28xRkhoVC1CZXZlUjhEOEZzZU16WlRyWWxiV3pTYVNMNW1SaGZZRnlFcDViMDV6OU4xakRJa2Y1bTRVbldtdkZEUENsSG4wMlo?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "35390f5453e8",
-      "slug": "software",
-      "opportunity": {
-        "type": "niche-content",
-        "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
-      }
-    },
-    {
-      "keyword": "coding observability",
-      "count": 11,
-      "score": 85.15498763480204,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "New Relic Introduces AI Coding Observability to Bring Critical Visibility and Governance to AI Coding Assistants",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaktFQ1VoLVQwd0FpcEE5TjZoUzFrVHgxTFJRSklNcGh4aTFIcGNkNzkxR21oMnQ0XzJLT0FfNEFsR1F5OTVWNGVXd3Bnbl9lZnNFeGZ3MThaQnZJckUzMjFTUWljRGdnWDdMZWNfT1VmRmczZlFDenNCV2dQRFlfZnJGTDJ2MTFXRmlSMXpMSm1HaEJKZThKVTQ4UjR0OGwtYXRZUDNUdUZ1VVdSZWoxemZCeXE?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "New Relic Introduces AI Coding Observability to Bring Critical Visibility and Governance to AI Coding Assistants",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaktFQ1VoLVQwd0FpcEE5TjZoUzFrVHgxTFJRSklNcGh4aTFIcGNkNzkxR21oMnQ0XzJLT0FfNEFsR1F5OTVWNGVXd3Bnbl9lZnNFeGZ3MThaQnZJckUzMjFTUWljRGdnWDdMZWNfT1VmRmczZlFDenNCV2dQRFlfZnJGTDJ2MTFXRmlSMXpMSm1HaEJKZThKVTQ4UjR0OGwtYXRZUDNUdUZ1VVdSZWoxemZCeXE?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "New Relic Introduces AI Coding Observability to Bring Critical Visibility and Governance to AI Coding Assistants",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaktFQ1VoLVQwd0FpcEE5TjZoUzFrVHgxTFJRSklNcGh4aTFIcGNkNzkxR21oMnQ0XzJLT0FfNEFsR1F5OTVWNGVXd3Bnbl9lZnNFeGZ3MThaQnZJckUzMjFTUWljRGdnWDdMZWNfT1VmRmczZlFDenNCV2dQRFlfZnJGTDJ2MTFXRmlSMXpMSm1HaEJKZThKVTQ4UjR0OGwtYXRZUDNUdUZ1VVdSZWoxemZCeXE?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "ab8fc9add4c0",
-      "slug": "coding-observability",
-      "opportunity": {
-        "type": "niche-content",
-        "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
-      }
-    },
-    {
-      "keyword": "apple",
-      "count": 10,
-      "score": 83.4615645852463,
-      "proper": true,
-      "niches": [
-        "ai",
-        "software"
-      ],
-      "examples": [
-        {
-          "title": "New report details Apple’s AI shakeup that led to iOS 27’s major upgrades",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPX2kyQVFqd21mTlVuWTZMdFo2QzZpNXNSeGNrMmtaWUp2OUhzVGlfNlgzWXdtb2lVOExiQjB4eVR4SF9JZVIyVWQ2TE1weE1DQVQ2WVVNS1V5azN2US14ajFvZTU1ZUR1V3FxRFJuNEFIVmMyVmJyd3dCYjNuSldrR2t2R1hwd2ZJUHZYN0hIQVhBdVR3VTlPUkl6YXRHLVYyRkt1SnZR?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Apple to make big announcement about popular iPhone feature at annual conference",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOb2VpZ0dFcDhTTm5na3pRNU82LWtNbmZLbmFKTzF0UWxHd2NQOUJsVlhGdkRZb1ZTYVVLa0Z0Y240RDVqdUhpNXBJUWJtSlBoQm9XZm5IaGZCVnlMRXlaZldHZlpGbDRyNXNnZlhYbWN2TlZYV05WYktCMlJwOXAwMmlhYzVjcWVYM3FyamVPdmFpMVlkX2RpbU9LTEJHSEpjWklOLVNWMk8wNVNSZlE2QVhjMnVGMDhD0gHMAUFVX3lxTE5aa01VMXNwMGlsR1ZuUHJ0dDFnUVM2cWxnbTd0ZkV6LWlBRjR1V2poZExRa1BuanVvM2hpc29BeGhhM1BpTm9NeFBNbFo3ZGtieVp5X3FueW01YmNVS0FPSkFIOVd4OXRiMlVjbkFiempzUTE5MW9Sc21tNEJKUHo4bXVzRjZoNFBUMFlhMnFlNlFTUmdYQ09mQ0JVWXFyRUlwYUUzNTRvaWZYcUFxLXFJaW9iX3ZUbFJ0TzlmNUotQmdRTU52dkVXcWVQVA?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "3a7bd3e2360a",
-      "slug": "apple",
-      "opportunity": {
-        "type": "affiliate",
-        "recommended": "Write SEO comparison/roundup article with affiliate links."
-      }
-    },
-    {
       "keyword": "improvements",
       "count": 5,
-      "score": 77.69160380319204,
+      "score": 80.06520066955966,
       "proper": true,
       "niches": [
         "ai"
@@ -932,6 +821,97 @@
       "opportunity": {
         "type": "affiliate",
         "recommended": "Write SEO comparison/roundup article with affiliate links."
+      }
+    },
+    {
+      "keyword": "affordability crisis",
+      "count": 11,
+      "score": 78.34258862401788,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "Affordability Crisis: Five smart side-hustle ideas to the rescue",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTlpoczY3VEVXQ2JHVVdwenZjRjJUS2xrNkZ1VS1BODZyZ0g1TkNjcnJfZldCa2xyenEyXzlKMzlDMDVCMXdvdFdlbmNhV0tqU3N6YkxkdjFzbFZVWEwzQl9ELWd6TlBacm1wOTloc0Z4a0ZKczBrY1N5MHNwUnFFZm1vVTNFeU15N0hIeFZCQWNqMlVIWnlHTXFlTEh0VEVVREhDaWpIWGptUG82QU9hZ0lod0NiWkNER3hxWQ?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Affordability Crisis: Five smart side-hustle ideas to the rescue",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTlpoczY3VEVXQ2JHVVdwenZjRjJUS2xrNkZ1VS1BODZyZ0g1TkNjcnJfZldCa2xyenEyXzlKMzlDMDVCMXdvdFdlbmNhV0tqU3N6YkxkdjFzbFZVWEwzQl9ELWd6TlBacm1wOTloc0Z4a0ZKczBrY1N5MHNwUnFFZm1vVTNFeU15N0hIeFZCQWNqMlVIWnlHTXFlTEh0VEVVREhDaWpIWGptUG82QU9hZ0lod0NiWkNER3hxWQ?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Affordability Crisis: Five smart side-hustle ideas to the rescue",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTlpoczY3VEVXQ2JHVVdwenZjRjJUS2xrNkZ1VS1BODZyZ0g1TkNjcnJfZldCa2xyenEyXzlKMzlDMDVCMXdvdFdlbmNhV0tqU3N6YkxkdjFzbFZVWEwzQl9ELWd6TlBacm1wOTloc0Z4a0ZKczBrY1N5MHNwUnFFZm1vVTNFeU15N0hIeFZCQWNqMlVIWnlHTXFlTEh0VEVVREhDaWpIWGptUG82QU9hZ0lod0NiWkNER3hxWQ?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "75c4782cb45d",
+      "slug": "affordability-crisis",
+      "opportunity": {
+        "type": "niche-content",
+        "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
+      }
+    },
+    {
+      "keyword": "claude code",
+      "count": 11,
+      "score": 76.19456492067472,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "JimLiu/baoyu-design — Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/de",
+          "url": "https://github.com/JimLiu/baoyu-design",
+          "source": "github"
+        },
+        {
+          "title": "JimLiu/baoyu-design — Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/de",
+          "url": "https://github.com/JimLiu/baoyu-design",
+          "source": "github"
+        },
+        {
+          "title": "coding-bridge-agent 2026.6.8.7",
+          "url": "https://pypi.org/project/coding-bridge-agent/2026.6.8.7/",
+          "source": "pypi"
+        }
+      ],
+      "id": "a625159d18da",
+      "slug": "claude-code",
+      "opportunity": {
+        "type": "tooling",
+        "recommended": "Build / list AI tools; monetize via affiliate links + lead magnet."
+      }
+    },
+    {
+      "keyword": "agent skill",
+      "count": 8,
+      "score": 71.69456492067472,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "JimLiu/baoyu-design — Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/de",
+          "url": "https://github.com/JimLiu/baoyu-design",
+          "source": "github"
+        },
+        {
+          "title": "JimLiu/baoyu-design — Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/de",
+          "url": "https://github.com/JimLiu/baoyu-design",
+          "source": "github"
+        }
+      ],
+      "id": "bbe4337ea159",
+      "slug": "agent-skill",
+      "opportunity": {
+        "type": "niche-content",
+        "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
       }
     }
   ]
