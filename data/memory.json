@@ -274,8 +274,8 @@
     },
     "software": {
       "firstSeen": "2026-05-28T20:13:05.178Z",
-      "lastSeen": "2026-06-02T22:54:03.876Z",
-      "count": 2,
+      "lastSeen": "2026-06-08T16:48:18.216Z",
+      "count": 3,
       "wins": 0,
       "losses": 0,
       "niche": "ai"
@@ -1210,8 +1210,8 @@
     },
     "apple": {
       "firstSeen": "2026-06-02T17:22:17.986Z",
-      "lastSeen": "2026-06-02T17:22:17.986Z",
-      "count": 1,
+      "lastSeen": "2026-06-08T16:48:34.861Z",
+      "count": 2,
       "wins": 0,
       "losses": 0,
       "niche": "software"
@@ -2370,25 +2370,25 @@
     },
     "boost-grades": {
       "firstSeen": "2026-06-08T05:28:28.715Z",
-      "lastSeen": "2026-06-08T05:28:28.715Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-08T16:47:35.435Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
     "tools-students": {
       "firstSeen": "2026-06-08T05:28:31.799Z",
-      "lastSeen": "2026-06-08T05:28:31.799Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-08T16:47:35.435Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
     "students-boost": {
       "firstSeen": "2026-06-08T05:28:34.849Z",
-      "lastSeen": "2026-06-08T05:28:34.849Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-08T16:47:35.436Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -2415,12 +2415,52 @@
       "wins": 0,
       "losses": 0,
       "niche": "ai"
+    },
+    "coding-observability": {
+      "firstSeen": "2026-06-08T16:47:40.753Z",
+      "lastSeen": "2026-06-08T16:47:40.753Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "improvements": {
+      "firstSeen": "2026-06-08T16:47:44.372Z",
+      "lastSeen": "2026-06-08T16:47:44.372Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "maturity-model": {
+      "firstSeen": "2026-06-08T16:47:47.416Z",
+      "lastSeen": "2026-06-08T16:47:47.416Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "smart-gadgets": {
+      "firstSeen": "2026-06-08T16:48:00.467Z",
+      "lastSeen": "2026-06-08T16:48:00.467Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "gear"
+    },
+    "predictable-outcomes": {
+      "firstSeen": "2026-06-08T16:48:06.553Z",
+      "lastSeen": "2026-06-08T16:48:06.553Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
     }
   },
   "niches": {
     "ai": {
-      "count": 348,
-      "wins": 98,
+      "count": 357,
+      "wins": 101,
       "losses": 10
     },
     "finance": {
@@ -2434,7 +2474,7 @@
       "losses": 4
     },
     "gear": {
-      "count": 27,
+      "count": 28,
       "wins": 6,
       "losses": 0
     },

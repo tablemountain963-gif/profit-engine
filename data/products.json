@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "slug": "prompt-pack-predictable-outcomes-2026-06-08",
+      "title": "Predictable Outcomes Prompt Pack — 50 Battle-Tested Prompts",
+      "blurb": "50 proven prompts for Predictable Outcomes. Copy/paste ready. Tested across Claude, GPT, Gemini.",
+      "type": "prompt-pack",
+      "topic": "Predictable Outcomes",
+      "niche": "ai",
+      "price": 19,
+      "generatedAt": "2026-06-08T16:48:00.468Z",
+      "files": [
+        "prompts.md",
+        "README.md",
+        "LICENSE.txt"
+      ]
+    },
+    {
+      "slug": "mini-ebook-smart-gadgets-2026-06-08",
+      "title": "Smart Gadgets: A 30-Minute Field Guide",
+      "blurb": "Read it in 30 minutes. Apply it forever. Field guide to Smart Gadgets.",
+      "type": "mini-ebook",
+      "topic": "Smart Gadgets",
+      "niche": "gear",
+      "price": 14,
+      "generatedAt": "2026-06-08T16:47:48.218Z",
+      "files": [
+        "ebook.md",
+        "README.md",
+        "LICENSE.txt"
+      ]
+    },
+    {
       "slug": "prompt-pack-loch-shieldaig-2026-06-08",
       "title": "Loch Shieldaig Prompt Pack — 50 Battle-Tested Prompts",
       "blurb": "50 proven prompts for Loch Shieldaig. Copy/paste ready. Tested across Claude, GPT, Gemini.",
