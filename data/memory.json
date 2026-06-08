@@ -1698,9 +1698,9 @@
     },
     "scottish-government": {
       "firstSeen": "2026-06-04T22:15:36.159Z",
-      "lastSeen": "2026-06-04T22:15:36.159Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-08T22:18:02.216Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -1762,9 +1762,9 @@
     },
     "happy-thorsday": {
       "firstSeen": "2026-06-05T05:13:42.400Z",
-      "lastSeen": "2026-06-05T05:13:42.400Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-08T22:18:02.217Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -2458,9 +2458,9 @@
     },
     "apple-wwdc": {
       "firstSeen": "2026-06-08T18:19:18.585Z",
-      "lastSeen": "2026-06-08T18:19:18.585Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-08T22:18:02.218Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "software"
     },
@@ -2474,9 +2474,9 @@
     },
     "ppt-skill": {
       "firstSeen": "2026-06-08T18:19:24.981Z",
-      "lastSeen": "2026-06-08T18:19:24.981Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-08T22:18:02.219Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -2495,22 +2495,86 @@
       "wins": 0,
       "losses": 0,
       "niche": "ai"
+    },
+    "google-gemini": {
+      "firstSeen": "2026-06-08T22:18:06.683Z",
+      "lastSeen": "2026-06-08T22:18:06.683Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "productivity-tools": {
+      "firstSeen": "2026-06-08T22:18:10.136Z",
+      "lastSeen": "2026-06-08T22:18:10.136Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "software"
+    },
+    "siri-ai": {
+      "firstSeen": "2026-06-08T22:18:13.011Z",
+      "lastSeen": "2026-06-08T22:18:13.011Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "brutally-expensive": {
+      "firstSeen": "2026-06-08T22:18:20.306Z",
+      "lastSeen": "2026-06-08T22:18:20.306Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "openai-submits": {
+      "firstSeen": "2026-06-08T22:18:25.981Z",
+      "lastSeen": "2026-06-08T22:18:25.981Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "golden-gate": {
+      "firstSeen": "2026-06-08T22:19:03.831Z",
+      "lastSeen": "2026-06-08T22:19:03.831Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "software"
+    },
+    "capcut-pro-studio": {
+      "firstSeen": "2026-06-08T22:19:18.351Z",
+      "lastSeen": "2026-06-08T22:19:18.351Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "6f6f6f-yahoo": {
+      "firstSeen": "2026-06-08T22:19:31.466Z",
+      "lastSeen": "2026-06-08T22:19:31.466Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "finance"
     }
   },
   "niches": {
     "ai": {
-      "count": 365,
-      "wins": 104,
+      "count": 373,
+      "wins": 107,
       "losses": 10
     },
     "finance": {
-      "count": 31,
+      "count": 32,
       "wins": 5,
       "losses": 0
     },
     "software": {
-      "count": 72,
-      "wins": 16,
+      "count": 75,
+      "wins": 17,
       "losses": 4
     },
     "gear": {

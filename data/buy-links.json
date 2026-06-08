@@ -463,5 +463,19 @@
     "price": 14,
     "productId": "prod_UfRDcgnrNVmMci",
     "cover": "/assets/pack-cover.png"
+  },
+  "prompt-pack-openai-submits-2026-06-08": {
+    "url": "https://buy.stripe.com/eVqcN4fxC0v453t1FyfjG14",
+    "platform": "stripe",
+    "price": 19,
+    "productId": "prod_UfWYjZvo460QzS",
+    "cover": "/assets/pack-cover.png"
+  },
+  "prompt-pack-brutally-expensive-2026-06-08": {
+    "url": "https://buy.stripe.com/5kQcN4dpua5EgMb5VOfjG15",
+    "platform": "stripe",
+    "price": 19,
+    "productId": "prod_UfWY8vHeb9tYCq",
+    "cover": "/assets/pack-cover.png"
   }
 }
