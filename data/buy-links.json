@@ -435,5 +435,19 @@
     "price": 19,
     "productId": "prod_Uf8zvJ0q56nOkS",
     "cover": "/assets/pack-cover.png"
+  },
+  "prompt-pack-loch-shieldaig-2026-06-08": {
+    "url": "https://buy.stripe.com/3cIdR8etygu2eE36ZSfjG10",
+    "platform": "stripe",
+    "price": 19,
+    "productId": "prod_UfGGSzvcgZPQ1L",
+    "cover": "/assets/pack-cover.png"
+  },
+  "prompt-pack-grades-2026-2026-06-08": {
+    "url": "https://buy.stripe.com/dRm14m2KQ1z82Vl1FyfjG11",
+    "platform": "stripe",
+    "price": 19,
+    "productId": "prod_UfGGNuFdgMYRe0",
+    "cover": "/assets/pack-cover.png"
   }
 }

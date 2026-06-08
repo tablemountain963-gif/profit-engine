@@ -10,8 +10,8 @@
     },
     "passive-income": {
       "firstSeen": "2026-05-28T04:01:51.171Z",
-      "lastSeen": "2026-06-02T19:37:13.672Z",
-      "count": 3,
+      "lastSeen": "2026-06-08T05:29:18.638Z",
+      "count": 4,
       "wins": 1,
       "losses": 0,
       "niche": "finance"
@@ -226,8 +226,8 @@
     },
     "desktop": {
       "firstSeen": "2026-05-28T18:30:48.222Z",
-      "lastSeen": "2026-06-02T22:54:26.614Z",
-      "count": 3,
+      "lastSeen": "2026-06-08T05:29:31.076Z",
+      "count": 4,
       "wins": 1,
       "losses": 0,
       "niche": "ai"
@@ -1714,9 +1714,9 @@
     },
     "chris-onstad": {
       "firstSeen": "2026-06-04T22:15:42.273Z",
-      "lastSeen": "2026-06-04T22:15:42.273Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-08T05:28:23.826Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -2306,9 +2306,9 @@
     },
     "offline-whoop": {
       "firstSeen": "2026-06-07T21:56:27.823Z",
-      "lastSeen": "2026-06-07T21:56:27.823Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-08T05:28:23.828Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -2322,9 +2322,9 @@
     },
     "lego-batman": {
       "firstSeen": "2026-06-07T21:56:35.468Z",
-      "lastSeen": "2026-06-07T21:56:35.468Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-08T05:28:23.829Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "software"
     },
@@ -2367,22 +2367,70 @@
       "wins": 0,
       "losses": 0,
       "niche": "ai"
+    },
+    "boost-grades": {
+      "firstSeen": "2026-06-08T05:28:28.715Z",
+      "lastSeen": "2026-06-08T05:28:28.715Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "tools-students": {
+      "firstSeen": "2026-06-08T05:28:31.799Z",
+      "lastSeen": "2026-06-08T05:28:31.799Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "students-boost": {
+      "firstSeen": "2026-06-08T05:28:34.849Z",
+      "lastSeen": "2026-06-08T05:28:34.849Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "grades-2026": {
+      "firstSeen": "2026-06-08T05:28:45.468Z",
+      "lastSeen": "2026-06-08T05:28:45.468Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "loch-shieldaig": {
+      "firstSeen": "2026-06-08T05:28:52.759Z",
+      "lastSeen": "2026-06-08T05:28:52.759Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "montara-mountain": {
+      "firstSeen": "2026-06-08T05:29:45.225Z",
+      "lastSeen": "2026-06-08T05:29:45.225Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
     }
   },
   "niches": {
     "ai": {
-      "count": 340,
-      "wins": 96,
+      "count": 348,
+      "wins": 98,
       "losses": 10
     },
     "finance": {
-      "count": 30,
+      "count": 31,
       "wins": 5,
       "losses": 0
     },
     "software": {
-      "count": 69,
-      "wins": 15,
+      "count": 71,
+      "wins": 16,
       "losses": 4
     },
     "gear": {

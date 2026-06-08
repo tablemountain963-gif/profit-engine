@@ -1,288 +1,364 @@
 {
-  "generatedAt": "2026-06-07T21:56:23.976Z",
-  "sourceCount": 206,
+  "generatedAt": "2026-06-08T05:28:24.623Z",
+  "sourceCount": 207,
   "topItems": [
     {
-      "title": "NoopApp/noop — Offline WHOOP companion — pair your strap over Bluetooth, keep all data on your own device. No cloud, no account, no subscription.",
-      "url": "https://github.com/NoopApp/noop",
-      "score": 9.49,
-      "niche": "ai",
-      "source": "github",
-      "engagement": {
-        "score": 186,
-        "comments": 2
-      }
-    },
-    {
-      "title": "This is moss agate from Indonesia, the ''moss'' is actually iron and other mineral inclusions in the stone that make it look like it contains a forest#Mosstodon #rock",
-      "url": "https://tech.lgbt/@Natasha_Jay/116710179735768037",
-      "score": 8.77,
-      "niche": "ai",
-      "source": "mastodon",
-      "engagement": {
-        "score": 524,
-        "comments": 12
-      }
-    },
-    {
-      "title": "Anthropic, please ship an official Claude Desktop for Linux",
-      "url": "https://github.com/anthropics/claude-code/issues/65697",
-      "score": 8.64,
+      "title": "DeepSeek V4 Pro beats GPT-5.5 Pro on precision",
+      "url": "https://runtimewire.com/article/deepseek-v4-pro-beats-gpt-5-5-pro-on-precision",
+      "score": 9.09,
       "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 402,
-        "comments": 229
+        "score": 182,
+        "comments": 56
+      }
+    },
+    {
+      "title": "LLMs are eroding my software engineering career and I don't know what to do",
+      "url": "https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/",
+      "score": 8.74,
+      "niche": "ai",
+      "source": "hackernews",
+      "engagement": {
+        "score": 873,
+        "comments": 858
+      }
+    },
+    {
+      "title": "NoopApp/noop — Offline WHOOP companion — pair your strap over Bluetooth, keep all data on your own device. No cloud, no account, no subscription.",
+      "url": "https://github.com/NoopApp/noop",
+      "score": 8.39,
+      "niche": "ai",
+      "source": "github",
+      "engagement": {
+        "score": 321,
+        "comments": 5
       }
     },
     {
       "title": "Here’s an easter egg in the new Lego Batman that I think all of yourwill REALLY appreciate.It’s so good, I had to make a video.",
       "url": "https://social.panic.com/@cabel/116710623616975906",
-      "score": 7.99,
+      "score": 8.09,
       "niche": "software",
       "source": "mastodon",
       "engagement": {
-        "score": 286,
-        "comments": 8
+        "score": 1331,
+        "comments": 28
       }
     },
     {
-      "title": "\"The model is not the story. A cartel is the story.\"This is well worth a read if you're on the Frontier AI train... because there's some minor details you might be missing.https://www.flyingpenguin.co",
-      "url": "https://cyberplace.social/@GossiTheDog/116710138152248123",
-      "score": 7.27,
+      "title": "A funny thing about task management apps is that eventually the main task becomes managing the task management app.",
+      "url": "https://mastodon.social/@Daojoan/116712646957462739",
+      "score": 7.85,
       "niche": "ai",
       "source": "mastodon",
       "engagement": {
-        "score": 176,
-        "comments": 5
+        "score": 68,
+        "comments": 4
       }
     },
     {
-      "title": "Silurus/ooxml: Pixel-faithful Office documents, rendered in the browser",
-      "url": "https://github.com/yukiyokotani/office-open-xml-viewer",
-      "score": 6.99,
+      "title": "10 Best AI Tools for Students to Boost Grades in 2026",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9TRl9SOFhNRW9QdFJCQnBoNTZPZ1VOT1loLWxwUW5yMFNPVHEzNXR6M3lSV2pVWDlaOTZOZV9RblBVdUotQThyV1lqMWk4RGQyWlQ2em5sYmN5SU11THp1MNIBYEFVX3lxTE9TRl9SOFhNRW9QdFJCQnBoNTZPZ1VOT1loLWxwUW5yMFNPVHEzNXR6M3lSV2pVWDlaOTZOZV9RblBVdUotQThyV1lqMWk4RGQyWlQ2em5sYmN5SU11THp1MA?oc=5",
+      "score": 7.48,
       "niche": "ai",
-      "source": "hackernews",
+      "source": "gnews",
       "engagement": {
-        "score": 92,
-        "comments": 30
-      }
-    },
-    {
-      "title": "JimLiu/baoyu-design — Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/de",
-      "url": "https://github.com/JimLiu/baoyu-design",
-      "score": 6.94,
-      "niche": "ai",
-      "source": "github",
-      "engagement": {
-        "score": 227,
+        "score": 40,
         "comments": 0
       }
     },
     {
-      "title": "We're thrilled to announce CASSETTE BEASTS 2002, the next adventure from the world of Cassette Beasts, coming soon to all major platforms!We can't wait to tell you more - for now, check the announceme",
-      "url": "https://social.bytten-studio.com/@CassetteBeasts/116710552171604030",
-      "score": 6.9,
+      "title": "16 Best AI Tools for Business in 2026: Tested & Ranked",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAwQnBYNFM3cXk2eUZVZWZHYjBJZ01wbHJOMkpiNXExelhCZUc4US1OX0tnaWdyTnNCZkp6bGEwN0FOMDBiUzh6a29Wd2pmUk9pNWdRdXdXNG9HZVpo?oc=5",
+      "score": 7.48,
       "niche": "ai",
-      "source": "mastodon",
+      "source": "gnews",
       "engagement": {
-        "score": 62,
-        "comments": 6
+        "score": 40,
+        "comments": 0
       }
     },
     {
-      "title": "Public Domain Image Archive",
-      "url": "https://pdimagearchive.org/",
-      "score": 6.34,
+      "title": "AI Tools Help Students Boost Grades in 2026",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONmRWUU1RRWJTalhOVnNKeS0wRWdjU2N4OGg4YjRkejlrVkNlNmxHdnVOd0dqM19VSzg1QTMxeExzMng2RVo1bi1yeXRuVDdZUFdCRVBmbnIyZ2VnVFFrbEZYbVo4dnJFY0FldTRXdlFCMm9KU2pnOHhXY0x3OGF6anVORS1ENDgxYzRxTGJR?oc=5",
+      "score": 7.48,
+      "niche": "ai",
+      "source": "gnews",
+      "engagement": {
+        "score": 40,
+        "comments": 0
+      }
+    },
+    {
+      "title": "The Smallest Brain You Can Build: A Perceptron in Python",
+      "url": "https://ranpara.net/posts/perceptron-explained-from-scratch/",
+      "score": 7.07,
       "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 234,
-        "comments": 32
+        "score": 127,
+        "comments": 17
+      }
+    },
+    {
+      "title": "RestrictionGuru/Lossless-Scaling-Download-2026 — ⭐️ Lossless Scaling — full lifetime version of the popular upscaling tool. Greatly improves image quality in games and videos using smart algorithms, i",
+      "url": "https://github.com/RestrictionGuru/Lossless-Scaling-Download-2026",
+      "score": 6.92,
+      "niche": "software",
+      "source": "github",
+      "engagement": {
+        "score": 236,
+        "comments": 0
+      }
+    },
+    {
+      "title": "Texas grid flags risks as data centers, crypto sites fail voltage tests",
+      "url": "https://www.reuters.com/business/energy/texas-grid-flags-risks-data-centers-crypto-sites-fail-voltage-tests-2026-06-05/",
+      "score": 6.91,
+      "niche": "ai",
+      "source": "hackernews",
+      "engagement": {
+        "score": 57,
+        "comments": 43
+      }
+    },
+    {
+      "title": "Slow motion footage of a hummingbird (Selasphorus rufus) feeding. This 60-second clip captures just one second of real time, slowed to 1/67th speed at 2000fps.📽️: HopefullyUsefulContribution | CC BY-",
+      "url": "https://mastodon.social/@wonderofscience/116712022532834883",
+      "score": 6.7,
+      "niche": "software",
+      "source": "mastodon",
+      "engagement": {
+        "score": 242,
+        "comments": 2
       }
     },
     {
       "title": "Show HN: Lathe – Use LLMs to learn a new domain, not skip past it",
       "url": "https://github.com/devenjarvis/lathe",
-      "score": 6.29,
+      "score": 6.61,
       "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 204,
-        "comments": 41
+        "score": 277,
+        "comments": 52
       }
     },
     {
-      "title": "If LLMs Have Human-Like Attributes, Then So Does Age of Empires II",
-      "url": "https://arxiv.org/abs/2605.31514",
-      "score": 6.17,
+      "title": "Lucky number 13 in the Close Encounters Collection is my painting, \"Little Mlem.\" I wanted to experiment with unusual colors, and I really like how the green turned out!#blackcat #cat #art #painting #",
+      "url": "https://mastodon.social/@joyousjoyness/116712015643454212",
+      "score": 6.39,
       "niche": "ai",
-      "source": "hackernews",
+      "source": "mastodon",
       "engagement": {
-        "score": 34,
-        "comments": 25
+        "score": 96,
+        "comments": 1
       }
     },
     {
-      "title": "CWS6206/ai-coding-starter-kit — Kuratierte Agent Skills, Checklisten, Templates und Leitfäden für Schweizer Entwicklungsteams – direkt aus meinen Blog-Artikeln destilliert.",
-      "url": "https://github.com/CWS6206/ai-coding-starter-kit",
-      "score": 6.04,
+      "title": "ridgekhanice/undress-ai-image-video-generator — An easy-to-use AI-powered image and video generation tool designed for Windows",
+      "url": "https://github.com/ridgekhanice/undress-ai-image-video-generator",
+      "score": 6.24,
       "niche": "ai",
       "source": "github",
       "engagement": {
-        "score": 258,
+        "score": 129,
+        "comments": 1
+      }
+    },
+    {
+      "title": "chengtx007/fuckoai — Linux container registration control panel",
+      "url": "https://github.com/chengtx007/fuckoai",
+      "score": 6.22,
+      "niche": "ai",
+      "source": "github",
+      "engagement": {
+        "score": 87,
+        "comments": 0
+      }
+    },
+    {
+      "title": "22:15 last night, Loch Shieldaig.",
+      "url": "https://mastodonapp.uk/@GetCarter/116712301343063616",
+      "score": 6.19,
+      "niche": "ai",
+      "source": "mastodon",
+      "engagement": {
+        "score": 81,
         "comments": 2
       }
     },
     {
-      "title": "Agentic AI solved coding — and exposed every other problem in software engineering",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNTNPVE5iWVhKYjFTS09KbmRwUlFvVzJ1UFA5VzFoVTVGbjJJd1JYZE1yaXJJVy1GMG96a09BTUxleWJhX3JrQTNZY0tYSUhNbUpBQVhwTzR3eno5UFJfV1ZRd3F3ckZpbnBUNDR5ZU5IT3JySlZWcFN5bEYwVlRiUHhVMGxzVEhyOURpOS1rZmh3NUpXUnhSeWlpT0VOcW1WTXM3WmxnQkRGalhOSlNSS3NBU2hGQQ?oc=5",
-      "score": 5.94,
+      "title": "axisrajachopper/AutoCAD-Keygen-2026 — ⭐️ AutoCAD 2026 is a professional design and drafting software for Windows 10/11 PC that includes setup installer v2026, keygen activation, license key, patch loa",
+      "url": "https://github.com/axisrajachopper/AutoCAD-Keygen-2026",
+      "score": 6.11,
+      "niche": "software",
+      "source": "github",
+      "engagement": {
+        "score": 235,
+        "comments": 0
+      }
+    },
+    {
+      "title": "Best 21 Low-Code and No-Code AI Tools in 2026",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQREhlRDJ5Q0FhMzBleHkzZHFyMm05NHZ6bWRTTWgwaXV3U1RRZVpHUHB4SWQ2dFFqTzUzdU1SeVI5SG9RQUVpYXV4NzlVLW1pc3c4WDVIWEMzRVVhTGNSa29ZZG1GRkZMRVdOelcxUnRleFJjMmcyOVcwTEZxY1JEbjBRSm5YSERyUUZ1Uzlhbw?oc=5",
+      "score": 5.99,
       "niche": "ai",
       "source": "gnews",
       "engagement": {
         "score": 40,
+        "comments": 0
+      }
+    },
+    {
+      "title": "beautiful jog up the west flank of Montara Mountain, across the tunnels, and back down to Devil’s Slide and McNee Ranch. glad the fog held off the coast, I miscalculated the distance of this route and",
+      "url": "https://mastodon.social/@midendian/116712211745627644",
+      "score": 5.82,
+      "niche": "ai",
+      "source": "mastodon",
+      "engagement": {
+        "score": 61,
+        "comments": 2
+      }
+    },
+    {
+      "title": "Titanbraindex/Disk-Drill-Pro-Recovery — Disk Drill Professional - The premier data recovery software for Windows. Easily recover deleted files, photos, videos, and documents from any storage device wi",
+      "url": "https://github.com/Titanbraindex/Disk-Drill-Pro-Recovery",
+      "score": 5.75,
+      "niche": "ai",
+      "source": "github",
+      "engagement": {
+        "score": 89,
+        "comments": 0
+      }
+    },
+    {
+      "title": "JimLiu/baoyu-design — Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/de",
+      "url": "https://github.com/JimLiu/baoyu-design",
+      "score": 5.64,
+      "niche": "ai",
+      "source": "github",
+      "engagement": {
+        "score": 359,
         "comments": 0
       }
     },
     {
       "title": "12britz/awesome-free-models — A curated list of free AI models, APIs, and tools you can use without paying a cent.",
       "url": "https://github.com/12britz/awesome-free-models",
-      "score": 5.54,
+      "score": 5.63,
       "niche": "ai",
       "source": "github",
       "engagement": {
-        "score": 97,
+        "score": 104,
+        "comments": 0
+      }
+    },
+    {
+      "title": "DistributorTouch/Midjourney-Bot-Premium-Desktop — Standalone desktop client for Midjourney API. Unlimited fast hours and bypass Discord UI limitations.",
+      "url": "https://github.com/DistributorTouch/Midjourney-Bot-Premium-Desktop",
+      "score": 5.53,
+      "niche": "software",
+      "source": "github",
+      "engagement": {
+        "score": 78,
         "comments": 0
       }
     },
     {
       "title": "ShoreAbleCorrect/Canva-Pro-Desktop-Windows — Graphic design platform patched to unlock all Pro templates and premium assets.",
       "url": "https://github.com/ShoreAbleCorrect/Canva-Pro-Desktop-Windows",
-      "score": 5.29,
+      "score": 5.51,
       "niche": "software",
       "source": "github",
       "engagement": {
-        "score": 92,
-        "comments": 0
-      }
-    },
-    {
-      "title": "'Complete nonsense': Nvidia's Jensen Huang says AI won't kill software jobs — and the data backs him up",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbWdfanhhRWt5d0FJTl82M0NPTWRGODFaSWFtbFVodUJGZ2g3WUVUd0dReEd1VFdzMlE5Rm9Vd3dBOHlweVBHZlg5eVFoYWJGemVfcUMyWjM3QWxhVjQ4Z1V3RUk5UlgyYUNhU3BHYzc5eHlWS1kyakV2ZXZ0RkJoY0FWWFBOQnl4MkRXYXU4MlBvWUpsTFhXWmZIMFpuekNaaUlVVWhsNjBIa3c?oc=5",
-      "score": 5.16,
-      "niche": "ai",
-      "source": "gnews",
-      "engagement": {
-        "score": 40,
-        "comments": 0
-      }
-    },
-    {
-      "title": "Snowflake, Databricks and the model makers: The battle for the agentic client and AI back end",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNM3JpSmdsZ25zeG5EeHBDSlVJX2czY0VNMlNlOGxoenZxT2lVVk9fWjlXT3JvX0REOHkwX2EwNU9WTFFGLTdOVTlDb0NtSDdMazVkYXhpM1lPR0xfYUhHSlB1NExEYVNjekVaZHNPSVZuaDFZSWItaEczYVgwQnBLZFQyN1M3aWdhWkRud1lFS2kteHlTV1lQTEdpV2lQWDVYTmlacmlYcw?oc=5",
-      "score": 5.16,
-      "niche": "ai",
-      "source": "gnews",
-      "engagement": {
-        "score": 40,
-        "comments": 0
-      }
-    },
-    {
-      "title": "The complete IPv4 address space, mapped",
-      "url": "https://worldip.io/",
-      "score": 5.16,
-      "niche": "software",
-      "source": "hackernews",
-      "engagement": {
-        "score": 21,
-        "comments": 9
-      }
-    },
-    {
-      "title": "joseflachendro/DrFone-Screen-Unlock-ToolKit-2 — 📱 Easy-to-use desktop assistant and installer for Dr.Fone Screen Unlocker on Windows. Unlock your smartphone, bypass lock screens, and restore access w",
-      "url": "https://github.com/joseflachendro/DrFone-Screen-Unlock-ToolKit-2",
-      "score": 4.85,
-      "niche": "software",
-      "source": "github",
-      "engagement": {
-        "score": 95,
-        "comments": 1
-      }
-    },
-    {
-      "title": "amElnagdy/guard-skills — Guard skills for coding agents, quality gates that catch AI-generated failure modes in code, tests, and docs",
-      "url": "https://github.com/amElnagdy/guard-skills",
-      "score": 4.71,
-      "niche": "ai",
-      "source": "github",
-      "engagement": {
-        "score": 283,
-        "comments": 0
-      }
-    },
-    {
-      "title": "Parcle-AI/parcle-memory — ",
-      "url": "https://github.com/Parcle-AI/parcle-memory",
-      "score": 4.59,
-      "niche": "ai",
-      "source": "github",
-      "engagement": {
-        "score": 244,
-        "comments": 0
-      }
-    },
-    {
-      "title": "FerroxLabs/wayland — Wayland - The AI Agent That Perceives. Reasons. Acts. Evolves.",
-      "url": "https://github.com/FerroxLabs/wayland",
-      "score": 4.48,
-      "niche": "ai",
-      "source": "github",
-      "engagement": {
-        "score": 198,
-        "comments": 8
-      }
-    },
-    {
-      "title": "rolandojesus6666-star/system-repair-tool-2 — 🛠️ Easy-to-use System Repair Tool for Windows. Automatically diagnostics, scans, and optimizes your PC by locating hidden background miners, clipper layou",
-      "url": "https://github.com/rolandojesus6666-star/system-repair-tool-2",
-      "score": 4.4,
-      "niche": "ai",
-      "source": "github",
-      "engagement": {
-        "score": 95,
-        "comments": 1
-      }
-    },
-    {
-      "title": "Dev Opportunity Radar #2: A Fully-Funded Residency in Finland, AI Research Program, and a $60K Hackathon",
-      "url": "https://dev.to/hemapriya_kanagala/dev-opportunity-radar-2-a-fully-funded-residency-in-finland-ai-research-program-and-a-60k-33l4",
-      "score": 4.4,
-      "niche": "ai",
-      "source": "devto",
-      "engagement": {
-        "score": 55,
-        "comments": 21
-      }
-    },
-    {
-      "title": "The week I lost the plot at a startup where the tools worked as advertised",
-      "url": "https://nlkw.de/en/blog/getting-fried-part-1-cogentiv/",
-      "score": 4.17,
-      "niche": "software",
-      "source": "hackernews",
-      "engagement": {
-        "score": 13,
+        "score": 111,
         "comments": 0
       }
     }
   ],
   "topics": [
     {
+      "keyword": "boost grades",
+      "count": 22,
+      "score": 246.94946414092595,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "10 Best AI Tools for Students to Boost Grades in 2026",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9TRl9SOFhNRW9QdFJCQnBoNTZPZ1VOT1loLWxwUW5yMFNPVHEzNXR6M3lSV2pVWDlaOTZOZV9RblBVdUotQThyV1lqMWk4RGQyWlQ2em5sYmN5SU11THp1MNIBYEFVX3lxTE9TRl9SOFhNRW9QdFJCQnBoNTZPZ1VOT1loLWxwUW5yMFNPVHEzNXR6M3lSV2pVWDlaOTZOZV9RblBVdUotQThyV1lqMWk4RGQyWlQ2em5sYmN5SU11THp1MA?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "10 Best AI Tools for Students to Boost Grades in 2026",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9TRl9SOFhNRW9QdFJCQnBoNTZPZ1VOT1loLWxwUW5yMFNPVHEzNXR6M3lSV2pVWDlaOTZOZV9RblBVdUotQThyV1lqMWk4RGQyWlQ2em5sYmN5SU11THp1MNIBYEFVX3lxTE9TRl9SOFhNRW9QdFJCQnBoNTZPZ1VOT1loLWxwUW5yMFNPVHEzNXR6M3lSV2pVWDlaOTZOZV9RblBVdUotQThyV1lqMWk4RGQyWlQ2em5sYmN5SU11THp1MA?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "10 Best AI Tools for Students to Boost Grades in 2026",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9TRl9SOFhNRW9QdFJCQnBoNTZPZ1VOT1loLWxwUW5yMFNPVHEzNXR6M3lSV2pVWDlaOTZOZV9RblBVdUotQThyV1lqMWk4RGQyWlQ2em5sYmN5SU11THp1MNIBYEFVX3lxTE9TRl9SOFhNRW9QdFJCQnBoNTZPZ1VOT1loLWxwUW5yMFNPVHEzNXR6M3lSV2pVWDlaOTZOZV9RblBVdUotQThyV1lqMWk4RGQyWlQ2em5sYmN5SU11THp1MA?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "AI Tools Help Students Boost Grades in 2026",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONmRWUU1RRWJTalhOVnNKeS0wRWdjU2N4OGg4YjRkejlrVkNlNmxHdnVOd0dqM19VSzg1QTMxeExzMng2RVo1bi1yeXRuVDdZUFdCRVBmbnIyZ2VnVFFrbEZYbVo4dnJFY0FldTRXdlFCMm9KU2pnOHhXY0x3OGF6anVORS1ENDgxYzRxTGJR?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "AI Tools Help Students Boost Grades in 2026",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONmRWUU1RRWJTalhOVnNKeS0wRWdjU2N4OGg4YjRkejlrVkNlNmxHdnVOd0dqM19VSzg1QTMxeExzMng2RVo1bi1yeXRuVDdZUFdCRVBmbnIyZ2VnVFFrbEZYbVo4dnJFY0FldTRXdlFCMm9KU2pnOHhXY0x3OGF6anVORS1ENDgxYzRxTGJR?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "456b2f3d927a",
+      "slug": "boost-grades"
+    },
+    {
+      "keyword": "passive income",
+      "count": 48,
+      "score": 124.53916941589796,
+      "proper": false,
+      "niches": [
+        "finance"
+      ],
+      "examples": [
+        {
+          "title": "How much is needed in a Stocks and Shares ISA to target a £1,370 monthly passive income?",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQXFiNWxUbEpORnlHMlM4b3BLaGp3N0loZ182U3cyN05wZWUta3NkRnk0UFo5ejBZd2V6N2dEY3VweEliMHdZN19ielVrRE1JNTU2cTJlRzhLOWhybG5VN3h2TXpDVDRvQ2pLTUlKOHF4aEVWcVdoZ0trTlRRNi1WdTFZdlQ?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "How much is needed in a Stocks and Shares ISA to target a £1,370 monthly passive income?",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQXFiNWxUbEpORnlHMlM4b3BLaGp3N0loZ182U3cyN05wZWUta3NkRnk0UFo5ejBZd2V6N2dEY3VweEliMHdZN19ielVrRE1JNTU2cTJlRzhLOWhybG5VN3h2TXpDVDRvQ2pLTUlKOHF4aEVWcVdoZ0trTlRRNi1WdTFZdlQ?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Here’s how much is needed in an ISA to earn £46,918 of passive income a year",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8tRlpQVWJHNGpfdDNQODJEM1NVU1NTNW9BZzdPQXBMUTJISlBHeTNMQTQwSmlEbnhFOElleU1XV04tbEdkZFlROTc5N2RQZ2twS3dHR1dkYnNpNmVPMlQxR243RURkaTZhdXRYb1pIWHNsdFc1ck84b1pPN04?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Here’s how much is needed in an ISA to earn £46,918 of passive income a year",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8tRlpQVWJHNGpfdDNQODJEM1NVU1NTNW9BZzdPQXBMUTJISlBHeTNMQTQwSmlEbnhFOElleU1XV04tbEdkZFlROTc5N2RQZ2twS3dHR1dkYnNpNmVPMlQxR243RURkaTZhdXRYb1pIWHNsdFc1ck84b1pPN04?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "How much is needed in an ISA to target a £1,046 monthly passive income in retirement?",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1fRXNjNTZzQ0d0MU1VUkJqMWZYVHZTVW9Nb0FqQ1c2R0l1eWRXaUtLbkZPbWFUNkxMVUZUSzl1VE1oWmxfOGs5VXYyQW1aM3BkOVlqVElhV1VMalJGUkhVeXpESGU3NHllTVBKdFB6c2tuWnlWRzE4Wi13bG1VQQ?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "cf2dbbbf8c8c",
+      "slug": "passive-income"
+    },
+    {
       "keyword": "offline whoop",
       "count": 8,
-      "score": 113.86918569300657,
+      "score": 100.68417051080439,
       "proper": true,
       "niches": [
         "ai"
@@ -303,37 +379,9 @@
       "slug": "offline-whoop"
     },
     {
-      "keyword": "cassette beasts",
-      "count": 11,
-      "score": 113.853719913144,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "We're thrilled to announce CASSETTE BEASTS 2002, the next adventure from the world of Cassette Beasts, coming soon to all major platforms!We can't wait to tell you more - for now, check the announceme",
-          "url": "https://social.bytten-studio.com/@CassetteBeasts/116710552171604030",
-          "source": "mastodon"
-        },
-        {
-          "title": "We're thrilled to announce CASSETTE BEASTS 2002, the next adventure from the world of Cassette Beasts, coming soon to all major platforms!We can't wait to tell you more - for now, check the announceme",
-          "url": "https://social.bytten-studio.com/@CassetteBeasts/116710552171604030",
-          "source": "mastodon"
-        },
-        {
-          "title": "We're thrilled to announce CASSETTE BEASTS 2002, the next adventure from the world of Cassette Beasts, coming soon to all major platforms!We can't wait to tell you more - for now, check the announceme",
-          "url": "https://social.bytten-studio.com/@CassetteBeasts/116710552171604030",
-          "source": "mastodon"
-        }
-      ],
-      "id": "458f903c155c",
-      "slug": "cassette-beasts"
-    },
-    {
       "keyword": "lego batman",
       "count": 8,
-      "score": 95.88294316532904,
+      "score": 97.13754317666545,
       "proper": true,
       "niches": [
         "software"
@@ -354,37 +402,297 @@
       "slug": "lego-batman"
     },
     {
-      "keyword": "jensen huang",
-      "count": 11,
-      "score": 85.15498763480204,
+      "keyword": "claude code",
+      "count": 19,
+      "score": 92.42673747442262,
       "proper": true,
       "niches": [
         "ai"
       ],
       "examples": [
         {
-          "title": "'Complete nonsense': Nvidia's Jensen Huang says AI won't kill software jobs — and the data backs him up",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbWdfanhhRWt5d0FJTl82M0NPTWRGODFaSWFtbFVodUJGZ2g3WUVUd0dReEd1VFdzMlE5Rm9Vd3dBOHlweVBHZlg5eVFoYWJGemVfcUMyWjM3QWxhVjQ4Z1V3RUk5UlgyYUNhU3BHYzc5eHlWS1kyakV2ZXZ0RkJoY0FWWFBOQnl4MkRXYXU4MlBvWUpsTFhXWmZIMFpuekNaaUlVVWhsNjBIa3c?oc=5",
+          "title": "JimLiu/baoyu-design — Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/de",
+          "url": "https://github.com/JimLiu/baoyu-design",
+          "source": "github"
+        },
+        {
+          "title": "JimLiu/baoyu-design — Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/de",
+          "url": "https://github.com/JimLiu/baoyu-design",
+          "source": "github"
+        },
+        {
+          "title": "Claude Code is the best AI coding tool I've used, and I’m not entirely sure if I can recommend it",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMnJUQnpneEtHMEJFZzZ0V0djN24zOVQyM3hpT09WYm5sUXBRVEo0QkFCZG50Q3RMMUtuczFwYk9aMEYxSFpBMVkxNDhrRmpOTUNJWE9teEVsR3JDYW9YMktENFYxQlBjTC1lM2hfYTJ3WkI4c0tyMTh3X0UzSWUwVUFMRlQtSjhIcnRuTTVYUW9OeXFVbUtHYmt3?oc=5",
           "source": "gnews"
         },
         {
-          "title": "'Complete nonsense': Nvidia's Jensen Huang says AI won't kill software jobs — and the data backs him up",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbWdfanhhRWt5d0FJTl82M0NPTWRGODFaSWFtbFVodUJGZ2g3WUVUd0dReEd1VFdzMlE5Rm9Vd3dBOHlweVBHZlg5eVFoYWJGemVfcUMyWjM3QWxhVjQ4Z1V3RUk5UlgyYUNhU3BHYzc5eHlWS1kyakV2ZXZ0RkJoY0FWWFBOQnl4MkRXYXU4MlBvWUpsTFhXWmZIMFpuekNaaUlVVWhsNjBIa3c?oc=5",
+          "title": "Claude Code is the best AI coding tool I've used, and I’m not entirely sure if I can recommend it",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMnJUQnpneEtHMEJFZzZ0V0djN24zOVQyM3hpT09WYm5sUXBRVEo0QkFCZG50Q3RMMUtuczFwYk9aMEYxSFpBMVkxNDhrRmpOTUNJWE9teEVsR3JDYW9YMktENFYxQlBjTC1lM2hfYTJ3WkI4c0tyMTh3X0UzSWUwVUFMRlQtSjhIcnRuTTVYUW9OeXFVbUtHYmt3?oc=5",
           "source": "gnews"
         },
         {
-          "title": "'Complete nonsense': Nvidia's Jensen Huang says AI won't kill software jobs — and the data backs him up",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbWdfanhhRWt5d0FJTl82M0NPTWRGODFaSWFtbFVodUJGZ2g3WUVUd0dReEd1VFdzMlE5Rm9Vd3dBOHlweVBHZlg5eVFoYWJGemVfcUMyWjM3QWxhVjQ4Z1V3RUk5UlgyYUNhU3BHYzc5eHlWS1kyakV2ZXZ0RkJoY0FWWFBOQnl4MkRXYXU4MlBvWUpsTFhXWmZIMFpuekNaaUlVVWhsNjBIa3c?oc=5",
+          "title": "Claude Code is the best AI coding tool I've used, and I’m not entirely sure if I can recommend it",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMnJUQnpneEtHMEJFZzZ0V0djN24zOVQyM3hpT09WYm5sUXBRVEo0QkFCZG50Q3RMMUtuczFwYk9aMEYxSFpBMVkxNDhrRmpOTUNJWE9teEVsR3JDYW9YMktENFYxQlBjTC1lM2hfYTJ3WkI4c0tyMTh3X0UzSWUwVUFMRlQtSjhIcnRuTTVYUW9OeXFVbUtHYmt3?oc=5",
           "source": "gnews"
         }
       ],
-      "id": "ecd7b976fdf1",
-      "slug": "jensen-huang"
+      "id": "a625159d18da",
+      "slug": "claude-code"
+    },
+    {
+      "keyword": "tools students",
+      "count": 12,
+      "score": 89.79980514215488,
+      "proper": false,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "10 Best AI Tools for Students to Boost Grades in 2026",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9TRl9SOFhNRW9QdFJCQnBoNTZPZ1VOT1loLWxwUW5yMFNPVHEzNXR6M3lSV2pVWDlaOTZOZV9RblBVdUotQThyV1lqMWk4RGQyWlQ2em5sYmN5SU11THp1MNIBYEFVX3lxTE9TRl9SOFhNRW9QdFJCQnBoNTZPZ1VOT1loLWxwUW5yMFNPVHEzNXR6M3lSV2pVWDlaOTZOZV9RblBVdUotQThyV1lqMWk4RGQyWlQ2em5sYmN5SU11THp1MA?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "10 Best AI Tools for Students to Boost Grades in 2026",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9TRl9SOFhNRW9QdFJCQnBoNTZPZ1VOT1loLWxwUW5yMFNPVHEzNXR6M3lSV2pVWDlaOTZOZV9RblBVdUotQThyV1lqMWk4RGQyWlQ2em5sYmN5SU11THp1MNIBYEFVX3lxTE9TRl9SOFhNRW9QdFJCQnBoNTZPZ1VOT1loLWxwUW5yMFNPVHEzNXR6M3lSV2pVWDlaOTZOZV9RblBVdUotQThyV1lqMWk4RGQyWlQ2em5sYmN5SU11THp1MA?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "AI Tools Help Students Boost Grades in 2026",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONmRWUU1RRWJTalhOVnNKeS0wRWdjU2N4OGg4YjRkejlrVkNlNmxHdnVOd0dqM19VSzg1QTMxeExzMng2RVo1bi1yeXRuVDdZUFdCRVBmbnIyZ2VnVFFrbEZYbVo4dnJFY0FldTRXdlFCMm9KU2pnOHhXY0x3OGF6anVORS1ENDgxYzRxTGJR?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "AI Tools Help Students Boost Grades in 2026",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONmRWUU1RRWJTalhOVnNKeS0wRWdjU2N4OGg4YjRkejlrVkNlNmxHdnVOd0dqM19VSzg1QTMxeExzMng2RVo1bi1yeXRuVDdZUFdCRVBmbnIyZ2VnVFFrbEZYbVo4dnJFY0FldTRXdlFCMm9KU2pnOHhXY0x3OGF6anVORS1ENDgxYzRxTGJR?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "1b585c72bf79",
+      "slug": "tools-students"
+    },
+    {
+      "keyword": "students boost",
+      "count": 12,
+      "score": 89.79980514215488,
+      "proper": false,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "10 Best AI Tools for Students to Boost Grades in 2026",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9TRl9SOFhNRW9QdFJCQnBoNTZPZ1VOT1loLWxwUW5yMFNPVHEzNXR6M3lSV2pVWDlaOTZOZV9RblBVdUotQThyV1lqMWk4RGQyWlQ2em5sYmN5SU11THp1MNIBYEFVX3lxTE9TRl9SOFhNRW9QdFJCQnBoNTZPZ1VOT1loLWxwUW5yMFNPVHEzNXR6M3lSV2pVWDlaOTZOZV9RblBVdUotQThyV1lqMWk4RGQyWlQ2em5sYmN5SU11THp1MA?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "10 Best AI Tools for Students to Boost Grades in 2026",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9TRl9SOFhNRW9QdFJCQnBoNTZPZ1VOT1loLWxwUW5yMFNPVHEzNXR6M3lSV2pVWDlaOTZOZV9RblBVdUotQThyV1lqMWk4RGQyWlQ2em5sYmN5SU11THp1MNIBYEFVX3lxTE9TRl9SOFhNRW9QdFJCQnBoNTZPZ1VOT1loLWxwUW5yMFNPVHEzNXR6M3lSV2pVWDlaOTZOZV9RblBVdUotQThyV1lqMWk4RGQyWlQ2em5sYmN5SU11THp1MA?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "AI Tools Help Students Boost Grades in 2026",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONmRWUU1RRWJTalhOVnNKeS0wRWdjU2N4OGg4YjRkejlrVkNlNmxHdnVOd0dqM19VSzg1QTMxeExzMng2RVo1bi1yeXRuVDdZUFdCRVBmbnIyZ2VnVFFrbEZYbVo4dnJFY0FldTRXdlFCMm9KU2pnOHhXY0x3OGF6anVORS1ENDgxYzRxTGJR?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "AI Tools Help Students Boost Grades in 2026",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONmRWUU1RRWJTalhOVnNKeS0wRWdjU2N4OGg4YjRkejlrVkNlNmxHdnVOd0dqM19VSzg1QTMxeExzMng2RVo1bi1yeXRuVDdZUFdCRVBmbnIyZ2VnVFFrbEZYbVo4dnJFY0FldTRXdlFCMm9KU2pnOHhXY0x3OGF6anVORS1ENDgxYzRxTGJR?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "9fab89bcef52",
+      "slug": "students-boost"
+    },
+    {
+      "keyword": "grades 2026",
+      "count": 12,
+      "score": 89.79980514215488,
+      "proper": false,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "10 Best AI Tools for Students to Boost Grades in 2026",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9TRl9SOFhNRW9QdFJCQnBoNTZPZ1VOT1loLWxwUW5yMFNPVHEzNXR6M3lSV2pVWDlaOTZOZV9RblBVdUotQThyV1lqMWk4RGQyWlQ2em5sYmN5SU11THp1MNIBYEFVX3lxTE9TRl9SOFhNRW9QdFJCQnBoNTZPZ1VOT1loLWxwUW5yMFNPVHEzNXR6M3lSV2pVWDlaOTZOZV9RblBVdUotQThyV1lqMWk4RGQyWlQ2em5sYmN5SU11THp1MA?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "10 Best AI Tools for Students to Boost Grades in 2026",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9TRl9SOFhNRW9QdFJCQnBoNTZPZ1VOT1loLWxwUW5yMFNPVHEzNXR6M3lSV2pVWDlaOTZOZV9RblBVdUotQThyV1lqMWk4RGQyWlQ2em5sYmN5SU11THp1MNIBYEFVX3lxTE9TRl9SOFhNRW9QdFJCQnBoNTZPZ1VOT1loLWxwUW5yMFNPVHEzNXR6M3lSV2pVWDlaOTZOZV9RblBVdUotQThyV1lqMWk4RGQyWlQ2em5sYmN5SU11THp1MA?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "AI Tools Help Students Boost Grades in 2026",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONmRWUU1RRWJTalhOVnNKeS0wRWdjU2N4OGg4YjRkejlrVkNlNmxHdnVOd0dqM19VSzg1QTMxeExzMng2RVo1bi1yeXRuVDdZUFdCRVBmbnIyZ2VnVFFrbEZYbVo4dnJFY0FldTRXdlFCMm9KU2pnOHhXY0x3OGF6anVORS1ENDgxYzRxTGJR?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "AI Tools Help Students Boost Grades in 2026",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONmRWUU1RRWJTalhOVnNKeS0wRWdjU2N4OGg4YjRkejlrVkNlNmxHdnVOd0dqM19VSzg1QTMxeExzMng2RVo1bi1yeXRuVDdZUFdCRVBmbnIyZ2VnVFFrbEZYbVo4dnJFY0FldTRXdlFCMm9KU2pnOHhXY0x3OGF6anVORS1ENDgxYzRxTGJR?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "ec87b71d51a1",
+      "slug": "grades-2026"
+    },
+    {
+      "keyword": "2026 _blank",
+      "count": 24,
+      "score": 88.74504449986017,
+      "proper": false,
+      "niches": [
+        "ai",
+        "finance",
+        "software",
+        "general"
+      ],
+      "examples": [
+        {
+          "title": "10 Best AI Tools for Students to Boost Grades in 2026",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9TRl9SOFhNRW9QdFJCQnBoNTZPZ1VOT1loLWxwUW5yMFNPVHEzNXR6M3lSV2pVWDlaOTZOZV9RblBVdUotQThyV1lqMWk4RGQyWlQ2em5sYmN5SU11THp1MNIBYEFVX3lxTE9TRl9SOFhNRW9QdFJCQnBoNTZPZ1VOT1loLWxwUW5yMFNPVHEzNXR6M3lSV2pVWDlaOTZOZV9RblBVdUotQThyV1lqMWk4RGQyWlQ2em5sYmN5SU11THp1MA?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "AI Tools Help Students Boost Grades in 2026",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONmRWUU1RRWJTalhOVnNKeS0wRWdjU2N4OGg4YjRkejlrVkNlNmxHdnVOd0dqM19VSzg1QTMxeExzMng2RVo1bi1yeXRuVDdZUFdCRVBmbnIyZ2VnVFFrbEZYbVo4dnJFY0FldTRXdlFCMm9KU2pnOHhXY0x3OGF6anVORS1ENDgxYzRxTGJR?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Best 21 Low-Code and No-Code AI Tools in 2026",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQREhlRDJ5Q0FhMzBleHkzZHFyMm05NHZ6bWRTTWgwaXV3U1RRZVpHUHB4SWQ2dFFqTzUzdU1SeVI5SG9RQUVpYXV4NzlVLW1pc3c4WDVIWEMzRVVhTGNSa29ZZG1GRkZMRVdOelcxUnRleFJjMmcyOVcwTEZxY1JEbjBRSm5YSERyUUZ1Uzlhbw?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "2 FTSE investment trusts to consider for passive income in 2026",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWElEY3d0aW1za3pLRGVjX1FLQ1pUMS1jRUptUk9LUUNUcGwza1lkWFVVNlE2MmVXcXREQ29VOTVfblFOTk5hTXkyckhWRWNid3FJWkFsMU9IRVlJcVNpUUFMY3JWYkt2a2VFNGZlUU9SbXBpOGZmY2NRM2piX3NzWXpScnZrenBQZFE?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Best Exercise Equipment Memorial Day Sales for 2026",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdFBSLVV3UGdKTFFpMlp0c2ZTU2swU29TM2dyWXB0VGxMN3k3UGVGbm1HSDNqZms2b1hNcTdjZzFNNWx3aEJPRjUxbUxvc1A2SGFRZVZUa3hWOHVPYmY1aE9NeHFvWnBxSGhIaERXeUdjV0RNQlpSWGlDSVZoU0x3VA?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "436796f27eb8",
+      "slug": "2026-_blank"
+    },
+    {
+      "keyword": "lossless scaling",
+      "count": 8,
+      "score": 82.98320620297709,
+      "proper": true,
+      "niches": [
+        "software"
+      ],
+      "examples": [
+        {
+          "title": "RestrictionGuru/Lossless-Scaling-Download-2026 — ⭐️ Lossless Scaling — full lifetime version of the popular upscaling tool. Greatly improves image quality in games and videos using smart algorithms, i",
+          "url": "https://github.com/RestrictionGuru/Lossless-Scaling-Download-2026",
+          "source": "github"
+        },
+        {
+          "title": "RestrictionGuru/Lossless-Scaling-Download-2026 — ⭐️ Lossless Scaling — full lifetime version of the popular upscaling tool. Greatly improves image quality in games and videos using smart algorithms, i",
+          "url": "https://github.com/RestrictionGuru/Lossless-Scaling-Download-2026",
+          "source": "github"
+        }
+      ],
+      "id": "b3d5e956298f",
+      "slug": "lossless-scaling"
+    },
+    {
+      "keyword": "desktop",
+      "count": 10,
+      "score": 82.7564110108141,
+      "proper": true,
+      "niches": [
+        "software"
+      ],
+      "examples": [
+        {
+          "title": "DistributorTouch/Midjourney-Bot-Premium-Desktop — Standalone desktop client for Midjourney API. Unlimited fast hours and bypass Discord UI limitations.",
+          "url": "https://github.com/DistributorTouch/Midjourney-Bot-Premium-Desktop",
+          "source": "github"
+        },
+        {
+          "title": "ShoreAbleCorrect/Canva-Pro-Desktop-Windows — Graphic design platform patched to unlock all Pro templates and premium assets.",
+          "url": "https://github.com/ShoreAbleCorrect/Canva-Pro-Desktop-Windows",
+          "source": "github"
+        }
+      ],
+      "id": "68693d02ab4f",
+      "slug": "desktop"
+    },
+    {
+      "keyword": "loch shieldaig",
+      "count": 8,
+      "score": 74.284740527753,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "22:15 last night, Loch Shieldaig.",
+          "url": "https://mastodonapp.uk/@GetCarter/116712301343063616",
+          "source": "mastodon"
+        },
+        {
+          "title": "22:15 last night, Loch Shieldaig.",
+          "url": "https://mastodonapp.uk/@GetCarter/116712301343063616",
+          "source": "mastodon"
+        }
+      ],
+      "id": "6699bccbc1e2",
+      "slug": "loch-shieldaig"
+    },
+    {
+      "keyword": "montara mountain",
+      "count": 8,
+      "score": 69.87048712480777,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "beautiful jog up the west flank of Montara Mountain, across the tunnels, and back down to Devil’s Slide and McNee Ranch. glad the fog held off the coast, I miscalculated the distance of this route and",
+          "url": "https://mastodon.social/@midendian/116712211745627644",
+          "source": "mastodon"
+        },
+        {
+          "title": "beautiful jog up the west flank of Montara Mountain, across the tunnels, and back down to Devil’s Slide and McNee Ranch. glad the fog held off the coast, I miscalculated the distance of this route and",
+          "url": "https://mastodon.social/@midendian/116712211745627644",
+          "source": "mastodon"
+        }
+      ],
+      "id": "7725b5a40031",
+      "slug": "montara-mountain"
+    },
+    {
+      "keyword": "deepseek v4 pro",
+      "count": 5,
+      "score": 68.1670876409973,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "DeepSeek V4 Pro beats GPT-5.5 Pro on precision",
+          "url": "https://runtimewire.com/article/deepseek-v4-pro-beats-gpt-5-5-pro-on-precision",
+          "source": "hackernews"
+        }
+      ],
+      "id": "f8202526b8a2",
+      "slug": "deepseek-v4-pro"
     },
     {
       "keyword": "agent skill",
       "count": 8,
-      "score": 83.30112227483204,
+      "score": 67.73179106033004,
       "proper": true,
       "niches": [
         "ai"
@@ -403,248 +711,97 @@
       ],
       "id": "bbe4337ea159",
       "slug": "agent-skill"
-    },
-    {
-      "keyword": "claude code",
-      "count": 8,
-      "score": 83.30112227483204,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "JimLiu/baoyu-design — Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/de",
-          "url": "https://github.com/JimLiu/baoyu-design",
-          "source": "github"
-        },
-        {
-          "title": "JimLiu/baoyu-design — Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/de",
-          "url": "https://github.com/JimLiu/baoyu-design",
-          "source": "github"
-        }
-      ],
-      "id": "a625159d18da",
-      "slug": "claude-code"
-    },
-    {
-      "keyword": "empires ii",
-      "count": 10,
-      "score": 73.71055002982702,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "If LLMs Have Human-Like Attributes, Then So Does Age of Empires II",
-          "url": "https://arxiv.org/abs/2605.31514",
-          "source": "hackernews"
-        },
-        {
-          "title": "If LLMs Have Human-Like Attributes, Then So Does Age of Empires II",
-          "url": "https://arxiv.org/pdf/2605.31514",
-          "source": "lobsters"
-        }
-      ],
-      "id": "558f0bb57404",
-      "slug": "empires-ii"
-    },
-    {
-      "keyword": "schweizer entwicklungsteams",
-      "count": 8,
-      "score": 72.48251457876525,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "CWS6206/ai-coding-starter-kit — Kuratierte Agent Skills, Checklisten, Templates und Leitfäden für Schweizer Entwicklungsteams – direkt aus meinen Blog-Artikeln destilliert.",
-          "url": "https://github.com/CWS6206/ai-coding-starter-kit",
-          "source": "github"
-        },
-        {
-          "title": "CWS6206/ai-coding-starter-kit — Kuratierte Agent Skills, Checklisten, Templates und Leitfäden für Schweizer Entwicklungsteams – direkt aus meinen Blog-Artikeln destilliert.",
-          "url": "https://github.com/CWS6206/ai-coding-starter-kit",
-          "source": "github"
-        }
-      ],
-      "id": "649e084a5075",
-      "slug": "schweizer-entwicklungsteams"
-    },
-    {
-      "keyword": "noopapp",
-      "count": 5,
-      "score": 71.16824105812911,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "NoopApp/noop — Offline WHOOP companion — pair your strap over Bluetooth, keep all data on your own device. No cloud, no account, no subscription.",
-          "url": "https://github.com/NoopApp/noop",
-          "source": "github"
-        }
-      ],
-      "id": "d8c8c025bef2",
-      "slug": "noopapp"
-    },
-    {
-      "keyword": "agentic ai",
-      "count": 10,
-      "score": 62.317968223650574,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "Agentic AI solved coding — and exposed every other problem in software engineering",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNTNPVE5iWVhKYjFTS09KbmRwUlFvVzJ1UFA5VzFoVTVGbjJJd1JYZE1yaXJJVy1GMG96a09BTUxleWJhX3JrQTNZY0tYSUhNbUpBQVhwTzR3eno5UFJfV1ZRd3F3ckZpbnBUNDR5ZU5IT3JySlZWcFN5bEYwVlRiUHhVMGxzVEhyOURpOS1rZmh3NUpXUnhSeWlpT0VOcW1WTXM3WmxnQkRGalhOSlNSS3NBU2hGQQ?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Agentic AI could disrupt the internet the way AI coding disrupted software: UBS' Hoffmann-Burchardi",
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQakgzOWd6LVBoR0xSSHFKSHh2Y1luOW5WSENhVC05VUppYXd2UUR0dTFvVVFLUnVZUUlUSk9acGF5UHh1X1owU2JpR3VnSHlnMEhac1BwQVFzd0Z1UVQ4REdXcTUwUkItNnBUVTRXM2pxWGpNTUJQRmZhRWxYWW1uWGFnYlhBcjY5aVBGUEZxcGtSem9JdzlZRi1TMUx4SWpQVzN5Q3lmS1JoeGpqZGYzMWQ5WDl2REs0aGNhb0UxdW5vVVgwaUl1ZEVrb0tHWkZJU2pDZXVmaw?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "f0e5f53af7e6",
-      "slug": "agentic-ai"
-    },
-    {
-      "keyword": "disguised russian",
-      "count": 11,
-      "score": 58.118279060752386,
-      "proper": true,
-      "niches": [
-        "software"
-      ],
-      "examples": [
-        {
-          "title": "Disguised Russian banking app surged to top three on the US App Store",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSlFPQ2hXejB4Vi1iWWE3TWNEU2hFWHlic2FtNElPY2xqSU9jeWxwdThSUTAtd2swdEtuQTlJTVAwSnpmODhPZnNkYk01d00yamRuUkpXY09VOG94SUR6YlFDQWVhSExtMkt6Q1RCdGV2SDZWZ0xCcU1FM0VHNVJObk90MzR5cDd0VmRFZW5ZVVRwNHZIMlVRTjc1VW9xU3NzaVJB?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Disguised Russian banking app surged to top three on the US App Store",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSlFPQ2hXejB4Vi1iWWE3TWNEU2hFWHlic2FtNElPY2xqSU9jeWxwdThSUTAtd2swdEtuQTlJTVAwSnpmODhPZnNkYk01d00yamRuUkpXY09VOG94SUR6YlFDQWVhSExtMkt6Q1RCdGV2SDZWZ0xCcU1FM0VHNVJObk90MzR5cDd0VmRFZW5ZVVRwNHZIMlVRTjc1VW9xU3NzaVJB?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Disguised Russian banking app surged to top three on the US App Store",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSlFPQ2hXejB4Vi1iWWE3TWNEU2hFWHlic2FtNElPY2xqSU9jeWxwdThSUTAtd2swdEtuQTlJTVAwSnpmODhPZnNkYk01d00yamRuUkpXY09VOG94SUR6YlFDQWVhSExtMkt6Q1RCdGV2SDZWZ0xCcU1FM0VHNVJObk90MzR5cDd0VmRFZW5ZVVRwNHZIMlVRTjc1VW9xU3NzaVJB?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "5b10bdb97866",
-      "slug": "disguised-russian"
-    },
-    {
-      "keyword": "frontier ai",
-      "count": 5,
-      "score": 54.52419855687597,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "\"The model is not the story. A cartel is the story.\"This is well worth a read if you're on the Frontier AI train... because there's some minor details you might be missing.https://www.flyingpenguin.co",
-          "url": "https://cyberplace.social/@GossiTheDog/116710138152248123",
-          "source": "mastodon"
-        }
-      ],
-      "id": "cea74be0acff",
-      "slug": "frontier-ai"
-    },
-    {
-      "keyword": "productivity apps",
-      "count": 27,
-      "score": 54.325011429747576,
-      "proper": false,
-      "niches": [
-        "software"
-      ],
-      "examples": [
-        {
-          "title": "Consumer Productivity Apps",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAteEZfVnFoSTNuTFdfemp3VEFXOGFKbnpfaFREZ0t0a205Y1JkUGJEemFBX2VLLUZBVTBVRzhleHNOV2ZWRFVyY3BFN1FNTDVWQ1M4aHpFMEFsMXRLUm83c9IBYEFVX3lxTFAteEZfVnFoSTNuTFdfemp3VEFXOGFKbnpfaFREZ0t0a205Y1JkUGJEemFBX2VLLUZBVTBVRzhleHNOV2ZWRFVyY3BFN1FNTDVWQ1M4aHpFMEFsMXRLUm83cw?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Consumer Productivity Apps",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAteEZfVnFoSTNuTFdfemp3VEFXOGFKbnpfaFREZ0t0a205Y1JkUGJEemFBX2VLLUZBVTBVRzhleHNOV2ZWRFVyY3BFN1FNTDVWQ1M4aHpFMEFsMXRLUm83c9IBYEFVX3lxTFAteEZfVnFoSTNuTFdfemp3VEFXOGFKbnpfaFREZ0t0a205Y1JkUGJEemFBX2VLLUZBVTBVRzhleHNOV2ZWRFVyY3BFN1FNTDVWQ1M4aHpFMEFsMXRLUm83cw?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "This tool replaces your pile of productivity apps for $65 for life",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVUd4Z1hPelFOZ0NQT3VZcXhoRUdGSGZvSDBJeEhrRkphR1ZzNG5CMFRMLW1Edk42Qzd1UVFJMmt5a3dhbU9tTi1hOTVEV1pPY1Zteks2OGVOSW5lQVJEVFR3ZTJPNDlEYmV1M0txRS1KMmlxRVhYYjRZTWt2WlYxenhGNWd3ejY2cDhockNEMzNzZi1oVkFYRlZEZnpkRVZSOXM0QlA3Z9IBrAFBVV95cUxQbGZucTNlcXhxRW9ST3ktMkxYQ00xVkNRQlgyM1JLVFZ1V2h3bkFvdzQ2RDRrQTQ5MTVoMkpvRk41aWh0NFdaR2kxYTJnUGRjdE9kNzdTMTN2M2NlZkN6bndDQmpTOU1xcGs5YUtpQlNRUWxZNURnb1ZoZTJndVp1d0ZKSl9mSk1RLUF6bFc3WnFLRHdMbVJqT3N2a3k4RDVpSVVDQXBjSUozVmhz?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "The Best Productivity Apps for 2026",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUWdjWkQzZTNMTXlTWkpWd3UyXzdtZDduUXd6MEkyd1hBeWJFV1Q0bW5mOTdOemlRNWNlUEpQcXZjS3RRTkZzS3dWakNLeV8zdUtSOVBrajVfaGVTRzFSWE8temxZenNxamdLNVpYaDNMQURUMGpqNnc4cVhOWHhMNm5oNGU?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "The Best Productivity Apps for 2026",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUWdjWkQzZTNMTXlTWkpWd3UyXzdtZDduUXd6MEkyd1hBeWJFV1Q0bW5mOTdOemlRNWNlUEpQcXZjS3RRTkZzS3dWakNLeV8zdUtSOVBrajVfaGVTRzFSWE8temxZenNxamdLNVpYaDNMQURUMGpqNnc4cVhOWHhMNm5oNGU?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "c3d816ac2a46",
-      "slug": "productivity-apps"
-    },
-    {
-      "keyword": "produce",
-      "count": 5,
-      "score": 52.063201421770025,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "JimLiu/baoyu-design — Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/de",
-          "url": "https://github.com/JimLiu/baoyu-design",
-          "source": "github"
-        }
-      ],
-      "id": "1198780b3af7",
-      "slug": "produce"
-    },
-    {
-      "keyword": "leveraging guix",
-      "count": 8,
-      "score": 47.047032331538084,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "The Guix Nix Abomination: Leveraging Guix derivations in Nix",
-          "url": "https://fzakaria.com/2026/06/05/the-guix-nix-abomination-leveraging-guix-derivations-in-nix",
-          "source": "lobsters"
-        },
-        {
-          "title": "The Guix Nix Abomination: Leveraging Guix derivations in Nix",
-          "url": "https://fzakaria.com/2026/06/05/the-guix-nix-abomination-leveraging-guix-derivations-in-nix",
-          "source": "lobsters"
-        }
-      ],
-      "id": "a93444ca135f",
-      "slug": "leveraging-guix"
     }
   ],
   "opportunities": [
     {
+      "keyword": "boost grades",
+      "count": 22,
+      "score": 246.94946414092595,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "10 Best AI Tools for Students to Boost Grades in 2026",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9TRl9SOFhNRW9QdFJCQnBoNTZPZ1VOT1loLWxwUW5yMFNPVHEzNXR6M3lSV2pVWDlaOTZOZV9RblBVdUotQThyV1lqMWk4RGQyWlQ2em5sYmN5SU11THp1MNIBYEFVX3lxTE9TRl9SOFhNRW9QdFJCQnBoNTZPZ1VOT1loLWxwUW5yMFNPVHEzNXR6M3lSV2pVWDlaOTZOZV9RblBVdUotQThyV1lqMWk4RGQyWlQ2em5sYmN5SU11THp1MA?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "10 Best AI Tools for Students to Boost Grades in 2026",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9TRl9SOFhNRW9QdFJCQnBoNTZPZ1VOT1loLWxwUW5yMFNPVHEzNXR6M3lSV2pVWDlaOTZOZV9RblBVdUotQThyV1lqMWk4RGQyWlQ2em5sYmN5SU11THp1MNIBYEFVX3lxTE9TRl9SOFhNRW9QdFJCQnBoNTZPZ1VOT1loLWxwUW5yMFNPVHEzNXR6M3lSV2pVWDlaOTZOZV9RblBVdUotQThyV1lqMWk4RGQyWlQ2em5sYmN5SU11THp1MA?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "10 Best AI Tools for Students to Boost Grades in 2026",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9TRl9SOFhNRW9QdFJCQnBoNTZPZ1VOT1loLWxwUW5yMFNPVHEzNXR6M3lSV2pVWDlaOTZOZV9RblBVdUotQThyV1lqMWk4RGQyWlQ2em5sYmN5SU11THp1MNIBYEFVX3lxTE9TRl9SOFhNRW9QdFJCQnBoNTZPZ1VOT1loLWxwUW5yMFNPVHEzNXR6M3lSV2pVWDlaOTZOZV9RblBVdUotQThyV1lqMWk4RGQyWlQ2em5sYmN5SU11THp1MA?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "AI Tools Help Students Boost Grades in 2026",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONmRWUU1RRWJTalhOVnNKeS0wRWdjU2N4OGg4YjRkejlrVkNlNmxHdnVOd0dqM19VSzg1QTMxeExzMng2RVo1bi1yeXRuVDdZUFdCRVBmbnIyZ2VnVFFrbEZYbVo4dnJFY0FldTRXdlFCMm9KU2pnOHhXY0x3OGF6anVORS1ENDgxYzRxTGJR?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "AI Tools Help Students Boost Grades in 2026",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONmRWUU1RRWJTalhOVnNKeS0wRWdjU2N4OGg4YjRkejlrVkNlNmxHdnVOd0dqM19VSzg1QTMxeExzMng2RVo1bi1yeXRuVDdZUFdCRVBmbnIyZ2VnVFFrbEZYbVo4dnJFY0FldTRXdlFCMm9KU2pnOHhXY0x3OGF6anVORS1ENDgxYzRxTGJR?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "456b2f3d927a",
+      "slug": "boost-grades",
+      "opportunity": {
+        "type": "niche-content",
+        "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
+      }
+    },
+    {
+      "keyword": "passive income",
+      "count": 48,
+      "score": 124.53916941589796,
+      "proper": false,
+      "niches": [
+        "finance"
+      ],
+      "examples": [
+        {
+          "title": "How much is needed in a Stocks and Shares ISA to target a £1,370 monthly passive income?",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQXFiNWxUbEpORnlHMlM4b3BLaGp3N0loZ182U3cyN05wZWUta3NkRnk0UFo5ejBZd2V6N2dEY3VweEliMHdZN19ielVrRE1JNTU2cTJlRzhLOWhybG5VN3h2TXpDVDRvQ2pLTUlKOHF4aEVWcVdoZ0trTlRRNi1WdTFZdlQ?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "How much is needed in a Stocks and Shares ISA to target a £1,370 monthly passive income?",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQXFiNWxUbEpORnlHMlM4b3BLaGp3N0loZ182U3cyN05wZWUta3NkRnk0UFo5ejBZd2V6N2dEY3VweEliMHdZN19ielVrRE1JNTU2cTJlRzhLOWhybG5VN3h2TXpDVDRvQ2pLTUlKOHF4aEVWcVdoZ0trTlRRNi1WdTFZdlQ?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Here’s how much is needed in an ISA to earn £46,918 of passive income a year",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8tRlpQVWJHNGpfdDNQODJEM1NVU1NTNW9BZzdPQXBMUTJISlBHeTNMQTQwSmlEbnhFOElleU1XV04tbEdkZFlROTc5N2RQZ2twS3dHR1dkYnNpNmVPMlQxR243RURkaTZhdXRYb1pIWHNsdFc1ck84b1pPN04?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Here’s how much is needed in an ISA to earn £46,918 of passive income a year",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8tRlpQVWJHNGpfdDNQODJEM1NVU1NTNW9BZzdPQXBMUTJISlBHeTNMQTQwSmlEbnhFOElleU1XV04tbEdkZFlROTc5N2RQZ2twS3dHR1dkYnNpNmVPMlQxR243RURkaTZhdXRYb1pIWHNsdFc1ck84b1pPN04?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "How much is needed in an ISA to target a £1,046 monthly passive income in retirement?",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1fRXNjNTZzQ0d0MU1VUkJqMWZYVHZTVW9Nb0FqQ1c2R0l1eWRXaUtLbkZPbWFUNkxMVUZUSzl1VE1oWmxfOGs5VXYyQW1aM3BkOVlqVElhV1VMalJGUkhVeXpESGU3NHllTVBKdFB6c2tuWnlWRzE4Wi13bG1VQQ?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "cf2dbbbf8c8c",
+      "slug": "passive-income",
+      "opportunity": {
+        "type": "niche-content",
+        "recommended": "Publish niche guide for \"finance\"; bundle into digital product later."
+      }
+    },
+    {
       "keyword": "offline whoop",
       "count": 8,
-      "score": 113.86918569300657,
+      "score": 100.68417051080439,
       "proper": true,
       "niches": [
         "ai"
@@ -669,41 +826,9 @@
       }
     },
     {
-      "keyword": "cassette beasts",
-      "count": 11,
-      "score": 113.853719913144,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "We're thrilled to announce CASSETTE BEASTS 2002, the next adventure from the world of Cassette Beasts, coming soon to all major platforms!We can't wait to tell you more - for now, check the announceme",
-          "url": "https://social.bytten-studio.com/@CassetteBeasts/116710552171604030",
-          "source": "mastodon"
-        },
-        {
-          "title": "We're thrilled to announce CASSETTE BEASTS 2002, the next adventure from the world of Cassette Beasts, coming soon to all major platforms!We can't wait to tell you more - for now, check the announceme",
-          "url": "https://social.bytten-studio.com/@CassetteBeasts/116710552171604030",
-          "source": "mastodon"
-        },
-        {
-          "title": "We're thrilled to announce CASSETTE BEASTS 2002, the next adventure from the world of Cassette Beasts, coming soon to all major platforms!We can't wait to tell you more - for now, check the announceme",
-          "url": "https://social.bytten-studio.com/@CassetteBeasts/116710552171604030",
-          "source": "mastodon"
-        }
-      ],
-      "id": "458f903c155c",
-      "slug": "cassette-beasts",
-      "opportunity": {
-        "type": "niche-content",
-        "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
-      }
-    },
-    {
       "keyword": "lego batman",
       "count": 8,
-      "score": 95.88294316532904,
+      "score": 97.13754317666545,
       "proper": true,
       "niches": [
         "software"
@@ -728,68 +853,9 @@
       }
     },
     {
-      "keyword": "jensen huang",
-      "count": 11,
-      "score": 85.15498763480204,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "'Complete nonsense': Nvidia's Jensen Huang says AI won't kill software jobs — and the data backs him up",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbWdfanhhRWt5d0FJTl82M0NPTWRGODFaSWFtbFVodUJGZ2g3WUVUd0dReEd1VFdzMlE5Rm9Vd3dBOHlweVBHZlg5eVFoYWJGemVfcUMyWjM3QWxhVjQ4Z1V3RUk5UlgyYUNhU3BHYzc5eHlWS1kyakV2ZXZ0RkJoY0FWWFBOQnl4MkRXYXU4MlBvWUpsTFhXWmZIMFpuekNaaUlVVWhsNjBIa3c?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "'Complete nonsense': Nvidia's Jensen Huang says AI won't kill software jobs — and the data backs him up",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbWdfanhhRWt5d0FJTl82M0NPTWRGODFaSWFtbFVodUJGZ2g3WUVUd0dReEd1VFdzMlE5Rm9Vd3dBOHlweVBHZlg5eVFoYWJGemVfcUMyWjM3QWxhVjQ4Z1V3RUk5UlgyYUNhU3BHYzc5eHlWS1kyakV2ZXZ0RkJoY0FWWFBOQnl4MkRXYXU4MlBvWUpsTFhXWmZIMFpuekNaaUlVVWhsNjBIa3c?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "'Complete nonsense': Nvidia's Jensen Huang says AI won't kill software jobs — and the data backs him up",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbWdfanhhRWt5d0FJTl82M0NPTWRGODFaSWFtbFVodUJGZ2g3WUVUd0dReEd1VFdzMlE5Rm9Vd3dBOHlweVBHZlg5eVFoYWJGemVfcUMyWjM3QWxhVjQ4Z1V3RUk5UlgyYUNhU3BHYzc5eHlWS1kyakV2ZXZ0RkJoY0FWWFBOQnl4MkRXYXU4MlBvWUpsTFhXWmZIMFpuekNaaUlVVWhsNjBIa3c?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "ecd7b976fdf1",
-      "slug": "jensen-huang",
-      "opportunity": {
-        "type": "niche-content",
-        "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
-      }
-    },
-    {
-      "keyword": "agent skill",
-      "count": 8,
-      "score": 83.30112227483204,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "JimLiu/baoyu-design — Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/de",
-          "url": "https://github.com/JimLiu/baoyu-design",
-          "source": "github"
-        },
-        {
-          "title": "JimLiu/baoyu-design — Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/de",
-          "url": "https://github.com/JimLiu/baoyu-design",
-          "source": "github"
-        }
-      ],
-      "id": "bbe4337ea159",
-      "slug": "agent-skill",
-      "opportunity": {
-        "type": "niche-content",
-        "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
-      }
-    },
-    {
       "keyword": "claude code",
-      "count": 8,
-      "score": 83.30112227483204,
+      "count": 19,
+      "score": 92.42673747442262,
       "proper": true,
       "niches": [
         "ai"
@@ -804,6 +870,21 @@
           "title": "JimLiu/baoyu-design — Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/de",
           "url": "https://github.com/JimLiu/baoyu-design",
           "source": "github"
+        },
+        {
+          "title": "Claude Code is the best AI coding tool I've used, and I’m not entirely sure if I can recommend it",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMnJUQnpneEtHMEJFZzZ0V0djN24zOVQyM3hpT09WYm5sUXBRVEo0QkFCZG50Q3RMMUtuczFwYk9aMEYxSFpBMVkxNDhrRmpOTUNJWE9teEVsR3JDYW9YMktENFYxQlBjTC1lM2hfYTJ3WkI4c0tyMTh3X0UzSWUwVUFMRlQtSjhIcnRuTTVYUW9OeXFVbUtHYmt3?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Claude Code is the best AI coding tool I've used, and I’m not entirely sure if I can recommend it",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMnJUQnpneEtHMEJFZzZ0V0djN24zOVQyM3hpT09WYm5sUXBRVEo0QkFCZG50Q3RMMUtuczFwYk9aMEYxSFpBMVkxNDhrRmpOTUNJWE9teEVsR3JDYW9YMktENFYxQlBjTC1lM2hfYTJ3WkI4c0tyMTh3X0UzSWUwVUFMRlQtSjhIcnRuTTVYUW9OeXFVbUtHYmt3?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Claude Code is the best AI coding tool I've used, and I’m not entirely sure if I can recommend it",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMnJUQnpneEtHMEJFZzZ0V0djN24zOVQyM3hpT09WYm5sUXBRVEo0QkFCZG50Q3RMMUtuczFwYk9aMEYxSFpBMVkxNDhrRmpOTUNJWE9teEVsR3JDYW9YMktENFYxQlBjTC1lM2hfYTJ3WkI4c0tyMTh3X0UzSWUwVUFMRlQtSjhIcnRuTTVYUW9OeXFVbUtHYmt3?oc=5",
+          "source": "gnews"
         }
       ],
       "id": "a625159d18da",
@@ -814,54 +895,111 @@
       }
     },
     {
-      "keyword": "empires ii",
-      "count": 10,
-      "score": 73.71055002982702,
-      "proper": true,
+      "keyword": "tools students",
+      "count": 12,
+      "score": 89.79980514215488,
+      "proper": false,
       "niches": [
         "ai"
       ],
       "examples": [
         {
-          "title": "If LLMs Have Human-Like Attributes, Then So Does Age of Empires II",
-          "url": "https://arxiv.org/abs/2605.31514",
-          "source": "hackernews"
+          "title": "10 Best AI Tools for Students to Boost Grades in 2026",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9TRl9SOFhNRW9QdFJCQnBoNTZPZ1VOT1loLWxwUW5yMFNPVHEzNXR6M3lSV2pVWDlaOTZOZV9RblBVdUotQThyV1lqMWk4RGQyWlQ2em5sYmN5SU11THp1MNIBYEFVX3lxTE9TRl9SOFhNRW9QdFJCQnBoNTZPZ1VOT1loLWxwUW5yMFNPVHEzNXR6M3lSV2pVWDlaOTZOZV9RblBVdUotQThyV1lqMWk4RGQyWlQ2em5sYmN5SU11THp1MA?oc=5",
+          "source": "gnews"
         },
         {
-          "title": "If LLMs Have Human-Like Attributes, Then So Does Age of Empires II",
-          "url": "https://arxiv.org/pdf/2605.31514",
-          "source": "lobsters"
+          "title": "10 Best AI Tools for Students to Boost Grades in 2026",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9TRl9SOFhNRW9QdFJCQnBoNTZPZ1VOT1loLWxwUW5yMFNPVHEzNXR6M3lSV2pVWDlaOTZOZV9RblBVdUotQThyV1lqMWk4RGQyWlQ2em5sYmN5SU11THp1MNIBYEFVX3lxTE9TRl9SOFhNRW9QdFJCQnBoNTZPZ1VOT1loLWxwUW5yMFNPVHEzNXR6M3lSV2pVWDlaOTZOZV9RblBVdUotQThyV1lqMWk4RGQyWlQ2em5sYmN5SU11THp1MA?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "AI Tools Help Students Boost Grades in 2026",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONmRWUU1RRWJTalhOVnNKeS0wRWdjU2N4OGg4YjRkejlrVkNlNmxHdnVOd0dqM19VSzg1QTMxeExzMng2RVo1bi1yeXRuVDdZUFdCRVBmbnIyZ2VnVFFrbEZYbVo4dnJFY0FldTRXdlFCMm9KU2pnOHhXY0x3OGF6anVORS1ENDgxYzRxTGJR?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "AI Tools Help Students Boost Grades in 2026",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONmRWUU1RRWJTalhOVnNKeS0wRWdjU2N4OGg4YjRkejlrVkNlNmxHdnVOd0dqM19VSzg1QTMxeExzMng2RVo1bi1yeXRuVDdZUFdCRVBmbnIyZ2VnVFFrbEZYbVo4dnJFY0FldTRXdlFCMm9KU2pnOHhXY0x3OGF6anVORS1ENDgxYzRxTGJR?oc=5",
+          "source": "gnews"
         }
       ],
-      "id": "558f0bb57404",
-      "slug": "empires-ii",
+      "id": "1b585c72bf79",
+      "slug": "tools-students",
+      "opportunity": {
+        "type": "affiliate",
+        "recommended": "Write SEO comparison/roundup article with affiliate links."
+      }
+    },
+    {
+      "keyword": "students boost",
+      "count": 12,
+      "score": 89.79980514215488,
+      "proper": false,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "10 Best AI Tools for Students to Boost Grades in 2026",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9TRl9SOFhNRW9QdFJCQnBoNTZPZ1VOT1loLWxwUW5yMFNPVHEzNXR6M3lSV2pVWDlaOTZOZV9RblBVdUotQThyV1lqMWk4RGQyWlQ2em5sYmN5SU11THp1MNIBYEFVX3lxTE9TRl9SOFhNRW9QdFJCQnBoNTZPZ1VOT1loLWxwUW5yMFNPVHEzNXR6M3lSV2pVWDlaOTZOZV9RblBVdUotQThyV1lqMWk4RGQyWlQ2em5sYmN5SU11THp1MA?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "10 Best AI Tools for Students to Boost Grades in 2026",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9TRl9SOFhNRW9QdFJCQnBoNTZPZ1VOT1loLWxwUW5yMFNPVHEzNXR6M3lSV2pVWDlaOTZOZV9RblBVdUotQThyV1lqMWk4RGQyWlQ2em5sYmN5SU11THp1MNIBYEFVX3lxTE9TRl9SOFhNRW9QdFJCQnBoNTZPZ1VOT1loLWxwUW5yMFNPVHEzNXR6M3lSV2pVWDlaOTZOZV9RblBVdUotQThyV1lqMWk4RGQyWlQ2em5sYmN5SU11THp1MA?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "AI Tools Help Students Boost Grades in 2026",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONmRWUU1RRWJTalhOVnNKeS0wRWdjU2N4OGg4YjRkejlrVkNlNmxHdnVOd0dqM19VSzg1QTMxeExzMng2RVo1bi1yeXRuVDdZUFdCRVBmbnIyZ2VnVFFrbEZYbVo4dnJFY0FldTRXdlFCMm9KU2pnOHhXY0x3OGF6anVORS1ENDgxYzRxTGJR?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "AI Tools Help Students Boost Grades in 2026",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONmRWUU1RRWJTalhOVnNKeS0wRWdjU2N4OGg4YjRkejlrVkNlNmxHdnVOd0dqM19VSzg1QTMxeExzMng2RVo1bi1yeXRuVDdZUFdCRVBmbnIyZ2VnVFFrbEZYbVo4dnJFY0FldTRXdlFCMm9KU2pnOHhXY0x3OGF6anVORS1ENDgxYzRxTGJR?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "9fab89bcef52",
+      "slug": "students-boost",
       "opportunity": {
         "type": "niche-content",
         "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
       }
     },
     {
-      "keyword": "schweizer entwicklungsteams",
-      "count": 8,
-      "score": 72.48251457876525,
-      "proper": true,
+      "keyword": "grades 2026",
+      "count": 12,
+      "score": 89.79980514215488,
+      "proper": false,
       "niches": [
         "ai"
       ],
       "examples": [
         {
-          "title": "CWS6206/ai-coding-starter-kit — Kuratierte Agent Skills, Checklisten, Templates und Leitfäden für Schweizer Entwicklungsteams – direkt aus meinen Blog-Artikeln destilliert.",
-          "url": "https://github.com/CWS6206/ai-coding-starter-kit",
-          "source": "github"
+          "title": "10 Best AI Tools for Students to Boost Grades in 2026",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9TRl9SOFhNRW9QdFJCQnBoNTZPZ1VOT1loLWxwUW5yMFNPVHEzNXR6M3lSV2pVWDlaOTZOZV9RblBVdUotQThyV1lqMWk4RGQyWlQ2em5sYmN5SU11THp1MNIBYEFVX3lxTE9TRl9SOFhNRW9QdFJCQnBoNTZPZ1VOT1loLWxwUW5yMFNPVHEzNXR6M3lSV2pVWDlaOTZOZV9RblBVdUotQThyV1lqMWk4RGQyWlQ2em5sYmN5SU11THp1MA?oc=5",
+          "source": "gnews"
         },
         {
-          "title": "CWS6206/ai-coding-starter-kit — Kuratierte Agent Skills, Checklisten, Templates und Leitfäden für Schweizer Entwicklungsteams – direkt aus meinen Blog-Artikeln destilliert.",
-          "url": "https://github.com/CWS6206/ai-coding-starter-kit",
-          "source": "github"
+          "title": "10 Best AI Tools for Students to Boost Grades in 2026",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9TRl9SOFhNRW9QdFJCQnBoNTZPZ1VOT1loLWxwUW5yMFNPVHEzNXR6M3lSV2pVWDlaOTZOZV9RblBVdUotQThyV1lqMWk4RGQyWlQ2em5sYmN5SU11THp1MNIBYEFVX3lxTE9TRl9SOFhNRW9QdFJCQnBoNTZPZ1VOT1loLWxwUW5yMFNPVHEzNXR6M3lSV2pVWDlaOTZOZV9RblBVdUotQThyV1lqMWk4RGQyWlQ2em5sYmN5SU11THp1MA?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "AI Tools Help Students Boost Grades in 2026",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONmRWUU1RRWJTalhOVnNKeS0wRWdjU2N4OGg4YjRkejlrVkNlNmxHdnVOd0dqM19VSzg1QTMxeExzMng2RVo1bi1yeXRuVDdZUFdCRVBmbnIyZ2VnVFFrbEZYbVo4dnJFY0FldTRXdlFCMm9KU2pnOHhXY0x3OGF6anVORS1ENDgxYzRxTGJR?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "AI Tools Help Students Boost Grades in 2026",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONmRWUU1RRWJTalhOVnNKeS0wRWdjU2N4OGg4YjRkejlrVkNlNmxHdnVOd0dqM19VSzg1QTMxeExzMng2RVo1bi1yeXRuVDdZUFdCRVBmbnIyZ2VnVFFrbEZYbVo4dnJFY0FldTRXdlFCMm9KU2pnOHhXY0x3OGF6anVORS1ENDgxYzRxTGJR?oc=5",
+          "source": "gnews"
         }
       ],
-      "id": "649e084a5075",
-      "slug": "schweizer-entwicklungsteams",
+      "id": "ec87b71d51a1",
+      "slug": "grades-2026",
       "opportunity": {
         "type": "niche-content",
         "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."

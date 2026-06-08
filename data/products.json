@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "slug": "prompt-pack-loch-shieldaig-2026-06-08",
+      "title": "Loch Shieldaig Prompt Pack — 50 Battle-Tested Prompts",
+      "blurb": "50 proven prompts for Loch Shieldaig. Copy/paste ready. Tested across Claude, GPT, Gemini.",
+      "type": "prompt-pack",
+      "topic": "Loch Shieldaig",
+      "niche": "ai",
+      "price": 19,
+      "generatedAt": "2026-06-08T05:28:45.470Z",
+      "files": [
+        "prompts.md",
+        "README.md",
+        "LICENSE.txt"
+      ]
+    },
+    {
+      "slug": "prompt-pack-grades-2026-2026-06-08",
+      "title": "Grades 2026 Prompt Pack — 50 Battle-Tested Prompts",
+      "blurb": "50 proven prompts for Grades 2026. Copy/paste ready. Tested across Claude, GPT, Gemini.",
+      "type": "prompt-pack",
+      "topic": "Grades 2026",
+      "niche": "ai",
+      "price": 19,
+      "generatedAt": "2026-06-08T05:28:36.460Z",
+      "files": [
+        "prompts.md",
+        "README.md",
+        "LICENSE.txt"
+      ]
+    },
+    {
       "slug": "prompt-pack-noopapp-2026-06-07",
       "title": "Noopapp Prompt Pack — 50 Battle-Tested Prompts",
       "blurb": "50 proven prompts for Noopapp. Copy/paste ready. Tested across Claude, GPT, Gemini.",

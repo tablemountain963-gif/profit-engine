@@ -1,0 +1,72 @@
+How to Use
+Copy and paste these prompts into your preferred LLM tool, replacing [BRACKETED] variables with your specific needs to get started with Grades 2026.
+
+### Research
+1. Use Claude to analyze the impact of [STATE] education policies on Grades 2026, focusing on [SUBJECT] scores and providing 3 key recommendations for improvement. Consider the role of [TECHNOLOGY_INTEGRATION] in enhancing student outcomes. 
+2. Ask GPT to summarize the latest research on [EDUCATIONAL_TREND], highlighting its potential effects on Grades 2026 and providing 5 actionable strategies for educators to implement. Be sure to include [STATISTICS] to support the findings.
+3. Utilize Gemini to explore the relationship between [STUDENT_ENGAGEMENT] and academic performance in Grades 2026, identifying [BEST_PRACTICES] for teachers to increase student motivation and participation. Consider the impact of [SOCIALMEDIA] on student engagement.
+4. Request Claude to create a comprehensive bibliography on [TOPIC], including a minimum of [NUMBER] sources, to support research on Grades 2026 and provide a brief summary of each source. Organize the bibliography by [CATEGORY].
+5. Instruct GPT to conduct a comparative analysis of [EDUCATIONAL_SYSTEMS], focusing on their approaches to Grades 2026 and identifying [KEY_DIFFERENCES] that contribute to varying student outcomes. Use [DATA_VISUALIZATION] tools to illustrate the findings.
+
+### Drafting
+6. Ask Gemini to draft a [LENGTH]-word essay on the importance of [SUBJECT] in Grades 2026, incorporating [NUMBER] examples and [STATISTICS] to support the argument. Ensure the essay is written in [STYLE] and includes a clear [THESIS_STATEMENT].
+7. Use Claude to generate a [NUMBER]-item multiple-choice quiz on [TOPIC], tailored to Grades 2026 and including [DIFFICULTY_LEVEL] questions to assess student understanding. Provide detailed explanations for each answer.
+8. Request GPT to create a [LENGTH]-page report on the implementation of [INITIATIVE] in Grades 2026, discussing its [BENEFITS] and [CHALLENGES] and providing [RECOMMENDATIONS] for future improvement. Include [APPENDICES] with supporting data.
+9. Instruct Gemini to write a [LENGTH]-word blog post on [EDUCATIONAL_TREND], exploring its implications for Grades 2026 and offering [PRACTICAL_TIPS] for educators to integrate the trend into their teaching practices. Use [KEYWORD] optimization to improve visibility.
+10. Utilize Claude to develop a [NUMBER]-week lesson plan on [SUBJECT], aligned with Grades 2026 standards and incorporating [TECHNOLOGY_INTEGRATION] to enhance student learning. Include [ASSESSMENT_STRATEGIES] to evaluate student progress.
+
+### Analysis
+11. Ask GPT to analyze the correlation between [VARIABLE1] and [VARIABLE2] in Grades 2026, using [STATISTICAL_METHOD] to identify significant relationships and providing [INSIGHTS] for educators to inform instruction. Consider the impact of [CONFOUNDING_VARIABLES] on the analysis.
+12. Use Claude to evaluate the effectiveness of [INTERVENTION] on [OUTCOME] in Grades 2026, comparing [TREATMENT_GROUP] and [CONTROL_GROUP] results and discussing the implications for future [IMPLEMENTATION]. Ensure the analysis accounts for [EXTERNAL_FACTORS].
+13. Request Gemini to examine the relationship between [STUDENT_CHARACTERISTIC] and [ACADEMIC_PERFORMANCE] in Grades 2026, identifying [PATTERNS] and [TRENDS] that can inform targeted support strategies. Consider the role of [SOCIOECONOMIC_STATUS] in shaping student outcomes.
+14. Instruct GPT to conduct a [TYPE] analysis of [DATA_SET], focusing on Grades 2026 and extracting [INSIGHTS] to inform [DECISION_MAKING]. Use [DATA_VISUALIZATION] tools to present the findings and ensure the analysis is [REPLICABLE].
+15. Utilize Claude to assess the validity of [ASSESSMENT_TOOL] in measuring [CONSTRUCT] in Grades 2026, evaluating its [RELIABILITY] and [VALIDITY] and providing recommendations for [IMPROVEMENT]. Consider the impact of [BIAS] on the assessment results.
+
+### Automation
+16. Ask Gemini to automate the process of [TASK] for Grades 2026, using [TOOL] to streamline [WORKFLOW] and increase [EFFICIENCY]. Ensure the automation accounts for [EXCEPTIONS] and [EDGE_CASES].
+17. Use Claude to develop a [SCRIPT] that automates [PROCESS] for Grades 2026, integrating [API] to leverage [DATA] and improve [ACCURACY]. Test the script with [SAMPLE_DATA] to ensure [FUNCTIONALITY].
+18. Request GPT to create a [TEMPLATE] for [DOCUMENT_TYPE] in Grades 2026, using [STYLE_GUIDE] to ensure consistency and [BRAND_COMPLIANCE]. Include [PLACEHOLDERS] for [VARIABLES] and [FIELDS].
+19. Instruct Gemini to build a [MODEL] that predicts [OUTCOME] in Grades 2026, using [ALGORITHM] to analyze [DATA_SET] and identify [PATTERNS]. Evaluate the model's [PERFORMANCE] using [METRICS] and ensure it is [INTERPRETABLE].
+20. Utilize Claude to design a [SYSTEM] that automates [TASK] for Grades 2026, integrating [TOOL] and [SERVICE] to enhance [WORKFLOW] and reduce [ERRORS]. Ensure the system is [SCALABLE] and [SECURE].
+
+### Research
+21. Ask GPT to investigate the impact of [POLICY_INITIATIVE] on Grades 2026, analyzing [DATA_SET] and identifying [KEY_FINDINGS] that inform [RECOMMENDATIONS] for policymakers. Consider the role of [STAKEHOLDERS] in shaping the initiative's success.
+22. Use Claude to explore the relationship between [STUDENT_ATTITUDE] and [ACADEMIC_ACHIEVEMENT] in Grades 2026, using [SURVEY_DATA] to inform [STRATEGIES] for improving student motivation and engagement. Ensure the analysis accounts for [RESPONSE_BIAS].
+23. Request Gemini to examine the effects of [EDUCATIONAL_TECHNOLOGY] on [STUDENT_OUTCOMES] in Grades 2026, comparing [TREATMENT_GROUP] and [CONTROL_GROUP] results and discussing the implications for [FUTURE_RESEARCH]. Consider the impact of [TEACHER_TRAINING] on the effectiveness of the technology.
+24. Instruct GPT to conduct a [LITERATURE_REVIEW] on [TOPIC], focusing on Grades 2026 and identifying [GAPS] in current research that can inform [FUTURE_STUDIES]. Organize the review by [THEME] and ensure it includes [CRITICAL_EVALUATION] of the existing literature.
+25. Utilize Claude to analyze the correlation between [VARIABLE1] and [VARIABLE2] in Grades 2026, using [STATISTICAL_METHOD] to identify significant relationships and providing [INSIGHTS] for educators to inform instruction. Consider the impact of [CONFOUNDING_VARIABLES] on the analysis.
+
+### Drafting
+26. Ask Gemini to draft a [LENGTH]-word article on [EDUCATIONAL_TREND], exploring its implications for Grades 2026 and offering [PRACTICAL_TIPS] for educators to integrate the trend into their teaching practices. Use [KEYWORD] optimization to improve visibility and ensure the article includes [CALL_TO_ACTION].
+27. Use Claude to generate a [NUMBER]-item quiz on [TOPIC], tailored to Grades 2026 and including [DIFFICULTY_LEVEL] questions to assess student understanding. Provide detailed explanations for each answer and ensure the quiz is [ACCESSIBLE] for students with [DISABILITIES].
+28. Request GPT to create a [LENGTH]-page report on the implementation of [INITIATIVE] in Grades 2026, discussing its [BENEFITS] and [CHALLENGES] and providing [RECOMMENDATIONS] for future improvement. Include [APPENDICES] with supporting data and ensure the report is [REPLICABLE].
+29. Instruct Gemini to write a [LENGTH]-word blog post on [SUBJECT], exploring its relevance to Grades 2026 and offering [INSIGHTS] for educators to enhance student learning. Use [STORYTELLING_TECHNIQUES] to engage the reader and ensure the post includes [CALL_TO_ACTION].
+30. Utilize Claude to develop a [NUMBER]-week lesson plan on [SUBJECT], aligned with Grades 2026 standards and incorporating [TECHNOLOGY_INTEGRATION] to enhance student learning. Include [ASSESSMENT_STRATEGIES] to evaluate student progress and ensure the plan is [ADAPTIVE] to meet the needs of [DIVERSE_LEARNERS].
+
+### Analysis
+31. Ask GPT to evaluate the effectiveness of [INTERVENTION] on [OUTCOME] in Grades 2026, comparing [TREATMENT_GROUP] and [CONTROL_GROUP] results and discussing the implications for future [IMPLEMENTATION]. Ensure the analysis accounts for [EXTERNAL_FACTORS] and includes [SENSITIVITY_ANALYSIS] to test the robustness of the findings.
+32. Use Claude to examine the relationship between [STUDENT_CHARACTERISTIC] and [ACADEMIC_PERFORMANCE] in Grades 2026, identifying [PATTERNS] and [TRENDS] that can inform targeted support strategies. Consider the role of [SOCIOECONOMIC_STATUS] in shaping student outcomes and ensure the analysis includes [MULTIVARIATE_ANALYSIS] to control for [CONFOUNDING_VARIABLES].
+33. Request Gemini to assess the validity of [ASSESSMENT_TOOL] in measuring [CONSTRUCT] in Grades 2026, evaluating its [RELIABILITY] and [VALIDITY] and providing recommendations for [IMPROVEMENT]. Consider the impact of [BIAS] on the assessment results and ensure the evaluation includes [FACTOR_ANALYSIS] to examine the underlying structure of the assessment.
+34. Instruct GPT to conduct a [TYPE] analysis of [DATA_SET], focusing on Grades 2026 and extracting [INSIGHTS] to inform [DECISION_MAKING]. Use [DATA_VISUALIZATION] tools to present the findings and ensure the analysis is [REPLICABLE] and includes [UNCERTAINTY_QUANTIFICATION] to account for [MODEL_UNCERTAINTY].
+35. Utilize Claude to analyze the correlation between [VARIABLE1] and [VARIABLE2] in Grades 2026, using [STATISTICAL_METHOD] to identify significant relationships and providing [INSIGHTS] for educators to inform instruction. Consider the impact of [CONFOUNDING_VARIABLES] on the analysis and ensure the analysis includes [REGRESSION_ANALYSIS] to control for [CONFOUNDING_VARIABLES].
+
+### Automation
+36. Ask Gemini to automate the process of [TASK] for Grades 2026, using [TOOL] to streamline [WORKFLOW] and increase [EFFICIENCY]. Ensure the automation accounts for [EXCEPTIONS] and [EDGE_CASES] and includes [ERROR_HANDLING] to minimize [DOWNSTREAM_EFFECTS].
+37. Use Claude to develop a [SCRIPT] that automates [PROCESS] for Grades 2026, integrating [API] to leverage [DATA] and improve [ACCURACY]. Test the script with [SAMPLE_DATA] to ensure [FUNCTIONALITY] and include [LOGGING_MECHANISMS] to monitor [SCRIPT_PERFORMANCE].
+38. Request GPT to create a [TEMPLATE] for [DOCUMENT_TYPE] in Grades 2026, using [STYLE_GUIDE] to ensure consistency and [BRAND_COMPLIANCE]. Include [PLACEHOLDERS] for [VARIABLES] and [FIELDS] and ensure the template is [CUSTOMIZABLE] to meet the needs of [DIVERSE_USERS].
+39. Instruct Gemini to build a [MODEL] that predicts [OUTCOME] in Grades 2026, using [ALGORITHM] to analyze [DATA_SET] and identify [PATTERNS]. Evaluate the model's [PERFORMANCE] using [METRICS] and ensure it is [INTERPRETABLE] and includes [FEATURE_IMPORTANCE] to inform [DECISION_MAKING].
+40. Utilize Claude to design a [SYSTEM] that automates [TASK] for Grades 2026, integrating [TOOL] and [SERVICE] to enhance [WORKFLOW] and reduce [ERRORS]. Ensure the system is [SCALABLE] and [SECURE] and includes [BACKUP_MECHANISMS] to prevent [DATA_LOSS].
+
+### Research
+41. Ask GPT to investigate the impact of [POLICY_INITIATIVE] on Grades 2026, analyzing [DATA_SET] and identifying [KEY_FINDINGS] that inform [RECOMMENDATIONS] for policymakers. Consider the role of [STAKEHOLDERS] in shaping the initiative's success and ensure the analysis includes [SENSITIVITY_ANALYSIS] to test the robustness of the findings.
+42. Use Claude to explore the relationship between [STUDENT_ATTITUDE] and [ACADEMIC_ACHIEVEMENT] in Grades 2026, using [SURVEY_DATA] to inform [STRATEGIES] for improving student motivation and engagement. Ensure the analysis accounts for [RESPONSE_BIAS] and includes [MULTIVARIATE_ANALYSIS] to control for [CONFOUNDING_VARIABLES].
+43. Request Gemini to examine the effects of [EDUCATIONAL_TECHNOLOGY] on [STUDENT_OUTCOMES] in Grades 2026, comparing [TREATMENT_GROUP] and [CONTROL_GROUP] results and discussing the implications for [FUTURE_RESEARCH]. Consider the impact of [TEACHER_TRAINING] on the effectiveness of the technology and ensure the analysis includes [META_ANALYSIS] to synthesize the findings of multiple studies.
+44. Instruct GPT to conduct a [LITERATURE_REVIEW] on [TOPIC], focusing on Grades 2026 and identifying [GAPS] in current research that can inform [FUTURE_STUDIES]. Organize the review by [THEME] and ensure it includes [CRITICAL_EVALUATION] of the existing literature and [RECOMMENDATIONS] for future research directions.
+45. Utilize Claude to analyze the correlation between [VARIABLE1] and [VARIABLE2] in Grades 2026, using [STATISTICAL_METHOD] to identify significant relationships and providing [INSIGHTS] for educators to inform instruction. Consider the impact of [CONFOUNDING_VARIABLES] on the analysis and ensure the analysis includes [REGRESSION_ANALYSIS] to control for [CONFOUNDING_VARIABLES].
+
+### Drafting
+46. Ask Gemini to draft a [LENGTH]-word article on [EDUCATIONAL_TREND], exploring its implications for Grades 2026 and offering [PRACTICAL_TIPS] for educators to integrate the trend into their teaching practices. Use [KEYWORD] optimization to improve visibility and ensure the article includes [CALL_TO_ACTION] and [SUMMARY] of the main points.
+47. Use Claude to generate a [NUMBER]-item quiz on [TOPIC], tailored to Grades 2026 and including [DIFFICULTY_LEVEL] questions to assess student understanding. Provide detailed explanations for each answer and ensure the quiz is [ACCESSIBLE] for students with [DISABILITIES] and includes [ACCOMMODATIONS] for [ENGLISH_LANGUAGE_LEARNERS].
+48. Request GPT to create a [LENGTH]-page report on the implementation of [INITIATIVE] in Grades 2026, discussing its [BENEFITS] and [CHALLENGES] and providing [RECOMMENDATIONS] for future improvement. Include [APPENDICES] with supporting data and ensure the report is [REPLICABLE] and includes [LIMITATIONS] of the study.
+49. Instruct Gemini to write a [LENGTH]-word blog post on [SUBJECT], exploring its relevance to Grades 2026 and offering [INSIGHTS] for educators to enhance student learning. Use [STORYTELLING_TECHNIQUES] to engage the reader and ensure the post includes [CALL_TO_ACTION] and [RESOURCES] for further learning.
+50. Utilize Claude to develop a [NUMBER]-week lesson plan on [SUBJECT], aligned with Grades 2026 standards and incorporating [TECHNOLOGY_INTEGRATION] to enhance student learning. Include [ASSESSMENT_STRATEGIES] to evaluate student progress and ensure the plan is
