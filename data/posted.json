@@ -1,6 +1,21 @@
 {
   "x": [
     {
+      "slug": "timely-reminder-2026-06-09",
+      "topic": "Timely Reminder",
+      "tweetIds": [
+        "2064375515742355680",
+        "2064375523011146128",
+        "2064375530330132585",
+        "2064375537653494079",
+        "2064375544876093588",
+        "2064375552337691032",
+        "2064375559677702459",
+        "2064375567135224085"
+      ],
+      "postedAt": "2026-06-09T15:54:25.744Z"
+    },
+    {
       "slug": "friendly-platforms-2026-06-09",
       "topic": "Friendly Platforms",
       "tweetIds": [
@@ -733,6 +748,22 @@
     }
   ],
   "bluesky": [
+    {
+      "slug": "timely-reminder-2026-06-09",
+      "topic": "Timely Reminder",
+      "ids": [
+        "at://did:plc:tyttf4ceoibzsfb2tn764jic/app.bsky.feed.post/3mnukm5qlrq2a",
+        "at://did:plc:tyttf4ceoibzsfb2tn764jic/app.bsky.feed.post/3mnukm6pnwa2a",
+        "at://did:plc:tyttf4ceoibzsfb2tn764jic/app.bsky.feed.post/3mnukm7p3ko24",
+        "at://did:plc:tyttf4ceoibzsfb2tn764jic/app.bsky.feed.post/3mnukmatdpo24",
+        "at://did:plc:tyttf4ceoibzsfb2tn764jic/app.bsky.feed.post/3mnukmbsjv62d",
+        "at://did:plc:tyttf4ceoibzsfb2tn764jic/app.bsky.feed.post/3mnukmcrsf32a",
+        "at://did:plc:tyttf4ceoibzsfb2tn764jic/app.bsky.feed.post/3mnukmdqwe22g",
+        "at://did:plc:tyttf4ceoibzsfb2tn764jic/app.bsky.feed.post/3mnukmeq75y2a"
+      ],
+      "url": "https://bsky.app/profile/solmercer.bsky.social/post/3mnukm5qlrq2a",
+      "postedAt": "2026-06-09T15:54:34.584Z"
+    },
     {
       "slug": "friendly-platforms-2026-06-09",
       "topic": "Friendly Platforms",
