@@ -1290,8 +1290,8 @@
     },
     "software-stocks": {
       "firstSeen": "2026-06-02T22:53:45.557Z",
-      "lastSeen": "2026-06-02T22:53:45.557Z",
-      "count": 1,
+      "lastSeen": "2026-06-09T22:17:28.330Z",
+      "count": 2,
       "wins": 0,
       "losses": 0,
       "niche": "ai"
@@ -1706,10 +1706,10 @@
     },
     "thoma-bravo": {
       "firstSeen": "2026-06-04T22:15:39.256Z",
-      "lastSeen": "2026-06-04T22:15:39.256Z",
-      "count": 1,
+      "lastSeen": "2026-06-09T22:16:56.611Z",
+      "count": 2,
       "wins": 0,
-      "losses": 0,
+      "losses": 1,
       "niche": "ai"
     },
     "chris-onstad": {
@@ -2642,25 +2642,25 @@
     },
     "claude-fable": {
       "firstSeen": "2026-06-09T17:52:53.176Z",
-      "lastSeen": "2026-06-09T17:52:53.176Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-09T22:16:56.612Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
     "system-card": {
       "firstSeen": "2026-06-09T17:52:56.963Z",
-      "lastSeen": "2026-06-09T17:52:56.963Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-09T22:16:56.613Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
     "claude-mythos": {
       "firstSeen": "2026-06-09T17:53:01.345Z",
-      "lastSeen": "2026-06-09T17:53:01.345Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-09T22:16:56.615Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -2671,13 +2671,45 @@
       "wins": 0,
       "losses": 0,
       "niche": "ai"
+    },
+    "stop-pretending": {
+      "firstSeen": "2026-06-09T22:17:01.448Z",
+      "lastSeen": "2026-06-09T22:17:01.448Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "smartwatch-trackers": {
+      "firstSeen": "2026-06-09T22:17:03.999Z",
+      "lastSeen": "2026-06-09T22:17:03.999Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "fitness-equipment": {
+      "firstSeen": "2026-06-09T22:17:07.038Z",
+      "lastSeen": "2026-06-09T22:17:07.038Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "hype-shifts": {
+      "firstSeen": "2026-06-09T22:17:40.124Z",
+      "lastSeen": "2026-06-09T22:17:40.124Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
     }
   },
   "niches": {
     "ai": {
-      "count": 394,
-      "wins": 114,
-      "losses": 11
+      "count": 403,
+      "wins": 117,
+      "losses": 12
     },
     "finance": {
       "count": 32,
