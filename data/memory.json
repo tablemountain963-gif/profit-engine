@@ -770,8 +770,8 @@
     },
     "apps": {
       "firstSeen": "2026-05-30T21:48:13.917Z",
-      "lastSeen": "2026-05-30T21:48:13.917Z",
-      "count": 1,
+      "lastSeen": "2026-06-09T05:02:14.742Z",
+      "count": 2,
       "wins": 0,
       "losses": 0,
       "niche": "ai"
@@ -1498,10 +1498,10 @@
     },
     "macbook-neo": {
       "firstSeen": "2026-06-03T22:56:30.674Z",
-      "lastSeen": "2026-06-03T22:56:30.674Z",
-      "count": 1,
+      "lastSeen": "2026-06-09T05:02:01.485Z",
+      "count": 2,
       "wins": 0,
-      "losses": 0,
+      "losses": 1,
       "niche": "software"
     },
     "ted-chiang": {
@@ -1986,9 +1986,9 @@
     },
     "tienanmen-square": {
       "firstSeen": "2026-06-06T04:51:52.536Z",
-      "lastSeen": "2026-06-06T04:51:52.536Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-09T05:02:01.486Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "software"
     },
@@ -2234,9 +2234,9 @@
     },
     "broadcom-ceo": {
       "firstSeen": "2026-06-07T14:50:44.628Z",
-      "lastSeen": "2026-06-07T14:50:44.628Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-09T05:02:01.486Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -2466,9 +2466,9 @@
     },
     "tim-cook": {
       "firstSeen": "2026-06-08T18:19:21.615Z",
-      "lastSeen": "2026-06-08T18:19:21.615Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-09T05:02:01.487Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -2498,25 +2498,25 @@
     },
     "google-gemini": {
       "firstSeen": "2026-06-08T22:18:06.683Z",
-      "lastSeen": "2026-06-08T22:18:06.683Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-09T05:02:01.488Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
     "productivity-tools": {
       "firstSeen": "2026-06-08T22:18:10.136Z",
-      "lastSeen": "2026-06-08T22:18:10.136Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-09T05:02:01.488Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "software"
     },
     "siri-ai": {
       "firstSeen": "2026-06-08T22:18:13.011Z",
-      "lastSeen": "2026-06-08T22:18:13.011Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-09T05:02:01.489Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -2559,12 +2559,52 @@
       "wins": 0,
       "losses": 0,
       "niche": "finance"
+    },
+    "nba-finals": {
+      "firstSeen": "2026-06-09T05:02:07.528Z",
+      "lastSeen": "2026-06-09T05:02:07.528Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "model": {
+      "firstSeen": "2026-06-09T05:02:11.965Z",
+      "lastSeen": "2026-06-09T05:02:11.965Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "video-tools": {
+      "firstSeen": "2026-06-09T05:02:25.075Z",
+      "lastSeen": "2026-06-09T05:02:25.075Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "try-ai": {
+      "firstSeen": "2026-06-09T05:02:34.582Z",
+      "lastSeen": "2026-06-09T05:02:34.582Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "friendly-platforms": {
+      "firstSeen": "2026-06-09T05:02:41.431Z",
+      "lastSeen": "2026-06-09T05:02:41.431Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
     }
   },
   "niches": {
     "ai": {
-      "count": 373,
-      "wins": 107,
+      "count": 383,
+      "wins": 111,
       "losses": 10
     },
     "finance": {
@@ -2573,9 +2613,9 @@
       "losses": 0
     },
     "software": {
-      "count": 75,
-      "wins": 17,
-      "losses": 4
+      "count": 78,
+      "wins": 19,
+      "losses": 5
     },
     "gear": {
       "count": 28,
