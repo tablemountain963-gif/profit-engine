@@ -770,9 +770,9 @@
     },
     "apps": {
       "firstSeen": "2026-05-30T21:48:13.917Z",
-      "lastSeen": "2026-06-09T05:02:14.742Z",
-      "count": 2,
-      "wins": 0,
+      "lastSeen": "2026-06-09T17:52:41.312Z",
+      "count": 3,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -1602,10 +1602,10 @@
     },
     "asvine-c2000": {
       "firstSeen": "2026-06-04T16:19:37.226Z",
-      "lastSeen": "2026-06-04T16:19:37.226Z",
-      "count": 1,
+      "lastSeen": "2026-06-09T17:52:41.309Z",
+      "count": 2,
       "wins": 0,
-      "losses": 0,
+      "losses": 1,
       "niche": "ai"
     },
     "codex-skill": {
@@ -2602,9 +2602,9 @@
     },
     "shai-hulud": {
       "firstSeen": "2026-06-09T15:53:15.871Z",
-      "lastSeen": "2026-06-09T15:53:15.871Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-09T17:52:41.313Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -2618,9 +2618,9 @@
     },
     "android-auto": {
       "firstSeen": "2026-06-09T15:53:23.120Z",
-      "lastSeen": "2026-06-09T15:53:23.120Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-09T17:52:41.313Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "software"
     },
@@ -2639,13 +2639,45 @@
       "wins": 0,
       "losses": 0,
       "niche": "ai"
+    },
+    "claude-fable": {
+      "firstSeen": "2026-06-09T17:52:53.176Z",
+      "lastSeen": "2026-06-09T17:52:53.176Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "system-card": {
+      "firstSeen": "2026-06-09T17:52:56.963Z",
+      "lastSeen": "2026-06-09T17:52:56.963Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "claude-mythos": {
+      "firstSeen": "2026-06-09T17:53:01.345Z",
+      "lastSeen": "2026-06-09T17:53:01.345Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "agentic-search": {
+      "firstSeen": "2026-06-09T17:53:33.380Z",
+      "lastSeen": "2026-06-09T17:53:33.380Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
     }
   },
   "niches": {
     "ai": {
-      "count": 387,
-      "wins": 112,
-      "losses": 10
+      "count": 394,
+      "wins": 114,
+      "losses": 11
     },
     "finance": {
       "count": 32,
@@ -2653,8 +2685,8 @@
       "losses": 0
     },
     "software": {
-      "count": 81,
-      "wins": 20,
+      "count": 82,
+      "wins": 21,
       "losses": 5
     },
     "gear": {

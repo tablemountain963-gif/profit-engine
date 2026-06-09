@@ -1,93 +1,82 @@
 {
-  "generatedAt": "2026-06-09T15:53:11.438Z",
-  "sourceCount": 204,
+  "generatedAt": "2026-06-09T17:52:42.176Z",
+  "sourceCount": 201,
   "topItems": [
-    {
-      "title": "Apple reveals new AI architecture built around Google Gemini models",
-      "url": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/",
-      "score": 9.54,
-      "niche": "ai",
-      "source": "hackernews",
-      "engagement": {
-        "score": 681,
-        "comments": 527
-      }
-    },
     {
       "title": "the cyberpunk present is weird as fuck: the latest Shai Hulud malware wave contains an LLM prompt to create biological weapons and nuclear weapons, with the purpose to trip LLM safety refusals so that",
       "url": "https://indieweb.social/@laurenshof/116720287681995824",
-      "score": 9.47,
+      "score": 10.82,
       "niche": "ai",
       "source": "mastodon",
       "engagement": {
-        "score": 364,
-        "comments": 5
+        "score": 835,
+        "comments": 19
+      }
+    },
+    {
+      "title": "Have you heard of Apple's decision on the rollout of Siri AI in Europe? Let's get the facts straight ⬇️",
+      "url": "https://ec.social-network.europa.eu/@EUCommission/116720885785978132",
+      "score": 10.33,
+      "niche": "ai",
+      "source": "mastodon",
+      "engagement": {
+        "score": 599,
+        "comments": 20
+      }
+    },
+    {
+      "title": "Claude Fable 5",
+      "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
+      "score": 9.74,
+      "niche": "ai",
+      "source": "hackernews",
+      "engagement": {
+        "score": 518,
+        "comments": 294
       }
     },
     {
       "title": "Microsoft's open source tools were hacked to steal passwords of AI developers",
       "url": "https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/",
-      "score": 9.42,
+      "score": 9.6,
       "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 370,
-        "comments": 154
+        "score": 446,
+        "comments": 161
       }
     },
     {
-      "title": "So people are totally now using AI models for regular stuff that you can do via shell scripts and cron, because why do something for free when you can burn tokens and at the same time actively forget ",
-      "url": "https://mstdn.social/@jschauma/116720282088272048",
-      "score": 8.51,
-      "niche": "ai",
-      "source": "mastodon",
-      "engagement": {
-        "score": 188,
-        "comments": 8
-      }
-    },
-    {
-      "title": "Siri AI",
-      "url": "https://www.apple.com/apple-intelligence/",
-      "score": 8.41,
-      "niche": "ai",
-      "source": "hackernews",
-      "engagement": {
-        "score": 638,
-        "comments": 645
-      }
-    },
-    {
-      "title": "PSA for #AsahiLinux users: Do NOT upgrade to macOS 27 Golden Gate!Apple has changed how the boot picker and Startup Disk applications detect valid OS boot volumes. When using either from macOS 27, you",
-      "url": "https://social.treehouse.systems/@AsahiLinux/116719749555082847",
-      "score": 8.36,
-      "niche": "software",
-      "source": "mastodon",
-      "engagement": {
-        "score": 387,
-        "comments": 4
-      }
-    },
-    {
-      "title": "WWDC 2026: Apple is Folding",
-      "url": "https://cupertinolens.com/2026/06/09/wwdc-2026-apple-is-folding/",
-      "score": 8.18,
+      "title": "Apple decided not to roll out Siri in EU after denied request for exemption",
+      "url": "https://www.reuters.com/business/apple-failed-make-its-ai-tool-comply-eu-regulations-eu-commission-says-2026-06-09/",
+      "score": 8.91,
       "niche": "software",
       "source": "hackernews",
       "engagement": {
-        "score": 125,
-        "comments": 110
+        "score": 122,
+        "comments": 230
       }
     },
     {
-      "title": "Mostly build on open source libraries made by volunteers",
-      "url": "https://mstdn.social/@stux/116719989807825619",
-      "score": 7.92,
-      "niche": "software",
-      "source": "mastodon",
+      "title": "'Sloppenheimer:' Amazon Employees Mock the Company's AI on Slack",
+      "url": "https://www.404media.co/sloppenheimer-amazon-employees-mock-the-companys-ai-on-slack/",
+      "score": 7.66,
+      "niche": "ai",
+      "source": "hackernews",
       "engagement": {
-        "score": 638,
-        "comments": 18
+        "score": 126,
+        "comments": 60
+      }
+    },
+    {
+      "title": "Cleaning up after AI rockstar developers",
+      "url": "https://www.codingwithjesse.com/blog/rockstar-developers/",
+      "score": 7.55,
+      "niche": "ai",
+      "source": "hackernews",
+      "engagement": {
+        "score": 358,
+        "comments": 265
       }
     },
     {
@@ -102,58 +91,36 @@
       }
     },
     {
-      "title": "jmmy9609-design/gpt-pp — ",
-      "url": "https://github.com/jmmy9609-design/gpt-pp",
-      "score": 7.38,
+      "title": "System Card: Claude Fable 5 and Claude Mythos 5 [pdf]",
+      "url": "https://www-cdn.anthropic.com/d00db56fa754a1b115b6dd7cb2e3c342ee809620.pdf",
+      "score": 7.31,
       "niche": "ai",
-      "source": "github",
+      "source": "hackernews",
       "engagement": {
-        "score": 201,
-        "comments": 0
-      }
-    },
-    {
-      "title": "Have you heard of Apple's decision on the rollout of Siri AI in Europe? Let's get the facts straight ⬇️",
-      "url": "https://ec.social-network.europa.eu/@EUCommission/116720885785978132",
-      "score": 7.38,
-      "niche": "ai",
-      "source": "mastodon",
-      "engagement": {
-        "score": 94,
-        "comments": 3
+        "score": 128,
+        "comments": 32
       }
     },
     {
       "title": "NoopApp/noop — Offline WHOOP companion — pair your strap over Bluetooth, keep all data on your own device. No cloud, no account, no subscription.",
       "url": "https://github.com/NoopApp/noop",
-      "score": 7.2,
+      "score": 7.3,
       "niche": "ai",
       "source": "github",
       "engagement": {
-        "score": 759,
+        "score": 833,
         "comments": 3
       }
     },
     {
-      "title": "Cleaning up after AI rockstar developers",
-      "url": "https://www.codingwithjesse.com/blog/rockstar-developers/",
-      "score": 7.16,
+      "title": "If a billionaire is a policy failure, a trillionaire is a civilizational one.One person hoarding that much wealth in a world where people are in need — hungry, sick, homeless — is the end product of a",
+      "url": "https://mastodon.social/@gknauss/116721162562767089",
+      "score": 7.21,
       "niche": "ai",
-      "source": "hackernews",
+      "source": "mastodon",
       "engagement": {
-        "score": 264,
-        "comments": 180
-      }
-    },
-    {
-      "title": "Test-case Reducers Are Underappreciated Debugging Tools",
-      "url": "https://tratt.net/laurie/blog/2026/test_case_reducers_are_underappreciated_debugging_tools.html",
-      "score": 6.86,
-      "niche": "software",
-      "source": "lobsters",
-      "engagement": {
-        "score": 28,
-        "comments": 10
+        "score": 82,
+        "comments": 4
       }
     },
     {
@@ -168,52 +135,107 @@
       }
     },
     {
-      "title": "100 days since the start of US-Israel's attacks on Iran.100 days since the Strait of Hormuz closed.100 days of fossil fuel chaos and rising bills.TIMELY REMINDER: sunshine and wind don't have to pass ",
-      "url": "https://mastodon.social/@greenpeace/116720299548815594",
-      "score": 6.82,
+      "title": "Is Grep All You Need? How Agent Harnesses Reshape Agentic Search",
+      "url": "https://arxiv.org/abs/2605.15184",
+      "score": 6.74,
       "niche": "ai",
+      "source": "hackernews",
+      "engagement": {
+        "score": 67,
+        "comments": 30
+      }
+    },
+    {
+      "title": "“I mean, your society’s broken, so who should we blame? Should we blame the rich, powerful people who caused it? No let’s blame the people with no power & no money & these immigrants who don’t even ha",
+      "url": "https://mastodon.scot/@scotlit/116720926227151695",
+      "score": 6.71,
+      "niche": "finance",
       "source": "mastodon",
+      "engagement": {
+        "score": 166,
+        "comments": 3
+      }
+    },
+    {
+      "title": "Mostly build on open source libraries made by volunteers",
+      "url": "https://mstdn.social/@stux/116719989807825619",
+      "score": 6.59,
+      "niche": "software",
+      "source": "mastodon",
+      "engagement": {
+        "score": 829,
+        "comments": 22
+      }
+    },
+    {
+      "title": "secret-tools/secret-tool — Secret-Tools — classified discord utilities. Star the repo.",
+      "url": "https://github.com/secret-tools/secret-tool",
+      "score": 6.2,
+      "niche": "software",
+      "source": "github",
       "engagement": {
         "score": 134,
         "comments": 0
       }
     },
     {
-      "title": "xAI is looking more like a datacentre REIT than a frontier lab",
-      "url": "https://martinalderson.com/posts/xais-new-rental-business/",
+      "title": "JimLiu/baoyu-design — Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/de",
+      "url": "https://github.com/JimLiu/baoyu-design",
       "score": 6.17,
+      "niche": "ai",
+      "source": "github",
+      "engagement": {
+        "score": 621,
+        "comments": 0
+      }
+    },
+    {
+      "title": "Got my first breast scan today. I opted for a clinic that uses the Koning Vera CT scan—no painful compression, you just lay down and stick your boob in a hole and they scan each one. I believe you get",
+      "url": "https://mastodon.social/@potterybyosa/116721143776768740",
+      "score": 6.14,
+      "niche": "ai",
+      "source": "mastodon",
+      "engagement": {
+        "score": 78,
+        "comments": 2
+      }
+    },
+    {
+      "title": "Can LLMs Beat Classical Hyperparameter Optimization Algorithms?",
+      "url": "https://arxiv.org/abs/2603.24647",
+      "score": 6.05,
       "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 642,
-        "comments": 496
+        "score": 61,
+        "comments": 8
       }
     },
     {
-      "title": "JimLiu/baoyu-design — Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/de",
-      "url": "https://github.com/JimLiu/baoyu-design",
-      "score": 6.16,
+      "title": "Biff.core: system composition for Clojure web apps",
+      "url": "https://biffweb.com/p/core/",
+      "score": 6.02,
+      "niche": "software",
+      "source": "hackernews",
+      "engagement": {
+        "score": 30,
+        "comments": 7
+      }
+    },
+    {
+      "title": "jmmy9609-design/gpt-pp — ",
+      "url": "https://github.com/jmmy9609-design/gpt-pp",
+      "score": 6,
       "niche": "ai",
       "source": "github",
       "engagement": {
-        "score": 613,
+        "score": 220,
         "comments": 0
       }
     },
     {
-      "title": "secret-tools/secret-tool — Secret-Tools — classified discord utilities. Star the repo.",
-      "url": "https://github.com/secret-tools/secret-tool",
-      "score": 6.01,
-      "niche": "software",
-      "source": "github",
-      "engagement": {
-        "score": 115,
-        "comments": 0
-      }
-    },
-    {
-      "title": "Apple shares slide after big Siri AI reveal",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1mVkZFeFNmb19QUDBiblhSbFZhMzN4V1U1REV2ZV92c3dkQ19VX1lXaXJkTmtGN3h5N0gxNXdwSEpqemhnM2ZmRURlbVZtOUVwQ0JydTVfak51MWhzLTVJYVZYd3I5RjI2ZGdFYjVEXzgzbHPSAXhBVV95cUxNVmctVWQzdjBCNGZqUGFKM0tWMHVWT1dMTmNzZDFfY1o0cWdnWGhsMjZiNVFLb21OMFhOSWc2Wi1Ra2JRYnVzMXNGRDFHVjZ3SDV0OVhsNHpDdXFFUUtaVGpTOE9wdGUyS1ZxcHlqemhyNzhUTU8xX3M?oc=5",
+      "title": "Why Apple’s A.I. Upgrade for Siri Won’t Be Available in Europe",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1FcWlfUEpjOXlLVmV1blZkWUxyazFSNkZxVVQ5VC1ZMEpEbEpoR1ZEYkw0VkR3MW9KYnJ5VWRTWDBWV1BDLWtHRGRRWFhnUU1EYmF6R1VWdFBsTVg0eVRudmZyZHdjY0ZsM0lvRnI0Z1F6SGlhVUFBdQ?oc=5",
       "score": 5.94,
       "niche": "ai",
       "source": "gnews",
@@ -223,138 +245,115 @@
       }
     },
     {
-      "title": "Focus Gaming Apps Are Challenging Us to Be Kinder to Ourselves",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOY2NCZHZRbUxxbzAzSkJFdl9Qa1hUbktTOTRfczNUMklaTExNUDZuVFN2NXR1YUpZcWd6MWctbjl3SGpnalZod0VOczZDUXUtaG5MVHF4cmlPN09YRHo2SUV4ZldIaHpnTUZ2RFB2dlpCcEVBM05OdWVZUm5mVVcwZkM4Qk9nMm90Sk8xTVR3?oc=5",
-      "score": 5.87,
+      "title": "Test-case Reducers Are Underappreciated Debugging Tools",
+      "url": "https://tratt.net/laurie/blog/2026/test_case_reducers_are_underappreciated_debugging_tools.html",
+      "score": 5.91,
       "niche": "software",
-      "source": "gnews",
+      "source": "lobsters",
       "engagement": {
-        "score": 40,
-        "comments": 0
+        "score": 33,
+        "comments": 16
       }
     },
     {
-      "title": "The newest Android Auto app is a secret weapon for the productivity-hungry",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPajhjUTJocW9MaF9OdHUxT2Rhbkc4OTZhSVdqdm81RGlvYm53c1FtYWNCYnFqb3U2MUVDR0wxZWQ0VHVVbzdPZ3hLWjZTa1hDRFBfUGQwei1fdmdiaTVISkFoMkVVUGRuS2tuVHA0bXZSQTRJQjhRM1pVTzN0blByTGtB?oc=5",
-      "score": 5.87,
+      "title": "Markdown showing in Settings: Software Update.",
+      "url": "https://mastodon.social/@gruber/116720949319174003",
+      "score": 5.54,
       "niche": "software",
-      "source": "gnews",
+      "source": "mastodon",
       "engagement": {
-        "score": 40,
-        "comments": 0
+        "score": 86,
+        "comments": 4
       }
     },
     {
-      "title": "Apple iPadOS 27 Introduces New Siri App and Productivity Tools",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1jOFVGTnQxVTlkMkNtOUYzaldGWEhobzVaOVpUWjFJcFhmeUQ5YlNqeHp4czQ1V2cwTmhmd0x5QXFUdlc3a09HaXc0MFhfZjhRdzNiNUpQMGNvZ3ptTHIxWEt6cDZWdm8zTnp6TU1GeDRHYWFyeTBPVXhPZ0pBZw?oc=5",
-      "score": 5.78,
-      "niche": "software",
-      "source": "gnews",
-      "engagement": {
-        "score": 40,
-        "comments": 0
-      }
-    },
-    {
-      "title": "WWDC 2026: Apple makes its big Siri AI reveal, changes Liquid Glass and more",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBHVHBEZnkzVkJTZG5jSjI3cG1zSF81THo5WURSb1l3ZWppVG8tYU5lYmVzLU1pRTYxMTl2Z1JJbUdBNXBwRWlydHl4ZnVJTW51cEdKUExBUm1jR3dOdVJrLTZ0X2k2Rk5SRld3SGFXeHExNVXSAXhBVV95cUxOOGZ0YUtTLUtPS3JVNXVmRUs5RVM0VkIteHhGOTFfNXNKMFVxd25hRXI5bW1iRVJzZUx3alIxWjY2cU5MV3pMYlhxeWNKRU4xbmJHUVlId0FRY2tqUU50VEwtd0E4SEFYWXBObDcxeGJlbFdmNnlkN0Y?oc=5",
-      "score": 5.37,
+      "title": "Build a Realtime Translation App with Gemini Live API, LiveKit, & Google Cloud Run",
+      "url": "https://dev.to/googleai/build-a-realtime-translation-app-with-gemini-live-api-livekit-google-cloud-run-5474",
+      "score": 5.5,
       "niche": "ai",
-      "source": "gnews",
+      "source": "devto",
       "engagement": {
-        "score": 40,
-        "comments": 0
-      }
-    },
-    {
-      "title": "NuvioMedia/NuvioDesktop — ",
-      "url": "https://github.com/NuvioMedia/NuvioDesktop",
-      "score": 5.35,
-      "niche": "gear",
-      "source": "github",
-      "engagement": {
-        "score": 118,
+        "score": 20,
         "comments": 0
       }
     }
   ],
   "topics": [
     {
-      "keyword": "apple",
-      "count": 40,
-      "score": 414.24430328708,
+      "keyword": "passive income",
+      "count": 47,
+      "score": 235.72448849815646,
       "proper": true,
       "niches": [
-        "ai",
-        "software"
+        "finance"
       ],
       "examples": [
         {
-          "title": "Apple reveals new AI architecture built around Google Gemini models",
-          "url": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/",
-          "source": "hackernews"
+          "title": "Why a Passive Income Portfolio With 5 of Warren Buffett’s Highest Yielding Stocks Is Genius",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPY0Nva1VJZnEwREZMZFJQeHBVTWF1dUh0cjlYSFYtRG9SWEE4Sm41VFpUaVZPQWo1UDVvb1NzYXc2NFNhY1c2NFFxX2N2MjlQT3NBZlZDVmhaeXdWa1Zrc2pOZFVtN1BJWU1sWWd0QjdGZklfam50YS1zNnBZeHFQSkx3ZHBhYWdDV054c1AtQ2NyWFQ3bEdEWnhqVFpHSURoR1NvVGZiZENmeEp5RVpOY01ucW4tNWJaYXBPcHpzTUNndnVrVGlBVG1SekhlUnM?oc=5",
+          "source": "gnews"
         },
         {
-          "title": "PSA for #AsahiLinux users: Do NOT upgrade to macOS 27 Golden Gate!Apple has changed how the boot picker and Startup Disk applications detect valid OS boot volumes. When using either from macOS 27, you",
-          "url": "https://social.treehouse.systems/@AsahiLinux/116719749555082847",
-          "source": "mastodon"
+          "title": "Why a Passive Income Portfolio With 5 of Warren Buffett’s Highest Yielding Stocks Is Genius",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPY0Nva1VJZnEwREZMZFJQeHBVTWF1dUh0cjlYSFYtRG9SWEE4Sm41VFpUaVZPQWo1UDVvb1NzYXc2NFNhY1c2NFFxX2N2MjlQT3NBZlZDVmhaeXdWa1Zrc2pOZFVtN1BJWU1sWWd0QjdGZklfam50YS1zNnBZeHFQSkx3ZHBhYWdDV054c1AtQ2NyWFQ3bEdEWnhqVFpHSURoR1NvVGZiZENmeEp5RVpOY01ucW4tNWJaYXBPcHpzTUNndnVrVGlBVG1SekhlUnM?oc=5",
+          "source": "gnews"
         },
         {
-          "title": "WWDC 2026: Apple is Folding",
-          "url": "https://cupertinolens.com/2026/06/09/wwdc-2026-apple-is-folding/",
-          "source": "hackernews"
+          "title": "3 High-Yield Dividend ETFs Paying 9%+ in Passive Income",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYWo0ekNIem1GX1NkODhYLTE5TWlmemt0dW1BOHFWcW5jZlhNU21jSGR3dUtzenZENVZYbnJCSE9CY0kzUThQYVU0dGlTZndvcVpPVlROcmhoRndJYkZockF6SGZOZTZnNGI1YXVyNVRNaFNTd1BaSDNpVHB6b0VKYlRxTHZTMEo2MEN2NURR?oc=5",
+          "source": "gnews"
         },
         {
-          "title": "Have you heard of Apple's decision on the rollout of Siri AI in Europe? Let's get the facts straight ⬇️",
-          "url": "https://ec.social-network.europa.eu/@EUCommission/116720885785978132",
-          "source": "mastodon"
+          "title": "3 High-Yield Dividend ETFs Paying 9%+ in Passive Income",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYWo0ekNIem1GX1NkODhYLTE5TWlmemt0dW1BOHFWcW5jZlhNU21jSGR3dUtzenZENVZYbnJCSE9CY0kzUThQYVU0dGlTZndvcVpPVlROcmhoRndJYkZockF6SGZOZTZnNGI1YXVyNVRNaFNTd1BaSDNpVHB6b0VKYlRxTHZTMEo2MEN2NURR?oc=5",
+          "source": "gnews"
         },
         {
-          "title": "Apple shares slide after big Siri AI reveal",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1mVkZFeFNmb19QUDBiblhSbFZhMzN4V1U1REV2ZV92c3dkQ19VX1lXaXJkTmtGN3h5N0gxNXdwSEpqemhnM2ZmRURlbVZtOUVwQ0JydTVfak51MWhzLTVJYVZYd3I5RjI2ZGdFYjVEXzgzbHPSAXhBVV95cUxNVmctVWQzdjBCNGZqUGFKM0tWMHVWT1dMTmNzZDFfY1o0cWdnWGhsMjZiNVFLb21OMFhOSWc2Wi1Ra2JRYnVzMXNGRDFHVjZ3SDV0OVhsNHpDdXFFUUtaVGpTOE9wdGUyS1ZxcHlqemhyNzhUTU8xX3M?oc=5",
+          "title": "3 High-Yield Dividend ETFs Paying 9%+ in Passive Income",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYWo0ekNIem1GX1NkODhYLTE5TWlmemt0dW1BOHFWcW5jZlhNU21jSGR3dUtzenZENVZYbnJCSE9CY0kzUThQYVU0dGlTZndvcVpPVlROcmhoRndJYkZockF6SGZOZTZnNGI1YXVyNVRNaFNTd1BaSDNpVHB6b0VKYlRxTHZTMEo2MEN2NURR?oc=5",
           "source": "gnews"
         }
       ],
-      "id": "3a7bd3e2360a",
-      "slug": "apple"
+      "id": "cf2dbbbf8c8c",
+      "slug": "passive-income"
     },
     {
-      "keyword": "siri ai",
-      "count": 20,
-      "score": 203.1655681963528,
+      "keyword": "claude fable",
+      "count": 16,
+      "score": 204.6606693076415,
       "proper": true,
       "niches": [
         "ai"
       ],
       "examples": [
         {
-          "title": "Siri AI",
-          "url": "https://www.apple.com/apple-intelligence/",
+          "title": "Claude Fable 5",
+          "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
           "source": "hackernews"
         },
         {
-          "title": "Have you heard of Apple's decision on the rollout of Siri AI in Europe? Let's get the facts straight ⬇️",
-          "url": "https://ec.social-network.europa.eu/@EUCommission/116720885785978132",
-          "source": "mastodon"
+          "title": "Claude Fable 5",
+          "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
+          "source": "hackernews"
         },
         {
-          "title": "Apple shares slide after big Siri AI reveal",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1mVkZFeFNmb19QUDBiblhSbFZhMzN4V1U1REV2ZV92c3dkQ19VX1lXaXJkTmtGN3h5N0gxNXdwSEpqemhnM2ZmRURlbVZtOUVwQ0JydTVfak51MWhzLTVJYVZYd3I5RjI2ZGdFYjVEXzgzbHPSAXhBVV95cUxNVmctVWQzdjBCNGZqUGFKM0tWMHVWT1dMTmNzZDFfY1o0cWdnWGhsMjZiNVFLb21OMFhOSWc2Wi1Ra2JRYnVzMXNGRDFHVjZ3SDV0OVhsNHpDdXFFUUtaVGpTOE9wdGUyS1ZxcHlqemhyNzhUTU8xX3M?oc=5",
-          "source": "gnews"
+          "title": "System Card: Claude Fable 5 and Claude Mythos 5 [pdf]",
+          "url": "https://www-cdn.anthropic.com/d00db56fa754a1b115b6dd7cb2e3c342ee809620.pdf",
+          "source": "hackernews"
         },
         {
-          "title": "WWDC 2026: Apple makes its big Siri AI reveal, changes Liquid Glass and more",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBHVHBEZnkzVkJTZG5jSjI3cG1zSF81THo5WURSb1l3ZWppVG8tYU5lYmVzLU1pRTYxMTl2Z1JJbUdBNXBwRWlydHl4ZnVJTW51cEdKUExBUm1jR3dOdVJrLTZ0X2k2Rk5SRld3SGFXeHExNVXSAXhBVV95cUxOOGZ0YUtTLUtPS3JVNXVmRUs5RVM0VkIteHhGOTFfNXNKMFVxd25hRXI5bW1iRVJzZUx3alIxWjY2cU5MV3pMYlhxeWNKRU4xbmJHUVlId0FRY2tqUU50VEwtd0E4SEFYWXBObDcxeGJlbFdmNnlkN0Y?oc=5",
-          "source": "gnews"
+          "title": "System Card: Claude Fable 5 and Claude Mythos 5 [pdf]",
+          "url": "https://www-cdn.anthropic.com/d00db56fa754a1b115b6dd7cb2e3c342ee809620.pdf",
+          "source": "hackernews"
         }
       ],
-      "id": "62ac3a205be4",
-      "slug": "siri-ai"
+      "id": "ced86039c0ad",
+      "slug": "claude-fable"
     },
     {
       "keyword": "claude code",
-      "count": 35,
-      "score": 189.4841822527054,
+      "count": 38,
+      "score": 195.05361334587198,
       "proper": true,
       "niches": [
         "ai"
@@ -390,32 +389,38 @@
       "slug": "claude-code"
     },
     {
-      "keyword": "google gemini",
-      "count": 8,
-      "score": 114.44681253785222,
+      "keyword": "apple",
+      "count": 15,
+      "score": 184.49654794311004,
       "proper": true,
       "niches": [
-        "ai"
+        "ai",
+        "software"
       ],
       "examples": [
         {
-          "title": "Apple reveals new AI architecture built around Google Gemini models",
-          "url": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/",
+          "title": "Have you heard of Apple's decision on the rollout of Siri AI in Europe? Let's get the facts straight ⬇️",
+          "url": "https://ec.social-network.europa.eu/@EUCommission/116720885785978132",
+          "source": "mastodon"
+        },
+        {
+          "title": "Apple decided not to roll out Siri in EU after denied request for exemption",
+          "url": "https://www.reuters.com/business/apple-failed-make-its-ai-tool-comply-eu-regulations-eu-commission-says-2026-06-09/",
           "source": "hackernews"
         },
         {
-          "title": "Apple reveals new AI architecture built around Google Gemini models",
-          "url": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/",
-          "source": "hackernews"
+          "title": "WWDC 2026: Apple makes its big Siri AI reveal, changes Liquid Glass and more",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBHVHBEZnkzVkJTZG5jSjI3cG1zSF81THo5WURSb1l3ZWppVG8tYU5lYmVzLU1pRTYxMTl2Z1JJbUdBNXBwRWlydHl4ZnVJTW51cEdKUExBUm1jR3dOdVJrLTZ0X2k2Rk5SRld3SGFXeHExNVXSAXhBVV95cUxOOGZ0YUtTLUtPS3JVNXVmRUs5RVM0VkIteHhGOTFfNXNKMFVxd25hRXI5bW1iRVJzZUx3alIxWjY2cU5MV3pMYlhxeWNKRU4xbmJHUVlId0FRY2tqUU50VEwtd0E4SEFYWXBObDcxeGJlbFdmNnlkN0Y?oc=5",
+          "source": "gnews"
         }
       ],
-      "id": "160b93ba38ba",
-      "slug": "google-gemini"
+      "id": "3a7bd3e2360a",
+      "slug": "apple"
     },
     {
       "keyword": "shai hulud",
       "count": 8,
-      "score": 113.66922078285606,
+      "score": 129.89714486513526,
       "proper": true,
       "niches": [
         "ai"
@@ -436,134 +441,181 @@
       "slug": "shai-hulud"
     },
     {
-      "keyword": "golden gate",
-      "count": 8,
-      "score": 100.37494198416178,
+      "keyword": "siri ai",
+      "count": 10,
+      "score": 117.7056523456799,
       "proper": true,
       "niches": [
-        "software"
+        "ai"
       ],
       "examples": [
         {
-          "title": "PSA for #AsahiLinux users: Do NOT upgrade to macOS 27 Golden Gate!Apple has changed how the boot picker and Startup Disk applications detect valid OS boot volumes. When using either from macOS 27, you",
-          "url": "https://social.treehouse.systems/@AsahiLinux/116719749555082847",
+          "title": "Have you heard of Apple's decision on the rollout of Siri AI in Europe? Let's get the facts straight ⬇️",
+          "url": "https://ec.social-network.europa.eu/@EUCommission/116720885785978132",
           "source": "mastodon"
         },
         {
-          "title": "PSA for #AsahiLinux users: Do NOT upgrade to macOS 27 Golden Gate!Apple has changed how the boot picker and Startup Disk applications detect valid OS boot volumes. When using either from macOS 27, you",
-          "url": "https://social.treehouse.systems/@AsahiLinux/116719749555082847",
-          "source": "mastodon"
+          "title": "WWDC 2026: Apple makes its big Siri AI reveal, changes Liquid Glass and more",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBHVHBEZnkzVkJTZG5jSjI3cG1zSF81THo5WURSb1l3ZWppVG8tYU5lYmVzLU1pRTYxMTl2Z1JJbUdBNXBwRWlydHl4ZnVJTW51cEdKUExBUm1jR3dOdVJrLTZ0X2k2Rk5SRld3SGFXeHExNVXSAXhBVV95cUxOOGZ0YUtTLUtPS3JVNXVmRUs5RVM0VkIteHhGOTFfNXNKMFVxd25hRXI5bW1iRVJzZUx3alIxWjY2cU5MV3pMYlhxeWNKRU4xbmJHUVlId0FRY2tqUU50VEwtd0E4SEFYWXBObDcxeGJlbFdmNnlkN0Y?oc=5",
+          "source": "gnews"
         }
       ],
-      "id": "9b6b05d3b065",
-      "slug": "golden-gate"
+      "id": "62ac3a205be4",
+      "slug": "siri-ai"
     },
     {
-      "keyword": "startup disk",
-      "count": 8,
-      "score": 100.37494198416178,
+      "keyword": "software",
+      "count": 18,
+      "score": 100.11416813691416,
       "proper": true,
       "niches": [
-        "software"
+        "software",
+        "ai"
       ],
       "examples": [
         {
-          "title": "PSA for #AsahiLinux users: Do NOT upgrade to macOS 27 Golden Gate!Apple has changed how the boot picker and Startup Disk applications detect valid OS boot volumes. When using either from macOS 27, you",
-          "url": "https://social.treehouse.systems/@AsahiLinux/116719749555082847",
+          "title": "Markdown showing in Settings: Software Update.",
+          "url": "https://mastodon.social/@gruber/116720949319174003",
           "source": "mastodon"
         },
         {
-          "title": "PSA for #AsahiLinux users: Do NOT upgrade to macOS 27 Golden Gate!Apple has changed how the boot picker and Startup Disk applications detect valid OS boot volumes. When using either from macOS 27, you",
-          "url": "https://social.treehouse.systems/@AsahiLinux/116719749555082847",
-          "source": "mastodon"
+          "title": "valkor-ai/loom — An open delivery harness that turns Claude Code, Codex, OpenCode, and other coding agents into repeatable software delivery systems.",
+          "url": "https://github.com/valkor-ai/loom",
+          "source": "github"
+        },
+        {
+          "title": "Software buyout deals collapse to lowest level since pandemic after AI rout",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQnQ5RzdOa1NkeTNPQnpnTmZXMlZHazRRTjFiQTdFcXFmdDYzamtQN256aWhWWFgyaGt2N28xRkhoVC1CZXZlUjhEOEZzZU16WlRyWWxiV3pTYVNMNW1SaGZZRnlFcDViMDV6OU4xakRJa2Y1bTRVbldtdkZEUENsSG4wMlo?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Software buyout deals collapse to lowest level since pandemic after AI rout",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQnQ5RzdOa1NkeTNPQnpnTmZXMlZHazRRTjFiQTdFcXFmdDYzamtQN256aWhWWFgyaGt2N28xRkhoVC1CZXZlUjhEOEZzZU16WlRyWWxiV3pTYVNMNW1SaGZZRnlFcDViMDV6OU4xakRJa2Y1bTRVbldtdkZEUENsSG4wMlo?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Software buyout deals collapse to lowest level since pandemic after AI rout",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQnQ5RzdOa1NkeTNPQnpnTmZXMlZHazRRTjFiQTdFcXFmdDYzamtQN256aWhWWFgyaGt2N28xRkhoVC1CZXZlUjhEOEZzZU16WlRyWWxiV3pTYVNMNW1SaGZZRnlFcDViMDV6OU4xakRJa2Y1bTRVbldtdkZEUENsSG4wMlo?oc=5",
+          "source": "gnews"
         }
       ],
-      "id": "b5675a99b603",
-      "slug": "startup-disk"
+      "id": "35390f5453e8",
+      "slug": "software"
     },
     {
-      "keyword": "android auto",
-      "count": 11,
-      "score": 96.86379843458731,
-      "proper": true,
+      "keyword": "2026 _blank",
+      "count": 36,
+      "score": 94.2317351804207,
+      "proper": false,
       "niches": [
-        "software"
+        "ai",
+        "gear",
+        "finance",
+        "general"
       ],
       "examples": [
         {
-          "title": "The newest Android Auto app is a secret weapon for the productivity-hungry",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPajhjUTJocW9MaF9OdHUxT2Rhbkc4OTZhSVdqdm81RGlvYm53c1FtYWNCYnFqb3U2MUVDR0wxZWQ0VHVVbzdPZ3hLWjZTa1hDRFBfUGQwei1fdmdiaTVISkFoMkVVUGRuS2tuVHA0bXZSQTRJQjhRM1pVTzN0blByTGtB?oc=5",
+          "title": "The 3 Best Team Communication Tools with AI Agents in 2026",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQWZlalVhVzAyNnVpd3JVaUd3Yjh6d2NSRDFlMlFJcFViNGQzYkkyMkV2aGJzVjZwcVJpd01nek84RTdZOUVNbTFrS25tb3VGR0otTXN0ZjZ4LXNlYi1XaTl1Wi13NzhIalNfSXFHUGVmXzZxY19kZEJST2Q5c1dHenVTVzd3OXZNRzRN?oc=5",
           "source": "gnews"
         },
         {
-          "title": "The newest Android Auto app is a secret weapon for the productivity-hungry",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPajhjUTJocW9MaF9OdHUxT2Rhbkc4OTZhSVdqdm81RGlvYm53c1FtYWNCYnFqb3U2MUVDR0wxZWQ0VHVVbzdPZ3hLWjZTa1hDRFBfUGQwei1fdmdiaTVISkFoMkVVUGRuS2tuVHA0bXZSQTRJQjhRM1pVTzN0blByTGtB?oc=5",
+          "title": "10 Best Cooling Gadgets to Beat the June Heatwave (2026)",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPWjVuSDloN25sQmU3STVPeDJ2X3FrX0dJc3VtN3RxeC1DM0l6V2RZTmo1V0JqNG1oRlpYNjBqUlNXR3V0NTZuSVFfX2lXVE9XQlFmRmF6Z3Z2T1NuSVk4WXVGSER4ZFZYVTFoRWtBLTktNHBydUNBOGZXaEljVDBtMDNFMA?oc=5",
           "source": "gnews"
         },
         {
-          "title": "The newest Android Auto app is a secret weapon for the productivity-hungry",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPajhjUTJocW9MaF9OdHUxT2Rhbkc4OTZhSVdqdm81RGlvYm53c1FtYWNCYnFqb3U2MUVDR0wxZWQ0VHVVbzdPZ3hLWjZTa1hDRFBfUGQwei1fdmdiaTVISkFoMkVVUGRuS2tuVHA0bXZSQTRJQjhRM1pVTzN0blByTGtB?oc=5",
+          "title": "Best 21 Low-Code and No-Code AI Tools in 2026",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQREhlRDJ5Q0FhMzBleHkzZHFyMm05NHZ6bWRTTWgwaXV3U1RRZVpHUHB4SWQ2dFFqTzUzdU1SeVI5SG9RQUVpYXV4NzlVLW1pc3c4WDVIWEMzRVVhTGNSa29ZZG1GRkZMRVdOelcxUnRleFJjMmcyOVcwTEZxY1JEbjBRSm5YSERyUUZ1Uzlhbw?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "10 Best AI Tools for Students to Boost Grades in 2026",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9TRl9SOFhNRW9QdFJCQnBoNTZPZ1VOT1loLWxwUW5yMFNPVHEzNXR6M3lSV2pVWDlaOTZOZV9RblBVdUotQThyV1lqMWk4RGQyWlQ2em5sYmN5SU11THp1MNIBYEFVX3lxTE9TRl9SOFhNRW9QdFJCQnBoNTZPZ1VOT1loLWxwUW5yMFNPVHEzNXR6M3lSV2pVWDlaOTZOZV9RblBVdUotQThyV1lqMWk4RGQyWlQ2em5sYmN5SU11THp1MA?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "From Wearables to Power Stations: 10 Best Gadgets From May 2026",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4wTmQ4WXF0VkVtdjB4SXBkNlExOE5sVnZ5UXVWS2R0UzZaTzRlOXo5cktQNmNwQk41NGFoYm1PbFB0WWNhTUxTM3hiNUF1R1Q2U0tWcDFKZWdrNmhCazhocTFIcVFId01JNjVN?oc=5",
           "source": "gnews"
         }
       ],
-      "id": "a6ccf0c1a6ab",
-      "slug": "android-auto"
+      "id": "436796f27eb8",
+      "slug": "2026-_blank"
     },
     {
       "keyword": "tools",
       "count": 10,
-      "score": 96.55423312158413,
+      "score": 90.85057977373084,
       "proper": true,
       "niches": [
         "software"
       ],
       "examples": [
         {
-          "title": "Test-case Reducers Are Underappreciated Debugging Tools",
-          "url": "https://tratt.net/laurie/blog/2026/test_case_reducers_are_underappreciated_debugging_tools.html",
-          "source": "lobsters"
-        },
-        {
           "title": "secret-tools/secret-tool — Secret-Tools — classified discord utilities. Star the repo.",
           "url": "https://github.com/secret-tools/secret-tool",
           "source": "github"
+        },
+        {
+          "title": "Test-case Reducers Are Underappreciated Debugging Tools",
+          "url": "https://tratt.net/laurie/blog/2026/test_case_reducers_are_underappreciated_debugging_tools.html",
+          "source": "lobsters"
         }
       ],
       "id": "f9d35d43770d",
       "slug": "tools"
     },
     {
-      "keyword": "productivity tools",
-      "count": 11,
-      "score": 95.37358615097827,
+      "keyword": "system card",
+      "count": 8,
+      "score": 87.76540066589853,
       "proper": true,
       "niches": [
-        "software"
+        "ai"
       ],
       "examples": [
         {
-          "title": "Apple iPadOS 27 Introduces New Siri App and Productivity Tools",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1jOFVGTnQxVTlkMkNtOUYzaldGWEhobzVaOVpUWjFJcFhmeUQ5YlNqeHp4czQ1V2cwTmhmd0x5QXFUdlc3a09HaXc0MFhfZjhRdzNiNUpQMGNvZ3ptTHIxWEt6cDZWdm8zTnp6TU1GeDRHYWFyeTBPVXhPZ0pBZw?oc=5",
-          "source": "gnews"
+          "title": "System Card: Claude Fable 5 and Claude Mythos 5 [pdf]",
+          "url": "https://www-cdn.anthropic.com/d00db56fa754a1b115b6dd7cb2e3c342ee809620.pdf",
+          "source": "hackernews"
         },
         {
-          "title": "Apple iPadOS 27 Introduces New Siri App and Productivity Tools",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1jOFVGTnQxVTlkMkNtOUYzaldGWEhobzVaOVpUWjFJcFhmeUQ5YlNqeHp4czQ1V2cwTmhmd0x5QXFUdlc3a09HaXc0MFhfZjhRdzNiNUpQMGNvZ3ptTHIxWEt6cDZWdm8zTnp6TU1GeDRHYWFyeTBPVXhPZ0pBZw?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Apple iPadOS 27 Introduces New Siri App and Productivity Tools",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1jOFVGTnQxVTlkMkNtOUYzaldGWEhobzVaOVpUWjFJcFhmeUQ5YlNqeHp4czQ1V2cwTmhmd0x5QXFUdlc3a09HaXc0MFhfZjhRdzNiNUpQMGNvZ3ptTHIxWEt6cDZWdm8zTnp6TU1GeDRHYWFyeTBPVXhPZ0pBZw?oc=5",
-          "source": "gnews"
+          "title": "System Card: Claude Fable 5 and Claude Mythos 5 [pdf]",
+          "url": "https://www-cdn.anthropic.com/d00db56fa754a1b115b6dd7cb2e3c342ee809620.pdf",
+          "source": "hackernews"
         }
       ],
-      "id": "b723fc77c62c",
-      "slug": "productivity-tools"
+      "id": "3e1a0ac3c562",
+      "slug": "system-card"
+    },
+    {
+      "keyword": "claude mythos",
+      "count": 8,
+      "score": 87.76540066589853,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "System Card: Claude Fable 5 and Claude Mythos 5 [pdf]",
+          "url": "https://www-cdn.anthropic.com/d00db56fa754a1b115b6dd7cb2e3c342ee809620.pdf",
+          "source": "hackernews"
+        },
+        {
+          "title": "System Card: Claude Fable 5 and Claude Mythos 5 [pdf]",
+          "url": "https://www-cdn.anthropic.com/d00db56fa754a1b115b6dd7cb2e3c342ee809620.pdf",
+          "source": "hackernews"
+        }
+      ],
+      "id": "eae200a59d45",
+      "slug": "claude-mythos"
     },
     {
       "keyword": "offline whoop",
       "count": 8,
-      "score": 86.38842010803576,
+      "score": 87.58801317612546,
       "proper": true,
       "niches": [
         "ai"
@@ -584,66 +636,68 @@
       "slug": "offline-whoop"
     },
     {
-      "keyword": "timely reminder",
+      "keyword": "agentic search",
       "count": 8,
-      "score": 81.80481671020824,
+      "score": 80.91686283447815,
       "proper": true,
       "niches": [
         "ai"
       ],
       "examples": [
         {
-          "title": "100 days since the start of US-Israel's attacks on Iran.100 days since the Strait of Hormuz closed.100 days of fossil fuel chaos and rising bills.TIMELY REMINDER: sunshine and wind don't have to pass ",
-          "url": "https://mastodon.social/@greenpeace/116720299548815594",
-          "source": "mastodon"
+          "title": "Is Grep All You Need? How Agent Harnesses Reshape Agentic Search",
+          "url": "https://arxiv.org/abs/2605.15184",
+          "source": "hackernews"
         },
         {
-          "title": "100 days since the start of US-Israel's attacks on Iran.100 days since the Strait of Hormuz closed.100 days of fossil fuel chaos and rising bills.TIMELY REMINDER: sunshine and wind don't have to pass ",
-          "url": "https://mastodon.social/@greenpeace/116720299548815594",
-          "source": "mastodon"
+          "title": "Is Grep All You Need? How Agent Harnesses Reshape Agentic Search",
+          "url": "https://arxiv.org/abs/2605.15184",
+          "source": "hackernews"
         }
       ],
-      "id": "2fe5dc68360d",
-      "slug": "timely-reminder"
+      "id": "3dae237181fb",
+      "slug": "agentic-search"
     },
     {
-      "keyword": "software",
-      "count": 13,
-      "score": 76.51959969291237,
-      "proper": true,
+      "keyword": "2026 6f6f6f",
+      "count": 30,
+      "score": 77.85875346700195,
+      "proper": false,
       "niches": [
         "ai",
-        "software"
+        "gear",
+        "finance",
+        "general"
       ],
       "examples": [
         {
-          "title": "valkor-ai/loom — An open delivery harness that turns Claude Code, Codex, OpenCode, and other coding agents into repeatable software delivery systems.",
-          "url": "https://github.com/valkor-ai/loom",
-          "source": "github"
-        },
-        {
-          "title": "Software buyout deals collapse to lowest level since pandemic after AI rout",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQnQ5RzdOa1NkeTNPQnpnTmZXMlZHazRRTjFiQTdFcXFmdDYzamtQN256aWhWWFgyaGt2N28xRkhoVC1CZXZlUjhEOEZzZU16WlRyWWxiV3pTYVNMNW1SaGZZRnlFcDViMDV6OU4xakRJa2Y1bTRVbldtdkZEUENsSG4wMlo?oc=5",
+          "title": "The 3 Best Team Communication Tools with AI Agents in 2026",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQWZlalVhVzAyNnVpd3JVaUd3Yjh6d2NSRDFlMlFJcFViNGQzYkkyMkV2aGJzVjZwcVJpd01nek84RTdZOUVNbTFrS25tb3VGR0otTXN0ZjZ4LXNlYi1XaTl1Wi13NzhIalNfSXFHUGVmXzZxY19kZEJST2Q5c1dHenVTVzd3OXZNRzRN?oc=5",
           "source": "gnews"
         },
         {
-          "title": "Software buyout deals collapse to lowest level since pandemic after AI rout",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQnQ5RzdOa1NkeTNPQnpnTmZXMlZHazRRTjFiQTdFcXFmdDYzamtQN256aWhWWFgyaGt2N28xRkhoVC1CZXZlUjhEOEZzZU16WlRyWWxiV3pTYVNMNW1SaGZZRnlFcDViMDV6OU4xakRJa2Y1bTRVbldtdkZEUENsSG4wMlo?oc=5",
+          "title": "10 Best Cooling Gadgets to Beat the June Heatwave (2026)",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPWjVuSDloN25sQmU3STVPeDJ2X3FrX0dJc3VtN3RxeC1DM0l6V2RZTmo1V0JqNG1oRlpYNjBqUlNXR3V0NTZuSVFfX2lXVE9XQlFmRmF6Z3Z2T1NuSVk4WXVGSER4ZFZYVTFoRWtBLTktNHBydUNBOGZXaEljVDBtMDNFMA?oc=5",
           "source": "gnews"
         },
         {
-          "title": "Software buyout deals collapse to lowest level since pandemic after AI rout",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQnQ5RzdOa1NkeTNPQnpnTmZXMlZHazRRTjFiQTdFcXFmdDYzamtQN256aWhWWFgyaGt2N28xRkhoVC1CZXZlUjhEOEZzZU16WlRyWWxiV3pTYVNMNW1SaGZZRnlFcDViMDV6OU4xakRJa2Y1bTRVbldtdkZEUENsSG4wMlo?oc=5",
+          "title": "Best 21 Low-Code and No-Code AI Tools in 2026",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQREhlRDJ5Q0FhMzBleHkzZHFyMm05NHZ6bWRTTWgwaXV3U1RRZVpHUHB4SWQ2dFFqTzUzdU1SeVI5SG9RQUVpYXV4NzlVLW1pc3c4WDVIWEMzRVVhTGNSa29ZZG1GRkZMRVdOelcxUnRleFJjMmcyOVcwTEZxY1JEbjBRSm5YSERyUUZ1Uzlhbw?oc=5",
           "source": "gnews"
         },
         {
-          "title": "Anthropic says Mythos can turn software patches into exploits in minutes",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNU2QxVEJFRzVZYXVONnFrZjRUWE9iOGs0SDBHMFQ4WEMyZTlSXzYxaUVOSXd6Z0xNd2UySGtLWTR5Qk5MSS1TcXZxcWJ5a2pRcUstWlN4eFdTcHhvNV9kMjdzQXdOX21aQk82Ql9lOXFDTC1rUUp3ZmgtUzhvQVBKLXNFNzNlN3F1em9XMU1NTEFXdUVGdUE?oc=5",
+          "title": "From Wearables to Power Stations: 10 Best Gadgets From May 2026",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4wTmQ4WXF0VkVtdjB4SXBkNlExOE5sVnZ5UXVWS2R0UzZaTzRlOXo5cktQNmNwQk41NGFoYm1PbFB0WWNhTUxTM3hiNUF1R1Q2U0tWcDFKZWdrNmhCazhocTFIcVFId01JNjVN?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "2 FTSE investment trusts to consider for passive income in 2026",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWElEY3d0aW1za3pLRGVjX1FLQ1pUMS1jRUptUk9LUUNUcGwza1lkWFVVNlE2MmVXcXREQ29VOTVfblFOTk5hTXkyckhWRWNid3FJWkFsMU9IRVlJcVNpUUFMY3JWYkt2a2VFNGZlUU9SbXBpOGZmY2NRM2piX3NzWXpScnZrenBQZFE?oc=5",
           "source": "gnews"
         }
       ],
-      "id": "35390f5453e8",
-      "slug": "software"
+      "id": "819223dcf234",
+      "slug": "2026-6f6f6f"
     },
     {
       "keyword": "boost grades",
@@ -672,107 +726,83 @@
       ],
       "id": "456b2f3d927a",
       "slug": "boost-grades"
-    },
-    {
-      "keyword": "agent skill",
-      "count": 8,
-      "score": 73.87530916175638,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "JimLiu/baoyu-design — Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/de",
-          "url": "https://github.com/JimLiu/baoyu-design",
-          "source": "github"
-        },
-        {
-          "title": "JimLiu/baoyu-design — Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/de",
-          "url": "https://github.com/JimLiu/baoyu-design",
-          "source": "github"
-        }
-      ],
-      "id": "bbe4337ea159",
-      "slug": "agent-skill"
     }
   ],
   "opportunities": [
     {
-      "keyword": "apple",
-      "count": 40,
-      "score": 414.24430328708,
+      "keyword": "passive income",
+      "count": 47,
+      "score": 235.72448849815646,
       "proper": true,
       "niches": [
-        "ai",
-        "software"
+        "finance"
       ],
       "examples": [
         {
-          "title": "Apple reveals new AI architecture built around Google Gemini models",
-          "url": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/",
-          "source": "hackernews"
+          "title": "Why a Passive Income Portfolio With 5 of Warren Buffett’s Highest Yielding Stocks Is Genius",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPY0Nva1VJZnEwREZMZFJQeHBVTWF1dUh0cjlYSFYtRG9SWEE4Sm41VFpUaVZPQWo1UDVvb1NzYXc2NFNhY1c2NFFxX2N2MjlQT3NBZlZDVmhaeXdWa1Zrc2pOZFVtN1BJWU1sWWd0QjdGZklfam50YS1zNnBZeHFQSkx3ZHBhYWdDV054c1AtQ2NyWFQ3bEdEWnhqVFpHSURoR1NvVGZiZENmeEp5RVpOY01ucW4tNWJaYXBPcHpzTUNndnVrVGlBVG1SekhlUnM?oc=5",
+          "source": "gnews"
         },
         {
-          "title": "PSA for #AsahiLinux users: Do NOT upgrade to macOS 27 Golden Gate!Apple has changed how the boot picker and Startup Disk applications detect valid OS boot volumes. When using either from macOS 27, you",
-          "url": "https://social.treehouse.systems/@AsahiLinux/116719749555082847",
-          "source": "mastodon"
+          "title": "Why a Passive Income Portfolio With 5 of Warren Buffett’s Highest Yielding Stocks Is Genius",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPY0Nva1VJZnEwREZMZFJQeHBVTWF1dUh0cjlYSFYtRG9SWEE4Sm41VFpUaVZPQWo1UDVvb1NzYXc2NFNhY1c2NFFxX2N2MjlQT3NBZlZDVmhaeXdWa1Zrc2pOZFVtN1BJWU1sWWd0QjdGZklfam50YS1zNnBZeHFQSkx3ZHBhYWdDV054c1AtQ2NyWFQ3bEdEWnhqVFpHSURoR1NvVGZiZENmeEp5RVpOY01ucW4tNWJaYXBPcHpzTUNndnVrVGlBVG1SekhlUnM?oc=5",
+          "source": "gnews"
         },
         {
-          "title": "WWDC 2026: Apple is Folding",
-          "url": "https://cupertinolens.com/2026/06/09/wwdc-2026-apple-is-folding/",
-          "source": "hackernews"
+          "title": "3 High-Yield Dividend ETFs Paying 9%+ in Passive Income",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYWo0ekNIem1GX1NkODhYLTE5TWlmemt0dW1BOHFWcW5jZlhNU21jSGR3dUtzenZENVZYbnJCSE9CY0kzUThQYVU0dGlTZndvcVpPVlROcmhoRndJYkZockF6SGZOZTZnNGI1YXVyNVRNaFNTd1BaSDNpVHB6b0VKYlRxTHZTMEo2MEN2NURR?oc=5",
+          "source": "gnews"
         },
         {
-          "title": "Have you heard of Apple's decision on the rollout of Siri AI in Europe? Let's get the facts straight ⬇️",
-          "url": "https://ec.social-network.europa.eu/@EUCommission/116720885785978132",
-          "source": "mastodon"
+          "title": "3 High-Yield Dividend ETFs Paying 9%+ in Passive Income",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYWo0ekNIem1GX1NkODhYLTE5TWlmemt0dW1BOHFWcW5jZlhNU21jSGR3dUtzenZENVZYbnJCSE9CY0kzUThQYVU0dGlTZndvcVpPVlROcmhoRndJYkZockF6SGZOZTZnNGI1YXVyNVRNaFNTd1BaSDNpVHB6b0VKYlRxTHZTMEo2MEN2NURR?oc=5",
+          "source": "gnews"
         },
         {
-          "title": "Apple shares slide after big Siri AI reveal",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1mVkZFeFNmb19QUDBiblhSbFZhMzN4V1U1REV2ZV92c3dkQ19VX1lXaXJkTmtGN3h5N0gxNXdwSEpqemhnM2ZmRURlbVZtOUVwQ0JydTVfak51MWhzLTVJYVZYd3I5RjI2ZGdFYjVEXzgzbHPSAXhBVV95cUxNVmctVWQzdjBCNGZqUGFKM0tWMHVWT1dMTmNzZDFfY1o0cWdnWGhsMjZiNVFLb21OMFhOSWc2Wi1Ra2JRYnVzMXNGRDFHVjZ3SDV0OVhsNHpDdXFFUUtaVGpTOE9wdGUyS1ZxcHlqemhyNzhUTU8xX3M?oc=5",
+          "title": "3 High-Yield Dividend ETFs Paying 9%+ in Passive Income",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYWo0ekNIem1GX1NkODhYLTE5TWlmemt0dW1BOHFWcW5jZlhNU21jSGR3dUtzenZENVZYbnJCSE9CY0kzUThQYVU0dGlTZndvcVpPVlROcmhoRndJYkZockF6SGZOZTZnNGI1YXVyNVRNaFNTd1BaSDNpVHB6b0VKYlRxTHZTMEo2MEN2NURR?oc=5",
           "source": "gnews"
         }
       ],
-      "id": "3a7bd3e2360a",
-      "slug": "apple",
+      "id": "cf2dbbbf8c8c",
+      "slug": "passive-income",
       "opportunity": {
-        "type": "affiliate",
-        "recommended": "Write SEO comparison/roundup article with affiliate links."
+        "type": "niche-content",
+        "recommended": "Publish niche guide for \"finance\"; bundle into digital product later."
       }
     },
     {
-      "keyword": "siri ai",
-      "count": 20,
-      "score": 203.1655681963528,
+      "keyword": "claude fable",
+      "count": 16,
+      "score": 204.6606693076415,
       "proper": true,
       "niches": [
         "ai"
       ],
       "examples": [
         {
-          "title": "Siri AI",
-          "url": "https://www.apple.com/apple-intelligence/",
+          "title": "Claude Fable 5",
+          "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
           "source": "hackernews"
         },
         {
-          "title": "Have you heard of Apple's decision on the rollout of Siri AI in Europe? Let's get the facts straight ⬇️",
-          "url": "https://ec.social-network.europa.eu/@EUCommission/116720885785978132",
-          "source": "mastodon"
+          "title": "Claude Fable 5",
+          "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
+          "source": "hackernews"
         },
         {
-          "title": "Apple shares slide after big Siri AI reveal",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1mVkZFeFNmb19QUDBiblhSbFZhMzN4V1U1REV2ZV92c3dkQ19VX1lXaXJkTmtGN3h5N0gxNXdwSEpqemhnM2ZmRURlbVZtOUVwQ0JydTVfak51MWhzLTVJYVZYd3I5RjI2ZGdFYjVEXzgzbHPSAXhBVV95cUxNVmctVWQzdjBCNGZqUGFKM0tWMHVWT1dMTmNzZDFfY1o0cWdnWGhsMjZiNVFLb21OMFhOSWc2Wi1Ra2JRYnVzMXNGRDFHVjZ3SDV0OVhsNHpDdXFFUUtaVGpTOE9wdGUyS1ZxcHlqemhyNzhUTU8xX3M?oc=5",
-          "source": "gnews"
+          "title": "System Card: Claude Fable 5 and Claude Mythos 5 [pdf]",
+          "url": "https://www-cdn.anthropic.com/d00db56fa754a1b115b6dd7cb2e3c342ee809620.pdf",
+          "source": "hackernews"
         },
         {
-          "title": "WWDC 2026: Apple makes its big Siri AI reveal, changes Liquid Glass and more",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBHVHBEZnkzVkJTZG5jSjI3cG1zSF81THo5WURSb1l3ZWppVG8tYU5lYmVzLU1pRTYxMTl2Z1JJbUdBNXBwRWlydHl4ZnVJTW51cEdKUExBUm1jR3dOdVJrLTZ0X2k2Rk5SRld3SGFXeHExNVXSAXhBVV95cUxOOGZ0YUtTLUtPS3JVNXVmRUs5RVM0VkIteHhGOTFfNXNKMFVxd25hRXI5bW1iRVJzZUx3alIxWjY2cU5MV3pMYlhxeWNKRU4xbmJHUVlId0FRY2tqUU50VEwtd0E4SEFYWXBObDcxeGJlbFdmNnlkN0Y?oc=5",
-          "source": "gnews"
+          "title": "System Card: Claude Fable 5 and Claude Mythos 5 [pdf]",
+          "url": "https://www-cdn.anthropic.com/d00db56fa754a1b115b6dd7cb2e3c342ee809620.pdf",
+          "source": "hackernews"
         }
       ],
-      "id": "62ac3a205be4",
-      "slug": "siri-ai",
+      "id": "ced86039c0ad",
+      "slug": "claude-fable",
       "opportunity": {
         "type": "tooling",
         "recommended": "Build / list AI tools; monetize via affiliate links + lead magnet."
@@ -780,8 +810,8 @@
     },
     {
       "keyword": "claude code",
-      "count": 35,
-      "score": 189.4841822527054,
+      "count": 38,
+      "score": 195.05361334587198,
       "proper": true,
       "niches": [
         "ai"
@@ -821,36 +851,42 @@
       }
     },
     {
-      "keyword": "google gemini",
-      "count": 8,
-      "score": 114.44681253785222,
+      "keyword": "apple",
+      "count": 15,
+      "score": 184.49654794311004,
       "proper": true,
       "niches": [
-        "ai"
+        "ai",
+        "software"
       ],
       "examples": [
         {
-          "title": "Apple reveals new AI architecture built around Google Gemini models",
-          "url": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/",
+          "title": "Have you heard of Apple's decision on the rollout of Siri AI in Europe? Let's get the facts straight ⬇️",
+          "url": "https://ec.social-network.europa.eu/@EUCommission/116720885785978132",
+          "source": "mastodon"
+        },
+        {
+          "title": "Apple decided not to roll out Siri in EU after denied request for exemption",
+          "url": "https://www.reuters.com/business/apple-failed-make-its-ai-tool-comply-eu-regulations-eu-commission-says-2026-06-09/",
           "source": "hackernews"
         },
         {
-          "title": "Apple reveals new AI architecture built around Google Gemini models",
-          "url": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/",
-          "source": "hackernews"
+          "title": "WWDC 2026: Apple makes its big Siri AI reveal, changes Liquid Glass and more",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBHVHBEZnkzVkJTZG5jSjI3cG1zSF81THo5WURSb1l3ZWppVG8tYU5lYmVzLU1pRTYxMTl2Z1JJbUdBNXBwRWlydHl4ZnVJTW51cEdKUExBUm1jR3dOdVJrLTZ0X2k2Rk5SRld3SGFXeHExNVXSAXhBVV95cUxOOGZ0YUtTLUtPS3JVNXVmRUs5RVM0VkIteHhGOTFfNXNKMFVxd25hRXI5bW1iRVJzZUx3alIxWjY2cU5MV3pMYlhxeWNKRU4xbmJHUVlId0FRY2tqUU50VEwtd0E4SEFYWXBObDcxeGJlbFdmNnlkN0Y?oc=5",
+          "source": "gnews"
         }
       ],
-      "id": "160b93ba38ba",
-      "slug": "google-gemini",
+      "id": "3a7bd3e2360a",
+      "slug": "apple",
       "opportunity": {
-        "type": "niche-content",
-        "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
+        "type": "affiliate",
+        "recommended": "Write SEO comparison/roundup article with affiliate links."
       }
     },
     {
       "keyword": "shai hulud",
       "count": 8,
-      "score": 113.66922078285606,
+      "score": 129.89714486513526,
       "proper": true,
       "niches": [
         "ai"
@@ -875,89 +911,118 @@
       }
     },
     {
-      "keyword": "golden gate",
-      "count": 8,
-      "score": 100.37494198416178,
+      "keyword": "siri ai",
+      "count": 10,
+      "score": 117.7056523456799,
       "proper": true,
       "niches": [
-        "software"
+        "ai"
       ],
       "examples": [
         {
-          "title": "PSA for #AsahiLinux users: Do NOT upgrade to macOS 27 Golden Gate!Apple has changed how the boot picker and Startup Disk applications detect valid OS boot volumes. When using either from macOS 27, you",
-          "url": "https://social.treehouse.systems/@AsahiLinux/116719749555082847",
+          "title": "Have you heard of Apple's decision on the rollout of Siri AI in Europe? Let's get the facts straight ⬇️",
+          "url": "https://ec.social-network.europa.eu/@EUCommission/116720885785978132",
           "source": "mastodon"
         },
         {
-          "title": "PSA for #AsahiLinux users: Do NOT upgrade to macOS 27 Golden Gate!Apple has changed how the boot picker and Startup Disk applications detect valid OS boot volumes. When using either from macOS 27, you",
-          "url": "https://social.treehouse.systems/@AsahiLinux/116719749555082847",
-          "source": "mastodon"
+          "title": "WWDC 2026: Apple makes its big Siri AI reveal, changes Liquid Glass and more",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBHVHBEZnkzVkJTZG5jSjI3cG1zSF81THo5WURSb1l3ZWppVG8tYU5lYmVzLU1pRTYxMTl2Z1JJbUdBNXBwRWlydHl4ZnVJTW51cEdKUExBUm1jR3dOdVJrLTZ0X2k2Rk5SRld3SGFXeHExNVXSAXhBVV95cUxOOGZ0YUtTLUtPS3JVNXVmRUs5RVM0VkIteHhGOTFfNXNKMFVxd25hRXI5bW1iRVJzZUx3alIxWjY2cU5MV3pMYlhxeWNKRU4xbmJHUVlId0FRY2tqUU50VEwtd0E4SEFYWXBObDcxeGJlbFdmNnlkN0Y?oc=5",
+          "source": "gnews"
         }
       ],
-      "id": "9b6b05d3b065",
-      "slug": "golden-gate",
+      "id": "62ac3a205be4",
+      "slug": "siri-ai",
+      "opportunity": {
+        "type": "tooling",
+        "recommended": "Build / list AI tools; monetize via affiliate links + lead magnet."
+      }
+    },
+    {
+      "keyword": "software",
+      "count": 18,
+      "score": 100.11416813691416,
+      "proper": true,
+      "niches": [
+        "software",
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "Markdown showing in Settings: Software Update.",
+          "url": "https://mastodon.social/@gruber/116720949319174003",
+          "source": "mastodon"
+        },
+        {
+          "title": "valkor-ai/loom — An open delivery harness that turns Claude Code, Codex, OpenCode, and other coding agents into repeatable software delivery systems.",
+          "url": "https://github.com/valkor-ai/loom",
+          "source": "github"
+        },
+        {
+          "title": "Software buyout deals collapse to lowest level since pandemic after AI rout",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQnQ5RzdOa1NkeTNPQnpnTmZXMlZHazRRTjFiQTdFcXFmdDYzamtQN256aWhWWFgyaGt2N28xRkhoVC1CZXZlUjhEOEZzZU16WlRyWWxiV3pTYVNMNW1SaGZZRnlFcDViMDV6OU4xakRJa2Y1bTRVbldtdkZEUENsSG4wMlo?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Software buyout deals collapse to lowest level since pandemic after AI rout",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQnQ5RzdOa1NkeTNPQnpnTmZXMlZHazRRTjFiQTdFcXFmdDYzamtQN256aWhWWFgyaGt2N28xRkhoVC1CZXZlUjhEOEZzZU16WlRyWWxiV3pTYVNMNW1SaGZZRnlFcDViMDV6OU4xakRJa2Y1bTRVbldtdkZEUENsSG4wMlo?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Software buyout deals collapse to lowest level since pandemic after AI rout",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQnQ5RzdOa1NkeTNPQnpnTmZXMlZHazRRTjFiQTdFcXFmdDYzamtQN256aWhWWFgyaGt2N28xRkhoVC1CZXZlUjhEOEZzZU16WlRyWWxiV3pTYVNMNW1SaGZZRnlFcDViMDV6OU4xakRJa2Y1bTRVbldtdkZEUENsSG4wMlo?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "35390f5453e8",
+      "slug": "software",
       "opportunity": {
         "type": "niche-content",
         "recommended": "Publish niche guide for \"software\"; bundle into digital product later."
       }
     },
     {
-      "keyword": "startup disk",
-      "count": 8,
-      "score": 100.37494198416178,
-      "proper": true,
+      "keyword": "2026 _blank",
+      "count": 36,
+      "score": 94.2317351804207,
+      "proper": false,
       "niches": [
-        "software"
+        "ai",
+        "gear",
+        "finance",
+        "general"
       ],
       "examples": [
         {
-          "title": "PSA for #AsahiLinux users: Do NOT upgrade to macOS 27 Golden Gate!Apple has changed how the boot picker and Startup Disk applications detect valid OS boot volumes. When using either from macOS 27, you",
-          "url": "https://social.treehouse.systems/@AsahiLinux/116719749555082847",
-          "source": "mastodon"
-        },
-        {
-          "title": "PSA for #AsahiLinux users: Do NOT upgrade to macOS 27 Golden Gate!Apple has changed how the boot picker and Startup Disk applications detect valid OS boot volumes. When using either from macOS 27, you",
-          "url": "https://social.treehouse.systems/@AsahiLinux/116719749555082847",
-          "source": "mastodon"
-        }
-      ],
-      "id": "b5675a99b603",
-      "slug": "startup-disk",
-      "opportunity": {
-        "type": "niche-content",
-        "recommended": "Publish niche guide for \"software\"; bundle into digital product later."
-      }
-    },
-    {
-      "keyword": "android auto",
-      "count": 11,
-      "score": 96.86379843458731,
-      "proper": true,
-      "niches": [
-        "software"
-      ],
-      "examples": [
-        {
-          "title": "The newest Android Auto app is a secret weapon for the productivity-hungry",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPajhjUTJocW9MaF9OdHUxT2Rhbkc4OTZhSVdqdm81RGlvYm53c1FtYWNCYnFqb3U2MUVDR0wxZWQ0VHVVbzdPZ3hLWjZTa1hDRFBfUGQwei1fdmdiaTVISkFoMkVVUGRuS2tuVHA0bXZSQTRJQjhRM1pVTzN0blByTGtB?oc=5",
+          "title": "The 3 Best Team Communication Tools with AI Agents in 2026",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQWZlalVhVzAyNnVpd3JVaUd3Yjh6d2NSRDFlMlFJcFViNGQzYkkyMkV2aGJzVjZwcVJpd01nek84RTdZOUVNbTFrS25tb3VGR0otTXN0ZjZ4LXNlYi1XaTl1Wi13NzhIalNfSXFHUGVmXzZxY19kZEJST2Q5c1dHenVTVzd3OXZNRzRN?oc=5",
           "source": "gnews"
         },
         {
-          "title": "The newest Android Auto app is a secret weapon for the productivity-hungry",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPajhjUTJocW9MaF9OdHUxT2Rhbkc4OTZhSVdqdm81RGlvYm53c1FtYWNCYnFqb3U2MUVDR0wxZWQ0VHVVbzdPZ3hLWjZTa1hDRFBfUGQwei1fdmdiaTVISkFoMkVVUGRuS2tuVHA0bXZSQTRJQjhRM1pVTzN0blByTGtB?oc=5",
+          "title": "10 Best Cooling Gadgets to Beat the June Heatwave (2026)",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPWjVuSDloN25sQmU3STVPeDJ2X3FrX0dJc3VtN3RxeC1DM0l6V2RZTmo1V0JqNG1oRlpYNjBqUlNXR3V0NTZuSVFfX2lXVE9XQlFmRmF6Z3Z2T1NuSVk4WXVGSER4ZFZYVTFoRWtBLTktNHBydUNBOGZXaEljVDBtMDNFMA?oc=5",
           "source": "gnews"
         },
         {
-          "title": "The newest Android Auto app is a secret weapon for the productivity-hungry",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPajhjUTJocW9MaF9OdHUxT2Rhbkc4OTZhSVdqdm81RGlvYm53c1FtYWNCYnFqb3U2MUVDR0wxZWQ0VHVVbzdPZ3hLWjZTa1hDRFBfUGQwei1fdmdiaTVISkFoMkVVUGRuS2tuVHA0bXZSQTRJQjhRM1pVTzN0blByTGtB?oc=5",
+          "title": "Best 21 Low-Code and No-Code AI Tools in 2026",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQREhlRDJ5Q0FhMzBleHkzZHFyMm05NHZ6bWRTTWgwaXV3U1RRZVpHUHB4SWQ2dFFqTzUzdU1SeVI5SG9RQUVpYXV4NzlVLW1pc3c4WDVIWEMzRVVhTGNSa29ZZG1GRkZMRVdOelcxUnRleFJjMmcyOVcwTEZxY1JEbjBRSm5YSERyUUZ1Uzlhbw?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "10 Best AI Tools for Students to Boost Grades in 2026",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9TRl9SOFhNRW9QdFJCQnBoNTZPZ1VOT1loLWxwUW5yMFNPVHEzNXR6M3lSV2pVWDlaOTZOZV9RblBVdUotQThyV1lqMWk4RGQyWlQ2em5sYmN5SU11THp1MNIBYEFVX3lxTE9TRl9SOFhNRW9QdFJCQnBoNTZPZ1VOT1loLWxwUW5yMFNPVHEzNXR6M3lSV2pVWDlaOTZOZV9RblBVdUotQThyV1lqMWk4RGQyWlQ2em5sYmN5SU11THp1MA?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "From Wearables to Power Stations: 10 Best Gadgets From May 2026",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4wTmQ4WXF0VkVtdjB4SXBkNlExOE5sVnZ5UXVWS2R0UzZaTzRlOXo5cktQNmNwQk41NGFoYm1PbFB0WWNhTUxTM3hiNUF1R1Q2U0tWcDFKZWdrNmhCazhocTFIcVFId01JNjVN?oc=5",
           "source": "gnews"
         }
       ],
-      "id": "a6ccf0c1a6ab",
-      "slug": "android-auto",
+      "id": "436796f27eb8",
+      "slug": "2026-_blank",
       "opportunity": {
         "type": "niche-content",
-        "recommended": "Publish niche guide for \"software\"; bundle into digital product later."
+        "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
       }
     }
   ]
