@@ -2266,9 +2266,9 @@
     },
     "brutal-truth": {
       "firstSeen": "2026-06-07T17:05:27.592Z",
-      "lastSeen": "2026-06-07T17:05:27.592Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-10T22:45:21.663Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -2786,9 +2786,9 @@
     },
     "claude-desktop": {
       "firstSeen": "2026-06-10T18:24:38.397Z",
-      "lastSeen": "2026-06-10T18:24:38.397Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-10T22:45:21.666Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -2802,9 +2802,9 @@
     },
     "agent": {
       "firstSeen": "2026-06-10T18:24:45.439Z",
-      "lastSeen": "2026-06-10T18:24:45.439Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-10T22:45:21.666Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -2839,12 +2839,52 @@
       "wins": 0,
       "losses": 0,
       "niche": "ai"
+    },
+    "gb-hyper": {
+      "firstSeen": "2026-06-10T22:45:26.757Z",
+      "lastSeen": "2026-06-10T22:45:26.757Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "beacon-software": {
+      "firstSeen": "2026-06-10T22:45:29.292Z",
+      "lastSeen": "2026-06-10T22:45:29.292Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "constellation-software": {
+      "firstSeen": "2026-06-10T22:45:32.530Z",
+      "lastSeen": "2026-06-10T22:45:32.530Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "ai-exponential": {
+      "firstSeen": "2026-06-10T22:45:40.890Z",
+      "lastSeen": "2026-06-10T22:45:40.890Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "fitness-deals": {
+      "firstSeen": "2026-06-10T22:45:48.114Z",
+      "lastSeen": "2026-06-10T22:45:48.114Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "software"
     }
   },
   "niches": {
     "ai": {
-      "count": 423,
-      "wins": 123,
+      "count": 430,
+      "wins": 126,
       "losses": 13
     },
     "finance": {
@@ -2853,7 +2893,7 @@
       "losses": 0
     },
     "software": {
-      "count": 90,
+      "count": 91,
       "wins": 24,
       "losses": 5
     },
