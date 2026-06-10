@@ -1,82 +1,71 @@
 {
-  "generatedAt": "2026-06-10T16:34:40.050Z",
+  "generatedAt": "2026-06-10T18:24:34.636Z",
   "sourceCount": 203,
   "topItems": [
     {
       "title": "shadcn/improve — Use your most capable model to audit your codebase and write plans for cheaper models to execute.",
       "url": "https://github.com/shadcn/improve",
-      "score": 12.19,
+      "score": 10.22,
       "niche": "ai",
       "source": "github",
       "engagement": {
-        "score": 423,
+        "score": 565,
         "comments": 0
-      }
-    },
-    {
-      "title": "Claude Fable 5",
-      "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
-      "score": 9.75,
-      "niche": "ai",
-      "source": "hackernews",
-      "engagement": {
-        "score": 2479,
-        "comments": 1983
-      }
-    },
-    {
-      "title": "The interesting thing about the German court ruling against Google is not the verdict.  The fact that, if you put libel on your web site, you are liable for it even if you used a machine to automatica",
-      "url": "https://infosec.exchange/@david_chisnall/116725663205605698",
-      "score": 9.71,
-      "niche": "ai",
-      "source": "mastodon",
-      "engagement": {
-        "score": 1007,
-        "comments": 37
-      }
-    },
-    {
-      "title": "A court in Munich declared that Google is liable for their \"AI summaries\" and all its hallucinations. This is an important step to bring \"AI\" slop in line with all other products on the market: \"AI\" p",
-      "url": "https://tldr.nettime.org/@tante/116724678506655962",
-      "score": 9.38,
-      "niche": "ai",
-      "source": "mastodon",
-      "engagement": {
-        "score": 1498,
-        "comments": 18
       }
     },
     {
       "title": "🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎂🗣 RELEASE THE HAPPY #BIRTHDAY MEMES!it’s finally my bornday and i have, finally, beat an ",
       "url": "https://mastodon.social/@blogdiva/116726245626200100",
-      "score": 8.34,
+      "score": 8.94,
       "niche": "software",
       "source": "mastodon",
       "engagement": {
-        "score": 249,
+        "score": 374,
+        "comments": 112
+      }
+    },
+    {
+      "title": "Apache Burr: Build reliable AI agents and applications",
+      "url": "https://burr.apache.org/",
+      "score": 8.67,
+      "niche": "ai",
+      "source": "hackernews",
+      "engagement": {
+        "score": 100,
+        "comments": 63
+      }
+    },
+    {
+      "title": "A €0.01 bank transfer could compromise a banking AI agent",
+      "url": "https://blue41.com/blog/how-we-helped-bunq-secure-their-financial-ai-assistant/",
+      "score": 8.65,
+      "niche": "ai",
+      "source": "hackernews",
+      "engagement": {
+        "score": 85,
         "comments": 69
       }
     },
     {
       "title": "macOS Container Machines",
       "url": "https://github.com/apple/container/blob/main/docs/container-machine.md",
-      "score": 8.33,
+      "score": 8.39,
       "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 1057,
-        "comments": 370
+        "score": 1116,
+        "comments": 389
       }
     },
     {
-      "title": "German ruling declares Google liable for false answers in AI Overviews",
-      "url": "https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/",
-      "score": 8.33,
+      "title": "The interesting thing about the German court ruling against Google is not the verdict.  The fact that, if you put libel on your web site, you are liable for it even if you used a machine to automatica",
+      "url": "https://infosec.exchange/@david_chisnall/116725663205605698",
+      "score": 7.98,
       "niche": "ai",
-      "source": "hackernews",
+      "source": "mastodon",
       "engagement": {
-        "score": 850,
-        "comments": 473
+        "score": 1230,
+        "comments": 41
       }
     },
     {
@@ -102,53 +91,20 @@
       }
     },
     {
-      "title": "https://www.science.org/content/article/amid-flood-ai-advances-astrophysicists-are-questioning-soul-their-fieldReading this while attending an astrophysics conference full of students is... intense, t",
-      "url": "https://mastodon.social/@sundogplanets/116725529156492088",
-      "score": 7.88,
+      "title": "Nobody needs AI to search the Internet, court says in ruling against GoogleGoogle AI Overview court loss in Germany could spell doom for AI search industry.https://arstechnica.com/tech-policy/2026/06/",
+      "url": "https://mastodon.social/@arstechnica/116726961728397799",
+      "score": 7.8,
       "niche": "ai",
       "source": "mastodon",
       "engagement": {
-        "score": 269,
-        "comments": 10
+        "score": 263,
+        "comments": 5
       }
     },
     {
-      "title": "Apache Burr: Build reliable AI agents and applications",
-      "url": "https://burr.apache.org/",
-      "score": 7.39,
-      "niche": "ai",
-      "source": "hackernews",
-      "engagement": {
-        "score": 51,
-        "comments": 25
-      }
-    },
-    {
-      "title": "AWS Bedrock to require sharing data with Anthropic for Mythos and future models",
-      "url": "https://news.ycombinator.com/item?id=48473166",
-      "score": 7.29,
-      "niche": "ai",
-      "source": "hackernews",
-      "engagement": {
-        "score": 318,
-        "comments": 191
-      }
-    },
-    {
-      "title": "All 9,300 Japanese train station, animated by the year it opened (1872–2026)",
-      "url": "https://jivx.com/eki",
-      "score": 7.22,
-      "niche": "ai",
-      "source": "hackernews",
-      "engagement": {
-        "score": 104,
-        "comments": 38
-      }
-    },
-    {
-      "title": "The AirPods Pro 3 are $179 at Walmart, their best-ever price",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAtcEZPUFZ0ZkQtcDVURThLQkFCQVFvNjBZY3ZZblZKb25WOWdSNnRvWTk1TE1JWWRSVFZ5RFRCZ1RDMFJmT2VjUExWVWFYMlRVekZCaVkwSk53QkZlVjc3UFkzeURZUHYxMDZkMzBDOEltcGRkdXR4cklFSQ?oc=5",
-      "score": 6.71,
+      "title": "I've tested so many desktop AI tools, but Hermes with Ollama is my new favorite - here's why",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1aUjdZZ3RHd01acFpnaDhpdC12Y0pJeWtkem5EZGFXb3pmNDlvdk1WVFVHXzc5d3BtbXR6em1CY0dqb1BrME1TMmhCZ1dKb2JJMnVFRExPYlVPRVk3aTZscVVpVmktN3RwVnZ1a2x6YVdEN2dxeWl5Tg?oc=5",
+      "score": 7.48,
       "niche": "ai",
       "source": "gnews",
       "engagement": {
@@ -157,25 +113,36 @@
       }
     },
     {
-      "title": "I've been a broken record on this for three years and I'll be a broken record for as long as that fucking website exists: \n\nX is a viciously racist far-right organising platform that ONLY WORKS becaus",
-      "url": "https://fed.brid.gy/r/https://bsky.app/profile/did:plc:66lbtw2porscqpmair6mir37/post/3mnwgikvvtk2x",
-      "score": 6.66,
-      "niche": "software",
-      "source": "mastodon",
-      "engagement": {
-        "score": 362,
-        "comments": 11
-      }
-    },
-    {
-      "title": "Rich Sutton on AI creativity and discovery",
-      "url": "https://twitter.com/RichardSSutton/status/2061216087744946656",
-      "score": 6.62,
+      "title": "AWS Bedrock to require sharing data with Anthropic for Mythos and future models",
+      "url": "https://news.ycombinator.com/item?id=48473166",
+      "score": 7.42,
       "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 186,
-        "comments": 100
+        "score": 359,
+        "comments": 214
+      }
+    },
+    {
+      "title": "I check the ticket. Overnight to Krakow. Sleeper, private compartment for two. \"Hurry up!\" My fiancé leads the way. \"Wait, the train station is the other-\"\"We're here.\"It used to be an empty plot. Now",
+      "url": "https://mastodon.art/@MicroSFF/116726746107527848",
+      "score": 7.38,
+      "niche": "ai",
+      "source": "mastodon",
+      "engagement": {
+        "score": 196,
+        "comments": 3
+      }
+    },
+    {
+      "title": "Claude Desktop spins up a VM without no way of stopping it",
+      "url": "https://github.com/anthropics/claude-code/issues/29045",
+      "score": 7.16,
+      "niche": "ai",
+      "source": "hackernews",
+      "engagement": {
+        "score": 43,
+        "comments": 22
       }
     },
     {
@@ -203,34 +170,34 @@
     {
       "title": "If Claude Fable stops helping you, you'll never know",
       "url": "https://jonready.com/blog/posts/claude-fable5-is-allowed-to-sabotage-your-app-if-youre-a-competitor.html",
-      "score": 6.26,
+      "score": 6.32,
       "niche": "ai",
       "source": "lobsters",
       "engagement": {
-        "score": 77,
+        "score": 83,
         "comments": 28
       }
     },
     {
       "title": "apple/coreai-models — Model export recipes, Python primitives, and Swift runtime utilities for on-device AI",
       "url": "https://github.com/apple/coreai-models",
-      "score": 6.09,
+      "score": 6.11,
       "niche": "ai",
       "source": "github",
       "engagement": {
-        "score": 556,
+        "score": 573,
         "comments": 7
       }
     },
     {
-      "title": "RIP software hackathons. Long live the hardware hackathon",
-      "url": "https://blog.oscars.dev/posts/rip-software-hackathons-long-live-the-hardware-hackathon/",
-      "score": 6.02,
-      "niche": "software",
+      "title": "All 9,300 Japanese train station, animated by the year it opened (1872–2026)",
+      "url": "https://jivx.com/eki",
+      "score": 6.05,
+      "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 246,
-        "comments": 121
+        "score": 137,
+        "comments": 46
       }
     },
     {
@@ -256,14 +223,47 @@
       }
     },
     {
-      "title": "macOS container tool v1.0.0 released",
-      "url": "https://github.com/apple/container",
-      "score": 5.77,
-      "niche": "ai",
-      "source": "lobsters",
+      "title": "GitHub Authentication issues related to API requests",
+      "url": "https://www.githubstatus.com/incidents/fcj3088jg1wx",
+      "score": 5.92,
+      "niche": "software",
+      "source": "hackernews",
       "engagement": {
-        "score": 14,
-        "comments": 11
+        "score": 85,
+        "comments": 22
+      }
+    },
+    {
+      "title": "AI-CoolTools/AI-GoldenAPP — Explore next-gen AI apps for realistic image and video creation with fewer limits, better quality, and more control. Find powerful tools designed for unrestricted creativit",
+      "url": "https://github.com/AI-CoolTools/AI-GoldenAPP",
+      "score": 5.91,
+      "niche": "ai",
+      "source": "github",
+      "engagement": {
+        "score": 83,
+        "comments": 0
+      }
+    },
+    {
+      "title": "The iPad was on Tailscale: a WebRTC debugging story",
+      "url": "https://p2claw.com/blog/2026-06-09-the-ipad-was-on-tailscale/",
+      "score": 5.76,
+      "niche": "ai",
+      "source": "hackernews",
+      "engagement": {
+        "score": 32,
+        "comments": 15
+      }
+    },
+    {
+      "title": "plannotator/effective-html — Agent skill for elegant and simple html plans, architecture diagrams, or whatever else you can think of.",
+      "url": "https://github.com/plannotator/effective-html",
+      "score": 5.6,
+      "niche": "ai",
+      "source": "github",
+      "engagement": {
+        "score": 77,
+        "comments": 1
       }
     },
     {
@@ -279,34 +279,6 @@
     }
   ],
   "topics": [
-    {
-      "keyword": "claude fable",
-      "count": 11,
-      "score": 145.20128242087338,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "Claude Fable 5",
-          "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
-          "source": "hackernews"
-        },
-        {
-          "title": "Claude Fable 5",
-          "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
-          "source": "hackernews"
-        },
-        {
-          "title": "If Claude Fable stops helping you, you'll never know",
-          "url": "https://jonready.com/blog/posts/claude-fable5-is-allowed-to-sabotage-your-app-if-youre-a-competitor.html",
-          "source": "lobsters"
-        }
-      ],
-      "id": "ced86039c0ad",
-      "slug": "claude-fable"
-    },
     {
       "keyword": "kitchen gadgets",
       "count": 23,
@@ -386,6 +358,44 @@
       "slug": "early-prime"
     },
     {
+      "keyword": "claude code",
+      "count": 33,
+      "score": 118.85094113272788,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "valkor-ai/loom — An open delivery harness that turns Claude Code, Codex, OpenCode, and other coding agents into repeatable software delivery systems.",
+          "url": "https://github.com/valkor-ai/loom",
+          "source": "github"
+        },
+        {
+          "title": "valkor-ai/loom — An open delivery harness that turns Claude Code, Codex, OpenCode, and other coding agents into repeatable software delivery systems.",
+          "url": "https://github.com/valkor-ai/loom",
+          "source": "github"
+        },
+        {
+          "title": "Skill, MCP, Plugin, or just a CLI: how I pick a Claude Code extension, lightest first",
+          "url": "https://dev.to/rapls/skill-mcp-plugin-or-just-a-cli-how-i-pick-a-claude-code-extension-lightest-first-3hon",
+          "source": "devto"
+        },
+        {
+          "title": "Skill, MCP, Plugin, or just a CLI: how I pick a Claude Code extension, lightest first",
+          "url": "https://dev.to/rapls/skill-mcp-plugin-or-just-a-cli-how-i-pick-a-claude-code-extension-lightest-first-3hon",
+          "source": "devto"
+        },
+        {
+          "title": "Claude Code is the best AI coding tool I've used, and I’m not entirely sure if I can recommend it",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMnJUQnpneEtHMEJFZzZ0V0djN24zOVQyM3hpT09WYm5sUXBRVEo0QkFCZG50Q3RMMUtuczFwYk9aMEYxSFpBMVkxNDhrRmpOTUNJWE9teEVsR3JDYW9YMktENFYxQlBjTC1lM2hfYTJ3WkI4c0tyMTh3X0UzSWUwVUFMRlQtSjhIcnRuTTVYUW9OeXFVbUtHYmt3?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "a625159d18da",
+      "slug": "claude-code"
+    },
+    {
       "keyword": "fitness gear",
       "count": 23,
       "score": 118.53961346890054,
@@ -425,47 +435,9 @@
       "slug": "fitness-gear"
     },
     {
-      "keyword": "claude code",
-      "count": 27,
-      "score": 109.7984153172934,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "valkor-ai/loom — An open delivery harness that turns Claude Code, Codex, OpenCode, and other coding agents into repeatable software delivery systems.",
-          "url": "https://github.com/valkor-ai/loom",
-          "source": "github"
-        },
-        {
-          "title": "valkor-ai/loom — An open delivery harness that turns Claude Code, Codex, OpenCode, and other coding agents into repeatable software delivery systems.",
-          "url": "https://github.com/valkor-ai/loom",
-          "source": "github"
-        },
-        {
-          "title": "Skill, MCP, Plugin, or just a CLI: how I pick a Claude Code extension, lightest first",
-          "url": "https://dev.to/rapls/skill-mcp-plugin-or-just-a-cli-how-i-pick-a-claude-code-extension-lightest-first-3hon",
-          "source": "devto"
-        },
-        {
-          "title": "Skill, MCP, Plugin, or just a CLI: how I pick a Claude Code extension, lightest first",
-          "url": "https://dev.to/rapls/skill-mcp-plugin-or-just-a-cli-how-i-pick-a-claude-code-extension-lightest-first-3hon",
-          "source": "devto"
-        },
-        {
-          "title": "Claude Code is the best AI coding tool I've used, and I’m not entirely sure if I can recommend it",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMnJUQnpneEtHMEJFZzZ0V0djN24zOVQyM3hpT09WYm5sUXBRVEo0QkFCZG50Q3RMMUtuczFwYk9aMEYxSFpBMVkxNDhrRmpOTUNJWE9teEVsR3JDYW9YMktENFYxQlBjTC1lM2hfYTJ3WkI4c0tyMTh3X0UzSWUwVUFMRlQtSjhIcnRuTTVYUW9OeXFVbUtHYmt3?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "a625159d18da",
-      "slug": "claude-code"
-    },
-    {
       "keyword": "birthday memes",
       "count": 8,
-      "score": 100.03245787696017,
+      "score": 107.31977241712298,
       "proper": true,
       "niches": [
         "software"
@@ -486,32 +458,9 @@
       "slug": "birthday-memes"
     },
     {
-      "keyword": "container machines",
-      "count": 8,
-      "score": 99.98713919684229,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "macOS Container Machines",
-          "url": "https://github.com/apple/container/blob/main/docs/container-machine.md",
-          "source": "hackernews"
-        },
-        {
-          "title": "macOS Container Machines",
-          "url": "https://github.com/apple/container/blob/main/docs/container-machine.md",
-          "source": "hackernews"
-        }
-      ],
-      "id": "eaef61e84f52",
-      "slug": "container-machines"
-    },
-    {
       "keyword": "apache burr",
       "count": 8,
-      "score": 88.69978358500626,
+      "score": 104.04210185364829,
       "proper": true,
       "niches": [
         "ai"
@@ -532,9 +481,32 @@
       "slug": "apache-burr"
     },
     {
+      "keyword": "container machines",
+      "count": 8,
+      "score": 100.68815506342168,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "macOS Container Machines",
+          "url": "https://github.com/apple/container/blob/main/docs/container-machine.md",
+          "source": "hackernews"
+        },
+        {
+          "title": "macOS Container Machines",
+          "url": "https://github.com/apple/container/blob/main/docs/container-machine.md",
+          "source": "hackernews"
+        }
+      ],
+      "id": "eaef61e84f52",
+      "slug": "container-machines"
+    },
+    {
       "keyword": "aws bedrock",
       "count": 8,
-      "score": 87.42045751193575,
+      "score": 88.98128540127914,
       "proper": true,
       "niches": [
         "ai"
@@ -555,9 +527,32 @@
       "slug": "aws-bedrock"
     },
     {
+      "keyword": "claude desktop",
+      "count": 8,
+      "score": 85.86835480215143,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "Claude Desktop spins up a VM without no way of stopping it",
+          "url": "https://github.com/anthropics/claude-code/issues/29045",
+          "source": "hackernews"
+        },
+        {
+          "title": "Claude Desktop spins up a VM without no way of stopping it",
+          "url": "https://github.com/anthropics/claude-code/issues/29045",
+          "source": "hackernews"
+        }
+      ],
+      "id": "abc5ac745d33",
+      "slug": "claude-desktop"
+    },
+    {
       "keyword": "model",
-      "count": 9,
-      "score": 86.51840982293211,
+      "count": 10,
+      "score": 85.32730634674104,
       "proper": true,
       "niches": [
         "ai"
@@ -627,32 +622,9 @@
       "slug": "prime-deals"
     },
     {
-      "keyword": "rich sutton",
-      "count": 8,
-      "score": 79.49448084538098,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "Rich Sutton on AI creativity and discovery",
-          "url": "https://twitter.com/RichardSSutton/status/2061216087744946656",
-          "source": "hackernews"
-        },
-        {
-          "title": "Rich Sutton on AI creativity and discovery",
-          "url": "https://twitter.com/RichardSSutton/status/2061216087744946656",
-          "source": "hackernews"
-        }
-      ],
-      "id": "a21868a3e4bb",
-      "slug": "rich-sutton"
-    },
-    {
       "keyword": "tools",
       "count": 10,
-      "score": 78.87563153396924,
+      "score": 79.58834821142608,
       "proper": true,
       "niches": [
         "software"
@@ -701,77 +673,70 @@
       "slug": "boost-grades"
     },
     {
-      "keyword": "mechanical keyboard",
-      "count": 20,
-      "score": 68.68523888998007,
-      "proper": true,
+      "keyword": "fitness deals",
+      "count": 18,
+      "score": 65.78222794788456,
+      "proper": false,
       "niches": [
-        "gear"
+        "software",
+        "ai",
+        "finance"
       ],
       "examples": [
         {
-          "title": "8BitDo’s NES-style Mechanical Keyboard with Super Buttons and Joystick is down to $70 today",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSFpyMWlGQmVlaVpiV1ZlbVEzamdPV0pmWTJvbzBPVFU3a1JjUzNCM25jRHRTY3d5MUZKa2VKLUF5YUtkakVXa0lzM0NZeS0tYlRSSzd4X0t5c2VTOFJVV3JOaEk3Q1JBWkJVdVFiVTB3bTd2ZU9FUU1pNEZIc2taZk9TbDJ6RWg2OHc?oc=5",
+          "title": "Save Nearly 50% on Editor-Approved Home Gym Equipment With These Early Prime Day Fitness Deals",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9BVVVTRTNIMlFLNUc5c1pmaHp5aXpidFoxZzI5TnhxTkRzWm1XSDdzOWxSdlhmZjJYaEFoNUktb2JrSnNDa0g3THNSSjFLbkhweXJESmJ4U3ZPNld2a1R1eU1fWHE1ZG5ybXRqRjJVbDM0Qkw0ZVFLdg?oc=5",
           "source": "gnews"
         },
         {
-          "title": "8BitDo’s NES-style Mechanical Keyboard with Super Buttons and Joystick is down to $70 today",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSFpyMWlGQmVlaVpiV1ZlbVEzamdPV0pmWTJvbzBPVFU3a1JjUzNCM25jRHRTY3d5MUZKa2VKLUF5YUtkakVXa0lzM0NZeS0tYlRSSzd4X0t5c2VTOFJVV3JOaEk3Q1JBWkJVdVFiVTB3bTd2ZU9FUU1pNEZIc2taZk9TbDJ6RWg2OHc?oc=5",
+          "title": "Save Nearly 50% on Editor-Approved Home Gym Equipment With These Early Prime Day Fitness Deals",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9BVVVTRTNIMlFLNUc5c1pmaHp5aXpidFoxZzI5TnhxTkRzWm1XSDdzOWxSdlhmZjJYaEFoNUktb2JrSnNDa0g3THNSSjFLbkhweXJESmJ4U3ZPNld2a1R1eU1fWHE1ZG5ybXRqRjJVbDM0Qkw0ZVFLdg?oc=5",
           "source": "gnews"
         },
         {
-          "title": "8BitDo’s NES-style Mechanical Keyboard with Super Buttons and Joystick is down to $70 today",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSFpyMWlGQmVlaVpiV1ZlbVEzamdPV0pmWTJvbzBPVFU3a1JjUzNCM25jRHRTY3d5MUZKa2VKLUF5YUtkakVXa0lzM0NZeS0tYlRSSzd4X0t5c2VTOFJVV3JOaEk3Q1JBWkJVdVFiVTB3bTd2ZU9FUU1pNEZIc2taZk9TbDJ6RWg2OHc?oc=5",
+          "title": "Amazon Prime Day Fitness Deals: Shop the Best Deals on Fitness Equipment",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE51M3laczhpYWNOVVE1NXk0X1ZDYmdWV1ZTaFc3dVo4cEN3VEdLcmdaeGd2cHJ1WXJzSlB6elZveG54Rk5JdzE4NFpWVVktZGdDcEhZX18tV0F3NHg3MUJMekpGSEVwZlpyRkVrZTVSbTM?oc=5",
           "source": "gnews"
         },
         {
-          "title": "Epomaker RT98 Mechanical Keyboard Review",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNb3hKTVB4bGw0SlhyN2lzQ2NxN05raFBNZlhFTHJFalBDMmxYZV91Qnphd0ZLZHdNdTBYRlRON1pCRXF0clJOcERGUDZnTDdLREZINll1OXFieFVHWThfRWI2Tm5neFFST2F6SklpdE5mU1pIU2ZQOVpMcGFNQWloWEJYSkc?oc=5",
+          "title": "Amazon Prime Day Fitness Deals: Shop the Best Deals on Fitness Equipment",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE51M3laczhpYWNOVVE1NXk0X1ZDYmdWV1ZTaFc3dVo4cEN3VEdLcmdaeGd2cHJ1WXJzSlB6elZveG54Rk5JdzE4NFpWVVktZGdDcEhZX18tV0F3NHg3MUJMekpGSEVwZlpyRkVrZTVSbTM?oc=5",
           "source": "gnews"
         },
         {
-          "title": "Epomaker RT98 Mechanical Keyboard Review",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNb3hKTVB4bGw0SlhyN2lzQ2NxN05raFBNZlhFTHJFalBDMmxYZV91Qnphd0ZLZHdNdTBYRlRON1pCRXF0clJOcERGUDZnTDdLREZINll1OXFieFVHWThfRWI2Tm5neFFST2F6SklpdE5mU1pIU2ZQOVpMcGFNQWloWEJYSkc?oc=5",
+          "title": "Amazon’s Overstock Outlet Is Packed With Memorial Day Fitness Deals—Up to 45% Off",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNa0RhN3E4YXJXZGRUUkZKeEJRd3pvZHFPS1dCTmpacHBjU1RCRjR1RFFrZkpYSk44dnVYc0x4N2RxQXE3LW5PZDE0Q1ZFRHhON2MwWXlaYXZLX3duWW9FRlJwT21pWnhoQ1NYOWxKWUIzV3oyQndiS2JFektXcnFybXRuR3BkNTFHLXFyRk9MS3NyX2RVTmNDYmJyOW41czBZZ2RQc2w4YmFwWnRsOHlQbjlnbFI?oc=5",
           "source": "gnews"
         }
       ],
-      "id": "e31f9fac7533",
-      "slug": "mechanical-keyboard"
-    }
-  ],
-  "opportunities": [
+      "id": "0b93f7d1ccf5",
+      "slug": "fitness-deals"
+    },
     {
-      "keyword": "claude fable",
-      "count": 11,
-      "score": 145.20128242087338,
+      "keyword": "stop pretending",
+      "count": 8,
+      "score": 65.09127511148444,
       "proper": true,
       "niches": [
         "ai"
       ],
       "examples": [
         {
-          "title": "Claude Fable 5",
-          "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
-          "source": "hackernews"
+          "title": "The 'Prompt' Is Not a Skill — And We Need to Stop Pretending",
+          "url": "https://dev.to/harsh2644/the-prompt-is-not-a-skill-and-we-need-to-stop-pretending-3m18",
+          "source": "devto"
         },
         {
-          "title": "Claude Fable 5",
-          "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
-          "source": "hackernews"
-        },
-        {
-          "title": "If Claude Fable stops helping you, you'll never know",
-          "url": "https://jonready.com/blog/posts/claude-fable5-is-allowed-to-sabotage-your-app-if-youre-a-competitor.html",
-          "source": "lobsters"
+          "title": "The 'Prompt' Is Not a Skill — And We Need to Stop Pretending",
+          "url": "https://dev.to/harsh2644/the-prompt-is-not-a-skill-and-we-need-to-stop-pretending-3m18",
+          "source": "devto"
         }
       ],
-      "id": "ced86039c0ad",
-      "slug": "claude-fable",
-      "opportunity": {
-        "type": "tooling",
-        "recommended": "Build / list AI tools; monetize via affiliate links + lead magnet."
-      }
-    },
+      "id": "774ea7964f43",
+      "slug": "stop-pretending"
+    }
+  ],
+  "opportunities": [
     {
       "keyword": "kitchen gadgets",
       "count": 23,
@@ -859,6 +824,48 @@
       }
     },
     {
+      "keyword": "claude code",
+      "count": 33,
+      "score": 118.85094113272788,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "valkor-ai/loom — An open delivery harness that turns Claude Code, Codex, OpenCode, and other coding agents into repeatable software delivery systems.",
+          "url": "https://github.com/valkor-ai/loom",
+          "source": "github"
+        },
+        {
+          "title": "valkor-ai/loom — An open delivery harness that turns Claude Code, Codex, OpenCode, and other coding agents into repeatable software delivery systems.",
+          "url": "https://github.com/valkor-ai/loom",
+          "source": "github"
+        },
+        {
+          "title": "Skill, MCP, Plugin, or just a CLI: how I pick a Claude Code extension, lightest first",
+          "url": "https://dev.to/rapls/skill-mcp-plugin-or-just-a-cli-how-i-pick-a-claude-code-extension-lightest-first-3hon",
+          "source": "devto"
+        },
+        {
+          "title": "Skill, MCP, Plugin, or just a CLI: how I pick a Claude Code extension, lightest first",
+          "url": "https://dev.to/rapls/skill-mcp-plugin-or-just-a-cli-how-i-pick-a-claude-code-extension-lightest-first-3hon",
+          "source": "devto"
+        },
+        {
+          "title": "Claude Code is the best AI coding tool I've used, and I’m not entirely sure if I can recommend it",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMnJUQnpneEtHMEJFZzZ0V0djN24zOVQyM3hpT09WYm5sUXBRVEo0QkFCZG50Q3RMMUtuczFwYk9aMEYxSFpBMVkxNDhrRmpOTUNJWE9teEVsR3JDYW9YMktENFYxQlBjTC1lM2hfYTJ3WkI4c0tyMTh3X0UzSWUwVUFMRlQtSjhIcnRuTTVYUW9OeXFVbUtHYmt3?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "a625159d18da",
+      "slug": "claude-code",
+      "opportunity": {
+        "type": "tooling",
+        "recommended": "Build / list AI tools; monetize via affiliate links + lead magnet."
+      }
+    },
+    {
       "keyword": "fitness gear",
       "count": 23,
       "score": 118.53961346890054,
@@ -902,51 +909,9 @@
       }
     },
     {
-      "keyword": "claude code",
-      "count": 27,
-      "score": 109.7984153172934,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "valkor-ai/loom — An open delivery harness that turns Claude Code, Codex, OpenCode, and other coding agents into repeatable software delivery systems.",
-          "url": "https://github.com/valkor-ai/loom",
-          "source": "github"
-        },
-        {
-          "title": "valkor-ai/loom — An open delivery harness that turns Claude Code, Codex, OpenCode, and other coding agents into repeatable software delivery systems.",
-          "url": "https://github.com/valkor-ai/loom",
-          "source": "github"
-        },
-        {
-          "title": "Skill, MCP, Plugin, or just a CLI: how I pick a Claude Code extension, lightest first",
-          "url": "https://dev.to/rapls/skill-mcp-plugin-or-just-a-cli-how-i-pick-a-claude-code-extension-lightest-first-3hon",
-          "source": "devto"
-        },
-        {
-          "title": "Skill, MCP, Plugin, or just a CLI: how I pick a Claude Code extension, lightest first",
-          "url": "https://dev.to/rapls/skill-mcp-plugin-or-just-a-cli-how-i-pick-a-claude-code-extension-lightest-first-3hon",
-          "source": "devto"
-        },
-        {
-          "title": "Claude Code is the best AI coding tool I've used, and I’m not entirely sure if I can recommend it",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMnJUQnpneEtHMEJFZzZ0V0djN24zOVQyM3hpT09WYm5sUXBRVEo0QkFCZG50Q3RMMUtuczFwYk9aMEYxSFpBMVkxNDhrRmpOTUNJWE9teEVsR3JDYW9YMktENFYxQlBjTC1lM2hfYTJ3WkI4c0tyMTh3X0UzSWUwVUFMRlQtSjhIcnRuTTVYUW9OeXFVbUtHYmt3?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "a625159d18da",
-      "slug": "claude-code",
-      "opportunity": {
-        "type": "tooling",
-        "recommended": "Build / list AI tools; monetize via affiliate links + lead magnet."
-      }
-    },
-    {
       "keyword": "birthday memes",
       "count": 8,
-      "score": 100.03245787696017,
+      "score": 107.31977241712298,
       "proper": true,
       "niches": [
         "software"
@@ -971,9 +936,36 @@
       }
     },
     {
+      "keyword": "apache burr",
+      "count": 8,
+      "score": 104.04210185364829,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "Apache Burr: Build reliable AI agents and applications",
+          "url": "https://burr.apache.org/",
+          "source": "hackernews"
+        },
+        {
+          "title": "Apache Burr: Build reliable AI agents and applications",
+          "url": "https://burr.apache.org/",
+          "source": "hackernews"
+        }
+      ],
+      "id": "691fdc9afb6a",
+      "slug": "apache-burr",
+      "opportunity": {
+        "type": "niche-content",
+        "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
+      }
+    },
+    {
       "keyword": "container machines",
       "count": 8,
-      "score": 99.98713919684229,
+      "score": 100.68815506342168,
       "proper": true,
       "niches": [
         "ai"
@@ -998,27 +990,27 @@
       }
     },
     {
-      "keyword": "apache burr",
+      "keyword": "aws bedrock",
       "count": 8,
-      "score": 88.69978358500626,
+      "score": 88.98128540127914,
       "proper": true,
       "niches": [
         "ai"
       ],
       "examples": [
         {
-          "title": "Apache Burr: Build reliable AI agents and applications",
-          "url": "https://burr.apache.org/",
+          "title": "AWS Bedrock to require sharing data with Anthropic for Mythos and future models",
+          "url": "https://news.ycombinator.com/item?id=48473166",
           "source": "hackernews"
         },
         {
-          "title": "Apache Burr: Build reliable AI agents and applications",
-          "url": "https://burr.apache.org/",
+          "title": "AWS Bedrock to require sharing data with Anthropic for Mythos and future models",
+          "url": "https://news.ycombinator.com/item?id=48473166",
           "source": "hackernews"
         }
       ],
-      "id": "691fdc9afb6a",
-      "slug": "apache-burr",
+      "id": "78e20b03b4c3",
+      "slug": "aws-bedrock",
       "opportunity": {
         "type": "niche-content",
         "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."

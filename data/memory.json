@@ -2738,25 +2738,25 @@
     },
     "early-prime": {
       "firstSeen": "2026-06-10T16:34:44.170Z",
-      "lastSeen": "2026-06-10T16:34:44.170Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-10T18:24:33.865Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "software"
     },
     "birthday-memes": {
       "firstSeen": "2026-06-10T16:34:47.114Z",
-      "lastSeen": "2026-06-10T16:34:47.114Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-10T18:24:33.865Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "software"
     },
     "apache-burr": {
       "firstSeen": "2026-06-10T16:34:50.663Z",
-      "lastSeen": "2026-06-10T16:34:50.663Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-10T18:24:33.868Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -2783,12 +2783,68 @@
       "wins": 0,
       "losses": 0,
       "niche": "software"
+    },
+    "claude-desktop": {
+      "firstSeen": "2026-06-10T18:24:38.397Z",
+      "lastSeen": "2026-06-10T18:24:38.397Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "heating-costs": {
+      "firstSeen": "2026-06-10T18:24:41.686Z",
+      "lastSeen": "2026-06-10T18:24:41.686Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "agent": {
+      "firstSeen": "2026-06-10T18:24:45.439Z",
+      "lastSeen": "2026-06-10T18:24:45.439Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "prime-deals": {
+      "firstSeen": "2026-06-10T18:24:55.961Z",
+      "lastSeen": "2026-06-10T18:24:55.961Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "software"
+    },
+    "googlegoogle-ai-overview": {
+      "firstSeen": "2026-06-10T18:25:57.837Z",
+      "lastSeen": "2026-06-10T18:25:57.837Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "krakow-sleeper": {
+      "firstSeen": "2026-06-10T18:26:25.275Z",
+      "lastSeen": "2026-06-10T18:26:25.275Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "foundation-models": {
+      "firstSeen": "2026-06-10T18:26:32.878Z",
+      "lastSeen": "2026-06-10T18:26:32.878Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
     }
   },
   "niches": {
     "ai": {
-      "count": 416,
-      "wins": 122,
+      "count": 423,
+      "wins": 123,
       "losses": 13
     },
     "finance": {
@@ -2797,8 +2853,8 @@
       "losses": 0
     },
     "software": {
-      "count": 87,
-      "wins": 22,
+      "count": 90,
+      "wins": 24,
       "losses": 5
     },
     "gear": {
