@@ -1,186 +1,241 @@
 {
-  "generatedAt": "2026-06-10T05:14:23.892Z",
-  "sourceCount": 204,
+  "generatedAt": "2026-06-10T16:34:40.050Z",
+  "sourceCount": 203,
   "topItems": [
+    {
+      "title": "shadcn/improve — Use your most capable model to audit your codebase and write plans for cheaper models to execute.",
+      "url": "https://github.com/shadcn/improve",
+      "score": 12.19,
+      "niche": "ai",
+      "source": "github",
+      "engagement": {
+        "score": 423,
+        "comments": 0
+      }
+    },
     {
       "title": "Claude Fable 5",
       "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
-      "score": 9.48,
+      "score": 9.75,
       "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 1972,
-        "comments": 1527
+        "score": 2479,
+        "comments": 1983
+      }
+    },
+    {
+      "title": "The interesting thing about the German court ruling against Google is not the verdict.  The fact that, if you put libel on your web site, you are liable for it even if you used a machine to automatica",
+      "url": "https://infosec.exchange/@david_chisnall/116725663205605698",
+      "score": 9.71,
+      "niche": "ai",
+      "source": "mastodon",
+      "engagement": {
+        "score": 1007,
+        "comments": 37
+      }
+    },
+    {
+      "title": "A court in Munich declared that Google is liable for their \"AI summaries\" and all its hallucinations. This is an important step to bring \"AI\" slop in line with all other products on the market: \"AI\" p",
+      "url": "https://tldr.nettime.org/@tante/116724678506655962",
+      "score": 9.38,
+      "niche": "ai",
+      "source": "mastodon",
+      "engagement": {
+        "score": 1498,
+        "comments": 18
+      }
+    },
+    {
+      "title": "🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎂🗣 RELEASE THE HAPPY #BIRTHDAY MEMES!it’s finally my bornday and i have, finally, beat an ",
+      "url": "https://mastodon.social/@blogdiva/116726245626200100",
+      "score": 8.34,
+      "niche": "software",
+      "source": "mastodon",
+      "engagement": {
+        "score": 249,
+        "comments": 69
       }
     },
     {
       "title": "macOS Container Machines",
       "url": "https://github.com/apple/container/blob/main/docs/container-machine.md",
-      "score": 9.23,
+      "score": 8.33,
       "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 454,
-        "comments": 155
-      }
-    },
-    {
-      "title": "If Claude Fable stops helping you, you'll never know",
-      "url": "https://jonready.com/blog/posts/claude-fable5-is-allowed-to-sabotage-your-app-if-youre-a-competitor.html",
-      "score": 9.16,
-      "niche": "ai",
-      "source": "hackernews",
-      "engagement": {
-        "score": 652,
-        "comments": 318
+        "score": 1057,
+        "comments": 370
       }
     },
     {
       "title": "German ruling declares Google liable for false answers in AI Overviews",
       "url": "https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/",
-      "score": 8.66,
+      "score": 8.33,
       "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 236,
-        "comments": 136
+        "score": 850,
+        "comments": 473
       }
     },
     {
-      "title": "Two things are going to happen in Australia's main grid in the next few years- Renewables are going to overtake coal- Battery discharge is going to overtake gas🥰",
-      "url": "https://climatejustice.social/@ketan/116723220921118026",
-      "score": 8.29,
+      "title": "AI-NextGenApps/AI-IMG-VID-App — The AI tool people use when they want spicy content that genuinely looks real. Easy to use, fast to generate, and trusted by millions worldwide. Start today with free c",
+      "url": "https://github.com/AI-NextGenApps/AI-IMG-VID-App",
+      "score": 7.9,
+      "niche": "ai",
+      "source": "github",
+      "engagement": {
+        "score": 84,
+        "comments": 0
+      }
+    },
+    {
+      "title": "These early Prime Day deals are already live on Amazon: Kitchen gadgets, fitness gear, power tools, and more",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBrS1JUWjJIQ1pnOXNUcWRwU3ByYVJtY2o3UVoxeVhvRnNqckVRRFhaZ1czQ19aUzNfSm1KQ2ZLcUhyWTVkRjEyUEZIaGZtOU5IVU9QTEllVTVDQmhMR2ZPUE05OUxnbWptWVdhX0dSRQ?oc=5",
+      "score": 7.9,
+      "niche": "software",
+      "source": "gnews",
+      "engagement": {
+        "score": 40,
+        "comments": 0
+      }
+    },
+    {
+      "title": "https://www.science.org/content/article/amid-flood-ai-advances-astrophysicists-are-questioning-soul-their-fieldReading this while attending an astrophysics conference full of students is... intense, t",
+      "url": "https://mastodon.social/@sundogplanets/116725529156492088",
+      "score": 7.88,
       "niche": "ai",
       "source": "mastodon",
       "engagement": {
-        "score": 164,
-        "comments": 7
+        "score": 269,
+        "comments": 10
       }
     },
     {
-      "title": "America's fascist secret police get their massive funding, and we are in for a world of pain in coming years. As usual, Big Journalism treats this as just another normal day, rather than what it is: a",
-      "url": "https://mastodon.social/@dangillmor/116722865945334525",
-      "score": 8.14,
-      "niche": "ai",
-      "source": "mastodon",
-      "engagement": {
-        "score": 330,
-        "comments": 9
-      }
-    },
-    {
-      "title": "CEOs who think AI replaces their employees are just bad CEOs",
-      "url": "https://www.techdirt.com/2026/06/09/ceos-who-think-ai-replaces-their-employees-are-just-bad-ceos/",
-      "score": 7.65,
+      "title": "Apache Burr: Build reliable AI agents and applications",
+      "url": "https://burr.apache.org/",
+      "score": 7.39,
       "niche": "ai",
       "source": "hackernews",
-      "engagement": {
-        "score": 540,
-        "comments": 216
-      }
-    },
-    {
-      "title": "Doots kinda miffed at me because I can’t be available 24/7 in his service as a kitty cushion#AllCatsAreBeautiful #Dootsday #DootsToots #CatsOfMastodon #CatsOfFediverse #CatsOfPixelfed #Cats #Cat #Lynx",
-      "url": "https://mastodon.social/@KydiaMusic/116723621907322748",
-      "score": 7.34,
-      "niche": "ai",
-      "source": "mastodon",
       "engagement": {
         "score": 51,
-        "comments": 3
+        "comments": 25
       }
     },
     {
-      "title": "Trump's attacks on female journalists aren't just emotional outbursts. They are calculated signals to his far right base. They are an appeal to \"masculinism\", the term coined for the political backlas",
-      "url": "https://universeodon.com/@georgetakei/116723046860289842",
-      "score": 7.31,
-      "niche": "software",
-      "source": "mastodon",
-      "engagement": {
-        "score": 177,
-        "comments": 4
-      }
-    },
-    {
-      "title": "WWDC 2026: Apple is Folding",
-      "url": "https://cupertinolens.com/2026/06/09/wwdc-2026-apple-is-folding/",
-      "score": 7.26,
-      "niche": "software",
+      "title": "AWS Bedrock to require sharing data with Anthropic for Mythos and future models",
+      "url": "https://news.ycombinator.com/item?id=48473166",
+      "score": 7.29,
+      "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 196,
-        "comments": 231
+        "score": 318,
+        "comments": 191
       }
     },
     {
-      "title": "My retro mug is modern again.",
-      "url": "https://mastodon.social/@Sheril/116722084835843546",
-      "score": 6.89,
+      "title": "All 9,300 Japanese train station, animated by the year it opened (1872–2026)",
+      "url": "https://jivx.com/eki",
+      "score": 7.22,
       "niche": "ai",
-      "source": "mastodon",
-      "engagement": {
-        "score": 479,
-        "comments": 6
-      }
-    },
-    {
-      "title": "Test-case reducers are underappreciated debugging tools",
-      "url": "https://tratt.net/laurie/blog/2026/test_case_reducers_are_underappreciated_debugging_tools.html",
-      "score": 6.88,
-      "niche": "software",
       "source": "hackernews",
       "engagement": {
         "score": 104,
-        "comments": 13
+        "comments": 38
       }
     },
     {
-      "title": "Grit: Rewriting Git in Rust with agents",
-      "url": "https://blog.gitbutler.com/true-grit",
+      "title": "The AirPods Pro 3 are $179 at Walmart, their best-ever price",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAtcEZPUFZ0ZkQtcDVURThLQkFCQVFvNjBZY3ZZblZKb25WOWdSNnRvWTk1TE1JWWRSVFZ5RFRCZ1RDMFJmT2VjUExWVWFYMlRVekZCaVkwSk53QkZlVjc3UFkzeURZUHYxMDZkMzBDOEltcGRkdXR4cklFSQ?oc=5",
       "score": 6.71,
       "niche": "ai",
-      "source": "hackernews",
+      "source": "gnews",
       "engagement": {
-        "score": 110,
-        "comments": 153
+        "score": 40,
+        "comments": 0
       }
     },
     {
-      "title": "The 'Prompt' Is Not a Skill — And We Need to Stop Pretending",
-      "url": "https://dev.to/harsh2644/the-prompt-is-not-a-skill-and-we-need-to-stop-pretending-3m18",
-      "score": 6.63,
-      "niche": "ai",
-      "source": "devto",
+      "title": "I've been a broken record on this for three years and I'll be a broken record for as long as that fucking website exists: \n\nX is a viciously racist far-right organising platform that ONLY WORKS becaus",
+      "url": "https://fed.brid.gy/r/https://bsky.app/profile/did:plc:66lbtw2porscqpmair6mir37/post/3mnwgikvvtk2x",
+      "score": 6.66,
+      "niche": "software",
+      "source": "mastodon",
       "engagement": {
-        "score": 31,
-        "comments": 33
+        "score": 362,
+        "comments": 11
       }
     },
     {
       "title": "Rich Sutton on AI creativity and discovery",
       "url": "https://twitter.com/RichardSSutton/status/2061216087744946656",
-      "score": 6.44,
+      "score": 6.62,
       "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 56,
-        "comments": 23
+        "score": 186,
+        "comments": 100
       }
     },
     {
-      "title": "jmmy9609-design/gpt-pp — ",
-      "url": "https://github.com/jmmy9609-design/gpt-pp",
-      "score": 6.28,
+      "title": "Save Nearly 50% on Editor-Approved Home Gym Equipment With These Early Prime Day Fitness Deals",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9BVVVTRTNIMlFLNUc5c1pmaHp5aXpidFoxZzI5TnhxTkRzWm1XSDdzOWxSdlhmZjJYaEFoNUktb2JrSnNDa0g3THNSSjFLbkhweXJESmJ4U3ZPNld2a1R1eU1fWHE1ZG5ybXRqRjJVbDM0Qkw0ZVFLdg?oc=5",
+      "score": 6.55,
+      "niche": "software",
+      "source": "gnews",
+      "engagement": {
+        "score": 40,
+        "comments": 0
+      }
+    },
+    {
+      "title": "rino-kardianus-hamin/Valorant-UX — Aimbot & Ragebot hack: Perfect accuracy and automated high-speed elimination modes.",
+      "url": "https://github.com/rino-kardianus-hamin/Valorant-UX",
+      "score": 6.52,
       "niche": "ai",
       "source": "github",
       "engagement": {
-        "score": 282,
-        "comments": 1
+        "score": 108,
+        "comments": 0
       }
     },
     {
-      "title": "The 3 Best Team Communication Tools with AI Agents in 2026",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQWZlalVhVzAyNnVpd3JVaUd3Yjh6d2NSRDFlMlFJcFViNGQzYkkyMkV2aGJzVjZwcVJpd01nek84RTdZOUVNbTFrS25tb3VGR0otTXN0ZjZ4LXNlYi1XaTl1Wi13NzhIalNfSXFHUGVmXzZxY19kZEJST2Q5c1dHenVTVzd3OXZNRzRN?oc=5",
+      "title": "If Claude Fable stops helping you, you'll never know",
+      "url": "https://jonready.com/blog/posts/claude-fable5-is-allowed-to-sabotage-your-app-if-youre-a-competitor.html",
+      "score": 6.26,
+      "niche": "ai",
+      "source": "lobsters",
+      "engagement": {
+        "score": 77,
+        "comments": 28
+      }
+    },
+    {
+      "title": "apple/coreai-models — Model export recipes, Python primitives, and Swift runtime utilities for on-device AI",
+      "url": "https://github.com/apple/coreai-models",
+      "score": 6.09,
+      "niche": "ai",
+      "source": "github",
+      "engagement": {
+        "score": 556,
+        "comments": 7
+      }
+    },
+    {
+      "title": "RIP software hackathons. Long live the hardware hackathon",
+      "url": "https://blog.oscars.dev/posts/rip-software-hackathons-long-live-the-hardware-hackathon/",
+      "score": 6.02,
+      "niche": "software",
+      "source": "hackernews",
+      "engagement": {
+        "score": 246,
+        "comments": 121
+      }
+    },
+    {
+      "title": "16 Best AI Tools for Business in 2026: Tested & Ranked",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAwQnBYNFM3cXk2eUZVZWZHYjBJZ01wbHJOMkpiNXExelhCZUc4US1OX0tnaWdyTnNCZkp6bGEwN0FOMDBiUzh6a29Wd2pmUk9pNWdRdXdXNG9HZVpo?oc=5",
       "score": 5.99,
       "niche": "ai",
       "source": "gnews",
@@ -190,20 +245,9 @@
       }
     },
     {
-      "title": "apple/coreai-models — Model export recipes, Python primitives, and Swift runtime utilities for on-device AI",
-      "url": "https://github.com/apple/coreai-models",
-      "score": 5.81,
-      "niche": "ai",
-      "source": "github",
-      "engagement": {
-        "score": 419,
-        "comments": 5
-      }
-    },
-    {
-      "title": "I'm on the lookout for the best Amazon Prime Day keyboard, mouse and controller deals",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTHVPczFmSUlWYms2SVdndm0zZHduZ2RFZVdXUWxTQ1BxQm9sYkd3TTRzS0Rrem5YcjB4YlNHelNDOHVmVUVOTjZfdkRXaEtIYy0zVy14YkQ4V3ZybjFscktlUmlNbFJiN3RHR2NJUU5JQjhyQTh4UWRESFBpY29TZ04wTVMwbllmQnc?oc=5",
-      "score": 5.37,
+      "title": "22 best AI coding tools for developers and beginners",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE80VVA4NW55TE9HTE1pODVLYkRlOEJ6b3FpcW1nYjZxenJWc3JmSUhkSkd2azNaRU9BaEEwTHp0U0hhZGdpQkdncS01MnV2Zy1zT1FJaGplSnRZcTlUdy00UE1lVWxEWlNXSWQ4?oc=5",
+      "score": 5.99,
       "niche": "ai",
       "source": "gnews",
       "engagement": {
@@ -212,77 +256,33 @@
       }
     },
     {
-      "title": "mailfrsh409330/ios-jailbreak-software — A comprehensive collection of tools and scripts for jailbreaking iOS devices, optimized for PC-based workflows. Simplify your jailbreak process with our curated",
-      "url": "https://github.com/mailfrsh409330/ios-jailbreak-software",
-      "score": 5.24,
+      "title": "macOS container tool v1.0.0 released",
+      "url": "https://github.com/apple/container",
+      "score": 5.77,
       "niche": "ai",
-      "source": "github",
-      "engagement": {
-        "score": 75,
-        "comments": 0
-      }
-    },
-    {
-      "title": "mythicguruforge/CapC-Pro — CapCut Pro Studio (2026) — The ultimate high-performance video editing suite with all premium features unlocked. Experience 4K HDR exporting, AI-powered transitions, and a f",
-      "url": "https://github.com/mythicguruforge/CapC-Pro",
-      "score": 5.15,
-      "niche": "ai",
-      "source": "github",
-      "engagement": {
-        "score": 113,
-        "comments": 1
-      }
-    },
-    {
-      "title": "RIP software hackathons. Long live the hardware hackathon",
-      "url": "https://blog.oscars.dev/posts/rip-software-hackathons-long-live-the-hardware-hackathon/",
-      "score": 5.07,
-      "niche": "software",
-      "source": "hackernews",
-      "engagement": {
-        "score": 104,
-        "comments": 39
-      }
-    },
-    {
-      "title": "The Decline of Search Engines is an Opportunity",
-      "url": "https://lewiscampbell.tech/blog/260609.html",
-      "score": 5.06,
-      "niche": "software",
       "source": "lobsters",
       "engagement": {
-        "score": 68,
-        "comments": 56
+        "score": 14,
+        "comments": 11
       }
     },
     {
-      "title": "secret-tools/secret-tool — Secret-Tools — classified discord utilities. Star the repo.",
-      "url": "https://github.com/secret-tools/secret-tool",
-      "score": 5.01,
-      "niche": "software",
-      "source": "github",
+      "title": "Our Editors Found the Early Prime Day Deals Actually Worth Your Money",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcHZ3c0ZxWHhVclBCZm9tb2oyNXhCRHJLdUx1YWFuWTJHWFBrUVkxOUxsTVZhWGlSWFBRa3NYam9SWVBVbC1rNVA3SVJvUzdiSmxvVjBxS2xSWTJNOEoxWEE4Q1FkY1B4QzdJYUE2cTFwNkFfNW1IeWhsdmlzcjN0Q1hEVFJXa0ZF?oc=5",
+      "score": 5.56,
+      "niche": "finance",
+      "source": "gnews",
       "engagement": {
-        "score": 195,
+        "score": 40,
         "comments": 0
-      }
-    },
-    {
-      "title": "xiaohuailabs/xiaohu-video-translate — 对 AI 说一句话，把外语视频自动配上中文字幕 —— 下载/转写/翻译/润色/烧录一条龙，全程本地，转写零 API 费",
-      "url": "https://github.com/xiaohuailabs/xiaohu-video-translate",
-      "score": 4.96,
-      "niche": "ai",
-      "source": "github",
-      "engagement": {
-        "score": 370,
-        "comments": 7
       }
     }
   ],
   "topics": [
     {
       "keyword": "claude fable",
-      "count": 22,
-      "score": 223.03282971114598,
+      "count": 11,
+      "score": 145.20128242087338,
       "proper": true,
       "niches": [
         "ai"
@@ -301,102 +301,133 @@
         {
           "title": "If Claude Fable stops helping you, you'll never know",
           "url": "https://jonready.com/blog/posts/claude-fable5-is-allowed-to-sabotage-your-app-if-youre-a-competitor.html",
-          "source": "hackernews"
-        },
-        {
-          "title": "Anthropic's Claude Fable 5 Is the First Mythos-Level AI Model You Can Actually Use",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNS1FhSm1OelFOVTBZeTFJNWYxaENtTDBlZXZFQUk2NUNhVzhUSVdDVGs5QW5yMVdzUE9PeTZfRFNwNDI2S2ZpZU5lZDY0WUwyczBRanI2eEczOEI3T2pqTzBIaDFwQlpHdVh0VWhkOVVCZGxwU0tHczM1dE5IMlhxenpZOE84cnUwOXFMSVNsZHg2c1hLRkRxeXoycjBiYU4wRmZZTlYtZGNfSzQ?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Anthropic's Claude Fable 5 Is the First Mythos-Level AI Model You Can Actually Use",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNS1FhSm1OelFOVTBZeTFJNWYxaENtTDBlZXZFQUk2NUNhVzhUSVdDVGs5QW5yMVdzUE9PeTZfRFNwNDI2S2ZpZU5lZDY0WUwyczBRanI2eEczOEI3T2pqTzBIaDFwQlpHdVh0VWhkOVVCZGxwU0tHczM1dE5IMlhxenpZOE84cnUwOXFMSVNsZHg2c1hLRkRxeXoycjBiYU4wRmZZTlYtZGNfSzQ?oc=5",
-          "source": "gnews"
+          "source": "lobsters"
         }
       ],
       "id": "ced86039c0ad",
       "slug": "claude-fable"
     },
     {
-      "keyword": "passive income",
-      "count": 41,
-      "score": 186.22815193542786,
+      "keyword": "kitchen gadgets",
+      "count": 23,
+      "score": 127.88730870244814,
       "proper": true,
       "niches": [
+        "software",
+        "gear"
+      ],
+      "examples": [
+        {
+          "title": "These early Prime Day deals are already live on Amazon: Kitchen gadgets, fitness gear, power tools, and more",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBrS1JUWjJIQ1pnOXNUcWRwU3ByYVJtY2o3UVoxeVhvRnNqckVRRFhaZ1czQ19aUzNfSm1KQ2ZLcUhyWTVkRjEyUEZIaGZtOU5IVU9QTEllVTVDQmhMR2ZPUE05OUxnbWptWVdhX0dSRQ?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "These early Prime Day deals are already live on Amazon: Kitchen gadgets, fitness gear, power tools, and more",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBrS1JUWjJIQ1pnOXNUcWRwU3ByYVJtY2o3UVoxeVhvRnNqckVRRFhaZ1czQ19aUzNfSm1KQ2ZLcUhyWTVkRjEyUEZIaGZtOU5IVU9QTEllVTVDQmhMR2ZPUE05OUxnbWptWVdhX0dSRQ?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Cooking Doesn't Have to Be a Slog—These Cool Kitchen Gadgets Under $25 Make It Easy and Fun",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPR1lSOGJUdk5SWVNDWUhxQ0xQZldmRTdXUFVCTmQyRTRpMzlkSjQxN1dWdm9kWTdqUWl2dzA0RF82ekotOEFjSlNKaWJvemRCN0dqUkNIS3ZlZ3JOQTBaSUdld1dJcTlQZTZxUmFVbTBwd0wwOGxEelhWVGJkOWZybmZUVXRVc1dIdVE?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Cooking Doesn't Have to Be a Slog—These Cool Kitchen Gadgets Under $25 Make It Easy and Fun",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPR1lSOGJUdk5SWVNDWUhxQ0xQZldmRTdXUFVCTmQyRTRpMzlkSjQxN1dWdm9kWTdqUWl2dzA0RF82ekotOEFjSlNKaWJvemRCN0dqUkNIS3ZlZ3JOQTBaSUdld1dJcTlQZTZxUmFVbTBwd0wwOGxEelhWVGJkOWZybmZUVXRVc1dIdVE?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "I’ve Tested Dozens of Clever Kitchen Gadgets in 2026 — These Are the Only Ones That Stand Out",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYjN3YXF5MGV2R19DTkxmejBVdGdrelUxM01LSzJaNFF0TFNoN1NnMzdxSWplUjI1RkVnR1NDLXNXTDMyQnZuQmtWeG04a3BlQzU2UWEycFVzT1FsOUcxYVl1WjhvSzdUd2dSajBPMHRRZTZSVlBSS0xKbWVjYUxXelg3b0dZV1o1RXVQamtxX28zU3Rh?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "4e4a1c4cb31e",
+      "slug": "kitchen-gadgets"
+    },
+    {
+      "keyword": "early prime",
+      "count": 18,
+      "score": 120.0878859713515,
+      "proper": false,
+      "niches": [
+        "software",
         "finance"
       ],
       "examples": [
         {
-          "title": "Why a Passive Income Portfolio With 5 of Warren Buffett’s Highest Yielding Stocks Is Genius",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPY0Nva1VJZnEwREZMZFJQeHBVTWF1dUh0cjlYSFYtRG9SWEE4Sm41VFpUaVZPQWo1UDVvb1NzYXc2NFNhY1c2NFFxX2N2MjlQT3NBZlZDVmhaeXdWa1Zrc2pOZFVtN1BJWU1sWWd0QjdGZklfam50YS1zNnBZeHFQSkx3ZHBhYWdDV054c1AtQ2NyWFQ3bEdEWnhqVFpHSURoR1NvVGZiZENmeEp5RVpOY01ucW4tNWJaYXBPcHpzTUNndnVrVGlBVG1SekhlUnM?oc=5",
+          "title": "These early Prime Day deals are already live on Amazon: Kitchen gadgets, fitness gear, power tools, and more",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBrS1JUWjJIQ1pnOXNUcWRwU3ByYVJtY2o3UVoxeVhvRnNqckVRRFhaZ1czQ19aUzNfSm1KQ2ZLcUhyWTVkRjEyUEZIaGZtOU5IVU9QTEllVTVDQmhMR2ZPUE05OUxnbWptWVdhX0dSRQ?oc=5",
           "source": "gnews"
         },
         {
-          "title": "Why a Passive Income Portfolio With 5 of Warren Buffett’s Highest Yielding Stocks Is Genius",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPY0Nva1VJZnEwREZMZFJQeHBVTWF1dUh0cjlYSFYtRG9SWEE4Sm41VFpUaVZPQWo1UDVvb1NzYXc2NFNhY1c2NFFxX2N2MjlQT3NBZlZDVmhaeXdWa1Zrc2pOZFVtN1BJWU1sWWd0QjdGZklfam50YS1zNnBZeHFQSkx3ZHBhYWdDV054c1AtQ2NyWFQ3bEdEWnhqVFpHSURoR1NvVGZiZENmeEp5RVpOY01ucW4tNWJaYXBPcHpzTUNndnVrVGlBVG1SekhlUnM?oc=5",
+          "title": "These early Prime Day deals are already live on Amazon: Kitchen gadgets, fitness gear, power tools, and more",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBrS1JUWjJIQ1pnOXNUcWRwU3ByYVJtY2o3UVoxeVhvRnNqckVRRFhaZ1czQ19aUzNfSm1KQ2ZLcUhyWTVkRjEyUEZIaGZtOU5IVU9QTEllVTVDQmhMR2ZPUE05OUxnbWptWVdhX0dSRQ?oc=5",
           "source": "gnews"
         },
         {
-          "title": "3 High-Yield Dividend ETFs Paying 9%+ in Passive Income",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYWo0ekNIem1GX1NkODhYLTE5TWlmemt0dW1BOHFWcW5jZlhNU21jSGR3dUtzenZENVZYbnJCSE9CY0kzUThQYVU0dGlTZndvcVpPVlROcmhoRndJYkZockF6SGZOZTZnNGI1YXVyNVRNaFNTd1BaSDNpVHB6b0VKYlRxTHZTMEo2MEN2NURR?oc=5",
+          "title": "Save Nearly 50% on Editor-Approved Home Gym Equipment With These Early Prime Day Fitness Deals",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9BVVVTRTNIMlFLNUc5c1pmaHp5aXpidFoxZzI5TnhxTkRzWm1XSDdzOWxSdlhmZjJYaEFoNUktb2JrSnNDa0g3THNSSjFLbkhweXJESmJ4U3ZPNld2a1R1eU1fWHE1ZG5ybXRqRjJVbDM0Qkw0ZVFLdg?oc=5",
           "source": "gnews"
         },
         {
-          "title": "3 High-Yield Dividend ETFs Paying 9%+ in Passive Income",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYWo0ekNIem1GX1NkODhYLTE5TWlmemt0dW1BOHFWcW5jZlhNU21jSGR3dUtzenZENVZYbnJCSE9CY0kzUThQYVU0dGlTZndvcVpPVlROcmhoRndJYkZockF6SGZOZTZnNGI1YXVyNVRNaFNTd1BaSDNpVHB6b0VKYlRxTHZTMEo2MEN2NURR?oc=5",
+          "title": "Save Nearly 50% on Editor-Approved Home Gym Equipment With These Early Prime Day Fitness Deals",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9BVVVTRTNIMlFLNUc5c1pmaHp5aXpidFoxZzI5TnhxTkRzWm1XSDdzOWxSdlhmZjJYaEFoNUktb2JrSnNDa0g3THNSSjFLbkhweXJESmJ4U3ZPNld2a1R1eU1fWHE1ZG5ybXRqRjJVbDM0Qkw0ZVFLdg?oc=5",
           "source": "gnews"
         },
         {
-          "title": "3 High-Yield Dividend ETFs Paying 9%+ in Passive Income",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYWo0ekNIem1GX1NkODhYLTE5TWlmemt0dW1BOHFWcW5jZlhNU21jSGR3dUtzenZENVZYbnJCSE9CY0kzUThQYVU0dGlTZndvcVpPVlROcmhoRndJYkZockF6SGZOZTZnNGI1YXVyNVRNaFNTd1BaSDNpVHB6b0VKYlRxTHZTMEo2MEN2NURR?oc=5",
+          "title": "Our Editors Found the Early Prime Day Deals Actually Worth Your Money",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcHZ3c0ZxWHhVclBCZm9tb2oyNXhCRHJLdUx1YWFuWTJHWFBrUVkxOUxsTVZhWGlSWFBRa3NYam9SWVBVbC1rNVA3SVJvUzdiSmxvVjBxS2xSWTJNOEoxWEE4Q1FkY1B4QzdJYUE2cTFwNkFfNW1IeWhsdmlzcjN0Q1hEVFJXa0ZF?oc=5",
           "source": "gnews"
         }
       ],
-      "id": "cf2dbbbf8c8c",
-      "slug": "passive-income"
+      "id": "6069e8d26a81",
+      "slug": "early-prime"
     },
     {
-      "keyword": "boost grades",
-      "count": 22,
-      "score": 148.16967848455556,
+      "keyword": "fitness gear",
+      "count": 23,
+      "score": 118.53961346890054,
       "proper": true,
       "niches": [
-        "ai"
+        "software",
+        "gear"
       ],
       "examples": [
         {
-          "title": "10 Best AI Tools for Students to Boost Grades in 2026",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9TRl9SOFhNRW9QdFJCQnBoNTZPZ1VOT1loLWxwUW5yMFNPVHEzNXR6M3lSV2pVWDlaOTZOZV9RblBVdUotQThyV1lqMWk4RGQyWlQ2em5sYmN5SU11THp1MNIBYEFVX3lxTE9TRl9SOFhNRW9QdFJCQnBoNTZPZ1VOT1loLWxwUW5yMFNPVHEzNXR6M3lSV2pVWDlaOTZOZV9RblBVdUotQThyV1lqMWk4RGQyWlQ2em5sYmN5SU11THp1MA?oc=5",
+          "title": "These early Prime Day deals are already live on Amazon: Kitchen gadgets, fitness gear, power tools, and more",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBrS1JUWjJIQ1pnOXNUcWRwU3ByYVJtY2o3UVoxeVhvRnNqckVRRFhaZ1czQ19aUzNfSm1KQ2ZLcUhyWTVkRjEyUEZIaGZtOU5IVU9QTEllVTVDQmhMR2ZPUE05OUxnbWptWVdhX0dSRQ?oc=5",
           "source": "gnews"
         },
         {
-          "title": "10 Best AI Tools for Students to Boost Grades in 2026",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9TRl9SOFhNRW9QdFJCQnBoNTZPZ1VOT1loLWxwUW5yMFNPVHEzNXR6M3lSV2pVWDlaOTZOZV9RblBVdUotQThyV1lqMWk4RGQyWlQ2em5sYmN5SU11THp1MNIBYEFVX3lxTE9TRl9SOFhNRW9QdFJCQnBoNTZPZ1VOT1loLWxwUW5yMFNPVHEzNXR6M3lSV2pVWDlaOTZOZV9RblBVdUotQThyV1lqMWk4RGQyWlQ2em5sYmN5SU11THp1MA?oc=5",
+          "title": "These early Prime Day deals are already live on Amazon: Kitchen gadgets, fitness gear, power tools, and more",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBrS1JUWjJIQ1pnOXNUcWRwU3ByYVJtY2o3UVoxeVhvRnNqckVRRFhaZ1czQ19aUzNfSm1KQ2ZLcUhyWTVkRjEyUEZIaGZtOU5IVU9QTEllVTVDQmhMR2ZPUE05OUxnbWptWVdhX0dSRQ?oc=5",
           "source": "gnews"
         },
         {
-          "title": "10 Best AI Tools for Students to Boost Grades in 2026",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9TRl9SOFhNRW9QdFJCQnBoNTZPZ1VOT1loLWxwUW5yMFNPVHEzNXR6M3lSV2pVWDlaOTZOZV9RblBVdUotQThyV1lqMWk4RGQyWlQ2em5sYmN5SU11THp1MNIBYEFVX3lxTE9TRl9SOFhNRW9QdFJCQnBoNTZPZ1VOT1loLWxwUW5yMFNPVHEzNXR6M3lSV2pVWDlaOTZOZV9RblBVdUotQThyV1lqMWk4RGQyWlQ2em5sYmN5SU11THp1MA?oc=5",
+          "title": "Dior’s fitness gear convinced me to book my first yoga class",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1OMHp0SGt6QjV1dHV2SlN6bGZTcmVmdk1ZUlFVc1ZDNHFVTTI2VVE2NjUxeXZUMTV1YUFsNXFGTXNBMzdPUVo3VGxNc0E4am55UU5wckVZOENSdw?oc=5",
           "source": "gnews"
         },
         {
-          "title": "AI Tools Help Students Boost Grades in 2026",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONmRWUU1RRWJTalhOVnNKeS0wRWdjU2N4OGg4YjRkejlrVkNlNmxHdnVOd0dqM19VSzg1QTMxeExzMng2RVo1bi1yeXRuVDdZUFdCRVBmbnIyZ2VnVFFrbEZYbVo4dnJFY0FldTRXdlFCMm9KU2pnOHhXY0x3OGF6anVORS1ENDgxYzRxTGJR?oc=5",
+          "title": "Dior’s fitness gear convinced me to book my first yoga class",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1OMHp0SGt6QjV1dHV2SlN6bGZTcmVmdk1ZUlFVc1ZDNHFVTTI2VVE2NjUxeXZUMTV1YUFsNXFGTXNBMzdPUVo3VGxNc0E4am55UU5wckVZOENSdw?oc=5",
           "source": "gnews"
         },
         {
-          "title": "AI Tools Help Students Boost Grades in 2026",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONmRWUU1RRWJTalhOVnNKeS0wRWdjU2N4OGg4YjRkejlrVkNlNmxHdnVOd0dqM19VSzg1QTMxeExzMng2RVo1bi1yeXRuVDdZUFdCRVBmbnIyZ2VnVFFrbEZYbVo4dnJFY0FldTRXdlFCMm9KU2pnOHhXY0x3OGF6anVORS1ENDgxYzRxTGJR?oc=5",
+          "title": "Memorial Day Sales: Great Deals on Fitness Gear",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWEx2T2hXVnExdVY4T2tVczl4cUd1QjcyM2ZMaG0wU3NIdUg1UnR2WnJPVkxjNnAwQ3RGOVlxOGRESXNabVpvejJkem5LN2pfOHhBbUhKYnpMczU3enpBenYzSjRHTUJuSm80QjVxVjI5RFNwdnItSWEtLS1vNlJUNjFDS2Y?oc=5",
           "source": "gnews"
         }
       ],
-      "id": "456b2f3d927a",
-      "slug": "boost-grades"
+      "id": "a8b7e45842c3",
+      "slug": "fitness-gear"
     },
     {
       "keyword": "claude code",
-      "count": 33,
-      "score": 114.3530367981108,
+      "count": 27,
+      "score": 109.7984153172934,
       "proper": true,
       "niches": [
         "ai"
@@ -432,9 +463,32 @@
       "slug": "claude-code"
     },
     {
+      "keyword": "birthday memes",
+      "count": 8,
+      "score": 100.03245787696017,
+      "proper": true,
+      "niches": [
+        "software"
+      ],
+      "examples": [
+        {
+          "title": "🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎂🗣 RELEASE THE HAPPY #BIRTHDAY MEMES!it’s finally my bornday and i have, finally, beat an ",
+          "url": "https://mastodon.social/@blogdiva/116726245626200100",
+          "source": "mastodon"
+        },
+        {
+          "title": "🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎂🗣 RELEASE THE HAPPY #BIRTHDAY MEMES!it’s finally my bornday and i have, finally, beat an ",
+          "url": "https://mastodon.social/@blogdiva/116726245626200100",
+          "source": "mastodon"
+        }
+      ],
+      "id": "74a8a5dec1f7",
+      "slug": "birthday-memes"
+    },
+    {
       "keyword": "container machines",
       "count": 8,
-      "score": 110.73259910989893,
+      "score": 99.98713919684229,
       "proper": true,
       "niches": [
         "ai"
@@ -455,48 +509,201 @@
       "slug": "container-machines"
     },
     {
-      "keyword": "software",
-      "count": 19,
-      "score": 103.36326688273985,
+      "keyword": "apache burr",
+      "count": 8,
+      "score": 88.69978358500626,
       "proper": true,
       "niches": [
-        "software",
         "ai"
       ],
       "examples": [
         {
-          "title": "RIP software hackathons. Long live the hardware hackathon",
-          "url": "https://blog.oscars.dev/posts/rip-software-hackathons-long-live-the-hardware-hackathon/",
+          "title": "Apache Burr: Build reliable AI agents and applications",
+          "url": "https://burr.apache.org/",
           "source": "hackernews"
         },
         {
-          "title": "mestankunter321391207/SketchUp-Vortex-Pro-2026 — ⭐️ SketchUp Pro — full lifetime activated 3D modeling software. Intuitive and powerful tool for architecture, interior design, engineering and game des",
-          "url": "https://github.com/mestankunter321391207/SketchUp-Vortex-Pro-2026",
+          "title": "Apache Burr: Build reliable AI agents and applications",
+          "url": "https://burr.apache.org/",
+          "source": "hackernews"
+        }
+      ],
+      "id": "691fdc9afb6a",
+      "slug": "apache-burr"
+    },
+    {
+      "keyword": "aws bedrock",
+      "count": 8,
+      "score": 87.42045751193575,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "AWS Bedrock to require sharing data with Anthropic for Mythos and future models",
+          "url": "https://news.ycombinator.com/item?id=48473166",
+          "source": "hackernews"
+        },
+        {
+          "title": "AWS Bedrock to require sharing data with Anthropic for Mythos and future models",
+          "url": "https://news.ycombinator.com/item?id=48473166",
+          "source": "hackernews"
+        }
+      ],
+      "id": "78e20b03b4c3",
+      "slug": "aws-bedrock"
+    },
+    {
+      "keyword": "model",
+      "count": 9,
+      "score": 86.51840982293211,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "shadcn/improve — Use your most capable model to audit your codebase and write plans for cheaper models to execute.",
+          "url": "https://github.com/shadcn/improve",
           "source": "github"
         },
         {
-          "title": "The 'SaaSpocalypse' is over, says private equity giant Thoma Bravo. Here's why it sees an AI boom for software",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbVVNSlM2eHRFRGxJUWh5cVRXU0EwS0ZrNmdPYklRWDJCeTlDNDNuQUpkSGw5b0dCMUhWOHY2NmxKOEgtc0E1U1ZrbTR3bUNNcU40aVo5aV9QSXhpXzJNeFRqTzUzRWdiQzlqMlZvUGg5RXlpTXAwQnlfWnNSZVE0cU5hNXlMZUMy0gGOAUFVX3lxTE9aT3lTSkRidEF3dFIwUnc5OHlRZ0R4REp6aERFNlBZZXdhdFBEQWozZkQ2SWd4MjFraExpSWZBT0ZMTV9xbnpGaXltRFJQUHNYUTR6Q0ZMX3BVa1RXdGNfMGgtbFRQX3RsdDNzSkJaQlJ1TXBQX0JWZk1xU19DdjZhXy1qa3pYTnN2LUVsNlE?oc=5",
+          "title": "apple/coreai-models — Model export recipes, Python primitives, and Swift runtime utilities for on-device AI",
+          "url": "https://github.com/apple/coreai-models",
+          "source": "github"
+        },
+        {
+          "title": "apple/coreai-models — Model export recipes, Python primitives, and Swift runtime utilities for on-device AI",
+          "url": "https://github.com/apple/coreai-models",
+          "source": "github"
+        },
+        {
+          "title": "Tencent-Hunyuan/UniRL — UniRL is a Framework for Unified Multimodal Model Reinforcement Learning",
+          "url": "https://github.com/Tencent-Hunyuan/UniRL",
+          "source": "github"
+        },
+        {
+          "title": "amap-cvlab/ABot-Earth-0.5 — Generative 3D Earth Model by AMap-cvlab",
+          "url": "https://github.com/amap-cvlab/ABot-Earth-0.5",
+          "source": "github"
+        }
+      ],
+      "id": "9372c470eead",
+      "slug": "model"
+    },
+    {
+      "keyword": "prime deals",
+      "count": 12,
+      "score": 80.80047122165875,
+      "proper": false,
+      "niches": [
+        "software",
+        "finance"
+      ],
+      "examples": [
+        {
+          "title": "These early Prime Day deals are already live on Amazon: Kitchen gadgets, fitness gear, power tools, and more",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBrS1JUWjJIQ1pnOXNUcWRwU3ByYVJtY2o3UVoxeVhvRnNqckVRRFhaZ1czQ19aUzNfSm1KQ2ZLcUhyWTVkRjEyUEZIaGZtOU5IVU9QTEllVTVDQmhMR2ZPUE05OUxnbWptWVdhX0dSRQ?oc=5",
           "source": "gnews"
         },
         {
-          "title": "valkor-ai/loom — An open delivery harness that turns Claude Code, Codex, OpenCode, and other coding agents into repeatable software delivery systems.",
-          "url": "https://github.com/valkor-ai/loom",
-          "source": "github"
+          "title": "These early Prime Day deals are already live on Amazon: Kitchen gadgets, fitness gear, power tools, and more",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBrS1JUWjJIQ1pnOXNUcWRwU3ByYVJtY2o3UVoxeVhvRnNqckVRRFhaZ1czQ19aUzNfSm1KQ2ZLcUhyWTVkRjEyUEZIaGZtOU5IVU9QTEllVTVDQmhMR2ZPUE05OUxnbWptWVdhX0dSRQ?oc=5",
+          "source": "gnews"
         },
         {
-          "title": "Software buyout deals collapse to lowest level since pandemic after AI rout",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQnQ5RzdOa1NkeTNPQnpnTmZXMlZHazRRTjFiQTdFcXFmdDYzamtQN256aWhWWFgyaGt2N28xRkhoVC1CZXZlUjhEOEZzZU16WlRyWWxiV3pTYVNMNW1SaGZZRnlFcDViMDV6OU4xakRJa2Y1bTRVbldtdkZEUENsSG4wMlo?oc=5",
+          "title": "Our Editors Found the Early Prime Day Deals Actually Worth Your Money",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcHZ3c0ZxWHhVclBCZm9tb2oyNXhCRHJLdUx1YWFuWTJHWFBrUVkxOUxsTVZhWGlSWFBRa3NYam9SWVBVbC1rNVA3SVJvUzdiSmxvVjBxS2xSWTJNOEoxWEE4Q1FkY1B4QzdJYUE2cTFwNkFfNW1IeWhsdmlzcjN0Q1hEVFJXa0ZF?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Our Editors Found the Early Prime Day Deals Actually Worth Your Money",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcHZ3c0ZxWHhVclBCZm9tb2oyNXhCRHJLdUx1YWFuWTJHWFBrUVkxOUxsTVZhWGlSWFBRa3NYam9SWVBVbC1rNVA3SVJvUzdiSmxvVjBxS2xSWTJNOEoxWEE4Q1FkY1B4QzdJYUE2cTFwNkFfNW1IeWhsdmlzcjN0Q1hEVFJXa0ZF?oc=5",
           "source": "gnews"
         }
       ],
-      "id": "35390f5453e8",
-      "slug": "software"
+      "id": "71c75cdf6cf5",
+      "slug": "prime-deals"
+    },
+    {
+      "keyword": "rich sutton",
+      "count": 8,
+      "score": 79.49448084538098,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "Rich Sutton on AI creativity and discovery",
+          "url": "https://twitter.com/RichardSSutton/status/2061216087744946656",
+          "source": "hackernews"
+        },
+        {
+          "title": "Rich Sutton on AI creativity and discovery",
+          "url": "https://twitter.com/RichardSSutton/status/2061216087744946656",
+          "source": "hackernews"
+        }
+      ],
+      "id": "a21868a3e4bb",
+      "slug": "rich-sutton"
+    },
+    {
+      "keyword": "tools",
+      "count": 10,
+      "score": 78.87563153396924,
+      "proper": true,
+      "niches": [
+        "software"
+      ],
+      "examples": [
+        {
+          "title": "secret-tools/secret-tool — Secret-Tools — classified discord utilities. Star the repo.",
+          "url": "https://github.com/secret-tools/secret-tool",
+          "source": "github"
+        },
+        {
+          "title": "Test-case Reducers Are Underappreciated Debugging Tools",
+          "url": "https://tratt.net/laurie/blog/2026/test_case_reducers_are_underappreciated_debugging_tools.html",
+          "source": "lobsters"
+        }
+      ],
+      "id": "f9d35d43770d",
+      "slug": "tools"
+    },
+    {
+      "keyword": "boost grades",
+      "count": 11,
+      "score": 74.08483924227778,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "10 Best AI Tools for Students to Boost Grades in 2026",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9TRl9SOFhNRW9QdFJCQnBoNTZPZ1VOT1loLWxwUW5yMFNPVHEzNXR6M3lSV2pVWDlaOTZOZV9RblBVdUotQThyV1lqMWk4RGQyWlQ2em5sYmN5SU11THp1MNIBYEFVX3lxTE9TRl9SOFhNRW9QdFJCQnBoNTZPZ1VOT1loLWxwUW5yMFNPVHEzNXR6M3lSV2pVWDlaOTZOZV9RblBVdUotQThyV1lqMWk4RGQyWlQ2em5sYmN5SU11THp1MA?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "10 Best AI Tools for Students to Boost Grades in 2026",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9TRl9SOFhNRW9QdFJCQnBoNTZPZ1VOT1loLWxwUW5yMFNPVHEzNXR6M3lSV2pVWDlaOTZOZV9RblBVdUotQThyV1lqMWk4RGQyWlQ2em5sYmN5SU11THp1MNIBYEFVX3lxTE9TRl9SOFhNRW9QdFJCQnBoNTZPZ1VOT1loLWxwUW5yMFNPVHEzNXR6M3lSV2pVWDlaOTZOZV9RblBVdUotQThyV1lqMWk4RGQyWlQ2em5sYmN5SU11THp1MA?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "10 Best AI Tools for Students to Boost Grades in 2026",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9TRl9SOFhNRW9QdFJCQnBoNTZPZ1VOT1loLWxwUW5yMFNPVHEzNXR6M3lSV2pVWDlaOTZOZV9RblBVdUotQThyV1lqMWk4RGQyWlQ2em5sYmN5SU11THp1MNIBYEFVX3lxTE9TRl9SOFhNRW9QdFJCQnBoNTZPZ1VOT1loLWxwUW5yMFNPVHEzNXR6M3lSV2pVWDlaOTZOZV9RblBVdUotQThyV1lqMWk4RGQyWlQ2em5sYmN5SU11THp1MA?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "456b2f3d927a",
+      "slug": "boost-grades"
     },
     {
       "keyword": "mechanical keyboard",
-      "count": 23,
-      "score": 87.78705088896862,
+      "count": 20,
+      "score": 68.68523888998007,
       "proper": true,
       "niches": [
         "gear"
@@ -518,268 +725,25 @@
           "source": "gnews"
         },
         {
-          "title": "This $80 Mechanical Keyboard Feels Like It Should Cost Twice As Much",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQaDgzMk5PTVFlZl8zMkJFLXl1b0NtaDZQRHF3dndLaThYc0J1eVdkMUNoaHdZdU5IaWJIdThyQVNGeWdBaFVKczJDNkI5Tmk3anBQeUgtQ202LTgyMmdjTTZpUFNqVFJJYVFUeTAyNUdJbDFPQWFGdVJwY0Z5MWJQZE8zZ0FBYmJkamdz?oc=5",
+          "title": "Epomaker RT98 Mechanical Keyboard Review",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNb3hKTVB4bGw0SlhyN2lzQ2NxN05raFBNZlhFTHJFalBDMmxYZV91Qnphd0ZLZHdNdTBYRlRON1pCRXF0clJOcERGUDZnTDdLREZINll1OXFieFVHWThfRWI2Tm5neFFST2F6SklpdE5mU1pIU2ZQOVpMcGFNQWloWEJYSkc?oc=5",
           "source": "gnews"
         },
         {
-          "title": "This $80 Mechanical Keyboard Feels Like It Should Cost Twice As Much",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQaDgzMk5PTVFlZl8zMkJFLXl1b0NtaDZQRHF3dndLaThYc0J1eVdkMUNoaHdZdU5IaWJIdThyQVNGeWdBaFVKczJDNkI5Tmk3anBQeUgtQ202LTgyMmdjTTZpUFNqVFJJYVFUeTAyNUdJbDFPQWFGdVJwY0Z5MWJQZE8zZ0FBYmJkamdz?oc=5",
+          "title": "Epomaker RT98 Mechanical Keyboard Review",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNb3hKTVB4bGw0SlhyN2lzQ2NxN05raFBNZlhFTHJFalBDMmxYZV91Qnphd0ZLZHdNdTBYRlRON1pCRXF0clJOcERGUDZnTDdLREZINll1OXFieFVHWThfRWI2Tm5neFFST2F6SklpdE5mU1pIU2ZQOVpMcGFNQWloWEJYSkc?oc=5",
           "source": "gnews"
         }
       ],
       "id": "e31f9fac7533",
       "slug": "mechanical-keyboard"
-    },
-    {
-      "keyword": "model",
-      "count": 11,
-      "score": 83.02179273479176,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "apple/coreai-models — Model export recipes, Python primitives, and Swift runtime utilities for on-device AI",
-          "url": "https://github.com/apple/coreai-models",
-          "source": "github"
-        },
-        {
-          "title": "apple/coreai-models — Model export recipes, Python primitives, and Swift runtime utilities for on-device AI",
-          "url": "https://github.com/apple/coreai-models",
-          "source": "github"
-        },
-        {
-          "title": "Tencent-Hunyuan/UniRL — UniRL is a Framework for Unified Multimodal Model Reinforcement Learning",
-          "url": "https://github.com/Tencent-Hunyuan/UniRL",
-          "source": "github"
-        },
-        {
-          "title": "Anthropic's Claude Fable 5 Is the First Mythos-Level AI Model You Can Actually Use",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNS1FhSm1OelFOVTBZeTFJNWYxaENtTDBlZXZFQUk2NUNhVzhUSVdDVGs5QW5yMVdzUE9PeTZfRFNwNDI2S2ZpZU5lZDY0WUwyczBRanI2eEczOEI3T2pqTzBIaDFwQlpHdVh0VWhkOVVCZGxwU0tHczM1dE5IMlhxenpZOE84cnUwOXFMSVNsZHg2c1hLRkRxeXoycjBiYU4wRmZZTlYtZGNfSzQ?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Anthropic's Claude Fable 5 Is the First Mythos-Level AI Model You Can Actually Use",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNS1FhSm1OelFOVTBZeTFJNWYxaENtTDBlZXZFQUk2NUNhVzhUSVdDVGs5QW5yMVdzUE9PeTZfRFNwNDI2S2ZpZU5lZDY0WUwyczBRanI2eEczOEI3T2pqTzBIaDFwQlpHdVh0VWhkOVVCZGxwU0tHczM1dE5IMlhxenpZOE84cnUwOXFMSVNsZHg2c1hLRkRxeXoycjBiYU4wRmZZTlYtZGNfSzQ?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "9372c470eead",
-      "slug": "model"
-    },
-    {
-      "keyword": "rewriting git",
-      "count": 8,
-      "score": 80.49057960879385,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "Grit: Rewriting Git in Rust with agents",
-          "url": "https://blog.gitbutler.com/true-grit",
-          "source": "hackernews"
-        },
-        {
-          "title": "Grit: Rewriting Git in Rust with agents",
-          "url": "https://blog.gitbutler.com/true-grit",
-          "source": "hackernews"
-        }
-      ],
-      "id": "906f80dc2b4d",
-      "slug": "rewriting-git"
-    },
-    {
-      "keyword": "stop pretending",
-      "count": 8,
-      "score": 79.5216045588555,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "The 'Prompt' Is Not a Skill — And We Need to Stop Pretending",
-          "url": "https://dev.to/harsh2644/the-prompt-is-not-a-skill-and-we-need-to-stop-pretending-3m18",
-          "source": "devto"
-        },
-        {
-          "title": "The 'Prompt' Is Not a Skill — And We Need to Stop Pretending",
-          "url": "https://dev.to/harsh2644/the-prompt-is-not-a-skill-and-we-need-to-stop-pretending-3m18",
-          "source": "devto"
-        }
-      ],
-      "id": "774ea7964f43",
-      "slug": "stop-pretending"
-    },
-    {
-      "keyword": "fitness gear",
-      "count": 29,
-      "score": 77.8974602795632,
-      "proper": true,
-      "niches": [
-        "gear",
-        "software"
-      ],
-      "examples": [
-        {
-          "title": "Dior’s fitness gear convinced me to book my first yoga class",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1OMHp0SGt6QjV1dHV2SlN6bGZTcmVmdk1ZUlFVc1ZDNHFVTTI2VVE2NjUxeXZUMTV1YUFsNXFGTXNBMzdPUVo3VGxNc0E4am55UU5wckVZOENSdw?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Dior’s fitness gear convinced me to book my first yoga class",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1OMHp0SGt6QjV1dHV2SlN6bGZTcmVmdk1ZUlFVc1ZDNHFVTTI2VVE2NjUxeXZUMTV1YUFsNXFGTXNBMzdPUVo3VGxNc0E4am55UU5wckVZOENSdw?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Memorial Day Sales: Great Deals on Fitness Gear",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWEx2T2hXVnExdVY4T2tVczl4cUd1QjcyM2ZMaG0wU3NIdUg1UnR2WnJPVkxjNnAwQ3RGOVlxOGRESXNabVpvejJkem5LN2pfOHhBbUhKYnpMczU3enpBenYzSjRHTUJuSm80QjVxVjI5RFNwdnItSWEtLS1vNlJUNjFDS2Y?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Memorial Day Sales: Great Deals on Fitness Gear",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWEx2T2hXVnExdVY4T2tVczl4cUd1QjcyM2ZMaG0wU3NIdUg1UnR2WnJPVkxjNnAwQ3RGOVlxOGRESXNabVpvejJkem5LN2pfOHhBbUhKYnpMczU3enpBenYzSjRHTUJuSm80QjVxVjI5RFNwdnItSWEtLS1vNlJUNjFDS2Y?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Memorial Day Sales: Great Deals on Fitness Gear",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWEx2T2hXVnExdVY4T2tVczl4cUd1QjcyM2ZMaG0wU3NIdUg1UnR2WnJPVkxjNnAwQ3RGOVlxOGRESXNabVpvejJkem5LN2pfOHhBbUhKYnpMczU3enpBenYzSjRHTUJuSm80QjVxVjI5RFNwdnItSWEtLS1vNlJUNjFDS2Y?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "a8b7e45842c3",
-      "slug": "fitness-gear"
-    },
-    {
-      "keyword": "rich sutton",
-      "count": 8,
-      "score": 77.29294942867861,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "Rich Sutton on AI creativity and discovery",
-          "url": "https://twitter.com/RichardSSutton/status/2061216087744946656",
-          "source": "hackernews"
-        },
-        {
-          "title": "Rich Sutton on AI creativity and discovery",
-          "url": "https://twitter.com/RichardSSutton/status/2061216087744946656",
-          "source": "hackernews"
-        }
-      ],
-      "id": "a21868a3e4bb",
-      "slug": "rich-sutton"
-    },
-    {
-      "keyword": "ai overviews",
-      "count": 5,
-      "score": 64.96122677608221,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "German ruling declares Google liable for false answers in AI Overviews",
-          "url": "https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/",
-          "source": "hackernews"
-        }
-      ],
-      "id": "506e5676f3be",
-      "slug": "ai-overviews"
-    },
-    {
-      "keyword": "fitness equipment",
-      "count": 17,
-      "score": 59.40528057841474,
-      "proper": true,
-      "niches": [
-        "ai",
-        "health"
-      ],
-      "examples": [
-        {
-          "title": "Amazon Prime Day Fitness Deals: Shop the Best Deals on Fitness Equipment",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE51M3laczhpYWNOVVE1NXk0X1ZDYmdWV1ZTaFc3dVo4cEN3VEdLcmdaeGd2cHJ1WXJzSlB6elZveG54Rk5JdzE4NFpWVVktZGdDcEhZX18tV0F3NHg3MUJMekpGSEVwZlpyRkVrZTVSbTM?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Amazon Prime Day Fitness Deals: Shop the Best Deals on Fitness Equipment",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE51M3laczhpYWNOVVE1NXk0X1ZDYmdWV1ZTaFc3dVo4cEN3VEdLcmdaeGd2cHJ1WXJzSlB6elZveG54Rk5JdzE4NFpWVVktZGdDcEhZX18tV0F3NHg3MUJMekpGSEVwZlpyRkVrZTVSbTM?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Amazon Prime Day Fitness Deals: Shop the Best Deals on Fitness Equipment",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE51M3laczhpYWNOVVE1NXk0X1ZDYmdWV1ZTaFc3dVo4cEN3VEdLcmdaeGd2cHJ1WXJzSlB6elZveG54Rk5JdzE4NFpWVVktZGdDcEhZX18tV0F3NHg3MUJMekpGSEVwZlpyRkVrZTVSbTM?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Best Fitness Equipment Sales on Ellipticals, Dumbbells, and More",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTkp6eFYwNUF2cTFVSGl3UThLQnQycnllTU9RZWJPYzMzRW9lSjk0UGQtWnphZVM2eF95OWlGSlQwYi1GSUZrNS1UYnNRRERZN3VWZTdDdWVwT1FlbnRrNFdCODZRbXlaLXhIWDFmWUlEOXlyVlpwRmJDdEg0RGJNTzlma0ZWaVpUM01LMXBkenFaRVZ1NkNVS2ljNzlPWnN3N01BOHlEYTI1bDkzZDJUN0VyMzcyZw?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Best Fitness Equipment Sales on Ellipticals, Dumbbells, and More",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTkp6eFYwNUF2cTFVSGl3UThLQnQycnllTU9RZWJPYzMzRW9lSjk0UGQtWnphZVM2eF95OWlGSlQwYi1GSUZrNS1UYnNRRERZN3VWZTdDdWVwT1FlbnRrNFdCODZRbXlaLXhIWDFmWUlEOXlyVlpwRmJDdEg0RGJNTzlma0ZWaVpUM01LMXBkenFaRVZ1NkNVS2ljNzlPWnN3N01BOHlEYTI1bDkzZDJUN0VyMzcyZw?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "d6e2f034e8a3",
-      "slug": "fitness-equipment"
-    },
-    {
-      "keyword": "2026 _blank",
-      "count": 21,
-      "score": 58.51502388950544,
-      "proper": false,
-      "niches": [
-        "ai",
-        "software",
-        "general"
-      ],
-      "examples": [
-        {
-          "title": "The 3 Best Team Communication Tools with AI Agents in 2026",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQWZlalVhVzAyNnVpd3JVaUd3Yjh6d2NSRDFlMlFJcFViNGQzYkkyMkV2aGJzVjZwcVJpd01nek84RTdZOUVNbTFrS25tb3VGR0otTXN0ZjZ4LXNlYi1XaTl1Wi13NzhIalNfSXFHUGVmXzZxY19kZEJST2Q5c1dHenVTVzd3OXZNRzRN?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "10 Best AI Tools for Students to Boost Grades in 2026",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9TRl9SOFhNRW9QdFJCQnBoNTZPZ1VOT1loLWxwUW5yMFNPVHEzNXR6M3lSV2pVWDlaOTZOZV9RblBVdUotQThyV1lqMWk4RGQyWlQ2em5sYmN5SU11THp1MNIBYEFVX3lxTE9TRl9SOFhNRW9QdFJCQnBoNTZPZ1VOT1loLWxwUW5yMFNPVHEzNXR6M3lSV2pVWDlaOTZOZV9RblBVdUotQThyV1lqMWk4RGQyWlQ2em5sYmN5SU11THp1MA?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "AI Tools Help Students Boost Grades in 2026",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONmRWUU1RRWJTalhOVnNKeS0wRWdjU2N4OGg4YjRkejlrVkNlNmxHdnVOd0dqM19VSzg1QTMxeExzMng2RVo1bi1yeXRuVDdZUFdCRVBmbnIyZ2VnVFFrbEZYbVo4dnJFY0FldTRXdlFCMm9KU2pnOHhXY0x3OGF6anVORS1ENDgxYzRxTGJR?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "11 Best AI Coding Tools for Data Science & ML in 2026",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPaHBGOWZOaERaNVMxVVpPTU9FU1VaMnJ3WkZvMUtUd1MwaGtUQThJZE1nNnNsN25ZemFPZXpUZ1pEdG10NjhhNEx1MnBLTWZOMVg1WUd2MEhzeXM0eWZuOWc3cVgwYkRHUXpYTUF4ZnR0dzlsYmhoVnpKRDd4RjFqRkw4RTE?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "The 12 Best AI Accounting Software and Tools for 2026",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQMHpGRjhPZkoyMzRSYk9NRF9KMVRhQzNQcjJhYjZ3Ukh1aWFjY1R2UFNpN3FUWnRIYlNKUHpjRUN0bEh2SmJIX3d1WVVLTlJ3cXY0U0Y2TzBMSllvT0diTnVXUmRzdklEanp0TmpiNEFMcElXOGc0VjQwU2Q2VDhVWWxLWWlnTndLaFE?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "436796f27eb8",
-      "slug": "2026-_blank"
     }
   ],
   "opportunities": [
     {
       "keyword": "claude fable",
-      "count": 22,
-      "score": 223.03282971114598,
+      "count": 11,
+      "score": 145.20128242087338,
       "proper": true,
       "niches": [
         "ai"
@@ -798,17 +762,7 @@
         {
           "title": "If Claude Fable stops helping you, you'll never know",
           "url": "https://jonready.com/blog/posts/claude-fable5-is-allowed-to-sabotage-your-app-if-youre-a-competitor.html",
-          "source": "hackernews"
-        },
-        {
-          "title": "Anthropic's Claude Fable 5 Is the First Mythos-Level AI Model You Can Actually Use",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNS1FhSm1OelFOVTBZeTFJNWYxaENtTDBlZXZFQUk2NUNhVzhUSVdDVGs5QW5yMVdzUE9PeTZfRFNwNDI2S2ZpZU5lZDY0WUwyczBRanI2eEczOEI3T2pqTzBIaDFwQlpHdVh0VWhkOVVCZGxwU0tHczM1dE5IMlhxenpZOE84cnUwOXFMSVNsZHg2c1hLRkRxeXoycjBiYU4wRmZZTlYtZGNfSzQ?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Anthropic's Claude Fable 5 Is the First Mythos-Level AI Model You Can Actually Use",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNS1FhSm1OelFOVTBZeTFJNWYxaENtTDBlZXZFQUk2NUNhVzhUSVdDVGs5QW5yMVdzUE9PeTZfRFNwNDI2S2ZpZU5lZDY0WUwyczBRanI2eEczOEI3T2pqTzBIaDFwQlpHdVh0VWhkOVVCZGxwU0tHczM1dE5IMlhxenpZOE84cnUwOXFMSVNsZHg2c1hLRkRxeXoycjBiYU4wRmZZTlYtZGNfSzQ?oc=5",
-          "source": "gnews"
+          "source": "lobsters"
         }
       ],
       "id": "ced86039c0ad",
@@ -819,93 +773,138 @@
       }
     },
     {
-      "keyword": "passive income",
-      "count": 41,
-      "score": 186.22815193542786,
+      "keyword": "kitchen gadgets",
+      "count": 23,
+      "score": 127.88730870244814,
       "proper": true,
       "niches": [
+        "software",
+        "gear"
+      ],
+      "examples": [
+        {
+          "title": "These early Prime Day deals are already live on Amazon: Kitchen gadgets, fitness gear, power tools, and more",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBrS1JUWjJIQ1pnOXNUcWRwU3ByYVJtY2o3UVoxeVhvRnNqckVRRFhaZ1czQ19aUzNfSm1KQ2ZLcUhyWTVkRjEyUEZIaGZtOU5IVU9QTEllVTVDQmhMR2ZPUE05OUxnbWptWVdhX0dSRQ?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "These early Prime Day deals are already live on Amazon: Kitchen gadgets, fitness gear, power tools, and more",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBrS1JUWjJIQ1pnOXNUcWRwU3ByYVJtY2o3UVoxeVhvRnNqckVRRFhaZ1czQ19aUzNfSm1KQ2ZLcUhyWTVkRjEyUEZIaGZtOU5IVU9QTEllVTVDQmhMR2ZPUE05OUxnbWptWVdhX0dSRQ?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Cooking Doesn't Have to Be a Slog—These Cool Kitchen Gadgets Under $25 Make It Easy and Fun",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPR1lSOGJUdk5SWVNDWUhxQ0xQZldmRTdXUFVCTmQyRTRpMzlkSjQxN1dWdm9kWTdqUWl2dzA0RF82ekotOEFjSlNKaWJvemRCN0dqUkNIS3ZlZ3JOQTBaSUdld1dJcTlQZTZxUmFVbTBwd0wwOGxEelhWVGJkOWZybmZUVXRVc1dIdVE?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Cooking Doesn't Have to Be a Slog—These Cool Kitchen Gadgets Under $25 Make It Easy and Fun",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPR1lSOGJUdk5SWVNDWUhxQ0xQZldmRTdXUFVCTmQyRTRpMzlkSjQxN1dWdm9kWTdqUWl2dzA0RF82ekotOEFjSlNKaWJvemRCN0dqUkNIS3ZlZ3JOQTBaSUdld1dJcTlQZTZxUmFVbTBwd0wwOGxEelhWVGJkOWZybmZUVXRVc1dIdVE?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "I’ve Tested Dozens of Clever Kitchen Gadgets in 2026 — These Are the Only Ones That Stand Out",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYjN3YXF5MGV2R19DTkxmejBVdGdrelUxM01LSzJaNFF0TFNoN1NnMzdxSWplUjI1RkVnR1NDLXNXTDMyQnZuQmtWeG04a3BlQzU2UWEycFVzT1FsOUcxYVl1WjhvSzdUd2dSajBPMHRRZTZSVlBSS0xKbWVjYUxXelg3b0dZV1o1RXVQamtxX28zU3Rh?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "4e4a1c4cb31e",
+      "slug": "kitchen-gadgets",
+      "opportunity": {
+        "type": "affiliate",
+        "recommended": "Write SEO comparison/roundup article with affiliate links."
+      }
+    },
+    {
+      "keyword": "early prime",
+      "count": 18,
+      "score": 120.0878859713515,
+      "proper": false,
+      "niches": [
+        "software",
         "finance"
       ],
       "examples": [
         {
-          "title": "Why a Passive Income Portfolio With 5 of Warren Buffett’s Highest Yielding Stocks Is Genius",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPY0Nva1VJZnEwREZMZFJQeHBVTWF1dUh0cjlYSFYtRG9SWEE4Sm41VFpUaVZPQWo1UDVvb1NzYXc2NFNhY1c2NFFxX2N2MjlQT3NBZlZDVmhaeXdWa1Zrc2pOZFVtN1BJWU1sWWd0QjdGZklfam50YS1zNnBZeHFQSkx3ZHBhYWdDV054c1AtQ2NyWFQ3bEdEWnhqVFpHSURoR1NvVGZiZENmeEp5RVpOY01ucW4tNWJaYXBPcHpzTUNndnVrVGlBVG1SekhlUnM?oc=5",
+          "title": "These early Prime Day deals are already live on Amazon: Kitchen gadgets, fitness gear, power tools, and more",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBrS1JUWjJIQ1pnOXNUcWRwU3ByYVJtY2o3UVoxeVhvRnNqckVRRFhaZ1czQ19aUzNfSm1KQ2ZLcUhyWTVkRjEyUEZIaGZtOU5IVU9QTEllVTVDQmhMR2ZPUE05OUxnbWptWVdhX0dSRQ?oc=5",
           "source": "gnews"
         },
         {
-          "title": "Why a Passive Income Portfolio With 5 of Warren Buffett’s Highest Yielding Stocks Is Genius",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPY0Nva1VJZnEwREZMZFJQeHBVTWF1dUh0cjlYSFYtRG9SWEE4Sm41VFpUaVZPQWo1UDVvb1NzYXc2NFNhY1c2NFFxX2N2MjlQT3NBZlZDVmhaeXdWa1Zrc2pOZFVtN1BJWU1sWWd0QjdGZklfam50YS1zNnBZeHFQSkx3ZHBhYWdDV054c1AtQ2NyWFQ3bEdEWnhqVFpHSURoR1NvVGZiZENmeEp5RVpOY01ucW4tNWJaYXBPcHpzTUNndnVrVGlBVG1SekhlUnM?oc=5",
+          "title": "These early Prime Day deals are already live on Amazon: Kitchen gadgets, fitness gear, power tools, and more",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBrS1JUWjJIQ1pnOXNUcWRwU3ByYVJtY2o3UVoxeVhvRnNqckVRRFhaZ1czQ19aUzNfSm1KQ2ZLcUhyWTVkRjEyUEZIaGZtOU5IVU9QTEllVTVDQmhMR2ZPUE05OUxnbWptWVdhX0dSRQ?oc=5",
           "source": "gnews"
         },
         {
-          "title": "3 High-Yield Dividend ETFs Paying 9%+ in Passive Income",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYWo0ekNIem1GX1NkODhYLTE5TWlmemt0dW1BOHFWcW5jZlhNU21jSGR3dUtzenZENVZYbnJCSE9CY0kzUThQYVU0dGlTZndvcVpPVlROcmhoRndJYkZockF6SGZOZTZnNGI1YXVyNVRNaFNTd1BaSDNpVHB6b0VKYlRxTHZTMEo2MEN2NURR?oc=5",
+          "title": "Save Nearly 50% on Editor-Approved Home Gym Equipment With These Early Prime Day Fitness Deals",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9BVVVTRTNIMlFLNUc5c1pmaHp5aXpidFoxZzI5TnhxTkRzWm1XSDdzOWxSdlhmZjJYaEFoNUktb2JrSnNDa0g3THNSSjFLbkhweXJESmJ4U3ZPNld2a1R1eU1fWHE1ZG5ybXRqRjJVbDM0Qkw0ZVFLdg?oc=5",
           "source": "gnews"
         },
         {
-          "title": "3 High-Yield Dividend ETFs Paying 9%+ in Passive Income",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYWo0ekNIem1GX1NkODhYLTE5TWlmemt0dW1BOHFWcW5jZlhNU21jSGR3dUtzenZENVZYbnJCSE9CY0kzUThQYVU0dGlTZndvcVpPVlROcmhoRndJYkZockF6SGZOZTZnNGI1YXVyNVRNaFNTd1BaSDNpVHB6b0VKYlRxTHZTMEo2MEN2NURR?oc=5",
+          "title": "Save Nearly 50% on Editor-Approved Home Gym Equipment With These Early Prime Day Fitness Deals",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9BVVVTRTNIMlFLNUc5c1pmaHp5aXpidFoxZzI5TnhxTkRzWm1XSDdzOWxSdlhmZjJYaEFoNUktb2JrSnNDa0g3THNSSjFLbkhweXJESmJ4U3ZPNld2a1R1eU1fWHE1ZG5ybXRqRjJVbDM0Qkw0ZVFLdg?oc=5",
           "source": "gnews"
         },
         {
-          "title": "3 High-Yield Dividend ETFs Paying 9%+ in Passive Income",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYWo0ekNIem1GX1NkODhYLTE5TWlmemt0dW1BOHFWcW5jZlhNU21jSGR3dUtzenZENVZYbnJCSE9CY0kzUThQYVU0dGlTZndvcVpPVlROcmhoRndJYkZockF6SGZOZTZnNGI1YXVyNVRNaFNTd1BaSDNpVHB6b0VKYlRxTHZTMEo2MEN2NURR?oc=5",
+          "title": "Our Editors Found the Early Prime Day Deals Actually Worth Your Money",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcHZ3c0ZxWHhVclBCZm9tb2oyNXhCRHJLdUx1YWFuWTJHWFBrUVkxOUxsTVZhWGlSWFBRa3NYam9SWVBVbC1rNVA3SVJvUzdiSmxvVjBxS2xSWTJNOEoxWEE4Q1FkY1B4QzdJYUE2cTFwNkFfNW1IeWhsdmlzcjN0Q1hEVFJXa0ZF?oc=5",
           "source": "gnews"
         }
       ],
-      "id": "cf2dbbbf8c8c",
-      "slug": "passive-income",
+      "id": "6069e8d26a81",
+      "slug": "early-prime",
       "opportunity": {
         "type": "niche-content",
-        "recommended": "Publish niche guide for \"finance\"; bundle into digital product later."
+        "recommended": "Publish niche guide for \"software\"; bundle into digital product later."
       }
     },
     {
-      "keyword": "boost grades",
-      "count": 22,
-      "score": 148.16967848455556,
+      "keyword": "fitness gear",
+      "count": 23,
+      "score": 118.53961346890054,
       "proper": true,
       "niches": [
-        "ai"
+        "software",
+        "gear"
       ],
       "examples": [
         {
-          "title": "10 Best AI Tools for Students to Boost Grades in 2026",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9TRl9SOFhNRW9QdFJCQnBoNTZPZ1VOT1loLWxwUW5yMFNPVHEzNXR6M3lSV2pVWDlaOTZOZV9RblBVdUotQThyV1lqMWk4RGQyWlQ2em5sYmN5SU11THp1MNIBYEFVX3lxTE9TRl9SOFhNRW9QdFJCQnBoNTZPZ1VOT1loLWxwUW5yMFNPVHEzNXR6M3lSV2pVWDlaOTZOZV9RblBVdUotQThyV1lqMWk4RGQyWlQ2em5sYmN5SU11THp1MA?oc=5",
+          "title": "These early Prime Day deals are already live on Amazon: Kitchen gadgets, fitness gear, power tools, and more",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBrS1JUWjJIQ1pnOXNUcWRwU3ByYVJtY2o3UVoxeVhvRnNqckVRRFhaZ1czQ19aUzNfSm1KQ2ZLcUhyWTVkRjEyUEZIaGZtOU5IVU9QTEllVTVDQmhMR2ZPUE05OUxnbWptWVdhX0dSRQ?oc=5",
           "source": "gnews"
         },
         {
-          "title": "10 Best AI Tools for Students to Boost Grades in 2026",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9TRl9SOFhNRW9QdFJCQnBoNTZPZ1VOT1loLWxwUW5yMFNPVHEzNXR6M3lSV2pVWDlaOTZOZV9RblBVdUotQThyV1lqMWk4RGQyWlQ2em5sYmN5SU11THp1MNIBYEFVX3lxTE9TRl9SOFhNRW9QdFJCQnBoNTZPZ1VOT1loLWxwUW5yMFNPVHEzNXR6M3lSV2pVWDlaOTZOZV9RblBVdUotQThyV1lqMWk4RGQyWlQ2em5sYmN5SU11THp1MA?oc=5",
+          "title": "These early Prime Day deals are already live on Amazon: Kitchen gadgets, fitness gear, power tools, and more",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBrS1JUWjJIQ1pnOXNUcWRwU3ByYVJtY2o3UVoxeVhvRnNqckVRRFhaZ1czQ19aUzNfSm1KQ2ZLcUhyWTVkRjEyUEZIaGZtOU5IVU9QTEllVTVDQmhMR2ZPUE05OUxnbWptWVdhX0dSRQ?oc=5",
           "source": "gnews"
         },
         {
-          "title": "10 Best AI Tools for Students to Boost Grades in 2026",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9TRl9SOFhNRW9QdFJCQnBoNTZPZ1VOT1loLWxwUW5yMFNPVHEzNXR6M3lSV2pVWDlaOTZOZV9RblBVdUotQThyV1lqMWk4RGQyWlQ2em5sYmN5SU11THp1MNIBYEFVX3lxTE9TRl9SOFhNRW9QdFJCQnBoNTZPZ1VOT1loLWxwUW5yMFNPVHEzNXR6M3lSV2pVWDlaOTZOZV9RblBVdUotQThyV1lqMWk4RGQyWlQ2em5sYmN5SU11THp1MA?oc=5",
+          "title": "Dior’s fitness gear convinced me to book my first yoga class",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1OMHp0SGt6QjV1dHV2SlN6bGZTcmVmdk1ZUlFVc1ZDNHFVTTI2VVE2NjUxeXZUMTV1YUFsNXFGTXNBMzdPUVo3VGxNc0E4am55UU5wckVZOENSdw?oc=5",
           "source": "gnews"
         },
         {
-          "title": "AI Tools Help Students Boost Grades in 2026",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONmRWUU1RRWJTalhOVnNKeS0wRWdjU2N4OGg4YjRkejlrVkNlNmxHdnVOd0dqM19VSzg1QTMxeExzMng2RVo1bi1yeXRuVDdZUFdCRVBmbnIyZ2VnVFFrbEZYbVo4dnJFY0FldTRXdlFCMm9KU2pnOHhXY0x3OGF6anVORS1ENDgxYzRxTGJR?oc=5",
+          "title": "Dior’s fitness gear convinced me to book my first yoga class",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1OMHp0SGt6QjV1dHV2SlN6bGZTcmVmdk1ZUlFVc1ZDNHFVTTI2VVE2NjUxeXZUMTV1YUFsNXFGTXNBMzdPUVo3VGxNc0E4am55UU5wckVZOENSdw?oc=5",
           "source": "gnews"
         },
         {
-          "title": "AI Tools Help Students Boost Grades in 2026",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONmRWUU1RRWJTalhOVnNKeS0wRWdjU2N4OGg4YjRkejlrVkNlNmxHdnVOd0dqM19VSzg1QTMxeExzMng2RVo1bi1yeXRuVDdZUFdCRVBmbnIyZ2VnVFFrbEZYbVo4dnJFY0FldTRXdlFCMm9KU2pnOHhXY0x3OGF6anVORS1ENDgxYzRxTGJR?oc=5",
+          "title": "Memorial Day Sales: Great Deals on Fitness Gear",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWEx2T2hXVnExdVY4T2tVczl4cUd1QjcyM2ZMaG0wU3NIdUg1UnR2WnJPVkxjNnAwQ3RGOVlxOGRESXNabVpvejJkem5LN2pfOHhBbUhKYnpMczU3enpBenYzSjRHTUJuSm80QjVxVjI5RFNwdnItSWEtLS1vNlJUNjFDS2Y?oc=5",
           "source": "gnews"
         }
       ],
-      "id": "456b2f3d927a",
-      "slug": "boost-grades",
+      "id": "a8b7e45842c3",
+      "slug": "fitness-gear",
       "opportunity": {
-        "type": "niche-content",
-        "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
+        "type": "affiliate",
+        "recommended": "Write SEO comparison/roundup article with affiliate links."
       }
     },
     {
       "keyword": "claude code",
-      "count": 33,
-      "score": 114.3530367981108,
+      "count": 27,
+      "score": 109.7984153172934,
       "proper": true,
       "niches": [
         "ai"
@@ -945,9 +944,36 @@
       }
     },
     {
+      "keyword": "birthday memes",
+      "count": 8,
+      "score": 100.03245787696017,
+      "proper": true,
+      "niches": [
+        "software"
+      ],
+      "examples": [
+        {
+          "title": "🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎂🗣 RELEASE THE HAPPY #BIRTHDAY MEMES!it’s finally my bornday and i have, finally, beat an ",
+          "url": "https://mastodon.social/@blogdiva/116726245626200100",
+          "source": "mastodon"
+        },
+        {
+          "title": "🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎂🗣 RELEASE THE HAPPY #BIRTHDAY MEMES!it’s finally my bornday and i have, finally, beat an ",
+          "url": "https://mastodon.social/@blogdiva/116726245626200100",
+          "source": "mastodon"
+        }
+      ],
+      "id": "74a8a5dec1f7",
+      "slug": "birthday-memes",
+      "opportunity": {
+        "type": "niche-content",
+        "recommended": "Publish niche guide for \"software\"; bundle into digital product later."
+      }
+    },
+    {
       "keyword": "container machines",
       "count": 8,
-      "score": 110.73259910989893,
+      "score": 99.98713919684229,
       "proper": true,
       "niches": [
         "ai"
@@ -972,127 +998,27 @@
       }
     },
     {
-      "keyword": "software",
-      "count": 19,
-      "score": 103.36326688273985,
+      "keyword": "apache burr",
+      "count": 8,
+      "score": 88.69978358500626,
       "proper": true,
       "niches": [
-        "software",
         "ai"
       ],
       "examples": [
         {
-          "title": "RIP software hackathons. Long live the hardware hackathon",
-          "url": "https://blog.oscars.dev/posts/rip-software-hackathons-long-live-the-hardware-hackathon/",
+          "title": "Apache Burr: Build reliable AI agents and applications",
+          "url": "https://burr.apache.org/",
           "source": "hackernews"
         },
         {
-          "title": "mestankunter321391207/SketchUp-Vortex-Pro-2026 — ⭐️ SketchUp Pro — full lifetime activated 3D modeling software. Intuitive and powerful tool for architecture, interior design, engineering and game des",
-          "url": "https://github.com/mestankunter321391207/SketchUp-Vortex-Pro-2026",
-          "source": "github"
-        },
-        {
-          "title": "The 'SaaSpocalypse' is over, says private equity giant Thoma Bravo. Here's why it sees an AI boom for software",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbVVNSlM2eHRFRGxJUWh5cVRXU0EwS0ZrNmdPYklRWDJCeTlDNDNuQUpkSGw5b0dCMUhWOHY2NmxKOEgtc0E1U1ZrbTR3bUNNcU40aVo5aV9QSXhpXzJNeFRqTzUzRWdiQzlqMlZvUGg5RXlpTXAwQnlfWnNSZVE0cU5hNXlMZUMy0gGOAUFVX3lxTE9aT3lTSkRidEF3dFIwUnc5OHlRZ0R4REp6aERFNlBZZXdhdFBEQWozZkQ2SWd4MjFraExpSWZBT0ZMTV9xbnpGaXltRFJQUHNYUTR6Q0ZMX3BVa1RXdGNfMGgtbFRQX3RsdDNzSkJaQlJ1TXBQX0JWZk1xU19DdjZhXy1qa3pYTnN2LUVsNlE?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "valkor-ai/loom — An open delivery harness that turns Claude Code, Codex, OpenCode, and other coding agents into repeatable software delivery systems.",
-          "url": "https://github.com/valkor-ai/loom",
-          "source": "github"
-        },
-        {
-          "title": "Software buyout deals collapse to lowest level since pandemic after AI rout",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQnQ5RzdOa1NkeTNPQnpnTmZXMlZHazRRTjFiQTdFcXFmdDYzamtQN256aWhWWFgyaGt2N28xRkhoVC1CZXZlUjhEOEZzZU16WlRyWWxiV3pTYVNMNW1SaGZZRnlFcDViMDV6OU4xakRJa2Y1bTRVbldtdkZEUENsSG4wMlo?oc=5",
-          "source": "gnews"
+          "title": "Apache Burr: Build reliable AI agents and applications",
+          "url": "https://burr.apache.org/",
+          "source": "hackernews"
         }
       ],
-      "id": "35390f5453e8",
-      "slug": "software",
-      "opportunity": {
-        "type": "niche-content",
-        "recommended": "Publish niche guide for \"software\"; bundle into digital product later."
-      }
-    },
-    {
-      "keyword": "mechanical keyboard",
-      "count": 23,
-      "score": 87.78705088896862,
-      "proper": true,
-      "niches": [
-        "gear"
-      ],
-      "examples": [
-        {
-          "title": "8BitDo’s NES-style Mechanical Keyboard with Super Buttons and Joystick is down to $70 today",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSFpyMWlGQmVlaVpiV1ZlbVEzamdPV0pmWTJvbzBPVFU3a1JjUzNCM25jRHRTY3d5MUZKa2VKLUF5YUtkakVXa0lzM0NZeS0tYlRSSzd4X0t5c2VTOFJVV3JOaEk3Q1JBWkJVdVFiVTB3bTd2ZU9FUU1pNEZIc2taZk9TbDJ6RWg2OHc?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "8BitDo’s NES-style Mechanical Keyboard with Super Buttons and Joystick is down to $70 today",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSFpyMWlGQmVlaVpiV1ZlbVEzamdPV0pmWTJvbzBPVFU3a1JjUzNCM25jRHRTY3d5MUZKa2VKLUF5YUtkakVXa0lzM0NZeS0tYlRSSzd4X0t5c2VTOFJVV3JOaEk3Q1JBWkJVdVFiVTB3bTd2ZU9FUU1pNEZIc2taZk9TbDJ6RWg2OHc?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "8BitDo’s NES-style Mechanical Keyboard with Super Buttons and Joystick is down to $70 today",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSFpyMWlGQmVlaVpiV1ZlbVEzamdPV0pmWTJvbzBPVFU3a1JjUzNCM25jRHRTY3d5MUZKa2VKLUF5YUtkakVXa0lzM0NZeS0tYlRSSzd4X0t5c2VTOFJVV3JOaEk3Q1JBWkJVdVFiVTB3bTd2ZU9FUU1pNEZIc2taZk9TbDJ6RWg2OHc?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "This $80 Mechanical Keyboard Feels Like It Should Cost Twice As Much",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQaDgzMk5PTVFlZl8zMkJFLXl1b0NtaDZQRHF3dndLaThYc0J1eVdkMUNoaHdZdU5IaWJIdThyQVNGeWdBaFVKczJDNkI5Tmk3anBQeUgtQ202LTgyMmdjTTZpUFNqVFJJYVFUeTAyNUdJbDFPQWFGdVJwY0Z5MWJQZE8zZ0FBYmJkamdz?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "This $80 Mechanical Keyboard Feels Like It Should Cost Twice As Much",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQaDgzMk5PTVFlZl8zMkJFLXl1b0NtaDZQRHF3dndLaThYc0J1eVdkMUNoaHdZdU5IaWJIdThyQVNGeWdBaFVKczJDNkI5Tmk3anBQeUgtQ202LTgyMmdjTTZpUFNqVFJJYVFUeTAyNUdJbDFPQWFGdVJwY0Z5MWJQZE8zZ0FBYmJkamdz?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "e31f9fac7533",
-      "slug": "mechanical-keyboard",
-      "opportunity": {
-        "type": "niche-content",
-        "recommended": "Publish niche guide for \"gear\"; bundle into digital product later."
-      }
-    },
-    {
-      "keyword": "model",
-      "count": 11,
-      "score": 83.02179273479176,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "apple/coreai-models — Model export recipes, Python primitives, and Swift runtime utilities for on-device AI",
-          "url": "https://github.com/apple/coreai-models",
-          "source": "github"
-        },
-        {
-          "title": "apple/coreai-models — Model export recipes, Python primitives, and Swift runtime utilities for on-device AI",
-          "url": "https://github.com/apple/coreai-models",
-          "source": "github"
-        },
-        {
-          "title": "Tencent-Hunyuan/UniRL — UniRL is a Framework for Unified Multimodal Model Reinforcement Learning",
-          "url": "https://github.com/Tencent-Hunyuan/UniRL",
-          "source": "github"
-        },
-        {
-          "title": "Anthropic's Claude Fable 5 Is the First Mythos-Level AI Model You Can Actually Use",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNS1FhSm1OelFOVTBZeTFJNWYxaENtTDBlZXZFQUk2NUNhVzhUSVdDVGs5QW5yMVdzUE9PeTZfRFNwNDI2S2ZpZU5lZDY0WUwyczBRanI2eEczOEI3T2pqTzBIaDFwQlpHdVh0VWhkOVVCZGxwU0tHczM1dE5IMlhxenpZOE84cnUwOXFMSVNsZHg2c1hLRkRxeXoycjBiYU4wRmZZTlYtZGNfSzQ?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Anthropic's Claude Fable 5 Is the First Mythos-Level AI Model You Can Actually Use",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNS1FhSm1OelFOVTBZeTFJNWYxaENtTDBlZXZFQUk2NUNhVzhUSVdDVGs5QW5yMVdzUE9PeTZfRFNwNDI2S2ZpZU5lZDY0WUwyczBRanI2eEczOEI3T2pqTzBIaDFwQlpHdVh0VWhkOVVCZGxwU0tHczM1dE5IMlhxenpZOE84cnUwOXFMSVNsZHg2c1hLRkRxeXoycjBiYU4wRmZZTlYtZGNfSzQ?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "9372c470eead",
-      "slug": "model",
+      "id": "691fdc9afb6a",
+      "slug": "apache-burr",
       "opportunity": {
         "type": "niche-content",
         "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."

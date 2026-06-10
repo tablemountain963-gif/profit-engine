@@ -762,8 +762,8 @@
     },
     "tools": {
       "firstSeen": "2026-05-30T21:48:02.147Z",
-      "lastSeen": "2026-06-05T05:14:27.008Z",
-      "count": 2,
+      "lastSeen": "2026-06-10T16:35:20.378Z",
+      "count": 3,
       "wins": 0,
       "losses": 0,
       "niche": "ai"
@@ -1834,10 +1834,10 @@
     },
     "nicolas-sutrich": {
       "firstSeen": "2026-06-05T15:52:03.262Z",
-      "lastSeen": "2026-06-05T15:52:03.262Z",
-      "count": 1,
+      "lastSeen": "2026-06-10T16:34:39.297Z",
+      "count": 2,
       "wins": 0,
-      "losses": 0,
+      "losses": 1,
       "niche": "ai"
     },
     "jalen-brunson": {
@@ -2610,9 +2610,9 @@
     },
     "startup-disk": {
       "firstSeen": "2026-06-09T15:53:18.934Z",
-      "lastSeen": "2026-06-09T15:53:18.934Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-10T16:34:39.300Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "software"
     },
@@ -2706,25 +2706,25 @@
     },
     "container-machines": {
       "firstSeen": "2026-06-10T05:14:28.277Z",
-      "lastSeen": "2026-06-10T05:14:28.277Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-10T16:34:39.301Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
     "rewriting-git": {
       "firstSeen": "2026-06-10T05:14:31.134Z",
-      "lastSeen": "2026-06-10T05:14:31.134Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-10T16:34:39.301Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
     "rich-sutton": {
       "firstSeen": "2026-06-10T05:14:33.853Z",
-      "lastSeen": "2026-06-10T05:14:33.853Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-10T16:34:39.302Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -2735,13 +2735,61 @@
       "wins": 0,
       "losses": 0,
       "niche": "ai"
+    },
+    "early-prime": {
+      "firstSeen": "2026-06-10T16:34:44.170Z",
+      "lastSeen": "2026-06-10T16:34:44.170Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "software"
+    },
+    "birthday-memes": {
+      "firstSeen": "2026-06-10T16:34:47.114Z",
+      "lastSeen": "2026-06-10T16:34:47.114Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "software"
+    },
+    "apache-burr": {
+      "firstSeen": "2026-06-10T16:34:50.663Z",
+      "lastSeen": "2026-06-10T16:34:50.663Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "aws-bedrock": {
+      "firstSeen": "2026-06-10T16:34:58.827Z",
+      "lastSeen": "2026-06-10T16:34:58.827Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "nextgenapps": {
+      "firstSeen": "2026-06-10T16:35:39.820Z",
+      "lastSeen": "2026-06-10T16:35:39.820Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "keyboard": {
+      "firstSeen": "2026-06-10T16:35:46.781Z",
+      "lastSeen": "2026-06-10T16:35:46.781Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "software"
     }
   },
   "niches": {
     "ai": {
-      "count": 409,
-      "wins": 119,
-      "losses": 12
+      "count": 416,
+      "wins": 122,
+      "losses": 13
     },
     "finance": {
       "count": 32,
@@ -2749,8 +2797,8 @@
       "losses": 0
     },
     "software": {
-      "count": 82,
-      "wins": 21,
+      "count": 87,
+      "wins": 22,
       "losses": 5
     },
     "gear": {
