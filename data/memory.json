@@ -2674,9 +2674,9 @@
     },
     "stop-pretending": {
       "firstSeen": "2026-06-09T22:17:01.448Z",
-      "lastSeen": "2026-06-09T22:17:01.448Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-10T05:14:23.159Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -2690,9 +2690,9 @@
     },
     "fitness-equipment": {
       "firstSeen": "2026-06-09T22:17:07.038Z",
-      "lastSeen": "2026-06-09T22:17:07.038Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-10T05:14:23.160Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -2703,12 +2703,44 @@
       "wins": 0,
       "losses": 0,
       "niche": "ai"
+    },
+    "container-machines": {
+      "firstSeen": "2026-06-10T05:14:28.277Z",
+      "lastSeen": "2026-06-10T05:14:28.277Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "rewriting-git": {
+      "firstSeen": "2026-06-10T05:14:31.134Z",
+      "lastSeen": "2026-06-10T05:14:31.134Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "rich-sutton": {
+      "firstSeen": "2026-06-10T05:14:33.853Z",
+      "lastSeen": "2026-06-10T05:14:33.853Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "ai-overviews": {
+      "firstSeen": "2026-06-10T05:14:41.034Z",
+      "lastSeen": "2026-06-10T05:14:41.034Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
     }
   },
   "niches": {
     "ai": {
-      "count": 403,
-      "wins": 117,
+      "count": 409,
+      "wins": 119,
       "losses": 12
     },
     "finance": {
