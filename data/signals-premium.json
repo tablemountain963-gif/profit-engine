@@ -1,144 +1,100 @@
 {
-  "generatedAt": "2026-06-11T05:26:02.598Z",
-  "sourceCount": 204,
+  "generatedAt": "2026-06-11T16:53:45.459Z",
+  "sourceCount": 207,
   "topItems": [
     {
-      "title": "shadcn/improve — Use your most capable model to audit your codebase and write plans for cheaper models to execute.",
-      "url": "https://github.com/shadcn/improve",
-      "score": 11.17,
-      "niche": "ai",
-      "source": "github",
-      "engagement": {
-        "score": 1016,
-        "comments": 1
-      }
-    },
-    {
-      "title": "Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable",
-      "url": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
-      "score": 8.73,
-      "niche": "ai",
-      "source": "hackernews",
-      "engagement": {
-        "score": 331,
-        "comments": 297
-      }
-    },
-    {
-      "title": "Claude Desktop spawns 1.8 GB Hyper-V VM on every launch, even for chat-only use",
-      "url": "https://github.com/anthropics/claude-code/issues/29045",
-      "score": 8.71,
-      "niche": "ai",
-      "source": "hackernews",
-      "engagement": {
-        "score": 380,
-        "comments": 263
-      }
-    },
-    {
-      "title": "so if AI is so amazing, why don’t articles and books written with it have huge “proudly made with AI” banners and stickers on it we all know why",
-      "url": "https://hachyderm.io/@thomasfuchs/116728001022328890",
-      "score": 8.53,
+      "title": "An unsupervised agentic AI system working through compromised devs credentials (account) successfully altered bugs & pushed unverified code into multiple open source projects, including Fedora #Linux ",
+      "url": "https://mastodon.social/@nixCraft/116731844993207777",
+      "score": 9.19,
       "niche": "ai",
       "source": "mastodon",
       "engagement": {
-        "score": 742,
-        "comments": 22
-      }
-    },
-    {
-      "title": "I was doing my library volunteer thing and a woman came in to the desk holding a book. “I left the book out in the rain and ruined it, so I bought this new copy”. You won’t see a story about it anywhe",
-      "url": "https://aus.social/@andyjennings/116728729565705122",
-      "score": 8.44,
-      "niche": "ai",
-      "source": "mastodon",
-      "engagement": {
-        "score": 420,
+        "score": 147,
         "comments": 7
       }
     },
     {
-      "title": "If all you have a hammer, then everything looks like a nail. But if all you have is a screwdriver or a wrench, this doesn't necessarily mean that everything looks like a screw or a bolt, because eithe",
-      "url": "https://mastodon.social/@mcc/116728825179238241",
-      "score": 8.3,
-      "niche": "ai",
-      "source": "mastodon",
-      "engagement": {
-        "score": 316,
-        "comments": 38
-      }
-    },
-    {
-      "title": "AI agent runs amok in Fedora and elsewhere",
-      "url": "https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/",
-      "score": 8.29,
-      "niche": "ai",
-      "source": "hackernews",
-      "engagement": {
-        "score": 262,
-        "comments": 63
-      }
-    },
-    {
-      "title": "AI-NextGenApps/AI-IMG-VID-App — The AI tool people use when they want spicy content that genuinely looks real. Easy to use, fast to generate, and trusted by millions worldwide. Start today with free c",
-      "url": "https://github.com/AI-NextGenApps/AI-IMG-VID-App",
-      "score": 8.02,
+      "title": "shadcn/improve — Use your most capable model to audit your codebase and write plans for cheaper models to execute.",
+      "url": "https://github.com/shadcn/improve",
+      "score": 8.93,
       "niche": "ai",
       "source": "github",
       "engagement": {
-        "score": 90,
-        "comments": 0
+        "score": 1602,
+        "comments": 4
       }
     },
     {
-      "title": "I swear I've seen developers with 30 years of experience go from \"I can debug a kernel panic blindfolded\" to \"oh wait, let me ask the AI how to write a for loop\" in about 12 months.",
-      "url": "https://mastodon.social/@fribbledom/116729581134392004",
-      "score": 7.94,
-      "niche": "ai",
-      "source": "mastodon",
-      "engagement": {
-        "score": 133,
-        "comments": 5
-      }
-    },
-    {
-      "title": "Show HN: Extend UI – open-source UI kit for modern document apps",
-      "url": "https://www.extend.ai/ui",
-      "score": 7.91,
-      "niche": "software",
-      "source": "hackernews",
-      "engagement": {
-        "score": 185,
-        "comments": 43
-      }
-    },
-    {
-      "title": "Apache Burr: Build reliable AI agents and applications",
-      "url": "https://burr.apache.org/",
-      "score": 7.6,
+      "title": "Workers are spending over 6 hours a week botsitting AI, fueling job frustration",
+      "url": "https://www.businessinsider.com/botsitting-ai-hidden-human-labor-at-work-2026-6",
+      "score": 8.86,
       "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 191,
-        "comments": 95
+        "score": 218,
+        "comments": 185
       }
     },
     {
-      "title": "cheerleaders training session#catsofmastodon #cats #Humor",
-      "url": "https://mas.to/@returntosender/116728962108792273",
-      "score": 7.6,
+      "title": "From the WTAF dept: Malware developers are now adding text about nuclear and biological weapons to their spyware to evade AI-based security scanners. tl;dr: The inclusion of content that LLMs are trai",
+      "url": "https://infosec.exchange/@briankrebs/116731393657214718",
+      "score": 8.76,
       "niche": "ai",
       "source": "mastodon",
       "engagement": {
-        "score": 230,
-        "comments": 3
+        "score": 525,
+        "comments": 10
       }
     },
     {
-      "title": "Can an Animal Crossing-like Concept Redefine the Productivity Tool Track by Turning the Pomodoro Technique into an Online Game and Reaching the Top 10 of South Korea's App Charts?",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1kVUdLVG96Q1ZrQmVpcGRIY0hweG9HcHR1My1mUERPOWh6d2J4OVN3dkdCZkg5U3pGcFBjejlKNmtUTE9keTNYbkNVNjNBZ0YzcHR3?oc=5",
+      "title": "Pokémon Go Scans Trained the Navigation Tech for Military Drones",
+      "url": "https://dronexl.co/2026/06/09/pokemon-go-scans-niantic-vantor-military-drone-navigation/",
+      "score": 7.81,
+      "niche": "ai",
+      "source": "hackernews",
+      "engagement": {
+        "score": 584,
+        "comments": 267
+      }
+    },
+    {
+      "title": "To management, I say \"I use AI techniques to ___\". It's just my shell scripts from 2001 that still run perfectly everyday. I don't tell them that AI in that sentence actually stands for already implem",
+      "url": "https://mastodon.social/@fesshole/116730967327192421",
+      "score": 7.68,
+      "niche": "ai",
+      "source": "mastodon",
+      "engagement": {
+        "score": 969,
+        "comments": 16
+      }
+    },
+    {
+      "title": "I'm okay with being known as a toxic AI hater if my toxicity results in less massive gas powered data centers for AI.",
+      "url": "https://haunted.computer/@Dio9sys/116731623709818609",
+      "score": 7.66,
+      "niche": "ai",
+      "source": "mastodon",
+      "engagement": {
+        "score": 235,
+        "comments": 6
+      }
+    },
+    {
+      "title": "Why AI hasn't replaced software engineers, and won't",
+      "url": "https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers",
+      "score": 7.4,
+      "niche": "ai",
+      "source": "hackernews",
+      "engagement": {
+        "score": 227,
+        "comments": 273
+      }
+    },
+    {
+      "title": "Samsung Electronics Officially Approves Use of External Generative AI Tools Including ChatGPT and Claude Starting the 12nd",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQbTNkcng3NmY0eDZpQ2RPZGFqTXc1dTJ4RkpnYlBWZmJTUWxheTlzU09kc2lWUHEyR1F3Zmdod0kxaGR4NURBeGZhS0d2VWZaWi1oQmxlQjVsZEpXWllCdlVvemhmTklOdzJ3T0kzTTE2Qnk5c3lwREVPc202dHNpSWVCZGMtdzRrWmhmNHRxQmg3MXVmcVpHZnJ4ZEVGWnRHYmpkUkJxeFIwQkdibWExUEJMMjNBdm1Yc2ozemF6WlFyMlFqdFlqUzdPVTRhYkVQbmR4SVBya3J4NkVSSzNiNXBuenhzNm9DUHgzX1A5bi1ZWGNFZGJaeQ?oc=5",
       "score": 7.23,
-      "niche": "software",
+      "niche": "ai",
       "source": "gnews",
       "engagement": {
         "score": 40,
@@ -146,19 +102,41 @@
       }
     },
     {
-      "title": "Sinotrade/shioaji-pro-app — Shioaji Pro — professional trading terminal for Taiwan markets (TWSE/TPEX/TAIFEX) built on the Shioaji HTTP API: real-time SSE quotes, candlestick charts with click-to-trad",
-      "url": "https://github.com/Sinotrade/shioaji-pro-app",
-      "score": 6.75,
+      "title": "Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable",
+      "url": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
+      "score": 7.04,
       "niche": "ai",
-      "source": "github",
+      "source": "hackernews",
       "engagement": {
-        "score": 106,
-        "comments": 0
+        "score": 560,
+        "comments": 489
       }
     },
     {
-      "title": "The Bull Case For JFrog (FROG) Could Change Following New AI Tools And Index Inclusion – Learn Why",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSHNBeFNsbTRoSEtrblJtb2RIX0FGRzJRbU94RTJjal9JWVZ4X2R5LW8waTRBMkZnVHpJczNmYnRmSmFaRDQ1enFBV3VCUWc4dUJfYkRBd2d5TjBLMkV0dmEtWWx3WElCZTV3SWtmTnUyci1OWk9SaVVVYldxa2ROUlMxaERGZWZLYnNGTG16U1JYRlBxeE1TalRoNWszYzZvUFMzUmV0S1RETXdCWU5qdkFhNG5yOFNPRzUyY2EwSGI1Z9IBxwFBVV95cUxORktJZl9MbmI4TEltbnhCWnN6eGl2Z3BURG5Sc1o5aFpDM2l3UXVpSkc5M29uSjJ6MW5EVmlkdFZpcFo3VFAtQTBRUWxDaFY3dlZ3T3Z6OTJ1OEY5UkhzQzhLM3B2blpIY09qdmFnMFNBYXpMQU1KQXhReWdyeU9ReFIwb2k1RlRpNm96QnhBTDZGVXpETVlManBlUXA3VzJOTXRaMERqWHNXTjBwRGp5Ty1PWFhoeFowRzM5bWx4cWpMZV9RcGtJ?oc=5",
+      "title": "Over on Whatever, I talk about the legit business email I got that was written with \"AI,\" why I thought it meant the sender's domain was hacked by scammers, and why using \"AI\" in business emails autom",
+      "url": "https://mastodon.social/@scalzi/116732287039062368",
+      "score": 6.82,
+      "niche": "ai",
+      "source": "mastodon",
+      "engagement": {
+        "score": 122,
+        "comments": 6
+      }
+    },
+    {
+      "title": "Today, I’m proud to announce Homebrew 6.0.0.Since 5.1.0: secure tap trusting, faster JSON API, Linux sandboxing, better defaults, brew bundle improvements, improved performance, initial macOS Golden G",
+      "url": "https://mastodon.social/@mikemcquaid/116731682832770763",
+      "score": 6.81,
+      "niche": "software",
+      "source": "mastodon",
+      "engagement": {
+        "score": 115,
+        "comments": 7
+      }
+    },
+    {
+      "title": "HitPaw Father’s Day Sale: Up to 50% Off AI Creative Tools",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNX0dpdGo1VUZ6M0YwWGxBaVdWd00tdFVIdXlFMDdjbHJJUXlXSUFXdFM3d09IeE9CUE16b2lFVmg2TlZZX0F6VFpfNFJXVGE1UXJrWmE3THJqLUNmVzlhZXhNZ2pKai1MeWN1Q2hWV0NvRnJVQTVpUjZmN2NCTl9aWlRQNXNkZkh3bk5WVjBodDlfdURKQUFfWDRFSWRSbGxLOFIya0VxaVdnenhCSUZrX0dfZzF5cG5ReURHMWgxem1zdkZYUmc?oc=5",
       "score": 6.71,
       "niche": "ai",
       "source": "gnews",
@@ -168,24 +146,57 @@
       }
     },
     {
-      "title": "All 9,300 Japanese train station, animated by the year it opened (1872–2026)",
-      "url": "https://jivx.com/eki",
-      "score": 6.57,
+      "title": "OpenAI mulls slashing prices as it competes with Anthropic for users",
+      "url": "https://www.cnbc.com/2026/06/11/openai-mulls-slashing-prices-ahead-of-competition-from-anthropic-wsj.html",
+      "score": 6.2,
       "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 220,
-        "comments": 74
+        "score": 75,
+        "comments": 94
       }
     },
     {
-      "title": "AI-CoolTools/AI-GoldenAPP — Explore next-gen AI apps for realistic image and video creation with fewer limits, better quality, and more control. Find powerful tools designed for unrestricted creativit",
-      "url": "https://github.com/AI-CoolTools/AI-GoldenAPP",
-      "score": 6.42,
+      "title": "Ask HN: How do you get into a flow state when using AI to code?",
+      "url": "https://news.ycombinator.com/item?id=48492118",
+      "score": 6.16,
       "niche": "ai",
-      "source": "github",
+      "source": "hackernews",
       "engagement": {
-        "score": 122,
+        "score": 27,
+        "comments": 28
+      }
+    },
+    {
+      "title": "First NBC News spotted the resemblance. Then they brought the Trump Phone to our San Luis Obispo office so we could get past the gold paint.CT scans and a full teardown confirmed it: the T1 is nearly ",
+      "url": "https://mastodon.social/@iFixit/116732355291794376",
+      "score": 6.12,
+      "niche": "ai",
+      "source": "mastodon",
+      "engagement": {
+        "score": 81,
+        "comments": 0
+      }
+    },
+    {
+      "title": "German court ruling declares Google's AI Overviews are Google's own words and makes it liable for false answers",
+      "url": "https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/",
+      "score": 6,
+      "niche": "ai",
+      "source": "lobsters",
+      "engagement": {
+        "score": 141,
+        "comments": 39
+      }
+    },
+    {
+      "title": "16 Best AI Tools for Business in 2026: Tested & Ranked",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAwQnBYNFM3cXk2eUZVZWZHYjBJZ01wbHJOMkpiNXExelhCZUc4US1OX0tnaWdyTnNCZkp6bGEwN0FOMDBiUzh6a29Wd2pmUk9pNWdRdXdXNG9HZVpo?oc=5",
+      "score": 5.99,
+      "niche": "ai",
+      "source": "gnews",
+      "engagement": {
+        "score": 40,
         "comments": 0
       }
     },
@@ -201,10 +212,32 @@
       }
     },
     {
-      "title": "I've tested so many desktop AI tools, but Hermes with Ollama is my new favorite - here's why",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1aUjdZZ3RHd01acFpnaDhpdC12Y0pJeWtkem5EZGFXb3pmNDlvdk1WVFVHXzc5d3BtbXR6em1CY0dqb1BrME1TMmhCZ1dKb2JJMnVFRExPYlVPRVk3aTZscVVpVmktN3RwVnZ1a2x6YVdEN2dxeWl5Tg?oc=5",
-      "score": 5.99,
+      "title": "Anthropic apologizes for invisible Claude Fable guardrails",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
+      "score": 5.98,
       "niche": "ai",
+      "source": "hackernews",
+      "engagement": {
+        "score": 39,
+        "comments": 17
+      }
+    },
+    {
+      "title": "taisly/agent — Taisly Agent Kit: SDK, CLI, examples, and docs for AI agents that publish videos through Taisly.",
+      "url": "https://github.com/taisly/agent",
+      "score": 5.88,
+      "niche": "ai",
+      "source": "github",
+      "engagement": {
+        "score": 98,
+        "comments": 0
+      }
+    },
+    {
+      "title": "Can an Animal Crossing-like Concept Redefine the Productivity Tool Track by Turning the Pomodoro Technique into an Online Game and Reaching the Top 10 of South Korea's App Charts?",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1kVUdLVG96Q1ZrQmVpcGRIY0hweG9HcHR1My1mUERPOWh6d2J4OVN3dkdCZkg5U3pGcFBjejlKNmtUTE9keTNYbkNVNjNBZ0YzcHR3?oc=5",
+      "score": 5.78,
+      "niche": "software",
       "source": "gnews",
       "engagement": {
         "score": 40,
@@ -212,77 +245,111 @@
       }
     },
     {
-      "title": "New reCaptcha requires approved phones to pass",
-      "url": "https://cybernews.com/privacy/google-qr-code-recaptcha-requires-approved-phone/",
-      "score": 5.96,
-      "niche": "software",
-      "source": "lobsters",
-      "engagement": {
-        "score": 78,
-        "comments": 16
-      }
-    },
-    {
-      "title": "macOS container tool v1.0.0 released",
-      "url": "https://github.com/apple/container",
-      "score": 5.81,
+      "title": "orange2ai/orange-line-illustration — 🍊 New Yorker-style minimalist editorial illustration skill for AI agents — one idea, one accent, lots of silence. Free for open-source use; commercial license for",
+      "url": "https://github.com/orange2ai/orange-line-illustration",
+      "score": 5.77,
       "niche": "ai",
-      "source": "lobsters",
-      "engagement": {
-        "score": 43,
-        "comments": 25
-      }
-    },
-    {
-      "title": "Show HN: HelixDB – A graph database built on object storage",
-      "url": "https://github.com/HelixDB/helix-db/tree/main",
-      "score": 5.73,
-      "niche": "ai",
-      "source": "hackernews",
-      "engagement": {
-        "score": 106,
-        "comments": 33
-      }
-    },
-    {
-      "title": "HunterPrivateBend/KMS-Tools-Portable-2026 — ⭐️ KMS Tools Portable Latest Edition with built-in keygen and activator. Lightweight pre-activated suite for instant Windows 10/11 activation. No installati",
-      "url": "https://github.com/HunterPrivateBend/KMS-Tools-Portable-2026",
-      "score": 5.53,
-      "niche": "software",
       "source": "github",
       "engagement": {
-        "score": 78,
+        "score": 90,
         "comments": 0
       }
     },
     {
       "title": "The 'Prompt' Is Not a Skill — And We Need to Stop Pretending",
       "url": "https://dev.to/harsh2644/the-prompt-is-not-a-skill-and-we-need-to-stop-pretending-3m18",
-      "score": 5.46,
+      "score": 5.6,
       "niche": "ai",
       "source": "devto",
       "engagement": {
-        "score": 53,
-        "comments": 50
+        "score": 56,
+        "comments": 59
       }
     },
     {
-      "title": "The Jqwik Anti-AI Affair",
-      "url": "https://blog.johanneslink.net/2026/06/09/the-jqwik-anti-ai-affair/",
-      "score": 5.44,
+      "title": "Sinotrade/shioaji-pro-app — Shioaji Pro — professional trading terminal for Taiwan markets (TWSE/TPEX/TAIFEX) built on the Shioaji HTTP API: real-time SSE quotes, candlestick charts with click-to-trad",
+      "url": "https://github.com/Sinotrade/shioaji-pro-app",
+      "score": 5.38,
       "niche": "ai",
-      "source": "lobsters",
+      "source": "github",
       "engagement": {
-        "score": 90,
-        "comments": 21
+        "score": 142,
+        "comments": 0
       }
     }
   ],
   "topics": [
     {
+      "keyword": "passive income",
+      "count": 54,
+      "score": 216.60816144445755,
+      "proper": true,
+      "niches": [
+        "finance",
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "VOO’s Yield Is Just 1%. These 2 High-Yield JPMorgan ETFs Offer 8%-10% in Passive Income",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdHpUbVFaWjFCSEVfbzZvQV9ma0tQWlFCUXJ2dnJXWnBHZ2RJcEdjckhPazRfemRNRzVnNFp2OWt5Mm1Rb3BRbmdsakhyOFZDZWY0WGpoM0VxNF9XcE00VERMMWZLcncyN3NoM1lROW5RekJxWnBONjJsQjRqQk81eFQ5V0ZGX0pVWVJsdmhKdlhvdVFWQVdZS1JFRlJOT0FsRWpXaXRUbE5oN0JwcGFmUnBzOXMxV1E?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "VOO’s Yield Is Just 1%. These 2 High-Yield JPMorgan ETFs Offer 8%-10% in Passive Income",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdHpUbVFaWjFCSEVfbzZvQV9ma0tQWlFCUXJ2dnJXWnBHZ2RJcEdjckhPazRfemRNRzVnNFp2OWt5Mm1Rb3BRbmdsakhyOFZDZWY0WGpoM0VxNF9XcE00VERMMWZLcncyN3NoM1lROW5RekJxWnBONjJsQjRqQk81eFQ5V0ZGX0pVWVJsdmhKdlhvdVFWQVdZS1JFRlJOT0FsRWpXaXRUbE5oN0JwcGFmUnBzOXMxV1E?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "I Asked ChatGPT How Retirees Can Generate $2K Monthly in Passive Income in 2026: Here’s What It Recommended",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPT0tlSHVabEdfcEJ4M1d3Q1ROYjZXdWZOWkUtS1VvNE9VMUdST2pxamxvNktJLWM5UEdBSXBJZTlHdlM4XzJuYUM1NEY2bHpIOGl6bUdMUzN4NU03MWhjdHpDU1JFZHA3RWloMXAwMnNfdmFvSDlENC1QVjRYOXJLTWRnMTcxWXctUUJSZk0xcWRyYkllWG0xdHBuUi1taW9qT1E?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "I Asked ChatGPT How Retirees Can Generate $2K Monthly in Passive Income in 2026: Here’s What It Recommended",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPT0tlSHVabEdfcEJ4M1d3Q1ROYjZXdWZOWkUtS1VvNE9VMUdST2pxamxvNktJLWM5UEdBSXBJZTlHdlM4XzJuYUM1NEY2bHpIOGl6bUdMUzN4NU03MWhjdHpDU1JFZHA3RWloMXAwMnNfdmFvSDlENC1QVjRYOXJLTWRnMTcxWXctUUJSZk0xcWRyYkllWG0xdHBuUi1taW9qT1E?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "I Asked ChatGPT How Retirees Can Generate $2K Monthly in Passive Income in 2026: Here’s What It Recommended",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPT0tlSHVabEdfcEJ4M1d3Q1ROYjZXdWZOWkUtS1VvNE9VMUdST2pxamxvNktJLWM5UEdBSXBJZTlHdlM4XzJuYUM1NEY2bHpIOGl6bUdMUzN4NU03MWhjdHpDU1JFZHA3RWloMXAwMnNfdmFvSDlENC1QVjRYOXJLTWRnMTcxWXctUUJSZk0xcWRyYkllWG0xdHBuUi1taW9qT1E?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "cf2dbbbf8c8c",
+      "slug": "passive-income"
+    },
+    {
+      "keyword": "hitpaw father",
+      "count": 11,
+      "score": 110.70148392524266,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "HitPaw Father’s Day Sale: Up to 50% Off AI Creative Tools",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNX0dpdGo1VUZ6M0YwWGxBaVdWd00tdFVIdXlFMDdjbHJJUXlXSUFXdFM3d09IeE9CUE16b2lFVmg2TlZZX0F6VFpfNFJXVGE1UXJrWmE3THJqLUNmVzlhZXhNZ2pKai1MeWN1Q2hWV0NvRnJVQTVpUjZmN2NCTl9aWlRQNXNkZkh3bk5WVjBodDlfdURKQUFfWDRFSWRSbGxLOFIya0VxaVdnenhCSUZrX0dfZzF5cG5ReURHMWgxem1zdkZYUmc?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "HitPaw Father’s Day Sale: Up to 50% Off AI Creative Tools",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNX0dpdGo1VUZ6M0YwWGxBaVdWd00tdFVIdXlFMDdjbHJJUXlXSUFXdFM3d09IeE9CUE16b2lFVmg2TlZZX0F6VFpfNFJXVGE1UXJrWmE3THJqLUNmVzlhZXhNZ2pKai1MeWN1Q2hWV0NvRnJVQTVpUjZmN2NCTl9aWlRQNXNkZkh3bk5WVjBodDlfdURKQUFfWDRFSWRSbGxLOFIya0VxaVdnenhCSUZrX0dfZzF5cG5ReURHMWgxem1zdkZYUmc?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "HitPaw Father’s Day Sale: Up to 50% Off AI Creative Tools",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNX0dpdGo1VUZ6M0YwWGxBaVdWd00tdFVIdXlFMDdjbHJJUXlXSUFXdFM3d09IeE9CUE16b2lFVmg2TlZZX0F6VFpfNFJXVGE1UXJrWmE3THJqLUNmVzlhZXhNZ2pKai1MeWN1Q2hWV0NvRnJVQTVpUjZmN2NCTl9aWlRQNXNkZkh3bk5WVjBodDlfdURKQUFfWDRFSWRSbGxLOFIya0VxaVdnenhCSUZrX0dfZzF5cG5ReURHMWgxem1zdkZYUmc?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "3a6982622805",
+      "slug": "hitpaw-father"
+    },
+    {
       "keyword": "tool track",
       "count": 11,
-      "score": 119.21698268872285,
+      "score": 95.37358615097827,
       "proper": true,
       "niches": [
         "software"
@@ -310,7 +377,7 @@
     {
       "keyword": "app charts",
       "count": 11,
-      "score": 119.21698268872285,
+      "score": 95.37358615097827,
       "proper": true,
       "niches": [
         "software"
@@ -336,197 +403,88 @@
       "slug": "app-charts"
     },
     {
-      "keyword": "claude desktop",
-      "count": 8,
-      "score": 104.48635023725902,
+      "keyword": "claude fable",
+      "count": 11,
+      "score": 94.68446924449114,
       "proper": true,
       "niches": [
         "ai"
       ],
       "examples": [
         {
-          "title": "Claude Desktop spawns 1.8 GB Hyper-V VM on every launch, even for chat-only use",
-          "url": "https://github.com/anthropics/claude-code/issues/29045",
+          "title": "Anthropic apologizes for invisible Claude Fable guardrails",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
           "source": "hackernews"
         },
         {
-          "title": "Claude Desktop spawns 1.8 GB Hyper-V VM on every launch, even for chat-only use",
-          "url": "https://github.com/anthropics/claude-code/issues/29045",
-          "source": "hackernews"
-        }
-      ],
-      "id": "abc5ac745d33",
-      "slug": "claude-desktop"
-    },
-    {
-      "keyword": "apple",
-      "count": 15,
-      "score": 100.71073672399136,
-      "proper": true,
-      "niches": [
-        "ai",
-        "software"
-      ],
-      "examples": [
-        {
-          "title": "SkyBlue997/enableMacosAI — 国行 Mac 一键开启完整 Apple 智能(端侧 + Private Cloud Compute 云端)· macOS 27 / Apple Silicon",
-          "url": "https://github.com/SkyBlue997/enableMacosAI",
-          "source": "github"
-        },
-        {
-          "title": "superagents-lab/xcode27-skills — Apple's official Agent Skills exported from Xcode 27 — SwiftUI, UIKit modernization, Swift Testing, C bounds-safety, and security hardening for AI coding agents.",
-          "url": "https://github.com/superagents-lab/xcode27-skills",
-          "source": "github"
-        },
-        {
-          "title": "Apple unveils iPadOS 27 with new Siri, productivity upgrades, more",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWUdqdFdJcmNpdDIxdUVrUEV1Z1lscTZ5WmZVakgtYUY4QmxNaEVmRzk1Q1BBLWMwakR6N21kZHV2OGNIZWJHaWVIQXZBc1lVam5mSVYxVTJlemJoYWJrVm0wTTlvVkVGZmo1SUU0YzV3Z0dNQnQzdjQ1MFFPajFpdENNRWpvTV9kLUhNZW5IR3RxVTVqU0J3T3RaZ1pickJ0QjY0?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "3a7bd3e2360a",
-      "slug": "apple"
-    },
-    {
-      "keyword": "claude code",
-      "count": 27,
-      "score": 99.49457420189242,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "valkor-ai/loom — An open delivery harness that turns Claude Code, Codex, OpenCode, and other coding agents into repeatable software delivery systems.",
-          "url": "https://github.com/valkor-ai/loom",
-          "source": "github"
-        },
-        {
-          "title": "valkor-ai/loom — An open delivery harness that turns Claude Code, Codex, OpenCode, and other coding agents into repeatable software delivery systems.",
-          "url": "https://github.com/valkor-ai/loom",
-          "source": "github"
-        },
-        {
-          "title": "Skill, MCP, Plugin, or just a CLI: how I pick a Claude Code extension, lightest first",
-          "url": "https://dev.to/rapls/skill-mcp-plugin-or-just-a-cli-how-i-pick-a-claude-code-extension-lightest-first-3hon",
-          "source": "devto"
-        },
-        {
-          "title": "Skill, MCP, Plugin, or just a CLI: how I pick a Claude Code extension, lightest first",
-          "url": "https://dev.to/rapls/skill-mcp-plugin-or-just-a-cli-how-i-pick-a-claude-code-extension-lightest-first-3hon",
-          "source": "devto"
-        },
-        {
-          "title": "Claude Code is the best AI coding tool I've used, and I’m not entirely sure if I can recommend it",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMnJUQnpneEtHMEJFZzZ0V0djN24zOVQyM3hpT09WYm5sUXBRVEo0QkFCZG50Q3RMMUtuczFwYk9aMEYxSFpBMVkxNDhrRmpOTUNJWE9teEVsR3JDYW9YMktENFYxQlBjTC1lM2hfYTJ3WkI4c0tyMTh3X0UzSWUwVUFMRlQtSjhIcnRuTTVYUW9OeXFVbUtHYmt3?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "a625159d18da",
-      "slug": "claude-code"
-    },
-    {
-      "keyword": "apache burr",
-      "count": 8,
-      "score": 91.21913448494485,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "Apache Burr: Build reliable AI agents and applications",
-          "url": "https://burr.apache.org/",
+          "title": "Anthropic apologizes for invisible Claude Fable guardrails",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
           "source": "hackernews"
         },
         {
-          "title": "Apache Burr: Build reliable AI agents and applications",
-          "url": "https://burr.apache.org/",
-          "source": "hackernews"
-        }
-      ],
-      "id": "691fdc9afb6a",
-      "slug": "apache-burr"
-    },
-    {
-      "keyword": "shioaji pro",
-      "count": 8,
-      "score": 81.04547054563655,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "Sinotrade/shioaji-pro-app — Shioaji Pro — professional trading terminal for Taiwan markets (TWSE/TPEX/TAIFEX) built on the Shioaji HTTP API: real-time SSE quotes, candlestick charts with click-to-trad",
-          "url": "https://github.com/Sinotrade/shioaji-pro-app",
-          "source": "github"
-        },
-        {
-          "title": "Sinotrade/shioaji-pro-app — Shioaji Pro — professional trading terminal for Taiwan markets (TWSE/TPEX/TAIFEX) built on the Shioaji HTTP API: real-time SSE quotes, candlestick charts with click-to-trad",
-          "url": "https://github.com/Sinotrade/shioaji-pro-app",
-          "source": "github"
-        }
-      ],
-      "id": "a2c35e401064",
-      "slug": "shioaji-pro"
-    },
-    {
-      "keyword": "tools",
-      "count": 10,
-      "score": 81.04106337963242,
-      "proper": true,
-      "niches": [
-        "software"
-      ],
-      "examples": [
-        {
-          "title": "HunterPrivateBend/KMS-Tools-Portable-2026 — ⭐️ KMS Tools Portable Latest Edition with built-in keygen and activator. Lightweight pre-activated suite for instant Windows 10/11 activation. No installati",
-          "url": "https://github.com/HunterPrivateBend/KMS-Tools-Portable-2026",
-          "source": "github"
-        },
-        {
-          "title": "Test-case Reducers Are Underappreciated Debugging Tools",
-          "url": "https://tratt.net/laurie/blog/2026/test_case_reducers_are_underappreciated_debugging_tools.html",
+          "title": "If Claude Fable stops helping you, you'll never know",
+          "url": "https://jonready.com/blog/posts/claude-fable5-is-allowed-to-sabotage-your-app-if-youre-a-competitor.html",
           "source": "lobsters"
         }
       ],
-      "id": "f9d35d43770d",
-      "slug": "tools"
+      "id": "ced86039c0ad",
+      "slug": "claude-fable"
     },
     {
-      "keyword": "apple silicon",
+      "keyword": "super buttons",
       "count": 11,
-      "score": 69.68362355762368,
+      "score": 74.51061418045177,
       "proper": true,
       "niches": [
-        "ai",
-        "software"
+        "gear"
       ],
       "examples": [
         {
-          "title": "SkyBlue997/enableMacosAI — 国行 Mac 一键开启完整 Apple 智能(端侧 + Private Cloud Compute 云端)· macOS 27 / Apple Silicon",
-          "url": "https://github.com/SkyBlue997/enableMacosAI",
-          "source": "github"
+          "title": "8BitDo’s Mecha BREAK Retro 87 TKL mechanical keyboard with Super Buttons is down to just $56",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYVc2bzNmWEdyREduV3dIay1jVWlkM3N3OHoyNXBFNElaMzQ5emtWcFdpeTZqQjFvcHJOcDZGYlBsV0s3M1lkOXppYjZSWWxqSlJRLVV6X0xHZnM3ZTVXelNsWWlhVjRCMmZ5VFNzSUFuMmlydmZoRkNScW9xTGh6OHpmbnlBRjdOWWp0RXU2MHllaGdGaDMwd0hmWGdYdWRwU09n?oc=5",
+          "source": "gnews"
         },
         {
-          "title": "SkyBlue997/enableMacosAI — 国行 Mac 一键开启完整 Apple 智能(端侧 + Private Cloud Compute 云端)· macOS 27 / Apple Silicon",
-          "url": "https://github.com/SkyBlue997/enableMacosAI",
-          "source": "github"
+          "title": "8BitDo’s Mecha BREAK Retro 87 TKL mechanical keyboard with Super Buttons is down to just $56",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYVc2bzNmWEdyREduV3dIay1jVWlkM3N3OHoyNXBFNElaMzQ5emtWcFdpeTZqQjFvcHJOcDZGYlBsV0s3M1lkOXppYjZSWWxqSlJRLVV6X0xHZnM3ZTVXelNsWWlhVjRCMmZ5VFNzSUFuMmlydmZoRkNScW9xTGh6OHpmbnlBRjdOWWp0RXU2MHllaGdGaDMwd0hmWGdYdWRwU09n?oc=5",
+          "source": "gnews"
         },
         {
-          "title": "mtplx 1.0.1",
-          "url": "https://pypi.org/project/mtplx/1.0.1/",
-          "source": "pypi"
+          "title": "8BitDo’s Mecha BREAK Retro 87 TKL mechanical keyboard with Super Buttons is down to just $56",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYVc2bzNmWEdyREduV3dIay1jVWlkM3N3OHoyNXBFNElaMzQ5emtWcFdpeTZqQjFvcHJOcDZGYlBsV0s3M1lkOXppYjZSWWxqSlJRLVV6X0xHZnM3ZTVXelNsWWlhVjRCMmZ5VFNzSUFuMmlydmZoRkNScW9xTGh6OHpmbnlBRjdOWWp0RXU2MHllaGdGaDMwd0hmWGdYdWRwU09n?oc=5",
+          "source": "gnews"
         }
       ],
-      "id": "e5653a7fb79e",
-      "slug": "apple-silicon"
+      "id": "1a85c06a0a92",
+      "slug": "super-buttons"
+    },
+    {
+      "keyword": "trump phone",
+      "count": 8,
+      "score": 73.49045193153472,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "First NBC News spotted the resemblance. Then they brought the Trump Phone to our San Luis Obispo office so we could get past the gold paint.CT scans and a full teardown confirmed it: the T1 is nearly ",
+          "url": "https://mastodon.social/@iFixit/116732355291794376",
+          "source": "mastodon"
+        },
+        {
+          "title": "First NBC News spotted the resemblance. Then they brought the Trump Phone to our San Luis Obispo office so we could get past the gold paint.CT scans and a full teardown confirmed it: the T1 is nearly ",
+          "url": "https://mastodon.social/@iFixit/116732355291794376",
+          "source": "mastodon"
+        }
+      ],
+      "id": "35ad24c3f274",
+      "slug": "trump-phone"
     },
     {
       "keyword": "stop pretending",
       "count": 8,
-      "score": 65.52062063049377,
+      "score": 67.18347563425189,
       "proper": true,
       "niches": [
         "ai"
@@ -547,141 +505,238 @@
       "slug": "stop-pretending"
     },
     {
-      "keyword": "gb hyper",
-      "count": 5,
-      "score": 65.3039688982869,
+      "keyword": "shioaji pro",
+      "count": 8,
+      "score": 64.55662499415354,
       "proper": true,
       "niches": [
         "ai"
       ],
       "examples": [
         {
-          "title": "Claude Desktop spawns 1.8 GB Hyper-V VM on every launch, even for chat-only use",
-          "url": "https://github.com/anthropics/claude-code/issues/29045",
-          "source": "hackernews"
+          "title": "Sinotrade/shioaji-pro-app — Shioaji Pro — professional trading terminal for Taiwan markets (TWSE/TPEX/TAIFEX) built on the Shioaji HTTP API: real-time SSE quotes, candlestick charts with click-to-trad",
+          "url": "https://github.com/Sinotrade/shioaji-pro-app",
+          "source": "github"
+        },
+        {
+          "title": "Sinotrade/shioaji-pro-app — Shioaji Pro — professional trading terminal for Taiwan markets (TWSE/TPEX/TAIFEX) built on the Shioaji HTTP API: real-time SSE quotes, candlestick charts with click-to-trad",
+          "url": "https://github.com/Sinotrade/shioaji-pro-app",
+          "source": "github"
         }
       ],
-      "id": "342aab9d35d5",
-      "slug": "gb-hyper"
+      "id": "a2c35e401064",
+      "slug": "shioaji-pro"
     },
     {
-      "keyword": "mechanical keyboard",
-      "count": 17,
-      "score": 63.40175897536622,
-      "proper": true,
-      "niches": [
-        "gear"
-      ],
-      "examples": [
-        {
-          "title": "8BitDo’s NES-style Mechanical Keyboard with Super Buttons and Joystick is down to $70 today",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSFpyMWlGQmVlaVpiV1ZlbVEzamdPV0pmWTJvbzBPVFU3a1JjUzNCM25jRHRTY3d5MUZKa2VKLUF5YUtkakVXa0lzM0NZeS0tYlRSSzd4X0t5c2VTOFJVV3JOaEk3Q1JBWkJVdVFiVTB3bTd2ZU9FUU1pNEZIc2taZk9TbDJ6RWg2OHc?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "8BitDo’s NES-style Mechanical Keyboard with Super Buttons and Joystick is down to $70 today",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSFpyMWlGQmVlaVpiV1ZlbVEzamdPV0pmWTJvbzBPVFU3a1JjUzNCM25jRHRTY3d5MUZKa2VKLUF5YUtkakVXa0lzM0NZeS0tYlRSSzd4X0t5c2VTOFJVV3JOaEk3Q1JBWkJVdVFiVTB3bTd2ZU9FUU1pNEZIc2taZk9TbDJ6RWg2OHc?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "8BitDo’s NES-style Mechanical Keyboard with Super Buttons and Joystick is down to $70 today",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSFpyMWlGQmVlaVpiV1ZlbVEzamdPV0pmWTJvbzBPVFU3a1JjUzNCM25jRHRTY3d5MUZKa2VKLUF5YUtkakVXa0lzM0NZeS0tYlRSSzd4X0t5c2VTOFJVV3JOaEk3Q1JBWkJVdVFiVTB3bTd2ZU9FUU1pNEZIc2taZk9TbDJ6RWg2OHc?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Epomaker RT98 Mechanical Keyboard Review",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNb3hKTVB4bGw0SlhyN2lzQ2NxN05raFBNZlhFTHJFalBDMmxYZV91Qnphd0ZLZHdNdTBYRlRON1pCRXF0clJOcERGUDZnTDdLREZINll1OXFieFVHWThfRWI2Tm5neFFST2F6SklpdE5mU1pIU2ZQOVpMcGFNQWloWEJYSkc?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Epomaker RT98 Mechanical Keyboard Review",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNb3hKTVB4bGw0SlhyN2lzQ2NxN05raFBNZlhFTHJFalBDMmxYZV91Qnphd0ZLZHdNdTBYRlRON1pCRXF0clJOcERGUDZnTDdLREZINll1OXFieFVHWThfRWI2Tm5neFFST2F6SklpdE5mU1pIU2ZQOVpMcGFNQWloWEJYSkc?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "e31f9fac7533",
-      "slug": "mechanical-keyboard"
-    },
-    {
-      "keyword": "agent",
+      "keyword": "apple",
       "count": 10,
-      "score": 60.38175054446657,
+      "score": 63.562109659314295,
+      "proper": true,
+      "niches": [
+        "ai",
+        "software"
+      ],
+      "examples": [
+        {
+          "title": "SkyBlue997/enableMacosAI — 国行 Mac 一键开启完整 Apple 智能(端侧 + Private Cloud Compute 云端)· macOS 27 / Apple Silicon",
+          "url": "https://github.com/SkyBlue997/enableMacosAI",
+          "source": "github"
+        },
+        {
+          "title": "Apple unveils iPadOS 27 with new Siri, productivity upgrades, more",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWUdqdFdJcmNpdDIxdUVrUEV1Z1lscTZ5WmZVakgtYUY4QmxNaEVmRzk1Q1BBLWMwakR6N21kZHV2OGNIZWJHaWVIQXZBc1lVam5mSVYxVTJlemJoYWJrVm0wTTlvVkVGZmo1SUU0YzV3Z0dNQnQzdjQ1MFFPajFpdENNRWpvTV9kLUhNZW5IR3RxVTVqU0J3T3RaZ1pickJ0QjY0?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "3a7bd3e2360a",
+      "slug": "apple"
+    },
+    {
+      "keyword": "apple silicon",
+      "count": 8,
+      "score": 59.43153613799205,
       "proper": true,
       "niches": [
         "ai"
       ],
       "examples": [
         {
-          "title": "AI agent runs amok in Fedora and elsewhere",
-          "url": "https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/",
-          "source": "hackernews"
-        },
-        {
-          "title": "superagents-lab/xcode27-skills — Apple's official Agent Skills exported from Xcode 27 — SwiftUI, UIKit modernization, Swift Testing, C bounds-safety, and security hardening for AI coding agents.",
-          "url": "https://github.com/superagents-lab/xcode27-skills",
+          "title": "SkyBlue997/enableMacosAI — 国行 Mac 一键开启完整 Apple 智能(端侧 + Private Cloud Compute 云端)· macOS 27 / Apple Silicon",
+          "url": "https://github.com/SkyBlue997/enableMacosAI",
           "source": "github"
         },
         {
-          "title": "plannotator/effective-html — Agent skill for elegant and simple html plans, architecture diagrams, or whatever else you can think of.",
-          "url": "https://github.com/plannotator/effective-html",
+          "title": "SkyBlue997/enableMacosAI — 国行 Mac 一键开启完整 Apple 智能(端侧 + Private Cloud Compute 云端)· macOS 27 / Apple Silicon",
+          "url": "https://github.com/SkyBlue997/enableMacosAI",
           "source": "github"
-        },
-        {
-          "title": "plannotator/effective-html — Agent skill for elegant and simple html plans, architecture diagrams, or whatever else you can think of.",
-          "url": "https://github.com/plannotator/effective-html",
-          "source": "github"
-        },
-        {
-          "title": "ai-skill-audit 0.10.1",
-          "url": "https://pypi.org/project/ai-skill-audit/0.10.1/",
-          "source": "pypi"
         }
       ],
-      "id": "d4f0bc5a29de",
-      "slug": "agent"
+      "id": "e5653a7fb79e",
+      "slug": "apple-silicon"
     },
     {
-      "keyword": "nextgenapps",
+      "keyword": "samsung electronics officially approves",
       "count": 5,
-      "score": 60.181751572104005,
+      "score": 54.18953758578313,
       "proper": true,
       "niches": [
         "ai"
       ],
       "examples": [
         {
-          "title": "AI-NextGenApps/AI-IMG-VID-App — The AI tool people use when they want spicy content that genuinely looks real. Easy to use, fast to generate, and trusted by millions worldwide. Start today with free c",
-          "url": "https://github.com/AI-NextGenApps/AI-IMG-VID-App",
-          "source": "github"
+          "title": "Samsung Electronics Officially Approves Use of External Generative AI Tools Including ChatGPT and Claude Starting the 12nd",
+          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQbTNkcng3NmY0eDZpQ2RPZGFqTXc1dTJ4RkpnYlBWZmJTUWxheTlzU09kc2lWUHEyR1F3Zmdod0kxaGR4NURBeGZhS0d2VWZaWi1oQmxlQjVsZEpXWllCdlVvemhmTklOdzJ3T0kzTTE2Qnk5c3lwREVPc202dHNpSWVCZGMtdzRrWmhmNHRxQmg3MXVmcVpHZnJ4ZEVGWnRHYmpkUkJxeFIwQkdibWExUEJMMjNBdm1Yc2ozemF6WlFyMlFqdFlqUzdPVTRhYkVQbmR4SVBya3J4NkVSSzNiNXBuenhzNm9DUHgzX1A5bi1ZWGNFZGJaeQ?oc=5",
+          "source": "gnews"
         }
       ],
-      "id": "940a284c7c6e",
-      "slug": "nextgenapps"
+      "id": "55cd6ba9c965",
+      "slug": "samsung-electronics-officially-approves"
     },
     {
-      "keyword": "extend ui",
+      "keyword": "ai tools including chatgpt",
       "count": 5,
-      "score": 59.30609850227309,
+      "score": 54.18953758578313,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "Samsung Electronics Officially Approves Use of External Generative AI Tools Including ChatGPT and Claude Starting the 12nd",
+          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQbTNkcng3NmY0eDZpQ2RPZGFqTXc1dTJ4RkpnYlBWZmJTUWxheTlzU09kc2lWUHEyR1F3Zmdod0kxaGR4NURBeGZhS0d2VWZaWi1oQmxlQjVsZEpXWllCdlVvemhmTklOdzJ3T0kzTTE2Qnk5c3lwREVPc202dHNpSWVCZGMtdzRrWmhmNHRxQmg3MXVmcVpHZnJ4ZEVGWnRHYmpkUkJxeFIwQkdibWExUEJMMjNBdm1Yc2ozemF6WlFyMlFqdFlqUzdPVTRhYkVQbmR4SVBya3J4NkVSSzNiNXBuenhzNm9DUHgzX1A5bi1ZWGNFZGJaeQ?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "726b2e8541d0",
+      "slug": "ai-tools-including-chatgpt"
+    },
+    {
+      "keyword": "api key",
+      "count": 11,
+      "score": 53.12450985309856,
       "proper": true,
       "niches": [
         "software"
       ],
       "examples": [
         {
-          "title": "Show HN: Extend UI – open-source UI kit for modern document apps",
-          "url": "https://www.extend.ai/ui",
+          "title": "Show HN: Open-source API Key server written in Go by Ory",
+          "url": "https://github.com/ory/talos/tree/master",
           "source": "hackernews"
+        },
+        {
+          "title": "Show HN: Open-source API Key server written in Go by Ory",
+          "url": "https://github.com/ory/talos/tree/master",
+          "source": "hackernews"
+        },
+        {
+          "title": "novomd 1.2.1",
+          "url": "https://pypi.org/project/novomd/1.2.1/",
+          "source": "pypi"
         }
       ],
-      "id": "8918ee0d445a",
-      "slug": "extend-ui"
+      "id": "87b8d6a0f00d",
+      "slug": "api-key"
+    },
+    {
+      "keyword": "off ai creative tools",
+      "count": 5,
+      "score": 50.318856329655745,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "HitPaw Father’s Day Sale: Up to 50% Off AI Creative Tools",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNX0dpdGo1VUZ6M0YwWGxBaVdWd00tdFVIdXlFMDdjbHJJUXlXSUFXdFM3d09IeE9CUE16b2lFVmg2TlZZX0F6VFpfNFJXVGE1UXJrWmE3THJqLUNmVzlhZXhNZ2pKai1MeWN1Q2hWV0NvRnJVQTVpUjZmN2NCTl9aWlRQNXNkZkh3bk5WVjBodDlfdURKQUFfWDRFSWRSbGxLOFIya0VxaVdnenhCSUZrX0dfZzF5cG5ReURHMWgxem1zdkZYUmc?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "c1d89f5d7029",
+      "slug": "off-ai-creative-tools"
     }
   ],
   "opportunities": [
     {
+      "keyword": "passive income",
+      "count": 54,
+      "score": 216.60816144445755,
+      "proper": true,
+      "niches": [
+        "finance",
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "VOO’s Yield Is Just 1%. These 2 High-Yield JPMorgan ETFs Offer 8%-10% in Passive Income",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdHpUbVFaWjFCSEVfbzZvQV9ma0tQWlFCUXJ2dnJXWnBHZ2RJcEdjckhPazRfemRNRzVnNFp2OWt5Mm1Rb3BRbmdsakhyOFZDZWY0WGpoM0VxNF9XcE00VERMMWZLcncyN3NoM1lROW5RekJxWnBONjJsQjRqQk81eFQ5V0ZGX0pVWVJsdmhKdlhvdVFWQVdZS1JFRlJOT0FsRWpXaXRUbE5oN0JwcGFmUnBzOXMxV1E?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "VOO’s Yield Is Just 1%. These 2 High-Yield JPMorgan ETFs Offer 8%-10% in Passive Income",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdHpUbVFaWjFCSEVfbzZvQV9ma0tQWlFCUXJ2dnJXWnBHZ2RJcEdjckhPazRfemRNRzVnNFp2OWt5Mm1Rb3BRbmdsakhyOFZDZWY0WGpoM0VxNF9XcE00VERMMWZLcncyN3NoM1lROW5RekJxWnBONjJsQjRqQk81eFQ5V0ZGX0pVWVJsdmhKdlhvdVFWQVdZS1JFRlJOT0FsRWpXaXRUbE5oN0JwcGFmUnBzOXMxV1E?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "I Asked ChatGPT How Retirees Can Generate $2K Monthly in Passive Income in 2026: Here’s What It Recommended",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPT0tlSHVabEdfcEJ4M1d3Q1ROYjZXdWZOWkUtS1VvNE9VMUdST2pxamxvNktJLWM5UEdBSXBJZTlHdlM4XzJuYUM1NEY2bHpIOGl6bUdMUzN4NU03MWhjdHpDU1JFZHA3RWloMXAwMnNfdmFvSDlENC1QVjRYOXJLTWRnMTcxWXctUUJSZk0xcWRyYkllWG0xdHBuUi1taW9qT1E?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "I Asked ChatGPT How Retirees Can Generate $2K Monthly in Passive Income in 2026: Here’s What It Recommended",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPT0tlSHVabEdfcEJ4M1d3Q1ROYjZXdWZOWkUtS1VvNE9VMUdST2pxamxvNktJLWM5UEdBSXBJZTlHdlM4XzJuYUM1NEY2bHpIOGl6bUdMUzN4NU03MWhjdHpDU1JFZHA3RWloMXAwMnNfdmFvSDlENC1QVjRYOXJLTWRnMTcxWXctUUJSZk0xcWRyYkllWG0xdHBuUi1taW9qT1E?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "I Asked ChatGPT How Retirees Can Generate $2K Monthly in Passive Income in 2026: Here’s What It Recommended",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPT0tlSHVabEdfcEJ4M1d3Q1ROYjZXdWZOWkUtS1VvNE9VMUdST2pxamxvNktJLWM5UEdBSXBJZTlHdlM4XzJuYUM1NEY2bHpIOGl6bUdMUzN4NU03MWhjdHpDU1JFZHA3RWloMXAwMnNfdmFvSDlENC1QVjRYOXJLTWRnMTcxWXctUUJSZk0xcWRyYkllWG0xdHBuUi1taW9qT1E?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "cf2dbbbf8c8c",
+      "slug": "passive-income",
+      "opportunity": {
+        "type": "niche-content",
+        "recommended": "Publish niche guide for \"finance\"; bundle into digital product later."
+      }
+    },
+    {
+      "keyword": "hitpaw father",
+      "count": 11,
+      "score": 110.70148392524266,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "HitPaw Father’s Day Sale: Up to 50% Off AI Creative Tools",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNX0dpdGo1VUZ6M0YwWGxBaVdWd00tdFVIdXlFMDdjbHJJUXlXSUFXdFM3d09IeE9CUE16b2lFVmg2TlZZX0F6VFpfNFJXVGE1UXJrWmE3THJqLUNmVzlhZXhNZ2pKai1MeWN1Q2hWV0NvRnJVQTVpUjZmN2NCTl9aWlRQNXNkZkh3bk5WVjBodDlfdURKQUFfWDRFSWRSbGxLOFIya0VxaVdnenhCSUZrX0dfZzF5cG5ReURHMWgxem1zdkZYUmc?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "HitPaw Father’s Day Sale: Up to 50% Off AI Creative Tools",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNX0dpdGo1VUZ6M0YwWGxBaVdWd00tdFVIdXlFMDdjbHJJUXlXSUFXdFM3d09IeE9CUE16b2lFVmg2TlZZX0F6VFpfNFJXVGE1UXJrWmE3THJqLUNmVzlhZXhNZ2pKai1MeWN1Q2hWV0NvRnJVQTVpUjZmN2NCTl9aWlRQNXNkZkh3bk5WVjBodDlfdURKQUFfWDRFSWRSbGxLOFIya0VxaVdnenhCSUZrX0dfZzF5cG5ReURHMWgxem1zdkZYUmc?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "HitPaw Father’s Day Sale: Up to 50% Off AI Creative Tools",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNX0dpdGo1VUZ6M0YwWGxBaVdWd00tdFVIdXlFMDdjbHJJUXlXSUFXdFM3d09IeE9CUE16b2lFVmg2TlZZX0F6VFpfNFJXVGE1UXJrWmE3THJqLUNmVzlhZXhNZ2pKai1MeWN1Q2hWV0NvRnJVQTVpUjZmN2NCTl9aWlRQNXNkZkh3bk5WVjBodDlfdURKQUFfWDRFSWRSbGxLOFIya0VxaVdnenhCSUZrX0dfZzF5cG5ReURHMWgxem1zdkZYUmc?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "3a6982622805",
+      "slug": "hitpaw-father",
+      "opportunity": {
+        "type": "niche-content",
+        "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
+      }
+    },
+    {
       "keyword": "tool track",
       "count": 11,
-      "score": 119.21698268872285,
+      "score": 95.37358615097827,
       "proper": true,
       "niches": [
         "software"
@@ -713,7 +768,7 @@
     {
       "keyword": "app charts",
       "count": 11,
-      "score": 119.21698268872285,
+      "score": 95.37358615097827,
       "proper": true,
       "niches": [
         "software"
@@ -743,183 +798,118 @@
       }
     },
     {
-      "keyword": "claude desktop",
-      "count": 8,
-      "score": 104.48635023725902,
+      "keyword": "claude fable",
+      "count": 11,
+      "score": 94.68446924449114,
       "proper": true,
       "niches": [
         "ai"
       ],
       "examples": [
         {
-          "title": "Claude Desktop spawns 1.8 GB Hyper-V VM on every launch, even for chat-only use",
-          "url": "https://github.com/anthropics/claude-code/issues/29045",
+          "title": "Anthropic apologizes for invisible Claude Fable guardrails",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
           "source": "hackernews"
         },
         {
-          "title": "Claude Desktop spawns 1.8 GB Hyper-V VM on every launch, even for chat-only use",
-          "url": "https://github.com/anthropics/claude-code/issues/29045",
+          "title": "Anthropic apologizes for invisible Claude Fable guardrails",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
           "source": "hackernews"
+        },
+        {
+          "title": "If Claude Fable stops helping you, you'll never know",
+          "url": "https://jonready.com/blog/posts/claude-fable5-is-allowed-to-sabotage-your-app-if-youre-a-competitor.html",
+          "source": "lobsters"
         }
       ],
-      "id": "abc5ac745d33",
-      "slug": "claude-desktop",
-      "opportunity": {
-        "type": "affiliate",
-        "recommended": "Write SEO comparison/roundup article with affiliate links."
-      }
-    },
-    {
-      "keyword": "apple",
-      "count": 15,
-      "score": 100.71073672399136,
-      "proper": true,
-      "niches": [
-        "ai",
-        "software"
-      ],
-      "examples": [
-        {
-          "title": "SkyBlue997/enableMacosAI — 国行 Mac 一键开启完整 Apple 智能(端侧 + Private Cloud Compute 云端)· macOS 27 / Apple Silicon",
-          "url": "https://github.com/SkyBlue997/enableMacosAI",
-          "source": "github"
-        },
-        {
-          "title": "superagents-lab/xcode27-skills — Apple's official Agent Skills exported from Xcode 27 — SwiftUI, UIKit modernization, Swift Testing, C bounds-safety, and security hardening for AI coding agents.",
-          "url": "https://github.com/superagents-lab/xcode27-skills",
-          "source": "github"
-        },
-        {
-          "title": "Apple unveils iPadOS 27 with new Siri, productivity upgrades, more",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWUdqdFdJcmNpdDIxdUVrUEV1Z1lscTZ5WmZVakgtYUY4QmxNaEVmRzk1Q1BBLWMwakR6N21kZHV2OGNIZWJHaWVIQXZBc1lVam5mSVYxVTJlemJoYWJrVm0wTTlvVkVGZmo1SUU0YzV3Z0dNQnQzdjQ1MFFPajFpdENNRWpvTV9kLUhNZW5IR3RxVTVqU0J3T3RaZ1pickJ0QjY0?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "3a7bd3e2360a",
-      "slug": "apple",
-      "opportunity": {
-        "type": "affiliate",
-        "recommended": "Write SEO comparison/roundup article with affiliate links."
-      }
-    },
-    {
-      "keyword": "claude code",
-      "count": 27,
-      "score": 99.49457420189242,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "valkor-ai/loom — An open delivery harness that turns Claude Code, Codex, OpenCode, and other coding agents into repeatable software delivery systems.",
-          "url": "https://github.com/valkor-ai/loom",
-          "source": "github"
-        },
-        {
-          "title": "valkor-ai/loom — An open delivery harness that turns Claude Code, Codex, OpenCode, and other coding agents into repeatable software delivery systems.",
-          "url": "https://github.com/valkor-ai/loom",
-          "source": "github"
-        },
-        {
-          "title": "Skill, MCP, Plugin, or just a CLI: how I pick a Claude Code extension, lightest first",
-          "url": "https://dev.to/rapls/skill-mcp-plugin-or-just-a-cli-how-i-pick-a-claude-code-extension-lightest-first-3hon",
-          "source": "devto"
-        },
-        {
-          "title": "Skill, MCP, Plugin, or just a CLI: how I pick a Claude Code extension, lightest first",
-          "url": "https://dev.to/rapls/skill-mcp-plugin-or-just-a-cli-how-i-pick-a-claude-code-extension-lightest-first-3hon",
-          "source": "devto"
-        },
-        {
-          "title": "Claude Code is the best AI coding tool I've used, and I’m not entirely sure if I can recommend it",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMnJUQnpneEtHMEJFZzZ0V0djN24zOVQyM3hpT09WYm5sUXBRVEo0QkFCZG50Q3RMMUtuczFwYk9aMEYxSFpBMVkxNDhrRmpOTUNJWE9teEVsR3JDYW9YMktENFYxQlBjTC1lM2hfYTJ3WkI4c0tyMTh3X0UzSWUwVUFMRlQtSjhIcnRuTTVYUW9OeXFVbUtHYmt3?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "a625159d18da",
-      "slug": "claude-code",
+      "id": "ced86039c0ad",
+      "slug": "claude-fable",
       "opportunity": {
         "type": "tooling",
         "recommended": "Build / list AI tools; monetize via affiliate links + lead magnet."
       }
     },
     {
-      "keyword": "apache burr",
+      "keyword": "super buttons",
+      "count": 11,
+      "score": 74.51061418045177,
+      "proper": true,
+      "niches": [
+        "gear"
+      ],
+      "examples": [
+        {
+          "title": "8BitDo’s Mecha BREAK Retro 87 TKL mechanical keyboard with Super Buttons is down to just $56",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYVc2bzNmWEdyREduV3dIay1jVWlkM3N3OHoyNXBFNElaMzQ5emtWcFdpeTZqQjFvcHJOcDZGYlBsV0s3M1lkOXppYjZSWWxqSlJRLVV6X0xHZnM3ZTVXelNsWWlhVjRCMmZ5VFNzSUFuMmlydmZoRkNScW9xTGh6OHpmbnlBRjdOWWp0RXU2MHllaGdGaDMwd0hmWGdYdWRwU09n?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "8BitDo’s Mecha BREAK Retro 87 TKL mechanical keyboard with Super Buttons is down to just $56",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYVc2bzNmWEdyREduV3dIay1jVWlkM3N3OHoyNXBFNElaMzQ5emtWcFdpeTZqQjFvcHJOcDZGYlBsV0s3M1lkOXppYjZSWWxqSlJRLVV6X0xHZnM3ZTVXelNsWWlhVjRCMmZ5VFNzSUFuMmlydmZoRkNScW9xTGh6OHpmbnlBRjdOWWp0RXU2MHllaGdGaDMwd0hmWGdYdWRwU09n?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "8BitDo’s Mecha BREAK Retro 87 TKL mechanical keyboard with Super Buttons is down to just $56",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYVc2bzNmWEdyREduV3dIay1jVWlkM3N3OHoyNXBFNElaMzQ5emtWcFdpeTZqQjFvcHJOcDZGYlBsV0s3M1lkOXppYjZSWWxqSlJRLVV6X0xHZnM3ZTVXelNsWWlhVjRCMmZ5VFNzSUFuMmlydmZoRkNScW9xTGh6OHpmbnlBRjdOWWp0RXU2MHllaGdGaDMwd0hmWGdYdWRwU09n?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "1a85c06a0a92",
+      "slug": "super-buttons",
+      "opportunity": {
+        "type": "niche-content",
+        "recommended": "Publish niche guide for \"gear\"; bundle into digital product later."
+      }
+    },
+    {
+      "keyword": "trump phone",
       "count": 8,
-      "score": 91.21913448494485,
+      "score": 73.49045193153472,
       "proper": true,
       "niches": [
         "ai"
       ],
       "examples": [
         {
-          "title": "Apache Burr: Build reliable AI agents and applications",
-          "url": "https://burr.apache.org/",
-          "source": "hackernews"
+          "title": "First NBC News spotted the resemblance. Then they brought the Trump Phone to our San Luis Obispo office so we could get past the gold paint.CT scans and a full teardown confirmed it: the T1 is nearly ",
+          "url": "https://mastodon.social/@iFixit/116732355291794376",
+          "source": "mastodon"
         },
         {
-          "title": "Apache Burr: Build reliable AI agents and applications",
-          "url": "https://burr.apache.org/",
-          "source": "hackernews"
+          "title": "First NBC News spotted the resemblance. Then they brought the Trump Phone to our San Luis Obispo office so we could get past the gold paint.CT scans and a full teardown confirmed it: the T1 is nearly ",
+          "url": "https://mastodon.social/@iFixit/116732355291794376",
+          "source": "mastodon"
         }
       ],
-      "id": "691fdc9afb6a",
-      "slug": "apache-burr",
+      "id": "35ad24c3f274",
+      "slug": "trump-phone",
       "opportunity": {
         "type": "niche-content",
         "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
       }
     },
     {
-      "keyword": "shioaji pro",
+      "keyword": "stop pretending",
       "count": 8,
-      "score": 81.04547054563655,
+      "score": 67.18347563425189,
       "proper": true,
       "niches": [
         "ai"
       ],
       "examples": [
         {
-          "title": "Sinotrade/shioaji-pro-app — Shioaji Pro — professional trading terminal for Taiwan markets (TWSE/TPEX/TAIFEX) built on the Shioaji HTTP API: real-time SSE quotes, candlestick charts with click-to-trad",
-          "url": "https://github.com/Sinotrade/shioaji-pro-app",
-          "source": "github"
+          "title": "The 'Prompt' Is Not a Skill — And We Need to Stop Pretending",
+          "url": "https://dev.to/harsh2644/the-prompt-is-not-a-skill-and-we-need-to-stop-pretending-3m18",
+          "source": "devto"
         },
         {
-          "title": "Sinotrade/shioaji-pro-app — Shioaji Pro — professional trading terminal for Taiwan markets (TWSE/TPEX/TAIFEX) built on the Shioaji HTTP API: real-time SSE quotes, candlestick charts with click-to-trad",
-          "url": "https://github.com/Sinotrade/shioaji-pro-app",
-          "source": "github"
+          "title": "The 'Prompt' Is Not a Skill — And We Need to Stop Pretending",
+          "url": "https://dev.to/harsh2644/the-prompt-is-not-a-skill-and-we-need-to-stop-pretending-3m18",
+          "source": "devto"
         }
       ],
-      "id": "a2c35e401064",
-      "slug": "shioaji-pro",
-      "opportunity": {
-        "type": "affiliate",
-        "recommended": "Write SEO comparison/roundup article with affiliate links."
-      }
-    },
-    {
-      "keyword": "tools",
-      "count": 10,
-      "score": 81.04106337963242,
-      "proper": true,
-      "niches": [
-        "software"
-      ],
-      "examples": [
-        {
-          "title": "HunterPrivateBend/KMS-Tools-Portable-2026 — ⭐️ KMS Tools Portable Latest Edition with built-in keygen and activator. Lightweight pre-activated suite for instant Windows 10/11 activation. No installati",
-          "url": "https://github.com/HunterPrivateBend/KMS-Tools-Portable-2026",
-          "source": "github"
-        },
-        {
-          "title": "Test-case Reducers Are Underappreciated Debugging Tools",
-          "url": "https://tratt.net/laurie/blog/2026/test_case_reducers_are_underappreciated_debugging_tools.html",
-          "source": "lobsters"
-        }
-      ],
-      "id": "f9d35d43770d",
-      "slug": "tools",
+      "id": "774ea7964f43",
+      "slug": "stop-pretending",
       "opportunity": {
         "type": "affiliate",
         "recommended": "Write SEO comparison/roundup article with affiliate links."

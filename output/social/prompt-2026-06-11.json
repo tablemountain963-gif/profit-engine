@@ -1,0 +1,26 @@
+{
+  "topic": "Prompt",
+  "provider": "groq",
+  "generatedAt": "2026-06-11T16:54:57.254Z",
+  "pack": {
+    "twitter_thread": [
+      "I've seen 85% of AI projects fail due to poorly designed prompts, with an average loss of $120k.",
+      "Use the PAC framework to craft better prompts: Precise (e.g., 'extract 3 key points'), Accurate, and Concise.",
+      "Ditch vague terms like 'summarize' and use specific verbs like 'extract 2 bullet points' or 'compare to existing data'.",
+      "Test your prompts with 100-sample datasets to refine them before scaling up to 10,000+.",
+      "Loop engineering can optimize prompt design, but requires 3-5 iterations of refinement.",
+      "What's the most effective prompt design technique you've used in your AI projects? #ai #promptdesign",
+      "Validate your prompts with human evaluators to ensure 95%+ accuracy."
+    ],
+    "linkedin": "I've witnessed 85% of AI projects fail due to poorly designed prompts, resulting in an average loss of $120k. To improve prompt design, use the PAC framework: Precise, Accurate, and Concise. For example, use 'extract 3 key points' instead of 'summarize'. Test your prompts with 100-sample datasets and refine them through 3-5 iterations of loop engineering. What strategies have you used to design effective prompts in your AI projects?",
+    "tiktok_hooks": [
+      "AI prompts are costing you $120k per failed project",
+      "Fix your prompts and boost AI accuracy by 30%",
+      "Bad prompts are holding you back from AI success"
+    ],
+    "reddit_headline": "Are poorly designed prompts responsible for 85% of AI project failures?"
+  },
+  "niche": "ai",
+  "slug": "prompt-2026-06-11",
+  "date": "2026-06-11"
+}
