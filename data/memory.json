@@ -24,22 +24,6 @@
       "losses": 0,
       "niche": "ai"
     },
-    "duckduckgo": {
-      "firstSeen": "2026-05-28T04:01:58.337Z",
-      "lastSeen": "2026-05-28T04:01:58.337Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "ai"
-    },
-    "tech-ceos": {
-      "firstSeen": "2026-05-28T04:01:58.384Z",
-      "lastSeen": "2026-05-28T04:01:58.384Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "ai"
-    },
     "claude": {
       "firstSeen": "2026-05-28T04:02:03.327Z",
       "lastSeen": "2026-06-03T17:59:54.580Z",
@@ -53,14 +37,6 @@
       "lastSeen": "2026-05-28T07:48:44.982Z",
       "count": 2,
       "wins": 1,
-      "losses": 0,
-      "niche": "ai"
-    },
-    "open": {
-      "firstSeen": "2026-05-28T04:07:55.914Z",
-      "lastSeen": "2026-05-28T04:07:55.914Z",
-      "count": 1,
-      "wins": 0,
       "losses": 0,
       "niche": "ai"
     },
@@ -106,8 +82,8 @@
     },
     "kitchen-gadgets": {
       "firstSeen": "2026-05-28T13:16:58.330Z",
-      "lastSeen": "2026-06-06T04:53:09.773Z",
-      "count": 3,
+      "lastSeen": "2026-06-11T05:26:32.222Z",
+      "count": 4,
       "wins": 1,
       "losses": 0,
       "niche": "gear"
@@ -1978,10 +1954,10 @@
     },
     "tank-man": {
       "firstSeen": "2026-06-06T04:51:49.101Z",
-      "lastSeen": "2026-06-06T04:51:49.101Z",
-      "count": 1,
+      "lastSeen": "2026-06-11T05:26:01.736Z",
+      "count": 2,
       "wins": 0,
-      "losses": 0,
+      "losses": 1,
       "niche": "software"
     },
     "tienanmen-square": {
@@ -2842,25 +2818,25 @@
     },
     "gb-hyper": {
       "firstSeen": "2026-06-10T22:45:26.757Z",
-      "lastSeen": "2026-06-10T22:45:26.757Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-11T05:26:01.737Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
     "beacon-software": {
       "firstSeen": "2026-06-10T22:45:29.292Z",
-      "lastSeen": "2026-06-10T22:45:29.292Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-11T05:26:01.739Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
     "constellation-software": {
       "firstSeen": "2026-06-10T22:45:32.530Z",
-      "lastSeen": "2026-06-10T22:45:32.530Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-11T05:26:01.740Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -2879,12 +2855,44 @@
       "wins": 0,
       "losses": 0,
       "niche": "software"
+    },
+    "tool-track": {
+      "firstSeen": "2026-06-11T05:26:06.454Z",
+      "lastSeen": "2026-06-11T05:26:06.454Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "software"
+    },
+    "app-charts": {
+      "firstSeen": "2026-06-11T05:26:09.650Z",
+      "lastSeen": "2026-06-11T05:26:09.650Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "software"
+    },
+    "shioaji-pro": {
+      "firstSeen": "2026-06-11T05:26:12.639Z",
+      "lastSeen": "2026-06-11T05:26:12.639Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "apple-silicon": {
+      "firstSeen": "2026-06-11T05:26:19.741Z",
+      "lastSeen": "2026-06-11T05:26:19.741Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
     }
   },
   "niches": {
     "ai": {
-      "count": 430,
-      "wins": 126,
+      "count": 435,
+      "wins": 129,
       "losses": 13
     },
     "finance": {
@@ -2893,9 +2901,9 @@
       "losses": 0
     },
     "software": {
-      "count": 91,
+      "count": 95,
       "wins": 24,
-      "losses": 5
+      "losses": 6
     },
     "gear": {
       "count": 29,
