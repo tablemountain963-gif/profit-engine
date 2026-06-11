@@ -144,30 +144,6 @@
       "losses": 0,
       "niche": "gear"
     },
-    "arm-metis": {
-      "firstSeen": "2026-05-28T18:16:30.182Z",
-      "lastSeen": "2026-05-28T18:16:30.182Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "ai"
-    },
-    "dynamic-workflows": {
-      "firstSeen": "2026-05-28T18:16:34.290Z",
-      "lastSeen": "2026-05-28T18:16:34.290Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "ai"
-    },
-    "api-zero": {
-      "firstSeen": "2026-05-28T18:16:38.392Z",
-      "lastSeen": "2026-05-28T18:16:38.392Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "ai"
-    },
     "desktop": {
       "firstSeen": "2026-05-28T18:30:48.222Z",
       "lastSeen": "2026-06-08T05:29:31.076Z",
@@ -2026,10 +2002,10 @@
     },
     "diy-ai": {
       "firstSeen": "2026-06-06T16:59:33.928Z",
-      "lastSeen": "2026-06-06T16:59:33.928Z",
-      "count": 1,
+      "lastSeen": "2026-06-11T18:40:43.037Z",
+      "count": 2,
       "wins": 0,
-      "losses": 0,
+      "losses": 1,
       "niche": "ai"
     },
     "diffusion-models": {
@@ -2042,10 +2018,10 @@
     },
     "cor-anglais": {
       "firstSeen": "2026-06-06T16:59:40.251Z",
-      "lastSeen": "2026-06-06T16:59:40.251Z",
-      "count": 1,
+      "lastSeen": "2026-06-11T18:40:43.039Z",
+      "count": 2,
       "wins": 0,
-      "losses": 0,
+      "losses": 1,
       "niche": "ai"
     },
     "name-meaning": {
@@ -2858,9 +2834,9 @@
     },
     "threat-risk": {
       "firstSeen": "2026-06-11T16:53:49.920Z",
-      "lastSeen": "2026-06-11T16:53:49.920Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-11T18:40:43.040Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -2874,9 +2850,9 @@
     },
     "trump-phone": {
       "firstSeen": "2026-06-11T16:53:56.309Z",
-      "lastSeen": "2026-06-11T16:53:56.309Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-11T18:40:43.041Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -2911,13 +2887,45 @@
       "wins": 0,
       "losses": 0,
       "niche": "software"
+    },
+    "thea-wins": {
+      "firstSeen": "2026-06-11T18:40:48.870Z",
+      "lastSeen": "2026-06-11T18:40:48.870Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "prime-fitness": {
+      "firstSeen": "2026-06-11T18:40:53.886Z",
+      "lastSeen": "2026-06-11T18:40:53.886Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "software"
+    },
+    "edtech-breakthrough-awards-program": {
+      "firstSeen": "2026-06-11T18:40:57.048Z",
+      "lastSeen": "2026-06-11T18:40:57.048Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "ai-tools-including-chatgpt": {
+      "firstSeen": "2026-06-11T18:41:25.062Z",
+      "lastSeen": "2026-06-11T18:41:25.062Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
     }
   },
   "niches": {
     "ai": {
-      "count": 442,
-      "wins": 130,
-      "losses": 14
+      "count": 449,
+      "wins": 132,
+      "losses": 16
     },
     "finance": {
       "count": 32,
@@ -2925,7 +2933,7 @@
       "losses": 0
     },
     "software": {
-      "count": 98,
+      "count": 99,
       "wins": 26,
       "losses": 6
     },
