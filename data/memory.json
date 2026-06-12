@@ -26,8 +26,8 @@
     },
     "claude": {
       "firstSeen": "2026-05-28T04:02:03.327Z",
-      "lastSeen": "2026-06-03T17:59:54.580Z",
-      "count": 2,
+      "lastSeen": "2026-06-12T16:17:01.951Z",
+      "count": 3,
       "wins": 0,
       "losses": 0,
       "niche": "ai"
@@ -90,8 +90,8 @@
     },
     "dear-fedi": {
       "firstSeen": "2026-05-28T14:27:02.310Z",
-      "lastSeen": "2026-05-28T15:28:42.777Z",
-      "count": 2,
+      "lastSeen": "2026-06-12T16:16:20.032Z",
+      "count": 3,
       "wins": 1,
       "losses": 0,
       "niche": "ai"
@@ -298,9 +298,9 @@
     },
     "productivity-apps": {
       "firstSeen": "2026-05-29T16:42:02.875Z",
-      "lastSeen": "2026-06-11T22:45:18.279Z",
-      "count": 3,
-      "wins": 0,
+      "lastSeen": "2026-06-12T16:16:07.674Z",
+      "count": 4,
+      "wins": 1,
       "losses": 0,
       "niche": "software"
     },
@@ -2090,10 +2090,10 @@
     },
     "appfatigue-ipa": {
       "firstSeen": "2026-06-07T14:50:37.135Z",
-      "lastSeen": "2026-06-07T14:50:37.135Z",
-      "count": 1,
+      "lastSeen": "2026-06-12T16:16:07.671Z",
+      "count": 2,
       "wins": 0,
-      "losses": 0,
+      "losses": 1,
       "niche": "software"
     },
     "broadcom-ceo": {
@@ -2866,9 +2866,9 @@
     },
     "how-to-geek": {
       "firstSeen": "2026-06-11T22:45:21.306Z",
-      "lastSeen": "2026-06-11T22:45:21.306Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-12T16:16:07.674Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -2890,9 +2890,9 @@
     },
     "grant-writing": {
       "firstSeen": "2026-06-12T05:29:09.149Z",
-      "lastSeen": "2026-06-12T05:29:09.149Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-12T16:16:07.675Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -2959,12 +2959,68 @@
       "wins": 0,
       "losses": 0,
       "niche": "software"
+    },
+    "piccadilly-circus": {
+      "firstSeen": "2026-06-12T16:16:13.432Z",
+      "lastSeen": "2026-06-12T16:16:13.432Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "software"
+    },
+    "glorious-model": {
+      "firstSeen": "2026-06-12T16:16:16.641Z",
+      "lastSeen": "2026-06-12T16:16:16.641Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "android-studio": {
+      "firstSeen": "2026-06-12T16:16:30.399Z",
+      "lastSeen": "2026-06-12T16:16:30.399Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "software"
+    },
+    "kimi-k27": {
+      "firstSeen": "2026-06-12T16:16:37.853Z",
+      "lastSeen": "2026-06-12T16:16:37.853Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "londonkeir-starmer": {
+      "firstSeen": "2026-06-12T16:16:44.320Z",
+      "lastSeen": "2026-06-12T16:16:44.320Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "software"
+    },
+    "neo-scholars": {
+      "firstSeen": "2026-06-12T16:17:14.425Z",
+      "lastSeen": "2026-06-12T16:17:14.425Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "software-developers": {
+      "firstSeen": "2026-06-12T16:17:27.112Z",
+      "lastSeen": "2026-06-12T16:17:27.112Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
     }
   },
   "niches": {
     "ai": {
-      "count": 461,
-      "wins": 133,
+      "count": 470,
+      "wins": 136,
       "losses": 17
     },
     "finance": {
@@ -2973,9 +3029,9 @@
       "losses": 0
     },
     "software": {
-      "count": 103,
+      "count": 107,
       "wins": 27,
-      "losses": 6
+      "losses": 7
     },
     "gear": {
       "count": 31,

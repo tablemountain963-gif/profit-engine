@@ -1,82 +1,181 @@
 {
-  "generatedAt": "2026-06-12T05:29:04.709Z",
-  "sourceCount": 204,
+  "generatedAt": "2026-06-12T16:16:08.500Z",
+  "sourceCount": 205,
   "topItems": [
     {
-      "title": "Claude Fable is relentlessly proactive",
-      "url": "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/",
-      "score": 10.5,
+      "title": "Microsoft’s terms of service said Copilot was “for entertainment purposes only.” An Nvidia executive said AI is more expensive than humans. Google argued in German court that everyone knows they can’t",
+      "url": "https://beige.party/@maxleibman/116735845451184561",
+      "score": 9.62,
       "niche": "ai",
-      "source": "hackernews",
+      "source": "mastodon",
       "engagement": {
-        "score": 268,
-        "comments": 223
+        "score": 1745,
+        "comments": 55
       }
     },
     {
-      "title": "Nobody ever gets credit for fixing problems that never happened (2001) [pdf]",
-      "url": "https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf",
-      "score": 9.7,
-      "niche": "software",
+      "title": "What’s wrong with humanity?Soon there will be a ‘person’ on this planet who is  trillionaire The fact we allow this or make this possibleThat’s what’s wrong with humanity",
+      "url": "https://mstdn.social/@stux/116736974996336697",
+      "score": 9.61,
+      "niche": "ai",
+      "source": "mastodon",
+      "engagement": {
+        "score": 353,
+        "comments": 27
+      }
+    },
+    {
+      "title": "Claude Fable is relentlessly proactive",
+      "url": "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/",
+      "score": 9.57,
+      "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 272,
-        "comments": 95
+        "score": 673,
+        "comments": 551
       }
     },
     {
       "title": "shadcn/improve — Use your most capable model to audit your codebase and write plans for cheaper models to execute.",
       "url": "https://github.com/shadcn/improve",
-      "score": 9.17,
+      "score": 9.34,
       "niche": "ai",
       "source": "github",
       "engagement": {
-        "score": 1951,
+        "score": 2252,
         "comments": 6
+      }
+    },
+    {
+      "title": "McSweeney's on \"AI finances\" goes harder than most business publications.https://www.mcsweeneys.net/articles/ai-economics-for-dummies",
+      "url": "https://tldr.nettime.org/@tante/116736671610666006",
+      "score": 9.23,
+      "niche": "ai",
+      "source": "mastodon",
+      "engagement": {
+        "score": 727,
+        "comments": 18
+      }
+    },
+    {
+      "title": "KPMG issued a report citing all the transformational ways GenAI has transformed industry, it’s been widely cited. One minor problem: it turns they used AI to write the report, and it made up all of th",
+      "url": "https://cyberplace.social/@GossiTheDog/116736495067438407",
+      "score": 9.19,
+      "niche": "ai",
+      "source": "mastodon",
+      "engagement": {
+        "score": 1232,
+        "comments": 47
       }
     },
     {
       "title": "Show HN: FablePool – pool money behind a prompt, and Fable builds it in public",
       "url": "https://fablepool.com",
-      "score": 8.35,
+      "score": 8.82,
       "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 328,
-        "comments": 179
+        "score": 484,
+        "comments": 254
+      }
+    },
+    {
+      "title": "Nobody ever gets credit for fixing problems that never happened (2001) [pdf]",
+      "url": "https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf",
+      "score": 8.82,
+      "niche": "software",
+      "source": "hackernews",
+      "engagement": {
+        "score": 648,
+        "comments": 211
+      }
+    },
+    {
+      "title": "The Future of Email",
+      "url": "https://www.fastmail.com/blog/the-future-of-email/",
+      "score": 8.72,
+      "niche": "ai",
+      "source": "hackernews",
+      "engagement": {
+        "score": 164,
+        "comments": 182
+      }
+    },
+    {
+      "title": "Kimi K2.7-Code: open-source coding model with better token efficiency",
+      "url": "https://huggingface.co/moonshotai/Kimi-K2.7-Code",
+      "score": 8.71,
+      "niche": "ai",
+      "source": "hackernews",
+      "engagement": {
+        "score": 263,
+        "comments": 131
+      }
+    },
+    {
+      "title": "Ryanair dark UX patterns summer 2026 refresher",
+      "url": "https://blog.osull.com/2026/06/12/ryanair-dark-ux-patterns-summer-2026-refresher/",
+      "score": 8.6,
+      "niche": "ai",
+      "source": "hackernews",
+      "engagement": {
+        "score": 187,
+        "comments": 149
+      }
+    },
+    {
+      "title": "AI agent bankrupted their operator while trying to scan DN42",
+      "url": "https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/",
+      "score": 8.49,
+      "niche": "ai",
+      "source": "hackernews",
+      "engagement": {
+        "score": 1200,
+        "comments": 438
+      }
+    },
+    {
+      "title": "Piccadilly Circus, London.Keir Starmer now demands state spyware on every mobile device, always watching the screen, scanning everything, looking for things the government disapproves of.",
+      "url": "https://mastodon.online/@mullvadnet/116737304618372324",
+      "score": 8.44,
+      "niche": "software",
+      "source": "mastodon",
+      "engagement": {
+        "score": 195,
+        "comments": 6
       }
     },
     {
       "title": "DietrichGebert/ponytail — Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
       "url": "https://github.com/DietrichGebert/ponytail",
-      "score": 8.12,
+      "score": 8.3,
       "niche": "ai",
       "source": "github",
       "engagement": {
-        "score": 160,
+        "score": 657,
         "comments": 0
       }
     },
     {
-      "title": "You can rebrand a phone.You can paint it gold.You can rewrite the marketing.But when you put it next to an HTC U24 Pro in a CT scanner, the disguise falls apart pretty fast.https://www.ifixit.com/News",
-      "url": "https://mastodon.social/@iFixit/116733274225942555",
-      "score": 7.99,
+      "title": "Sex work is work, prompting LLMs is not",
+      "url": "https://beige.party/@bridget/116737771467390780",
+      "score": 7.84,
       "niche": "ai",
       "source": "mastodon",
       "engagement": {
-        "score": 492,
-        "comments": 12
+        "score": 128,
+        "comments": 3
       }
     },
     {
-      "title": "Anthropic apologizes for invisible Claude Fable guardrails",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
-      "score": 7.78,
+      "title": "I'm back on @pixelfed full time and can't wait to ship the new webUI and mobile app redesign.every page, screen and API endpoint is getting federation, performance and network improvements, and every ",
+      "url": "https://mastodon.social/@dansup/116737658938425897",
+      "score": 7.68,
       "niche": "ai",
-      "source": "hackernews",
+      "source": "mastodon",
       "engagement": {
-        "score": 369,
-        "comments": 360
+        "score": 65,
+        "comments": 2
       }
     },
     {
@@ -91,198 +190,138 @@
       }
     },
     {
-      "title": "Give thought to those who have helped you, shown you compassion, have been there for you. As a true warrior, you may be that person for someone else: one who came to someone's aid and are in their tho",
-      "url": "https://tenforward.social/@coachgowron/116734448592697185",
-      "score": 7.15,
+      "title": "I am dying with laughter. lmao. AI Agent bankrupted their operator while trying to scan DN42 https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/While modern",
+      "url": "https://mastodon.social/@nixCraft/116737618421957719",
+      "score": 7.05,
       "niche": "ai",
       "source": "mastodon",
       "engagement": {
-        "score": 171,
-        "comments": 0
+        "score": 143,
+        "comments": 8
       }
     },
     {
-      "title": "Claude Fable 5: mid-tier results on coding tasks",
-      "url": "https://www.endorlabs.com/learn/claude-fable-5-mythos-grade-hype",
-      "score": 6.98,
+      "title": "Dear Fedi friends, I need your help.If by any chance any of you have saved the video of #WSocial CEO Anna Zeiter's presentation at the Monaco AI conference (uploaded to YouTube on May 21) I would be E",
+      "url": "https://mastodon.social/@_elena/116737673318980799",
+      "score": 6.68,
       "niche": "ai",
-      "source": "hackernews",
-      "engagement": {
-        "score": 272,
-        "comments": 129
-      }
-    },
-    {
-      "title": "Seems very appropriate this year that my flight path out from SFO took me out over the Golden Gate.My thanks to all the folks at Apple for hosting another inspiring WWDC.  I leave very excited for the",
-      "url": "https://mastodon.social/@_Davidsmith/116734695362102664",
-      "score": 6.87,
-      "niche": "software",
       "source": "mastodon",
       "engagement": {
-        "score": 68,
-        "comments": 4
-      }
-    },
-    {
-      "title": "✨ A Sprinkle of JoyousJoyness ✨ Dream come true!Have a JoyousJoyfulJoyness day!#happy #cat #funny #cute #joyousjoyness #repost",
-      "url": "https://mastodon.social/@joyousjoyness/116734194382020971",
-      "score": 6.83,
-      "niche": "software",
-      "source": "mastodon",
-      "engagement": {
-        "score": 127,
-        "comments": 2
-      }
-    },
-    {
-      "title": "German court ruling declares Google's AI Overviews are Google's own words and makes it liable for false answers",
-      "url": "https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/",
-      "score": 6.45,
-      "niche": "ai",
-      "source": "lobsters",
-      "engagement": {
-        "score": 218,
-        "comments": 56
-      }
-    },
-    {
-      "title": "Okay, folks: The big El Niño update is now out on Weather West! This sure looks like it's going to be a dramatic year from a global climate perspective, and there are major implications for extreme ev",
-      "url": "https://mastodon.social/@weatherwest/116734137877777638",
-      "score": 6.33,
-      "niche": "software",
-      "source": "mastodon",
-      "engagement": {
-        "score": 171,
+        "score": 111,
         "comments": 5
       }
     },
     {
-      "title": "Thursday evening rainbow by Ben Shieldaig.",
-      "url": "https://mastodonapp.uk/@GetCarter/116735130413521259",
-      "score": 6.22,
-      "niche": "ai",
-      "source": "mastodon",
+      "title": "skydoves/compose-nav-graph — ⛵️ Compose Navigation Graph plugin for Android Studio that visualizes your entire app flow as an interactive map of rendered previews, typed arguments, and transitions.",
+      "url": "https://github.com/skydoves/compose-nav-graph",
+      "score": 6.21,
+      "niche": "software",
+      "source": "github",
       "engagement": {
-        "score": 85,
+        "score": 133,
         "comments": 1
       }
     },
     {
-      "title": "Software is made between commits",
-      "url": "https://zed.dev/blog/introducing-deltadb",
-      "score": 6.2,
-      "niche": "software",
-      "source": "hackernews",
+      "title": "Don't miss the Glorious Model D 2 Pro ergonomic wireless gaming mouse while it's down to its lowest price of the year at $51",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNX20tNm9tc0V4a1dsU01KcmZ4V0pEak5BLTNPUFJwbjE1NE5MMjRiTndMbDdzR2l4bTl3Ni1jQm5KZmY2eVdISmV2SmY4NHBfa0E1QnN0S2Q0MXJyV2l2azYzRGRxSWxid01ZUWx5N1h5dEFJTmFhcTdOQTBVQ284dmwyYUc0SXBpSzhkNENtUzJ2aVVZU3ROU2RVQVNQaHhTNTFvUU44NHNKa05u?oc=5",
+      "score": 5.94,
+      "niche": "ai",
+      "source": "gnews",
       "engagement": {
-        "score": 235,
-        "comments": 174
-      }
-    },
-    {
-      "title": "Oh dear, I'm feeling political today. It's just that it's dawned on me that 'zero tolerance' only seems to mean putting extra police in poor, run-down areas, and not in the Stock Exchange.Terry Pratch",
-      "url": "https://mendeddrum.org/@terrybot/116734899588726909",
-      "score": 6.11,
-      "niche": "finance",
-      "source": "mastodon",
-      "engagement": {
-        "score": 108,
+        "score": 40,
         "comments": 0
       }
     },
     {
-      "title": "#Pottery #Gardening I made two Terra Cotta ollas to sink into one of my raised garden bed. You fill these with water and the water slowly seeps through the porous clay into the dirt. The roots of the ",
-      "url": "https://mastodon.social/@nancylwayne/116733906623885984",
-      "score": 6.08,
-      "niche": "ai",
-      "source": "mastodon",
-      "engagement": {
-        "score": 228,
-        "comments": 4
-      }
-    },
-    {
-      "title": "joeseesun/qiaomu-goal-meta-skill — Turn vague or complex Codex tasks into strong `/goal` commands with outcome, verification, constraints, boundaries, iteration policy, completion evide",
-      "url": "https://github.com/joeseesun/qiaomu-goal-meta-skill",
-      "score": 5.98,
-      "niche": "ai",
-      "source": "github",
-      "engagement": {
-        "score": 213,
-        "comments": 1
-      }
-    },
-    {
-      "title": "Boycott all movies, entertainments, concerts, newspapers which are in any way connected with the quisling authorities.",
-      "url": "https://mastodon.social/@simple_sabotage/116735038404809703",
+      "title": "Slightly reducing the sloppiness of AI generated front end",
+      "url": "https://envs.net/~volpe/blog/posts/reduce-slop.html",
       "score": 5.88,
-      "niche": "ai",
-      "source": "mastodon",
-      "engagement": {
-        "score": 66,
-        "comments": 1
-      }
-    },
-    {
-      "title": "A jacket that harvests drinking water from the air",
-      "url": "https://news.utexas.edu/2026/06/11/this-jacket-pulls-drinking-water-from-thin-air/",
-      "score": 5.72,
       "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 77,
-        "comments": 47
+        "score": 38,
+        "comments": 15
       }
     },
     {
-      "title": "The 'Prompt' Is Not a Skill — And We Need to Stop Pretending",
-      "url": "https://dev.to/harsh2644/the-prompt-is-not-a-skill-and-we-need-to-stop-pretending-3m18",
-      "score": 5.62,
-      "niche": "ai",
-      "source": "devto",
-      "engagement": {
-        "score": 57,
-        "comments": 60
-      }
-    },
-    {
-      "title": "MiniMax-AI/MSA — ",
-      "url": "https://github.com/MiniMax-AI/MSA",
-      "score": 5.53,
+      "title": "SkyBlue997/enableMacosAI — 国行 Mac 一键开启完整 Apple 智能(端侧 + Private Cloud Compute 云端)· macOS 27 / Apple Silicon",
+      "url": "https://github.com/SkyBlue997/enableMacosAI",
+      "score": 5.69,
       "niche": "ai",
       "source": "github",
       "engagement": {
-        "score": 142,
-        "comments": 1
+        "score": 360,
+        "comments": 9
       }
     },
     {
       "title": "Sinotrade/shioaji-pro-app — Shioaji Pro — professional trading terminal for Taiwan markets (TWSE/TPEX/TAIFEX) built on the Shioaji HTTP API: real-time SSE quotes, candlestick charts with click-to-trad",
       "url": "https://github.com/Sinotrade/shioaji-pro-app",
-      "score": 5.47,
+      "score": 5.51,
       "niche": "ai",
       "source": "github",
       "engagement": {
-        "score": 151,
-        "comments": 2
+        "score": 154,
+        "comments": 3
       }
     },
     {
-      "title": "Apple didn't revolutionize power supplies; new transistors did (2012)",
-      "url": "https://www.righto.com/2012/02/apple-didnt-revolutionize-power.html",
-      "score": 5.41,
-      "niche": "software",
-      "source": "hackernews",
+      "title": "From $14 to $443: 10 Gadgets Worth Buying This June 2026",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5QUnZlbzZHWlJfVk83MGFCMUpKc3RxcWlJandmcG9oaGd5TDkza0J4SjYwZTZ2cVFrM0hvX0hPTWdGb2tMY29pUU5PTTlWY24xOFY4NmZuSXNKUnlIUEItV3BUTmF2Mk9BcFR5MQ?oc=5",
+      "score": 5.19,
+      "niche": "gear",
+      "source": "gnews",
       "engagement": {
-        "score": 107,
-        "comments": 9
+        "score": 40,
+        "comments": 0
       }
     }
   ],
   "topics": [
     {
+      "keyword": "passive income",
+      "count": 54,
+      "score": 229.16368376902065,
+      "proper": true,
+      "niches": [
+        "finance",
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "Put $5,000 Into Coca-Cola Stock and Here Is the Quarterly Passive Income You Get",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVnYtUVNVTjFTYlR6OVpZR2FrR1lXY0pMbTZhNV9qNThzN0t5VnIzT3BiclVxbmtzSldJaGFrbXR3M0lGRUMwV1pYbjQtLUhCRzhOVGlteFo2WkVoS252el9IUXhnOHRkbGxuSkQ5RlZ3MWUyWFUydHRQeHhWTk1FTWJWRHpqbEQ4YVc3Mw?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Put $5,000 Into Coca-Cola Stock and Here Is the Quarterly Passive Income You Get",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVnYtUVNVTjFTYlR6OVpZR2FrR1lXY0pMbTZhNV9qNThzN0t5VnIzT3BiclVxbmtzSldJaGFrbXR3M0lGRUMwV1pYbjQtLUhCRzhOVGlteFo2WkVoS252el9IUXhnOHRkbGxuSkQ5RlZ3MWUyWFUydHRQeHhWTk1FTWJWRHpqbEQ4YVc3Mw?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "I Asked ChatGPT How Retirees Can Generate $2K Monthly in Passive Income in 2026: Here’s What It Recommended",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPT0tlSHVabEdfcEJ4M1d3Q1ROYjZXdWZOWkUtS1VvNE9VMUdST2pxamxvNktJLWM5UEdBSXBJZTlHdlM4XzJuYUM1NEY2bHpIOGl6bUdMUzN4NU03MWhjdHpDU1JFZHA3RWloMXAwMnNfdmFvSDlENC1QVjRYOXJLTWRnMTcxWXctUUJSZk0xcWRyYkllWG0xdHBuUi1taW9qT1E?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "I Asked ChatGPT How Retirees Can Generate $2K Monthly in Passive Income in 2026: Here’s What It Recommended",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPT0tlSHVabEdfcEJ4M1d3Q1ROYjZXdWZOWkUtS1VvNE9VMUdST2pxamxvNktJLWM5UEdBSXBJZTlHdlM4XzJuYUM1NEY2bHpIOGl6bUdMUzN4NU03MWhjdHpDU1JFZHA3RWloMXAwMnNfdmFvSDlENC1QVjRYOXJLTWRnMTcxWXctUUJSZk0xcWRyYkllWG0xdHBuUi1taW9qT1E?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "I Asked ChatGPT How Retirees Can Generate $2K Monthly in Passive Income in 2026: Here’s What It Recommended",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPT0tlSHVabEdfcEJ4M1d3Q1ROYjZXdWZOWkUtS1VvNE9VMUdST2pxamxvNktJLWM5UEdBSXBJZTlHdlM4XzJuYUM1NEY2bHpIOGl6bUdMUzN4NU03MWhjdHpDU1JFZHA3RWloMXAwMnNfdmFvSDlENC1QVjRYOXJLTWRnMTcxWXctUUJSZk0xcWRyYkllWG0xdHBuUi1taW9qT1E?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "cf2dbbbf8c8c",
+      "slug": "passive-income"
+    },
+    {
       "keyword": "claude fable",
-      "count": 24,
-      "score": 303.0708005102944,
+      "count": 8,
+      "score": 114.79632094184355,
       "proper": true,
       "niches": [
         "ai"
@@ -296,21 +335,6 @@
         {
           "title": "Claude Fable is relentlessly proactive",
           "url": "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/",
-          "source": "hackernews"
-        },
-        {
-          "title": "Anthropic apologizes for invisible Claude Fable guardrails",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
-          "source": "hackernews"
-        },
-        {
-          "title": "Anthropic apologizes for invisible Claude Fable guardrails",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
-          "source": "hackernews"
-        },
-        {
-          "title": "Claude Fable 5: mid-tier results on coding tasks",
-          "url": "https://www.endorlabs.com/learn/claude-fable-5-mythos-grade-hype",
           "source": "hackernews"
         }
       ],
@@ -318,72 +342,93 @@
       "slug": "claude-fable"
     },
     {
-      "keyword": "software",
-      "count": 18,
-      "score": 124.38980443508412,
+      "keyword": "piccadilly circus",
+      "count": 8,
+      "score": 101.25300647117342,
       "proper": true,
       "niches": [
-        "software",
-        "ai"
+        "software"
       ],
       "examples": [
         {
-          "title": "Software is made between commits",
-          "url": "https://zed.dev/blog/introducing-deltadb",
-          "source": "hackernews"
+          "title": "Piccadilly Circus, London.Keir Starmer now demands state spyware on every mobile device, always watching the screen, scanning everything, looking for things the government disapproves of.",
+          "url": "https://mastodon.online/@mullvadnet/116737304618372324",
+          "source": "mastodon"
         },
         {
-          "title": "Software is made between commits",
-          "url": "https://zed.dev/blog/introducing-deltadb",
-          "source": "hackernews"
-        },
-        {
-          "title": "Apollo Is Screening All Software Investments for AI Threat Risk",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdk1SaW01TmZFSDA4T1ctRTBheVROYUlQOGxTWkNGdzR6SEpFR1ZOaUtUWV9vVGVGaHZ1WFVuSk1lZkNwOENwN2xIOW9zQmhnM0otSGZaTndYTlMtNkx4RXZXdkZ6RE1hbENacURnVUktdElsSTNfcmtUOWNXZE11emg3MnBoTTVaTXduYlVZMjVSZUREVTN3cnlpeHk4WXQ3TEN2UVVFeEtrczA0RExueU9hX1A?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Apollo Is Screening All Software Investments for AI Threat Risk",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdk1SaW01TmZFSDA4T1ctRTBheVROYUlQOGxTWkNGdzR6SEpFR1ZOaUtUWV9vVGVGaHZ1WFVuSk1lZkNwOENwN2xIOW9zQmhnM0otSGZaTndYTlMtNkx4RXZXdkZ6RE1hbENacURnVUktdElsSTNfcmtUOWNXZE11emg3MnBoTTVaTXduYlVZMjVSZUREVTN3cnlpeHk4WXQ3TEN2UVVFeEtrczA0RExueU9hX1A?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Reuse Less Software",
-          "url": "https://wiki.alopex.li/ReuseLessSoftware",
-          "source": "lobsters"
+          "title": "Piccadilly Circus, London.Keir Starmer now demands state spyware on every mobile device, always watching the screen, scanning everything, looking for things the government disapproves of.",
+          "url": "https://mastodon.online/@mullvadnet/116737304618372324",
+          "source": "mastodon"
         }
       ],
-      "id": "35390f5453e8",
-      "slug": "software"
+      "id": "6eade77321a4",
+      "slug": "piccadilly-circus"
     },
     {
-      "keyword": "apple",
-      "count": 15,
-      "score": 96.7487248799963,
+      "keyword": "glorious model",
+      "count": 11,
+      "score": 97.92823578002233,
       "proper": true,
       "niches": [
-        "software",
         "ai"
       ],
       "examples": [
         {
-          "title": "Apple didn't revolutionize power supplies; new transistors did (2012)",
-          "url": "https://www.righto.com/2012/02/apple-didnt-revolutionize-power.html",
+          "title": "Don't miss the Glorious Model D 2 Pro ergonomic wireless gaming mouse while it's down to its lowest price of the year at $51",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNX20tNm9tc0V4a1dsU01KcmZ4V0pEak5BLTNPUFJwbjE1NE5MMjRiTndMbDdzR2l4bTl3Ni1jQm5KZmY2eVdISmV2SmY4NHBfa0E1QnN0S2Q0MXJyV2l2azYzRGRxSWxid01ZUWx5N1h5dEFJTmFhcTdOQTBVQ284dmwyYUc0SXBpSzhkNENtUzJ2aVVZU3ROU2RVQVNQaHhTNTFvUU44NHNKa05u?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Don't miss the Glorious Model D 2 Pro ergonomic wireless gaming mouse while it's down to its lowest price of the year at $51",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNX20tNm9tc0V4a1dsU01KcmZ4V0pEak5BLTNPUFJwbjE1NE5MMjRiTndMbDdzR2l4bTl3Ni1jQm5KZmY2eVdISmV2SmY4NHBfa0E1QnN0S2Q0MXJyV2l2azYzRGRxSWxid01ZUWx5N1h5dEFJTmFhcTdOQTBVQ284dmwyYUc0SXBpSzhkNENtUzJ2aVVZU3ROU2RVQVNQaHhTNTFvUU44NHNKa05u?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Don't miss the Glorious Model D 2 Pro ergonomic wireless gaming mouse while it's down to its lowest price of the year at $51",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNX20tNm9tc0V4a1dsU01KcmZ4V0pEak5BLTNPUFJwbjE1NE5MMjRiTndMbDdzR2l4bTl3Ni1jQm5KZmY2eVdISmV2SmY4NHBfa0E1QnN0S2Q0MXJyV2l2azYzRGRxSWxid01ZUWx5N1h5dEFJTmFhcTdOQTBVQ284dmwyYUc0SXBpSzhkNENtUzJ2aVVZU3ROU2RVQVNQaHhTNTFvUU44NHNKa05u?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "6596a3c446fb",
+      "slug": "glorious-model"
+    },
+    {
+      "keyword": "agent",
+      "count": 11,
+      "score": 91.4271737132105,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "AI agent bankrupted their operator while trying to scan DN42",
+          "url": "https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/",
           "source": "hackernews"
         },
         {
-          "title": "SkyBlue997/enableMacosAI — 国行 Mac 一键开启完整 Apple 智能(端侧 + Private Cloud Compute 云端)· macOS 27 / Apple Silicon",
-          "url": "https://github.com/SkyBlue997/enableMacosAI",
+          "title": "DietrichGebert/ponytail — Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+          "url": "https://github.com/DietrichGebert/ponytail",
           "source": "github"
         },
         {
-          "title": "Apple unveils iPadOS 27 with new Siri, productivity upgrades, more",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWUdqdFdJcmNpdDIxdUVrUEV1Z1lscTZ5WmZVakgtYUY4QmxNaEVmRzk1Q1BBLWMwakR6N21kZHV2OGNIZWJHaWVIQXZBc1lVam5mSVYxVTJlemJoYWJrVm0wTTlvVkVGZmo1SUU0YzV3Z0dNQnQzdjQ1MFFPajFpdENNRWpvTV9kLUhNZW5IR3RxVTVqU0J3T3RaZ1pickJ0QjY0?oc=5",
-          "source": "gnews"
+          "title": "I am dying with laughter. lmao. AI Agent bankrupted their operator while trying to scan DN42 https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/While modern",
+          "url": "https://mastodon.social/@nixCraft/116737618421957719",
+          "source": "mastodon"
+        },
+        {
+          "title": "taisly/agent — Taisly Agent Kit: SDK, CLI, examples, and docs for AI agents that publish videos through Taisly.",
+          "url": "https://github.com/taisly/agent",
+          "source": "github"
+        },
+        {
+          "title": "taisly/agent — Taisly Agent Kit: SDK, CLI, examples, and docs for AI agents that publish videos through Taisly.",
+          "url": "https://github.com/taisly/agent",
+          "source": "github"
         }
       ],
-      "id": "3a7bd3e2360a",
-      "slug": "apple"
+      "id": "d4f0bc5a29de",
+      "slug": "agent"
     },
     {
       "keyword": "productivity apps",
@@ -425,9 +470,198 @@
       "slug": "productivity-apps"
     },
     {
+      "keyword": "dear fedi",
+      "count": 8,
+      "score": 80.11621749791033,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "Dear Fedi friends, I need your help.If by any chance any of you have saved the video of #WSocial CEO Anna Zeiter's presentation at the Monaco AI conference (uploaded to YouTube on May 21) I would be E",
+          "url": "https://mastodon.social/@_elena/116737673318980799",
+          "source": "mastodon"
+        },
+        {
+          "title": "Dear Fedi friends, I need your help.If by any chance any of you have saved the video of #WSocial CEO Anna Zeiter's presentation at the Monaco AI conference (uploaded to YouTube on May 21) I would be E",
+          "url": "https://mastodon.social/@_elena/116737673318980799",
+          "source": "mastodon"
+        }
+      ],
+      "id": "657aec826a89",
+      "slug": "dear-fedi"
+    },
+    {
+      "keyword": "android studio",
+      "count": 8,
+      "score": 74.55438361408888,
+      "proper": true,
+      "niches": [
+        "software"
+      ],
+      "examples": [
+        {
+          "title": "skydoves/compose-nav-graph — ⛵️ Compose Navigation Graph plugin for Android Studio that visualizes your entire app flow as an interactive map of rendered previews, typed arguments, and transitions.",
+          "url": "https://github.com/skydoves/compose-nav-graph",
+          "source": "github"
+        },
+        {
+          "title": "skydoves/compose-nav-graph — ⛵️ Compose Navigation Graph plugin for Android Studio that visualizes your entire app flow as an interactive map of rendered previews, typed arguments, and transitions.",
+          "url": "https://github.com/skydoves/compose-nav-graph",
+          "source": "github"
+        }
+      ],
+      "id": "2c0d939946b5",
+      "slug": "android-studio"
+    },
+    {
+      "keyword": "claude",
+      "count": 12,
+      "score": 69.7863584584293,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "Claude Fable is relentlessly proactive",
+          "url": "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/",
+          "source": "hackernews"
+        },
+        {
+          "title": "Show HN: Script to bulk delete Claude chats from the web UI",
+          "url": "https://github.com/MatteoLeonesi/bulk-delete-claude-chat",
+          "source": "hackernews"
+        },
+        {
+          "title": "Show HN: Script to bulk delete Claude chats from the web UI",
+          "url": "https://github.com/MatteoLeonesi/bulk-delete-claude-chat",
+          "source": "hackernews"
+        },
+        {
+          "title": "Anthropic plugs Claude AI in Japan for automated software development",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQWk1mNHBtMk5tOE94QmFFSGRYMXRHVlpzT1FGajJKbVdhc3pDUWl4WTgxZk81Vmt2QVNDcHNXOTlpTExCVjNhVHl5VVM3amNIdV8tdGVVV1UwVldleGQ4aEhBWDZRMmV2azV4U1lGb3l1emlOeWluZlRIT0NlbDhGVnlVYWlQUzVvOG51Y1VHT3dmRFNsWU5BanozVGppN3EtemVCbzBFS3pUb1dxWlJaQXZxelNLeXJwQkRjRks3ZDg0N3Bmd2EzdnE2MmtYRGJ6NGZ3?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Anthropic plugs Claude AI in Japan for automated software development",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQWk1mNHBtMk5tOE94QmFFSGRYMXRHVlpzT1FGajJKbVdhc3pDUWl4WTgxZk81Vmt2QVNDcHNXOTlpTExCVjNhVHl5VVM3amNIdV8tdGVVV1UwVldleGQ4aEhBWDZRMmV2azV4U1lGb3l1emlOeWluZlRIT0NlbDhGVnlVYWlQUzVvOG51Y1VHT3dmRFNsWU5BanozVGppN3EtemVCbzBFS3pUb1dxWlJaQXZxelNLeXJwQkRjRks3ZDg0N3Bmd2EzdnE2MmtYRGJ6NGZ3?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "c857d09db23e",
+      "slug": "claude"
+    },
+    {
+      "keyword": "apple silicon",
+      "count": 8,
+      "score": 68.32362450731404,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "SkyBlue997/enableMacosAI — 国行 Mac 一键开启完整 Apple 智能(端侧 + Private Cloud Compute 云端)· macOS 27 / Apple Silicon",
+          "url": "https://github.com/SkyBlue997/enableMacosAI",
+          "source": "github"
+        },
+        {
+          "title": "SkyBlue997/enableMacosAI — 国行 Mac 一键开启完整 Apple 智能(端侧 + Private Cloud Compute 云端)· macOS 27 / Apple Silicon",
+          "url": "https://github.com/SkyBlue997/enableMacosAI",
+          "source": "github"
+        }
+      ],
+      "id": "e5653a7fb79e",
+      "slug": "apple-silicon"
+    },
+    {
+      "keyword": "shioaji pro",
+      "count": 8,
+      "score": 66.09884863890596,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "Sinotrade/shioaji-pro-app — Shioaji Pro — professional trading terminal for Taiwan markets (TWSE/TPEX/TAIFEX) built on the Shioaji HTTP API: real-time SSE quotes, candlestick charts with click-to-trad",
+          "url": "https://github.com/Sinotrade/shioaji-pro-app",
+          "source": "github"
+        },
+        {
+          "title": "Sinotrade/shioaji-pro-app — Shioaji Pro — professional trading terminal for Taiwan markets (TWSE/TPEX/TAIFEX) built on the Shioaji HTTP API: real-time SSE quotes, candlestick charts with click-to-trad",
+          "url": "https://github.com/Sinotrade/shioaji-pro-app",
+          "source": "github"
+        }
+      ],
+      "id": "a2c35e401064",
+      "slug": "shioaji-pro"
+    },
+    {
+      "keyword": "kimi k2.7",
+      "count": 5,
+      "score": 65.30365785968974,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "Kimi K2.7-Code: open-source coding model with better token efficiency",
+          "url": "https://huggingface.co/moonshotai/Kimi-K2.7-Code",
+          "source": "hackernews"
+        }
+      ],
+      "id": "875329b3f374",
+      "slug": "kimi-k27"
+    },
+    {
+      "keyword": "london.keir starmer",
+      "count": 5,
+      "score": 63.28312904448338,
+      "proper": true,
+      "niches": [
+        "software"
+      ],
+      "examples": [
+        {
+          "title": "Piccadilly Circus, London.Keir Starmer now demands state spyware on every mobile device, always watching the screen, scanning everything, looking for things the government disapproves of.",
+          "url": "https://mastodon.online/@mullvadnet/116737304618372324",
+          "source": "mastodon"
+        }
+      ],
+      "id": "f180708fe677",
+      "slug": "londonkeir-starmer"
+    },
+    {
+      "keyword": "neo scholars",
+      "count": 8,
+      "score": 61.519103666993765,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "Dev Opportunity Radar #3: Neo Scholars, a $2M AI Challenge, and an $85K AI Fellowship",
+          "url": "https://dev.to/devengers/dev-opportunity-radar-3-neo-scholars-a-2m-ai-challenge-and-an-85k-ai-fellowship-cjf",
+          "source": "devto"
+        },
+        {
+          "title": "Dev Opportunity Radar #3: Neo Scholars, a $2M AI Challenge, and an $85K AI Fellowship",
+          "url": "https://dev.to/devengers/dev-opportunity-radar-3-neo-scholars-a-2m-ai-challenge-and-an-85k-ai-fellowship-cjf",
+          "source": "devto"
+        }
+      ],
+      "id": "a605b6ff2a35",
+      "slug": "neo-scholars"
+    },
+    {
       "keyword": "threat risk",
       "count": 11,
-      "score": 78.34258862401788,
+      "score": 58.75694146801339,
       "proper": true,
       "niches": [
         "ai"
@@ -451,248 +685,56 @@
       ],
       "id": "c190b804e912",
       "slug": "threat-risk"
-    },
-    {
-      "keyword": "weather west",
-      "count": 8,
-      "score": 75.9383986362985,
-      "proper": true,
-      "niches": [
-        "software"
-      ],
-      "examples": [
-        {
-          "title": "Okay, folks: The big El Niño update is now out on Weather West! This sure looks like it's going to be a dramatic year from a global climate perspective, and there are major implications for extreme ev",
-          "url": "https://mastodon.social/@weatherwest/116734137877777638",
-          "source": "mastodon"
-        },
-        {
-          "title": "Okay, folks: The big El Niño update is now out on Weather West! This sure looks like it's going to be a dramatic year from a global climate perspective, and there are major implications for extreme ev",
-          "url": "https://mastodon.social/@weatherwest/116734137877777638",
-          "source": "mastodon"
-        }
-      ],
-      "id": "75075af70e6d",
-      "slug": "weather-west"
-    },
-    {
-      "keyword": "ben shieldaig",
-      "count": 8,
-      "score": 74.66813461056648,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "Thursday evening rainbow by Ben Shieldaig.",
-          "url": "https://mastodonapp.uk/@GetCarter/116735130413521259",
-          "source": "mastodon"
-        },
-        {
-          "title": "Thursday evening rainbow by Ben Shieldaig.",
-          "url": "https://mastodonapp.uk/@GetCarter/116735130413521259",
-          "source": "mastodon"
-        }
-      ],
-      "id": "6879f590001d",
-      "slug": "ben-shieldaig"
-    },
-    {
-      "keyword": "terra cotta",
-      "count": 8,
-      "score": 72.9522691894304,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "#Pottery #Gardening I made two Terra Cotta ollas to sink into one of my raised garden bed. You fill these with water and the water slowly seeps through the porous clay into the dirt. The roots of the ",
-          "url": "https://mastodon.social/@nancylwayne/116733906623885984",
-          "source": "mastodon"
-        },
-        {
-          "title": "#Pottery #Gardening I made two Terra Cotta ollas to sink into one of my raised garden bed. You fill these with water and the water slowly seeps through the porous clay into the dirt. The roots of the ",
-          "url": "https://mastodon.social/@nancylwayne/116733906623885984",
-          "source": "mastodon"
-        }
-      ],
-      "id": "0357b68efc42",
-      "slug": "terra-cotta"
-    },
-    {
-      "keyword": "stop pretending",
-      "count": 8,
-      "score": 67.40457990915598,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "The 'Prompt' Is Not a Skill — And We Need to Stop Pretending",
-          "url": "https://dev.to/harsh2644/the-prompt-is-not-a-skill-and-we-need-to-stop-pretending-3m18",
-          "source": "devto"
-        },
-        {
-          "title": "The 'Prompt' Is Not a Skill — And We Need to Stop Pretending",
-          "url": "https://dev.to/harsh2644/the-prompt-is-not-a-skill-and-we-need-to-stop-pretending-3m18",
-          "source": "devto"
-        }
-      ],
-      "id": "774ea7964f43",
-      "slug": "stop-pretending"
-    },
-    {
-      "keyword": "shioaji pro",
-      "count": 8,
-      "score": 65.68846796991284,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "Sinotrade/shioaji-pro-app — Shioaji Pro — professional trading terminal for Taiwan markets (TWSE/TPEX/TAIFEX) built on the Shioaji HTTP API: real-time SSE quotes, candlestick charts with click-to-trad",
-          "url": "https://github.com/Sinotrade/shioaji-pro-app",
-          "source": "github"
-        },
-        {
-          "title": "Sinotrade/shioaji-pro-app — Shioaji Pro — professional trading terminal for Taiwan markets (TWSE/TPEX/TAIFEX) built on the Shioaji HTTP API: real-time SSE quotes, candlestick charts with click-to-trad",
-          "url": "https://github.com/Sinotrade/shioaji-pro-app",
-          "source": "github"
-        }
-      ],
-      "id": "a2c35e401064",
-      "slug": "shioaji-pro"
-    },
-    {
-      "keyword": "apple silicon",
-      "count": 8,
-      "score": 61.692745972712785,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "SkyBlue997/enableMacosAI — 国行 Mac 一键开启完整 Apple 智能(端侧 + Private Cloud Compute 云端)· macOS 27 / Apple Silicon",
-          "url": "https://github.com/SkyBlue997/enableMacosAI",
-          "source": "github"
-        },
-        {
-          "title": "SkyBlue997/enableMacosAI — 国行 Mac 一键开启完整 Apple 智能(端侧 + Private Cloud Compute 云端)· macOS 27 / Apple Silicon",
-          "url": "https://github.com/SkyBlue997/enableMacosAI",
-          "source": "github"
-        }
-      ],
-      "id": "e5653a7fb79e",
-      "slug": "apple-silicon"
-    },
-    {
-      "keyword": "mtg bench",
-      "count": 8,
-      "score": 61.03362767665905,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "MTG Bench: Testing how well LLMs can play Magic",
-          "url": "https://mtgautodeck.com/articles/mtg-bench/",
-          "source": "hackernews"
-        },
-        {
-          "title": "MTG Bench: Testing how well LLMs can play Magic",
-          "url": "https://mtgautodeck.com/articles/mtg-bench/",
-          "source": "hackernews"
-        }
-      ],
-      "id": "6005009233d6",
-      "slug": "mtg-bench"
-    },
-    {
-      "keyword": "htc u24 pro",
-      "count": 5,
-      "score": 59.91387119151425,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "You can rebrand a phone.You can paint it gold.You can rewrite the marketing.But when you put it next to an HTC U24 Pro in a CT scanner, the disguise falls apart pretty fast.https://www.ifixit.com/News",
-          "url": "https://mastodon.social/@iFixit/116733274225942555",
-          "source": "mastodon"
-        }
-      ],
-      "id": "ed57d1eb8df7",
-      "slug": "htc-u24-pro"
-    },
-    {
-      "keyword": "super buttons",
-      "count": 11,
-      "score": 59.608491344361425,
-      "proper": true,
-      "niches": [
-        "gear"
-      ],
-      "examples": [
-        {
-          "title": "8BitDo’s Mecha BREAK Retro 87 TKL mechanical keyboard with Super Buttons is down to just $56",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYVc2bzNmWEdyREduV3dIay1jVWlkM3N3OHoyNXBFNElaMzQ5emtWcFdpeTZqQjFvcHJOcDZGYlBsV0s3M1lkOXppYjZSWWxqSlJRLVV6X0xHZnM3ZTVXelNsWWlhVjRCMmZ5VFNzSUFuMmlydmZoRkNScW9xTGh6OHpmbnlBRjdOWWp0RXU2MHllaGdGaDMwd0hmWGdYdWRwU09n?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "8BitDo’s Mecha BREAK Retro 87 TKL mechanical keyboard with Super Buttons is down to just $56",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYVc2bzNmWEdyREduV3dIay1jVWlkM3N3OHoyNXBFNElaMzQ5emtWcFdpeTZqQjFvcHJOcDZGYlBsV0s3M1lkOXppYjZSWWxqSlJRLVV6X0xHZnM3ZTVXelNsWWlhVjRCMmZ5VFNzSUFuMmlydmZoRkNScW9xTGh6OHpmbnlBRjdOWWp0RXU2MHllaGdGaDMwd0hmWGdYdWRwU09n?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "8BitDo’s Mecha BREAK Retro 87 TKL mechanical keyboard with Super Buttons is down to just $56",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYVc2bzNmWEdyREduV3dIay1jVWlkM3N3OHoyNXBFNElaMzQ5emtWcFdpeTZqQjFvcHJOcDZGYlBsV0s3M1lkOXppYjZSWWxqSlJRLVV6X0xHZnM3ZTVXelNsWWlhVjRCMmZ5VFNzSUFuMmlydmZoRkNScW9xTGh6OHpmbnlBRjdOWWp0RXU2MHllaGdGaDMwd0hmWGdYdWRwU09n?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "1a85c06a0a92",
-      "slug": "super-buttons"
-    },
-    {
-      "keyword": "free open-source",
-      "count": 9,
-      "score": 56.76725612014034,
-      "proper": false,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "Why I ditched paid productivity apps for this free open-source alternative - How-To Geek",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTE9jOUhlQl9jazRtcXBDdERaa3FWaFNnV3dzZ1NkbTE2ckZhbGVaTTdFck4xMW50QktnbUFoS183YzJWcUprSTJEbjhYUkR0NlJmaWhZM0d4QkdaREhnV3JXMkZ2NktjWl9xTHNoWjVVbE85cnhKSTdvOWRkaGI5cGFRU01aSWF6V0tMVTdpY2R5ck5LYUF3ZzdqMUZLQQ?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Why I ditched paid productivity apps for this free open-source alternative - How-To Geek",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTE9jOUhlQl9jazRtcXBDdERaa3FWaFNnV3dzZ1NkbTE2ckZhbGVaTTdFck4xMW50QktnbUFoS183YzJWcUprSTJEbjhYUkR0NlJmaWhZM0d4QkdaREhnV3JXMkZ2NktjWl9xTHNoWjVVbE85cnhKSTdvOWRkaGI5cGFRU01aSWF6V0tMVTdpY2R5ck5LYUF3ZzdqMUZLQQ?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "orange2ai/orange-line-illustration — 🍊 New Yorker-style minimalist editorial illustration skill for AI agents — one idea, one accent, lots of silence. Free for open-source use; commercial license for",
-          "url": "https://github.com/orange2ai/orange-line-illustration",
-          "source": "github"
-        }
-      ],
-      "id": "6930e2a35025",
-      "slug": "free-open-source"
     }
   ],
   "opportunities": [
     {
+      "keyword": "passive income",
+      "count": 54,
+      "score": 229.16368376902065,
+      "proper": true,
+      "niches": [
+        "finance",
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "Put $5,000 Into Coca-Cola Stock and Here Is the Quarterly Passive Income You Get",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVnYtUVNVTjFTYlR6OVpZR2FrR1lXY0pMbTZhNV9qNThzN0t5VnIzT3BiclVxbmtzSldJaGFrbXR3M0lGRUMwV1pYbjQtLUhCRzhOVGlteFo2WkVoS252el9IUXhnOHRkbGxuSkQ5RlZ3MWUyWFUydHRQeHhWTk1FTWJWRHpqbEQ4YVc3Mw?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Put $5,000 Into Coca-Cola Stock and Here Is the Quarterly Passive Income You Get",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVnYtUVNVTjFTYlR6OVpZR2FrR1lXY0pMbTZhNV9qNThzN0t5VnIzT3BiclVxbmtzSldJaGFrbXR3M0lGRUMwV1pYbjQtLUhCRzhOVGlteFo2WkVoS252el9IUXhnOHRkbGxuSkQ5RlZ3MWUyWFUydHRQeHhWTk1FTWJWRHpqbEQ4YVc3Mw?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "I Asked ChatGPT How Retirees Can Generate $2K Monthly in Passive Income in 2026: Here’s What It Recommended",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPT0tlSHVabEdfcEJ4M1d3Q1ROYjZXdWZOWkUtS1VvNE9VMUdST2pxamxvNktJLWM5UEdBSXBJZTlHdlM4XzJuYUM1NEY2bHpIOGl6bUdMUzN4NU03MWhjdHpDU1JFZHA3RWloMXAwMnNfdmFvSDlENC1QVjRYOXJLTWRnMTcxWXctUUJSZk0xcWRyYkllWG0xdHBuUi1taW9qT1E?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "I Asked ChatGPT How Retirees Can Generate $2K Monthly in Passive Income in 2026: Here’s What It Recommended",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPT0tlSHVabEdfcEJ4M1d3Q1ROYjZXdWZOWkUtS1VvNE9VMUdST2pxamxvNktJLWM5UEdBSXBJZTlHdlM4XzJuYUM1NEY2bHpIOGl6bUdMUzN4NU03MWhjdHpDU1JFZHA3RWloMXAwMnNfdmFvSDlENC1QVjRYOXJLTWRnMTcxWXctUUJSZk0xcWRyYkllWG0xdHBuUi1taW9qT1E?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "I Asked ChatGPT How Retirees Can Generate $2K Monthly in Passive Income in 2026: Here’s What It Recommended",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPT0tlSHVabEdfcEJ4M1d3Q1ROYjZXdWZOWkUtS1VvNE9VMUdST2pxamxvNktJLWM5UEdBSXBJZTlHdlM4XzJuYUM1NEY2bHpIOGl6bUdMUzN4NU03MWhjdHpDU1JFZHA3RWloMXAwMnNfdmFvSDlENC1QVjRYOXJLTWRnMTcxWXctUUJSZk0xcWRyYkllWG0xdHBuUi1taW9qT1E?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "cf2dbbbf8c8c",
+      "slug": "passive-income",
+      "opportunity": {
+        "type": "niche-content",
+        "recommended": "Publish niche guide for \"finance\"; bundle into digital product later."
+      }
+    },
+    {
       "keyword": "claude fable",
-      "count": 24,
-      "score": 303.0708005102944,
+      "count": 8,
+      "score": 114.79632094184355,
       "proper": true,
       "niches": [
         "ai"
@@ -706,21 +748,6 @@
         {
           "title": "Claude Fable is relentlessly proactive",
           "url": "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/",
-          "source": "hackernews"
-        },
-        {
-          "title": "Anthropic apologizes for invisible Claude Fable guardrails",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
-          "source": "hackernews"
-        },
-        {
-          "title": "Anthropic apologizes for invisible Claude Fable guardrails",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
-          "source": "hackernews"
-        },
-        {
-          "title": "Claude Fable 5: mid-tier results on coding tasks",
-          "url": "https://www.endorlabs.com/learn/claude-fable-5-mythos-grade-hype",
           "source": "hackernews"
         }
       ],
@@ -732,79 +759,104 @@
       }
     },
     {
-      "keyword": "software",
-      "count": 18,
-      "score": 124.38980443508412,
+      "keyword": "piccadilly circus",
+      "count": 8,
+      "score": 101.25300647117342,
       "proper": true,
       "niches": [
-        "software",
-        "ai"
+        "software"
       ],
       "examples": [
         {
-          "title": "Software is made between commits",
-          "url": "https://zed.dev/blog/introducing-deltadb",
-          "source": "hackernews"
+          "title": "Piccadilly Circus, London.Keir Starmer now demands state spyware on every mobile device, always watching the screen, scanning everything, looking for things the government disapproves of.",
+          "url": "https://mastodon.online/@mullvadnet/116737304618372324",
+          "source": "mastodon"
         },
         {
-          "title": "Software is made between commits",
-          "url": "https://zed.dev/blog/introducing-deltadb",
-          "source": "hackernews"
-        },
-        {
-          "title": "Apollo Is Screening All Software Investments for AI Threat Risk",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdk1SaW01TmZFSDA4T1ctRTBheVROYUlQOGxTWkNGdzR6SEpFR1ZOaUtUWV9vVGVGaHZ1WFVuSk1lZkNwOENwN2xIOW9zQmhnM0otSGZaTndYTlMtNkx4RXZXdkZ6RE1hbENacURnVUktdElsSTNfcmtUOWNXZE11emg3MnBoTTVaTXduYlVZMjVSZUREVTN3cnlpeHk4WXQ3TEN2UVVFeEtrczA0RExueU9hX1A?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Apollo Is Screening All Software Investments for AI Threat Risk",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdk1SaW01TmZFSDA4T1ctRTBheVROYUlQOGxTWkNGdzR6SEpFR1ZOaUtUWV9vVGVGaHZ1WFVuSk1lZkNwOENwN2xIOW9zQmhnM0otSGZaTndYTlMtNkx4RXZXdkZ6RE1hbENacURnVUktdElsSTNfcmtUOWNXZE11emg3MnBoTTVaTXduYlVZMjVSZUREVTN3cnlpeHk4WXQ3TEN2UVVFeEtrczA0RExueU9hX1A?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Reuse Less Software",
-          "url": "https://wiki.alopex.li/ReuseLessSoftware",
-          "source": "lobsters"
+          "title": "Piccadilly Circus, London.Keir Starmer now demands state spyware on every mobile device, always watching the screen, scanning everything, looking for things the government disapproves of.",
+          "url": "https://mastodon.online/@mullvadnet/116737304618372324",
+          "source": "mastodon"
         }
       ],
-      "id": "35390f5453e8",
-      "slug": "software",
+      "id": "6eade77321a4",
+      "slug": "piccadilly-circus",
       "opportunity": {
         "type": "niche-content",
         "recommended": "Publish niche guide for \"software\"; bundle into digital product later."
       }
     },
     {
-      "keyword": "apple",
-      "count": 15,
-      "score": 96.7487248799963,
+      "keyword": "glorious model",
+      "count": 11,
+      "score": 97.92823578002233,
       "proper": true,
       "niches": [
-        "software",
         "ai"
       ],
       "examples": [
         {
-          "title": "Apple didn't revolutionize power supplies; new transistors did (2012)",
-          "url": "https://www.righto.com/2012/02/apple-didnt-revolutionize-power.html",
-          "source": "hackernews"
+          "title": "Don't miss the Glorious Model D 2 Pro ergonomic wireless gaming mouse while it's down to its lowest price of the year at $51",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNX20tNm9tc0V4a1dsU01KcmZ4V0pEak5BLTNPUFJwbjE1NE5MMjRiTndMbDdzR2l4bTl3Ni1jQm5KZmY2eVdISmV2SmY4NHBfa0E1QnN0S2Q0MXJyV2l2azYzRGRxSWxid01ZUWx5N1h5dEFJTmFhcTdOQTBVQ284dmwyYUc0SXBpSzhkNENtUzJ2aVVZU3ROU2RVQVNQaHhTNTFvUU44NHNKa05u?oc=5",
+          "source": "gnews"
         },
         {
-          "title": "SkyBlue997/enableMacosAI — 国行 Mac 一键开启完整 Apple 智能(端侧 + Private Cloud Compute 云端)· macOS 27 / Apple Silicon",
-          "url": "https://github.com/SkyBlue997/enableMacosAI",
-          "source": "github"
+          "title": "Don't miss the Glorious Model D 2 Pro ergonomic wireless gaming mouse while it's down to its lowest price of the year at $51",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNX20tNm9tc0V4a1dsU01KcmZ4V0pEak5BLTNPUFJwbjE1NE5MMjRiTndMbDdzR2l4bTl3Ni1jQm5KZmY2eVdISmV2SmY4NHBfa0E1QnN0S2Q0MXJyV2l2azYzRGRxSWxid01ZUWx5N1h5dEFJTmFhcTdOQTBVQ284dmwyYUc0SXBpSzhkNENtUzJ2aVVZU3ROU2RVQVNQaHhTNTFvUU44NHNKa05u?oc=5",
+          "source": "gnews"
         },
         {
-          "title": "Apple unveils iPadOS 27 with new Siri, productivity upgrades, more",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWUdqdFdJcmNpdDIxdUVrUEV1Z1lscTZ5WmZVakgtYUY4QmxNaEVmRzk1Q1BBLWMwakR6N21kZHV2OGNIZWJHaWVIQXZBc1lVam5mSVYxVTJlemJoYWJrVm0wTTlvVkVGZmo1SUU0YzV3Z0dNQnQzdjQ1MFFPajFpdENNRWpvTV9kLUhNZW5IR3RxVTVqU0J3T3RaZ1pickJ0QjY0?oc=5",
+          "title": "Don't miss the Glorious Model D 2 Pro ergonomic wireless gaming mouse while it's down to its lowest price of the year at $51",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNX20tNm9tc0V4a1dsU01KcmZ4V0pEak5BLTNPUFJwbjE1NE5MMjRiTndMbDdzR2l4bTl3Ni1jQm5KZmY2eVdISmV2SmY4NHBfa0E1QnN0S2Q0MXJyV2l2azYzRGRxSWxid01ZUWx5N1h5dEFJTmFhcTdOQTBVQ284dmwyYUc0SXBpSzhkNENtUzJ2aVVZU3ROU2RVQVNQaHhTNTFvUU44NHNKa05u?oc=5",
           "source": "gnews"
         }
       ],
-      "id": "3a7bd3e2360a",
-      "slug": "apple",
+      "id": "6596a3c446fb",
+      "slug": "glorious-model",
       "opportunity": {
-        "type": "affiliate",
-        "recommended": "Write SEO comparison/roundup article with affiliate links."
+        "type": "niche-content",
+        "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
+      }
+    },
+    {
+      "keyword": "agent",
+      "count": 11,
+      "score": 91.4271737132105,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "AI agent bankrupted their operator while trying to scan DN42",
+          "url": "https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/",
+          "source": "hackernews"
+        },
+        {
+          "title": "DietrichGebert/ponytail — Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+          "url": "https://github.com/DietrichGebert/ponytail",
+          "source": "github"
+        },
+        {
+          "title": "I am dying with laughter. lmao. AI Agent bankrupted their operator while trying to scan DN42 https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/While modern",
+          "url": "https://mastodon.social/@nixCraft/116737618421957719",
+          "source": "mastodon"
+        },
+        {
+          "title": "taisly/agent — Taisly Agent Kit: SDK, CLI, examples, and docs for AI agents that publish videos through Taisly.",
+          "url": "https://github.com/taisly/agent",
+          "source": "github"
+        },
+        {
+          "title": "taisly/agent — Taisly Agent Kit: SDK, CLI, examples, and docs for AI agents that publish videos through Taisly.",
+          "url": "https://github.com/taisly/agent",
+          "source": "github"
+        }
+      ],
+      "id": "d4f0bc5a29de",
+      "slug": "agent",
+      "opportunity": {
+        "type": "niche-content",
+        "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
       }
     },
     {
@@ -851,116 +903,57 @@
       }
     },
     {
-      "keyword": "threat risk",
-      "count": 11,
-      "score": 78.34258862401788,
+      "keyword": "dear fedi",
+      "count": 8,
+      "score": 80.11621749791033,
       "proper": true,
       "niches": [
         "ai"
       ],
       "examples": [
         {
-          "title": "Apollo Is Screening All Software Investments for AI Threat Risk",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdk1SaW01TmZFSDA4T1ctRTBheVROYUlQOGxTWkNGdzR6SEpFR1ZOaUtUWV9vVGVGaHZ1WFVuSk1lZkNwOENwN2xIOW9zQmhnM0otSGZaTndYTlMtNkx4RXZXdkZ6RE1hbENacURnVUktdElsSTNfcmtUOWNXZE11emg3MnBoTTVaTXduYlVZMjVSZUREVTN3cnlpeHk4WXQ3TEN2UVVFeEtrczA0RExueU9hX1A?oc=5",
-          "source": "gnews"
+          "title": "Dear Fedi friends, I need your help.If by any chance any of you have saved the video of #WSocial CEO Anna Zeiter's presentation at the Monaco AI conference (uploaded to YouTube on May 21) I would be E",
+          "url": "https://mastodon.social/@_elena/116737673318980799",
+          "source": "mastodon"
         },
         {
-          "title": "Apollo Is Screening All Software Investments for AI Threat Risk",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdk1SaW01TmZFSDA4T1ctRTBheVROYUlQOGxTWkNGdzR6SEpFR1ZOaUtUWV9vVGVGaHZ1WFVuSk1lZkNwOENwN2xIOW9zQmhnM0otSGZaTndYTlMtNkx4RXZXdkZ6RE1hbENacURnVUktdElsSTNfcmtUOWNXZE11emg3MnBoTTVaTXduYlVZMjVSZUREVTN3cnlpeHk4WXQ3TEN2UVVFeEtrczA0RExueU9hX1A?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Apollo Is Screening All Software Investments for AI Threat Risk",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdk1SaW01TmZFSDA4T1ctRTBheVROYUlQOGxTWkNGdzR6SEpFR1ZOaUtUWV9vVGVGaHZ1WFVuSk1lZkNwOENwN2xIOW9zQmhnM0otSGZaTndYTlMtNkx4RXZXdkZ6RE1hbENacURnVUktdElsSTNfcmtUOWNXZE11emg3MnBoTTVaTXduYlVZMjVSZUREVTN3cnlpeHk4WXQ3TEN2UVVFeEtrczA0RExueU9hX1A?oc=5",
-          "source": "gnews"
+          "title": "Dear Fedi friends, I need your help.If by any chance any of you have saved the video of #WSocial CEO Anna Zeiter's presentation at the Monaco AI conference (uploaded to YouTube on May 21) I would be E",
+          "url": "https://mastodon.social/@_elena/116737673318980799",
+          "source": "mastodon"
         }
       ],
-      "id": "c190b804e912",
-      "slug": "threat-risk",
+      "id": "657aec826a89",
+      "slug": "dear-fedi",
       "opportunity": {
         "type": "niche-content",
         "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
       }
     },
     {
-      "keyword": "weather west",
+      "keyword": "android studio",
       "count": 8,
-      "score": 75.9383986362985,
+      "score": 74.55438361408888,
       "proper": true,
       "niches": [
         "software"
       ],
       "examples": [
         {
-          "title": "Okay, folks: The big El Niño update is now out on Weather West! This sure looks like it's going to be a dramatic year from a global climate perspective, and there are major implications for extreme ev",
-          "url": "https://mastodon.social/@weatherwest/116734137877777638",
-          "source": "mastodon"
+          "title": "skydoves/compose-nav-graph — ⛵️ Compose Navigation Graph plugin for Android Studio that visualizes your entire app flow as an interactive map of rendered previews, typed arguments, and transitions.",
+          "url": "https://github.com/skydoves/compose-nav-graph",
+          "source": "github"
         },
         {
-          "title": "Okay, folks: The big El Niño update is now out on Weather West! This sure looks like it's going to be a dramatic year from a global climate perspective, and there are major implications for extreme ev",
-          "url": "https://mastodon.social/@weatherwest/116734137877777638",
-          "source": "mastodon"
+          "title": "skydoves/compose-nav-graph — ⛵️ Compose Navigation Graph plugin for Android Studio that visualizes your entire app flow as an interactive map of rendered previews, typed arguments, and transitions.",
+          "url": "https://github.com/skydoves/compose-nav-graph",
+          "source": "github"
         }
       ],
-      "id": "75075af70e6d",
-      "slug": "weather-west",
+      "id": "2c0d939946b5",
+      "slug": "android-studio",
       "opportunity": {
         "type": "niche-content",
         "recommended": "Publish niche guide for \"software\"; bundle into digital product later."
-      }
-    },
-    {
-      "keyword": "ben shieldaig",
-      "count": 8,
-      "score": 74.66813461056648,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "Thursday evening rainbow by Ben Shieldaig.",
-          "url": "https://mastodonapp.uk/@GetCarter/116735130413521259",
-          "source": "mastodon"
-        },
-        {
-          "title": "Thursday evening rainbow by Ben Shieldaig.",
-          "url": "https://mastodonapp.uk/@GetCarter/116735130413521259",
-          "source": "mastodon"
-        }
-      ],
-      "id": "6879f590001d",
-      "slug": "ben-shieldaig",
-      "opportunity": {
-        "type": "tooling",
-        "recommended": "Build / list AI tools; monetize via affiliate links + lead magnet."
-      }
-    },
-    {
-      "keyword": "terra cotta",
-      "count": 8,
-      "score": 72.9522691894304,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "#Pottery #Gardening I made two Terra Cotta ollas to sink into one of my raised garden bed. You fill these with water and the water slowly seeps through the porous clay into the dirt. The roots of the ",
-          "url": "https://mastodon.social/@nancylwayne/116733906623885984",
-          "source": "mastodon"
-        },
-        {
-          "title": "#Pottery #Gardening I made two Terra Cotta ollas to sink into one of my raised garden bed. You fill these with water and the water slowly seeps through the porous clay into the dirt. The roots of the ",
-          "url": "https://mastodon.social/@nancylwayne/116733906623885984",
-          "source": "mastodon"
-        }
-      ],
-      "id": "0357b68efc42",
-      "slug": "terra-cotta",
-      "opportunity": {
-        "type": "niche-content",
-        "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
       }
     }
   ]
