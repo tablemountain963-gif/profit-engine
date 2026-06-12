@@ -1,405 +1,365 @@
 {
-  "generatedAt": "2026-06-11T22:45:13.774Z",
-  "sourceCount": 206,
+  "generatedAt": "2026-06-12T05:29:04.709Z",
+  "sourceCount": 204,
   "topItems": [
     {
-      "title": "Any AI-free Godot knowers out there looking for a project?A friend of mine is in the middle of a game buildout and parted ways with her dev because of a difference in opinion on AI slop. She's hoping ",
-      "url": "https://xoxo.zone/@annika/116732795399384690",
-      "score": 9.89,
+      "title": "Claude Fable is relentlessly proactive",
+      "url": "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/",
+      "score": 10.5,
       "niche": "ai",
-      "source": "mastodon",
+      "source": "hackernews",
       "engagement": {
-        "score": 214,
-        "comments": 12
+        "score": 268,
+        "comments": 223
+      }
+    },
+    {
+      "title": "Nobody ever gets credit for fixing problems that never happened (2001) [pdf]",
+      "url": "https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf",
+      "score": 9.7,
+      "niche": "software",
+      "source": "hackernews",
+      "engagement": {
+        "score": 272,
+        "comments": 95
       }
     },
     {
       "title": "shadcn/improve — Use your most capable model to audit your codebase and write plans for cheaper models to execute.",
       "url": "https://github.com/shadcn/improve",
-      "score": 9.05,
+      "score": 9.17,
       "niche": "ai",
       "source": "github",
       "engagement": {
-        "score": 1768,
-        "comments": 5
-      }
-    },
-    {
-      "title": "You can rebrand a phone.You can paint it gold.You can rewrite the marketing.But when you put it next to an HTC U24 Pro in a CT scanner, the disguise falls apart pretty fast.https://www.ifixit.com/News",
-      "url": "https://mastodon.social/@iFixit/116733274225942555",
-      "score": 8.73,
-      "niche": "ai",
-      "source": "mastodon",
-      "engagement": {
-        "score": 222,
+        "score": 1951,
         "comments": 6
-      }
-    },
-    {
-      "title": "Social media bans fail to keep young people safe, harm vulnerable communities, and violate free speech, all while creating massive databases that invite identity theft and permanent surveillance. We m",
-      "url": "https://mastodon.social/@eff/116732694788255893",
-      "score": 8.24,
-      "niche": "ai",
-      "source": "mastodon",
-      "engagement": {
-        "score": 168,
-        "comments": 2
-      }
-    },
-    {
-      "title": "Shall we play a game? – LLMs use tactical nukes in 95% of simulations",
-      "url": "https://www.kennethpayne.uk/p/shall-we-play-a-game",
-      "score": 8.17,
-      "niche": "ai",
-      "source": "hackernews",
-      "engagement": {
-        "score": 129,
-        "comments": 114
       }
     },
     {
       "title": "Show HN: FablePool – pool money behind a prompt, and Fable builds it in public",
       "url": "https://fablepool.com",
-      "score": 7.94,
+      "score": 8.35,
       "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 83,
-        "comments": 30
+        "score": 328,
+        "comments": 179
       }
     },
     {
-      "title": "Over on Whatever, I talk about the legit business email I got that was written with \"AI,\" why I thought it meant the sender's domain was hacked by scammers, and why using \"AI\" in business emails autom",
-      "url": "https://mastodon.social/@scalzi/116732287039062368",
-      "score": 6.56,
+      "title": "DietrichGebert/ponytail — Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "score": 8.12,
+      "niche": "ai",
+      "source": "github",
+      "engagement": {
+        "score": 160,
+        "comments": 0
+      }
+    },
+    {
+      "title": "You can rebrand a phone.You can paint it gold.You can rewrite the marketing.But when you put it next to an HTC U24 Pro in a CT scanner, the disguise falls apart pretty fast.https://www.ifixit.com/News",
+      "url": "https://mastodon.social/@iFixit/116733274225942555",
+      "score": 7.99,
       "niche": "ai",
       "source": "mastodon",
       "engagement": {
-        "score": 347,
-        "comments": 8
+        "score": 492,
+        "comments": 12
       }
     },
     {
-      "title": "German court ruling declares Google's AI Overviews are Google's own words and makes it liable for false answers",
-      "url": "https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/",
-      "score": 6.33,
+      "title": "Anthropic apologizes for invisible Claude Fable guardrails",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
+      "score": 7.78,
       "niche": "ai",
-      "source": "lobsters",
+      "source": "hackernews",
       "engagement": {
-        "score": 201,
-        "comments": 48
+        "score": 369,
+        "comments": 360
+      }
+    },
+    {
+      "title": "Why I ditched paid productivity apps for this free open-source alternative - How-To Geek",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTE9jOUhlQl9jazRtcXBDdERaa3FWaFNnV3dzZ1NkbTE2ckZhbGVaTTdFck4xMW50QktnbUFoS183YzJWcUprSTJEbjhYUkR0NlJmaWhZM0d4QkdaREhnV3JXMkZ2NktjWl9xTHNoWjVVbE85cnhKSTdvOWRkaGI5cGFRU01aSWF6V0tMVTdpY2R5ck5LYUF3ZzdqMUZLQQ?oc=5",
+      "score": 7.23,
+      "niche": "ai",
+      "source": "gnews",
+      "engagement": {
+        "score": 40,
+        "comments": 0
+      }
+    },
+    {
+      "title": "Give thought to those who have helped you, shown you compassion, have been there for you. As a true warrior, you may be that person for someone else: one who came to someone's aid and are in their tho",
+      "url": "https://tenforward.social/@coachgowron/116734448592697185",
+      "score": 7.15,
+      "niche": "ai",
+      "source": "mastodon",
+      "engagement": {
+        "score": 171,
+        "comments": 0
       }
     },
     {
       "title": "Claude Fable 5: mid-tier results on coding tasks",
       "url": "https://www.endorlabs.com/learn/claude-fable-5-mythos-grade-hype",
-      "score": 6.32,
+      "score": 6.98,
       "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 165,
-        "comments": 64
+        "score": 272,
+        "comments": 129
       }
     },
     {
-      "title": "taisly/agent — Taisly Agent Kit: SDK, CLI, examples, and docs for AI agents that publish videos through Taisly.",
-      "url": "https://github.com/taisly/agent",
-      "score": 5.95,
-      "niche": "ai",
-      "source": "github",
+      "title": "Seems very appropriate this year that my flight path out from SFO took me out over the Golden Gate.My thanks to all the folks at Apple for hosting another inspiring WWDC.  I leave very excited for the",
+      "url": "https://mastodon.social/@_Davidsmith/116734695362102664",
+      "score": 6.87,
+      "niche": "software",
+      "source": "mastodon",
       "engagement": {
-        "score": 104,
+        "score": 68,
+        "comments": 4
+      }
+    },
+    {
+      "title": "✨ A Sprinkle of JoyousJoyness ✨ Dream come true!Have a JoyousJoyfulJoyness day!#happy #cat #funny #cute #joyousjoyness #repost",
+      "url": "https://mastodon.social/@joyousjoyness/116734194382020971",
+      "score": 6.83,
+      "niche": "software",
+      "source": "mastodon",
+      "engagement": {
+        "score": 127,
+        "comments": 2
+      }
+    },
+    {
+      "title": "German court ruling declares Google's AI Overviews are Google's own words and makes it liable for false answers",
+      "url": "https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/",
+      "score": 6.45,
+      "niche": "ai",
+      "source": "lobsters",
+      "engagement": {
+        "score": 218,
+        "comments": 56
+      }
+    },
+    {
+      "title": "Okay, folks: The big El Niño update is now out on Weather West! This sure looks like it's going to be a dramatic year from a global climate perspective, and there are major implications for extreme ev",
+      "url": "https://mastodon.social/@weatherwest/116734137877777638",
+      "score": 6.33,
+      "niche": "software",
+      "source": "mastodon",
+      "engagement": {
+        "score": 171,
+        "comments": 5
+      }
+    },
+    {
+      "title": "Thursday evening rainbow by Ben Shieldaig.",
+      "url": "https://mastodonapp.uk/@GetCarter/116735130413521259",
+      "score": 6.22,
+      "niche": "ai",
+      "source": "mastodon",
+      "engagement": {
+        "score": 85,
+        "comments": 1
+      }
+    },
+    {
+      "title": "Software is made between commits",
+      "url": "https://zed.dev/blog/introducing-deltadb",
+      "score": 6.2,
+      "niche": "software",
+      "source": "hackernews",
+      "engagement": {
+        "score": 235,
+        "comments": 174
+      }
+    },
+    {
+      "title": "Oh dear, I'm feeling political today. It's just that it's dawned on me that 'zero tolerance' only seems to mean putting extra police in poor, run-down areas, and not in the Stock Exchange.Terry Pratch",
+      "url": "https://mendeddrum.org/@terrybot/116734899588726909",
+      "score": 6.11,
+      "niche": "finance",
+      "source": "mastodon",
+      "engagement": {
+        "score": 108,
         "comments": 0
       }
     },
     {
-      "title": "Apple didn't revolutionize power supplies; new transistors did (2012)",
-      "url": "https://www.righto.com/2012/02/apple-didnt-revolutionize-power.html",
-      "score": 5.9,
-      "niche": "software",
-      "source": "hackernews",
+      "title": "#Pottery #Gardening I made two Terra Cotta ollas to sink into one of my raised garden bed. You fill these with water and the water slowly seeps through the porous clay into the dirt. The roots of the ",
+      "url": "https://mastodon.social/@nancylwayne/116733906623885984",
+      "score": 6.08,
+      "niche": "ai",
+      "source": "mastodon",
       "engagement": {
-        "score": 55,
-        "comments": 6
+        "score": 228,
+        "comments": 4
       }
     },
     {
-      "title": "Software Is Made Between Commits",
-      "url": "https://zed.dev/blog/introducing-deltadb",
-      "score": 5.83,
-      "niche": "software",
+      "title": "joeseesun/qiaomu-goal-meta-skill — Turn vague or complex Codex tasks into strong `/goal` commands with outcome, verification, constraints, boundaries, iteration policy, completion evide",
+      "url": "https://github.com/joeseesun/qiaomu-goal-meta-skill",
+      "score": 5.98,
+      "niche": "ai",
+      "source": "github",
+      "engagement": {
+        "score": 213,
+        "comments": 1
+      }
+    },
+    {
+      "title": "Boycott all movies, entertainments, concerts, newspapers which are in any way connected with the quisling authorities.",
+      "url": "https://mastodon.social/@simple_sabotage/116735038404809703",
+      "score": 5.88,
+      "niche": "ai",
+      "source": "mastodon",
+      "engagement": {
+        "score": 66,
+        "comments": 1
+      }
+    },
+    {
+      "title": "A jacket that harvests drinking water from the air",
+      "url": "https://news.utexas.edu/2026/06/11/this-jacket-pulls-drinking-water-from-thin-air/",
+      "score": 5.72,
+      "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 176,
-        "comments": 111
+        "score": 77,
+        "comments": 47
       }
     },
     {
       "title": "The 'Prompt' Is Not a Skill — And We Need to Stop Pretending",
       "url": "https://dev.to/harsh2644/the-prompt-is-not-a-skill-and-we-need-to-stop-pretending-3m18",
-      "score": 5.6,
+      "score": 5.62,
       "niche": "ai",
       "source": "devto",
       "engagement": {
-        "score": 56,
-        "comments": 59
-      }
-    },
-    {
-      "title": "Looking to Potentially Diversify Your Passive Income? Try This $40 Desktop Bitcoin Miner.",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORHpFaERXdDBOWmdmNzJJN01qN2pPR0xuck1GbkRJNm1fU0p2MG9mMmJBNXZIaGpGa04ya0t4SXVkMmRmNTBaSlVqSGtuandDNGQwemc1blhHOUtWbkhIeXhTcFh4dUVkeHhnSi1RclEwNWFmeDVDZlNnd1BRa1g4Z3lLUjNfcml2MEVoRWZrUXdEbFV3amtGVHhuSGJxTW8ySjVvUExFR1lxQQ?oc=5",
-      "score": 5.56,
-      "niche": "finance",
-      "source": "gnews",
-      "engagement": {
-        "score": 40,
-        "comments": 0
-      }
-    },
-    {
-      "title": "Sinotrade/shioaji-pro-app — Shioaji Pro — professional trading terminal for Taiwan markets (TWSE/TPEX/TAIFEX) built on the Shioaji HTTP API: real-time SSE quotes, candlestick charts with click-to-trad",
-      "url": "https://github.com/Sinotrade/shioaji-pro-app",
-      "score": 5.42,
-      "niche": "ai",
-      "source": "github",
-      "engagement": {
-        "score": 145,
-        "comments": 1
+        "score": 57,
+        "comments": 60
       }
     },
     {
       "title": "MiniMax-AI/MSA — ",
       "url": "https://github.com/MiniMax-AI/MSA",
-      "score": 5.22,
+      "score": 5.53,
       "niche": "ai",
       "source": "github",
       "engagement": {
-        "score": 106,
+        "score": 142,
         "comments": 1
       }
     },
     {
-      "title": "Gen Z is ditching modern activewear for vintage workout gear, and the reason is surprising",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxORjZkckJIZ05DX1ZoSTBrZVg0MWFJMVNSNzNtNGdCeDZSS2Q0TWxFVDhHb1NMR1dOMTFHU1NwcFhFWEJvNk4ybjhWdWpENDBEQlJBUlBUMUJnSkVueVk4dGxmeXFfTDBEd1duSml0YjYwcklWdk9HM3J3d1VreW5nUjZNMWhZV2VxM1lMMVkwNFRXcGY2cjliR3Y2Yko2aW9TLVQtbm1RRkoxNkxRb1A2bHRCYVhmMmY2N3JJbW9yS0ZFVzk5dl9vVGNDeHg1V0Nv?oc=5",
-      "score": 5.19,
-      "niche": "gear",
-      "source": "gnews",
-      "engagement": {
-        "score": 40,
-        "comments": 0
-      }
-    },
-    {
-      "title": "AI is hitting employment among young software developers hard",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdjVabjcxNmcxdEVuQzd1elB4UTdBajRLdk01X1dOaFYtblJLWlY3cVJQSkpNamdONFB0SHpJY2kzQjZqM3F5UTFhU29LT3pTSkNoeVR1OVJaSVVEQW1KeUdfUHJzMkw1NjJUcXhUM3F1ek1Qa2tCdmRCWURUSzFZcXgyQ2YySjhmOHVKOVVWUU03NUZCT3YyT2xJOTEyN0JTZWNRa0ZfZlYzclJxX1NwN3E2dXg2bWtEMVE?oc=5",
-      "score": 5.16,
-      "niche": "ai",
-      "source": "gnews",
-      "engagement": {
-        "score": 40,
-        "comments": 0
-      }
-    },
-    {
-      "title": "SkyBlue997/enableMacosAI — 国行 Mac 一键开启完整 Apple 智能(端侧 + Private Cloud Compute 云端)· macOS 27 / Apple Silicon",
-      "url": "https://github.com/SkyBlue997/enableMacosAI",
-      "score": 5.01,
+      "title": "Sinotrade/shioaji-pro-app — Shioaji Pro — professional trading terminal for Taiwan markets (TWSE/TPEX/TAIFEX) built on the Shioaji HTTP API: real-time SSE quotes, candlestick charts with click-to-trad",
+      "url": "https://github.com/Sinotrade/shioaji-pro-app",
+      "score": 5.47,
       "niche": "ai",
       "source": "github",
       "engagement": {
-        "score": 173,
-        "comments": 6
+        "score": 151,
+        "comments": 2
       }
     },
     {
-      "title": "jmmy9609-design/gpt-pp — ",
-      "url": "https://github.com/jmmy9609-design/gpt-pp",
-      "score": 4.9,
-      "niche": "ai",
-      "source": "github",
-      "engagement": {
-        "score": 353,
-        "comments": 1
-      }
-    },
-    {
-      "title": "There Is Life Before Main in Rust",
-      "url": "https://grack.com/blog/2026/06/11/life-before-main/",
-      "score": 4.86,
-      "niche": "ai",
-      "source": "lobsters",
-      "engagement": {
-        "score": 14,
-        "comments": 9
-      }
-    },
-    {
-      "title": "Emacs appearances in pop culture",
-      "url": "https://ianyepan.github.io/posts/emacs-in-pop-culture/",
-      "score": 4.79,
+      "title": "Apple didn't revolutionize power supplies; new transistors did (2012)",
+      "url": "https://www.righto.com/2012/02/apple-didnt-revolutionize-power.html",
+      "score": 5.41,
       "niche": "software",
       "source": "hackernews",
       "engagement": {
-        "score": 210,
-        "comments": 45
-      }
-    },
-    {
-      "title": "Apollo Is Screening All Software Investments for AI Threat Risk",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdk1SaW01TmZFSDA4T1ctRTBheVROYUlQOGxTWkNGdzR6SEpFR1ZOaUtUWV9vVGVGaHZ1WFVuSk1lZkNwOENwN2xIOW9zQmhnM0otSGZaTndYTlMtNkx4RXZXdkZ6RE1hbENacURnVUktdElsSTNfcmtUOWNXZE11emg3MnBoTTVaTXduYlVZMjVSZUREVTN3cnlpeHk4WXQ3TEN2UVVFeEtrczA0RExueU9hX1A?oc=5",
-      "score": 4.75,
-      "niche": "ai",
-      "source": "gnews",
-      "engagement": {
-        "score": 40,
-        "comments": 0
-      }
-    },
-    {
-      "title": "How frontier teams are reinventing AI-native development",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQcVJURHFsMTlVSHY5RDR1bnBYZWdWNDR4aVMyV2xHS0hCRmJwS0l3NEsyejFiZGN3MFZLbmJ6QWExWm9MNlNtMUN4LVVKVGl1V3dJeTZqM2M0bE55T2hPZk9mYWNkaEloTTlDdUxIbTZ2OWs4VkZhb1FsSlB1dEVTQ0pXYXJSQ0laNXVwX1I2RFNOWEd0N2VpNDhSRFREbjhDQ2ZjYjBB?oc=5",
-      "score": 4.75,
-      "niche": "ai",
-      "source": "gnews",
-      "engagement": {
-        "score": 40,
-        "comments": 0
-      }
-    },
-    {
-      "title": "These early Prime Day deals are already live on Amazon: Kitchen gadgets, fitness gear, power tools, and more",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBrS1JUWjJIQ1pnOXNUcWRwU3ByYVJtY2o3UVoxeVhvRnNqckVRRFhaZ1czQ19aUzNfSm1KQ2ZLcUhyWTVkRjEyUEZIaGZtOU5IVU9QTEllVTVDQmhMR2ZPUE05OUxnbWptWVdhX0dSRQ?oc=5",
-      "score": 4.74,
-      "niche": "software",
-      "source": "gnews",
-      "engagement": {
-        "score": 40,
-        "comments": 0
+        "score": 107,
+        "comments": 9
       }
     }
   ],
   "topics": [
     {
-      "keyword": "passive income",
-      "count": 54,
-      "score": 264.58041726258614,
+      "keyword": "claude fable",
+      "count": 24,
+      "score": 303.0708005102944,
       "proper": true,
       "niches": [
-        "finance",
         "ai"
       ],
       "examples": [
         {
-          "title": "Looking to Potentially Diversify Your Passive Income? Try This $40 Desktop Bitcoin Miner.",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORHpFaERXdDBOWmdmNzJJN01qN2pPR0xuck1GbkRJNm1fU0p2MG9mMmJBNXZIaGpGa04ya0t4SXVkMmRmNTBaSlVqSGtuandDNGQwemc1blhHOUtWbkhIeXhTcFh4dUVkeHhnSi1RclEwNWFmeDVDZlNnd1BRa1g4Z3lLUjNfcml2MEVoRWZrUXdEbFV3amtGVHhuSGJxTW8ySjVvUExFR1lxQQ?oc=5",
-          "source": "gnews"
+          "title": "Claude Fable is relentlessly proactive",
+          "url": "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/",
+          "source": "hackernews"
         },
         {
-          "title": "Looking to Potentially Diversify Your Passive Income? Try This $40 Desktop Bitcoin Miner.",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORHpFaERXdDBOWmdmNzJJN01qN2pPR0xuck1GbkRJNm1fU0p2MG9mMmJBNXZIaGpGa04ya0t4SXVkMmRmNTBaSlVqSGtuandDNGQwemc1blhHOUtWbkhIeXhTcFh4dUVkeHhnSi1RclEwNWFmeDVDZlNnd1BRa1g4Z3lLUjNfcml2MEVoRWZrUXdEbFV3amtGVHhuSGJxTW8ySjVvUExFR1lxQQ?oc=5",
-          "source": "gnews"
+          "title": "Claude Fable is relentlessly proactive",
+          "url": "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/",
+          "source": "hackernews"
         },
         {
-          "title": "VOO’s Yield Is Just 1%. These 2 High-Yield JPMorgan ETFs Offer 8%-10% in Passive Income",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdHpUbVFaWjFCSEVfbzZvQV9ma0tQWlFCUXJ2dnJXWnBHZ2RJcEdjckhPazRfemRNRzVnNFp2OWt5Mm1Rb3BRbmdsakhyOFZDZWY0WGpoM0VxNF9XcE00VERMMWZLcncyN3NoM1lROW5RekJxWnBONjJsQjRqQk81eFQ5V0ZGX0pVWVJsdmhKdlhvdVFWQVdZS1JFRlJOT0FsRWpXaXRUbE5oN0JwcGFmUnBzOXMxV1E?oc=5",
-          "source": "gnews"
+          "title": "Anthropic apologizes for invisible Claude Fable guardrails",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
+          "source": "hackernews"
         },
         {
-          "title": "VOO’s Yield Is Just 1%. These 2 High-Yield JPMorgan ETFs Offer 8%-10% in Passive Income",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdHpUbVFaWjFCSEVfbzZvQV9ma0tQWlFCUXJ2dnJXWnBHZ2RJcEdjckhPazRfemRNRzVnNFp2OWt5Mm1Rb3BRbmdsakhyOFZDZWY0WGpoM0VxNF9XcE00VERMMWZLcncyN3NoM1lROW5RekJxWnBONjJsQjRqQk81eFQ5V0ZGX0pVWVJsdmhKdlhvdVFWQVdZS1JFRlJOT0FsRWpXaXRUbE5oN0JwcGFmUnBzOXMxV1E?oc=5",
-          "source": "gnews"
+          "title": "Anthropic apologizes for invisible Claude Fable guardrails",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
+          "source": "hackernews"
         },
         {
-          "title": "I Asked ChatGPT How Retirees Can Generate $2K Monthly in Passive Income in 2026: Here’s What It Recommended",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPT0tlSHVabEdfcEJ4M1d3Q1ROYjZXdWZOWkUtS1VvNE9VMUdST2pxamxvNktJLWM5UEdBSXBJZTlHdlM4XzJuYUM1NEY2bHpIOGl6bUdMUzN4NU03MWhjdHpDU1JFZHA3RWloMXAwMnNfdmFvSDlENC1QVjRYOXJLTWRnMTcxWXctUUJSZk0xcWRyYkllWG0xdHBuUi1taW9qT1E?oc=5",
-          "source": "gnews"
+          "title": "Claude Fable 5: mid-tier results on coding tasks",
+          "url": "https://www.endorlabs.com/learn/claude-fable-5-mythos-grade-hype",
+          "source": "hackernews"
         }
       ],
-      "id": "cf2dbbbf8c8c",
-      "slug": "passive-income"
+      "id": "ced86039c0ad",
+      "slug": "claude-fable"
     },
     {
-      "keyword": "income",
+      "keyword": "software",
       "count": 18,
-      "score": 104.087457328835,
-      "proper": true,
-      "niches": [
-        "finance",
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "Looking to Potentially Diversify Your Passive Income? Try This $40 Desktop Bitcoin Miner.",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORHpFaERXdDBOWmdmNzJJN01qN2pPR0xuck1GbkRJNm1fU0p2MG9mMmJBNXZIaGpGa04ya0t4SXVkMmRmNTBaSlVqSGtuandDNGQwemc1blhHOUtWbkhIeXhTcFh4dUVkeHhnSi1RclEwNWFmeDVDZlNnd1BRa1g4Z3lLUjNfcml2MEVoRWZrUXdEbFV3amtGVHhuSGJxTW8ySjVvUExFR1lxQQ?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Looking to Potentially Diversify Your Passive Income? Try This $40 Desktop Bitcoin Miner.",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORHpFaERXdDBOWmdmNzJJN01qN2pPR0xuck1GbkRJNm1fU0p2MG9mMmJBNXZIaGpGa04ya0t4SXVkMmRmNTBaSlVqSGtuandDNGQwemc1blhHOUtWbkhIeXhTcFh4dUVkeHhnSi1RclEwNWFmeDVDZlNnd1BRa1g4Z3lLUjNfcml2MEVoRWZrUXdEbFV3amtGVHhuSGJxTW8ySjVvUExFR1lxQQ?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Looking to Potentially Diversify Your Passive Income? Try This $40 Desktop Bitcoin Miner.",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORHpFaERXdDBOWmdmNzJJN01qN2pPR0xuck1GbkRJNm1fU0p2MG9mMmJBNXZIaGpGa04ya0t4SXVkMmRmNTBaSlVqSGtuandDNGQwemc1blhHOUtWbkhIeXhTcFh4dUVkeHhnSi1RclEwNWFmeDVDZlNnd1BRa1g4Z3lLUjNfcml2MEVoRWZrUXdEbFV3amtGVHhuSGJxTW8ySjVvUExFR1lxQQ?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "VOO’s Yield Is Just 1%. These 2 High-Yield JPMorgan ETFs Offer 8%-10% in Passive Income",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdHpUbVFaWjFCSEVfbzZvQV9ma0tQWlFCUXJ2dnJXWnBHZ2RJcEdjckhPazRfemRNRzVnNFp2OWt5Mm1Rb3BRbmdsakhyOFZDZWY0WGpoM0VxNF9XcE00VERMMWZLcncyN3NoM1lROW5RekJxWnBONjJsQjRqQk81eFQ5V0ZGX0pVWVJsdmhKdlhvdVFWQVdZS1JFRlJOT0FsRWpXaXRUbE5oN0JwcGFmUnBzOXMxV1E?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "I Asked ChatGPT How Retirees Can Generate $2K Monthly in Passive Income in 2026: Here’s What It Recommended",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPT0tlSHVabEdfcEJ4M1d3Q1ROYjZXdWZOWkUtS1VvNE9VMUdST2pxamxvNktJLWM5UEdBSXBJZTlHdlM4XzJuYUM1NEY2bHpIOGl6bUdMUzN4NU03MWhjdHpDU1JFZHA3RWloMXAwMnNfdmFvSDlENC1QVjRYOXJLTWRnMTcxWXctUUJSZk0xcWRyYkllWG0xdHBuUi1taW9qT1E?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "00cf141f881d",
-      "slug": "income"
-    },
-    {
-      "keyword": "fitness gear",
-      "count": 23,
-      "score": 90.0901062363644,
+      "score": 124.38980443508412,
       "proper": true,
       "niches": [
         "software",
-        "gear"
+        "ai"
       ],
       "examples": [
         {
-          "title": "These early Prime Day deals are already live on Amazon: Kitchen gadgets, fitness gear, power tools, and more",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBrS1JUWjJIQ1pnOXNUcWRwU3ByYVJtY2o3UVoxeVhvRnNqckVRRFhaZ1czQ19aUzNfSm1KQ2ZLcUhyWTVkRjEyUEZIaGZtOU5IVU9QTEllVTVDQmhMR2ZPUE05OUxnbWptWVdhX0dSRQ?oc=5",
+          "title": "Software is made between commits",
+          "url": "https://zed.dev/blog/introducing-deltadb",
+          "source": "hackernews"
+        },
+        {
+          "title": "Software is made between commits",
+          "url": "https://zed.dev/blog/introducing-deltadb",
+          "source": "hackernews"
+        },
+        {
+          "title": "Apollo Is Screening All Software Investments for AI Threat Risk",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdk1SaW01TmZFSDA4T1ctRTBheVROYUlQOGxTWkNGdzR6SEpFR1ZOaUtUWV9vVGVGaHZ1WFVuSk1lZkNwOENwN2xIOW9zQmhnM0otSGZaTndYTlMtNkx4RXZXdkZ6RE1hbENacURnVUktdElsSTNfcmtUOWNXZE11emg3MnBoTTVaTXduYlVZMjVSZUREVTN3cnlpeHk4WXQ3TEN2UVVFeEtrczA0RExueU9hX1A?oc=5",
           "source": "gnews"
         },
         {
-          "title": "These early Prime Day deals are already live on Amazon: Kitchen gadgets, fitness gear, power tools, and more",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBrS1JUWjJIQ1pnOXNUcWRwU3ByYVJtY2o3UVoxeVhvRnNqckVRRFhaZ1czQ19aUzNfSm1KQ2ZLcUhyWTVkRjEyUEZIaGZtOU5IVU9QTEllVTVDQmhMR2ZPUE05OUxnbWptWVdhX0dSRQ?oc=5",
+          "title": "Apollo Is Screening All Software Investments for AI Threat Risk",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdk1SaW01TmZFSDA4T1ctRTBheVROYUlQOGxTWkNGdzR6SEpFR1ZOaUtUWV9vVGVGaHZ1WFVuSk1lZkNwOENwN2xIOW9zQmhnM0otSGZaTndYTlMtNkx4RXZXdkZ6RE1hbENacURnVUktdElsSTNfcmtUOWNXZE11emg3MnBoTTVaTXduYlVZMjVSZUREVTN3cnlpeHk4WXQ3TEN2UVVFeEtrczA0RExueU9hX1A?oc=5",
           "source": "gnews"
         },
         {
-          "title": "Dior’s fitness gear convinced me to book my first yoga class",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1OMHp0SGt6QjV1dHV2SlN6bGZTcmVmdk1ZUlFVc1ZDNHFVTTI2VVE2NjUxeXZUMTV1YUFsNXFGTXNBMzdPUVo3VGxNc0E4am55UU5wckVZOENSdw?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Dior’s fitness gear convinced me to book my first yoga class",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1OMHp0SGt6QjV1dHV2SlN6bGZTcmVmdk1ZUlFVc1ZDNHFVTTI2VVE2NjUxeXZUMTV1YUFsNXFGTXNBMzdPUVo3VGxNc0E4am55UU5wckVZOENSdw?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Memorial Day Sales: Great Deals on Fitness Gear",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWEx2T2hXVnExdVY4T2tVczl4cUd1QjcyM2ZMaG0wU3NIdUg1UnR2WnJPVkxjNnAwQ3RGOVlxOGRESXNabVpvejJkem5LN2pfOHhBbUhKYnpMczU3enpBenYzSjRHTUJuSm80QjVxVjI5RFNwdnItSWEtLS1vNlJUNjFDS2Y?oc=5",
-          "source": "gnews"
+          "title": "Reuse Less Software",
+          "url": "https://wiki.alopex.li/ReuseLessSoftware",
+          "source": "lobsters"
         }
       ],
-      "id": "a8b7e45842c3",
-      "slug": "fitness-gear"
+      "id": "35390f5453e8",
+      "slug": "software"
     },
     {
       "keyword": "apple",
-      "count": 10,
-      "score": 81.83822459810429,
+      "count": 15,
+      "score": 96.7487248799963,
       "proper": true,
       "niches": [
         "software",
@@ -415,10 +375,54 @@
           "title": "SkyBlue997/enableMacosAI — 国行 Mac 一键开启完整 Apple 智能(端侧 + Private Cloud Compute 云端)· macOS 27 / Apple Silicon",
           "url": "https://github.com/SkyBlue997/enableMacosAI",
           "source": "github"
+        },
+        {
+          "title": "Apple unveils iPadOS 27 with new Siri, productivity upgrades, more",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWUdqdFdJcmNpdDIxdUVrUEV1Z1lscTZ5WmZVakgtYUY4QmxNaEVmRzk1Q1BBLWMwakR6N21kZHV2OGNIZWJHaWVIQXZBc1lVam5mSVYxVTJlemJoYWJrVm0wTTlvVkVGZmo1SUU0YzV3Z0dNQnQzdjQ1MFFPajFpdENNRWpvTV9kLUhNZW5IR3RxVTVqU0J3T3RaZ1pickJ0QjY0?oc=5",
+          "source": "gnews"
         }
       ],
       "id": "3a7bd3e2360a",
       "slug": "apple"
+    },
+    {
+      "keyword": "productivity apps",
+      "count": 24,
+      "score": 84.26473094589272,
+      "proper": false,
+      "niches": [
+        "ai",
+        "software"
+      ],
+      "examples": [
+        {
+          "title": "Why I ditched paid productivity apps for this free open-source alternative - How-To Geek",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTE9jOUhlQl9jazRtcXBDdERaa3FWaFNnV3dzZ1NkbTE2ckZhbGVaTTdFck4xMW50QktnbUFoS183YzJWcUprSTJEbjhYUkR0NlJmaWhZM0d4QkdaREhnV3JXMkZ2NktjWl9xTHNoWjVVbE85cnhKSTdvOWRkaGI5cGFRU01aSWF6V0tMVTdpY2R5ck5LYUF3ZzdqMUZLQQ?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Why I ditched paid productivity apps for this free open-source alternative - How-To Geek",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTE9jOUhlQl9jazRtcXBDdERaa3FWaFNnV3dzZ1NkbTE2ckZhbGVaTTdFck4xMW50QktnbUFoS183YzJWcUprSTJEbjhYUkR0NlJmaWhZM0d4QkdaREhnV3JXMkZ2NktjWl9xTHNoWjVVbE85cnhKSTdvOWRkaGI5cGFRU01aSWF6V0tMVTdpY2R5ck5LYUF3ZzdqMUZLQQ?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Personal Productivity Apps",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9PM19PY3hhTzBxSnRoalVkZmhNcEpYVnpRYk5JTGV1dVlyUzUxc0tlcTJMRWNxTEtMTmh4aTdWMFZyTHBreTRSQk1mS0tDZHB6UmNyT3FoUE7SAV5BVV95cUxPNEtpcHlyNm1UYmRJQ2J4WDV0b1lRNVFNRklCeURsNWxZSHBKRVp4UnRyRlNFcVNkUVY2eDU5Tmhtb0gySHlmOFV6aEdXWkl6WDA0NlRvUlVfVWtyQVpR?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Personal Productivity Apps",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9PM19PY3hhTzBxSnRoalVkZmhNcEpYVnpRYk5JTGV1dVlyUzUxc0tlcTJMRWNxTEtMTmh4aTdWMFZyTHBreTRSQk1mS0tDZHB6UmNyT3FoUE7SAV5BVV95cUxPNEtpcHlyNm1UYmRJQ2J4WDV0b1lRNVFNRklCeURsNWxZSHBKRVp4UnRyRlNFcVNkUVY2eDU5Tmhtb0gySHlmOFV6aEdXWkl6WDA0NlRvUlVfVWtyQVpR?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "The Best Productivity Apps for 2026",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1hcGhhTzd4UXY0VzB6MjRBcjZDR3ozczlxVFd4eVZmRGpjNVk2Z1ZCd3pIa0hBMUcxN3hEQTloZjh0dmdLMl9EakVNYjl0ZFBRQldfZEtqbGVmNGNtYTBNSllINjZ1aUU3aWp0ZGMyOTg0eGJE?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "c3d816ac2a46",
+      "slug": "productivity-apps"
     },
     {
       "keyword": "threat risk",
@@ -449,32 +453,78 @@
       "slug": "threat-risk"
     },
     {
-      "keyword": "claude fable",
+      "keyword": "weather west",
       "count": 8,
-      "score": 75.82762999026147,
+      "score": 75.9383986362985,
+      "proper": true,
+      "niches": [
+        "software"
+      ],
+      "examples": [
+        {
+          "title": "Okay, folks: The big El Niño update is now out on Weather West! This sure looks like it's going to be a dramatic year from a global climate perspective, and there are major implications for extreme ev",
+          "url": "https://mastodon.social/@weatherwest/116734137877777638",
+          "source": "mastodon"
+        },
+        {
+          "title": "Okay, folks: The big El Niño update is now out on Weather West! This sure looks like it's going to be a dramatic year from a global climate perspective, and there are major implications for extreme ev",
+          "url": "https://mastodon.social/@weatherwest/116734137877777638",
+          "source": "mastodon"
+        }
+      ],
+      "id": "75075af70e6d",
+      "slug": "weather-west"
+    },
+    {
+      "keyword": "ben shieldaig",
+      "count": 8,
+      "score": 74.66813461056648,
       "proper": true,
       "niches": [
         "ai"
       ],
       "examples": [
         {
-          "title": "Claude Fable 5: mid-tier results on coding tasks",
-          "url": "https://www.endorlabs.com/learn/claude-fable-5-mythos-grade-hype",
-          "source": "hackernews"
+          "title": "Thursday evening rainbow by Ben Shieldaig.",
+          "url": "https://mastodonapp.uk/@GetCarter/116735130413521259",
+          "source": "mastodon"
         },
         {
-          "title": "Claude Fable 5: mid-tier results on coding tasks",
-          "url": "https://www.endorlabs.com/learn/claude-fable-5-mythos-grade-hype",
-          "source": "hackernews"
+          "title": "Thursday evening rainbow by Ben Shieldaig.",
+          "url": "https://mastodonapp.uk/@GetCarter/116735130413521259",
+          "source": "mastodon"
         }
       ],
-      "id": "ced86039c0ad",
-      "slug": "claude-fable"
+      "id": "6879f590001d",
+      "slug": "ben-shieldaig"
+    },
+    {
+      "keyword": "terra cotta",
+      "count": 8,
+      "score": 72.9522691894304,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "#Pottery #Gardening I made two Terra Cotta ollas to sink into one of my raised garden bed. You fill these with water and the water slowly seeps through the porous clay into the dirt. The roots of the ",
+          "url": "https://mastodon.social/@nancylwayne/116733906623885984",
+          "source": "mastodon"
+        },
+        {
+          "title": "#Pottery #Gardening I made two Terra Cotta ollas to sink into one of my raised garden bed. You fill these with water and the water slowly seeps through the porous clay into the dirt. The roots of the ",
+          "url": "https://mastodon.social/@nancylwayne/116733906623885984",
+          "source": "mastodon"
+        }
+      ],
+      "id": "0357b68efc42",
+      "slug": "terra-cotta"
     },
     {
       "keyword": "stop pretending",
       "count": 8,
-      "score": 67.18347563425189,
+      "score": 67.40457990915598,
       "proper": true,
       "niches": [
         "ai"
@@ -495,27 +545,9 @@
       "slug": "stop-pretending"
     },
     {
-      "keyword": "htc u24 pro",
-      "count": 5,
-      "score": 65.44147299869992,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "You can rebrand a phone.You can paint it gold.You can rewrite the marketing.But when you put it next to an HTC U24 Pro in a CT scanner, the disguise falls apart pretty fast.https://www.ifixit.com/News",
-          "url": "https://mastodon.social/@iFixit/116733274225942555",
-          "source": "mastodon"
-        }
-      ],
-      "id": "ed57d1eb8df7",
-      "slug": "htc-u24-pro"
-    },
-    {
       "keyword": "shioaji pro",
       "count": 8,
-      "score": 65.00367889950978,
+      "score": 65.68846796991284,
       "proper": true,
       "niches": [
         "ai"
@@ -536,49 +568,9 @@
       "slug": "shioaji-pro"
     },
     {
-      "keyword": "software",
-      "count": 15,
-      "score": 60.304858625156506,
-      "proper": false,
-      "niches": [
-        "software",
-        "ai",
-        "finance"
-      ],
-      "examples": [
-        {
-          "title": "Software Is Made Between Commits",
-          "url": "https://zed.dev/blog/introducing-deltadb",
-          "source": "hackernews"
-        },
-        {
-          "title": "AI is hitting employment among young software developers hard",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdjVabjcxNmcxdEVuQzd1elB4UTdBajRLdk01X1dOaFYtblJLWlY3cVJQSkpNamdONFB0SHpJY2kzQjZqM3F5UTFhU29LT3pTSkNoeVR1OVJaSVVEQW1KeUdfUHJzMkw1NjJUcXhUM3F1ek1Qa2tCdmRCWURUSzFZcXgyQ2YySjhmOHVKOVVWUU03NUZCT3YyT2xJOTEyN0JTZWNRa0ZfZlYzclJxX1NwN3E2dXg2bWtEMVE?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "AI is hitting employment among young software developers hard",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdjVabjcxNmcxdEVuQzd1elB4UTdBajRLdk01X1dOaFYtblJLWlY3cVJQSkpNamdONFB0SHpJY2kzQjZqM3F5UTFhU29LT3pTSkNoeVR1OVJaSVVEQW1KeUdfUHJzMkw1NjJUcXhUM3F1ek1Qa2tCdmRCWURUSzFZcXgyQ2YySjhmOHVKOVVWUU03NUZCT3YyT2xJOTEyN0JTZWNRa0ZfZlYzclJxX1NwN3E2dXg2bWtEMVE?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Apollo Is Screening All Software Investments for AI Threat Risk",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdk1SaW01TmZFSDA4T1ctRTBheVROYUlQOGxTWkNGdzR6SEpFR1ZOaUtUWV9vVGVGaHZ1WFVuSk1lZkNwOENwN2xIOW9zQmhnM0otSGZaTndYTlMtNkx4RXZXdkZ6RE1hbENacURnVUktdElsSTNfcmtUOWNXZE11emg3MnBoTTVaTXduYlVZMjVSZUREVTN3cnlpeHk4WXQ3TEN2UVVFeEtrczA0RExueU9hX1A?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Apollo Is Screening All Software Investments for AI Threat Risk",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdk1SaW01TmZFSDA4T1ctRTBheVROYUlQOGxTWkNGdzR6SEpFR1ZOaUtUWV9vVGVGaHZ1WFVuSk1lZkNwOENwN2xIOW9zQmhnM0otSGZaTndYTlMtNkx4RXZXdkZ6RE1hbENacURnVUktdElsSTNfcmtUOWNXZE11emg3MnBoTTVaTXduYlVZMjVSZUREVTN3cnlpeHk4WXQ3TEN2UVVFeEtrczA0RExueU9hX1A?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "35390f5453e8",
-      "slug": "software"
-    },
-    {
       "keyword": "apple silicon",
       "count": 8,
-      "score": 60.1330149699979,
+      "score": 61.692745972712785,
       "proper": true,
       "niches": [
         "ai"
@@ -597,6 +589,47 @@
       ],
       "id": "e5653a7fb79e",
       "slug": "apple-silicon"
+    },
+    {
+      "keyword": "mtg bench",
+      "count": 8,
+      "score": 61.03362767665905,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "MTG Bench: Testing how well LLMs can play Magic",
+          "url": "https://mtgautodeck.com/articles/mtg-bench/",
+          "source": "hackernews"
+        },
+        {
+          "title": "MTG Bench: Testing how well LLMs can play Magic",
+          "url": "https://mtgautodeck.com/articles/mtg-bench/",
+          "source": "hackernews"
+        }
+      ],
+      "id": "6005009233d6",
+      "slug": "mtg-bench"
+    },
+    {
+      "keyword": "htc u24 pro",
+      "count": 5,
+      "score": 59.91387119151425,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "You can rebrand a phone.You can paint it gold.You can rewrite the marketing.But when you put it next to an HTC U24 Pro in a CT scanner, the disguise falls apart pretty fast.https://www.ifixit.com/News",
+          "url": "https://mastodon.social/@iFixit/116733274225942555",
+          "source": "mastodon"
+        }
+      ],
+      "id": "ed57d1eb8df7",
+      "slug": "htc-u24-pro"
     },
     {
       "keyword": "super buttons",
@@ -627,248 +660,124 @@
       "slug": "super-buttons"
     },
     {
-      "keyword": "prime fitness",
-      "count": 18,
-      "score": 57.85700807596379,
+      "keyword": "free open-source",
+      "count": 9,
+      "score": 56.76725612014034,
       "proper": false,
-      "niches": [
-        "software",
-        "ai",
-        "health"
-      ],
-      "examples": [
-        {
-          "title": "Save Nearly 50% on Editor-Approved Home Gym Equipment With These Early Prime Day Fitness Deals",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9BVVVTRTNIMlFLNUc5c1pmaHp5aXpidFoxZzI5TnhxTkRzWm1XSDdzOWxSdlhmZjJYaEFoNUktb2JrSnNDa0g3THNSSjFLbkhweXJESmJ4U3ZPNld2a1R1eU1fWHE1ZG5ybXRqRjJVbDM0Qkw0ZVFLdg?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Save Nearly 50% on Editor-Approved Home Gym Equipment With These Early Prime Day Fitness Deals",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9BVVVTRTNIMlFLNUc5c1pmaHp5aXpidFoxZzI5TnhxTkRzWm1XSDdzOWxSdlhmZjJYaEFoNUktb2JrSnNDa0g3THNSSjFLbkhweXJESmJ4U3ZPNld2a1R1eU1fWHE1ZG5ybXRqRjJVbDM0Qkw0ZVFLdg?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Amazon Prime Day Fitness Deals: Shop the Best Deals on Fitness Equipment",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE51M3laczhpYWNOVVE1NXk0X1ZDYmdWV1ZTaFc3dVo4cEN3VEdLcmdaeGd2cHJ1WXJzSlB6elZveG54Rk5JdzE4NFpWVVktZGdDcEhZX18tV0F3NHg3MUJMekpGSEVwZlpyRkVrZTVSbTM?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Amazon Prime Day Fitness Deals: Shop the Best Deals on Fitness Equipment",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE51M3laczhpYWNOVVE1NXk0X1ZDYmdWV1ZTaFc3dVo4cEN3VEdLcmdaeGd2cHJ1WXJzSlB6elZveG54Rk5JdzE4NFpWVVktZGdDcEhZX18tV0F3NHg3MUJMekpGSEVwZlpyRkVrZTVSbTM?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Our Wellness-Obsessed Editors Found 26 Amazon Prime Day Fitness Deals Worth Shopping Early",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWnpSRmpMSWpmVVJQanFWNUVwY1Z2elphb2R4Q2xQb3BBdXFfMWlxMzRYeWRrSXd5UmtrU1lYNVV0T0NWbm5JZkRXSEoycnVFZGV4cThiUkc5VmxpT0JXaS1VTUFpMmFMYUlkRFEwQmlpeGN0Q05EeGYyZ2FTVFFpRjFtb203MFRDemRzcW9rOF9KQmdTRHd3TGdFYVF0QQ?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "f02d9f671a6f",
-      "slug": "prime-fitness"
-    },
-    {
-      "keyword": "fitness deals",
-      "count": 18,
-      "score": 57.85700807596379,
-      "proper": false,
-      "niches": [
-        "software",
-        "ai",
-        "health"
-      ],
-      "examples": [
-        {
-          "title": "Save Nearly 50% on Editor-Approved Home Gym Equipment With These Early Prime Day Fitness Deals",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9BVVVTRTNIMlFLNUc5c1pmaHp5aXpidFoxZzI5TnhxTkRzWm1XSDdzOWxSdlhmZjJYaEFoNUktb2JrSnNDa0g3THNSSjFLbkhweXJESmJ4U3ZPNld2a1R1eU1fWHE1ZG5ybXRqRjJVbDM0Qkw0ZVFLdg?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Save Nearly 50% on Editor-Approved Home Gym Equipment With These Early Prime Day Fitness Deals",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9BVVVTRTNIMlFLNUc5c1pmaHp5aXpidFoxZzI5TnhxTkRzWm1XSDdzOWxSdlhmZjJYaEFoNUktb2JrSnNDa0g3THNSSjFLbkhweXJESmJ4U3ZPNld2a1R1eU1fWHE1ZG5ybXRqRjJVbDM0Qkw0ZVFLdg?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Amazon Prime Day Fitness Deals: Shop the Best Deals on Fitness Equipment",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE51M3laczhpYWNOVVE1NXk0X1ZDYmdWV1ZTaFc3dVo4cEN3VEdLcmdaeGd2cHJ1WXJzSlB6elZveG54Rk5JdzE4NFpWVVktZGdDcEhZX18tV0F3NHg3MUJMekpGSEVwZlpyRkVrZTVSbTM?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Amazon Prime Day Fitness Deals: Shop the Best Deals on Fitness Equipment",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE51M3laczhpYWNOVVE1NXk0X1ZDYmdWV1ZTaFc3dVo4cEN3VEdLcmdaeGd2cHJ1WXJzSlB6elZveG54Rk5JdzE4NFpWVVktZGdDcEhZX18tV0F3NHg3MUJMekpGSEVwZlpyRkVrZTVSbTM?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Our Wellness-Obsessed Editors Found 26 Amazon Prime Day Fitness Deals Worth Shopping Early",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWnpSRmpMSWpmVVJQanFWNUVwY1Z2elphb2R4Q2xQb3BBdXFfMWlxMzRYeWRrSXd5UmtrU1lYNVV0T0NWbm5JZkRXSEoycnVFZGV4cThiUkc5VmxpT0JXaS1VTUFpMmFMYUlkRFEwQmlpeGN0Q05EeGYyZ2FTVFFpRjFtb203MFRDemRzcW9rOF9KQmdTRHd3TGdFYVF0QQ?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "0b93f7d1ccf5",
-      "slug": "fitness-deals"
-    },
-    {
-      "keyword": "fitness equipment",
-      "count": 11,
-      "score": 54.49919208627331,
-      "proper": true,
       "niches": [
         "ai"
       ],
       "examples": [
         {
-          "title": "Amazon Prime Day Fitness Deals: Shop the Best Deals on Fitness Equipment",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE51M3laczhpYWNOVVE1NXk0X1ZDYmdWV1ZTaFc3dVo4cEN3VEdLcmdaeGd2cHJ1WXJzSlB6elZveG54Rk5JdzE4NFpWVVktZGdDcEhZX18tV0F3NHg3MUJMekpGSEVwZlpyRkVrZTVSbTM?oc=5",
+          "title": "Why I ditched paid productivity apps for this free open-source alternative - How-To Geek",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTE9jOUhlQl9jazRtcXBDdERaa3FWaFNnV3dzZ1NkbTE2ckZhbGVaTTdFck4xMW50QktnbUFoS183YzJWcUprSTJEbjhYUkR0NlJmaWhZM0d4QkdaREhnV3JXMkZ2NktjWl9xTHNoWjVVbE85cnhKSTdvOWRkaGI5cGFRU01aSWF6V0tMVTdpY2R5ck5LYUF3ZzdqMUZLQQ?oc=5",
           "source": "gnews"
         },
         {
-          "title": "Amazon Prime Day Fitness Deals: Shop the Best Deals on Fitness Equipment",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE51M3laczhpYWNOVVE1NXk0X1ZDYmdWV1ZTaFc3dVo4cEN3VEdLcmdaeGd2cHJ1WXJzSlB6elZveG54Rk5JdzE4NFpWVVktZGdDcEhZX18tV0F3NHg3MUJMekpGSEVwZlpyRkVrZTVSbTM?oc=5",
+          "title": "Why I ditched paid productivity apps for this free open-source alternative - How-To Geek",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTE9jOUhlQl9jazRtcXBDdERaa3FWaFNnV3dzZ1NkbTE2ckZhbGVaTTdFck4xMW50QktnbUFoS183YzJWcUprSTJEbjhYUkR0NlJmaWhZM0d4QkdaREhnV3JXMkZ2NktjWl9xTHNoWjVVbE85cnhKSTdvOWRkaGI5cGFRU01aSWF6V0tMVTdpY2R5ck5LYUF3ZzdqMUZLQQ?oc=5",
           "source": "gnews"
         },
         {
-          "title": "Amazon Prime Day Fitness Deals: Shop the Best Deals on Fitness Equipment",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE51M3laczhpYWNOVVE1NXk0X1ZDYmdWV1ZTaFc3dVo4cEN3VEdLcmdaeGd2cHJ1WXJzSlB6elZveG54Rk5JdzE4NFpWVVktZGdDcEhZX18tV0F3NHg3MUJMekpGSEVwZlpyRkVrZTVSbTM?oc=5",
-          "source": "gnews"
+          "title": "orange2ai/orange-line-illustration — 🍊 New Yorker-style minimalist editorial illustration skill for AI agents — one idea, one accent, lots of silence. Free for open-source use; commercial license for",
+          "url": "https://github.com/orange2ai/orange-line-illustration",
+          "source": "github"
         }
       ],
-      "id": "d6e2f034e8a3",
-      "slug": "fitness-equipment"
+      "id": "6930e2a35025",
+      "slug": "free-open-source"
     }
   ],
   "opportunities": [
     {
-      "keyword": "passive income",
-      "count": 54,
-      "score": 264.58041726258614,
+      "keyword": "claude fable",
+      "count": 24,
+      "score": 303.0708005102944,
       "proper": true,
       "niches": [
-        "finance",
         "ai"
       ],
       "examples": [
         {
-          "title": "Looking to Potentially Diversify Your Passive Income? Try This $40 Desktop Bitcoin Miner.",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORHpFaERXdDBOWmdmNzJJN01qN2pPR0xuck1GbkRJNm1fU0p2MG9mMmJBNXZIaGpGa04ya0t4SXVkMmRmNTBaSlVqSGtuandDNGQwemc1blhHOUtWbkhIeXhTcFh4dUVkeHhnSi1RclEwNWFmeDVDZlNnd1BRa1g4Z3lLUjNfcml2MEVoRWZrUXdEbFV3amtGVHhuSGJxTW8ySjVvUExFR1lxQQ?oc=5",
-          "source": "gnews"
+          "title": "Claude Fable is relentlessly proactive",
+          "url": "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/",
+          "source": "hackernews"
         },
         {
-          "title": "Looking to Potentially Diversify Your Passive Income? Try This $40 Desktop Bitcoin Miner.",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORHpFaERXdDBOWmdmNzJJN01qN2pPR0xuck1GbkRJNm1fU0p2MG9mMmJBNXZIaGpGa04ya0t4SXVkMmRmNTBaSlVqSGtuandDNGQwemc1blhHOUtWbkhIeXhTcFh4dUVkeHhnSi1RclEwNWFmeDVDZlNnd1BRa1g4Z3lLUjNfcml2MEVoRWZrUXdEbFV3amtGVHhuSGJxTW8ySjVvUExFR1lxQQ?oc=5",
-          "source": "gnews"
+          "title": "Claude Fable is relentlessly proactive",
+          "url": "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/",
+          "source": "hackernews"
         },
         {
-          "title": "VOO’s Yield Is Just 1%. These 2 High-Yield JPMorgan ETFs Offer 8%-10% in Passive Income",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdHpUbVFaWjFCSEVfbzZvQV9ma0tQWlFCUXJ2dnJXWnBHZ2RJcEdjckhPazRfemRNRzVnNFp2OWt5Mm1Rb3BRbmdsakhyOFZDZWY0WGpoM0VxNF9XcE00VERMMWZLcncyN3NoM1lROW5RekJxWnBONjJsQjRqQk81eFQ5V0ZGX0pVWVJsdmhKdlhvdVFWQVdZS1JFRlJOT0FsRWpXaXRUbE5oN0JwcGFmUnBzOXMxV1E?oc=5",
-          "source": "gnews"
+          "title": "Anthropic apologizes for invisible Claude Fable guardrails",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
+          "source": "hackernews"
         },
         {
-          "title": "VOO’s Yield Is Just 1%. These 2 High-Yield JPMorgan ETFs Offer 8%-10% in Passive Income",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdHpUbVFaWjFCSEVfbzZvQV9ma0tQWlFCUXJ2dnJXWnBHZ2RJcEdjckhPazRfemRNRzVnNFp2OWt5Mm1Rb3BRbmdsakhyOFZDZWY0WGpoM0VxNF9XcE00VERMMWZLcncyN3NoM1lROW5RekJxWnBONjJsQjRqQk81eFQ5V0ZGX0pVWVJsdmhKdlhvdVFWQVdZS1JFRlJOT0FsRWpXaXRUbE5oN0JwcGFmUnBzOXMxV1E?oc=5",
-          "source": "gnews"
+          "title": "Anthropic apologizes for invisible Claude Fable guardrails",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
+          "source": "hackernews"
         },
         {
-          "title": "I Asked ChatGPT How Retirees Can Generate $2K Monthly in Passive Income in 2026: Here’s What It Recommended",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPT0tlSHVabEdfcEJ4M1d3Q1ROYjZXdWZOWkUtS1VvNE9VMUdST2pxamxvNktJLWM5UEdBSXBJZTlHdlM4XzJuYUM1NEY2bHpIOGl6bUdMUzN4NU03MWhjdHpDU1JFZHA3RWloMXAwMnNfdmFvSDlENC1QVjRYOXJLTWRnMTcxWXctUUJSZk0xcWRyYkllWG0xdHBuUi1taW9qT1E?oc=5",
-          "source": "gnews"
+          "title": "Claude Fable 5: mid-tier results on coding tasks",
+          "url": "https://www.endorlabs.com/learn/claude-fable-5-mythos-grade-hype",
+          "source": "hackernews"
         }
       ],
-      "id": "cf2dbbbf8c8c",
-      "slug": "passive-income",
+      "id": "ced86039c0ad",
+      "slug": "claude-fable",
       "opportunity": {
-        "type": "niche-content",
-        "recommended": "Publish niche guide for \"finance\"; bundle into digital product later."
+        "type": "tooling",
+        "recommended": "Build / list AI tools; monetize via affiliate links + lead magnet."
       }
     },
     {
-      "keyword": "income",
+      "keyword": "software",
       "count": 18,
-      "score": 104.087457328835,
-      "proper": true,
-      "niches": [
-        "finance",
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "Looking to Potentially Diversify Your Passive Income? Try This $40 Desktop Bitcoin Miner.",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORHpFaERXdDBOWmdmNzJJN01qN2pPR0xuck1GbkRJNm1fU0p2MG9mMmJBNXZIaGpGa04ya0t4SXVkMmRmNTBaSlVqSGtuandDNGQwemc1blhHOUtWbkhIeXhTcFh4dUVkeHhnSi1RclEwNWFmeDVDZlNnd1BRa1g4Z3lLUjNfcml2MEVoRWZrUXdEbFV3amtGVHhuSGJxTW8ySjVvUExFR1lxQQ?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Looking to Potentially Diversify Your Passive Income? Try This $40 Desktop Bitcoin Miner.",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORHpFaERXdDBOWmdmNzJJN01qN2pPR0xuck1GbkRJNm1fU0p2MG9mMmJBNXZIaGpGa04ya0t4SXVkMmRmNTBaSlVqSGtuandDNGQwemc1blhHOUtWbkhIeXhTcFh4dUVkeHhnSi1RclEwNWFmeDVDZlNnd1BRa1g4Z3lLUjNfcml2MEVoRWZrUXdEbFV3amtGVHhuSGJxTW8ySjVvUExFR1lxQQ?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Looking to Potentially Diversify Your Passive Income? Try This $40 Desktop Bitcoin Miner.",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORHpFaERXdDBOWmdmNzJJN01qN2pPR0xuck1GbkRJNm1fU0p2MG9mMmJBNXZIaGpGa04ya0t4SXVkMmRmNTBaSlVqSGtuandDNGQwemc1blhHOUtWbkhIeXhTcFh4dUVkeHhnSi1RclEwNWFmeDVDZlNnd1BRa1g4Z3lLUjNfcml2MEVoRWZrUXdEbFV3amtGVHhuSGJxTW8ySjVvUExFR1lxQQ?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "VOO’s Yield Is Just 1%. These 2 High-Yield JPMorgan ETFs Offer 8%-10% in Passive Income",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdHpUbVFaWjFCSEVfbzZvQV9ma0tQWlFCUXJ2dnJXWnBHZ2RJcEdjckhPazRfemRNRzVnNFp2OWt5Mm1Rb3BRbmdsakhyOFZDZWY0WGpoM0VxNF9XcE00VERMMWZLcncyN3NoM1lROW5RekJxWnBONjJsQjRqQk81eFQ5V0ZGX0pVWVJsdmhKdlhvdVFWQVdZS1JFRlJOT0FsRWpXaXRUbE5oN0JwcGFmUnBzOXMxV1E?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "I Asked ChatGPT How Retirees Can Generate $2K Monthly in Passive Income in 2026: Here’s What It Recommended",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPT0tlSHVabEdfcEJ4M1d3Q1ROYjZXdWZOWkUtS1VvNE9VMUdST2pxamxvNktJLWM5UEdBSXBJZTlHdlM4XzJuYUM1NEY2bHpIOGl6bUdMUzN4NU03MWhjdHpDU1JFZHA3RWloMXAwMnNfdmFvSDlENC1QVjRYOXJLTWRnMTcxWXctUUJSZk0xcWRyYkllWG0xdHBuUi1taW9qT1E?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "00cf141f881d",
-      "slug": "income",
-      "opportunity": {
-        "type": "niche-content",
-        "recommended": "Publish niche guide for \"finance\"; bundle into digital product later."
-      }
-    },
-    {
-      "keyword": "fitness gear",
-      "count": 23,
-      "score": 90.0901062363644,
+      "score": 124.38980443508412,
       "proper": true,
       "niches": [
         "software",
-        "gear"
+        "ai"
       ],
       "examples": [
         {
-          "title": "These early Prime Day deals are already live on Amazon: Kitchen gadgets, fitness gear, power tools, and more",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBrS1JUWjJIQ1pnOXNUcWRwU3ByYVJtY2o3UVoxeVhvRnNqckVRRFhaZ1czQ19aUzNfSm1KQ2ZLcUhyWTVkRjEyUEZIaGZtOU5IVU9QTEllVTVDQmhMR2ZPUE05OUxnbWptWVdhX0dSRQ?oc=5",
+          "title": "Software is made between commits",
+          "url": "https://zed.dev/blog/introducing-deltadb",
+          "source": "hackernews"
+        },
+        {
+          "title": "Software is made between commits",
+          "url": "https://zed.dev/blog/introducing-deltadb",
+          "source": "hackernews"
+        },
+        {
+          "title": "Apollo Is Screening All Software Investments for AI Threat Risk",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdk1SaW01TmZFSDA4T1ctRTBheVROYUlQOGxTWkNGdzR6SEpFR1ZOaUtUWV9vVGVGaHZ1WFVuSk1lZkNwOENwN2xIOW9zQmhnM0otSGZaTndYTlMtNkx4RXZXdkZ6RE1hbENacURnVUktdElsSTNfcmtUOWNXZE11emg3MnBoTTVaTXduYlVZMjVSZUREVTN3cnlpeHk4WXQ3TEN2UVVFeEtrczA0RExueU9hX1A?oc=5",
           "source": "gnews"
         },
         {
-          "title": "These early Prime Day deals are already live on Amazon: Kitchen gadgets, fitness gear, power tools, and more",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBrS1JUWjJIQ1pnOXNUcWRwU3ByYVJtY2o3UVoxeVhvRnNqckVRRFhaZ1czQ19aUzNfSm1KQ2ZLcUhyWTVkRjEyUEZIaGZtOU5IVU9QTEllVTVDQmhMR2ZPUE05OUxnbWptWVdhX0dSRQ?oc=5",
+          "title": "Apollo Is Screening All Software Investments for AI Threat Risk",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdk1SaW01TmZFSDA4T1ctRTBheVROYUlQOGxTWkNGdzR6SEpFR1ZOaUtUWV9vVGVGaHZ1WFVuSk1lZkNwOENwN2xIOW9zQmhnM0otSGZaTndYTlMtNkx4RXZXdkZ6RE1hbENacURnVUktdElsSTNfcmtUOWNXZE11emg3MnBoTTVaTXduYlVZMjVSZUREVTN3cnlpeHk4WXQ3TEN2UVVFeEtrczA0RExueU9hX1A?oc=5",
           "source": "gnews"
         },
         {
-          "title": "Dior’s fitness gear convinced me to book my first yoga class",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1OMHp0SGt6QjV1dHV2SlN6bGZTcmVmdk1ZUlFVc1ZDNHFVTTI2VVE2NjUxeXZUMTV1YUFsNXFGTXNBMzdPUVo3VGxNc0E4am55UU5wckVZOENSdw?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Dior’s fitness gear convinced me to book my first yoga class",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1OMHp0SGt6QjV1dHV2SlN6bGZTcmVmdk1ZUlFVc1ZDNHFVTTI2VVE2NjUxeXZUMTV1YUFsNXFGTXNBMzdPUVo3VGxNc0E4am55UU5wckVZOENSdw?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Memorial Day Sales: Great Deals on Fitness Gear",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWEx2T2hXVnExdVY4T2tVczl4cUd1QjcyM2ZMaG0wU3NIdUg1UnR2WnJPVkxjNnAwQ3RGOVlxOGRESXNabVpvejJkem5LN2pfOHhBbUhKYnpMczU3enpBenYzSjRHTUJuSm80QjVxVjI5RFNwdnItSWEtLS1vNlJUNjFDS2Y?oc=5",
-          "source": "gnews"
+          "title": "Reuse Less Software",
+          "url": "https://wiki.alopex.li/ReuseLessSoftware",
+          "source": "lobsters"
         }
       ],
-      "id": "a8b7e45842c3",
-      "slug": "fitness-gear",
+      "id": "35390f5453e8",
+      "slug": "software",
       "opportunity": {
-        "type": "affiliate",
-        "recommended": "Write SEO comparison/roundup article with affiliate links."
+        "type": "niche-content",
+        "recommended": "Publish niche guide for \"software\"; bundle into digital product later."
       }
     },
     {
       "keyword": "apple",
-      "count": 10,
-      "score": 81.83822459810429,
+      "count": 15,
+      "score": 96.7487248799963,
       "proper": true,
       "niches": [
         "software",
@@ -884,10 +793,58 @@
           "title": "SkyBlue997/enableMacosAI — 国行 Mac 一键开启完整 Apple 智能(端侧 + Private Cloud Compute 云端)· macOS 27 / Apple Silicon",
           "url": "https://github.com/SkyBlue997/enableMacosAI",
           "source": "github"
+        },
+        {
+          "title": "Apple unveils iPadOS 27 with new Siri, productivity upgrades, more",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWUdqdFdJcmNpdDIxdUVrUEV1Z1lscTZ5WmZVakgtYUY4QmxNaEVmRzk1Q1BBLWMwakR6N21kZHV2OGNIZWJHaWVIQXZBc1lVam5mSVYxVTJlemJoYWJrVm0wTTlvVkVGZmo1SUU0YzV3Z0dNQnQzdjQ1MFFPajFpdENNRWpvTV9kLUhNZW5IR3RxVTVqU0J3T3RaZ1pickJ0QjY0?oc=5",
+          "source": "gnews"
         }
       ],
       "id": "3a7bd3e2360a",
       "slug": "apple",
+      "opportunity": {
+        "type": "affiliate",
+        "recommended": "Write SEO comparison/roundup article with affiliate links."
+      }
+    },
+    {
+      "keyword": "productivity apps",
+      "count": 24,
+      "score": 84.26473094589272,
+      "proper": false,
+      "niches": [
+        "ai",
+        "software"
+      ],
+      "examples": [
+        {
+          "title": "Why I ditched paid productivity apps for this free open-source alternative - How-To Geek",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTE9jOUhlQl9jazRtcXBDdERaa3FWaFNnV3dzZ1NkbTE2ckZhbGVaTTdFck4xMW50QktnbUFoS183YzJWcUprSTJEbjhYUkR0NlJmaWhZM0d4QkdaREhnV3JXMkZ2NktjWl9xTHNoWjVVbE85cnhKSTdvOWRkaGI5cGFRU01aSWF6V0tMVTdpY2R5ck5LYUF3ZzdqMUZLQQ?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Why I ditched paid productivity apps for this free open-source alternative - How-To Geek",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTE9jOUhlQl9jazRtcXBDdERaa3FWaFNnV3dzZ1NkbTE2ckZhbGVaTTdFck4xMW50QktnbUFoS183YzJWcUprSTJEbjhYUkR0NlJmaWhZM0d4QkdaREhnV3JXMkZ2NktjWl9xTHNoWjVVbE85cnhKSTdvOWRkaGI5cGFRU01aSWF6V0tMVTdpY2R5ck5LYUF3ZzdqMUZLQQ?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Personal Productivity Apps",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9PM19PY3hhTzBxSnRoalVkZmhNcEpYVnpRYk5JTGV1dVlyUzUxc0tlcTJMRWNxTEtMTmh4aTdWMFZyTHBreTRSQk1mS0tDZHB6UmNyT3FoUE7SAV5BVV95cUxPNEtpcHlyNm1UYmRJQ2J4WDV0b1lRNVFNRklCeURsNWxZSHBKRVp4UnRyRlNFcVNkUVY2eDU5Tmhtb0gySHlmOFV6aEdXWkl6WDA0NlRvUlVfVWtyQVpR?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Personal Productivity Apps",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9PM19PY3hhTzBxSnRoalVkZmhNcEpYVnpRYk5JTGV1dVlyUzUxc0tlcTJMRWNxTEtMTmh4aTdWMFZyTHBreTRSQk1mS0tDZHB6UmNyT3FoUE7SAV5BVV95cUxPNEtpcHlyNm1UYmRJQ2J4WDV0b1lRNVFNRklCeURsNWxZSHBKRVp4UnRyRlNFcVNkUVY2eDU5Tmhtb0gySHlmOFV6aEdXWkl6WDA0NlRvUlVfVWtyQVpR?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "The Best Productivity Apps for 2026",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1hcGhhTzd4UXY0VzB6MjRBcjZDR3ozczlxVFd4eVZmRGpjNVk2Z1ZCd3pIa0hBMUcxN3hEQTloZjh0dmdLMl9EakVNYjl0ZFBRQldfZEtqbGVmNGNtYTBNSllINjZ1aUU3aWp0ZGMyOTg0eGJE?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "c3d816ac2a46",
+      "slug": "productivity-apps",
       "opportunity": {
         "type": "affiliate",
         "recommended": "Write SEO comparison/roundup article with affiliate links."
@@ -926,79 +883,84 @@
       }
     },
     {
-      "keyword": "claude fable",
+      "keyword": "weather west",
       "count": 8,
-      "score": 75.82762999026147,
+      "score": 75.9383986362985,
+      "proper": true,
+      "niches": [
+        "software"
+      ],
+      "examples": [
+        {
+          "title": "Okay, folks: The big El Niño update is now out on Weather West! This sure looks like it's going to be a dramatic year from a global climate perspective, and there are major implications for extreme ev",
+          "url": "https://mastodon.social/@weatherwest/116734137877777638",
+          "source": "mastodon"
+        },
+        {
+          "title": "Okay, folks: The big El Niño update is now out on Weather West! This sure looks like it's going to be a dramatic year from a global climate perspective, and there are major implications for extreme ev",
+          "url": "https://mastodon.social/@weatherwest/116734137877777638",
+          "source": "mastodon"
+        }
+      ],
+      "id": "75075af70e6d",
+      "slug": "weather-west",
+      "opportunity": {
+        "type": "niche-content",
+        "recommended": "Publish niche guide for \"software\"; bundle into digital product later."
+      }
+    },
+    {
+      "keyword": "ben shieldaig",
+      "count": 8,
+      "score": 74.66813461056648,
       "proper": true,
       "niches": [
         "ai"
       ],
       "examples": [
         {
-          "title": "Claude Fable 5: mid-tier results on coding tasks",
-          "url": "https://www.endorlabs.com/learn/claude-fable-5-mythos-grade-hype",
-          "source": "hackernews"
+          "title": "Thursday evening rainbow by Ben Shieldaig.",
+          "url": "https://mastodonapp.uk/@GetCarter/116735130413521259",
+          "source": "mastodon"
         },
         {
-          "title": "Claude Fable 5: mid-tier results on coding tasks",
-          "url": "https://www.endorlabs.com/learn/claude-fable-5-mythos-grade-hype",
-          "source": "hackernews"
+          "title": "Thursday evening rainbow by Ben Shieldaig.",
+          "url": "https://mastodonapp.uk/@GetCarter/116735130413521259",
+          "source": "mastodon"
         }
       ],
-      "id": "ced86039c0ad",
-      "slug": "claude-fable",
+      "id": "6879f590001d",
+      "slug": "ben-shieldaig",
       "opportunity": {
         "type": "tooling",
         "recommended": "Build / list AI tools; monetize via affiliate links + lead magnet."
       }
     },
     {
-      "keyword": "stop pretending",
+      "keyword": "terra cotta",
       "count": 8,
-      "score": 67.18347563425189,
+      "score": 72.9522691894304,
       "proper": true,
       "niches": [
         "ai"
       ],
       "examples": [
         {
-          "title": "The 'Prompt' Is Not a Skill — And We Need to Stop Pretending",
-          "url": "https://dev.to/harsh2644/the-prompt-is-not-a-skill-and-we-need-to-stop-pretending-3m18",
-          "source": "devto"
+          "title": "#Pottery #Gardening I made two Terra Cotta ollas to sink into one of my raised garden bed. You fill these with water and the water slowly seeps through the porous clay into the dirt. The roots of the ",
+          "url": "https://mastodon.social/@nancylwayne/116733906623885984",
+          "source": "mastodon"
         },
         {
-          "title": "The 'Prompt' Is Not a Skill — And We Need to Stop Pretending",
-          "url": "https://dev.to/harsh2644/the-prompt-is-not-a-skill-and-we-need-to-stop-pretending-3m18",
-          "source": "devto"
-        }
-      ],
-      "id": "774ea7964f43",
-      "slug": "stop-pretending",
-      "opportunity": {
-        "type": "affiliate",
-        "recommended": "Write SEO comparison/roundup article with affiliate links."
-      }
-    },
-    {
-      "keyword": "htc u24 pro",
-      "count": 5,
-      "score": 65.44147299869992,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "You can rebrand a phone.You can paint it gold.You can rewrite the marketing.But when you put it next to an HTC U24 Pro in a CT scanner, the disguise falls apart pretty fast.https://www.ifixit.com/News",
-          "url": "https://mastodon.social/@iFixit/116733274225942555",
+          "title": "#Pottery #Gardening I made two Terra Cotta ollas to sink into one of my raised garden bed. You fill these with water and the water slowly seeps through the porous clay into the dirt. The roots of the ",
+          "url": "https://mastodon.social/@nancylwayne/116733906623885984",
           "source": "mastodon"
         }
       ],
-      "id": "ed57d1eb8df7",
-      "slug": "htc-u24-pro",
+      "id": "0357b68efc42",
+      "slug": "terra-cotta",
       "opportunity": {
-        "type": "affiliate",
-        "recommended": "Write SEO comparison/roundup article with affiliate links."
+        "type": "niche-content",
+        "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
       }
     }
   ]

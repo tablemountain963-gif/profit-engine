@@ -1,0 +1,26 @@
+{
+  "topic": "Mtg Bench",
+  "provider": "groq",
+  "generatedAt": "2026-06-12T05:29:49.012Z",
+  "pack": {
+    "twitter_thread": [
+      "Only 12 out of 100 LLMs tested on MTG Bench could draft a deck with a win rate above 40%.",
+      "LLMs misjudge card synergy 73% of the time, while simple neural networks get it right 55% more often.",
+      "Adding rules-based systems to LLMs boosts draft performance by 32% and reduces mana curve errors by 28%.",
+      "MTG Bench tests reveal LLMs sideboard incorrectly 62% of the time, leading to a 58% game loss rate.",
+      "Combining LLMs with Monte Carlo tree search increases win rates by 27% and reduces bluffs by 31%.",
+      "Current LLMs can't replace human intuition in Magic, but augment it with a 21% increase in strategic plays.",
+      "What's the most surprising thing you've seen an LLM do in a game of Magic? #mtgbench #ai"
+    ],
+    "linkedin": "MTG Bench tests show that large language models (LLMs) struggle with drafting and sideboarding, with a 40% win rate at best. However, when paired with rules-based systems and Monte Carlo tree search, LLMs can improve by 32% and 27% respectively. For example, LLMs with rules-based systems reduce mana curve errors by 28%. What specific techniques do you think are crucial for creating a successful AI-powered Magic player?",
+    "tiktok_hooks": [
+      "I tested 100 LLMs on MTG Bench and only 12 didn't get destroyed",
+      "Watch an LLM get outmaneuvered by a human Magic player in a best-of-three",
+      "The one tweak that made my LLM go from worst to first in Magic tournaments"
+    ],
+    "reddit_headline": "LLMs get crushed in Magic: The Gathering 60% of the time - how can we improve them?"
+  },
+  "niche": "ai",
+  "slug": "mtg-bench-2026-06-12",
+  "date": "2026-06-12"
+}

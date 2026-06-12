@@ -248,38 +248,6 @@
       "losses": 1,
       "niche": "software"
     },
-    "generator-tools": {
-      "firstSeen": "2026-05-29T05:11:39.467Z",
-      "lastSeen": "2026-05-29T05:11:39.467Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "ai"
-    },
-    "chatgpt-prompts-for-marketing": {
-      "firstSeen": "2026-05-29T05:11:47.937Z",
-      "lastSeen": "2026-05-29T05:11:47.937Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "ai"
-    },
-    "developer-productivity-prompt-pack": {
-      "firstSeen": "2026-05-29T05:11:58.881Z",
-      "lastSeen": "2026-05-29T05:11:58.881Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "software"
-    },
-    "cloudflare-ips": {
-      "firstSeen": "2026-05-29T05:12:07.659Z",
-      "lastSeen": "2026-05-29T05:12:07.659Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "ai"
-    },
     "lost-decade": {
       "firstSeen": "2026-05-29T16:41:10.499Z",
       "lastSeen": "2026-05-29T22:23:00.784Z",
@@ -2919,11 +2887,83 @@
       "wins": 0,
       "losses": 0,
       "niche": "ai"
+    },
+    "grant-writing": {
+      "firstSeen": "2026-06-12T05:29:09.149Z",
+      "lastSeen": "2026-06-12T05:29:09.149Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "weather-west": {
+      "firstSeen": "2026-06-12T05:29:11.565Z",
+      "lastSeen": "2026-06-12T05:29:11.565Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "software"
+    },
+    "ben-shieldaig": {
+      "firstSeen": "2026-06-12T05:29:15.046Z",
+      "lastSeen": "2026-06-12T05:29:15.046Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "terra-cotta": {
+      "firstSeen": "2026-06-12T05:29:20.764Z",
+      "lastSeen": "2026-06-12T05:29:20.764Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "developer-productivity-prompt-pack": {
+      "firstSeen": "2026-06-12T05:29:31.952Z",
+      "lastSeen": "2026-06-12T05:29:31.952Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "software"
+    },
+    "chatgpt-prompts-for-marketing": {
+      "firstSeen": "2026-06-12T05:29:38.494Z",
+      "lastSeen": "2026-06-12T05:29:38.494Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "mtg-bench": {
+      "firstSeen": "2026-06-12T05:29:49.013Z",
+      "lastSeen": "2026-06-12T05:29:49.013Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "free-open-source": {
+      "firstSeen": "2026-06-12T05:30:07.789Z",
+      "lastSeen": "2026-06-12T05:30:07.789Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "golden-gatemy": {
+      "firstSeen": "2026-06-12T05:30:20.416Z",
+      "lastSeen": "2026-06-12T05:30:20.416Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "software"
     }
   },
   "niches": {
     "ai": {
-      "count": 455,
+      "count": 461,
       "wins": 133,
       "losses": 17
     },
@@ -2933,7 +2973,7 @@
       "losses": 0
     },
     "software": {
-      "count": 100,
+      "count": 103,
       "wins": 27,
       "losses": 6
     },
