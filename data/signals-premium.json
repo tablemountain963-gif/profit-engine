@@ -1,181 +1,159 @@
 {
-  "generatedAt": "2026-06-12T16:16:08.500Z",
-  "sourceCount": 205,
+  "generatedAt": "2026-06-12T17:59:07.553Z",
+  "sourceCount": 203,
   "topItems": [
-    {
-      "title": "Microsoft’s terms of service said Copilot was “for entertainment purposes only.” An Nvidia executive said AI is more expensive than humans. Google argued in German court that everyone knows they can’t",
-      "url": "https://beige.party/@maxleibman/116735845451184561",
-      "score": 9.62,
-      "niche": "ai",
-      "source": "mastodon",
-      "engagement": {
-        "score": 1745,
-        "comments": 55
-      }
-    },
-    {
-      "title": "What’s wrong with humanity?Soon there will be a ‘person’ on this planet who is  trillionaire The fact we allow this or make this possibleThat’s what’s wrong with humanity",
-      "url": "https://mstdn.social/@stux/116736974996336697",
-      "score": 9.61,
-      "niche": "ai",
-      "source": "mastodon",
-      "engagement": {
-        "score": 353,
-        "comments": 27
-      }
-    },
-    {
-      "title": "Claude Fable is relentlessly proactive",
-      "url": "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/",
-      "score": 9.57,
-      "niche": "ai",
-      "source": "hackernews",
-      "engagement": {
-        "score": 673,
-        "comments": 551
-      }
-    },
-    {
-      "title": "shadcn/improve — Use your most capable model to audit your codebase and write plans for cheaper models to execute.",
-      "url": "https://github.com/shadcn/improve",
-      "score": 9.34,
-      "niche": "ai",
-      "source": "github",
-      "engagement": {
-        "score": 2252,
-        "comments": 6
-      }
-    },
-    {
-      "title": "McSweeney's on \"AI finances\" goes harder than most business publications.https://www.mcsweeneys.net/articles/ai-economics-for-dummies",
-      "url": "https://tldr.nettime.org/@tante/116736671610666006",
-      "score": 9.23,
-      "niche": "ai",
-      "source": "mastodon",
-      "engagement": {
-        "score": 727,
-        "comments": 18
-      }
-    },
     {
       "title": "KPMG issued a report citing all the transformational ways GenAI has transformed industry, it’s been widely cited. One minor problem: it turns they used AI to write the report, and it made up all of th",
       "url": "https://cyberplace.social/@GossiTheDog/116736495067438407",
-      "score": 9.19,
+      "score": 9.42,
       "niche": "ai",
       "source": "mastodon",
       "engagement": {
-        "score": 1232,
-        "comments": 47
-      }
-    },
-    {
-      "title": "Show HN: FablePool – pool money behind a prompt, and Fable builds it in public",
-      "url": "https://fablepool.com",
-      "score": 8.82,
-      "niche": "ai",
-      "source": "hackernews",
-      "engagement": {
-        "score": 484,
-        "comments": 254
-      }
-    },
-    {
-      "title": "Nobody ever gets credit for fixing problems that never happened (2001) [pdf]",
-      "url": "https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf",
-      "score": 8.82,
-      "niche": "software",
-      "source": "hackernews",
-      "engagement": {
-        "score": 648,
-        "comments": 211
-      }
-    },
-    {
-      "title": "The Future of Email",
-      "url": "https://www.fastmail.com/blog/the-future-of-email/",
-      "score": 8.72,
-      "niche": "ai",
-      "source": "hackernews",
-      "engagement": {
-        "score": 164,
-        "comments": 182
-      }
-    },
-    {
-      "title": "Kimi K2.7-Code: open-source coding model with better token efficiency",
-      "url": "https://huggingface.co/moonshotai/Kimi-K2.7-Code",
-      "score": 8.71,
-      "niche": "ai",
-      "source": "hackernews",
-      "engagement": {
-        "score": 263,
-        "comments": 131
-      }
-    },
-    {
-      "title": "Ryanair dark UX patterns summer 2026 refresher",
-      "url": "https://blog.osull.com/2026/06/12/ryanair-dark-ux-patterns-summer-2026-refresher/",
-      "score": 8.6,
-      "niche": "ai",
-      "source": "hackernews",
-      "engagement": {
-        "score": 187,
-        "comments": 149
-      }
-    },
-    {
-      "title": "AI agent bankrupted their operator while trying to scan DN42",
-      "url": "https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/",
-      "score": 8.49,
-      "niche": "ai",
-      "source": "hackernews",
-      "engagement": {
-        "score": 1200,
-        "comments": 438
-      }
-    },
-    {
-      "title": "Piccadilly Circus, London.Keir Starmer now demands state spyware on every mobile device, always watching the screen, scanning everything, looking for things the government disapproves of.",
-      "url": "https://mastodon.online/@mullvadnet/116737304618372324",
-      "score": 8.44,
-      "niche": "software",
-      "source": "mastodon",
-      "engagement": {
-        "score": 195,
-        "comments": 6
-      }
-    },
-    {
-      "title": "DietrichGebert/ponytail — Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "url": "https://github.com/DietrichGebert/ponytail",
-      "score": 8.3,
-      "niche": "ai",
-      "source": "github",
-      "engagement": {
-        "score": 657,
-        "comments": 0
+        "score": 1470,
+        "comments": 55
       }
     },
     {
       "title": "Sex work is work, prompting LLMs is not",
       "url": "https://beige.party/@bridget/116737771467390780",
-      "score": 7.84,
+      "score": 9.39,
       "niche": "ai",
       "source": "mastodon",
       "engagement": {
-        "score": 128,
-        "comments": 3
+        "score": 342,
+        "comments": 7
       }
     },
     {
-      "title": "I'm back on @pixelfed full time and can't wait to ship the new webUI and mobile app redesign.every page, screen and API endpoint is getting federation, performance and network improvements, and every ",
-      "url": "https://mastodon.social/@dansup/116737658938425897",
-      "score": 7.68,
+      "title": "shadcn/improve — Use your most capable model to audit your codebase and write plans for cheaper models to execute.",
+      "url": "https://github.com/shadcn/improve",
+      "score": 9.37,
+      "niche": "ai",
+      "source": "github",
+      "engagement": {
+        "score": 2303,
+        "comments": 6
+      }
+    },
+    {
+      "title": "Nobody ever gets credit for fixing problems that never happened (2001) [pdf]",
+      "url": "https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf",
+      "score": 8.9,
+      "niche": "software",
+      "source": "hackernews",
+      "engagement": {
+        "score": 683,
+        "comments": 227
+      }
+    },
+    {
+      "title": "AI agent bankrupted their operator while trying to scan DN42",
+      "url": "https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/",
+      "score": 8.56,
+      "niche": "ai",
+      "source": "hackernews",
+      "engagement": {
+        "score": 1281,
+        "comments": 465
+      }
+    },
+    {
+      "title": "DietrichGebert/ponytail — Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "score": 8.41,
+      "niche": "ai",
+      "source": "github",
+      "engagement": {
+        "score": 716,
+        "comments": 0
+      }
+    },
+    {
+      "title": "Best AI press release writing tools for startups on a budget",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9rN19kZkU2Y1FjS0ZlZkJ3TjduajdubXdxTVVoOE1aR3ZUb0MxR21Ra1RTcE1mUVZuZXpxRy16Sk9QV2Y3d1YxeXVJY09PLXBZVm44WkpFWW1CbEdxeHlhNXBoWU1TdEtiaGtV?oc=5",
+      "score": 8.26,
+      "niche": "ai",
+      "source": "gnews",
+      "engagement": {
+        "score": 40,
+        "comments": 0
+      }
+    },
+    {
+      "title": "a few more IR shots, again at 550nm+ #photography #infrared",
+      "url": "https://mystical.garden/@janamarie/116737959796342459",
+      "score": 7.97,
       "niche": "ai",
       "source": "mastodon",
       "engagement": {
-        "score": 65,
-        "comments": 2
+        "score": 293,
+        "comments": 8
+      }
+    },
+    {
+      "title": "I am dying with laughter. lmao. AI Agent bankrupted their operator while trying to scan DN42 https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/While modern",
+      "url": "https://mastodon.social/@nixCraft/116737618421957719",
+      "score": 7.72,
+      "niche": "ai",
+      "source": "mastodon",
+      "engagement": {
+        "score": 238,
+        "comments": 10
+      }
+    },
+    {
+      "title": "My dentist hands out roses at the end of visits. I was surprised and delighted to see rainbow roses today, and it was nice to bring one home. 🌹🏳️‍🌈#pride #pridemonth #bloomscrolling",
+      "url": "https://tech.lgbt/@SunnJax/116737901321486510",
+      "score": 7.65,
+      "niche": "ai",
+      "source": "mastodon",
+      "engagement": {
+        "score": 228,
+        "comments": 8
+      }
+    },
+    {
+      "title": "McSweeney's on \"AI finances\" goes harder than most business publications.https://www.mcsweeneys.net/articles/ai-economics-for-dummies",
+      "url": "https://tldr.nettime.org/@tante/116736671610666006",
+      "score": 7.6,
+      "niche": "ai",
+      "source": "mastodon",
+      "engagement": {
+        "score": 892,
+        "comments": 20
+      }
+    },
+    {
+      "title": "97 Blog Posts To Learn About Productivity Tools",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBMVmpxeGRiai1jZkFCOFAzZWhFZTB4dUpCWk5IZmNyazN5dlR4NUt6RlRoMUs1Ykx3WVBzU3ZveElUdkZJSG94amFQX09EanVRN256RUIyNmdrY1hEMTI5UEtTRVhoMUVySDctRS1vaks4Si1sU1F4bmRR?oc=5",
+      "score": 7.48,
+      "niche": "ai",
+      "source": "gnews",
+      "engagement": {
+        "score": 40,
+        "comments": 0
+      }
+    },
+    {
+      "title": "Best AI for Excel: 5 Tools Worth Using in 2026",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWFFCUEFHZm9UblBQQy1nXzg0QU5GNWl4M2xOaEtpd1dRZlJCbWVhcDNuZ1FLeEdMRkhzbERGV2JxWXVhaDdHcVdicHZyTlVUUGxEU0pmbTRaaWswYzZ3RVF3Y2dIaE0ybjA1Wm1oZUlhOFQ1dFBjbkxqenYwbnk1LUFFRmVZQzg0?oc=5",
+      "score": 7.48,
+      "niche": "ai",
+      "source": "gnews",
+      "engagement": {
+        "score": 40,
+        "comments": 0
+      }
+    },
+    {
+      "title": "Slightly reducing the sloppiness of AI generated front end",
+      "url": "https://envs.net/~volpe/blog/posts/reduce-slop.html",
+      "score": 7.4,
+      "niche": "ai",
+      "source": "hackernews",
+      "engagement": {
+        "score": 90,
+        "comments": 57
       }
     },
     {
@@ -190,36 +168,102 @@
       }
     },
     {
-      "title": "I am dying with laughter. lmao. AI Agent bankrupted their operator while trying to scan DN42 https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/While modern",
-      "url": "https://mastodon.social/@nixCraft/116737618421957719",
-      "score": 7.05,
+      "title": "Kimi K2.7-Code: open-source coding model with better token efficiency",
+      "url": "https://huggingface.co/moonshotai/Kimi-K2.7-Code",
+      "score": 7.2,
       "niche": "ai",
-      "source": "mastodon",
+      "source": "hackernews",
       "engagement": {
-        "score": 143,
-        "comments": 8
+        "score": 319,
+        "comments": 166
       }
     },
     {
       "title": "Dear Fedi friends, I need your help.If by any chance any of you have saved the video of #WSocial CEO Anna Zeiter's presentation at the Monaco AI conference (uploaded to YouTube on May 21) I would be E",
       "url": "https://mastodon.social/@_elena/116737673318980799",
-      "score": 6.68,
+      "score": 7.17,
       "niche": "ai",
       "source": "mastodon",
       "engagement": {
-        "score": 111,
-        "comments": 5
+        "score": 153,
+        "comments": 10
+      }
+    },
+    {
+      "title": "WhatsApp Business API pricing 2026: what's free and where markup hides",
+      "url": "https://wexio.io/blog/free-whatsapp-business-api",
+      "score": 6.93,
+      "niche": "software",
+      "source": "hackernews",
+      "engagement": {
+        "score": 26,
+        "comments": 12
+      }
+    },
+    {
+      "title": "A dumpster arrived behind my university's library",
+      "url": "https://yalereview.org/article/sheila-liming-the-end-of-books",
+      "score": 6.53,
+      "niche": "software",
+      "source": "hackernews",
+      "engagement": {
+        "score": 90,
+        "comments": 62
+      }
+    },
+    {
+      "title": "A jacket that harvests drinking water from the air",
+      "url": "https://news.utexas.edu/2026/06/11/this-jacket-pulls-drinking-water-from-thin-air/",
+      "score": 6.39,
+      "niche": "ai",
+      "source": "hackernews",
+      "engagement": {
+        "score": 136,
+        "comments": 88
       }
     },
     {
       "title": "skydoves/compose-nav-graph — ⛵️ Compose Navigation Graph plugin for Android Studio that visualizes your entire app flow as an interactive map of rendered previews, typed arguments, and transitions.",
       "url": "https://github.com/skydoves/compose-nav-graph",
-      "score": 6.21,
+      "score": 6.35,
       "niche": "software",
       "source": "github",
       "engagement": {
-        "score": 133,
+        "score": 148,
         "comments": 1
+      }
+    },
+    {
+      "title": "Why do we even want high-speed rail? The faster the train goes, the sooner you have to get off the train.",
+      "url": "https://mastodon.social/@ZachWeinersmith/116738102321440558",
+      "score": 6.28,
+      "niche": "ai",
+      "source": "mastodon",
+      "engagement": {
+        "score": 73,
+        "comments": 9
+      }
+    },
+    {
+      "title": "16 Best AI Tools for Business in 2026: Tested & Ranked",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAwQnBYNFM3cXk2eUZVZWZHYjBJZ01wbHJOMkpiNXExelhCZUc4US1OX0tnaWdyTnNCZkp6bGEwN0FOMDBiUzh6a29Wd2pmUk9pNWdRdXdXNG9HZVpo?oc=5",
+      "score": 5.99,
+      "niche": "ai",
+      "source": "gnews",
+      "engagement": {
+        "score": 40,
+        "comments": 0
+      }
+    },
+    {
+      "title": "Explore Best AI Tools for Entrepreneurs and Startups",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE50VXYteWlQWjlnVEN0ZmQ4ZXF1UW5vemdoYk91Qk45ZnpRMmRWeGo4Z2JGTC1QSnZDZGRUemdxLVhKU3FqZVF5aTY5UV9UUTdkUlowY0hmLWxXd1gxRHZLMzRkdGZIZUF1QnlsMUFDVW50b25MbVFmWEh4WFdwUQ?oc=5",
+      "score": 5.99,
+      "niche": "ai",
+      "source": "gnews",
+      "engagement": {
+        "score": 40,
+        "comments": 0
       }
     },
     {
@@ -232,57 +276,13 @@
         "score": 40,
         "comments": 0
       }
-    },
-    {
-      "title": "Slightly reducing the sloppiness of AI generated front end",
-      "url": "https://envs.net/~volpe/blog/posts/reduce-slop.html",
-      "score": 5.88,
-      "niche": "ai",
-      "source": "hackernews",
-      "engagement": {
-        "score": 38,
-        "comments": 15
-      }
-    },
-    {
-      "title": "SkyBlue997/enableMacosAI — 国行 Mac 一键开启完整 Apple 智能(端侧 + Private Cloud Compute 云端)· macOS 27 / Apple Silicon",
-      "url": "https://github.com/SkyBlue997/enableMacosAI",
-      "score": 5.69,
-      "niche": "ai",
-      "source": "github",
-      "engagement": {
-        "score": 360,
-        "comments": 9
-      }
-    },
-    {
-      "title": "Sinotrade/shioaji-pro-app — Shioaji Pro — professional trading terminal for Taiwan markets (TWSE/TPEX/TAIFEX) built on the Shioaji HTTP API: real-time SSE quotes, candlestick charts with click-to-trad",
-      "url": "https://github.com/Sinotrade/shioaji-pro-app",
-      "score": 5.51,
-      "niche": "ai",
-      "source": "github",
-      "engagement": {
-        "score": 154,
-        "comments": 3
-      }
-    },
-    {
-      "title": "From $14 to $443: 10 Gadgets Worth Buying This June 2026",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5QUnZlbzZHWlJfVk83MGFCMUpKc3RxcWlJandmcG9oaGd5TDkza0J4SjYwZTZ2cVFrM0hvX0hPTWdGb2tMY29pUU5PTTlWY24xOFY4NmZuSXNKUnlIUEItV3BUTmF2Mk9BcFR5MQ?oc=5",
-      "score": 5.19,
-      "niche": "gear",
-      "source": "gnews",
-      "engagement": {
-        "score": 40,
-        "comments": 0
-      }
     }
   ],
   "topics": [
     {
       "keyword": "passive income",
-      "count": 54,
-      "score": 229.16368376902065,
+      "count": 59,
+      "score": 283.74028948041644,
       "proper": true,
       "niches": [
         "finance",
@@ -300,69 +300,23 @@
           "source": "gnews"
         },
         {
-          "title": "I Asked ChatGPT How Retirees Can Generate $2K Monthly in Passive Income in 2026: Here’s What It Recommended",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPT0tlSHVabEdfcEJ4M1d3Q1ROYjZXdWZOWkUtS1VvNE9VMUdST2pxamxvNktJLWM5UEdBSXBJZTlHdlM4XzJuYUM1NEY2bHpIOGl6bUdMUzN4NU03MWhjdHpDU1JFZHA3RWloMXAwMnNfdmFvSDlENC1QVjRYOXJLTWRnMTcxWXctUUJSZk0xcWRyYkllWG0xdHBuUi1taW9qT1E?oc=5",
+          "title": "2 High-Yield Goldman Sachs ETFs Paying 8%+ in Passive Income",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdlZaMUhkb0xKQjlxSmNobTNpRFZUT05RT19NV3J4cXpTMW1sakpPTnd2S1pjMjIyS0swbFhubFllVXR1VWlibnQtWTMxN09aOGM2VUdoNUFoXzFqYlFXc1VTa25ydEVQZTBQcm55cDIxcnU2dFF2aWhDOUVKZEtSQXNDX1FBSmF5REJlT25Ob3Y5QQ?oc=5",
           "source": "gnews"
         },
         {
-          "title": "I Asked ChatGPT How Retirees Can Generate $2K Monthly in Passive Income in 2026: Here’s What It Recommended",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPT0tlSHVabEdfcEJ4M1d3Q1ROYjZXdWZOWkUtS1VvNE9VMUdST2pxamxvNktJLWM5UEdBSXBJZTlHdlM4XzJuYUM1NEY2bHpIOGl6bUdMUzN4NU03MWhjdHpDU1JFZHA3RWloMXAwMnNfdmFvSDlENC1QVjRYOXJLTWRnMTcxWXctUUJSZk0xcWRyYkllWG0xdHBuUi1taW9qT1E?oc=5",
+          "title": "2 High-Yield Goldman Sachs ETFs Paying 8%+ in Passive Income",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdlZaMUhkb0xKQjlxSmNobTNpRFZUT05RT19NV3J4cXpTMW1sakpPTnd2S1pjMjIyS0swbFhubFllVXR1VWlibnQtWTMxN09aOGM2VUdoNUFoXzFqYlFXc1VTa25ydEVQZTBQcm55cDIxcnU2dFF2aWhDOUVKZEtSQXNDX1FBSmF5REJlT25Ob3Y5QQ?oc=5",
           "source": "gnews"
         },
         {
-          "title": "I Asked ChatGPT How Retirees Can Generate $2K Monthly in Passive Income in 2026: Here’s What It Recommended",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPT0tlSHVabEdfcEJ4M1d3Q1ROYjZXdWZOWkUtS1VvNE9VMUdST2pxamxvNktJLWM5UEdBSXBJZTlHdlM4XzJuYUM1NEY2bHpIOGl6bUdMUzN4NU03MWhjdHpDU1JFZHA3RWloMXAwMnNfdmFvSDlENC1QVjRYOXJLTWRnMTcxWXctUUJSZk0xcWRyYkllWG0xdHBuUi1taW9qT1E?oc=5",
+          "title": "2 High-Yield Goldman Sachs ETFs Paying 8%+ in Passive Income",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdlZaMUhkb0xKQjlxSmNobTNpRFZUT05RT19NV3J4cXpTMW1sakpPTnd2S1pjMjIyS0swbFhubFllVXR1VWlibnQtWTMxN09aOGM2VUdoNUFoXzFqYlFXc1VTa25ydEVQZTBQcm55cDIxcnU2dFF2aWhDOUVKZEtSQXNDX1FBSmF5REJlT25Ob3Y5QQ?oc=5",
           "source": "gnews"
         }
       ],
       "id": "cf2dbbbf8c8c",
       "slug": "passive-income"
-    },
-    {
-      "keyword": "claude fable",
-      "count": 8,
-      "score": 114.79632094184355,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "Claude Fable is relentlessly proactive",
-          "url": "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/",
-          "source": "hackernews"
-        },
-        {
-          "title": "Claude Fable is relentlessly proactive",
-          "url": "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/",
-          "source": "hackernews"
-        }
-      ],
-      "id": "ced86039c0ad",
-      "slug": "claude-fable"
-    },
-    {
-      "keyword": "piccadilly circus",
-      "count": 8,
-      "score": 101.25300647117342,
-      "proper": true,
-      "niches": [
-        "software"
-      ],
-      "examples": [
-        {
-          "title": "Piccadilly Circus, London.Keir Starmer now demands state spyware on every mobile device, always watching the screen, scanning everything, looking for things the government disapproves of.",
-          "url": "https://mastodon.online/@mullvadnet/116737304618372324",
-          "source": "mastodon"
-        },
-        {
-          "title": "Piccadilly Circus, London.Keir Starmer now demands state spyware on every mobile device, always watching the screen, scanning everything, looking for things the government disapproves of.",
-          "url": "https://mastodon.online/@mullvadnet/116737304618372324",
-          "source": "mastodon"
-        }
-      ],
-      "id": "6eade77321a4",
-      "slug": "piccadilly-circus"
     },
     {
       "keyword": "glorious model",
@@ -394,8 +348,8 @@
     },
     {
       "keyword": "agent",
-      "count": 11,
-      "score": 91.4271737132105,
+      "count": 12,
+      "score": 94.70088389813712,
       "proper": true,
       "niches": [
         "ai"
@@ -432,8 +386,8 @@
     },
     {
       "keyword": "productivity apps",
-      "count": 24,
-      "score": 84.26473094589272,
+      "count": 30,
+      "score": 92.93505695961801,
       "proper": false,
       "niches": [
         "ai",
@@ -462,7 +416,7 @@
         },
         {
           "title": "The Best Productivity Apps for 2026",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1hcGhhTzd4UXY0VzB6MjRBcjZDR3ozczlxVFd4eVZmRGpjNVk2Z1ZCd3pIa0hBMUcxN3hEQTloZjh0dmdLMl9EakVNYjl0ZFBRQldfZEtqbGVmNGNtYTBNSllINjZ1aUU3aWp0ZGMyOTg0eGJE?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUWdjWkQzZTNMTXlTWkpWd3UyXzdtZDduUXd6MEkyd1hBeWJFV1Q0bW5mOTdOemlRNWNlUEpQcXZjS3RRTkZzS3dWakNLeV8zdUtSOVBrajVfaGVTRzFSWE8temxZenNxamdLNVpYaDNMQURUMGpqNnc4cVhOWHhMNm5oNGU?oc=5",
           "source": "gnews"
         }
       ],
@@ -472,7 +426,7 @@
     {
       "keyword": "dear fedi",
       "count": 8,
-      "score": 80.11621749791033,
+      "score": 86.03709113405182,
       "proper": true,
       "niches": [
         "ai"
@@ -495,7 +449,7 @@
     {
       "keyword": "android studio",
       "count": 8,
-      "score": 74.55438361408888,
+      "score": 76.1421704462125,
       "proper": true,
       "niches": [
         "software"
@@ -516,47 +470,9 @@
       "slug": "android-studio"
     },
     {
-      "keyword": "claude",
-      "count": 12,
-      "score": 69.7863584584293,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "Claude Fable is relentlessly proactive",
-          "url": "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/",
-          "source": "hackernews"
-        },
-        {
-          "title": "Show HN: Script to bulk delete Claude chats from the web UI",
-          "url": "https://github.com/MatteoLeonesi/bulk-delete-claude-chat",
-          "source": "hackernews"
-        },
-        {
-          "title": "Show HN: Script to bulk delete Claude chats from the web UI",
-          "url": "https://github.com/MatteoLeonesi/bulk-delete-claude-chat",
-          "source": "hackernews"
-        },
-        {
-          "title": "Anthropic plugs Claude AI in Japan for automated software development",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQWk1mNHBtMk5tOE94QmFFSGRYMXRHVlpzT1FGajJKbVdhc3pDUWl4WTgxZk81Vmt2QVNDcHNXOTlpTExCVjNhVHl5VVM3amNIdV8tdGVVV1UwVldleGQ4aEhBWDZRMmV2azV4U1lGb3l1emlOeWluZlRIT0NlbDhGVnlVYWlQUzVvOG51Y1VHT3dmRFNsWU5BanozVGppN3EtemVCbzBFS3pUb1dxWlJaQXZxelNLeXJwQkRjRks3ZDg0N3Bmd2EzdnE2MmtYRGJ6NGZ3?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Anthropic plugs Claude AI in Japan for automated software development",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQWk1mNHBtMk5tOE94QmFFSGRYMXRHVlpzT1FGajJKbVdhc3pDUWl4WTgxZk81Vmt2QVNDcHNXOTlpTExCVjNhVHl5VVM3amNIdV8tdGVVV1UwVldleGQ4aEhBWDZRMmV2azV4U1lGb3l1emlOeWluZlRIT0NlbDhGVnlVYWlQUzVvOG51Y1VHT3dmRFNsWU5BanozVGppN3EtemVCbzBFS3pUb1dxWlJaQXZxelNLeXJwQkRjRks3ZDg0N3Bmd2EzdnE2MmtYRGJ6NGZ3?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "c857d09db23e",
-      "slug": "claude"
-    },
-    {
       "keyword": "apple silicon",
       "count": 8,
-      "score": 68.32362450731404,
+      "score": 69.3678023704836,
       "proper": true,
       "niches": [
         "ai"
@@ -600,45 +516,9 @@
       "slug": "shioaji-pro"
     },
     {
-      "keyword": "kimi k2.7",
-      "count": 5,
-      "score": 65.30365785968974,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "Kimi K2.7-Code: open-source coding model with better token efficiency",
-          "url": "https://huggingface.co/moonshotai/Kimi-K2.7-Code",
-          "source": "hackernews"
-        }
-      ],
-      "id": "875329b3f374",
-      "slug": "kimi-k27"
-    },
-    {
-      "keyword": "london.keir starmer",
-      "count": 5,
-      "score": 63.28312904448338,
-      "proper": true,
-      "niches": [
-        "software"
-      ],
-      "examples": [
-        {
-          "title": "Piccadilly Circus, London.Keir Starmer now demands state spyware on every mobile device, always watching the screen, scanning everything, looking for things the government disapproves of.",
-          "url": "https://mastodon.online/@mullvadnet/116737304618372324",
-          "source": "mastodon"
-        }
-      ],
-      "id": "f180708fe677",
-      "slug": "londonkeir-starmer"
-    },
-    {
       "keyword": "neo scholars",
       "count": 8,
-      "score": 61.519103666993765,
+      "score": 63.48336052897321,
       "proper": true,
       "niches": [
         "ai"
@@ -659,39 +539,170 @@
       "slug": "neo-scholars"
     },
     {
-      "keyword": "threat risk",
-      "count": 11,
-      "score": 58.75694146801339,
+      "keyword": "claude",
+      "count": 9,
+      "score": 58.326601001463246,
       "proper": true,
       "niches": [
         "ai"
       ],
       "examples": [
         {
-          "title": "Apollo Is Screening All Software Investments for AI Threat Risk",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdk1SaW01TmZFSDA4T1ctRTBheVROYUlQOGxTWkNGdzR6SEpFR1ZOaUtUWV9vVGVGaHZ1WFVuSk1lZkNwOENwN2xIOW9zQmhnM0otSGZaTndYTlMtNkx4RXZXdkZ6RE1hbENacURnVUktdElsSTNfcmtUOWNXZE11emg3MnBoTTVaTXduYlVZMjVSZUREVTN3cnlpeHk4WXQ3TEN2UVVFeEtrczA0RExueU9hX1A?oc=5",
+          "title": "Show HN: Script to bulk delete Claude chats from the web UI",
+          "url": "https://github.com/MatteoLeonesi/bulk-delete-claude-chat",
+          "source": "hackernews"
+        },
+        {
+          "title": "Show HN: Script to bulk delete Claude chats from the web UI",
+          "url": "https://github.com/MatteoLeonesi/bulk-delete-claude-chat",
+          "source": "hackernews"
+        },
+        {
+          "title": "Skill, MCP, Plugin, or just a CLI: how I pick a Claude Code extension, lightest first",
+          "url": "https://dev.to/rapls/skill-mcp-plugin-or-just-a-cli-how-i-pick-a-claude-code-extension-lightest-first-3hon",
+          "source": "devto"
+        },
+        {
+          "title": "Claude Code is the best AI coding tool I've used, and I’m not entirely sure if I can recommend it",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMnJUQnpneEtHMEJFZzZ0V0djN24zOVQyM3hpT09WYm5sUXBRVEo0QkFCZG50Q3RMMUtuczFwYk9aMEYxSFpBMVkxNDhrRmpOTUNJWE9teEVsR3JDYW9YMktENFYxQlBjTC1lM2hfYTJ3WkI4c0tyMTh3X0UzSWUwVUFMRlQtSjhIcnRuTTVYUW9OeXFVbUtHYmt3?oc=5",
           "source": "gnews"
         },
         {
-          "title": "Apollo Is Screening All Software Investments for AI Threat Risk",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdk1SaW01TmZFSDA4T1ctRTBheVROYUlQOGxTWkNGdzR6SEpFR1ZOaUtUWV9vVGVGaHZ1WFVuSk1lZkNwOENwN2xIOW9zQmhnM0otSGZaTndYTlMtNkx4RXZXdkZ6RE1hbENacURnVUktdElsSTNfcmtUOWNXZE11emg3MnBoTTVaTXduYlVZMjVSZUREVTN3cnlpeHk4WXQ3TEN2UVVFeEtrczA0RExueU9hX1A?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Apollo Is Screening All Software Investments for AI Threat Risk",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdk1SaW01TmZFSDA4T1ctRTBheVROYUlQOGxTWkNGdzR6SEpFR1ZOaUtUWV9vVGVGaHZ1WFVuSk1lZkNwOENwN2xIOW9zQmhnM0otSGZaTndYTlMtNkx4RXZXdkZ6RE1hbENacURnVUktdElsSTNfcmtUOWNXZE11emg3MnBoTTVaTXduYlVZMjVSZUREVTN3cnlpeHk4WXQ3TEN2UVVFeEtrczA0RExueU9hX1A?oc=5",
+          "title": "Claude Code is the best AI coding tool I've used, and I’m not entirely sure if I can recommend it",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMnJUQnpneEtHMEJFZzZ0V0djN24zOVQyM3hpT09WYm5sUXBRVEo0QkFCZG50Q3RMMUtuczFwYk9aMEYxSFpBMVkxNDhrRmpOTUNJWE9teEVsR3JDYW9YMktENFYxQlBjTC1lM2hfYTJ3WkI4c0tyMTh3X0UzSWUwVUFMRlQtSjhIcnRuTTVYUW9OeXFVbUtHYmt3?oc=5",
           "source": "gnews"
         }
       ],
-      "id": "c190b804e912",
-      "slug": "threat-risk"
+      "id": "c857d09db23e",
+      "slug": "claude"
+    },
+    {
+      "keyword": "ai agent",
+      "count": 5,
+      "score": 57.919194337950046,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "I am dying with laughter. lmao. AI Agent bankrupted their operator while trying to scan DN42 https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/While modern",
+          "url": "https://mastodon.social/@nixCraft/116737618421957719",
+          "source": "mastodon"
+        }
+      ],
+      "id": "ee662f0a4316",
+      "slug": "ai-agent"
+    },
+    {
+      "keyword": "free open-source",
+      "count": 9,
+      "score": 56.951221678260666,
+      "proper": false,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "Why I ditched paid productivity apps for this free open-source alternative - How-To Geek",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTE9jOUhlQl9jazRtcXBDdERaa3FWaFNnV3dzZ1NkbTE2ckZhbGVaTTdFck4xMW50QktnbUFoS183YzJWcUprSTJEbjhYUkR0NlJmaWhZM0d4QkdaREhnV3JXMkZ2NktjWl9xTHNoWjVVbE85cnhKSTdvOWRkaGI5cGFRU01aSWF6V0tMVTdpY2R5ck5LYUF3ZzdqMUZLQQ?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Why I ditched paid productivity apps for this free open-source alternative - How-To Geek",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTE9jOUhlQl9jazRtcXBDdERaa3FWaFNnV3dzZ1NkbTE2ckZhbGVaTTdFck4xMW50QktnbUFoS183YzJWcUprSTJEbjhYUkR0NlJmaWhZM0d4QkdaREhnV3JXMkZ2NktjWl9xTHNoWjVVbE85cnhKSTdvOWRkaGI5cGFRU01aSWF6V0tMVTdpY2R5ck5LYUF3ZzdqMUZLQQ?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "orange2ai/orange-line-illustration — 🍊 New Yorker-style minimalist editorial illustration skill for AI agents — one idea, one accent, lots of silence. Free for open-source use; commercial license for",
+          "url": "https://github.com/orange2ai/orange-line-illustration",
+          "source": "github"
+        }
+      ],
+      "id": "6930e2a35025",
+      "slug": "free-open-source"
+    },
+    {
+      "keyword": "kimi k2.7",
+      "count": 5,
+      "score": 54.03355383805287,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "Kimi K2.7-Code: open-source coding model with better token efficiency",
+          "url": "https://huggingface.co/moonshotai/Kimi-K2.7-Code",
+          "source": "hackernews"
+        }
+      ],
+      "id": "875329b3f374",
+      "slug": "kimi-k27"
+    },
+    {
+      "keyword": "monaco ai",
+      "count": 5,
+      "score": 53.77318195878239,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "Dear Fedi friends, I need your help.If by any chance any of you have saved the video of #WSocial CEO Anna Zeiter's presentation at the Monaco AI conference (uploaded to YouTube on May 21) I would be E",
+          "url": "https://mastodon.social/@_elena/116737673318980799",
+          "source": "mastodon"
+        }
+      ],
+      "id": "34ba8f62da7d",
+      "slug": "monaco-ai"
+    },
+    {
+      "keyword": "productivity",
+      "count": 16,
+      "score": 51.99615154064426,
+      "proper": false,
+      "niches": [
+        "ai",
+        "software"
+      ],
+      "examples": [
+        {
+          "title": "97 Blog Posts To Learn About Productivity Tools",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBMVmpxeGRiai1jZkFCOFAzZWhFZTB4dUpCWk5IZmNyazN5dlR4NUt6RlRoMUs1Ykx3WVBzU3ZveElUdkZJSG94amFQX09EanVRN256RUIyNmdrY1hEMTI5UEtTRVhoMUVySDctRS1vaks4Si1sU1F4bmRR?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "97 Blog Posts To Learn About Productivity Tools",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBMVmpxeGRiai1jZkFCOFAzZWhFZTB4dUpCWk5IZmNyazN5dlR4NUt6RlRoMUs1Ykx3WVBzU3ZveElUdkZJSG94amFQX09EanVRN256RUIyNmdrY1hEMTI5UEtTRVhoMUVySDctRS1vaks4Si1sU1F4bmRR?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Why I ditched paid productivity apps for this free open-source alternative - How-To Geek",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTE9jOUhlQl9jazRtcXBDdERaa3FWaFNnV3dzZ1NkbTE2ckZhbGVaTTdFck4xMW50QktnbUFoS183YzJWcUprSTJEbjhYUkR0NlJmaWhZM0d4QkdaREhnV3JXMkZ2NktjWl9xTHNoWjVVbE85cnhKSTdvOWRkaGI5cGFRU01aSWF6V0tMVTdpY2R5ck5LYUF3ZzdqMUZLQQ?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Why I ditched paid productivity apps for this free open-source alternative - How-To Geek",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTE9jOUhlQl9jazRtcXBDdERaa3FWaFNnV3dzZ1NkbTE2ckZhbGVaTTdFck4xMW50QktnbUFoS183YzJWcUprSTJEbjhYUkR0NlJmaWhZM0d4QkdaREhnV3JXMkZ2NktjWl9xTHNoWjVVbE85cnhKSTdvOWRkaGI5cGFRU01aSWF6V0tMVTdpY2R5ck5LYUF3ZzdqMUZLQQ?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Personal Productivity Apps",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9PM19PY3hhTzBxSnRoalVkZmhNcEpYVnpRYk5JTGV1dVlyUzUxc0tlcTJMRWNxTEtMTmh4aTdWMFZyTHBreTRSQk1mS0tDZHB6UmNyT3FoUE7SAV5BVV95cUxPNEtpcHlyNm1UYmRJQ2J4WDV0b1lRNVFNRklCeURsNWxZSHBKRVp4UnRyRlNFcVNkUVY2eDU5Tmhtb0gySHlmOFV6aEdXWkl6WDA0NlRvUlVfVWtyQVpR?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "bd1b16004d22",
+      "slug": "productivity"
     }
   ],
   "opportunities": [
     {
       "keyword": "passive income",
-      "count": 54,
-      "score": 229.16368376902065,
+      "count": 59,
+      "score": 283.74028948041644,
       "proper": true,
       "niches": [
         "finance",
@@ -709,18 +720,18 @@
           "source": "gnews"
         },
         {
-          "title": "I Asked ChatGPT How Retirees Can Generate $2K Monthly in Passive Income in 2026: Here’s What It Recommended",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPT0tlSHVabEdfcEJ4M1d3Q1ROYjZXdWZOWkUtS1VvNE9VMUdST2pxamxvNktJLWM5UEdBSXBJZTlHdlM4XzJuYUM1NEY2bHpIOGl6bUdMUzN4NU03MWhjdHpDU1JFZHA3RWloMXAwMnNfdmFvSDlENC1QVjRYOXJLTWRnMTcxWXctUUJSZk0xcWRyYkllWG0xdHBuUi1taW9qT1E?oc=5",
+          "title": "2 High-Yield Goldman Sachs ETFs Paying 8%+ in Passive Income",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdlZaMUhkb0xKQjlxSmNobTNpRFZUT05RT19NV3J4cXpTMW1sakpPTnd2S1pjMjIyS0swbFhubFllVXR1VWlibnQtWTMxN09aOGM2VUdoNUFoXzFqYlFXc1VTa25ydEVQZTBQcm55cDIxcnU2dFF2aWhDOUVKZEtSQXNDX1FBSmF5REJlT25Ob3Y5QQ?oc=5",
           "source": "gnews"
         },
         {
-          "title": "I Asked ChatGPT How Retirees Can Generate $2K Monthly in Passive Income in 2026: Here’s What It Recommended",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPT0tlSHVabEdfcEJ4M1d3Q1ROYjZXdWZOWkUtS1VvNE9VMUdST2pxamxvNktJLWM5UEdBSXBJZTlHdlM4XzJuYUM1NEY2bHpIOGl6bUdMUzN4NU03MWhjdHpDU1JFZHA3RWloMXAwMnNfdmFvSDlENC1QVjRYOXJLTWRnMTcxWXctUUJSZk0xcWRyYkllWG0xdHBuUi1taW9qT1E?oc=5",
+          "title": "2 High-Yield Goldman Sachs ETFs Paying 8%+ in Passive Income",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdlZaMUhkb0xKQjlxSmNobTNpRFZUT05RT19NV3J4cXpTMW1sakpPTnd2S1pjMjIyS0swbFhubFllVXR1VWlibnQtWTMxN09aOGM2VUdoNUFoXzFqYlFXc1VTa25ydEVQZTBQcm55cDIxcnU2dFF2aWhDOUVKZEtSQXNDX1FBSmF5REJlT25Ob3Y5QQ?oc=5",
           "source": "gnews"
         },
         {
-          "title": "I Asked ChatGPT How Retirees Can Generate $2K Monthly in Passive Income in 2026: Here’s What It Recommended",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPT0tlSHVabEdfcEJ4M1d3Q1ROYjZXdWZOWkUtS1VvNE9VMUdST2pxamxvNktJLWM5UEdBSXBJZTlHdlM4XzJuYUM1NEY2bHpIOGl6bUdMUzN4NU03MWhjdHpDU1JFZHA3RWloMXAwMnNfdmFvSDlENC1QVjRYOXJLTWRnMTcxWXctUUJSZk0xcWRyYkllWG0xdHBuUi1taW9qT1E?oc=5",
+          "title": "2 High-Yield Goldman Sachs ETFs Paying 8%+ in Passive Income",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdlZaMUhkb0xKQjlxSmNobTNpRFZUT05RT19NV3J4cXpTMW1sakpPTnd2S1pjMjIyS0swbFhubFllVXR1VWlibnQtWTMxN09aOGM2VUdoNUFoXzFqYlFXc1VTa25ydEVQZTBQcm55cDIxcnU2dFF2aWhDOUVKZEtSQXNDX1FBSmF5REJlT25Ob3Y5QQ?oc=5",
           "source": "gnews"
         }
       ],
@@ -729,60 +740,6 @@
       "opportunity": {
         "type": "niche-content",
         "recommended": "Publish niche guide for \"finance\"; bundle into digital product later."
-      }
-    },
-    {
-      "keyword": "claude fable",
-      "count": 8,
-      "score": 114.79632094184355,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "Claude Fable is relentlessly proactive",
-          "url": "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/",
-          "source": "hackernews"
-        },
-        {
-          "title": "Claude Fable is relentlessly proactive",
-          "url": "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/",
-          "source": "hackernews"
-        }
-      ],
-      "id": "ced86039c0ad",
-      "slug": "claude-fable",
-      "opportunity": {
-        "type": "tooling",
-        "recommended": "Build / list AI tools; monetize via affiliate links + lead magnet."
-      }
-    },
-    {
-      "keyword": "piccadilly circus",
-      "count": 8,
-      "score": 101.25300647117342,
-      "proper": true,
-      "niches": [
-        "software"
-      ],
-      "examples": [
-        {
-          "title": "Piccadilly Circus, London.Keir Starmer now demands state spyware on every mobile device, always watching the screen, scanning everything, looking for things the government disapproves of.",
-          "url": "https://mastodon.online/@mullvadnet/116737304618372324",
-          "source": "mastodon"
-        },
-        {
-          "title": "Piccadilly Circus, London.Keir Starmer now demands state spyware on every mobile device, always watching the screen, scanning everything, looking for things the government disapproves of.",
-          "url": "https://mastodon.online/@mullvadnet/116737304618372324",
-          "source": "mastodon"
-        }
-      ],
-      "id": "6eade77321a4",
-      "slug": "piccadilly-circus",
-      "opportunity": {
-        "type": "niche-content",
-        "recommended": "Publish niche guide for \"software\"; bundle into digital product later."
       }
     },
     {
@@ -819,8 +776,8 @@
     },
     {
       "keyword": "agent",
-      "count": 11,
-      "score": 91.4271737132105,
+      "count": 12,
+      "score": 94.70088389813712,
       "proper": true,
       "niches": [
         "ai"
@@ -861,8 +818,8 @@
     },
     {
       "keyword": "productivity apps",
-      "count": 24,
-      "score": 84.26473094589272,
+      "count": 30,
+      "score": 92.93505695961801,
       "proper": false,
       "niches": [
         "ai",
@@ -891,7 +848,7 @@
         },
         {
           "title": "The Best Productivity Apps for 2026",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1hcGhhTzd4UXY0VzB6MjRBcjZDR3ozczlxVFd4eVZmRGpjNVk2Z1ZCd3pIa0hBMUcxN3hEQTloZjh0dmdLMl9EakVNYjl0ZFBRQldfZEtqbGVmNGNtYTBNSllINjZ1aUU3aWp0ZGMyOTg0eGJE?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUWdjWkQzZTNMTXlTWkpWd3UyXzdtZDduUXd6MEkyd1hBeWJFV1Q0bW5mOTdOemlRNWNlUEpQcXZjS3RRTkZzS3dWakNLeV8zdUtSOVBrajVfaGVTRzFSWE8temxZenNxamdLNVpYaDNMQURUMGpqNnc4cVhOWHhMNm5oNGU?oc=5",
           "source": "gnews"
         }
       ],
@@ -905,7 +862,7 @@
     {
       "keyword": "dear fedi",
       "count": 8,
-      "score": 80.11621749791033,
+      "score": 86.03709113405182,
       "proper": true,
       "niches": [
         "ai"
@@ -932,7 +889,7 @@
     {
       "keyword": "android studio",
       "count": 8,
-      "score": 74.55438361408888,
+      "score": 76.1421704462125,
       "proper": true,
       "niches": [
         "software"
@@ -954,6 +911,60 @@
       "opportunity": {
         "type": "niche-content",
         "recommended": "Publish niche guide for \"software\"; bundle into digital product later."
+      }
+    },
+    {
+      "keyword": "apple silicon",
+      "count": 8,
+      "score": 69.3678023704836,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "SkyBlue997/enableMacosAI — 国行 Mac 一键开启完整 Apple 智能(端侧 + Private Cloud Compute 云端)· macOS 27 / Apple Silicon",
+          "url": "https://github.com/SkyBlue997/enableMacosAI",
+          "source": "github"
+        },
+        {
+          "title": "SkyBlue997/enableMacosAI — 国行 Mac 一键开启完整 Apple 智能(端侧 + Private Cloud Compute 云端)· macOS 27 / Apple Silicon",
+          "url": "https://github.com/SkyBlue997/enableMacosAI",
+          "source": "github"
+        }
+      ],
+      "id": "e5653a7fb79e",
+      "slug": "apple-silicon",
+      "opportunity": {
+        "type": "affiliate",
+        "recommended": "Write SEO comparison/roundup article with affiliate links."
+      }
+    },
+    {
+      "keyword": "shioaji pro",
+      "count": 8,
+      "score": 66.09884863890596,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "Sinotrade/shioaji-pro-app — Shioaji Pro — professional trading terminal for Taiwan markets (TWSE/TPEX/TAIFEX) built on the Shioaji HTTP API: real-time SSE quotes, candlestick charts with click-to-trad",
+          "url": "https://github.com/Sinotrade/shioaji-pro-app",
+          "source": "github"
+        },
+        {
+          "title": "Sinotrade/shioaji-pro-app — Shioaji Pro — professional trading terminal for Taiwan markets (TWSE/TPEX/TAIFEX) built on the Shioaji HTTP API: real-time SSE quotes, candlestick charts with click-to-trad",
+          "url": "https://github.com/Sinotrade/shioaji-pro-app",
+          "source": "github"
+        }
+      ],
+      "id": "a2c35e401064",
+      "slug": "shioaji-pro",
+      "opportunity": {
+        "type": "affiliate",
+        "recommended": "Write SEO comparison/roundup article with affiliate links."
       }
     }
   ]
