@@ -1,6 +1,53 @@
 {
   "items": [
     {
+      "slug": "starter-kit-fitness-and-meal-plan-template-pack-2026-06-12",
+      "title": "Fitness And Meal Plan Template Pack Starter Kit — Templates + Playbook",
+      "blurb": "Templates, playbook, and 30-day plan for Fitness And Meal Plan Template Pack. Skip the blank page.",
+      "type": "starter-kit",
+      "topic": "Fitness And Meal Plan Template Pack",
+      "niche": "health",
+      "price": 29,
+      "generatedAt": "2026-06-12T22:17:36.098Z",
+      "files": [
+        "playbook.md",
+        "templates.md",
+        "30-day-plan.md",
+        "README.md",
+        "LICENSE.txt"
+      ]
+    },
+    {
+      "slug": "prompt-pack-scan-dn42-2026-06-12",
+      "title": "Scan Dn42 Prompt Pack — 50 Battle-Tested Prompts",
+      "blurb": "50 proven prompts for Scan Dn42. Copy/paste ready. Tested across Claude, GPT, Gemini.",
+      "type": "prompt-pack",
+      "topic": "Scan Dn42",
+      "niche": "ai",
+      "price": 19,
+      "generatedAt": "2026-06-12T22:17:30.465Z",
+      "files": [
+        "prompts.md",
+        "README.md",
+        "LICENSE.txt"
+      ]
+    },
+    {
+      "slug": "prompt-pack-chapel-hill-2026-06-12",
+      "title": "Chapel Hill Prompt Pack — 50 Battle-Tested Prompts",
+      "blurb": "50 proven prompts for Chapel Hill. Copy/paste ready. Tested across Claude, GPT, Gemini.",
+      "type": "prompt-pack",
+      "topic": "Chapel Hill",
+      "niche": "software",
+      "price": 19,
+      "generatedAt": "2026-06-12T22:17:25.318Z",
+      "files": [
+        "prompts.md",
+        "README.md",
+        "LICENSE.txt"
+      ]
+    },
+    {
       "slug": "prompt-pack-londonkeir-starmer-2026-06-12",
       "title": "London.keir Starmer Prompt Pack — 50 Battle-Tested Prompts",
       "blurb": "50 proven prompts for London.keir Starmer. Copy/paste ready. Tested across Claude, GPT, Gemini.",

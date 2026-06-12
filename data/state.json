@@ -1,46 +1,46 @@
 {
-  "runs": 89,
-  "lastRun": "2026-06-12T17:59:05.881Z",
+  "runs": 90,
+  "lastRun": "2026-06-12T22:17:10.946Z",
   "streams": {
     "trend-signals": {
-      "lastRunAt": "2026-06-12T17:59:08.369Z",
+      "lastRunAt": "2026-06-12T22:17:13.311Z",
       "lastResult": "25 items / 20 topics / 8 opps",
-      "totalRuns": 78
+      "totalRuns": 79
     },
     "affiliate-content": {
-      "lastRunAt": "2026-06-12T17:59:17.737Z",
+      "lastRunAt": "2026-06-12T22:17:24.827Z",
       "lastResult": "3 articles",
-      "totalRuns": 78
+      "totalRuns": 79
     },
     "digital-products": {
-      "lastRunAt": "2026-06-12T17:59:29.202Z",
-      "lastResult": "0 products",
-      "totalRuns": 79
+      "lastRunAt": "2026-06-12T22:17:40.051Z",
+      "lastResult": "3 products",
+      "totalRuns": 80
     },
     "viral-factory": {
-      "lastRunAt": "2026-06-12T17:59:29.960Z",
-      "lastResult": "0 content packs",
-      "totalRuns": 79
+      "lastRunAt": "2026-06-12T22:18:21.561Z",
+      "lastResult": "3 content packs",
+      "totalRuns": 80
     },
     "x-publisher": {
-      "lastRunAt": "2026-06-12T17:59:30.048Z",
+      "lastRunAt": "2026-06-12T22:18:21.661Z",
       "lastResult": "nothing to post",
-      "totalRuns": 64
+      "totalRuns": 65
     },
     "mastodon-publisher": {
-      "lastRunAt": "2026-06-12T17:59:30.069Z",
+      "lastRunAt": "2026-06-12T22:18:21.668Z",
       "lastResult": "nothing to post",
-      "totalRuns": 62
+      "totalRuns": 63
     },
     "bluesky-publisher": {
-      "lastRunAt": "2026-06-12T17:59:38.541Z",
-      "lastResult": "posted 1 thread(s)",
-      "totalRuns": 62
+      "lastRunAt": "2026-06-12T22:18:27.177Z",
+      "lastResult": "nothing to post",
+      "totalRuns": 63
     },
     "stripe-lister": {
-      "lastRunAt": "2026-06-12T17:59:29.203Z",
-      "lastResult": "listed 0, backfilled 0",
-      "totalRuns": 63
+      "lastRunAt": "2026-06-12T22:17:42.585Z",
+      "lastResult": "listed 3, backfilled 0",
+      "totalRuns": 64
     }
   },
   "totals": {

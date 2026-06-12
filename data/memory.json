@@ -304,30 +304,6 @@
       "losses": 0,
       "niche": "software"
     },
-    "fitness-and-meal-plan-template-pack": {
-      "firstSeen": "2026-05-29T18:27:32.801Z",
-      "lastSeen": "2026-05-29T18:27:32.801Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "health"
-    },
-    "ai-prompts-for-resume-and-job-search": {
-      "firstSeen": "2026-05-29T18:27:38.975Z",
-      "lastSeen": "2026-05-29T18:27:38.975Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "ai"
-    },
-    "cold-email-templates-that-book-meetings": {
-      "firstSeen": "2026-05-29T18:27:43.051Z",
-      "lastSeen": "2026-05-29T18:27:43.051Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "finance"
-    },
     "tools-2026": {
       "firstSeen": "2026-05-29T18:28:06.277Z",
       "lastSeen": "2026-06-04T18:09:37.881Z",
@@ -2138,10 +2114,10 @@
     },
     "cassette-beasts": {
       "firstSeen": "2026-06-07T21:56:32.223Z",
-      "lastSeen": "2026-06-07T21:56:32.223Z",
-      "count": 1,
+      "lastSeen": "2026-06-12T22:17:11.897Z",
+      "count": 2,
       "wins": 0,
-      "losses": 0,
+      "losses": 1,
       "niche": "ai"
     },
     "lego-batman": {
@@ -2978,9 +2954,9 @@
     },
     "ai-agent": {
       "firstSeen": "2026-06-12T17:59:11.618Z",
-      "lastSeen": "2026-06-12T17:59:11.618Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-12T22:17:11.898Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -2999,13 +2975,85 @@
       "wins": 0,
       "losses": 0,
       "niche": "ai"
+    },
+    "trillion-dollars": {
+      "firstSeen": "2026-06-12T22:17:17.920Z",
+      "lastSeen": "2026-06-12T22:17:17.920Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "software"
+    },
+    "spacex-ipo": {
+      "firstSeen": "2026-06-12T22:17:21.238Z",
+      "lastSeen": "2026-06-12T22:17:21.238Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "worth-trillion": {
+      "firstSeen": "2026-06-12T22:17:24.827Z",
+      "lastSeen": "2026-06-12T22:17:24.827Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "software"
+    },
+    "chapel-hill": {
+      "firstSeen": "2026-06-12T22:17:30.464Z",
+      "lastSeen": "2026-06-12T22:17:30.464Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "software"
+    },
+    "scan-dn42": {
+      "firstSeen": "2026-06-12T22:17:36.097Z",
+      "lastSeen": "2026-06-12T22:17:36.097Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "fitness-and-meal-plan-template-pack": {
+      "firstSeen": "2026-06-12T22:17:40.050Z",
+      "lastSeen": "2026-06-12T22:17:40.050Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "health"
+    },
+    "free-tools": {
+      "firstSeen": "2026-06-12T22:17:52.670Z",
+      "lastSeen": "2026-06-12T22:17:52.670Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "june-2026": {
+      "firstSeen": "2026-06-12T22:18:04.572Z",
+      "lastSeen": "2026-06-12T22:18:04.572Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "modos-flow": {
+      "firstSeen": "2026-06-12T22:18:17.559Z",
+      "lastSeen": "2026-06-12T22:18:17.559Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "gear"
     }
   },
   "niches": {
     "ai": {
-      "count": 476,
-      "wins": 139,
-      "losses": 17
+      "count": 482,
+      "wins": 140,
+      "losses": 18
     },
     "finance": {
       "count": 33,
@@ -3013,17 +3061,17 @@
       "losses": 0
     },
     "software": {
-      "count": 107,
+      "count": 110,
       "wins": 27,
       "losses": 7
     },
     "gear": {
-      "count": 31,
+      "count": 32,
       "wins": 6,
       "losses": 0
     },
     "health": {
-      "count": 1,
+      "count": 2,
       "wins": 0,
       "losses": 0
     },

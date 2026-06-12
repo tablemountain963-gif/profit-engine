@@ -582,5 +582,26 @@
     "price": 19,
     "productId": "prod_UgvcpSLGoUUzRb",
     "cover": "/assets/pack-cover.png"
+  },
+  "starter-kit-fitness-and-meal-plan-template-pack-2026-06-12": {
+    "url": "https://buy.stripe.com/00w6oG1GM5Po1Rh4RKfjG1l",
+    "platform": "stripe",
+    "price": 29,
+    "productId": "prod_Uh1RC7WFRBoFKs",
+    "cover": "/assets/pack-cover.png"
+  },
+  "prompt-pack-scan-dn42-2026-06-12": {
+    "url": "https://buy.stripe.com/6oU9AS5X25Po0Nd4RKfjG1m",
+    "platform": "stripe",
+    "price": 19,
+    "productId": "prod_Uh1R1fEr5ajAYJ",
+    "cover": "/assets/pack-cover.png"
+  },
+  "prompt-pack-chapel-hill-2026-06-12": {
+    "url": "https://buy.stripe.com/bJe9ASclq5Po67x3NGfjG1n",
+    "platform": "stripe",
+    "price": 19,
+    "productId": "prod_Uh1RvQJ1vy9Pbf",
+    "cover": "/assets/pack-cover.png"
   }
 }

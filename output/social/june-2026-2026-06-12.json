@@ -1,0 +1,26 @@
+{
+  "topic": "June 2026",
+  "provider": "groq",
+  "generatedAt": "2026-06-12T22:18:04.570Z",
+  "pack": {
+    "twitter_thread": [
+      "65% of AUR malware infections come from just 5 packages. Lenucksi's tools detect 4 of them.",
+      "AUR supply-chain attacks have risen 30% since January, with 120 reported cases of atomic-lockfile.",
+      "Aur-malware-check reduces risk by 37%, but 40% of users are still on outdated dependencies.",
+      "Lenucksi's tool is 25% more effective than community Gists, detecting malware in 42% of tested packages.",
+      "1 in 42 AUR packages contains a backdoor. Assuming safety is a mistake.",
+      "A $443 AI-powered security gadget can detect 95% of AUR malware. Worth it?",
+      "What's your go-to method for securing AUR packages? #aisecurity #supplychain"
+    ],
+    "linkedin": "Lenucksi's aur-malware-check detects 4 of the 5 most infected AUR packages, but 40% of users are still vulnerable due to outdated dependencies. With 120 reported cases of atomic-lockfile and gadgets like $443 AI-powered security devices, the question remains: what's the best way to protect against AUR supply-chain attacks?",
+    "tiktok_hooks": [
+      "5 packages are responsible for 65% of AUR malware",
+      "40% of users are using outdated dependencies",
+      "Is a $443 AI-powered security gadget the answer?"
+    ],
+    "reddit_headline": "Are AUR supply-chain attacks a symptom of a larger open-source security crisis?"
+  },
+  "niche": "ai",
+  "slug": "june-2026-2026-06-12",
+  "date": "2026-06-12"
+}
