@@ -10,8 +10,8 @@
     },
     "passive-income": {
       "firstSeen": "2026-05-28T04:01:51.171Z",
-      "lastSeen": "2026-06-08T05:29:18.638Z",
-      "count": 4,
+      "lastSeen": "2026-06-13T14:59:46.488Z",
+      "count": 5,
       "wins": 1,
       "losses": 0,
       "niche": "finance"
@@ -399,46 +399,6 @@
       "wins": 1,
       "losses": 0,
       "niche": "software"
-    },
-    "sales-email-sequences-that-convert": {
-      "firstSeen": "2026-05-30T14:27:58.785Z",
-      "lastSeen": "2026-05-30T14:27:58.785Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "finance"
-    },
-    "freelance-proposal-and-contract-templates": {
-      "firstSeen": "2026-05-30T14:28:02.720Z",
-      "lastSeen": "2026-05-30T14:28:02.720Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "finance"
-    },
-    "understandingvalue-warmthxp": {
-      "firstSeen": "2026-05-30T14:28:20.602Z",
-      "lastSeen": "2026-05-30T14:28:20.602Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "ai"
-    },
-    "ration-ai": {
-      "firstSeen": "2026-05-30T14:28:32.665Z",
-      "lastSeen": "2026-05-30T14:28:32.665Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "ai"
-    },
-    "liquid-ai": {
-      "firstSeen": "2026-05-30T14:28:39.988Z",
-      "lastSeen": "2026-05-30T14:28:39.988Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "ai"
     },
     "goldilocks-yield": {
       "firstSeen": "2026-05-30T16:52:14.549Z",
@@ -2666,9 +2626,9 @@
     },
     "super-buttons": {
       "firstSeen": "2026-06-11T16:53:53.059Z",
-      "lastSeen": "2026-06-11T16:53:53.059Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-13T14:58:54.449Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "gear"
     },
@@ -2842,9 +2802,9 @@
     },
     "piccadilly-circus": {
       "firstSeen": "2026-06-12T16:16:13.432Z",
-      "lastSeen": "2026-06-12T16:16:13.432Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-13T14:58:54.451Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "software"
     },
@@ -2994,17 +2954,17 @@
     },
     "open": {
       "firstSeen": "2026-06-13T05:18:35.169Z",
-      "lastSeen": "2026-06-13T05:18:35.169Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-13T14:58:54.452Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
     "world-trillionaire": {
       "firstSeen": "2026-06-13T05:18:38.621Z",
-      "lastSeen": "2026-06-13T05:18:38.621Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-13T14:58:54.453Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -3039,27 +2999,83 @@
       "wins": 0,
       "losses": 0,
       "niche": "finance"
+    },
+    "atomic-arch": {
+      "firstSeen": "2026-06-13T14:58:59.189Z",
+      "lastSeen": "2026-06-13T14:58:59.189Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "lightweight-jira": {
+      "firstSeen": "2026-06-13T14:59:02.757Z",
+      "lastSeen": "2026-06-13T14:59:02.757Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "ai-oss": {
+      "firstSeen": "2026-06-13T14:59:05.975Z",
+      "lastSeen": "2026-06-13T14:59:05.975Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "personal-finance-and-budgeting-toolkit": {
+      "firstSeen": "2026-06-13T14:59:23.326Z",
+      "lastSeen": "2026-06-13T14:59:23.326Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "finance"
+    },
+    "ai-prompts-for-resume-and-job-search": {
+      "firstSeen": "2026-06-13T14:59:29.482Z",
+      "lastSeen": "2026-06-13T14:59:29.482Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "freelance-proposal-and-contract-templates": {
+      "firstSeen": "2026-06-13T14:59:33.976Z",
+      "lastSeen": "2026-06-13T14:59:33.976Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "finance"
+    },
+    "dividend-increases": {
+      "firstSeen": "2026-06-13T15:00:00.253Z",
+      "lastSeen": "2026-06-13T15:00:00.253Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
     }
   },
   "niches": {
     "ai": {
-      "count": 490,
-      "wins": 142,
+      "count": 498,
+      "wins": 144,
       "losses": 18
     },
     "finance": {
-      "count": 34,
+      "count": 36,
       "wins": 5,
       "losses": 0
     },
     "software": {
-      "count": 112,
-      "wins": 29,
+      "count": 113,
+      "wins": 30,
       "losses": 7
     },
     "gear": {
-      "count": 32,
-      "wins": 6,
+      "count": 33,
+      "wins": 7,
       "losses": 0
     },
     "health": {

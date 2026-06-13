@@ -1,137 +1,203 @@
 {
-  "generatedAt": "2026-06-13T05:18:31.041Z",
-  "sourceCount": 203,
+  "generatedAt": "2026-06-13T14:58:55.284Z",
+  "sourceCount": 206,
   "topItems": [
     {
-      "title": "Let’s stop saying ‘world’s first trillionaire’ and start saying ‘world’s *last* trillionaire’",
-      "url": "https://mastodon.art/@PhineasX/116739890751927796",
-      "score": 10.16,
+      "title": "AI OSS tool repo goes archived over night after raising $7.3M Seed",
+      "url": "https://github.com/tensorzero/tensorzero",
+      "score": 8.77,
       "niche": "ai",
-      "source": "mastodon",
+      "source": "hackernews",
       "engagement": {
-        "score": 553,
-        "comments": 12
+        "score": 110,
+        "comments": 65
       }
     },
     {
-      "title": "I note that Elon Musk's wealth now exceeds the annual GDP of Switzerland.I think this makes him a state-level actor, and a *hostile* one.I submit that we have tools for dealing with rogue states, and ",
-      "url": "https://wandering.shop/@cstross/116739030454207783",
-      "score": 9.91,
-      "niche": "software",
-      "source": "mastodon",
-      "engagement": {
-        "score": 1034,
-        "comments": 43
-      }
-    },
-    {
-      "title": "Elon Musk’s SpaceX IPO will probably make him the richest person to ever walk the planet. And while his mountain of horrible personal conduct could fill multiple books, one fact in particular stands o",
-      "url": "https://cyberplace.social/@GossiTheDog/116739356160733999",
-      "score": 9.42,
+      "title": "A person that did not do a single useful thing in their life and built their empire on exploitation and fraud became the first trillionaire. If you still believe capitalism works and aren't disgusted,",
+      "url": "https://xoxo.zone/@map/116742108398677212",
+      "score": 8.55,
       "niche": "ai",
       "source": "mastodon",
       "engagement": {
-        "score": 639,
-        "comments": 18
+        "score": 452,
+        "comments": 9
       }
     },
     {
       "title": "Open source AI must win",
       "url": "https://opensourceaimustwin.com/?share=v2",
-      "score": 9.39,
+      "score": 8.48,
       "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 522,
-        "comments": 169
-      }
-    },
-    {
-      "title": "lenucksi/aur-malware-check — Detection tools for the June 2026 atomic-lockfile AUR supply-chain attack. Consolidated from community Gists.",
-      "url": "https://github.com/lenucksi/aur-malware-check",
-      "score": 8.08,
-      "niche": "ai",
-      "source": "github",
-      "engagement": {
-        "score": 261,
-        "comments": 3
+        "score": 1262,
+        "comments": 398
       }
     },
     {
       "title": "How to setup a local coding agent on macOS",
       "url": "https://ikyle.me/blog/2026/how-to-setup-a-local-coding-agent-on-macos",
-      "score": 7.89,
+      "score": 8.26,
       "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 321,
-        "comments": 78
+        "score": 423,
+        "comments": 107
       }
     },
     {
-      "title": "Office has a censor filter in internal comms to replace swear words with other terms. Added a rule changing \"AI\" to \"my cat\", so we get \"According to my cat...\" and \"I asked my cat and it said...\"",
-      "url": "https://mastodon.social/@fesshole/116738516944078771",
-      "score": 7.87,
+      "title": "Heads up #ArchLinux users!The \"Atomic Arch\" supply chain attack (June 9-12) compromised 400-1,500+ AUR packages with an infostealer & eBPF rootkit targeting credentials, browser data, and CI/CD secret",
+      "url": "https://mastodon.social/@fribbledom/116742703431986690",
+      "score": 8.23,
       "niche": "ai",
       "source": "mastodon",
       "engagement": {
-        "score": 1143,
-        "comments": 20
+        "score": 86,
+        "comments": 4
       }
     },
     {
-      "title": "\"Don't You Just Upload It to ChatGPT?\"",
-      "url": "https://correresmidestino.com/dont-you-just-upload-it-to-chatgpt/",
-      "score": 7.62,
+      "title": "eli-labz/Third-Eye — A production-grade OSINT platform that provides situational awareness across multiple intelligence domains.",
+      "url": "https://github.com/eli-labz/Third-Eye",
+      "score": 7.88,
+      "niche": "ai",
+      "source": "github",
+      "engagement": {
+        "score": 233,
+        "comments": 0
+      }
+    },
+    {
+      "title": "A low-carbon computing platform from your retired phones",
+      "url": "https://research.google/blog/a-low-carbon-computing-platform-from-your-retired-phones/",
+      "score": 7.82,
+      "niche": "software",
+      "source": "hackernews",
+      "engagement": {
+        "score": 129,
+        "comments": 69
+      }
+    },
+    {
+      "title": "Charlene would like to know exactly what you're doing, and whether you feel that's appropriate right now @TheEddieShow #sillySummerHatting",
+      "url": "https://things.uk/@eclectech/116742779740449345",
+      "score": 7.8,
+      "niche": "software",
+      "source": "mastodon",
+      "engagement": {
+        "score": 124,
+        "comments": 7
+      }
+    },
+    {
+      "title": "The future of life on Earth is more important than the profits of multinational corporations. Spread the word 🌍 #Climate",
+      "url": "https://mastodon.social/@greenpeace/116742538873291209",
+      "score": 7.77,
+      "niche": "software",
+      "source": "mastodon",
+      "engagement": {
+        "score": 254,
+        "comments": 2
+      }
+    },
+    {
+      "title": "Show HN: Paca – Lightweight Jira alternative for human-AI collaboration",
+      "url": "https://github.com/Paca-AI/paca",
+      "score": 7.74,
       "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 364,
-        "comments": 291
+        "score": 74,
+        "comments": 26
       }
     },
     {
-      "title": "I think the secret reason that so much open source software is designed for CLI use is NOT just that we really like the console, but the deeper and much more true reason is that writing a GUI is a pai",
-      "url": "https://digipres.club/@foone/116740692999571279",
-      "score": 7.5,
+      "title": "RE: https://mastodon.social/@randahl/116741284261224277ICYMI, the United States plans to significantly reduce the aircraft and warships that it makes available for NATO operations in Europe, according",
+      "url": "https://infosec.exchange/@briankrebs/116743026022460382",
+      "score": 7.73,
       "niche": "ai",
       "source": "mastodon",
       "engagement": {
-        "score": 181,
-        "comments": 19
+        "score": 111,
+        "comments": 7
       }
     },
     {
-      "title": "Slightly reducing the sloppiness of AI generated front end",
-      "url": "https://envs.net/~volpe/blog/posts/reduce-slop.html",
-      "score": 6.67,
+      "title": "“our workplace LLM mass delusion – ava's blog”https://blog.avas.space/llm-circus/> How are we all collectively supposed to forget and move past experiencing the respectable elders in an institution ha",
+      "url": "https://toot.cafe/@baldur/116742349569513072",
+      "score": 7.71,
       "niche": "ai",
-      "source": "hackernews",
+      "source": "mastodon",
       "engagement": {
-        "score": 176,
-        "comments": 113
+        "score": 246,
+        "comments": 5
+      }
+    },
+    {
+      "title": "How #TrickleDown actually could work! #elonmusk #trillionaire #spacex #taxtherich",
+      "url": "https://chaos.social/@Gegenwind/116742581467158131",
+      "score": 7.57,
+      "niche": "ai",
+      "source": "mastodon",
+      "engagement": {
+        "score": 215,
+        "comments": 8
+      }
+    },
+    {
+      "title": "We need your help❤️ :fediverse:In 5 days new bills arrive for our servers, media storage and emails. Unfort our server cost has increased with 200,- EU pm extra because of the AI hype and we still nee",
+      "url": "https://mstdn.social/@stux/116742478095239443",
+      "score": 6.9,
+      "niche": "ai",
+      "source": "mastodon",
+      "engagement": {
+        "score": 136,
+        "comments": 3
       }
     },
     {
       "title": "DietrichGebert/ponytail — Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
       "url": "https://github.com/DietrichGebert/ponytail",
-      "score": 6.63,
+      "score": 6.77,
       "niche": "ai",
       "source": "github",
       "engagement": {
-        "score": 1000,
+        "score": 1162,
         "comments": 1
       }
     },
     {
-      "title": "skydoves/compose-nav-graph — ⛵️ Compose Navigation Graph plugin for Android Studio that visualizes your entire app flow as an interactive map of rendered previews, typed arguments, and transitions.",
-      "url": "https://github.com/skydoves/compose-nav-graph",
-      "score": 6.62,
+      "title": "Swift at Apple: Migrating the TrueType hinting interpreter",
+      "url": "https://www.swift.org/blog/migrating-truetype-hinting-to-swift/",
+      "score": 6.76,
       "niche": "software",
-      "source": "github",
+      "source": "hackernews",
       "engagement": {
-        "score": 187,
-        "comments": 0
+        "score": 220,
+        "comments": 100
+      }
+    },
+    {
+      "title": "Show HN: Putt.day a daily mini golf game",
+      "url": "https://putt.day/",
+      "score": 6.74,
+      "niche": "ai",
+      "source": "hackernews",
+      "engagement": {
+        "score": 240,
+        "comments": 94
+      }
+    },
+    {
+      "title": "Sam Bankman-Fried loses bid to appeal against fraud conviction in FTX case",
+      "url": "https://www.theguardian.com/business/2026/jun/12/sam-bankman-fried-loses-appeal",
+      "score": 6.7,
+      "niche": "ai",
+      "source": "hackernews",
+      "engagement": {
+        "score": 35,
+        "comments": 15
       }
     },
     {
@@ -146,134 +212,68 @@
       }
     },
     {
-      "title": "Best AI press release writing tools for startups on a budget",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9rN19kZkU2Y1FjS0ZlZkJ3TjduajdubXdxTVVoOE1aR3ZUb0MxR21Ra1RTcE1mUVZuZXpxRy16Sk9QV2Y3d1YxeXVJY09PLXBZVm44WkpFWW1CbEdxeHlhNXBoWU1TdEtiaGtV?oc=5",
-      "score": 6.61,
+      "title": "lenucksi/aur-malware-check — Detection tools for the June 2026 atomic-lockfile AUR supply-chain attack. Consolidated from community Gists.",
+      "url": "https://github.com/lenucksi/aur-malware-check",
+      "score": 6.6,
       "niche": "ai",
-      "source": "gnews",
+      "source": "github",
       "engagement": {
-        "score": 40,
-        "comments": 0
-      }
-    },
-    {
-      "title": "Palantir loses legal challenge against Swiss investigative magazine",
-      "url": "https://www.ft.com/content/7ffcace7-9dc0-4e7e-9912-895ac073f979",
-      "score": 6.53,
-      "niche": "ai",
-      "source": "hackernews",
-      "engagement": {
-        "score": 248,
-        "comments": 53
-      }
-    },
-    {
-      "title": "GOOGLE: So I notice you've never clicked on the ✨️enticing sparkle✨️ in the corner of your mail client.ME: Yes, that's because I don't want to use it.GOOGLE: But would it change your mind… if it were ",
-      "url": "https://mastodon.social/@mcc/116740821092568202",
-      "score": 6.44,
-      "niche": "ai",
-      "source": "mastodon",
-      "engagement": {
-        "score": 94,
+        "score": 431,
         "comments": 4
-      }
-    },
-    {
-      "title": "Swift at Apple: Migrating the TrueType hinting interpreter",
-      "url": "https://www.swift.org/blog/migrating-truetype-hinting-to-swift/",
-      "score": 6.43,
-      "niche": "software",
-      "source": "hackernews",
-      "engagement": {
-        "score": 176,
-        "comments": 68
-      }
-    },
-    {
-      "title": "Show HN: Putt.day a daily mini golf game",
-      "url": "https://putt.day/",
-      "score": 6.12,
-      "niche": "ai",
-      "source": "hackernews",
-      "engagement": {
-        "score": 117,
-        "comments": 64
-      }
-    },
-    {
-      "title": "The capital class hated the COVID response because it was a mass labor action they couldn't control, a wildcat strike for safer working conditions while the owners demanded they return to work. Public",
-      "url": "https://mastodon.social/@gwynnion/116740309084418178",
-      "score": 6.02,
-      "niche": "software",
-      "source": "mastodon",
-      "engagement": {
-        "score": 136,
-        "comments": 2
-      }
-    },
-    {
-      "title": "Explore Best AI Tools for Entrepreneurs and Startups",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE50VXYteWlQWjlnVEN0ZmQ4ZXF1UW5vemdoYk91Qk45ZnpRMmRWeGo4Z2JGTC1QSnZDZGRUemdxLVhKU3FqZVF5aTY5UV9UUTdkUlowY0hmLWxXd1gxRHZLMzRkdGZIZUF1QnlsMUFDVW50b25MbVFmWEh4WFdwUQ?oc=5",
-      "score": 5.99,
-      "niche": "ai",
-      "source": "gnews",
-      "engagement": {
-        "score": 40,
-        "comments": 0
-      }
-    },
-    {
-      "title": "Best AI for Excel: 5 Tools Worth Using in 2026",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWFFCUEFHZm9UblBQQy1nXzg0QU5GNWl4M2xOaEtpd1dRZlJCbWVhcDNuZ1FLeEdMRkhzbERGV2JxWXVhaDdHcVdicHZyTlVUUGxEU0pmbTRaaWswYzZ3RVF3Y2dIaE0ybjA1Wm1oZUlhOFQ1dFBjbkxqenYwbnk1LUFFRmVZQzg0?oc=5",
-      "score": 5.99,
-      "niche": "ai",
-      "source": "gnews",
-      "engagement": {
-        "score": 40,
-        "comments": 0
-      }
-    },
-    {
-      "title": "97 Blog Posts To Learn About Productivity Tools",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBMVmpxeGRiai1jZkFCOFAzZWhFZTB4dUpCWk5IZmNyazN5dlR4NUt6RlRoMUs1Ykx3WVBzU3ZveElUdkZJSG94amFQX09EanVRN256RUIyNmdrY1hEMTI5UEtTRVhoMUVySDctRS1vaks4Si1sU1F4bmRR?oc=5",
-      "score": 5.99,
-      "niche": "ai",
-      "source": "gnews",
-      "engagement": {
-        "score": 40,
-        "comments": 0
-      }
-    },
-    {
-      "title": "AI Agent Bankrupted Their Operator While Trying to Scan DN42",
-      "url": "https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/",
-      "score": 5.83,
-      "niche": "ai",
-      "source": "lobsters",
-      "engagement": {
-        "score": 139,
-        "comments": 25
       }
     },
     {
       "title": "orange2ai/renwei-writing — 人味儿写作 · An AI agent skill: edit people's words without erasing the person behind them",
       "url": "https://github.com/orange2ai/renwei-writing",
-      "score": 5.78,
+      "score": 6.5,
       "niche": "ai",
       "source": "github",
       "engagement": {
-        "score": 180,
+        "score": 345,
         "comments": 0
       }
     },
     {
-      "title": "Nanako0129/coralline — 🪸 Powerlevel10k-inspired statusline for Claude Code — paste one prompt and your AI interviews you, then installs it",
-      "url": "https://github.com/Nanako0129/coralline",
-      "score": 5.62,
+      "title": "Shepherd's Dog: A Game by the Most Dangerous AI Model",
+      "url": "https://koenvangilst.nl/lab/claude-fable-shepherds-dog",
+      "score": 6.46,
+      "niche": "ai",
+      "source": "hackernews",
+      "engagement": {
+        "score": 127,
+        "comments": 103
+      }
+    },
+    {
+      "title": "mrtooher/fable-mode — A Claude skill that activates Fable-style agentic behavior: explicit multi-stage planning, sub-agent delegation, and self-verification.",
+      "url": "https://github.com/mrtooher/fable-mode",
+      "score": 6.12,
       "niche": "ai",
       "source": "github",
       "engagement": {
-        "score": 80,
+        "score": 113,
+        "comments": 3
+      }
+    },
+    {
+      "title": "16 Best AI Tools for Business in 2026: Tested & Ranked",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAwQnBYNFM3cXk2eUZVZWZHYjBJZ01wbHJOMkpiNXExelhCZUc4US1OX0tnaWdyTnNCZkp6bGEwN0FOMDBiUzh6a29Wd2pmUk9pNWdRdXdXNG9HZVpo?oc=5",
+      "score": 5.99,
+      "niche": "ai",
+      "source": "gnews",
+      "engagement": {
+        "score": 40,
+        "comments": 0
+      }
+    },
+    {
+      "title": "With 135 Dividend Increases (And Counting), This High-Yield Stock Remains a Top Passive Income Investment for the Long-Term",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcmN6aS1icDNxMjgydmh2eld4UHdJZ1k4bTZHMnlfQVprMFo5QUlnamxqV3AtaGpkdXdYVUR2QnhxQ1RpN2kxd0U0bkdkdFFzWlZOZG81NVJrTHAzOUdlak1fQlRXbi0tN0IwUFpENXVmcEw0SnlyazVIbzRoZ3lFU1pWNGE3azFnQlZWSElxY0o2UlcyR1Bub01LWHdHWDltcFJB?oc=5",
+      "score": 5.94,
+      "niche": "ai",
+      "source": "gnews",
+      "engagement": {
+        "score": 40,
         "comments": 0
       }
     }
@@ -281,17 +281,27 @@
   "topics": [
     {
       "keyword": "passive income",
-      "count": 60,
-      "score": 232.18281514880005,
+      "count": 55,
+      "score": 202.03020816356783,
       "proper": true,
       "niches": [
-        "finance",
-        "ai"
+        "ai",
+        "finance"
       ],
       "examples": [
         {
-          "title": "Put $5,000 Into Coca-Cola Stock and Here Is the Quarterly Passive Income You Get",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVnYtUVNVTjFTYlR6OVpZR2FrR1lXY0pMbTZhNV9qNThzN0t5VnIzT3BiclVxbmtzSldJaGFrbXR3M0lGRUMwV1pYbjQtLUhCRzhOVGlteFo2WkVoS252el9IUXhnOHRkbGxuSkQ5RlZ3MWUyWFUydHRQeHhWTk1FTWJWRHpqbEQ4YVc3Mw?oc=5",
+          "title": "With 135 Dividend Increases (And Counting), This High-Yield Stock Remains a Top Passive Income Investment for the Long-Term",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcmN6aS1icDNxMjgydmh2eld4UHdJZ1k4bTZHMnlfQVprMFo5QUlnamxqV3AtaGpkdXdYVUR2QnhxQ1RpN2kxd0U0bkdkdFFzWlZOZG81NVJrTHAzOUdlak1fQlRXbi0tN0IwUFpENXVmcEw0SnlyazVIbzRoZ3lFU1pWNGE3azFnQlZWSElxY0o2UlcyR1Bub01LWHdHWDltcFJB?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "With 135 Dividend Increases (And Counting), This High-Yield Stock Remains a Top Passive Income Investment for the Long-Term",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcmN6aS1icDNxMjgydmh2eld4UHdJZ1k4bTZHMnlfQVprMFo5QUlnamxqV3AtaGpkdXdYVUR2QnhxQ1RpN2kxd0U0bkdkdFFzWlZOZG81NVJrTHAzOUdlak1fQlRXbi0tN0IwUFpENXVmcEw0SnlyazVIbzRoZ3lFU1pWNGE3azFnQlZWSElxY0o2UlcyR1Bub01LWHdHWDltcFJB?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "How much would you need to invest in FTSE 100 shares to target a £3,000 annual passive income?",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNY1BPSEF6cU1JM0tucHBfazJlMnpjcTVEYmd3dnZVQzh6aDh0WFZsbmhrbjZBRklnUGF0enU5N1pNOGlDZ1BveVFUWEFzYzM4U0dCQmUzVUxKNVpTYUFiU2NRQnoyZG5wWXd0VjJrNU0wUlV2TlJ3X0JXaVNZbXI5VFZCLTZmS0pZV04yZk5aMkg1Z3ZvOEZ3dkNaeWNreTV1eUNhbjNXRFJoYnBZXzM4SWRSTHNUWFJTaS1KaWNFTHByQmR2ZHVSeVVxV19jdw?oc=5",
           "source": "gnews"
         },
         {
@@ -300,18 +310,8 @@
           "source": "gnews"
         },
         {
-          "title": "Need Over $1000 per Month of Passive Income? Our Ultra-High-Yield Portfolio Can Make It Happen",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPa08wY3VmQUpJbW1VRjA2R0Vta2NqOTB4ci1wbE15V2hmSnQwNXFJNld1S3JoaXhEWUJURlJlNkxDWkhISmRlR1hZTFFIZ3FXcWtweE1LM3R1MzNqTTl1M2NvTVJBd3c3dGRMeDRRQWRPczFFZ3ZZdE9xeHRVcllMbWtSajlyMk4yRzNFa1NXMjVKNExBb1E4?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Need Over $1000 per Month of Passive Income? Our Ultra-High-Yield Portfolio Can Make It Happen",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPa08wY3VmQUpJbW1VRjA2R0Vta2NqOTB4ci1wbE15V2hmSnQwNXFJNld1S3JoaXhEWUJURlJlNkxDWkhISmRlR1hZTFFIZ3FXcWtweE1LM3R1MzNqTTl1M2NvTVJBd3c3dGRMeDRRQWRPczFFZ3ZZdE9xeHRVcllMbWtSajlyMk4yRzNFa1NXMjVKNExBb1E4?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "I Asked ChatGPT How Retirees Can Generate $2K Monthly in Passive Income in 2026: Here’s What It Recommended",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPT0tlSHVabEdfcEJ4M1d3Q1ROYjZXdWZOWkUtS1VvNE9VMUdST2pxamxvNktJLWM5UEdBSXBJZTlHdlM4XzJuYUM1NEY2bHpIOGl6bUdMUzN4NU03MWhjdHpDU1JFZHA3RWloMXAwMnNfdmFvSDlENC1QVjRYOXJLTWRnMTcxWXctUUJSZk0xcWRyYkllWG0xdHBuUi1taW9qT1E?oc=5",
+          "title": "Put $5,000 Into Coca-Cola Stock and Here Is the Quarterly Passive Income You Get",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVnYtUVNVTjFTYlR6OVpZR2FrR1lXY0pMbTZhNV9qNThzN0t5VnIzT3BiclVxbmtzSldJaGFrbXR3M0lGRUMwV1pYbjQtLUhCRzhOVGlteFo2WkVoS252el9IUXhnOHRkbGxuSkQ5RlZ3MWUyWFUydHRQeHhWTk1FTWJWRHpqbEQ4YVc3Mw?oc=5",
           "source": "gnews"
         }
       ],
@@ -320,8 +320,8 @@
     },
     {
       "keyword": "claude",
-      "count": 19,
-      "score": 137.3985256083718,
+      "count": 24,
+      "score": 182.4530121836121,
       "proper": true,
       "niches": [
         "ai"
@@ -343,13 +343,13 @@
           "source": "gnews"
         },
         {
-          "title": "Nanako0129/coralline — 🪸 Powerlevel10k-inspired statusline for Claude Code — paste one prompt and your AI interviews you, then installs it",
-          "url": "https://github.com/Nanako0129/coralline",
+          "title": "mrtooher/fable-mode — A Claude skill that activates Fable-style agentic behavior: explicit multi-stage planning, sub-agent delegation, and self-verification.",
+          "url": "https://github.com/mrtooher/fable-mode",
           "source": "github"
         },
         {
-          "title": "rbrown101010/rilable — An iPhone app that builds apps — prompt to live web + iOS apps. SwiftUI + Convex + Claude + Daytona + Chorus.",
-          "url": "https://github.com/rbrown101010/rilable",
+          "title": "mrtooher/fable-mode — A Claude skill that activates Fable-style agentic behavior: explicit multi-stage planning, sub-agent delegation, and self-verification.",
+          "url": "https://github.com/mrtooher/fable-mode",
           "source": "github"
         }
       ],
@@ -357,22 +357,60 @@
       "slug": "claude"
     },
     {
-      "keyword": "claude code",
-      "count": 27,
-      "score": 114.80648763353157,
+      "keyword": "agent",
+      "count": 14,
+      "score": 106.54701656700256,
       "proper": true,
       "niches": [
         "ai"
       ],
       "examples": [
         {
-          "title": "Nanako0129/coralline — 🪸 Powerlevel10k-inspired statusline for Claude Code — paste one prompt and your AI interviews you, then installs it",
-          "url": "https://github.com/Nanako0129/coralline",
+          "title": "How to setup a local coding agent on macOS",
+          "url": "https://ikyle.me/blog/2026/how-to-setup-a-local-coding-agent-on-macos",
+          "source": "hackernews"
+        },
+        {
+          "title": "DietrichGebert/ponytail — Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+          "url": "https://github.com/DietrichGebert/ponytail",
           "source": "github"
         },
         {
-          "title": "Nanako0129/coralline — 🪸 Powerlevel10k-inspired statusline for Claude Code — paste one prompt and your AI interviews you, then installs it",
-          "url": "https://github.com/Nanako0129/coralline",
+          "title": "orange2ai/renwei-writing — 人味儿写作 · An AI agent skill: edit people's words without erasing the person behind them",
+          "url": "https://github.com/orange2ai/renwei-writing",
+          "source": "github"
+        },
+        {
+          "title": "taisly/agent — Taisly Agent Kit: SDK, CLI, examples, and docs for AI agents that publish videos through Taisly.",
+          "url": "https://github.com/taisly/agent",
+          "source": "github"
+        },
+        {
+          "title": "taisly/agent — Taisly Agent Kit: SDK, CLI, examples, and docs for AI agents that publish videos through Taisly.",
+          "url": "https://github.com/taisly/agent",
+          "source": "github"
+        }
+      ],
+      "id": "d4f0bc5a29de",
+      "slug": "agent"
+    },
+    {
+      "keyword": "claude code",
+      "count": 27,
+      "score": 104.84806148061281,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "DanMcInerney/architect-loop — Claude Fable 5 as architect, GPT-5.5 Codex as builder, the repo as memory - a research-backed Claude Code skill for the cross-vendor agent loop",
+          "url": "https://github.com/DanMcInerney/architect-loop",
+          "source": "github"
+        },
+        {
+          "title": "DanMcInerney/architect-loop — Claude Fable 5 as architect, GPT-5.5 Codex as builder, the repo as memory - a research-backed Claude Code skill for the cross-vendor agent loop",
+          "url": "https://github.com/DanMcInerney/architect-loop",
           "source": "github"
         },
         {
@@ -395,32 +433,83 @@
       "slug": "claude-code"
     },
     {
-      "keyword": "spacex ipo",
+      "keyword": "atomic arch",
       "count": 8,
-      "score": 113.01675124912519,
+      "score": 98.72796237601929,
       "proper": true,
       "niches": [
         "ai"
       ],
       "examples": [
         {
-          "title": "Elon Musk’s SpaceX IPO will probably make him the richest person to ever walk the planet. And while his mountain of horrible personal conduct could fill multiple books, one fact in particular stands o",
-          "url": "https://cyberplace.social/@GossiTheDog/116739356160733999",
+          "title": "Heads up #ArchLinux users!The \"Atomic Arch\" supply chain attack (June 9-12) compromised 400-1,500+ AUR packages with an infostealer & eBPF rootkit targeting credentials, browser data, and CI/CD secret",
+          "url": "https://mastodon.social/@fribbledom/116742703431986690",
           "source": "mastodon"
         },
         {
-          "title": "Elon Musk’s SpaceX IPO will probably make him the richest person to ever walk the planet. And while his mountain of horrible personal conduct could fill multiple books, one fact in particular stands o",
-          "url": "https://cyberplace.social/@GossiTheDog/116739356160733999",
+          "title": "Heads up #ArchLinux users!The \"Atomic Arch\" supply chain attack (June 9-12) compromised 400-1,500+ AUR packages with an infostealer & eBPF rootkit targeting credentials, browser data, and CI/CD secret",
+          "url": "https://mastodon.social/@fribbledom/116742703431986690",
           "source": "mastodon"
         }
       ],
-      "id": "b903869050cc",
-      "slug": "spacex-ipo"
+      "id": "6ac2c746f367",
+      "slug": "atomic-arch"
+    },
+    {
+      "keyword": "dividend increases",
+      "count": 11,
+      "score": 97.92823578002233,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "With 135 Dividend Increases (And Counting), This High-Yield Stock Remains a Top Passive Income Investment for the Long-Term",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcmN6aS1icDNxMjgydmh2eld4UHdJZ1k4bTZHMnlfQVprMFo5QUlnamxqV3AtaGpkdXdYVUR2QnhxQ1RpN2kxd0U0bkdkdFFzWlZOZG81NVJrTHAzOUdlak1fQlRXbi0tN0IwUFpENXVmcEw0SnlyazVIbzRoZ3lFU1pWNGE3azFnQlZWSElxY0o2UlcyR1Bub01LWHdHWDltcFJB?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "With 135 Dividend Increases (And Counting), This High-Yield Stock Remains a Top Passive Income Investment for the Long-Term",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcmN6aS1icDNxMjgydmh2eld4UHdJZ1k4bTZHMnlfQVprMFo5QUlnamxqV3AtaGpkdXdYVUR2QnhxQ1RpN2kxd0U0bkdkdFFzWlZOZG81NVJrTHAzOUdlak1fQlRXbi0tN0IwUFpENXVmcEw0SnlyazVIbzRoZ3lFU1pWNGE3azFnQlZWSElxY0o2UlcyR1Bub01LWHdHWDltcFJB?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "With 135 Dividend Increases (And Counting), This High-Yield Stock Remains a Top Passive Income Investment for the Long-Term",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcmN6aS1icDNxMjgydmh2eld4UHdJZ1k4bTZHMnlfQVprMFo5QUlnamxqV3AtaGpkdXdYVUR2QnhxQ1RpN2kxd0U0bkdkdFFzWlZOZG81NVJrTHAzOUdlak1fQlRXbi0tN0IwUFpENXVmcEw0SnlyazVIbzRoZ3lFU1pWNGE3azFnQlZWSElxY0o2UlcyR1Bub01LWHdHWDltcFJB?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "464c8db6781a",
+      "slug": "dividend-increases"
+    },
+    {
+      "keyword": "lightweight jira",
+      "count": 8,
+      "score": 92.90397231741505,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "Show HN: Paca – Lightweight Jira alternative for human-AI collaboration",
+          "url": "https://github.com/Paca-AI/paca",
+          "source": "hackernews"
+        },
+        {
+          "title": "Show HN: Paca – Lightweight Jira alternative for human-AI collaboration",
+          "url": "https://github.com/Paca-AI/paca",
+          "source": "hackernews"
+        }
+      ],
+      "id": "11aea5553aff",
+      "slug": "lightweight-jira"
     },
     {
       "keyword": "open",
-      "count": 12,
-      "score": 105.19211721304191,
+      "count": 11,
+      "score": 85.88922491650578,
       "proper": true,
       "niches": [
         "ai",
@@ -438,11 +527,6 @@
           "source": "hackernews"
         },
         {
-          "title": "I think the secret reason that so much open source software is designed for CLI use is NOT just that we really like the console, but the deeper and much more true reason is that writing a GUI is a pai",
-          "url": "https://digipres.club/@foone/116740692999571279",
-          "source": "mastodon"
-        },
-        {
           "title": "Open-Builders/pumpfun-bundler-pump.fun-bundler-solana-token-bundler-bot — ",
           "url": "https://github.com/Open-Builders/pumpfun-bundler-pump.fun-bundler-solana-token-bundler-bot",
           "source": "github"
@@ -452,86 +536,98 @@
       "slug": "open"
     },
     {
-      "keyword": "agent",
+      "keyword": "apple",
+      "count": 10,
+      "score": 83.18271079764145,
+      "proper": true,
+      "niches": [
+        "software"
+      ],
+      "examples": [
+        {
+          "title": "Swift at Apple: Migrating the TrueType hinting interpreter",
+          "url": "https://www.swift.org/blog/migrating-truetype-hinting-to-swift/",
+          "source": "hackernews"
+        },
+        {
+          "title": "Swift at Apple: Migrating the TrueType Hinting Interpreter",
+          "url": "https://swift.org/blog/migrating-truetype-hinting-to-swift/",
+          "source": "lobsters"
+        }
+      ],
+      "id": "3a7bd3e2360a",
+      "slug": "apple"
+    },
+    {
+      "keyword": "software",
       "count": 12,
-      "score": 96.72939554844231,
+      "score": 75.16862999399342,
       "proper": true,
       "niches": [
         "ai"
       ],
       "examples": [
         {
-          "title": "How to setup a local coding agent on macOS",
-          "url": "https://ikyle.me/blog/2026/how-to-setup-a-local-coding-agent-on-macos",
-          "source": "hackernews"
+          "title": "Software engineer reportedly wins religious exemption from AI use",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNemVVT3FTZmQzQjJxcGpFVkxCX2ZEYnZUejVTVmlMMFdPeXl5VWRXRUdOZ1dkNVBUY0JIRGt5alFBQWVrSUhuNWd3UlNTLTBfdnBXbDFvWl83WGpXblFXZHBmb01QcDF6dm9WZXNrNW1iZDVkZmUwLW5kdFZxR0lXbzYyajBTLUZRcTVkUW1sRy1pdUh2Nzl5elJGejc4bFk3Rl9SZFRzMXpadmlrVE9sVDhn?oc=5",
+          "source": "gnews"
         },
         {
-          "title": "DietrichGebert/ponytail — Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-          "url": "https://github.com/DietrichGebert/ponytail",
-          "source": "github"
+          "title": "Software engineer reportedly wins religious exemption from AI use",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNemVVT3FTZmQzQjJxcGpFVkxCX2ZEYnZUejVTVmlMMFdPeXl5VWRXRUdOZ1dkNVBUY0JIRGt5alFBQWVrSUhuNWd3UlNTLTBfdnBXbDFvWl83WGpXblFXZHBmb01QcDF6dm9WZXNrNW1iZDVkZmUwLW5kdFZxR0lXbzYyajBTLUZRcTVkUW1sRy1pdUh2Nzl5elJGejc4bFk3Rl9SZFRzMXpadmlrVE9sVDhn?oc=5",
+          "source": "gnews"
         },
         {
-          "title": "AI Agent Bankrupted Their Operator While Trying to Scan DN42",
-          "url": "https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/",
-          "source": "lobsters"
+          "title": "Software engineer reportedly wins religious exemption from AI use",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNemVVT3FTZmQzQjJxcGpFVkxCX2ZEYnZUejVTVmlMMFdPeXl5VWRXRUdOZ1dkNVBUY0JIRGt5alFBQWVrSUhuNWd3UlNTLTBfdnBXbDFvWl83WGpXblFXZHBmb01QcDF6dm9WZXNrNW1iZDVkZmUwLW5kdFZxR0lXbzYyajBTLUZRcTVkUW1sRy1pdUh2Nzl5elJGejc4bFk3Rl9SZFRzMXpadmlrVE9sVDhn?oc=5",
+          "source": "gnews"
         },
         {
-          "title": "orange2ai/renwei-writing — 人味儿写作 · An AI agent skill: edit people's words without erasing the person behind them",
-          "url": "https://github.com/orange2ai/renwei-writing",
-          "source": "github"
+          "title": "Apollo Is Screening All Software Investments for AI Threat Risk",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdk1SaW01TmZFSDA4T1ctRTBheVROYUlQOGxTWkNGdzR6SEpFR1ZOaUtUWV9vVGVGaHZ1WFVuSk1lZkNwOENwN2xIOW9zQmhnM0otSGZaTndYTlMtNkx4RXZXdkZ6RE1hbENacURnVUktdElsSTNfcmtUOWNXZE11emg3MnBoTTVaTXduYlVZMjVSZUREVTN3cnlpeHk4WXQ3TEN2UVVFeEtrczA0RExueU9hX1A?oc=5",
+          "source": "gnews"
         },
         {
-          "title": "taisly/agent — Taisly Agent Kit: SDK, CLI, examples, and docs for AI agents that publish videos through Taisly.",
-          "url": "https://github.com/taisly/agent",
-          "source": "github"
+          "title": "Apollo Is Screening All Software Investments for AI Threat Risk",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdk1SaW01TmZFSDA4T1ctRTBheVROYUlQOGxTWkNGdzR6SEpFR1ZOaUtUWV9vVGVGaHZ1WFVuSk1lZkNwOENwN2xIOW9zQmhnM0otSGZaTndYTlMtNkx4RXZXdkZ6RE1hbENacURnVUktdElsSTNfcmtUOWNXZE11emg3MnBoTTVaTXduYlVZMjVSZUREVTN3cnlpeHk4WXQ3TEN2UVVFeEtrczA0RExueU9hX1A?oc=5",
+          "source": "gnews"
         }
       ],
-      "id": "d4f0bc5a29de",
-      "slug": "agent"
+      "id": "35390f5453e8",
+      "slug": "software"
     },
     {
-      "keyword": "productivity apps",
-      "count": 30,
-      "score": 82.0971494424614,
-      "proper": false,
+      "keyword": "grant writing",
+      "count": 11,
+      "score": 74.08483924227778,
+      "proper": true,
       "niches": [
-        "ai",
-        "software"
+        "ai"
       ],
       "examples": [
         {
-          "title": "Why I ditched paid productivity apps for this free open-source alternative - How-To Geek",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTE9jOUhlQl9jazRtcXBDdERaa3FWaFNnV3dzZ1NkbTE2ckZhbGVaTTdFck4xMW50QktnbUFoS183YzJWcUprSTJEbjhYUkR0NlJmaWhZM0d4QkdaREhnV3JXMkZ2NktjWl9xTHNoWjVVbE85cnhKSTdvOWRkaGI5cGFRU01aSWF6V0tMVTdpY2R5ck5LYUF3ZzdqMUZLQQ?oc=5",
+          "title": "10 Best AI Tools for Grant Writing in 2026",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNU1RCVnd6QVc1aEV6QVZtX3Fqc21yYjRqM19hUmFtek1wNmdfZXdpV1Z0bE5KNlY0c3R1WUNuUEZoVlZPZlU4ODBBUENTRkM5ZEY2X2NoVFRQZFJaQ2Y0MllsclkxZ1M3SVNPTXVKeGdWb3BiN1NNNk9FR3FoQ3dWMU1xMV9lRUxnNXpZUEZ1RjZsRUxKRXVB?oc=5",
           "source": "gnews"
         },
         {
-          "title": "Why I ditched paid productivity apps for this free open-source alternative - How-To Geek",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTE9jOUhlQl9jazRtcXBDdERaa3FWaFNnV3dzZ1NkbTE2ckZhbGVaTTdFck4xMW50QktnbUFoS183YzJWcUprSTJEbjhYUkR0NlJmaWhZM0d4QkdaREhnV3JXMkZ2NktjWl9xTHNoWjVVbE85cnhKSTdvOWRkaGI5cGFRU01aSWF6V0tMVTdpY2R5ck5LYUF3ZzdqMUZLQQ?oc=5",
+          "title": "10 Best AI Tools for Grant Writing in 2026",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNU1RCVnd6QVc1aEV6QVZtX3Fqc21yYjRqM19hUmFtek1wNmdfZXdpV1Z0bE5KNlY0c3R1WUNuUEZoVlZPZlU4ODBBUENTRkM5ZEY2X2NoVFRQZFJaQ2Y0MllsclkxZ1M3SVNPTXVKeGdWb3BiN1NNNk9FR3FoQ3dWMU1xMV9lRUxnNXpZUEZ1RjZsRUxKRXVB?oc=5",
           "source": "gnews"
         },
         {
-          "title": "Personal Productivity Apps",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9PM19PY3hhTzBxSnRoalVkZmhNcEpYVnpRYk5JTGV1dVlyUzUxc0tlcTJMRWNxTEtMTmh4aTdWMFZyTHBreTRSQk1mS0tDZHB6UmNyT3FoUE7SAV5BVV95cUxPNEtpcHlyNm1UYmRJQ2J4WDV0b1lRNVFNRklCeURsNWxZSHBKRVp4UnRyRlNFcVNkUVY2eDU5Tmhtb0gySHlmOFV6aEdXWkl6WDA0NlRvUlVfVWtyQVpR?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Personal Productivity Apps",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9PM19PY3hhTzBxSnRoalVkZmhNcEpYVnpRYk5JTGV1dVlyUzUxc0tlcTJMRWNxTEtMTmh4aTdWMFZyTHBreTRSQk1mS0tDZHB6UmNyT3FoUE7SAV5BVV95cUxPNEtpcHlyNm1UYmRJQ2J4WDV0b1lRNVFNRklCeURsNWxZSHBKRVp4UnRyRlNFcVNkUVY2eDU5Tmhtb0gySHlmOFV6aEdXWkl6WDA0NlRvUlVfVWtyQVpR?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "The Best Productivity Apps for 2026",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1hcGhhTzd4UXY0VzB6MjRBcjZDR3ozczlxVFd4eVZmRGpjNVk2Z1ZCd3pIa0hBMUcxN3hEQTloZjh0dmdLMl9EakVNYjl0ZFBRQldfZEtqbGVmNGNtYTBNSllINjZ1aUU3aWp0ZGMyOTg0eGJE?oc=5",
+          "title": "10 Best AI Tools for Grant Writing in 2026",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNU1RCVnd6QVc1aEV6QVZtX3Fqc21yYjRqM19hUmFtek1wNmdfZXdpV1Z0bE5KNlY0c3R1WUNuUEZoVlZPZlU4ODBBUENTRkM5ZEY2X2NoVFRQZFJaQ2Y0MllsclkxZ1M3SVNPTXVKeGdWb3BiN1NNNk9FR3FoQ3dWMU1xMV9lRUxnNXpZUEZ1RjZsRUxKRXVB?oc=5",
           "source": "gnews"
         }
       ],
-      "id": "c3d816ac2a46",
-      "slug": "productivity-apps"
+      "id": "cd1b9e7c059f",
+      "slug": "grant-writing"
     },
     {
       "keyword": "fitness gear",
       "count": 23,
-      "score": 80.74241100281681,
+      "score": 66.51765738654875,
       "proper": true,
       "niches": [
         "software",
@@ -568,9 +664,27 @@
       "slug": "fitness-gear"
     },
     {
+      "keyword": "ai oss",
+      "count": 5,
+      "score": 65.74367037506636,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "AI OSS tool repo goes archived over night after raising $7.3M Seed",
+          "url": "https://github.com/tensorzero/tensorzero",
+          "source": "hackernews"
+        }
+      ],
+      "id": "16fa3761fa92",
+      "slug": "ai-oss"
+    },
+    {
       "keyword": "android studio",
       "count": 8,
-      "score": 79.46817188467004,
+      "score": 60.96861024322071,
       "proper": true,
       "niches": [
         "software"
@@ -591,168 +705,58 @@
       "slug": "android-studio"
     },
     {
-      "keyword": "apple",
-      "count": 10,
-      "score": 74.87959779126561,
-      "proper": true,
-      "niches": [
-        "software"
-      ],
-      "examples": [
-        {
-          "title": "Swift at Apple: Migrating the TrueType hinting interpreter",
-          "url": "https://www.swift.org/blog/migrating-truetype-hinting-to-swift/",
-          "source": "hackernews"
-        },
-        {
-          "title": "Swift at Apple: Migrating the TrueType Hinting Interpreter",
-          "url": "https://swift.org/blog/migrating-truetype-hinting-to-swift/",
-          "source": "lobsters"
-        }
-      ],
-      "id": "3a7bd3e2360a",
-      "slug": "apple"
-    },
-    {
-      "keyword": "scan dn42",
-      "count": 8,
-      "score": 70.00331062127091,
+      "keyword": "threat risk",
+      "count": 11,
+      "score": 58.75694146801339,
       "proper": true,
       "niches": [
         "ai"
       ],
       "examples": [
         {
-          "title": "AI Agent Bankrupted Their Operator While Trying to Scan DN42",
-          "url": "https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/",
-          "source": "lobsters"
-        },
-        {
-          "title": "AI Agent Bankrupted Their Operator While Trying to Scan DN42",
-          "url": "https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/",
-          "source": "lobsters"
-        }
-      ],
-      "id": "5f323992c4f9",
-      "slug": "scan-dn42"
-    },
-    {
-      "keyword": "world trillionaire",
-      "count": 6,
-      "score": 60.983366672325275,
-      "proper": false,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "Let’s stop saying ‘world’s first trillionaire’ and start saying ‘world’s *last* trillionaire’",
-          "url": "https://mastodon.art/@PhineasX/116739890751927796",
-          "source": "mastodon"
-        },
-        {
-          "title": "Let’s stop saying ‘world’s first trillionaire’ and start saying ‘world’s *last* trillionaire’",
-          "url": "https://mastodon.art/@PhineasX/116739890751927796",
-          "source": "mastodon"
-        }
-      ],
-      "id": "a7368e2d9763",
-      "slug": "world-trillionaire"
-    },
-    {
-      "keyword": "modos flow",
-      "count": 8,
-      "score": 56.081352248537236,
-      "proper": true,
-      "niches": [
-        "gear"
-      ],
-      "examples": [
-        {
-          "title": "How I made a 60fps Eink monitor, the Modos Flow",
-          "url": "https://youtu.be/nHbA2-_qzH4",
-          "source": "lobsters"
-        },
-        {
-          "title": "How I made a 60fps Eink monitor, the Modos Flow",
-          "url": "https://youtu.be/nHbA2-_qzH4",
-          "source": "lobsters"
-        }
-      ],
-      "id": "039bb1e8b891",
-      "slug": "modos-flow"
-    },
-    {
-      "keyword": "neo scholars",
-      "count": 8,
-      "score": 53.70433618963048,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "Dev Opportunity Radar #3: Neo Scholars, a $2M AI Challenge, and an $85K AI Fellowship",
-          "url": "https://dev.to/devengers/dev-opportunity-radar-3-neo-scholars-a-2m-ai-challenge-and-an-85k-ai-fellowship-cjf",
-          "source": "devto"
-        },
-        {
-          "title": "Dev Opportunity Radar #3: Neo Scholars, a $2M AI Challenge, and an $85K AI Fellowship",
-          "url": "https://dev.to/devengers/dev-opportunity-radar-3-neo-scholars-a-2m-ai-challenge-and-an-85k-ai-fellowship-cjf",
-          "source": "devto"
-        }
-      ],
-      "id": "a605b6ff2a35",
-      "slug": "neo-scholars"
-    },
-    {
-      "keyword": "early prime",
-      "count": 12,
-      "score": 52.02195608235178,
-      "proper": false,
-      "niches": [
-        "software"
-      ],
-      "examples": [
-        {
-          "title": "These early Prime Day deals are already live on Amazon: Kitchen gadgets, fitness gear, power tools, and more",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBrS1JUWjJIQ1pnOXNUcWRwU3ByYVJtY2o3UVoxeVhvRnNqckVRRFhaZ1czQ19aUzNfSm1KQ2ZLcUhyWTVkRjEyUEZIaGZtOU5IVU9QTEllVTVDQmhMR2ZPUE05OUxnbWptWVdhX0dSRQ?oc=5",
+          "title": "Apollo Is Screening All Software Investments for AI Threat Risk",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdk1SaW01TmZFSDA4T1ctRTBheVROYUlQOGxTWkNGdzR6SEpFR1ZOaUtUWV9vVGVGaHZ1WFVuSk1lZkNwOENwN2xIOW9zQmhnM0otSGZaTndYTlMtNkx4RXZXdkZ6RE1hbENacURnVUktdElsSTNfcmtUOWNXZE11emg3MnBoTTVaTXduYlVZMjVSZUREVTN3cnlpeHk4WXQ3TEN2UVVFeEtrczA0RExueU9hX1A?oc=5",
           "source": "gnews"
         },
         {
-          "title": "These early Prime Day deals are already live on Amazon: Kitchen gadgets, fitness gear, power tools, and more",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBrS1JUWjJIQ1pnOXNUcWRwU3ByYVJtY2o3UVoxeVhvRnNqckVRRFhaZ1czQ19aUzNfSm1KQ2ZLcUhyWTVkRjEyUEZIaGZtOU5IVU9QTEllVTVDQmhMR2ZPUE05OUxnbWptWVdhX0dSRQ?oc=5",
+          "title": "Apollo Is Screening All Software Investments for AI Threat Risk",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdk1SaW01TmZFSDA4T1ctRTBheVROYUlQOGxTWkNGdzR6SEpFR1ZOaUtUWV9vVGVGaHZ1WFVuSk1lZkNwOENwN2xIOW9zQmhnM0otSGZaTndYTlMtNkx4RXZXdkZ6RE1hbENacURnVUktdElsSTNfcmtUOWNXZE11emg3MnBoTTVaTXduYlVZMjVSZUREVTN3cnlpeHk4WXQ3TEN2UVVFeEtrczA0RExueU9hX1A?oc=5",
           "source": "gnews"
         },
         {
-          "title": "Save Nearly 50% on Editor-Approved Home Gym Equipment With These Early Prime Day Fitness Deals",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9BVVVTRTNIMlFLNUc5c1pmaHp5aXpidFoxZzI5TnhxTkRzWm1XSDdzOWxSdlhmZjJYaEFoNUktb2JrSnNDa0g3THNSSjFLbkhweXJESmJ4U3ZPNld2a1R1eU1fWHE1ZG5ybXRqRjJVbDM0Qkw0ZVFLdg?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Save Nearly 50% on Editor-Approved Home Gym Equipment With These Early Prime Day Fitness Deals",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9BVVVTRTNIMlFLNUc5c1pmaHp5aXpidFoxZzI5TnhxTkRzWm1XSDdzOWxSdlhmZjJYaEFoNUktb2JrSnNDa0g3THNSSjFLbkhweXJESmJ4U3ZPNld2a1R1eU1fWHE1ZG5ybXRqRjJVbDM0Qkw0ZVFLdg?oc=5",
+          "title": "Apollo Is Screening All Software Investments for AI Threat Risk",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdk1SaW01TmZFSDA4T1ctRTBheVROYUlQOGxTWkNGdzR6SEpFR1ZOaUtUWV9vVGVGaHZ1WFVuSk1lZkNwOENwN2xIOW9zQmhnM0otSGZaTndYTlMtNkx4RXZXdkZ6RE1hbENacURnVUktdElsSTNfcmtUOWNXZE11emg3MnBoTTVaTXduYlVZMjVSZUREVTN3cnlpeHk4WXQ3TEN2UVVFeEtrczA0RExueU9hX1A?oc=5",
           "source": "gnews"
         }
       ],
-      "id": "6069e8d26a81",
-      "slug": "early-prime"
+      "id": "c190b804e912",
+      "slug": "threat-risk"
     }
   ],
   "opportunities": [
     {
       "keyword": "passive income",
-      "count": 60,
-      "score": 232.18281514880005,
+      "count": 55,
+      "score": 202.03020816356783,
       "proper": true,
       "niches": [
-        "finance",
-        "ai"
+        "ai",
+        "finance"
       ],
       "examples": [
         {
-          "title": "Put $5,000 Into Coca-Cola Stock and Here Is the Quarterly Passive Income You Get",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVnYtUVNVTjFTYlR6OVpZR2FrR1lXY0pMbTZhNV9qNThzN0t5VnIzT3BiclVxbmtzSldJaGFrbXR3M0lGRUMwV1pYbjQtLUhCRzhOVGlteFo2WkVoS252el9IUXhnOHRkbGxuSkQ5RlZ3MWUyWFUydHRQeHhWTk1FTWJWRHpqbEQ4YVc3Mw?oc=5",
+          "title": "With 135 Dividend Increases (And Counting), This High-Yield Stock Remains a Top Passive Income Investment for the Long-Term",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcmN6aS1icDNxMjgydmh2eld4UHdJZ1k4bTZHMnlfQVprMFo5QUlnamxqV3AtaGpkdXdYVUR2QnhxQ1RpN2kxd0U0bkdkdFFzWlZOZG81NVJrTHAzOUdlak1fQlRXbi0tN0IwUFpENXVmcEw0SnlyazVIbzRoZ3lFU1pWNGE3azFnQlZWSElxY0o2UlcyR1Bub01LWHdHWDltcFJB?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "With 135 Dividend Increases (And Counting), This High-Yield Stock Remains a Top Passive Income Investment for the Long-Term",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcmN6aS1icDNxMjgydmh2eld4UHdJZ1k4bTZHMnlfQVprMFo5QUlnamxqV3AtaGpkdXdYVUR2QnhxQ1RpN2kxd0U0bkdkdFFzWlZOZG81NVJrTHAzOUdlak1fQlRXbi0tN0IwUFpENXVmcEw0SnlyazVIbzRoZ3lFU1pWNGE3azFnQlZWSElxY0o2UlcyR1Bub01LWHdHWDltcFJB?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "How much would you need to invest in FTSE 100 shares to target a £3,000 annual passive income?",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNY1BPSEF6cU1JM0tucHBfazJlMnpjcTVEYmd3dnZVQzh6aDh0WFZsbmhrbjZBRklnUGF0enU5N1pNOGlDZ1BveVFUWEFzYzM4U0dCQmUzVUxKNVpTYUFiU2NRQnoyZG5wWXd0VjJrNU0wUlV2TlJ3X0JXaVNZbXI5VFZCLTZmS0pZV04yZk5aMkg1Z3ZvOEZ3dkNaeWNreTV1eUNhbjNXRFJoYnBZXzM4SWRSTHNUWFJTaS1KaWNFTHByQmR2ZHVSeVVxV19jdw?oc=5",
           "source": "gnews"
         },
         {
@@ -761,18 +765,8 @@
           "source": "gnews"
         },
         {
-          "title": "Need Over $1000 per Month of Passive Income? Our Ultra-High-Yield Portfolio Can Make It Happen",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPa08wY3VmQUpJbW1VRjA2R0Vta2NqOTB4ci1wbE15V2hmSnQwNXFJNld1S3JoaXhEWUJURlJlNkxDWkhISmRlR1hZTFFIZ3FXcWtweE1LM3R1MzNqTTl1M2NvTVJBd3c3dGRMeDRRQWRPczFFZ3ZZdE9xeHRVcllMbWtSajlyMk4yRzNFa1NXMjVKNExBb1E4?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Need Over $1000 per Month of Passive Income? Our Ultra-High-Yield Portfolio Can Make It Happen",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPa08wY3VmQUpJbW1VRjA2R0Vta2NqOTB4ci1wbE15V2hmSnQwNXFJNld1S3JoaXhEWUJURlJlNkxDWkhISmRlR1hZTFFIZ3FXcWtweE1LM3R1MzNqTTl1M2NvTVJBd3c3dGRMeDRRQWRPczFFZ3ZZdE9xeHRVcllMbWtSajlyMk4yRzNFa1NXMjVKNExBb1E4?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "I Asked ChatGPT How Retirees Can Generate $2K Monthly in Passive Income in 2026: Here’s What It Recommended",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPT0tlSHVabEdfcEJ4M1d3Q1ROYjZXdWZOWkUtS1VvNE9VMUdST2pxamxvNktJLWM5UEdBSXBJZTlHdlM4XzJuYUM1NEY2bHpIOGl6bUdMUzN4NU03MWhjdHpDU1JFZHA3RWloMXAwMnNfdmFvSDlENC1QVjRYOXJLTWRnMTcxWXctUUJSZk0xcWRyYkllWG0xdHBuUi1taW9qT1E?oc=5",
+          "title": "Put $5,000 Into Coca-Cola Stock and Here Is the Quarterly Passive Income You Get",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVnYtUVNVTjFTYlR6OVpZR2FrR1lXY0pMbTZhNV9qNThzN0t5VnIzT3BiclVxbmtzSldJaGFrbXR3M0lGRUMwV1pYbjQtLUhCRzhOVGlteFo2WkVoS252el9IUXhnOHRkbGxuSkQ5RlZ3MWUyWFUydHRQeHhWTk1FTWJWRHpqbEQ4YVc3Mw?oc=5",
           "source": "gnews"
         }
       ],
@@ -780,13 +774,13 @@
       "slug": "passive-income",
       "opportunity": {
         "type": "niche-content",
-        "recommended": "Publish niche guide for \"finance\"; bundle into digital product later."
+        "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
       }
     },
     {
       "keyword": "claude",
-      "count": 19,
-      "score": 137.3985256083718,
+      "count": 24,
+      "score": 182.4530121836121,
       "proper": true,
       "niches": [
         "ai"
@@ -808,13 +802,13 @@
           "source": "gnews"
         },
         {
-          "title": "Nanako0129/coralline — 🪸 Powerlevel10k-inspired statusline for Claude Code — paste one prompt and your AI interviews you, then installs it",
-          "url": "https://github.com/Nanako0129/coralline",
+          "title": "mrtooher/fable-mode — A Claude skill that activates Fable-style agentic behavior: explicit multi-stage planning, sub-agent delegation, and self-verification.",
+          "url": "https://github.com/mrtooher/fable-mode",
           "source": "github"
         },
         {
-          "title": "rbrown101010/rilable — An iPhone app that builds apps — prompt to live web + iOS apps. SwiftUI + Convex + Claude + Daytona + Chorus.",
-          "url": "https://github.com/rbrown101010/rilable",
+          "title": "mrtooher/fable-mode — A Claude skill that activates Fable-style agentic behavior: explicit multi-stage planning, sub-agent delegation, and self-verification.",
+          "url": "https://github.com/mrtooher/fable-mode",
           "source": "github"
         }
       ],
@@ -826,22 +820,64 @@
       }
     },
     {
-      "keyword": "claude code",
-      "count": 27,
-      "score": 114.80648763353157,
+      "keyword": "agent",
+      "count": 14,
+      "score": 106.54701656700256,
       "proper": true,
       "niches": [
         "ai"
       ],
       "examples": [
         {
-          "title": "Nanako0129/coralline — 🪸 Powerlevel10k-inspired statusline for Claude Code — paste one prompt and your AI interviews you, then installs it",
-          "url": "https://github.com/Nanako0129/coralline",
+          "title": "How to setup a local coding agent on macOS",
+          "url": "https://ikyle.me/blog/2026/how-to-setup-a-local-coding-agent-on-macos",
+          "source": "hackernews"
+        },
+        {
+          "title": "DietrichGebert/ponytail — Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+          "url": "https://github.com/DietrichGebert/ponytail",
           "source": "github"
         },
         {
-          "title": "Nanako0129/coralline — 🪸 Powerlevel10k-inspired statusline for Claude Code — paste one prompt and your AI interviews you, then installs it",
-          "url": "https://github.com/Nanako0129/coralline",
+          "title": "orange2ai/renwei-writing — 人味儿写作 · An AI agent skill: edit people's words without erasing the person behind them",
+          "url": "https://github.com/orange2ai/renwei-writing",
+          "source": "github"
+        },
+        {
+          "title": "taisly/agent — Taisly Agent Kit: SDK, CLI, examples, and docs for AI agents that publish videos through Taisly.",
+          "url": "https://github.com/taisly/agent",
+          "source": "github"
+        },
+        {
+          "title": "taisly/agent — Taisly Agent Kit: SDK, CLI, examples, and docs for AI agents that publish videos through Taisly.",
+          "url": "https://github.com/taisly/agent",
+          "source": "github"
+        }
+      ],
+      "id": "d4f0bc5a29de",
+      "slug": "agent",
+      "opportunity": {
+        "type": "niche-content",
+        "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
+      }
+    },
+    {
+      "keyword": "claude code",
+      "count": 27,
+      "score": 104.84806148061281,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "DanMcInerney/architect-loop — Claude Fable 5 as architect, GPT-5.5 Codex as builder, the repo as memory - a research-backed Claude Code skill for the cross-vendor agent loop",
+          "url": "https://github.com/DanMcInerney/architect-loop",
+          "source": "github"
+        },
+        {
+          "title": "DanMcInerney/architect-loop — Claude Fable 5 as architect, GPT-5.5 Codex as builder, the repo as memory - a research-backed Claude Code skill for the cross-vendor agent loop",
+          "url": "https://github.com/DanMcInerney/architect-loop",
           "source": "github"
         },
         {
@@ -868,27 +904,86 @@
       }
     },
     {
-      "keyword": "spacex ipo",
+      "keyword": "atomic arch",
       "count": 8,
-      "score": 113.01675124912519,
+      "score": 98.72796237601929,
       "proper": true,
       "niches": [
         "ai"
       ],
       "examples": [
         {
-          "title": "Elon Musk’s SpaceX IPO will probably make him the richest person to ever walk the planet. And while his mountain of horrible personal conduct could fill multiple books, one fact in particular stands o",
-          "url": "https://cyberplace.social/@GossiTheDog/116739356160733999",
+          "title": "Heads up #ArchLinux users!The \"Atomic Arch\" supply chain attack (June 9-12) compromised 400-1,500+ AUR packages with an infostealer & eBPF rootkit targeting credentials, browser data, and CI/CD secret",
+          "url": "https://mastodon.social/@fribbledom/116742703431986690",
           "source": "mastodon"
         },
         {
-          "title": "Elon Musk’s SpaceX IPO will probably make him the richest person to ever walk the planet. And while his mountain of horrible personal conduct could fill multiple books, one fact in particular stands o",
-          "url": "https://cyberplace.social/@GossiTheDog/116739356160733999",
+          "title": "Heads up #ArchLinux users!The \"Atomic Arch\" supply chain attack (June 9-12) compromised 400-1,500+ AUR packages with an infostealer & eBPF rootkit targeting credentials, browser data, and CI/CD secret",
+          "url": "https://mastodon.social/@fribbledom/116742703431986690",
           "source": "mastodon"
         }
       ],
-      "id": "b903869050cc",
-      "slug": "spacex-ipo",
+      "id": "6ac2c746f367",
+      "slug": "atomic-arch",
+      "opportunity": {
+        "type": "niche-content",
+        "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
+      }
+    },
+    {
+      "keyword": "dividend increases",
+      "count": 11,
+      "score": 97.92823578002233,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "With 135 Dividend Increases (And Counting), This High-Yield Stock Remains a Top Passive Income Investment for the Long-Term",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcmN6aS1icDNxMjgydmh2eld4UHdJZ1k4bTZHMnlfQVprMFo5QUlnamxqV3AtaGpkdXdYVUR2QnhxQ1RpN2kxd0U0bkdkdFFzWlZOZG81NVJrTHAzOUdlak1fQlRXbi0tN0IwUFpENXVmcEw0SnlyazVIbzRoZ3lFU1pWNGE3azFnQlZWSElxY0o2UlcyR1Bub01LWHdHWDltcFJB?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "With 135 Dividend Increases (And Counting), This High-Yield Stock Remains a Top Passive Income Investment for the Long-Term",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcmN6aS1icDNxMjgydmh2eld4UHdJZ1k4bTZHMnlfQVprMFo5QUlnamxqV3AtaGpkdXdYVUR2QnhxQ1RpN2kxd0U0bkdkdFFzWlZOZG81NVJrTHAzOUdlak1fQlRXbi0tN0IwUFpENXVmcEw0SnlyazVIbzRoZ3lFU1pWNGE3azFnQlZWSElxY0o2UlcyR1Bub01LWHdHWDltcFJB?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "With 135 Dividend Increases (And Counting), This High-Yield Stock Remains a Top Passive Income Investment for the Long-Term",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcmN6aS1icDNxMjgydmh2eld4UHdJZ1k4bTZHMnlfQVprMFo5QUlnamxqV3AtaGpkdXdYVUR2QnhxQ1RpN2kxd0U0bkdkdFFzWlZOZG81NVJrTHAzOUdlak1fQlRXbi0tN0IwUFpENXVmcEw0SnlyazVIbzRoZ3lFU1pWNGE3azFnQlZWSElxY0o2UlcyR1Bub01LWHdHWDltcFJB?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "464c8db6781a",
+      "slug": "dividend-increases",
+      "opportunity": {
+        "type": "niche-content",
+        "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
+      }
+    },
+    {
+      "keyword": "lightweight jira",
+      "count": 8,
+      "score": 92.90397231741505,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "Show HN: Paca – Lightweight Jira alternative for human-AI collaboration",
+          "url": "https://github.com/Paca-AI/paca",
+          "source": "hackernews"
+        },
+        {
+          "title": "Show HN: Paca – Lightweight Jira alternative for human-AI collaboration",
+          "url": "https://github.com/Paca-AI/paca",
+          "source": "hackernews"
+        }
+      ],
+      "id": "11aea5553aff",
+      "slug": "lightweight-jira",
       "opportunity": {
         "type": "niche-content",
         "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
@@ -896,8 +991,8 @@
     },
     {
       "keyword": "open",
-      "count": 12,
-      "score": 105.19211721304191,
+      "count": 11,
+      "score": 85.88922491650578,
       "proper": true,
       "niches": [
         "ai",
@@ -915,11 +1010,6 @@
           "source": "hackernews"
         },
         {
-          "title": "I think the secret reason that so much open source software is designed for CLI use is NOT just that we really like the console, but the deeper and much more true reason is that writing a GUI is a pai",
-          "url": "https://digipres.club/@foone/116740692999571279",
-          "source": "mastodon"
-        },
-        {
           "title": "Open-Builders/pumpfun-bundler-pump.fun-bundler-solana-token-bundler-bot — ",
           "url": "https://github.com/Open-Builders/pumpfun-bundler-pump.fun-bundler-solana-token-bundler-bot",
           "source": "github"
@@ -930,134 +1020,6 @@
       "opportunity": {
         "type": "niche-content",
         "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
-      }
-    },
-    {
-      "keyword": "agent",
-      "count": 12,
-      "score": 96.72939554844231,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "How to setup a local coding agent on macOS",
-          "url": "https://ikyle.me/blog/2026/how-to-setup-a-local-coding-agent-on-macos",
-          "source": "hackernews"
-        },
-        {
-          "title": "DietrichGebert/ponytail — Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-          "url": "https://github.com/DietrichGebert/ponytail",
-          "source": "github"
-        },
-        {
-          "title": "AI Agent Bankrupted Their Operator While Trying to Scan DN42",
-          "url": "https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/",
-          "source": "lobsters"
-        },
-        {
-          "title": "orange2ai/renwei-writing — 人味儿写作 · An AI agent skill: edit people's words without erasing the person behind them",
-          "url": "https://github.com/orange2ai/renwei-writing",
-          "source": "github"
-        },
-        {
-          "title": "taisly/agent — Taisly Agent Kit: SDK, CLI, examples, and docs for AI agents that publish videos through Taisly.",
-          "url": "https://github.com/taisly/agent",
-          "source": "github"
-        }
-      ],
-      "id": "d4f0bc5a29de",
-      "slug": "agent",
-      "opportunity": {
-        "type": "niche-content",
-        "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
-      }
-    },
-    {
-      "keyword": "productivity apps",
-      "count": 30,
-      "score": 82.0971494424614,
-      "proper": false,
-      "niches": [
-        "ai",
-        "software"
-      ],
-      "examples": [
-        {
-          "title": "Why I ditched paid productivity apps for this free open-source alternative - How-To Geek",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTE9jOUhlQl9jazRtcXBDdERaa3FWaFNnV3dzZ1NkbTE2ckZhbGVaTTdFck4xMW50QktnbUFoS183YzJWcUprSTJEbjhYUkR0NlJmaWhZM0d4QkdaREhnV3JXMkZ2NktjWl9xTHNoWjVVbE85cnhKSTdvOWRkaGI5cGFRU01aSWF6V0tMVTdpY2R5ck5LYUF3ZzdqMUZLQQ?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Why I ditched paid productivity apps for this free open-source alternative - How-To Geek",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTE9jOUhlQl9jazRtcXBDdERaa3FWaFNnV3dzZ1NkbTE2ckZhbGVaTTdFck4xMW50QktnbUFoS183YzJWcUprSTJEbjhYUkR0NlJmaWhZM0d4QkdaREhnV3JXMkZ2NktjWl9xTHNoWjVVbE85cnhKSTdvOWRkaGI5cGFRU01aSWF6V0tMVTdpY2R5ck5LYUF3ZzdqMUZLQQ?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Personal Productivity Apps",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9PM19PY3hhTzBxSnRoalVkZmhNcEpYVnpRYk5JTGV1dVlyUzUxc0tlcTJMRWNxTEtMTmh4aTdWMFZyTHBreTRSQk1mS0tDZHB6UmNyT3FoUE7SAV5BVV95cUxPNEtpcHlyNm1UYmRJQ2J4WDV0b1lRNVFNRklCeURsNWxZSHBKRVp4UnRyRlNFcVNkUVY2eDU5Tmhtb0gySHlmOFV6aEdXWkl6WDA0NlRvUlVfVWtyQVpR?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Personal Productivity Apps",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9PM19PY3hhTzBxSnRoalVkZmhNcEpYVnpRYk5JTGV1dVlyUzUxc0tlcTJMRWNxTEtMTmh4aTdWMFZyTHBreTRSQk1mS0tDZHB6UmNyT3FoUE7SAV5BVV95cUxPNEtpcHlyNm1UYmRJQ2J4WDV0b1lRNVFNRklCeURsNWxZSHBKRVp4UnRyRlNFcVNkUVY2eDU5Tmhtb0gySHlmOFV6aEdXWkl6WDA0NlRvUlVfVWtyQVpR?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "The Best Productivity Apps for 2026",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1hcGhhTzd4UXY0VzB6MjRBcjZDR3ozczlxVFd4eVZmRGpjNVk2Z1ZCd3pIa0hBMUcxN3hEQTloZjh0dmdLMl9EakVNYjl0ZFBRQldfZEtqbGVmNGNtYTBNSllINjZ1aUU3aWp0ZGMyOTg0eGJE?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "c3d816ac2a46",
-      "slug": "productivity-apps",
-      "opportunity": {
-        "type": "affiliate",
-        "recommended": "Write SEO comparison/roundup article with affiliate links."
-      }
-    },
-    {
-      "keyword": "fitness gear",
-      "count": 23,
-      "score": 80.74241100281681,
-      "proper": true,
-      "niches": [
-        "software",
-        "gear"
-      ],
-      "examples": [
-        {
-          "title": "These early Prime Day deals are already live on Amazon: Kitchen gadgets, fitness gear, power tools, and more",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBrS1JUWjJIQ1pnOXNUcWRwU3ByYVJtY2o3UVoxeVhvRnNqckVRRFhaZ1czQ19aUzNfSm1KQ2ZLcUhyWTVkRjEyUEZIaGZtOU5IVU9QTEllVTVDQmhMR2ZPUE05OUxnbWptWVdhX0dSRQ?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "These early Prime Day deals are already live on Amazon: Kitchen gadgets, fitness gear, power tools, and more",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBrS1JUWjJIQ1pnOXNUcWRwU3ByYVJtY2o3UVoxeVhvRnNqckVRRFhaZ1czQ19aUzNfSm1KQ2ZLcUhyWTVkRjEyUEZIaGZtOU5IVU9QTEllVTVDQmhMR2ZPUE05OUxnbWptWVdhX0dSRQ?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Dior’s fitness gear convinced me to book my first yoga class",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1OMHp0SGt6QjV1dHV2SlN6bGZTcmVmdk1ZUlFVc1ZDNHFVTTI2VVE2NjUxeXZUMTV1YUFsNXFGTXNBMzdPUVo3VGxNc0E4am55UU5wckVZOENSdw?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Dior’s fitness gear convinced me to book my first yoga class",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1OMHp0SGt6QjV1dHV2SlN6bGZTcmVmdk1ZUlFVc1ZDNHFVTTI2VVE2NjUxeXZUMTV1YUFsNXFGTXNBMzdPUVo3VGxNc0E4am55UU5wckVZOENSdw?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Memorial Day Sales: Great Deals on Fitness Gear",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWEx2T2hXVnExdVY4T2tVczl4cUd1QjcyM2ZMaG0wU3NIdUg1UnR2WnJPVkxjNnAwQ3RGOVlxOGRESXNabVpvejJkem5LN2pfOHhBbUhKYnpMczU3enpBenYzSjRHTUJuSm80QjVxVjI5RFNwdnItSWEtLS1vNlJUNjFDS2Y?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "a8b7e45842c3",
-      "slug": "fitness-gear",
-      "opportunity": {
-        "type": "affiliate",
-        "recommended": "Write SEO comparison/roundup article with affiliate links."
       }
     }
   ]
