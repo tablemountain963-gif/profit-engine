@@ -306,9 +306,9 @@
     },
     "tools-2026": {
       "firstSeen": "2026-05-29T18:28:06.277Z",
-      "lastSeen": "2026-06-13T17:11:42.556Z",
-      "count": 3,
-      "wins": 0,
+      "lastSeen": "2026-06-13T21:55:34.869Z",
+      "count": 4,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -447,14 +447,6 @@
       "wins": 1,
       "losses": 0,
       "niche": "software"
-    },
-    "apps-2026": {
-      "firstSeen": "2026-05-30T21:47:54.301Z",
-      "lastSeen": "2026-05-30T21:47:54.301Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "ai"
     },
     "tools": {
       "firstSeen": "2026-05-30T21:48:02.147Z",
@@ -770,8 +762,8 @@
     },
     "side-hustle": {
       "firstSeen": "2026-06-01T20:10:58.499Z",
-      "lastSeen": "2026-06-06T21:53:22.449Z",
-      "count": 2,
+      "lastSeen": "2026-06-13T21:55:45.546Z",
+      "count": 3,
       "wins": 0,
       "losses": 0,
       "niche": "ai"
@@ -2490,9 +2482,9 @@
     },
     "heating-costs": {
       "firstSeen": "2026-06-10T18:24:41.686Z",
-      "lastSeen": "2026-06-10T18:24:41.686Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-13T21:55:34.866Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -3050,17 +3042,17 @@
     },
     "regina-pride": {
       "firstSeen": "2026-06-13T17:11:36.850Z",
-      "lastSeen": "2026-06-13T17:11:36.850Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-13T21:55:34.867Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "software"
     },
     "plb-vs-satellite-messengers": {
       "firstSeen": "2026-06-13T17:11:39.845Z",
-      "lastSeen": "2026-06-13T17:11:39.845Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-13T21:55:34.868Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "gear"
     },
@@ -3095,27 +3087,51 @@
       "wins": 0,
       "losses": 0,
       "niche": "ai"
+    },
+    "freedmen": {
+      "firstSeen": "2026-06-13T21:55:40.208Z",
+      "lastSeen": "2026-06-13T21:55:40.208Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "software"
+    },
+    "amazon-ceo": {
+      "firstSeen": "2026-06-13T21:55:42.803Z",
+      "lastSeen": "2026-06-13T21:55:42.803Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "yield-over": {
+      "firstSeen": "2026-06-13T21:55:55.029Z",
+      "lastSeen": "2026-06-13T21:55:55.029Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "finance"
     }
   },
   "niches": {
     "ai": {
-      "count": 505,
-      "wins": 147,
+      "count": 508,
+      "wins": 149,
       "losses": 18
     },
     "finance": {
-      "count": 38,
+      "count": 40,
       "wins": 5,
       "losses": 0
     },
     "software": {
-      "count": 115,
-      "wins": 31,
+      "count": 117,
+      "wins": 32,
       "losses": 7
     },
     "gear": {
-      "count": 34,
-      "wins": 7,
+      "count": 35,
+      "wins": 8,
       "losses": 0
     },
     "health": {
