@@ -194,8 +194,8 @@
     },
     "software": {
       "firstSeen": "2026-05-28T20:13:05.178Z",
-      "lastSeen": "2026-06-08T16:48:18.216Z",
-      "count": 3,
+      "lastSeen": "2026-06-13T17:12:23.153Z",
+      "count": 4,
       "wins": 0,
       "losses": 0,
       "niche": "ai"
@@ -306,8 +306,8 @@
     },
     "tools-2026": {
       "firstSeen": "2026-05-29T18:28:06.277Z",
-      "lastSeen": "2026-06-04T18:09:37.881Z",
-      "count": 2,
+      "lastSeen": "2026-06-13T17:11:42.556Z",
+      "count": 3,
       "wins": 0,
       "losses": 0,
       "niche": "ai"
@@ -423,14 +423,6 @@
       "wins": 1,
       "losses": 0,
       "niche": "finance"
-    },
-    "customer-support-reply-templates": {
-      "firstSeen": "2026-05-30T16:52:48.877Z",
-      "lastSeen": "2026-05-30T16:52:48.877Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "productivity"
     },
     "fifth-amendment": {
       "firstSeen": "2026-05-30T21:47:35.908Z",
@@ -2738,9 +2730,9 @@
     },
     "weather-west": {
       "firstSeen": "2026-06-12T05:29:11.565Z",
-      "lastSeen": "2026-06-12T05:29:11.565Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-13T17:11:32.255Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "software"
     },
@@ -2970,9 +2962,9 @@
     },
     "betting-billions": {
       "firstSeen": "2026-06-13T05:18:41.959Z",
-      "lastSeen": "2026-06-13T05:18:41.959Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-13T17:11:32.256Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -3002,17 +2994,17 @@
     },
     "atomic-arch": {
       "firstSeen": "2026-06-13T14:58:59.189Z",
-      "lastSeen": "2026-06-13T14:58:59.189Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-13T17:11:32.258Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
     "lightweight-jira": {
       "firstSeen": "2026-06-13T14:59:02.757Z",
-      "lastSeen": "2026-06-13T14:59:02.757Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-13T17:11:32.259Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -3055,26 +3047,74 @@
       "wins": 0,
       "losses": 0,
       "niche": "ai"
+    },
+    "regina-pride": {
+      "firstSeen": "2026-06-13T17:11:36.850Z",
+      "lastSeen": "2026-06-13T17:11:36.850Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "software"
+    },
+    "plb-vs-satellite-messengers": {
+      "firstSeen": "2026-06-13T17:11:39.845Z",
+      "lastSeen": "2026-06-13T17:11:39.845Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "gear"
+    },
+    "chatgpt-prompts-for-small-business-owners": {
+      "firstSeen": "2026-06-13T17:11:51.714Z",
+      "lastSeen": "2026-06-13T17:11:51.714Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "sales-email-sequences-that-convert": {
+      "firstSeen": "2026-06-13T17:12:04.245Z",
+      "lastSeen": "2026-06-13T17:12:04.245Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "finance"
+    },
+    "ai-prompts-for-real-estate-agents": {
+      "firstSeen": "2026-06-13T17:12:12.684Z",
+      "lastSeen": "2026-06-13T17:12:12.684Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "finance"
+    },
+    "ruined-lives": {
+      "firstSeen": "2026-06-13T17:12:29.720Z",
+      "lastSeen": "2026-06-13T17:12:29.720Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
     }
   },
   "niches": {
     "ai": {
-      "count": 498,
-      "wins": 144,
+      "count": 505,
+      "wins": 147,
       "losses": 18
     },
     "finance": {
-      "count": 36,
+      "count": 38,
       "wins": 5,
       "losses": 0
     },
     "software": {
-      "count": 113,
-      "wins": 30,
+      "count": 115,
+      "wins": 31,
       "losses": 7
     },
     "gear": {
-      "count": 33,
+      "count": 34,
       "wins": 7,
       "losses": 0
     },
