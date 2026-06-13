@@ -1,170 +1,148 @@
 {
-  "generatedAt": "2026-06-12T22:17:12.660Z",
-  "sourceCount": 202,
+  "generatedAt": "2026-06-13T05:18:31.041Z",
+  "sourceCount": 203,
   "topItems": [
     {
-      "title": "I note that Elon Musk's wealth now exceeds the annual GDP of Switzerland.I think this makes him a state-level actor, and a *hostile* one.I submit that we have tools for dealing with rogue states, and ",
-      "url": "https://wandering.shop/@cstross/116739030454207783",
-      "score": 10.77,
-      "niche": "software",
-      "source": "mastodon",
-      "engagement": {
-        "score": 410,
-        "comments": 19
-      }
-    },
-    {
-      "title": "People need to stop saying Elon Musk is worth a trillion dollars. He HAS a trillion dollars. On paper. He isn’t WORTH a trillion dollars. If something happened to him, we wouldn’t pay a trillion dolla",
-      "url": "https://beige.party/@maxleibman/116738487911073122",
-      "score": 10.59,
-      "niche": "software",
-      "source": "mastodon",
-      "engagement": {
-        "score": 727,
-        "comments": 42
-      }
-    },
-    {
-      "title": "shadcn/improve — Use your most capable model to audit your codebase and write plans for cheaper models to execute.",
-      "url": "https://github.com/shadcn/improve",
-      "score": 9.41,
-      "niche": "ai",
-      "source": "github",
-      "engagement": {
-        "score": 2389,
-        "comments": 6
-      }
-    },
-    {
-      "title": "Office has a censor filter in internal comms to replace swear words with other terms. Added a rule changing \"AI\" to \"my cat\", so we get \"According to my cat...\" and \"I asked my cat and it said...\"",
-      "url": "https://mastodon.social/@fesshole/116738516944078771",
-      "score": 9.24,
+      "title": "Let’s stop saying ‘world’s first trillionaire’ and start saying ‘world’s *last* trillionaire’",
+      "url": "https://mastodon.art/@PhineasX/116739890751927796",
+      "score": 10.16,
       "niche": "ai",
       "source": "mastodon",
       "engagement": {
-        "score": 748,
+        "score": 553,
         "comments": 12
       }
     },
     {
-      "title": "How to setup a local coding agent on macOS",
-      "url": "https://ikyle.me/blog/2026/how-to-setup-a-local-coding-agent-on-macos",
-      "score": 9.06,
-      "niche": "ai",
-      "source": "hackernews",
-      "engagement": {
-        "score": 174,
-        "comments": 57
-      }
-    },
-    {
-      "title": "Nobody ever gets credit for fixing problems that never happened (2001) [pdf]",
-      "url": "https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf",
-      "score": 8.96,
+      "title": "I note that Elon Musk's wealth now exceeds the annual GDP of Switzerland.I think this makes him a state-level actor, and a *hostile* one.I submit that we have tools for dealing with rogue states, and ",
+      "url": "https://wandering.shop/@cstross/116739030454207783",
+      "score": 9.91,
       "niche": "software",
-      "source": "hackernews",
+      "source": "mastodon",
       "engagement": {
-        "score": 715,
-        "comments": 241
-      }
-    },
-    {
-      "title": "\"Don't You Just Upload It to ChatGPT?\"",
-      "url": "https://correresmidestino.com/dont-you-just-upload-it-to-chatgpt/",
-      "score": 8.91,
-      "niche": "ai",
-      "source": "hackernews",
-      "engagement": {
-        "score": 217,
-        "comments": 196
-      }
-    },
-    {
-      "title": "DietrichGebert/ponytail — Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "url": "https://github.com/DietrichGebert/ponytail",
-      "score": 8.66,
-      "niche": "ai",
-      "source": "github",
-      "engagement": {
-        "score": 866,
-        "comments": 5
-      }
-    },
-    {
-      "title": "Best Free AI Tools for Work in 2026: ChatGPT, Claude, and More",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5oelBlcTNWNl9XOFNLWTVRcGFmTHdvRmdkdGtUTWFvNWpXZ2tZXzROcG94Ti1UZU8zdDlUQWpuUUs0eHh6U3RsUzFTX0RmVzZZQWwtS0NtbEdVLUd0T0RDd3hJbXhIWkE?oc=5",
-      "score": 8.26,
-      "niche": "ai",
-      "source": "gnews",
-      "engagement": {
-        "score": 40,
-        "comments": 0
+        "score": 1034,
+        "comments": 43
       }
     },
     {
       "title": "Elon Musk’s SpaceX IPO will probably make him the richest person to ever walk the planet. And while his mountain of horrible personal conduct could fill multiple books, one fact in particular stands o",
       "url": "https://cyberplace.social/@GossiTheDog/116739356160733999",
-      "score": 7.92,
+      "score": 9.42,
       "niche": "ai",
       "source": "mastodon",
       "engagement": {
-        "score": 77,
-        "comments": 1
+        "score": 639,
+        "comments": 18
       }
     },
     {
-      "title": "Kimi K2.7-Code: open-source coding model with better token efficiency",
-      "url": "https://huggingface.co/moonshotai/Kimi-K2.7-Code",
-      "score": 7.44,
+      "title": "Open source AI must win",
+      "url": "https://opensourceaimustwin.com/?share=v2",
+      "score": 9.39,
       "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 391,
-        "comments": 208
+        "score": 522,
+        "comments": 169
       }
     },
     {
       "title": "lenucksi/aur-malware-check — Detection tools for the June 2026 atomic-lockfile AUR supply-chain attack. Consolidated from community Gists.",
       "url": "https://github.com/lenucksi/aur-malware-check",
-      "score": 7.38,
+      "score": 8.08,
       "niche": "ai",
       "source": "github",
       "engagement": {
-        "score": 160,
-        "comments": 2
+        "score": 261,
+        "comments": 3
       }
     },
     {
-      "title": "Elon Musk is the world's first trillionaire after years of Democrats and Republicans fellating him with billions in subsidies and no bid federal contracts and the entire legal-financial system giving ",
-      "url": "https://mastodon.social/@gwynnion/116738433306725387",
-      "score": 7.32,
+      "title": "How to setup a local coding agent on macOS",
+      "url": "https://ikyle.me/blog/2026/how-to-setup-a-local-coding-agent-on-macos",
+      "score": 7.89,
       "niche": "ai",
-      "source": "mastodon",
-      "engagement": {
-        "score": 185,
-        "comments": 4
-      }
-    },
-    {
-      "title": "This traditional-style Japanese elementary school lies abandoned, hidden in the mountains. It is hard to say when it closed, perhaps in the 1970s, but it may have been used more recently. A beautiful ",
-      "url": "https://mstdn.social/@ObsidianUrbex/116738950483758092",
-      "score": 7.15,
-      "niche": "ai",
-      "source": "mastodon",
-      "engagement": {
-        "score": 161,
-        "comments": 5
-      }
-    },
-    {
-      "title": "Swift at Apple: Migrating the TrueType hinting interpreter",
-      "url": "https://www.swift.org/blog/migrating-truetype-hinting-to-swift/",
-      "score": 6.68,
-      "niche": "software",
       "source": "hackernews",
       "engagement": {
-        "score": 66,
-        "comments": 26
+        "score": 321,
+        "comments": 78
+      }
+    },
+    {
+      "title": "Office has a censor filter in internal comms to replace swear words with other terms. Added a rule changing \"AI\" to \"my cat\", so we get \"According to my cat...\" and \"I asked my cat and it said...\"",
+      "url": "https://mastodon.social/@fesshole/116738516944078771",
+      "score": 7.87,
+      "niche": "ai",
+      "source": "mastodon",
+      "engagement": {
+        "score": 1143,
+        "comments": 20
+      }
+    },
+    {
+      "title": "\"Don't You Just Upload It to ChatGPT?\"",
+      "url": "https://correresmidestino.com/dont-you-just-upload-it-to-chatgpt/",
+      "score": 7.62,
+      "niche": "ai",
+      "source": "hackernews",
+      "engagement": {
+        "score": 364,
+        "comments": 291
+      }
+    },
+    {
+      "title": "I think the secret reason that so much open source software is designed for CLI use is NOT just that we really like the console, but the deeper and much more true reason is that writing a GUI is a pai",
+      "url": "https://digipres.club/@foone/116740692999571279",
+      "score": 7.5,
+      "niche": "ai",
+      "source": "mastodon",
+      "engagement": {
+        "score": 181,
+        "comments": 19
+      }
+    },
+    {
+      "title": "Slightly reducing the sloppiness of AI generated front end",
+      "url": "https://envs.net/~volpe/blog/posts/reduce-slop.html",
+      "score": 6.67,
+      "niche": "ai",
+      "source": "hackernews",
+      "engagement": {
+        "score": 176,
+        "comments": 113
+      }
+    },
+    {
+      "title": "DietrichGebert/ponytail — Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "score": 6.63,
+      "niche": "ai",
+      "source": "github",
+      "engagement": {
+        "score": 1000,
+        "comments": 1
+      }
+    },
+    {
+      "title": "skydoves/compose-nav-graph — ⛵️ Compose Navigation Graph plugin for Android Studio that visualizes your entire app flow as an interactive map of rendered previews, typed arguments, and transitions.",
+      "url": "https://github.com/skydoves/compose-nav-graph",
+      "score": 6.62,
+      "niche": "software",
+      "source": "github",
+      "engagement": {
+        "score": 187,
+        "comments": 0
+      }
+    },
+    {
+      "title": "Best Free AI Tools for Work in 2026: ChatGPT, Claude, and More",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5oelBlcTNWNl9XOFNLWTVRcGFmTHdvRmdkdGtUTWFvNWpXZ2tZXzROcG94Ti1UZU8zdDlUQWpuUUs0eHh6U3RsUzFTX0RmVzZZQWwtS0NtbEdVLUd0T0RDd3hJbXhIWkE?oc=5",
+      "score": 6.61,
+      "niche": "ai",
+      "source": "gnews",
+      "engagement": {
+        "score": 40,
+        "comments": 0
       }
     },
     {
@@ -185,52 +163,52 @@
       "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 85,
-        "comments": 12
+        "score": 248,
+        "comments": 53
       }
     },
     {
-      "title": "Slightly reducing the sloppiness of AI generated front end",
-      "url": "https://envs.net/~volpe/blog/posts/reduce-slop.html",
-      "score": 6.53,
+      "title": "GOOGLE: So I notice you've never clicked on the ✨️enticing sparkle✨️ in the corner of your mail client.ME: Yes, that's because I don't want to use it.GOOGLE: But would it change your mind… if it were ",
+      "url": "https://mastodon.social/@mcc/116740821092568202",
+      "score": 6.44,
       "niche": "ai",
-      "source": "hackernews",
+      "source": "mastodon",
       "engagement": {
-        "score": 149,
-        "comments": 102
+        "score": 94,
+        "comments": 4
       }
     },
     {
-      "title": "skydoves/compose-nav-graph — ⛵️ Compose Navigation Graph plugin for Android Studio that visualizes your entire app flow as an interactive map of rendered previews, typed arguments, and transitions.",
-      "url": "https://github.com/skydoves/compose-nav-graph",
-      "score": 6.5,
+      "title": "Swift at Apple: Migrating the TrueType hinting interpreter",
+      "url": "https://www.swift.org/blog/migrating-truetype-hinting-to-swift/",
+      "score": 6.43,
       "niche": "software",
-      "source": "github",
+      "source": "hackernews",
       "engagement": {
-        "score": 169,
-        "comments": 0
+        "score": 176,
+        "comments": 68
       }
     },
     {
-      "title": "Mmorpg World of ClaudeCraft, vibe coded with Fable 5",
-      "url": "https://worldofclaudecraft.com/",
-      "score": 6.47,
+      "title": "Show HN: Putt.day a daily mini golf game",
+      "url": "https://putt.day/",
+      "score": 6.12,
       "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 42,
-        "comments": 31
+        "score": 117,
+        "comments": 64
       }
     },
     {
-      "title": "16 Best AI Tools for Business in 2026: Tested & Ranked",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAwQnBYNFM3cXk2eUZVZWZHYjBJZ01wbHJOMkpiNXExelhCZUc4US1OX0tnaWdyTnNCZkp6bGEwN0FOMDBiUzh6a29Wd2pmUk9pNWdRdXdXNG9HZVpo?oc=5",
-      "score": 5.99,
-      "niche": "ai",
-      "source": "gnews",
+      "title": "The capital class hated the COVID response because it was a mass labor action they couldn't control, a wildcat strike for safer working conditions while the owners demanded they return to work. Public",
+      "url": "https://mastodon.social/@gwynnion/116740309084418178",
+      "score": 6.02,
+      "niche": "software",
+      "source": "mastodon",
       "engagement": {
-        "score": 40,
-        "comments": 0
+        "score": 136,
+        "comments": 2
       }
     },
     {
@@ -256,33 +234,55 @@
       }
     },
     {
-      "title": "SkyBlue997/enableMacosAI — 国行 Mac 一键开启完整 Apple 智能(端侧 + Private Cloud Compute 云端)· macOS 27 / Apple Silicon",
-      "url": "https://github.com/SkyBlue997/enableMacosAI",
-      "score": 5.91,
+      "title": "97 Blog Posts To Learn About Productivity Tools",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBMVmpxeGRiai1jZkFCOFAzZWhFZTB4dUpCWk5IZmNyazN5dlR4NUt6RlRoMUs1Ykx3WVBzU3ZveElUdkZJSG94amFQX09EanVRN256RUIyNmdrY1hEMTI5UEtTRVhoMUVySDctRS1vaks4Si1sU1F4bmRR?oc=5",
+      "score": 5.99,
       "niche": "ai",
-      "source": "github",
+      "source": "gnews",
       "engagement": {
-        "score": 456,
-        "comments": 9
+        "score": 40,
+        "comments": 0
       }
     },
     {
-      "title": "A dumpster arrived behind my university's library",
-      "url": "https://yalereview.org/article/sheila-liming-the-end-of-books",
+      "title": "AI Agent Bankrupted Their Operator While Trying to Scan DN42",
+      "url": "https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/",
       "score": 5.83,
-      "niche": "software",
-      "source": "hackernews",
+      "niche": "ai",
+      "source": "lobsters",
       "engagement": {
-        "score": 143,
-        "comments": 128
+        "score": 139,
+        "comments": 25
+      }
+    },
+    {
+      "title": "orange2ai/renwei-writing — 人味儿写作 · An AI agent skill: edit people's words without erasing the person behind them",
+      "url": "https://github.com/orange2ai/renwei-writing",
+      "score": 5.78,
+      "niche": "ai",
+      "source": "github",
+      "engagement": {
+        "score": 180,
+        "comments": 0
+      }
+    },
+    {
+      "title": "Nanako0129/coralline — 🪸 Powerlevel10k-inspired statusline for Claude Code — paste one prompt and your AI interviews you, then installs it",
+      "url": "https://github.com/Nanako0129/coralline",
+      "score": 5.62,
+      "niche": "ai",
+      "source": "github",
+      "engagement": {
+        "score": 80,
+        "comments": 0
       }
     }
   ],
   "topics": [
     {
       "keyword": "passive income",
-      "count": 57,
-      "score": 256.2778059681928,
+      "count": 60,
+      "score": 232.18281514880005,
       "proper": true,
       "niches": [
         "finance",
@@ -300,18 +300,18 @@
           "source": "gnews"
         },
         {
-          "title": "2 High-Yield Goldman Sachs ETFs Paying 8%+ in Passive Income",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdlZaMUhkb0xKQjlxSmNobTNpRFZUT05RT19NV3J4cXpTMW1sakpPTnd2S1pjMjIyS0swbFhubFllVXR1VWlibnQtWTMxN09aOGM2VUdoNUFoXzFqYlFXc1VTa25ydEVQZTBQcm55cDIxcnU2dFF2aWhDOUVKZEtSQXNDX1FBSmF5REJlT25Ob3Y5QQ?oc=5",
+          "title": "Need Over $1000 per Month of Passive Income? Our Ultra-High-Yield Portfolio Can Make It Happen",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPa08wY3VmQUpJbW1VRjA2R0Vta2NqOTB4ci1wbE15V2hmSnQwNXFJNld1S3JoaXhEWUJURlJlNkxDWkhISmRlR1hZTFFIZ3FXcWtweE1LM3R1MzNqTTl1M2NvTVJBd3c3dGRMeDRRQWRPczFFZ3ZZdE9xeHRVcllMbWtSajlyMk4yRzNFa1NXMjVKNExBb1E4?oc=5",
           "source": "gnews"
         },
         {
-          "title": "2 High-Yield Goldman Sachs ETFs Paying 8%+ in Passive Income",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdlZaMUhkb0xKQjlxSmNobTNpRFZUT05RT19NV3J4cXpTMW1sakpPTnd2S1pjMjIyS0swbFhubFllVXR1VWlibnQtWTMxN09aOGM2VUdoNUFoXzFqYlFXc1VTa25ydEVQZTBQcm55cDIxcnU2dFF2aWhDOUVKZEtSQXNDX1FBSmF5REJlT25Ob3Y5QQ?oc=5",
+          "title": "Need Over $1000 per Month of Passive Income? Our Ultra-High-Yield Portfolio Can Make It Happen",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPa08wY3VmQUpJbW1VRjA2R0Vta2NqOTB4ci1wbE15V2hmSnQwNXFJNld1S3JoaXhEWUJURlJlNkxDWkhISmRlR1hZTFFIZ3FXcWtweE1LM3R1MzNqTTl1M2NvTVJBd3c3dGRMeDRRQWRPczFFZ3ZZdE9xeHRVcllMbWtSajlyMk4yRzNFa1NXMjVKNExBb1E4?oc=5",
           "source": "gnews"
         },
         {
-          "title": "2 High-Yield Goldman Sachs ETFs Paying 8%+ in Passive Income",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdlZaMUhkb0xKQjlxSmNobTNpRFZUT05RT19NV3J4cXpTMW1sakpPTnd2S1pjMjIyS0swbFhubFllVXR1VWlibnQtWTMxN09aOGM2VUdoNUFoXzFqYlFXc1VTa25ydEVQZTBQcm55cDIxcnU2dFF2aWhDOUVKZEtSQXNDX1FBSmF5REJlT25Ob3Y5QQ?oc=5",
+          "title": "I Asked ChatGPT How Retirees Can Generate $2K Monthly in Passive Income in 2026: Here’s What It Recommended",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPT0tlSHVabEdfcEJ4M1d3Q1ROYjZXdWZOWkUtS1VvNE9VMUdST2pxamxvNktJLWM5UEdBSXBJZTlHdlM4XzJuYUM1NEY2bHpIOGl6bUdMUzN4NU03MWhjdHpDU1JFZHA3RWloMXAwMnNfdmFvSDlENC1QVjRYOXJLTWRnMTcxWXctUUJSZk0xcWRyYkllWG0xdHBuUi1taW9qT1E?oc=5",
           "source": "gnews"
         }
       ],
@@ -319,96 +319,66 @@
       "slug": "passive-income"
     },
     {
-      "keyword": "apple",
-      "count": 20,
-      "score": 139.94541318151582,
+      "keyword": "claude",
+      "count": 19,
+      "score": 137.3985256083718,
       "proper": true,
       "niches": [
-        "software",
         "ai"
       ],
       "examples": [
         {
-          "title": "Swift at Apple: Migrating the TrueType hinting interpreter",
-          "url": "https://www.swift.org/blog/migrating-truetype-hinting-to-swift/",
-          "source": "hackernews"
+          "title": "Best Free AI Tools for Work in 2026: ChatGPT, Claude, and More",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5oelBlcTNWNl9XOFNLWTVRcGFmTHdvRmdkdGtUTWFvNWpXZ2tZXzROcG94Ti1UZU8zdDlUQWpuUUs0eHh6U3RsUzFTX0RmVzZZQWwtS0NtbEdVLUd0T0RDd3hJbXhIWkE?oc=5",
+          "source": "gnews"
         },
         {
-          "title": "SkyBlue997/enableMacosAI — 国行 Mac 一键开启完整 Apple 智能(端侧 + Private Cloud Compute 云端)· macOS 27 / Apple Silicon",
-          "url": "https://github.com/SkyBlue997/enableMacosAI",
+          "title": "Best Free AI Tools for Work in 2026: ChatGPT, Claude, and More",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5oelBlcTNWNl9XOFNLWTVRcGFmTHdvRmdkdGtUTWFvNWpXZ2tZXzROcG94Ti1UZU8zdDlUQWpuUUs0eHh6U3RsUzFTX0RmVzZZQWwtS0NtbEdVLUd0T0RDd3hJbXhIWkE?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Best Free AI Tools for Work in 2026: ChatGPT, Claude, and More",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5oelBlcTNWNl9XOFNLWTVRcGFmTHdvRmdkdGtUTWFvNWpXZ2tZXzROcG94Ti1UZU8zdDlUQWpuUUs0eHh6U3RsUzFTX0RmVzZZQWwtS0NtbEdVLUd0T0RDd3hJbXhIWkE?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Nanako0129/coralline — 🪸 Powerlevel10k-inspired statusline for Claude Code — paste one prompt and your AI interviews you, then installs it",
+          "url": "https://github.com/Nanako0129/coralline",
           "source": "github"
         },
         {
-          "title": "Swift at Apple: Migrating the TrueType Hinting Interpreter",
-          "url": "https://swift.org/blog/migrating-truetype-hinting-to-swift/",
-          "source": "lobsters"
-        },
-        {
-          "title": "Apple aids app development with new intelligence frameworks and advanced tools",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOc3dXd3ctc0hGaEZrZlJTZ0xUT3hXNUNFS3JwSmdSYm96bWJxbkswZHY4anM1a2kzZDFPUjdRQjJSZm95YjVYNUlmeS0yd1RtM1RKS0l1b1RkTTQxcFdEOXhrcTdhamtwUDJuZGlqTG1fNzFOMHNlZmdaeGNnRUNhTzBIbTFqWXlZS01mUHBFTlAwZEJKS1JwLVV0LThEeE1GMmhXUUdXVm1mZGwwOWRvZEU0TWFTbWF3V3c?oc=5",
-          "source": "gnews"
+          "title": "rbrown101010/rilable — An iPhone app that builds apps — prompt to live web + iOS apps. SwiftUI + Convex + Claude + Daytona + Chorus.",
+          "url": "https://github.com/rbrown101010/rilable",
+          "source": "github"
         }
       ],
-      "id": "3a7bd3e2360a",
-      "slug": "apple"
+      "id": "c857d09db23e",
+      "slug": "claude"
     },
     {
-      "keyword": "trillion dollars",
-      "count": 12,
-      "score": 102.09009124254844,
-      "proper": false,
-      "niches": [
-        "software",
-        "general"
-      ],
-      "examples": [
-        {
-          "title": "People need to stop saying Elon Musk is worth a trillion dollars. He HAS a trillion dollars. On paper. He isn’t WORTH a trillion dollars. If something happened to him, we wouldn’t pay a trillion dolla",
-          "url": "https://beige.party/@maxleibman/116738487911073122",
-          "source": "mastodon"
-        },
-        {
-          "title": "People need to stop saying Elon Musk is worth a trillion dollars. He HAS a trillion dollars. On paper. He isn’t WORTH a trillion dollars. If something happened to him, we wouldn’t pay a trillion dolla",
-          "url": "https://beige.party/@maxleibman/116738487911073122",
-          "source": "mastodon"
-        },
-        {
-          "title": "People need to stop saying Elon Musk is worth a trillion dollars. He HAS a trillion dollars. On paper. He isn’t WORTH a trillion dollars. If something happened to him, we wouldn’t pay a trillion dolla",
-          "url": "https://beige.party/@maxleibman/116738487911073122",
-          "source": "mastodon"
-        },
-        {
-          "title": "guy has a trillion dollars, 0 friends, and has never landed a joke. I know a pact with the devil when I see one.",
-          "url": "https://fed.brid.gy/r/https://bsky.app/profile/did:plc:kfdf3ncmu3ekd3yrorivypai/post/3mo4dniui6s2z",
-          "source": "mastodon"
-        }
-      ],
-      "id": "2c8ae0db8a1c",
-      "slug": "trillion-dollars"
-    },
-    {
-      "keyword": "claude",
-      "count": 12,
-      "score": 97.02932320342245,
+      "keyword": "claude code",
+      "count": 27,
+      "score": 114.80648763353157,
       "proper": true,
       "niches": [
         "ai"
       ],
       "examples": [
         {
-          "title": "Best Free AI Tools for Work in 2026: ChatGPT, Claude, and More",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5oelBlcTNWNl9XOFNLWTVRcGFmTHdvRmdkdGtUTWFvNWpXZ2tZXzROcG94Ti1UZU8zdDlUQWpuUUs0eHh6U3RsUzFTX0RmVzZZQWwtS0NtbEdVLUd0T0RDd3hJbXhIWkE?oc=5",
-          "source": "gnews"
+          "title": "Nanako0129/coralline — 🪸 Powerlevel10k-inspired statusline for Claude Code — paste one prompt and your AI interviews you, then installs it",
+          "url": "https://github.com/Nanako0129/coralline",
+          "source": "github"
         },
         {
-          "title": "Best Free AI Tools for Work in 2026: ChatGPT, Claude, and More",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5oelBlcTNWNl9XOFNLWTVRcGFmTHdvRmdkdGtUTWFvNWpXZ2tZXzROcG94Ti1UZU8zdDlUQWpuUUs0eHh6U3RsUzFTX0RmVzZZQWwtS0NtbEdVLUd0T0RDd3hJbXhIWkE?oc=5",
-          "source": "gnews"
+          "title": "Nanako0129/coralline — 🪸 Powerlevel10k-inspired statusline for Claude Code — paste one prompt and your AI interviews you, then installs it",
+          "url": "https://github.com/Nanako0129/coralline",
+          "source": "github"
         },
         {
-          "title": "Best Free AI Tools for Work in 2026: ChatGPT, Claude, and More",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5oelBlcTNWNl9XOFNLWTVRcGFmTHdvRmdkdGtUTWFvNWpXZ2tZXzROcG94Ti1UZU8zdDlUQWpuUUs0eHh6U3RsUzFTX0RmVzZZQWwtS0NtbEdVLUd0T0RDd3hJbXhIWkE?oc=5",
-          "source": "gnews"
+          "title": "Skill, MCP, Plugin, or just a CLI: how I pick a Claude Code extension, lightest first",
+          "url": "https://dev.to/rapls/skill-mcp-plugin-or-just-a-cli-how-i-pick-a-claude-code-extension-lightest-first-3hon",
+          "source": "devto"
         },
         {
           "title": "Skill, MCP, Plugin, or just a CLI: how I pick a Claude Code extension, lightest first",
@@ -421,13 +391,13 @@
           "source": "gnews"
         }
       ],
-      "id": "c857d09db23e",
-      "slug": "claude"
+      "id": "a625159d18da",
+      "slug": "claude-code"
     },
     {
       "keyword": "spacex ipo",
       "count": 8,
-      "score": 95.00225215063784,
+      "score": 113.01675124912519,
       "proper": true,
       "niches": [
         "ai"
@@ -448,9 +418,43 @@
       "slug": "spacex-ipo"
     },
     {
+      "keyword": "open",
+      "count": 12,
+      "score": 105.19211721304191,
+      "proper": true,
+      "niches": [
+        "ai",
+        "general"
+      ],
+      "examples": [
+        {
+          "title": "Open source AI must win",
+          "url": "https://opensourceaimustwin.com/?share=v2",
+          "source": "hackernews"
+        },
+        {
+          "title": "Open source AI must win",
+          "url": "https://opensourceaimustwin.com/?share=v2",
+          "source": "hackernews"
+        },
+        {
+          "title": "I think the secret reason that so much open source software is designed for CLI use is NOT just that we really like the console, but the deeper and much more true reason is that writing a GUI is a pai",
+          "url": "https://digipres.club/@foone/116740692999571279",
+          "source": "mastodon"
+        },
+        {
+          "title": "Open-Builders/pumpfun-bundler-pump.fun-bundler-solana-token-bundler-bot — ",
+          "url": "https://github.com/Open-Builders/pumpfun-bundler-pump.fun-bundler-solana-token-bundler-bot",
+          "source": "github"
+        }
+      ],
+      "id": "2348f9987442",
+      "slug": "open"
+    },
+    {
       "keyword": "agent",
       "count": 12,
-      "score": 92.93970223673112,
+      "score": 96.72939554844231,
       "proper": true,
       "niches": [
         "ai"
@@ -472,8 +476,8 @@
           "source": "lobsters"
         },
         {
-          "title": "taisly/agent — Taisly Agent Kit: SDK, CLI, examples, and docs for AI agents that publish videos through Taisly.",
-          "url": "https://github.com/taisly/agent",
+          "title": "orange2ai/renwei-writing — 人味儿写作 · An AI agent skill: edit people's words without erasing the person behind them",
+          "url": "https://github.com/orange2ai/renwei-writing",
           "source": "github"
         },
         {
@@ -484,6 +488,45 @@
       ],
       "id": "d4f0bc5a29de",
       "slug": "agent"
+    },
+    {
+      "keyword": "productivity apps",
+      "count": 30,
+      "score": 82.0971494424614,
+      "proper": false,
+      "niches": [
+        "ai",
+        "software"
+      ],
+      "examples": [
+        {
+          "title": "Why I ditched paid productivity apps for this free open-source alternative - How-To Geek",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTE9jOUhlQl9jazRtcXBDdERaa3FWaFNnV3dzZ1NkbTE2ckZhbGVaTTdFck4xMW50QktnbUFoS183YzJWcUprSTJEbjhYUkR0NlJmaWhZM0d4QkdaREhnV3JXMkZ2NktjWl9xTHNoWjVVbE85cnhKSTdvOWRkaGI5cGFRU01aSWF6V0tMVTdpY2R5ck5LYUF3ZzdqMUZLQQ?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Why I ditched paid productivity apps for this free open-source alternative - How-To Geek",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTE9jOUhlQl9jazRtcXBDdERaa3FWaFNnV3dzZ1NkbTE2ckZhbGVaTTdFck4xMW50QktnbUFoS183YzJWcUprSTJEbjhYUkR0NlJmaWhZM0d4QkdaREhnV3JXMkZ2NktjWl9xTHNoWjVVbE85cnhKSTdvOWRkaGI5cGFRU01aSWF6V0tMVTdpY2R5ck5LYUF3ZzdqMUZLQQ?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Personal Productivity Apps",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9PM19PY3hhTzBxSnRoalVkZmhNcEpYVnpRYk5JTGV1dVlyUzUxc0tlcTJMRWNxTEtMTmh4aTdWMFZyTHBreTRSQk1mS0tDZHB6UmNyT3FoUE7SAV5BVV95cUxPNEtpcHlyNm1UYmRJQ2J4WDV0b1lRNVFNRklCeURsNWxZSHBKRVp4UnRyRlNFcVNkUVY2eDU5Tmhtb0gySHlmOFV6aEdXWkl6WDA0NlRvUlVfVWtyQVpR?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Personal Productivity Apps",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9PM19PY3hhTzBxSnRoalVkZmhNcEpYVnpRYk5JTGV1dVlyUzUxc0tlcTJMRWNxTEtMTmh4aTdWMFZyTHBreTRSQk1mS0tDZHB6UmNyT3FoUE7SAV5BVV95cUxPNEtpcHlyNm1UYmRJQ2J4WDV0b1lRNVFNRklCeURsNWxZSHBKRVp4UnRyRlNFcVNkUVY2eDU5Tmhtb0gySHlmOFV6aEdXWkl6WDA0NlRvUlVfVWtyQVpR?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "The Best Productivity Apps for 2026",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1hcGhhTzd4UXY0VzB6MjRBcjZDR3ozczlxVFd4eVZmRGpjNVk2Z1ZCd3pIa0hBMUcxN3hEQTloZjh0dmdLMl9EakVNYjl0ZFBRQldfZEtqbGVmNGNtYTBNSllINjZ1aUU3aWp0ZGMyOTg0eGJE?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "c3d816ac2a46",
+      "slug": "productivity-apps"
     },
     {
       "keyword": "fitness gear",
@@ -527,7 +570,7 @@
     {
       "keyword": "android studio",
       "count": 8,
-      "score": 77.94080710864245,
+      "score": 79.46817188467004,
       "proper": true,
       "niches": [
         "software"
@@ -548,89 +591,32 @@
       "slug": "android-studio"
     },
     {
-      "keyword": "apple silicon",
-      "count": 8,
-      "score": 70.92167388062046,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "SkyBlue997/enableMacosAI — 国行 Mac 一键开启完整 Apple 智能(端侧 + Private Cloud Compute 云端)· macOS 27 / Apple Silicon",
-          "url": "https://github.com/SkyBlue997/enableMacosAI",
-          "source": "github"
-        },
-        {
-          "title": "SkyBlue997/enableMacosAI — 国行 Mac 一键开启完整 Apple 智能(端侧 + Private Cloud Compute 云端)· macOS 27 / Apple Silicon",
-          "url": "https://github.com/SkyBlue997/enableMacosAI",
-          "source": "github"
-        }
-      ],
-      "id": "e5653a7fb79e",
-      "slug": "apple-silicon"
-    },
-    {
-      "keyword": "worth trillion",
-      "count": 9,
-      "score": 68.87915742977819,
-      "proper": false,
-      "niches": [
-        "software",
-        "general"
-      ],
-      "examples": [
-        {
-          "title": "People need to stop saying Elon Musk is worth a trillion dollars. He HAS a trillion dollars. On paper. He isn’t WORTH a trillion dollars. If something happened to him, we wouldn’t pay a trillion dolla",
-          "url": "https://beige.party/@maxleibman/116738487911073122",
-          "source": "mastodon"
-        },
-        {
-          "title": "People need to stop saying Elon Musk is worth a trillion dollars. He HAS a trillion dollars. On paper. He isn’t WORTH a trillion dollars. If something happened to him, we wouldn’t pay a trillion dolla",
-          "url": "https://beige.party/@maxleibman/116738487911073122",
-          "source": "mastodon"
-        },
-        {
-          "title": "In no sane universe is SpaceX worth $2.1 trillion. But then, we now live in an insane universe. Come the revolution -- or at least sanity -- this will not stand.",
-          "url": "https://mastodon.social/@jeffjarvis/116739229846858974",
-          "source": "mastodon"
-        }
-      ],
-      "id": "bd003750c748",
-      "slug": "worth-trillion"
-    },
-    {
-      "keyword": "chapel hill",
-      "count": 11,
-      "score": 68.54976504601564,
+      "keyword": "apple",
+      "count": 10,
+      "score": 74.87959779126561,
       "proper": true,
       "niches": [
         "software"
       ],
       "examples": [
         {
-          "title": "Chapel Hill software firm looks to grow after investor buyout",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZm5iUTVmdGtwNWxtaFJ4clJoVEhXSVBiU183dC13bW5CN1h2dXNZWXY3QzlwMzJHczVZRVZZWnZSczM1SVJkN3dHQmd3V0Ewb0pmYlpKYXF5VnpoY0wyeW5vOVJVdEUwR2xEWUtySUdLa3ZJemNDZFdNdmFWdVVQZjRmWFkyd29jU2M0cE0wZmVGa2NLRkR5eHVaV0FhazJEdE0ydDdfREJRRFk?oc=5",
-          "source": "gnews"
+          "title": "Swift at Apple: Migrating the TrueType hinting interpreter",
+          "url": "https://www.swift.org/blog/migrating-truetype-hinting-to-swift/",
+          "source": "hackernews"
         },
         {
-          "title": "Chapel Hill software firm looks to grow after investor buyout",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZm5iUTVmdGtwNWxtaFJ4clJoVEhXSVBiU183dC13bW5CN1h2dXNZWXY3QzlwMzJHczVZRVZZWnZSczM1SVJkN3dHQmd3V0Ewb0pmYlpKYXF5VnpoY0wyeW5vOVJVdEUwR2xEWUtySUdLa3ZJemNDZFdNdmFWdVVQZjRmWFkyd29jU2M0cE0wZmVGa2NLRkR5eHVaV0FhazJEdE0ydDdfREJRRFk?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Chapel Hill software firm looks to grow after investor buyout",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZm5iUTVmdGtwNWxtaFJ4clJoVEhXSVBiU183dC13bW5CN1h2dXNZWXY3QzlwMzJHczVZRVZZWnZSczM1SVJkN3dHQmd3V0Ewb0pmYlpKYXF5VnpoY0wyeW5vOVJVdEUwR2xEWUtySUdLa3ZJemNDZFdNdmFWdVVQZjRmWFkyd29jU2M0cE0wZmVGa2NLRkR5eHVaV0FhazJEdE0ydDdfREJRRFk?oc=5",
-          "source": "gnews"
+          "title": "Swift at Apple: Migrating the TrueType Hinting Interpreter",
+          "url": "https://swift.org/blog/migrating-truetype-hinting-to-swift/",
+          "source": "lobsters"
         }
       ],
-      "id": "a0c02ff75b4d",
-      "slug": "chapel-hill"
+      "id": "3a7bd3e2360a",
+      "slug": "apple"
     },
     {
       "keyword": "scan dn42",
       "count": 8,
-      "score": 68.2017204645905,
+      "score": 70.00331062127091,
       "proper": true,
       "niches": [
         "ai"
@@ -651,107 +637,113 @@
       "slug": "scan-dn42"
     },
     {
-      "keyword": "shioaji pro",
+      "keyword": "world trillionaire",
+      "count": 6,
+      "score": 60.983366672325275,
+      "proper": false,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "Let’s stop saying ‘world’s first trillionaire’ and start saying ‘world’s *last* trillionaire’",
+          "url": "https://mastodon.art/@PhineasX/116739890751927796",
+          "source": "mastodon"
+        },
+        {
+          "title": "Let’s stop saying ‘world’s first trillionaire’ and start saying ‘world’s *last* trillionaire’",
+          "url": "https://mastodon.art/@PhineasX/116739890751927796",
+          "source": "mastodon"
+        }
+      ],
+      "id": "a7368e2d9763",
+      "slug": "world-trillionaire"
+    },
+    {
+      "keyword": "modos flow",
       "count": 8,
-      "score": 66.09884863890596,
+      "score": 56.081352248537236,
+      "proper": true,
+      "niches": [
+        "gear"
+      ],
+      "examples": [
+        {
+          "title": "How I made a 60fps Eink monitor, the Modos Flow",
+          "url": "https://youtu.be/nHbA2-_qzH4",
+          "source": "lobsters"
+        },
+        {
+          "title": "How I made a 60fps Eink monitor, the Modos Flow",
+          "url": "https://youtu.be/nHbA2-_qzH4",
+          "source": "lobsters"
+        }
+      ],
+      "id": "039bb1e8b891",
+      "slug": "modos-flow"
+    },
+    {
+      "keyword": "neo scholars",
+      "count": 8,
+      "score": 53.70433618963048,
       "proper": true,
       "niches": [
         "ai"
       ],
       "examples": [
         {
-          "title": "Sinotrade/shioaji-pro-app — Shioaji Pro — professional trading terminal for Taiwan markets (TWSE/TPEX/TAIFEX) built on the Shioaji HTTP API: real-time SSE quotes, candlestick charts with click-to-trad",
-          "url": "https://github.com/Sinotrade/shioaji-pro-app",
-          "source": "github"
+          "title": "Dev Opportunity Radar #3: Neo Scholars, a $2M AI Challenge, and an $85K AI Fellowship",
+          "url": "https://dev.to/devengers/dev-opportunity-radar-3-neo-scholars-a-2m-ai-challenge-and-an-85k-ai-fellowship-cjf",
+          "source": "devto"
         },
         {
-          "title": "Sinotrade/shioaji-pro-app — Shioaji Pro — professional trading terminal for Taiwan markets (TWSE/TPEX/TAIFEX) built on the Shioaji HTTP API: real-time SSE quotes, candlestick charts with click-to-trad",
-          "url": "https://github.com/Sinotrade/shioaji-pro-app",
-          "source": "github"
+          "title": "Dev Opportunity Radar #3: Neo Scholars, a $2M AI Challenge, and an $85K AI Fellowship",
+          "url": "https://dev.to/devengers/dev-opportunity-radar-3-neo-scholars-a-2m-ai-challenge-and-an-85k-ai-fellowship-cjf",
+          "source": "devto"
         }
       ],
-      "id": "a2c35e401064",
-      "slug": "shioaji-pro"
+      "id": "a605b6ff2a35",
+      "slug": "neo-scholars"
     },
     {
-      "keyword": "software",
-      "count": 16,
-      "score": 61.77286096231869,
+      "keyword": "early prime",
+      "count": 12,
+      "score": 52.02195608235178,
       "proper": false,
       "niches": [
-        "ai",
         "software"
       ],
       "examples": [
         {
-          "title": "Anthropic Vertical Software Rollout Threatens Enterprise AI Builders",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPVjlncjg1QXY4RlRfMkRUQzBkVWVTZ2ZlelhiSjlzbGpodEwwMGZtOEJnbzhVLVdhM2pVakZNdXRsWVZEb0w4RHUzRXVoUmtRZTdLVExmS0d4S3Ftc0xKOERFMjBIZmVKbHJ3UkVoYVVkZmJoWkw0emY1MU40Tnp0VWhPcW02ZGFFMzBiT3Jwd1pKaXB5bTBRMnU1T1dHb3NFdHI1Q3g5LWJMSTVmSEZLbmpZb3ZlRGVPQU9WYmxNTzdNTEhM?oc=5",
+          "title": "These early Prime Day deals are already live on Amazon: Kitchen gadgets, fitness gear, power tools, and more",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBrS1JUWjJIQ1pnOXNUcWRwU3ByYVJtY2o3UVoxeVhvRnNqckVRRFhaZ1czQ19aUzNfSm1KQ2ZLcUhyWTVkRjEyUEZIaGZtOU5IVU9QTEllVTVDQmhMR2ZPUE05OUxnbWptWVdhX0dSRQ?oc=5",
           "source": "gnews"
         },
         {
-          "title": "Anthropic Vertical Software Rollout Threatens Enterprise AI Builders",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPVjlncjg1QXY4RlRfMkRUQzBkVWVTZ2ZlelhiSjlzbGpodEwwMGZtOEJnbzhVLVdhM2pVakZNdXRsWVZEb0w4RHUzRXVoUmtRZTdLVExmS0d4S3Ftc0xKOERFMjBIZmVKbHJ3UkVoYVVkZmJoWkw0emY1MU40Tnp0VWhPcW02ZGFFMzBiT3Jwd1pKaXB5bTBRMnU1T1dHb3NFdHI1Q3g5LWJMSTVmSEZLbmpZb3ZlRGVPQU9WYmxNTzdNTEhM?oc=5",
+          "title": "These early Prime Day deals are already live on Amazon: Kitchen gadgets, fitness gear, power tools, and more",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBrS1JUWjJIQ1pnOXNUcWRwU3ByYVJtY2o3UVoxeVhvRnNqckVRRFhaZ1czQ19aUzNfSm1KQ2ZLcUhyWTVkRjEyUEZIaGZtOU5IVU9QTEllVTVDQmhMR2ZPUE05OUxnbWptWVdhX0dSRQ?oc=5",
           "source": "gnews"
         },
         {
-          "title": "AI is making software developers faster — just not at actually shipping software",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBFOGF6dFRpaHNlaEtuYVlWVXRvdVd6a1N3dE16c19rSU5Kd3ZKS0tDaDNlRXYzTGlVU1R0cEVZb1djX0JSbFgzTGJGSlgwM1kyOVdyaXJGRHdCTWRXckJiamNGRjVNU0NFdEZCUjlSNF9kSl9NV1pDRWJjSlg3Zw?oc=5",
+          "title": "Save Nearly 50% on Editor-Approved Home Gym Equipment With These Early Prime Day Fitness Deals",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9BVVVTRTNIMlFLNUc5c1pmaHp5aXpidFoxZzI5TnhxTkRzWm1XSDdzOWxSdlhmZjJYaEFoNUktb2JrSnNDa0g3THNSSjFLbkhweXJESmJ4U3ZPNld2a1R1eU1fWHE1ZG5ybXRqRjJVbDM0Qkw0ZVFLdg?oc=5",
           "source": "gnews"
         },
         {
-          "title": "AI is making software developers faster — just not at actually shipping software",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBFOGF6dFRpaHNlaEtuYVlWVXRvdVd6a1N3dE16c19rSU5Kd3ZKS0tDaDNlRXYzTGlVU1R0cEVZb1djX0JSbFgzTGJGSlgwM1kyOVdyaXJGRHdCTWRXckJiamNGRjVNU0NFdEZCUjlSNF9kSl9NV1pDRWJjSlg3Zw?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "AI is making software developers faster — just not at actually shipping software",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBFOGF6dFRpaHNlaEtuYVlWVXRvdVd6a1N3dE16c19rSU5Kd3ZKS0tDaDNlRXYzTGlVU1R0cEVZb1djX0JSbFgzTGJGSlgwM1kyOVdyaXJGRHdCTWRXckJiamNGRjVNU0NFdEZCUjlSNF9kSl9NV1pDRWJjSlg3Zw?oc=5",
+          "title": "Save Nearly 50% on Editor-Approved Home Gym Equipment With These Early Prime Day Fitness Deals",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9BVVVTRTNIMlFLNUc5c1pmaHp5aXpidFoxZzI5TnhxTkRzWm1XSDdzOWxSdlhmZjJYaEFoNUktb2JrSnNDa0g3THNSSjFLbkhweXJESmJ4U3ZPNld2a1R1eU1fWHE1ZG5ybXRqRjJVbDM0Qkw0ZVFLdg?oc=5",
           "source": "gnews"
         }
       ],
-      "id": "35390f5453e8",
-      "slug": "software"
-    },
-    {
-      "keyword": "june 2026",
-      "count": 12,
-      "score": 59.530140633221976,
-      "proper": false,
-      "niches": [
-        "ai",
-        "gear"
-      ],
-      "examples": [
-        {
-          "title": "lenucksi/aur-malware-check — Detection tools for the June 2026 atomic-lockfile AUR supply-chain attack. Consolidated from community Gists.",
-          "url": "https://github.com/lenucksi/aur-malware-check",
-          "source": "github"
-        },
-        {
-          "title": "From $14 to $443: 10 Gadgets Worth Buying This June 2026",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5QUnZlbzZHWlJfVk83MGFCMUpKc3RxcWlJandmcG9oaGd5TDkza0J4SjYwZTZ2cVFrM0hvX0hPTWdGb2tMY29pUU5PTTlWY24xOFY4NmZuSXNKUnlIUEItV3BUTmF2Mk9BcFR5MQ?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "From $14 to $443: 10 Gadgets Worth Buying This June 2026",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5QUnZlbzZHWlJfVk83MGFCMUpKc3RxcWlJandmcG9oaGd5TDkza0J4SjYwZTZ2cVFrM0hvX0hPTWdGb2tMY29pUU5PTTlWY24xOFY4NmZuSXNKUnlIUEItV3BUTmF2Mk9BcFR5MQ?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "The 5 Best Tech Gadgets of June 2026",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQd09QU2p5ck9LYTl5cl9TaHBtNXFFN3N5WFV6UVd1QXFhc0FqWkRpWGx3cEl2VkRlb1dtQkRwZHM5d2tlVEtmTEtGQV9HYmdUWlh4ZGlhNGVucGVQaTh5YmZLQ1J5bWFWUThSVnVHNnpfTTd6UGVHR3JKRmNTRkEyVTln0gGHAUFVX3lxTE9hT3ZrM1h1U3E0emNoTzczZzNnQ2IxS29RT3RQeHI0YU05MEMtYk1GU1RuYzRkcEtRZ25RWFEyZFMtdnk0SjQySUhFTDZ2WkZJV3piTUQtaWJ3YnhxZXBxcUx5LXRpZXU1YmxfTlZoYU1icVQ1cHlRWGZSMjk0dTFBcVhSS0NlYw?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "ad4a598d7f4e",
-      "slug": "june-2026"
+      "id": "6069e8d26a81",
+      "slug": "early-prime"
     }
   ],
   "opportunities": [
     {
       "keyword": "passive income",
-      "count": 57,
-      "score": 256.2778059681928,
+      "count": 60,
+      "score": 232.18281514880005,
       "proper": true,
       "niches": [
         "finance",
@@ -769,18 +761,18 @@
           "source": "gnews"
         },
         {
-          "title": "2 High-Yield Goldman Sachs ETFs Paying 8%+ in Passive Income",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdlZaMUhkb0xKQjlxSmNobTNpRFZUT05RT19NV3J4cXpTMW1sakpPTnd2S1pjMjIyS0swbFhubFllVXR1VWlibnQtWTMxN09aOGM2VUdoNUFoXzFqYlFXc1VTa25ydEVQZTBQcm55cDIxcnU2dFF2aWhDOUVKZEtSQXNDX1FBSmF5REJlT25Ob3Y5QQ?oc=5",
+          "title": "Need Over $1000 per Month of Passive Income? Our Ultra-High-Yield Portfolio Can Make It Happen",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPa08wY3VmQUpJbW1VRjA2R0Vta2NqOTB4ci1wbE15V2hmSnQwNXFJNld1S3JoaXhEWUJURlJlNkxDWkhISmRlR1hZTFFIZ3FXcWtweE1LM3R1MzNqTTl1M2NvTVJBd3c3dGRMeDRRQWRPczFFZ3ZZdE9xeHRVcllMbWtSajlyMk4yRzNFa1NXMjVKNExBb1E4?oc=5",
           "source": "gnews"
         },
         {
-          "title": "2 High-Yield Goldman Sachs ETFs Paying 8%+ in Passive Income",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdlZaMUhkb0xKQjlxSmNobTNpRFZUT05RT19NV3J4cXpTMW1sakpPTnd2S1pjMjIyS0swbFhubFllVXR1VWlibnQtWTMxN09aOGM2VUdoNUFoXzFqYlFXc1VTa25ydEVQZTBQcm55cDIxcnU2dFF2aWhDOUVKZEtSQXNDX1FBSmF5REJlT25Ob3Y5QQ?oc=5",
+          "title": "Need Over $1000 per Month of Passive Income? Our Ultra-High-Yield Portfolio Can Make It Happen",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPa08wY3VmQUpJbW1VRjA2R0Vta2NqOTB4ci1wbE15V2hmSnQwNXFJNld1S3JoaXhEWUJURlJlNkxDWkhISmRlR1hZTFFIZ3FXcWtweE1LM3R1MzNqTTl1M2NvTVJBd3c3dGRMeDRRQWRPczFFZ3ZZdE9xeHRVcllMbWtSajlyMk4yRzNFa1NXMjVKNExBb1E4?oc=5",
           "source": "gnews"
         },
         {
-          "title": "2 High-Yield Goldman Sachs ETFs Paying 8%+ in Passive Income",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdlZaMUhkb0xKQjlxSmNobTNpRFZUT05RT19NV3J4cXpTMW1sakpPTnd2S1pjMjIyS0swbFhubFllVXR1VWlibnQtWTMxN09aOGM2VUdoNUFoXzFqYlFXc1VTa25ydEVQZTBQcm55cDIxcnU2dFF2aWhDOUVKZEtSQXNDX1FBSmF5REJlT25Ob3Y5QQ?oc=5",
+          "title": "I Asked ChatGPT How Retirees Can Generate $2K Monthly in Passive Income in 2026: Here’s What It Recommended",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPT0tlSHVabEdfcEJ4M1d3Q1ROYjZXdWZOWkUtS1VvNE9VMUdST2pxamxvNktJLWM5UEdBSXBJZTlHdlM4XzJuYUM1NEY2bHpIOGl6bUdMUzN4NU03MWhjdHpDU1JFZHA3RWloMXAwMnNfdmFvSDlENC1QVjRYOXJLTWRnMTcxWXctUUJSZk0xcWRyYkllWG0xdHBuUi1taW9qT1E?oc=5",
           "source": "gnews"
         }
       ],
@@ -792,104 +784,70 @@
       }
     },
     {
-      "keyword": "apple",
-      "count": 20,
-      "score": 139.94541318151582,
+      "keyword": "claude",
+      "count": 19,
+      "score": 137.3985256083718,
       "proper": true,
       "niches": [
-        "software",
         "ai"
       ],
       "examples": [
         {
-          "title": "Swift at Apple: Migrating the TrueType hinting interpreter",
-          "url": "https://www.swift.org/blog/migrating-truetype-hinting-to-swift/",
-          "source": "hackernews"
+          "title": "Best Free AI Tools for Work in 2026: ChatGPT, Claude, and More",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5oelBlcTNWNl9XOFNLWTVRcGFmTHdvRmdkdGtUTWFvNWpXZ2tZXzROcG94Ti1UZU8zdDlUQWpuUUs0eHh6U3RsUzFTX0RmVzZZQWwtS0NtbEdVLUd0T0RDd3hJbXhIWkE?oc=5",
+          "source": "gnews"
         },
         {
-          "title": "SkyBlue997/enableMacosAI — 国行 Mac 一键开启完整 Apple 智能(端侧 + Private Cloud Compute 云端)· macOS 27 / Apple Silicon",
-          "url": "https://github.com/SkyBlue997/enableMacosAI",
+          "title": "Best Free AI Tools for Work in 2026: ChatGPT, Claude, and More",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5oelBlcTNWNl9XOFNLWTVRcGFmTHdvRmdkdGtUTWFvNWpXZ2tZXzROcG94Ti1UZU8zdDlUQWpuUUs0eHh6U3RsUzFTX0RmVzZZQWwtS0NtbEdVLUd0T0RDd3hJbXhIWkE?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Best Free AI Tools for Work in 2026: ChatGPT, Claude, and More",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5oelBlcTNWNl9XOFNLWTVRcGFmTHdvRmdkdGtUTWFvNWpXZ2tZXzROcG94Ti1UZU8zdDlUQWpuUUs0eHh6U3RsUzFTX0RmVzZZQWwtS0NtbEdVLUd0T0RDd3hJbXhIWkE?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Nanako0129/coralline — 🪸 Powerlevel10k-inspired statusline for Claude Code — paste one prompt and your AI interviews you, then installs it",
+          "url": "https://github.com/Nanako0129/coralline",
           "source": "github"
         },
         {
-          "title": "Swift at Apple: Migrating the TrueType Hinting Interpreter",
-          "url": "https://swift.org/blog/migrating-truetype-hinting-to-swift/",
-          "source": "lobsters"
-        },
-        {
-          "title": "Apple aids app development with new intelligence frameworks and advanced tools",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOc3dXd3ctc0hGaEZrZlJTZ0xUT3hXNUNFS3JwSmdSYm96bWJxbkswZHY4anM1a2kzZDFPUjdRQjJSZm95YjVYNUlmeS0yd1RtM1RKS0l1b1RkTTQxcFdEOXhrcTdhamtwUDJuZGlqTG1fNzFOMHNlZmdaeGNnRUNhTzBIbTFqWXlZS01mUHBFTlAwZEJKS1JwLVV0LThEeE1GMmhXUUdXVm1mZGwwOWRvZEU0TWFTbWF3V3c?oc=5",
-          "source": "gnews"
+          "title": "rbrown101010/rilable — An iPhone app that builds apps — prompt to live web + iOS apps. SwiftUI + Convex + Claude + Daytona + Chorus.",
+          "url": "https://github.com/rbrown101010/rilable",
+          "source": "github"
         }
       ],
-      "id": "3a7bd3e2360a",
-      "slug": "apple",
+      "id": "c857d09db23e",
+      "slug": "claude",
       "opportunity": {
-        "type": "affiliate",
-        "recommended": "Write SEO comparison/roundup article with affiliate links."
+        "type": "tooling",
+        "recommended": "Build / list AI tools; monetize via affiliate links + lead magnet."
       }
     },
     {
-      "keyword": "trillion dollars",
-      "count": 12,
-      "score": 102.09009124254844,
-      "proper": false,
-      "niches": [
-        "software",
-        "general"
-      ],
-      "examples": [
-        {
-          "title": "People need to stop saying Elon Musk is worth a trillion dollars. He HAS a trillion dollars. On paper. He isn’t WORTH a trillion dollars. If something happened to him, we wouldn’t pay a trillion dolla",
-          "url": "https://beige.party/@maxleibman/116738487911073122",
-          "source": "mastodon"
-        },
-        {
-          "title": "People need to stop saying Elon Musk is worth a trillion dollars. He HAS a trillion dollars. On paper. He isn’t WORTH a trillion dollars. If something happened to him, we wouldn’t pay a trillion dolla",
-          "url": "https://beige.party/@maxleibman/116738487911073122",
-          "source": "mastodon"
-        },
-        {
-          "title": "People need to stop saying Elon Musk is worth a trillion dollars. He HAS a trillion dollars. On paper. He isn’t WORTH a trillion dollars. If something happened to him, we wouldn’t pay a trillion dolla",
-          "url": "https://beige.party/@maxleibman/116738487911073122",
-          "source": "mastodon"
-        },
-        {
-          "title": "guy has a trillion dollars, 0 friends, and has never landed a joke. I know a pact with the devil when I see one.",
-          "url": "https://fed.brid.gy/r/https://bsky.app/profile/did:plc:kfdf3ncmu3ekd3yrorivypai/post/3mo4dniui6s2z",
-          "source": "mastodon"
-        }
-      ],
-      "id": "2c8ae0db8a1c",
-      "slug": "trillion-dollars",
-      "opportunity": {
-        "type": "niche-content",
-        "recommended": "Publish niche guide for \"software\"; bundle into digital product later."
-      }
-    },
-    {
-      "keyword": "claude",
-      "count": 12,
-      "score": 97.02932320342245,
+      "keyword": "claude code",
+      "count": 27,
+      "score": 114.80648763353157,
       "proper": true,
       "niches": [
         "ai"
       ],
       "examples": [
         {
-          "title": "Best Free AI Tools for Work in 2026: ChatGPT, Claude, and More",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5oelBlcTNWNl9XOFNLWTVRcGFmTHdvRmdkdGtUTWFvNWpXZ2tZXzROcG94Ti1UZU8zdDlUQWpuUUs0eHh6U3RsUzFTX0RmVzZZQWwtS0NtbEdVLUd0T0RDd3hJbXhIWkE?oc=5",
-          "source": "gnews"
+          "title": "Nanako0129/coralline — 🪸 Powerlevel10k-inspired statusline for Claude Code — paste one prompt and your AI interviews you, then installs it",
+          "url": "https://github.com/Nanako0129/coralline",
+          "source": "github"
         },
         {
-          "title": "Best Free AI Tools for Work in 2026: ChatGPT, Claude, and More",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5oelBlcTNWNl9XOFNLWTVRcGFmTHdvRmdkdGtUTWFvNWpXZ2tZXzROcG94Ti1UZU8zdDlUQWpuUUs0eHh6U3RsUzFTX0RmVzZZQWwtS0NtbEdVLUd0T0RDd3hJbXhIWkE?oc=5",
-          "source": "gnews"
+          "title": "Nanako0129/coralline — 🪸 Powerlevel10k-inspired statusline for Claude Code — paste one prompt and your AI interviews you, then installs it",
+          "url": "https://github.com/Nanako0129/coralline",
+          "source": "github"
         },
         {
-          "title": "Best Free AI Tools for Work in 2026: ChatGPT, Claude, and More",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5oelBlcTNWNl9XOFNLWTVRcGFmTHdvRmdkdGtUTWFvNWpXZ2tZXzROcG94Ti1UZU8zdDlUQWpuUUs0eHh6U3RsUzFTX0RmVzZZQWwtS0NtbEdVLUd0T0RDd3hJbXhIWkE?oc=5",
-          "source": "gnews"
+          "title": "Skill, MCP, Plugin, or just a CLI: how I pick a Claude Code extension, lightest first",
+          "url": "https://dev.to/rapls/skill-mcp-plugin-or-just-a-cli-how-i-pick-a-claude-code-extension-lightest-first-3hon",
+          "source": "devto"
         },
         {
           "title": "Skill, MCP, Plugin, or just a CLI: how I pick a Claude Code extension, lightest first",
@@ -902,8 +860,8 @@
           "source": "gnews"
         }
       ],
-      "id": "c857d09db23e",
-      "slug": "claude",
+      "id": "a625159d18da",
+      "slug": "claude-code",
       "opportunity": {
         "type": "tooling",
         "recommended": "Build / list AI tools; monetize via affiliate links + lead magnet."
@@ -912,7 +870,7 @@
     {
       "keyword": "spacex ipo",
       "count": 8,
-      "score": 95.00225215063784,
+      "score": 113.01675124912519,
       "proper": true,
       "niches": [
         "ai"
@@ -937,9 +895,47 @@
       }
     },
     {
+      "keyword": "open",
+      "count": 12,
+      "score": 105.19211721304191,
+      "proper": true,
+      "niches": [
+        "ai",
+        "general"
+      ],
+      "examples": [
+        {
+          "title": "Open source AI must win",
+          "url": "https://opensourceaimustwin.com/?share=v2",
+          "source": "hackernews"
+        },
+        {
+          "title": "Open source AI must win",
+          "url": "https://opensourceaimustwin.com/?share=v2",
+          "source": "hackernews"
+        },
+        {
+          "title": "I think the secret reason that so much open source software is designed for CLI use is NOT just that we really like the console, but the deeper and much more true reason is that writing a GUI is a pai",
+          "url": "https://digipres.club/@foone/116740692999571279",
+          "source": "mastodon"
+        },
+        {
+          "title": "Open-Builders/pumpfun-bundler-pump.fun-bundler-solana-token-bundler-bot — ",
+          "url": "https://github.com/Open-Builders/pumpfun-bundler-pump.fun-bundler-solana-token-bundler-bot",
+          "source": "github"
+        }
+      ],
+      "id": "2348f9987442",
+      "slug": "open",
+      "opportunity": {
+        "type": "niche-content",
+        "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
+      }
+    },
+    {
       "keyword": "agent",
       "count": 12,
-      "score": 92.93970223673112,
+      "score": 96.72939554844231,
       "proper": true,
       "niches": [
         "ai"
@@ -961,8 +957,8 @@
           "source": "lobsters"
         },
         {
-          "title": "taisly/agent — Taisly Agent Kit: SDK, CLI, examples, and docs for AI agents that publish videos through Taisly.",
-          "url": "https://github.com/taisly/agent",
+          "title": "orange2ai/renwei-writing — 人味儿写作 · An AI agent skill: edit people's words without erasing the person behind them",
+          "url": "https://github.com/orange2ai/renwei-writing",
           "source": "github"
         },
         {
@@ -976,6 +972,49 @@
       "opportunity": {
         "type": "niche-content",
         "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
+      }
+    },
+    {
+      "keyword": "productivity apps",
+      "count": 30,
+      "score": 82.0971494424614,
+      "proper": false,
+      "niches": [
+        "ai",
+        "software"
+      ],
+      "examples": [
+        {
+          "title": "Why I ditched paid productivity apps for this free open-source alternative - How-To Geek",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTE9jOUhlQl9jazRtcXBDdERaa3FWaFNnV3dzZ1NkbTE2ckZhbGVaTTdFck4xMW50QktnbUFoS183YzJWcUprSTJEbjhYUkR0NlJmaWhZM0d4QkdaREhnV3JXMkZ2NktjWl9xTHNoWjVVbE85cnhKSTdvOWRkaGI5cGFRU01aSWF6V0tMVTdpY2R5ck5LYUF3ZzdqMUZLQQ?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Why I ditched paid productivity apps for this free open-source alternative - How-To Geek",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTE9jOUhlQl9jazRtcXBDdERaa3FWaFNnV3dzZ1NkbTE2ckZhbGVaTTdFck4xMW50QktnbUFoS183YzJWcUprSTJEbjhYUkR0NlJmaWhZM0d4QkdaREhnV3JXMkZ2NktjWl9xTHNoWjVVbE85cnhKSTdvOWRkaGI5cGFRU01aSWF6V0tMVTdpY2R5ck5LYUF3ZzdqMUZLQQ?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Personal Productivity Apps",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9PM19PY3hhTzBxSnRoalVkZmhNcEpYVnpRYk5JTGV1dVlyUzUxc0tlcTJMRWNxTEtMTmh4aTdWMFZyTHBreTRSQk1mS0tDZHB6UmNyT3FoUE7SAV5BVV95cUxPNEtpcHlyNm1UYmRJQ2J4WDV0b1lRNVFNRklCeURsNWxZSHBKRVp4UnRyRlNFcVNkUVY2eDU5Tmhtb0gySHlmOFV6aEdXWkl6WDA0NlRvUlVfVWtyQVpR?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Personal Productivity Apps",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9PM19PY3hhTzBxSnRoalVkZmhNcEpYVnpRYk5JTGV1dVlyUzUxc0tlcTJMRWNxTEtMTmh4aTdWMFZyTHBreTRSQk1mS0tDZHB6UmNyT3FoUE7SAV5BVV95cUxPNEtpcHlyNm1UYmRJQ2J4WDV0b1lRNVFNRklCeURsNWxZSHBKRVp4UnRyRlNFcVNkUVY2eDU5Tmhtb0gySHlmOFV6aEdXWkl6WDA0NlRvUlVfVWtyQVpR?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "The Best Productivity Apps for 2026",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1hcGhhTzd4UXY0VzB6MjRBcjZDR3ozczlxVFd4eVZmRGpjNVk2Z1ZCd3pIa0hBMUcxN3hEQTloZjh0dmdLMl9EakVNYjl0ZFBRQldfZEtqbGVmNGNtYTBNSllINjZ1aUU3aWp0ZGMyOTg0eGJE?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "c3d816ac2a46",
+      "slug": "productivity-apps",
+      "opportunity": {
+        "type": "affiliate",
+        "recommended": "Write SEO comparison/roundup article with affiliate links."
       }
     },
     {
@@ -1019,33 +1058,6 @@
       "opportunity": {
         "type": "affiliate",
         "recommended": "Write SEO comparison/roundup article with affiliate links."
-      }
-    },
-    {
-      "keyword": "android studio",
-      "count": 8,
-      "score": 77.94080710864245,
-      "proper": true,
-      "niches": [
-        "software"
-      ],
-      "examples": [
-        {
-          "title": "skydoves/compose-nav-graph — ⛵️ Compose Navigation Graph plugin for Android Studio that visualizes your entire app flow as an interactive map of rendered previews, typed arguments, and transitions.",
-          "url": "https://github.com/skydoves/compose-nav-graph",
-          "source": "github"
-        },
-        {
-          "title": "skydoves/compose-nav-graph — ⛵️ Compose Navigation Graph plugin for Android Studio that visualizes your entire app flow as an interactive map of rendered previews, typed arguments, and transitions.",
-          "url": "https://github.com/skydoves/compose-nav-graph",
-          "source": "github"
-        }
-      ],
-      "id": "2c0d939946b5",
-      "slug": "android-studio",
-      "opportunity": {
-        "type": "niche-content",
-        "recommended": "Publish niche guide for \"software\"; bundle into digital product later."
       }
     }
   ]
