@@ -394,8 +394,8 @@
     },
     "happy": {
       "firstSeen": "2026-05-30T14:27:52.108Z",
-      "lastSeen": "2026-05-31T16:56:31.693Z",
-      "count": 2,
+      "lastSeen": "2026-06-14T22:01:30.740Z",
+      "count": 3,
       "wins": 1,
       "losses": 0,
       "niche": "software"
@@ -559,30 +559,6 @@
       "wins": 0,
       "losses": 1,
       "niche": "software"
-    },
-    "whatsapp": {
-      "firstSeen": "2026-05-31T21:45:24.304Z",
-      "lastSeen": "2026-05-31T21:45:24.304Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "software"
-    },
-    "side": {
-      "firstSeen": "2026-05-31T21:45:33.718Z",
-      "lastSeen": "2026-05-31T21:45:33.718Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "finance"
-    },
-    "dan-mcateer": {
-      "firstSeen": "2026-05-31T21:45:50.922Z",
-      "lastSeen": "2026-05-31T21:45:50.922Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "ai"
     },
     "2026-_blank": {
       "firstSeen": "2026-05-31T21:45:59.853Z",
@@ -3178,25 +3154,81 @@
     },
     "changing-careers": {
       "firstSeen": "2026-06-14T17:08:53.516Z",
-      "lastSeen": "2026-06-14T17:08:53.516Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-14T22:01:08.265Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
     "cutting-expenses": {
       "firstSeen": "2026-06-14T17:08:56.776Z",
-      "lastSeen": "2026-06-14T17:08:56.776Z",
+      "lastSeen": "2026-06-14T22:01:08.267Z",
+      "count": 2,
+      "wins": 1,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "cow-abducting": {
+      "firstSeen": "2026-06-14T22:01:14.304Z",
+      "lastSeen": "2026-06-14T22:01:14.304Z",
       "count": 1,
       "wins": 0,
       "losses": 0,
       "niche": "ai"
+    },
+    "fer-martinez": {
+      "firstSeen": "2026-06-14T22:01:17.031Z",
+      "lastSeen": "2026-06-14T22:01:17.031Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "gerade-liberale": {
+      "firstSeen": "2026-06-14T22:01:19.799Z",
+      "lastSeen": "2026-06-14T22:01:19.799Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "customer-support-reply-templates": {
+      "firstSeen": "2026-06-14T22:01:38.316Z",
+      "lastSeen": "2026-06-14T22:01:38.316Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "productivity"
+    },
+    "roper-technologies": {
+      "firstSeen": "2026-06-14T22:02:01.348Z",
+      "lastSeen": "2026-06-14T22:02:01.348Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "vibe-coder": {
+      "firstSeen": "2026-06-14T22:02:28.205Z",
+      "lastSeen": "2026-06-14T22:02:28.205Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "software"
+    },
+    "software-engineer": {
+      "firstSeen": "2026-06-14T22:02:41.030Z",
+      "lastSeen": "2026-06-14T22:02:41.030Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "software"
     }
   },
   "niches": {
     "ai": {
-      "count": 525,
-      "wins": 151,
+      "count": 531,
+      "wins": 153,
       "losses": 19
     },
     "finance": {
@@ -3205,7 +3237,7 @@
       "losses": 0
     },
     "software": {
-      "count": 121,
+      "count": 124,
       "wins": 33,
       "losses": 7
     },
@@ -3220,7 +3252,7 @@
       "losses": 0
     },
     "productivity": {
-      "count": 1,
+      "count": 2,
       "wins": 0,
       "losses": 0
     }

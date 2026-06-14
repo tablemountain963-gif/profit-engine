@@ -687,5 +687,19 @@
     "price": 19,
     "productId": "prod_UhexZlJX7NjcT5",
     "cover": "/assets/pack-cover.png"
+  },
+  "checklist-customer-support-reply-templates-2026-06-14": {
+    "url": "https://buy.stripe.com/bJe00i3OUdhQeE3ac4fjG1A",
+    "platform": "stripe",
+    "price": 9,
+    "productId": "prod_UhldVCJENoIZVx",
+    "cover": "/assets/pack-cover.png"
+  },
+  "prompt-pack-happy-2026-06-14": {
+    "url": "https://buy.stripe.com/cNi8wOgBG4Lk3Zp4RKfjG1B",
+    "platform": "stripe",
+    "price": 19,
+    "productId": "prod_UhldWWsgifFFos",
+    "cover": "/assets/pack-cover.png"
   }
 }
