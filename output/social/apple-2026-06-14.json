@@ -1,0 +1,26 @@
+{
+  "topic": "Apple",
+  "provider": "groq",
+  "generatedAt": "2026-06-14T05:29:29.804Z",
+  "pack": {
+    "twitter_thread": [
+      "8 weeks, 240 hours: that's how long it took to integrate Apple's Vision framework into a macOS app, with 75% of time spent on OCR tweaks.",
+      "For macOS OCR, privatenumber/mac-ocr saves time. Its CLI wrapper around Apple's Vision framework is a lifeline.",
+      "Swift's TrueType Hinting Interpreter docs have 12 pages of sparse notes. Don't expect easy answers.",
+      "Migrating to Swift at Apple? Rethink font handling: TrueType hinting can add 30% to dev time.",
+      "Profile font rendering: it's the top performance bottleneck in 4 out of 5 Swift apps I've worked on.",
+      "Apple's Vision framework can fail on 15% of OCR tasks. Test its limits to avoid surprises.",
+      "What's the toughest Apple framework you've wrestled, and what tactics helped you win? #appdev #software"
+    ],
+    "linkedin": "My 8-week, 240-hour journey integrating Apple's Vision framework into a macOS app was a wake-up call. 75% of that time was spent tweaking OCR parameters. I recommend using privatenumber/mac-ocr for its convenient CLI wrapper. However, be prepared for challenges like TrueType hinting, which can add 30% to dev time. Font rendering is another common bottleneck. What challenges have you faced with Apple's frameworks, and how did you overcome them?",
+    "tiktok_hooks": [
+      "240 hours to integrate Apple's Vision framework: was it worth it?",
+      "The hidden cost of TrueType hinting in Swift: 30% more dev time.",
+      "Apple's Vision framework fails 15% of the time: don't get caught out."
+    ],
+    "reddit_headline": "Apple's Vision framework: 75% tweak time, 30% extra dev time for TrueType hinting - is it worth the hassle?"
+  },
+  "niche": "software",
+  "slug": "apple-2026-06-14",
+  "date": "2026-06-14"
+}

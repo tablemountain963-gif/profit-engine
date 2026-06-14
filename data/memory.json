@@ -418,8 +418,8 @@
     },
     "passive": {
       "firstSeen": "2026-05-30T16:52:40.063Z",
-      "lastSeen": "2026-05-31T21:45:06.665Z",
-      "count": 2,
+      "lastSeen": "2026-06-14T05:29:19.529Z",
+      "count": 3,
       "wins": 1,
       "losses": 0,
       "niche": "finance"
@@ -485,30 +485,6 @@
       "lastSeen": "2026-05-31T14:42:30.904Z",
       "count": 2,
       "wins": 1,
-      "losses": 0,
-      "niche": "ai"
-    },
-    "free": {
-      "firstSeen": "2026-05-31T05:16:49.371Z",
-      "lastSeen": "2026-05-31T05:16:49.371Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "ai"
-    },
-    "snowflake-ceo": {
-      "firstSeen": "2026-05-31T05:17:03.002Z",
-      "lastSeen": "2026-05-31T05:17:03.002Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "ai"
-    },
-    "download-free": {
-      "firstSeen": "2026-05-31T05:17:18.087Z",
-      "lastSeen": "2026-05-31T05:17:18.087Z",
-      "count": 1,
-      "wins": 0,
       "losses": 0,
       "niche": "ai"
     },
@@ -898,8 +874,8 @@
     },
     "apple": {
       "firstSeen": "2026-06-02T17:22:17.986Z",
-      "lastSeen": "2026-06-08T16:48:34.861Z",
-      "count": 2,
+      "lastSeen": "2026-06-14T05:29:29.805Z",
+      "count": 3,
       "wins": 0,
       "losses": 0,
       "niche": "software"
@@ -2250,10 +2226,10 @@
     },
     "nba-finals": {
       "firstSeen": "2026-06-09T05:02:07.528Z",
-      "lastSeen": "2026-06-09T05:02:07.528Z",
-      "count": 1,
+      "lastSeen": "2026-06-14T05:29:09.874Z",
+      "count": 2,
       "wins": 0,
-      "losses": 0,
+      "losses": 1,
       "niche": "ai"
     },
     "model": {
@@ -3098,9 +3074,9 @@
     },
     "amazon-ceo": {
       "firstSeen": "2026-06-13T21:55:42.803Z",
-      "lastSeen": "2026-06-13T21:55:42.803Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-14T05:29:09.875Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -3111,21 +3087,53 @@
       "wins": 0,
       "losses": 0,
       "niche": "finance"
+    },
+    "once-hitler": {
+      "firstSeen": "2026-06-14T05:29:14.269Z",
+      "lastSeen": "2026-06-14T05:29:14.269Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "adobe-fresco": {
+      "firstSeen": "2026-06-14T05:29:16.628Z",
+      "lastSeen": "2026-06-14T05:29:16.628Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "zero-math": {
+      "firstSeen": "2026-06-14T05:29:42.864Z",
+      "lastSeen": "2026-06-14T05:29:42.864Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "open-dungeon": {
+      "firstSeen": "2026-06-14T05:29:54.825Z",
+      "lastSeen": "2026-06-14T05:29:54.825Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
     }
   },
   "niches": {
     "ai": {
-      "count": 508,
-      "wins": 149,
-      "losses": 18
+      "count": 514,
+      "wins": 150,
+      "losses": 19
     },
     "finance": {
-      "count": 40,
+      "count": 41,
       "wins": 5,
       "losses": 0
     },
     "software": {
-      "count": 117,
+      "count": 118,
       "wins": 32,
       "losses": 7
     },
