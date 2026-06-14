@@ -114,8 +114,8 @@
     },
     "fitness-gear": {
       "firstSeen": "2026-05-28T14:27:03.986Z",
-      "lastSeen": "2026-06-09T15:53:43.444Z",
-      "count": 2,
+      "lastSeen": "2026-06-14T17:09:07.961Z",
+      "count": 3,
       "wins": 0,
       "losses": 0,
       "niche": "gear"
@@ -535,30 +535,6 @@
       "wins": 1,
       "losses": 0,
       "niche": "ai"
-    },
-    "income-invest": {
-      "firstSeen": "2026-05-31T16:56:47.918Z",
-      "lastSeen": "2026-05-31T16:56:47.918Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "finance"
-    },
-    "000-into": {
-      "firstSeen": "2026-05-31T16:56:51.925Z",
-      "lastSeen": "2026-05-31T16:56:51.925Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "finance"
-    },
-    "invest-000": {
-      "firstSeen": "2026-05-31T16:57:10.210Z",
-      "lastSeen": "2026-05-31T16:57:10.210Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "finance"
     },
     "pride-beam": {
       "firstSeen": "2026-05-31T21:45:12.608Z",
@@ -3122,25 +3098,25 @@
     },
     "income-investors": {
       "firstSeen": "2026-06-14T15:06:56.742Z",
-      "lastSeen": "2026-06-14T15:06:56.742Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-14T17:08:45.756Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "finance"
     },
     "alan-grant": {
       "firstSeen": "2026-06-14T15:07:00.203Z",
-      "lastSeen": "2026-06-14T15:07:00.203Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-14T17:08:45.757Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
     "free-sql": {
       "firstSeen": "2026-06-14T15:07:02.757Z",
-      "lastSeen": "2026-06-14T15:07:02.757Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-14T17:08:45.757Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "software"
     },
@@ -3191,22 +3167,46 @@
       "wins": 0,
       "losses": 0,
       "niche": "ai"
+    },
+    "albaniawell-albanians": {
+      "firstSeen": "2026-06-14T17:08:50.169Z",
+      "lastSeen": "2026-06-14T17:08:50.169Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "changing-careers": {
+      "firstSeen": "2026-06-14T17:08:53.516Z",
+      "lastSeen": "2026-06-14T17:08:53.516Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "cutting-expenses": {
+      "firstSeen": "2026-06-14T17:08:56.776Z",
+      "lastSeen": "2026-06-14T17:08:56.776Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
     }
   },
   "niches": {
     "ai": {
-      "count": 520,
-      "wins": 150,
+      "count": 525,
+      "wins": 151,
       "losses": 19
     },
     "finance": {
-      "count": 44,
-      "wins": 7,
+      "count": 45,
+      "wins": 8,
       "losses": 0
     },
     "software": {
-      "count": 120,
-      "wins": 32,
+      "count": 121,
+      "wins": 33,
       "losses": 7
     },
     "gear": {
