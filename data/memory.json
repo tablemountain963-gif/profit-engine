@@ -418,9 +418,9 @@
     },
     "passive": {
       "firstSeen": "2026-05-30T16:52:40.063Z",
-      "lastSeen": "2026-06-14T05:29:19.529Z",
-      "count": 3,
-      "wins": 1,
+      "lastSeen": "2026-06-14T15:06:51.487Z",
+      "count": 4,
+      "wins": 2,
       "losses": 0,
       "niche": "finance"
     },
@@ -738,9 +738,9 @@
     },
     "side-hustle": {
       "firstSeen": "2026-06-01T20:10:58.499Z",
-      "lastSeen": "2026-06-13T21:55:45.546Z",
-      "count": 3,
-      "wins": 0,
+      "lastSeen": "2026-06-14T15:06:51.486Z",
+      "count": 4,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -3119,21 +3119,93 @@
       "wins": 0,
       "losses": 0,
       "niche": "ai"
+    },
+    "income-investors": {
+      "firstSeen": "2026-06-14T15:06:56.742Z",
+      "lastSeen": "2026-06-14T15:06:56.742Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "finance"
+    },
+    "alan-grant": {
+      "firstSeen": "2026-06-14T15:07:00.203Z",
+      "lastSeen": "2026-06-14T15:07:00.203Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "free-sql": {
+      "firstSeen": "2026-06-14T15:07:02.757Z",
+      "lastSeen": "2026-06-14T15:07:02.757Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "software"
+    },
+    "cold-war": {
+      "firstSeen": "2026-06-14T15:07:08.388Z",
+      "lastSeen": "2026-06-14T15:07:08.388Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "paid-options": {
+      "firstSeen": "2026-06-14T15:07:29.161Z",
+      "lastSeen": "2026-06-14T15:07:29.161Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "guide": {
+      "firstSeen": "2026-06-14T15:07:53.083Z",
+      "lastSeen": "2026-06-14T15:07:53.083Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "tools-business": {
+      "firstSeen": "2026-06-14T15:08:14.946Z",
+      "lastSeen": "2026-06-14T15:08:14.946Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "arcade-cabinets": {
+      "firstSeen": "2026-06-14T15:08:29.200Z",
+      "lastSeen": "2026-06-14T15:08:29.200Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "software"
+    },
+    "full-transformer": {
+      "firstSeen": "2026-06-14T15:08:50.962Z",
+      "lastSeen": "2026-06-14T15:08:50.962Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
     }
   },
   "niches": {
     "ai": {
-      "count": 514,
+      "count": 520,
       "wins": 150,
       "losses": 19
     },
     "finance": {
-      "count": 41,
-      "wins": 5,
+      "count": 44,
+      "wins": 7,
       "losses": 0
     },
     "software": {
-      "count": 118,
+      "count": 120,
       "wins": 32,
       "losses": 7
     },
