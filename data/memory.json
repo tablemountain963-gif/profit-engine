@@ -986,9 +986,9 @@
     },
     "affordability-crisis": {
       "firstSeen": "2026-06-03T17:59:29.318Z",
-      "lastSeen": "2026-06-15T19:38:06.566Z",
-      "count": 3,
-      "wins": 0,
+      "lastSeen": "2026-06-15T22:53:08.629Z",
+      "count": 4,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -2250,8 +2250,8 @@
     },
     "stop-pretending": {
       "firstSeen": "2026-06-09T22:17:01.448Z",
-      "lastSeen": "2026-06-10T05:14:23.159Z",
-      "count": 2,
+      "lastSeen": "2026-06-15T22:53:33.499Z",
+      "count": 3,
       "wins": 1,
       "losses": 0,
       "niche": "ai"
@@ -3010,9 +3010,9 @@
     },
     "adobe-fresco": {
       "firstSeen": "2026-06-14T05:29:16.628Z",
-      "lastSeen": "2026-06-14T05:29:16.628Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-15T22:53:08.624Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -3186,9 +3186,9 @@
     },
     "south-lawn": {
       "firstSeen": "2026-06-15T06:21:53.500Z",
-      "lastSeen": "2026-06-15T06:21:53.501Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-15T22:53:08.625Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -3234,9 +3234,9 @@
     },
     "billion-deal": {
       "firstSeen": "2026-06-15T17:58:42.686Z",
-      "lastSeen": "2026-06-15T17:58:42.686Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-15T22:53:08.626Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -3306,17 +3306,17 @@
     },
     "claude-corps": {
       "firstSeen": "2026-06-15T19:38:00.329Z",
-      "lastSeen": "2026-06-15T19:38:00.329Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-15T22:53:08.627Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
     "my-homelab-ai-dev": {
       "firstSeen": "2026-06-15T19:38:03.335Z",
-      "lastSeen": "2026-06-15T19:38:03.335Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-15T22:53:08.628Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -3327,12 +3327,44 @@
       "wins": 0,
       "losses": 0,
       "niche": "finance"
+    },
+    "ai-tribunal": {
+      "firstSeen": "2026-06-15T22:53:13.741Z",
+      "lastSeen": "2026-06-15T22:53:13.741Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "setup-installer": {
+      "firstSeen": "2026-06-15T22:53:17.039Z",
+      "lastSeen": "2026-06-15T22:53:17.039Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "gear"
+    },
+    "promise": {
+      "firstSeen": "2026-06-15T22:53:19.861Z",
+      "lastSeen": "2026-06-15T22:53:19.861Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "amazon-prime": {
+      "firstSeen": "2026-06-15T22:53:25.514Z",
+      "lastSeen": "2026-06-15T22:53:25.514Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
     }
   },
   "niches": {
     "ai": {
-      "count": 556,
-      "wins": 158,
+      "count": 566,
+      "wins": 164,
       "losses": 20
     },
     "finance": {
@@ -3346,7 +3378,7 @@
       "losses": 7
     },
     "gear": {
-      "count": 35,
+      "count": 36,
       "wins": 8,
       "losses": 0
     },

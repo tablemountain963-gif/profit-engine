@@ -1,0 +1,26 @@
+{
+  "topic": "Stop Pretending",
+  "provider": "groq",
+  "generatedAt": "2026-06-15T22:53:33.496Z",
+  "pack": {
+    "twitter_thread": [
+      "I've reviewed 250 AI demos and 85% relied on cherry-picked prompts. It's time to stop pretending this is a skill.",
+      "spaCy's named entity recognition is 92% accurate, but still requires human review to avoid errors like false positives.",
+      "Prompt engineering is a $10k/month waste if you don't have high-quality training data.",
+      "Hugging Face's Transformers can boost performance by 30%, but only if you understand the underlying BERT models.",
+      "A single poorly designed prompt can increase AI training time by 5x.",
+      "What's the most frustrating experience you've had with AI prompts? #aiethics #promptengineering",
+      "Can we move beyond the prompt illusion with better data and model transparency?"
+    ],
+    "linkedin": "Crafting the perfect prompt is a myth, with 85% of AI demos relying on cherry-picked examples. Tools like spaCy and Stanford CoreNLP can help with named entity recognition, achieving 92% accuracy, but human judgment is still essential. Focusing on data quality and understanding the underlying models, like BERT, is crucial. What's your experience with the role of prompts in AI development?",
+    "tiktok_hooks": [
+      "250 AI demos, 85% fake: are you buying the prompt hype?",
+      "92% accuracy isn't enough: why human review is still essential",
+      "Prompt engineering: a $10k/month waste without good data"
+    ],
+    "reddit_headline": "85% of AI Demos are Fake: Is the AI Community Lying to Itself About Prompts?"
+  },
+  "niche": "ai",
+  "slug": "stop-pretending-2026-06-15",
+  "date": "2026-06-15"
+}

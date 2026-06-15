@@ -1,126 +1,93 @@
 {
-  "generatedAt": "2026-06-15T19:37:51.816Z",
-  "sourceCount": 200,
+  "generatedAt": "2026-06-15T22:53:09.067Z",
+  "sourceCount": 205,
   "topItems": [
-    {
-      "title": "Well, it happened: We crammed our way into a crowded intercity train and someone was like WOW IT’S ODIN FROM MASTODON",
-      "url": "https://infosec.exchange/@0xabad1dea/116754836986795127",
-      "score": 10.95,
-      "niche": "ai",
-      "source": "mastodon",
-      "engagement": {
-        "score": 884,
-        "comments": 29
-      }
-    },
-    {
-      "title": "Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?",
-      "url": "https://news.ycombinator.com/item?id=48542100",
-      "score": 8.97,
-      "niche": "ai",
-      "source": "hackernews",
-      "engagement": {
-        "score": 277,
-        "comments": 179
-      }
-    },
-    {
-      "title": "Happy #GlobalWindDay! Just a reminder that no country was ever invaded to steal their wind reserves.It's time to switch to renewables.",
-      "url": "https://mastodon.social/@greenpeace/116754436990310596",
-      "score": 8.85,
-      "niche": "software",
-      "source": "mastodon",
-      "engagement": {
-        "score": 540,
-        "comments": 10
-      }
-    },
-    {
-      "title": "Apple Foundation Models",
-      "url": "https://platform.claude.com/docs/en/cli-sdks-libraries/libraries/apple-foundation-models",
-      "score": 8.58,
-      "niche": "ai",
-      "source": "hackernews",
-      "engagement": {
-        "score": 425,
-        "comments": 199
-      }
-    },
-    {
-      "title": "A defining moment for Europe. 🇪🇺🤝🇲🇩🇺🇦All EU countries have now agreed to open the first accession negotiations cluster with Ukraine and Moldova.Today, we're launching talks on the backbone of t",
-      "url": "https://ec.social-network.europa.eu/@EUCommission/116754679006037959",
-      "score": 8.55,
-      "niche": "ai",
-      "source": "mastodon",
-      "engagement": {
-        "score": 453,
-        "comments": 8
-      }
-    },
-    {
-      "title": "My Homelab AI Dev Platform",
-      "url": "https://rsgm.dev/post/ai-dev-platform/",
-      "score": 8.49,
-      "niche": "ai",
-      "source": "hackernews",
-      "engagement": {
-        "score": 138,
-        "comments": 32
-      }
-    },
-    {
-      "title": "TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)",
-      "url": "https://tinywind.io",
-      "score": 8.46,
-      "niche": "ai",
-      "source": "hackernews",
-      "engagement": {
-        "score": 311,
-        "comments": 64
-      }
-    },
     {
       "title": "I'm getting burnt out on all my moderation actions being against fucking AI. Like, I never thought I'd say it, but I miss suspending Nazis and bigots—at least they were real people who would give up a",
       "url": "https://lgbtqia.space/@alice/116755340948907372",
-      "score": 8.25,
+      "score": 9.19,
       "niche": "ai",
       "source": "mastodon",
       "engagement": {
-        "score": 356,
-        "comments": 11
+        "score": 702,
+        "comments": 21
       }
     },
     {
       "title": "alchaincyf/loop-engineering-orange-book — 别再问我什么是 Loop Engineering — 橙皮书系列。A plain-language guide to loop engineering (中文 + English PDF). Free.",
       "url": "https://github.com/alchaincyf/loop-engineering-orange-book",
-      "score": 8.12,
+      "score": 8.15,
       "niche": "ai",
       "source": "github",
       "engagement": {
-        "score": 275,
+        "score": 280,
         "comments": 0
       }
     },
     {
-      "title": "CrankGPT",
-      "url": "https://crankgpt.com",
-      "score": 7.55,
+      "title": "Oh my Bob, this is utterly unhinged. Peter #Theil and Aron #DSouza have teamed up to create an “AI Tribunal” for the #EpsteinClass to whitewash any negative reporting, by “suing the reporter” in a mad",
+      "url": "https://mefi.social/@MissConstrue/116755759876467474",
+      "score": 7.87,
       "niche": "ai",
-      "source": "hackernews",
+      "source": "mastodon",
       "engagement": {
-        "score": 490,
-        "comments": 199
+        "score": 249,
+        "comments": 19
       }
     },
     {
-      "title": "Can Europe train a frontier AI model on the compute it owns?",
-      "url": "https://github.com/sammysltd/euromesh",
-      "score": 6.18,
+      "title": "Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?",
+      "url": "https://news.ycombinator.com/item?id=48542100",
+      "score": 7.8,
       "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 78,
-        "comments": 90
+        "score": 547,
+        "comments": 281
+      }
+    },
+    {
+      "title": "TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)",
+      "url": "https://tinywind.io",
+      "score": 7.34,
+      "niche": "ai",
+      "source": "hackernews",
+      "engagement": {
+        "score": 521,
+        "comments": 106
+      }
+    },
+    {
+      "title": "My Homelab AI Dev Platform",
+      "url": "https://rsgm.dev/post/ai-dev-platform/",
+      "score": 7.22,
+      "niche": "ai",
+      "source": "hackernews",
+      "engagement": {
+        "score": 200,
+        "comments": 41
+      }
+    },
+    {
+      "title": "Salesforce To Acquire AI Agent Maker Fin In $3.6 Billion Deal",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNE9OeEhlRGpBaEZ6WFZOQWhhUG9IcUpYQ1VpSWJ4UkVIRGlxY3hnOEJWbkw1a2NIUUtKOElwcy1fZzM1cnI3SHlYaW1YMXZXY3ZKbVZ3dHRLcEpHeGJkcmlOQWUzakZKYWxXMDA1RThvektBUnd1VDVSUEJwVndDQXZOeWkxUVl1TVZMLVY2dDNpS0xoNmRiQk1GbXFKUS1wTGhwMQ?oc=5",
+      "score": 6.71,
+      "niche": "ai",
+      "source": "gnews",
+      "engagement": {
+        "score": 40,
+        "comments": 0
+      }
+    },
+    {
+      "title": "Important development in holding gun industry civilly accountable for their role in gun violence. The Supreme Court has refused to hear an appeal from gun makers who sought to invalidate New York’s st",
+      "url": "https://mastodon.social/@heidilifeldman/116756002569649736",
+      "score": 6.2,
+      "niche": "software",
+      "source": "mastodon",
+      "engagement": {
+        "score": 81,
+        "comments": 1
       }
     },
     {
@@ -135,19 +102,30 @@
       }
     },
     {
-      "title": "Launch HN: Drafted (YC P26) – Models for residential architecture",
-      "url": "https://news.ycombinator.com/item?id=48543908",
-      "score": 6.09,
+      "title": "A recurring thought I've had since I was a teenager: most adults are emotionally children and thus useless / unavailable when you need to talk about Real Shit. It's not even that adults coddle you whe",
+      "url": "https://mastodon.social/@gwynnion/116756314085842462",
+      "score": 6.12,
       "niche": "ai",
-      "source": "hackernews",
+      "source": "mastodon",
       "engagement": {
-        "score": 27,
-        "comments": 26
+        "score": 61,
+        "comments": 10
       }
     },
     {
-      "title": "16 Best AI Tools for Business in 2026: Tested & Ranked",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAwQnBYNFM3cXk2eUZVZWZHYjBJZ01wbHJOMkpiNXExelhCZUc4US1OX0tnaWdyTnNCZkp6bGEwN0FOMDBiUzh6a29Wd2pmUk9pNWdRdXdXNG9HZVpo?oc=5",
+      "title": "Jeidoban/Ironsmith — Create personal Mac apps instantly with a prompt. Supports on-device and cloud LLMs",
+      "url": "https://github.com/Jeidoban/Ironsmith",
+      "score": 6.08,
+      "niche": "ai",
+      "source": "github",
+      "engagement": {
+        "score": 150,
+        "comments": 1
+      }
+    },
+    {
+      "title": "Salesforce to buy AI customer service platform Fin for $3.6 billion to boost agentic offerings",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPVTRrb2RiMVFQTlpSeEZfSllTNEVwNWdWelREREtWSHJ4cEVleTdVMk5DRWJNaE1XQko2U3QxWHh1RmhYVkNyVTVaTmRmcTgtVWNNRzZvXzdfeVB2alFaYkhYOFZHclh0WGJHVG5RN3BJTTctZG40d21lUWRXSm9OLXl3T3R6RVhyRXfSAY8BQVVfeXFMTm9Ob0VYTWdkYThFTUJYdzdPa21FUmJaSXQ1SE5UMDNDMVVQbEVvemg3am9RV0hweGZhYm1ia29CTGZ4ZEpXRnFPbFJIWjZRUWlMa1JkSkpnSFlVbldvTnlxcVlFbjdIVEotYno1Vzh4OFU1ekpGVDJiN21IOGE5dUN4SzVRbHZCVE04eDhES2M?oc=5",
       "score": 5.99,
       "niche": "ai",
       "source": "gnews",
@@ -157,64 +135,9 @@
       }
     },
     {
-      "title": "Jeidoban/Ironsmith — Create personal Mac apps instantly with a prompt. Supports on-device and cloud LLMs",
-      "url": "https://github.com/Jeidoban/Ironsmith",
-      "score": 5.97,
-      "niche": "ai",
-      "source": "github",
-      "engagement": {
-        "score": 137,
-        "comments": 1
-      }
-    },
-    {
-      "title": "Claude Corps",
-      "url": "https://www.anthropic.com/news/claude-corps",
+      "title": "Yale researchers propose ‘copyleft’ rules for generative AI",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWnd2a0ctWW50cndUcGZEeHNwS0VwMGx1Mll1bDZwblEyZTNXTnFGNFczQUlTaHJJdDR0YldLbW53eWFjT1dMbUJQSjZTdFExeWFEc3hhTklkXzg2b29IS3oxMDdZS2VoZmE3NFVzaXptVVIyN0hucmRzRXFfWjMtZUsxQnFVX284bDZPRXpaUQ?oc=5",
       "score": 5.94,
-      "niche": "ai",
-      "source": "hackernews",
-      "engagement": {
-        "score": 29,
-        "comments": 21
-      }
-    },
-    {
-      "title": "fivetaku/fablize — A Claude Code plugin that makes Opus behave like Fable — completion, evidence, and verification enforced as procedure. Ships only what a Fable-vs-Opus comparison proved transferable",
-      "url": "https://github.com/fivetaku/fablize",
-      "score": 5.83,
-      "niche": "ai",
-      "source": "github",
-      "engagement": {
-        "score": 215,
-        "comments": 0
-      }
-    },
-    {
-      "title": "mrtooher/fable-mode — A Claude skill that activates Fable-style agentic behavior: explicit multi-stage planning, sub-agent delegation, and self-verification.",
-      "url": "https://github.com/mrtooher/fable-mode",
-      "score": 5.73,
-      "niche": "ai",
-      "source": "github",
-      "engagement": {
-        "score": 392,
-        "comments": 1
-      }
-    },
-    {
-      "title": "Openrouter Fusion API",
-      "url": "https://openrouter.ai/openrouter/fusion",
-      "score": 5.61,
-      "niche": "software",
-      "source": "hackernews",
-      "engagement": {
-        "score": 180,
-        "comments": 69
-      }
-    },
-    {
-      "title": "I'm on the lookout for the best Amazon Prime Day keyboard, mouse and controller deals",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTHVPczFmSUlWYms2SVdndm0zZHduZ2RFZVdXUWxTQ1BxQm9sYkd3TTRzS0Rrem5YcjB4YlNHelNDOHVmVUVOTjZfdkRXaEtIYy0zVy14YkQ4V3ZybjFscktlUmlNbFJiN3RHR2NJUU5JQjhyQTh4UWRESFBpY29TZ04wTVMwbllmQnc?oc=5",
-      "score": 5.37,
       "niche": "ai",
       "source": "gnews",
       "engagement": {
@@ -223,14 +146,80 @@
       }
     },
     {
-      "title": "Show HN: machine0 – Persistent NixOS VMs You Control from the CLI",
-      "url": "https://machine0.io",
-      "score": 5.34,
-      "niche": "software",
+      "title": "Software Stocks Are Going Down, No Matter What Happens With AI (BATS:IGV)",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWlhEd1I4SzFpdUJ5b2Z0Qk8xb2h1QTBMOVVRYWYyRmM5SGpuYnltdS1wV3JfWE8zdHhKSEFIXzBLZTgyTkN6Nk40QXZBTFdtaWUweGxmWktScjhRRlVWYmlhUXZicmZPRFkyTDk0NlpHRnBIREFWWWx3dTBRaDRTY1R6RU5LeGRraEFiY185TFg4TU5lVTJRT0Ytc2pKTm1sUDk4TA?oc=5",
+      "score": 5.94,
+      "niche": "ai",
+      "source": "gnews",
+      "engagement": {
+        "score": 40,
+        "comments": 0
+      }
+    },
+    {
+      "title": "CMU’s Software Engineering Institute and Accenture Release New Framework To Help Organizations Realize AI’s Promise",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNbERTek1JVGdsY3NqQlYzRUZlNkN5WTFKdUNsamRUT2RHYXI3NTZhazRJWjV5M1hEUUhIWkFkQldqbDBKVEZOLVcxN3c3dWZKck1SYjNVeDVBY0ROa0x4VjR6TS1tbDdfWmhxVVJjUjJvYzFGT2FuczBhTVhKSk9ZbFUtczhDWWE1ekcxOWRWZEhrTE84ZXJqNHBkVmRaNng1bEViUDg1bm5xWlpaTV9QQ2tiLWRhMkdOd2t1TFgxQ192RXFSWU9NV3NDMTRaZ25JNmFkWjhyeTBfdTFEV1E?oc=5",
+      "score": 5.94,
+      "niche": "ai",
+      "source": "gnews",
+      "engagement": {
+        "score": 40,
+        "comments": 0
+      }
+    },
+    {
+      "title": "fivetaku/fablize — A Claude Code plugin that makes Opus behave like Fable — completion, evidence, and verification enforced as procedure. Ships only what a Fable-vs-Opus comparison proved transferable",
+      "url": "https://github.com/fivetaku/fablize",
+      "score": 5.91,
+      "niche": "ai",
+      "source": "github",
+      "engagement": {
+        "score": 231,
+        "comments": 1
+      }
+    },
+    {
+      "title": "Typst 0.15 contains multitudes",
+      "url": "https://typst.app/blog/2026/typst-0.15/",
+      "score": 5.84,
+      "niche": "ai",
+      "source": "lobsters",
+      "engagement": {
+        "score": 54,
+        "comments": 6
+      }
+    },
+    {
+      "title": "mrtooher/fable-mode — A Claude skill that activates Fable-style agentic behavior: explicit multi-stage planning, sub-agent delegation, and self-verification.",
+      "url": "https://github.com/mrtooher/fable-mode",
+      "score": 5.76,
+      "niche": "ai",
+      "source": "github",
+      "engagement": {
+        "score": 402,
+        "comments": 1
+      }
+    },
+    {
+      "title": "Show HN: Vet turned founder, AI lawn diagnosis",
+      "url": "https://grassdx.com/",
+      "score": 5.54,
+      "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 48,
-        "comments": 16
+        "score": 25,
+        "comments": 14
+      }
+    },
+    {
+      "title": "Launch HN: Drafted (YC P26) – Models for residential architecture",
+      "url": "https://news.ycombinator.com/item?id=48543908",
+      "score": 5.36,
+      "niche": "ai",
+      "source": "hackernews",
+      "engagement": {
+        "score": 33,
+        "comments": 45
       }
     },
     {
@@ -240,25 +229,14 @@
       "niche": "ai",
       "source": "github",
       "engagement": {
-        "score": 489,
+        "score": 491,
         "comments": 0
       }
     },
     {
-      "title": "pyinfra — agentless infrastructure automation, in plain Python",
-      "url": "https://pyinfra.com",
-      "score": 5.02,
-      "niche": "ai",
-      "source": "lobsters",
-      "engagement": {
-        "score": 44,
-        "comments": 23
-      }
-    },
-    {
-      "title": "Best AI Creativity Tools: Free & Paid Options",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTGdqeElaenNfS1VLSEh2Z1dpZFNDUlhWSjFGZjVkUVBORERrWVp5NC01MTF3a1o4Y3dJNGM4Sk9BMm1zOURvT1BEQm9SR1RkN0h3WmFKQXhNZWw3MnJoMkUzUmZSVFdScDJJVkp2YUZwci1maUg1enJZdXpyVVJMWEp2c2IwcDQ?oc=5",
-      "score": 4.95,
+      "title": "Anthropic Pulls Claude Fable and Mythos AI Models After Feds Claim Jailbreak",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPS0t6Wng3RzNPalVucXJsTWptTnhsNDF0VUI4M3ZjWTVjRUk5eTJNMmZvNE9aMjBRdXV6dWxfWFhVMkFEakhKM3dfTjFWY29VeG4zX3N4SkhhcTUtMnlpeVc4WlVvWmxVZnZyZEE5MHlqVmN1OFVZekRraGJKYUhkUkQtUnlaZVFRTjQ4ODZMa3poMDVVcjBJTXRJLTY2Zw?oc=5",
+      "score": 5.16,
       "niche": "ai",
       "source": "gnews",
       "engagement": {
@@ -267,22 +245,83 @@
       }
     },
     {
+      "title": "pyinfra — agentless infrastructure automation, in plain Python",
+      "url": "https://pyinfra.com",
+      "score": 5.13,
+      "niche": "ai",
+      "source": "lobsters",
+      "engagement": {
+        "score": 50,
+        "comments": 25
+      }
+    },
+    {
       "title": "gykim80/perfectpixel-studio — AI-powered animation sprite studio — generate character sprite sheets with 8 directions and 100+ actions from a single text prompt (Wails + Go + React)",
       "url": "https://github.com/gykim80/perfectpixel-studio",
-      "score": 4.94,
+      "score": 4.95,
       "niche": "ai",
       "source": "github",
       "engagement": {
-        "score": 169,
+        "score": 172,
         "comments": 1
+      }
+    },
+    {
+      "title": "Sponsored: Total Wealth Academy Talks Retirement Fears and Passive Income Strategies",
+      "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxNOHB1TEZkaUoxWXlIUlJvWk9KS2N6MU54dExKVXlPa1V1NGxoTGJIU0tmejdVWmtGV2NabWxheGY2MFhXNm53RXBQZ3BNZy0wMEZpbGdDTlYyMFNsUEVKZzRXV3pFZ0l5M3RVX04tMWwydG1TcUFoOVhKTlEtRzF3Qlk1T2hsX21Oc3liM0dva3pnY2lVYTZDUml3R1g1MVJEMWRNb0dnak1PdHdCZWQwdW9QQ2tsZnF0SlVuUmswUjlxNmEtd0VMT1RlOUdFeHBIYWRUNHFzd0txNkpHREV6NnJGbXRxNE50TWM5RllrRnJHbjgyTkJETF9mMUVkUXozRWxwdTRGMHpKbHZFaE1hNmpPTkotRVNqREhDMFRobzM2WGV2VnlXMXNJTEd6QQ?oc=5",
+      "score": 4.84,
+      "niche": "finance",
+      "source": "gnews",
+      "engagement": {
+        "score": 40,
+        "comments": 0
       }
     }
   ],
   "topics": [
     {
+      "keyword": "passive income",
+      "count": 50,
+      "score": 259.4711180044979,
+      "proper": true,
+      "niches": [
+        "finance",
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "Sponsored: Total Wealth Academy Talks Retirement Fears and Passive Income Strategies",
+          "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxNOHB1TEZkaUoxWXlIUlJvWk9KS2N6MU54dExKVXlPa1V1NGxoTGJIU0tmejdVWmtGV2NabWxheGY2MFhXNm53RXBQZ3BNZy0wMEZpbGdDTlYyMFNsUEVKZzRXV3pFZ0l5M3RVX04tMWwydG1TcUFoOVhKTlEtRzF3Qlk1T2hsX21Oc3liM0dva3pnY2lVYTZDUml3R1g1MVJEMWRNb0dnak1PdHdCZWQwdW9QQ2tsZnF0SlVuUmswUjlxNmEtd0VMT1RlOUdFeHBIYWRUNHFzd0txNkpHREV6NnJGbXRxNE50TWM5RllrRnJHbjgyTkJETF9mMUVkUXozRWxwdTRGMHpKbHZFaE1hNmpPTkotRVNqREhDMFRobzM2WGV2VnlXMXNJTEd6QQ?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "With 135 Dividend Increases (And Counting), This High-Yield Stock Remains a Top Passive Income Investment for the Long-Term",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQU1lQS1YclVsSXo2aEFleEcySmpLYTFQWXZxREtLQmRSbjB3S19hN1U4cVMzODVCUXZXdG9nbHZCTTJmTmdBWW5GWkN0amJvb2UwaXhKU1VIYnlyTUE5TUVjbS1mN0stb1VfdE1fd2FkZEl2QXl0bDYzV1F1aml1Q09SeU1xN1lnMVdEbEt0WFM4Znk4ZTBWbA?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "With 135 Dividend Increases (And Counting), This High-Yield Stock Remains a Top Passive Income Investment for the Long-Term",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQU1lQS1YclVsSXo2aEFleEcySmpLYTFQWXZxREtLQmRSbjB3S19hN1U4cVMzODVCUXZXdG9nbHZCTTJmTmdBWW5GWkN0amJvb2UwaXhKU1VIYnlyTUE5TUVjbS1mN0stb1VfdE1fd2FkZEl2QXl0bDYzV1F1aml1Q09SeU1xN1lnMVdEbEt0WFM4Znk4ZTBWbA?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "3 High-Yield BlackRock ETFs Paying 6%+ in Passive Income",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUEpoZHJWVndHVmFOekVhUFMzXzhST3ZsaXp3Q0k1WEs1eXM2ZFhBZDVjYUptSjAxRFI3Qk8zWFhPN0FPbnZPN3F4SFJIRzVfWl9UOHU4elUwZ3BtbWVZWHJESVhHQUc1VG1YMHlQVkpDdjRRb29zSkNKT2pxZExxX2h6dXd0SGpSS1JYMg?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "3 High-Yield BlackRock ETFs Paying 6%+ in Passive Income",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUEpoZHJWVndHVmFOekVhUFMzXzhST3ZsaXp3Q0k1WEs1eXM2ZFhBZDVjYUptSjAxRFI3Qk8zWFhPN0FPbnZPN3F4SFJIRzVfWl9UOHU4elUwZ3BtbWVZWHJESVhHQUc1VG1YMHlQVkpDdjRRb29zSkNKT2pxZExxX2h6dXd0SGpSS1JYMg?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "cf2dbbbf8c8c",
+      "slug": "passive-income"
+    },
+    {
       "keyword": "claude",
-      "count": 16,
-      "score": 158.59483585431394,
+      "count": 17,
+      "score": 154.94574425323663,
       "proper": true,
       "niches": [
         "ai"
@@ -299,13 +338,13 @@
           "source": "hackernews"
         },
         {
-          "title": "Claude Corps",
-          "url": "https://www.anthropic.com/news/claude-corps",
-          "source": "hackernews"
-        },
-        {
           "title": "fivetaku/fablize — A Claude Code plugin that makes Opus behave like Fable — completion, evidence, and verification enforced as procedure. Ships only what a Fable-vs-Opus comparison proved transferable",
           "url": "https://github.com/fivetaku/fablize",
+          "source": "github"
+        },
+        {
+          "title": "mrtooher/fable-mode — A Claude skill that activates Fable-style agentic behavior: explicit multi-stage planning, sub-agent delegation, and self-verification.",
+          "url": "https://github.com/mrtooher/fable-mode",
           "source": "github"
         },
         {
@@ -320,7 +359,7 @@
     {
       "keyword": "loop engineering",
       "count": 11,
-      "score": 134.03519951436525,
+      "score": 134.46336143862777,
       "proper": true,
       "niches": [
         "ai"
@@ -347,8 +386,8 @@
     },
     {
       "keyword": "claude code",
-      "count": 16,
-      "score": 126.72397965184423,
+      "count": 19,
+      "score": 132.36745260928546,
       "proper": true,
       "niches": [
         "ai"
@@ -373,38 +412,48 @@
           "title": "duolahypercho/fusion-fable — Fuse two frontier models into one Fable-tier answer: Opus 4.8 drafts, a second model (Opus 4.8 or GPT-5.5 via codex) checks, Opus fuses. A Claude Code skill.",
           "url": "https://github.com/duolahypercho/fusion-fable",
           "source": "github"
+        },
+        {
+          "title": "clauster 0.11.0",
+          "url": "https://pypi.org/project/clauster/0.11.0/",
+          "source": "pypi"
         }
       ],
       "id": "a625159d18da",
       "slug": "claude-code"
     },
     {
-      "keyword": "free",
-      "count": 10,
-      "score": 98.08363074717055,
+      "keyword": "billion deal",
+      "count": 11,
+      "score": 110.70148392524266,
       "proper": true,
       "niches": [
         "ai"
       ],
       "examples": [
         {
-          "title": "alchaincyf/loop-engineering-orange-book — 别再问我什么是 Loop Engineering — 橙皮书系列。A plain-language guide to loop engineering (中文 + English PDF). Free.",
-          "url": "https://github.com/alchaincyf/loop-engineering-orange-book",
-          "source": "github"
+          "title": "Salesforce To Acquire AI Agent Maker Fin In $3.6 Billion Deal",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNE9OeEhlRGpBaEZ6WFZOQWhhUG9IcUpYQ1VpSWJ4UkVIRGlxY3hnOEJWbkw1a2NIUUtKOElwcy1fZzM1cnI3SHlYaW1YMXZXY3ZKbVZ3dHRLcEpHeGJkcmlOQWUzakZKYWxXMDA1RThvektBUnd1VDVSUEJwVndDQXZOeWkxUVl1TVZMLVY2dDNpS0xoNmRiQk1GbXFKUS1wTGhwMQ?oc=5",
+          "source": "gnews"
         },
         {
-          "title": "Best AI Creativity Tools: Free & Paid Options",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTGdqeElaenNfS1VLSEh2Z1dpZFNDUlhWSjFGZjVkUVBORERrWVp5NC01MTF3a1o4Y3dJNGM4Sk9BMm1zOURvT1BEQm9SR1RkN0h3WmFKQXhNZWw3MnJoMkUzUmZSVFdScDJJVkp2YUZwci1maUg1enJZdXpyVVJMWEp2c2IwcDQ?oc=5",
+          "title": "Salesforce To Acquire AI Agent Maker Fin In $3.6 Billion Deal",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNE9OeEhlRGpBaEZ6WFZOQWhhUG9IcUpYQ1VpSWJ4UkVIRGlxY3hnOEJWbkw1a2NIUUtKOElwcy1fZzM1cnI3SHlYaW1YMXZXY3ZKbVZ3dHRLcEpHeGJkcmlOQWUzakZKYWxXMDA1RThvektBUnd1VDVSUEJwVndDQXZOeWkxUVl1TVZMLVY2dDNpS0xoNmRiQk1GbXFKUS1wTGhwMQ?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Salesforce To Acquire AI Agent Maker Fin In $3.6 Billion Deal",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNE9OeEhlRGpBaEZ6WFZOQWhhUG9IcUpYQ1VpSWJ4UkVIRGlxY3hnOEJWbkw1a2NIUUtKOElwcy1fZzM1cnI3SHlYaW1YMXZXY3ZKbVZ3dHRLcEpHeGJkcmlOQWUzakZKYWxXMDA1RThvektBUnd1VDVSUEJwVndDQXZOeWkxUVl1TVZMLVY2dDNpS0xoNmRiQk1GbXFKUS1wTGhwMQ?oc=5",
           "source": "gnews"
         }
       ],
-      "id": "ad95d5fa651b",
-      "slug": "free"
+      "id": "c2ebb4cf870a",
+      "slug": "billion-deal"
     },
     {
       "keyword": "english pdf",
       "count": 8,
-      "score": 97.48014510135656,
+      "score": 97.79153559172929,
       "proper": true,
       "niches": [
         "ai"
@@ -426,8 +475,8 @@
     },
     {
       "keyword": "platform",
-      "count": 7,
-      "score": 85.65466217150849,
+      "count": 8,
+      "score": 83.17290730568996,
       "proper": true,
       "niches": [
         "ai"
@@ -447,191 +496,135 @@
           "title": "eli-labz/Third-Eye — A production-grade OSINT platform that provides situational awareness across multiple intelligence domains.",
           "url": "https://github.com/eli-labz/Third-Eye",
           "source": "github"
+        },
+        {
+          "title": "Salesforce to buy AI customer service platform Fin for $3.6 billion to boost agentic offerings",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPVTRrb2RiMVFQTlpSeEZfSllTNEVwNWdWelREREtWSHJ4cEVleTdVMk5DRWJNaE1XQko2U3QxWHh1RmhYVkNyVTVaTmRmcTgtVWNNRzZvXzdfeVB2alFaYkhYOFZHclh0WGJHVG5RN3BJTTctZG40d21lUWRXSm9OLXl3T3R6RVhyRXfSAY8BQVVfeXFMTm9Ob0VYTWdkYThFTUJYdzdPa21FUmJaSXQ1SE5UMDNDMVVQbEVvemg3am9RV0hweGZhYm1ia29CTGZ4ZEpXRnFPbFJIWjZRUWlMa1JkSkpnSFlVbldvTnlxcVlFbjdIVEotYno1Vzh4OFU1ekpGVDJiN21IOGE5dUN4SzVRbHZCVE04eDhES2M?oc=5",
+          "source": "gnews"
         }
       ],
       "id": "d294fcce0cc8",
       "slug": "platform"
     },
     {
-      "keyword": "paid options",
-      "count": 11,
-      "score": 81.74878812940996,
+      "keyword": "income investors",
+      "count": 14,
+      "score": 71.4140691755499,
       "proper": true,
       "niches": [
-        "ai"
+        "finance"
       ],
       "examples": [
         {
-          "title": "Best AI Creativity Tools: Free & Paid Options",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTGdqeElaenNfS1VLSEh2Z1dpZFNDUlhWSjFGZjVkUVBORERrWVp5NC01MTF3a1o4Y3dJNGM4Sk9BMm1zOURvT1BEQm9SR1RkN0h3WmFKQXhNZWw3MnJoMkUzUmZSVFdScDJJVkp2YUZwci1maUg1enJZdXpyVVJMWEp2c2IwcDQ?oc=5",
+          "title": "A Historically Cheap High Yield Dividend Aristocrat That Is a Screaming Buy for Passive Income Investors",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObnM2dS15QmlaWWFKNFA4TlhDak15SjRNck9WQzUzcXR1emFGSnJKTXBnbEZqT3NNZzJ4SWFpYndqVFp6OVBDbFJIckRIM0czdlFwNUFMT3FBc0UzaGNFTXpzSlhzQTJlX3hUbGhfZXQ2bl9PUWZkLXVaWFhtSkxGV1dDVldaMGF0LWxLOVVfRVFkVGZpVVhSMFVFT0QyVGV2Qm1hSVBB?oc=5",
           "source": "gnews"
         },
         {
-          "title": "Best AI Creativity Tools: Free & Paid Options",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTGdqeElaenNfS1VLSEh2Z1dpZFNDUlhWSjFGZjVkUVBORERrWVp5NC01MTF3a1o4Y3dJNGM4Sk9BMm1zOURvT1BEQm9SR1RkN0h3WmFKQXhNZWw3MnJoMkUzUmZSVFdScDJJVkp2YUZwci1maUg1enJZdXpyVVJMWEp2c2IwcDQ?oc=5",
+          "title": "A Historically Cheap High Yield Dividend Aristocrat That Is a Screaming Buy for Passive Income Investors",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObnM2dS15QmlaWWFKNFA4TlhDak15SjRNck9WQzUzcXR1emFGSnJKTXBnbEZqT3NNZzJ4SWFpYndqVFp6OVBDbFJIckRIM0czdlFwNUFMT3FBc0UzaGNFTXpzSlhzQTJlX3hUbGhfZXQ2bl9PUWZkLXVaWFhtSkxGV1dDVldaMGF0LWxLOVVfRVFkVGZpVVhSMFVFT0QyVGV2Qm1hSVBB?oc=5",
           "source": "gnews"
         },
         {
-          "title": "Best AI Creativity Tools: Free & Paid Options",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTGdqeElaenNfS1VLSEh2Z1dpZFNDUlhWSjFGZjVkUVBORERrWVp5NC01MTF3a1o4Y3dJNGM4Sk9BMm1zOURvT1BEQm9SR1RkN0h3WmFKQXhNZWw3MnJoMkUzUmZSVFdScDJJVkp2YUZwci1maUg1enJZdXpyVVJMWEp2c2IwcDQ?oc=5",
+          "title": "3 Stocks With a Yield Over 6% For Passive Income Investors",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWXlPY01PZnN3X2tXWTF6aTBGWGZiVGNfRmo0Zm5mTlk2WFJScVNPWEZnQ2xfZk5xV0o4UE1KUWM1QXJXZ3VGaEVkU003cDRGa2pGd203aV9RRGUyRndSOW9TQUxvWUQzalpRcHpZQ0FTMGI3SEpNdmN3Vmk3T2pjcGhUdzNxVUFXT3VUM0VjMk9GSGJIbzBsUHZualdRY3NBck5F?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "3 Stocks With a Yield Over 6% For Passive Income Investors",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWXlPY01PZnN3X2tXWTF6aTBGWGZiVGNfRmo0Zm5mTlk2WFJScVNPWEZnQ2xfZk5xV0o4UE1KUWM1QXJXZ3VGaEVkU003cDRGa2pGd203aV9RRGUyRndSOW9TQUxvWUQzalpRcHpZQ0FTMGI3SEpNdmN3Vmk3T2pjcGhUdzNxVUFXT3VUM0VjMk9GSGJIbzBsUHZualdRY3NBck5F?oc=5",
           "source": "gnews"
         }
       ],
-      "id": "1bc98141672b",
-      "slug": "paid-options"
+      "id": "f6a85ada5fff",
+      "slug": "income-investors"
     },
     {
-      "keyword": "tools business",
-      "count": 18,
-      "score": 78.96189762499826,
-      "proper": false,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "16 Best AI Tools for Business in 2026: Tested & Ranked",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAwQnBYNFM3cXk2eUZVZWZHYjBJZ01wbHJOMkpiNXExelhCZUc4US1OX0tnaWdyTnNCZkp6bGEwN0FOMDBiUzh6a29Wd2pmUk9pNWdRdXdXNG9HZVpo?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "16 Best AI Tools for Business in 2026: Tested & Ranked",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAwQnBYNFM3cXk2eUZVZWZHYjBJZ01wbHJOMkpiNXExelhCZUc4US1OX0tnaWdyTnNCZkp6bGEwN0FOMDBiUzh6a29Wd2pmUk9pNWdRdXdXNG9HZVpo?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "The best AI tools for small business are the ones tied to workflow: These nine AI tools save small businesses the most time in 2026",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcFptaUxVY3ZGanY1TUhuQzNiZmRqenl3WHlSUDdHb1pDOHk5NFBESUxxVDJXZTdxWnYyN1k1d2lTYkhGaTFxUmJWV0RUMkF3X2xjT0tGV2E3ZDFxcHd6eDZ1TnJXeGVGMVdLU2pPUkhVaVZVdXc2aGRNT19LZVRmWUNSaGwtSHlMbEFLcnVMczNpSERQd2xBVl9n?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "The best AI tools for small business are the ones tied to workflow: These nine AI tools save small businesses the most time in 2026",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcFptaUxVY3ZGanY1TUhuQzNiZmRqenl3WHlSUDdHb1pDOHk5NFBESUxxVDJXZTdxWnYyN1k1d2lTYkhGaTFxUmJWV0RUMkF3X2xjT0tGV2E3ZDFxcHd6eDZ1TnJXeGVGMVdLU2pPUkhVaVZVdXc2aGRNT19LZVRmWUNSaGwtSHlMbEFLcnVMczNpSERQd2xBVl9n?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "AI Tools for Business Development That Save 10+ Hours a Week",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBsVE1nY2NhWW9VRHJWOE9yNExUT04xMkhqbmRxM1JaQXJQdmhpbWhxcUM3eU0xMnF0TG9BTW9RbUFxQTRzS0pLbmVGZFk3SFNLb2YzVUl6VUFwNFFmV2czdHRRSVRFRzhDU0VOM3ROTnZ1eGZLMmJVTnlTbw?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "06e8eb9e4ab5",
-      "slug": "tools-business"
-    },
-    {
-      "keyword": "claude corps",
-      "count": 8,
-      "score": 71.32156786296072,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "Claude Corps",
-          "url": "https://www.anthropic.com/news/claude-corps",
-          "source": "hackernews"
-        },
-        {
-          "title": "Claude Corps",
-          "url": "https://www.anthropic.com/news/claude-corps",
-          "source": "hackernews"
-        }
-      ],
-      "id": "1cfac325a10f",
-      "slug": "claude-corps"
-    },
-    {
-      "keyword": "happy",
-      "count": 5,
-      "score": 66.38745309933627,
+      "keyword": "apple",
+      "count": 10,
+      "score": 68.43798990471436,
       "proper": true,
       "niches": [
         "software"
       ],
       "examples": [
         {
-          "title": "Happy #GlobalWindDay! Just a reminder that no country was ever invaded to steal their wind reserves.It's time to switch to renewables.",
-          "url": "https://mastodon.social/@greenpeace/116754436990310596",
+          "title": "Amazon Prime Day early tech deals: Save up to 44% on gadgets from Apple, Anker, Sony and others",
+          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNUDVtcmswemxnVmpEdXpiRXNsc2RELUFWT2NmZlFfRWJqSVZCRi1fb0tuc3FDVnIyRnJyc05JYTVGMzEtZlVCckJxQ2tkdG53WFBRRTRWdWhZTUNLd0ZiTTE4US1nazV5VjZzQU14SFNqVVdNM0RULXRGODNOeDk3YkRsN083MEgtQlp4RnhkYTE3bE9UVkZObUNKNTZaY0h2aTlTUjMwS2dpZjlOYk9WOGxoNXUtVTF4TlNmUm9Ha213Qk0xNDY4VDQ0QkE5dWN1SnlXbV9xcVJSVE5VRUpYMENvTnpTQnRmLV93OE5n?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "privatenumber/mac-ocr — macOS CLI for OCR and searchable PDFs using Apple's Vision framework.",
+          "url": "https://github.com/privatenumber/mac-ocr",
+          "source": "github"
+        }
+      ],
+      "id": "3a7bd3e2360a",
+      "slug": "apple"
+    },
+    {
+      "keyword": "dividend increases",
+      "count": 11,
+      "score": 66.42089035514559,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "With 135 Dividend Increases (And Counting), This High-Yield Stock Remains a Top Passive Income Investment for the Long-Term",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQU1lQS1YclVsSXo2aEFleEcySmpLYTFQWXZxREtLQmRSbjB3S19hN1U4cVMzODVCUXZXdG9nbHZCTTJmTmdBWW5GWkN0amJvb2UwaXhKU1VIYnlyTUE5TUVjbS1mN0stb1VfdE1fd2FkZEl2QXl0bDYzV1F1aml1Q09SeU1xN1lnMVdEbEt0WFM4Znk4ZTBWbA?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "With 135 Dividend Increases (And Counting), This High-Yield Stock Remains a Top Passive Income Investment for the Long-Term",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQU1lQS1YclVsSXo2aEFleEcySmpLYTFQWXZxREtLQmRSbjB3S19hN1U4cVMzODVCUXZXdG9nbHZCTTJmTmdBWW5GWkN0amJvb2UwaXhKU1VIYnlyTUE5TUVjbS1mN0stb1VfdE1fd2FkZEl2QXl0bDYzV1F1aml1Q09SeU1xN1lnMVdEbEt0WFM4Znk4ZTBWbA?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "With 135 Dividend Increases (And Counting), This High-Yield Stock Remains a Top Passive Income Investment for the Long-Term",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQU1lQS1YclVsSXo2aEFleEcySmpLYTFQWXZxREtLQmRSbjB3S19hN1U4cVMzODVCUXZXdG9nbHZCTTJmTmdBWW5GWkN0amJvb2UwaXhKU1VIYnlyTUE5TUVjbS1mN0stb1VfdE1fd2FkZEl2QXl0bDYzV1F1aml1Q09SeU1xN1lnMVdEbEt0WFM4Znk4ZTBWbA?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "464c8db6781a",
+      "slug": "dividend-increases"
+    },
+    {
+      "keyword": "free",
+      "count": 5,
+      "score": 61.1197097448308,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "alchaincyf/loop-engineering-orange-book — 别再问我什么是 Loop Engineering — 橙皮书系列。A plain-language guide to loop engineering (中文 + English PDF). Free.",
+          "url": "https://github.com/alchaincyf/loop-engineering-orange-book",
+          "source": "github"
+        }
+      ],
+      "id": "ad95d5fa651b",
+      "slug": "free"
+    },
+    {
+      "keyword": "ai tribunal",
+      "count": 5,
+      "score": 59.02541970622154,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "Oh my Bob, this is utterly unhinged. Peter #Theil and Aron #DSouza have teamed up to create an “AI Tribunal” for the #EpsteinClass to whitewash any negative reporting, by “suing the reporter” in a mad",
+          "url": "https://mefi.social/@MissConstrue/116755759876467474",
           "source": "mastodon"
         }
       ],
-      "id": "489f719cadf9",
-      "slug": "happy"
-    },
-    {
-      "keyword": "apple foundation models",
-      "count": 5,
-      "score": 64.38367283427232,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "Apple Foundation Models",
-          "url": "https://platform.claude.com/docs/en/cli-sdks-libraries/libraries/apple-foundation-models",
-          "source": "hackernews"
-        }
-      ],
-      "id": "55f921d339fa",
-      "slug": "apple-foundation-models"
-    },
-    {
-      "keyword": "my homelab ai dev",
-      "count": 5,
-      "score": 63.68689064640468,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "My Homelab AI Dev Platform",
-          "url": "https://rsgm.dev/post/ai-dev-platform/",
-          "source": "hackernews"
-        }
-      ],
-      "id": "fac908fd03ff",
-      "slug": "my-homelab-ai-dev"
-    },
-    {
-      "keyword": "_blank tools",
-      "count": 15,
-      "score": 60.53745484583199,
-      "proper": false,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "16 Best AI Tools for Business in 2026: Tested & Ranked",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAwQnBYNFM3cXk2eUZVZWZHYjBJZ01wbHJOMkpiNXExelhCZUc4US1OX0tnaWdyTnNCZkp6bGEwN0FOMDBiUzh6a29Wd2pmUk9pNWdRdXdXNG9HZVpo?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "The best AI tools for small business are the ones tied to workflow: These nine AI tools save small businesses the most time in 2026",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcFptaUxVY3ZGanY1TUhuQzNiZmRqenl3WHlSUDdHb1pDOHk5NFBESUxxVDJXZTdxWnYyN1k1d2lTYkhGaTFxUmJWV0RUMkF3X2xjT0tGV2E3ZDFxcHd6eDZ1TnJXeGVGMVdLU2pPUkhVaVZVdXc2aGRNT19LZVRmWUNSaGwtSHlMbEFLcnVMczNpSERQd2xBVl9n?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "7 AI Tools That Build a One-Person Business in a Weekend — No Staff. No Code. No Stress.",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbjF1UDl3ajJEOGRUODR4XzlEYjVrUjQwS1NydjJEZkxZLS1iX2JWZmhQVzFWcThUWFA1Q2wwN2ltS3NDMjdOeUZPU3p1VU1Rd0RPS1I1RC1oYzJGRkt0WjVqUFYyV0RRZERTS0Y4QTVlUWJBRDVPMG5lVy14TVBPcVFMR0tHd0xrT2wtV0RxeG9UczRKU2oyek5YaTV2akZ6TkxucWdFYjRjd0hwbHhIbw?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "10 Best AI Tools for Grant Writing in 2026",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNU1RCVnd6QVc1aEV6QVZtX3Fqc21yYjRqM19hUmFtek1wNmdfZXdpV1Z0bE5KNlY0c3R1WUNuUEZoVlZPZlU4ODBBUENTRkM5ZEY2X2NoVFRQZFJaQ2Y0MllsclkxZ1M3SVNPTXVKeGdWb3BiN1NNNk9FR3FoQ3dWMU1xMV9lRUxnNXpZUEZ1RjZsRUxKRXVB?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "AI Tools for Business Development That Save 10+ Hours a Week",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBsVE1nY2NhWW9VRHJWOE9yNExUT04xMkhqbmRxM1JaQXJQdmhpbWhxcUM3eU0xMnF0TG9BTW9RbUFxQTRzS0pLbmVGZFk3SFNLb2YzVUl6VUFwNFFmV2czdHRRSVRFRzhDU0VOM3ROTnZ1eGZLMmJVTnlTbw?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "137a9254134d",
-      "slug": "_blank-tools"
+      "id": "14f5abe9f958",
+      "slug": "ai-tribunal"
     },
     {
       "keyword": "affordability crisis",
@@ -662,34 +655,105 @@
       "slug": "affordability-crisis"
     },
     {
-      "keyword": "setup installer",
-      "count": 8,
-      "score": 54.299883647478936,
-      "proper": true,
+      "keyword": "fin billion",
+      "count": 9,
+      "score": 58.215046092155575,
+      "proper": false,
       "niches": [
-        "gear"
+        "ai"
       ],
       "examples": [
         {
-          "title": "SGmetro/Lossless-Scaling-Latest-Github-PC-3 — ⭐️ Lossless Scaling Desktop 2026 | Setup Installer v1.0 | Patch Activator Keygen | License Key Pre-Activated | Full Version Latest Build Pro | Optimize Re",
-          "url": "https://github.com/SGmetro/Lossless-Scaling-Latest-Github-PC-3",
-          "source": "github"
+          "title": "Salesforce To Acquire AI Agent Maker Fin In $3.6 Billion Deal",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNE9OeEhlRGpBaEZ6WFZOQWhhUG9IcUpYQ1VpSWJ4UkVIRGlxY3hnOEJWbkw1a2NIUUtKOElwcy1fZzM1cnI3SHlYaW1YMXZXY3ZKbVZ3dHRLcEpHeGJkcmlOQWUzakZKYWxXMDA1RThvektBUnd1VDVSUEJwVndDQXZOeWkxUVl1TVZMLVY2dDNpS0xoNmRiQk1GbXFKUS1wTGhwMQ?oc=5",
+          "source": "gnews"
         },
         {
-          "title": "SGmetro/Lossless-Scaling-Latest-Github-PC-3 — ⭐️ Lossless Scaling Desktop 2026 | Setup Installer v1.0 | Patch Activator Keygen | License Key Pre-Activated | Full Version Latest Build Pro | Optimize Re",
-          "url": "https://github.com/SGmetro/Lossless-Scaling-Latest-Github-PC-3",
-          "source": "github"
+          "title": "Salesforce To Acquire AI Agent Maker Fin In $3.6 Billion Deal",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNE9OeEhlRGpBaEZ6WFZOQWhhUG9IcUpYQ1VpSWJ4UkVIRGlxY3hnOEJWbkw1a2NIUUtKOElwcy1fZzM1cnI3SHlYaW1YMXZXY3ZKbVZ3dHRLcEpHeGJkcmlOQWUzakZKYWxXMDA1RThvektBUnd1VDVSUEJwVndDQXZOeWkxUVl1TVZMLVY2dDNpS0xoNmRiQk1GbXFKUS1wTGhwMQ?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Salesforce to buy AI customer service platform Fin for $3.6 billion to boost agentic offerings",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPVTRrb2RiMVFQTlpSeEZfSllTNEVwNWdWelREREtWSHJ4cEVleTdVMk5DRWJNaE1XQko2U3QxWHh1RmhYVkNyVTVaTmRmcTgtVWNNRzZvXzdfeVB2alFaYkhYOFZHclh0WGJHVG5RN3BJTTctZG40d21lUWRXSm9OLXl3T3R6RVhyRXfSAY8BQVVfeXFMTm9Ob0VYTWdkYThFTUJYdzdPa21FUmJaSXQ1SE5UMDNDMVVQbEVvemg3am9RV0hweGZhYm1ia29CTGZ4ZEpXRnFPbFJIWjZRUWlMa1JkSkpnSFlVbldvTnlxcVlFbjdIVEotYno1Vzh4OFU1ekpGVDJiN21IOGE5dUN4SzVRbHZCVE04eDhES2M?oc=5",
+          "source": "gnews"
         }
       ],
-      "id": "f1150bad4c40",
-      "slug": "setup-installer"
+      "id": "3e8798cbf340",
+      "slug": "fin-billion"
+    },
+    {
+      "keyword": "income strategies",
+      "count": 8,
+      "score": 58.060218841910476,
+      "proper": true,
+      "niches": [
+        "finance"
+      ],
+      "examples": [
+        {
+          "title": "Sponsored: Total Wealth Academy Talks Retirement Fears and Passive Income Strategies",
+          "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxNOHB1TEZkaUoxWXlIUlJvWk9KS2N6MU54dExKVXlPa1V1NGxoTGJIU0tmejdVWmtGV2NabWxheGY2MFhXNm53RXBQZ3BNZy0wMEZpbGdDTlYyMFNsUEVKZzRXV3pFZ0l5M3RVX04tMWwydG1TcUFoOVhKTlEtRzF3Qlk1T2hsX21Oc3liM0dva3pnY2lVYTZDUml3R1g1MVJEMWRNb0dnak1PdHdCZWQwdW9QQ2tsZnF0SlVuUmswUjlxNmEtd0VMT1RlOUdFeHBIYWRUNHFzd0txNkpHREV6NnJGbXRxNE50TWM5RllrRnJHbjgyTkJETF9mMUVkUXozRWxwdTRGMHpKbHZFaE1hNmpPTkotRVNqREhDMFRobzM2WGV2VnlXMXNJTEd6QQ?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Sponsored: Total Wealth Academy Talks Retirement Fears and Passive Income Strategies",
+          "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxNOHB1TEZkaUoxWXlIUlJvWk9KS2N6MU54dExKVXlPa1V1NGxoTGJIU0tmejdVWmtGV2NabWxheGY2MFhXNm53RXBQZ3BNZy0wMEZpbGdDTlYyMFNsUEVKZzRXV3pFZ0l5M3RVX04tMWwydG1TcUFoOVhKTlEtRzF3Qlk1T2hsX21Oc3liM0dva3pnY2lVYTZDUml3R1g1MVJEMWRNb0dnak1PdHdCZWQwdW9QQ2tsZnF0SlVuUmswUjlxNmEtd0VMT1RlOUdFeHBIYWRUNHFzd0txNkpHREV6NnJGbXRxNE50TWM5RllrRnJHbjgyTkJETF9mMUVkUXozRWxwdTRGMHpKbHZFaE1hNmpPTkotRVNqREhDMFRobzM2WGV2VnlXMXNJTEd6QQ?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "e12cd9efe204",
+      "slug": "income-strategies"
     }
   ],
   "opportunities": [
     {
+      "keyword": "passive income",
+      "count": 50,
+      "score": 259.4711180044979,
+      "proper": true,
+      "niches": [
+        "finance",
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "Sponsored: Total Wealth Academy Talks Retirement Fears and Passive Income Strategies",
+          "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxNOHB1TEZkaUoxWXlIUlJvWk9KS2N6MU54dExKVXlPa1V1NGxoTGJIU0tmejdVWmtGV2NabWxheGY2MFhXNm53RXBQZ3BNZy0wMEZpbGdDTlYyMFNsUEVKZzRXV3pFZ0l5M3RVX04tMWwydG1TcUFoOVhKTlEtRzF3Qlk1T2hsX21Oc3liM0dva3pnY2lVYTZDUml3R1g1MVJEMWRNb0dnak1PdHdCZWQwdW9QQ2tsZnF0SlVuUmswUjlxNmEtd0VMT1RlOUdFeHBIYWRUNHFzd0txNkpHREV6NnJGbXRxNE50TWM5RllrRnJHbjgyTkJETF9mMUVkUXozRWxwdTRGMHpKbHZFaE1hNmpPTkotRVNqREhDMFRobzM2WGV2VnlXMXNJTEd6QQ?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "With 135 Dividend Increases (And Counting), This High-Yield Stock Remains a Top Passive Income Investment for the Long-Term",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQU1lQS1YclVsSXo2aEFleEcySmpLYTFQWXZxREtLQmRSbjB3S19hN1U4cVMzODVCUXZXdG9nbHZCTTJmTmdBWW5GWkN0amJvb2UwaXhKU1VIYnlyTUE5TUVjbS1mN0stb1VfdE1fd2FkZEl2QXl0bDYzV1F1aml1Q09SeU1xN1lnMVdEbEt0WFM4Znk4ZTBWbA?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "With 135 Dividend Increases (And Counting), This High-Yield Stock Remains a Top Passive Income Investment for the Long-Term",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQU1lQS1YclVsSXo2aEFleEcySmpLYTFQWXZxREtLQmRSbjB3S19hN1U4cVMzODVCUXZXdG9nbHZCTTJmTmdBWW5GWkN0amJvb2UwaXhKU1VIYnlyTUE5TUVjbS1mN0stb1VfdE1fd2FkZEl2QXl0bDYzV1F1aml1Q09SeU1xN1lnMVdEbEt0WFM4Znk4ZTBWbA?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "3 High-Yield BlackRock ETFs Paying 6%+ in Passive Income",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUEpoZHJWVndHVmFOekVhUFMzXzhST3ZsaXp3Q0k1WEs1eXM2ZFhBZDVjYUptSjAxRFI3Qk8zWFhPN0FPbnZPN3F4SFJIRzVfWl9UOHU4elUwZ3BtbWVZWHJESVhHQUc1VG1YMHlQVkpDdjRRb29zSkNKT2pxZExxX2h6dXd0SGpSS1JYMg?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "3 High-Yield BlackRock ETFs Paying 6%+ in Passive Income",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUEpoZHJWVndHVmFOekVhUFMzXzhST3ZsaXp3Q0k1WEs1eXM2ZFhBZDVjYUptSjAxRFI3Qk8zWFhPN0FPbnZPN3F4SFJIRzVfWl9UOHU4elUwZ3BtbWVZWHJESVhHQUc1VG1YMHlQVkpDdjRRb29zSkNKT2pxZExxX2h6dXd0SGpSS1JYMg?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "cf2dbbbf8c8c",
+      "slug": "passive-income",
+      "opportunity": {
+        "type": "niche-content",
+        "recommended": "Publish niche guide for \"finance\"; bundle into digital product later."
+      }
+    },
+    {
       "keyword": "claude",
-      "count": 16,
-      "score": 158.59483585431394,
+      "count": 17,
+      "score": 154.94574425323663,
       "proper": true,
       "niches": [
         "ai"
@@ -706,13 +770,13 @@
           "source": "hackernews"
         },
         {
-          "title": "Claude Corps",
-          "url": "https://www.anthropic.com/news/claude-corps",
-          "source": "hackernews"
-        },
-        {
           "title": "fivetaku/fablize — A Claude Code plugin that makes Opus behave like Fable — completion, evidence, and verification enforced as procedure. Ships only what a Fable-vs-Opus comparison proved transferable",
           "url": "https://github.com/fivetaku/fablize",
+          "source": "github"
+        },
+        {
+          "title": "mrtooher/fable-mode — A Claude skill that activates Fable-style agentic behavior: explicit multi-stage planning, sub-agent delegation, and self-verification.",
+          "url": "https://github.com/mrtooher/fable-mode",
           "source": "github"
         },
         {
@@ -731,7 +795,7 @@
     {
       "keyword": "loop engineering",
       "count": 11,
-      "score": 134.03519951436525,
+      "score": 134.46336143862777,
       "proper": true,
       "niches": [
         "ai"
@@ -762,8 +826,8 @@
     },
     {
       "keyword": "claude code",
-      "count": 16,
-      "score": 126.72397965184423,
+      "count": 19,
+      "score": 132.36745260928546,
       "proper": true,
       "niches": [
         "ai"
@@ -788,6 +852,11 @@
           "title": "duolahypercho/fusion-fable — Fuse two frontier models into one Fable-tier answer: Opus 4.8 drafts, a second model (Opus 4.8 or GPT-5.5 via codex) checks, Opus fuses. A Claude Code skill.",
           "url": "https://github.com/duolahypercho/fusion-fable",
           "source": "github"
+        },
+        {
+          "title": "clauster 0.11.0",
+          "url": "https://pypi.org/project/clauster/0.11.0/",
+          "source": "pypi"
         }
       ],
       "id": "a625159d18da",
@@ -798,27 +867,32 @@
       }
     },
     {
-      "keyword": "free",
-      "count": 10,
-      "score": 98.08363074717055,
+      "keyword": "billion deal",
+      "count": 11,
+      "score": 110.70148392524266,
       "proper": true,
       "niches": [
         "ai"
       ],
       "examples": [
         {
-          "title": "alchaincyf/loop-engineering-orange-book — 别再问我什么是 Loop Engineering — 橙皮书系列。A plain-language guide to loop engineering (中文 + English PDF). Free.",
-          "url": "https://github.com/alchaincyf/loop-engineering-orange-book",
-          "source": "github"
+          "title": "Salesforce To Acquire AI Agent Maker Fin In $3.6 Billion Deal",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNE9OeEhlRGpBaEZ6WFZOQWhhUG9IcUpYQ1VpSWJ4UkVIRGlxY3hnOEJWbkw1a2NIUUtKOElwcy1fZzM1cnI3SHlYaW1YMXZXY3ZKbVZ3dHRLcEpHeGJkcmlOQWUzakZKYWxXMDA1RThvektBUnd1VDVSUEJwVndDQXZOeWkxUVl1TVZMLVY2dDNpS0xoNmRiQk1GbXFKUS1wTGhwMQ?oc=5",
+          "source": "gnews"
         },
         {
-          "title": "Best AI Creativity Tools: Free & Paid Options",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTGdqeElaenNfS1VLSEh2Z1dpZFNDUlhWSjFGZjVkUVBORERrWVp5NC01MTF3a1o4Y3dJNGM4Sk9BMm1zOURvT1BEQm9SR1RkN0h3WmFKQXhNZWw3MnJoMkUzUmZSVFdScDJJVkp2YUZwci1maUg1enJZdXpyVVJMWEp2c2IwcDQ?oc=5",
+          "title": "Salesforce To Acquire AI Agent Maker Fin In $3.6 Billion Deal",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNE9OeEhlRGpBaEZ6WFZOQWhhUG9IcUpYQ1VpSWJ4UkVIRGlxY3hnOEJWbkw1a2NIUUtKOElwcy1fZzM1cnI3SHlYaW1YMXZXY3ZKbVZ3dHRLcEpHeGJkcmlOQWUzakZKYWxXMDA1RThvektBUnd1VDVSUEJwVndDQXZOeWkxUVl1TVZMLVY2dDNpS0xoNmRiQk1GbXFKUS1wTGhwMQ?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Salesforce To Acquire AI Agent Maker Fin In $3.6 Billion Deal",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNE9OeEhlRGpBaEZ6WFZOQWhhUG9IcUpYQ1VpSWJ4UkVIRGlxY3hnOEJWbkw1a2NIUUtKOElwcy1fZzM1cnI3SHlYaW1YMXZXY3ZKbVZ3dHRLcEpHeGJkcmlOQWUzakZKYWxXMDA1RThvektBUnd1VDVSUEJwVndDQXZOeWkxUVl1TVZMLVY2dDNpS0xoNmRiQk1GbXFKUS1wTGhwMQ?oc=5",
           "source": "gnews"
         }
       ],
-      "id": "ad95d5fa651b",
-      "slug": "free",
+      "id": "c2ebb4cf870a",
+      "slug": "billion-deal",
       "opportunity": {
         "type": "affiliate",
         "recommended": "Write SEO comparison/roundup article with affiliate links."
@@ -827,7 +901,7 @@
     {
       "keyword": "english pdf",
       "count": 8,
-      "score": 97.48014510135656,
+      "score": 97.79153559172929,
       "proper": true,
       "niches": [
         "ai"
@@ -853,8 +927,8 @@
     },
     {
       "keyword": "platform",
-      "count": 7,
-      "score": 85.65466217150849,
+      "count": 8,
+      "score": 83.17290730568996,
       "proper": true,
       "niches": [
         "ai"
@@ -874,6 +948,11 @@
           "title": "eli-labz/Third-Eye — A production-grade OSINT platform that provides situational awareness across multiple intelligence domains.",
           "url": "https://github.com/eli-labz/Third-Eye",
           "source": "github"
+        },
+        {
+          "title": "Salesforce to buy AI customer service platform Fin for $3.6 billion to boost agentic offerings",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPVTRrb2RiMVFQTlpSeEZfSllTNEVwNWdWelREREtWSHJ4cEVleTdVMk5DRWJNaE1XQko2U3QxWHh1RmhYVkNyVTVaTmRmcTgtVWNNRzZvXzdfeVB2alFaYkhYOFZHclh0WGJHVG5RN3BJTTctZG40d21lUWRXSm9OLXl3T3R6RVhyRXfSAY8BQVVfeXFMTm9Ob0VYTWdkYThFTUJYdzdPa21FUmJaSXQ1SE5UMDNDMVVQbEVvemg3am9RV0hweGZhYm1ia29CTGZ4ZEpXRnFPbFJIWjZRUWlMa1JkSkpnSFlVbldvTnlxcVlFbjdIVEotYno1Vzh4OFU1ekpGVDJiN21IOGE5dUN4SzVRbHZCVE04eDhES2M?oc=5",
+          "source": "gnews"
         }
       ],
       "id": "d294fcce0cc8",
@@ -884,77 +963,40 @@
       }
     },
     {
-      "keyword": "paid options",
-      "count": 11,
-      "score": 81.74878812940996,
+      "keyword": "income investors",
+      "count": 14,
+      "score": 71.4140691755499,
       "proper": true,
       "niches": [
-        "ai"
+        "finance"
       ],
       "examples": [
         {
-          "title": "Best AI Creativity Tools: Free & Paid Options",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTGdqeElaenNfS1VLSEh2Z1dpZFNDUlhWSjFGZjVkUVBORERrWVp5NC01MTF3a1o4Y3dJNGM4Sk9BMm1zOURvT1BEQm9SR1RkN0h3WmFKQXhNZWw3MnJoMkUzUmZSVFdScDJJVkp2YUZwci1maUg1enJZdXpyVVJMWEp2c2IwcDQ?oc=5",
+          "title": "A Historically Cheap High Yield Dividend Aristocrat That Is a Screaming Buy for Passive Income Investors",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObnM2dS15QmlaWWFKNFA4TlhDak15SjRNck9WQzUzcXR1emFGSnJKTXBnbEZqT3NNZzJ4SWFpYndqVFp6OVBDbFJIckRIM0czdlFwNUFMT3FBc0UzaGNFTXpzSlhzQTJlX3hUbGhfZXQ2bl9PUWZkLXVaWFhtSkxGV1dDVldaMGF0LWxLOVVfRVFkVGZpVVhSMFVFT0QyVGV2Qm1hSVBB?oc=5",
           "source": "gnews"
         },
         {
-          "title": "Best AI Creativity Tools: Free & Paid Options",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTGdqeElaenNfS1VLSEh2Z1dpZFNDUlhWSjFGZjVkUVBORERrWVp5NC01MTF3a1o4Y3dJNGM4Sk9BMm1zOURvT1BEQm9SR1RkN0h3WmFKQXhNZWw3MnJoMkUzUmZSVFdScDJJVkp2YUZwci1maUg1enJZdXpyVVJMWEp2c2IwcDQ?oc=5",
+          "title": "A Historically Cheap High Yield Dividend Aristocrat That Is a Screaming Buy for Passive Income Investors",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObnM2dS15QmlaWWFKNFA4TlhDak15SjRNck9WQzUzcXR1emFGSnJKTXBnbEZqT3NNZzJ4SWFpYndqVFp6OVBDbFJIckRIM0czdlFwNUFMT3FBc0UzaGNFTXpzSlhzQTJlX3hUbGhfZXQ2bl9PUWZkLXVaWFhtSkxGV1dDVldaMGF0LWxLOVVfRVFkVGZpVVhSMFVFT0QyVGV2Qm1hSVBB?oc=5",
           "source": "gnews"
         },
         {
-          "title": "Best AI Creativity Tools: Free & Paid Options",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTGdqeElaenNfS1VLSEh2Z1dpZFNDUlhWSjFGZjVkUVBORERrWVp5NC01MTF3a1o4Y3dJNGM4Sk9BMm1zOURvT1BEQm9SR1RkN0h3WmFKQXhNZWw3MnJoMkUzUmZSVFdScDJJVkp2YUZwci1maUg1enJZdXpyVVJMWEp2c2IwcDQ?oc=5",
+          "title": "3 Stocks With a Yield Over 6% For Passive Income Investors",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWXlPY01PZnN3X2tXWTF6aTBGWGZiVGNfRmo0Zm5mTlk2WFJScVNPWEZnQ2xfZk5xV0o4UE1KUWM1QXJXZ3VGaEVkU003cDRGa2pGd203aV9RRGUyRndSOW9TQUxvWUQzalpRcHpZQ0FTMGI3SEpNdmN3Vmk3T2pjcGhUdzNxVUFXT3VUM0VjMk9GSGJIbzBsUHZualdRY3NBck5F?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "3 Stocks With a Yield Over 6% For Passive Income Investors",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWXlPY01PZnN3X2tXWTF6aTBGWGZiVGNfRmo0Zm5mTlk2WFJScVNPWEZnQ2xfZk5xV0o4UE1KUWM1QXJXZ3VGaEVkU003cDRGa2pGd203aV9RRGUyRndSOW9TQUxvWUQzalpRcHpZQ0FTMGI3SEpNdmN3Vmk3T2pjcGhUdzNxVUFXT3VUM0VjMk9GSGJIbzBsUHZualdRY3NBck5F?oc=5",
           "source": "gnews"
         }
       ],
-      "id": "1bc98141672b",
-      "slug": "paid-options",
+      "id": "f6a85ada5fff",
+      "slug": "income-investors",
       "opportunity": {
-        "type": "tooling",
-        "recommended": "Build / list AI tools; monetize via affiliate links + lead magnet."
-      }
-    },
-    {
-      "keyword": "tools business",
-      "count": 18,
-      "score": 78.96189762499826,
-      "proper": false,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "16 Best AI Tools for Business in 2026: Tested & Ranked",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAwQnBYNFM3cXk2eUZVZWZHYjBJZ01wbHJOMkpiNXExelhCZUc4US1OX0tnaWdyTnNCZkp6bGEwN0FOMDBiUzh6a29Wd2pmUk9pNWdRdXdXNG9HZVpo?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "16 Best AI Tools for Business in 2026: Tested & Ranked",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAwQnBYNFM3cXk2eUZVZWZHYjBJZ01wbHJOMkpiNXExelhCZUc4US1OX0tnaWdyTnNCZkp6bGEwN0FOMDBiUzh6a29Wd2pmUk9pNWdRdXdXNG9HZVpo?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "The best AI tools for small business are the ones tied to workflow: These nine AI tools save small businesses the most time in 2026",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcFptaUxVY3ZGanY1TUhuQzNiZmRqenl3WHlSUDdHb1pDOHk5NFBESUxxVDJXZTdxWnYyN1k1d2lTYkhGaTFxUmJWV0RUMkF3X2xjT0tGV2E3ZDFxcHd6eDZ1TnJXeGVGMVdLU2pPUkhVaVZVdXc2aGRNT19LZVRmWUNSaGwtSHlMbEFLcnVMczNpSERQd2xBVl9n?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "The best AI tools for small business are the ones tied to workflow: These nine AI tools save small businesses the most time in 2026",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcFptaUxVY3ZGanY1TUhuQzNiZmRqenl3WHlSUDdHb1pDOHk5NFBESUxxVDJXZTdxWnYyN1k1d2lTYkhGaTFxUmJWV0RUMkF3X2xjT0tGV2E3ZDFxcHd6eDZ1TnJXeGVGMVdLU2pPUkhVaVZVdXc2aGRNT19LZVRmWUNSaGwtSHlMbEFLcnVMczNpSERQd2xBVl9n?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "AI Tools for Business Development That Save 10+ Hours a Week",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBsVE1nY2NhWW9VRHJWOE9yNExUT04xMkhqbmRxM1JaQXJQdmhpbWhxcUM3eU0xMnF0TG9BTW9RbUFxQTRzS0pLbmVGZFk3SFNLb2YzVUl6VUFwNFFmV2czdHRRSVRFRzhDU0VOM3ROTnZ1eGZLMmJVTnlTbw?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "06e8eb9e4ab5",
-      "slug": "tools-business",
-      "opportunity": {
-        "type": "affiliate",
-        "recommended": "Write SEO comparison/roundup article with affiliate links."
+        "type": "niche-content",
+        "recommended": "Publish niche guide for \"finance\"; bundle into digital product later."
       }
     }
   ]
