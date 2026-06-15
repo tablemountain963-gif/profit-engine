@@ -624,38 +624,6 @@
       "losses": 0,
       "niche": "ai"
     },
-    "laptop-cosplaying": {
-      "firstSeen": "2026-06-01T18:37:10.837Z",
-      "lastSeen": "2026-06-01T18:37:10.837Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "ai"
-    },
-    "wallpaper-eng": {
-      "firstSeen": "2026-06-01T18:37:16.847Z",
-      "lastSeen": "2026-06-01T18:37:16.847Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "software"
-    },
-    "software-advantage": {
-      "firstSeen": "2026-06-01T18:37:58.077Z",
-      "lastSeen": "2026-06-01T18:37:58.077Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "ai"
-    },
-    "competitive-play": {
-      "firstSeen": "2026-06-01T18:38:18.470Z",
-      "lastSeen": "2026-06-01T18:38:18.470Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "finance"
-    },
     "sam-altman": {
       "firstSeen": "2026-06-01T20:10:24.394Z",
       "lastSeen": "2026-06-01T22:54:36.170Z",
@@ -1018,8 +986,8 @@
     },
     "affordability-crisis": {
       "firstSeen": "2026-06-03T17:59:29.318Z",
-      "lastSeen": "2026-06-08T18:19:33.971Z",
-      "count": 2,
+      "lastSeen": "2026-06-15T19:38:06.566Z",
+      "count": 3,
       "wins": 0,
       "losses": 0,
       "niche": "ai"
@@ -3274,17 +3242,17 @@
     },
     "loop-engineering": {
       "firstSeen": "2026-06-15T17:58:45.604Z",
-      "lastSeen": "2026-06-15T17:58:45.604Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-15T19:37:50.943Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
     "english-pdf": {
       "firstSeen": "2026-06-15T17:58:48.049Z",
-      "lastSeen": "2026-06-15T17:58:48.049Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-15T19:37:50.945Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -3335,16 +3303,40 @@
       "wins": 0,
       "losses": 0,
       "niche": "ai"
+    },
+    "claude-corps": {
+      "firstSeen": "2026-06-15T19:38:00.329Z",
+      "lastSeen": "2026-06-15T19:38:00.329Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "my-homelab-ai-dev": {
+      "firstSeen": "2026-06-15T19:38:03.335Z",
+      "lastSeen": "2026-06-15T19:38:03.335Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "income-strategies": {
+      "firstSeen": "2026-06-15T19:38:17.338Z",
+      "lastSeen": "2026-06-15T19:38:17.338Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "finance"
     }
   },
   "niches": {
     "ai": {
-      "count": 551,
-      "wins": 156,
+      "count": 556,
+      "wins": 158,
       "losses": 20
     },
     "finance": {
-      "count": 45,
+      "count": 46,
       "wins": 8,
       "losses": 0
     },

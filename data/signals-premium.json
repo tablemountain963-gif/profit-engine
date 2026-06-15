@@ -1,159 +1,126 @@
 {
-  "generatedAt": "2026-06-15T17:58:37.629Z",
+  "generatedAt": "2026-06-15T19:37:51.816Z",
   "sourceCount": 200,
   "topItems": [
     {
       "title": "Well, it happened: We crammed our way into a crowded intercity train and someone was like WOW IT’S ODIN FROM MASTODON",
       "url": "https://infosec.exchange/@0xabad1dea/116754836986795127",
-      "score": 10.55,
+      "score": 10.95,
       "niche": "ai",
       "source": "mastodon",
       "engagement": {
-        "score": 687,
-        "comments": 25
-      }
-    },
-    {
-      "title": "CrankGPT",
-      "url": "https://crankgpt.com",
-      "score": 9.26,
-      "niche": "ai",
-      "source": "hackernews",
-      "engagement": {
-        "score": 436,
-        "comments": 173
-      }
-    },
-    {
-      "title": "If I get told, \" Teachers should stop complaining because they have summers off,\" one more time, I am going to lose it. WE DO NOT GET PAID OVER THE SUMMER! Most teachers work a second or a third job o",
-      "url": "https://mas.to/@Saltssaltgirl/116754546427975049",
-      "score": 9.18,
-      "niche": "ai",
-      "source": "mastodon",
-      "engagement": {
-        "score": 284,
-        "comments": 14
-      }
-    },
-    {
-      "title": "Apple Foundation Models",
-      "url": "https://platform.claude.com/docs/en/cli-sdks-libraries/libraries/apple-foundation-models",
-      "score": 8.52,
-      "niche": "ai",
-      "source": "hackernews",
-      "engagement": {
-        "score": 400,
-        "comments": 191
-      }
-    },
-    {
-      "title": "Happy #GlobalWindDay! Just a reminder that no country was ever invaded to steal their wind reserves.It's time to switch to renewables.",
-      "url": "https://mastodon.social/@greenpeace/116754436990310596",
-      "score": 8.52,
-      "niche": "software",
-      "source": "mastodon",
-      "engagement": {
-        "score": 422,
-        "comments": 9
-      }
-    },
-    {
-      "title": "A defining moment for Europe. 🇪🇺🤝🇲🇩🇺🇦All EU countries have now agreed to open the first accession negotiations cluster with Ukraine and Moldova.Today, we're launching talks on the backbone of t",
-      "url": "https://ec.social-network.europa.eu/@EUCommission/116754679006037959",
-      "score": 8.3,
-      "niche": "ai",
-      "source": "mastodon",
-      "engagement": {
-        "score": 379,
-        "comments": 6
-      }
-    },
-    {
-      "title": "What happened to nerds?",
-      "url": "https://mrmarket.lol/what-the-fuck-happened-to-nerds/",
-      "score": 8.19,
-      "niche": "software",
-      "source": "hackernews",
-      "engagement": {
-        "score": 641,
-        "comments": 436
-      }
-    },
-    {
-      "title": "alchaincyf/loop-engineering-orange-book — 别再问我什么是 Loop Engineering — 橙皮书系列。A plain-language guide to loop engineering (中文 + English PDF). Free.",
-      "url": "https://github.com/alchaincyf/loop-engineering-orange-book",
-      "score": 8.11,
-      "niche": "ai",
-      "source": "github",
-      "engagement": {
-        "score": 272,
-        "comments": 0
-      }
-    },
-    {
-      "title": "Think age and ID verification is limited to social media? Think again. Get ready for new age and identity checks if you use LLMs. Age and ID verification coming to Claude AI soon. Anthropic’s updated ",
-      "url": "https://mastodon.social/@nixCraft/116754191970851296",
-      "score": 7.88,
-      "niche": "ai",
-      "source": "mastodon",
-      "engagement": {
-        "score": 262,
-        "comments": 14
-      }
-    },
-    {
-      "title": "My Homelab AI Dev Platform",
-      "url": "https://rsgm.dev/post/ai-dev-platform/",
-      "score": 7.7,
-      "niche": "ai",
-      "source": "hackernews",
-      "engagement": {
-        "score": 75,
-        "comments": 24
-      }
-    },
-    {
-      "title": "TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)",
-      "url": "https://tinywind.io",
-      "score": 7.52,
-      "niche": "ai",
-      "source": "hackernews",
-      "engagement": {
-        "score": 153,
-        "comments": 35
+        "score": 884,
+        "comments": 29
       }
     },
     {
       "title": "Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?",
       "url": "https://news.ycombinator.com/item?id=48542100",
-      "score": 7.51,
+      "score": 8.97,
       "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 105,
-        "comments": 58
+        "score": 277,
+        "comments": 179
       }
     },
     {
-      "title": "Salesforce to buy AI customer service platform Fin for $3.6 billion to boost agentic offerings",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPVTRrb2RiMVFQTlpSeEZfSllTNEVwNWdWelREREtWSHJ4cEVleTdVMk5DRWJNaE1XQko2U3QxWHh1RmhYVkNyVTVaTmRmcTgtVWNNRzZvXzdfeVB2alFaYkhYOFZHclh0WGJHVG5RN3BJTTctZG40d21lUWRXSm9OLXl3T3R6RVhyRXfSAY8BQVVfeXFMTm9Ob0VYTWdkYThFTUJYdzdPa21FUmJaSXQ1SE5UMDNDMVVQbEVvemg3am9RV0hweGZhYm1ia29CTGZ4ZEpXRnFPbFJIWjZRUWlMa1JkSkpnSFlVbldvTnlxcVlFbjdIVEotYno1Vzh4OFU1ekpGVDJiN21IOGE5dUN4SzVRbHZCVE04eDhES2M?oc=5",
-      "score": 7.48,
-      "niche": "ai",
-      "source": "gnews",
+      "title": "Happy #GlobalWindDay! Just a reminder that no country was ever invaded to steal their wind reserves.It's time to switch to renewables.",
+      "url": "https://mastodon.social/@greenpeace/116754436990310596",
+      "score": 8.85,
+      "niche": "software",
+      "source": "mastodon",
       "engagement": {
-        "score": 40,
+        "score": 540,
+        "comments": 10
+      }
+    },
+    {
+      "title": "Apple Foundation Models",
+      "url": "https://platform.claude.com/docs/en/cli-sdks-libraries/libraries/apple-foundation-models",
+      "score": 8.58,
+      "niche": "ai",
+      "source": "hackernews",
+      "engagement": {
+        "score": 425,
+        "comments": 199
+      }
+    },
+    {
+      "title": "A defining moment for Europe. 🇪🇺🤝🇲🇩🇺🇦All EU countries have now agreed to open the first accession negotiations cluster with Ukraine and Moldova.Today, we're launching talks on the backbone of t",
+      "url": "https://ec.social-network.europa.eu/@EUCommission/116754679006037959",
+      "score": 8.55,
+      "niche": "ai",
+      "source": "mastodon",
+      "engagement": {
+        "score": 453,
+        "comments": 8
+      }
+    },
+    {
+      "title": "My Homelab AI Dev Platform",
+      "url": "https://rsgm.dev/post/ai-dev-platform/",
+      "score": 8.49,
+      "niche": "ai",
+      "source": "hackernews",
+      "engagement": {
+        "score": 138,
+        "comments": 32
+      }
+    },
+    {
+      "title": "TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)",
+      "url": "https://tinywind.io",
+      "score": 8.46,
+      "niche": "ai",
+      "source": "hackernews",
+      "engagement": {
+        "score": 311,
+        "comments": 64
+      }
+    },
+    {
+      "title": "I'm getting burnt out on all my moderation actions being against fucking AI. Like, I never thought I'd say it, but I miss suspending Nazis and bigots—at least they were real people who would give up a",
+      "url": "https://lgbtqia.space/@alice/116755340948907372",
+      "score": 8.25,
+      "niche": "ai",
+      "source": "mastodon",
+      "engagement": {
+        "score": 356,
+        "comments": 11
+      }
+    },
+    {
+      "title": "alchaincyf/loop-engineering-orange-book — 别再问我什么是 Loop Engineering — 橙皮书系列。A plain-language guide to loop engineering (中文 + English PDF). Free.",
+      "url": "https://github.com/alchaincyf/loop-engineering-orange-book",
+      "score": 8.12,
+      "niche": "ai",
+      "source": "github",
+      "engagement": {
+        "score": 275,
         "comments": 0
       }
     },
     {
-      "title": "Salesforce To Acquire AI Agent Maker Fin In $3.6 Billion Deal",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNE9OeEhlRGpBaEZ6WFZOQWhhUG9IcUpYQ1VpSWJ4UkVIRGlxY3hnOEJWbkw1a2NIUUtKOElwcy1fZzM1cnI3SHlYaW1YMXZXY3ZKbVZ3dHRLcEpHeGJkcmlOQWUzakZKYWxXMDA1RThvektBUnd1VDVSUEJwVndDQXZOeWkxUVl1TVZMLVY2dDNpS0xoNmRiQk1GbXFKUS1wTGhwMQ?oc=5",
-      "score": 6.71,
+      "title": "CrankGPT",
+      "url": "https://crankgpt.com",
+      "score": 7.55,
       "niche": "ai",
-      "source": "gnews",
+      "source": "hackernews",
       "engagement": {
-        "score": 40,
-        "comments": 0
+        "score": 490,
+        "comments": 199
+      }
+    },
+    {
+      "title": "Can Europe train a frontier AI model on the compute it owns?",
+      "url": "https://github.com/sammysltd/euromesh",
+      "score": 6.18,
+      "niche": "ai",
+      "source": "hackernews",
+      "engagement": {
+        "score": 78,
+        "comments": 90
       }
     },
     {
@@ -168,6 +135,17 @@
       }
     },
     {
+      "title": "Launch HN: Drafted (YC P26) – Models for residential architecture",
+      "url": "https://news.ycombinator.com/item?id=48543908",
+      "score": 6.09,
+      "niche": "ai",
+      "source": "hackernews",
+      "engagement": {
+        "score": 27,
+        "comments": 26
+      }
+    },
+    {
       "title": "16 Best AI Tools for Business in 2026: Tested & Ranked",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAwQnBYNFM3cXk2eUZVZWZHYjBJZ01wbHJOMkpiNXExelhCZUc4US1OX0tnaWdyTnNCZkp6bGEwN0FOMDBiUzh6a29Wd2pmUk9pNWdRdXdXNG9HZVpo?oc=5",
       "score": 5.99,
@@ -179,80 +157,58 @@
       }
     },
     {
-      "title": "Salesforce Stock Rises as $3.6 Billion Deal for AI Company Eases Software Fears",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVFVycG42MXVhS1FuM0NXTm1ESXV4eEltVVNiRWtyc2tJMUxBWDNuTzZCZG5PZUJwTlNFMzhubkZSMEJocWl5ZDc1SnFiNUhOSVFBLVZlU0Q5M1JoWDBrNndmQm4yMXpsb1BEUTExY0dVNUJNMTVuOGlDNkVWczBZZXpvajZ6dEU?oc=5",
-      "score": 5.94,
+      "title": "Jeidoban/Ironsmith — Create personal Mac apps instantly with a prompt. Supports on-device and cloud LLMs",
+      "url": "https://github.com/Jeidoban/Ironsmith",
+      "score": 5.97,
       "niche": "ai",
-      "source": "gnews",
+      "source": "github",
       "engagement": {
-        "score": 40,
-        "comments": 0
+        "score": 137,
+        "comments": 1
       }
     },
     {
-      "title": "From managing processes to driving outcomes: Oracle’s latest AI push aims to rewire business",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOYmpTNEw1WlJ4OGpvZTNZSmpoNVlsUzFkOVJJcXNRUFZ1MW1QN1o2akxYT3oyVUtCclExbXFHWXdzaWQ5TG5odGdBUk8zUVJwLTMxQk83SUVJVEQxTVplMEhEQkY1cVVIdnFLWWtKa3hNc0JiMTMxZFJsakljNTRRRzFIWGtkV1pvVjFlR05lS3lhMnZxaF9uYUJpYjI2bEtETXRFR0Z2M3EweFZqdmNtdl9hNW9YdnA3TG9UTWRlTkkzOVhkNlE?oc=5",
+      "title": "Claude Corps",
+      "url": "https://www.anthropic.com/news/claude-corps",
       "score": 5.94,
       "niche": "ai",
-      "source": "gnews",
+      "source": "hackernews",
       "engagement": {
-        "score": 40,
-        "comments": 0
-      }
-    },
-    {
-      "title": "Amazon Prime Day early tech deals: Save up to 44% on gadgets from Apple, Anker, Sony and others",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNUDVtcmswemxnVmpEdXpiRXNsc2RELUFWT2NmZlFfRWJqSVZCRi1fb0tuc3FDVnIyRnJyc05JYTVGMzEtZlVCckJxQ2tkdG53WFBRRTRWdWhZTUNLd0ZiTTE4US1nazV5VjZzQU14SFNqVVdNM0RULXRGODNOeDk3YkRsN083MEgtQlp4RnhkYTE3bE9UVkZObUNKNTZaY0h2aTlTUjMwS2dpZjlOYk9WOGxoNXUtVTF4TlNmUm9Ha213Qk0xNDY4VDQ0QkE5dWN1SnlXbV9xcVJSVE5VRUpYMENvTnpTQnRmLV93OE5n?oc=5",
-      "score": 5.87,
-      "niche": "software",
-      "source": "gnews",
-      "engagement": {
-        "score": 40,
-        "comments": 0
+        "score": 29,
+        "comments": 21
       }
     },
     {
       "title": "fivetaku/fablize — A Claude Code plugin that makes Opus behave like Fable — completion, evidence, and verification enforced as procedure. Ships only what a Fable-vs-Opus comparison proved transferable",
       "url": "https://github.com/fivetaku/fablize",
-      "score": 5.81,
+      "score": 5.83,
       "niche": "ai",
       "source": "github",
       "engagement": {
-        "score": 211,
+        "score": 215,
         "comments": 0
       }
     },
     {
       "title": "mrtooher/fable-mode — A Claude skill that activates Fable-style agentic behavior: explicit multi-stage planning, sub-agent delegation, and self-verification.",
       "url": "https://github.com/mrtooher/fable-mode",
-      "score": 5.72,
+      "score": 5.73,
       "niche": "ai",
       "source": "github",
       "engagement": {
-        "score": 385,
+        "score": 392,
         "comments": 1
-      }
-    },
-    {
-      "title": "Launch HN: Drafted (YC P26) – Models for residential architecture",
-      "url": "https://news.ycombinator.com/item?id=48543908",
-      "score": 5.62,
-      "niche": "ai",
-      "source": "hackernews",
-      "engagement": {
-        "score": 16,
-        "comments": 20
       }
     },
     {
       "title": "Openrouter Fusion API",
       "url": "https://openrouter.ai/openrouter/fusion",
-      "score": 5.53,
+      "score": 5.61,
       "niche": "software",
       "source": "hackernews",
       "engagement": {
-        "score": 167,
-        "comments": 63
+        "score": 180,
+        "comments": 69
       }
     },
     {
@@ -267,70 +223,71 @@
       }
     },
     {
-      "title": "Jeidoban/Ironsmith — Create personal Mac apps instantly with on-device and cloud LLMs",
-      "url": "https://github.com/Jeidoban/Ironsmith",
-      "score": 5.31,
+      "title": "Show HN: machine0 – Persistent NixOS VMs You Control from the CLI",
+      "url": "https://machine0.io",
+      "score": 5.34,
+      "niche": "software",
+      "source": "hackernews",
+      "engagement": {
+        "score": 48,
+        "comments": 16
+      }
+    },
+    {
+      "title": "EEliberto/IPA-Download — 一款用于安装 IPA 历史版本的工具，适用于获取旧版应用并自动捕获数据包。下载后，可直接通过 AirDrop 传输至 iPhone、iPad 上并安装并使用。",
+      "url": "https://github.com/EEliberto/IPA-Download",
+      "score": 5.17,
       "niche": "ai",
       "source": "github",
       "engagement": {
-        "score": 131,
+        "score": 489,
+        "comments": 0
+      }
+    },
+    {
+      "title": "pyinfra — agentless infrastructure automation, in plain Python",
+      "url": "https://pyinfra.com",
+      "score": 5.02,
+      "niche": "ai",
+      "source": "lobsters",
+      "engagement": {
+        "score": 44,
+        "comments": 23
+      }
+    },
+    {
+      "title": "Best AI Creativity Tools: Free & Paid Options",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTGdqeElaenNfS1VLSEh2Z1dpZFNDUlhWSjFGZjVkUVBORERrWVp5NC01MTF3a1o4Y3dJNGM4Sk9BMm1zOURvT1BEQm9SR1RkN0h3WmFKQXhNZWw3MnJoMkUzUmZSVFdScDJJVkp2YUZwci1maUg1enJZdXpyVVJMWEp2c2IwcDQ?oc=5",
+      "score": 4.95,
+      "niche": "ai",
+      "source": "gnews",
+      "engagement": {
+        "score": 40,
+        "comments": 0
+      }
+    },
+    {
+      "title": "gykim80/perfectpixel-studio — AI-powered animation sprite studio — generate character sprite sheets with 8 directions and 100+ actions from a single text prompt (Wails + Go + React)",
+      "url": "https://github.com/gykim80/perfectpixel-studio",
+      "score": 4.94,
+      "niche": "ai",
+      "source": "github",
+      "engagement": {
+        "score": 169,
         "comments": 1
       }
     }
   ],
   "topics": [
     {
-      "keyword": "billion deal",
-      "count": 17,
-      "score": 164.11688525980028,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "Salesforce To Acquire AI Agent Maker Fin In $3.6 Billion Deal",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNE9OeEhlRGpBaEZ6WFZOQWhhUG9IcUpYQ1VpSWJ4UkVIRGlxY3hnOEJWbkw1a2NIUUtKOElwcy1fZzM1cnI3SHlYaW1YMXZXY3ZKbVZ3dHRLcEpHeGJkcmlOQWUzakZKYWxXMDA1RThvektBUnd1VDVSUEJwVndDQXZOeWkxUVl1TVZMLVY2dDNpS0xoNmRiQk1GbXFKUS1wTGhwMQ?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Salesforce To Acquire AI Agent Maker Fin In $3.6 Billion Deal",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNE9OeEhlRGpBaEZ6WFZOQWhhUG9IcUpYQ1VpSWJ4UkVIRGlxY3hnOEJWbkw1a2NIUUtKOElwcy1fZzM1cnI3SHlYaW1YMXZXY3ZKbVZ3dHRLcEpHeGJkcmlOQWUzakZKYWxXMDA1RThvektBUnd1VDVSUEJwVndDQXZOeWkxUVl1TVZMLVY2dDNpS0xoNmRiQk1GbXFKUS1wTGhwMQ?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Salesforce To Acquire AI Agent Maker Fin In $3.6 Billion Deal",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNE9OeEhlRGpBaEZ6WFZOQWhhUG9IcUpYQ1VpSWJ4UkVIRGlxY3hnOEJWbkw1a2NIUUtKOElwcy1fZzM1cnI3SHlYaW1YMXZXY3ZKbVZ3dHRLcEpHeGJkcmlOQWUzakZKYWxXMDA1RThvektBUnd1VDVSUEJwVndDQXZOeWkxUVl1TVZMLVY2dDNpS0xoNmRiQk1GbXFKUS1wTGhwMQ?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Salesforce Stock Rises as $3.6 Billion Deal for AI Company Eases Software Fears",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVFVycG42MXVhS1FuM0NXTm1ESXV4eEltVVNiRWtyc2tJMUxBWDNuTzZCZG5PZUJwTlNFMzhubkZSMEJocWl5ZDc1SnFiNUhOSVFBLVZlU0Q5M1JoWDBrNndmQm4yMXpsb1BEUTExY0dVNUJNMTVuOGlDNkVWczBZZXpvajZ6dEU?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Salesforce Stock Rises as $3.6 Billion Deal for AI Company Eases Software Fears",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVFVycG42MXVhS1FuM0NXTm1ESXV4eEltVVNiRWtyc2tJMUxBWDNuTzZCZG5PZUJwTlNFMzhubkZSMEJocWl5ZDc1SnFiNUhOSVFBLVZlU0Q5M1JoWDBrNndmQm4yMXpsb1BEUTExY0dVNUJNMTVuOGlDNkVWczBZZXpvajZ6dEU?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "c2ebb4cf870a",
-      "slug": "billion-deal"
-    },
-    {
       "keyword": "claude",
-      "count": 17,
-      "score": 162.15252995616265,
+      "count": 16,
+      "score": 158.59483585431394,
       "proper": true,
       "niches": [
         "ai"
       ],
       "examples": [
-        {
-          "title": "Think age and ID verification is limited to social media? Think again. Get ready for new age and identity checks if you use LLMs. Age and ID verification coming to Claude AI soon. Anthropic’s updated ",
-          "url": "https://mastodon.social/@nixCraft/116754191970851296",
-          "source": "mastodon"
-        },
         {
           "title": "Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?",
           "url": "https://news.ycombinator.com/item?id=48542100",
@@ -339,6 +296,11 @@
         {
           "title": "Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?",
           "url": "https://news.ycombinator.com/item?id=48542100",
+          "source": "hackernews"
+        },
+        {
+          "title": "Claude Corps",
+          "url": "https://www.anthropic.com/news/claude-corps",
           "source": "hackernews"
         },
         {
@@ -358,7 +320,7 @@
     {
       "keyword": "loop engineering",
       "count": 11,
-      "score": 133.774563274302,
+      "score": 134.03519951436525,
       "proper": true,
       "niches": [
         "ai"
@@ -386,7 +348,7 @@
     {
       "keyword": "claude code",
       "count": 16,
-      "score": 126.58311095467485,
+      "score": 126.72397965184423,
       "proper": true,
       "niches": [
         "ai"
@@ -417,48 +379,9 @@
       "slug": "claude-code"
     },
     {
-      "keyword": "fitness gear",
-      "count": 28,
-      "score": 104.4890405091582,
-      "proper": true,
-      "niches": [
-        "ai",
-        "gear"
-      ],
-      "examples": [
-        {
-          "title": "Top 7 Fitness Gear & Wearables Social Media Marketing Campaigns",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZzRCSUJPTEl3dWNkcFJoc0MxalBSUWhlM0Y5bXVtYXNSMFlRNVkyQTZxT2xJRDZkam92bTRUcnF4QW5SM0xOS2RKbV9xaHpPWm5lY25GM1ZBTnVibHIyMVdWeFJqZktUREJCSXZuRFphTmtweGMzV0hPd1hPaUN3RkNIQ2pYYVpuLTlyckhZZW92a2RHTnJzZ21wQmxRdmtuZGlMNnRyRHNWRGFHeUk1djRLajJjeE1mZnRBNVVRREs?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Top 7 Fitness Gear & Wearables Social Media Marketing Campaigns",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZzRCSUJPTEl3dWNkcFJoc0MxalBSUWhlM0Y5bXVtYXNSMFlRNVkyQTZxT2xJRDZkam92bTRUcnF4QW5SM0xOS2RKbV9xaHpPWm5lY25GM1ZBTnVibHIyMVdWeFJqZktUREJCSXZuRFphTmtweGMzV0hPd1hPaUN3RkNIQ2pYYVpuLTlyckhZZW92a2RHTnJzZ21wQmxRdmtuZGlMNnRyRHNWRGFHeUk1djRLajJjeE1mZnRBNVVRREs?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Top 7 Fitness Gear & Wearables Social Media Marketing Campaigns",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZzRCSUJPTEl3dWNkcFJoc0MxalBSUWhlM0Y5bXVtYXNSMFlRNVkyQTZxT2xJRDZkam92bTRUcnF4QW5SM0xOS2RKbV9xaHpPWm5lY25GM1ZBTnVibHIyMVdWeFJqZktUREJCSXZuRFphTmtweGMzV0hPd1hPaUN3RkNIQ2pYYVpuLTlyckhZZW92a2RHTnJzZ21wQmxRdmtuZGlMNnRyRHNWRGFHeUk1djRLajJjeE1mZnRBNVVRREs?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Dior’s fitness gear convinced me to book my first yoga class",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1OMHp0SGt6QjV1dHV2SlN6bGZTcmVmdk1ZUlFVc1ZDNHFVTTI2VVE2NjUxeXZUMTV1YUFsNXFGTXNBMzdPUVo3VGxNc0E4am55UU5wckVZOENSdw?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Dior’s fitness gear convinced me to book my first yoga class",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1OMHp0SGt6QjV1dHV2SlN6bGZTcmVmdk1ZUlFVc1ZDNHFVTTI2VVE2NjUxeXZUMTV1YUFsNXFGTXNBMzdPUVo3VGxNc0E4am55UU5wckVZOENSdw?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "a8b7e45842c3",
-      "slug": "fitness-gear"
-    },
-    {
       "keyword": "free",
       "count": 10,
-      "score": 97.96515972895997,
+      "score": 98.08363074717055,
       "proper": true,
       "niches": [
         "ai"
@@ -481,7 +404,7 @@
     {
       "keyword": "english pdf",
       "count": 8,
-      "score": 97.29059147221963,
+      "score": 97.48014510135656,
       "proper": true,
       "niches": [
         "ai"
@@ -503,12 +426,11 @@
     },
     {
       "keyword": "platform",
-      "count": 9,
-      "score": 91.28949525116546,
+      "count": 7,
+      "score": 85.65466217150849,
       "proper": true,
       "niches": [
-        "ai",
-        "software"
+        "ai"
       ],
       "examples": [
         {
@@ -520,92 +442,15 @@
           "title": "My Homelab AI Dev Platform",
           "url": "https://rsgm.dev/post/ai-dev-platform/",
           "source": "hackernews"
-        },
-        {
-          "title": "Salesforce to buy AI customer service platform Fin for $3.6 billion to boost agentic offerings",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPVTRrb2RiMVFQTlpSeEZfSllTNEVwNWdWelREREtWSHJ4cEVleTdVMk5DRWJNaE1XQko2U3QxWHh1RmhYVkNyVTVaTmRmcTgtVWNNRzZvXzdfeVB2alFaYkhYOFZHclh0WGJHVG5RN3BJTTctZG40d21lUWRXSm9OLXl3T3R6RVhyRXfSAY8BQVVfeXFMTm9Ob0VYTWdkYThFTUJYdzdPa21FUmJaSXQ1SE5UMDNDMVVQbEVvemg3am9RV0hweGZhYm1ia29CTGZ4ZEpXRnFPbFJIWjZRUWlMa1JkSkpnSFlVbldvTnlxcVlFbjdIVEotYno1Vzh4OFU1ekpGVDJiN21IOGE5dUN4SzVRbHZCVE04eDhES2M?oc=5",
-          "source": "gnews"
         },
         {
           "title": "eli-labz/Third-Eye — A production-grade OSINT platform that provides situational awareness across multiple intelligence domains.",
           "url": "https://github.com/eli-labz/Third-Eye",
           "source": "github"
-        },
-        {
-          "title": "manta-node 0.5b0.dev117",
-          "url": "https://pypi.org/project/manta-node/0.5b0.dev117/",
-          "source": "pypi"
         }
       ],
       "id": "d294fcce0cc8",
       "slug": "platform"
-    },
-    {
-      "keyword": "social media",
-      "count": 24,
-      "score": 87.21498042924857,
-      "proper": false,
-      "niches": [
-        "ai",
-        "general"
-      ],
-      "examples": [
-        {
-          "title": "Think age and ID verification is limited to social media? Think again. Get ready for new age and identity checks if you use LLMs. Age and ID verification coming to Claude AI soon. Anthropic’s updated ",
-          "url": "https://mastodon.social/@nixCraft/116754191970851296",
-          "source": "mastodon"
-        },
-        {
-          "title": "Top 7 Fitness Gear & Wearables Social Media Marketing Campaigns",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZzRCSUJPTEl3dWNkcFJoc0MxalBSUWhlM0Y5bXVtYXNSMFlRNVkyQTZxT2xJRDZkam92bTRUcnF4QW5SM0xOS2RKbV9xaHpPWm5lY25GM1ZBTnVibHIyMVdWeFJqZktUREJCSXZuRFphTmtweGMzV0hPd1hPaUN3RkNIQ2pYYVpuLTlyckhZZW92a2RHTnJzZ21wQmxRdmtuZGlMNnRyRHNWRGFHeUk1djRLajJjeE1mZnRBNVVRREs?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Top 7 Fitness Gear & Wearables Social Media Marketing Campaigns",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZzRCSUJPTEl3dWNkcFJoc0MxalBSUWhlM0Y5bXVtYXNSMFlRNVkyQTZxT2xJRDZkam92bTRUcnF4QW5SM0xOS2RKbV9xaHpPWm5lY25GM1ZBTnVibHIyMVdWeFJqZktUREJCSXZuRFphTmtweGMzV0hPd1hPaUN3RkNIQ2pYYVpuLTlyckhZZW92a2RHTnJzZ21wQmxRdmtuZGlMNnRyRHNWRGFHeUk1djRLajJjeE1mZnRBNVVRREs?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Do not provide your ID or facial scan to access social media. I repeat, do NOT provide your ID or facial scan to access social media when requested. This is not a drill. If everyone refuse to comply, ",
-          "url": "https://infosec.exchange/@Em0nM4stodon/116754976490738120",
-          "source": "mastodon"
-        },
-        {
-          "title": "Do not provide your ID or facial scan to access social media. I repeat, do NOT provide your ID or facial scan to access social media when requested. This is not a drill. If everyone refuse to comply, ",
-          "url": "https://infosec.exchange/@Em0nM4stodon/116754976490738120",
-          "source": "mastodon"
-        }
-      ],
-      "id": "96726f43210d",
-      "slug": "social-media"
-    },
-    {
-      "keyword": "keychron unveils",
-      "count": 11,
-      "score": 85.68720630751953,
-      "proper": true,
-      "niches": [
-        "gear"
-      ],
-      "examples": [
-        {
-          "title": "Keychron Unveils 'K Ultra' Series: A Premium Evolution for Mechanical Keyboards",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOa3F1XzhxM2ZOUV9QbHQxazlEaHdvX0Vkd2ZNdHhqZmg1ZzY4OXFBdmVFU2pSbFRQd0wxYnhGSzBiYjdLTWI5ZmJrbG5jMld6cDdGbTNRNXVzYnFSbVBzWlh6SmtnZlVUZmZHUVNIZldUMkhDVVNQWjZXZExXMzBLcDJHZkR5WGNEQWprc2hrZw?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Keychron Unveils 'K Ultra' Series: A Premium Evolution for Mechanical Keyboards",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOa3F1XzhxM2ZOUV9QbHQxazlEaHdvX0Vkd2ZNdHhqZmg1ZzY4OXFBdmVFU2pSbFRQd0wxYnhGSzBiYjdLTWI5ZmJrbG5jMld6cDdGbTNRNXVzYnFSbVBzWlh6SmtnZlVUZmZHUVNIZldUMkhDVVNQWjZXZExXMzBLcDJHZkR5WGNEQWprc2hrZw?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Keychron Unveils 'K Ultra' Series: A Premium Evolution for Mechanical Keyboards",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOa3F1XzhxM2ZOUV9QbHQxazlEaHdvX0Vkd2ZNdHhqZmg1ZzY4OXFBdmVFU2pSbFRQd0wxYnhGSzBiYjdLTWI5ZmJrbG5jMld6cDdGbTNRNXVzYnFSbVBzWlh6SmtnZlVUZmZHUVNIZldUMkhDVVNQWjZXZExXMzBLcDJHZkR5WGNEQWprc2hrZw?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "95734e26725e",
-      "slug": "keychron-unveils"
     },
     {
       "keyword": "paid options",
@@ -674,72 +519,50 @@
       "slug": "tools-business"
     },
     {
-      "keyword": "apple",
-      "count": 10,
-      "score": 77.17924635513774,
+      "keyword": "claude corps",
+      "count": 8,
+      "score": 71.32156786296072,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "Claude Corps",
+          "url": "https://www.anthropic.com/news/claude-corps",
+          "source": "hackernews"
+        },
+        {
+          "title": "Claude Corps",
+          "url": "https://www.anthropic.com/news/claude-corps",
+          "source": "hackernews"
+        }
+      ],
+      "id": "1cfac325a10f",
+      "slug": "claude-corps"
+    },
+    {
+      "keyword": "happy",
+      "count": 5,
+      "score": 66.38745309933627,
       "proper": true,
       "niches": [
         "software"
       ],
       "examples": [
         {
-          "title": "Amazon Prime Day early tech deals: Save up to 44% on gadgets from Apple, Anker, Sony and others",
-          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNUDVtcmswemxnVmpEdXpiRXNsc2RELUFWT2NmZlFfRWJqSVZCRi1fb0tuc3FDVnIyRnJyc05JYTVGMzEtZlVCckJxQ2tkdG53WFBRRTRWdWhZTUNLd0ZiTTE4US1nazV5VjZzQU14SFNqVVdNM0RULXRGODNOeDk3YkRsN083MEgtQlp4RnhkYTE3bE9UVkZObUNKNTZaY0h2aTlTUjMwS2dpZjlOYk9WOGxoNXUtVTF4TlNmUm9Ha213Qk0xNDY4VDQ0QkE5dWN1SnlXbV9xcVJSVE5VRUpYMENvTnpTQnRmLV93OE5n?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "privatenumber/mac-ocr — macOS CLI for OCR and searchable PDFs using Apple's Vision framework.",
-          "url": "https://github.com/privatenumber/mac-ocr",
-          "source": "github"
+          "title": "Happy #GlobalWindDay! Just a reminder that no country was ever invaded to steal their wind reserves.It's time to switch to renewables.",
+          "url": "https://mastodon.social/@greenpeace/116754436990310596",
+          "source": "mastodon"
         }
       ],
-      "id": "3a7bd3e2360a",
-      "slug": "apple"
-    },
-    {
-      "keyword": "amazon prime",
-      "count": 21,
-      "score": 65.51128025995567,
-      "proper": false,
-      "niches": [
-        "software",
-        "ai",
-        "health"
-      ],
-      "examples": [
-        {
-          "title": "Amazon Prime Day early tech deals: Save up to 44% on gadgets from Apple, Anker, Sony and others",
-          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNUDVtcmswemxnVmpEdXpiRXNsc2RELUFWT2NmZlFfRWJqSVZCRi1fb0tuc3FDVnIyRnJyc05JYTVGMzEtZlVCckJxQ2tkdG53WFBRRTRWdWhZTUNLd0ZiTTE4US1nazV5VjZzQU14SFNqVVdNM0RULXRGODNOeDk3YkRsN083MEgtQlp4RnhkYTE3bE9UVkZObUNKNTZaY0h2aTlTUjMwS2dpZjlOYk9WOGxoNXUtVTF4TlNmUm9Ha213Qk0xNDY4VDQ0QkE5dWN1SnlXbV9xcVJSVE5VRUpYMENvTnpTQnRmLV93OE5n?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "I'm on the lookout for the best Amazon Prime Day keyboard, mouse and controller deals",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTHVPczFmSUlWYms2SVdndm0zZHduZ2RFZVdXUWxTQ1BxQm9sYkd3TTRzS0Rrem5YcjB4YlNHelNDOHVmVUVOTjZfdkRXaEtIYy0zVy14YkQ4V3ZybjFscktlUmlNbFJiN3RHR2NJUU5JQjhyQTh4UWRESFBpY29TZ04wTVMwbllmQnc?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "I'm on the lookout for the best Amazon Prime Day keyboard, mouse and controller deals",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTHVPczFmSUlWYms2SVdndm0zZHduZ2RFZVdXUWxTQ1BxQm9sYkd3TTRzS0Rrem5YcjB4YlNHelNDOHVmVUVOTjZfdkRXaEtIYy0zVy14YkQ4V3ZybjFscktlUmlNbFJiN3RHR2NJUU5JQjhyQTh4UWRESFBpY29TZ04wTVMwbllmQnc?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Amazon Prime Day Fitness Deals: Shop the Best Deals on Fitness Equipment",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE51M3laczhpYWNOVVE1NXk0X1ZDYmdWV1ZTaFc3dVo4cEN3VEdLcmdaeGd2cHJ1WXJzSlB6elZveG54Rk5JdzE4NFpWVVktZGdDcEhZX18tV0F3NHg3MUJMekpGSEVwZlpyRkVrZTVSbTM?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Amazon Prime Day Fitness Deals: Shop the Best Deals on Fitness Equipment",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE51M3laczhpYWNOVVE1NXk0X1ZDYmdWV1ZTaFc3dVo4cEN3VEdLcmdaeGd2cHJ1WXJzSlB6elZveG54Rk5JdzE4NFpWVVktZGdDcEhZX18tV0F3NHg3MUJMekpGSEVwZlpyRkVrZTVSbTM?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "ea7b41fec124",
-      "slug": "amazon-prime"
+      "id": "489f719cadf9",
+      "slug": "happy"
     },
     {
       "keyword": "apple foundation models",
       "count": 5,
-      "score": 63.89425970623939,
+      "score": 64.38367283427232,
       "proper": true,
       "niches": [
         "ai"
@@ -753,65 +576,125 @@
       ],
       "id": "55f921d339fa",
       "slug": "apple-foundation-models"
+    },
+    {
+      "keyword": "my homelab ai dev",
+      "count": 5,
+      "score": 63.68689064640468,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "My Homelab AI Dev Platform",
+          "url": "https://rsgm.dev/post/ai-dev-platform/",
+          "source": "hackernews"
+        }
+      ],
+      "id": "fac908fd03ff",
+      "slug": "my-homelab-ai-dev"
+    },
+    {
+      "keyword": "_blank tools",
+      "count": 15,
+      "score": 60.53745484583199,
+      "proper": false,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "16 Best AI Tools for Business in 2026: Tested & Ranked",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAwQnBYNFM3cXk2eUZVZWZHYjBJZ01wbHJOMkpiNXExelhCZUc4US1OX0tnaWdyTnNCZkp6bGEwN0FOMDBiUzh6a29Wd2pmUk9pNWdRdXdXNG9HZVpo?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "The best AI tools for small business are the ones tied to workflow: These nine AI tools save small businesses the most time in 2026",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcFptaUxVY3ZGanY1TUhuQzNiZmRqenl3WHlSUDdHb1pDOHk5NFBESUxxVDJXZTdxWnYyN1k1d2lTYkhGaTFxUmJWV0RUMkF3X2xjT0tGV2E3ZDFxcHd6eDZ1TnJXeGVGMVdLU2pPUkhVaVZVdXc2aGRNT19LZVRmWUNSaGwtSHlMbEFLcnVMczNpSERQd2xBVl9n?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "7 AI Tools That Build a One-Person Business in a Weekend — No Staff. No Code. No Stress.",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbjF1UDl3ajJEOGRUODR4XzlEYjVrUjQwS1NydjJEZkxZLS1iX2JWZmhQVzFWcThUWFA1Q2wwN2ltS3NDMjdOeUZPU3p1VU1Rd0RPS1I1RC1oYzJGRkt0WjVqUFYyV0RRZERTS0Y4QTVlUWJBRDVPMG5lVy14TVBPcVFMR0tHd0xrT2wtV0RxeG9UczRKU2oyek5YaTV2akZ6TkxucWdFYjRjd0hwbHhIbw?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "10 Best AI Tools for Grant Writing in 2026",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNU1RCVnd6QVc1aEV6QVZtX3Fqc21yYjRqM19hUmFtek1wNmdfZXdpV1Z0bE5KNlY0c3R1WUNuUEZoVlZPZlU4ODBBUENTRkM5ZEY2X2NoVFRQZFJaQ2Y0MllsclkxZ1M3SVNPTXVKeGdWb3BiN1NNNk9FR3FoQ3dWMU1xMV9lRUxnNXpZUEZ1RjZsRUxKRXVB?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "AI Tools for Business Development That Save 10+ Hours a Week",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBsVE1nY2NhWW9VRHJWOE9yNExUT04xMkhqbmRxM1JaQXJQdmhpbWhxcUM3eU0xMnF0TG9BTW9RbUFxQTRzS0pLbmVGZFk3SFNLb2YzVUl6VUFwNFFmV2czdHRRSVRFRzhDU0VOM3ROTnZ1eGZLMmJVTnlTbw?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "137a9254134d",
+      "slug": "_blank-tools"
+    },
+    {
+      "keyword": "affordability crisis",
+      "count": 11,
+      "score": 58.75694146801339,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "Affordability Crisis: Five smart side-hustle ideas to the rescue",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTlpoczY3VEVXQ2JHVVdwenZjRjJUS2xrNkZ1VS1BODZyZ0g1TkNjcnJfZldCa2xyenEyXzlKMzlDMDVCMXdvdFdlbmNhV0tqU3N6YkxkdjFzbFZVWEwzQl9ELWd6TlBacm1wOTloc0Z4a0ZKczBrY1N5MHNwUnFFZm1vVTNFeU15N0hIeFZCQWNqMlVIWnlHTXFlTEh0VEVVREhDaWpIWGptUG82QU9hZ0lod0NiWkNER3hxWQ?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Affordability Crisis: Five smart side-hustle ideas to the rescue",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTlpoczY3VEVXQ2JHVVdwenZjRjJUS2xrNkZ1VS1BODZyZ0g1TkNjcnJfZldCa2xyenEyXzlKMzlDMDVCMXdvdFdlbmNhV0tqU3N6YkxkdjFzbFZVWEwzQl9ELWd6TlBacm1wOTloc0Z4a0ZKczBrY1N5MHNwUnFFZm1vVTNFeU15N0hIeFZCQWNqMlVIWnlHTXFlTEh0VEVVREhDaWpIWGptUG82QU9hZ0lod0NiWkNER3hxWQ?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Affordability Crisis: Five smart side-hustle ideas to the rescue",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTlpoczY3VEVXQ2JHVVdwenZjRjJUS2xrNkZ1VS1BODZyZ0g1TkNjcnJfZldCa2xyenEyXzlKMzlDMDVCMXdvdFdlbmNhV0tqU3N6YkxkdjFzbFZVWEwzQl9ELWd6TlBacm1wOTloc0Z4a0ZKczBrY1N5MHNwUnFFZm1vVTNFeU15N0hIeFZCQWNqMlVIWnlHTXFlTEh0VEVVREhDaWpIWGptUG82QU9hZ0lod0NiWkNER3hxWQ?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "75c4782cb45d",
+      "slug": "affordability-crisis"
+    },
+    {
+      "keyword": "setup installer",
+      "count": 8,
+      "score": 54.299883647478936,
+      "proper": true,
+      "niches": [
+        "gear"
+      ],
+      "examples": [
+        {
+          "title": "SGmetro/Lossless-Scaling-Latest-Github-PC-3 — ⭐️ Lossless Scaling Desktop 2026 | Setup Installer v1.0 | Patch Activator Keygen | License Key Pre-Activated | Full Version Latest Build Pro | Optimize Re",
+          "url": "https://github.com/SGmetro/Lossless-Scaling-Latest-Github-PC-3",
+          "source": "github"
+        },
+        {
+          "title": "SGmetro/Lossless-Scaling-Latest-Github-PC-3 — ⭐️ Lossless Scaling Desktop 2026 | Setup Installer v1.0 | Patch Activator Keygen | License Key Pre-Activated | Full Version Latest Build Pro | Optimize Re",
+          "url": "https://github.com/SGmetro/Lossless-Scaling-Latest-Github-PC-3",
+          "source": "github"
+        }
+      ],
+      "id": "f1150bad4c40",
+      "slug": "setup-installer"
     }
   ],
   "opportunities": [
     {
-      "keyword": "billion deal",
-      "count": 17,
-      "score": 164.11688525980028,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "Salesforce To Acquire AI Agent Maker Fin In $3.6 Billion Deal",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNE9OeEhlRGpBaEZ6WFZOQWhhUG9IcUpYQ1VpSWJ4UkVIRGlxY3hnOEJWbkw1a2NIUUtKOElwcy1fZzM1cnI3SHlYaW1YMXZXY3ZKbVZ3dHRLcEpHeGJkcmlOQWUzakZKYWxXMDA1RThvektBUnd1VDVSUEJwVndDQXZOeWkxUVl1TVZMLVY2dDNpS0xoNmRiQk1GbXFKUS1wTGhwMQ?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Salesforce To Acquire AI Agent Maker Fin In $3.6 Billion Deal",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNE9OeEhlRGpBaEZ6WFZOQWhhUG9IcUpYQ1VpSWJ4UkVIRGlxY3hnOEJWbkw1a2NIUUtKOElwcy1fZzM1cnI3SHlYaW1YMXZXY3ZKbVZ3dHRLcEpHeGJkcmlOQWUzakZKYWxXMDA1RThvektBUnd1VDVSUEJwVndDQXZOeWkxUVl1TVZMLVY2dDNpS0xoNmRiQk1GbXFKUS1wTGhwMQ?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Salesforce To Acquire AI Agent Maker Fin In $3.6 Billion Deal",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNE9OeEhlRGpBaEZ6WFZOQWhhUG9IcUpYQ1VpSWJ4UkVIRGlxY3hnOEJWbkw1a2NIUUtKOElwcy1fZzM1cnI3SHlYaW1YMXZXY3ZKbVZ3dHRLcEpHeGJkcmlOQWUzakZKYWxXMDA1RThvektBUnd1VDVSUEJwVndDQXZOeWkxUVl1TVZMLVY2dDNpS0xoNmRiQk1GbXFKUS1wTGhwMQ?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Salesforce Stock Rises as $3.6 Billion Deal for AI Company Eases Software Fears",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVFVycG42MXVhS1FuM0NXTm1ESXV4eEltVVNiRWtyc2tJMUxBWDNuTzZCZG5PZUJwTlNFMzhubkZSMEJocWl5ZDc1SnFiNUhOSVFBLVZlU0Q5M1JoWDBrNndmQm4yMXpsb1BEUTExY0dVNUJNMTVuOGlDNkVWczBZZXpvajZ6dEU?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Salesforce Stock Rises as $3.6 Billion Deal for AI Company Eases Software Fears",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVFVycG42MXVhS1FuM0NXTm1ESXV4eEltVVNiRWtyc2tJMUxBWDNuTzZCZG5PZUJwTlNFMzhubkZSMEJocWl5ZDc1SnFiNUhOSVFBLVZlU0Q5M1JoWDBrNndmQm4yMXpsb1BEUTExY0dVNUJNMTVuOGlDNkVWczBZZXpvajZ6dEU?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "c2ebb4cf870a",
-      "slug": "billion-deal",
-      "opportunity": {
-        "type": "affiliate",
-        "recommended": "Write SEO comparison/roundup article with affiliate links."
-      }
-    },
-    {
       "keyword": "claude",
-      "count": 17,
-      "score": 162.15252995616265,
+      "count": 16,
+      "score": 158.59483585431394,
       "proper": true,
       "niches": [
         "ai"
       ],
       "examples": [
-        {
-          "title": "Think age and ID verification is limited to social media? Think again. Get ready for new age and identity checks if you use LLMs. Age and ID verification coming to Claude AI soon. Anthropic’s updated ",
-          "url": "https://mastodon.social/@nixCraft/116754191970851296",
-          "source": "mastodon"
-        },
         {
           "title": "Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?",
           "url": "https://news.ycombinator.com/item?id=48542100",
@@ -820,6 +703,11 @@
         {
           "title": "Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?",
           "url": "https://news.ycombinator.com/item?id=48542100",
+          "source": "hackernews"
+        },
+        {
+          "title": "Claude Corps",
+          "url": "https://www.anthropic.com/news/claude-corps",
           "source": "hackernews"
         },
         {
@@ -843,7 +731,7 @@
     {
       "keyword": "loop engineering",
       "count": 11,
-      "score": 133.774563274302,
+      "score": 134.03519951436525,
       "proper": true,
       "niches": [
         "ai"
@@ -875,7 +763,7 @@
     {
       "keyword": "claude code",
       "count": 16,
-      "score": 126.58311095467485,
+      "score": 126.72397965184423,
       "proper": true,
       "niches": [
         "ai"
@@ -910,52 +798,9 @@
       }
     },
     {
-      "keyword": "fitness gear",
-      "count": 28,
-      "score": 104.4890405091582,
-      "proper": true,
-      "niches": [
-        "ai",
-        "gear"
-      ],
-      "examples": [
-        {
-          "title": "Top 7 Fitness Gear & Wearables Social Media Marketing Campaigns",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZzRCSUJPTEl3dWNkcFJoc0MxalBSUWhlM0Y5bXVtYXNSMFlRNVkyQTZxT2xJRDZkam92bTRUcnF4QW5SM0xOS2RKbV9xaHpPWm5lY25GM1ZBTnVibHIyMVdWeFJqZktUREJCSXZuRFphTmtweGMzV0hPd1hPaUN3RkNIQ2pYYVpuLTlyckhZZW92a2RHTnJzZ21wQmxRdmtuZGlMNnRyRHNWRGFHeUk1djRLajJjeE1mZnRBNVVRREs?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Top 7 Fitness Gear & Wearables Social Media Marketing Campaigns",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZzRCSUJPTEl3dWNkcFJoc0MxalBSUWhlM0Y5bXVtYXNSMFlRNVkyQTZxT2xJRDZkam92bTRUcnF4QW5SM0xOS2RKbV9xaHpPWm5lY25GM1ZBTnVibHIyMVdWeFJqZktUREJCSXZuRFphTmtweGMzV0hPd1hPaUN3RkNIQ2pYYVpuLTlyckhZZW92a2RHTnJzZ21wQmxRdmtuZGlMNnRyRHNWRGFHeUk1djRLajJjeE1mZnRBNVVRREs?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Top 7 Fitness Gear & Wearables Social Media Marketing Campaigns",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZzRCSUJPTEl3dWNkcFJoc0MxalBSUWhlM0Y5bXVtYXNSMFlRNVkyQTZxT2xJRDZkam92bTRUcnF4QW5SM0xOS2RKbV9xaHpPWm5lY25GM1ZBTnVibHIyMVdWeFJqZktUREJCSXZuRFphTmtweGMzV0hPd1hPaUN3RkNIQ2pYYVpuLTlyckhZZW92a2RHTnJzZ21wQmxRdmtuZGlMNnRyRHNWRGFHeUk1djRLajJjeE1mZnRBNVVRREs?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Dior’s fitness gear convinced me to book my first yoga class",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1OMHp0SGt6QjV1dHV2SlN6bGZTcmVmdk1ZUlFVc1ZDNHFVTTI2VVE2NjUxeXZUMTV1YUFsNXFGTXNBMzdPUVo3VGxNc0E4am55UU5wckVZOENSdw?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Dior’s fitness gear convinced me to book my first yoga class",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1OMHp0SGt6QjV1dHV2SlN6bGZTcmVmdk1ZUlFVc1ZDNHFVTTI2VVE2NjUxeXZUMTV1YUFsNXFGTXNBMzdPUVo3VGxNc0E4am55UU5wckVZOENSdw?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "a8b7e45842c3",
-      "slug": "fitness-gear",
-      "opportunity": {
-        "type": "affiliate",
-        "recommended": "Write SEO comparison/roundup article with affiliate links."
-      }
-    },
-    {
       "keyword": "free",
       "count": 10,
-      "score": 97.96515972895997,
+      "score": 98.08363074717055,
       "proper": true,
       "niches": [
         "ai"
@@ -982,7 +827,7 @@
     {
       "keyword": "english pdf",
       "count": 8,
-      "score": 97.29059147221963,
+      "score": 97.48014510135656,
       "proper": true,
       "niches": [
         "ai"
@@ -1008,12 +853,11 @@
     },
     {
       "keyword": "platform",
-      "count": 9,
-      "score": 91.28949525116546,
+      "count": 7,
+      "score": 85.65466217150849,
       "proper": true,
       "niches": [
-        "ai",
-        "software"
+        "ai"
       ],
       "examples": [
         {
@@ -1027,23 +871,87 @@
           "source": "hackernews"
         },
         {
-          "title": "Salesforce to buy AI customer service platform Fin for $3.6 billion to boost agentic offerings",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPVTRrb2RiMVFQTlpSeEZfSllTNEVwNWdWelREREtWSHJ4cEVleTdVMk5DRWJNaE1XQko2U3QxWHh1RmhYVkNyVTVaTmRmcTgtVWNNRzZvXzdfeVB2alFaYkhYOFZHclh0WGJHVG5RN3BJTTctZG40d21lUWRXSm9OLXl3T3R6RVhyRXfSAY8BQVVfeXFMTm9Ob0VYTWdkYThFTUJYdzdPa21FUmJaSXQ1SE5UMDNDMVVQbEVvemg3am9RV0hweGZhYm1ia29CTGZ4ZEpXRnFPbFJIWjZRUWlMa1JkSkpnSFlVbldvTnlxcVlFbjdIVEotYno1Vzh4OFU1ekpGVDJiN21IOGE5dUN4SzVRbHZCVE04eDhES2M?oc=5",
-          "source": "gnews"
-        },
-        {
           "title": "eli-labz/Third-Eye — A production-grade OSINT platform that provides situational awareness across multiple intelligence domains.",
           "url": "https://github.com/eli-labz/Third-Eye",
           "source": "github"
-        },
-        {
-          "title": "manta-node 0.5b0.dev117",
-          "url": "https://pypi.org/project/manta-node/0.5b0.dev117/",
-          "source": "pypi"
         }
       ],
       "id": "d294fcce0cc8",
       "slug": "platform",
+      "opportunity": {
+        "type": "affiliate",
+        "recommended": "Write SEO comparison/roundup article with affiliate links."
+      }
+    },
+    {
+      "keyword": "paid options",
+      "count": 11,
+      "score": 81.74878812940996,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "Best AI Creativity Tools: Free & Paid Options",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTGdqeElaenNfS1VLSEh2Z1dpZFNDUlhWSjFGZjVkUVBORERrWVp5NC01MTF3a1o4Y3dJNGM4Sk9BMm1zOURvT1BEQm9SR1RkN0h3WmFKQXhNZWw3MnJoMkUzUmZSVFdScDJJVkp2YUZwci1maUg1enJZdXpyVVJMWEp2c2IwcDQ?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Best AI Creativity Tools: Free & Paid Options",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTGdqeElaenNfS1VLSEh2Z1dpZFNDUlhWSjFGZjVkUVBORERrWVp5NC01MTF3a1o4Y3dJNGM4Sk9BMm1zOURvT1BEQm9SR1RkN0h3WmFKQXhNZWw3MnJoMkUzUmZSVFdScDJJVkp2YUZwci1maUg1enJZdXpyVVJMWEp2c2IwcDQ?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Best AI Creativity Tools: Free & Paid Options",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTGdqeElaenNfS1VLSEh2Z1dpZFNDUlhWSjFGZjVkUVBORERrWVp5NC01MTF3a1o4Y3dJNGM4Sk9BMm1zOURvT1BEQm9SR1RkN0h3WmFKQXhNZWw3MnJoMkUzUmZSVFdScDJJVkp2YUZwci1maUg1enJZdXpyVVJMWEp2c2IwcDQ?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "1bc98141672b",
+      "slug": "paid-options",
+      "opportunity": {
+        "type": "tooling",
+        "recommended": "Build / list AI tools; monetize via affiliate links + lead magnet."
+      }
+    },
+    {
+      "keyword": "tools business",
+      "count": 18,
+      "score": 78.96189762499826,
+      "proper": false,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "16 Best AI Tools for Business in 2026: Tested & Ranked",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAwQnBYNFM3cXk2eUZVZWZHYjBJZ01wbHJOMkpiNXExelhCZUc4US1OX0tnaWdyTnNCZkp6bGEwN0FOMDBiUzh6a29Wd2pmUk9pNWdRdXdXNG9HZVpo?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "16 Best AI Tools for Business in 2026: Tested & Ranked",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAwQnBYNFM3cXk2eUZVZWZHYjBJZ01wbHJOMkpiNXExelhCZUc4US1OX0tnaWdyTnNCZkp6bGEwN0FOMDBiUzh6a29Wd2pmUk9pNWdRdXdXNG9HZVpo?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "The best AI tools for small business are the ones tied to workflow: These nine AI tools save small businesses the most time in 2026",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcFptaUxVY3ZGanY1TUhuQzNiZmRqenl3WHlSUDdHb1pDOHk5NFBESUxxVDJXZTdxWnYyN1k1d2lTYkhGaTFxUmJWV0RUMkF3X2xjT0tGV2E3ZDFxcHd6eDZ1TnJXeGVGMVdLU2pPUkhVaVZVdXc2aGRNT19LZVRmWUNSaGwtSHlMbEFLcnVMczNpSERQd2xBVl9n?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "The best AI tools for small business are the ones tied to workflow: These nine AI tools save small businesses the most time in 2026",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcFptaUxVY3ZGanY1TUhuQzNiZmRqenl3WHlSUDdHb1pDOHk5NFBESUxxVDJXZTdxWnYyN1k1d2lTYkhGaTFxUmJWV0RUMkF3X2xjT0tGV2E3ZDFxcHd6eDZ1TnJXeGVGMVdLU2pPUkhVaVZVdXc2aGRNT19LZVRmWUNSaGwtSHlMbEFLcnVMczNpSERQd2xBVl9n?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "AI Tools for Business Development That Save 10+ Hours a Week",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBsVE1nY2NhWW9VRHJWOE9yNExUT04xMkhqbmRxM1JaQXJQdmhpbWhxcUM3eU0xMnF0TG9BTW9RbUFxQTRzS0pLbmVGZFk3SFNLb2YzVUl6VUFwNFFmV2czdHRRSVRFRzhDU0VOM3ROTnZ1eGZLMmJVTnlTbw?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "06e8eb9e4ab5",
+      "slug": "tools-business",
       "opportunity": {
         "type": "affiliate",
         "recommended": "Write SEO comparison/roundup article with affiliate links."
