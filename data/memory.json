@@ -592,14 +592,6 @@
       "losses": 0,
       "niche": "ai"
     },
-    "flight-simulator": {
-      "firstSeen": "2026-06-01T05:59:23.881Z",
-      "lastSeen": "2026-06-01T05:59:23.881Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "software"
-    },
     "2026-6f6f6f": {
       "firstSeen": "2026-06-01T05:59:34.077Z",
       "lastSeen": "2026-06-06T21:53:33.157Z",
@@ -2018,8 +2010,8 @@
     },
     "loch-shieldaig": {
       "firstSeen": "2026-06-08T05:28:52.759Z",
-      "lastSeen": "2026-06-08T05:28:52.759Z",
-      "count": 1,
+      "lastSeen": "2026-06-15T06:21:56.863Z",
+      "count": 2,
       "wins": 0,
       "losses": 0,
       "niche": "ai"
@@ -2298,10 +2290,10 @@
     },
     "smartwatch-trackers": {
       "firstSeen": "2026-06-09T22:17:03.999Z",
-      "lastSeen": "2026-06-09T22:17:03.999Z",
-      "count": 1,
+      "lastSeen": "2026-06-15T06:21:47.274Z",
+      "count": 2,
       "wins": 0,
-      "losses": 0,
+      "losses": 1,
       "niche": "ai"
     },
     "fitness-equipment": {
@@ -2658,9 +2650,9 @@
     },
     "ben-shieldaig": {
       "firstSeen": "2026-06-12T05:29:15.046Z",
-      "lastSeen": "2026-06-12T05:29:15.046Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-15T06:21:47.276Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -3170,17 +3162,17 @@
     },
     "cow-abducting": {
       "firstSeen": "2026-06-14T22:01:14.304Z",
-      "lastSeen": "2026-06-14T22:01:14.304Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-15T06:21:47.277Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
     "fer-martinez": {
       "firstSeen": "2026-06-14T22:01:17.031Z",
-      "lastSeen": "2026-06-14T22:01:17.031Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-15T06:21:47.278Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -3223,13 +3215,61 @@
       "wins": 0,
       "losses": 0,
       "niche": "software"
+    },
+    "south-lawn": {
+      "firstSeen": "2026-06-15T06:21:53.500Z",
+      "lastSeen": "2026-06-15T06:21:53.501Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "grande-bible": {
+      "firstSeen": "2026-06-15T06:21:59.822Z",
+      "lastSeen": "2026-06-15T06:21:59.822Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "_blank-tools": {
+      "firstSeen": "2026-06-15T06:22:06.343Z",
+      "lastSeen": "2026-06-15T06:22:06.343Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "proudly": {
+      "firstSeen": "2026-06-15T06:22:45.672Z",
+      "lastSeen": "2026-06-15T06:22:45.672Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "gopro": {
+      "firstSeen": "2026-06-15T06:22:52.655Z",
+      "lastSeen": "2026-06-15T06:22:52.655Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "m1-max": {
+      "firstSeen": "2026-06-15T06:23:12.077Z",
+      "lastSeen": "2026-06-15T06:23:12.077Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
     }
   },
   "niches": {
     "ai": {
-      "count": 531,
-      "wins": 153,
-      "losses": 19
+      "count": 542,
+      "wins": 156,
+      "losses": 20
     },
     "finance": {
       "count": 45,

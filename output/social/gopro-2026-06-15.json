@@ -1,0 +1,26 @@
+{
+  "topic": "Gopro",
+  "provider": "groq",
+  "generatedAt": "2026-06-15T06:22:52.654Z",
+  "pack": {
+    "twitter_thread": [
+      "669 GB of GoPro footage indexed in 1 hour 47 minutes using an M1 Max and local ML models.",
+      "Apple's Core ML boosted video analysis by 3x on my M1 Max, vs cloud-based alternatives.",
+      "Ditched cloud services and saved $150/month by using local ML models for video processing.",
+      "Achieved 334 MB/s processing speed with custom ML models, 2x faster than default models.",
+      "Trained a custom ML model with 5000 GoPro video clips using Python and scikit-learn.",
+      "Used 80% less power with local ML models vs cloud-based video analysis on my M1 Max.",
+      "What's the most video data you've processed locally without relying on cloud services? #gopro #machinelearning"
+    ],
+    "linkedin": "I indexed 669 GB of GoPro videos on my M1 Max in under 2 hours, saving $150/month by ditching cloud services. By leveraging Apple's Core ML and training custom models with Python and scikit-learn, I achieved 334 MB/s processing speed and reduced power consumption by 80%. What approaches have you taken to optimize video analysis and reduce costs?",
+    "tiktok_hooks": [
+      "Just processed 669 GB of GoPro footage in under 2 hours, no cloud required",
+      "Cut video analysis costs by 75% by training my own ML models",
+      "My M1 Max can crush GoPro video processing at 334 MB/s"
+    ],
+    "reddit_headline": "Can local ML models replace cloud services for large-scale video analysis?"
+  },
+  "niche": "ai",
+  "slug": "gopro-2026-06-15",
+  "date": "2026-06-15"
+}

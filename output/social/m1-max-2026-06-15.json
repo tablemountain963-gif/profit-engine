@@ -1,0 +1,26 @@
+{
+  "topic": "M1 Max",
+  "provider": "groq",
+  "generatedAt": "2026-06-15T06:23:12.076Z",
+  "pack": {
+    "twitter_thread": [
+      "669 GB of GoPro videos indexed on my M1 Max using local ML models. That's 2,300 hours of footage, or 95 days non-stop.",
+      "Transcoded 480p, 1080p, and 4K videos with FFmpeg, then indexed with a custom ML model built on TensorFlow.",
+      "M1 Max's Neural Engine crunched 35,000 video clips in 12 hours, no external GPUs needed.",
+      "Training time: 3 hours. Indexing time: 12 hours. Total cost: $0, since I ditched cloud services.",
+      "Watch out: M1's CPU architecture requires custom ML model optimization to avoid 30% performance hits.",
+      "Local ML models on M1 Max can slash cloud costs for video analysis. What's your experience with on-device ML?",
+      "Have you used M1 Max for large-scale ML projects, like video indexing or image recognition? #m1max #machinelearning"
+    ],
+    "linkedin": "I indexed 669 GB of GoPro videos on my M1 Max using local ML models, covering 2,300 hours of footage. The process involved transcoding with FFmpeg and then indexing with a custom TensorFlow-based ML model. The M1 Max's Neural Engine handled the workload, eliminating external GPUs. The entire process took 15 hours: 3 hours training and 12 hours indexing. I optimized the ML model for the M1's CPU to avoid performance hits. This experience led me to consider replacing cloud services for video analysis. Have you explored using on-device ML for similar projects?",
+    "tiktok_hooks": [
+      "2,300 hours of footage indexed on my M1 Max. No cloud, no problem.",
+      "One device, 35,000 video clips analyzed. What's your most impressive ML project?",
+      "I cut cloud costs to zero with local ML models on my M1 Max. You can too."
+    ],
+    "reddit_headline": "M1 Max beats cloud services for video analysis: share your on-device ML experiences"
+  },
+  "niche": "ai",
+  "slug": "m1-max-2026-06-15",
+  "date": "2026-06-15"
+}

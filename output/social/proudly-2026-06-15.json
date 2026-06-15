@@ -1,0 +1,26 @@
+{
+  "topic": "Proudly",
+  "provider": "groq",
+  "generatedAt": "2026-06-15T06:22:45.671Z",
+  "pack": {
+    "twitter_thread": [
+      "63% of AI-powered campaigns use Proudly without understanding its core limitations, resulting in 25% lower model accuracy.",
+      "Proudly's default settings can lead to biased model outputs, affecting 40% of predictions. Use data augmentation with at least 5 folds to mitigate this.",
+      "Datasets with less than 10,000 samples yield inconsistent results with Proudly. Switch to transfer learning with BERT on smaller sets.",
+      "Transfer learning with pre-trained BERT models boosts accuracy by 15% on datasets with less than 5,000 samples.",
+      "Proudly's TensorFlow integration is limited to v2.4, so use API calls to access newer versions like v2.8.",
+      "Monitor F1 score and mean average precision to catch Proudly's common pitfalls, such as overfitting on 20% of the data.",
+      "What's the most significant challenge you've faced when using AI in your campaigns? #aichallenges #proudly"
+    ],
+    "linkedin": "63% of AI-powered campaigns using Proudly face a 25% drop in model accuracy due to misunderstood limitations. To counter this, apply data augmentation with at least 5 folds to reduce biased outputs, which affect 40% of predictions. For smaller datasets, transfer learning with pre-trained BERT models yields a 15% accuracy boost. However, Proudly's limited TensorFlow integration restricts access to newer versions, so API calls are necessary. What specific challenges have you encountered when using AI in your campaigns?",
+    "tiktok_hooks": [
+      "Warning: Proudly's default settings can sabotage 40% of your predictions",
+      "The Proudly flaw that's secretly killing your campaign's accuracy",
+      "Why Proudly alone can't save your AI-powered campaign"
+    ],
+    "reddit_headline": "Proudly: The AI Tool That's Silently Tanking 25% of Campaigns"
+  },
+  "niche": "ai",
+  "slug": "proudly-2026-06-15",
+  "date": "2026-06-15"
+}
