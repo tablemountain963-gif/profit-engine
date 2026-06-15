@@ -1,6 +1,51 @@
 {
   "items": [
     {
+      "slug": "prompt-pack-social-media-2026-06-15",
+      "title": "Social Media Prompt Pack — 50 Battle-Tested Prompts",
+      "blurb": "50 proven prompts for Social Media. Copy/paste ready. Tested across Claude, GPT, Gemini.",
+      "type": "prompt-pack",
+      "topic": "Social Media",
+      "niche": "ai",
+      "price": 19,
+      "generatedAt": "2026-06-15T17:59:02.187Z",
+      "files": [
+        "prompts.md",
+        "README.md",
+        "LICENSE.txt"
+      ]
+    },
+    {
+      "slug": "prompt-pack-apple-foundation-models-2026-06-15",
+      "title": "Apple Foundation Models Prompt Pack — 50 Battle-Tested Prompts",
+      "blurb": "50 proven prompts for Apple Foundation Models. Copy/paste ready. Tested across Claude, GPT, Gemini.",
+      "type": "prompt-pack",
+      "topic": "Apple Foundation Models",
+      "niche": "ai",
+      "price": 19,
+      "generatedAt": "2026-06-15T17:58:55.763Z",
+      "files": [
+        "prompts.md",
+        "README.md",
+        "LICENSE.txt"
+      ]
+    },
+    {
+      "slug": "prompt-pack-platform-2026-06-15",
+      "title": "Platform Prompt Pack — 50 Battle-Tested Prompts",
+      "blurb": "50 proven prompts for Platform. Copy/paste ready. Tested across Claude, GPT, Gemini.",
+      "type": "prompt-pack",
+      "topic": "Platform",
+      "niche": "ai",
+      "price": 19,
+      "generatedAt": "2026-06-15T17:58:48.911Z",
+      "files": [
+        "prompts.md",
+        "README.md",
+        "LICENSE.txt"
+      ]
+    },
+    {
       "slug": "prompt-pack-blank-tools-2026-06-15",
       "title": "Blank Tools Prompt Pack — 50 Battle-Tested Prompts",
       "blurb": "50 proven prompts for Blank Tools. Copy/paste ready. Tested across Claude, GPT, Gemini.",
