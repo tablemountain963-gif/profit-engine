@@ -128,14 +128,6 @@
       "losses": 0,
       "niche": "ai"
     },
-    "_blank-buy": {
-      "firstSeen": "2026-05-28T18:30:48.651Z",
-      "lastSeen": "2026-06-02T19:36:34.952Z",
-      "count": 2,
-      "wins": 0,
-      "losses": 1,
-      "niche": "ai"
-    },
     "upbeat-sales": {
       "firstSeen": "2026-05-28T18:30:49.094Z",
       "lastSeen": "2026-05-28T20:11:47.449Z",
@@ -538,8 +530,8 @@
     },
     "2026-_blank": {
       "firstSeen": "2026-05-31T21:45:59.853Z",
-      "lastSeen": "2026-06-06T04:53:23.652Z",
-      "count": 2,
+      "lastSeen": "2026-06-16T22:47:02.524Z",
+      "count": 3,
       "wins": 0,
       "losses": 0,
       "niche": "gear"
@@ -733,22 +725,6 @@
       "lastSeen": "2026-06-02T22:53:26.861Z",
       "count": 2,
       "wins": 1,
-      "losses": 0,
-      "niche": "ai"
-    },
-    "flash-scores": {
-      "firstSeen": "2026-06-02T19:37:31.802Z",
-      "lastSeen": "2026-06-02T19:37:31.802Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "ai"
-    },
-    "bench-pro": {
-      "firstSeen": "2026-06-02T19:37:43.737Z",
-      "lastSeen": "2026-06-02T19:37:43.737Z",
-      "count": 1,
-      "wins": 0,
       "losses": 0,
       "niche": "ai"
     },
@@ -2498,10 +2474,10 @@
     },
     "htc-u24-pro": {
       "firstSeen": "2026-06-11T22:45:24.168Z",
-      "lastSeen": "2026-06-11T22:45:24.168Z",
-      "count": 1,
+      "lastSeen": "2026-06-16T22:46:02.172Z",
+      "count": 2,
       "wins": 0,
-      "losses": 0,
+      "losses": 1,
       "niche": "ai"
     },
     "ai-prompts-for-teachers-and-educators": {
@@ -3306,9 +3282,9 @@
     },
     "middle-aisle": {
       "firstSeen": "2026-06-16T18:03:56.471Z",
-      "lastSeen": "2026-06-16T18:03:56.471Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-16T22:46:02.173Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -3354,25 +3330,25 @@
     },
     "income-buy": {
       "firstSeen": "2026-06-16T19:28:01.567Z",
-      "lastSeen": "2026-06-16T19:28:01.567Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-16T22:46:02.174Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "finance"
     },
     "elite-tech": {
       "firstSeen": "2026-06-16T19:28:04.807Z",
-      "lastSeen": "2026-06-16T19:28:04.807Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-16T22:46:02.174Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "gear"
     },
     "accessible-price": {
       "firstSeen": "2026-06-16T19:28:08.348Z",
-      "lastSeen": "2026-06-16T19:28:08.348Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-16T22:46:02.175Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "gear"
     },
@@ -3383,27 +3359,67 @@
       "wins": 0,
       "losses": 0,
       "niche": "gear"
+    },
+    "gym-girlies": {
+      "firstSeen": "2026-06-16T22:46:07.693Z",
+      "lastSeen": "2026-06-16T22:46:07.693Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "gear"
+    },
+    "gear": {
+      "firstSeen": "2026-06-16T22:46:11.000Z",
+      "lastSeen": "2026-06-16T22:46:11.000Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "gear"
+    },
+    "series-mouse": {
+      "firstSeen": "2026-06-16T22:46:13.979Z",
+      "lastSeen": "2026-06-16T22:46:13.979Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "gear"
+    },
+    "healthcare-operators": {
+      "firstSeen": "2026-06-16T22:46:20.594Z",
+      "lastSeen": "2026-06-16T22:46:20.594Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "tool": {
+      "firstSeen": "2026-06-16T22:47:14.396Z",
+      "lastSeen": "2026-06-16T22:47:14.396Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "software"
     }
   },
   "niches": {
     "ai": {
-      "count": 580,
-      "wins": 169,
-      "losses": 20
+      "count": 584,
+      "wins": 170,
+      "losses": 21
     },
     "finance": {
-      "count": 48,
-      "wins": 8,
+      "count": 49,
+      "wins": 9,
       "losses": 0
     },
     "software": {
-      "count": 125,
+      "count": 126,
       "wins": 33,
       "losses": 7
     },
     "gear": {
-      "count": 40,
-      "wins": 9,
+      "count": 45,
+      "wins": 11,
       "losses": 0
     },
     "health": {
