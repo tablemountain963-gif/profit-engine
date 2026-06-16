@@ -3314,17 +3314,17 @@
     },
     "roaring-forties": {
       "firstSeen": "2026-06-16T18:03:59.769Z",
-      "lastSeen": "2026-06-16T18:03:59.769Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-16T19:27:56.187Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
     "furious-fifti": {
       "firstSeen": "2026-06-16T18:04:02.793Z",
-      "lastSeen": "2026-06-16T18:04:02.793Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-16T19:27:56.188Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -3351,16 +3351,48 @@
       "wins": 0,
       "losses": 0,
       "niche": "finance"
+    },
+    "income-buy": {
+      "firstSeen": "2026-06-16T19:28:01.567Z",
+      "lastSeen": "2026-06-16T19:28:01.567Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "finance"
+    },
+    "elite-tech": {
+      "firstSeen": "2026-06-16T19:28:04.807Z",
+      "lastSeen": "2026-06-16T19:28:04.807Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "gear"
+    },
+    "accessible-price": {
+      "firstSeen": "2026-06-16T19:28:08.348Z",
+      "lastSeen": "2026-06-16T19:28:08.348Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "gear"
+    },
+    "cool-gadgets": {
+      "firstSeen": "2026-06-16T19:28:28.223Z",
+      "lastSeen": "2026-06-16T19:28:28.223Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "gear"
     }
   },
   "niches": {
     "ai": {
-      "count": 578,
-      "wins": 167,
+      "count": 580,
+      "wins": 169,
       "losses": 20
     },
     "finance": {
-      "count": 47,
+      "count": 48,
       "wins": 8,
       "losses": 0
     },
@@ -3370,7 +3402,7 @@
       "losses": 7
     },
     "gear": {
-      "count": 37,
+      "count": 40,
       "wins": 9,
       "losses": 0
     },
