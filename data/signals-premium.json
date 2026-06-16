@@ -1,76 +1,120 @@
 {
-  "generatedAt": "2026-06-15T22:53:09.067Z",
-  "sourceCount": 205,
+  "generatedAt": "2026-06-16T06:31:25.424Z",
+  "sourceCount": 203,
   "topItems": [
-    {
-      "title": "I'm getting burnt out on all my moderation actions being against fucking AI. Like, I never thought I'd say it, but I miss suspending Nazis and bigots—at least they were real people who would give up a",
-      "url": "https://lgbtqia.space/@alice/116755340948907372",
-      "score": 9.19,
-      "niche": "ai",
-      "source": "mastodon",
-      "engagement": {
-        "score": 702,
-        "comments": 21
-      }
-    },
-    {
-      "title": "alchaincyf/loop-engineering-orange-book — 别再问我什么是 Loop Engineering — 橙皮书系列。A plain-language guide to loop engineering (中文 + English PDF). Free.",
-      "url": "https://github.com/alchaincyf/loop-engineering-orange-book",
-      "score": 8.15,
-      "niche": "ai",
-      "source": "github",
-      "engagement": {
-        "score": 280,
-        "comments": 0
-      }
-    },
-    {
-      "title": "Oh my Bob, this is utterly unhinged. Peter #Theil and Aron #DSouza have teamed up to create an “AI Tribunal” for the #EpsteinClass to whitewash any negative reporting, by “suing the reporter” in a mad",
-      "url": "https://mefi.social/@MissConstrue/116755759876467474",
-      "score": 7.87,
-      "niche": "ai",
-      "source": "mastodon",
-      "engagement": {
-        "score": 249,
-        "comments": 19
-      }
-    },
     {
       "title": "Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?",
       "url": "https://news.ycombinator.com/item?id=48542100",
-      "score": 7.8,
+      "score": 8.25,
       "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 547,
-        "comments": 281
+        "score": 868,
+        "comments": 400
+      }
+    },
+    {
+      "title": "The US Postal Service (USPS) published a proposed rule to allow the federal government to control who can cast a mail-in or absentee ballot. States would have to send a list of every voter slated to r",
+      "url": "https://disabled.social/@ahimsa_pdx/116756857441501173",
+      "score": 8.16,
+      "niche": "ai",
+      "source": "mastodon",
+      "engagement": {
+        "score": 261,
+        "comments": 11
+      }
+    },
+    {
+      "title": "New modeling from The Lancet suggests the USAID funding cuts will kill 14 million people. Many of them are children. 600,000 have already died. The man who gutted the program? Elon Musk. The world’s f",
+      "url": "https://zeroes.ca/@broadwaybabyto/116756914908987004",
+      "score": 7.99,
+      "niche": "ai",
+      "source": "mastodon",
+      "engagement": {
+        "score": 488,
+        "comments": 14
+      }
+    },
+    {
+      "title": "joeseesun/qiaomu-app-review-insights — 把 App Store 评价变成产品研究证据，发现痛点、机会和版本风险 | Turn App Store reviews into product research evidence: pain points, opportunities, and version risks.",
+      "url": "https://github.com/joeseesun/qiaomu-app-review-insights",
+      "score": 7.72,
+      "niche": "ai",
+      "source": "github",
+      "engagement": {
+        "score": 119,
+        "comments": 0
       }
     },
     {
       "title": "TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)",
       "url": "https://tinywind.io",
-      "score": 7.34,
+      "score": 7.72,
       "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 521,
-        "comments": 106
+        "score": 738,
+        "comments": 147
       }
     },
     {
       "title": "My Homelab AI Dev Platform",
       "url": "https://rsgm.dev/post/ai-dev-platform/",
-      "score": 7.22,
+      "score": 7.64,
       "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 200,
-        "comments": 41
+        "score": 290,
+        "comments": 52
       }
     },
     {
-      "title": "Salesforce To Acquire AI Agent Maker Fin In $3.6 Billion Deal",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNE9OeEhlRGpBaEZ6WFZOQWhhUG9IcUpYQ1VpSWJ4UkVIRGlxY3hnOEJWbkw1a2NIUUtKOElwcy1fZzM1cnI3SHlYaW1YMXZXY3ZKbVZ3dHRLcEpHeGJkcmlOQWUzakZKYWxXMDA1RThvektBUnd1VDVSUEJwVndDQXZOeWkxUVl1TVZMLVY2dDNpS0xoNmRiQk1GbXFKUS1wTGhwMQ?oc=5",
+      "title": "Best AI Avatar Tools for Content Creators in 2026",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBpUElkUTJ1Y0FqRzE2c0dpVV9RLUJoRlduUURLWHByQmNNYTJ0cUE4c2pMYzRHaFNPU2pKVjFfNDFKdUpfMWIwMVlja3hLRThyWFhualZyUmYzWi1fSVZQaHVCRWhEaEpUaC1Uc01SMUVWWWtoWmRrUjRB?oc=5",
+      "score": 7.48,
+      "niche": "ai",
+      "source": "gnews",
+      "engagement": {
+        "score": 40,
+        "comments": 0
+      }
+    },
+    {
+      "title": "What if neighbours worked together to make solar, battery backup, and home electrification easier and more affordable?I'm exploring a community-led model for Ottawa that focuses on transparency, resil",
+      "url": "https://mastodon.social/@mgifford/116757302917703128",
+      "score": 7.12,
+      "niche": "ai",
+      "source": "mastodon",
+      "engagement": {
+        "score": 157,
+        "comments": 5
+      }
+    },
+    {
+      "title": "When a senior developer tells me they use an LLM because it's just as good as working with a junior developer, they're telling me everything I need to know. About themselves, I mean, not about LLMs or",
+      "url": "https://mastodon.social/@GeePawHill/116757604980634796",
+      "score": 6.92,
+      "niche": "ai",
+      "source": "mastodon",
+      "engagement": {
+        "score": 138,
+        "comments": 3
+      }
+    },
+    {
+      "title": "Today we learned a 36-year-old white Texan man was caught in Bogota Colombia raping an adopted 7-year-old boy in broad daylight. Cops entered his apartment & also rescued 4-year-old & 15-year-old rape",
+      "url": "https://mastodon.social/@QasimRashid/116757097277408505",
+      "score": 6.77,
+      "niche": "software",
+      "source": "mastodon",
+      "engagement": {
+        "score": 247,
+        "comments": 7
+      }
+    },
+    {
+      "title": "Updated Home Maintenance-Focused Apps",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9FM2V2UnM5V2tvNkNieHFfbjhDbHZlclJXTkU0bnJ0VUtyNnZvNVZoSVFxdFVqRlFUWVByZjJFX18tUWswQUxfenRxaDJiWGxsMjh4bGhoUFRoaFBhLXfSAV5BVV95cUxPRTNldlJzOVdrbzZDYnhxX244Q2x2ZXJSV05FNG5ydFVLcjZ2bzVWaElRcXRVakZRVFlQcmYyRV9fLVFrMEFMX3p0cWgyYlhsbDI4eGxoaFBUaGhQYS13?oc=5",
       "score": 6.71,
       "niche": "ai",
       "source": "gnews",
@@ -80,47 +124,69 @@
       }
     },
     {
-      "title": "Important development in holding gun industry civilly accountable for their role in gun violence. The Supreme Court has refused to hear an appeal from gun makers who sought to invalidate New York’s st",
-      "url": "https://mastodon.social/@heidilifeldman/116756002569649736",
-      "score": 6.2,
-      "niche": "software",
-      "source": "mastodon",
-      "engagement": {
-        "score": 81,
-        "comments": 1
-      }
-    },
-    {
-      "title": "eli-labz/Third-Eye — A production-grade OSINT platform that provides situational awareness across multiple intelligence domains.",
-      "url": "https://github.com/eli-labz/Third-Eye",
-      "score": 6.15,
+      "title": "alchaincyf/loop-engineering-orange-book — 别再问我什么是 Loop Engineering — 橙皮书系列。A plain-language guide to loop engineering (中文 + English PDF). Free.",
+      "url": "https://github.com/alchaincyf/loop-engineering-orange-book",
+      "score": 6.41,
       "niche": "ai",
       "source": "github",
       "engagement": {
-        "score": 289,
-        "comments": 1
+        "score": 369,
+        "comments": 0
       }
     },
     {
-      "title": "A recurring thought I've had since I was a teenager: most adults are emotionally children and thus useless / unavailable when you need to talk about Real Shit. It's not even that adults coddle you whe",
-      "url": "https://mastodon.social/@gwynnion/116756314085842462",
-      "score": 6.12,
+      "title": "The claim is Palantir's technology allows major improvements in NHS performance.But, having crunched the numbers the FT has concluded this relies mostly on results from *one* hospital (Chelsea & Westm",
+      "url": "https://mastodon.me.uk/@ChrisMayLA6/116758175148301636",
+      "score": 6.38,
       "niche": "ai",
       "source": "mastodon",
       "engagement": {
-        "score": 61,
-        "comments": 10
+        "score": 51,
+        "comments": 1
       }
     },
     {
       "title": "Jeidoban/Ironsmith — Create personal Mac apps instantly with a prompt. Supports on-device and cloud LLMs",
       "url": "https://github.com/Jeidoban/Ironsmith",
-      "score": 6.08,
+      "score": 6.28,
       "niche": "ai",
       "source": "github",
       "engagement": {
-        "score": 150,
-        "comments": 1
+        "score": 171,
+        "comments": 4
+      }
+    },
+    {
+      "title": "Banned Book Library in a Wi-Fi Smart Light Bulb",
+      "url": "https://www.richardosgood.com/posts/banned-book-library/",
+      "score": 6.19,
+      "niche": "software",
+      "source": "hackernews",
+      "engagement": {
+        "score": 301,
+        "comments": 140
+      }
+    },
+    {
+      "title": "fivetaku/fablize — A Claude Code plugin that makes Opus behave like Fable — completion, evidence, and verification enforced as procedure. Ships only what a Fable-vs-Opus comparison proved transferable",
+      "url": "https://github.com/fivetaku/fablize",
+      "score": 6.13,
+      "niche": "ai",
+      "source": "github",
+      "engagement": {
+        "score": 286,
+        "comments": 0
+      }
+    },
+    {
+      "title": "Why I email complete strangers",
+      "url": "https://www.goodinternetmagazine.com/why-i-email-complete-strangers/",
+      "score": 6.1,
+      "niche": "ai",
+      "source": "hackernews",
+      "engagement": {
+        "score": 129,
+        "comments": 56
       }
     },
     {
@@ -135,9 +201,9 @@
       }
     },
     {
-      "title": "Yale researchers propose ‘copyleft’ rules for generative AI",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWnd2a0ctWW50cndUcGZEeHNwS0VwMGx1Mll1bDZwblEyZTNXTnFGNFczQUlTaHJJdDR0YldLbW53eWFjT1dMbUJQSjZTdFExeWFEc3hhTklkXzg2b29IS3oxMDdZS2VoZmE3NFVzaXptVVIyN0hucmRzRXFfWjMtZUsxQnFVX284bDZPRXpaUQ?oc=5",
-      "score": 5.94,
+      "title": "AI Delegation Problem: Why Most Organizations Squander Their Best Tool",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPM3p4cUFrZU1aNVpHay1fbDlVMzZ5RnBmLUNmbVhjUVVLMlpLcFpDTHZHblU4ZDFXRnJoZDREUnZ0QnhpaEs5QUhrN0RQa1VMbGRFUkpYUVZESTQ3MXVXVTdncVV4VmViSC1nUjNFV3c0M2psVXEtUmRzVnU2X2lBZmdjc2VPM3E3ZHg4TmUxOU9WNVB1QmJCckZCQ3FMRlJJLWwtNmpZajlWYjB1MEtkNTltc19KNDU1ME1KY1NHZHpYQQ?oc=5",
+      "score": 5.99,
       "niche": "ai",
       "source": "gnews",
       "engagement": {
@@ -146,97 +212,53 @@
       }
     },
     {
-      "title": "Software Stocks Are Going Down, No Matter What Happens With AI (BATS:IGV)",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWlhEd1I4SzFpdUJ5b2Z0Qk8xb2h1QTBMOVVRYWYyRmM5SGpuYnltdS1wV3JfWE8zdHhKSEFIXzBLZTgyTkN6Nk40QXZBTFdtaWUweGxmWktScjhRRlVWYmlhUXZicmZPRFkyTDk0NlpHRnBIREFWWWx3dTBRaDRTY1R6RU5LeGRraEFiY185TFg4TU5lVTJRT0Ytc2pKTm1sUDk4TA?oc=5",
-      "score": 5.94,
-      "niche": "ai",
+      "title": "8 apps to boost productivity and organization",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdFMyMi1OVVhiV2pONmJYcWYwalZvd1ZvRTZYMmNjanMtZHdvSlFURFpvNnIzcDhVTjR4clE3QjhvR1ViWUNBVXdhNVkyN1M3X0dDWXNpN1N4TFRqMFcxeEktU0VBam1jOVVaNUhrejlzaW5zLU1YanF6SlBxcVRUUHZCS0MyNzRnc2VObFFXNGVoQjZud2gxbENYNA?oc=5",
+      "score": 5.78,
+      "niche": "software",
       "source": "gnews",
       "engagement": {
         "score": 40,
         "comments": 0
-      }
-    },
-    {
-      "title": "CMU’s Software Engineering Institute and Accenture Release New Framework To Help Organizations Realize AI’s Promise",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNbERTek1JVGdsY3NqQlYzRUZlNkN5WTFKdUNsamRUT2RHYXI3NTZhazRJWjV5M1hEUUhIWkFkQldqbDBKVEZOLVcxN3c3dWZKck1SYjNVeDVBY0ROa0x4VjR6TS1tbDdfWmhxVVJjUjJvYzFGT2FuczBhTVhKSk9ZbFUtczhDWWE1ekcxOWRWZEhrTE84ZXJqNHBkVmRaNng1bEViUDg1bm5xWlpaTV9QQ2tiLWRhMkdOd2t1TFgxQ192RXFSWU9NV3NDMTRaZ25JNmFkWjhyeTBfdTFEV1E?oc=5",
-      "score": 5.94,
-      "niche": "ai",
-      "source": "gnews",
-      "engagement": {
-        "score": 40,
-        "comments": 0
-      }
-    },
-    {
-      "title": "fivetaku/fablize — A Claude Code plugin that makes Opus behave like Fable — completion, evidence, and verification enforced as procedure. Ships only what a Fable-vs-Opus comparison proved transferable",
-      "url": "https://github.com/fivetaku/fablize",
-      "score": 5.91,
-      "niche": "ai",
-      "source": "github",
-      "engagement": {
-        "score": 231,
-        "comments": 1
-      }
-    },
-    {
-      "title": "Typst 0.15 contains multitudes",
-      "url": "https://typst.app/blog/2026/typst-0.15/",
-      "score": 5.84,
-      "niche": "ai",
-      "source": "lobsters",
-      "engagement": {
-        "score": 54,
-        "comments": 6
-      }
-    },
-    {
-      "title": "mrtooher/fable-mode — A Claude skill that activates Fable-style agentic behavior: explicit multi-stage planning, sub-agent delegation, and self-verification.",
-      "url": "https://github.com/mrtooher/fable-mode",
-      "score": 5.76,
-      "niche": "ai",
-      "source": "github",
-      "engagement": {
-        "score": 402,
-        "comments": 1
-      }
-    },
-    {
-      "title": "Show HN: Vet turned founder, AI lawn diagnosis",
-      "url": "https://grassdx.com/",
-      "score": 5.54,
-      "niche": "ai",
-      "source": "hackernews",
-      "engagement": {
-        "score": 25,
-        "comments": 14
       }
     },
     {
       "title": "Launch HN: Drafted (YC P26) – Models for residential architecture",
       "url": "https://news.ycombinator.com/item?id=48543908",
-      "score": 5.36,
+      "score": 5.66,
       "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 33,
-        "comments": 45
+        "score": 52,
+        "comments": 55
       }
     },
     {
-      "title": "EEliberto/IPA-Download — 一款用于安装 IPA 历史版本的工具，适用于获取旧版应用并自动捕获数据包。下载后，可直接通过 AirDrop 传输至 iPhone、iPad 上并安装并使用。",
-      "url": "https://github.com/EEliberto/IPA-Download",
-      "score": 5.17,
+      "title": "Show HN: Veterinarian turned founder, AI lawn diagnosis",
+      "url": "https://grassdx.com/",
+      "score": 5.64,
       "niche": "ai",
-      "source": "github",
+      "source": "hackernews",
       "engagement": {
-        "score": 491,
-        "comments": 0
+        "score": 57,
+        "comments": 51
       }
     },
     {
-      "title": "Anthropic Pulls Claude Fable and Mythos AI Models After Feds Claim Jailbreak",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPS0t6Wng3RzNPalVucXJsTWptTnhsNDF0VUI4M3ZjWTVjRUk5eTJNMmZvNE9aMjBRdXV6dWxfWFhVMkFEakhKM3dfTjFWY29VeG4zX3N4SkhhcTUtMnlpeVc4WlVvWmxVZnZyZEE5MHlqVmN1OFVZekRraGJKYUhkUkQtUnlaZVFRTjQ4ODZMa3poMDVVcjBJTXRJLTY2Zw?oc=5",
-      "score": 5.16,
+      "title": "I am really starting to loathe the “sovereignty” framing of open source sustainability, or data privacy, or whatever. It would be good to have a better tech community less beholden to the interests of",
+      "url": "https://mastodon.social/@glyph/116758171967325767",
+      "score": 5.44,
+      "niche": "ai",
+      "source": "mastodon",
+      "engagement": {
+        "score": 39,
+        "comments": 5
+      }
+    },
+    {
+      "title": "Salesforce To Acquire AI Agent Maker Fin In $3.6 Billion Deal",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNE9OeEhlRGpBaEZ6WFZOQWhhUG9IcUpYQ1VpSWJ4UkVIRGlxY3hnOEJWbkw1a2NIUUtKOElwcy1fZzM1cnI3SHlYaW1YMXZXY3ZKbVZ3dHRLcEpHeGJkcmlOQWUzakZKYWxXMDA1RThvektBUnd1VDVSUEJwVndDQXZOeWkxUVl1TVZMLVY2dDNpS0xoNmRiQk1GbXFKUS1wTGhwMQ?oc=5",
+      "score": 5.37,
       "niche": "ai",
       "source": "gnews",
       "engagement": {
@@ -247,119 +269,76 @@
     {
       "title": "pyinfra — agentless infrastructure automation, in plain Python",
       "url": "https://pyinfra.com",
-      "score": 5.13,
+      "score": 5.3,
       "niche": "ai",
       "source": "lobsters",
       "engagement": {
-        "score": 50,
-        "comments": 25
-      }
-    },
-    {
-      "title": "gykim80/perfectpixel-studio — AI-powered animation sprite studio — generate character sprite sheets with 8 directions and 100+ actions from a single text prompt (Wails + Go + React)",
-      "url": "https://github.com/gykim80/perfectpixel-studio",
-      "score": 4.95,
-      "niche": "ai",
-      "source": "github",
-      "engagement": {
-        "score": 172,
-        "comments": 1
-      }
-    },
-    {
-      "title": "Sponsored: Total Wealth Academy Talks Retirement Fears and Passive Income Strategies",
-      "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxNOHB1TEZkaUoxWXlIUlJvWk9KS2N6MU54dExKVXlPa1V1NGxoTGJIU0tmejdVWmtGV2NabWxheGY2MFhXNm53RXBQZ3BNZy0wMEZpbGdDTlYyMFNsUEVKZzRXV3pFZ0l5M3RVX04tMWwydG1TcUFoOVhKTlEtRzF3Qlk1T2hsX21Oc3liM0dva3pnY2lVYTZDUml3R1g1MVJEMWRNb0dnak1PdHdCZWQwdW9QQ2tsZnF0SlVuUmswUjlxNmEtd0VMT1RlOUdFeHBIYWRUNHFzd0txNkpHREV6NnJGbXRxNE50TWM5RllrRnJHbjgyTkJETF9mMUVkUXozRWxwdTRGMHpKbHZFaE1hNmpPTkotRVNqREhDMFRobzM2WGV2VnlXMXNJTEd6QQ?oc=5",
-      "score": 4.84,
-      "niche": "finance",
-      "source": "gnews",
-      "engagement": {
-        "score": 40,
-        "comments": 0
+        "score": 59,
+        "comments": 29
       }
     }
   ],
   "topics": [
     {
-      "keyword": "passive income",
-      "count": 50,
-      "score": 259.4711180044979,
+      "keyword": "app store",
+      "count": 11,
+      "score": 127.34569295792491,
       "proper": true,
       "niches": [
-        "finance",
         "ai"
       ],
       "examples": [
         {
-          "title": "Sponsored: Total Wealth Academy Talks Retirement Fears and Passive Income Strategies",
-          "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxNOHB1TEZkaUoxWXlIUlJvWk9KS2N6MU54dExKVXlPa1V1NGxoTGJIU0tmejdVWmtGV2NabWxheGY2MFhXNm53RXBQZ3BNZy0wMEZpbGdDTlYyMFNsUEVKZzRXV3pFZ0l5M3RVX04tMWwydG1TcUFoOVhKTlEtRzF3Qlk1T2hsX21Oc3liM0dva3pnY2lVYTZDUml3R1g1MVJEMWRNb0dnak1PdHdCZWQwdW9QQ2tsZnF0SlVuUmswUjlxNmEtd0VMT1RlOUdFeHBIYWRUNHFzd0txNkpHREV6NnJGbXRxNE50TWM5RllrRnJHbjgyTkJETF9mMUVkUXozRWxwdTRGMHpKbHZFaE1hNmpPTkotRVNqREhDMFRobzM2WGV2VnlXMXNJTEd6QQ?oc=5",
-          "source": "gnews"
+          "title": "joeseesun/qiaomu-app-review-insights — 把 App Store 评价变成产品研究证据，发现痛点、机会和版本风险 | Turn App Store reviews into product research evidence: pain points, opportunities, and version risks.",
+          "url": "https://github.com/joeseesun/qiaomu-app-review-insights",
+          "source": "github"
         },
         {
-          "title": "With 135 Dividend Increases (And Counting), This High-Yield Stock Remains a Top Passive Income Investment for the Long-Term",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQU1lQS1YclVsSXo2aEFleEcySmpLYTFQWXZxREtLQmRSbjB3S19hN1U4cVMzODVCUXZXdG9nbHZCTTJmTmdBWW5GWkN0amJvb2UwaXhKU1VIYnlyTUE5TUVjbS1mN0stb1VfdE1fd2FkZEl2QXl0bDYzV1F1aml1Q09SeU1xN1lnMVdEbEt0WFM4Znk4ZTBWbA?oc=5",
-          "source": "gnews"
+          "title": "joeseesun/qiaomu-app-review-insights — 把 App Store 评价变成产品研究证据，发现痛点、机会和版本风险 | Turn App Store reviews into product research evidence: pain points, opportunities, and version risks.",
+          "url": "https://github.com/joeseesun/qiaomu-app-review-insights",
+          "source": "github"
         },
         {
-          "title": "With 135 Dividend Increases (And Counting), This High-Yield Stock Remains a Top Passive Income Investment for the Long-Term",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQU1lQS1YclVsSXo2aEFleEcySmpLYTFQWXZxREtLQmRSbjB3S19hN1U4cVMzODVCUXZXdG9nbHZCTTJmTmdBWW5GWkN0amJvb2UwaXhKU1VIYnlyTUE5TUVjbS1mN0stb1VfdE1fd2FkZEl2QXl0bDYzV1F1aml1Q09SeU1xN1lnMVdEbEt0WFM4Znk4ZTBWbA?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "3 High-Yield BlackRock ETFs Paying 6%+ in Passive Income",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUEpoZHJWVndHVmFOekVhUFMzXzhST3ZsaXp3Q0k1WEs1eXM2ZFhBZDVjYUptSjAxRFI3Qk8zWFhPN0FPbnZPN3F4SFJIRzVfWl9UOHU4elUwZ3BtbWVZWHJESVhHQUc1VG1YMHlQVkpDdjRRb29zSkNKT2pxZExxX2h6dXd0SGpSS1JYMg?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "3 High-Yield BlackRock ETFs Paying 6%+ in Passive Income",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUEpoZHJWVndHVmFOekVhUFMzXzhST3ZsaXp3Q0k1WEs1eXM2ZFhBZDVjYUptSjAxRFI3Qk8zWFhPN0FPbnZPN3F4SFJIRzVfWl9UOHU4elUwZ3BtbWVZWHJESVhHQUc1VG1YMHlQVkpDdjRRb29zSkNKT2pxZExxX2h6dXd0SGpSS1JYMg?oc=5",
-          "source": "gnews"
+          "title": "joeseesun/qiaomu-app-review-insights — 把 App Store 评价变成产品研究证据，发现痛点、机会和版本风险 | Turn App Store reviews into product research evidence: pain points, opportunities, and version risks.",
+          "url": "https://github.com/joeseesun/qiaomu-app-review-insights",
+          "source": "github"
         }
       ],
-      "id": "cf2dbbbf8c8c",
-      "slug": "passive-income"
+      "id": "25dd14681eb5",
+      "slug": "app-store"
     },
     {
-      "keyword": "claude",
-      "count": 17,
-      "score": 154.94574425323663,
+      "keyword": "content creators",
+      "count": 11,
+      "score": 123.47473207046296,
       "proper": true,
       "niches": [
         "ai"
       ],
       "examples": [
         {
-          "title": "Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?",
-          "url": "https://news.ycombinator.com/item?id=48542100",
-          "source": "hackernews"
+          "title": "Best AI Avatar Tools for Content Creators in 2026",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBpUElkUTJ1Y0FqRzE2c0dpVV9RLUJoRlduUURLWHByQmNNYTJ0cUE4c2pMYzRHaFNPU2pKVjFfNDFKdUpfMWIwMVlja3hLRThyWFhualZyUmYzWi1fSVZQaHVCRWhEaEpUaC1Uc01SMUVWWWtoWmRrUjRB?oc=5",
+          "source": "gnews"
         },
         {
-          "title": "Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?",
-          "url": "https://news.ycombinator.com/item?id=48542100",
-          "source": "hackernews"
+          "title": "Best AI Avatar Tools for Content Creators in 2026",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBpUElkUTJ1Y0FqRzE2c0dpVV9RLUJoRlduUURLWHByQmNNYTJ0cUE4c2pMYzRHaFNPU2pKVjFfNDFKdUpfMWIwMVlja3hLRThyWFhualZyUmYzWi1fSVZQaHVCRWhEaEpUaC1Uc01SMUVWWWtoWmRrUjRB?oc=5",
+          "source": "gnews"
         },
         {
-          "title": "fivetaku/fablize — A Claude Code plugin that makes Opus behave like Fable — completion, evidence, and verification enforced as procedure. Ships only what a Fable-vs-Opus comparison proved transferable",
-          "url": "https://github.com/fivetaku/fablize",
-          "source": "github"
-        },
-        {
-          "title": "mrtooher/fable-mode — A Claude skill that activates Fable-style agentic behavior: explicit multi-stage planning, sub-agent delegation, and self-verification.",
-          "url": "https://github.com/mrtooher/fable-mode",
-          "source": "github"
-        },
-        {
-          "title": "mrtooher/fable-mode — A Claude skill that activates Fable-style agentic behavior: explicit multi-stage planning, sub-agent delegation, and self-verification.",
-          "url": "https://github.com/mrtooher/fable-mode",
-          "source": "github"
+          "title": "Best AI Avatar Tools for Content Creators in 2026",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBpUElkUTJ1Y0FqRzE2c0dpVV9RLUJoRlduUURLWHByQmNNYTJ0cUE4c2pMYzRHaFNPU2pKVjFfNDFKdUpfMWIwMVlja3hLRThyWFhualZyUmYzWi1fSVZQaHVCRWhEaEpUaC1Uc01SMUVWWWtoWmRrUjRB?oc=5",
+          "source": "gnews"
         }
       ],
-      "id": "c857d09db23e",
-      "slug": "claude"
+      "id": "979b1e3dfb31",
+      "slug": "content-creators"
     },
     {
       "keyword": "loop engineering",
       "count": 11,
-      "score": 134.46336143862777,
+      "score": 105.76881980397515,
       "proper": true,
       "niches": [
         "ai"
@@ -386,8 +365,8 @@
     },
     {
       "keyword": "claude code",
-      "count": 19,
-      "score": 132.36745260928546,
+      "count": 22,
+      "score": 102.81342498506913,
       "proper": true,
       "niches": [
         "ai"
@@ -404,28 +383,66 @@
           "source": "github"
         },
         {
-          "title": "duolahypercho/fusion-fable — Fuse two frontier models into one Fable-tier answer: Opus 4.8 drafts, a second model (Opus 4.8 or GPT-5.5 via codex) checks, Opus fuses. A Claude Code skill.",
-          "url": "https://github.com/duolahypercho/fusion-fable",
-          "source": "github"
+          "title": "Claude Code is the best AI coding tool I've used, and I’m not entirely sure if I can recommend it",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMnJUQnpneEtHMEJFZzZ0V0djN24zOVQyM3hpT09WYm5sUXBRVEo0QkFCZG50Q3RMMUtuczFwYk9aMEYxSFpBMVkxNDhrRmpOTUNJWE9teEVsR3JDYW9YMktENFYxQlBjTC1lM2hfYTJ3WkI4c0tyMTh3X0UzSWUwVUFMRlQtSjhIcnRuTTVYUW9OeXFVbUtHYmt3?oc=5",
+          "source": "gnews"
         },
         {
-          "title": "duolahypercho/fusion-fable — Fuse two frontier models into one Fable-tier answer: Opus 4.8 drafts, a second model (Opus 4.8 or GPT-5.5 via codex) checks, Opus fuses. A Claude Code skill.",
-          "url": "https://github.com/duolahypercho/fusion-fable",
-          "source": "github"
+          "title": "Claude Code is the best AI coding tool I've used, and I’m not entirely sure if I can recommend it",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMnJUQnpneEtHMEJFZzZ0V0djN24zOVQyM3hpT09WYm5sUXBRVEo0QkFCZG50Q3RMMUtuczFwYk9aMEYxSFpBMVkxNDhrRmpOTUNJWE9teEVsR3JDYW9YMktENFYxQlBjTC1lM2hfYTJ3WkI4c0tyMTh3X0UzSWUwVUFMRlQtSjhIcnRuTTVYUW9OeXFVbUtHYmt3?oc=5",
+          "source": "gnews"
         },
         {
-          "title": "clauster 0.11.0",
-          "url": "https://pypi.org/project/clauster/0.11.0/",
-          "source": "pypi"
+          "title": "Claude Code is the best AI coding tool I've used, and I’m not entirely sure if I can recommend it",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMnJUQnpneEtHMEJFZzZ0V0djN24zOVQyM3hpT09WYm5sUXBRVEo0QkFCZG50Q3RMMUtuczFwYk9aMEYxSFpBMVkxNDhrRmpOTUNJWE9teEVsR3JDYW9YMktENFYxQlBjTC1lM2hfYTJ3WkI4c0tyMTh3X0UzSWUwVUFMRlQtSjhIcnRuTTVYUW9OeXFVbUtHYmt3?oc=5",
+          "source": "gnews"
         }
       ],
       "id": "a625159d18da",
       "slug": "claude-code"
     },
     {
+      "keyword": "claude",
+      "count": 10,
+      "score": 89.43769407556965,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?",
+          "url": "https://news.ycombinator.com/item?id=48542100",
+          "source": "hackernews"
+        },
+        {
+          "title": "Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?",
+          "url": "https://news.ycombinator.com/item?id=48542100",
+          "source": "hackernews"
+        },
+        {
+          "title": "fivetaku/fablize — A Claude Code plugin that makes Opus behave like Fable — completion, evidence, and verification enforced as procedure. Ships only what a Fable-vs-Opus comparison proved transferable",
+          "url": "https://github.com/fivetaku/fablize",
+          "source": "github"
+        },
+        {
+          "title": "Claude Code is the best AI coding tool I've used, and I’m not entirely sure if I can recommend it",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMnJUQnpneEtHMEJFZzZ0V0djN24zOVQyM3hpT09WYm5sUXBRVEo0QkFCZG50Q3RMMUtuczFwYk9aMEYxSFpBMVkxNDhrRmpOTUNJWE9teEVsR3JDYW9YMktENFYxQlBjTC1lM2hfYTJ3WkI4c0tyMTh3X0UzSWUwVUFMRlQtSjhIcnRuTTVYUW9OeXFVbUtHYmt3?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Claude Code is the best AI coding tool I've used, and I’m not entirely sure if I can recommend it",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMnJUQnpneEtHMEJFZzZ0V0djN24zOVQyM3hpT09WYm5sUXBRVEo0QkFCZG50Q3RMMUtuczFwYk9aMEYxSFpBMVkxNDhrRmpOTUNJWE9teEVsR3JDYW9YMktENFYxQlBjTC1lM2hfYTJ3WkI4c0tyMTh3X0UzSWUwVUFMRlQtSjhIcnRuTTVYUW9OeXFVbUtHYmt3?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "c857d09db23e",
+      "slug": "claude"
+    },
+    {
       "keyword": "billion deal",
       "count": 11,
-      "score": 110.70148392524266,
+      "score": 88.56118714019414,
       "proper": true,
       "niches": [
         "ai"
@@ -451,9 +468,60 @@
       "slug": "billion-deal"
     },
     {
+      "keyword": "bogota colombia",
+      "count": 8,
+      "score": 81.25492338834343,
+      "proper": true,
+      "niches": [
+        "software"
+      ],
+      "examples": [
+        {
+          "title": "Today we learned a 36-year-old white Texan man was caught in Bogota Colombia raping an adopted 7-year-old boy in broad daylight. Cops entered his apartment & also rescued 4-year-old & 15-year-old rape",
+          "url": "https://mastodon.social/@QasimRashid/116757097277408505",
+          "source": "mastodon"
+        },
+        {
+          "title": "Today we learned a 36-year-old white Texan man was caught in Bogota Colombia raping an adopted 7-year-old boy in broad daylight. Cops entered his apartment & also rescued 4-year-old & 15-year-old rape",
+          "url": "https://mastodon.social/@QasimRashid/116757097277408505",
+          "source": "mastodon"
+        }
+      ],
+      "id": "788c48e60e3b",
+      "slug": "bogota-colombia"
+    },
+    {
+      "keyword": "platform",
+      "count": 7,
+      "score": 77.77941715993418,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "My Homelab AI Dev Platform",
+          "url": "https://rsgm.dev/post/ai-dev-platform/",
+          "source": "hackernews"
+        },
+        {
+          "title": "My Homelab AI Dev Platform",
+          "url": "https://rsgm.dev/post/ai-dev-platform/",
+          "source": "hackernews"
+        },
+        {
+          "title": "Salesforce to buy AI customer service platform Fin for $3.6 billion to boost agentic offerings",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPVTRrb2RiMVFQTlpSeEZfSllTNEVwNWdWelREREtWSHJ4cEVleTdVMk5DRWJNaE1XQko2U3QxWHh1RmhYVkNyVTVaTmRmcTgtVWNNRzZvXzdfeVB2alFaYkhYOFZHclh0WGJHVG5RN3BJTTctZG40d21lUWRXSm9OLXl3T3R6RVhyRXfSAY8BQVVfeXFMTm9Ob0VYTWdkYThFTUJYdzdPa21FUmJaSXQ1SE5UMDNDMVVQbEVvemg3am9RV0hweGZhYm1ia29CTGZ4ZEpXRnFPbFJIWjZRUWlMa1JkSkpnSFlVbldvTnlxcVlFbjdIVEotYno1Vzh4OFU1ekpGVDJiN21IOGE5dUN4SzVRbHZCVE04eDhES2M?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "d294fcce0cc8",
+      "slug": "platform"
+    },
+    {
       "keyword": "english pdf",
       "count": 8,
-      "score": 97.79153559172929,
+      "score": 76.92277803925467,
       "proper": true,
       "niches": [
         "ai"
@@ -474,126 +542,9 @@
       "slug": "english-pdf"
     },
     {
-      "keyword": "platform",
-      "count": 8,
-      "score": 83.17290730568996,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "My Homelab AI Dev Platform",
-          "url": "https://rsgm.dev/post/ai-dev-platform/",
-          "source": "hackernews"
-        },
-        {
-          "title": "My Homelab AI Dev Platform",
-          "url": "https://rsgm.dev/post/ai-dev-platform/",
-          "source": "hackernews"
-        },
-        {
-          "title": "eli-labz/Third-Eye — A production-grade OSINT platform that provides situational awareness across multiple intelligence domains.",
-          "url": "https://github.com/eli-labz/Third-Eye",
-          "source": "github"
-        },
-        {
-          "title": "Salesforce to buy AI customer service platform Fin for $3.6 billion to boost agentic offerings",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPVTRrb2RiMVFQTlpSeEZfSllTNEVwNWdWelREREtWSHJ4cEVleTdVMk5DRWJNaE1XQko2U3QxWHh1RmhYVkNyVTVaTmRmcTgtVWNNRzZvXzdfeVB2alFaYkhYOFZHclh0WGJHVG5RN3BJTTctZG40d21lUWRXSm9OLXl3T3R6RVhyRXfSAY8BQVVfeXFMTm9Ob0VYTWdkYThFTUJYdzdPa21FUmJaSXQ1SE5UMDNDMVVQbEVvemg3am9RV0hweGZhYm1ia29CTGZ4ZEpXRnFPbFJIWjZRUWlMa1JkSkpnSFlVbldvTnlxcVlFbjdIVEotYno1Vzh4OFU1ekpGVDJiN21IOGE5dUN4SzVRbHZCVE04eDhES2M?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "d294fcce0cc8",
-      "slug": "platform"
-    },
-    {
-      "keyword": "income investors",
-      "count": 14,
-      "score": 71.4140691755499,
-      "proper": true,
-      "niches": [
-        "finance"
-      ],
-      "examples": [
-        {
-          "title": "A Historically Cheap High Yield Dividend Aristocrat That Is a Screaming Buy for Passive Income Investors",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObnM2dS15QmlaWWFKNFA4TlhDak15SjRNck9WQzUzcXR1emFGSnJKTXBnbEZqT3NNZzJ4SWFpYndqVFp6OVBDbFJIckRIM0czdlFwNUFMT3FBc0UzaGNFTXpzSlhzQTJlX3hUbGhfZXQ2bl9PUWZkLXVaWFhtSkxGV1dDVldaMGF0LWxLOVVfRVFkVGZpVVhSMFVFT0QyVGV2Qm1hSVBB?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "A Historically Cheap High Yield Dividend Aristocrat That Is a Screaming Buy for Passive Income Investors",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObnM2dS15QmlaWWFKNFA4TlhDak15SjRNck9WQzUzcXR1emFGSnJKTXBnbEZqT3NNZzJ4SWFpYndqVFp6OVBDbFJIckRIM0czdlFwNUFMT3FBc0UzaGNFTXpzSlhzQTJlX3hUbGhfZXQ2bl9PUWZkLXVaWFhtSkxGV1dDVldaMGF0LWxLOVVfRVFkVGZpVVhSMFVFT0QyVGV2Qm1hSVBB?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "3 Stocks With a Yield Over 6% For Passive Income Investors",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWXlPY01PZnN3X2tXWTF6aTBGWGZiVGNfRmo0Zm5mTlk2WFJScVNPWEZnQ2xfZk5xV0o4UE1KUWM1QXJXZ3VGaEVkU003cDRGa2pGd203aV9RRGUyRndSOW9TQUxvWUQzalpRcHpZQ0FTMGI3SEpNdmN3Vmk3T2pjcGhUdzNxVUFXT3VUM0VjMk9GSGJIbzBsUHZualdRY3NBck5F?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "3 Stocks With a Yield Over 6% For Passive Income Investors",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWXlPY01PZnN3X2tXWTF6aTBGWGZiVGNfRmo0Zm5mTlk2WFJScVNPWEZnQ2xfZk5xV0o4UE1KUWM1QXJXZ3VGaEVkU003cDRGa2pGd203aV9RRGUyRndSOW9TQUxvWUQzalpRcHpZQ0FTMGI3SEpNdmN3Vmk3T2pjcGhUdzNxVUFXT3VUM0VjMk9GSGJIbzBsUHZualdRY3NBck5F?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "f6a85ada5fff",
-      "slug": "income-investors"
-    },
-    {
-      "keyword": "apple",
-      "count": 10,
-      "score": 68.43798990471436,
-      "proper": true,
-      "niches": [
-        "software"
-      ],
-      "examples": [
-        {
-          "title": "Amazon Prime Day early tech deals: Save up to 44% on gadgets from Apple, Anker, Sony and others",
-          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNUDVtcmswemxnVmpEdXpiRXNsc2RELUFWT2NmZlFfRWJqSVZCRi1fb0tuc3FDVnIyRnJyc05JYTVGMzEtZlVCckJxQ2tkdG53WFBRRTRWdWhZTUNLd0ZiTTE4US1nazV5VjZzQU14SFNqVVdNM0RULXRGODNOeDk3YkRsN083MEgtQlp4RnhkYTE3bE9UVkZObUNKNTZaY0h2aTlTUjMwS2dpZjlOYk9WOGxoNXUtVTF4TlNmUm9Ha213Qk0xNDY4VDQ0QkE5dWN1SnlXbV9xcVJSVE5VRUpYMENvTnpTQnRmLV93OE5n?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "privatenumber/mac-ocr — macOS CLI for OCR and searchable PDFs using Apple's Vision framework.",
-          "url": "https://github.com/privatenumber/mac-ocr",
-          "source": "github"
-        }
-      ],
-      "id": "3a7bd3e2360a",
-      "slug": "apple"
-    },
-    {
-      "keyword": "dividend increases",
-      "count": 11,
-      "score": 66.42089035514559,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "With 135 Dividend Increases (And Counting), This High-Yield Stock Remains a Top Passive Income Investment for the Long-Term",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQU1lQS1YclVsSXo2aEFleEcySmpLYTFQWXZxREtLQmRSbjB3S19hN1U4cVMzODVCUXZXdG9nbHZCTTJmTmdBWW5GWkN0amJvb2UwaXhKU1VIYnlyTUE5TUVjbS1mN0stb1VfdE1fd2FkZEl2QXl0bDYzV1F1aml1Q09SeU1xN1lnMVdEbEt0WFM4Znk4ZTBWbA?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "With 135 Dividend Increases (And Counting), This High-Yield Stock Remains a Top Passive Income Investment for the Long-Term",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQU1lQS1YclVsSXo2aEFleEcySmpLYTFQWXZxREtLQmRSbjB3S19hN1U4cVMzODVCUXZXdG9nbHZCTTJmTmdBWW5GWkN0amJvb2UwaXhKU1VIYnlyTUE5TUVjbS1mN0stb1VfdE1fd2FkZEl2QXl0bDYzV1F1aml1Q09SeU1xN1lnMVdEbEt0WFM4Znk4ZTBWbA?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "With 135 Dividend Increases (And Counting), This High-Yield Stock Remains a Top Passive Income Investment for the Long-Term",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQU1lQS1YclVsSXo2aEFleEcySmpLYTFQWXZxREtLQmRSbjB3S19hN1U4cVMzODVCUXZXdG9nbHZCTTJmTmdBWW5GWkN0amJvb2UwaXhKU1VIYnlyTUE5TUVjbS1mN0stb1VfdE1fd2FkZEl2QXl0bDYzV1F1aml1Q09SeU1xN1lnMVdEbEt0WFM4Znk4ZTBWbA?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "464c8db6781a",
-      "slug": "dividend-increases"
-    },
-    {
       "keyword": "free",
-      "count": 5,
-      "score": 61.1197097448308,
+      "count": 10,
+      "score": 72.8490963137493,
       "proper": true,
       "niches": [
         "ai"
@@ -603,199 +554,206 @@
           "title": "alchaincyf/loop-engineering-orange-book — 别再问我什么是 Loop Engineering — 橙皮书系列。A plain-language guide to loop engineering (中文 + English PDF). Free.",
           "url": "https://github.com/alchaincyf/loop-engineering-orange-book",
           "source": "github"
+        },
+        {
+          "title": "Best AI Creativity Tools: Free & Paid Options",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTGdqeElaenNfS1VLSEh2Z1dpZFNDUlhWSjFGZjVkUVBORERrWVp5NC01MTF3a1o4Y3dJNGM4Sk9BMm1zOURvT1BEQm9SR1RkN0h3WmFKQXhNZWw3MnJoMkUzUmZSVFdScDJJVkp2YUZwci1maUg1enJZdXpyVVJMWEp2c2IwcDQ?oc=5",
+          "source": "gnews"
         }
       ],
       "id": "ad95d5fa651b",
       "slug": "free"
     },
     {
-      "keyword": "ai tribunal",
+      "keyword": "agent",
+      "count": 12,
+      "score": 65.56390913165605,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "Salesforce To Acquire AI Agent Maker Fin In $3.6 Billion Deal",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNE9OeEhlRGpBaEZ6WFZOQWhhUG9IcUpYQ1VpSWJ4UkVIRGlxY3hnOEJWbkw1a2NIUUtKOElwcy1fZzM1cnI3SHlYaW1YMXZXY3ZKbVZ3dHRLcEpHeGJkcmlOQWUzakZKYWxXMDA1RThvektBUnd1VDVSUEJwVndDQXZOeWkxUVl1TVZMLVY2dDNpS0xoNmRiQk1GbXFKUS1wTGhwMQ?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Salesforce To Acquire AI Agent Maker Fin In $3.6 Billion Deal",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNE9OeEhlRGpBaEZ6WFZOQWhhUG9IcUpYQ1VpSWJ4UkVIRGlxY3hnOEJWbkw1a2NIUUtKOElwcy1fZzM1cnI3SHlYaW1YMXZXY3ZKbVZ3dHRLcEpHeGJkcmlOQWUzakZKYWxXMDA1RThvektBUnd1VDVSUEJwVndDQXZOeWkxUVl1TVZMLVY2dDNpS0xoNmRiQk1GbXFKUS1wTGhwMQ?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "baskduf/FableCodex — 🗿 FableCodex is a Codex-style coding agent workflow that plans like Fable.",
+          "url": "https://github.com/baskduf/FableCodex",
+          "source": "github"
+        },
+        {
+          "title": "majidmanzarpour/threejs-game-skills — Agent skills for building playable, polished Three.js browser games with gameplay, AAA-style graphics, UI, QA, and optional AI-generated 3D, image, and audio asse",
+          "url": "https://github.com/majidmanzarpour/threejs-game-skills",
+          "source": "github"
+        },
+        {
+          "title": "majidmanzarpour/threejs-game-skills — Agent skills for building playable, polished Three.js browser games with gameplay, AAA-style graphics, UI, QA, and optional AI-generated 3D, image, and audio asse",
+          "url": "https://github.com/majidmanzarpour/threejs-game-skills",
+          "source": "github"
+        }
+      ],
+      "id": "d4f0bc5a29de",
+      "slug": "agent"
+    },
+    {
+      "keyword": "turn app store",
       "count": 5,
-      "score": 59.02541970622154,
+      "score": 57.884405889965876,
       "proper": true,
       "niches": [
         "ai"
       ],
       "examples": [
         {
-          "title": "Oh my Bob, this is utterly unhinged. Peter #Theil and Aron #DSouza have teamed up to create an “AI Tribunal” for the #EpsteinClass to whitewash any negative reporting, by “suing the reporter” in a mad",
-          "url": "https://mefi.social/@MissConstrue/116755759876467474",
-          "source": "mastodon"
+          "title": "joeseesun/qiaomu-app-review-insights — 把 App Store 评价变成产品研究证据，发现痛点、机会和版本风险 | Turn App Store reviews into product research evidence: pain points, opportunities, and version risks.",
+          "url": "https://github.com/joeseesun/qiaomu-app-review-insights",
+          "source": "github"
         }
       ],
-      "id": "14f5abe9f958",
-      "slug": "ai-tribunal"
+      "id": "679f1007c170",
+      "slug": "turn-app-store"
     },
     {
-      "keyword": "affordability crisis",
+      "keyword": "my homelab ai dev",
+      "count": 5,
+      "score": 57.33286387143224,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "My Homelab AI Dev Platform",
+          "url": "https://rsgm.dev/post/ai-dev-platform/",
+          "source": "hackernews"
+        }
+      ],
+      "id": "fac908fd03ff",
+      "slug": "my-homelab-ai-dev"
+    },
+    {
+      "keyword": "paid options",
       "count": 11,
-      "score": 58.75694146801339,
+      "score": 54.49919208627331,
       "proper": true,
       "niches": [
         "ai"
       ],
       "examples": [
         {
-          "title": "Affordability Crisis: Five smart side-hustle ideas to the rescue",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTlpoczY3VEVXQ2JHVVdwenZjRjJUS2xrNkZ1VS1BODZyZ0g1TkNjcnJfZldCa2xyenEyXzlKMzlDMDVCMXdvdFdlbmNhV0tqU3N6YkxkdjFzbFZVWEwzQl9ELWd6TlBacm1wOTloc0Z4a0ZKczBrY1N5MHNwUnFFZm1vVTNFeU15N0hIeFZCQWNqMlVIWnlHTXFlTEh0VEVVREhDaWpIWGptUG82QU9hZ0lod0NiWkNER3hxWQ?oc=5",
+          "title": "Best AI Creativity Tools: Free & Paid Options",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTGdqeElaenNfS1VLSEh2Z1dpZFNDUlhWSjFGZjVkUVBORERrWVp5NC01MTF3a1o4Y3dJNGM4Sk9BMm1zOURvT1BEQm9SR1RkN0h3WmFKQXhNZWw3MnJoMkUzUmZSVFdScDJJVkp2YUZwci1maUg1enJZdXpyVVJMWEp2c2IwcDQ?oc=5",
           "source": "gnews"
         },
         {
-          "title": "Affordability Crisis: Five smart side-hustle ideas to the rescue",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTlpoczY3VEVXQ2JHVVdwenZjRjJUS2xrNkZ1VS1BODZyZ0g1TkNjcnJfZldCa2xyenEyXzlKMzlDMDVCMXdvdFdlbmNhV0tqU3N6YkxkdjFzbFZVWEwzQl9ELWd6TlBacm1wOTloc0Z4a0ZKczBrY1N5MHNwUnFFZm1vVTNFeU15N0hIeFZCQWNqMlVIWnlHTXFlTEh0VEVVREhDaWpIWGptUG82QU9hZ0lod0NiWkNER3hxWQ?oc=5",
+          "title": "Best AI Creativity Tools: Free & Paid Options",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTGdqeElaenNfS1VLSEh2Z1dpZFNDUlhWSjFGZjVkUVBORERrWVp5NC01MTF3a1o4Y3dJNGM4Sk9BMm1zOURvT1BEQm9SR1RkN0h3WmFKQXhNZWw3MnJoMkUzUmZSVFdScDJJVkp2YUZwci1maUg1enJZdXpyVVJMWEp2c2IwcDQ?oc=5",
           "source": "gnews"
         },
         {
-          "title": "Affordability Crisis: Five smart side-hustle ideas to the rescue",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTlpoczY3VEVXQ2JHVVdwenZjRjJUS2xrNkZ1VS1BODZyZ0g1TkNjcnJfZldCa2xyenEyXzlKMzlDMDVCMXdvdFdlbmNhV0tqU3N6YkxkdjFzbFZVWEwzQl9ELWd6TlBacm1wOTloc0Z4a0ZKczBrY1N5MHNwUnFFZm1vVTNFeU15N0hIeFZCQWNqMlVIWnlHTXFlTEh0VEVVREhDaWpIWGptUG82QU9hZ0lod0NiWkNER3hxWQ?oc=5",
+          "title": "Best AI Creativity Tools: Free & Paid Options",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTGdqeElaenNfS1VLSEh2Z1dpZFNDUlhWSjFGZjVkUVBORERrWVp5NC01MTF3a1o4Y3dJNGM4Sk9BMm1zOURvT1BEQm9SR1RkN0h3WmFKQXhNZWw3MnJoMkUzUmZSVFdScDJJVkp2YUZwci1maUg1enJZdXpyVVJMWEp2c2IwcDQ?oc=5",
           "source": "gnews"
         }
       ],
-      "id": "75c4782cb45d",
-      "slug": "affordability-crisis"
+      "id": "1bc98141672b",
+      "slug": "paid-options"
     },
     {
-      "keyword": "fin billion",
-      "count": 9,
-      "score": 58.215046092155575,
-      "proper": false,
+      "keyword": "focused apps",
+      "count": 5,
+      "score": 50.318856329655745,
+      "proper": true,
       "niches": [
         "ai"
       ],
       "examples": [
         {
-          "title": "Salesforce To Acquire AI Agent Maker Fin In $3.6 Billion Deal",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNE9OeEhlRGpBaEZ6WFZOQWhhUG9IcUpYQ1VpSWJ4UkVIRGlxY3hnOEJWbkw1a2NIUUtKOElwcy1fZzM1cnI3SHlYaW1YMXZXY3ZKbVZ3dHRLcEpHeGJkcmlOQWUzakZKYWxXMDA1RThvektBUnd1VDVSUEJwVndDQXZOeWkxUVl1TVZMLVY2dDNpS0xoNmRiQk1GbXFKUS1wTGhwMQ?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Salesforce To Acquire AI Agent Maker Fin In $3.6 Billion Deal",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNE9OeEhlRGpBaEZ6WFZOQWhhUG9IcUpYQ1VpSWJ4UkVIRGlxY3hnOEJWbkw1a2NIUUtKOElwcy1fZzM1cnI3SHlYaW1YMXZXY3ZKbVZ3dHRLcEpHeGJkcmlOQWUzakZKYWxXMDA1RThvektBUnd1VDVSUEJwVndDQXZOeWkxUVl1TVZMLVY2dDNpS0xoNmRiQk1GbXFKUS1wTGhwMQ?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Salesforce to buy AI customer service platform Fin for $3.6 billion to boost agentic offerings",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPVTRrb2RiMVFQTlpSeEZfSllTNEVwNWdWelREREtWSHJ4cEVleTdVMk5DRWJNaE1XQko2U3QxWHh1RmhYVkNyVTVaTmRmcTgtVWNNRzZvXzdfeVB2alFaYkhYOFZHclh0WGJHVG5RN3BJTTctZG40d21lUWRXSm9OLXl3T3R6RVhyRXfSAY8BQVVfeXFMTm9Ob0VYTWdkYThFTUJYdzdPa21FUmJaSXQ1SE5UMDNDMVVQbEVvemg3am9RV0hweGZhYm1ia29CTGZ4ZEpXRnFPbFJIWjZRUWlMa1JkSkpnSFlVbldvTnlxcVlFbjdIVEotYno1Vzh4OFU1ekpGVDJiN21IOGE5dUN4SzVRbHZCVE04eDhES2M?oc=5",
+          "title": "Updated Home Maintenance-Focused Apps",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9FM2V2UnM5V2tvNkNieHFfbjhDbHZlclJXTkU0bnJ0VUtyNnZvNVZoSVFxdFVqRlFUWVByZjJFX18tUWswQUxfenRxaDJiWGxsMjh4bGhoUFRoaFBhLXfSAV5BVV95cUxPRTNldlJzOVdrbzZDYnhxX244Q2x2ZXJSV05FNG5ydFVLcjZ2bzVWaElRcXRVakZRVFlQcmYyRV9fLVFrMEFMX3p0cWgyYlhsbDI4eGxoaFBUaGhQYS13?oc=5",
           "source": "gnews"
         }
       ],
-      "id": "3e8798cbf340",
-      "slug": "fin-billion"
-    },
-    {
-      "keyword": "income strategies",
-      "count": 8,
-      "score": 58.060218841910476,
-      "proper": true,
-      "niches": [
-        "finance"
-      ],
-      "examples": [
-        {
-          "title": "Sponsored: Total Wealth Academy Talks Retirement Fears and Passive Income Strategies",
-          "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxNOHB1TEZkaUoxWXlIUlJvWk9KS2N6MU54dExKVXlPa1V1NGxoTGJIU0tmejdVWmtGV2NabWxheGY2MFhXNm53RXBQZ3BNZy0wMEZpbGdDTlYyMFNsUEVKZzRXV3pFZ0l5M3RVX04tMWwydG1TcUFoOVhKTlEtRzF3Qlk1T2hsX21Oc3liM0dva3pnY2lVYTZDUml3R1g1MVJEMWRNb0dnak1PdHdCZWQwdW9QQ2tsZnF0SlVuUmswUjlxNmEtd0VMT1RlOUdFeHBIYWRUNHFzd0txNkpHREV6NnJGbXRxNE50TWM5RllrRnJHbjgyTkJETF9mMUVkUXozRWxwdTRGMHpKbHZFaE1hNmpPTkotRVNqREhDMFRobzM2WGV2VnlXMXNJTEd6QQ?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Sponsored: Total Wealth Academy Talks Retirement Fears and Passive Income Strategies",
-          "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxNOHB1TEZkaUoxWXlIUlJvWk9KS2N6MU54dExKVXlPa1V1NGxoTGJIU0tmejdVWmtGV2NabWxheGY2MFhXNm53RXBQZ3BNZy0wMEZpbGdDTlYyMFNsUEVKZzRXV3pFZ0l5M3RVX04tMWwydG1TcUFoOVhKTlEtRzF3Qlk1T2hsX21Oc3liM0dva3pnY2lVYTZDUml3R1g1MVJEMWRNb0dnak1PdHdCZWQwdW9QQ2tsZnF0SlVuUmswUjlxNmEtd0VMT1RlOUdFeHBIYWRUNHFzd0txNkpHREV6NnJGbXRxNE50TWM5RllrRnJHbjgyTkJETF9mMUVkUXozRWxwdTRGMHpKbHZFaE1hNmpPTkotRVNqREhDMFRobzM2WGV2VnlXMXNJTEd6QQ?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "e12cd9efe204",
-      "slug": "income-strategies"
+      "id": "d34f95924142",
+      "slug": "focused-apps"
     }
   ],
   "opportunities": [
     {
-      "keyword": "passive income",
-      "count": 50,
-      "score": 259.4711180044979,
+      "keyword": "app store",
+      "count": 11,
+      "score": 127.34569295792491,
       "proper": true,
       "niches": [
-        "finance",
         "ai"
       ],
       "examples": [
         {
-          "title": "Sponsored: Total Wealth Academy Talks Retirement Fears and Passive Income Strategies",
-          "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxNOHB1TEZkaUoxWXlIUlJvWk9KS2N6MU54dExKVXlPa1V1NGxoTGJIU0tmejdVWmtGV2NabWxheGY2MFhXNm53RXBQZ3BNZy0wMEZpbGdDTlYyMFNsUEVKZzRXV3pFZ0l5M3RVX04tMWwydG1TcUFoOVhKTlEtRzF3Qlk1T2hsX21Oc3liM0dva3pnY2lVYTZDUml3R1g1MVJEMWRNb0dnak1PdHdCZWQwdW9QQ2tsZnF0SlVuUmswUjlxNmEtd0VMT1RlOUdFeHBIYWRUNHFzd0txNkpHREV6NnJGbXRxNE50TWM5RllrRnJHbjgyTkJETF9mMUVkUXozRWxwdTRGMHpKbHZFaE1hNmpPTkotRVNqREhDMFRobzM2WGV2VnlXMXNJTEd6QQ?oc=5",
-          "source": "gnews"
+          "title": "joeseesun/qiaomu-app-review-insights — 把 App Store 评价变成产品研究证据，发现痛点、机会和版本风险 | Turn App Store reviews into product research evidence: pain points, opportunities, and version risks.",
+          "url": "https://github.com/joeseesun/qiaomu-app-review-insights",
+          "source": "github"
         },
         {
-          "title": "With 135 Dividend Increases (And Counting), This High-Yield Stock Remains a Top Passive Income Investment for the Long-Term",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQU1lQS1YclVsSXo2aEFleEcySmpLYTFQWXZxREtLQmRSbjB3S19hN1U4cVMzODVCUXZXdG9nbHZCTTJmTmdBWW5GWkN0amJvb2UwaXhKU1VIYnlyTUE5TUVjbS1mN0stb1VfdE1fd2FkZEl2QXl0bDYzV1F1aml1Q09SeU1xN1lnMVdEbEt0WFM4Znk4ZTBWbA?oc=5",
-          "source": "gnews"
+          "title": "joeseesun/qiaomu-app-review-insights — 把 App Store 评价变成产品研究证据，发现痛点、机会和版本风险 | Turn App Store reviews into product research evidence: pain points, opportunities, and version risks.",
+          "url": "https://github.com/joeseesun/qiaomu-app-review-insights",
+          "source": "github"
         },
         {
-          "title": "With 135 Dividend Increases (And Counting), This High-Yield Stock Remains a Top Passive Income Investment for the Long-Term",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQU1lQS1YclVsSXo2aEFleEcySmpLYTFQWXZxREtLQmRSbjB3S19hN1U4cVMzODVCUXZXdG9nbHZCTTJmTmdBWW5GWkN0amJvb2UwaXhKU1VIYnlyTUE5TUVjbS1mN0stb1VfdE1fd2FkZEl2QXl0bDYzV1F1aml1Q09SeU1xN1lnMVdEbEt0WFM4Znk4ZTBWbA?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "3 High-Yield BlackRock ETFs Paying 6%+ in Passive Income",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUEpoZHJWVndHVmFOekVhUFMzXzhST3ZsaXp3Q0k1WEs1eXM2ZFhBZDVjYUptSjAxRFI3Qk8zWFhPN0FPbnZPN3F4SFJIRzVfWl9UOHU4elUwZ3BtbWVZWHJESVhHQUc1VG1YMHlQVkpDdjRRb29zSkNKT2pxZExxX2h6dXd0SGpSS1JYMg?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "3 High-Yield BlackRock ETFs Paying 6%+ in Passive Income",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUEpoZHJWVndHVmFOekVhUFMzXzhST3ZsaXp3Q0k1WEs1eXM2ZFhBZDVjYUptSjAxRFI3Qk8zWFhPN0FPbnZPN3F4SFJIRzVfWl9UOHU4elUwZ3BtbWVZWHJESVhHQUc1VG1YMHlQVkpDdjRRb29zSkNKT2pxZExxX2h6dXd0SGpSS1JYMg?oc=5",
-          "source": "gnews"
+          "title": "joeseesun/qiaomu-app-review-insights — 把 App Store 评价变成产品研究证据，发现痛点、机会和版本风险 | Turn App Store reviews into product research evidence: pain points, opportunities, and version risks.",
+          "url": "https://github.com/joeseesun/qiaomu-app-review-insights",
+          "source": "github"
         }
       ],
-      "id": "cf2dbbbf8c8c",
-      "slug": "passive-income",
+      "id": "25dd14681eb5",
+      "slug": "app-store",
       "opportunity": {
-        "type": "niche-content",
-        "recommended": "Publish niche guide for \"finance\"; bundle into digital product later."
+        "type": "affiliate",
+        "recommended": "Write SEO comparison/roundup article with affiliate links."
       }
     },
     {
-      "keyword": "claude",
-      "count": 17,
-      "score": 154.94574425323663,
+      "keyword": "content creators",
+      "count": 11,
+      "score": 123.47473207046296,
       "proper": true,
       "niches": [
         "ai"
       ],
       "examples": [
         {
-          "title": "Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?",
-          "url": "https://news.ycombinator.com/item?id=48542100",
-          "source": "hackernews"
+          "title": "Best AI Avatar Tools for Content Creators in 2026",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBpUElkUTJ1Y0FqRzE2c0dpVV9RLUJoRlduUURLWHByQmNNYTJ0cUE4c2pMYzRHaFNPU2pKVjFfNDFKdUpfMWIwMVlja3hLRThyWFhualZyUmYzWi1fSVZQaHVCRWhEaEpUaC1Uc01SMUVWWWtoWmRrUjRB?oc=5",
+          "source": "gnews"
         },
         {
-          "title": "Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?",
-          "url": "https://news.ycombinator.com/item?id=48542100",
-          "source": "hackernews"
+          "title": "Best AI Avatar Tools for Content Creators in 2026",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBpUElkUTJ1Y0FqRzE2c0dpVV9RLUJoRlduUURLWHByQmNNYTJ0cUE4c2pMYzRHaFNPU2pKVjFfNDFKdUpfMWIwMVlja3hLRThyWFhualZyUmYzWi1fSVZQaHVCRWhEaEpUaC1Uc01SMUVWWWtoWmRrUjRB?oc=5",
+          "source": "gnews"
         },
         {
-          "title": "fivetaku/fablize — A Claude Code plugin that makes Opus behave like Fable — completion, evidence, and verification enforced as procedure. Ships only what a Fable-vs-Opus comparison proved transferable",
-          "url": "https://github.com/fivetaku/fablize",
-          "source": "github"
-        },
-        {
-          "title": "mrtooher/fable-mode — A Claude skill that activates Fable-style agentic behavior: explicit multi-stage planning, sub-agent delegation, and self-verification.",
-          "url": "https://github.com/mrtooher/fable-mode",
-          "source": "github"
-        },
-        {
-          "title": "mrtooher/fable-mode — A Claude skill that activates Fable-style agentic behavior: explicit multi-stage planning, sub-agent delegation, and self-verification.",
-          "url": "https://github.com/mrtooher/fable-mode",
-          "source": "github"
+          "title": "Best AI Avatar Tools for Content Creators in 2026",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBpUElkUTJ1Y0FqRzE2c0dpVV9RLUJoRlduUURLWHByQmNNYTJ0cUE4c2pMYzRHaFNPU2pKVjFfNDFKdUpfMWIwMVlja3hLRThyWFhualZyUmYzWi1fSVZQaHVCRWhEaEpUaC1Uc01SMUVWWWtoWmRrUjRB?oc=5",
+          "source": "gnews"
         }
       ],
-      "id": "c857d09db23e",
-      "slug": "claude",
+      "id": "979b1e3dfb31",
+      "slug": "content-creators",
       "opportunity": {
-        "type": "tooling",
-        "recommended": "Build / list AI tools; monetize via affiliate links + lead magnet."
+        "type": "niche-content",
+        "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
       }
     },
     {
       "keyword": "loop engineering",
       "count": 11,
-      "score": 134.46336143862777,
+      "score": 105.76881980397515,
       "proper": true,
       "niches": [
         "ai"
@@ -826,8 +784,8 @@
     },
     {
       "keyword": "claude code",
-      "count": 19,
-      "score": 132.36745260928546,
+      "count": 22,
+      "score": 102.81342498506913,
       "proper": true,
       "niches": [
         "ai"
@@ -844,19 +802,19 @@
           "source": "github"
         },
         {
-          "title": "duolahypercho/fusion-fable — Fuse two frontier models into one Fable-tier answer: Opus 4.8 drafts, a second model (Opus 4.8 or GPT-5.5 via codex) checks, Opus fuses. A Claude Code skill.",
-          "url": "https://github.com/duolahypercho/fusion-fable",
-          "source": "github"
+          "title": "Claude Code is the best AI coding tool I've used, and I’m not entirely sure if I can recommend it",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMnJUQnpneEtHMEJFZzZ0V0djN24zOVQyM3hpT09WYm5sUXBRVEo0QkFCZG50Q3RMMUtuczFwYk9aMEYxSFpBMVkxNDhrRmpOTUNJWE9teEVsR3JDYW9YMktENFYxQlBjTC1lM2hfYTJ3WkI4c0tyMTh3X0UzSWUwVUFMRlQtSjhIcnRuTTVYUW9OeXFVbUtHYmt3?oc=5",
+          "source": "gnews"
         },
         {
-          "title": "duolahypercho/fusion-fable — Fuse two frontier models into one Fable-tier answer: Opus 4.8 drafts, a second model (Opus 4.8 or GPT-5.5 via codex) checks, Opus fuses. A Claude Code skill.",
-          "url": "https://github.com/duolahypercho/fusion-fable",
-          "source": "github"
+          "title": "Claude Code is the best AI coding tool I've used, and I’m not entirely sure if I can recommend it",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMnJUQnpneEtHMEJFZzZ0V0djN24zOVQyM3hpT09WYm5sUXBRVEo0QkFCZG50Q3RMMUtuczFwYk9aMEYxSFpBMVkxNDhrRmpOTUNJWE9teEVsR3JDYW9YMktENFYxQlBjTC1lM2hfYTJ3WkI4c0tyMTh3X0UzSWUwVUFMRlQtSjhIcnRuTTVYUW9OeXFVbUtHYmt3?oc=5",
+          "source": "gnews"
         },
         {
-          "title": "clauster 0.11.0",
-          "url": "https://pypi.org/project/clauster/0.11.0/",
-          "source": "pypi"
+          "title": "Claude Code is the best AI coding tool I've used, and I’m not entirely sure if I can recommend it",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMnJUQnpneEtHMEJFZzZ0V0djN24zOVQyM3hpT09WYm5sUXBRVEo0QkFCZG50Q3RMMUtuczFwYk9aMEYxSFpBMVkxNDhrRmpOTUNJWE9teEVsR3JDYW9YMktENFYxQlBjTC1lM2hfYTJ3WkI4c0tyMTh3X0UzSWUwVUFMRlQtSjhIcnRuTTVYUW9OeXFVbUtHYmt3?oc=5",
+          "source": "gnews"
         }
       ],
       "id": "a625159d18da",
@@ -867,9 +825,51 @@
       }
     },
     {
+      "keyword": "claude",
+      "count": 10,
+      "score": 89.43769407556965,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?",
+          "url": "https://news.ycombinator.com/item?id=48542100",
+          "source": "hackernews"
+        },
+        {
+          "title": "Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?",
+          "url": "https://news.ycombinator.com/item?id=48542100",
+          "source": "hackernews"
+        },
+        {
+          "title": "fivetaku/fablize — A Claude Code plugin that makes Opus behave like Fable — completion, evidence, and verification enforced as procedure. Ships only what a Fable-vs-Opus comparison proved transferable",
+          "url": "https://github.com/fivetaku/fablize",
+          "source": "github"
+        },
+        {
+          "title": "Claude Code is the best AI coding tool I've used, and I’m not entirely sure if I can recommend it",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMnJUQnpneEtHMEJFZzZ0V0djN24zOVQyM3hpT09WYm5sUXBRVEo0QkFCZG50Q3RMMUtuczFwYk9aMEYxSFpBMVkxNDhrRmpOTUNJWE9teEVsR3JDYW9YMktENFYxQlBjTC1lM2hfYTJ3WkI4c0tyMTh3X0UzSWUwVUFMRlQtSjhIcnRuTTVYUW9OeXFVbUtHYmt3?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Claude Code is the best AI coding tool I've used, and I’m not entirely sure if I can recommend it",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMnJUQnpneEtHMEJFZzZ0V0djN24zOVQyM3hpT09WYm5sUXBRVEo0QkFCZG50Q3RMMUtuczFwYk9aMEYxSFpBMVkxNDhrRmpOTUNJWE9teEVsR3JDYW9YMktENFYxQlBjTC1lM2hfYTJ3WkI4c0tyMTh3X0UzSWUwVUFMRlQtSjhIcnRuTTVYUW9OeXFVbUtHYmt3?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "c857d09db23e",
+      "slug": "claude",
+      "opportunity": {
+        "type": "tooling",
+        "recommended": "Build / list AI tools; monetize via affiliate links + lead magnet."
+      }
+    },
+    {
       "keyword": "billion deal",
       "count": 11,
-      "score": 110.70148392524266,
+      "score": 88.56118714019414,
       "proper": true,
       "niches": [
         "ai"
@@ -899,36 +899,36 @@
       }
     },
     {
-      "keyword": "english pdf",
+      "keyword": "bogota colombia",
       "count": 8,
-      "score": 97.79153559172929,
+      "score": 81.25492338834343,
       "proper": true,
       "niches": [
-        "ai"
+        "software"
       ],
       "examples": [
         {
-          "title": "alchaincyf/loop-engineering-orange-book — 别再问我什么是 Loop Engineering — 橙皮书系列。A plain-language guide to loop engineering (中文 + English PDF). Free.",
-          "url": "https://github.com/alchaincyf/loop-engineering-orange-book",
-          "source": "github"
+          "title": "Today we learned a 36-year-old white Texan man was caught in Bogota Colombia raping an adopted 7-year-old boy in broad daylight. Cops entered his apartment & also rescued 4-year-old & 15-year-old rape",
+          "url": "https://mastodon.social/@QasimRashid/116757097277408505",
+          "source": "mastodon"
         },
         {
-          "title": "alchaincyf/loop-engineering-orange-book — 别再问我什么是 Loop Engineering — 橙皮书系列。A plain-language guide to loop engineering (中文 + English PDF). Free.",
-          "url": "https://github.com/alchaincyf/loop-engineering-orange-book",
-          "source": "github"
+          "title": "Today we learned a 36-year-old white Texan man was caught in Bogota Colombia raping an adopted 7-year-old boy in broad daylight. Cops entered his apartment & also rescued 4-year-old & 15-year-old rape",
+          "url": "https://mastodon.social/@QasimRashid/116757097277408505",
+          "source": "mastodon"
         }
       ],
-      "id": "d23e7aa41813",
-      "slug": "english-pdf",
+      "id": "788c48e60e3b",
+      "slug": "bogota-colombia",
       "opportunity": {
         "type": "niche-content",
-        "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
+        "recommended": "Publish niche guide for \"software\"; bundle into digital product later."
       }
     },
     {
       "keyword": "platform",
-      "count": 8,
-      "score": 83.17290730568996,
+      "count": 7,
+      "score": 77.77941715993418,
       "proper": true,
       "niches": [
         "ai"
@@ -943,11 +943,6 @@
           "title": "My Homelab AI Dev Platform",
           "url": "https://rsgm.dev/post/ai-dev-platform/",
           "source": "hackernews"
-        },
-        {
-          "title": "eli-labz/Third-Eye — A production-grade OSINT platform that provides situational awareness across multiple intelligence domains.",
-          "url": "https://github.com/eli-labz/Third-Eye",
-          "source": "github"
         },
         {
           "title": "Salesforce to buy AI customer service platform Fin for $3.6 billion to boost agentic offerings",
@@ -960,43 +955,6 @@
       "opportunity": {
         "type": "affiliate",
         "recommended": "Write SEO comparison/roundup article with affiliate links."
-      }
-    },
-    {
-      "keyword": "income investors",
-      "count": 14,
-      "score": 71.4140691755499,
-      "proper": true,
-      "niches": [
-        "finance"
-      ],
-      "examples": [
-        {
-          "title": "A Historically Cheap High Yield Dividend Aristocrat That Is a Screaming Buy for Passive Income Investors",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObnM2dS15QmlaWWFKNFA4TlhDak15SjRNck9WQzUzcXR1emFGSnJKTXBnbEZqT3NNZzJ4SWFpYndqVFp6OVBDbFJIckRIM0czdlFwNUFMT3FBc0UzaGNFTXpzSlhzQTJlX3hUbGhfZXQ2bl9PUWZkLXVaWFhtSkxGV1dDVldaMGF0LWxLOVVfRVFkVGZpVVhSMFVFT0QyVGV2Qm1hSVBB?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "A Historically Cheap High Yield Dividend Aristocrat That Is a Screaming Buy for Passive Income Investors",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObnM2dS15QmlaWWFKNFA4TlhDak15SjRNck9WQzUzcXR1emFGSnJKTXBnbEZqT3NNZzJ4SWFpYndqVFp6OVBDbFJIckRIM0czdlFwNUFMT3FBc0UzaGNFTXpzSlhzQTJlX3hUbGhfZXQ2bl9PUWZkLXVaWFhtSkxGV1dDVldaMGF0LWxLOVVfRVFkVGZpVVhSMFVFT0QyVGV2Qm1hSVBB?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "3 Stocks With a Yield Over 6% For Passive Income Investors",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWXlPY01PZnN3X2tXWTF6aTBGWGZiVGNfRmo0Zm5mTlk2WFJScVNPWEZnQ2xfZk5xV0o4UE1KUWM1QXJXZ3VGaEVkU003cDRGa2pGd203aV9RRGUyRndSOW9TQUxvWUQzalpRcHpZQ0FTMGI3SEpNdmN3Vmk3T2pjcGhUdzNxVUFXT3VUM0VjMk9GSGJIbzBsUHZualdRY3NBck5F?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "3 Stocks With a Yield Over 6% For Passive Income Investors",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWXlPY01PZnN3X2tXWTF6aTBGWGZiVGNfRmo0Zm5mTlk2WFJScVNPWEZnQ2xfZk5xV0o4UE1KUWM1QXJXZ3VGaEVkU003cDRGa2pGd203aV9RRGUyRndSOW9TQUxvWUQzalpRcHpZQ0FTMGI3SEpNdmN3Vmk3T2pjcGhUdzNxVUFXT3VUM0VjMk9GSGJIbzBsUHZualdRY3NBck5F?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "f6a85ada5fff",
-      "slug": "income-investors",
-      "opportunity": {
-        "type": "niche-content",
-        "recommended": "Publish niche guide for \"finance\"; bundle into digital product later."
       }
     }
   ]

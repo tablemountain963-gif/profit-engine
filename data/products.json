@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "slug": "prompt-pack-content-creators-2026-06-16",
+      "title": "Content Creators Prompt Pack — 50 Battle-Tested Prompts",
+      "blurb": "50 proven prompts for Content Creators. Copy/paste ready. Tested across Claude, GPT, Gemini.",
+      "type": "prompt-pack",
+      "topic": "Content Creators",
+      "niche": "ai",
+      "price": 19,
+      "generatedAt": "2026-06-16T06:31:37.326Z",
+      "files": [
+        "prompts.md",
+        "README.md",
+        "LICENSE.txt"
+      ]
+    },
+    {
       "slug": "prompt-pack-amazon-prime-2026-06-15",
       "title": "Amazon Prime Prompt Pack — 50 Battle-Tested Prompts",
       "blurb": "50 proven prompts for Amazon Prime. Copy/paste ready. Tested across Claude, GPT, Gemini.",

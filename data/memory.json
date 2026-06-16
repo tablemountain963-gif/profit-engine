@@ -16,14 +16,6 @@
       "losses": 0,
       "niche": "finance"
     },
-    "gemini": {
-      "firstSeen": "2026-05-28T04:01:58.298Z",
-      "lastSeen": "2026-06-02T05:27:47.048Z",
-      "count": 2,
-      "wins": 0,
-      "losses": 0,
-      "niche": "ai"
-    },
     "claude": {
       "firstSeen": "2026-05-28T04:02:03.327Z",
       "lastSeen": "2026-06-12T16:17:01.951Z",
@@ -701,14 +693,6 @@
       "lastSeen": "2026-06-02T17:21:18.716Z",
       "count": 2,
       "wins": 1,
-      "losses": 0,
-      "niche": "ai"
-    },
-    "compared": {
-      "firstSeen": "2026-06-02T05:27:53.725Z",
-      "lastSeen": "2026-06-02T05:27:53.725Z",
-      "count": 1,
-      "wins": 0,
       "losses": 0,
       "niche": "ai"
     },
@@ -2378,8 +2362,8 @@
     },
     "agent": {
       "firstSeen": "2026-06-10T18:24:45.439Z",
-      "lastSeen": "2026-06-10T22:45:21.666Z",
-      "count": 2,
+      "lastSeen": "2026-06-16T06:31:52.106Z",
+      "count": 3,
       "wins": 1,
       "losses": 0,
       "niche": "ai"
@@ -3338,17 +3322,17 @@
     },
     "setup-installer": {
       "firstSeen": "2026-06-15T22:53:17.039Z",
-      "lastSeen": "2026-06-15T22:53:17.039Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-16T06:31:23.784Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "gear"
     },
     "promise": {
       "firstSeen": "2026-06-15T22:53:19.861Z",
-      "lastSeen": "2026-06-15T22:53:19.861Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-16T06:31:23.785Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -3359,12 +3343,44 @@
       "wins": 0,
       "losses": 0,
       "niche": "ai"
+    },
+    "app-store": {
+      "firstSeen": "2026-06-16T06:31:30.068Z",
+      "lastSeen": "2026-06-16T06:31:30.068Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "bogota-colombia": {
+      "firstSeen": "2026-06-16T06:31:33.373Z",
+      "lastSeen": "2026-06-16T06:31:33.373Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "software"
+    },
+    "turn-app-store": {
+      "firstSeen": "2026-06-16T06:31:36.901Z",
+      "lastSeen": "2026-06-16T06:31:36.901Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "content-creators": {
+      "firstSeen": "2026-06-16T06:31:43.245Z",
+      "lastSeen": "2026-06-16T06:31:43.245Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
     }
   },
   "niches": {
     "ai": {
-      "count": 566,
-      "wins": 164,
+      "count": 571,
+      "wins": 165,
       "losses": 20
     },
     "finance": {
@@ -3373,13 +3389,13 @@
       "losses": 0
     },
     "software": {
-      "count": 124,
+      "count": 125,
       "wins": 33,
       "losses": 7
     },
     "gear": {
-      "count": 36,
-      "wins": 8,
+      "count": 37,
+      "wins": 9,
       "losses": 0
     },
     "health": {
