@@ -743,5 +743,19 @@
     "price": 19,
     "productId": "prod_UiH5rGHsQzpzYd",
     "cover": "/assets/pack-cover.png"
+  },
+  "prompt-pack-sailfish-os-2026-06-16": {
+    "url": "https://buy.stripe.com/28EfZgadib9I3ZpgAsfjG1I",
+    "platform": "stripe",
+    "price": 19,
+    "productId": "prod_UiSGkCOiqT1nof",
+    "cover": "/assets/pack-cover.png"
+  },
+  "prompt-pack-mauif-misskey-2026-06-16": {
+    "url": "https://buy.stripe.com/bJe6oG3OU1z8eE3bg8fjG1J",
+    "platform": "stripe",
+    "price": 19,
+    "productId": "prod_UiSGtKJhq3uGRa",
+    "cover": "/assets/pack-cover.png"
   }
 }

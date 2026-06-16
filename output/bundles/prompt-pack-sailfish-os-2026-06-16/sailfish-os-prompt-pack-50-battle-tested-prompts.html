@@ -1,0 +1,52 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width,initial-scale=1"/>
+<title>Sailfish Os Prompt Pack — 50 Battle-Tested Prompts</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"/><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400..900&family=Newsreader:opsz,wght@6..72,400..600&family=JetBrains+Mono:wght@400;500;700&display=swap"/>
+<style>
+:root{--bg:#0a0c0b;--ink:#eae3d6;--fg:#d7d3c8;--dim:#9aa39a;--accent:#4fe08a;--hair:#232a26;--bg1:#0f1311}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--fg);font-family:'Newsreader',Georgia,serif;font-size:17px;line-height:1.7}
+.wrap{max-width:760px;margin:0 auto;padding:64px 24px 96px}
+h1{font-family:'Fraunces',serif;font-weight:900;font-size:clamp(34px,6vw,52px);line-height:1.05;letter-spacing:-.03em;color:var(--ink);margin:0 0 10px}
+h2{font-family:'Fraunces',serif;font-weight:600;font-size:24px;color:var(--ink);margin:44px 0 6px;padding-top:22px;border-top:1px solid var(--hair)}
+h3{font-family:'Fraunces',serif;font-weight:600;font-size:19px;color:var(--ink);margin:26px 0 4px}
+p{margin:14px 0}strong{color:var(--ink)}
+ol,ul{padding-left:0;list-style:none}
+ol>li,ul>li{margin:14px 0;padding:16px 18px;background:var(--bg1);border:1px solid var(--hair);border-radius:4px;position:relative}
+ol{counter-reset:p}ol>li{counter-increment:p;padding-left:54px}
+ol>li::before{content:counter(p);position:absolute;left:16px;top:16px;font-family:'JetBrains Mono',monospace;font-size:13px;font-weight:700;color:var(--accent)}
+code{font-family:'JetBrains Mono',monospace;background:#141917;color:#cfe9d6;padding:2px 6px;border-radius:3px;font-size:.86em}
+hr{border:0;border-top:1px solid var(--hair);margin:32px 0}
+.kick{font-family:'JetBrains Mono',monospace;font-size:12px;letter-spacing:.24em;text-transform:uppercase;color:var(--accent);margin-bottom:18px}
+.brand{font-family:'JetBrains Mono',monospace;font-size:12px;color:var(--dim);letter-spacing:.1em;margin-top:56px;padding-top:20px;border-top:1px solid var(--hair)}
+@media print{body{background:#fff;color:#111}h1,h2,h3{color:#000}ol>li,ul>li{background:#f6f6f4;border-color:#ddd}.kick,ol>li::before{color:#0a8a4a}code{background:#eee;color:#0a5}}
+</style></head><body><div class="wrap">
+<div class="kick">Profit Engine · Prompt Pack</div>
+<h3>How to Use</h3>
+To utilize these prompts, simply copy and paste them into your preferred LLM tool, replacing [BRACKETED] variables with your specific needs. Ensure you have the latest version of Sailfish Os installed, along with the necessary tools such as <code>ssh</code>, <code>sudo</code>, and a text editor like <code>nano</code> or <code>vim</code>.
+
+<h3>Research</h3>
+<ol><li>Analyze the [NUMBER] most recent commits to the Sailfish Os GitHub repository using <code>git log -n [NUMBER]</code>, and summarize the key changes in a concise report.</li><li>Use <code>sqlite3</code> to query the Sailfish Os database and retrieve a list of all installed packages, filtering by [PACKAGE_CATEGORY].</li><li>Investigate the performance impact of enabling [FEATURE_NAME] on a Sailfish Os device, using tools like <code>top</code> and <code>sysdig</code> to monitor system resources.</li><li>Compare the security features of Sailfish Os [VERSION_NUMBER] with those of [COMPARISON_OS], focusing on [SECURITY_FEATURE].</li><li>Utilize <code>curl</code> and <code>jq</code> to fetch and parse the Sailfish Os [DATAFeed] API, extracting [SPECIFIC_DATA_POINTS] for further analysis.</li></ol>
+
+<h3>Drafting</h3>
+<ol><li>Create a step-by-step guide for installing [SOFTWARE_NAME] on Sailfish Os, including any necessary [DEPENDENCY_INSTALLATION] steps.</li><li>Write a comprehensive review of the Sailfish Os [VERSION_NUMBER] release, highlighting [KEY_FEATURES] and [IMPROVEMENTS].</li><li>Develop a tutorial on using [TOOL_NAME] to customize the Sailfish Os [INTERFACE_COMPONENT], including [CUSTOMIZATION_OPTIONS].</li><li>Compose a proposal for implementing [NEW_FEATURE] in a future Sailfish Os release, addressing [POTENTIAL_CHALLENGES] and [BENEFITS].</li><li>Design a [TYPE] of application for Sailfish Os, incorporating [SPECIFIC_LIBRARIES] and [FRAMEWORKS].</li></ol>
+
+<h3>Analysis</h3>
+<ol><li>Evaluate the effectiveness of the Sailfish Os [POWER_SAVING_FEATURE], using <code>powertop</code> and <code>systemd</code> to monitor power consumption.</li><li>Examine the impact of [CONFIGURATION_CHANGE] on Sailfish Os system performance, using <code>sysbench</code> and <code>iperf</code> to benchmark results.</li><li>Investigate the compatibility of [SOFTWARE_NAME] with Sailfish Os [VERSION_NUMBER], identifying [POTENTIAL_ISSUES] and [WORKAROUNDS].</li><li>Conduct a usability study of the Sailfish Os [INTERFACE_COMPONENT], gathering feedback from [NUMBER] participants and analyzing [METRICS].</li><li>Use <code>tcpdump</code> and <code>Wireshark</code> to analyze the network traffic generated by [APPLICATION_NAME] on Sailfish Os, identifying [SECURITY_CONCERNS].</li></ol>
+
+<h3>Automation</h3>
+<ol><li>Develop a script using <code>bash</code> and <code>cron</code> to automate the [TASK_NAME] process on Sailfish Os, running [FREQUENCY].</li><li>Create a <code>systemd</code> service file to manage the [SERVICE_NAME] daemon on Sailfish Os, ensuring [DEPENDENCY_RESOLUTION].</li><li>Utilize <code>Ansible</code> to automate the deployment of [CONFIGURATION_CHANGE] across [NUMBER] Sailfish Os devices.</li><li>Design a <code>Makefile</code> to streamline the build process for [SOFTWARE_NAME] on Sailfish Os, incorporating [DEPENDENCY_CHECKS].</li><li>Implement a <code>Python</code> script using <code>paramiko</code> to automate [TASK_NAME] on a remote Sailfish Os device, handling [ERROR_HANDLING].</li></ol>
+
+<ol><li>Investigate the use of [LIBRARY_NAME] to develop a [TYPE] of application on Sailfish Os, evaluating [PERFORMANCE_IMPACT].</li><li>Compare the performance of [SOFTWARE_NAME] on Sailfish Os [VERSION_NUMBER] versus [COMPARISON_OS], using [BENCHMARKING_TOOLS].</li><li>Develop a [TYPE] of plugin for the Sailfish Os [APPLICATION_NAME], using [PROGRAMMING_LANGUAGE] and [FRAMEWORK].</li><li>Evaluate the security of [NETWORK_PROTOCOL] on Sailfish Os, using <code>nmap</code> and <code>OpenVAS</code> to identify [VULNERABILITIES].</li><li>Create a <code>docker</code> image for [SOFTWARE_NAME] on Sailfish Os, optimizing [RESOURCE_USAGE] and [DEPENDENCY_RESOLUTION].</li></ol>
+
+<ol><li>Conduct a code review of the Sailfish Os [COMPONENT_NAME], identifying [BEST_PRACTICES] and [AREAS_FOR_IMPROVEMENT].</li><li>Investigate the use of [CLOUD_SERVICE] to enhance the functionality of [APPLICATION_NAME] on Sailfish Os, evaluating [PRICING_MODEL] and [INTEGRATION_COMPLEXITY].</li><li>Develop a [TYPE] of theme for the Sailfish Os [INTERFACE_COMPONENT], using [THEMING_TOOLS] and [GRAPHICS_EDITORS].</li><li>Utilize <code>git bisect</code> to identify the source of [BUG_NAME] in the Sailfish Os codebase, analyzing [COMMIT_HISTORY] and [DEBUG_LOGS].</li><li>Create a <code>README</code> file for a Sailfish Os project, including [INSTALLATION_INSTRUCTIONS] and [CONTRIBUTION_GUIDELINES].</li></ol>
+
+<ol><li>Evaluate the effectiveness of the Sailfish Os [UPDATE_MECHANISM], using <code>systemd</code> and <code>journalctl</code> to monitor update history.</li><li>Investigate the compatibility of [HARDWARE_COMPONENT] with Sailfish Os [VERSION_NUMBER], identifying [POTENTIAL_ISSUES] and [WORKAROUNDS].</li><li>Develop a script using <code>bash</code> and <code>expect</code> to automate the [TASK_NAME] process on Sailfish Os, handling [ERROR_HANDLING].</li><li>Conduct a benchmarking study of [SOFTWARE_NAME] on Sailfish Os [VERSION_NUMBER], using [BENCHMARKING_TOOLS] and [STATISTICAL_METHODS].</li><li>Create a <code>FAQ</code> document for a Sailfish Os project, addressing [COMMON_ISSUES] and [TROUBLESHOOTING_STEPS].</li></ol>
+
+<ol><li>Investigate the use of [ARTIFICIAL_INTELLIGENCE] to enhance the functionality of [APPLICATION_NAME] on Sailfish Os, evaluating [MODEL_COMPLEXITY] and [INTEGRATION_CHALLENGES].</li><li>Develop a [TYPE] of widget for the Sailfish Os [INTERFACE_COMPONENT], using [WIDGET_TOOLS] and [GRAPHICS_EDITORS].</li><li>Evaluate the security of [DATA_STORAGE] on Sailfish Os, using <code>cryptsetup</code> and <code>openssl</code> to analyze [ENCRYPTION_METHODS].</li><li>Utilize <code>strace</code> and <code>ltrace</code> to debug [APPLICATION_NAME] on Sailfish Os, identifying [SYSTEM_CALLS] and [LIBRARY_DEPENDENCIES].</li><li>Create a <code>test suite</code> for a Sailfish Os project, including [UNIT_TESTS] and [INTEGRATION_TESTS].</li></ol>
+
+<ol><li>Investigate the compatibility of [SOFTWARE_NAME] with Sailfish Os [VERSION_NUMBER], identifying [POTENTIAL_ISSUES] and [WORKAROUNDS].</li><li>Develop a script using <code>python</code> and <code> Paramiko</code> to automate the [TASK_NAME] process on a remote Sailfish Os device, handling [ERROR_HANDLING].</li><li>Conduct a code review of the Sailfish Os [COMPONENT_NAME], identifying [BEST_PRACTICES] and [AREAS_FOR_IMPROVEMENT].</li><li>Evaluate the performance impact of [CONFIGURATION_CHANGE] on Sailfish Os system performance, using <code>sysbench</code> and <code>iperf</code> to benchmark results.</li><li>Create a <code>style guide</code> for a Sailfish Os project, including [CODING_CONVENTIONS] and [GRAPHICS_STANDARDS].</li></ol>
+
+<ol><li>Investigate the use of [CONTAINERIZATION] to enhance the security of [APPLICATION_NAME] on Sailfish Os, evaluating [CONTAINER_RUNTIME] and [ORCHESTRATION_TOOLS].</li><li>Develop a [TYPE] of plugin for the Sailfish Os [APPLICATION_NAME], using [PROGRAMMING_LANGUAGE] and [FRAMEWORK].</li><li>Utilize <code>tcpdump</code> and <code>Wireshark</code> to analyze the network traffic generated by [APPLICATION_NAME] on Sailfish Os, identifying [SECURITY_CONCERNS].</li><li>Evaluate the effectiveness of the Sailfish Os [POWER_SAVING_FEATURE], using <code>powertop</code> and <code>systemd</code> to monitor power consumption.</li><li>Create a <code>migration guide</code> for upgrading from Sailfish Os [VERSION_NUMBER] to [VERSION_NUMBER], including [STEP_BY_STEP_INSTRUCTIONS] and [TROUBLESHOOTING_TIPS].</li></ol>
+<div class="brand">© 2026 Profit Engine · single-user license · free lifetime updates</div>
+</div></body></html>
