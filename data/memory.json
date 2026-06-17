@@ -18,8 +18,8 @@
     },
     "claude": {
       "firstSeen": "2026-05-28T04:02:03.327Z",
-      "lastSeen": "2026-06-12T16:17:01.951Z",
-      "count": 3,
+      "lastSeen": "2026-06-17T22:28:28.085Z",
+      "count": 4,
       "wins": 0,
       "losses": 0,
       "niche": "ai"
@@ -290,8 +290,8 @@
     },
     "dividend-stocks": {
       "firstSeen": "2026-05-29T22:24:26.611Z",
-      "lastSeen": "2026-06-04T18:09:16.031Z",
-      "count": 2,
+      "lastSeen": "2026-06-17T22:28:52.265Z",
+      "count": 3,
       "wins": 0,
       "losses": 0,
       "niche": "finance"
@@ -813,46 +813,6 @@
       "lastSeen": "2026-06-03T22:56:25.920Z",
       "count": 2,
       "wins": 1,
-      "losses": 0,
-      "niche": "ai"
-    },
-    "sleep-gadgets": {
-      "firstSeen": "2026-06-03T19:42:22.004Z",
-      "lastSeen": "2026-06-03T19:42:22.004Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "gear"
-    },
-    "gadgets-amazon": {
-      "firstSeen": "2026-06-03T19:42:48.959Z",
-      "lastSeen": "2026-06-03T19:42:48.959Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "gear"
-    },
-    "amazon-night": {
-      "firstSeen": "2026-06-03T19:43:17.239Z",
-      "lastSeen": "2026-06-03T19:43:17.239Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "gear"
-    },
-    "swiftui-metal": {
-      "firstSeen": "2026-06-03T19:44:03.012Z",
-      "lastSeen": "2026-06-03T19:44:03.012Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "ai"
-    },
-    "typed-view": {
-      "firstSeen": "2026-06-03T19:44:15.072Z",
-      "lastSeen": "2026-06-03T19:44:15.072Z",
-      "count": 1,
-      "wins": 0,
       "losses": 0,
       "niche": "ai"
     },
@@ -3402,17 +3362,17 @@
     },
     "positive-impact": {
       "firstSeen": "2026-06-17T18:09:25.710Z",
-      "lastSeen": "2026-06-17T18:09:25.710Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-17T22:28:06.693Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
     "devops-agent": {
       "firstSeen": "2026-06-17T18:09:28.415Z",
-      "lastSeen": "2026-06-17T18:09:28.415Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-17T22:28:06.694Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -3439,26 +3399,58 @@
       "wins": 0,
       "losses": 0,
       "niche": "software"
+    },
+    "european-commission": {
+      "firstSeen": "2026-06-17T22:28:13.028Z",
+      "lastSeen": "2026-06-17T22:28:13.028Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "software"
+    },
+    "durable-mcp": {
+      "firstSeen": "2026-06-17T22:28:16.272Z",
+      "lastSeen": "2026-06-17T22:28:16.272Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "gear"
+    },
+    "codex-desktop": {
+      "firstSeen": "2026-06-17T22:28:18.507Z",
+      "lastSeen": "2026-06-17T22:28:18.507Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "gear"
+    },
+    "apple-intelligence": {
+      "firstSeen": "2026-06-17T22:28:59.239Z",
+      "lastSeen": "2026-06-17T22:28:59.239Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "software"
     }
   },
   "niches": {
     "ai": {
-      "count": 600,
-      "wins": 173,
+      "count": 603,
+      "wins": 175,
       "losses": 22
     },
     "finance": {
-      "count": 50,
+      "count": 51,
       "wins": 9,
       "losses": 0
     },
     "software": {
-      "count": 131,
+      "count": 133,
       "wins": 33,
       "losses": 7
     },
     "gear": {
-      "count": 49,
+      "count": 51,
       "wins": 14,
       "losses": 0
     },
