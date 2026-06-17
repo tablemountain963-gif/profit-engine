@@ -1,38 +1,93 @@
 {
-  "generatedAt": "2026-06-17T16:38:20.254Z",
-  "sourceCount": 205,
+  "generatedAt": "2026-06-17T18:09:21.883Z",
+  "sourceCount": 199,
   "topItems": [
     {
       "title": "Sixty percent of US consumers say 'AI' in brand messaging is a turnoff",
       "url": "https://wpvip.com/future-of-the-web-2026/",
-      "score": 10.07,
+      "score": 10.31,
       "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 668,
-        "comments": 366
+        "score": 802,
+        "comments": 430
       }
     },
     {
       "title": "We are struggling to keep Codebreg.org available for unauthenticated users due to massive abuse of expensive endpoints.Our current priority is keeping Codeberg.org responsive for authenticated users.",
       "url": "https://social.anoxinon.de/@codebergstatus/116765466028092709",
-      "score": 8.98,
+      "score": 9.28,
       "niche": "ai",
       "source": "mastodon",
       "engagement": {
-        "score": 619,
-        "comments": 10
+        "score": 767,
+        "comments": 13
       }
     },
     {
-      "title": "NEW: More Than 770,000 Children Are No Longer Receiving SNAP Benefits After Trump Changes Federal Food ProgramRepublican backers of Trump’s signature domestic policy bill repeatedly claimed that revis",
-      "url": "https://newsie.social/@ProPublica/116765452404826359",
-      "score": 8.56,
+      "title": "Happy to see my tax money well-spent 😊🥳Apparently accessibility fixes in Mastodon were largely sponsored by the Dutch government. Public money funding public code benefitting us all, regardless of w",
+      "url": "https://mastodon.social/@BjornW/116766373729657434",
+      "score": 8.71,
+      "niche": "finance",
+      "source": "mastodon",
+      "engagement": {
+        "score": 321,
+        "comments": 6
+      }
+    },
+    {
+      "title": "Ireland trialed a basic income for artists. 🇮🇪 💸 🎤 🎨 Research showed that it boosted the economy. 🫰 🏦 They've now made it a permanent scheme. 🔏 Catch up UK! 👀 🇬🇧 https://www.positive.news/e",
+      "url": "https://climatejustice.social/@ethicalrevolution/116765970395647647",
+      "score": 8.45,
+      "niche": "finance",
+      "source": "mastodon",
+      "engagement": {
+        "score": 273,
+        "comments": 4
+      }
+    },
+    {
+      "title": "Mastodon 4.6 released today.  It lets me force 2FA on accounts.  Also, heads up, I am going to force 2FA on accounts.Note: this is only applicable to: infosec.exchangeinfosec.spaceioc.exchangeconvo.ca",
+      "url": "https://infosec.exchange/@jerry/116766327067015954",
+      "score": 8.26,
+      "niche": "software",
+      "source": "mastodon",
+      "engagement": {
+        "score": 324,
+        "comments": 21
+      }
+    },
+    {
+      "title": "RE: https://ec.social-network.europa.eu/@EUCommission/116766280029168108\"W\" - named after Musk's fascist platform X. Cringe. - is a closed protocol, for-profit, tech bro walled garden that's EXACTLY t",
+      "url": "https://mastodon.social/@mariafarrell/116766317635461841",
+      "score": 8.24,
+      "niche": "software",
+      "source": "mastodon",
+      "engagement": {
+        "score": 177,
+        "comments": 3
+      }
+    },
+    {
+      "title": "AI demands more engineering discipline. Not less",
+      "url": "https://charitydotwtf.substack.com/p/ai-demands-more-engineering-discipline",
+      "score": 8.24,
+      "niche": "ai",
+      "source": "hackernews",
+      "engagement": {
+        "score": 198,
+        "comments": 88
+      }
+    },
+    {
+      "title": "If reviewing code is harder than writing it, and you use AI to generate code you couldn't write yourself, you're neither the programmer nor the reviewer.You're a rubber duck with merge permissions.",
+      "url": "https://mastodon.social/@fribbledom/116766590828521955",
+      "score": 8.01,
       "niche": "ai",
       "source": "mastodon",
       "engagement": {
-        "score": 199,
-        "comments": 6
+        "score": 79,
+        "comments": 2
       }
     },
     {
@@ -49,122 +104,144 @@
     {
       "title": "GLM-5.2 is the new leading open weights model on Artificial Analysis",
       "url": "https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index",
-      "score": 7.82,
+      "score": 7.91,
       "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 546,
-        "comments": 293
-      }
-    },
-    {
-      "title": "Source: EU greens.Bunch of fascists chanting \"Send them back\" after approving strictest-ever migration law.Manfred Weber, german politician, in the mid of it.I'm finding it hard to believe what's happ",
-      "url": "https://norden.social/@SheDrivesMobility/116765926245740054",
-      "score": 7.51,
-      "niche": "software",
-      "source": "mastodon",
-      "engagement": {
-        "score": 99,
-        "comments": 8
-      }
-    },
-    {
-      "title": "Show HN: I built 184 free browser tools – PDF, image, dev, AI tasks, no upload",
-      "url": "https://brevio.pro",
-      "score": 7.46,
-      "niche": "ai",
-      "source": "hackernews",
-      "engagement": {
-        "score": 69,
-        "comments": 16
-      }
-    },
-    {
-      "title": "AI demands more engineering discipline. Not less",
-      "url": "https://charitydotwtf.substack.com/p/ai-demands-more-engineering-discipline",
-      "score": 7.42,
-      "niche": "ai",
-      "source": "hackernews",
-      "engagement": {
-        "score": 123,
-        "comments": 42
-      }
-    },
-    {
-      "title": "Manuel said to tell you: “Mmmph.”#asstodon",
-      "url": "https://zirk.us/@impermanen_/116765789922359079",
-      "score": 7.28,
-      "niche": "ai",
-      "source": "mastodon",
-      "engagement": {
-        "score": 184,
-        "comments": 2
+        "score": 601,
+        "comments": 316
       }
     },
     {
       "title": "The feds are now arresting RR (rapid response) volunteers and resistance 🧊 watchers, using federal conspiracy charges to go after them. I've seen this happening in Minnesota.We are now at the Your Go",
       "url": "https://sfba.social/@DeliaChristina/116765952938314534",
-      "score": 7.12,
+      "score": 7.81,
       "niche": "software",
       "source": "mastodon",
       "engagement": {
-        "score": 156,
-        "comments": 3
+        "score": 256,
+        "comments": 5
       }
     },
     {
-      "title": "Ireland trialed a basic income for artists. 🇮🇪 💸 🎤 🎨 Research showed that it boosted the economy. 🫰 🏦 They've now made it a permanent scheme. 🔏 Catch up UK! 👀 🇬🇧 https://www.positive.news/e",
-      "url": "https://climatejustice.social/@ethicalrevolution/116765970395647647",
-      "score": 7.03,
-      "niche": "finance",
+      "title": "Only 16 Percent of Americans Think AI Will Have a Positive Impact on Society",
+      "url": "https://techcrunch.com/2026/06/17/only-16-percent-of-americans-think-ai-will-have-a-positive-impact-on-society-a-new-study-shows/",
+      "score": 7.81,
+      "niche": "ai",
+      "source": "hackernews",
+      "engagement": {
+        "score": 110,
+        "comments": 82
+      }
+    },
+    {
+      "title": "Best AI Agent Security Tools for SMB and Enterprise in 2026",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9MN0FfRzZYaUxncFh5N1JnS0MwQURydEhDYW9HWGw3UGZwSnMxSndSQWxuZ2RISHNkZjBSUUZGTkJEa1BOMWhhZGxZb2V2WmYwTGEwcnRyV2gzazN3TlQ1ZVFBQ3BkbHp6d3puMEJXb21KbmVMRi1oMw?oc=5",
+      "score": 7.48,
+      "niche": "ai",
+      "source": "gnews",
+      "engagement": {
+        "score": 40,
+        "comments": 0
+      }
+    },
+    {
+      "title": "Vellum AI Review: LLMOps Platform Tested",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1MRXNnUnhiTGVSNk4zTHI2U2xRTThvYS0tMG0wblBBNnYwZHB6Q2pLUkV5Mm1kT2VCMWRmMzQySzk2SlhIczRTNjI2ZUdDRTlRS3l3MUx4ZmxQaXY0?oc=5",
+      "score": 7.48,
+      "niche": "ai",
+      "source": "gnews",
+      "engagement": {
+        "score": 40,
+        "comments": 0
+      }
+    },
+    {
+      "title": "W seems for Boomers who don't get tech?🤑 for-profit🔒 now closed source?🕵️ may use your data to train AI🦹‍♂️ dodgy tech bro on the Board🪪 needs govt ID verification & face scanning🤖 40 million ex",
+      "url": "https://eupolicy.social/@AliceStollmeyer/116766562547580064",
+      "score": 7.26,
+      "niche": "ai",
       "source": "mastodon",
       "engagement": {
-        "score": 104,
-        "comments": 2
+        "score": 75,
+        "comments": 9
+      }
+    },
+    {
+      "title": "Agentic coding deserves more than a chat box bolted onto VS Code",
+      "url": "https://github.com/evanklem/polypore",
+      "score": 7.14,
+      "niche": "ai",
+      "source": "hackernews",
+      "engagement": {
+        "score": 50,
+        "comments": 18
       }
     },
     {
       "title": "alchaincyf/loop-engineering-orange-book — 别再问我什么是 Loop Engineering — 橙皮书系列。A plain-language guide to loop engineering (中文 + English PDF). Free.",
       "url": "https://github.com/alchaincyf/loop-engineering-orange-book",
-      "score": 6.94,
+      "score": 6.95,
       "niche": "ai",
       "source": "github",
       "engagement": {
-        "score": 603,
+        "score": 605,
         "comments": 0
       }
     },
     {
-      "title": "Humiliating IIS servers for fun and jail time",
-      "url": "https://mll.sh/humiliating-iis-servers-for-fun-and-jail-time/",
-      "score": 6.91,
-      "niche": "ai",
-      "source": "hackernews",
-      "engagement": {
-        "score": 337,
-        "comments": 82
-      }
-    },
-    {
-      "title": "⭐️⭐️⭐️⭐️⭐️\"Some of the jokes made me laugh, you have to laugh or else you'll cry at how wonderful and amazing our planet is...and how little time we have left to be with her.\" Elaine on GoodreadsOur n",
-      "url": "https://mastodon.social/@warandpeas/116766065626674073",
-      "score": 6.7,
+      "title": "When LLMs do scientific literature reviews they attribute women's work to hallucinated male researchers and insist that men are more heavily cited and/or more influential even when citation counts sho",
+      "url": "https://mastodon.social/@gvwilson/116766449813889548",
+      "score": 6.83,
       "niche": "ai",
       "source": "mastodon",
       "engagement": {
-        "score": 63,
-        "comments": 1
+        "score": 67,
+        "comments": 2
       }
     },
     {
-      "title": "Running local models is good now",
-      "url": "https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/",
-      "score": 6.56,
+      "title": "The founder's playbook: Building an AI-native startup",
+      "url": "https://claude.com/blog/the-founders-playbook",
+      "score": 6.7,
       "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 1483,
-        "comments": 566
+        "score": 153,
+        "comments": 131
+      }
+    },
+    {
+      "title": "rebel0789/codexpro — Use ChatGPT Developer Mode as a local coding agent for your repo through MCP.",
+      "url": "https://github.com/rebel0789/codexpro",
+      "score": 6.67,
+      "niche": "ai",
+      "source": "github",
+      "engagement": {
+        "score": 183,
+        "comments": 0
+      }
+    },
+    {
+      "title": "Developers build the best tools for developers – and are now defanging the AI menace",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOaTg5S3dmRXgwTV80cDFKV0JrV2trNUVRTl9nbjZZeko5YVVGTzVFZHBxc0N2aVJHY1lPSGNEeG16WURsVTVfOXpfREl4c3VCV2l3SjNocVY2ZmVwUDFlVXpwQThKLUF2NGZYY19Ec1VkQWUzSWsyd3F5ejRRRmt5d21fSTNpaDUyaHhfaUNBZ2k5bnhuSUk1V3JnOUprckJzX3Nuek1VbXNpQmIwdkVRRlpvSFBseC02R1VzczZ1amhZUlQyM1hZU0JKMUgyNmxwamFDbnln?oc=5",
+      "score": 6.61,
+      "niche": "ai",
+      "source": "gnews",
+      "engagement": {
+        "score": 40,
+        "comments": 0
+      }
+    },
+    {
+      "title": "The best Apple deals you can already get ahead of Prime Day",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORjdxRDJvaU9Ka2xVRlZqbkRpTlVWVVJRZk94SkRoWV9VRk9jRm5ZbHJsbFRHTDQ1RWdRT0plZVpYQVRqZGticG9aSnZHNVFjSDRZWk5CNmpXZ1hJQXBLUUtycjdsaVdNUGVQbUM1bWV0eEJPOVlwQ1RSaXhPUzNLMGx5ZjVFT3pDM1ZF?oc=5",
+      "score": 6.55,
+      "niche": "software",
+      "source": "gnews",
+      "engagement": {
+        "score": 40,
+        "comments": 0
       }
     },
     {
@@ -179,25 +256,14 @@
       }
     },
     {
-      "title": "rebel0789/codexpro — Use ChatGPT Developer Mode as a local coding agent for your repo through MCP.",
-      "url": "https://github.com/rebel0789/codexpro",
-      "score": 6.42,
-      "niche": "ai",
-      "source": "github",
-      "engagement": {
-        "score": 151,
-        "comments": 0
-      }
-    },
-    {
-      "title": "Pentagon boasts of using AI to write reports mandated by Congress (1.5mil users)",
-      "url": "https://arstechnica.com/ai/2026/06/pentagon-boasts-of-using-ai-to-write-reports-mandated-by-congress/",
-      "score": 6.41,
+      "title": "Launch HN: Adam (YC W25) – Open-Source AI CAD",
+      "url": "https://github.com/Adam-CAD/CADAM",
+      "score": 6.31,
       "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 42,
-        "comments": 29
+        "score": 57,
+        "comments": 18
       }
     },
     {
@@ -210,117 +276,13 @@
         "score": 175,
         "comments": 1
       }
-    },
-    {
-      "title": "MicroUI – A tiny, portable, immediate-mode UI library written in ANSI C",
-      "url": "https://github.com/rxi/microui",
-      "score": 6.19,
-      "niche": "software",
-      "source": "hackernews",
-      "engagement": {
-        "score": 93,
-        "comments": 34
-      }
-    },
-    {
-      "title": "France to ditch Palantir’s AI data tools in favour of domestic provider",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNm5LQnNGRzNDTHBMLXBOY21Ham90ZWNWWnBUMTByeTVKNkFTTExJTnpwenJKWlRHWkptVG9XSGVILTZXamluT2RyOGpQaFRsaEFuYWQwcUhraE9ZeG1NNlNxNlp5cndtV3Boc2RsWWd3aU93akY4NTRLSTl6MFVUQTNySHZHZU1pdE5hZ3U0bmk?oc=5",
-      "score": 5.99,
-      "niche": "ai",
-      "source": "gnews",
-      "engagement": {
-        "score": 40,
-        "comments": 0
-      }
-    },
-    {
-      "title": "This New LTX Tool Helps You Create Your Own AI Video Model",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUHI2UW8zb2JEM1dKU0NDeks4MnRQM1VyeXpvREF6UkFlLU40SDdxakVNUjBINS1XbDE2V2Q3X0ozakx3SUluajF1bUVZTjA2dHBRZGNvT1JxVVRyZzhWeGNLdUVpcWRCQ2hud0tPYWFWS2hYcXRpNHVGQTFDcm5JMUJJdWw4QmcxTUloNTROX0Y1Y0YyblhCMw?oc=5",
-      "score": 5.94,
-      "niche": "ai",
-      "source": "gnews",
-      "engagement": {
-        "score": 40,
-        "comments": 0
-      }
-    },
-    {
-      "title": "5 Of Amazon's Best Father's Day Gadget & Tech Deals For 2026",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBIemlXVnhEZExzVmhOWkxicmZTdzNqVE9UQ2VESTJUZHBSU0ZvMUtKTnREV3o5djdGaTBEa09iWEdZUk96R1Y2MF83ZF9uY1BPR1VwR1lJSklIcEhrVDR5eG8zRzdJNWVYbEZZaDNWdHpRdy1Qd2RBMlN3?oc=5",
-      "score": 5.87,
-      "niche": "gear",
-      "source": "gnews",
-      "engagement": {
-        "score": 40,
-        "comments": 0
-      }
-    },
-    {
-      "title": "Agentic coding deserves more than a chat box bolted onto VS Code",
-      "url": "https://github.com/evanklem/polypore",
-      "score": 5.81,
-      "niche": "ai",
-      "source": "hackernews",
-      "engagement": {
-        "score": 21,
-        "comments": 8
-      }
-    },
-    {
-      "title": "fendouai/best-humanizer-handbook — Best AI Humanizer Handbook A practical guide to making AI-assisted writing clearer, more credible, and more human",
-      "url": "https://github.com/fendouai/best-humanizer-handbook",
-      "score": 5.72,
-      "niche": "ai",
-      "source": "github",
-      "engagement": {
-        "score": 194,
-        "comments": 0
-      }
     }
   ],
   "topics": [
     {
-      "keyword": "passive income",
-      "count": 55,
-      "score": 238.19204779893772,
-      "proper": true,
-      "niches": [
-        "finance"
-      ],
-      "examples": [
-        {
-          "title": "4 Stocks That Can Fund Decades of Passive Income -- Buy Them While They're Down",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSHpUQXg1dTc4NXZQVGE1cDZXX1NIQlppS3ppQUlhTFNvQmJfOFNTWXlzZ044OUtGT1doczR3ZjlXQXNtUzRqRUZ1NHZYaHlReDBYbWp0ZEdUM3YzZHJNaTRQRmpicWZvLWRrb1NkLTEwVTFrbGF2bHI4ZEcwS3IybWd1OUR4eHlVSzhMeEVuczZfR2w3V1JEaQ?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "4 Stocks That Can Fund Decades of Passive Income -- Buy Them While They're Down",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSHpUQXg1dTc4NXZQVGE1cDZXX1NIQlppS3ppQUlhTFNvQmJfOFNTWXlzZ044OUtGT1doczR3ZjlXQXNtUzRqRUZ1NHZYaHlReDBYbWp0ZEdUM3YzZHJNaTRQRmpicWZvLWRrb1NkLTEwVTFrbGF2bHI4ZEcwS3IybWd1OUR4eHlVSzhMeEVuczZfR2w3V1JEaQ?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "How owning 10,487 Lloyds shares gives me a passive income of…",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPQ3FQM0NWT25KRE5wODdkcFg2bm45VDFRQ0hTWW9CLUlwUkQxd1FRVC03S24xWUIxb2NIZ01tQ0pycnI3dnJUd2VaZFlCVmg2YzIzdWpVR1BVTWVJOEFUUUk0VG44aTlWWkpfaEwzNGN6N3I1QlVvUzFhYkRRZS0tcEJR?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "How owning 10,487 Lloyds shares gives me a passive income of…",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPQ3FQM0NWT25KRE5wODdkcFg2bm45VDFRQ0hTWW9CLUlwUkQxd1FRVC03S24xWUIxb2NIZ01tQ0pycnI3dnJUd2VaZFlCVmg2YzIzdWpVR1BVTWVJOEFUUUk0VG44aTlWWkpfaEwzNGN6N3I1QlVvUzFhYkRRZS0tcEJR?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "3 High-Yield BlackRock ETFs Paying 6%+ in Passive Income",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUEpoZHJWVndHVmFOekVhUFMzXzhST3ZsaXp3Q0k1WEs1eXM2ZFhBZDVjYUptSjAxRFI3Qk8zWFhPN0FPbnZPN3F4SFJIRzVfWl9UOHU4elUwZ3BtbWVZWHJESVhHQUc1VG1YMHlQVkpDdjRRb29zSkNKT2pxZExxX2h6dXd0SGpSS1JYMg?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "cf2dbbbf8c8c",
-      "slug": "passive-income"
-    },
-    {
       "keyword": "loop engineering",
       "count": 11,
-      "score": 114.5342252801727,
+      "score": 114.59335255366433,
       "proper": true,
       "niches": [
         "ai"
@@ -346,6 +308,29 @@
       "slug": "loop-engineering"
     },
     {
+      "keyword": "vs code",
+      "count": 10,
+      "score": 113.08555526040843,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "Plaer1/junction — VS Code chat sidebar for local AI coding agents",
+          "url": "https://github.com/Plaer1/junction",
+          "source": "github"
+        },
+        {
+          "title": "Agentic coding deserves more than a chat box bolted onto VS Code",
+          "url": "https://github.com/evanklem/polypore",
+          "source": "hackernews"
+        }
+      ],
+      "id": "7abdcc4cf6e0",
+      "slug": "vs-code"
+    },
+    {
       "keyword": "fitness gear",
       "count": 28,
       "score": 106.21149366813489,
@@ -356,17 +341,17 @@
       "examples": [
         {
           "title": "Attention, Gym Girlies: Amazon Discounted Our Favorite Fitness Gear",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUzktQkkzNUJXamRXdmRBb2JQbnU2Q1F2M3d4QXZjSl9WRmV5d291a2lIOVhLMVBaMHREUVp5VnhUeE1aSVhxbHdMTGZsZjhyN1F0SnJEdDlGcWljNnZDUXZVX2k4UUFHN1VQZ0U1Rll4TVQydnVIMEk0WF90Tkp6SkkxYjlFWnJPREhv?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQODBnUTFMTl9KRlhCMVdQU3FwTlFLblFFc1Axa2tDLUl3MlVwMUh1blhlWVBadWNGQ1JnXzRkMHVyaHdhOG5sRFB1U0s3RGRlUDhVRnJ1QUZWTTlvN3FiZ1JVTU1RSHhWS1hsWVczUDB6dldjTktkbXlyN0IxZFU4X1Y0ampZVnZZX004?oc=5",
           "source": "gnews"
         },
         {
           "title": "Attention, Gym Girlies: Amazon Discounted Our Favorite Fitness Gear",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUzktQkkzNUJXamRXdmRBb2JQbnU2Q1F2M3d4QXZjSl9WRmV5d291a2lIOVhLMVBaMHREUVp5VnhUeE1aSVhxbHdMTGZsZjhyN1F0SnJEdDlGcWljNnZDUXZVX2k4UUFHN1VQZ0U1Rll4TVQydnVIMEk0WF90Tkp6SkkxYjlFWnJPREhv?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQODBnUTFMTl9KRlhCMVdQU3FwTlFLblFFc1Axa2tDLUl3MlVwMUh1blhlWVBadWNGQ1JnXzRkMHVyaHdhOG5sRFB1U0s3RGRlUDhVRnJ1QUZWTTlvN3FiZ1JVTU1RSHhWS1hsWVczUDB6dldjTktkbXlyN0IxZFU4X1Y0ampZVnZZX004?oc=5",
           "source": "gnews"
         },
         {
           "title": "Attention, Gym Girlies: Amazon Discounted Our Favorite Fitness Gear",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUzktQkkzNUJXamRXdmRBb2JQbnU2Q1F2M3d4QXZjSl9WRmV5d291a2lIOVhLMVBaMHREUVp5VnhUeE1aSVhxbHdMTGZsZjhyN1F0SnJEdDlGcWljNnZDUXZVX2k4UUFHN1VQZ0U1Rll4TVQydnVIMEk0WF90Tkp6SkkxYjlFWnJPREhv?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQODBnUTFMTl9KRlhCMVdQU3FwTlFLblFFc1Axa2tDLUl3MlVwMUh1blhlWVBadWNGQ1JnXzRkMHVyaHdhOG5sRFB1U0s3RGRlUDhVRnJ1QUZWTTlvN3FiZ1JVTU1RSHhWS1hsWVczUDB6dldjTktkbXlyN0IxZFU4X1Y0ampZVnZZX004?oc=5",
           "source": "gnews"
         },
         {
@@ -412,32 +397,9 @@
       "slug": "app-store"
     },
     {
-      "keyword": "vs code",
-      "count": 10,
-      "score": 103.15685115475853,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "Plaer1/junction — VS Code chat sidebar for local AI coding agents",
-          "url": "https://github.com/Plaer1/junction",
-          "source": "github"
-        },
-        {
-          "title": "Agentic coding deserves more than a chat box bolted onto VS Code",
-          "url": "https://github.com/evanklem/polypore",
-          "source": "hackernews"
-        }
-      ],
-      "id": "7abdcc4cf6e0",
-      "slug": "vs-code"
-    },
-    {
       "keyword": "artificial analysis",
       "count": 8,
-      "score": 93.82594283100357,
+      "score": 94.9652017058987,
       "proper": true,
       "niches": [
         "ai"
@@ -458,27 +420,27 @@
       "slug": "artificial-analysis"
     },
     {
-      "keyword": "manfred weber",
+      "keyword": "positive impact",
       "count": 8,
-      "score": 90.17552496943179,
+      "score": 93.6703754430821,
       "proper": true,
       "niches": [
-        "software"
+        "ai"
       ],
       "examples": [
         {
-          "title": "Source: EU greens.Bunch of fascists chanting \"Send them back\" after approving strictest-ever migration law.Manfred Weber, german politician, in the mid of it.I'm finding it hard to believe what's happ",
-          "url": "https://norden.social/@SheDrivesMobility/116765926245740054",
-          "source": "mastodon"
+          "title": "Only 16 Percent of Americans Think AI Will Have a Positive Impact on Society",
+          "url": "https://techcrunch.com/2026/06/17/only-16-percent-of-americans-think-ai-will-have-a-positive-impact-on-society-a-new-study-shows/",
+          "source": "hackernews"
         },
         {
-          "title": "Source: EU greens.Bunch of fascists chanting \"Send them back\" after approving strictest-ever migration law.Manfred Weber, german politician, in the mid of it.I'm finding it hard to believe what's happ",
-          "url": "https://norden.social/@SheDrivesMobility/116765926245740054",
-          "source": "mastodon"
+          "title": "Only 16 Percent of Americans Think AI Will Have a Positive Impact on Society",
+          "url": "https://techcrunch.com/2026/06/17/only-16-percent-of-americans-think-ai-will-have-a-positive-impact-on-society-a-new-study-shows/",
+          "source": "hackernews"
         }
       ],
-      "id": "fe71e488853a",
-      "slug": "manfred-weber"
+      "id": "74efb70e3fbe",
+      "slug": "positive-impact"
     },
     {
       "keyword": "nxtpaper addresses",
@@ -511,7 +473,7 @@
     {
       "keyword": "english pdf",
       "count": 8,
-      "score": 83.29761838558014,
+      "score": 83.34062003902861,
       "proper": true,
       "niches": [
         "ai"
@@ -532,29 +494,6 @@
       "slug": "english-pdf"
     },
     {
-      "keyword": "humiliating iis",
-      "count": 8,
-      "score": 82.96561819069498,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "Humiliating IIS servers for fun and jail time",
-          "url": "https://mll.sh/humiliating-iis-servers-for-fun-and-jail-time/",
-          "source": "hackernews"
-        },
-        {
-          "title": "Humiliating IIS servers for fun and jail time",
-          "url": "https://mll.sh/humiliating-iis-servers-for-fun-and-jail-time/",
-          "source": "hackernews"
-        }
-      ],
-      "id": "57ebb741ddea",
-      "slug": "humiliating-iis"
-    },
-    {
       "keyword": "gym girlies",
       "count": 11,
       "score": 77.49103874766985,
@@ -565,22 +504,108 @@
       "examples": [
         {
           "title": "Attention, Gym Girlies: Amazon Discounted Our Favorite Fitness Gear",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUzktQkkzNUJXamRXdmRBb2JQbnU2Q1F2M3d4QXZjSl9WRmV5d291a2lIOVhLMVBaMHREUVp5VnhUeE1aSVhxbHdMTGZsZjhyN1F0SnJEdDlGcWljNnZDUXZVX2k4UUFHN1VQZ0U1Rll4TVQydnVIMEk0WF90Tkp6SkkxYjlFWnJPREhv?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQODBnUTFMTl9KRlhCMVdQU3FwTlFLblFFc1Axa2tDLUl3MlVwMUh1blhlWVBadWNGQ1JnXzRkMHVyaHdhOG5sRFB1U0s3RGRlUDhVRnJ1QUZWTTlvN3FiZ1JVTU1RSHhWS1hsWVczUDB6dldjTktkbXlyN0IxZFU4X1Y0ampZVnZZX004?oc=5",
           "source": "gnews"
         },
         {
           "title": "Attention, Gym Girlies: Amazon Discounted Our Favorite Fitness Gear",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUzktQkkzNUJXamRXdmRBb2JQbnU2Q1F2M3d4QXZjSl9WRmV5d291a2lIOVhLMVBaMHREUVp5VnhUeE1aSVhxbHdMTGZsZjhyN1F0SnJEdDlGcWljNnZDUXZVX2k4UUFHN1VQZ0U1Rll4TVQydnVIMEk0WF90Tkp6SkkxYjlFWnJPREhv?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQODBnUTFMTl9KRlhCMVdQU3FwTlFLblFFc1Axa2tDLUl3MlVwMUh1blhlWVBadWNGQ1JnXzRkMHVyaHdhOG5sRFB1U0s3RGRlUDhVRnJ1QUZWTTlvN3FiZ1JVTU1RSHhWS1hsWVczUDB6dldjTktkbXlyN0IxZFU4X1Y0ampZVnZZX004?oc=5",
           "source": "gnews"
         },
         {
           "title": "Attention, Gym Girlies: Amazon Discounted Our Favorite Fitness Gear",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUzktQkkzNUJXamRXdmRBb2JQbnU2Q1F2M3d4QXZjSl9WRmV5d291a2lIOVhLMVBaMHREUVp5VnhUeE1aSVhxbHdMTGZsZjhyN1F0SnJEdDlGcWljNnZDUXZVX2k4UUFHN1VQZ0U1Rll4TVQydnVIMEk0WF90Tkp6SkkxYjlFWnJPREhv?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQODBnUTFMTl9KRlhCMVdQU3FwTlFLblFFc1Axa2tDLUl3MlVwMUh1blhlWVBadWNGQ1JnXzRkMHVyaHdhOG5sRFB1U0s3RGRlUDhVRnJ1QUZWTTlvN3FiZ1JVTU1RSHhWS1hsWVczUDB6dldjTktkbXlyN0IxZFU4X1Y0ampZVnZZX004?oc=5",
           "source": "gnews"
         }
       ],
       "id": "e6c8aae24d32",
       "slug": "gym-girlies"
+    },
+    {
+      "keyword": "free",
+      "count": 10,
+      "score": 76.86024756360801,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "alchaincyf/loop-engineering-orange-book — 别再问我什么是 Loop Engineering — 橙皮书系列。A plain-language guide to loop engineering (中文 + English PDF). Free.",
+          "url": "https://github.com/alchaincyf/loop-engineering-orange-book",
+          "source": "github"
+        },
+        {
+          "title": "Best AI Creativity Tools: Free & Paid Options",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTGdqeElaenNfS1VLSEh2Z1dpZFNDUlhWSjFGZjVkUVBORERrWVp5NC01MTF3a1o4Y3dJNGM4Sk9BMm1zOURvT1BEQm9SR1RkN0h3WmFKQXhNZWw3MnJoMkUzUmZSVFdScDJJVkp2YUZwci1maUg1enJZdXpyVVJMWEp2c2IwcDQ?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "ad95d5fa651b",
+      "slug": "free"
+    },
+    {
+      "keyword": "daphy michel",
+      "count": 8,
+      "score": 74.47753930055495,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "Death of woman released by #ICE on a winter day is now ruled a #homicide The grainy security footage from the Pittsburgh transit authority shows Daphy Michel seated on a steel bench. She had been rele",
+          "url": "https://masto.ai/@Nonilex/116766431808728601",
+          "source": "mastodon"
+        },
+        {
+          "title": "Death of woman released by #ICE on a winter day is now ruled a #homicide The grainy security footage from the Pittsburgh transit authority shows Daphy Michel seated on a steel bench. She had been rele",
+          "url": "https://masto.ai/@Nonilex/116766431808728601",
+          "source": "mastodon"
+        }
+      ],
+      "id": "d72864c699e8",
+      "slug": "daphy-michel"
+    },
+    {
+      "keyword": "2026 _blank",
+      "count": 18,
+      "score": 71.35600895670797,
+      "proper": false,
+      "niches": [
+        "ai",
+        "gear",
+        "software"
+      ],
+      "examples": [
+        {
+          "title": "Best AI Agent Security Tools for SMB and Enterprise in 2026",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9MN0FfRzZYaUxncFh5N1JnS0MwQURydEhDYW9HWGw3UGZwSnMxSndSQWxuZ2RISHNkZjBSUUZGTkJEa1BOMWhhZGxZb2V2WmYwTGEwcnRyV2gzazN3TlQ1ZVFBQ3BkbHp6d3puMEJXb21KbmVMRi1oMw?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "5 Of Amazon's Best Father's Day Gadget & Tech Deals For 2026",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBIemlXVnhEZExzVmhOWkxicmZTdzNqVE9UQ2VESTJUZHBSU0ZvMUtKTnREV3o5djdGaTBEa09iWEdZUk96R1Y2MF83ZF9uY1BPR1VwR1lJSklIcEhrVDR5eG8zRzdJNWVYbEZZaDNWdHpRdy1Qd2RBMlN3?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Six Best AI Tools for Automating LinkedIn Video Content in 2026",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZkh0NjBWX2RxT3pFd1FqQmxsVnJFN3M4dkptUFpGRGVUWmdvZmhsQklBQ2N4UEJhMkZveGl3cG54d3I1QXJpT2Y5MG9qWHlfeURWWVJQbmNpSXhqeU0teThSZWZnRGF4X1VVX1R3MHBQM3JCLWItMnBaakstYnlGWGQxZDhJa1hSQzFvMGVnZ21mYk5LSmFJbmp3Rks4Zw?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "The best AI tools for small business are the ones tied to workflow: These nine AI tools save small businesses the most time in 2026",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcFptaUxVY3ZGanY1TUhuQzNiZmRqenl3WHlSUDdHb1pDOHk5NFBESUxxVDJXZTdxWnYyN1k1d2lTYkhGaTFxUmJWV0RUMkF3X2xjT0tGV2E3ZDFxcHd6eDZ1TnJXeGVGMVdLU2pPUkhVaVZVdXc2aGRNT19LZVRmWUNSaGwtSHlMbEFLcnVMczNpSERQd2xBVl9n?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "The Best Productivity Apps for 2026",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1hcGhhTzd4UXY0VzB6MjRBcjZDR3ozczlxVFd4eVZmRGpjNVk2Z1ZCd3pIa0hBMUcxN3hEQTloZjh0dmdLMl9EakVNYjl0ZFBRQldfZEtqbGVmNGNtYTBNSllINjZ1aUU3aWp0ZGMyOTg0eGJE?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "436796f27eb8",
+      "slug": "2026-_blank"
     },
     {
       "keyword": "productivity apps",
@@ -622,132 +647,47 @@
       "slug": "productivity-apps"
     },
     {
-      "keyword": "hunger games",
-      "count": 11,
-      "score": 68.12399010784164,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "Companies spent months pushing workers to use AI more. Now the token Hunger Games could be coming.",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOekpWNEdzRjRJN09IRktsMTlyY3ZaZktHdHRBRVgzamw0aXh3cXpyR2VTRkRyTkxpYmp0TWNicTR5NFlBM2xfbkxVZnlkd2RLNGVjaDk0c1pLYjNrZTNZZ2JNOVFySWlXUXowSnc2LXBTcVBzMjJnMEtLeW05aVFId0ZjUWw2LUFTbEtFTUZfY0Jhd0F4aWctUXM3ZF8xV2ppbm8xRkg4N2ZXcVhQMmJjSQ?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Companies spent months pushing workers to use AI more. Now the token Hunger Games could be coming.",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOekpWNEdzRjRJN09IRktsMTlyY3ZaZktHdHRBRVgzamw0aXh3cXpyR2VTRkRyTkxpYmp0TWNicTR5NFlBM2xfbkxVZnlkd2RLNGVjaDk0c1pLYjNrZTNZZ2JNOVFySWlXUXowSnc2LXBTcVBzMjJnMEtLeW05aVFId0ZjUWw2LUFTbEtFTUZfY0Jhd0F4aWctUXM3ZF8xV2ppbm8xRkg4N2ZXcVhQMmJjSQ?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Companies spent months pushing workers to use AI more. Now the token Hunger Games could be coming.",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOekpWNEdzRjRJN09IRktsMTlyY3ZaZktHdHRBRVgzamw0aXh3cXpyR2VTRkRyTkxpYmp0TWNicTR5NFlBM2xfbkxVZnlkd2RLNGVjaDk0c1pLYjNrZTNZZ2JNOVFySWlXUXowSnc2LXBTcVBzMjJnMEtLeW05aVFId0ZjUWw2LUFTbEtFTUZfY0Jhd0F4aWctUXM3ZF8xV2ppbm8xRkg4N2ZXcVhQMmJjSQ?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "16c19fe7aadb",
-      "slug": "hunger-games"
-    },
-    {
-      "keyword": "source",
-      "count": 6,
-      "score": 67.63164372707385,
-      "proper": true,
-      "niches": [
-        "software"
-      ],
-      "examples": [
-        {
-          "title": "Source: EU greens.Bunch of fascists chanting \"Send them back\" after approving strictest-ever migration law.Manfred Weber, german politician, in the mid of it.I'm finding it hard to believe what's happ",
-          "url": "https://norden.social/@SheDrivesMobility/116765926245740054",
-          "source": "mastodon"
-        },
-        {
-          "title": "Source: EU greens.Bunch of fascists chanting \"Send them back\" after approving strictest-ever migration law.Manfred Weber, german politician, in the mid of it.I'm finding it hard to believe what's happ",
-          "url": "https://norden.social/@SheDrivesMobility/116765926245740054",
-          "source": "mastodon"
-        }
-      ],
-      "id": "41cf6794ba42",
-      "slug": "source"
-    },
-    {
-      "keyword": "billion deal",
-      "count": 11,
-      "score": 66.42089035514559,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "Salesforce To Acquire AI Agent Maker Fin In $3.6 Billion Deal",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNE9OeEhlRGpBaEZ6WFZOQWhhUG9IcUpYQ1VpSWJ4UkVIRGlxY3hnOEJWbkw1a2NIUUtKOElwcy1fZzM1cnI3SHlYaW1YMXZXY3ZKbVZ3dHRLcEpHeGJkcmlOQWUzakZKYWxXMDA1RThvektBUnd1VDVSUEJwVndDQXZOeWkxUVl1TVZMLVY2dDNpS0xoNmRiQk1GbXFKUS1wTGhwMQ?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Salesforce To Acquire AI Agent Maker Fin In $3.6 Billion Deal",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNE9OeEhlRGpBaEZ6WFZOQWhhUG9IcUpYQ1VpSWJ4UkVIRGlxY3hnOEJWbkw1a2NIUUtKOElwcy1fZzM1cnI3SHlYaW1YMXZXY3ZKbVZ3dHRLcEpHeGJkcmlOQWUzakZKYWxXMDA1RThvektBUnd1VDVSUEJwVndDQXZOeWkxUVl1TVZMLVY2dDNpS0xoNmRiQk1GbXFKUS1wTGhwMQ?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Salesforce To Acquire AI Agent Maker Fin In $3.6 Billion Deal",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNE9OeEhlRGpBaEZ6WFZOQWhhUG9IcUpYQ1VpSWJ4UkVIRGlxY3hnOEJWbkw1a2NIUUtKOElwcy1fZzM1cnI3SHlYaW1YMXZXY3ZKbVZ3dHRLcEpHeGJkcmlOQWUzakZKYWxXMDA1RThvektBUnd1VDVSUEJwVndDQXZOeWkxUVl1TVZMLVY2dDNpS0xoNmRiQk1GbXFKUS1wTGhwMQ?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "c2ebb4cf870a",
-      "slug": "billion-deal"
-    }
-  ],
-  "opportunities": [
-    {
-      "keyword": "passive income",
-      "count": 55,
-      "score": 238.19204779893772,
+      "keyword": "happy",
+      "count": 5,
+      "score": 65.30193982874923,
       "proper": true,
       "niches": [
         "finance"
       ],
       "examples": [
         {
-          "title": "4 Stocks That Can Fund Decades of Passive Income -- Buy Them While They're Down",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSHpUQXg1dTc4NXZQVGE1cDZXX1NIQlppS3ppQUlhTFNvQmJfOFNTWXlzZ044OUtGT1doczR3ZjlXQXNtUzRqRUZ1NHZYaHlReDBYbWp0ZEdUM3YzZHJNaTRQRmpicWZvLWRrb1NkLTEwVTFrbGF2bHI4ZEcwS3IybWd1OUR4eHlVSzhMeEVuczZfR2w3V1JEaQ?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "4 Stocks That Can Fund Decades of Passive Income -- Buy Them While They're Down",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSHpUQXg1dTc4NXZQVGE1cDZXX1NIQlppS3ppQUlhTFNvQmJfOFNTWXlzZ044OUtGT1doczR3ZjlXQXNtUzRqRUZ1NHZYaHlReDBYbWp0ZEdUM3YzZHJNaTRQRmpicWZvLWRrb1NkLTEwVTFrbGF2bHI4ZEcwS3IybWd1OUR4eHlVSzhMeEVuczZfR2w3V1JEaQ?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "How owning 10,487 Lloyds shares gives me a passive income of…",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPQ3FQM0NWT25KRE5wODdkcFg2bm45VDFRQ0hTWW9CLUlwUkQxd1FRVC03S24xWUIxb2NIZ01tQ0pycnI3dnJUd2VaZFlCVmg2YzIzdWpVR1BVTWVJOEFUUUk0VG44aTlWWkpfaEwzNGN6N3I1QlVvUzFhYkRRZS0tcEJR?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "How owning 10,487 Lloyds shares gives me a passive income of…",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPQ3FQM0NWT25KRE5wODdkcFg2bm45VDFRQ0hTWW9CLUlwUkQxd1FRVC03S24xWUIxb2NIZ01tQ0pycnI3dnJUd2VaZFlCVmg2YzIzdWpVR1BVTWVJOEFUUUk0VG44aTlWWkpfaEwzNGN6N3I1QlVvUzFhYkRRZS0tcEJR?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "3 High-Yield BlackRock ETFs Paying 6%+ in Passive Income",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUEpoZHJWVndHVmFOekVhUFMzXzhST3ZsaXp3Q0k1WEs1eXM2ZFhBZDVjYUptSjAxRFI3Qk8zWFhPN0FPbnZPN3F4SFJIRzVfWl9UOHU4elUwZ3BtbWVZWHJESVhHQUc1VG1YMHlQVkpDdjRRb29zSkNKT2pxZExxX2h6dXd0SGpSS1JYMg?oc=5",
-          "source": "gnews"
+          "title": "Happy to see my tax money well-spent 😊🥳Apparently accessibility fixes in Mastodon were largely sponsored by the Dutch government. Public money funding public code benefitting us all, regardless of w",
+          "url": "https://mastodon.social/@BjornW/116766373729657434",
+          "source": "mastodon"
         }
       ],
-      "id": "cf2dbbbf8c8c",
-      "slug": "passive-income",
-      "opportunity": {
-        "type": "niche-content",
-        "recommended": "Publish niche guide for \"finance\"; bundle into digital product later."
-      }
+      "id": "489f719cadf9",
+      "slug": "happy"
     },
+    {
+      "keyword": "apparently",
+      "count": 5,
+      "score": 65.30193982874923,
+      "proper": true,
+      "niches": [
+        "finance"
+      ],
+      "examples": [
+        {
+          "title": "Happy to see my tax money well-spent 😊🥳Apparently accessibility fixes in Mastodon were largely sponsored by the Dutch government. Public money funding public code benefitting us all, regardless of w",
+          "url": "https://mastodon.social/@BjornW/116766373729657434",
+          "source": "mastodon"
+        }
+      ],
+      "id": "f2b259a7fe2d",
+      "slug": "apparently"
+    }
+  ],
+  "opportunities": [
     {
       "keyword": "loop engineering",
       "count": 11,
-      "score": 114.5342252801727,
+      "score": 114.59335255366433,
       "proper": true,
       "niches": [
         "ai"
@@ -777,6 +717,33 @@
       }
     },
     {
+      "keyword": "vs code",
+      "count": 10,
+      "score": 113.08555526040843,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "Plaer1/junction — VS Code chat sidebar for local AI coding agents",
+          "url": "https://github.com/Plaer1/junction",
+          "source": "github"
+        },
+        {
+          "title": "Agentic coding deserves more than a chat box bolted onto VS Code",
+          "url": "https://github.com/evanklem/polypore",
+          "source": "hackernews"
+        }
+      ],
+      "id": "7abdcc4cf6e0",
+      "slug": "vs-code",
+      "opportunity": {
+        "type": "affiliate",
+        "recommended": "Write SEO comparison/roundup article with affiliate links."
+      }
+    },
+    {
       "keyword": "fitness gear",
       "count": 28,
       "score": 106.21149366813489,
@@ -787,17 +754,17 @@
       "examples": [
         {
           "title": "Attention, Gym Girlies: Amazon Discounted Our Favorite Fitness Gear",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUzktQkkzNUJXamRXdmRBb2JQbnU2Q1F2M3d4QXZjSl9WRmV5d291a2lIOVhLMVBaMHREUVp5VnhUeE1aSVhxbHdMTGZsZjhyN1F0SnJEdDlGcWljNnZDUXZVX2k4UUFHN1VQZ0U1Rll4TVQydnVIMEk0WF90Tkp6SkkxYjlFWnJPREhv?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQODBnUTFMTl9KRlhCMVdQU3FwTlFLblFFc1Axa2tDLUl3MlVwMUh1blhlWVBadWNGQ1JnXzRkMHVyaHdhOG5sRFB1U0s3RGRlUDhVRnJ1QUZWTTlvN3FiZ1JVTU1RSHhWS1hsWVczUDB6dldjTktkbXlyN0IxZFU4X1Y0ampZVnZZX004?oc=5",
           "source": "gnews"
         },
         {
           "title": "Attention, Gym Girlies: Amazon Discounted Our Favorite Fitness Gear",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUzktQkkzNUJXamRXdmRBb2JQbnU2Q1F2M3d4QXZjSl9WRmV5d291a2lIOVhLMVBaMHREUVp5VnhUeE1aSVhxbHdMTGZsZjhyN1F0SnJEdDlGcWljNnZDUXZVX2k4UUFHN1VQZ0U1Rll4TVQydnVIMEk0WF90Tkp6SkkxYjlFWnJPREhv?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQODBnUTFMTl9KRlhCMVdQU3FwTlFLblFFc1Axa2tDLUl3MlVwMUh1blhlWVBadWNGQ1JnXzRkMHVyaHdhOG5sRFB1U0s3RGRlUDhVRnJ1QUZWTTlvN3FiZ1JVTU1RSHhWS1hsWVczUDB6dldjTktkbXlyN0IxZFU4X1Y0ampZVnZZX004?oc=5",
           "source": "gnews"
         },
         {
           "title": "Attention, Gym Girlies: Amazon Discounted Our Favorite Fitness Gear",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUzktQkkzNUJXamRXdmRBb2JQbnU2Q1F2M3d4QXZjSl9WRmV5d291a2lIOVhLMVBaMHREUVp5VnhUeE1aSVhxbHdMTGZsZjhyN1F0SnJEdDlGcWljNnZDUXZVX2k4UUFHN1VQZ0U1Rll4TVQydnVIMEk0WF90Tkp6SkkxYjlFWnJPREhv?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQODBnUTFMTl9KRlhCMVdQU3FwTlFLblFFc1Axa2tDLUl3MlVwMUh1blhlWVBadWNGQ1JnXzRkMHVyaHdhOG5sRFB1U0s3RGRlUDhVRnJ1QUZWTTlvN3FiZ1JVTU1RSHhWS1hsWVczUDB6dldjTktkbXlyN0IxZFU4X1Y0ampZVnZZX004?oc=5",
           "source": "gnews"
         },
         {
@@ -851,36 +818,9 @@
       }
     },
     {
-      "keyword": "vs code",
-      "count": 10,
-      "score": 103.15685115475853,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "Plaer1/junction — VS Code chat sidebar for local AI coding agents",
-          "url": "https://github.com/Plaer1/junction",
-          "source": "github"
-        },
-        {
-          "title": "Agentic coding deserves more than a chat box bolted onto VS Code",
-          "url": "https://github.com/evanklem/polypore",
-          "source": "hackernews"
-        }
-      ],
-      "id": "7abdcc4cf6e0",
-      "slug": "vs-code",
-      "opportunity": {
-        "type": "affiliate",
-        "recommended": "Write SEO comparison/roundup article with affiliate links."
-      }
-    },
-    {
       "keyword": "artificial analysis",
       "count": 8,
-      "score": 93.82594283100357,
+      "score": 94.9652017058987,
       "proper": true,
       "niches": [
         "ai"
@@ -905,30 +845,30 @@
       }
     },
     {
-      "keyword": "manfred weber",
+      "keyword": "positive impact",
       "count": 8,
-      "score": 90.17552496943179,
+      "score": 93.6703754430821,
       "proper": true,
       "niches": [
-        "software"
+        "ai"
       ],
       "examples": [
         {
-          "title": "Source: EU greens.Bunch of fascists chanting \"Send them back\" after approving strictest-ever migration law.Manfred Weber, german politician, in the mid of it.I'm finding it hard to believe what's happ",
-          "url": "https://norden.social/@SheDrivesMobility/116765926245740054",
-          "source": "mastodon"
+          "title": "Only 16 Percent of Americans Think AI Will Have a Positive Impact on Society",
+          "url": "https://techcrunch.com/2026/06/17/only-16-percent-of-americans-think-ai-will-have-a-positive-impact-on-society-a-new-study-shows/",
+          "source": "hackernews"
         },
         {
-          "title": "Source: EU greens.Bunch of fascists chanting \"Send them back\" after approving strictest-ever migration law.Manfred Weber, german politician, in the mid of it.I'm finding it hard to believe what's happ",
-          "url": "https://norden.social/@SheDrivesMobility/116765926245740054",
-          "source": "mastodon"
+          "title": "Only 16 Percent of Americans Think AI Will Have a Positive Impact on Society",
+          "url": "https://techcrunch.com/2026/06/17/only-16-percent-of-americans-think-ai-will-have-a-positive-impact-on-society-a-new-study-shows/",
+          "source": "hackernews"
         }
       ],
-      "id": "fe71e488853a",
-      "slug": "manfred-weber",
+      "id": "74efb70e3fbe",
+      "slug": "positive-impact",
       "opportunity": {
         "type": "niche-content",
-        "recommended": "Publish niche guide for \"software\"; bundle into digital product later."
+        "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
       }
     },
     {
@@ -961,6 +901,33 @@
       "opportunity": {
         "type": "niche-content",
         "recommended": "Publish niche guide for \"software\"; bundle into digital product later."
+      }
+    },
+    {
+      "keyword": "english pdf",
+      "count": 8,
+      "score": 83.34062003902861,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "alchaincyf/loop-engineering-orange-book — 别再问我什么是 Loop Engineering — 橙皮书系列。A plain-language guide to loop engineering (中文 + English PDF). Free.",
+          "url": "https://github.com/alchaincyf/loop-engineering-orange-book",
+          "source": "github"
+        },
+        {
+          "title": "alchaincyf/loop-engineering-orange-book — 别再问我什么是 Loop Engineering — 橙皮书系列。A plain-language guide to loop engineering (中文 + English PDF). Free.",
+          "url": "https://github.com/alchaincyf/loop-engineering-orange-book",
+          "source": "github"
+        }
+      ],
+      "id": "d23e7aa41813",
+      "slug": "english-pdf",
+      "opportunity": {
+        "type": "niche-content",
+        "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
       }
     }
   ]

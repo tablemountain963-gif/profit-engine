@@ -784,35 +784,11 @@
       "losses": 0,
       "niche": "ai"
     },
-    "sleep": {
-      "firstSeen": "2026-06-03T17:59:22.430Z",
-      "lastSeen": "2026-06-03T17:59:22.430Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "gear"
-    },
     "affordability-crisis": {
       "firstSeen": "2026-06-03T17:59:29.318Z",
       "lastSeen": "2026-06-15T22:53:08.629Z",
       "count": 4,
       "wins": 1,
-      "losses": 0,
-      "niche": "ai"
-    },
-    "production": {
-      "firstSeen": "2026-06-03T18:00:01.857Z",
-      "lastSeen": "2026-06-03T18:00:01.857Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "software"
-    },
-    "gaming-keyboard": {
-      "firstSeen": "2026-06-03T18:00:25.085Z",
-      "lastSeen": "2026-06-03T18:00:25.085Z",
-      "count": 1,
-      "wins": 0,
       "losses": 0,
       "niche": "ai"
     },
@@ -2546,10 +2522,10 @@
     },
     "monaco-ai": {
       "firstSeen": "2026-06-12T17:59:14.988Z",
-      "lastSeen": "2026-06-12T17:59:14.988Z",
-      "count": 1,
+      "lastSeen": "2026-06-17T18:09:21.030Z",
+      "count": 2,
       "wins": 0,
-      "losses": 0,
+      "losses": 1,
       "niche": "ai"
     },
     "side-hustle-ideas": {
@@ -3370,17 +3346,17 @@
     },
     "vs-code": {
       "firstSeen": "2026-06-17T16:38:25.721Z",
-      "lastSeen": "2026-06-17T16:38:25.721Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-17T18:09:21.033Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
     "artificial-analysis": {
       "firstSeen": "2026-06-17T16:38:28.588Z",
-      "lastSeen": "2026-06-17T16:38:28.588Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-17T18:09:21.034Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -3423,21 +3399,61 @@
       "wins": 0,
       "losses": 0,
       "niche": "ai"
+    },
+    "positive-impact": {
+      "firstSeen": "2026-06-17T18:09:25.710Z",
+      "lastSeen": "2026-06-17T18:09:25.710Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "devops-agent": {
+      "firstSeen": "2026-06-17T18:09:28.415Z",
+      "lastSeen": "2026-06-17T18:09:28.415Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "daphy-michel": {
+      "firstSeen": "2026-06-17T18:09:31.582Z",
+      "lastSeen": "2026-06-17T18:09:31.582Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "apparently": {
+      "firstSeen": "2026-06-17T18:10:02.032Z",
+      "lastSeen": "2026-06-17T18:10:02.032Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "finance"
+    },
+    "x-cringe": {
+      "firstSeen": "2026-06-17T18:10:24.089Z",
+      "lastSeen": "2026-06-17T18:10:24.089Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "software"
     }
   },
   "niches": {
     "ai": {
-      "count": 594,
-      "wins": 171,
-      "losses": 21
+      "count": 600,
+      "wins": 173,
+      "losses": 22
     },
     "finance": {
-      "count": 49,
+      "count": 50,
       "wins": 9,
       "losses": 0
     },
     "software": {
-      "count": 130,
+      "count": 131,
       "wins": 33,
       "losses": 7
     },
