@@ -1,0 +1,26 @@
+{
+  "topic": "Humiliating Iis",
+  "provider": "groq",
+  "generatedAt": "2026-06-17T06:07:33.213Z",
+  "pack": {
+    "twitter_thread": [
+      "1 in 5 IIS servers has a directory traversal vulnerability, making them easy prey.",
+      "Exploiting IIS often starts with a simple ../ sequence in a URL.",
+      "Burp Suite and ZAP can scan for IIS vulnerabilities in under 10 minutes.",
+      "90% of IIS SQL injection attacks use the UNION operator to extract data.",
+      "Windows named pipes can bypass IIS security, but only if NetPipe is enabled.",
+      "A 20-year-old exploit still works on unpatched IIS 6.0 servers, landing hackers in jail.",
+      "What's the most innovative IIS security fix you've implemented? #iissecurity #servermanagement"
+    ],
+    "linkedin": "IIS servers are still vulnerable, with 40% exposed to directory traversal attacks and SQL injection. Tools like Burp Suite and ZAP can scan for vulnerabilities quickly. However, securing named pipes and validating user input is also crucial. What specific measures do you take to secure your IIS servers?",
+    "tiktok_hooks": [
+      "Just 5 characters can hack an IIS server: ../",
+      "IIS 6.0 is 15 years old, but its exploits are still alive",
+      "One unpatched server is all a hacker needs"
+    ],
+    "reddit_headline": "Should IIS exploiters face harsher penalties than those who hack other servers?"
+  },
+  "niche": "ai",
+  "slug": "humiliating-iis-2026-06-17",
+  "date": "2026-06-17"
+}
