@@ -10,8 +10,8 @@
     },
     "passive-income": {
       "firstSeen": "2026-05-28T04:01:51.171Z",
-      "lastSeen": "2026-06-13T14:59:46.488Z",
-      "count": 5,
+      "lastSeen": "2026-06-18T16:29:57.527Z",
+      "count": 6,
       "wins": 1,
       "losses": 0,
       "niche": "finance"
@@ -303,14 +303,6 @@
       "wins": 1,
       "losses": 0,
       "niche": "ai"
-    },
-    "nightmare-eclipse": {
-      "firstSeen": "2026-05-30T04:50:37.820Z",
-      "lastSeen": "2026-06-04T05:53:48.388Z",
-      "count": 2,
-      "wins": 0,
-      "losses": 1,
-      "niche": "software"
     },
     "duel-agents": {
       "firstSeen": "2026-05-30T04:50:40.644Z",
@@ -864,22 +856,6 @@
       "losses": 0,
       "niche": "ai"
     },
-    "night-sleep": {
-      "firstSeen": "2026-06-04T05:54:09.073Z",
-      "lastSeen": "2026-06-04T05:54:09.073Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "gear"
-    },
-    "llm-ai": {
-      "firstSeen": "2026-06-04T05:55:01.433Z",
-      "lastSeen": "2026-06-04T05:55:01.433Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "ai"
-    },
     "marjane-satrapi": {
       "firstSeen": "2026-06-04T16:19:33.931Z",
       "lastSeen": "2026-06-04T18:08:46.711Z",
@@ -903,54 +879,6 @@
       "wins": 1,
       "losses": 0,
       "niche": "ai"
-    },
-    "saas": {
-      "firstSeen": "2026-06-04T16:19:54.681Z",
-      "lastSeen": "2026-06-04T16:19:54.681Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "ai"
-    },
-    "code-puppy": {
-      "firstSeen": "2026-06-04T16:19:59.764Z",
-      "lastSeen": "2026-06-04T16:19:59.764Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "ai"
-    },
-    "light-mount": {
-      "firstSeen": "2026-06-04T16:20:09.286Z",
-      "lastSeen": "2026-06-04T16:20:09.286Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "gear"
-    },
-    "several-injured": {
-      "firstSeen": "2026-06-04T16:20:39.069Z",
-      "lastSeen": "2026-06-04T16:20:39.069Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "gear"
-    },
-    "fred-rogers-productions": {
-      "firstSeen": "2026-06-04T16:21:01.107Z",
-      "lastSeen": "2026-06-04T16:21:01.107Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "software"
-    },
-    "mister-rogers": {
-      "firstSeen": "2026-06-04T16:21:24.015Z",
-      "lastSeen": "2026-06-04T16:21:24.015Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "software"
     },
     "ken-jones": {
       "firstSeen": "2026-06-04T18:08:51.871Z",
@@ -2602,10 +2530,10 @@
     },
     "ai-oss": {
       "firstSeen": "2026-06-13T14:59:05.975Z",
-      "lastSeen": "2026-06-13T14:59:05.975Z",
-      "count": 1,
+      "lastSeen": "2026-06-18T16:29:01.212Z",
+      "count": 2,
       "wins": 0,
-      "losses": 0,
+      "losses": 1,
       "niche": "ai"
     },
     "personal-finance-and-budgeting-toolkit": {
@@ -3186,9 +3114,9 @@
     },
     "gym-girlies": {
       "firstSeen": "2026-06-16T22:46:07.693Z",
-      "lastSeen": "2026-06-16T22:46:07.693Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-18T16:29:01.213Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "gear"
     },
@@ -3410,9 +3338,9 @@
     },
     "local-qwen": {
       "firstSeen": "2026-06-18T05:52:58.563Z",
-      "lastSeen": "2026-06-18T05:52:58.563Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-18T16:29:01.214Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "software"
     },
@@ -3439,27 +3367,91 @@
       "wins": 0,
       "losses": 0,
       "niche": "software"
+    },
+    "apple-appstore": {
+      "firstSeen": "2026-06-18T16:29:07.563Z",
+      "lastSeen": "2026-06-18T16:29:07.563Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "software"
+    },
+    "hong-kong": {
+      "firstSeen": "2026-06-18T16:29:10.916Z",
+      "lastSeen": "2026-06-18T16:29:10.916Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "supports-btc": {
+      "firstSeen": "2026-06-18T16:29:14.306Z",
+      "lastSeen": "2026-06-18T16:29:14.306Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "software"
+    },
+    "financial-slides": {
+      "firstSeen": "2026-06-18T16:29:20.014Z",
+      "lastSeen": "2026-06-18T16:29:20.014Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "bravo-attempts": {
+      "firstSeen": "2026-06-18T16:29:27.803Z",
+      "lastSeen": "2026-06-18T16:29:27.803Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "acquire-cyberhawk": {
+      "firstSeen": "2026-06-18T16:29:34.596Z",
+      "lastSeen": "2026-06-18T16:29:34.596Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "stock": {
+      "firstSeen": "2026-06-18T16:30:13.909Z",
+      "lastSeen": "2026-06-18T16:30:13.909Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "upside-potential": {
+      "firstSeen": "2026-06-18T16:30:22.080Z",
+      "lastSeen": "2026-06-18T16:30:22.080Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "finance"
     }
   },
   "niches": {
     "ai": {
-      "count": 606,
+      "count": 612,
       "wins": 176,
-      "losses": 22
+      "losses": 23
     },
     "finance": {
-      "count": 51,
+      "count": 53,
       "wins": 9,
       "losses": 0
     },
     "software": {
-      "count": 137,
-      "wins": 33,
+      "count": 140,
+      "wins": 34,
       "losses": 7
     },
     "gear": {
-      "count": 53,
-      "wins": 16,
+      "count": 54,
+      "wins": 17,
       "losses": 0
     },
     "health": {

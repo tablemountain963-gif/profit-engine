@@ -1,0 +1,66 @@
+### How to Use
+To get the most out of these prompts, fill in the [BRACKETED] variables with your specific Bravo Attempts project details. This will help you tailor the output to your needs and maximize the potential of LLMs like Claude, GPT, and Gemini.
+
+### Research
+1. Use Claude to analyze the top [NUMBER] Bravo Attempts episodes featuring [SPECIFIC THEME], identifying key trends and takeaways for your own project. Provide a summary of the findings in [WORDS] words or less. Consider the impact of [SPECIFIC VARIABLE] on the outcome.
+2. Ask GPT to generate a list of [NUMBER] potential Bravo Attempts podcast guests, along with their areas of expertise and why they'd be a good fit for discussing [TOPIC]. Ensure the list includes at least [NUMBER] women and [NUMBER] people from underrepresented backgrounds.
+3. Utilize Gemini to research the most popular [NUMBER] Bravo Attempts podcast episodes, determining the average [METRIC] and identifying areas for improvement in your own content. Focus on episodes featuring [SPECIFIC GUEST] or [SPECIFIC THEME].
+4. Employ Claude to investigate the effects of [VARIABLE] on Bravo Attempts viewership, analyzing [NUMBER] episodes and reporting on the correlation between [VARIABLE] and [METRIC]. Consider the role of [SPECIFIC FACTOR] in this relationship.
+5. Request that GPT create a mind map illustrating the connections between [CONCEPT], [CONCEPT], and [CONCEPT] in the context of Bravo Attempts, including at least [NUMBER] relevant keywords and [NUMBER] potential episode topics.
+
+### Drafting
+6. Ask Gemini to draft a [LENGTH]-word introduction for a Bravo Attempts episode on [TOPIC], incorporating [NUMBER] key statistics and [NUMBER] thought-provoking questions. Ensure the tone is [TONE] and includes a personal anecdote about [PERSONAL EXPERIENCE].
+7. Use Claude to generate a [LENGTH]-minute script for a Bravo Attempts podcast segment discussing [TOPIC], featuring [NUMBER] expert guests and [NUMBER] engaging questions. Consider the perspectives of [SPECIFIC DEMOGRAPHIC] when crafting the questions.
+8. Have GPT assist in writing a [LENGTH]-word article about the [NUMBER] most significant takeaways from a recent Bravo Attempts episode, highlighting [NUMBER] actionable tips and [NUMBER] surprising revelations. Focus on the insights provided by [SPECIFIC GUEST].
+9. Utilize Gemini to create a [NUMBER]-point outline for a Bravo Attempts episode on [TOPIC], including [NUMBER] potential interview questions and [NUMBER] key discussion points. Ensure the outline includes at least [NUMBER] references to [SPECIFIC CONCEPT].
+10. Request that Claude help draft a [LENGTH]-word social media post promoting an upcoming Bravo Attempts episode, featuring [NUMBER] eye-catching images and [NUMBER] compelling quotes from the guests. Consider the engagement potential of [SPECIFIC HASHTAG].
+
+### Analysis
+11. Ask GPT to analyze the sentiment of [NUMBER] Bravo Attempts episode reviews, determining the average [METRIC] and identifying areas for improvement in [ASPECT]. Focus on reviews from [SPECIFIC PLATFORM] and consider the impact of [SPECIFIC VARIABLE].
+12. Employ Claude to examine the correlation between [VARIABLE] and [VARIABLE] in Bravo Attempts, analyzing [NUMBER] episodes and reporting on the relationship between [VARIABLE] and [METRIC]. Consider the role of [SPECIFIC FACTOR] in this relationship.
+13. Use Gemini to assess the diversity of [NUMBER] recent Bravo Attempts episodes, evaluating the representation of [DEMOGRAPHIC] and [DEMOGRAPHIC] in the guest lineup and discussing potential strategies for improvement. Ensure the assessment includes at least [NUMBER] recommendations for increasing diversity.
+14. Have GPT assist in evaluating the effectiveness of [NUMBER] different Bravo Attempts episode formats, comparing [METRIC] and [METRIC] across the different formats and discussing the implications for future episodes. Consider the preferences of [SPECIFIC AUDIENCE].
+15. Utilize Claude to investigate the impact of [VARIABLE] on Bravo Attempts viewer engagement, analyzing [NUMBER] episodes and reporting on the relationship between [VARIABLE] and [METRIC]. Focus on episodes featuring [SPECIFIC GUEST] or [SPECIFIC THEME].
+
+### Automation
+16. Ask Gemini to automate the process of generating [NUMBER] social media posts per week promoting Bravo Attempts episodes, using [TEMPLATE] and incorporating [NUMBER] relevant hashtags and [NUMBER] engaging images. Ensure the posts are scheduled for [SPECIFIC TIME] and include a personal message from [HOST].
+17. Use Claude to develop a [NUMBER]-step workflow for streamlining the Bravo Attempts episode production process, including [TASK], [TASK], and [TASK]. Consider the roles of [TEAM MEMBER] and [TEAM MEMBER] in this process.
+18. Have GPT help create a [NUMBER]-question survey for Bravo Attempts listeners, assessing their preferences and opinions on [TOPIC] and providing insights for future episode topics. Ensure the survey is [LENGTH] words or less and includes at least [NUMBER] demographic questions.
+19. Employ Claude to generate a [NUMBER]-item to-do list for preparing for an upcoming Bravo Attempts episode, including [TASK], [TASK], and [TASK]. Consider the deadlines for [SPECIFIC TASK] and [SPECIFIC TASK].
+20. Request that Gemini automate the task of researching and compiling a list of [NUMBER] potential Bravo Attempts episode topics, using [SOURCE] and [SOURCE] and providing a summary of each topic in [WORDS] words or less.
+
+21. Use GPT to create a [LENGTH]-word email template for Bravo Attempts guests, including [NUMBER] essential details and [NUMBER] thoughtful questions to prepare them for the episode. Ensure the template is [TONE] and includes a personal message from [HOST].
+22. Ask Claude to develop a [NUMBER]-phase content calendar for Bravo Attempts, outlining [NUMBER] episodes and including [NUMBER] key themes and [NUMBER] potential guests. Consider the scheduling conflicts of [TEAM MEMBER] and [TEAM MEMBER].
+23. Have Gemini assist in generating a [NUMBER]-word bio for a Bravo Attempts guest, highlighting their [NUMBER] most notable achievements and [NUMBER] relevant areas of expertise. Ensure the bio is [LENGTH] words or less and includes a personal anecdote about [PERSONAL EXPERIENCE].
+24. Utilize GPT to automate the process of transcribing [NUMBER] Bravo Attempts episodes, using [TOOL] and providing a [LENGTH]-word summary of each episode. Ensure the transcripts are [FORMAT] and include timestamps for [SPECIFIC SEGMENT].
+25. Employ Claude to create a [NUMBER]-item checklist for evaluating the quality of Bravo Attempts episodes, including [CRITERIA], [CRITERIA], and [CRITERIA]. Consider the feedback from [SPECIFIC AUDIENCE] and [SPECIFIC AUDIENCE].
+
+26. Ask GPT to research and compile a list of [NUMBER] potential Bravo Attempts sponsors, including [NUMBER] relevant companies and [NUMBER] key decision-makers. Ensure the list includes at least [NUMBER] diverse options and [NUMBER] small businesses.
+27. Use Claude to develop a [NUMBER]-step guide for creating engaging Bravo Attempts episode titles, including [TECHNIQUE], [TECHNIQUE], and [TECHNIQUE]. Consider the preferences of [SPECIFIC AUDIENCE] and [SPECIFIC AUDIENCE].
+28. Have Gemini assist in generating a [NUMBER]-word press release for a new Bravo Attempts episode, featuring [NUMBER] key quotes and [NUMBER] compelling statistics. Ensure the press release is [LENGTH] words or less and includes a personal message from [HOST].
+29. Utilize GPT to automate the task of scheduling [NUMBER] social media posts per day promoting Bravo Attempts episodes, using [TEMPLATE] and incorporating [NUMBER] relevant hashtags and [NUMBER] engaging images. Ensure the posts are scheduled for [SPECIFIC TIME] and include a personal message from [HOST].
+30. Request that Claude help create a [NUMBER]-question quiz for Bravo Attempts listeners, testing their knowledge of [TOPIC] and providing insights for future episode topics. Ensure the quiz is [LENGTH] words or less and includes at least [NUMBER] demographic questions.
+
+31. Ask Gemini to develop a [NUMBER]-phase plan for increasing Bravo Attempts listener engagement, including [STRATEGY], [STRATEGY], and [STRATEGY]. Consider the preferences of [SPECIFIC AUDIENCE] and [SPECIFIC AUDIENCE].
+32. Use GPT to generate a [NUMBER]-word report on the demographics of Bravo Attempts listeners, analyzing [NUMBER] data points and providing insights on [METRIC] and [METRIC]. Ensure the report is [LENGTH] words or less and includes at least [NUMBER] recommendations for increasing diversity.
+33. Have Claude assist in creating a [NUMBER]-item to-do list for preparing for a Bravo Attempts episode, including [TASK], [TASK], and [TASK]. Consider the deadlines for [SPECIFIC TASK] and [SPECIFIC TASK].
+34. Utilize GPT to automate the process of researching and compiling a list of [NUMBER] potential Bravo Attempts episode topics, using [SOURCE] and [SOURCE] and providing a summary of each topic in [WORDS] words or less.
+35. Employ Claude to develop a [NUMBER]-step workflow for streamlining the Bravo Attempts episode production process, including [TASK], [TASK], and [TASK]. Consider the roles of [TEAM MEMBER] and [TEAM MEMBER] in this process.
+
+36. Ask GPT to create a [LENGTH]-word email template for Bravo Attempts guests, including [NUMBER] essential details and [NUMBER] thoughtful questions to prepare them for the episode. Ensure the template is [TONE] and includes a personal message from [HOST].
+37. Use Claude to generate a [NUMBER]-word bio for a Bravo Attempts guest, highlighting their [NUMBER] most notable achievements and [NUMBER] relevant areas of expertise. Ensure the bio is [LENGTH] words or less and includes a personal anecdote about [PERSONAL EXPERIENCE].
+38. Have Gemini assist in automating the task of transcribing [NUMBER] Bravo Attempts episodes, using [TOOL] and providing a [LENGTH]-word summary of each episode. Ensure the transcripts are [FORMAT] and include timestamps for [SPECIFIC SEGMENT].
+39. Utilize GPT to develop a [NUMBER]-item checklist for evaluating the quality of Bravo Attempts episodes, including [CRITERIA], [CRITERIA], and [CRITERIA]. Consider the feedback from [SPECIFIC AUDIENCE] and [SPECIFIC AUDIENCE].
+40. Request that Claude help create a [NUMBER]-question survey for Bravo Attempts listeners, assessing their preferences and opinions on [TOPIC] and providing insights for future episode topics. Ensure the survey is [LENGTH] words or less and includes at least [NUMBER] demographic questions.
+
+41. Ask Gemini to research and compile a list of [NUMBER] potential Bravo Attempts sponsors, including [NUMBER] relevant companies and [NUMBER] key decision-makers. Ensure the list includes at least [NUMBER] diverse options and [NUMBER] small businesses.
+42. Use GPT to develop a [NUMBER]-step guide for creating engaging Bravo Attempts episode titles, including [TECHNIQUE], [TECHNIQUE], and [TECHNIQUE]. Consider the preferences of [SPECIFIC AUDIENCE] and [SPECIFIC AUDIENCE].
+43. Have Claude assist in generating a [NUMBER]-word press release for a new Bravo Attempts episode, featuring [NUMBER] key quotes and [NUMBER] compelling statistics. Ensure the press release is [LENGTH] words or less and includes a personal message from [HOST].
+44. Utilize GPT to automate the task of scheduling [NUMBER] social media posts per day promoting Bravo Attempts episodes, using [TEMPLATE] and incorporating [NUMBER] relevant hashtags and [NUMBER] engaging images. Ensure the posts are scheduled for [SPECIFIC TIME] and include a personal message from [HOST].
+45. Request that Claude help create a [NUMBER]-question quiz for Bravo Attempts listeners, testing their knowledge of [TOPIC] and providing insights for future episode topics. Ensure the quiz is [LENGTH] words or less and includes at least [NUMBER] demographic questions.
+
+46. Ask GPT to develop a [NUMBER]-phase plan for increasing Bravo Attempts listener engagement, including [STRATEGY], [STRATEGY], and [STRATEGY]. Consider the preferences of [SPECIFIC AUDIENCE] and [SPECIFIC AUDIENCE].
+47. Use Claude to generate a [NUMBER]-word report on the demographics of Bravo Attempts listeners, analyzing [NUMBER] data points and providing insights on [METRIC] and [METRIC]. Ensure the report is [LENGTH] words or less and includes at least [NUMBER] recommendations for increasing diversity.
+48. Have Gemini assist in creating a [NUMBER]-item to-do list for preparing for a Bravo Attempts episode, including [TASK], [TASK], and [TASK]. Consider the deadlines for [SPECIFIC TASK] and [SPECIFIC TASK].
+49. Utilize GPT to automate the process of researching and compiling a list of [NUMBER] potential Bravo Attempts episode topics, using [SOURCE] and [SOURCE] and providing a summary of each topic in [WORDS] words or less.
+50. Employ Claude to develop a [NUMBER]-step workflow for streamlining the Bravo Attempts episode production process, including [TASK], [TASK], and [TASK]. Consider the roles of [TEAM MEMBER] and [TEAM MEMBER] in this process.
