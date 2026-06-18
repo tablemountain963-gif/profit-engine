@@ -162,8 +162,8 @@
     },
     "software": {
       "firstSeen": "2026-05-28T20:13:05.178Z",
-      "lastSeen": "2026-06-13T17:12:23.153Z",
-      "count": 4,
+      "lastSeen": "2026-06-18T18:21:57.796Z",
+      "count": 5,
       "wins": 0,
       "losses": 0,
       "niche": "ai"
@@ -274,8 +274,8 @@
     },
     "data-science": {
       "firstSeen": "2026-05-29T22:23:11.526Z",
-      "lastSeen": "2026-06-04T05:54:39.038Z",
-      "count": 3,
+      "lastSeen": "2026-06-18T18:21:41.344Z",
+      "count": 4,
       "wins": 1,
       "losses": 0,
       "niche": "ai"
@@ -343,14 +343,6 @@
       "wins": 1,
       "losses": 0,
       "niche": "finance"
-    },
-    "papal-visits": {
-      "firstSeen": "2026-05-30T16:52:37.299Z",
-      "lastSeen": "2026-06-04T18:08:46.710Z",
-      "count": 2,
-      "wins": 0,
-      "losses": 1,
-      "niche": "ai"
     },
     "passive": {
       "firstSeen": "2026-05-30T16:52:40.063Z",
@@ -3370,9 +3362,9 @@
     },
     "apple-appstore": {
       "firstSeen": "2026-06-18T16:29:07.563Z",
-      "lastSeen": "2026-06-18T16:29:07.563Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-18T18:21:35.737Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "software"
     },
@@ -3386,9 +3378,9 @@
     },
     "supports-btc": {
       "firstSeen": "2026-06-18T16:29:14.306Z",
-      "lastSeen": "2026-06-18T16:29:14.306Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-18T18:21:35.740Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "software"
     },
@@ -3431,11 +3423,27 @@
       "wins": 0,
       "losses": 0,
       "niche": "finance"
+    },
+    "launch-hn": {
+      "firstSeen": "2026-06-18T18:21:45.511Z",
+      "lastSeen": "2026-06-18T18:21:45.511Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "yc-p26": {
+      "firstSeen": "2026-06-18T18:21:48.703Z",
+      "lastSeen": "2026-06-18T18:21:48.703Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
     }
   },
   "niches": {
     "ai": {
-      "count": 612,
+      "count": 616,
       "wins": 176,
       "losses": 23
     },
@@ -3445,8 +3453,8 @@
       "losses": 0
     },
     "software": {
-      "count": 140,
-      "wins": 34,
+      "count": 142,
+      "wins": 36,
       "losses": 7
     },
     "gear": {
