@@ -538,8 +538,8 @@
     },
     "2026-6f6f6f": {
       "firstSeen": "2026-06-01T05:59:34.077Z",
-      "lastSeen": "2026-06-06T21:53:33.157Z",
-      "count": 2,
+      "lastSeen": "2026-06-18T05:53:33.753Z",
+      "count": 3,
       "wins": 0,
       "losses": 0,
       "niche": "gear"
@@ -839,38 +839,6 @@
       "wins": 1,
       "losses": 0,
       "niche": "gear"
-    },
-    "billion-valuation": {
-      "firstSeen": "2026-06-03T22:56:43.910Z",
-      "lastSeen": "2026-06-03T22:56:43.910Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "ai"
-    },
-    "perkinelmer-chemoffice": {
-      "firstSeen": "2026-06-03T22:57:03.076Z",
-      "lastSeen": "2026-06-03T22:57:03.076Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "ai"
-    },
-    "full-disclosure": {
-      "firstSeen": "2026-06-03T22:57:21.808Z",
-      "lastSeen": "2026-06-03T22:57:21.808Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "software"
-    },
-    "launch-hn": {
-      "firstSeen": "2026-06-03T22:57:34.217Z",
-      "lastSeen": "2026-06-03T22:57:34.217Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "ai"
     },
     "vim-classic": {
       "firstSeen": "2026-06-04T05:53:53.915Z",
@@ -2746,9 +2714,9 @@
     },
     "once-hitler": {
       "firstSeen": "2026-06-14T05:29:14.269Z",
-      "lastSeen": "2026-06-14T05:29:14.269Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-18T05:52:51.377Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -3410,17 +3378,17 @@
     },
     "durable-mcp": {
       "firstSeen": "2026-06-17T22:28:16.272Z",
-      "lastSeen": "2026-06-17T22:28:16.272Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-18T05:52:51.380Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "gear"
     },
     "codex-desktop": {
       "firstSeen": "2026-06-17T22:28:18.507Z",
-      "lastSeen": "2026-06-17T22:28:18.507Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-18T05:52:51.381Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "gear"
     },
@@ -3431,12 +3399,52 @@
       "wins": 0,
       "losses": 0,
       "niche": "software"
+    },
+    "major-trends": {
+      "firstSeen": "2026-06-18T05:52:55.996Z",
+      "lastSeen": "2026-06-18T05:52:55.996Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "local-qwen": {
+      "firstSeen": "2026-06-18T05:52:58.563Z",
+      "lastSeen": "2026-06-18T05:52:58.563Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "software"
+    },
+    "luttrell-psalter": {
+      "firstSeen": "2026-06-18T05:53:01.616Z",
+      "lastSeen": "2026-06-18T05:53:01.616Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "software"
+    },
+    "less-frustrating": {
+      "firstSeen": "2026-06-18T05:53:27.016Z",
+      "lastSeen": "2026-06-18T05:53:27.016Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "software"
+    },
+    "british-library": {
+      "firstSeen": "2026-06-18T05:53:47.827Z",
+      "lastSeen": "2026-06-18T05:53:47.827Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "software"
     }
   },
   "niches": {
     "ai": {
-      "count": 603,
-      "wins": 175,
+      "count": 606,
+      "wins": 176,
       "losses": 22
     },
     "finance": {
@@ -3445,13 +3453,13 @@
       "losses": 0
     },
     "software": {
-      "count": 133,
+      "count": 137,
       "wins": 33,
       "losses": 7
     },
     "gear": {
-      "count": 51,
-      "wins": 14,
+      "count": 53,
+      "wins": 16,
       "losses": 0
     },
     "health": {
