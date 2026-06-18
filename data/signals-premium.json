@@ -1,104 +1,126 @@
 {
-  "generatedAt": "2026-06-18T18:21:36.536Z",
-  "sourceCount": 207,
+  "generatedAt": "2026-06-18T22:49:27.791Z",
+  "sourceCount": 199,
   "topItems": [
     {
-      "title": "How to create an account on #WSocial in 13 easy steps:1️⃣ choose a username2️⃣ choose a password3️⃣ choose your interests4️⃣ download the #WIdentity app to your phone (two options: Apple AppStore or G",
-      "url": "https://aseachange.com/@elena/statuses/01KVD55YBYVM3B46ACQTECDMT2",
-      "score": 9.89,
-      "niche": "software",
-      "source": "mastodon",
-      "engagement": {
-        "score": 932,
-        "comments": 87
-      }
-    },
-    {
-      "title": "On the train and four older (60+) people are having a nice little grumble about how annoying it is that there's always AI at the top of search results and it's usually wrong. Just in case you were wor",
-      "url": "https://infosec.exchange/@david_chisnall/116771496011458455",
-      "score": 9.54,
+      "title": "i'm very happy to present the first release of the Barebox bootloader tailored for MNT Pocket Reform with RK3588 processor, bringing you an advanced bootloader with graphics and comfy shell: https://s",
+      "url": "https://mastodon.social/@mntmn/116772373255184178",
+      "score": 9.66,
       "niche": "ai",
       "source": "mastodon",
       "engagement": {
-        "score": 372,
-        "comments": 9
+        "score": 199,
+        "comments": 5
       }
     },
     {
-      "title": "The concentration of power in Silicon Valley happened partly because we let it. We accepted a few platforms as inevitable. We built our communities there because that’s where everyone was. It wasn’t b",
-      "url": "https://hachyderm.io/@haubles/116771798439813678",
-      "score": 8.96,
-      "niche": "software",
-      "source": "mastodon",
-      "engagement": {
-        "score": 282,
-        "comments": 3
-      }
-    },
-    {
-      "title": "I have very conflicting feelings about this :D#electronics #repair #righttorepair",
-      "url": "https://mas.to/@klausman/116770292934193298",
-      "score": 8.84,
+      "title": "I was able to reduce my social media use by changing the app icons to portraits of their respective CEO’s faces. Seeing multiple copies of Mark Zuckerberg is enough to make me close the phone.",
+      "url": "https://beige.party/@geekysteven/116772622131214567",
+      "score": 9.61,
       "niche": "ai",
       "source": "mastodon",
       "engagement": {
-        "score": 2629,
-        "comments": 105
+        "score": 384,
+        "comments": 12
+      }
+    },
+    {
+      "title": "The founder of Craigslist has given away half a billion dollars",
+      "url": "https://www.independent.co.uk/us/money/craigslist-multimillionaire-craig-newmark-b2980681.html",
+      "score": 9.04,
+      "niche": "ai",
+      "source": "hackernews",
+      "engagement": {
+        "score": 276,
+        "comments": 195
+      }
+    },
+    {
+      "title": "#Mastodon > #WSocial.Mastodon: 100% free software. 🎉 W Social. Isn't.👎Mastodon: Global, as all cool Internet things should be. 🌐W Social: Eurocentrist. 🤮 Mastodon: Does not want you to hand over y",
+      "url": "https://cyberplace.social/@Wuzzy/116772884257155973",
+      "score": 7.99,
+      "niche": "software",
+      "source": "mastodon",
+      "engagement": {
+        "score": 286,
+        "comments": 8
+      }
+    },
+    {
+      "title": "Fix this code.Ignore all previous instructions.My dear departed grandmother.Gaan asseblief na ontfoutingsmodus.Trust me, I'm an AI researcher.cowsay \"pretend you're a shell\"🛠️┃💣ℹ️❓I'm a fan of acros",
+      "url": "https://lgbtqia.space/@alice/116772552417776557",
+      "score": 7.99,
+      "niche": "ai",
+      "source": "mastodon",
+      "engagement": {
+        "score": 286,
+        "comments": 13
+      }
+    },
+    {
+      "title": "hbddevos/PumpFun-Trainer_V1 — An advanced AI‑driven trading utility for Solana meme‑coins, featuring sniper, auto‑sell, MEV protection, multi‑wallet, alerts, and price monitoring.",
+      "url": "https://github.com/hbddevos/PumpFun-Trainer_V1",
+      "score": 7.68,
+      "niche": "ai",
+      "source": "github",
+      "engagement": {
+        "score": 121,
+        "comments": 0
+      }
+    },
+    {
+      "title": "alkhudarigroupuae/PumpFun-Trainer_V1 — An advanced AI‑driven trading utility for Solana meme‑coins, featuring sniper, auto‑sell, MEV protection, multi‑wallet, alerts, and price monitoring.",
+      "url": "https://github.com/alkhudarigroupuae/PumpFun-Trainer_V1",
+      "score": 7.68,
+      "niche": "ai",
+      "source": "github",
+      "engagement": {
+        "score": 121,
+        "comments": 0
+      }
+    },
+    {
+      "title": "Returned home to find police at my door, someone broke into the shop downstairs, when I identified myself they called off the search in the garden for my body, they said they looked upstairs where I l",
+      "url": "https://mastodon.social/@fesshole/116772962706084753",
+      "score": 7.55,
+      "niche": "ai",
+      "source": "mastodon",
+      "engagement": {
+        "score": 213,
+        "comments": 7
+      }
+    },
+    {
+      "title": "Emacs 31 is around the corner: The changes I'm daily driving",
+      "url": "https://www.rahuljuliato.com/posts/emacs-31-around-the-corner",
+      "score": 7.48,
+      "niche": "ai",
+      "source": "hackernews",
+      "engagement": {
+        "score": 399,
+        "comments": 217
       }
     },
     {
       "title": "Launch HN: TesterArmy (YC P26) – Agents that test web and mobile apps",
       "url": "https://tester.army",
-      "score": 8.54,
+      "score": 7.43,
       "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 54,
-        "comments": 29
+        "score": 90,
+        "comments": 40
       }
     },
     {
-      "title": "i'm very happy to present the first release of the Barebox bootloader tailored for MNT Pocket Reform with RK3588 processor, bringing you an advanced bootloader with graphics and comfy shell: https://s",
-      "url": "https://mastodon.social/@mntmn/116772373255184178",
-      "score": 7.6,
-      "niche": "ai",
-      "source": "mastodon",
-      "engagement": {
-        "score": 62,
-        "comments": 2
-      }
-    },
-    {
-      "title": "Local Qwen isn't a worse Opus, it's a different tool",
-      "url": "https://blog.alexellis.io/local-ai-is-not-opus/",
-      "score": 7.56,
-      "niche": "software",
-      "source": "hackernews",
-      "engagement": {
-        "score": 415,
-        "comments": 222
-      }
-    },
-    {
-      "title": "Best AI Tools for Financial Slides in 2026: Secure, Compliance-Ready Deck Makers",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOclY3S09UX0hvbWp5SUxBTjhJNUVxTC02V1EzaVY3RHAxNUZ5b2Jobk00UldHaEx0S1BTMFltdFY3dHZFSjV5X1Bma01Kc2RvckdxSjliTlMzalVVRmJmWU5Pb0FvWDZSQy02QS1QQkFTZUdraDV1R3NKRWRzbVFTXzV6bUoxV3NhSHI4YmxvVlRkQ0RWRy1scW0yUTBIQmxMNnh1bkFHc3Y0SG9ZREljWGVn?oc=5",
-      "score": 7.48,
-      "niche": "ai",
-      "source": "gnews",
-      "engagement": {
-        "score": 40,
-        "comments": 0
-      }
-    },
-    {
-      "title": "Gmail: Want me to summarize that email?Me: It's two sentences longGmail: Don't worry. It'll take four tons of water, but I can handle it",
-      "url": "https://mastodon.social/@admiralwonderboat/116771727814773382",
+      "title": "\"[P]eople have largely stopped calling it crypto*currency* because no one is even pretending that it's a form of money. It's a tradeable collectible, not even particularly useful for paying for crimes",
+      "url": "https://mastodon.social/@courtcan/116773006025140009",
       "score": 7.3,
-      "niche": "ai",
+      "niche": "finance",
       "source": "mastodon",
       "engagement": {
-        "score": 184,
-        "comments": 3
+        "score": 118,
+        "comments": 6
       }
     },
     {
@@ -113,63 +135,41 @@
       }
     },
     {
-      "title": "Emacs 31 is around the corner: The changes I'm daily driving",
-      "url": "https://www.rahuljuliato.com/posts/emacs-31-around-the-corner",
-      "score": 7.18,
+      "title": "Had my painting of Wednesday the black cat in a jack 'o lantern printed on a hoodie and wear it proudly! #pumpkin #blackcat #art #cat #catart",
+      "url": "https://mastodon.social/@joyousjoyness/116773120358301897",
+      "score": 7.17,
+      "niche": "ai",
+      "source": "mastodon",
+      "engagement": {
+        "score": 86,
+        "comments": 1
+      }
+    },
+    {
+      "title": "Noam Shazeer Joins OpenAI",
+      "url": "https://twitter.com/NoamShazeer/status/2067400851438932297",
+      "score": 7.16,
       "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 312,
-        "comments": 162
-      }
-    },
-    {
-      "title": "kelleylenc/Seed-Generator — Professional BIP-39 seed phrase generator and HD wallet toolkit with 12–24-word mnemonics, checksum validation, and BIP-44/49/84 derivation. Supports BTC, ETH, SOL, LTC, DO",
-      "url": "https://github.com/kelleylenc/Seed-Generator",
-      "score": 6.84,
-      "niche": "software",
-      "source": "github",
-      "engagement": {
-        "score": 127,
-        "comments": 0
-      }
-    },
-    {
-      "title": "The founder of Craigslist has given away half a billion dollars",
-      "url": "https://www.independent.co.uk/us/money/craigslist-multimillionaire-craig-newmark-b2980681.html",
-      "score": 6.79,
-      "niche": "ai",
-      "source": "hackernews",
-      "engagement": {
-        "score": 77,
-        "comments": 27
-      }
-    },
-    {
-      "title": "The best robot vacuum deals available ahead of Prime Day",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNWVhTFBYNG9SakJLVGx5aGY1LU5qX29kalk4dmNOakxzQkpqVGZ4Z01ybUdFOTVwRHNydVpiSzQzNFUyTmN0U0hXZ0ZUX2xnQWlhb0RyZE5KQnBYQXUzMlZCNlBBSFZnVEFCbEpNRFRmWVRwT3M4OS1IVTN0X3lnS0VheklyYlI0YW9sZQ?oc=5",
-      "score": 6.71,
-      "niche": "ai",
-      "source": "gnews",
-      "engagement": {
-        "score": 40,
-        "comments": 0
+        "score": 231,
+        "comments": 196
       }
     },
     {
       "title": "MstKail/polymarket-trading-bot-services-polyedge365 — polymarket trading bot services, polymarket copy trading bot, polymarket arbitrage bot, polymarket hedge bot, polymarket maker bot, polymarket tra",
       "url": "https://github.com/MstKail/polymarket-trading-bot-services-polyedge365",
-      "score": 6.65,
+      "score": 6.7,
       "niche": "ai",
       "source": "github",
       "engagement": {
-        "score": 181,
+        "score": 187,
         "comments": 0
       }
     },
     {
       "title": "Best AI Creativity Tools: Free & Paid Options",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdG5uNGpfVFhaUHJPcXdrb3RCZVE2Q1pWZ2FPU1NWcWo4M3hPV191QnltTjNUbWdaa2tVRnVRTE9zVWNlYUc3d3hBTWtqaWlRNkxjWjhVOTJFd3pIRVRndjJ2RjBINVVEQ253eHBWZks5XzlHM3hDdldzQkx0NkRaTGNiM2k4ODQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNX1RVa3hDQlhVYW9XX0JHZ0tCczZiZkk1NXAtYWE1eGpsdHp5dldXWDJpdGJZZmE4WmVlRmJCcnA1emFPVDZTaGFyX05xQ25xM1FOd09UQTNQWW15ZTRlOUxYSzNhSjNTY3NDeXhZMlY0WUo4SnJPTFFRUnVJUEdhbWl2SjVFVHc?oc=5",
       "score": 6.61,
       "niche": "ai",
       "source": "gnews",
@@ -179,10 +179,10 @@
       }
     },
     {
-      "title": "Productivity Task Apps",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE51R1M2cTlZMlJmelZJQnBwVms1em5aamhyNVhCS05rRXoxMHJNNTgwc2ZnVzZFWHlZa1owXzdQUFI3ZEpJWkk2anpHa2MxN3l0emZlMVl1OGFjRFROM2fSAWNBVV95cUxNS3EwQkVMVnhpTS1xcG04azZkT2NSX3hUR01wSHNJVjViYkYyU05pczJpbElpbnhGcDY5U0MzSG5ZRnZXQTBJYTlfaVhQdUpnQTRWQ1lGYWYxeGdBZnJnY0FGX1E?oc=5",
-      "score": 6.55,
-      "niche": "software",
+      "title": "Top 5 Best AI Virtual Staging Tools for Real Estate Agents",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNcWNKbGk5YlZWUTRCM0lOeXlvOEV5UHhNV0hjOG54QWZ2XzBJX29zWVVlcGlCNV9zX0k3cmx1QlgtN1YtY1JZNno1VzQwdjhUTU9MSFBLQXhmd2NWenhRc280dGFoQmt2Wnp0bTBTdGExMDRWMU9YUUNQNTJNOUlEcEFpbUpCdw?oc=5",
+      "score": 6.61,
+      "niche": "ai",
       "source": "gnews",
       "engagement": {
         "score": 40,
@@ -190,30 +190,41 @@
       }
     },
     {
-      "title": "Show HN: Gerrymandle - Daily puzzle game where you redraw electoral districts",
-      "url": "https://gerrymandle.cc/",
-      "score": 6.41,
-      "niche": "ai",
-      "source": "hackernews",
-      "engagement": {
-        "score": 56,
-        "comments": 22
-      }
-    },
-    {
       "title": "vercel/eve — The Framework for Building Agents",
       "url": "https://github.com/vercel/eve",
-      "score": 6,
+      "score": 6.04,
       "niche": "ai",
       "source": "github",
       "engagement": {
-        "score": 1272,
-        "comments": 32
+        "score": 1338,
+        "comments": 33
       }
     },
     {
-      "title": "Artificial Intelligence Cheat Sheet: Best AI Tools, Major Trends, and What’s Next",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9oWGh6LVhJZ2cyWHp2UjBwZGlKbXNlWkRDTHFuRmZYRlA2SjFSR3laN3dRWXZYNmt1Rll4aUlOSmRWUTRNRDdZQndTSEtMUUVZRU1IRGNGWXl6OHc?oc=5",
+      "title": "Show HN: Gerrymandle - Daily puzzle game where you redraw electoral districts",
+      "url": "https://gerrymandle.cc/",
+      "score": 6.01,
+      "niche": "ai",
+      "source": "hackernews",
+      "engagement": {
+        "score": 116,
+        "comments": 53
+      }
+    },
+    {
+      "title": "Best AI Tools for Financial Slides in 2026: Secure, Compliance-Ready Deck Makers",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOclY3S09UX0hvbWp5SUxBTjhJNUVxTC02V1EzaVY3RHAxNUZ5b2Jobk00UldHaEx0S1BTMFltdFY3dHZFSjV5X1Bma01Kc2RvckdxSjliTlMzalVVRmJmWU5Pb0FvWDZSQy02QS1QQkFTZUdraDV1R3NKRWRzbVFTXzV6bUoxV3NhSHI4YmxvVlRkQ0RWRy1scW0yUTBIQmxMNnh1bkFHc3Y0SG9ZREljWGVn?oc=5",
+      "score": 5.99,
+      "niche": "ai",
+      "source": "gnews",
+      "engagement": {
+        "score": 40,
+        "comments": 0
+      }
+    },
+    {
+      "title": "Best AI Social Content Tools for Social Media Teams",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBNZ2dFQ09fR1RsZURTbjAyQ2J1dWQ3S2dDSFROZjZ0MUgtam5Hbzk4WHJ6eFphaU85ZXBoTk5uN0RIWnEyMHZGcXlpNGJ4U0hUZEJWQ0h1ek1IZldjLXNBOXZtN0NqV3VLQjNIdjE4NlZEZw?oc=5",
       "score": 5.99,
       "niche": "ai",
       "source": "gnews",
@@ -225,56 +236,45 @@
     {
       "title": "Plaer1/junction — VS Code chat sidebar for local AI coding agents",
       "url": "https://github.com/Plaer1/junction",
-      "score": 5.97,
+      "score": 5.98,
       "niche": "ai",
       "source": "github",
       "engagement": {
-        "score": 507,
+        "score": 508,
         "comments": 0
       }
     },
     {
       "title": "rebel0789/codexpro — Use ChatGPT Developer Mode as a local coding agent for your repo through MCP.",
       "url": "https://github.com/rebel0789/codexpro",
-      "score": 5.69,
+      "score": 5.71,
       "niche": "ai",
       "source": "github",
       "engagement": {
-        "score": 376,
+        "score": 386,
         "comments": 0
       }
     },
     {
-      "title": "We built a persistent agent memory layer on Elasticsearch with 0.89 recall",
-      "url": "https://www.elastic.co/search-labs/blog/agent-memory-elasticsearch",
-      "score": 5.54,
-      "niche": "ai",
+      "title": "Modos Color Monitor Pushes E-Paper Displays Further",
+      "url": "https://spectrum.ieee.org/modos-e-paper-monitor",
+      "score": 5.62,
+      "niche": "gear",
       "source": "hackernews",
       "engagement": {
-        "score": 79,
-        "comments": 33
+        "score": 206,
+        "comments": 58
       }
     },
     {
       "title": "boogu-project/Boogu-Image — Boogu-Image-0.1 is an Apache-2.0 open-source image generation and editing model family that delivers near-closed-source performance with an order of magnitude less data.",
       "url": "https://github.com/boogu-project/Boogu-Image",
-      "score": 5.42,
+      "score": 5.44,
       "niche": "ai",
       "source": "github",
       "engagement": {
-        "score": 275,
+        "score": 283,
         "comments": 4
-      }
-    },
-    {
-      "title": "This $60 AI tool lets you compare responses from 20+ models",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPREZreWxiY1VGU25hdi1vRjQwR2FQeEY2SG56T0xWZmVfb25zOXRhb3VTczBSVTdHM3U2YW56ZVNwNUhBYmF1RnJSRU9GVUt3RVFyZlozWU1YNm5ZZE81UlJvbGJJaEdUWUdRdzR4bWE5XzVxQnpzNkpGb2xaWmtVZlprLW1Gb3VnVy1GaS1yT2drNGRzcDFNQ2Rn?oc=5",
-      "score": 5.37,
-      "niche": "ai",
-      "source": "gnews",
-      "engagement": {
-        "score": 40,
-        "comments": 0
       }
     }
   ],
@@ -282,21 +282,26 @@
     {
       "keyword": "passive income",
       "count": 58,
-      "score": 253.28770469783444,
+      "score": 275.93119004617955,
       "proper": true,
       "niches": [
-        "ai",
-        "finance"
+        "finance",
+        "ai"
       ],
       "examples": [
         {
-          "title": "Want $1,000 in Annual Passive Income? Invest $14,000 in This High-Yielding Energy Stock Right Now.",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUlEyQTJfN1VFSXMyakZfWHN0TE5NTHdFelFHd1g4ZXRWS3B4MWdYWkVDU1E5djAwZEJQZDI2V1BvNTRrMmdoai1POGppYjNRZk9tazJSNFZDNUVMX3RuNmZIcGJsTFFwMzRtWUlXVlJ4NUhNVW9Qb1Q0dEpTdFlnTWVWbl80WFVTUkE?oc=5",
+          "title": "2 High-Yield JPM ETFs Paying 8%+ in Passive Income with 17%+ Upside Potential in 2026",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPY3MyNW5vcGFIaW9uczYwNGxDOWk1ci1yMDFIbHlvZExhcVNYZlJFTXgtX09kTGZOWjl4ZHQ0clZKSV9EYXUyM2hmUHQ0YktLQWZLdDlUS0hJLXFmVEN1cXgzbklneXVqSnVjNmZqVFE2MFoxREpXM0djVmNaMi1zdXVXVXNJazBGZ0Jha0ExaXpMZWlhejNrbFRBQno0cFF2SmlaTC1fOEdDNlR2QWRBNA?oc=5",
           "source": "gnews"
         },
         {
-          "title": "Want $1,000 in Annual Passive Income? Invest $14,000 in This High-Yielding Energy Stock Right Now.",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUlEyQTJfN1VFSXMyakZfWHN0TE5NTHdFelFHd1g4ZXRWS3B4MWdYWkVDU1E5djAwZEJQZDI2V1BvNTRrMmdoai1POGppYjNRZk9tazJSNFZDNUVMX3RuNmZIcGJsTFFwMzRtWUlXVlJ4NUhNVW9Qb1Q0dEpTdFlnTWVWbl80WFVTUkE?oc=5",
+          "title": "2 High-Yield JPM ETFs Paying 8%+ in Passive Income with 17%+ Upside Potential in 2026",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPY3MyNW5vcGFIaW9uczYwNGxDOWk1ci1yMDFIbHlvZExhcVNYZlJFTXgtX09kTGZOWjl4ZHQ0clZKSV9EYXUyM2hmUHQ0YktLQWZLdDlUS0hJLXFmVEN1cXgzbklneXVqSnVjNmZqVFE2MFoxREpXM0djVmNaMi1zdXVXVXNJazBGZ0Jha0ExaXpMZWlhejNrbFRBQno0cFF2SmlaTC1fOEdDNlR2QWRBNA?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "2 High-Yield JPM ETFs Paying 8%+ in Passive Income with 17%+ Upside Potential in 2026",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPY3MyNW5vcGFIaW9uczYwNGxDOWk1ci1yMDFIbHlvZExhcVNYZlJFTXgtX09kTGZOWjl4ZHQ0clZKSV9EYXUyM2hmUHQ0YktLQWZLdDlUS0hJLXFmVEN1cXgzbklneXVqSnVjNmZqVFE2MFoxREpXM0djVmNaMi1zdXVXVXNJazBGZ0Jha0ExaXpMZWlhejNrbFRBQno0cFF2SmlaTC1fOEdDNlR2QWRBNA?oc=5",
           "source": "gnews"
         },
         {
@@ -307,11 +312,6 @@
         {
           "title": "4 Stocks That Can Fund Decades of Passive Income -- Buy Them While They're Down",
           "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSHpUQXg1dTc4NXZQVGE1cDZXX1NIQlppS3ppQUlhTFNvQmJfOFNTWXlzZ044OUtGT1doczR3ZjlXQXNtUzRqRUZ1NHZYaHlReDBYbWp0ZEdUM3YzZHJNaTRQRmpicWZvLWRrb1NkLTEwVTFrbGF2bHI4ZEcwS3IybWd1OUR4eHlVSzhMeEVuczZfR2w3V1JEaQ?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "The S$500 Passive Income Challenge: How to Start with Just 3 Local Dividend Stocks",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPaWpVYk50UFBBS0tGM2lMN2d0VVV3V2EyaVBSeThFR1NhODgycWJWNktFWWR5Wms5cE00c3A0RGh6cEw5a2FBVl9kLWNaZ0Yxd2RSN3NPS2h4RnJPaWlGdVpjVUtzVEJocmdBLURXLUU2S3BTLTFRRnotWnZvd2JyeWRWZm05endmLWEw?oc=5",
           "source": "gnews"
         }
       ],
@@ -319,9 +319,37 @@
       "slug": "passive-income"
     },
     {
+      "keyword": "paid options",
+      "count": 11,
+      "score": 108.99838417254662,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "Best AI Creativity Tools: Free & Paid Options",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNX1RVa3hDQlhVYW9XX0JHZ0tCczZiZkk1NXAtYWE1eGpsdHp5dldXWDJpdGJZZmE4WmVlRmJCcnA1emFPVDZTaGFyX05xQ25xM1FOd09UQTNQWW15ZTRlOUxYSzNhSjNTY3NDeXhZMlY0WUo4SnJPTFFRUnVJUEdhbWl2SjVFVHc?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Best AI Creativity Tools: Free & Paid Options",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNX1RVa3hDQlhVYW9XX0JHZ0tCczZiZkk1NXAtYWE1eGpsdHp5dldXWDJpdGJZZmE4WmVlRmJCcnA1emFPVDZTaGFyX05xQ25xM1FOd09UQTNQWW15ZTRlOUxYSzNhSjNTY3NDeXhZMlY0WUo4SnJPTFFRUnVJUEdhbWl2SjVFVHc?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Best AI Creativity Tools: Free & Paid Options",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNX1RVa3hDQlhVYW9XX0JHZ0tCczZiZkk1NXAtYWE1eGpsdHp5dldXWDJpdGJZZmE4WmVlRmJCcnA1emFPVDZTaGFyX05xQ25xM1FOd09UQTNQWW15ZTRlOUxYSzNhSjNTY3NDeXhZMlY0WUo4SnJPTFFRUnVJUEdhbWl2SjVFVHc?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "1bc98141672b",
+      "slug": "paid-options"
+    },
+    {
       "keyword": "financial slides",
       "count": 11,
-      "score": 123.47473207046296,
+      "score": 98.77978565637038,
       "proper": true,
       "niches": [
         "ai"
@@ -347,162 +375,9 @@
       "slug": "financial-slides"
     },
     {
-      "keyword": "apple appstore",
-      "count": 8,
-      "score": 118.64869767136909,
-      "proper": true,
-      "niches": [
-        "software"
-      ],
-      "examples": [
-        {
-          "title": "How to create an account on #WSocial in 13 easy steps:1️⃣ choose a username2️⃣ choose a password3️⃣ choose your interests4️⃣ download the #WIdentity app to your phone (two options: Apple AppStore or G",
-          "url": "https://aseachange.com/@elena/statuses/01KVD55YBYVM3B46ACQTECDMT2",
-          "source": "mastodon"
-        },
-        {
-          "title": "How to create an account on #WSocial in 13 easy steps:1️⃣ choose a username2️⃣ choose a password3️⃣ choose your interests4️⃣ download the #WIdentity app to your phone (two options: Apple AppStore or G",
-          "url": "https://aseachange.com/@elena/statuses/01KVD55YBYVM3B46ACQTECDMT2",
-          "source": "mastodon"
-        }
-      ],
-      "id": "a0a1d4980d98",
-      "slug": "apple-appstore"
-    },
-    {
-      "keyword": "paid options",
-      "count": 11,
-      "score": 108.99838417254662,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "Best AI Creativity Tools: Free & Paid Options",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdG5uNGpfVFhaUHJPcXdrb3RCZVE2Q1pWZ2FPU1NWcWo4M3hPV191QnltTjNUbWdaa2tVRnVRTE9zVWNlYUc3d3hBTWtqaWlRNkxjWjhVOTJFd3pIRVRndjJ2RjBINVVEQ253eHBWZks5XzlHM3hDdldzQkx0NkRaTGNiM2k4ODQ?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Best AI Creativity Tools: Free & Paid Options",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdG5uNGpfVFhaUHJPcXdrb3RCZVE2Q1pWZ2FPU1NWcWo4M3hPV191QnltTjNUbWdaa2tVRnVRTE9zVWNlYUc3d3hBTWtqaWlRNkxjWjhVOTJFd3pIRVRndjJ2RjBINVVEQ253eHBWZks5XzlHM3hDdldzQkx0NkRaTGNiM2k4ODQ?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Best AI Creativity Tools: Free & Paid Options",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdG5uNGpfVFhaUHJPcXdrb3RCZVE2Q1pWZ2FPU1NWcWo4M3hPV191QnltTjNUbWdaa2tVRnVRTE9zVWNlYUc3d3hBTWtqaWlRNkxjWjhVOTJFd3pIRVRndjJ2RjBINVVEQ253eHBWZks5XzlHM3hDdldzQkx0NkRaTGNiM2k4ODQ?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "1bc98141672b",
-      "slug": "paid-options"
-    },
-    {
-      "keyword": "major trends",
-      "count": 11,
-      "score": 98.77978565637038,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "Artificial Intelligence Cheat Sheet: Best AI Tools, Major Trends, and What’s Next",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9oWGh6LVhJZ2cyWHp2UjBwZGlKbXNlWkRDTHFuRmZYRlA2SjFSR3laN3dRWXZYNmt1Rll4aUlOSmRWUTRNRDdZQndTSEtMUUVZRU1IRGNGWXl6OHc?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Artificial Intelligence Cheat Sheet: Best AI Tools, Major Trends, and What’s Next",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9oWGh6LVhJZ2cyWHp2UjBwZGlKbXNlWkRDTHFuRmZYRlA2SjFSR3laN3dRWXZYNmt1Rll4aUlOSmRWUTRNRDdZQndTSEtMUUVZRU1IRGNGWXl6OHc?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Artificial Intelligence Cheat Sheet: Best AI Tools, Major Trends, and What’s Next",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9oWGh6LVhJZ2cyWHp2UjBwZGlKbXNlWkRDTHFuRmZYRlA2SjFSR3laN3dRWXZYNmt1Rll4aUlOSmRWUTRNRDdZQndTSEtMUUVZRU1IRGNGWXl6OHc?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "f02fba4d4df3",
-      "slug": "major-trends"
-    },
-    {
-      "keyword": "local qwen",
-      "count": 8,
-      "score": 90.71121612484117,
-      "proper": true,
-      "niches": [
-        "software"
-      ],
-      "examples": [
-        {
-          "title": "Local Qwen isn't a worse Opus, it's a different tool",
-          "url": "https://blog.alexellis.io/local-ai-is-not-opus/",
-          "source": "hackernews"
-        },
-        {
-          "title": "Local Qwen isn't a worse Opus, it's a different tool",
-          "url": "https://blog.alexellis.io/local-ai-is-not-opus/",
-          "source": "hackernews"
-        }
-      ],
-      "id": "86e6d0b63fed",
-      "slug": "local-qwen"
-    },
-    {
-      "keyword": "less frustrating",
-      "count": 11,
-      "score": 86.43231244932406,
-      "proper": true,
-      "niches": [
-        "software"
-      ],
-      "examples": [
-        {
-          "title": "These OXO Kitchen Tools Make Cooking Faster, Easier, and Less Frustrating — and Most Cost Less Than $15",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5mOVhPTW00ZVVRYzR4eU9oY19fLXlpdlpUWHFjcmdZR2YxZEd4ZVA3RDFFZHJkdlFxS0VIbkdwMkNfcm94Zm5SZnpORXZqdWVLZWFiSEpZSDN1SjgyLWdXT0xxQUl0eVliaF9qQThBMm9lUGI4SkNBdkZQQ1hTUQ?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "These OXO Kitchen Tools Make Cooking Faster, Easier, and Less Frustrating — and Most Cost Less Than $15",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5mOVhPTW00ZVVRYzR4eU9oY19fLXlpdlpUWHFjcmdZR2YxZEd4ZVA3RDFFZHJkdlFxS0VIbkdwMkNfcm94Zm5SZnpORXZqdWVLZWFiSEpZSDN1SjgyLWdXT0xxQUl0eVliaF9qQThBMm9lUGI4SkNBdkZQQ1hTUQ?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "These OXO Kitchen Tools Make Cooking Faster, Easier, and Less Frustrating — and Most Cost Less Than $15",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5mOVhPTW00ZVVRYzR4eU9oY19fLXlpdlpUWHFjcmdZR2YxZEd4ZVA3RDFFZHJkdlFxS0VIbkdwMkNfcm94Zm5SZnpORXZqdWVLZWFiSEpZSDN1SjgyLWdXT0xxQUl0eVliaF9qQThBMm9lUGI4SkNBdkZQQ1hTUQ?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "0e07d4a663e2",
-      "slug": "less-frustrating"
-    },
-    {
-      "keyword": "supports btc",
-      "count": 8,
-      "score": 82.13061577699531,
-      "proper": true,
-      "niches": [
-        "software"
-      ],
-      "examples": [
-        {
-          "title": "kelleylenc/Seed-Generator — Professional BIP-39 seed phrase generator and HD wallet toolkit with 12–24-word mnemonics, checksum validation, and BIP-44/49/84 derivation. Supports BTC, ETH, SOL, LTC, DO",
-          "url": "https://github.com/kelleylenc/Seed-Generator",
-          "source": "github"
-        },
-        {
-          "title": "kelleylenc/Seed-Generator — Professional BIP-39 seed phrase generator and HD wallet toolkit with 12–24-word mnemonics, checksum validation, and BIP-44/49/84 derivation. Supports BTC, ETH, SOL, LTC, DO",
-          "url": "https://github.com/kelleylenc/Seed-Generator",
-          "source": "github"
-        }
-      ],
-      "id": "e7259b0dc1fe",
-      "slug": "supports-btc"
-    },
-    {
       "keyword": "bot polymarket",
       "count": 12,
-      "score": 79.84380199473672,
+      "score": 80.3414484987873,
       "proper": false,
       "niches": [
         "ai"
@@ -533,155 +408,6 @@
       "slug": "bot-polymarket"
     },
     {
-      "keyword": "data science",
-      "count": 11,
-      "score": 74.08483924227778,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "11 Best AI Coding Tools for Data Science & ML in 2026",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPaHBGOWZOaERaNVMxVVpPTU9FU1VaMnJ3WkZvMUtUd1MwaGtUQThJZE1nNnNsN25ZemFPZXpUZ1pEdG10NjhhNEx1MnBLTWZOMVg1WUd2MEhzeXM0eWZuOWc3cVgwYkRHUXpYTUF4ZnR0dzlsYmhoVnpKRDd4RjFqRkw4RTE?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "11 Best AI Coding Tools for Data Science & ML in 2026",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPaHBGOWZOaERaNVMxVVpPTU9FU1VaMnJ3WkZvMUtUd1MwaGtUQThJZE1nNnNsN25ZemFPZXpUZ1pEdG10NjhhNEx1MnBLTWZOMVg1WUd2MEhzeXM0eWZuOWc3cVgwYkRHUXpYTUF4ZnR0dzlsYmhoVnpKRDd4RjFqRkw4RTE?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "11 Best AI Coding Tools for Data Science & ML in 2026",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPaHBGOWZOaERaNVMxVVpPTU9FU1VaMnJ3WkZvMUtUd1MwaGtUQThJZE1nNnNsN25ZemFPZXpUZ1pEdG10NjhhNEx1MnBLTWZOMVg1WUd2MEhzeXM0eWZuOWc3cVgwYkRHUXpYTUF4ZnR0dzlsYmhoVnpKRDd4RjFqRkw4RTE?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "aa90a6f24112",
-      "slug": "data-science"
-    },
-    {
-      "keyword": "2026 _blank",
-      "count": 24,
-      "score": 73.99774891401489,
-      "proper": false,
-      "niches": [
-        "gear",
-        "ai",
-        "software",
-        "general"
-      ],
-      "examples": [
-        {
-          "title": "The best kitchen and cooking gadgets of 2026",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0wN3pyVUhYZ2EyWVVNU0ZPMktDTm83RHB1Z1luVmdoOG5CSExuNU9Oa290ZXk4a0lHSFNaWnBabUIxRGFPczNfSFNyUVZQdkRoc1pXZ0JON3p1Z1hMVmZidGdOa3U2UW9MaFFBM2s0ZzhSdVYzSmpGTFVWbjA?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "11 Best AI Coding Tools for Data Science & ML in 2026",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPaHBGOWZOaERaNVMxVVpPTU9FU1VaMnJ3WkZvMUtUd1MwaGtUQThJZE1nNnNsN25ZemFPZXpUZ1pEdG10NjhhNEx1MnBLTWZOMVg1WUd2MEhzeXM0eWZuOWc3cVgwYkRHUXpYTUF4ZnR0dzlsYmhoVnpKRDd4RjFqRkw4RTE?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Best AI Agent Security Tools for SMB and Enterprise in 2026",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9MN0FfRzZYaUxncFh5N1JnS0MwQURydEhDYW9HWGw3UGZwSnMxSndSQWxuZ2RISHNkZjBSUUZGTkJEa1BOMWhhZGxZb2V2WmYwTGEwcnRyV2gzazN3TlQ1ZVFBQ3BkbHp6d3puMEJXb21KbmVMRi1oMw?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "11 Cool New Gadgets To Look Out For In June 2026",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8yMUUyUFgyazhTRTAwaU1tS3pxU21hZXFUa1RIUXNxRkh3cWRvaTVsNXp0MUMwMEZZcFlQc3gtbV9INC1qOTRJWHhqaUpVWmxJVDVVNDVjZEk4dll0ZUJfQkxjZ1duRy04dUZ4ZFY1VlZVSE5ybFpfUEJ0MA?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "The best AI tools for small business are the ones tied to workflow: These nine AI tools save small businesses the most time in 2026",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcFptaUxVY3ZGanY1TUhuQzNiZmRqenl3WHlSUDdHb1pDOHk5NFBESUxxVDJXZTdxWnYyN1k1d2lTYkhGaTFxUmJWV0RUMkF3X2xjT0tGV2E3ZDFxcHd6eDZ1TnJXeGVGMVdLU2pPUkhVaVZVdXc2aGRNT19LZVRmWUNSaGwtSHlMbEFLcnVMczNpSERQd2xBVl9n?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "436796f27eb8",
-      "slug": "2026-_blank"
-    },
-    {
-      "keyword": "tool",
-      "count": 10,
-      "score": 66.36492577322755,
-      "proper": true,
-      "niches": [
-        "software",
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "Local Qwen isn't a worse Opus, it's a different tool",
-          "url": "https://blog.alexellis.io/local-ai-is-not-opus/",
-          "source": "hackernews"
-        },
-        {
-          "title": "This $60 AI tool lets you compare responses from 20+ models",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPREZreWxiY1VGU25hdi1vRjQwR2FQeEY2SG56T0xWZmVfb25zOXRhb3VTczBSVTdHM3U2YW56ZVNwNUhBYmF1RnJSRU9GVUt3RVFyZlozWU1YNm5ZZE81UlJvbGJJaEdUWUdRdzR4bWE5XzVxQnpzNkpGb2xaWmtVZlprLW1Gb3VnVy1GaS1yT2drNGRzcDFNQ2Rn?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "This $60 AI tool lets you compare responses from 20+ models",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPREZreWxiY1VGU25hdi1vRjQwR2FQeEY2SG56T0xWZmVfb25zOXRhb3VTczBSVTdHM3U2YW56ZVNwNUhBYmF1RnJSRU9GVUt3RVFyZlozWU1YNm5ZZE81UlJvbGJJaEdUWUdRdzR4bWE5XzVxQnpzNkpGb2xaWmtVZlprLW1Gb3VnVy1GaS1yT2drNGRzcDFNQ2Rn?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "r3xmax/PhantomCtx — Activation Context Hijacking Evasion Tool",
-          "url": "https://github.com/r3xmax/PhantomCtx",
-          "source": "github"
-        },
-        {
-          "title": "r3xmax/PhantomCtx — Activation Context Hijacking Evasion Tool",
-          "url": "https://github.com/r3xmax/PhantomCtx",
-          "source": "github"
-        }
-      ],
-      "id": "7c9bbe5ec9b3",
-      "slug": "tool"
-    },
-    {
-      "keyword": "2026 6f6f6f",
-      "count": 21,
-      "score": 65.01776839979942,
-      "proper": false,
-      "niches": [
-        "gear",
-        "ai",
-        "software",
-        "general"
-      ],
-      "examples": [
-        {
-          "title": "The best kitchen and cooking gadgets of 2026",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0wN3pyVUhYZ2EyWVVNU0ZPMktDTm83RHB1Z1luVmdoOG5CSExuNU9Oa290ZXk4a0lHSFNaWnBabUIxRGFPczNfSFNyUVZQdkRoc1pXZ0JON3p1Z1hMVmZidGdOa3U2UW9MaFFBM2s0ZzhSdVYzSmpGTFVWbjA?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "11 Best AI Coding Tools for Data Science & ML in 2026",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPaHBGOWZOaERaNVMxVVpPTU9FU1VaMnJ3WkZvMUtUd1MwaGtUQThJZE1nNnNsN25ZemFPZXpUZ1pEdG10NjhhNEx1MnBLTWZOMVg1WUd2MEhzeXM0eWZuOWc3cVgwYkRHUXpYTUF4ZnR0dzlsYmhoVnpKRDd4RjFqRkw4RTE?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Best AI Agent Security Tools for SMB and Enterprise in 2026",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9MN0FfRzZYaUxncFh5N1JnS0MwQURydEhDYW9HWGw3UGZwSnMxSndSQWxuZ2RISHNkZjBSUUZGTkJEa1BOMWhhZGxZb2V2WmYwTGEwcnRyV2gzazN3TlQ1ZVFBQ3BkbHp6d3puMEJXb21KbmVMRi1oMw?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "11 Cool New Gadgets To Look Out For In June 2026",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8yMUUyUFgyazhTRTAwaU1tS3pxU21hZXFUa1RIUXNxRkh3cWRvaTVsNXp0MUMwMEZZcFlQc3gtbV9INC1qOTRJWHhqaUpVWmxJVDVVNDVjZEk4dll0ZUJfQkxjZ1duRy04dUZ4ZFY1VlZVSE5ybFpfUEJ0MA?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Dave Ramsey’s 5 best car insurance tips for 2026",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRGY5YUtVZTdNQWlkelBOYjZxY3RHbWVhdmRSZERNNUxBVElZbnhYOF9zOFFMMkdMcjlWMFdzVTZpT09hMEVGdUtLZ1R4cHF1bG5sZXVoR2pFZ1NURk44Ny15eml4LVN6YlNiNHEtZTNXZGRubU9QV25jM3F0TTBDcVgtc2ROQQ?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "819223dcf234",
-      "slug": "2026-6f6f6f"
-    },
-    {
       "keyword": "nxtpaper addresses",
       "count": 11,
       "score": 64.82423433699304,
@@ -710,9 +436,152 @@
       "slug": "nxtpaper-addresses"
     },
     {
+      "keyword": "social media",
+      "count": 9,
+      "score": 64.753347377263,
+      "proper": false,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "I was able to reduce my social media use by changing the app icons to portraits of their respective CEO’s faces. Seeing multiple copies of Mark Zuckerberg is enough to make me close the phone.",
+          "url": "https://beige.party/@geekysteven/116772622131214567",
+          "source": "mastodon"
+        },
+        {
+          "title": "Best AI Social Content Tools for Social Media Teams",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBNZ2dFQ09fR1RsZURTbjAyQ2J1dWQ3S2dDSFROZjZ0MUgtam5Hbzk4WHJ6eFphaU85ZXBoTk5uN0RIWnEyMHZGcXlpNGJ4U0hUZEJWQ0h1ek1IZldjLXNBOXZtN0NqV3VLQjNIdjE4NlZEZw?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Best AI Social Content Tools for Social Media Teams",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBNZ2dFQ09fR1RsZURTbjAyQ2J1dWQ3S2dDSFROZjZ0MUgtam5Hbzk4WHJ6eFphaU85ZXBoTk5uN0RIWnEyMHZGcXlpNGJ4U0hUZEJWQ0h1ek1IZldjLXNBOXZtN0NqV3VLQjNIdjE4NlZEZw?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "96726f43210d",
+      "slug": "social-media"
+    },
+    {
+      "keyword": "upside potential",
+      "count": 11,
+      "score": 63.86624072610152,
+      "proper": true,
+      "niches": [
+        "finance"
+      ],
+      "examples": [
+        {
+          "title": "2 High-Yield JPM ETFs Paying 8%+ in Passive Income with 17%+ Upside Potential in 2026",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPY3MyNW5vcGFIaW9uczYwNGxDOWk1ci1yMDFIbHlvZExhcVNYZlJFTXgtX09kTGZOWjl4ZHQ0clZKSV9EYXUyM2hmUHQ0YktLQWZLdDlUS0hJLXFmVEN1cXgzbklneXVqSnVjNmZqVFE2MFoxREpXM0djVmNaMi1zdXVXVXNJazBGZ0Jha0ExaXpMZWlhejNrbFRBQno0cFF2SmlaTC1fOEdDNlR2QWRBNA?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "2 High-Yield JPM ETFs Paying 8%+ in Passive Income with 17%+ Upside Potential in 2026",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPY3MyNW5vcGFIaW9uczYwNGxDOWk1ci1yMDFIbHlvZExhcVNYZlJFTXgtX09kTGZOWjl4ZHQ0clZKSV9EYXUyM2hmUHQ0YktLQWZLdDlUS0hJLXFmVEN1cXgzbklneXVqSnVjNmZqVFE2MFoxREpXM0djVmNaMi1zdXVXVXNJazBGZ0Jha0ExaXpMZWlhejNrbFRBQno0cFF2SmlaTC1fOEdDNlR2QWRBNA?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "2 High-Yield JPM ETFs Paying 8%+ in Passive Income with 17%+ Upside Potential in 2026",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPY3MyNW5vcGFIaW9uczYwNGxDOWk1ci1yMDFIbHlvZExhcVNYZlJFTXgtX09kTGZOWjl4ZHQ0clZKSV9EYXUyM2hmUHQ0YktLQWZLdDlUS0hJLXFmVEN1cXgzbklneXVqSnVjNmZqVFE2MFoxREpXM0djVmNaMi1zdXVXVXNJazBGZ0Jha0ExaXpMZWlhejNrbFRBQno0cFF2SmlaTC1fOEdDNlR2QWRBNA?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "74f97676b053",
+      "slug": "upside-potential"
+    },
+    {
+      "keyword": "supports btc",
+      "count": 8,
+      "score": 61.59796183274648,
+      "proper": true,
+      "niches": [
+        "software"
+      ],
+      "examples": [
+        {
+          "title": "kelleylenc/Seed-Generator — Professional BIP-39 seed phrase generator and HD wallet toolkit with 12–24-word mnemonics, checksum validation, and BIP-44/49/84 derivation. Supports BTC, ETH, SOL, LTC, DO",
+          "url": "https://github.com/kelleylenc/Seed-Generator",
+          "source": "github"
+        },
+        {
+          "title": "kelleylenc/Seed-Generator — Professional BIP-39 seed phrase generator and HD wallet toolkit with 12–24-word mnemonics, checksum validation, and BIP-44/49/84 derivation. Supports BTC, ETH, SOL, LTC, DO",
+          "url": "https://github.com/kelleylenc/Seed-Generator",
+          "source": "github"
+        }
+      ],
+      "id": "e7259b0dc1fe",
+      "slug": "supports-btc"
+    },
+    {
+      "keyword": "durable mcp",
+      "count": 8,
+      "score": 61.12854715746818,
+      "proper": true,
+      "niches": [
+        "gear"
+      ],
+      "examples": [
+        {
+          "title": "aresyn/codex-control-plane-mcp — Durable MCP control plane for long-running Codex Desktop tasks",
+          "url": "https://github.com/aresyn/codex-control-plane-mcp",
+          "source": "github"
+        },
+        {
+          "title": "aresyn/codex-control-plane-mcp — Durable MCP control plane for long-running Codex Desktop tasks",
+          "url": "https://github.com/aresyn/codex-control-plane-mcp",
+          "source": "github"
+        }
+      ],
+      "id": "65762143b167",
+      "slug": "durable-mcp"
+    },
+    {
+      "keyword": "codex desktop",
+      "count": 8,
+      "score": 61.12854715746818,
+      "proper": true,
+      "niches": [
+        "gear"
+      ],
+      "examples": [
+        {
+          "title": "aresyn/codex-control-plane-mcp — Durable MCP control plane for long-running Codex Desktop tasks",
+          "url": "https://github.com/aresyn/codex-control-plane-mcp",
+          "source": "github"
+        },
+        {
+          "title": "aresyn/codex-control-plane-mcp — Durable MCP control plane for long-running Codex Desktop tasks",
+          "url": "https://github.com/aresyn/codex-control-plane-mcp",
+          "source": "github"
+        }
+      ],
+      "id": "370a76cf9802",
+      "slug": "codex-desktop"
+    },
+    {
+      "keyword": "social. isn",
+      "count": 5,
+      "score": 59.92683947833065,
+      "proper": true,
+      "niches": [
+        "software"
+      ],
+      "examples": [
+        {
+          "title": "#Mastodon > #WSocial.Mastodon: 100% free software. 🎉 W Social. Isn't.👎Mastodon: Global, as all cool Internet things should be. 🌐W Social: Eurocentrist. 🤮 Mastodon: Does not want you to hand over y",
+          "url": "https://cyberplace.social/@Wuzzy/116772884257155973",
+          "source": "mastodon"
+        }
+      ],
+      "id": "9131355d608c",
+      "slug": "social-isn"
+    },
+    {
       "keyword": "launch hn",
       "count": 5,
-      "score": 64.05604743668269,
+      "score": 55.73558291538817,
       "proper": true,
       "niches": [
         "ai"
@@ -726,27 +595,86 @@
       ],
       "id": "a31c786d0bb8",
       "slug": "launch-hn"
+    },
+    {
+      "keyword": "yc p26",
+      "count": 5,
+      "score": 55.73558291538817,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "Launch HN: TesterArmy (YC P26) – Agents that test web and mobile apps",
+          "url": "https://tester.army",
+          "source": "hackernews"
+        }
+      ],
+      "id": "f68b490b34df",
+      "slug": "yc-p26"
+    },
+    {
+      "keyword": "plant identifier app",
+      "count": 5,
+      "score": 54.18953758578313,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "What Is the Best Plant Identifier App? AI Tools Tested",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBhdGo4czNVTW9qd3B2Qm5XaHQyNU5YUV9jY01fYVBhNzNWbUtzdHpXN3FvNlNQSFh2Y1dvRFdxNW50eXcza0NnQkpOWDhJaXM0bjVORTVHLXVucGJFYnUwcE1JWFE2Y3RwbEpTN0drVE1PZw?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "33ed4986125a",
+      "slug": "plant-identifier-app"
+    },
+    {
+      "keyword": "ai tools tested",
+      "count": 5,
+      "score": 54.18953758578313,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "What Is the Best Plant Identifier App? AI Tools Tested",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBhdGo4czNVTW9qd3B2Qm5XaHQyNU5YUV9jY01fYVBhNzNWbUtzdHpXN3FvNlNQSFh2Y1dvRFdxNW50eXcza0NnQkpOWDhJaXM0bjVORTVHLXVucGJFYnUwcE1JWFE2Y3RwbEpTN0drVE1PZw?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "5c911a024610",
+      "slug": "ai-tools-tested"
     }
   ],
   "opportunities": [
     {
       "keyword": "passive income",
       "count": 58,
-      "score": 253.28770469783444,
+      "score": 275.93119004617955,
       "proper": true,
       "niches": [
-        "ai",
-        "finance"
+        "finance",
+        "ai"
       ],
       "examples": [
         {
-          "title": "Want $1,000 in Annual Passive Income? Invest $14,000 in This High-Yielding Energy Stock Right Now.",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUlEyQTJfN1VFSXMyakZfWHN0TE5NTHdFelFHd1g4ZXRWS3B4MWdYWkVDU1E5djAwZEJQZDI2V1BvNTRrMmdoai1POGppYjNRZk9tazJSNFZDNUVMX3RuNmZIcGJsTFFwMzRtWUlXVlJ4NUhNVW9Qb1Q0dEpTdFlnTWVWbl80WFVTUkE?oc=5",
+          "title": "2 High-Yield JPM ETFs Paying 8%+ in Passive Income with 17%+ Upside Potential in 2026",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPY3MyNW5vcGFIaW9uczYwNGxDOWk1ci1yMDFIbHlvZExhcVNYZlJFTXgtX09kTGZOWjl4ZHQ0clZKSV9EYXUyM2hmUHQ0YktLQWZLdDlUS0hJLXFmVEN1cXgzbklneXVqSnVjNmZqVFE2MFoxREpXM0djVmNaMi1zdXVXVXNJazBGZ0Jha0ExaXpMZWlhejNrbFRBQno0cFF2SmlaTC1fOEdDNlR2QWRBNA?oc=5",
           "source": "gnews"
         },
         {
-          "title": "Want $1,000 in Annual Passive Income? Invest $14,000 in This High-Yielding Energy Stock Right Now.",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUlEyQTJfN1VFSXMyakZfWHN0TE5NTHdFelFHd1g4ZXRWS3B4MWdYWkVDU1E5djAwZEJQZDI2V1BvNTRrMmdoai1POGppYjNRZk9tazJSNFZDNUVMX3RuNmZIcGJsTFFwMzRtWUlXVlJ4NUhNVW9Qb1Q0dEpTdFlnTWVWbl80WFVTUkE?oc=5",
+          "title": "2 High-Yield JPM ETFs Paying 8%+ in Passive Income with 17%+ Upside Potential in 2026",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPY3MyNW5vcGFIaW9uczYwNGxDOWk1ci1yMDFIbHlvZExhcVNYZlJFTXgtX09kTGZOWjl4ZHQ0clZKSV9EYXUyM2hmUHQ0YktLQWZLdDlUS0hJLXFmVEN1cXgzbklneXVqSnVjNmZqVFE2MFoxREpXM0djVmNaMi1zdXVXVXNJazBGZ0Jha0ExaXpMZWlhejNrbFRBQno0cFF2SmlaTC1fOEdDNlR2QWRBNA?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "2 High-Yield JPM ETFs Paying 8%+ in Passive Income with 17%+ Upside Potential in 2026",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPY3MyNW5vcGFIaW9uczYwNGxDOWk1ci1yMDFIbHlvZExhcVNYZlJFTXgtX09kTGZOWjl4ZHQ0clZKSV9EYXUyM2hmUHQ0YktLQWZLdDlUS0hJLXFmVEN1cXgzbklneXVqSnVjNmZqVFE2MFoxREpXM0djVmNaMi1zdXVXVXNJazBGZ0Jha0ExaXpMZWlhejNrbFRBQno0cFF2SmlaTC1fOEdDNlR2QWRBNA?oc=5",
           "source": "gnews"
         },
         {
@@ -757,11 +685,6 @@
         {
           "title": "4 Stocks That Can Fund Decades of Passive Income -- Buy Them While They're Down",
           "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSHpUQXg1dTc4NXZQVGE1cDZXX1NIQlppS3ppQUlhTFNvQmJfOFNTWXlzZ044OUtGT1doczR3ZjlXQXNtUzRqRUZ1NHZYaHlReDBYbWp0ZEdUM3YzZHJNaTRQRmpicWZvLWRrb1NkLTEwVTFrbGF2bHI4ZEcwS3IybWd1OUR4eHlVSzhMeEVuczZfR2w3V1JEaQ?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "The S$500 Passive Income Challenge: How to Start with Just 3 Local Dividend Stocks",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPaWpVYk50UFBBS0tGM2lMN2d0VVV3V2EyaVBSeThFR1NhODgycWJWNktFWWR5Wms5cE00c3A0RGh6cEw5a2FBVl9kLWNaZ0Yxd2RSN3NPS2h4RnJPaWlGdVpjVUtzVEJocmdBLURXLUU2S3BTLTFRRnotWnZvd2JyeWRWZm05endmLWEw?oc=5",
           "source": "gnews"
         }
       ],
@@ -769,13 +692,45 @@
       "slug": "passive-income",
       "opportunity": {
         "type": "niche-content",
-        "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
+        "recommended": "Publish niche guide for \"finance\"; bundle into digital product later."
+      }
+    },
+    {
+      "keyword": "paid options",
+      "count": 11,
+      "score": 108.99838417254662,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "Best AI Creativity Tools: Free & Paid Options",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNX1RVa3hDQlhVYW9XX0JHZ0tCczZiZkk1NXAtYWE1eGpsdHp5dldXWDJpdGJZZmE4WmVlRmJCcnA1emFPVDZTaGFyX05xQ25xM1FOd09UQTNQWW15ZTRlOUxYSzNhSjNTY3NDeXhZMlY0WUo4SnJPTFFRUnVJUEdhbWl2SjVFVHc?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Best AI Creativity Tools: Free & Paid Options",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNX1RVa3hDQlhVYW9XX0JHZ0tCczZiZkk1NXAtYWE1eGpsdHp5dldXWDJpdGJZZmE4WmVlRmJCcnA1emFPVDZTaGFyX05xQ25xM1FOd09UQTNQWW15ZTRlOUxYSzNhSjNTY3NDeXhZMlY0WUo4SnJPTFFRUnVJUEdhbWl2SjVFVHc?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Best AI Creativity Tools: Free & Paid Options",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNX1RVa3hDQlhVYW9XX0JHZ0tCczZiZkk1NXAtYWE1eGpsdHp5dldXWDJpdGJZZmE4WmVlRmJCcnA1emFPVDZTaGFyX05xQ25xM1FOd09UQTNQWW15ZTRlOUxYSzNhSjNTY3NDeXhZMlY0WUo4SnJPTFFRUnVJUEdhbWl2SjVFVHc?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "1bc98141672b",
+      "slug": "paid-options",
+      "opportunity": {
+        "type": "tooling",
+        "recommended": "Build / list AI tools; monetize via affiliate links + lead magnet."
       }
     },
     {
       "keyword": "financial slides",
       "count": 11,
-      "score": 123.47473207046296,
+      "score": 98.77978565637038,
       "proper": true,
       "niches": [
         "ai"
@@ -805,159 +760,142 @@
       }
     },
     {
-      "keyword": "apple appstore",
-      "count": 8,
-      "score": 118.64869767136909,
-      "proper": true,
-      "niches": [
-        "software"
-      ],
-      "examples": [
-        {
-          "title": "How to create an account on #WSocial in 13 easy steps:1️⃣ choose a username2️⃣ choose a password3️⃣ choose your interests4️⃣ download the #WIdentity app to your phone (two options: Apple AppStore or G",
-          "url": "https://aseachange.com/@elena/statuses/01KVD55YBYVM3B46ACQTECDMT2",
-          "source": "mastodon"
-        },
-        {
-          "title": "How to create an account on #WSocial in 13 easy steps:1️⃣ choose a username2️⃣ choose a password3️⃣ choose your interests4️⃣ download the #WIdentity app to your phone (two options: Apple AppStore or G",
-          "url": "https://aseachange.com/@elena/statuses/01KVD55YBYVM3B46ACQTECDMT2",
-          "source": "mastodon"
-        }
-      ],
-      "id": "a0a1d4980d98",
-      "slug": "apple-appstore",
-      "opportunity": {
-        "type": "affiliate",
-        "recommended": "Write SEO comparison/roundup article with affiliate links."
-      }
-    },
-    {
-      "keyword": "paid options",
-      "count": 11,
-      "score": 108.99838417254662,
-      "proper": true,
+      "keyword": "bot polymarket",
+      "count": 12,
+      "score": 80.3414484987873,
+      "proper": false,
       "niches": [
         "ai"
       ],
       "examples": [
         {
-          "title": "Best AI Creativity Tools: Free & Paid Options",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdG5uNGpfVFhaUHJPcXdrb3RCZVE2Q1pWZ2FPU1NWcWo4M3hPV191QnltTjNUbWdaa2tVRnVRTE9zVWNlYUc3d3hBTWtqaWlRNkxjWjhVOTJFd3pIRVRndjJ2RjBINVVEQ253eHBWZks5XzlHM3hDdldzQkx0NkRaTGNiM2k4ODQ?oc=5",
-          "source": "gnews"
+          "title": "MstKail/polymarket-trading-bot-services-polyedge365 — polymarket trading bot services, polymarket copy trading bot, polymarket arbitrage bot, polymarket hedge bot, polymarket maker bot, polymarket tra",
+          "url": "https://github.com/MstKail/polymarket-trading-bot-services-polyedge365",
+          "source": "github"
         },
         {
-          "title": "Best AI Creativity Tools: Free & Paid Options",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdG5uNGpfVFhaUHJPcXdrb3RCZVE2Q1pWZ2FPU1NWcWo4M3hPV191QnltTjNUbWdaa2tVRnVRTE9zVWNlYUc3d3hBTWtqaWlRNkxjWjhVOTJFd3pIRVRndjJ2RjBINVVEQ253eHBWZks5XzlHM3hDdldzQkx0NkRaTGNiM2k4ODQ?oc=5",
-          "source": "gnews"
+          "title": "MstKail/polymarket-trading-bot-services-polyedge365 — polymarket trading bot services, polymarket copy trading bot, polymarket arbitrage bot, polymarket hedge bot, polymarket maker bot, polymarket tra",
+          "url": "https://github.com/MstKail/polymarket-trading-bot-services-polyedge365",
+          "source": "github"
         },
         {
-          "title": "Best AI Creativity Tools: Free & Paid Options",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdG5uNGpfVFhaUHJPcXdrb3RCZVE2Q1pWZ2FPU1NWcWo4M3hPV191QnltTjNUbWdaa2tVRnVRTE9zVWNlYUc3d3hBTWtqaWlRNkxjWjhVOTJFd3pIRVRndjJ2RjBINVVEQ253eHBWZks5XzlHM3hDdldzQkx0NkRaTGNiM2k4ODQ?oc=5",
-          "source": "gnews"
+          "title": "MstKail/polymarket-trading-bot-services-polyedge365 — polymarket trading bot services, polymarket copy trading bot, polymarket arbitrage bot, polymarket hedge bot, polymarket maker bot, polymarket tra",
+          "url": "https://github.com/MstKail/polymarket-trading-bot-services-polyedge365",
+          "source": "github"
+        },
+        {
+          "title": "MstKail/polymarket-trading-bot-services-polyedge365 — polymarket trading bot services, polymarket copy trading bot, polymarket arbitrage bot, polymarket hedge bot, polymarket maker bot, polymarket tra",
+          "url": "https://github.com/MstKail/polymarket-trading-bot-services-polyedge365",
+          "source": "github"
         }
       ],
-      "id": "1bc98141672b",
-      "slug": "paid-options",
-      "opportunity": {
-        "type": "tooling",
-        "recommended": "Build / list AI tools; monetize via affiliate links + lead magnet."
-      }
-    },
-    {
-      "keyword": "major trends",
-      "count": 11,
-      "score": 98.77978565637038,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "Artificial Intelligence Cheat Sheet: Best AI Tools, Major Trends, and What’s Next",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9oWGh6LVhJZ2cyWHp2UjBwZGlKbXNlWkRDTHFuRmZYRlA2SjFSR3laN3dRWXZYNmt1Rll4aUlOSmRWUTRNRDdZQndTSEtMUUVZRU1IRGNGWXl6OHc?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Artificial Intelligence Cheat Sheet: Best AI Tools, Major Trends, and What’s Next",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9oWGh6LVhJZ2cyWHp2UjBwZGlKbXNlWkRDTHFuRmZYRlA2SjFSR3laN3dRWXZYNmt1Rll4aUlOSmRWUTRNRDdZQndTSEtMUUVZRU1IRGNGWXl6OHc?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Artificial Intelligence Cheat Sheet: Best AI Tools, Major Trends, and What’s Next",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9oWGh6LVhJZ2cyWHp2UjBwZGlKbXNlWkRDTHFuRmZYRlA2SjFSR3laN3dRWXZYNmt1Rll4aUlOSmRWUTRNRDdZQndTSEtMUUVZRU1IRGNGWXl6OHc?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "f02fba4d4df3",
-      "slug": "major-trends",
+      "id": "eb9ff6d7608d",
+      "slug": "bot-polymarket",
       "opportunity": {
         "type": "niche-content",
         "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
       }
     },
     {
-      "keyword": "local qwen",
-      "count": 8,
-      "score": 90.71121612484117,
+      "keyword": "nxtpaper addresses",
+      "count": 11,
+      "score": 64.82423433699304,
       "proper": true,
       "niches": [
         "software"
       ],
       "examples": [
         {
-          "title": "Local Qwen isn't a worse Opus, it's a different tool",
-          "url": "https://blog.alexellis.io/local-ai-is-not-opus/",
-          "source": "hackernews"
+          "title": "The TCL NOTE A1 NXTPAPER Addresses a Problem Most Productivity Apps Can’t Solve",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRjdteGRLQjFuMjMxVy1YWjZYdm1kQmxtQ2Rod0prVWdSeDB1OWdyaXpVc0lnRmxVR3QwdzVqRWQ0NHMwblFudE5QMUxqWGd5NGRTN2lSa3dTOGhUY0t5M05Wbml0QmRrM2cyMU5sdWNhZTA5cDcxNVJqOExwSU9SVDB1bThrcFMtaXZwRnVZNzVwamEyWU5CSVBkZ213aUJHd3U4Z2FhMlhUVkVUTndVTg?oc=5",
+          "source": "gnews"
         },
         {
-          "title": "Local Qwen isn't a worse Opus, it's a different tool",
-          "url": "https://blog.alexellis.io/local-ai-is-not-opus/",
-          "source": "hackernews"
+          "title": "The TCL NOTE A1 NXTPAPER Addresses a Problem Most Productivity Apps Can’t Solve",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRjdteGRLQjFuMjMxVy1YWjZYdm1kQmxtQ2Rod0prVWdSeDB1OWdyaXpVc0lnRmxVR3QwdzVqRWQ0NHMwblFudE5QMUxqWGd5NGRTN2lSa3dTOGhUY0t5M05Wbml0QmRrM2cyMU5sdWNhZTA5cDcxNVJqOExwSU9SVDB1bThrcFMtaXZwRnVZNzVwamEyWU5CSVBkZ213aUJHd3U4Z2FhMlhUVkVUTndVTg?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "The TCL NOTE A1 NXTPAPER Addresses a Problem Most Productivity Apps Can’t Solve",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRjdteGRLQjFuMjMxVy1YWjZYdm1kQmxtQ2Rod0prVWdSeDB1OWdyaXpVc0lnRmxVR3QwdzVqRWQ0NHMwblFudE5QMUxqWGd5NGRTN2lSa3dTOGhUY0t5M05Wbml0QmRrM2cyMU5sdWNhZTA5cDcxNVJqOExwSU9SVDB1bThrcFMtaXZwRnVZNzVwamEyWU5CSVBkZ213aUJHd3U4Z2FhMlhUVkVUTndVTg?oc=5",
+          "source": "gnews"
         }
       ],
-      "id": "86e6d0b63fed",
-      "slug": "local-qwen",
+      "id": "8496ed4dd8e4",
+      "slug": "nxtpaper-addresses",
       "opportunity": {
         "type": "niche-content",
         "recommended": "Publish niche guide for \"software\"; bundle into digital product later."
       }
     },
     {
-      "keyword": "less frustrating",
-      "count": 11,
-      "score": 86.43231244932406,
-      "proper": true,
+      "keyword": "social media",
+      "count": 9,
+      "score": 64.753347377263,
+      "proper": false,
       "niches": [
-        "software"
+        "ai"
       ],
       "examples": [
         {
-          "title": "These OXO Kitchen Tools Make Cooking Faster, Easier, and Less Frustrating — and Most Cost Less Than $15",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5mOVhPTW00ZVVRYzR4eU9oY19fLXlpdlpUWHFjcmdZR2YxZEd4ZVA3RDFFZHJkdlFxS0VIbkdwMkNfcm94Zm5SZnpORXZqdWVLZWFiSEpZSDN1SjgyLWdXT0xxQUl0eVliaF9qQThBMm9lUGI4SkNBdkZQQ1hTUQ?oc=5",
+          "title": "I was able to reduce my social media use by changing the app icons to portraits of their respective CEO’s faces. Seeing multiple copies of Mark Zuckerberg is enough to make me close the phone.",
+          "url": "https://beige.party/@geekysteven/116772622131214567",
+          "source": "mastodon"
+        },
+        {
+          "title": "Best AI Social Content Tools for Social Media Teams",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBNZ2dFQ09fR1RsZURTbjAyQ2J1dWQ3S2dDSFROZjZ0MUgtam5Hbzk4WHJ6eFphaU85ZXBoTk5uN0RIWnEyMHZGcXlpNGJ4U0hUZEJWQ0h1ek1IZldjLXNBOXZtN0NqV3VLQjNIdjE4NlZEZw?oc=5",
           "source": "gnews"
         },
         {
-          "title": "These OXO Kitchen Tools Make Cooking Faster, Easier, and Less Frustrating — and Most Cost Less Than $15",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5mOVhPTW00ZVVRYzR4eU9oY19fLXlpdlpUWHFjcmdZR2YxZEd4ZVA3RDFFZHJkdlFxS0VIbkdwMkNfcm94Zm5SZnpORXZqdWVLZWFiSEpZSDN1SjgyLWdXT0xxQUl0eVliaF9qQThBMm9lUGI4SkNBdkZQQ1hTUQ?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "These OXO Kitchen Tools Make Cooking Faster, Easier, and Less Frustrating — and Most Cost Less Than $15",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5mOVhPTW00ZVVRYzR4eU9oY19fLXlpdlpUWHFjcmdZR2YxZEd4ZVA3RDFFZHJkdlFxS0VIbkdwMkNfcm94Zm5SZnpORXZqdWVLZWFiSEpZSDN1SjgyLWdXT0xxQUl0eVliaF9qQThBMm9lUGI4SkNBdkZQQ1hTUQ?oc=5",
+          "title": "Best AI Social Content Tools for Social Media Teams",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBNZ2dFQ09fR1RsZURTbjAyQ2J1dWQ3S2dDSFROZjZ0MUgtam5Hbzk4WHJ6eFphaU85ZXBoTk5uN0RIWnEyMHZGcXlpNGJ4U0hUZEJWQ0h1ek1IZldjLXNBOXZtN0NqV3VLQjNIdjE4NlZEZw?oc=5",
           "source": "gnews"
         }
       ],
-      "id": "0e07d4a663e2",
-      "slug": "less-frustrating",
+      "id": "96726f43210d",
+      "slug": "social-media",
       "opportunity": {
         "type": "niche-content",
-        "recommended": "Publish niche guide for \"software\"; bundle into digital product later."
+        "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
+      }
+    },
+    {
+      "keyword": "upside potential",
+      "count": 11,
+      "score": 63.86624072610152,
+      "proper": true,
+      "niches": [
+        "finance"
+      ],
+      "examples": [
+        {
+          "title": "2 High-Yield JPM ETFs Paying 8%+ in Passive Income with 17%+ Upside Potential in 2026",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPY3MyNW5vcGFIaW9uczYwNGxDOWk1ci1yMDFIbHlvZExhcVNYZlJFTXgtX09kTGZOWjl4ZHQ0clZKSV9EYXUyM2hmUHQ0YktLQWZLdDlUS0hJLXFmVEN1cXgzbklneXVqSnVjNmZqVFE2MFoxREpXM0djVmNaMi1zdXVXVXNJazBGZ0Jha0ExaXpMZWlhejNrbFRBQno0cFF2SmlaTC1fOEdDNlR2QWRBNA?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "2 High-Yield JPM ETFs Paying 8%+ in Passive Income with 17%+ Upside Potential in 2026",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPY3MyNW5vcGFIaW9uczYwNGxDOWk1ci1yMDFIbHlvZExhcVNYZlJFTXgtX09kTGZOWjl4ZHQ0clZKSV9EYXUyM2hmUHQ0YktLQWZLdDlUS0hJLXFmVEN1cXgzbklneXVqSnVjNmZqVFE2MFoxREpXM0djVmNaMi1zdXVXVXNJazBGZ0Jha0ExaXpMZWlhejNrbFRBQno0cFF2SmlaTC1fOEdDNlR2QWRBNA?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "2 High-Yield JPM ETFs Paying 8%+ in Passive Income with 17%+ Upside Potential in 2026",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPY3MyNW5vcGFIaW9uczYwNGxDOWk1ci1yMDFIbHlvZExhcVNYZlJFTXgtX09kTGZOWjl4ZHQ0clZKSV9EYXUyM2hmUHQ0YktLQWZLdDlUS0hJLXFmVEN1cXgzbklneXVqSnVjNmZqVFE2MFoxREpXM0djVmNaMi1zdXVXVXNJazBGZ0Jha0ExaXpMZWlhejNrbFRBQno0cFF2SmlaTC1fOEdDNlR2QWRBNA?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "74f97676b053",
+      "slug": "upside-potential",
+      "opportunity": {
+        "type": "niche-content",
+        "recommended": "Publish niche guide for \"finance\"; bundle into digital product later."
       }
     },
     {
       "keyword": "supports btc",
       "count": 8,
-      "score": 82.13061577699531,
+      "score": 61.59796183274648,
       "proper": true,
       "niches": [
         "software"
