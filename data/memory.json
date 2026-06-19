@@ -90,8 +90,8 @@
     },
     "fitness-gear": {
       "firstSeen": "2026-05-28T14:27:03.986Z",
-      "lastSeen": "2026-06-14T17:09:07.961Z",
-      "count": 3,
+      "lastSeen": "2026-06-19T17:48:42.818Z",
+      "count": 4,
       "wins": 0,
       "losses": 0,
       "niche": "gear"
@@ -2578,8 +2578,8 @@
     },
     "paid-options": {
       "firstSeen": "2026-06-14T15:07:29.161Z",
-      "lastSeen": "2026-06-14T15:07:29.161Z",
-      "count": 1,
+      "lastSeen": "2026-06-19T17:48:58.062Z",
+      "count": 2,
       "wins": 0,
       "losses": 0,
       "niche": "ai"
@@ -2618,10 +2618,10 @@
     },
     "albaniawell-albanians": {
       "firstSeen": "2026-06-14T17:08:50.169Z",
-      "lastSeen": "2026-06-14T17:08:50.169Z",
-      "count": 1,
+      "lastSeen": "2026-06-19T17:47:44.729Z",
+      "count": 2,
       "wins": 0,
-      "losses": 0,
+      "losses": 1,
       "niche": "ai"
     },
     "changing-careers": {
@@ -3330,9 +3330,9 @@
     },
     "plant-identifier-app": {
       "firstSeen": "2026-06-18T22:49:34.665Z",
-      "lastSeen": "2026-06-18T22:49:34.665Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-19T17:47:44.732Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -3410,17 +3410,17 @@
     },
     "project-valhalla": {
       "firstSeen": "2026-06-19T15:58:43.554Z",
-      "lastSeen": "2026-06-19T15:58:43.554Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-19T17:47:44.733Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
     "ai-coding-assistants": {
       "firstSeen": "2026-06-19T15:58:47.589Z",
-      "lastSeen": "2026-06-19T15:58:47.589Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-19T17:47:44.734Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -3455,13 +3455,37 @@
       "wins": 0,
       "losses": 0,
       "niche": "ai"
+    },
+    "viggle-review": {
+      "firstSeen": "2026-06-19T17:47:50.171Z",
+      "lastSeen": "2026-06-19T17:47:50.171Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "boston-dynamics": {
+      "firstSeen": "2026-06-19T17:47:54.379Z",
+      "lastSeen": "2026-06-19T17:47:54.379Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "motion-transfer-tool": {
+      "firstSeen": "2026-06-19T17:47:57.421Z",
+      "lastSeen": "2026-06-19T17:47:57.421Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
     }
   },
   "niches": {
     "ai": {
-      "count": 634,
-      "wins": 181,
-      "losses": 23
+      "count": 642,
+      "wins": 184,
+      "losses": 24
     },
     "finance": {
       "count": 53,
@@ -3474,7 +3498,7 @@
       "losses": 8
     },
     "gear": {
-      "count": 58,
+      "count": 59,
       "wins": 18,
       "losses": 0
     },
