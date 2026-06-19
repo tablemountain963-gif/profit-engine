@@ -1,46 +1,46 @@
 {
-  "runs": 114,
-  "lastRun": "2026-06-18T22:49:23.812Z",
+  "runs": 115,
+  "lastRun": "2026-06-19T06:13:58.182Z",
   "streams": {
     "trend-signals": {
-      "lastRunAt": "2026-06-18T22:49:28.309Z",
+      "lastRunAt": "2026-06-19T06:14:00.562Z",
       "lastResult": "25 items / 20 topics / 8 opps",
-      "totalRuns": 103
+      "totalRuns": 104
     },
     "affiliate-content": {
-      "lastRunAt": "2026-06-18T22:49:37.198Z",
+      "lastRunAt": "2026-06-19T06:14:10.460Z",
       "lastResult": "3 articles",
-      "totalRuns": 103
+      "totalRuns": 104
     },
     "digital-products": {
-      "lastRunAt": "2026-06-18T22:49:42.633Z",
+      "lastRunAt": "2026-06-19T06:14:16.704Z",
       "lastResult": "0 products",
-      "totalRuns": 104
+      "totalRuns": 105
     },
     "viral-factory": {
-      "lastRunAt": "2026-06-18T22:49:56.795Z",
+      "lastRunAt": "2026-06-19T06:14:41.220Z",
       "lastResult": "2 content packs",
-      "totalRuns": 104
+      "totalRuns": 105
     },
     "x-publisher": {
-      "lastRunAt": "2026-06-18T22:49:56.917Z",
+      "lastRunAt": "2026-06-19T06:14:41.319Z",
       "lastResult": "nothing to post",
-      "totalRuns": 89
+      "totalRuns": 90
     },
     "mastodon-publisher": {
-      "lastRunAt": "2026-06-18T22:49:56.936Z",
+      "lastRunAt": "2026-06-19T06:14:41.331Z",
       "lastResult": "nothing to post",
-      "totalRuns": 87
+      "totalRuns": 88
     },
     "bluesky-publisher": {
-      "lastRunAt": "2026-06-18T22:49:57.206Z",
-      "lastResult": "nothing to post",
-      "totalRuns": 87
+      "lastRunAt": "2026-06-19T06:14:49.696Z",
+      "lastResult": "posted 1 thread(s)",
+      "totalRuns": 88
     },
     "stripe-lister": {
-      "lastRunAt": "2026-06-18T22:49:42.634Z",
+      "lastRunAt": "2026-06-19T06:14:16.705Z",
       "lastResult": "listed 0, backfilled 0",
-      "totalRuns": 88
+      "totalRuns": 89
     }
   },
   "totals": {

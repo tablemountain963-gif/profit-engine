@@ -952,46 +952,6 @@
       "losses": 0,
       "niche": "ai"
     },
-    "special-supplemental-nutrition-program": {
-      "firstSeen": "2026-06-05T05:13:56.198Z",
-      "lastSeen": "2026-06-05T05:13:56.198Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "ai"
-    },
-    "lossless-scaling": {
-      "firstSeen": "2026-06-05T05:14:02.966Z",
-      "lastSeen": "2026-06-05T05:14:02.966Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "software"
-    },
-    "code-review": {
-      "firstSeen": "2026-06-05T05:14:08.863Z",
-      "lastSeen": "2026-06-05T05:14:08.863Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "ai"
-    },
-    "budget-blowout": {
-      "firstSeen": "2026-06-05T05:14:35.338Z",
-      "lastSeen": "2026-06-05T05:14:35.338Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "ai"
-    },
-    "azure-redops": {
-      "firstSeen": "2026-06-05T05:14:47.510Z",
-      "lastSeen": "2026-06-05T05:14:47.510Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "software"
-    },
     "disguised-russian": {
       "firstSeen": "2026-06-05T15:52:00.493Z",
       "lastSeen": "2026-06-05T17:47:24.433Z",
@@ -3298,9 +3258,9 @@
     },
     "luttrell-psalter": {
       "firstSeen": "2026-06-18T05:53:01.616Z",
-      "lastSeen": "2026-06-18T05:53:01.616Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-19T06:13:59.098Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "software"
     },
@@ -3402,9 +3362,9 @@
     },
     "social-isn": {
       "firstSeen": "2026-06-18T22:49:32.191Z",
-      "lastSeen": "2026-06-18T22:49:32.191Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-19T06:13:59.099Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "software"
     },
@@ -3418,9 +3378,9 @@
     },
     "ai-tools-tested": {
       "firstSeen": "2026-06-18T22:49:37.197Z",
-      "lastSeen": "2026-06-18T22:49:37.197Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-19T06:13:59.099Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -3439,12 +3399,52 @@
       "wins": 0,
       "losses": 0,
       "niche": "ai"
+    },
+    "malwarebytes-premium": {
+      "firstSeen": "2026-06-19T06:14:04.332Z",
+      "lastSeen": "2026-06-19T06:14:04.332Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "datasette-apps": {
+      "firstSeen": "2026-06-19T06:14:07.239Z",
+      "lastSeen": "2026-06-19T06:14:07.239Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "software"
+    },
+    "quickbooks-desktop": {
+      "firstSeen": "2026-06-19T06:14:10.459Z",
+      "lastSeen": "2026-06-19T06:14:10.459Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "gear"
+    },
+    "workflow": {
+      "firstSeen": "2026-06-19T06:14:25.317Z",
+      "lastSeen": "2026-06-19T06:14:25.317Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "premium": {
+      "firstSeen": "2026-06-19T06:14:37.219Z",
+      "lastSeen": "2026-06-19T06:14:37.219Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
     }
   },
   "niches": {
     "ai": {
-      "count": 622,
-      "wins": 178,
+      "count": 626,
+      "wins": 179,
       "losses": 23
     },
     "finance": {
@@ -3453,12 +3453,12 @@
       "losses": 0
     },
     "software": {
-      "count": 145,
-      "wins": 37,
+      "count": 148,
+      "wins": 39,
       "losses": 8
     },
     "gear": {
-      "count": 54,
+      "count": 55,
       "wins": 17,
       "losses": 0
     },
