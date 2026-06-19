@@ -1,6 +1,51 @@
 {
   "items": [
     {
+      "slug": "prompt-pack-richer-text-2026-06-19",
+      "title": "Richer Text Prompt Pack — 50 Battle-Tested Prompts",
+      "blurb": "50 proven prompts for Richer Text. Copy/paste ready. Tested across Claude, GPT, Gemini.",
+      "type": "prompt-pack",
+      "topic": "Richer Text",
+      "niche": "software",
+      "price": 19,
+      "generatedAt": "2026-06-19T21:57:08.083Z",
+      "files": [
+        "prompts.md",
+        "README.md",
+        "LICENSE.txt"
+      ]
+    },
+    {
+      "slug": "prompt-pack-text-input-2026-06-19",
+      "title": "Text Input Prompt Pack — 50 Battle-Tested Prompts",
+      "blurb": "50 proven prompts for Text Input. Copy/paste ready. Tested across Claude, GPT, Gemini.",
+      "type": "prompt-pack",
+      "topic": "Text Input",
+      "niche": "software",
+      "price": 19,
+      "generatedAt": "2026-06-19T21:56:58.007Z",
+      "files": [
+        "prompts.md",
+        "README.md",
+        "LICENSE.txt"
+      ]
+    },
+    {
+      "slug": "prompt-pack-contact-shadows-2026-06-19",
+      "title": "Contact Shadows Prompt Pack — 50 Battle-Tested Prompts",
+      "blurb": "50 proven prompts for Contact Shadows. Copy/paste ready. Tested across Claude, GPT, Gemini.",
+      "type": "prompt-pack",
+      "topic": "Contact Shadows",
+      "niche": "software",
+      "price": 19,
+      "generatedAt": "2026-06-19T21:56:50.062Z",
+      "files": [
+        "prompts.md",
+        "README.md",
+        "LICENSE.txt"
+      ]
+    },
+    {
       "slug": "mini-ebook-review-2026-06-19",
       "title": "Review: A 30-Minute Field Guide",
       "blurb": "Read it in 30 minutes. Apply it forever. Field guide to Review.",

@@ -813,5 +813,26 @@
     "price": 14,
     "productId": "prod_UjXu3yyk0pxuIy",
     "cover": "/assets/pack-cover.png"
+  },
+  "prompt-pack-richer-text-2026-06-19": {
+    "url": "https://buy.stripe.com/00w7sK1GMdhQ0NdgAsfjG1S",
+    "platform": "stripe",
+    "price": 19,
+    "productId": "prod_Ujdh9PVokYLIrg",
+    "cover": "/assets/pack-cover.png"
+  },
+  "prompt-pack-text-input-2026-06-19": {
+    "url": "https://buy.stripe.com/aFadR8gBG6Ts7bB5VOfjG1T",
+    "platform": "stripe",
+    "price": 19,
+    "productId": "prod_UjdhSALMzZdF9F",
+    "cover": "/assets/pack-cover.png"
+  },
+  "prompt-pack-contact-shadows-2026-06-19": {
+    "url": "https://buy.stripe.com/aFa3cu99ea5E2VlckcfjG1U",
+    "platform": "stripe",
+    "price": 19,
+    "productId": "prod_UjdhLF0TBsh1hL",
+    "cover": "/assets/pack-cover.png"
   }
 }

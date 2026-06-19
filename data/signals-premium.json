@@ -1,71 +1,82 @@
 {
-  "generatedAt": "2026-06-19T17:47:45.557Z",
-  "sourceCount": 206,
+  "generatedAt": "2026-06-19T21:56:39.572Z",
+  "sourceCount": 197,
   "topItems": [
     {
-      "title": "Hyundai buys Boston Dynamics, Atlas humanoid to be used at vehicle plant by 2028",
+      "title": "Hyundai buys Boston Dynamics",
       "url": "https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/",
-      "score": 9.03,
+      "score": 11.06,
       "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 69,
-        "comments": 39
-      }
-    },
-    {
-      "title": "Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28",
-      "url": "https://www.jvm-weekly.com/p/project-valhalla-explained-how-a",
-      "score": 8.75,
-      "niche": "ai",
-      "source": "hackernews",
-      "engagement": {
-        "score": 442,
-        "comments": 249
-      }
-    },
-    {
-      "title": "The AirPods Effect",
-      "url": "https://www.theescapenewsletter.com/p/the-airpods-effect",
-      "score": 8.03,
-      "niche": "ai",
-      "source": "hackernews",
-      "engagement": {
-        "score": 305,
-        "comments": 532
-      }
-    },
-    {
-      "title": "very cool illustration of ranked choice voting and how it worked in Maine’s gubernatorial Democratic primaryvia Reddit (https://www.reddit.com/r/Maine/comments/1ua4e7n/sankey_diagram_of_the_democratic",
-      "url": "https://hachyderm.io/@molly0xfff/116777508550249694",
-      "score": 7.86,
-      "niche": "ai",
-      "source": "mastodon",
-      "engagement": {
-        "score": 271,
-        "comments": 7
+        "score": 507,
+        "comments": 251
       }
     },
     {
       "title": "Funny out of context quote from a meeting earlier today: \"Space law does not happen in a vacuum\"",
       "url": "https://mastodon.social/@sundogplanets/116777863106976477",
-      "score": 7.82,
+      "score": 9.29,
       "niche": "software",
       "source": "mastodon",
       "engagement": {
-        "score": 255,
-        "comments": 6
+        "score": 730,
+        "comments": 18
       }
     },
     {
-      "title": "These new AI tools promise better videos, seamless meetings, and richer research",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE95UXZfZ3pucXRRZmZFR3dDMW1hM1MtdlZJY3hPeVc1VmlfR2NvTnl4dDl0cjgyamxfV3Yyem5ZMVpOcllEdUNrcGFZU0paN19TZ2dpVGpTNlVhN2tVbmhKVVRYaTMyX1lCQkxEcWwzdkZlM1BEdmk4VWZkT09rdw?oc=5",
-      "score": 7.48,
+      "title": "Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28",
+      "url": "https://www.jvm-weekly.com/p/project-valhalla-explained-how-a",
+      "score": 8.99,
       "niche": "ai",
-      "source": "gnews",
+      "source": "hackernews",
       "engagement": {
-        "score": 40,
-        "comments": 0
+        "score": 514,
+        "comments": 308
+      }
+    },
+    {
+      "title": "UnitedHealth Groupposted $6.2B in profits last quarter whilesimultaneously denying 32% of all priorauthorization claims.They made $6.2 billion. They denied oneout of every three medical requests.You p",
+      "url": "https://mastodon.social/@joewo/116778533677854859",
+      "score": 8.25,
+      "niche": "ai",
+      "source": "mastodon",
+      "engagement": {
+        "score": 152,
+        "comments": 11
+      }
+    },
+    {
+      "title": "A new bill takes aim at government pressure to silence lawful online speech",
+      "url": "https://www.eff.org/deeplinks/2026/06/new-bill-takes-aim-government-pressure-silence-lawful-online-speech",
+      "score": 8.25,
+      "niche": "ai",
+      "source": "hackernews",
+      "engagement": {
+        "score": 185,
+        "comments": 96
+      }
+    },
+    {
+      "title": "The AirPods Effect",
+      "url": "https://www.theescapenewsletter.com/p/the-airpods-effect",
+      "score": 8.22,
+      "niche": "ai",
+      "source": "hackernews",
+      "engagement": {
+        "score": 360,
+        "comments": 633
+      }
+    },
+    {
+      "title": "Companies rein in AI usage as costs strain budgets",
+      "url": "https://www.ft.com/content/1d37cc08-e0aa-45a4-a45d-4ad282529314",
+      "score": 7.77,
+      "niche": "ai",
+      "source": "hackernews",
+      "engagement": {
+        "score": 54,
+        "comments": 37
       }
     },
     {
@@ -80,79 +91,90 @@
       }
     },
     {
-      "title": "\"Google is completely cooked\" update: I looked in my spam folder and discovered that GMail is sending *its own delivery failure notification emails* to spam. The sender is \"googlemail.com\" and is cryp",
-      "url": "https://mastodon.social/@mcc/116777327381605922",
-      "score": 7.38,
+      "title": "Amazon drops Sam Altman movie after announcing OpenAI partnership",
+      "url": "https://www.the-independent.com/arts-entertainment/films/news/sam-altman-biopic-amazon-openai-deal-b2999321.html",
+      "score": 7.46,
+      "niche": "ai",
+      "source": "hackernews",
+      "engagement": {
+        "score": 121,
+        "comments": 46
+      }
+    },
+    {
+      "title": "May your servers stay up, your alerts stay down, and your weekend remain strictly read-only.",
+      "url": "https://mastodon.social/@nixCraft/116778548717510209",
+      "score": 7.27,
       "niche": "ai",
       "source": "mastodon",
       "engagement": {
         "score": 182,
-        "comments": 10
+        "comments": 2
       }
     },
     {
-      "title": "How Dell Pro 5 and Dell Pro 7 laptops support AI software for business teams",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSm5ncDZxaUtNd0tIbkJaVElxTDVPZXktbzJNelV2TUxBZUFLcHZNdGxXUEpNWWZTNW0yY3Z6YXpZLUN3RmZGaFZMQWdtd0VTOG9odkg3Y0ZTa1JOZUNqV0FzNVpPVXVCTzBpdVFZUjlOZlhwa0NUWGRlTXVRVDlkeUxkMERmOWk0bXlnT1pUOTF0N1F4MFNuNnZKcDkyQ1lWRW5yY2NjdlRQUQ?oc=5",
-      "score": 6.71,
+      "title": "Norway imposes near ban on AI in elementary school",
+      "url": "https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/",
+      "score": 7.26,
       "niche": "ai",
-      "source": "gnews",
+      "source": "hackernews",
       "engagement": {
-        "score": 40,
+        "score": 81,
+        "comments": 52
+      }
+    },
+    {
+      "title": "Happy #Juneteenth, everyone!",
+      "url": "https://mastodon.social/@potterybyosa/116778509559101971",
+      "score": 7.24,
+      "niche": "software",
+      "source": "mastodon",
+      "engagement": {
+        "score": 172,
+        "comments": 2
+      }
+    },
+    {
+      "title": "#Bevy 0.19 is out now!It features Next Generation Scenes, Render Bigger Scenes Faster, Contact Shadows, More Feathers Widgets, Text Input, Richer Text, App Settings, Post Processing Effects, Improved ",
+      "url": "https://mastodon.social/@bevy/116778703158792368",
+      "score": 6.85,
+      "niche": "software",
+      "source": "mastodon",
+      "engagement": {
+        "score": 75,
+        "comments": 0
+      }
+    },
+    {
+      "title": "MstKail/wc2026-crypto-sportsbook — 2026 FIFA World Cup crypto sportsbook | soccer football betting platform | React TypeScript Vite | MetaMask wallet EIP-191 | live WebSocket odds scores | bet settlem",
+      "url": "https://github.com/MstKail/wc2026-crypto-sportsbook",
+      "score": 6.37,
+      "niche": "ai",
+      "source": "github",
+      "engagement": {
+        "score": 145,
         "comments": 0
       }
     },
     {
       "title": "Baby swan stretching out.#photography #nature #wildlife  #Stockholm",
       "url": "https://mastodon.social/@JosepPanadero/116777514863731912",
-      "score": 6.25,
+      "score": 6.03,
       "niche": "finance",
       "source": "mastodon",
       "engagement": {
-        "score": 114,
-        "comments": 3
+        "score": 313,
+        "comments": 6
       }
     },
     {
-      "title": "MstKail/wc2026-crypto-sportsbook — 2026 FIFA World Cup crypto sportsbook | soccer football betting platform | React TypeScript Vite | MetaMask wallet EIP-191 | live WebSocket odds scores | bet settlem",
-      "url": "https://github.com/MstKail/wc2026-crypto-sportsbook",
-      "score": 6.19,
+      "title": "These new AI tools promise better videos, seamless meetings, and richer research",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE95UXZfZ3pucXRRZmZFR3dDMW1hM1MtdlZJY3hPeVc1VmlfR2NvTnl4dDl0cjgyamxfV3Yyem5ZMVpOcllEdUNrcGFZU0paN19TZ2dpVGpTNlVhN2tVbmhKVVRYaTMyX1lCQkxEcWwzdkZlM1BEdmk4VWZkT09rdw?oc=5",
+      "score": 5.99,
       "niche": "ai",
-      "source": "github",
+      "source": "gnews",
       "engagement": {
-        "score": 126,
-        "comments": 0
-      }
-    },
-    {
-      "title": "People hate trans kids because trans kids make it very apparent that all their hangups about gender and socialization and physical differences are bullshit.",
-      "url": "https://mastodon.social/@gwynnion/116777713420415416",
-      "score": 6.15,
-      "niche": "software",
-      "source": "mastodon",
-      "engagement": {
-        "score": 72,
-        "comments": 4
-      }
-    },
-    {
-      "title": "hbddevos/PumpFun-Trainer_V1 — An advanced AI‑driven trading utility for Solana meme‑coins, featuring sniper, auto‑sell, MEV protection, multi‑wallet, alerts, and price monitoring.",
-      "url": "https://github.com/hbddevos/PumpFun-Trainer_V1",
-      "score": 6.14,
-      "niche": "ai",
-      "source": "github",
-      "engagement": {
-        "score": 121,
-        "comments": 0
-      }
-    },
-    {
-      "title": "alkhudarigroupuae/PumpFun-Trainer_V1 — An advanced AI‑driven trading utility for Solana meme‑coins, featuring sniper, auto‑sell, MEV protection, multi‑wallet, alerts, and price monitoring.",
-      "url": "https://github.com/alkhudarigroupuae/PumpFun-Trainer_V1",
-      "score": 6.14,
-      "niche": "ai",
-      "source": "github",
-      "engagement": {
-        "score": 121,
+        "score": 40,
         "comments": 0
       }
     },
@@ -170,29 +192,29 @@
     {
       "title": "Plaer1/junction — VS Code chat sidebar for local AI coding agents",
       "url": "https://github.com/Plaer1/junction",
-      "score": 5.98,
+      "score": 5.99,
       "niche": "ai",
       "source": "github",
       "engagement": {
-        "score": 512,
+        "score": 513,
         "comments": 0
       }
     },
     {
-      "title": "instance admins are the real heroes of the fediverse and open social web.they turn our software into real communities.so let's not forget them, and everything they do for us.pay them, thank them, reme",
-      "url": "https://mastodon.social/@dansup/116776547117556953",
-      "score": 5.98,
-      "niche": "software",
-      "source": "mastodon",
+      "title": "MstKail/polymarket-trading-bot-services-polyedge365 — polymarket trading bot services, polymarket copy trading bot, polymarket arbitrage bot, polymarket hedge bot, polymarket maker bot, polymarket tra",
+      "url": "https://github.com/MstKail/polymarket-trading-bot-services-polyedge365",
+      "score": 5.44,
+      "niche": "ai",
+      "source": "github",
       "engagement": {
-        "score": 460,
-        "comments": 3
+        "score": 289,
+        "comments": 0
       }
     },
     {
-      "title": "Amdocs: A Boring Telecom Software Stock With Hidden AI Upside (NASDAQ:DOX)",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVU5YSzE0RHlBLVlkdTZybUNNbTcyczNHT3FlVV9wUi1tdnVBV0d4bE1xaFJEcjFQcU9Jc1paOHJTVVkwLXFJYy04WmUyRHotcGtPMlMxNFd0ajNiWk8yUV82UlBmNFJPSzA4LXNmT3JWei1KX09jQWVSY1hMN3NTQnlzT2hlWUpCMU8yN0hYZHhLM0ZJQmZoWkRQS0lqNjRkSVVJ?oc=5",
-      "score": 5.94,
+      "title": "What Is the Best Plant Identifier App? AI Tools Tested",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBhdGo4czNVTW9qd3B2Qm5XaHQyNU5YUV9jY01fYVBhNzNWbUtzdHpXN3FvNlNQSFh2Y1dvRFdxNW50eXcza0NnQkpOWDhJaXM0bjVORTVHLXVucGJFYnUwcE1JWFE2Y3RwbEpTN0drVE1PZw?oc=5",
+      "score": 5.42,
       "niche": "ai",
       "source": "gnews",
       "engagement": {
@@ -201,18 +223,7 @@
       }
     },
     {
-      "title": "MstKail/polymarket-trading-bot-services-polyedge365 — polymarket trading bot services, polymarket copy trading bot, polymarket arbitrage bot, polymarket hedge bot, polymarket maker bot, polymarket tra",
-      "url": "https://github.com/MstKail/polymarket-trading-bot-services-polyedge365",
-      "score": 5.43,
-      "niche": "ai",
-      "source": "github",
-      "engagement": {
-        "score": 286,
-        "comments": 0
-      }
-    },
-    {
-      "title": "Source: Elastic agrees to buy CRV-backed DeductiveAI for up to $85M",
+      "title": "Source: Elastic agrees to buy CRV-backed Deductive AI for up to $85M",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVmR5VFBOY2NGaWZaaG9CMVJ3TGlDOU56ZzdsZDBwajVvWENSUWtOMmowbWdXTGEzRWdWSHFMSlJlbzB6RXVpNDJ3X3cxMnFoTS1qOFk4ZkdGSjkyeGN5dEZTOFdYUTB1MHE5ZXJpZ2pqNEtoRURIQ1hiNkhsMGVpc0tvSlFKd1plMEVPakdhYmJ2ekt3dWdhZTN1NTlsVlZyT1E?oc=5",
       "score": 5.37,
       "niche": "ai",
@@ -223,20 +234,9 @@
       }
     },
     {
-      "title": "ManacleBat38/QuickBooks-Desktop-2026 — QuickBooks Desktop workflow — company files, reconciliations and backup schedules on Windows.",
-      "url": "https://github.com/ManacleBat38/QuickBooks-Desktop-2026",
-      "score": 5.31,
-      "niche": "gear",
-      "source": "github",
-      "engagement": {
-        "score": 114,
-        "comments": 0
-      }
-    },
-    {
-      "title": "CircleCI Introduces Chunk Sidecars to Bring CI Validation Directly Into AI Coding Workflows",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAwczBTdl94U1JLeVhHUWZqSWhBdVlpV3FmSi05NEwyZ0ZUOWhVendBMDBJdkQxVDNGb2txaEoyZlR0YjYyZE53d3FCeE9RUmdQNEhFckM0TW9KOWtvYmU3TkprSFp3OS1ST0t3?oc=5",
-      "score": 5.16,
+      "title": "How Dell Pro 5 and Dell Pro 7 laptops support AI software for business teams",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSm5ncDZxaUtNd0tIbkJaVElxTDVPZXktbzJNelV2TUxBZUFLcHZNdGxXUEpNWWZTNW0yY3Z6YXpZLUN3RmZGaFZMQWdtd0VTOG9odkg3Y0ZTa1JOZUNqV0FzNVpPVXVCTzBpdVFZUjlOZlhwa0NUWGRlTXVRVDlkeUxkMERmOWk0bXlnT1pUOTF0N1F4MFNuNnZKcDkyQ1lWRW5yY2NjdlRQUQ?oc=5",
+      "score": 5.37,
       "niche": "ai",
       "source": "gnews",
       "engagement": {
@@ -267,14 +267,14 @@
       }
     },
     {
-      "title": "How Japan's railways stayed one while splitting apart",
-      "url": "https://arun.is/blog/jr-logo/",
-      "score": 4.99,
+      "title": "Best AI Creativity Tools: Free & Paid Options",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNX1RVa3hDQlhVYW9XX0JHZ0tCczZiZkk1NXAtYWE1eGpsdHp5dldXWDJpdGJZZmE4WmVlRmJCcnA1emFPVDZTaGFyX05xQ25xM1FOd09UQTNQWW15ZTRlOUxYSzNhSjNTY3NDeXhZMlY0WUo4SnJPTFFRUnVJUEdhbWl2SjVFVHc?oc=5",
+      "score": 4.95,
       "niche": "ai",
-      "source": "hackernews",
+      "source": "gnews",
       "engagement": {
-        "score": 152,
-        "comments": 123
+        "score": 40,
+        "comments": 0
       }
     }
   ],
@@ -282,7 +282,7 @@
     {
       "keyword": "dell pro",
       "count": 17,
-      "score": 171.08411152082957,
+      "score": 136.86728921666366,
       "proper": true,
       "niches": [
         "ai"
@@ -318,42 +318,27 @@
       "slug": "dell-pro"
     },
     {
-      "keyword": "fitness gear",
-      "count": 33,
-      "score": 146.04080379368546,
+      "keyword": "boston dynamics",
+      "count": 8,
+      "score": 132.67083186624149,
       "proper": true,
       "niches": [
-        "gear"
+        "ai"
       ],
       "examples": [
         {
-          "title": "Fitness Gear on Sale for Early Prime Day",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9jNDZtZlhYOFMtWnloN2pMenFzSjhqZ0MyN3JMVHE1bVZENE5zT0hoQUpHVEpiSUhJb2Z6ZU85bmk2M3lKT1ctOTlqSlpyUVBZWDBWQkhZdUtiNWVTMDhTVmFGX295N2VWN3RDZHBPSHlaUzUtbzNR?oc=5",
-          "source": "gnews"
+          "title": "Hyundai buys Boston Dynamics",
+          "url": "https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/",
+          "source": "hackernews"
         },
         {
-          "title": "Fitness Gear on Sale for Early Prime Day",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9jNDZtZlhYOFMtWnloN2pMenFzSjhqZ0MyN3JMVHE1bVZENE5zT0hoQUpHVEpiSUhJb2Z6ZU85bmk2M3lKT1ctOTlqSlpyUVBZWDBWQkhZdUtiNWVTMDhTVmFGX295N2VWN3RDZHBPSHlaUzUtbzNR?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Fitness Gear on Sale for Early Prime Day",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9jNDZtZlhYOFMtWnloN2pMenFzSjhqZ0MyN3JMVHE1bVZENE5zT0hoQUpHVEpiSUhJb2Z6ZU85bmk2M3lKT1ctOTlqSlpyUVBZWDBWQkhZdUtiNWVTMDhTVmFGX295N2VWN3RDZHBPSHlaUzUtbzNR?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Attention, Gym Girlies: Amazon Discounted Our Favorite Fitness Gear",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQODBnUTFMTl9KRlhCMVdQU3FwTlFLblFFc1Axa2tDLUl3MlVwMUh1blhlWVBadWNGQ1JnXzRkMHVyaHdhOG5sRFB1U0s3RGRlUDhVRnJ1QUZWTTlvN3FiZ1JVTU1RSHhWS1hsWVczUDB6dldjTktkbXlyN0IxZFU4X1Y0ampZVnZZX004?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Attention, Gym Girlies: Amazon Discounted Our Favorite Fitness Gear",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQODBnUTFMTl9KRlhCMVdQU3FwTlFLblFFc1Axa2tDLUl3MlVwMUh1blhlWVBadWNGQ1JnXzRkMHVyaHdhOG5sRFB1U0s3RGRlUDhVRnJ1QUZWTTlvN3FiZ1JVTU1RSHhWS1hsWVczUDB6dldjTktkbXlyN0IxZFU4X1Y0ampZVnZZX004?oc=5",
-          "source": "gnews"
+          "title": "Hyundai buys Boston Dynamics",
+          "url": "https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/",
+          "source": "hackernews"
         }
       ],
-      "id": "a8b7e45842c3",
-      "slug": "fitness-gear"
+      "id": "5ecc0298b73e",
+      "slug": "boston-dynamics"
     },
     {
       "keyword": "viggle review",
@@ -384,32 +369,9 @@
       "slug": "viggle-review"
     },
     {
-      "keyword": "boston dynamics",
-      "count": 8,
-      "score": 108.33946483251628,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "Hyundai buys Boston Dynamics, Atlas humanoid to be used at vehicle plant by 2028",
-          "url": "https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/",
-          "source": "hackernews"
-        },
-        {
-          "title": "Hyundai buys Boston Dynamics, Atlas humanoid to be used at vehicle plant by 2028",
-          "url": "https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/",
-          "source": "hackernews"
-        }
-      ],
-      "id": "5ecc0298b73e",
-      "slug": "boston-dynamics"
-    },
-    {
       "keyword": "project valhalla",
       "count": 8,
-      "score": 105.05097421643814,
+      "score": 107.87272690680649,
       "proper": true,
       "niches": [
         "ai"
@@ -428,6 +390,144 @@
       ],
       "id": "1ddad31cf30b",
       "slug": "project-valhalla"
+    },
+    {
+      "keyword": "unitedhealth groupposted",
+      "count": 8,
+      "score": 99.05256022998675,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "UnitedHealth Groupposted $6.2B in profits last quarter whilesimultaneously denying 32% of all priorauthorization claims.They made $6.2 billion. They denied oneout of every three medical requests.You p",
+          "url": "https://mastodon.social/@joewo/116778533677854859",
+          "source": "mastodon"
+        },
+        {
+          "title": "UnitedHealth Groupposted $6.2B in profits last quarter whilesimultaneously denying 32% of all priorauthorization claims.They made $6.2 billion. They denied oneout of every three medical requests.You p",
+          "url": "https://mastodon.social/@joewo/116778533677854859",
+          "source": "mastodon"
+        }
+      ],
+      "id": "852776179414",
+      "slug": "unitedhealth-groupposted"
+    },
+    {
+      "keyword": "sam altman",
+      "count": 8,
+      "score": 89.48788889660892,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "Amazon drops Sam Altman movie after announcing OpenAI partnership",
+          "url": "https://www.the-independent.com/arts-entertainment/films/news/sam-altman-biopic-amazon-openai-deal-b2999321.html",
+          "source": "hackernews"
+        },
+        {
+          "title": "Amazon drops Sam Altman movie after announcing OpenAI partnership",
+          "url": "https://www.the-independent.com/arts-entertainment/films/news/sam-altman-biopic-amazon-openai-deal-b2999321.html",
+          "source": "hackernews"
+        }
+      ],
+      "id": "46b09b212b77",
+      "slug": "sam-altman"
+    },
+    {
+      "keyword": "contact shadows",
+      "count": 8,
+      "score": 82.15393771082498,
+      "proper": true,
+      "niches": [
+        "software"
+      ],
+      "examples": [
+        {
+          "title": "#Bevy 0.19 is out now!It features Next Generation Scenes, Render Bigger Scenes Faster, Contact Shadows, More Feathers Widgets, Text Input, Richer Text, App Settings, Post Processing Effects, Improved ",
+          "url": "https://mastodon.social/@bevy/116778703158792368",
+          "source": "mastodon"
+        },
+        {
+          "title": "#Bevy 0.19 is out now!It features Next Generation Scenes, Render Bigger Scenes Faster, Contact Shadows, More Feathers Widgets, Text Input, Richer Text, App Settings, Post Processing Effects, Improved ",
+          "url": "https://mastodon.social/@bevy/116778703158792368",
+          "source": "mastodon"
+        }
+      ],
+      "id": "c718fa02ae15",
+      "slug": "contact-shadows"
+    },
+    {
+      "keyword": "text input",
+      "count": 8,
+      "score": 82.15393771082498,
+      "proper": true,
+      "niches": [
+        "software"
+      ],
+      "examples": [
+        {
+          "title": "#Bevy 0.19 is out now!It features Next Generation Scenes, Render Bigger Scenes Faster, Contact Shadows, More Feathers Widgets, Text Input, Richer Text, App Settings, Post Processing Effects, Improved ",
+          "url": "https://mastodon.social/@bevy/116778703158792368",
+          "source": "mastodon"
+        },
+        {
+          "title": "#Bevy 0.19 is out now!It features Next Generation Scenes, Render Bigger Scenes Faster, Contact Shadows, More Feathers Widgets, Text Input, Richer Text, App Settings, Post Processing Effects, Improved ",
+          "url": "https://mastodon.social/@bevy/116778703158792368",
+          "source": "mastodon"
+        }
+      ],
+      "id": "cc3b1be471a7",
+      "slug": "text-input"
+    },
+    {
+      "keyword": "richer text",
+      "count": 8,
+      "score": 82.15393771082498,
+      "proper": true,
+      "niches": [
+        "software"
+      ],
+      "examples": [
+        {
+          "title": "#Bevy 0.19 is out now!It features Next Generation Scenes, Render Bigger Scenes Faster, Contact Shadows, More Feathers Widgets, Text Input, Richer Text, App Settings, Post Processing Effects, Improved ",
+          "url": "https://mastodon.social/@bevy/116778703158792368",
+          "source": "mastodon"
+        },
+        {
+          "title": "#Bevy 0.19 is out now!It features Next Generation Scenes, Render Bigger Scenes Faster, Contact Shadows, More Feathers Widgets, Text Input, Richer Text, App Settings, Post Processing Effects, Improved ",
+          "url": "https://mastodon.social/@bevy/116778703158792368",
+          "source": "mastodon"
+        }
+      ],
+      "id": "d576f1d17563",
+      "slug": "richer-text"
+    },
+    {
+      "keyword": "app settings",
+      "count": 8,
+      "score": 82.15393771082498,
+      "proper": true,
+      "niches": [
+        "software"
+      ],
+      "examples": [
+        {
+          "title": "#Bevy 0.19 is out now!It features Next Generation Scenes, Render Bigger Scenes Faster, Contact Shadows, More Feathers Widgets, Text Input, Richer Text, App Settings, Post Processing Effects, Improved ",
+          "url": "https://mastodon.social/@bevy/116778703158792368",
+          "source": "mastodon"
+        },
+        {
+          "title": "#Bevy 0.19 is out now!It features Next Generation Scenes, Render Bigger Scenes Faster, Contact Shadows, More Feathers Widgets, Text Input, Richer Text, App Settings, Post Processing Effects, Improved ",
+          "url": "https://mastodon.social/@bevy/116778703158792368",
+          "source": "mastodon"
+        }
+      ],
+      "id": "beb470b89ed8",
+      "slug": "app-settings"
     },
     {
       "keyword": "paid options",
@@ -458,72 +558,6 @@
       "slug": "paid-options"
     },
     {
-      "keyword": "financial slides",
-      "count": 11,
-      "score": 74.08483924227778,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "Best AI Tools for Financial Slides in 2026: Secure, Compliance-Ready Deck Makers",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOclY3S09UX0hvbWp5SUxBTjhJNUVxTC02V1EzaVY3RHAxNUZ5b2Jobk00UldHaEx0S1BTMFltdFY3dHZFSjV5X1Bma01Kc2RvckdxSjliTlMzalVVRmJmWU5Pb0FvWDZSQy02QS1QQkFTZUdraDV1R3NKRWRzbVFTXzV6bUoxV3NhSHI4YmxvVlRkQ0RWRy1scW0yUTBIQmxMNnh1bkFHc3Y0SG9ZREljWGVn?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Best AI Tools for Financial Slides in 2026: Secure, Compliance-Ready Deck Makers",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOclY3S09UX0hvbWp5SUxBTjhJNUVxTC02V1EzaVY3RHAxNUZ5b2Jobk00UldHaEx0S1BTMFltdFY3dHZFSjV5X1Bma01Kc2RvckdxSjliTlMzalVVRmJmWU5Pb0FvWDZSQy02QS1QQkFTZUdraDV1R3NKRWRzbVFTXzV6bUoxV3NhSHI4YmxvVlRkQ0RWRy1scW0yUTBIQmxMNnh1bkFHc3Y0SG9ZREljWGVn?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Best AI Tools for Financial Slides in 2026: Secure, Compliance-Ready Deck Makers",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOclY3S09UX0hvbWp5SUxBTjhJNUVxTC02V1EzaVY3RHAxNUZ5b2Jobk00UldHaEx0S1BTMFltdFY3dHZFSjV5X1Bma01Kc2RvckdxSjliTlMzalVVRmJmWU5Pb0FvWDZSQy02QS1QQkFTZUdraDV1R3NKRWRzbVFTXzV6bUoxV3NhSHI4YmxvVlRkQ0RWRy1scW0yUTBIQmxMNnh1bkFHc3Y0SG9ZREljWGVn?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "fe5dbc92c715",
-      "slug": "financial-slides"
-    },
-    {
-      "keyword": "stock",
-      "count": 10,
-      "score": 69.59484898517002,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "Amdocs: A Boring Telecom Software Stock With Hidden AI Upside (NASDAQ:DOX)",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVU5YSzE0RHlBLVlkdTZybUNNbTcyczNHT3FlVV9wUi1tdnVBV0d4bE1xaFJEcjFQcU9Jc1paOHJTVVkwLXFJYy04WmUyRHotcGtPMlMxNFd0ajNiWk8yUV82UlBmNFJPSzA4LXNmT3JWei1KX09jQWVSY1hMN3NTQnlzT2hlWUpCMU8yN0hYZHhLM0ZJQmZoWkRQS0lqNjRkSVVJ?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Amdocs: A Boring Telecom Software Stock With Hidden AI Upside (NASDAQ:DOX)",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVU5YSzE0RHlBLVlkdTZybUNNbTcyczNHT3FlVV9wUi1tdnVBV0d4bE1xaFJEcjFQcU9Jc1paOHJTVVkwLXFJYy04WmUyRHotcGtPMlMxNFd0ajNiWk8yUV82UlBmNFJPSzA4LXNmT3JWei1KX09jQWVSY1hMN3NTQnlzT2hlWUpCMU8yN0hYZHhLM0ZJQmZoWkRQS0lqNjRkSVVJ?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Why is ServiceNow (NOW) the Best Generative AI Software Stock to Buy in June",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSFBWSWR2OWpuaXpmQUswXzljMXpLWjJLLTV5M0RFVUpUSFoxY080TFFMb2ttYm16LWx1UnFPRnhRbUV3cFU1a1dqZmlodzBqQ2d3cjlpN2kwRnViVHlNSXJYNVhlcEJjYWRsQk92cW5KT1diWV9SYjZFYWh1aS1BSnFSUmp6WTR6RkFDcDRvVXk2THYzTkJ4STFDOFdkYWc?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Why is ServiceNow (NOW) the Best Generative AI Software Stock to Buy in June",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSFBWSWR2OWpuaXpmQUswXzljMXpLWjJLLTV5M0RFVUpUSFoxY080TFFMb2ttYm16LWx1UnFPRnhRbUV3cFU1a1dqZmlodzBqQ2d3cjlpN2kwRnViVHlNSXJYNVhlcEJjYWRsQk92cW5KT1diWV9SYjZFYWh1aS1BSnFSUmp6WTR6RkFDcDRvVXk2THYzTkJ4STFDOFdkYWc?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Why is ServiceNow (NOW) the Best Generative AI Software Stock to Buy in June",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSFBWSWR2OWpuaXpmQUswXzljMXpLWjJLLTV5M0RFVUpUSFoxY080TFFMb2ttYm16LWx1UnFPRnhRbUV3cFU1a1dqZmlodzBqQ2d3cjlpN2kwRnViVHlNSXJYNVhlcEJjYWRsQk92cW5KT1diWV9SYjZFYWh1aS1BSnFSUmp6WTR6RkFDcDRvVXk2THYzTkJ4STFDOFdkYWc?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "08c4242b5f58",
-      "slug": "stock"
-    },
-    {
       "keyword": "epomaker qk108",
       "count": 11,
       "score": 68.54976504601564,
@@ -552,9 +586,48 @@
       "slug": "epomaker-qk108"
     },
     {
+      "keyword": "tool",
+      "count": 12,
+      "score": 66.56615191550102,
+      "proper": true,
+      "niches": [
+        "ai",
+        "software"
+      ],
+      "examples": [
+        {
+          "title": "Viggle Review: The Best AI Character Animation & Motion Transfer Tool",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTGc1Qlc1ZnNtRHpkV2lQZnBQUnF0dmtEVTVYYmJTaldQaktEZzFlRFRrV2l0eHJYaEhXRzV1d1pLT1Z2MTFINmdma0Mza1Q1b3A4V2VmUzM1NGhLeTlaZWZnZXJtTTBqZjVKd1RoaHZhTERHNTFwSkh3X3hjLXBTUTIzTlBINXkwT0N5d19SdHJNYW8?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Viggle Review: The Best AI Character Animation & Motion Transfer Tool",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTGc1Qlc1ZnNtRHpkV2lQZnBQUnF0dmtEVTVYYmJTaldQaktEZzFlRFRrV2l0eHJYaEhXRzV1d1pLT1Z2MTFINmdma0Mza1Q1b3A4V2VmUzM1NGhLeTlaZWZnZXJtTTBqZjVKd1RoaHZhTERHNTFwSkh3X3hjLXBTUTIzTlBINXkwT0N5d19SdHJNYW8?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "I built an AI tool that negotiated hotel prices for me. One hotel suspected it was AI, but it got me a better deal.",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPM0dGeXN2LWN1NkNNZTY0Zi1YR2w1WURqekdRY2pBRS1tdWRxSVI5Ml9nVTVhUFdVSVRsT2U1cmFNWFNrWVAtRjdCUW56YTk0M0hmNGtudGdpUzdKOExBSHY3QjhJU19QZDY3TDJuSnMwQnY1dER5dzBXYWRETzJjUXNXU2lNeFdma0lWVnZWeDkwMlhFcnpRUVZkNHNmdDZYakkyVnZKbVNJUQ?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "I built an AI tool that negotiated hotel prices for me. One hotel suspected it was AI, but it got me a better deal.",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPM0dGeXN2LWN1NkNNZTY0Zi1YR2w1WURqekdRY2pBRS1tdWRxSVI5Ml9nVTVhUFdVSVRsT2U1cmFNWFNrWVAtRjdCUW56YTk0M0hmNGtudGdpUzdKOExBSHY3QjhJU19QZDY3TDJuSnMwQnY1dER5dzBXYWRETzJjUXNXU2lNeFdma0lWVnZWeDkwMlhFcnpRUVZkNHNmdDZYakkyVnZKbVNJUQ?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "I Tried the Upgraded Apple Photos 'Clean Up' Tool, and It's Actually Pretty Good Now",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQaV9NR0RHRTBuVVUtMnF2SmtwQ29TZklrWlNRYmwxRmlqdXY4SGQxbkNlQm1NR1U3VlZSVHJNcE1VOFd4a0swcXRyNmJUMlkwcnRPcUs4UmJhMkVfLVR3allVeWh5eFFZbDdyRjlOcm04X056T2JHTHpVMkhTVFZMNFBR?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "7c9bbe5ec9b3",
+      "slug": "tool"
+    },
+    {
       "keyword": "bot polymarket",
       "count": 12,
-      "score": 65.12403873586385,
+      "score": 65.24369735233073,
       "proper": false,
       "niches": [
         "ai"
@@ -611,115 +684,13 @@
       ],
       "id": "8496ed4dd8e4",
       "slug": "nxtpaper-addresses"
-    },
-    {
-      "keyword": "quickbooks desktop",
-      "count": 8,
-      "score": 63.70029164101084,
-      "proper": true,
-      "niches": [
-        "gear"
-      ],
-      "examples": [
-        {
-          "title": "ManacleBat38/QuickBooks-Desktop-2026 — QuickBooks Desktop workflow — company files, reconciliations and backup schedules on Windows.",
-          "url": "https://github.com/ManacleBat38/QuickBooks-Desktop-2026",
-          "source": "github"
-        },
-        {
-          "title": "ManacleBat38/QuickBooks-Desktop-2026 — QuickBooks Desktop workflow — company files, reconciliations and backup schedules on Windows.",
-          "url": "https://github.com/ManacleBat38/QuickBooks-Desktop-2026",
-          "source": "github"
-        }
-      ],
-      "id": "8910a091c086",
-      "slug": "quickbooks-desktop"
-    },
-    {
-      "keyword": "software stock",
-      "count": 12,
-      "score": 62.550209099018225,
-      "proper": false,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "Amdocs: A Boring Telecom Software Stock With Hidden AI Upside (NASDAQ:DOX)",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVU5YSzE0RHlBLVlkdTZybUNNbTcyczNHT3FlVV9wUi1tdnVBV0d4bE1xaFJEcjFQcU9Jc1paOHJTVVkwLXFJYy04WmUyRHotcGtPMlMxNFd0ajNiWk8yUV82UlBmNFJPSzA4LXNmT3JWei1KX09jQWVSY1hMN3NTQnlzT2hlWUpCMU8yN0hYZHhLM0ZJQmZoWkRQS0lqNjRkSVVJ?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Amdocs: A Boring Telecom Software Stock With Hidden AI Upside (NASDAQ:DOX)",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVU5YSzE0RHlBLVlkdTZybUNNbTcyczNHT3FlVV9wUi1tdnVBV0d4bE1xaFJEcjFQcU9Jc1paOHJTVVkwLXFJYy04WmUyRHotcGtPMlMxNFd0ajNiWk8yUV82UlBmNFJPSzA4LXNmT3JWei1KX09jQWVSY1hMN3NTQnlzT2hlWUpCMU8yN0hYZHhLM0ZJQmZoWkRQS0lqNjRkSVVJ?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Why is ServiceNow (NOW) the Best Generative AI Software Stock to Buy in June",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSFBWSWR2OWpuaXpmQUswXzljMXpLWjJLLTV5M0RFVUpUSFoxY080TFFMb2ttYm16LWx1UnFPRnhRbUV3cFU1a1dqZmlodzBqQ2d3cjlpN2kwRnViVHlNSXJYNVhlcEJjYWRsQk92cW5KT1diWV9SYjZFYWh1aS1BSnFSUmp6WTR6RkFDcDRvVXk2THYzTkJ4STFDOFdkYWc?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Why is ServiceNow (NOW) the Best Generative AI Software Stock to Buy in June",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSFBWSWR2OWpuaXpmQUswXzljMXpLWjJLLTV5M0RFVUpUSFoxY080TFFMb2ttYm16LWx1UnFPRnhRbUV3cFU1a1dqZmlodzBqQ2d3cjlpN2kwRnViVHlNSXJYNVhlcEJjYWRsQk92cW5KT1diWV9SYjZFYWh1aS1BSnFSUmp6WTR6RkFDcDRvVXk2THYzTkJ4STFDOFdkYWc?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "7acc236be02c",
-      "slug": "software-stock"
-    },
-    {
-      "keyword": "supports btc",
-      "count": 8,
-      "score": 61.59796183274648,
-      "proper": true,
-      "niches": [
-        "software"
-      ],
-      "examples": [
-        {
-          "title": "kelleylenc/Seed-Generator — Professional BIP-39 seed phrase generator and HD wallet toolkit with 12–24-word mnemonics, checksum validation, and BIP-44/49/84 derivation. Supports BTC, ETH, SOL, LTC, DO",
-          "url": "https://github.com/kelleylenc/Seed-Generator",
-          "source": "github"
-        },
-        {
-          "title": "kelleylenc/Seed-Generator — Professional BIP-39 seed phrase generator and HD wallet toolkit with 12–24-word mnemonics, checksum validation, and BIP-44/49/84 derivation. Supports BTC, ETH, SOL, LTC, DO",
-          "url": "https://github.com/kelleylenc/Seed-Generator",
-          "source": "github"
-        }
-      ],
-      "id": "e7259b0dc1fe",
-      "slug": "supports-btc"
-    },
-    {
-      "keyword": "durable mcp",
-      "count": 8,
-      "score": 61.39021361898838,
-      "proper": true,
-      "niches": [
-        "gear"
-      ],
-      "examples": [
-        {
-          "title": "aresyn/codex-control-plane-mcp — Durable MCP control plane for long-running Codex Desktop tasks",
-          "url": "https://github.com/aresyn/codex-control-plane-mcp",
-          "source": "github"
-        },
-        {
-          "title": "aresyn/codex-control-plane-mcp — Durable MCP control plane for long-running Codex Desktop tasks",
-          "url": "https://github.com/aresyn/codex-control-plane-mcp",
-          "source": "github"
-        }
-      ],
-      "id": "65762143b167",
-      "slug": "durable-mcp"
     }
   ],
   "opportunities": [
     {
       "keyword": "dell pro",
       "count": 17,
-      "score": 171.08411152082957,
+      "score": 136.86728921666366,
       "proper": true,
       "niches": [
         "ai"
@@ -759,45 +730,30 @@
       }
     },
     {
-      "keyword": "fitness gear",
-      "count": 33,
-      "score": 146.04080379368546,
+      "keyword": "boston dynamics",
+      "count": 8,
+      "score": 132.67083186624149,
       "proper": true,
       "niches": [
-        "gear"
+        "ai"
       ],
       "examples": [
         {
-          "title": "Fitness Gear on Sale for Early Prime Day",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9jNDZtZlhYOFMtWnloN2pMenFzSjhqZ0MyN3JMVHE1bVZENE5zT0hoQUpHVEpiSUhJb2Z6ZU85bmk2M3lKT1ctOTlqSlpyUVBZWDBWQkhZdUtiNWVTMDhTVmFGX295N2VWN3RDZHBPSHlaUzUtbzNR?oc=5",
-          "source": "gnews"
+          "title": "Hyundai buys Boston Dynamics",
+          "url": "https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/",
+          "source": "hackernews"
         },
         {
-          "title": "Fitness Gear on Sale for Early Prime Day",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9jNDZtZlhYOFMtWnloN2pMenFzSjhqZ0MyN3JMVHE1bVZENE5zT0hoQUpHVEpiSUhJb2Z6ZU85bmk2M3lKT1ctOTlqSlpyUVBZWDBWQkhZdUtiNWVTMDhTVmFGX295N2VWN3RDZHBPSHlaUzUtbzNR?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Fitness Gear on Sale for Early Prime Day",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9jNDZtZlhYOFMtWnloN2pMenFzSjhqZ0MyN3JMVHE1bVZENE5zT0hoQUpHVEpiSUhJb2Z6ZU85bmk2M3lKT1ctOTlqSlpyUVBZWDBWQkhZdUtiNWVTMDhTVmFGX295N2VWN3RDZHBPSHlaUzUtbzNR?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Attention, Gym Girlies: Amazon Discounted Our Favorite Fitness Gear",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQODBnUTFMTl9KRlhCMVdQU3FwTlFLblFFc1Axa2tDLUl3MlVwMUh1blhlWVBadWNGQ1JnXzRkMHVyaHdhOG5sRFB1U0s3RGRlUDhVRnJ1QUZWTTlvN3FiZ1JVTU1RSHhWS1hsWVczUDB6dldjTktkbXlyN0IxZFU4X1Y0ampZVnZZX004?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Attention, Gym Girlies: Amazon Discounted Our Favorite Fitness Gear",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQODBnUTFMTl9KRlhCMVdQU3FwTlFLblFFc1Axa2tDLUl3MlVwMUh1blhlWVBadWNGQ1JnXzRkMHVyaHdhOG5sRFB1U0s3RGRlUDhVRnJ1QUZWTTlvN3FiZ1JVTU1RSHhWS1hsWVczUDB6dldjTktkbXlyN0IxZFU4X1Y0ampZVnZZX004?oc=5",
-          "source": "gnews"
+          "title": "Hyundai buys Boston Dynamics",
+          "url": "https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/",
+          "source": "hackernews"
         }
       ],
-      "id": "a8b7e45842c3",
-      "slug": "fitness-gear",
+      "id": "5ecc0298b73e",
+      "slug": "boston-dynamics",
       "opportunity": {
-        "type": "affiliate",
-        "recommended": "Write SEO comparison/roundup article with affiliate links."
+        "type": "niche-content",
+        "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
       }
     },
     {
@@ -833,36 +789,9 @@
       }
     },
     {
-      "keyword": "boston dynamics",
-      "count": 8,
-      "score": 108.33946483251628,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "Hyundai buys Boston Dynamics, Atlas humanoid to be used at vehicle plant by 2028",
-          "url": "https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/",
-          "source": "hackernews"
-        },
-        {
-          "title": "Hyundai buys Boston Dynamics, Atlas humanoid to be used at vehicle plant by 2028",
-          "url": "https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/",
-          "source": "hackernews"
-        }
-      ],
-      "id": "5ecc0298b73e",
-      "slug": "boston-dynamics",
-      "opportunity": {
-        "type": "niche-content",
-        "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
-      }
-    },
-    {
       "keyword": "project valhalla",
       "count": 8,
-      "score": 105.05097421643814,
+      "score": 107.87272690680649,
       "proper": true,
       "niches": [
         "ai"
@@ -887,109 +816,111 @@
       }
     },
     {
-      "keyword": "paid options",
-      "count": 11,
-      "score": 81.74878812940996,
+      "keyword": "unitedhealth groupposted",
+      "count": 8,
+      "score": 99.05256022998675,
       "proper": true,
       "niches": [
         "ai"
       ],
       "examples": [
         {
-          "title": "Best AI Creativity Tools: Free & Paid Options",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNX1RVa3hDQlhVYW9XX0JHZ0tCczZiZkk1NXAtYWE1eGpsdHp5dldXWDJpdGJZZmE4WmVlRmJCcnA1emFPVDZTaGFyX05xQ25xM1FOd09UQTNQWW15ZTRlOUxYSzNhSjNTY3NDeXhZMlY0WUo4SnJPTFFRUnVJUEdhbWl2SjVFVHc?oc=5",
-          "source": "gnews"
+          "title": "UnitedHealth Groupposted $6.2B in profits last quarter whilesimultaneously denying 32% of all priorauthorization claims.They made $6.2 billion. They denied oneout of every three medical requests.You p",
+          "url": "https://mastodon.social/@joewo/116778533677854859",
+          "source": "mastodon"
         },
         {
-          "title": "Best AI Creativity Tools: Free & Paid Options",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNX1RVa3hDQlhVYW9XX0JHZ0tCczZiZkk1NXAtYWE1eGpsdHp5dldXWDJpdGJZZmE4WmVlRmJCcnA1emFPVDZTaGFyX05xQ25xM1FOd09UQTNQWW15ZTRlOUxYSzNhSjNTY3NDeXhZMlY0WUo4SnJPTFFRUnVJUEdhbWl2SjVFVHc?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Best AI Creativity Tools: Free & Paid Options",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNX1RVa3hDQlhVYW9XX0JHZ0tCczZiZkk1NXAtYWE1eGpsdHp5dldXWDJpdGJZZmE4WmVlRmJCcnA1emFPVDZTaGFyX05xQ25xM1FOd09UQTNQWW15ZTRlOUxYSzNhSjNTY3NDeXhZMlY0WUo4SnJPTFFRUnVJUEdhbWl2SjVFVHc?oc=5",
-          "source": "gnews"
+          "title": "UnitedHealth Groupposted $6.2B in profits last quarter whilesimultaneously denying 32% of all priorauthorization claims.They made $6.2 billion. They denied oneout of every three medical requests.You p",
+          "url": "https://mastodon.social/@joewo/116778533677854859",
+          "source": "mastodon"
         }
       ],
-      "id": "1bc98141672b",
-      "slug": "paid-options",
-      "opportunity": {
-        "type": "tooling",
-        "recommended": "Build / list AI tools; monetize via affiliate links + lead magnet."
-      }
-    },
-    {
-      "keyword": "financial slides",
-      "count": 11,
-      "score": 74.08483924227778,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "Best AI Tools for Financial Slides in 2026: Secure, Compliance-Ready Deck Makers",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOclY3S09UX0hvbWp5SUxBTjhJNUVxTC02V1EzaVY3RHAxNUZ5b2Jobk00UldHaEx0S1BTMFltdFY3dHZFSjV5X1Bma01Kc2RvckdxSjliTlMzalVVRmJmWU5Pb0FvWDZSQy02QS1QQkFTZUdraDV1R3NKRWRzbVFTXzV6bUoxV3NhSHI4YmxvVlRkQ0RWRy1scW0yUTBIQmxMNnh1bkFHc3Y0SG9ZREljWGVn?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Best AI Tools for Financial Slides in 2026: Secure, Compliance-Ready Deck Makers",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOclY3S09UX0hvbWp5SUxBTjhJNUVxTC02V1EzaVY3RHAxNUZ5b2Jobk00UldHaEx0S1BTMFltdFY3dHZFSjV5X1Bma01Kc2RvckdxSjliTlMzalVVRmJmWU5Pb0FvWDZSQy02QS1QQkFTZUdraDV1R3NKRWRzbVFTXzV6bUoxV3NhSHI4YmxvVlRkQ0RWRy1scW0yUTBIQmxMNnh1bkFHc3Y0SG9ZREljWGVn?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Best AI Tools for Financial Slides in 2026: Secure, Compliance-Ready Deck Makers",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOclY3S09UX0hvbWp5SUxBTjhJNUVxTC02V1EzaVY3RHAxNUZ5b2Jobk00UldHaEx0S1BTMFltdFY3dHZFSjV5X1Bma01Kc2RvckdxSjliTlMzalVVRmJmWU5Pb0FvWDZSQy02QS1QQkFTZUdraDV1R3NKRWRzbVFTXzV6bUoxV3NhSHI4YmxvVlRkQ0RWRy1scW0yUTBIQmxMNnh1bkFHc3Y0SG9ZREljWGVn?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "fe5dbc92c715",
-      "slug": "financial-slides",
+      "id": "852776179414",
+      "slug": "unitedhealth-groupposted",
       "opportunity": {
         "type": "niche-content",
         "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
       }
     },
     {
-      "keyword": "stock",
-      "count": 10,
-      "score": 69.59484898517002,
+      "keyword": "sam altman",
+      "count": 8,
+      "score": 89.48788889660892,
       "proper": true,
       "niches": [
         "ai"
       ],
       "examples": [
         {
-          "title": "Amdocs: A Boring Telecom Software Stock With Hidden AI Upside (NASDAQ:DOX)",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVU5YSzE0RHlBLVlkdTZybUNNbTcyczNHT3FlVV9wUi1tdnVBV0d4bE1xaFJEcjFQcU9Jc1paOHJTVVkwLXFJYy04WmUyRHotcGtPMlMxNFd0ajNiWk8yUV82UlBmNFJPSzA4LXNmT3JWei1KX09jQWVSY1hMN3NTQnlzT2hlWUpCMU8yN0hYZHhLM0ZJQmZoWkRQS0lqNjRkSVVJ?oc=5",
-          "source": "gnews"
+          "title": "Amazon drops Sam Altman movie after announcing OpenAI partnership",
+          "url": "https://www.the-independent.com/arts-entertainment/films/news/sam-altman-biopic-amazon-openai-deal-b2999321.html",
+          "source": "hackernews"
         },
         {
-          "title": "Amdocs: A Boring Telecom Software Stock With Hidden AI Upside (NASDAQ:DOX)",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVU5YSzE0RHlBLVlkdTZybUNNbTcyczNHT3FlVV9wUi1tdnVBV0d4bE1xaFJEcjFQcU9Jc1paOHJTVVkwLXFJYy04WmUyRHotcGtPMlMxNFd0ajNiWk8yUV82UlBmNFJPSzA4LXNmT3JWei1KX09jQWVSY1hMN3NTQnlzT2hlWUpCMU8yN0hYZHhLM0ZJQmZoWkRQS0lqNjRkSVVJ?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Why is ServiceNow (NOW) the Best Generative AI Software Stock to Buy in June",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSFBWSWR2OWpuaXpmQUswXzljMXpLWjJLLTV5M0RFVUpUSFoxY080TFFMb2ttYm16LWx1UnFPRnhRbUV3cFU1a1dqZmlodzBqQ2d3cjlpN2kwRnViVHlNSXJYNVhlcEJjYWRsQk92cW5KT1diWV9SYjZFYWh1aS1BSnFSUmp6WTR6RkFDcDRvVXk2THYzTkJ4STFDOFdkYWc?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Why is ServiceNow (NOW) the Best Generative AI Software Stock to Buy in June",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSFBWSWR2OWpuaXpmQUswXzljMXpLWjJLLTV5M0RFVUpUSFoxY080TFFMb2ttYm16LWx1UnFPRnhRbUV3cFU1a1dqZmlodzBqQ2d3cjlpN2kwRnViVHlNSXJYNVhlcEJjYWRsQk92cW5KT1diWV9SYjZFYWh1aS1BSnFSUmp6WTR6RkFDcDRvVXk2THYzTkJ4STFDOFdkYWc?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Why is ServiceNow (NOW) the Best Generative AI Software Stock to Buy in June",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSFBWSWR2OWpuaXpmQUswXzljMXpLWjJLLTV5M0RFVUpUSFoxY080TFFMb2ttYm16LWx1UnFPRnhRbUV3cFU1a1dqZmlodzBqQ2d3cjlpN2kwRnViVHlNSXJYNVhlcEJjYWRsQk92cW5KT1diWV9SYjZFYWh1aS1BSnFSUmp6WTR6RkFDcDRvVXk2THYzTkJ4STFDOFdkYWc?oc=5",
-          "source": "gnews"
+          "title": "Amazon drops Sam Altman movie after announcing OpenAI partnership",
+          "url": "https://www.the-independent.com/arts-entertainment/films/news/sam-altman-biopic-amazon-openai-deal-b2999321.html",
+          "source": "hackernews"
         }
       ],
-      "id": "08c4242b5f58",
-      "slug": "stock",
+      "id": "46b09b212b77",
+      "slug": "sam-altman",
       "opportunity": {
         "type": "niche-content",
         "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
+      }
+    },
+    {
+      "keyword": "contact shadows",
+      "count": 8,
+      "score": 82.15393771082498,
+      "proper": true,
+      "niches": [
+        "software"
+      ],
+      "examples": [
+        {
+          "title": "#Bevy 0.19 is out now!It features Next Generation Scenes, Render Bigger Scenes Faster, Contact Shadows, More Feathers Widgets, Text Input, Richer Text, App Settings, Post Processing Effects, Improved ",
+          "url": "https://mastodon.social/@bevy/116778703158792368",
+          "source": "mastodon"
+        },
+        {
+          "title": "#Bevy 0.19 is out now!It features Next Generation Scenes, Render Bigger Scenes Faster, Contact Shadows, More Feathers Widgets, Text Input, Richer Text, App Settings, Post Processing Effects, Improved ",
+          "url": "https://mastodon.social/@bevy/116778703158792368",
+          "source": "mastodon"
+        }
+      ],
+      "id": "c718fa02ae15",
+      "slug": "contact-shadows",
+      "opportunity": {
+        "type": "niche-content",
+        "recommended": "Publish niche guide for \"software\"; bundle into digital product later."
+      }
+    },
+    {
+      "keyword": "text input",
+      "count": 8,
+      "score": 82.15393771082498,
+      "proper": true,
+      "niches": [
+        "software"
+      ],
+      "examples": [
+        {
+          "title": "#Bevy 0.19 is out now!It features Next Generation Scenes, Render Bigger Scenes Faster, Contact Shadows, More Feathers Widgets, Text Input, Richer Text, App Settings, Post Processing Effects, Improved ",
+          "url": "https://mastodon.social/@bevy/116778703158792368",
+          "source": "mastodon"
+        },
+        {
+          "title": "#Bevy 0.19 is out now!It features Next Generation Scenes, Render Bigger Scenes Faster, Contact Shadows, More Feathers Widgets, Text Input, Richer Text, App Settings, Post Processing Effects, Improved ",
+          "url": "https://mastodon.social/@bevy/116778703158792368",
+          "source": "mastodon"
+        }
+      ],
+      "id": "cc3b1be471a7",
+      "slug": "text-input",
+      "opportunity": {
+        "type": "niche-content",
+        "recommended": "Publish niche guide for \"software\"; bundle into digital product later."
       }
     }
   ]

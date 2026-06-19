@@ -282,8 +282,8 @@
     },
     "income": {
       "firstSeen": "2026-05-29T22:24:13.712Z",
-      "lastSeen": "2026-06-11T22:45:44.616Z",
-      "count": 3,
+      "lastSeen": "2026-06-19T21:56:43.681Z",
+      "count": 4,
       "wins": 0,
       "losses": 0,
       "niche": "finance"
@@ -346,8 +346,8 @@
     },
     "passive": {
       "firstSeen": "2026-05-30T16:52:40.063Z",
-      "lastSeen": "2026-06-14T15:06:51.487Z",
-      "count": 4,
+      "lastSeen": "2026-06-19T21:58:29.150Z",
+      "count": 5,
       "wins": 2,
       "losses": 0,
       "niche": "finance"
@@ -554,8 +554,8 @@
     },
     "sam-altman": {
       "firstSeen": "2026-06-01T20:10:24.394Z",
-      "lastSeen": "2026-06-01T22:54:36.170Z",
-      "count": 2,
+      "lastSeen": "2026-06-19T21:56:49.295Z",
+      "count": 3,
       "wins": 1,
       "losses": 0,
       "niche": "ai"
@@ -997,22 +997,6 @@
       "lastSeen": "2026-06-05T22:07:45.545Z",
       "count": 2,
       "wins": 1,
-      "losses": 0,
-      "niche": "ai"
-    },
-    "kuratierte-agent-skills": {
-      "firstSeen": "2026-06-05T17:47:46.640Z",
-      "lastSeen": "2026-06-05T17:47:46.640Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "ai"
-    },
-    "general-instinct": {
-      "firstSeen": "2026-06-05T17:47:56.465Z",
-      "lastSeen": "2026-06-05T17:47:56.465Z",
-      "count": 1,
-      "wins": 0,
       "losses": 0,
       "niche": "ai"
     },
@@ -1778,8 +1762,8 @@
     },
     "fitness-equipment": {
       "firstSeen": "2026-06-09T22:17:07.038Z",
-      "lastSeen": "2026-06-10T05:14:23.160Z",
-      "count": 2,
+      "lastSeen": "2026-06-19T21:58:14.236Z",
+      "count": 3,
       "wins": 1,
       "losses": 0,
       "niche": "ai"
@@ -3458,42 +3442,82 @@
     },
     "viggle-review": {
       "firstSeen": "2026-06-19T17:47:50.171Z",
-      "lastSeen": "2026-06-19T17:47:50.171Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-19T21:56:38.722Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
     "boston-dynamics": {
       "firstSeen": "2026-06-19T17:47:54.379Z",
-      "lastSeen": "2026-06-19T17:47:54.379Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-19T21:56:38.723Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
     "motion-transfer-tool": {
       "firstSeen": "2026-06-19T17:47:57.421Z",
-      "lastSeen": "2026-06-19T17:47:57.421Z",
+      "lastSeen": "2026-06-19T21:56:38.724Z",
+      "count": 2,
+      "wins": 1,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "unitedhealth-groupposted": {
+      "firstSeen": "2026-06-19T21:56:46.583Z",
+      "lastSeen": "2026-06-19T21:56:46.583Z",
       "count": 1,
       "wins": 0,
       "losses": 0,
       "niche": "ai"
+    },
+    "contact-shadows": {
+      "firstSeen": "2026-06-19T21:56:58.006Z",
+      "lastSeen": "2026-06-19T21:56:58.006Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "software"
+    },
+    "text-input": {
+      "firstSeen": "2026-06-19T21:57:08.082Z",
+      "lastSeen": "2026-06-19T21:57:08.082Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "software"
+    },
+    "richer-text": {
+      "firstSeen": "2026-06-19T21:57:30.426Z",
+      "lastSeen": "2026-06-19T21:57:30.426Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "software"
+    },
+    "app-settings": {
+      "firstSeen": "2026-06-19T21:57:45.282Z",
+      "lastSeen": "2026-06-19T21:57:45.282Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "software"
     }
   },
   "niches": {
     "ai": {
-      "count": 642,
-      "wins": 184,
+      "count": 648,
+      "wins": 187,
       "losses": 24
     },
     "finance": {
-      "count": 53,
+      "count": 55,
       "wins": 9,
       "losses": 0
     },
     "software": {
-      "count": 149,
+      "count": 153,
       "wins": 40,
       "losses": 8
     },
