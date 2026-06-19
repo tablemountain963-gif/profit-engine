@@ -1,0 +1,26 @@
+{
+  "topic": "Open",
+  "provider": "groq",
+  "generatedAt": "2026-06-19T15:59:34.730Z",
+  "pack": {
+    "twitter_thread": [
+      "€20m invested: the EU's open language project aims to create a single model for all 24 official languages by 2025",
+      "EUROPA consortium is developing the model, using open source tech like Hugging Face's Transformers. Can they handle 500M+ parameters?",
+      "Only 5% of current language models support low-resource languages like Maltese or Irish. Will the EU's model crack this problem?",
+      "Named entity recognition errors are 30% higher in non-English languages. How will the EU's model improve on this?",
+      "Open source tech means security risks like data leaks or model poisoning. How will the EU mitigate these threats?",
+      "The EU's model must adapt to 10,000+ new words added to languages like English every year. Can it keep pace?",
+      "Have you worked on a multilingual model? Can they really deliver 90%+ accuracy across all languages? #ai #nlp"
+    ],
+    "linkedin": "The European Union is investing €20m in an open language project to develop a highly advanced language model spanning all 24 official languages by 2025. The project, led by the EUROPA consortium, relies on open source technology like Hugging Face's Transformers and faces challenges like handling low-resource languages and security concerns. To succeed, the model must also adapt to rapid language evolution, with 10,000+ new words added to languages like English every year. What are your thoughts on the potential of multilingual models to deliver on their promise?",
+    "tiktok_hooks": [
+      "Imagine one AI model speaking all 24 EU languages: is it possible?",
+      "The EU is betting €20m on open source AI: will it pay off?",
+      "Can a single language model handle 500M+ parameters and 24 languages?"
+    ],
+    "reddit_headline": "The EU's €20m open language project: can a single model really speak 24 languages?"
+  },
+  "niche": "ai",
+  "slug": "open-2026-06-19",
+  "date": "2026-06-19"
+}

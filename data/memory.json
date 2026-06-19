@@ -976,46 +976,6 @@
       "losses": 0,
       "niche": "gear"
     },
-    "content-marketers": {
-      "firstSeen": "2026-06-05T15:52:13.164Z",
-      "lastSeen": "2026-06-05T15:52:13.164Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "ai"
-    },
-    "tested-ranked": {
-      "firstSeen": "2026-06-05T15:52:27.576Z",
-      "lastSeen": "2026-06-05T15:52:27.576Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "ai"
-    },
-    "schweizer-entwicklungsteams": {
-      "firstSeen": "2026-06-05T15:52:38.971Z",
-      "lastSeen": "2026-06-05T15:52:38.971Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "ai"
-    },
-    "google-drive": {
-      "firstSeen": "2026-06-05T15:53:33.309Z",
-      "lastSeen": "2026-06-05T15:53:33.309Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "ai"
-    },
-    "programmers": {
-      "firstSeen": "2026-06-05T15:53:41.626Z",
-      "lastSeen": "2026-06-05T15:53:41.626Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "ai"
-    },
     "advancing-cybersecurity": {
       "firstSeen": "2026-06-05T17:47:29.872Z",
       "lastSeen": "2026-06-05T22:07:45.544Z",
@@ -2378,8 +2338,8 @@
     },
     "open": {
       "firstSeen": "2026-06-13T05:18:35.169Z",
-      "lastSeen": "2026-06-13T14:58:54.452Z",
-      "count": 2,
+      "lastSeen": "2026-06-19T15:59:34.732Z",
+      "count": 3,
       "wins": 1,
       "losses": 0,
       "niche": "ai"
@@ -3242,9 +3202,9 @@
     },
     "major-trends": {
       "firstSeen": "2026-06-18T05:52:55.996Z",
-      "lastSeen": "2026-06-18T05:52:55.996Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-19T15:58:33.117Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -3402,25 +3362,25 @@
     },
     "malwarebytes-premium": {
       "firstSeen": "2026-06-19T06:14:04.332Z",
-      "lastSeen": "2026-06-19T06:14:04.332Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-19T15:58:33.118Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
     "datasette-apps": {
       "firstSeen": "2026-06-19T06:14:07.239Z",
-      "lastSeen": "2026-06-19T06:14:07.239Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-19T15:58:33.118Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "software"
     },
     "quickbooks-desktop": {
       "firstSeen": "2026-06-19T06:14:10.459Z",
-      "lastSeen": "2026-06-19T06:14:10.459Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-19T15:58:33.119Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "gear"
     },
@@ -3439,12 +3399,68 @@
       "wins": 0,
       "losses": 0,
       "niche": "ai"
+    },
+    "qualcomm-qcs6490": {
+      "firstSeen": "2026-06-19T15:58:38.101Z",
+      "lastSeen": "2026-06-19T15:58:38.101Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "project-valhalla": {
+      "firstSeen": "2026-06-19T15:58:43.554Z",
+      "lastSeen": "2026-06-19T15:58:43.554Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "ai-coding-assistants": {
+      "firstSeen": "2026-06-19T15:58:47.589Z",
+      "lastSeen": "2026-06-19T15:58:47.589Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "epomaker-qk108": {
+      "firstSeen": "2026-06-19T15:59:01.087Z",
+      "lastSeen": "2026-06-19T15:59:01.087Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "gear"
+    },
+    "review": {
+      "firstSeen": "2026-06-19T15:59:11.776Z",
+      "lastSeen": "2026-06-19T15:59:11.776Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "gear"
+    },
+    "dell-pro": {
+      "firstSeen": "2026-06-19T15:59:21.426Z",
+      "lastSeen": "2026-06-19T15:59:21.426Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "software-stock": {
+      "firstSeen": "2026-06-19T15:59:41.731Z",
+      "lastSeen": "2026-06-19T15:59:41.731Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
     }
   },
   "niches": {
     "ai": {
-      "count": 626,
-      "wins": 179,
+      "count": 634,
+      "wins": 181,
       "losses": 23
     },
     "finance": {
@@ -3453,13 +3469,13 @@
       "losses": 0
     },
     "software": {
-      "count": 148,
-      "wins": 39,
+      "count": 149,
+      "wins": 40,
       "losses": 8
     },
     "gear": {
-      "count": 55,
-      "wins": 17,
+      "count": 58,
+      "wins": 18,
       "losses": 0
     },
     "health": {

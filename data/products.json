@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "slug": "mini-ebook-review-2026-06-19",
+      "title": "Review: A 30-Minute Field Guide",
+      "blurb": "Read it in 30 minutes. Apply it forever. Field guide to Review.",
+      "type": "mini-ebook",
+      "topic": "Review",
+      "niche": "gear",
+      "price": 14,
+      "generatedAt": "2026-06-19T15:59:01.088Z",
+      "files": [
+        "ebook.md",
+        "README.md",
+        "LICENSE.txt"
+      ]
+    },
+    {
+      "slug": "mini-ebook-epomaker-qk108-2026-06-19",
+      "title": "Epomaker Qk108: A 30-Minute Field Guide",
+      "blurb": "Read it in 30 minutes. Apply it forever. Field guide to Epomaker Qk108.",
+      "type": "mini-ebook",
+      "topic": "Epomaker Qk108",
+      "niche": "gear",
+      "price": 14,
+      "generatedAt": "2026-06-19T15:58:48.133Z",
+      "files": [
+        "ebook.md",
+        "README.md",
+        "LICENSE.txt"
+      ]
+    },
+    {
       "slug": "prompt-pack-acquire-cyberhawk-2026-06-18",
       "title": "Acquire Cyberhawk Prompt Pack — 50 Battle-Tested Prompts",
       "blurb": "50 proven prompts for Acquire Cyberhawk. Copy/paste ready. Tested across Claude, GPT, Gemini.",
