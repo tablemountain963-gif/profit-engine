@@ -841,5 +841,19 @@
     "price": 19,
     "productId": "prod_UjkfpW8sc22PXQ",
     "cover": "/assets/pack-cover.png"
+  },
+  "prompt-pack-apple-vision-pro-2026-06-20": {
+    "url": "https://buy.stripe.com/8x2eVcdpu4Lk53t980fjG1W",
+    "platform": "stripe",
+    "price": 19,
+    "productId": "prod_Uk0wYm5pxFFYtI",
+    "cover": "/assets/pack-cover.png"
+  },
+  "prompt-pack-photography-2026-06-20": {
+    "url": "https://buy.stripe.com/cNicN4dpu4Lk0Nd1FyfjG1X",
+    "platform": "stripe",
+    "price": 19,
+    "productId": "prod_Uk0wULtwek6SCx",
+    "cover": "/assets/pack-cover.png"
   }
 }

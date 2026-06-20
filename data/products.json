@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "slug": "prompt-pack-apple-vision-pro-2026-06-20",
+      "title": "Apple Vision Pro Prompt Pack — 50 Battle-Tested Prompts",
+      "blurb": "50 proven prompts for Apple Vision Pro. Copy/paste ready. Tested across Claude, GPT, Gemini.",
+      "type": "prompt-pack",
+      "topic": "Apple Vision Pro",
+      "niche": "software",
+      "price": 19,
+      "generatedAt": "2026-06-20T21:58:07.211Z",
+      "files": [
+        "prompts.md",
+        "README.md",
+        "LICENSE.txt"
+      ]
+    },
+    {
+      "slug": "prompt-pack-photography-2026-06-20",
+      "title": "Photography Prompt Pack — 50 Battle-Tested Prompts",
+      "blurb": "50 proven prompts for Photography. Copy/paste ready. Tested across Claude, GPT, Gemini.",
+      "type": "prompt-pack",
+      "topic": "Photography",
+      "niche": "software",
+      "price": 19,
+      "generatedAt": "2026-06-20T21:58:00.496Z",
+      "files": [
+        "prompts.md",
+        "README.md",
+        "LICENSE.txt"
+      ]
+    },
+    {
       "slug": "prompt-pack-beyond-nvidia-2026-06-20",
       "title": "Beyond Nvidia Prompt Pack — 50 Battle-Tested Prompts",
       "blurb": "50 proven prompts for Beyond Nvidia. Copy/paste ready. Tested across Claude, GPT, Gemini.",
