@@ -282,9 +282,9 @@
     },
     "income": {
       "firstSeen": "2026-05-29T22:24:13.712Z",
-      "lastSeen": "2026-06-19T21:56:43.681Z",
-      "count": 4,
-      "wins": 0,
+      "lastSeen": "2026-06-20T05:09:39.395Z",
+      "count": 5,
+      "wins": 1,
       "losses": 0,
       "niche": "finance"
     },
@@ -479,14 +479,6 @@
       "wins": 1,
       "losses": 0,
       "niche": "ai"
-    },
-    "alprs-mapped": {
-      "firstSeen": "2026-05-31T21:45:18.666Z",
-      "lastSeen": "2026-06-05T22:07:45.542Z",
-      "count": 2,
-      "wins": 0,
-      "losses": 1,
-      "niche": "software"
     },
     "2026-_blank": {
       "firstSeen": "2026-05-31T21:45:59.853Z",
@@ -1024,30 +1016,6 @@
       "losses": 0,
       "niche": "ai"
     },
-    "hacker-news": {
-      "firstSeen": "2026-06-05T22:08:05.005Z",
-      "lastSeen": "2026-06-05T22:08:05.005Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "ai"
-    },
-    "project-glasswing": {
-      "firstSeen": "2026-06-05T22:08:54.765Z",
-      "lastSeen": "2026-06-05T22:08:54.765Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "ai"
-    },
-    "namecheap": {
-      "firstSeen": "2026-06-05T22:09:08.103Z",
-      "lastSeen": "2026-06-05T22:09:08.103Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "ai"
-    },
     "tank-man": {
       "firstSeen": "2026-06-06T04:51:49.101Z",
       "lastSeen": "2026-06-11T05:26:01.736Z",
@@ -1071,22 +1039,6 @@
       "wins": 1,
       "losses": 0,
       "niche": "finance"
-    },
-    "power-stations": {
-      "firstSeen": "2026-06-06T04:52:07.263Z",
-      "lastSeen": "2026-06-06T04:52:07.263Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "gear"
-    },
-    "gadgets-2026": {
-      "firstSeen": "2026-06-06T04:52:39.475Z",
-      "lastSeen": "2026-06-06T04:52:39.475Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "gear"
     },
     "van-gogh": {
       "firstSeen": "2026-06-06T14:28:30.462Z",
@@ -2642,10 +2594,10 @@
     },
     "gerade-liberale": {
       "firstSeen": "2026-06-14T22:01:19.799Z",
-      "lastSeen": "2026-06-14T22:01:19.799Z",
-      "count": 1,
+      "lastSeen": "2026-06-20T05:09:39.394Z",
+      "count": 2,
       "wins": 0,
-      "losses": 0,
+      "losses": 1,
       "niche": "ai"
     },
     "customer-support-reply-templates": {
@@ -3466,9 +3418,9 @@
     },
     "unitedhealth-groupposted": {
       "firstSeen": "2026-06-19T21:56:46.583Z",
-      "lastSeen": "2026-06-19T21:56:46.583Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-20T05:09:39.396Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -3503,21 +3455,53 @@
       "wins": 0,
       "losses": 0,
       "niche": "software"
+    },
+    "windows-powershell": {
+      "firstSeen": "2026-06-20T05:09:44.340Z",
+      "lastSeen": "2026-06-20T05:09:44.340Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "software"
+    },
+    "verona-library": {
+      "firstSeen": "2026-06-20T05:09:47.009Z",
+      "lastSeen": "2026-06-20T05:09:47.009Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "software"
+    },
+    "meadowridge-library": {
+      "firstSeen": "2026-06-20T05:09:49.339Z",
+      "lastSeen": "2026-06-20T05:09:49.339Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "software"
+    },
+    "beyond-nvidia": {
+      "firstSeen": "2026-06-20T05:09:57.105Z",
+      "lastSeen": "2026-06-20T05:09:57.105Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
     }
   },
   "niches": {
     "ai": {
-      "count": 648,
-      "wins": 187,
-      "losses": 24
+      "count": 651,
+      "wins": 188,
+      "losses": 25
     },
     "finance": {
-      "count": 55,
-      "wins": 9,
+      "count": 56,
+      "wins": 10,
       "losses": 0
     },
     "software": {
-      "count": 153,
+      "count": 156,
       "wins": 40,
       "losses": 8
     },

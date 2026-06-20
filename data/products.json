@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "slug": "prompt-pack-beyond-nvidia-2026-06-20",
+      "title": "Beyond Nvidia Prompt Pack — 50 Battle-Tested Prompts",
+      "blurb": "50 proven prompts for Beyond Nvidia. Copy/paste ready. Tested across Claude, GPT, Gemini.",
+      "type": "prompt-pack",
+      "topic": "Beyond Nvidia",
+      "niche": "ai",
+      "price": 19,
+      "generatedAt": "2026-06-20T05:09:49.777Z",
+      "files": [
+        "prompts.md",
+        "README.md",
+        "LICENSE.txt"
+      ]
+    },
+    {
       "slug": "prompt-pack-richer-text-2026-06-19",
       "title": "Richer Text Prompt Pack — 50 Battle-Tested Prompts",
       "blurb": "50 proven prompts for Richer Text. Copy/paste ready. Tested across Claude, GPT, Gemini.",
