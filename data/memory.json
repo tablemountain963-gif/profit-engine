@@ -1088,38 +1088,6 @@
       "losses": 1,
       "niche": "ai"
     },
-    "name-meaning": {
-      "firstSeen": "2026-06-06T16:59:51.564Z",
-      "lastSeen": "2026-06-06T16:59:51.564Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "ai"
-    },
-    "barbell-approach": {
-      "firstSeen": "2026-06-06T17:00:19.079Z",
-      "lastSeen": "2026-06-06T17:00:19.079Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "finance"
-    },
-    "approach-passive": {
-      "firstSeen": "2026-06-06T17:00:36.093Z",
-      "lastSeen": "2026-06-06T17:00:36.093Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "finance"
-    },
-    "income-inflation": {
-      "firstSeen": "2026-06-06T17:00:51.613Z",
-      "lastSeen": "2026-06-06T17:00:51.613Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "finance"
-    },
     "proton": {
       "firstSeen": "2026-06-06T21:53:02.526Z",
       "lastSeen": "2026-06-11T22:45:12.811Z",
@@ -1762,8 +1730,8 @@
     },
     "keyboard": {
       "firstSeen": "2026-06-10T16:35:46.781Z",
-      "lastSeen": "2026-06-10T16:35:46.781Z",
-      "count": 1,
+      "lastSeen": "2026-06-20T17:16:06.565Z",
+      "count": 2,
       "wins": 0,
       "losses": 0,
       "niche": "software"
@@ -2490,8 +2458,8 @@
     },
     "tools-business": {
       "firstSeen": "2026-06-14T15:08:14.946Z",
-      "lastSeen": "2026-06-14T15:08:14.946Z",
-      "count": 1,
+      "lastSeen": "2026-06-20T17:15:56.077Z",
+      "count": 2,
       "wins": 0,
       "losses": 0,
       "niche": "ai"
@@ -3458,9 +3426,9 @@
     },
     "boot-server": {
       "firstSeen": "2026-06-20T15:02:31.974Z",
-      "lastSeen": "2026-06-20T15:02:31.974Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-20T17:15:31.589Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -3487,12 +3455,44 @@
       "wins": 0,
       "losses": 0,
       "niche": "ai"
+    },
+    "claude-guillemot": {
+      "firstSeen": "2026-06-20T17:15:36.602Z",
+      "lastSeen": "2026-06-20T17:15:36.602Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "freedom": {
+      "firstSeen": "2026-06-20T17:15:39.742Z",
+      "lastSeen": "2026-06-20T17:15:39.742Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "rubio-approved-detenti": {
+      "firstSeen": "2026-06-20T17:15:43.087Z",
+      "lastSeen": "2026-06-20T17:15:43.087Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "software"
+    },
+    "mouse": {
+      "firstSeen": "2026-06-20T17:16:19.955Z",
+      "lastSeen": "2026-06-20T17:16:19.955Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "gear"
     }
   },
   "niches": {
     "ai": {
-      "count": 658,
-      "wins": 189,
+      "count": 662,
+      "wins": 190,
       "losses": 27
     },
     "finance": {
@@ -3501,12 +3501,12 @@
       "losses": 0
     },
     "software": {
-      "count": 160,
+      "count": 161,
       "wins": 43,
       "losses": 8
     },
     "gear": {
-      "count": 59,
+      "count": 61,
       "wins": 18,
       "losses": 0
     },
