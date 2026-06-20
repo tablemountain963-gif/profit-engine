@@ -1,110 +1,264 @@
 {
-  "generatedAt": "2026-06-20T05:09:40.278Z",
-  "sourceCount": 207,
+  "generatedAt": "2026-06-20T15:02:23.288Z",
+  "sourceCount": 204,
   "topItems": [
     {
-      "title": "Hyundai buys Boston Dynamics",
-      "url": "https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/",
-      "score": 9.25,
-      "niche": "ai",
-      "source": "hackernews",
-      "engagement": {
-        "score": 723,
-        "comments": 332
-      }
-    },
-    {
-      "title": "Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28",
-      "url": "https://www.jvm-weekly.com/p/project-valhalla-explained-how-a",
-      "score": 9.12,
-      "niche": "ai",
-      "source": "hackernews",
-      "engagement": {
-        "score": 557,
-        "comments": 349
-      }
-    },
-    {
-      "title": "UnitedHealth Groupposted $6.2B in profits last quarter whilesimultaneously denying 32% of all priorauthorization claims.They made $6.2 billion. They denied oneout of every three medical requests.You p",
-      "url": "https://mastodon.social/@joewo/116778533677854859",
-      "score": 7.99,
+      "title": "\"A study of physicians in Poland who specialize in endoscopy — the use of flexible probes to examine the inside of the human body — shows how quickly AI tools can erode human abilities. The physicians",
+      "url": "https://tldr.nettime.org/@remixtures/116782299343169779",
+      "score": 11.72,
       "niche": "ai",
       "source": "mastodon",
       "engagement": {
-        "score": 460,
-        "comments": 28
+        "score": 320,
+        "comments": 7
+      }
+    },
+    {
+      "title": "Hyundai buys Boston Dynamics",
+      "url": "https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/",
+      "score": 9.46,
+      "niche": "ai",
+      "source": "hackernews",
+      "engagement": {
+        "score": 889,
+        "comments": 375
+      }
+    },
+    {
+      "title": "The US administration wildly mismanaging the maintenance of a pool less than a metre deep, at the same time attempting to deal with the Strait of Hormuz crisis, is more pointed a metaphor than the col",
+      "url": "https://mastodon.social/@gwire/116781746454926124",
+      "score": 9.18,
+      "niche": "ai",
+      "source": "mastodon",
+      "engagement": {
+        "score": 296,
+        "comments": 8
+      }
+    },
+    {
+      "title": "RE: https://social.overheid.nl/@BZKopensource/116770424383243538Sweet. Dutch government needed improved accessibility for its https://social.overheid.nl Mastodon instance. It decided to cofinance this",
+      "url": "https://mastodon.acm.org/@avandeursen/116782062231483288",
+      "score": 8.38,
+      "niche": "finance",
+      "source": "mastodon",
+      "engagement": {
+        "score": 259,
+        "comments": 4
       }
     },
     {
       "title": "Norway imposes near ban on AI in elementary school",
       "url": "https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/",
-      "score": 7.95,
+      "score": 8.32,
       "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 541,
-        "comments": 365
+        "score": 749,
+        "comments": 516
+      }
+    },
+    {
+      "title": "Gizmodo's serving ClickFix malware to Mac users @Gizmodo  https://bsky.app/profile/juliametraux.bsky.social/post/3moomipmam22i",
+      "url": "https://cyberplace.social/@GossiTheDog/116782124474589760",
+      "score": 8.18,
+      "niche": "software",
+      "source": "mastodon",
+      "engagement": {
+        "score": 152,
+        "comments": 12
       }
     },
     {
       "title": "😱 Bezos said that in order for AI to reach its potential, certain resources must be allocated and prioritised for the technology rather than for human consumption like water.  It’s a remarkably tone ",
       "url": "https://mastodon.social/@nixCraft/116780494584602899",
-      "score": 7.24,
+      "score": 8.12,
       "niche": "ai",
       "source": "mastodon",
       "engagement": {
-        "score": 136,
-        "comments": 23
-      }
-    },
-    {
-      "title": "MstKail/wc2026-crypto-sportsbook — 2026 FIFA World Cup crypto sportsbook | soccer football betting platform | React TypeScript Vite | MetaMask wallet EIP-191 | live WebSocket odds scores | bet settlem",
-      "url": "https://github.com/MstKail/wc2026-crypto-sportsbook",
-      "score": 7,
-      "niche": "ai",
-      "source": "github",
-      "engagement": {
-        "score": 238,
-        "comments": 0
-      }
-    },
-    {
-      "title": "Don't look now, but it seems Gizmodo's homepage is now serving up a Clickfix attack.Basics of the Click-Fix exploit, which causes a pasted URL to fetch malware via Windows Powershell. https://krebsons",
-      "url": "https://infosec.exchange/@briankrebs/116780029181293028",
-      "score": 6.75,
-      "niche": "software",
-      "source": "mastodon",
-      "engagement": {
-        "score": 246,
-        "comments": 5
+        "score": 1141,
+        "comments": 171
       }
     },
     {
       "title": "Forsy-AI/agent-apprenticeship — The living ecosystem for AI agents learning from real-world work through iterative loops and training-signal exchange.",
       "url": "https://github.com/Forsy-AI/agent-apprenticeship",
-      "score": 6.72,
+      "score": 7.87,
       "niche": "ai",
       "source": "github",
       "engagement": {
-        "score": 190,
+        "score": 457,
+        "comments": 6
+      }
+    },
+    {
+      "title": "GPT-5.5 hallucinates 3x more than MIT-licensed GLM-5.2",
+      "url": "https://arrowtsx.dev/bigger-models/",
+      "score": 7.21,
+      "niche": "ai",
+      "source": "hackernews",
+      "engagement": {
+        "score": 341,
+        "comments": 156
+      }
+    },
+    {
+      "title": "Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28",
+      "url": "https://www.jvm-weekly.com/p/project-valhalla-explained-how-a",
+      "score": 6.95,
+      "niche": "ai",
+      "source": "hackernews",
+      "engagement": {
+        "score": 622,
+        "comments": 388
+      }
+    },
+    {
+      "title": "Lol. The US Air Force (a hotbed of fundamentalist Christian extremists) sought an exemption from Pete “Whiskeybreath” Hegseth’s policy banning mandatory flu vaccines at Lackland Air Force base because",
+      "url": "https://mstdn.social/@mcnado/116782586172891255",
+      "score": 6.75,
+      "niche": "ai",
+      "source": "mastodon",
+      "engagement": {
+        "score": 118,
+        "comments": 5
+      }
+    },
+    {
+      "title": "Planning summer travel? AI tools and scam warnings are top of mind for vacationers",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNczBMcXVuMnJRZ1JVUmRSSGdhcUNZZWVGbXF2YlBMbTRwS01ybmR1bUpkeGhQNzlUdmwxRUNNUkNsMm1pV0dfTVRCazM3SjN3LUJjbTdsUGpvRFJiVVQtLXlTcFM5RElQdk1SbnhDQ0hDZncyN1JNTDhqejJWa1owajlRYnJIRlN0YjRpQXRETEZmNGlmTGN0U0lnVU1lazdDdFN1czJtS0hRZGFGSk05YTQ5QQ?oc=5",
+      "score": 6.61,
+      "niche": "ai",
+      "source": "gnews",
+      "engagement": {
+        "score": 40,
         "comments": 0
       }
     },
     {
-      "title": "RE: https://mastodon.social/@joewo/116778533677854859This is evidence of a failed state. The consequences just haven’t all become visible yet.",
-      "url": "https://mas.to/@fsinn/116779819854757014",
-      "score": 6.71,
+      "title": "Best AI Creativity Tools: Free & Paid Options",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRERGWnNMYlJaNjFyZE5XYjdzbndJX0h1VE5IZjRHd2VHR18zZE93R1RFaWIxMG4td0JOa0pHSVppLTd6YmFicVFDYnpkNUswNXoxYmhsMm1YTk9UQ1dXbXk4dnhmeFRyS0lLTWdqWnl6R3AzX2dWSFl6R3JWQVF0djRYQkZnN2M?oc=5",
+      "score": 6.61,
+      "niche": "ai",
+      "source": "gnews",
+      "engagement": {
+        "score": 40,
+        "comments": 0
+      }
+    },
+    {
+      "title": "#WorldRefugeesDayWe arrived in Canada, as war refugees seeking asylum, in the depths of Winter, 1979. Just most of Dad's side of the family made it to Canada. Mom's villager family was trapped & could",
+      "url": "https://beige.party/@PhoenixSerenity/116782611282181718",
+      "score": 6.38,
+      "niche": "software",
+      "source": "mastodon",
+      "engagement": {
+        "score": 93,
+        "comments": 1
+      }
+    },
+    {
+      "title": "No surprises here - #Arctic Ocean stripes are off the scale. The Arctic is warming faster than anywhere else in the world. #ShowYourStripes➡️ Explore your own climate change stripes: https://showyours",
+      "url": "https://fediscience.org/@ZLabe/116782361783284678",
+      "score": 6.19,
+      "niche": "software",
+      "source": "mastodon",
+      "engagement": {
+        "score": 145,
+        "comments": 8
+      }
+    },
+    {
+      "title": "What Are the Best AI Marketing Tools For Small Business?",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE95Y1NSY0NSWEM2NGxhRUVUNHppUHNGNW1hSWFZbjBFN1ZiVUVfVjFXc3VrTGthYmZSMC1ZSmFMYWZjR20xWHhYSWlKdVlIZmw1YWZMVWFRRU94b2o1MVJSR202TV9NOUZERF9GSWxidEt6UEZVaXMw?oc=5",
+      "score": 5.99,
+      "niche": "ai",
+      "source": "gnews",
+      "engagement": {
+        "score": 40,
+        "comments": 0
+      }
+    },
+    {
+      "title": "Bootimus – A Self-Contained PXE and HTTP Boot Server",
+      "url": "https://bootimus.com",
+      "score": 5.9,
+      "niche": "ai",
+      "source": "hackernews",
+      "engagement": {
+        "score": 45,
+        "comments": 12
+      }
+    },
+    {
+      "title": "MstKail/polymarket-trading-bot-services-polyedge365 — polymarket trading bot services, polymarket copy trading bot, polymarket arbitrage bot, polymarket hedge bot, polymarket maker bot, polymarket tra",
+      "url": "https://github.com/MstKail/polymarket-trading-bot-services-polyedge365",
+      "score": 5.6,
+      "niche": "ai",
+      "source": "github",
+      "engagement": {
+        "score": 343,
+        "comments": 0
+      }
+    },
+    {
+      "title": "The Most Important Nvidia Product Isn't a Chip. It's This.",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNaUhmR0R5MURJMmtySG5JR0l0S3d1WUx5aXZWc2Jub01JNjVrU3VkVGh4NVhHM0h1RGJ5RnN1NWdURmhFRVJDZ3B3NnJ6RHJYdF9zMmdfTHVFdnJRS0UzdmJMeldTcGVpZmdMaGU0cm12eWt5a2QweGZ5ZUV2R29MYUZvck5Oejd1cFV1dmsyeTFCU1pl?oc=5",
+      "score": 5.56,
+      "niche": "finance",
+      "source": "gnews",
+      "engagement": {
+        "score": 40,
+        "comments": 0
+      }
+    },
+    {
+      "title": "LLMs Are Complicated Now",
+      "url": "https://ianbarber.blog/2026/06/19/llms-are-complicated-now/",
+      "score": 5.56,
+      "niche": "ai",
+      "source": "hackernews",
+      "engagement": {
+        "score": 89,
+        "comments": 29
+      }
+    },
+    {
+      "title": "MstKail/wc2026-crypto-sportsbook — 2026 FIFA World Cup crypto sportsbook | soccer football betting platform | React TypeScript Vite | MetaMask wallet EIP-191 | live WebSocket odds scores | bet settlem",
+      "url": "https://github.com/MstKail/wc2026-crypto-sportsbook",
+      "score": 5.43,
+      "niche": "ai",
+      "source": "github",
+      "engagement": {
+        "score": 287,
+        "comments": 0
+      }
+    },
+    {
+      "title": "Apple may have finally fixed the worst things about Siri",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQckV1dFR3YkFzbjFmOUV5SmxiTkpKY2NTM2xLcFMyZHlya2NfS0xWWk4tc2tPNHB1V1FPM3lfN0M4OS0yWTBGTDNpaXNSaEpjOEduNkplV3RKTkt6elExakYyanhvdUZISlZDazJQd0xsdlEydXhJSmh6OVJBMGdNeE5tNHUtMjg?oc=5",
+      "score": 5.19,
+      "niche": "software",
+      "source": "gnews",
+      "engagement": {
+        "score": 40,
+        "comments": 0
+      }
+    },
+    {
+      "title": "I’ve been playing around with traditional medias again and I love the perfect imperfections it brings out in my art!I recently got some tricolour pencils, which gives some really nice randomness into ",
+      "url": "https://mastodon.social/@evansky_arts/116782882750715125",
+      "score": 4.94,
       "niche": "ai",
       "source": "mastodon",
       "engagement": {
-        "score": 116,
-        "comments": 4
+        "score": 32,
+        "comments": 1
       }
     },
     {
       "title": "dirocco55freeman/lsfg-git-3 — ⭐️ Lossless Scaling Desktop 2026 | Setup Installer v1.0 | Patch Activator Keygen | License Key Pre-Activated | Full Version Latest Build Pro | Optimize Resolution Scaling",
       "url": "https://github.com/dirocco55freeman/lsfg-git-3",
-      "score": 6.38,
+      "score": 4.78,
       "niche": "gear",
       "source": "github",
       "engagement": {
@@ -113,164 +267,10 @@
       }
     },
     {
-      "title": "The AirPods Effect",
-      "url": "https://www.theescapenewsletter.com/p/the-airpods-effect",
-      "score": 6.25,
+      "title": "Affordability Crisis: Five smart side-hustle ideas to the rescue",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTlpoczY3VEVXQ2JHVVdwenZjRjJUS2xrNkZ1VS1BODZyZ0g1TkNjcnJfZldCa2xyenEyXzlKMzlDMDVCMXdvdFdlbmNhV0tqU3N6YkxkdjFzbFZVWEwzQl9ELWd6TlBacm1wOTloc0Z4a0ZKczBrY1N5MHNwUnFFZm1vVTNFeU15N0hIeFZCQWNqMlVIWnlHTXFlTEh0VEVVREhDaWpIWGptUG82QU9hZ0lod0NiWkNER3hxWQ?oc=5",
+      "score": 4.75,
       "niche": "ai",
-      "source": "hackernews",
-      "engagement": {
-        "score": 391,
-        "comments": 699
-      }
-    },
-    {
-      "title": "#Disinformation warningA video is being shared on social media, showing Ukrainian president incapable of walking on his own. The clip is used to make the false claim that Zelenskyy is on drugs.This vi",
-      "url": "https://mastodon.social/@randahl/116780132428353710",
-      "score": 5.92,
-      "niche": "ai",
-      "source": "mastodon",
-      "engagement": {
-        "score": 62,
-        "comments": 4
-      }
-    },
-    {
-      "title": "Any Madison, Wisconsin peeps?I'll be speaking tomorrow at two public libraries, the Verona Library at 10:00 am and the Meadowridge Library at 2:00.I've never been here before. What a lovely place. And",
-      "url": "https://mastodon.social/@Teri_Kanefield/116779716996045210",
-      "score": 5.91,
-      "niche": "software",
-      "source": "mastodon",
-      "engagement": {
-        "score": 120,
-        "comments": 4
-      }
-    },
-    {
-      "title": "RE: https://mastodon.social/@ellespeaks/116779170225289107Down to needing $135!!#Mutualaid #MutualAidRequest #MutualAidBoost #MutualAidSavesLives #maboost #disabled #spoonie #chronicpain #chronicillne",
-      "url": "https://mastodon.social/@ellespeaks/116780367256380710",
-      "score": 5.62,
-      "niche": "ai",
-      "source": "mastodon",
-      "engagement": {
-        "score": 56,
-        "comments": 0
-      }
-    },
-    {
-      "title": "MstKail/polymarket-trading-bot-services-polyedge365 — polymarket trading bot services, polymarket copy trading bot, polymarket arbitrage bot, polymarket hedge bot, polymarket maker bot, polymarket tra",
-      "url": "https://github.com/MstKail/polymarket-trading-bot-services-polyedge365",
-      "score": 5.54,
-      "niche": "ai",
-      "source": "github",
-      "engagement": {
-        "score": 321,
-        "comments": 0
-      }
-    },
-    {
-      "title": "Aikido Code Audit",
-      "url": "https://www.aikido.dev/blog/introducing-code-audit-find-complex-vulnerabilities-hidden-in-your-codebase",
-      "score": 5.44,
-      "niche": "ai",
-      "source": "hackernews",
-      "engagement": {
-        "score": 29,
-        "comments": 10
-      }
-    },
-    {
-      "title": "BanEngineerLabel/Malwarebytes-Premium-2026 — Malwarebytes Premium workflow — scan schedules, quarantine review and subscription maintenance on Windows.",
-      "url": "https://github.com/BanEngineerLabel/Malwarebytes-Premium-2026",
-      "score": 5.41,
-      "niche": "ai",
-      "source": "github",
-      "engagement": {
-        "score": 87,
-        "comments": 0
-      }
-    },
-    {
-      "title": "Ohh big buddy hanging out at our place!! So exciting. Hims a happy well fed toad! #nature #outdoors #toad #wildlife #photo",
-      "url": "https://mastodon.social/@seesawsally/116780330144557919",
-      "score": 5.12,
-      "niche": "software",
-      "source": "mastodon",
-      "engagement": {
-        "score": 34,
-        "comments": 2
-      }
-    },
-    {
-      "title": "Amazon Prime Day Fitness Deals: Shop the Best Deals on Fitness Equipment",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE51M3laczhpYWNOVVE1NXk0X1ZDYmdWV1ZTaFc3dVo4cEN3VEdLcmdaeGd2cHJ1WXJzSlB6elZveG54Rk5JdzE4NFpWVVktZGdDcEhZX18tV0F3NHg3MUJMekpGSEVwZlpyRkVrZTVSbTM?oc=5",
-      "score": 4.95,
-      "niche": "ai",
-      "source": "gnews",
-      "engagement": {
-        "score": 40,
-        "comments": 0
-      }
-    },
-    {
-      "title": "hbddevos/PumpFun-Trainer_V1 — An advanced AI‑driven trading utility for Solana meme‑coins, featuring sniper, auto‑sell, MEV protection, multi‑wallet, alerts, and price monitoring.",
-      "url": "https://github.com/hbddevos/PumpFun-Trainer_V1",
-      "score": 4.61,
-      "niche": "ai",
-      "source": "github",
-      "engagement": {
-        "score": 121,
-        "comments": 0
-      }
-    },
-    {
-      "title": "alkhudarigroupuae/PumpFun-Trainer_V1 — An advanced AI‑driven trading utility for Solana meme‑coins, featuring sniper, auto‑sell, MEV protection, multi‑wallet, alerts, and price monitoring.",
-      "url": "https://github.com/alkhudarigroupuae/PumpFun-Trainer_V1",
-      "score": 4.61,
-      "niche": "ai",
-      "source": "github",
-      "engagement": {
-        "score": 121,
-        "comments": 0
-      }
-    },
-    {
-      "title": "0xSero/glm-5.2-sm120 — GLM-5.2-NVFP4-REAP-469B serving on SM120 (4× RTX PRO 6000 Blackwell) — one-command vLLM launch recipe, 250K context, DeepSeek Sparse Attention + MTP speculative decode",
-      "url": "https://github.com/0xSero/glm-5.2-sm120",
-      "score": 4.47,
-      "niche": "ai",
-      "source": "github",
-      "engagement": {
-        "score": 103,
-        "comments": 1
-      }
-    },
-    {
-      "title": "2 Goldman Sachs ETFs Paying 8%+ in Passive Income with Double-Digit Upside Potential",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNLVRsaGVveUpmUjhudjlnUERjbU9QbTVsRG1KNmt4YUR5cm1mSU1NRVo1NjZHcFRpbDluOWFxNV9PaDBKeVVsTnhSR2tsUHgxaFpBSjZFemVKV013LVZEYTJJNGpJVXVHWm9GMTFSNkg4WllhM3d3NmFHM3ZJYjJWRGg4MDEtSTdJdGl5NHJYVU44MDZxMndlT25wbFpsb3ZTRGZBUjJhN0tOMTZick53T2JB?oc=5",
-      "score": 4.45,
-      "niche": "finance",
-      "source": "gnews",
-      "engagement": {
-        "score": 40,
-        "comments": 0
-      }
-    },
-    {
-      "title": "Want Decades of Passive Income? Here Are 2 ETFs Worth Owning Forever.",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOemZZX2VGWUhMNExFc01QOUZhSURxS1ZsZVdnREp1SVVVWDVVeFNxXzFvUlR3OWJKZG12SnhzVG1EWElCeUpoZmNScjREYmFEV2FIU0U3QWs0ckhMMUFSajl5T2tYVTFrb0pqRXU2cTBiVUNPS0Etei1pU2RESm8tNl9ZZXhjSzItUjVzTGJCYjVVSklaeUpzS2Rn?oc=5",
-      "score": 4.45,
-      "niche": "finance",
-      "source": "gnews",
-      "engagement": {
-        "score": 40,
-        "comments": 0
-      }
-    },
-    {
-      "title": "The S&P 500's Dividend Yield Is Down to Around 1%. Buy This 5%-Yielding Pipeline Stock to Boost Your Passive Income.",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaHdtRUdVZEFPX2lGanBjcmR5UlIxOUFQOUdIWGdHSG9tRXNYUVBlREdiamlDbDMzRmo1cllBbGhKcGpRejM4NnZiU0dSY0ZiQ1VYNHVVRV91dXZuaVFnWVJ1UzVjRGtKWm1fTHlBN2tRUUtZTzRFcm5SRnhIT3FnUTREZmUwWXRxcllLU0cyZG13dTRrWDZwdQ?oc=5",
-      "score": 4.45,
-      "niche": "finance",
       "source": "gnews",
       "engagement": {
         "score": 40,
@@ -280,48 +280,9 @@
   ],
   "topics": [
     {
-      "keyword": "passive income",
-      "count": 58,
-      "score": 302.0582885250393,
-      "proper": true,
-      "niches": [
-        "finance",
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "2 Goldman Sachs ETFs Paying 8%+ in Passive Income with Double-Digit Upside Potential",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNLVRsaGVveUpmUjhudjlnUERjbU9QbTVsRG1KNmt4YUR5cm1mSU1NRVo1NjZHcFRpbDluOWFxNV9PaDBKeVVsTnhSR2tsUHgxaFpBSjZFemVKV013LVZEYTJJNGpJVXVHWm9GMTFSNkg4WllhM3d3NmFHM3ZJYjJWRGg4MDEtSTdJdGl5NHJYVU44MDZxMndlT25wbFpsb3ZTRGZBUjJhN0tOMTZick53T2JB?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "2 Goldman Sachs ETFs Paying 8%+ in Passive Income with Double-Digit Upside Potential",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNLVRsaGVveUpmUjhudjlnUERjbU9QbTVsRG1KNmt4YUR5cm1mSU1NRVo1NjZHcFRpbDluOWFxNV9PaDBKeVVsTnhSR2tsUHgxaFpBSjZFemVKV013LVZEYTJJNGpJVXVHWm9GMTFSNkg4WllhM3d3NmFHM3ZJYjJWRGg4MDEtSTdJdGl5NHJYVU44MDZxMndlT25wbFpsb3ZTRGZBUjJhN0tOMTZick53T2JB?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "2 Goldman Sachs ETFs Paying 8%+ in Passive Income with Double-Digit Upside Potential",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNLVRsaGVveUpmUjhudjlnUERjbU9QbTVsRG1KNmt4YUR5cm1mSU1NRVo1NjZHcFRpbDluOWFxNV9PaDBKeVVsTnhSR2tsUHgxaFpBSjZFemVKV013LVZEYTJJNGpJVXVHWm9GMTFSNkg4WllhM3d3NmFHM3ZJYjJWRGg4MDEtSTdJdGl5NHJYVU44MDZxMndlT25wbFpsb3ZTRGZBUjJhN0tOMTZick53T2JB?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Want Decades of Passive Income? Here Are 2 ETFs Worth Owning Forever.",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOemZZX2VGWUhMNExFc01QOUZhSURxS1ZsZVdnREp1SVVVWDVVeFNxXzFvUlR3OWJKZG12SnhzVG1EWElCeUpoZmNScjREYmFEV2FIU0U3QWs0ckhMMUFSajl5T2tYVTFrb0pqRXU2cTBiVUNPS0Etei1pU2RESm8tNl9ZZXhjSzItUjVzTGJCYjVVSklaeUpzS2Rn?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Want Decades of Passive Income? Here Are 2 ETFs Worth Owning Forever.",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOemZZX2VGWUhMNExFc01QOUZhSURxS1ZsZVdnREp1SVVVWDVVeFNxXzFvUlR3OWJKZG12SnhzVG1EWElCeUpoZmNScjREYmFEV2FIU0U3QWs0ckhMMUFSajl5T2tYVTFrb0pqRXU2cTBiVUNPS0Etei1pU2RESm8tNl9ZZXhjSzItUjVzTGJCYjVVSklaeUpzS2Rn?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "cf2dbbbf8c8c",
-      "slug": "passive-income"
-    },
-    {
       "keyword": "fitness gear",
       "count": 22,
-      "score": 137.09953009203124,
+      "score": 119.96208883052734,
       "proper": true,
       "niches": [
         "gear"
@@ -329,17 +290,7 @@
       "examples": [
         {
           "title": "Fitness Gear on Sale for Early Prime Day",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9jNDZtZlhYOFMtWnloN2pMenFzSjhqZ0MyN3JMVHE1bVZENE5zT0hoQUpHVEpiSUhJb2Z6ZU85bmk2M3lKT1ctOTlqSlpyUVBZWDBWQkhZdUtiNWVTMDhTVmFGX295N2VWN3RDZHBPSHlaUzUtbzNR?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Fitness Gear on Sale for Early Prime Day",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9jNDZtZlhYOFMtWnloN2pMenFzSjhqZ0MyN3JMVHE1bVZENE5zT0hoQUpHVEpiSUhJb2Z6ZU85bmk2M3lKT1ctOTlqSlpyUVBZWDBWQkhZdUtiNWVTMDhTVmFGX295N2VWN3RDZHBPSHlaUzUtbzNR?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Fitness Gear on Sale for Early Prime Day",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9jNDZtZlhYOFMtWnloN2pMenFzSjhqZ0MyN3JMVHE1bVZENE5zT0hoQUpHVEpiSUhJb2Z6ZU85bmk2M3lKT1ctOTlqSlpyUVBZWDBWQkhZdUtiNWVTMDhTVmFGX295N2VWN3RDZHBPSHlaUzUtbzNR?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSm9RdFNpc3JFU2NnaUxiaVk5dnp3b2RxcU04bmQyZ3RUMENITl92OG1kcTVMRGZ2dXh3THB6Y2toMmIwUEJsVzdXX2hXZjYtTVUyVjd4SFJtRGwwUGNjaks3UjdPYzRhNDgyTVJfNFRxcF91OEdiaXViUkJmQXJqdEs4bXU?oc=5",
           "source": "gnews"
         },
         {
@@ -350,6 +301,16 @@
         {
           "title": "Fitness Gear on Sale for Early Prime Day",
           "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSm9RdFNpc3JFU2NnaUxiaVk5dnp3b2RxcU04bmQyZ3RUMENITl92OG1kcTVMRGZ2dXh3THB6Y2toMmIwUEJsVzdXX2hXZjYtTVUyVjd4SFJtRGwwUGNjaks3UjdPYzRhNDgyTVJfNFRxcF91OEdiaXViUkJmQXJqdEs4bXU?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Fitness Gear on Sale for Early Prime Day",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9jNDZtZlhYOFMtWnloN2pMenFzSjhqZ0MyN3JMVHE1bVZENE5zT0hoQUpHVEpiSUhJb2Z6ZU85bmk2M3lKT1ctOTlqSlpyUVBZWDBWQkhZdUtiNWVTMDhTVmFGX295N2VWN3RDZHBPSHlaUzUtbzNR?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Fitness Gear on Sale for Early Prime Day",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9jNDZtZlhYOFMtWnloN2pMenFzSjhqZ0MyN3JMVHE1bVZENE5zT0hoQUpHVEpiSUhJb2Z6ZU85bmk2M3lKT1ctOTlqSlpyUVBZWDBWQkhZdUtiNWVTMDhTVmFGX295N2VWN3RDZHBPSHlaUzUtbzNR?oc=5",
           "source": "gnews"
         }
       ],
@@ -357,48 +318,9 @@
       "slug": "fitness-gear"
     },
     {
-      "keyword": "income",
-      "count": 21,
-      "score": 115.68498604250661,
-      "proper": true,
-      "niches": [
-        "finance",
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "2 Goldman Sachs ETFs Paying 8%+ in Passive Income with Double-Digit Upside Potential",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNLVRsaGVveUpmUjhudjlnUERjbU9QbTVsRG1KNmt4YUR5cm1mSU1NRVo1NjZHcFRpbDluOWFxNV9PaDBKeVVsTnhSR2tsUHgxaFpBSjZFemVKV013LVZEYTJJNGpJVXVHWm9GMTFSNkg4WllhM3d3NmFHM3ZJYjJWRGg4MDEtSTdJdGl5NHJYVU44MDZxMndlT25wbFpsb3ZTRGZBUjJhN0tOMTZick53T2JB?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "2 Goldman Sachs ETFs Paying 8%+ in Passive Income with Double-Digit Upside Potential",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNLVRsaGVveUpmUjhudjlnUERjbU9QbTVsRG1KNmt4YUR5cm1mSU1NRVo1NjZHcFRpbDluOWFxNV9PaDBKeVVsTnhSR2tsUHgxaFpBSjZFemVKV013LVZEYTJJNGpJVXVHWm9GMTFSNkg4WllhM3d3NmFHM3ZJYjJWRGg4MDEtSTdJdGl5NHJYVU44MDZxMndlT25wbFpsb3ZTRGZBUjJhN0tOMTZick53T2JB?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Want Decades of Passive Income? Here Are 2 ETFs Worth Owning Forever.",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOemZZX2VGWUhMNExFc01QOUZhSURxS1ZsZVdnREp1SVVVWDVVeFNxXzFvUlR3OWJKZG12SnhzVG1EWElCeUpoZmNScjREYmFEV2FIU0U3QWs0ckhMMUFSajl5T2tYVTFrb0pqRXU2cTBiVUNPS0Etei1pU2RESm8tNl9ZZXhjSzItUjVzTGJCYjVVSklaeUpzS2Rn?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Want Decades of Passive Income? Here Are 2 ETFs Worth Owning Forever.",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOemZZX2VGWUhMNExFc01QOUZhSURxS1ZsZVdnREp1SVVVWDVVeFNxXzFvUlR3OWJKZG12SnhzVG1EWElCeUpoZmNScjREYmFEV2FIU0U3QWs0ckhMMUFSajl5T2tYVTFrb0pqRXU2cTBiVUNPS0Etei1pU2RESm8tNl9ZZXhjSzItUjVzTGJCYjVVSklaeUpzS2Rn?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Want Decades of Passive Income? Here Are 2 ETFs Worth Owning Forever.",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOemZZX2VGWUhMNExFc01QOUZhSURxS1ZsZVdnREp1SVVVWDVVeFNxXzFvUlR3OWJKZG12SnhzVG1EWElCeUpoZmNScjREYmFEV2FIU0U3QWs0ckhMMUFSajl5T2tYVTFrb0pqRXU2cTBiVUNPS0Etei1pU2RESm8tNl9ZZXhjSzItUjVzTGJCYjVVSklaeUpzS2Rn?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "00cf141f881d",
-      "slug": "income"
-    },
-    {
       "keyword": "boston dynamics",
       "count": 8,
-      "score": 111.01433505904623,
+      "score": 113.57400346382909,
       "proper": true,
       "niches": [
         "ai"
@@ -419,9 +341,37 @@
       "slug": "boston-dynamics"
     },
     {
+      "keyword": "paid options",
+      "count": 11,
+      "score": 108.99838417254662,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "Best AI Creativity Tools: Free & Paid Options",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRERGWnNMYlJaNjFyZE5XYjdzbndJX0h1VE5IZjRHd2VHR18zZE93R1RFaWIxMG4td0JOa0pHSVppLTd6YmFicVFDYnpkNUswNXoxYmhsMm1YTk9UQ1dXbXk4dnhmeFRyS0lLTWdqWnl6R3AzX2dWSFl6R3JWQVF0djRYQkZnN2M?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Best AI Creativity Tools: Free & Paid Options",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRERGWnNMYlJaNjFyZE5XYjdzbndJX0h1VE5IZjRHd2VHR18zZE93R1RFaWIxMG4td0JOa0pHSVppLTd6YmFicVFDYnpkNUswNXoxYmhsMm1YTk9UQ1dXbXk4dnhmeFRyS0lLTWdqWnl6R3AzX2dWSFl6R3JWQVF0djRYQkZnN2M?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Best AI Creativity Tools: Free & Paid Options",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRERGWnNMYlJaNjFyZE5XYjdzbndJX0h1VE5IZjRHd2VHR18zZE93R1RFaWIxMG4td0JOa0pHSVppLTd6YmFicVFDYnpkNUswNXoxYmhsMm1YTk9UQ1dXbXk4dnhmeFRyS0lLTWdqWnl6R3AzX2dWSFl6R3JWQVF0djRYQkZnN2M?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "1bc98141672b",
+      "slug": "paid-options"
+    },
+    {
       "keyword": "project valhalla",
       "count": 8,
-      "score": 109.48110598076478,
+      "score": 83.35158616317545,
       "proper": true,
       "niches": [
         "ai"
@@ -442,180 +392,83 @@
       "slug": "project-valhalla"
     },
     {
-      "keyword": "unitedhealth groupposted",
-      "count": 8,
-      "score": 95.8621939064228,
+      "keyword": "affordability crisis",
+      "count": 11,
+      "score": 78.34258862401788,
       "proper": true,
       "niches": [
         "ai"
       ],
       "examples": [
         {
-          "title": "UnitedHealth Groupposted $6.2B in profits last quarter whilesimultaneously denying 32% of all priorauthorization claims.They made $6.2 billion. They denied oneout of every three medical requests.You p",
-          "url": "https://mastodon.social/@joewo/116778533677854859",
+          "title": "Affordability Crisis: Five smart side-hustle ideas to the rescue",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTlpoczY3VEVXQ2JHVVdwenZjRjJUS2xrNkZ1VS1BODZyZ0g1TkNjcnJfZldCa2xyenEyXzlKMzlDMDVCMXdvdFdlbmNhV0tqU3N6YkxkdjFzbFZVWEwzQl9ELWd6TlBacm1wOTloc0Z4a0ZKczBrY1N5MHNwUnFFZm1vVTNFeU15N0hIeFZCQWNqMlVIWnlHTXFlTEh0VEVVREhDaWpIWGptUG82QU9hZ0lod0NiWkNER3hxWQ?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Affordability Crisis: Five smart side-hustle ideas to the rescue",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTlpoczY3VEVXQ2JHVVdwenZjRjJUS2xrNkZ1VS1BODZyZ0g1TkNjcnJfZldCa2xyenEyXzlKMzlDMDVCMXdvdFdlbmNhV0tqU3N6YkxkdjFzbFZVWEwzQl9ELWd6TlBacm1wOTloc0Z4a0ZKczBrY1N5MHNwUnFFZm1vVTNFeU15N0hIeFZCQWNqMlVIWnlHTXFlTEh0VEVVREhDaWpIWGptUG82QU9hZ0lod0NiWkNER3hxWQ?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Affordability Crisis: Five smart side-hustle ideas to the rescue",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTlpoczY3VEVXQ2JHVVdwenZjRjJUS2xrNkZ1VS1BODZyZ0g1TkNjcnJfZldCa2xyenEyXzlKMzlDMDVCMXdvdFdlbmNhV0tqU3N6YkxkdjFzbFZVWEwzQl9ELWd6TlBacm1wOTloc0Z4a0ZKczBrY1N5MHNwUnFFZm1vVTNFeU15N0hIeFZCQWNqMlVIWnlHTXFlTEh0VEVVREhDaWpIWGptUG82QU9hZ0lod0NiWkNER3hxWQ?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "75c4782cb45d",
+      "slug": "affordability-crisis"
+    },
+    {
+      "keyword": "arctic ocean",
+      "count": 8,
+      "score": 74.23970448863238,
+      "proper": true,
+      "niches": [
+        "software"
+      ],
+      "examples": [
+        {
+          "title": "No surprises here - #Arctic Ocean stripes are off the scale. The Arctic is warming faster than anywhere else in the world. #ShowYourStripes➡️ Explore your own climate change stripes: https://showyours",
+          "url": "https://fediscience.org/@ZLabe/116782361783284678",
           "source": "mastodon"
         },
         {
-          "title": "UnitedHealth Groupposted $6.2B in profits last quarter whilesimultaneously denying 32% of all priorauthorization claims.They made $6.2 billion. They denied oneout of every three medical requests.You p",
-          "url": "https://mastodon.social/@joewo/116778533677854859",
+          "title": "No surprises here - #Arctic Ocean stripes are off the scale. The Arctic is warming faster than anywhere else in the world. #ShowYourStripes➡️ Explore your own climate change stripes: https://showyours",
+          "url": "https://fediscience.org/@ZLabe/116782361783284678",
           "source": "mastodon"
         }
       ],
-      "id": "852776179414",
-      "slug": "unitedhealth-groupposted"
+      "id": "2f5cb437b329",
+      "slug": "arctic-ocean"
     },
     {
-      "keyword": "fitness equipment",
-      "count": 11,
-      "score": 81.74878812940996,
+      "keyword": "boot server",
+      "count": 8,
+      "score": 70.85176473654747,
       "proper": true,
       "niches": [
         "ai"
       ],
       "examples": [
         {
-          "title": "Amazon Prime Day Fitness Deals: Shop the Best Deals on Fitness Equipment",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE51M3laczhpYWNOVVE1NXk0X1ZDYmdWV1ZTaFc3dVo4cEN3VEdLcmdaeGd2cHJ1WXJzSlB6elZveG54Rk5JdzE4NFpWVVktZGdDcEhZX18tV0F3NHg3MUJMekpGSEVwZlpyRkVrZTVSbTM?oc=5",
-          "source": "gnews"
+          "title": "Bootimus – A Self-Contained PXE and HTTP Boot Server",
+          "url": "https://bootimus.com",
+          "source": "hackernews"
         },
         {
-          "title": "Amazon Prime Day Fitness Deals: Shop the Best Deals on Fitness Equipment",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE51M3laczhpYWNOVVE1NXk0X1ZDYmdWV1ZTaFc3dVo4cEN3VEdLcmdaeGd2cHJ1WXJzSlB6elZveG54Rk5JdzE4NFpWVVktZGdDcEhZX18tV0F3NHg3MUJMekpGSEVwZlpyRkVrZTVSbTM?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Amazon Prime Day Fitness Deals: Shop the Best Deals on Fitness Equipment",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE51M3laczhpYWNOVVE1NXk0X1ZDYmdWV1ZTaFc3dVo4cEN3VEdLcmdaeGd2cHJ1WXJzSlB6elZveG54Rk5JdzE4NFpWVVktZGdDcEhZX18tV0F3NHg3MUJMekpGSEVwZlpyRkVrZTVSbTM?oc=5",
-          "source": "gnews"
+          "title": "Bootimus – A Self-Contained PXE and HTTP Boot Server",
+          "url": "https://bootimus.com",
+          "source": "hackernews"
         }
       ],
-      "id": "d6e2f034e8a3",
-      "slug": "fitness-equipment"
-    },
-    {
-      "keyword": "windows powershell",
-      "count": 8,
-      "score": 80.97375294393149,
-      "proper": true,
-      "niches": [
-        "software"
-      ],
-      "examples": [
-        {
-          "title": "Don't look now, but it seems Gizmodo's homepage is now serving up a Clickfix attack.Basics of the Click-Fix exploit, which causes a pasted URL to fetch malware via Windows Powershell. https://krebsons",
-          "url": "https://infosec.exchange/@briankrebs/116780029181293028",
-          "source": "mastodon"
-        },
-        {
-          "title": "Don't look now, but it seems Gizmodo's homepage is now serving up a Clickfix attack.Basics of the Click-Fix exploit, which causes a pasted URL to fetch malware via Windows Powershell. https://krebsons",
-          "url": "https://infosec.exchange/@briankrebs/116780029181293028",
-          "source": "mastodon"
-        }
-      ],
-      "id": "f081c3b0140b",
-      "slug": "windows-powershell"
-    },
-    {
-      "keyword": "setup installer",
-      "count": 8,
-      "score": 76.54059435862034,
-      "proper": true,
-      "niches": [
-        "gear"
-      ],
-      "examples": [
-        {
-          "title": "dirocco55freeman/lsfg-git-3 — ⭐️ Lossless Scaling Desktop 2026 | Setup Installer v1.0 | Patch Activator Keygen | License Key Pre-Activated | Full Version Latest Build Pro | Optimize Resolution Scaling",
-          "url": "https://github.com/dirocco55freeman/lsfg-git-3",
-          "source": "github"
-        },
-        {
-          "title": "dirocco55freeman/lsfg-git-3 — ⭐️ Lossless Scaling Desktop 2026 | Setup Installer v1.0 | Patch Activator Keygen | License Key Pre-Activated | Full Version Latest Build Pro | Optimize Resolution Scaling",
-          "url": "https://github.com/dirocco55freeman/lsfg-git-3",
-          "source": "github"
-        }
-      ],
-      "id": "f1150bad4c40",
-      "slug": "setup-installer"
-    },
-    {
-      "keyword": "verona library",
-      "count": 8,
-      "score": 70.91581426605475,
-      "proper": true,
-      "niches": [
-        "software"
-      ],
-      "examples": [
-        {
-          "title": "Any Madison, Wisconsin peeps?I'll be speaking tomorrow at two public libraries, the Verona Library at 10:00 am and the Meadowridge Library at 2:00.I've never been here before. What a lovely place. And",
-          "url": "https://mastodon.social/@Teri_Kanefield/116779716996045210",
-          "source": "mastodon"
-        },
-        {
-          "title": "Any Madison, Wisconsin peeps?I'll be speaking tomorrow at two public libraries, the Verona Library at 10:00 am and the Meadowridge Library at 2:00.I've never been here before. What a lovely place. And",
-          "url": "https://mastodon.social/@Teri_Kanefield/116779716996045210",
-          "source": "mastodon"
-        }
-      ],
-      "id": "86333a5531b7",
-      "slug": "verona-library"
-    },
-    {
-      "keyword": "meadowridge library",
-      "count": 8,
-      "score": 70.91581426605475,
-      "proper": true,
-      "niches": [
-        "software"
-      ],
-      "examples": [
-        {
-          "title": "Any Madison, Wisconsin peeps?I'll be speaking tomorrow at two public libraries, the Verona Library at 10:00 am and the Meadowridge Library at 2:00.I've never been here before. What a lovely place. And",
-          "url": "https://mastodon.social/@Teri_Kanefield/116779716996045210",
-          "source": "mastodon"
-        },
-        {
-          "title": "Any Madison, Wisconsin peeps?I'll be speaking tomorrow at two public libraries, the Verona Library at 10:00 am and the Meadowridge Library at 2:00.I've never been here before. What a lovely place. And",
-          "url": "https://mastodon.social/@Teri_Kanefield/116779716996045210",
-          "source": "mastodon"
-        }
-      ],
-      "id": "933e4aebf26d",
-      "slug": "meadowridge-library"
-    },
-    {
-      "keyword": "epomaker qk108",
-      "count": 11,
-      "score": 68.54976504601564,
-      "proper": true,
-      "niches": [
-        "gear"
-      ],
-      "examples": [
-        {
-          "title": "REVIEW: Epomaker QK108, a full-size mechanical keyboard built for developers who love to tinker",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0wQmZLdzNPZVQyUFRZX1Z6dWoySHNmX0ZiMFhXX0Q5TzhkQUYzVWpxT1NiVjdHazVXRGRTcUlfdjRreWxRM2NBRVpMVkQzcVBzWnFzTWNUdw?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "REVIEW: Epomaker QK108, a full-size mechanical keyboard built for developers who love to tinker",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0wQmZLdzNPZVQyUFRZX1Z6dWoySHNmX0ZiMFhXX0Q5TzhkQUYzVWpxT1NiVjdHazVXRGRTcUlfdjRreWxRM2NBRVpMVkQzcVBzWnFzTWNUdw?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "REVIEW: Epomaker QK108, a full-size mechanical keyboard built for developers who love to tinker",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0wQmZLdzNPZVQyUFRZX1Z6dWoySHNmX0ZiMFhXX0Q5TzhkQUYzVWpxT1NiVjdHazVXRGRTcUlfdjRreWxRM2NBRVpMVkQzcVBzWnFzTWNUdw?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "87fb4feda8fe",
-      "slug": "epomaker-qk108"
+      "id": "538098c0067a",
+      "slug": "boot-server"
     },
     {
       "keyword": "bot polymarket",
       "count": 12,
-      "score": 66.44814917645273,
+      "score": 67.20865249437526,
       "proper": false,
       "niches": [
         "ai"
@@ -646,105 +499,207 @@
       "slug": "bot-polymarket"
     },
     {
-      "keyword": "malwarebytes premium",
-      "count": 8,
-      "score": 64.96127711119283,
+      "keyword": "tools business",
+      "count": 18,
+      "score": 62.8598635995084,
+      "proper": false,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "What Are the Best AI Marketing Tools For Small Business?",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE95Y1NSY0NSWEM2NGxhRUVUNHppUHNGNW1hSWFZbjBFN1ZiVUVfVjFXc3VrTGthYmZSMC1ZSmFMYWZjR20xWHhYSWlKdVlIZmw1YWZMVWFRRU94b2o1MVJSR202TV9NOUZERF9GSWxidEt6UEZVaXMw?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "What Are the Best AI Marketing Tools For Small Business?",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE95Y1NSY0NSWEM2NGxhRUVUNHppUHNGNW1hSWFZbjBFN1ZiVUVfVjFXc3VrTGthYmZSMC1ZSmFMYWZjR20xWHhYSWlKdVlIZmw1YWZMVWFRRU94b2o1MVJSR202TV9NOUZERF9GSWxidEt6UEZVaXMw?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "The best AI tools for small business are the ones tied to workflow: These nine AI tools save small businesses the most time in 2026",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcFptaUxVY3ZGanY1TUhuQzNiZmRqenl3WHlSUDdHb1pDOHk5NFBESUxxVDJXZTdxWnYyN1k1d2lTYkhGaTFxUmJWV0RUMkF3X2xjT0tGV2E3ZDFxcHd6eDZ1TnJXeGVGMVdLU2pPUkhVaVZVdXc2aGRNT19LZVRmWUNSaGwtSHlMbEFLcnVMczNpSERQd2xBVl9n?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "The best AI tools for small business are the ones tied to workflow: These nine AI tools save small businesses the most time in 2026",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcFptaUxVY3ZGanY1TUhuQzNiZmRqenl3WHlSUDdHb1pDOHk5NFBESUxxVDJXZTdxWnYyN1k1d2lTYkhGaTFxUmJWV0RUMkF3X2xjT0tGV2E3ZDFxcHd6eDZ1TnJXeGVGMVdLU2pPUkhVaVZVdXc2aGRNT19LZVRmWUNSaGwtSHlMbEFLcnVMczNpSERQd2xBVl9n?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "16 Best AI Tools for Business in 2026: Tested & Ranked",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAwQnBYNFM3cXk2eUZVZWZHYjBJZ01wbHJOMkpiNXExelhCZUc4US1OX0tnaWdyTnNCZkp6bGEwN0FOMDBiUzh6a29Wd2pmUk9pNWdRdXdXNG9HZVpo?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "06e8eb9e4ab5",
+      "slug": "tools-business"
+    },
+    {
+      "keyword": "bravo attempts",
+      "count": 11,
+      "score": 58.75694146801339,
       "proper": true,
       "niches": [
         "ai"
       ],
       "examples": [
         {
-          "title": "BanEngineerLabel/Malwarebytes-Premium-2026 — Malwarebytes Premium workflow — scan schedules, quarantine review and subscription maintenance on Windows.",
-          "url": "https://github.com/BanEngineerLabel/Malwarebytes-Premium-2026",
-          "source": "github"
+          "title": "Software Buyout King Orlando Bravo Attempts an AI-Era Reboot",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMHloZHVQUzB1UDRUTWl1dklIX2pvOWlXUGc5MmFBaS1CNmlyOXNfV0lxZUpNQk5YVndPcUJ4bDlQZ2F4NlRNekNnRG5vQlhSbS13QVp4M0VuZlNvZi1qODh1UnZCQnZPa0I1aGUxZS1zcEwtV1d4MndMZGk4Zi1iUzl1SE0zblhueVlvM1BoNnh4cTRkQnQ1WURhYi1mMFdJRkFmSURJQkRyV0JqZTAtSG9Kcl9CcHRtOW54TU4yeUVTbDIyOEE?oc=5",
+          "source": "gnews"
         },
         {
-          "title": "BanEngineerLabel/Malwarebytes-Premium-2026 — Malwarebytes Premium workflow — scan schedules, quarantine review and subscription maintenance on Windows.",
-          "url": "https://github.com/BanEngineerLabel/Malwarebytes-Premium-2026",
-          "source": "github"
+          "title": "Software Buyout King Orlando Bravo Attempts an AI-Era Reboot",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMHloZHVQUzB1UDRUTWl1dklIX2pvOWlXUGc5MmFBaS1CNmlyOXNfV0lxZUpNQk5YVndPcUJ4bDlQZ2F4NlRNekNnRG5vQlhSbS13QVp4M0VuZlNvZi1qODh1UnZCQnZPa0I1aGUxZS1zcEwtV1d4MndMZGk4Zi1iUzl1SE0zblhueVlvM1BoNnh4cTRkQnQ1WURhYi1mMFdJRkFmSURJQkRyV0JqZTAtSG9Kcl9CcHRtOW54TU4yeUVTbDIyOEE?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Software Buyout King Orlando Bravo Attempts an AI-Era Reboot",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMHloZHVQUzB1UDRUTWl1dklIX2pvOWlXUGc5MmFBaS1CNmlyOXNfV0lxZUpNQk5YVndPcUJ4bDlQZ2F4NlRNekNnRG5vQlhSbS13QVp4M0VuZlNvZi1qODh1UnZCQnZPa0I1aGUxZS1zcEwtV1d4MndMZGk4Zi1iUzl1SE0zblhueVlvM1BoNnh4cTRkQnQ1WURhYi1mMFdJRkFmSURJQkRyV0JqZTAtSG9Kcl9CcHRtOW54TU4yeUVTbDIyOEE?oc=5",
+          "source": "gnews"
         }
       ],
-      "id": "520dd6ecb5ba",
-      "slug": "malwarebytes-premium"
+      "id": "3291c94d076d",
+      "slug": "bravo-attempts"
     },
     {
-      "keyword": "nxtpaper addresses",
-      "count": 11,
-      "score": 64.82423433699304,
+      "keyword": "setup installer",
+      "count": 8,
+      "score": 57.405445768965265,
       "proper": true,
       "niches": [
-        "software"
+        "gear"
       ],
       "examples": [
         {
-          "title": "The TCL NOTE A1 NXTPAPER Addresses a Problem Most Productivity Apps Can’t Solve",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRjdteGRLQjFuMjMxVy1YWjZYdm1kQmxtQ2Rod0prVWdSeDB1OWdyaXpVc0lnRmxVR3QwdzVqRWQ0NHMwblFudE5QMUxqWGd5NGRTN2lSa3dTOGhUY0t5M05Wbml0QmRrM2cyMU5sdWNhZTA5cDcxNVJqOExwSU9SVDB1bThrcFMtaXZwRnVZNzVwamEyWU5CSVBkZ213aUJHd3U4Z2FhMlhUVkVUTndVTg?oc=5",
+          "title": "dirocco55freeman/lsfg-git-3 — ⭐️ Lossless Scaling Desktop 2026 | Setup Installer v1.0 | Patch Activator Keygen | License Key Pre-Activated | Full Version Latest Build Pro | Optimize Resolution Scaling",
+          "url": "https://github.com/dirocco55freeman/lsfg-git-3",
+          "source": "github"
+        },
+        {
+          "title": "dirocco55freeman/lsfg-git-3 — ⭐️ Lossless Scaling Desktop 2026 | Setup Installer v1.0 | Patch Activator Keygen | License Key Pre-Activated | Full Version Latest Build Pro | Optimize Resolution Scaling",
+          "url": "https://github.com/dirocco55freeman/lsfg-git-3",
+          "source": "github"
+        }
+      ],
+      "id": "f1150bad4c40",
+      "slug": "setup-installer"
+    },
+    {
+      "keyword": "fitness equipment",
+      "count": 11,
+      "score": 54.49919208627331,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "Amazon Prime Day Fitness Deals: Shop the Best Deals on Fitness Equipment",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE51M3laczhpYWNOVVE1NXk0X1ZDYmdWV1ZTaFc3dVo4cEN3VEdLcmdaeGd2cHJ1WXJzSlB6elZveG54Rk5JdzE4NFpWVVktZGdDcEhZX18tV0F3NHg3MUJMekpGSEVwZlpyRkVrZTVSbTM?oc=5",
           "source": "gnews"
         },
         {
-          "title": "The TCL NOTE A1 NXTPAPER Addresses a Problem Most Productivity Apps Can’t Solve",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRjdteGRLQjFuMjMxVy1YWjZYdm1kQmxtQ2Rod0prVWdSeDB1OWdyaXpVc0lnRmxVR3QwdzVqRWQ0NHMwblFudE5QMUxqWGd5NGRTN2lSa3dTOGhUY0t5M05Wbml0QmRrM2cyMU5sdWNhZTA5cDcxNVJqOExwSU9SVDB1bThrcFMtaXZwRnVZNzVwamEyWU5CSVBkZ213aUJHd3U4Z2FhMlhUVkVUTndVTg?oc=5",
+          "title": "Amazon Prime Day Fitness Deals: Shop the Best Deals on Fitness Equipment",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE51M3laczhpYWNOVVE1NXk0X1ZDYmdWV1ZTaFc3dVo4cEN3VEdLcmdaeGd2cHJ1WXJzSlB6elZveG54Rk5JdzE4NFpWVVktZGdDcEhZX18tV0F3NHg3MUJMekpGSEVwZlpyRkVrZTVSbTM?oc=5",
           "source": "gnews"
         },
         {
-          "title": "The TCL NOTE A1 NXTPAPER Addresses a Problem Most Productivity Apps Can’t Solve",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRjdteGRLQjFuMjMxVy1YWjZYdm1kQmxtQ2Rod0prVWdSeDB1OWdyaXpVc0lnRmxVR3QwdzVqRWQ0NHMwblFudE5QMUxqWGd5NGRTN2lSa3dTOGhUY0t5M05Wbml0QmRrM2cyMU5sdWNhZTA5cDcxNVJqOExwSU9SVDB1bThrcFMtaXZwRnVZNzVwamEyWU5CSVBkZ213aUJHd3U4Z2FhMlhUVkVUTndVTg?oc=5",
+          "title": "Amazon Prime Day Fitness Deals: Shop the Best Deals on Fitness Equipment",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE51M3laczhpYWNOVVE1NXk0X1ZDYmdWV1ZTaFc3dVo4cEN3VEdLcmdaeGd2cHJ1WXJzSlB6elZveG54Rk5JdzE4NFpWVVktZGdDcEhZX18tV0F3NHg3MUJMekpGSEVwZlpyRkVrZTVSbTM?oc=5",
           "source": "gnews"
         }
       ],
-      "id": "8496ed4dd8e4",
-      "slug": "nxtpaper-addresses"
+      "id": "d6e2f034e8a3",
+      "slug": "fitness-equipment"
+    },
+    {
+      "keyword": "rtx pro",
+      "count": 8,
+      "score": 53.877595825382215,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "0xSero/glm-5.2-sm120 — GLM-5.2-NVFP4-REAP-469B serving on SM120 (4× RTX PRO 6000 Blackwell) — one-command vLLM launch recipe, 250K context, DeepSeek Sparse Attention + MTP speculative decode",
+          "url": "https://github.com/0xSero/glm-5.2-sm120",
+          "source": "github"
+        },
+        {
+          "title": "0xSero/glm-5.2-sm120 — GLM-5.2-NVFP4-REAP-469B serving on SM120 (4× RTX PRO 6000 Blackwell) — one-command vLLM launch recipe, 250K context, DeepSeek Sparse Attention + MTP speculative decode",
+          "url": "https://github.com/0xSero/glm-5.2-sm120",
+          "source": "github"
+        }
+      ],
+      "id": "4b8f19a2d543",
+      "slug": "rtx-pro"
+    },
+    {
+      "keyword": "source",
+      "count": 9,
+      "score": 52.950919583822355,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "Source: Elastic agrees to buy CRV-backed Deductive AI for up to $85M",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVmR5VFBOY2NGaWZaaG9CMVJ3TGlDOU56ZzdsZDBwajVvWENSUWtOMmowbWdXTGEzRWdWSHFMSlJlbzB6RXVpNDJ3X3cxMnFoTS1qOFk4ZkdGSjkyeGN5dEZTOFdYUTB1MHE5ZXJpZ2pqNEtoRURIQ1hiNkhsMGVpc0tvSlFKd1plMEVPakdhYmJ2ekt3dWdhZTN1NTlsVlZyT1E?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Source: Elastic agrees to buy CRV-backed Deductive AI for up to $85M",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVmR5VFBOY2NGaWZaaG9CMVJ3TGlDOU56ZzdsZDBwajVvWENSUWtOMmowbWdXTGEzRWdWSHFMSlJlbzB6RXVpNDJ3X3cxMnFoTS1qOFk4ZkdGSjkyeGN5dEZTOFdYUTB1MHE5ZXJpZ2pqNEtoRURIQ1hiNkhsMGVpc0tvSlFKd1plMEVPakdhYmJ2ekt3dWdhZTN1NTlsVlZyT1E?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Source: Elastic agrees to buy CRV-backed Deductive AI for up to $85M",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVmR5VFBOY2NGaWZaaG9CMVJ3TGlDOU56ZzdsZDBwajVvWENSUWtOMmowbWdXTGEzRWdWSHFMSlJlbzB6RXVpNDJ3X3cxMnFoTS1qOFk4ZkdGSjkyeGN5dEZTOFdYUTB1MHE5ZXJpZ2pqNEtoRURIQ1hiNkhsMGVpc0tvSlFKd1plMEVPakdhYmJ2ekt3dWdhZTN1NTlsVlZyT1E?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Banning Open Source AI Would Be A Mistake",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1vMEVpTDZzNGt3QmNVSVZjZXk3UDJQQWh5cnJEbTBxMnVmbV9MNDhnbllHWDBzRVIzTjh0dG5ROURaMl9ISlBsZ3ZPOHQ0WVc2cTFDalZPQjRMN3dCdTFzbnBxYzRta2xXaWk4THV5Tk9Wdw?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Banning Open Source AI Would Be A Mistake",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1vMEVpTDZzNGt3QmNVSVZjZXk3UDJQQWh5cnJEbTBxMnVmbV9MNDhnbllHWDBzRVIzTjh0dG5ROURaMl9ISlBsZ3ZPOHQ0WVc2cTFDalZPQjRMN3dCdTFzbnBxYzRta2xXaWk4THV5Tk9Wdw?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "41cf6794ba42",
+      "slug": "source"
+    },
+    {
+      "keyword": "free",
+      "count": 5,
+      "score": 49.54472007843028,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "Best AI Creativity Tools: Free & Paid Options",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRERGWnNMYlJaNjFyZE5XYjdzbndJX0h1VE5IZjRHd2VHR18zZE93R1RFaWIxMG4td0JOa0pHSVppLTd6YmFicVFDYnpkNUswNXoxYmhsMm1YTk9UQ1dXbXk4dnhmeFRyS0lLTWdqWnl6R3AzX2dWSFl6R3JWQVF0djRYQkZnN2M?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "ad95d5fa651b",
+      "slug": "free"
     }
   ],
   "opportunities": [
     {
-      "keyword": "passive income",
-      "count": 58,
-      "score": 302.0582885250393,
-      "proper": true,
-      "niches": [
-        "finance",
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "2 Goldman Sachs ETFs Paying 8%+ in Passive Income with Double-Digit Upside Potential",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNLVRsaGVveUpmUjhudjlnUERjbU9QbTVsRG1KNmt4YUR5cm1mSU1NRVo1NjZHcFRpbDluOWFxNV9PaDBKeVVsTnhSR2tsUHgxaFpBSjZFemVKV013LVZEYTJJNGpJVXVHWm9GMTFSNkg4WllhM3d3NmFHM3ZJYjJWRGg4MDEtSTdJdGl5NHJYVU44MDZxMndlT25wbFpsb3ZTRGZBUjJhN0tOMTZick53T2JB?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "2 Goldman Sachs ETFs Paying 8%+ in Passive Income with Double-Digit Upside Potential",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNLVRsaGVveUpmUjhudjlnUERjbU9QbTVsRG1KNmt4YUR5cm1mSU1NRVo1NjZHcFRpbDluOWFxNV9PaDBKeVVsTnhSR2tsUHgxaFpBSjZFemVKV013LVZEYTJJNGpJVXVHWm9GMTFSNkg4WllhM3d3NmFHM3ZJYjJWRGg4MDEtSTdJdGl5NHJYVU44MDZxMndlT25wbFpsb3ZTRGZBUjJhN0tOMTZick53T2JB?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "2 Goldman Sachs ETFs Paying 8%+ in Passive Income with Double-Digit Upside Potential",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNLVRsaGVveUpmUjhudjlnUERjbU9QbTVsRG1KNmt4YUR5cm1mSU1NRVo1NjZHcFRpbDluOWFxNV9PaDBKeVVsTnhSR2tsUHgxaFpBSjZFemVKV013LVZEYTJJNGpJVXVHWm9GMTFSNkg4WllhM3d3NmFHM3ZJYjJWRGg4MDEtSTdJdGl5NHJYVU44MDZxMndlT25wbFpsb3ZTRGZBUjJhN0tOMTZick53T2JB?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Want Decades of Passive Income? Here Are 2 ETFs Worth Owning Forever.",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOemZZX2VGWUhMNExFc01QOUZhSURxS1ZsZVdnREp1SVVVWDVVeFNxXzFvUlR3OWJKZG12SnhzVG1EWElCeUpoZmNScjREYmFEV2FIU0U3QWs0ckhMMUFSajl5T2tYVTFrb0pqRXU2cTBiVUNPS0Etei1pU2RESm8tNl9ZZXhjSzItUjVzTGJCYjVVSklaeUpzS2Rn?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Want Decades of Passive Income? Here Are 2 ETFs Worth Owning Forever.",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOemZZX2VGWUhMNExFc01QOUZhSURxS1ZsZVdnREp1SVVVWDVVeFNxXzFvUlR3OWJKZG12SnhzVG1EWElCeUpoZmNScjREYmFEV2FIU0U3QWs0ckhMMUFSajl5T2tYVTFrb0pqRXU2cTBiVUNPS0Etei1pU2RESm8tNl9ZZXhjSzItUjVzTGJCYjVVSklaeUpzS2Rn?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "cf2dbbbf8c8c",
-      "slug": "passive-income",
-      "opportunity": {
-        "type": "niche-content",
-        "recommended": "Publish niche guide for \"finance\"; bundle into digital product later."
-      }
-    },
-    {
       "keyword": "fitness gear",
       "count": 22,
-      "score": 137.09953009203124,
+      "score": 119.96208883052734,
       "proper": true,
       "niches": [
         "gear"
@@ -752,17 +707,7 @@
       "examples": [
         {
           "title": "Fitness Gear on Sale for Early Prime Day",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9jNDZtZlhYOFMtWnloN2pMenFzSjhqZ0MyN3JMVHE1bVZENE5zT0hoQUpHVEpiSUhJb2Z6ZU85bmk2M3lKT1ctOTlqSlpyUVBZWDBWQkhZdUtiNWVTMDhTVmFGX295N2VWN3RDZHBPSHlaUzUtbzNR?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Fitness Gear on Sale for Early Prime Day",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9jNDZtZlhYOFMtWnloN2pMenFzSjhqZ0MyN3JMVHE1bVZENE5zT0hoQUpHVEpiSUhJb2Z6ZU85bmk2M3lKT1ctOTlqSlpyUVBZWDBWQkhZdUtiNWVTMDhTVmFGX295N2VWN3RDZHBPSHlaUzUtbzNR?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Fitness Gear on Sale for Early Prime Day",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9jNDZtZlhYOFMtWnloN2pMenFzSjhqZ0MyN3JMVHE1bVZENE5zT0hoQUpHVEpiSUhJb2Z6ZU85bmk2M3lKT1ctOTlqSlpyUVBZWDBWQkhZdUtiNWVTMDhTVmFGX295N2VWN3RDZHBPSHlaUzUtbzNR?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSm9RdFNpc3JFU2NnaUxiaVk5dnp3b2RxcU04bmQyZ3RUMENITl92OG1kcTVMRGZ2dXh3THB6Y2toMmIwUEJsVzdXX2hXZjYtTVUyVjd4SFJtRGwwUGNjaks3UjdPYzRhNDgyTVJfNFRxcF91OEdiaXViUkJmQXJqdEs4bXU?oc=5",
           "source": "gnews"
         },
         {
@@ -773,6 +718,16 @@
         {
           "title": "Fitness Gear on Sale for Early Prime Day",
           "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSm9RdFNpc3JFU2NnaUxiaVk5dnp3b2RxcU04bmQyZ3RUMENITl92OG1kcTVMRGZ2dXh3THB6Y2toMmIwUEJsVzdXX2hXZjYtTVUyVjd4SFJtRGwwUGNjaks3UjdPYzRhNDgyTVJfNFRxcF91OEdiaXViUkJmQXJqdEs4bXU?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Fitness Gear on Sale for Early Prime Day",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9jNDZtZlhYOFMtWnloN2pMenFzSjhqZ0MyN3JMVHE1bVZENE5zT0hoQUpHVEpiSUhJb2Z6ZU85bmk2M3lKT1ctOTlqSlpyUVBZWDBWQkhZdUtiNWVTMDhTVmFGX295N2VWN3RDZHBPSHlaUzUtbzNR?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Fitness Gear on Sale for Early Prime Day",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9jNDZtZlhYOFMtWnloN2pMenFzSjhqZ0MyN3JMVHE1bVZENE5zT0hoQUpHVEpiSUhJb2Z6ZU85bmk2M3lKT1ctOTlqSlpyUVBZWDBWQkhZdUtiNWVTMDhTVmFGX295N2VWN3RDZHBPSHlaUzUtbzNR?oc=5",
           "source": "gnews"
         }
       ],
@@ -784,52 +739,9 @@
       }
     },
     {
-      "keyword": "income",
-      "count": 21,
-      "score": 115.68498604250661,
-      "proper": true,
-      "niches": [
-        "finance",
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "2 Goldman Sachs ETFs Paying 8%+ in Passive Income with Double-Digit Upside Potential",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNLVRsaGVveUpmUjhudjlnUERjbU9QbTVsRG1KNmt4YUR5cm1mSU1NRVo1NjZHcFRpbDluOWFxNV9PaDBKeVVsTnhSR2tsUHgxaFpBSjZFemVKV013LVZEYTJJNGpJVXVHWm9GMTFSNkg4WllhM3d3NmFHM3ZJYjJWRGg4MDEtSTdJdGl5NHJYVU44MDZxMndlT25wbFpsb3ZTRGZBUjJhN0tOMTZick53T2JB?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "2 Goldman Sachs ETFs Paying 8%+ in Passive Income with Double-Digit Upside Potential",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNLVRsaGVveUpmUjhudjlnUERjbU9QbTVsRG1KNmt4YUR5cm1mSU1NRVo1NjZHcFRpbDluOWFxNV9PaDBKeVVsTnhSR2tsUHgxaFpBSjZFemVKV013LVZEYTJJNGpJVXVHWm9GMTFSNkg4WllhM3d3NmFHM3ZJYjJWRGg4MDEtSTdJdGl5NHJYVU44MDZxMndlT25wbFpsb3ZTRGZBUjJhN0tOMTZick53T2JB?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Want Decades of Passive Income? Here Are 2 ETFs Worth Owning Forever.",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOemZZX2VGWUhMNExFc01QOUZhSURxS1ZsZVdnREp1SVVVWDVVeFNxXzFvUlR3OWJKZG12SnhzVG1EWElCeUpoZmNScjREYmFEV2FIU0U3QWs0ckhMMUFSajl5T2tYVTFrb0pqRXU2cTBiVUNPS0Etei1pU2RESm8tNl9ZZXhjSzItUjVzTGJCYjVVSklaeUpzS2Rn?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Want Decades of Passive Income? Here Are 2 ETFs Worth Owning Forever.",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOemZZX2VGWUhMNExFc01QOUZhSURxS1ZsZVdnREp1SVVVWDVVeFNxXzFvUlR3OWJKZG12SnhzVG1EWElCeUpoZmNScjREYmFEV2FIU0U3QWs0ckhMMUFSajl5T2tYVTFrb0pqRXU2cTBiVUNPS0Etei1pU2RESm8tNl9ZZXhjSzItUjVzTGJCYjVVSklaeUpzS2Rn?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Want Decades of Passive Income? Here Are 2 ETFs Worth Owning Forever.",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOemZZX2VGWUhMNExFc01QOUZhSURxS1ZsZVdnREp1SVVVWDVVeFNxXzFvUlR3OWJKZG12SnhzVG1EWElCeUpoZmNScjREYmFEV2FIU0U3QWs0ckhMMUFSajl5T2tYVTFrb0pqRXU2cTBiVUNPS0Etei1pU2RESm8tNl9ZZXhjSzItUjVzTGJCYjVVSklaeUpzS2Rn?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "00cf141f881d",
-      "slug": "income",
-      "opportunity": {
-        "type": "niche-content",
-        "recommended": "Publish niche guide for \"finance\"; bundle into digital product later."
-      }
-    },
-    {
       "keyword": "boston dynamics",
       "count": 8,
-      "score": 111.01433505904623,
+      "score": 113.57400346382909,
       "proper": true,
       "niches": [
         "ai"
@@ -854,9 +766,41 @@
       }
     },
     {
+      "keyword": "paid options",
+      "count": 11,
+      "score": 108.99838417254662,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "Best AI Creativity Tools: Free & Paid Options",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRERGWnNMYlJaNjFyZE5XYjdzbndJX0h1VE5IZjRHd2VHR18zZE93R1RFaWIxMG4td0JOa0pHSVppLTd6YmFicVFDYnpkNUswNXoxYmhsMm1YTk9UQ1dXbXk4dnhmeFRyS0lLTWdqWnl6R3AzX2dWSFl6R3JWQVF0djRYQkZnN2M?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Best AI Creativity Tools: Free & Paid Options",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRERGWnNMYlJaNjFyZE5XYjdzbndJX0h1VE5IZjRHd2VHR18zZE93R1RFaWIxMG4td0JOa0pHSVppLTd6YmFicVFDYnpkNUswNXoxYmhsMm1YTk9UQ1dXbXk4dnhmeFRyS0lLTWdqWnl6R3AzX2dWSFl6R3JWQVF0djRYQkZnN2M?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Best AI Creativity Tools: Free & Paid Options",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRERGWnNMYlJaNjFyZE5XYjdzbndJX0h1VE5IZjRHd2VHR18zZE93R1RFaWIxMG4td0JOa0pHSVppLTd6YmFicVFDYnpkNUswNXoxYmhsMm1YTk9UQ1dXbXk4dnhmeFRyS0lLTWdqWnl6R3AzX2dWSFl6R3JWQVF0djRYQkZnN2M?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "1bc98141672b",
+      "slug": "paid-options",
+      "opportunity": {
+        "type": "tooling",
+        "recommended": "Build / list AI tools; monetize via affiliate links + lead magnet."
+      }
+    },
+    {
       "keyword": "project valhalla",
       "count": 8,
-      "score": 109.48110598076478,
+      "score": 83.35158616317545,
       "proper": true,
       "niches": [
         "ai"
@@ -881,89 +825,126 @@
       }
     },
     {
-      "keyword": "unitedhealth groupposted",
-      "count": 8,
-      "score": 95.8621939064228,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "UnitedHealth Groupposted $6.2B in profits last quarter whilesimultaneously denying 32% of all priorauthorization claims.They made $6.2 billion. They denied oneout of every three medical requests.You p",
-          "url": "https://mastodon.social/@joewo/116778533677854859",
-          "source": "mastodon"
-        },
-        {
-          "title": "UnitedHealth Groupposted $6.2B in profits last quarter whilesimultaneously denying 32% of all priorauthorization claims.They made $6.2 billion. They denied oneout of every three medical requests.You p",
-          "url": "https://mastodon.social/@joewo/116778533677854859",
-          "source": "mastodon"
-        }
-      ],
-      "id": "852776179414",
-      "slug": "unitedhealth-groupposted",
-      "opportunity": {
-        "type": "niche-content",
-        "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
-      }
-    },
-    {
-      "keyword": "fitness equipment",
+      "keyword": "affordability crisis",
       "count": 11,
-      "score": 81.74878812940996,
+      "score": 78.34258862401788,
       "proper": true,
       "niches": [
         "ai"
       ],
       "examples": [
         {
-          "title": "Amazon Prime Day Fitness Deals: Shop the Best Deals on Fitness Equipment",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE51M3laczhpYWNOVVE1NXk0X1ZDYmdWV1ZTaFc3dVo4cEN3VEdLcmdaeGd2cHJ1WXJzSlB6elZveG54Rk5JdzE4NFpWVVktZGdDcEhZX18tV0F3NHg3MUJMekpGSEVwZlpyRkVrZTVSbTM?oc=5",
+          "title": "Affordability Crisis: Five smart side-hustle ideas to the rescue",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTlpoczY3VEVXQ2JHVVdwenZjRjJUS2xrNkZ1VS1BODZyZ0g1TkNjcnJfZldCa2xyenEyXzlKMzlDMDVCMXdvdFdlbmNhV0tqU3N6YkxkdjFzbFZVWEwzQl9ELWd6TlBacm1wOTloc0Z4a0ZKczBrY1N5MHNwUnFFZm1vVTNFeU15N0hIeFZCQWNqMlVIWnlHTXFlTEh0VEVVREhDaWpIWGptUG82QU9hZ0lod0NiWkNER3hxWQ?oc=5",
           "source": "gnews"
         },
         {
-          "title": "Amazon Prime Day Fitness Deals: Shop the Best Deals on Fitness Equipment",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE51M3laczhpYWNOVVE1NXk0X1ZDYmdWV1ZTaFc3dVo4cEN3VEdLcmdaeGd2cHJ1WXJzSlB6elZveG54Rk5JdzE4NFpWVVktZGdDcEhZX18tV0F3NHg3MUJMekpGSEVwZlpyRkVrZTVSbTM?oc=5",
+          "title": "Affordability Crisis: Five smart side-hustle ideas to the rescue",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTlpoczY3VEVXQ2JHVVdwenZjRjJUS2xrNkZ1VS1BODZyZ0g1TkNjcnJfZldCa2xyenEyXzlKMzlDMDVCMXdvdFdlbmNhV0tqU3N6YkxkdjFzbFZVWEwzQl9ELWd6TlBacm1wOTloc0Z4a0ZKczBrY1N5MHNwUnFFZm1vVTNFeU15N0hIeFZCQWNqMlVIWnlHTXFlTEh0VEVVREhDaWpIWGptUG82QU9hZ0lod0NiWkNER3hxWQ?oc=5",
           "source": "gnews"
         },
         {
-          "title": "Amazon Prime Day Fitness Deals: Shop the Best Deals on Fitness Equipment",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE51M3laczhpYWNOVVE1NXk0X1ZDYmdWV1ZTaFc3dVo4cEN3VEdLcmdaeGd2cHJ1WXJzSlB6elZveG54Rk5JdzE4NFpWVVktZGdDcEhZX18tV0F3NHg3MUJMekpGSEVwZlpyRkVrZTVSbTM?oc=5",
+          "title": "Affordability Crisis: Five smart side-hustle ideas to the rescue",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTlpoczY3VEVXQ2JHVVdwenZjRjJUS2xrNkZ1VS1BODZyZ0g1TkNjcnJfZldCa2xyenEyXzlKMzlDMDVCMXdvdFdlbmNhV0tqU3N6YkxkdjFzbFZVWEwzQl9ELWd6TlBacm1wOTloc0Z4a0ZKczBrY1N5MHNwUnFFZm1vVTNFeU15N0hIeFZCQWNqMlVIWnlHTXFlTEh0VEVVREhDaWpIWGptUG82QU9hZ0lod0NiWkNER3hxWQ?oc=5",
           "source": "gnews"
         }
       ],
-      "id": "d6e2f034e8a3",
-      "slug": "fitness-equipment",
+      "id": "75c4782cb45d",
+      "slug": "affordability-crisis",
       "opportunity": {
         "type": "niche-content",
         "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
       }
     },
     {
-      "keyword": "windows powershell",
+      "keyword": "arctic ocean",
       "count": 8,
-      "score": 80.97375294393149,
+      "score": 74.23970448863238,
       "proper": true,
       "niches": [
         "software"
       ],
       "examples": [
         {
-          "title": "Don't look now, but it seems Gizmodo's homepage is now serving up a Clickfix attack.Basics of the Click-Fix exploit, which causes a pasted URL to fetch malware via Windows Powershell. https://krebsons",
-          "url": "https://infosec.exchange/@briankrebs/116780029181293028",
+          "title": "No surprises here - #Arctic Ocean stripes are off the scale. The Arctic is warming faster than anywhere else in the world. #ShowYourStripes➡️ Explore your own climate change stripes: https://showyours",
+          "url": "https://fediscience.org/@ZLabe/116782361783284678",
           "source": "mastodon"
         },
         {
-          "title": "Don't look now, but it seems Gizmodo's homepage is now serving up a Clickfix attack.Basics of the Click-Fix exploit, which causes a pasted URL to fetch malware via Windows Powershell. https://krebsons",
-          "url": "https://infosec.exchange/@briankrebs/116780029181293028",
+          "title": "No surprises here - #Arctic Ocean stripes are off the scale. The Arctic is warming faster than anywhere else in the world. #ShowYourStripes➡️ Explore your own climate change stripes: https://showyours",
+          "url": "https://fediscience.org/@ZLabe/116782361783284678",
           "source": "mastodon"
         }
       ],
-      "id": "f081c3b0140b",
-      "slug": "windows-powershell",
+      "id": "2f5cb437b329",
+      "slug": "arctic-ocean",
       "opportunity": {
         "type": "niche-content",
         "recommended": "Publish niche guide for \"software\"; bundle into digital product later."
+      }
+    },
+    {
+      "keyword": "boot server",
+      "count": 8,
+      "score": 70.85176473654747,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "Bootimus – A Self-Contained PXE and HTTP Boot Server",
+          "url": "https://bootimus.com",
+          "source": "hackernews"
+        },
+        {
+          "title": "Bootimus – A Self-Contained PXE and HTTP Boot Server",
+          "url": "https://bootimus.com",
+          "source": "hackernews"
+        }
+      ],
+      "id": "538098c0067a",
+      "slug": "boot-server",
+      "opportunity": {
+        "type": "niche-content",
+        "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
+      }
+    },
+    {
+      "keyword": "bot polymarket",
+      "count": 12,
+      "score": 67.20865249437526,
+      "proper": false,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "MstKail/polymarket-trading-bot-services-polyedge365 — polymarket trading bot services, polymarket copy trading bot, polymarket arbitrage bot, polymarket hedge bot, polymarket maker bot, polymarket tra",
+          "url": "https://github.com/MstKail/polymarket-trading-bot-services-polyedge365",
+          "source": "github"
+        },
+        {
+          "title": "MstKail/polymarket-trading-bot-services-polyedge365 — polymarket trading bot services, polymarket copy trading bot, polymarket arbitrage bot, polymarket hedge bot, polymarket maker bot, polymarket tra",
+          "url": "https://github.com/MstKail/polymarket-trading-bot-services-polyedge365",
+          "source": "github"
+        },
+        {
+          "title": "MstKail/polymarket-trading-bot-services-polyedge365 — polymarket trading bot services, polymarket copy trading bot, polymarket arbitrage bot, polymarket hedge bot, polymarket maker bot, polymarket tra",
+          "url": "https://github.com/MstKail/polymarket-trading-bot-services-polyedge365",
+          "source": "github"
+        },
+        {
+          "title": "MstKail/polymarket-trading-bot-services-polyedge365 — polymarket trading bot services, polymarket copy trading bot, polymarket arbitrage bot, polymarket hedge bot, polymarket maker bot, polymarket tra",
+          "url": "https://github.com/MstKail/polymarket-trading-bot-services-polyedge365",
+          "source": "github"
+        }
+      ],
+      "id": "eb9ff6d7608d",
+      "slug": "bot-polymarket",
+      "opportunity": {
+        "type": "niche-content",
+        "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
       }
     }
   ]

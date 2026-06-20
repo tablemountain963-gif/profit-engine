@@ -1064,46 +1064,6 @@
       "losses": 0,
       "niche": "ai"
     },
-    "megarounds-proliferate": {
-      "firstSeen": "2026-06-06T14:28:45.955Z",
-      "lastSeen": "2026-06-06T14:28:45.955Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "ai"
-    },
-    "french-horn": {
-      "firstSeen": "2026-06-06T14:28:53.487Z",
-      "lastSeen": "2026-06-06T14:28:53.487Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "ai"
-    },
-    "software-earnings": {
-      "firstSeen": "2026-06-06T14:29:10.949Z",
-      "lastSeen": "2026-06-06T14:29:10.949Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "ai"
-    },
-    "consumer-productivity-apps": {
-      "firstSeen": "2026-06-06T14:29:25.925Z",
-      "lastSeen": "2026-06-06T14:29:25.925Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "software"
-    },
-    "mechanical-keyboard": {
-      "firstSeen": "2026-06-06T14:29:44.767Z",
-      "lastSeen": "2026-06-06T14:29:44.767Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "gear"
-    },
     "diy-ai": {
       "firstSeen": "2026-06-06T16:59:33.928Z",
       "lastSeen": "2026-06-11T18:40:43.037Z",
@@ -1426,10 +1386,10 @@
     },
     "loch-shieldaig": {
       "firstSeen": "2026-06-08T05:28:52.759Z",
-      "lastSeen": "2026-06-15T06:21:56.863Z",
-      "count": 2,
+      "lastSeen": "2026-06-20T15:02:22.388Z",
+      "count": 3,
       "wins": 0,
-      "losses": 0,
+      "losses": 1,
       "niche": "ai"
     },
     "montara-mountain": {
@@ -1578,8 +1538,8 @@
     },
     "6f6f6f-yahoo": {
       "firstSeen": "2026-06-08T22:19:31.466Z",
-      "lastSeen": "2026-06-08T22:19:31.466Z",
-      "count": 1,
+      "lastSeen": "2026-06-20T15:03:04.277Z",
+      "count": 2,
       "wins": 0,
       "losses": 0,
       "niche": "finance"
@@ -2642,10 +2602,10 @@
     },
     "grande-bible": {
       "firstSeen": "2026-06-15T06:21:59.822Z",
-      "lastSeen": "2026-06-15T06:21:59.822Z",
-      "count": 1,
+      "lastSeen": "2026-06-20T15:02:22.389Z",
+      "count": 2,
       "wins": 0,
-      "losses": 0,
+      "losses": 1,
       "niche": "ai"
     },
     "_blank-tools": {
@@ -3338,9 +3298,9 @@
     },
     "qualcomm-qcs6490": {
       "firstSeen": "2026-06-19T15:58:38.101Z",
-      "lastSeen": "2026-06-19T15:58:38.101Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-20T15:02:22.390Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -3458,25 +3418,25 @@
     },
     "windows-powershell": {
       "firstSeen": "2026-06-20T05:09:44.340Z",
-      "lastSeen": "2026-06-20T05:09:44.340Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-20T15:02:22.390Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "software"
     },
     "verona-library": {
       "firstSeen": "2026-06-20T05:09:47.009Z",
-      "lastSeen": "2026-06-20T05:09:47.009Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-20T15:02:22.391Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "software"
     },
     "meadowridge-library": {
       "firstSeen": "2026-06-20T05:09:49.339Z",
-      "lastSeen": "2026-06-20T05:09:49.339Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-20T15:02:22.392Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "software"
     },
@@ -3487,22 +3447,62 @@
       "wins": 0,
       "losses": 0,
       "niche": "ai"
+    },
+    "arctic-ocean": {
+      "firstSeen": "2026-06-20T15:02:28.299Z",
+      "lastSeen": "2026-06-20T15:02:28.299Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "software"
+    },
+    "boot-server": {
+      "firstSeen": "2026-06-20T15:02:31.974Z",
+      "lastSeen": "2026-06-20T15:02:31.974Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "rtx-pro": {
+      "firstSeen": "2026-06-20T15:02:34.938Z",
+      "lastSeen": "2026-06-20T15:02:34.938Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "tech-gadgets": {
+      "firstSeen": "2026-06-20T15:02:56.920Z",
+      "lastSeen": "2026-06-20T15:02:56.920Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "less-than": {
+      "firstSeen": "2026-06-20T15:03:18.059Z",
+      "lastSeen": "2026-06-20T15:03:18.059Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
     }
   },
   "niches": {
     "ai": {
-      "count": 651,
-      "wins": 188,
-      "losses": 25
+      "count": 658,
+      "wins": 189,
+      "losses": 27
     },
     "finance": {
-      "count": 56,
+      "count": 57,
       "wins": 10,
       "losses": 0
     },
     "software": {
-      "count": 156,
-      "wins": 40,
+      "count": 160,
+      "wins": 43,
       "losses": 8
     },
     "gear": {
