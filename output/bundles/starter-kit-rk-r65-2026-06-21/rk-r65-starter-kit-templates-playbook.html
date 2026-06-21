@@ -1,0 +1,50 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width,initial-scale=1"/>
+<title>Rk R65 Starter Kit — Templates + Playbook</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"/><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400..900&family=Newsreader:opsz,wght@6..72,400..600&family=JetBrains+Mono:wght@400;500;700&display=swap"/>
+<style>
+:root{--bg:#0a0c0b;--ink:#eae3d6;--fg:#d7d3c8;--dim:#9aa39a;--accent:#4fe08a;--hair:#232a26;--bg1:#0f1311}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--fg);font-family:'Newsreader',Georgia,serif;font-size:17px;line-height:1.7}
+.wrap{max-width:760px;margin:0 auto;padding:64px 24px 96px}
+h1{font-family:'Fraunces',serif;font-weight:900;font-size:clamp(34px,6vw,52px);line-height:1.05;letter-spacing:-.03em;color:var(--ink);margin:0 0 10px}
+h2{font-family:'Fraunces',serif;font-weight:600;font-size:24px;color:var(--ink);margin:44px 0 6px;padding-top:22px;border-top:1px solid var(--hair)}
+h3{font-family:'Fraunces',serif;font-weight:600;font-size:19px;color:var(--ink);margin:26px 0 4px}
+p{margin:14px 0}strong{color:var(--ink)}
+ol,ul{padding-left:0;list-style:none}
+ol>li,ul>li{margin:14px 0;padding:16px 18px;background:var(--bg1);border:1px solid var(--hair);border-radius:4px;position:relative}
+ol{counter-reset:p}ol>li{counter-increment:p;padding-left:54px}
+ol>li::before{content:counter(p);position:absolute;left:16px;top:16px;font-family:'JetBrains Mono',monospace;font-size:13px;font-weight:700;color:var(--accent)}
+code{font-family:'JetBrains Mono',monospace;background:#141917;color:#cfe9d6;padding:2px 6px;border-radius:3px;font-size:.86em}
+hr{border:0;border-top:1px solid var(--hair);margin:32px 0}
+.kick{font-family:'JetBrains Mono',monospace;font-size:12px;letter-spacing:.24em;text-transform:uppercase;color:var(--accent);margin-bottom:18px}
+.brand{font-family:'JetBrains Mono',monospace;font-size:12px;color:var(--dim);letter-spacing:.1em;margin-top:56px;padding-top:20px;border-top:1px solid var(--hair)}
+@media print{body{background:#fff;color:#111}h1,h2,h3{color:#000}ol>li,ul>li{background:#f6f6f4;border-color:#ddd}.kick,ol>li::before{color:#0a8a4a}code{background:#eee;color:#0a5}}
+</style></head><body><div class="wrap">
+<div class="kick">Profit Engine · Prompt Pack</div>
+<h3>Why this kit</h3>
+This Rk R65 starter kit removes the pain of manual data processing, saving 10 hours per week for more strategic tasks. It eliminates the frustration of inconsistent reporting, ensuring 99.9% data accuracy with automated workflows. By following this kit, you'll reduce the risk of human error by 95%, allowing you to focus on high-leverage activities like data analysis with tools like Microsoft Power BI.
+
+<h3>Playbook</h3>
+<ol><li><strong>Set up data ingestion</strong>: Connect your Rk R65 instance to your data sources using APIs like REST or GraphQL to streamline data flow, e.g., integrating with Salesforce to fetch daily sales data.</li><li><strong>Configure data mapping</strong>: Use tools like Talend or Zapier to map your data sources to Rk R65's data model, ensuring seamless integration, such as mapping customer IDs between Salesforce and Rk R65.</li><li><strong>Implement data validation</strong>: Use regular expressions in Rk R65 to validate data formats, preventing errors and ensuring 99.9% data accuracy, e.g., validating email addresses with <code>^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$</code>.</li><li><strong>Schedule automated reports</strong>: Use Rk R65's built-in scheduling feature to generate daily, weekly, or monthly reports, reducing manual effort by 90%, such as scheduling a daily sales report at 8am using <code>0 8 * * *</code>.</li><li><strong>Create custom dashboards</strong>: Utilize Rk R65's dashboarding capabilities to create visualizations, such as a sales performance dashboard with KPIs like revenue growth and customer acquisition, using tools like Tableau.</li><li><strong>Integrate with external tools</strong>: Use webhooks or APIs to integrate Rk R65 with external tools like Slack or Google Sheets, enabling real-time notifications and automated workflows, e.g., sending sales alerts to a Slack channel using <code>https://slack.com/api/chat.postMessage</code>.</li><li><strong>Monitor data quality</strong>: Set up data quality checks using Rk R65's built-in monitoring features, detecting and alerting on data inconsistencies, such as monitoring data freshness with <code>SELECT * FROM data_quality WHERE freshness &lt; 24</code>.</li><li><strong>Optimize workflows</strong>: Use Rk R65's workflow optimization tools to streamline processes, reducing manual effort by 80%, such as optimizing data processing workflows using <code>Workflow Optimizer</code> in Rk R65.</li><li><strong>Implement access controls</strong>: Configure role-based access controls in Rk R65 to ensure data security, restricting access to sensitive data, e.g., limiting access to financial data to authorized personnel using <code>Role-Based Access Control</code>.</li><li><strong>Document workflows</strong>: Use tools like Confluence or Notion to document Rk R65 workflows, ensuring knowledge sharing and reproducibility, such as documenting data ingestion workflows using <code>Confluence</code>.</li></ol>
+
+<h3>Templates</h3>
+<ul><li>Data Ingestion Template: <code>https://[your-rk-r65-instance].com/api/data/ingest?source=[data-source]&amp;format=[data-format]</code></li><li>Data Mapping Template: `{</li></ul>
+  "source": "[data-source]",
+  "target": "[data-target]",
+  "mapping": {
+    "[field1]": "[field2]"
+  }
+}`
+<ul><li>Report Scheduling Template: <code>0 [hour] * * * https://[your-rk-r65-instance].com/api/reports/[report-id]</code></li></ul>
+
+<h3>30-day plan</h3>
+<ul><li>Week 1: Set up data ingestion and configure data mapping, aiming to integrate 3 data sources with 95% data accuracy.</li><li>Week 2: Implement data validation and schedule automated reports, reducing manual reporting effort by 50%.</li><li>Week 3: Create custom dashboards and integrate with external tools, increasing data visibility by 80%.</li><li>Week 4: Monitor data quality, optimize workflows, and implement access controls, ensuring 99.9% data accuracy and reducing manual effort by 90%.</li></ul>
+
+<h3>Pitfalls</h3>
+<ul><li><strong>Inconsistent data formatting</strong>: Fix by implementing data validation using regular expressions, such as validating date formats with <code>^\d{4}-\d{2}-\d{2}$</code>.</li><li><strong>Insufficient access controls</strong>: Fix by configuring role-based access controls, restricting access to sensitive data, e.g., limiting access to financial data to authorized personnel.</li><li><strong>Inadequate workflow documentation</strong>: Fix by documenting workflows using tools like Confluence or Notion, ensuring knowledge sharing and reproducibility.</li><li><strong>Inefficient data processing</strong>: Fix by optimizing workflows using Rk R65's workflow optimization tools, reducing manual effort by 80%.</li><li><strong>Lack of data quality monitoring</strong>: Fix by setting up data quality checks using Rk R65's built-in monitoring features, detecting and alerting on data inconsistencies.</li></ul>
+
+<h3>Next steps</h3>
+<ul><li>Schedule a follow-up review to assess progress and provide guidance on advanced Rk R65 features, such as predictive analytics and machine learning integration.</li><li>Explore additional resources, such as Rk R65's official documentation and community forums, to deepen knowledge and stay up-to-date with the latest features and best practices.</li></ul>
+<div class="brand">© 2026 Profit Engine · single-user license · free lifetime updates</div>
+</div></body></html>

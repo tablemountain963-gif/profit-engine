@@ -1168,22 +1168,6 @@
       "losses": 0,
       "niche": "ai"
     },
-    "engineering-career": {
-      "firstSeen": "2026-06-07T17:05:49.578Z",
-      "lastSeen": "2026-06-07T17:05:49.578Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "ai"
-    },
-    "career-dont": {
-      "firstSeen": "2026-06-07T17:05:59.207Z",
-      "lastSeen": "2026-06-07T17:05:59.207Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "ai"
-    },
     "offline-whoop": {
       "firstSeen": "2026-06-07T21:56:27.823Z",
       "lastSeen": "2026-06-08T05:28:23.828Z",
@@ -1618,8 +1602,8 @@
     },
     "early-prime": {
       "firstSeen": "2026-06-10T16:34:44.170Z",
-      "lastSeen": "2026-06-10T18:24:33.865Z",
-      "count": 2,
+      "lastSeen": "2026-06-21T17:18:41.634Z",
+      "count": 3,
       "wins": 1,
       "losses": 0,
       "niche": "software"
@@ -3514,9 +3498,9 @@
     },
     "yahoo-finance": {
       "firstSeen": "2026-06-21T15:10:34.463Z",
-      "lastSeen": "2026-06-21T15:10:34.463Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-21T17:18:36.821Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -3527,26 +3511,74 @@
       "wins": 0,
       "losses": 0,
       "niche": "ai"
+    },
+    "gear-sale": {
+      "firstSeen": "2026-06-21T17:18:44.727Z",
+      "lastSeen": "2026-06-21T17:18:44.727Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "gear"
+    },
+    "sale-early": {
+      "firstSeen": "2026-06-21T17:18:47.639Z",
+      "lastSeen": "2026-06-21T17:18:47.639Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "gear"
+    },
+    "rk-r65": {
+      "firstSeen": "2026-06-21T17:18:52.531Z",
+      "lastSeen": "2026-06-21T17:18:52.531Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "finance"
+    },
+    "windows-copilot": {
+      "firstSeen": "2026-06-21T17:19:01.092Z",
+      "lastSeen": "2026-06-21T17:19:01.092Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "apple-internals": {
+      "firstSeen": "2026-06-21T17:19:29.274Z",
+      "lastSeen": "2026-06-21T17:19:29.274Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "software"
+    },
+    "autonomous-llm": {
+      "firstSeen": "2026-06-21T17:19:51.260Z",
+      "lastSeen": "2026-06-21T17:19:51.260Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
     }
   },
   "niches": {
     "ai": {
-      "count": 675,
-      "wins": 193,
+      "count": 678,
+      "wins": 194,
       "losses": 28
     },
     "finance": {
-      "count": 58,
+      "count": 59,
       "wins": 10,
       "losses": 0
     },
     "software": {
-      "count": 171,
+      "count": 172,
       "wins": 45,
       "losses": 9
     },
     "gear": {
-      "count": 63,
+      "count": 66,
       "wins": 18,
       "losses": 0
     },
