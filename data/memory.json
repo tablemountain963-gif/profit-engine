@@ -330,8 +330,8 @@
     },
     "happy": {
       "firstSeen": "2026-05-30T14:27:52.108Z",
-      "lastSeen": "2026-06-14T22:01:30.740Z",
-      "count": 3,
+      "lastSeen": "2026-06-21T15:10:55.842Z",
+      "count": 4,
       "wins": 1,
       "losses": 0,
       "niche": "software"
@@ -607,14 +607,6 @@
       "wins": 1,
       "losses": 0,
       "niche": "ai"
-    },
-    "maya-angelouand": {
-      "firstSeen": "2026-06-02T05:27:35.711Z",
-      "lastSeen": "2026-06-07T14:50:31.701Z",
-      "count": 2,
-      "wins": 0,
-      "losses": 1,
-      "niche": "software"
     },
     "chipotlai-max": {
       "firstSeen": "2026-06-02T05:27:38.956Z",
@@ -1149,30 +1141,6 @@
       "lastSeen": "2026-06-09T05:02:01.486Z",
       "count": 2,
       "wins": 1,
-      "losses": 0,
-      "niche": "ai"
-    },
-    "agent-skill": {
-      "firstSeen": "2026-06-07T14:50:52.301Z",
-      "lastSeen": "2026-06-07T14:50:52.301Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "ai"
-    },
-    "produce": {
-      "firstSeen": "2026-06-07T14:50:59.637Z",
-      "lastSeen": "2026-06-07T14:50:59.637Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "ai"
-    },
-    "software-engineering": {
-      "firstSeen": "2026-06-07T14:51:21.944Z",
-      "lastSeen": "2026-06-07T14:51:21.944Z",
-      "count": 1,
-      "wins": 0,
       "losses": 0,
       "niche": "ai"
     },
@@ -2674,8 +2642,8 @@
     },
     "setup-installer": {
       "firstSeen": "2026-06-15T22:53:17.039Z",
-      "lastSeen": "2026-06-16T06:31:23.784Z",
-      "count": 2,
+      "lastSeen": "2026-06-21T15:10:42.384Z",
+      "count": 3,
       "wins": 1,
       "losses": 0,
       "niche": "gear"
@@ -2706,10 +2674,10 @@
     },
     "bogota-colombia": {
       "firstSeen": "2026-06-16T06:31:33.373Z",
-      "lastSeen": "2026-06-16T06:31:33.373Z",
-      "count": 1,
+      "lastSeen": "2026-06-21T15:10:22.315Z",
+      "count": 2,
       "wins": 0,
-      "losses": 0,
+      "losses": 1,
       "niche": "software"
     },
     "turn-app-store": {
@@ -3498,9 +3466,9 @@
     },
     "unreal-engine": {
       "firstSeen": "2026-06-21T05:58:29.435Z",
-      "lastSeen": "2026-06-21T05:58:29.435Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-21T15:10:22.316Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "software"
     },
@@ -3527,11 +3495,43 @@
       "wins": 0,
       "losses": 0,
       "niche": "ai"
+    },
+    "splendor-solis": {
+      "firstSeen": "2026-06-21T15:10:27.748Z",
+      "lastSeen": "2026-06-21T15:10:27.748Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "software"
+    },
+    "mechanical-keyboards": {
+      "firstSeen": "2026-06-21T15:10:30.803Z",
+      "lastSeen": "2026-06-21T15:10:30.803Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "gear"
+    },
+    "yahoo-finance": {
+      "firstSeen": "2026-06-21T15:10:34.463Z",
+      "lastSeen": "2026-06-21T15:10:34.463Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "agent-skill": {
+      "firstSeen": "2026-06-21T15:10:48.824Z",
+      "lastSeen": "2026-06-21T15:10:48.824Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
     }
   },
   "niches": {
     "ai": {
-      "count": 673,
+      "count": 675,
       "wins": 193,
       "losses": 28
     },
@@ -3541,12 +3541,12 @@
       "losses": 0
     },
     "software": {
-      "count": 167,
-      "wins": 44,
-      "losses": 8
+      "count": 171,
+      "wins": 45,
+      "losses": 9
     },
     "gear": {
-      "count": 61,
+      "count": 63,
       "wins": 18,
       "losses": 0
     },
