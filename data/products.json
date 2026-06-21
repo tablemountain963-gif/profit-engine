@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "slug": "mini-ebook-light-gadgets-2026-06-21",
+      "title": "Light Gadgets: A 30-Minute Field Guide",
+      "blurb": "Read it in 30 minutes. Apply it forever. Field guide to Light Gadgets.",
+      "type": "mini-ebook",
+      "topic": "Light Gadgets",
+      "niche": "gear",
+      "price": 14,
+      "generatedAt": "2026-06-21T22:07:23.865Z",
+      "files": [
+        "ebook.md",
+        "README.md",
+        "LICENSE.txt"
+      ]
+    },
+    {
+      "slug": "mini-ebook-007-light-2026-06-21",
+      "title": "007 Light: A 30-Minute Field Guide",
+      "blurb": "Read it in 30 minutes. Apply it forever. Field guide to 007 Light.",
+      "type": "mini-ebook",
+      "topic": "007 Light",
+      "niche": "gear",
+      "price": 14,
+      "generatedAt": "2026-06-21T22:07:16.622Z",
+      "files": [
+        "ebook.md",
+        "README.md",
+        "LICENSE.txt"
+      ]
+    },
+    {
       "slug": "starter-kit-rk-r65-2026-06-21",
       "title": "Rk R65 Starter Kit — Templates + Playbook",
       "blurb": "Templates, playbook, and 30-day plan for Rk R65. Skip the blank page.",

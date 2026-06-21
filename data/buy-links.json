@@ -876,5 +876,19 @@
     "price": 29,
     "productId": "prod_UkJeEuJuXHXfyO",
     "cover": "/assets/pack-cover.png"
+  },
+  "mini-ebook-light-gadgets-2026-06-21": {
+    "url": "https://buy.stripe.com/6oU9AS716cdM9jJ5VOfjG21",
+    "platform": "stripe",
+    "price": 14,
+    "productId": "prod_UkOJ91ztd0Fs3K",
+    "cover": "/assets/pack-cover.png"
+  },
+  "mini-ebook-007-light-2026-06-21": {
+    "url": "https://buy.stripe.com/eVqeVc3OU3Hg67x1FyfjG22",
+    "platform": "stripe",
+    "price": 14,
+    "productId": "prod_UkOJpSzCif1qHB",
+    "cover": "/assets/pack-cover.png"
   }
 }

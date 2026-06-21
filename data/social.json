@@ -1,6 +1,27 @@
 {
   "items": [
     {
+      "slug": "home-office-2026-06-21",
+      "topic": "Home Office",
+      "date": "2026-06-21",
+      "niche": "gear",
+      "file": "social/home-office-2026-06-21.md"
+    },
+    {
+      "slug": "pick-mission-2026-06-21",
+      "topic": "Pick Mission",
+      "date": "2026-06-21",
+      "niche": "gear",
+      "file": "social/pick-mission-2026-06-21.md"
+    },
+    {
+      "slug": "gadgets-pick-2026-06-21",
+      "topic": "Gadgets Pick",
+      "date": "2026-06-21",
+      "niche": "gear",
+      "file": "social/gadgets-pick-2026-06-21.md"
+    },
+    {
       "slug": "autonomous-llm-2026-06-21",
       "topic": "Autonomous Llm",
       "date": "2026-06-21",
@@ -1378,27 +1399,6 @@
       "date": "2026-05-29",
       "niche": "finance",
       "file": "social/income-2026-05-29.md"
-    },
-    {
-      "slug": "tools-2026-2026-05-29",
-      "topic": "Tools 2026",
-      "date": "2026-05-29",
-      "niche": "ai",
-      "file": "social/tools-2026-2026-05-29.md"
-    },
-    {
-      "slug": "agentic-code-2026-05-29",
-      "topic": "Agentic Code",
-      "date": "2026-05-29",
-      "niche": "ai",
-      "file": "social/agentic-code-2026-05-29.md"
-    },
-    {
-      "slug": "genai-red-2026-05-29",
-      "topic": "Genai. Red",
-      "date": "2026-05-29",
-      "niche": "ai",
-      "file": "social/genai-red-2026-05-29.md"
     }
   ]
 }
