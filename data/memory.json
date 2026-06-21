@@ -570,8 +570,8 @@
     },
     "side-hustle": {
       "firstSeen": "2026-06-01T20:10:58.499Z",
-      "lastSeen": "2026-06-14T15:06:51.486Z",
-      "count": 4,
+      "lastSeen": "2026-06-21T05:59:15.833Z",
+      "count": 5,
       "wins": 1,
       "losses": 0,
       "niche": "ai"
@@ -1133,38 +1133,6 @@
       "lastSeen": "2026-06-07T14:50:31.707Z",
       "count": 2,
       "wins": 1,
-      "losses": 0,
-      "niche": "ai"
-    },
-    "agentic-software-engineering": {
-      "firstSeen": "2026-06-07T05:19:47.685Z",
-      "lastSeen": "2026-06-07T05:19:47.685Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "ai"
-    },
-    "whitedns-cli": {
-      "firstSeen": "2026-06-07T05:19:56.102Z",
-      "lastSeen": "2026-06-07T05:19:56.102Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "software"
-    },
-    "xray-vpn": {
-      "firstSeen": "2026-06-07T05:20:12.773Z",
-      "lastSeen": "2026-06-07T05:20:12.773Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "software"
-    },
-    "graphic-design": {
-      "firstSeen": "2026-06-07T05:20:19.579Z",
-      "lastSeen": "2026-06-07T05:20:19.579Z",
-      "count": 1,
-      "wins": 0,
       "losses": 0,
       "niche": "ai"
     },
@@ -2698,10 +2666,10 @@
     },
     "ai-tribunal": {
       "firstSeen": "2026-06-15T22:53:13.741Z",
-      "lastSeen": "2026-06-15T22:53:13.741Z",
-      "count": 1,
+      "lastSeen": "2026-06-21T05:58:18.857Z",
+      "count": 2,
       "wins": 0,
-      "losses": 0,
+      "losses": 1,
       "niche": "ai"
     },
     "setup-installer": {
@@ -3450,9 +3418,9 @@
     },
     "claude-guillemot": {
       "firstSeen": "2026-06-20T17:15:36.602Z",
-      "lastSeen": "2026-06-20T17:15:36.602Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-21T05:58:18.859Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -3490,17 +3458,17 @@
     },
     "happy-solstice": {
       "firstSeen": "2026-06-20T21:57:57.132Z",
-      "lastSeen": "2026-06-20T21:57:57.132Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-21T05:58:18.859Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "software"
     },
     "temporary-cloudflare": {
       "firstSeen": "2026-06-20T21:58:00.068Z",
-      "lastSeen": "2026-06-20T21:58:00.068Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-21T05:58:18.860Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -3511,22 +3479,70 @@
       "wins": 0,
       "losses": 0,
       "niche": "software"
+    },
+    "franklin-ave": {
+      "firstSeen": "2026-06-21T05:58:23.668Z",
+      "lastSeen": "2026-06-21T05:58:23.668Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "wiiliideh-ave": {
+      "firstSeen": "2026-06-21T05:58:26.025Z",
+      "lastSeen": "2026-06-21T05:58:26.025Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "unreal-engine": {
+      "firstSeen": "2026-06-21T05:58:29.435Z",
+      "lastSeen": "2026-06-21T05:58:29.435Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "software"
+    },
+    "samsung-magician": {
+      "firstSeen": "2026-06-21T05:58:39.412Z",
+      "lastSeen": "2026-06-21T05:58:39.412Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "generative-software": {
+      "firstSeen": "2026-06-21T05:58:46.366Z",
+      "lastSeen": "2026-06-21T05:58:46.366Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "cloudflare-worker": {
+      "firstSeen": "2026-06-21T05:58:59.055Z",
+      "lastSeen": "2026-06-21T05:58:59.055Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
     }
   },
   "niches": {
     "ai": {
-      "count": 665,
-      "wins": 191,
-      "losses": 27
+      "count": 673,
+      "wins": 193,
+      "losses": 28
     },
     "finance": {
-      "count": 57,
+      "count": 58,
       "wins": 10,
       "losses": 0
     },
     "software": {
-      "count": 165,
-      "wins": 43,
+      "count": 167,
+      "wins": 44,
       "losses": 8
     },
     "gear": {

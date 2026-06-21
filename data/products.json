@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "slug": "prompt-pack-generative-software-2026-06-21",
+      "title": "Generative Software Prompt Pack — 50 Battle-Tested Prompts",
+      "blurb": "50 proven prompts for Generative Software. Copy/paste ready. Tested across Claude, GPT, Gemini.",
+      "type": "prompt-pack",
+      "topic": "Generative Software",
+      "niche": "ai",
+      "price": 19,
+      "generatedAt": "2026-06-21T05:58:39.412Z",
+      "files": [
+        "prompts.md",
+        "README.md",
+        "LICENSE.txt"
+      ]
+    },
+    {
+      "slug": "prompt-pack-samsung-magician-2026-06-21",
+      "title": "Samsung Magician Prompt Pack — 50 Battle-Tested Prompts",
+      "blurb": "50 proven prompts for Samsung Magician. Copy/paste ready. Tested across Claude, GPT, Gemini.",
+      "type": "prompt-pack",
+      "topic": "Samsung Magician",
+      "niche": "ai",
+      "price": 19,
+      "generatedAt": "2026-06-21T05:58:29.997Z",
+      "files": [
+        "prompts.md",
+        "README.md",
+        "LICENSE.txt"
+      ]
+    },
+    {
       "slug": "prompt-pack-apple-vision-pro-2026-06-20",
       "title": "Apple Vision Pro Prompt Pack — 50 Battle-Tested Prompts",
       "blurb": "50 proven prompts for Apple Vision Pro. Copy/paste ready. Tested across Claude, GPT, Gemini.",
