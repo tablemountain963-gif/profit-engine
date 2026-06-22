@@ -1,0 +1,26 @@
+{
+  "topic": "Groq Raises",
+  "provider": "groq",
+  "generatedAt": "2026-06-22T22:30:15.800Z",
+  "pack": {
+    "twitter_thread": [
+      "Groq just raised $650M, but 80% of AI inference workloads can run on $500 NVIDIA GPUs.",
+      "Optimizing AI models with TensorFlow Lite can cut latency by 30% and costs by 25%.",
+      "Use tools like TensorFlow Lite and OpenVINO to optimize your models before scaling.",
+      "Switching to spot instances can cut cloud costs by 50% for non-critical AI workloads.",
+      "On-prem hardware like AMD's EPYC can be 30% cheaper than cloud for large-scale AI deployments.",
+      "Avoid over-provisioning resources: a single unnecessary GPU can add $10k/yr to your bill.",
+      "What's the most creative way you've optimized your AI workload for cost? #ai #inference"
+    ],
+    "linkedin": "Groq's $650M raise highlights the demand for AI inference, but most models can run on $500 NVIDIA GPUs with proper optimization using TensorFlow Lite and OpenVINO. Switching to spot instances can cut cloud costs by 50% and on-prem hardware like AMD's EPYC can be 30% cheaper than cloud. What strategies have you used to optimize AI workloads and reduce costs by 25% or more?",
+    "tiktok_hooks": [
+      "Groq raised 650 million, but you can run AI models on a 500-dollar GPU",
+      "Cut your AI cloud costs in half with one simple switch",
+      "Are you wasting 10k a year on unnecessary AI hardware?"
+    ],
+    "reddit_headline": "Groq's $650M raise: justification for pricey AI hardware or unnecessary hype?"
+  },
+  "niche": "ai",
+  "slug": "groq-raises-2026-06-22",
+  "date": "2026-06-22"
+}

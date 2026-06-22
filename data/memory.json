@@ -18,8 +18,8 @@
     },
     "claude": {
       "firstSeen": "2026-05-28T04:02:03.327Z",
-      "lastSeen": "2026-06-17T22:28:28.085Z",
-      "count": 4,
+      "lastSeen": "2026-06-22T22:29:48.480Z",
+      "count": 5,
       "wins": 0,
       "losses": 0,
       "niche": "ai"
@@ -1293,38 +1293,6 @@
       "lastSeen": "2026-06-09T05:02:01.489Z",
       "count": 2,
       "wins": 1,
-      "losses": 0,
-      "niche": "ai"
-    },
-    "brutally-expensive": {
-      "firstSeen": "2026-06-08T22:18:20.306Z",
-      "lastSeen": "2026-06-08T22:18:20.306Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "ai"
-    },
-    "openai-submits": {
-      "firstSeen": "2026-06-08T22:18:25.981Z",
-      "lastSeen": "2026-06-08T22:18:25.981Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "ai"
-    },
-    "golden-gate": {
-      "firstSeen": "2026-06-08T22:19:03.831Z",
-      "lastSeen": "2026-06-08T22:19:03.831Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "software"
-    },
-    "capcut-pro-studio": {
-      "firstSeen": "2026-06-08T22:19:18.351Z",
-      "lastSeen": "2026-06-08T22:19:18.351Z",
-      "count": 1,
-      "wins": 0,
       "losses": 0,
       "niche": "ai"
     },
@@ -3658,9 +3626,9 @@
     },
     "api-credentials": {
       "firstSeen": "2026-06-22T19:18:33.116Z",
-      "lastSeen": "2026-06-22T19:18:33.116Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-22T22:29:23.874Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -3695,12 +3663,52 @@
       "wins": 0,
       "losses": 0,
       "niche": "ai"
+    },
+    "smart-tv-apps-contain": {
+      "firstSeen": "2026-06-22T22:29:28.502Z",
+      "lastSeen": "2026-06-22T22:29:28.502Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "residential-proxy-sdks": {
+      "firstSeen": "2026-06-22T22:29:30.690Z",
+      "lastSeen": "2026-06-22T22:29:30.690Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "frame-generation": {
+      "firstSeen": "2026-06-22T22:29:34.423Z",
+      "lastSeen": "2026-06-22T22:29:34.423Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "software"
+    },
+    "saas-isn": {
+      "firstSeen": "2026-06-22T22:30:02.783Z",
+      "lastSeen": "2026-06-22T22:30:02.783Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "software"
+    },
+    "groq-raises": {
+      "firstSeen": "2026-06-22T22:30:15.801Z",
+      "lastSeen": "2026-06-22T22:30:15.801Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
     }
   },
   "niches": {
     "ai": {
-      "count": 701,
-      "wins": 198,
+      "count": 706,
+      "wins": 199,
       "losses": 30
     },
     "finance": {
@@ -3709,7 +3717,7 @@
       "losses": 0
     },
     "software": {
-      "count": 181,
+      "count": 183,
       "wins": 46,
       "losses": 10
     },
