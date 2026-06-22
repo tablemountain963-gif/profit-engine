@@ -1,6 +1,27 @@
 {
   "items": [
     {
+      "slug": "sovereign-ai-2026-06-22",
+      "topic": "Sovereign Ai",
+      "date": "2026-06-22",
+      "niche": "ai",
+      "file": "social/sovereign-ai-2026-06-22.md"
+    },
+    {
+      "slug": "wilonity-exploit-2026-06-22",
+      "topic": "Wilonity Exploit",
+      "date": "2026-06-22",
+      "niche": "ai",
+      "file": "social/wilonity-exploit-2026-06-22.md"
+    },
+    {
+      "slug": "affordability-crisis-2026-06-22",
+      "topic": "Affordability Crisis",
+      "date": "2026-06-22",
+      "niche": "ai",
+      "file": "social/affordability-crisis-2026-06-22.md"
+    },
+    {
       "slug": "home-office-2026-06-21",
       "topic": "Home Office",
       "date": "2026-06-21",
@@ -1378,27 +1399,6 @@
       "date": "2026-05-30",
       "niche": "ai",
       "file": "social/understandingvalue-warmthxp-2026-05-30.md"
-    },
-    {
-      "slug": "energy-stocks-2026-05-29",
-      "topic": "Energy Stocks",
-      "date": "2026-05-29",
-      "niche": "finance",
-      "file": "social/energy-stocks-2026-05-29.md"
-    },
-    {
-      "slug": "dividend-stocks-2026-05-29",
-      "topic": "Dividend Stocks",
-      "date": "2026-05-29",
-      "niche": "finance",
-      "file": "social/dividend-stocks-2026-05-29.md"
-    },
-    {
-      "slug": "income-2026-05-29",
-      "topic": "Income",
-      "date": "2026-05-29",
-      "niche": "finance",
-      "file": "social/income-2026-05-29.md"
     }
   ]
 }

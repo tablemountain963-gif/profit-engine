@@ -2,8 +2,8 @@
   "topics": {
     "claude-code": {
       "firstSeen": "2026-05-28T04:01:44.987Z",
-      "lastSeen": "2026-06-13T05:19:45.954Z",
-      "count": 5,
+      "lastSeen": "2026-06-22T06:25:45.323Z",
+      "count": 6,
       "wins": 2,
       "losses": 0,
       "niche": "ai"
@@ -642,9 +642,9 @@
     },
     "apple": {
       "firstSeen": "2026-06-02T17:22:17.986Z",
-      "lastSeen": "2026-06-21T22:07:15.885Z",
-      "count": 4,
-      "wins": 0,
+      "lastSeen": "2026-06-22T06:25:38.985Z",
+      "count": 5,
+      "wins": 1,
       "losses": 0,
       "niche": "software"
     },
@@ -754,8 +754,8 @@
     },
     "affordability-crisis": {
       "firstSeen": "2026-06-03T17:59:29.318Z",
-      "lastSeen": "2026-06-15T22:53:08.629Z",
-      "count": 4,
+      "lastSeen": "2026-06-22T06:27:15.974Z",
+      "count": 5,
       "wins": 1,
       "losses": 0,
       "niche": "ai"
@@ -1216,28 +1216,12 @@
       "losses": 0,
       "niche": "ai"
     },
-    "grades-2026": {
-      "firstSeen": "2026-06-08T05:28:45.468Z",
-      "lastSeen": "2026-06-08T05:28:45.468Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "ai"
-    },
     "loch-shieldaig": {
       "firstSeen": "2026-06-08T05:28:52.759Z",
       "lastSeen": "2026-06-20T15:02:22.388Z",
       "count": 3,
       "wins": 0,
       "losses": 1,
-      "niche": "ai"
-    },
-    "montara-mountain": {
-      "firstSeen": "2026-06-08T05:29:45.225Z",
-      "lastSeen": "2026-06-08T05:29:45.225Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
       "niche": "ai"
     },
     "coding-observability": {
@@ -2778,10 +2762,10 @@
     },
     "unlocktool": {
       "firstSeen": "2026-06-17T06:07:24.714Z",
-      "lastSeen": "2026-06-17T06:07:24.714Z",
-      "count": 1,
+      "lastSeen": "2026-06-22T06:25:38.984Z",
+      "count": 2,
       "wins": 0,
-      "losses": 0,
+      "losses": 1,
       "niche": "ai"
     },
     "humiliating-iis": {
@@ -3567,13 +3551,61 @@
       "wins": 0,
       "losses": 0,
       "niche": "gear"
+    },
+    "lars-andersen": {
+      "firstSeen": "2026-06-22T06:25:48.153Z",
+      "lastSeen": "2026-06-22T06:25:48.153Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "wilonity-loader": {
+      "firstSeen": "2026-06-22T06:25:51.200Z",
+      "lastSeen": "2026-06-22T06:25:51.200Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "automotive-tools": {
+      "firstSeen": "2026-06-22T06:25:56.921Z",
+      "lastSeen": "2026-06-22T06:25:56.921Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "software"
+    },
+    "deno-desktop": {
+      "firstSeen": "2026-06-22T06:26:03.114Z",
+      "lastSeen": "2026-06-22T06:26:03.114Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "gear"
+    },
+    "wilonity-exploit": {
+      "firstSeen": "2026-06-22T06:27:22.983Z",
+      "lastSeen": "2026-06-22T06:27:22.983Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "sovereign-ai": {
+      "firstSeen": "2026-06-22T06:27:40.917Z",
+      "lastSeen": "2026-06-22T06:27:40.917Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
     }
   },
   "niches": {
     "ai": {
-      "count": 679,
+      "count": 686,
       "wins": 194,
-      "losses": 28
+      "losses": 29
     },
     "finance": {
       "count": 59,
@@ -3581,12 +3613,12 @@
       "losses": 0
     },
     "software": {
-      "count": 174,
-      "wins": 45,
+      "count": 176,
+      "wins": 46,
       "losses": 9
     },
     "gear": {
-      "count": 75,
+      "count": 76,
       "wins": 22,
       "losses": 0
     },

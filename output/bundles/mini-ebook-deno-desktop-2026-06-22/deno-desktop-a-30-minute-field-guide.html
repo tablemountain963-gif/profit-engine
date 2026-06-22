@@ -1,0 +1,103 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width,initial-scale=1"/>
+<title>Deno Desktop: A 30-Minute Field Guide</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"/><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400..900&family=Newsreader:opsz,wght@6..72,400..600&family=JetBrains+Mono:wght@400;500;700&display=swap"/>
+<style>
+:root{--bg:#0a0c0b;--ink:#eae3d6;--fg:#d7d3c8;--dim:#9aa39a;--accent:#4fe08a;--hair:#232a26;--bg1:#0f1311}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--fg);font-family:'Newsreader',Georgia,serif;font-size:17px;line-height:1.7}
+.wrap{max-width:760px;margin:0 auto;padding:64px 24px 96px}
+h1{font-family:'Fraunces',serif;font-weight:900;font-size:clamp(34px,6vw,52px);line-height:1.05;letter-spacing:-.03em;color:var(--ink);margin:0 0 10px}
+h2{font-family:'Fraunces',serif;font-weight:600;font-size:24px;color:var(--ink);margin:44px 0 6px;padding-top:22px;border-top:1px solid var(--hair)}
+h3{font-family:'Fraunces',serif;font-weight:600;font-size:19px;color:var(--ink);margin:26px 0 4px}
+p{margin:14px 0}strong{color:var(--ink)}
+ol,ul{padding-left:0;list-style:none}
+ol>li,ul>li{margin:14px 0;padding:16px 18px;background:var(--bg1);border:1px solid var(--hair);border-radius:4px;position:relative}
+ol{counter-reset:p}ol>li{counter-increment:p;padding-left:54px}
+ol>li::before{content:counter(p);position:absolute;left:16px;top:16px;font-family:'JetBrains Mono',monospace;font-size:13px;font-weight:700;color:var(--accent)}
+code{font-family:'JetBrains Mono',monospace;background:#141917;color:#cfe9d6;padding:2px 6px;border-radius:3px;font-size:.86em}
+hr{border:0;border-top:1px solid var(--hair);margin:32px 0}
+.kick{font-family:'JetBrains Mono',monospace;font-size:12px;letter-spacing:.24em;text-transform:uppercase;color:var(--accent);margin-bottom:18px}
+.brand{font-family:'JetBrains Mono',monospace;font-size:12px;color:var(--dim);letter-spacing:.1em;margin-top:56px;padding-top:20px;border-top:1px solid var(--hair)}
+@media print{body{background:#fff;color:#111}h1,h2,h3{color:#000}ol>li,ul>li{background:#f6f6f4;border-color:#ddd}.kick,ol>li::before{color:#0a8a4a}code{background:#eee;color:#0a5}}
+</style></head><body><div class="wrap">
+<div class="kick">Profit Engine · Prompt Pack</div>
+<h3>Chapter 1: Read This First</h3>
+The most common misconception about Deno Desktop is that it's simply a desktop version of the Deno runtime. While it's true that Deno Desktop is built on top of the Deno runtime, it's a distinct product with its own set of features and use cases. For example, Deno Desktop includes a built-in file system, a graphical user interface, and support for desktop-specific APIs like the <code>window</code> object. To get the most out of Deno Desktop, you need to understand its unique strengths and weaknesses.
+
+<p>A key difference between Deno and Deno Desktop is the way they handle module resolution. In Deno, modules are resolved using the <code>https://</code> or <code>file://</code> protocols, whereas in Deno Desktop, modules can be resolved using the <code>desktop://</code> protocol. This allows Deno Desktop to load modules from the local file system, making it easier to develop and test desktop applications. For instance, you can use the <code>desktop://</code> protocol to load a module from a local file like this: <code>import { foo } from 'desktop://./foo.ts';</code>.</p>
+
+<p>To illustrate the difference, consider a simple example. Suppose you want to create a desktop application that reads and writes files to the local file system. In Deno, you would use the <code>Deno.readFile</code> and <code>Deno.writeFile</code> functions, which require explicit permissions and can be cumbersome to use. In Deno Desktop, you can use the <code>window.showSaveDialog</code> and <code>window.showOpenDialog</code> functions to prompt the user for file access, making it easier to handle file I/O.</p>
+
+<p>For example, the following code snippet demonstrates how to use the <code>window.showSaveDialog</code> function to save a file in Deno Desktop: <pre><code>const { filePath } = await window.showSaveDialog({   title: 'Save File',   defaultPath: 'example.txt', }); if (filePath) {   await Deno.writeFile(filePath, 'Hello World!'); }</code></pre> This code snippet shows how Deno Desktop provides a more convenient and user-friendly way to handle file I/O compared to Deno.</p>
+
+<h3>Chapter 2: Setting Up Deno Desktop</h3>
+To get started with Deno Desktop, you'll need to install it on your system. The installation process varies depending on your operating system. On Windows, you can download the Deno Desktop installer from the official Deno website and follow the prompts to install it. On macOS, you can use Homebrew to install Deno Desktop by running the command <code>brew install deno-desktop</code>. On Linux, you can download the Deno Desktop binary from the official Deno website and follow the instructions to install it.
+
+<p>Once you've installed Deno Desktop, you can launch it by running the command <code>deno-desktop</code> in your terminal. This will start the Deno Desktop application, and you'll see a graphical user interface with a code editor and a terminal. You can use the code editor to write and edit your Deno code, and the terminal to run your code and see the output.</p>
+
+<p>For example, to create a new Deno Desktop project, you can run the command <code>deno-desktop init my-project</code> in your terminal. This will create a new directory called <code>my-project</code> with a basic Deno Desktop project structure, including a <code>main.ts</code> file and a <code>deno.json</code> file.</p>
+
+<h3>Chapter 3: Understanding the Deno Desktop File System</h3>
+Deno Desktop includes a built-in file system that allows you to read and write files to the local file system. The file system is based on the <code>desktop://</code> protocol, which provides a way to access files on the local file system. You can use the <code>desktop://</code> protocol to load modules, read and write files, and perform other file system operations.
+
+<p>For example, to read a file from the local file system, you can use the <code>Deno.readFile</code> function with the <code>desktop://</code> protocol. Here's an example: <pre><code>const fileContents = await Deno.readFile('desktop://./example.txt'); console.log(fileContents);</code></pre> This code snippet reads the contents of a file called <code>example.txt</code> from the current working directory and logs the contents to the console.</p>
+
+<p>To write a file to the local file system, you can use the <code>Deno.writeFile</code> function with the <code>desktop://</code> protocol. Here's an example: <pre><code>await Deno.writeFile('desktop://./example.txt', 'Hello World!');</code></pre> This code snippet writes the string "Hello World!" to a file called <code>example.txt</code> in the current working directory.</p>
+
+<h3>Chapter 4: Working with Modules in Deno Desktop</h3>
+Deno Desktop includes support for modules, which allow you to organize your code into reusable components. You can use the <code>import</code> statement to import modules into your Deno Desktop code, and the <code>export</code> statement to export modules from your Deno Desktop code.
+
+<p>For example, to import a module from a file called <code>foo.ts</code>, you can use the following code snippet: <pre><code>import { foo } from './foo.ts';</code></pre> This code snippet imports the <code>foo</code> function from the <code>foo.ts</code> file and makes it available for use in your Deno Desktop code.</p>
+
+<p>To export a module from a file called <code>bar.ts</code>, you can use the following code snippet: <pre><code>export function bar() {   console.log('Hello World!'); }</code></pre> This code snippet exports the <code>bar</code> function from the <code>bar.ts</code> file, making it available for import into other Deno Desktop code.</p>
+
+<h3>Chapter 5: Using Desktop-Specific APIs in Deno Desktop</h3>
+Deno Desktop includes support for desktop-specific APIs, such as the <code>window</code> object and the <code>document</code> object. You can use these APIs to interact with the desktop environment and perform tasks such as creating windows, displaying dialogs, and handling events.
+
+<p>For example, to create a new window in Deno Desktop, you can use the <code>window.open</code> function. Here's an example: <pre><code>const newWindow = window.open('https://www.example.com');</code></pre> This code snippet opens a new window with the URL <code>https://www.example.com</code>.</p>
+
+<p>To display a dialog box in Deno Desktop, you can use the <code>window.showDialog</code> function. Here's an example: <pre><code>window.showDialog({   title: 'Hello World!',   message: 'This is a dialog box.', });</code></pre> This code snippet displays a dialog box with the title "Hello World!" and the message "This is a dialog box.".</p>
+
+<h3>Chapter 6: Handling Events in Deno Desktop</h3>
+Deno Desktop includes support for events, which allow you to respond to user interactions and other events in your application. You can use the <code>addEventListener</code> function to attach event listeners to elements in your application, and the <code>removeEventListener</code> function to remove event listeners.
+
+<p>For example, to handle a click event on a button element, you can use the following code snippet: <pre><code>const button = document.getElementById('myButton'); button.addEventListener('click', () =&gt; {   console.log('Button clicked!'); });</code></pre> This code snippet attaches an event listener to the button element with the ID "myButton", and logs a message to the console when the button is clicked.</p>
+
+<p>To handle a key press event on a text input element, you can use the following code snippet: <pre><code>const input = document.getElementById('myInput'); input.addEventListener('keypress', (event) =&gt; {   console.log(<code>Key pressed: ${event.key}</code>); });</code></pre> This code snippet attaches an event listener to the text input element with the ID "myInput", and logs a message to the console with the key that was pressed.</p>
+
+<h3>Chapter 7: Debugging Deno Desktop Applications</h3>
+Deno Desktop includes support for debugging, which allows you to diagnose and fix issues in your application. You can use the <code>console.log</code> function to log messages to the console, and the <code>debugger</code> statement to pause execution and inspect variables.
+
+<p>For example, to log a message to the console, you can use the following code snippet: <pre><code>console.log('Hello World!');</code></pre> This code snippet logs the message "Hello World!" to the console.</p>
+
+<p>To pause execution and inspect variables, you can use the following code snippet: <pre><code>debugger; const foo = 'bar';</code></pre> This code snippet pauses execution at the <code>debugger</code> statement, allowing you to inspect the value of the <code>foo</code> variable.</p>
+
+<h3>Chapter 8: Deploying Deno Desktop Applications</h3>
+Deno Desktop includes support for deploying applications, which allows you to package and distribute your application to users. You can use the <code>deno-desktop build</code> command to build your application, and the <code>deno-desktop deploy</code> command to deploy your application.
+
+<p>For example, to build your application, you can use the following command: <pre><code>deno-desktop build my-app</code></pre> This command builds your application and creates a <code>my-app</code> directory with the built application.</p>
+
+<p>To deploy your application, you can use the following command: <pre><code>deno-desktop deploy my-app</code></pre> This command deploys your application to a destination of your choice, such as a file share or a web server.</p>
+
+<h3>Chapter 9: Best Practices for Deno Desktop Development</h3>
+Deno Desktop includes a number of best practices that can help you develop high-quality applications. For example, you should use the <code>desktop://</code> protocol to load modules and access the file system, and you should use the <code>window</code> object to interact with the desktop environment.
+
+<p>You should also use the <code>console.log</code> function to log messages to the console, and the <code>debugger</code> statement to pause execution and inspect variables. Additionally, you should use the <code>deno-desktop build</code> and <code>deno-desktop deploy</code> commands to build and deploy your application.</p>
+
+<h3>Chapter 10: Troubleshooting Deno Desktop Issues</h3>
+Deno Desktop includes a number of troubleshooting tools that can help you diagnose and fix issues in your application. For example, you can use the <code>console.log</code> function to log messages to the console, and the <code>debugger</code> statement to pause execution and inspect variables.
+
+<p>You can also use the <code>deno-desktop --help</code> command to display a list of available commands and options, and the <code>deno-desktop --version</code> command to display the version of Deno Desktop that you are using.</p>
+
+<h3>Chapter 11: Advanced Deno Desktop Topics</h3>
+Deno Desktop includes a number of advanced topics that can help you develop complex applications. For example, you can use the <code>window</code> object to create multiple windows, and the <code>document</code> object to manipulate the DOM.
+
+<p>You can also use the <code>addEventListener</code> function to attach event listeners to elements, and the <code>removeEventListener</code> function to remove event listeners. Additionally, you can use the <code>deno-desktop build</code> and <code>deno-desktop deploy</code> commands to build and deploy your application.</p>
+
+<h3>Chapter 12: What to Do Next</h3>
+Now that you have completed this field guide, you are ready to start developing your own Deno Desktop applications. Here are three concrete actions you can take to get started:
+
+<ol><li><strong>Install Deno Desktop</strong>: If you haven't already, install Deno Desktop on your system by following the instructions in Chapter 2.</li><li><strong>Create a new project</strong>: Use the <code>deno-desktop init</code> command to create a new Deno Desktop project, and start building your application.</li><li><strong>Learn more about Deno Desktop</strong>: Visit the Deno Desktop website and explore the documentation and tutorials to learn more about the features and capabilities of Deno Desktop.</li></ol>
+<div class="brand">© 2026 Profit Engine · single-user license · free lifetime updates</div>
+</div></body></html>

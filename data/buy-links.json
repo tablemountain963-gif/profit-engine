@@ -890,5 +890,19 @@
     "price": 14,
     "productId": "prod_UkOJpSzCif1qHB",
     "cover": "/assets/pack-cover.png"
+  },
+  "mini-ebook-deno-desktop-2026-06-22": {
+    "url": "https://buy.stripe.com/4gMcN4716dhQ3ZpckcfjG23",
+    "platform": "stripe",
+    "price": 14,
+    "productId": "prod_UkWMMkVzTfW9o6",
+    "cover": "/assets/pack-cover.png"
+  },
+  "prompt-pack-automotive-tools-2026-06-22": {
+    "url": "https://buy.stripe.com/5kQdR8fxC0v47bBckcfjG24",
+    "platform": "stripe",
+    "price": 19,
+    "productId": "prod_UkWMQzYZuSkZdG",
+    "cover": "/assets/pack-cover.png"
   }
 }
