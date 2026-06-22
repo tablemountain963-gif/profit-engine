@@ -904,5 +904,26 @@
     "price": 19,
     "productId": "prod_UkWMQzYZuSkZdG",
     "cover": "/assets/pack-cover.png"
+  },
+  "prompt-pack-liz-truss-2026-06-22": {
+    "url": "https://buy.stripe.com/dRm5kCclq4LkgMb83WfjG25",
+    "platform": "stripe",
+    "price": 19,
+    "productId": "prod_UkhD7gmgslyVK1",
+    "cover": "/assets/pack-cover.png"
+  },
+  "prompt-pack-rishi-sunak-2026-06-22": {
+    "url": "https://buy.stripe.com/eVqeVc0CI5PocvVac4fjG26",
+    "platform": "stripe",
+    "price": 19,
+    "productId": "prod_UkhDmZK0zT3vlO",
+    "cover": "/assets/pack-cover.png"
+  },
+  "prompt-pack-extended-thinking-2026-06-22": {
+    "url": "https://buy.stripe.com/eVq3cu1GMa5EbrRfwofjG27",
+    "platform": "stripe",
+    "price": 19,
+    "productId": "prod_UkhDbMMTzbgByq",
+    "cover": "/assets/pack-cover.png"
   }
 }

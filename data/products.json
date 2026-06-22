@@ -1,6 +1,51 @@
 {
   "items": [
     {
+      "slug": "prompt-pack-liz-truss-2026-06-22",
+      "title": "Liz Truss Prompt Pack — 50 Battle-Tested Prompts",
+      "blurb": "50 proven prompts for Liz Truss. Copy/paste ready. Tested across Claude, GPT, Gemini.",
+      "type": "prompt-pack",
+      "topic": "Liz Truss",
+      "niche": "software",
+      "price": 19,
+      "generatedAt": "2026-06-22T17:39:30.916Z",
+      "files": [
+        "prompts.md",
+        "README.md",
+        "LICENSE.txt"
+      ]
+    },
+    {
+      "slug": "prompt-pack-rishi-sunak-2026-06-22",
+      "title": "Rishi Sunak Prompt Pack — 50 Battle-Tested Prompts",
+      "blurb": "50 proven prompts for Rishi Sunak. Copy/paste ready. Tested across Claude, GPT, Gemini.",
+      "type": "prompt-pack",
+      "topic": "Rishi Sunak",
+      "niche": "software",
+      "price": 19,
+      "generatedAt": "2026-06-22T17:39:24.430Z",
+      "files": [
+        "prompts.md",
+        "README.md",
+        "LICENSE.txt"
+      ]
+    },
+    {
+      "slug": "prompt-pack-extended-thinking-2026-06-22",
+      "title": "Extended Thinking Prompt Pack — 50 Battle-Tested Prompts",
+      "blurb": "50 proven prompts for Extended Thinking. Copy/paste ready. Tested across Claude, GPT, Gemini.",
+      "type": "prompt-pack",
+      "topic": "Extended Thinking",
+      "niche": "ai",
+      "price": 19,
+      "generatedAt": "2026-06-22T17:39:16.844Z",
+      "files": [
+        "prompts.md",
+        "README.md",
+        "LICENSE.txt"
+      ]
+    },
+    {
       "slug": "mini-ebook-deno-desktop-2026-06-22",
       "title": "Deno Desktop: A 30-Minute Field Guide",
       "blurb": "Read it in 30 minutes. Apply it forever. Field guide to Deno Desktop.",

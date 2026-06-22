@@ -2,9 +2,9 @@
   "topics": {
     "claude-code": {
       "firstSeen": "2026-05-28T04:01:44.987Z",
-      "lastSeen": "2026-06-22T06:25:45.323Z",
-      "count": 6,
-      "wins": 2,
+      "lastSeen": "2026-06-22T17:39:04.057Z",
+      "count": 7,
+      "wins": 3,
       "losses": 0,
       "niche": "ai"
     },
@@ -1245,22 +1245,6 @@
       "lastSeen": "2026-06-08T18:19:13.535Z",
       "count": 2,
       "wins": 1,
-      "losses": 0,
-      "niche": "ai"
-    },
-    "smart-gadgets": {
-      "firstSeen": "2026-06-08T16:48:00.467Z",
-      "lastSeen": "2026-06-08T16:48:00.467Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "gear"
-    },
-    "predictable-outcomes": {
-      "firstSeen": "2026-06-08T16:48:06.553Z",
-      "lastSeen": "2026-06-08T16:48:06.553Z",
-      "count": 1,
-      "wins": 0,
       "losses": 0,
       "niche": "ai"
     },
@@ -2810,10 +2794,10 @@
     },
     "manfred-weber": {
       "firstSeen": "2026-06-17T16:38:32.289Z",
-      "lastSeen": "2026-06-17T16:38:32.289Z",
-      "count": 1,
+      "lastSeen": "2026-06-22T17:39:04.054Z",
+      "count": 2,
       "wins": 0,
-      "losses": 0,
+      "losses": 1,
       "niche": "software"
     },
     "hunger-games": {
@@ -3562,9 +3546,9 @@
     },
     "wilonity-loader": {
       "firstSeen": "2026-06-22T06:25:51.200Z",
-      "lastSeen": "2026-06-22T06:25:51.200Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-22T17:39:04.058Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -3599,26 +3583,98 @@
       "wins": 0,
       "losses": 0,
       "niche": "ai"
+    },
+    "buy-according": {
+      "firstSeen": "2026-06-22T17:39:10.200Z",
+      "lastSeen": "2026-06-22T17:39:10.200Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "hedge-funds": {
+      "firstSeen": "2026-06-22T17:39:13.046Z",
+      "lastSeen": "2026-06-22T17:39:13.046Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "mechanical-keyboard": {
+      "firstSeen": "2026-06-22T17:39:16.085Z",
+      "lastSeen": "2026-06-22T17:39:16.085Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "gear"
+    },
+    "extended-thinking": {
+      "firstSeen": "2026-06-22T17:39:24.429Z",
+      "lastSeen": "2026-06-22T17:39:24.429Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "rishi-sunak": {
+      "firstSeen": "2026-06-22T17:39:30.916Z",
+      "lastSeen": "2026-06-22T17:39:30.916Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "software"
+    },
+    "liz-truss": {
+      "firstSeen": "2026-06-22T17:39:37.258Z",
+      "lastSeen": "2026-06-22T17:39:37.258Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "software"
+    },
+    "boris-johnson": {
+      "firstSeen": "2026-06-22T17:40:06.102Z",
+      "lastSeen": "2026-06-22T17:40:06.102Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "software"
+    },
+    "lossless-scaling": {
+      "firstSeen": "2026-06-22T17:40:38.424Z",
+      "lastSeen": "2026-06-22T17:40:38.424Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "software"
+    },
+    "income-_blank": {
+      "firstSeen": "2026-06-22T17:40:45.150Z",
+      "lastSeen": "2026-06-22T17:40:45.150Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "finance"
     }
   },
   "niches": {
     "ai": {
-      "count": 686,
-      "wins": 194,
+      "count": 691,
+      "wins": 196,
       "losses": 29
     },
     "finance": {
-      "count": 59,
+      "count": 60,
       "wins": 10,
       "losses": 0
     },
     "software": {
-      "count": 176,
+      "count": 181,
       "wins": 46,
-      "losses": 9
+      "losses": 10
     },
     "gear": {
-      "count": 76,
+      "count": 77,
       "wins": 22,
       "losses": 0
     },

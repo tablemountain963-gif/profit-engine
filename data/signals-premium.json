@@ -1,187 +1,165 @@
 {
-  "generatedAt": "2026-06-22T06:25:39.989Z",
-  "sourceCount": 206,
+  "generatedAt": "2026-06-22T17:39:04.890Z",
+  "sourceCount": 204,
   "topItems": [
     {
-      "title": "Identity verification on Claude",
-      "url": "https://support.claude.com/en/articles/14328960-identity-verification-on-claude",
-      "score": 8.35,
-      "niche": "ai",
-      "source": "hackernews",
-      "engagement": {
-        "score": 680,
-        "comments": 576
-      }
-    },
-    {
-      "title": "The world seems to be coming to agreement on how to deal with the Trump crime family and the billionaire subversion of democracies.Albania.",
-      "url": "https://mstdn.social/@kevinrns/116791938564814075",
-      "score": 8.3,
+      "title": "In this time of political instability and uncertainty, just a note that Larry has now outlasted six prime ministers.#cats #catsofMastodon #UKpol",
+      "url": "https://mastodon.social/@flargh/116793938986146176",
+      "score": 9.89,
       "niche": "ai",
       "source": "mastodon",
       "engagement": {
-        "score": 92,
-        "comments": 3
+        "score": 1178,
+        "comments": 27
       }
     },
     {
-      "title": "Nailed it!🎨by herculevanwolfwinkle⁩",
-      "url": "https://infosec.exchange/@catsalad/116791456897849821",
-      "score": 7.96,
+      "title": "🏷️ AI content is getting labels. Just like energy ratings or safety certifications help you make informed choices, the same logic now applies to AI.  From 2 August 2026, the AI Act will require clear",
+      "url": "https://ec.social-network.europa.eu/@EUCommission/116794461933014480",
+      "score": 9.08,
       "niche": "ai",
       "source": "mastodon",
       "engagement": {
-        "score": 294,
-        "comments": 6
+        "score": 248,
+        "comments": 22
       }
     },
     {
-      "title": "Danish privacy activist Lars Andersen raided by police",
-      "url": "https://twitter.com/LarsAnders1620/status/2068208864747540516#m",
-      "score": 7.54,
+      "title": "Study finds narcissism the only trait that predicted objections to remote work. The higher the opinions of themselves leaders expressed, the more they coveted power and status —  the more they favored",
+      "url": "https://mstdn.social/@amydiehl/116793619613182669",
+      "score": 9.03,
+      "niche": "ai",
+      "source": "mastodon",
+      "engagement": {
+        "score": 629,
+        "comments": 16
+      }
+    },
+    {
+      "title": "The text in Claude Code’s “Extended Thinking” output",
+      "url": "https://patrickmccanna.net/the-text-in-claude-codes-extended-thinking-output-is-not-authentic/",
+      "score": 8.44,
       "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 106,
-        "comments": 60
+        "score": 181,
+        "comments": 126
       }
     },
     {
-      "title": "FDA advisors unanimously vote to approve Moderna's mRNA after agency drama",
-      "url": "https://arstechnica.com/health/2026/06/fda-advisors-unanimously-vote-to-approve-modernas-mrna-after-agency-drama/",
-      "score": 7.38,
+      "title": "Pledging another $400k to the Zig software foundation",
+      "url": "https://mitchellh.com/writing/zig-donation-2026",
+      "score": 8.19,
       "niche": "software",
       "source": "hackernews",
       "engagement": {
-        "score": 166,
-        "comments": 88
-      }
-    },
-    {
-      "title": "Apertus – Open Foundation Model for Sovereign AI",
-      "url": "https://apertvs.ai/",
-      "score": 6.99,
-      "niche": "ai",
-      "source": "hackernews",
-      "engagement": {
-        "score": 313,
-        "comments": 111
-      }
-    },
-    {
-      "title": "Show HN: Recall – Local project memory for Claude Code",
-      "url": "https://github.com/raiyanyahya/recall",
-      "score": 6.94,
-      "niche": "ai",
-      "source": "hackernews",
-      "engagement": {
-        "score": 97,
-        "comments": 65
-      }
-    },
-    {
-      "title": "WilonityInc/WilonityLoader — Wilonity Loader is a unified launcher that enhances your favorite games with advanced features — intelligent aiming, visual overlays, intuitive UI improvements, and more. ",
-      "url": "https://github.com/WilonityInc/WilonityLoader",
-      "score": 6.92,
-      "niche": "ai",
-      "source": "github",
-      "engagement": {
-        "score": 75,
-        "comments": 0
-      }
-    },
-    {
-      "title": "Hundreds of AI-powered iOS apps found exposing credentials",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQeVlUZ21Zd1FiZU04VGo3dU1hXzNkUE9oMGY1cXlKdmM3V0ptX1BnNFJfZFdjenpqQ25HTDBEYTc2WkZ1T3dkbGdONUtzTTQ5T2RXT21LaFEzZUhXdWEyV1J1RFE4R1lvYmhBTVBSTGp4TXV3ai1hVWhheU1IVkNrQkJoV0liZw?oc=5",
-      "score": 6.71,
-      "niche": "ai",
-      "source": "gnews",
-      "engagement": {
-        "score": 40,
-        "comments": 0
-      }
-    },
-    {
-      "title": "There is minimal downside to switching to open models",
-      "url": "https://www.marble.onl/posts/cancel_claude.html",
-      "score": 6.55,
-      "niche": "ai",
-      "source": "hackernews",
-      "engagement": {
-        "score": 153,
-        "comments": 104
-      }
-    },
-    {
-      "title": "RE: https://hachyderm.io/@ekuber/116789174312475622🔥🔥🔥❝ I hate the \"asshole genius\" trope because all it's done is convince assholes that they are geniuses, and non-geniuses to think the way to app",
-      "url": "https://mastodon.social/@blogdiva/116790640267777274",
-      "score": 6.54,
-      "niche": "software",
-      "source": "mastodon",
-      "engagement": {
-        "score": 325,
-        "comments": 10
-      }
-    },
-    {
-      "title": "JSON-LD explained for personal websites",
-      "url": "https://hawksley.dev/blog/json-ld-explained-for-personal-websites/",
-      "score": 6.36,
-      "niche": "ai",
-      "source": "hackernews",
-      "engagement": {
-        "score": 191,
-        "comments": 57
-      }
-    },
-    {
-      "title": "Is AI ruining our skills? Early results are in and they’re not good",
-      "url": "https://www.nature.com/articles/d41586-026-01947-1",
-      "score": 5.61,
-      "niche": "ai",
-      "source": "lobsters",
-      "engagement": {
-        "score": 73,
-        "comments": 41
+        "score": 515,
+        "comments": 162
       }
     },
     {
       "title": "Deno Desktop",
       "url": "https://docs.deno.com/runtime/desktop/",
-      "score": 5.5,
+      "score": 8.19,
       "niche": "gear",
       "source": "hackernews",
       "engagement": {
-        "score": 38,
+        "score": 853,
+        "comments": 327
+      }
+    },
+    {
+      "title": "UK Prime Ministerial tenures since Milk-Snatcher Thatcher, approximated as lettucesKeir Starmer🥬🥬🥬🥬🥬🥬🥬🥬🥬🥬🥬🥬🥬🥬🥬Rishi Sunak🥬🥬🥬🥬🥬🥬🥬🥬🥬🥬🥬🥬🥬Liz Truss🥬Boris Johnson🥬🥬🥬🥬🥬🥬🥬",
+      "url": "https://mastodon.social/@urlyman/116793062918256142",
+      "score": 8.13,
+      "niche": "software",
+      "source": "mastodon",
+      "engagement": {
+        "score": 584,
+        "comments": 18
+      }
+    },
+    {
+      "title": "I remember walking up to an airport gate with no security.I remember getting a passport within half an hour.I remember traveling between countries in Europe with no checkpoints.[soon] I remember being",
+      "url": "https://hachyderm.io/@thomasfuchs/116794060764108936",
+      "score": 7.65,
+      "niche": "ai",
+      "source": "mastodon",
+      "engagement": {
+        "score": 232,
         "comments": 6
       }
     },
     {
-      "title": "The minimum viable unit of saleable software",
-      "url": "https://brandur.org/minimum-viable-unit",
-      "score": 5.42,
+      "title": "There is minimal downside to switching to open models",
+      "url": "https://www.marble.onl/posts/cancel_claude.html",
+      "score": 7.6,
+      "niche": "ai",
+      "source": "hackernews",
+      "engagement": {
+        "score": 351,
+        "comments": 288
+      }
+    },
+    {
+      "title": "Top 10 AI tools for Visualization in Architecture in 2026 - parametric-architecture.com",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5HSy15bzEwX2tEVGpIUno4OGgxRjN3UnRqODB5NHJNbHVVdVY2cVBYcTM1Wk1tWmVHWFhtUGFpSkFWYnRwSHJicXpNczA1cFRyN3JxTmVuVWtySEJOUzJuVmM1M001S2FXeGwtX0R0eG1HNVZfeGZ5dXFvUQ?oc=5",
+      "score": 7.48,
+      "niche": "ai",
+      "source": "gnews",
+      "engagement": {
+        "score": 40,
+        "comments": 0
+      }
+    },
+    {
+      "title": "Apertus – Open Foundation Model for Sovereign AI",
+      "url": "https://apertvs.ai/",
+      "score": 7.48,
+      "niche": "ai",
+      "source": "hackernews",
+      "engagement": {
+        "score": 499,
+        "comments": 167
+      }
+    },
+    {
+      "title": "Restamongembroider/fortnite-utility — Fortnite soft aim and radar external pro with overlay intel, storm tracking and build-assist tools for battle royale on Windows.",
+      "url": "https://github.com/Restamongembroider/fortnite-utility",
+      "score": 7.06,
+      "niche": "ai",
+      "source": "github",
+      "engagement": {
+        "score": 79,
+        "comments": 0
+      }
+    },
+    {
+      "title": "stoneclerkrevitalize/Lossless-Scaling-Download-2026 — ⭐️ Lossless Scaling download full version pre-activated keygen patch activator lifetime license upscaling tool frame generation gaming performance",
+      "url": "https://github.com/stoneclerkrevitalize/Lossless-Scaling-Download-2026",
+      "score": 7.03,
       "niche": "software",
-      "source": "hackernews",
+      "source": "github",
       "engagement": {
-        "score": 149,
-        "comments": 56
+        "score": 151,
+        "comments": 0
       }
     },
     {
-      "title": "Good results fine tuning a local LLM like Qwen 3:0.6B to categorize questions",
-      "url": "https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions",
-      "score": 5.37,
+      "title": "Moebius: 0.2B image inpainting model with 10B-level performance",
+      "url": "https://hustvl.github.io/Moebius/",
+      "score": 7.02,
       "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 90,
-        "comments": 17
+        "score": 107,
+        "comments": 24
       }
     },
     {
-      "title": "Opinion: How AI tools help small businesses thrive",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcFpJOG9MaXRUUWYwWlEwN3hfZ05KZzJad202RURpbTh6ZFJGN3dQd1o1ZV9xbE1YMFZIV1FtNnM0YWcxQm5sSjZuT1lYUXNaZ1c2ZjAtVmx2UVJBbjNGVVpMMk1BRnFINXJCbEdxb3RMRHRuV0ZJNHNaVVpVODFSVjRqTUQ?oc=5",
-      "score": 5.37,
+      "title": "OXO, KitchenAid, and More Kitchen Tools Start at Just $3 for Prime Day, but Deals Won't Last Long",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUUxYWUIwUmlNZ3I2STNKWkZaM3dwX3o4d3ZreWZ4XzRONldBdlVzc3BDRTlQLWh3NU9pMjEtcklJNzZwbEpLVkNRN1JtLTA0SHdzOHZUdndXa3liTkhyTnE4c2RpY05LOXVHOGdXdktSMzZzMUQ1ZEh0ckp1Vjc3NC1IX1drdw?oc=5",
+      "score": 6.61,
       "niche": "ai",
       "source": "gnews",
       "engagement": {
@@ -190,87 +168,109 @@
       }
     },
     {
-      "title": "Planning summer travel? AI tools and scam warnings are top of mind for vacationers",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNczBMcXVuMnJRZ1JVUmRSSGdhcUNZZWVGbXF2YlBMbTRwS01ybmR1bUpkeGhQNzlUdmwxRUNNUkNsMm1pV0dfTVRCazM3SjN3LUJjbTdsUGpvRFJiVVQtLXlTcFM5RElQdk1SbnhDQ0hDZncyN1JNTDhqejJWa1owajlRYnJIRlN0YjRpQXRETEZmNGlmTGN0U0lnVU1lazdDdFN1czJtS0hRZGFGSk05YTQ5QQ?oc=5",
-      "score": 4.95,
+      "title": "https://en.wikipedia.org/wiki/Chief_Mouser_to_the_Cabinet_Office",
+      "url": "https://cyberplace.social/@GossiTheDog/116793524807754825",
+      "score": 6.56,
+      "niche": "gear",
+      "source": "mastodon",
+      "engagement": {
+        "score": 793,
+        "comments": 29
+      }
+    },
+    {
+      "title": "My phone overheating and shutting itself off in the 2026 summer heat is actually genius. The climate crisis finally has a user interface.\"Your device is too hot. Please cool down.\"Same, Pixel. Same.",
+      "url": "https://mastodon.social/@fribbledom/116794046916373101",
+      "score": 6.03,
+      "niche": "software",
+      "source": "mastodon",
+      "engagement": {
+        "score": 130,
+        "comments": 6
+      }
+    },
+    {
+      "title": "7 AI Application-Security Tools for 2026",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNTS1SWExWaGNNZHRsMExqMDVjcnJwRW9VT2R2dU5SZUxvUkhOSmtWMVQ4d2hzdWpodzZ2Rk8xek45QmFiTmhpbmpiaGN6TkVTRkZwd2dWdm5iVHpLdW1iclFYQVc3dW5LMHljWDVnU0JPaDFpU2xmLWRXa3g5b2JiR2hfeU9XUQ?oc=5",
+      "score": 5.99,
       "niche": "ai",
       "source": "gnews",
       "engagement": {
         "score": 40,
         "comments": 0
+      }
+    },
+    {
+      "title": "The best home gadgets of 2026",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5rbTdFUVRseVBqZi1ZRWktSHl2Ukk1ZjhfcUJsRjVQc0ZibHBrY0VXNUs3d1pSbE9fUFRRaDBoZ0FFbVBMZldNV0N2NHo5dkRfM3d4QWM0V05mSFpWeDhoZm1lN2NHOVBaaE9IeC0wRFRUWFRlRnc?oc=5",
+      "score": 5.87,
+      "niche": "gear",
+      "source": "gnews",
+      "engagement": {
+        "score": 40,
+        "comments": 0
+      }
+    },
+    {
+      "title": "GravaStar Unveils Mercury K98 Pro: A Cyberpunk-Engineered 98% Mechanical Keyboard",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPYk1SY2lsOGEya2Zja3VvOTAybk9Xb0JObEFwWDN4eXlEYUNaeFRfeU1Sb2lrSy1WLW9iQ1drbVljaDFRbjZIT3k4bkJfWTUtak5tZmliMk1kR0c1bWpfcUw5SzlfOWdKNVpnVzBHdElJZzBnbUczVS1qZ0pqeWdwbmJKaUlpZ2Jad2h6bFl3ZzQ3LXRoQVJyWkFXdC1DS1VuMFRCOUNjcTFhUjNLTDRVcmdZZTTSAboBQVVfeXFMTVJ4VnYtbWVhZGVNYUx2Vm9BcUpZcmtKaTVKOG4tYXVELWQ2dWxzc01KMGRQWXVEa243TVh6RUt3UE1kcWFnbVE2NGNjNmNxUFVTY0lORk1yc3EzTEJtQlk0c3ExeWxlVUh4SXhCZzltS3MxR0k0NEZiY1djdG5nOW5PdzJldXR0SzkwMmowN2IxVjFoOTNhVVFhR0JWdmx1enRXdk5SSjBoRnRHQWFqR2ZoU1ZkZElUeVdn?oc=5",
+      "score": 5.87,
+      "niche": "gear",
+      "source": "gnews",
+      "engagement": {
+        "score": 40,
+        "comments": 0
+      }
+    },
+    {
+      "title": "HKUDS/AgentSpace — \"AgentSpace: Human + Agents. One Team. One Workspace\"",
+      "url": "https://github.com/HKUDS/AgentSpace",
+      "score": 5.82,
+      "niche": "ai",
+      "source": "github",
+      "engagement": {
+        "score": 181,
+        "comments": 3
+      }
+    },
+    {
+      "title": "Peeling the foil off my portrait of Sylvester for the SF LGBT Center to celebrate queer icons of past and present!#art #lgbtqia #pride #portrait #drawing",
+      "url": "https://mastodon.social/@joyousjoyness/116794690408201864",
+      "score": 5.8,
+      "niche": "ai",
+      "source": "mastodon",
+      "engagement": {
+        "score": 60,
+        "comments": 2
+      }
+    },
+    {
+      "title": "A Theory of Why Prompt Injection Works",
+      "url": "https://role-confusion.github.io",
+      "score": 5.73,
+      "niche": "ai",
+      "source": "hackernews",
+      "engagement": {
+        "score": 31,
+        "comments": 2
       }
     },
     {
       "title": "lyra81604/zhengxi-views — 可溯源的郑希(易方达基金经理)投研 Agent Skill——基于他全部公开观点原文 + 有原话佐证的投资方法 + 全市场基金真实数据，能溯源问答、按他框架给基金打分，绝不杜撰。⚠️仅研究学习辅助，不构成投资建议‼️website是郑希主页！",
       "url": "https://github.com/lyra81604/zhengxi-views",
-      "score": 4.87,
+      "score": 5.37,
       "niche": "ai",
       "source": "github",
       "engagement": {
-        "score": 341,
+        "score": 624,
         "comments": 0
       }
     },
     {
-      "title": "It is the summer of 2019. Vladimir Putin's private jet arrives in Warsaw. Putin gets in line at the customs desk.Customs officer: \"Occupation?\"Putin: \"Not yet.\"",
-      "url": "https://mastodon.social/@randahl/116791988315233027",
-      "score": 4.78,
+      "title": "The best productivity gadgets for professionals",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORFV4YURIem1LLXhsR3ctQmlHTThoamItUzdUTmxXVWlYWFNJSUJTR1M1LVo1X1p6UG81bVMzbUtibFE1bGVBbHYyVkJodWp0SEpvS1lYM01aV0J4Smd3d3N5LVNDWWxidGhXalhsSkRxTXEzb2I3empscC12UmU0SFByR3VsQ2x0?oc=5",
+      "score": 5.24,
       "niche": "gear",
-      "source": "mastodon",
-      "engagement": {
-        "score": 48,
-        "comments": 1
-      }
-    },
-    {
-      "title": "WilonityProject/Wilonity — Welcome to the official GitHub repository for Wilonity Exploit, one of the most powerful script executors available today.",
-      "url": "https://github.com/WilonityProject/Wilonity",
-      "score": 4.73,
-      "niche": "ai",
-      "source": "github",
-      "engagement": {
-        "score": 138,
-        "comments": 0
-      }
-    },
-    {
-      "title": "Luxury mechanical keyboards can cost hundreds, check your deck for this cheaper upgrade",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPb0FXZEV4dEx4Qk96cEtQbURIQ2xTbDFPMVNjZ3hLOUpVR24wYkNCUld1c3c5b2lMRUtSSVd3SG9CS0JOQ2dQODZkUDVsaXUwbXAyWXFta2ZVNTl4aFlSWlhfOWdwXzVqcXNyRFVIbTFMMjZHQ2kyVUFTdWE3V051VGFiVEU4blptNEdpTk9oR0k2T01GbVhYZVhKVXFpT2t5TVQ3d2pCWWptUjkxdWxEOW5TT3ZjTENmdEJEZ2dsbWpueE96eHJZcl82RlNsREFacW1BdkpMaw?oc=5",
-      "score": 4.7,
-      "niche": "gear",
-      "source": "gnews",
-      "engagement": {
-        "score": 40,
-        "comments": 0
-      }
-    },
-    {
-      "title": "Apple Internals: Swift in the Kernel",
-      "url": "https://blog.calif.io/p/apple-internals-swift-in-the-kernel",
-      "score": 4.69,
-      "niche": "software",
-      "source": "lobsters",
-      "engagement": {
-        "score": 55,
-        "comments": 5
-      }
-    },
-    {
-      "title": "Mechanical Keyboard Market Revenue To Cross $3.08 Billion By 2030 Supported By Rising Demand",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOMDg2ZEFldjNTOFFfaTVvcUNEV1JlUThYMGlNdVNDdzg3a185UjNjUUxjUWU5UFA1UjU0T2J3QWV0cmxJMTZsU1NqYUlpLWhmTW9uM0FxUG04d2ZJdDg4dTgtcXZKVG9lVEI2bTVtOU5nNjRrZklUaWtfWTlISTdMRnNLNUxCQzJLa0xIa09NTWtlOVRiYkhaSTRlWVkyeGhBV2htSHVpWDFfRnhhZGh3ckxsZjNvRjRLS2s0LTZfbURmdXNMS2JDUmRZcGV6NzhvcjZuaQ?oc=5",
-      "score": 4.52,
-      "niche": "gear",
-      "source": "gnews",
-      "engagement": {
-        "score": 40,
-        "comments": 0
-      }
-    },
-    {
-      "title": "What Are the Best AI Marketing Tools For Small Business?",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE95Y1NSY0NSWEM2NGxhRUVUNHppUHNGNW1hSWFZbjBFN1ZiVUVfVjFXc3VrTGthYmZSMC1ZSmFMYWZjR20xWHhYSWlKdVlIZmw1YWZMVWFRRU94b2o1MVJSR202TV9NOUZERF9GSWxidEt6UEZVaXMw?oc=5",
-      "score": 4.49,
-      "niche": "ai",
       "source": "gnews",
       "engagement": {
         "score": 40,
@@ -280,207 +280,103 @@
   ],
   "topics": [
     {
-      "keyword": "passive income",
-      "count": 58,
-      "score": 246.82850535167196,
-      "proper": true,
-      "niches": [
-        "finance"
-      ],
-      "examples": [
-        {
-          "title": "SpaceX doesn’t pay a dividend. So how come it may help these investors earn passive income?",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTHprc3pBcEgtSnl2RFg1MHNMQWgxSlFjaGMxSEF1WEpFVVZLVVNzY3ZNVXJxSldmTmxCZUx1ZVFrVzlzV1NhLXktcVBQZU85S0hHWHJLRWI0eXRuNEc1Q1RqbDAtVnVoWWtFVjJlbFY4REhlN1A5OTdfbmFJS1dLaXd3?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "SpaceX doesn’t pay a dividend. So how come it may help these investors earn passive income?",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTHprc3pBcEgtSnl2RFg1MHNMQWgxSlFjaGMxSEF1WEpFVVZLVVNzY3ZNVXJxSldmTmxCZUx1ZVFrVzlzV1NhLXktcVBQZU85S0hHWHJLRWI0eXRuNEc1Q1RqbDAtVnVoWWtFVjJlbFY4REhlN1A5OTdfbmFJS1dLaXd3?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "The S&P 500's Dividend Yield Is Down to Around 1%. Buy This 5%-Yielding Pipeline Stock to Boost Your Passive Income.",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaHdtRUdVZEFPX2lGanBjcmR5UlIxOUFQOUdIWGdHSG9tRXNYUVBlREdiamlDbDMzRmo1cllBbGhKcGpRejM4NnZiU0dSY0ZiQ1VYNHVVRV91dXZuaVFnWVJ1UzVjRGtKWm1fTHlBN2tRUUtZTzRFcm5SRnhIT3FnUTREZmUwWXRxcllLU0cyZG13dTRrWDZwdQ?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "The S&P 500's Dividend Yield Is Down to Around 1%. Buy This 5%-Yielding Pipeline Stock to Boost Your Passive Income.",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaHdtRUdVZEFPX2lGanBjcmR5UlIxOUFQOUdIWGdHSG9tRXNYUVBlREdiamlDbDMzRmo1cllBbGhKcGpRejM4NnZiU0dSY0ZiQ1VYNHVVRV91dXZuaVFnWVJ1UzVjRGtKWm1fTHlBN2tRUUtZTzRFcm5SRnhIT3FnUTREZmUwWXRxcllLU0cyZG13dTRrWDZwdQ?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "2 Goldman Sachs ETFs Paying 8%+ in Passive Income with Double-Digit Upside Potential",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNLVRsaGVveUpmUjhudjlnUERjbU9QbTVsRG1KNmt4YUR5cm1mSU1NRVo1NjZHcFRpbDluOWFxNV9PaDBKeVVsTnhSR2tsUHgxaFpBSjZFemVKV013LVZEYTJJNGpJVXVHWm9GMTFSNkg4WllhM3d3NmFHM3ZJYjJWRGg4MDEtSTdJdGl5NHJYVU44MDZxMndlT25wbFpsb3ZTRGZBUjJhN0tOMTZick53T2JB?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "cf2dbbbf8c8c",
-      "slug": "passive-income"
-    },
-    {
       "keyword": "claude code",
-      "count": 19,
-      "score": 130.45411462931952,
+      "count": 30,
+      "score": 214.13636145237624,
       "proper": true,
       "niches": [
         "ai"
       ],
       "examples": [
         {
-          "title": "Show HN: Recall – Local project memory for Claude Code",
-          "url": "https://github.com/raiyanyahya/recall",
+          "title": "The text in Claude Code’s “Extended Thinking” output",
+          "url": "https://patrickmccanna.net/the-text-in-claude-codes-extended-thinking-output-is-not-authentic/",
           "source": "hackernews"
         },
         {
-          "title": "Show HN: Recall – Local project memory for Claude Code",
-          "url": "https://github.com/raiyanyahya/recall",
+          "title": "The text in Claude Code’s “Extended Thinking” output",
+          "url": "https://patrickmccanna.net/the-text-in-claude-codes-extended-thinking-output-is-not-authentic/",
           "source": "hackernews"
         },
         {
-          "title": "PieroSierra/SecondBrain — A personal knowledge base that lives in this folder. Drop content in, have it organized automatically, ask questions, and get sourced answers — either through Claude Code sla",
-          "url": "https://github.com/PieroSierra/SecondBrain",
+          "title": "m1ckc3s/claude-status-bar — A tiny macOS menu bar status indicator for Claude Code: animated spark, elapsed timer, and open/close lifecycle.",
+          "url": "https://github.com/m1ckc3s/claude-status-bar",
+          "source": "github"
+        },
+        {
+          "title": "m1ckc3s/claude-status-bar — A tiny macOS menu bar status indicator for Claude Code: animated spark, elapsed timer, and open/close lifecycle.",
+          "url": "https://github.com/m1ckc3s/claude-status-bar",
           "source": "github"
         },
         {
           "title": "PieroSierra/SecondBrain — A personal knowledge base that lives in this folder. Drop content in, have it organized automatically, ask questions, and get sourced answers — either through Claude Code sla",
           "url": "https://github.com/PieroSierra/SecondBrain",
           "source": "github"
-        },
-        {
-          "title": "claude-session-status 0.2.4",
-          "url": "https://pypi.org/project/claude-session-status/0.2.4/",
-          "source": "pypi"
         }
       ],
       "id": "a625159d18da",
       "slug": "claude-code"
     },
     {
-      "keyword": "claude",
-      "count": 10,
-      "score": 98.73056155831173,
+      "keyword": "mechanical keyboard",
+      "count": 14,
+      "score": 102.96012141298792,
       "proper": true,
       "niches": [
-        "ai"
+        "gear"
       ],
       "examples": [
         {
-          "title": "Identity verification on Claude",
-          "url": "https://support.claude.com/en/articles/14328960-identity-verification-on-claude",
-          "source": "hackernews"
-        },
-        {
-          "title": "Identity verification on Claude",
-          "url": "https://support.claude.com/en/articles/14328960-identity-verification-on-claude",
-          "source": "hackernews"
-        },
-        {
-          "title": "Show HN: Recall – Local project memory for Claude Code",
-          "url": "https://github.com/raiyanyahya/recall",
-          "source": "hackernews"
-        },
-        {
-          "title": "dikurdikur/palmier-pro-windows — Palmier Pro AI video editor macOS windows timeline multitrack NLE footage model context protocol MCP server agent Claude Cursor Swift SwiftUI AVFoundation storyboard a",
-          "url": "https://github.com/dikurdikur/palmier-pro-windows",
-          "source": "github"
-        },
-        {
-          "title": "PieroSierra/SecondBrain — A personal knowledge base that lives in this folder. Drop content in, have it organized automatically, ask questions, and get sourced answers — either through Claude Code sla",
-          "url": "https://github.com/PieroSierra/SecondBrain",
-          "source": "github"
-        }
-      ],
-      "id": "c857d09db23e",
-      "slug": "claude"
-    },
-    {
-      "keyword": "income",
-      "count": 21,
-      "score": 94.13012979744738,
-      "proper": true,
-      "niches": [
-        "finance"
-      ],
-      "examples": [
-        {
-          "title": "SpaceX doesn’t pay a dividend. So how come it may help these investors earn passive income?",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTHprc3pBcEgtSnl2RFg1MHNMQWgxSlFjaGMxSEF1WEpFVVZLVVNzY3ZNVXJxSldmTmxCZUx1ZVFrVzlzV1NhLXktcVBQZU85S0hHWHJLRWI0eXRuNEc1Q1RqbDAtVnVoWWtFVjJlbFY4REhlN1A5OTdfbmFJS1dLaXd3?oc=5",
+          "title": "GravaStar Unveils Mercury K98 Pro: A Cyberpunk-Engineered 98% Mechanical Keyboard",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPYk1SY2lsOGEya2Zja3VvOTAybk9Xb0JObEFwWDN4eXlEYUNaeFRfeU1Sb2lrSy1WLW9iQ1drbVljaDFRbjZIT3k4bkJfWTUtak5tZmliMk1kR0c1bWpfcUw5SzlfOWdKNVpnVzBHdElJZzBnbUczVS1qZ0pqeWdwbmJKaUlpZ2Jad2h6bFl3ZzQ3LXRoQVJyWkFXdC1DS1VuMFRCOUNjcTFhUjNLTDRVcmdZZTTSAboBQVVfeXFMTVJ4VnYtbWVhZGVNYUx2Vm9BcUpZcmtKaTVKOG4tYXVELWQ2dWxzc01KMGRQWXVEa243TVh6RUt3UE1kcWFnbVE2NGNjNmNxUFVTY0lORk1yc3EzTEJtQlk0c3ExeWxlVUh4SXhCZzltS3MxR0k0NEZiY1djdG5nOW5PdzJldXR0SzkwMmowN2IxVjFoOTNhVVFhR0JWdmx1enRXdk5SSjBoRnRHQWFqR2ZoU1ZkZElUeVdn?oc=5",
           "source": "gnews"
         },
         {
-          "title": "SpaceX doesn’t pay a dividend. So how come it may help these investors earn passive income?",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTHprc3pBcEgtSnl2RFg1MHNMQWgxSlFjaGMxSEF1WEpFVVZLVVNzY3ZNVXJxSldmTmxCZUx1ZVFrVzlzV1NhLXktcVBQZU85S0hHWHJLRWI0eXRuNEc1Q1RqbDAtVnVoWWtFVjJlbFY4REhlN1A5OTdfbmFJS1dLaXd3?oc=5",
+          "title": "GravaStar Unveils Mercury K98 Pro: A Cyberpunk-Engineered 98% Mechanical Keyboard",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPYk1SY2lsOGEya2Zja3VvOTAybk9Xb0JObEFwWDN4eXlEYUNaeFRfeU1Sb2lrSy1WLW9iQ1drbVljaDFRbjZIT3k4bkJfWTUtak5tZmliMk1kR0c1bWpfcUw5SzlfOWdKNVpnVzBHdElJZzBnbUczVS1qZ0pqeWdwbmJKaUlpZ2Jad2h6bFl3ZzQ3LXRoQVJyWkFXdC1DS1VuMFRCOUNjcTFhUjNLTDRVcmdZZTTSAboBQVVfeXFMTVJ4VnYtbWVhZGVNYUx2Vm9BcUpZcmtKaTVKOG4tYXVELWQ2dWxzc01KMGRQWXVEa243TVh6RUt3UE1kcWFnbVE2NGNjNmNxUFVTY0lORk1yc3EzTEJtQlk0c3ExeWxlVUh4SXhCZzltS3MxR0k0NEZiY1djdG5nOW5PdzJldXR0SzkwMmowN2IxVjFoOTNhVVFhR0JWdmx1enRXdk5SSjBoRnRHQWFqR2ZoU1ZkZElUeVdn?oc=5",
           "source": "gnews"
         },
         {
-          "title": "The S&P 500's Dividend Yield Is Down to Around 1%. Buy This 5%-Yielding Pipeline Stock to Boost Your Passive Income.",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaHdtRUdVZEFPX2lGanBjcmR5UlIxOUFQOUdIWGdHSG9tRXNYUVBlREdiamlDbDMzRmo1cllBbGhKcGpRejM4NnZiU0dSY0ZiQ1VYNHVVRV91dXZuaVFnWVJ1UzVjRGtKWm1fTHlBN2tRUUtZTzRFcm5SRnhIT3FnUTREZmUwWXRxcllLU0cyZG13dTRrWDZwdQ?oc=5",
+          "title": "Mechanical Keyboard Market Revenue To Cross $3.08 Billion By 2030 Supported By Rising Demand",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOMDg2ZEFldjNTOFFfaTVvcUNEV1JlUThYMGlNdVNDdzg3a185UjNjUUxjUWU5UFA1UjU0T2J3QWV0cmxJMTZsU1NqYUlpLWhmTW9uM0FxUG04d2ZJdDg4dTgtcXZKVG9lVEI2bTVtOU5nNjRrZklUaWtfWTlISTdMRnNLNUxCQzJLa0xIa09NTWtlOVRiYkhaSTRlWVkyeGhBV2htSHVpWDFfRnhhZGh3ckxsZjNvRjRLS2s0LTZfbURmdXNMS2JDUmRZcGV6NzhvcjZuaQ?oc=5",
           "source": "gnews"
         },
         {
-          "title": "The S&P 500's Dividend Yield Is Down to Around 1%. Buy This 5%-Yielding Pipeline Stock to Boost Your Passive Income.",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaHdtRUdVZEFPX2lGanBjcmR5UlIxOUFQOUdIWGdHSG9tRXNYUVBlREdiamlDbDMzRmo1cllBbGhKcGpRejM4NnZiU0dSY0ZiQ1VYNHVVRV91dXZuaVFnWVJ1UzVjRGtKWm1fTHlBN2tRUUtZTzRFcm5SRnhIT3FnUTREZmUwWXRxcllLU0cyZG13dTRrWDZwdQ?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "2 Goldman Sachs ETFs Paying 8%+ in Passive Income with Double-Digit Upside Potential",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNLVRsaGVveUpmUjhudjlnUERjbU9QbTVsRG1KNmt4YUR5cm1mSU1NRVo1NjZHcFRpbDluOWFxNV9PaDBKeVVsTnhSR2tsUHgxaFpBSjZFemVKV013LVZEYTJJNGpJVXVHWm9GMTFSNkg4WllhM3d3NmFHM3ZJYjJWRGg4MDEtSTdJdGl5NHJYVU44MDZxMndlT25wbFpsb3ZTRGZBUjJhN0tOMTZick53T2JB?oc=5",
+          "title": "Mechanical Keyboard Market Revenue To Cross $3.08 Billion By 2030 Supported By Rising Demand",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOMDg2ZEFldjNTOFFfaTVvcUNEV1JlUThYMGlNdVNDdzg3a185UjNjUUxjUWU5UFA1UjU0T2J3QWV0cmxJMTZsU1NqYUlpLWhmTW9uM0FxUG04d2ZJdDg4dTgtcXZKVG9lVEI2bTVtOU5nNjRrZklUaWtfWTlISTdMRnNLNUxCQzJLa0xIa09NTWtlOVRiYkhaSTRlWVkyeGhBV2htSHVpWDFfRnhhZGh3ckxsZjNvRjRLS2s0LTZfbURmdXNMS2JDUmRZcGV6NzhvcjZuaQ?oc=5",
           "source": "gnews"
         }
       ],
-      "id": "00cf141f881d",
-      "slug": "income"
+      "id": "e31f9fac7533",
+      "slug": "mechanical-keyboard"
     },
     {
-      "keyword": "lars andersen",
+      "keyword": "extended thinking",
       "count": 8,
-      "score": 90.4713929162159,
+      "score": 101.27960561328042,
       "proper": true,
       "niches": [
         "ai"
       ],
       "examples": [
         {
-          "title": "Danish privacy activist Lars Andersen raided by police",
-          "url": "https://twitter.com/LarsAnders1620/status/2068208864747540516#m",
+          "title": "The text in Claude Code’s “Extended Thinking” output",
+          "url": "https://patrickmccanna.net/the-text-in-claude-codes-extended-thinking-output-is-not-authentic/",
           "source": "hackernews"
         },
         {
-          "title": "Danish privacy activist Lars Andersen raided by police",
-          "url": "https://twitter.com/LarsAnders1620/status/2068208864747540516#m",
+          "title": "The text in Claude Code’s “Extended Thinking” output",
+          "url": "https://patrickmccanna.net/the-text-in-claude-codes-extended-thinking-output-is-not-authentic/",
           "source": "hackernews"
         }
       ],
-      "id": "4565938c5f0e",
-      "slug": "lars-andersen"
-    },
-    {
-      "keyword": "wilonity loader",
-      "count": 8,
-      "score": 83.05672823511975,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "WilonityInc/WilonityLoader — Wilonity Loader is a unified launcher that enhances your favorite games with advanced features — intelligent aiming, visual overlays, intuitive UI improvements, and more. ",
-          "url": "https://github.com/WilonityInc/WilonityLoader",
-          "source": "github"
-        },
-        {
-          "title": "WilonityInc/WilonityLoader — Wilonity Loader is a unified launcher that enhances your favorite games with advanced features — intelligent aiming, visual overlays, intuitive UI improvements, and more. ",
-          "url": "https://github.com/WilonityInc/WilonityLoader",
-          "source": "github"
-        }
-      ],
-      "id": "c561c392b4bc",
-      "slug": "wilonity-loader"
+      "id": "e45ad4c34fab",
+      "slug": "extended-thinking"
     },
     {
       "keyword": "deno desktop",
       "count": 8,
-      "score": 65.98051160442424,
+      "score": 98.25074226949141,
       "proper": true,
       "niches": [
         "gear"
@@ -501,37 +397,222 @@
       "slug": "deno-desktop"
     },
     {
-      "keyword": "affordability crisis",
-      "count": 11,
-      "score": 58.75694146801339,
+      "keyword": "rishi sunak",
+      "count": 8,
+      "score": 97.6017928765704,
+      "proper": true,
+      "niches": [
+        "software"
+      ],
+      "examples": [
+        {
+          "title": "UK Prime Ministerial tenures since Milk-Snatcher Thatcher, approximated as lettucesKeir Starmer🥬🥬🥬🥬🥬🥬🥬🥬🥬🥬🥬🥬🥬🥬🥬Rishi Sunak🥬🥬🥬🥬🥬🥬🥬🥬🥬🥬🥬🥬🥬Liz Truss🥬Boris Johnson🥬🥬🥬🥬🥬🥬🥬",
+          "url": "https://mastodon.social/@urlyman/116793062918256142",
+          "source": "mastodon"
+        },
+        {
+          "title": "UK Prime Ministerial tenures since Milk-Snatcher Thatcher, approximated as lettucesKeir Starmer🥬🥬🥬🥬🥬🥬🥬🥬🥬🥬🥬🥬🥬🥬🥬Rishi Sunak🥬🥬🥬🥬🥬🥬🥬🥬🥬🥬🥬🥬🥬Liz Truss🥬Boris Johnson🥬🥬🥬🥬🥬🥬🥬",
+          "url": "https://mastodon.social/@urlyman/116793062918256142",
+          "source": "mastodon"
+        }
+      ],
+      "id": "4261e9486a57",
+      "slug": "rishi-sunak"
+    },
+    {
+      "keyword": "liz truss",
+      "count": 8,
+      "score": 97.6017928765704,
+      "proper": true,
+      "niches": [
+        "software"
+      ],
+      "examples": [
+        {
+          "title": "UK Prime Ministerial tenures since Milk-Snatcher Thatcher, approximated as lettucesKeir Starmer🥬🥬🥬🥬🥬🥬🥬🥬🥬🥬🥬🥬🥬🥬🥬Rishi Sunak🥬🥬🥬🥬🥬🥬🥬🥬🥬🥬🥬🥬🥬Liz Truss🥬Boris Johnson🥬🥬🥬🥬🥬🥬🥬",
+          "url": "https://mastodon.social/@urlyman/116793062918256142",
+          "source": "mastodon"
+        },
+        {
+          "title": "UK Prime Ministerial tenures since Milk-Snatcher Thatcher, approximated as lettucesKeir Starmer🥬🥬🥬🥬🥬🥬🥬🥬🥬🥬🥬🥬🥬🥬🥬Rishi Sunak🥬🥬🥬🥬🥬🥬🥬🥬🥬🥬🥬🥬🥬Liz Truss🥬Boris Johnson🥬🥬🥬🥬🥬🥬🥬",
+          "url": "https://mastodon.social/@urlyman/116793062918256142",
+          "source": "mastodon"
+        }
+      ],
+      "id": "98d0b41ed89c",
+      "slug": "liz-truss"
+    },
+    {
+      "keyword": "boris johnson",
+      "count": 8,
+      "score": 97.6017928765704,
+      "proper": true,
+      "niches": [
+        "software"
+      ],
+      "examples": [
+        {
+          "title": "UK Prime Ministerial tenures since Milk-Snatcher Thatcher, approximated as lettucesKeir Starmer🥬🥬🥬🥬🥬🥬🥬🥬🥬🥬🥬🥬🥬🥬🥬Rishi Sunak🥬🥬🥬🥬🥬🥬🥬🥬🥬🥬🥬🥬🥬Liz Truss🥬Boris Johnson🥬🥬🥬🥬🥬🥬🥬",
+          "url": "https://mastodon.social/@urlyman/116793062918256142",
+          "source": "mastodon"
+        },
+        {
+          "title": "UK Prime Ministerial tenures since Milk-Snatcher Thatcher, approximated as lettucesKeir Starmer🥬🥬🥬🥬🥬🥬🥬🥬🥬🥬🥬🥬🥬🥬🥬Rishi Sunak🥬🥬🥬🥬🥬🥬🥬🥬🥬🥬🥬🥬🥬Liz Truss🥬Boris Johnson🥬🥬🥬🥬🥬🥬🥬",
+          "url": "https://mastodon.social/@urlyman/116793062918256142",
+          "source": "mastodon"
+        }
+      ],
+      "id": "2bceb9256b14",
+      "slug": "boris-johnson"
+    },
+    {
+      "keyword": "2026 6f6f6f",
+      "count": 27,
+      "score": 88.03864517061692,
+      "proper": false,
+      "niches": [
+        "ai",
+        "gear",
+        "general"
+      ],
+      "examples": [
+        {
+          "title": "Top 10 AI tools for Visualization in Architecture in 2026 - parametric-architecture.com",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5HSy15bzEwX2tEVGpIUno4OGgxRjN3UnRqODB5NHJNbHVVdVY2cVBYcTM1Wk1tWmVHWFhtUGFpSkFWYnRwSHJicXpNczA1cFRyN3JxTmVuVWtySEJOUzJuVmM1M001S2FXeGwtX0R0eG1HNVZfeGZ5dXFvUQ?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "7 AI Application-Security Tools for 2026",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNTS1SWExWaGNNZHRsMExqMDVjcnJwRW9VT2R2dU5SZUxvUkhOSmtWMVQ4d2hzdWpodzZ2Rk8xek45QmFiTmhpbmpiaGN6TkVTRkZwd2dWdm5iVHpLdW1iclFYQVc3dW5LMHljWDVnU0JPaDFpU2xmLWRXa3g5b2JiR2hfeU9XUQ?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "The best home gadgets of 2026",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5rbTdFUVRseVBqZi1ZRWktSHl2Ukk1ZjhfcUJsRjVQc0ZibHBrY0VXNUs3d1pSbE9fUFRRaDBoZ0FFbVBMZldNV0N2NHo5dkRfM3d4QWM0V05mSFpWeDhoZm1lN2NHOVBaaE9IeC0wRFRUWFRlRnc?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Best AI Tools to Manage Meeting Workflows in 2026",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNajdNQV9MdkVOLVM1QUdDRDYyak1Fd2lWQ2dWWEM3eDhLVGNQTzhLNHJFeVJRbUtxbjhnU1ZEUGpESFFVZ0NPaEo4eEtSZkVWTVlKSWhMNVp3SHhGZ3JaV2h0M0ZfQkZzSFBXWGxQd09VeDZtUGxqck9mSjBWNEtEbGE5VndJWndrbWJWOHh3?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "11 Best AI Coding Tools for Data Science & ML in 2026",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPaHBGOWZOaERaNVMxVVpPTU9FU1VaMnJ3WkZvMUtUd1MwaGtUQThJZE1nNnNsN25ZemFPZXpUZ1pEdG10NjhhNEx1MnBLTWZOMVg1WUd2MEhzeXM0eWZuOWc3cVgwYkRHUXpYTUF4ZnR0dzlsYmhoVnpKRDd4RjFqRkw4RTE?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "819223dcf234",
+      "slug": "2026-6f6f6f"
+    },
+    {
+      "keyword": "lossless scaling",
+      "count": 8,
+      "score": 84.306436238186,
+      "proper": true,
+      "niches": [
+        "software"
+      ],
+      "examples": [
+        {
+          "title": "stoneclerkrevitalize/Lossless-Scaling-Download-2026 — ⭐️ Lossless Scaling download full version pre-activated keygen patch activator lifetime license upscaling tool frame generation gaming performance",
+          "url": "https://github.com/stoneclerkrevitalize/Lossless-Scaling-Download-2026",
+          "source": "github"
+        },
+        {
+          "title": "stoneclerkrevitalize/Lossless-Scaling-Download-2026 — ⭐️ Lossless Scaling download full version pre-activated keygen patch activator lifetime license upscaling tool frame generation gaming performance",
+          "url": "https://github.com/stoneclerkrevitalize/Lossless-Scaling-Download-2026",
+          "source": "github"
+        }
+      ],
+      "id": "b3d5e956298f",
+      "slug": "lossless-scaling"
+    },
+    {
+      "keyword": "lgbt center",
+      "count": 8,
+      "score": 69.61587289508566,
       "proper": true,
       "niches": [
         "ai"
       ],
       "examples": [
         {
-          "title": "Affordability Crisis: Five smart side-hustle ideas to the rescue",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTlpoczY3VEVXQ2JHVVdwenZjRjJUS2xrNkZ1VS1BODZyZ0g1TkNjcnJfZldCa2xyenEyXzlKMzlDMDVCMXdvdFdlbmNhV0tqU3N6YkxkdjFzbFZVWEwzQl9ELWd6TlBacm1wOTloc0Z4a0ZKczBrY1N5MHNwUnFFZm1vVTNFeU15N0hIeFZCQWNqMlVIWnlHTXFlTEh0VEVVREhDaWpIWGptUG82QU9hZ0lod0NiWkNER3hxWQ?oc=5",
+          "title": "Peeling the foil off my portrait of Sylvester for the SF LGBT Center to celebrate queer icons of past and present!#art #lgbtqia #pride #portrait #drawing",
+          "url": "https://mastodon.social/@joyousjoyness/116794690408201864",
+          "source": "mastodon"
+        },
+        {
+          "title": "Peeling the foil off my portrait of Sylvester for the SF LGBT Center to celebrate queer icons of past and present!#art #lgbtqia #pride #portrait #drawing",
+          "url": "https://mastodon.social/@joyousjoyness/116794690408201864",
+          "source": "mastodon"
+        }
+      ],
+      "id": "0b351c51970d",
+      "slug": "lgbt-center"
+    },
+    {
+      "keyword": "ai act",
+      "count": 5,
+      "score": 68.08554632177342,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "🏷️ AI content is getting labels. Just like energy ratings or safety certifications help you make informed choices, the same logic now applies to AI.  From 2 August 2026, the AI Act will require clear",
+          "url": "https://ec.social-network.europa.eu/@EUCommission/116794461933014480",
+          "source": "mastodon"
+        }
+      ],
+      "id": "080329874d90",
+      "slug": "ai-act"
+    },
+    {
+      "keyword": "2026 _blank",
+      "count": 24,
+      "score": 65.5886938850782,
+      "proper": false,
+      "niches": [
+        "ai",
+        "gear",
+        "general"
+      ],
+      "examples": [
+        {
+          "title": "7 AI Application-Security Tools for 2026",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNTS1SWExWaGNNZHRsMExqMDVjcnJwRW9VT2R2dU5SZUxvUkhOSmtWMVQ4d2hzdWpodzZ2Rk8xek45QmFiTmhpbmpiaGN6TkVTRkZwd2dWdm5iVHpLdW1iclFYQVc3dW5LMHljWDVnU0JPaDFpU2xmLWRXa3g5b2JiR2hfeU9XUQ?oc=5",
           "source": "gnews"
         },
         {
-          "title": "Affordability Crisis: Five smart side-hustle ideas to the rescue",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTlpoczY3VEVXQ2JHVVdwenZjRjJUS2xrNkZ1VS1BODZyZ0g1TkNjcnJfZldCa2xyenEyXzlKMzlDMDVCMXdvdFdlbmNhV0tqU3N6YkxkdjFzbFZVWEwzQl9ELWd6TlBacm1wOTloc0Z4a0ZKczBrY1N5MHNwUnFFZm1vVTNFeU15N0hIeFZCQWNqMlVIWnlHTXFlTEh0VEVVREhDaWpIWGptUG82QU9hZ0lod0NiWkNER3hxWQ?oc=5",
+          "title": "The best home gadgets of 2026",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5rbTdFUVRseVBqZi1ZRWktSHl2Ukk1ZjhfcUJsRjVQc0ZibHBrY0VXNUs3d1pSbE9fUFRRaDBoZ0FFbVBMZldNV0N2NHo5dkRfM3d4QWM0V05mSFpWeDhoZm1lN2NHOVBaaE9IeC0wRFRUWFRlRnc?oc=5",
           "source": "gnews"
         },
         {
-          "title": "Affordability Crisis: Five smart side-hustle ideas to the rescue",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTlpoczY3VEVXQ2JHVVdwenZjRjJUS2xrNkZ1VS1BODZyZ0g1TkNjcnJfZldCa2xyenEyXzlKMzlDMDVCMXdvdFdlbmNhV0tqU3N6YkxkdjFzbFZVWEwzQl9ELWd6TlBacm1wOTloc0Z4a0ZKczBrY1N5MHNwUnFFZm1vVTNFeU15N0hIeFZCQWNqMlVIWnlHTXFlTEh0VEVVREhDaWpIWGptUG82QU9hZ0lod0NiWkNER3hxWQ?oc=5",
+          "title": "Best AI Tools to Manage Meeting Workflows in 2026",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNajdNQV9MdkVOLVM1QUdDRDYyak1Fd2lWQ2dWWEM3eDhLVGNQTzhLNHJFeVJRbUtxbjhnU1ZEUGpESFFVZ0NPaEo4eEtSZkVWTVlKSWhMNVp3SHhGZ3JaV2h0M0ZfQkZzSFBXWGxQd09VeDZtUGxqck9mSjBWNEtEbGE5VndJWndrbWJWOHh3?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "11 Best AI Coding Tools for Data Science & ML in 2026",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPaHBGOWZOaERaNVMxVVpPTU9FU1VaMnJ3WkZvMUtUd1MwaGtUQThJZE1nNnNsN25ZemFPZXpUZ1pEdG10NjhhNEx1MnBLTWZOMVg1WUd2MEhzeXM0eWZuOWc3cVgwYkRHUXpYTUF4ZnR0dzlsYmhoVnpKRDd4RjFqRkw4RTE?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "From Wearables to Power Stations: 10 Best Gadgets From May 2026",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4wTmQ4WXF0VkVtdjB4SXBkNlExOE5sVnZ5UXVWS2R0UzZaTzRlOXo5cktQNmNwQk41NGFoYm1PbFB0WWNhTUxTM3hiNUF1R1Q2U0tWcDFKZWdrNmhCazhocTFIcVFId01JNjVN?oc=5",
           "source": "gnews"
         }
       ],
-      "id": "75c4782cb45d",
-      "slug": "affordability-crisis"
+      "id": "436796f27eb8",
+      "slug": "2026-_blank"
     },
     {
       "keyword": "agent skill",
       "count": 8,
-      "score": 58.38396148353334,
+      "score": 64.4170755996075,
       "proper": true,
       "niches": [
         "ai"
@@ -552,251 +633,97 @@
       "slug": "agent-skill"
     },
     {
-      "keyword": "wilonity exploit",
-      "count": 8,
-      "score": 56.7813201475325,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "WilonityProject/Wilonity — Welcome to the official GitHub repository for Wilonity Exploit, one of the most powerful script executors available today.",
-          "url": "https://github.com/WilonityProject/Wilonity",
-          "source": "github"
-        },
-        {
-          "title": "WilonityProject/Wilonity — Welcome to the official GitHub repository for Wilonity Exploit, one of the most powerful script executors available today.",
-          "url": "https://github.com/WilonityProject/Wilonity",
-          "source": "github"
-        }
-      ],
-      "id": "0e661fbd21b4",
-      "slug": "wilonity-exploit"
-    },
-    {
-      "keyword": "apple internals",
-      "count": 8,
-      "score": 56.24574213547024,
+      "keyword": "snatcher thatcher",
+      "count": 5,
+      "score": 61.001120547856495,
       "proper": true,
       "niches": [
         "software"
       ],
       "examples": [
         {
-          "title": "Apple Internals: Swift in the Kernel",
-          "url": "https://blog.calif.io/p/apple-internals-swift-in-the-kernel",
-          "source": "lobsters"
-        },
-        {
-          "title": "Apple Internals: Swift in the Kernel",
-          "url": "https://blog.calif.io/p/apple-internals-swift-in-the-kernel",
-          "source": "lobsters"
+          "title": "UK Prime Ministerial tenures since Milk-Snatcher Thatcher, approximated as lettucesKeir Starmer🥬🥬🥬🥬🥬🥬🥬🥬🥬🥬🥬🥬🥬🥬🥬Rishi Sunak🥬🥬🥬🥬🥬🥬🥬🥬🥬🥬🥬🥬🥬Liz Truss🥬Boris Johnson🥬🥬🥬🥬🥬🥬🥬",
+          "url": "https://mastodon.social/@urlyman/116793062918256142",
+          "source": "mastodon"
         }
       ],
-      "id": "0fcbecc5d115",
-      "slug": "apple-internals"
+      "id": "8f87c79f1440",
+      "slug": "snatcher-thatcher"
     },
     {
-      "keyword": "mechanical keyboards",
-      "count": 24,
-      "score": 55.23462152493749,
-      "proper": false,
-      "niches": [
-        "gear",
-        "finance"
-      ],
-      "examples": [
-        {
-          "title": "Luxury mechanical keyboards can cost hundreds, check your deck for this cheaper upgrade",
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPb0FXZEV4dEx4Qk96cEtQbURIQ2xTbDFPMVNjZ3hLOUpVR24wYkNCUld1c3c5b2lMRUtSSVd3SG9CS0JOQ2dQODZkUDVsaXUwbXAyWXFta2ZVNTl4aFlSWlhfOWdwXzVqcXNyRFVIbTFMMjZHQ2kyVUFTdWE3V051VGFiVEU4blptNEdpTk9oR0k2T01GbVhYZVhKVXFpT2t5TVQ3d2pCWWptUjkxdWxEOW5TT3ZjTENmdEJEZ2dsbWpueE96eHJZcl82RlNsREFacW1BdkpMaw?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Luxury mechanical keyboards can cost hundreds, check your deck for this cheaper upgrade",
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPb0FXZEV4dEx4Qk96cEtQbURIQ2xTbDFPMVNjZ3hLOUpVR24wYkNCUld1c3c5b2lMRUtSSVd3SG9CS0JOQ2dQODZkUDVsaXUwbXAyWXFta2ZVNTl4aFlSWlhfOWdwXzVqcXNyRFVIbTFMMjZHQ2kyVUFTdWE3V051VGFiVEU4blptNEdpTk9oR0k2T01GbVhYZVhKVXFpT2t5TVQ3d2pCWWptUjkxdWxEOW5TT3ZjTENmdEJEZ2dsbWpueE96eHJZcl82RlNsREFacW1BdkpMaw?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Review: Higround's Official Sonic Adventure 2 Mechanical Keyboards Are Pretty Great, Actually",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRDhFN0Q5ZG5WLXdjbktMX1FkWDR0aTg2N2FhUHpNUGpBMzhfSTNualFwLUNoaFlFTnVJN0lWZWk4V0ZlVXYxTHZHMklzOEtIZnJYbXl5anVMaFBNWk5fYXZLR2dUcVY3TlZ6SF8tLVVNaEZyVGlIMzRzckFHMzNzdlJqd3JsaEs3WGFrMzZaS0RNcEtDeTU0cUZlT0JocnRXLVJBa2RTX0ZvWUhOX3pKTm5Xc1YwNEFiX0pMSFhjWQ?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Review: Higround's Official Sonic Adventure 2 Mechanical Keyboards Are Pretty Great, Actually",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRDhFN0Q5ZG5WLXdjbktMX1FkWDR0aTg2N2FhUHpNUGpBMzhfSTNualFwLUNoaFlFTnVJN0lWZWk4V0ZlVXYxTHZHMklzOEtIZnJYbXl5anVMaFBNWk5fYXZLR2dUcVY3TlZ6SF8tLVVNaEZyVGlIMzRzckFHMzNzdlJqd3JsaEs3WGFrMzZaS0RNcEtDeTU0cUZlT0JocnRXLVJBa2RTX0ZvWUhOX3pKTm5Xc1YwNEFiX0pMSFhjWQ?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "The 4 Best Mechanical Keyboards On Amazon For Every Budget",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBtZkNMTTRFLWtyeTl0ZHpQQUJlbUNuSlhMOVFTQ3BlVVFVV3VZRDEzU3VoVWJ6M3JPNklNck9EczFDRklmZmdpVXBNQm5wV05jUmszcEtYR1FZaDRFbjNldTVwZy1FbjdSVFY1WGo3V2FMUEFkaDl4OVhEN3VtYms?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "0b466e5460d3",
-      "slug": "mechanical-keyboards"
-    },
-    {
-      "keyword": "sovereign ai",
-      "count": 5,
-      "score": 52.39996396210118,
+      "keyword": "software",
+      "count": 10,
+      "score": 60.66614214221268,
       "proper": true,
       "niches": [
+        "software",
         "ai"
       ],
       "examples": [
         {
-          "title": "Apertus – Open Foundation Model for Sovereign AI",
-          "url": "https://apertvs.ai/",
+          "title": "Pledging another $400k to the Zig software foundation",
+          "url": "https://mitchellh.com/writing/zig-donation-2026",
+          "source": "hackernews"
+        },
+        {
+          "title": "When Software Started Writing Software: A Developer’s History of AI",
+          "url": "https://dev.to/adamthedeveloper/when-software-started-writing-software-a-developers-history-of-ai-4p9n",
+          "source": "devto"
+        },
+        {
+          "title": "When Software Started Writing Software: A Developer’s History of AI",
+          "url": "https://dev.to/adamthedeveloper/when-software-started-writing-software-a-developers-history-of-ai-4p9n",
+          "source": "devto"
+        },
+        {
+          "title": "When Software Started Writing Software: A Developer’s History of AI",
+          "url": "https://dev.to/adamthedeveloper/when-software-started-writing-software-a-developers-history-of-ai-4p9n",
+          "source": "devto"
+        },
+        {
+          "title": "Bain tests software takeover targets by vibecoding AI replicas",
+          "url": "https://www.ft.com/content/e5bac4d1-b1f8-43a4-bd54-b182d5357af0",
           "source": "hackernews"
         }
       ],
-      "id": "fda6eeb61412",
-      "slug": "sovereign-ai"
-    },
-    {
-      "keyword": "data science",
-      "count": 11,
-      "score": 49.38989282818519,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "11 Best AI Coding Tools for Data Science & ML in 2026",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPaHBGOWZOaERaNVMxVVpPTU9FU1VaMnJ3WkZvMUtUd1MwaGtUQThJZE1nNnNsN25ZemFPZXpUZ1pEdG10NjhhNEx1MnBLTWZOMVg1WUd2MEhzeXM0eWZuOWc3cVgwYkRHUXpYTUF4ZnR0dzlsYmhoVnpKRDd4RjFqRkw4RTE?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "11 Best AI Coding Tools for Data Science & ML in 2026",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPaHBGOWZOaERaNVMxVVpPTU9FU1VaMnJ3WkZvMUtUd1MwaGtUQThJZE1nNnNsN25ZemFPZXpUZ1pEdG10NjhhNEx1MnBLTWZOMVg1WUd2MEhzeXM0eWZuOWc3cVgwYkRHUXpYTUF4ZnR0dzlsYmhoVnpKRDd4RjFqRkw4RTE?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "11 Best AI Coding Tools for Data Science & ML in 2026",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPaHBGOWZOaERaNVMxVVpPTU9FU1VaMnJ3WkZvMUtUd1MwaGtUQThJZE1nNnNsN25ZemFPZXpUZ1pEdG10NjhhNEx1MnBLTWZOMVg1WUd2MEhzeXM0eWZuOWc3cVgwYkRHUXpYTUF4ZnR0dzlsYmhoVnpKRDd4RjFqRkw4RTE?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "aa90a6f24112",
-      "slug": "data-science"
-    },
-    {
-      "keyword": "6f6f6f yahoo",
-      "count": 15,
-      "score": 46.15787397931883,
-      "proper": false,
-      "niches": [
-        "finance"
-      ],
-      "examples": [
-        {
-          "title": "SpaceX doesn’t pay a dividend. So how come it may help these investors earn passive income?",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTHprc3pBcEgtSnl2RFg1MHNMQWgxSlFjaGMxSEF1WEpFVVZLVVNzY3ZNVXJxSldmTmxCZUx1ZVFrVzlzV1NhLXktcVBQZU85S0hHWHJLRWI0eXRuNEc1Q1RqbDAtVnVoWWtFVjJlbFY4REhlN1A5OTdfbmFJS1dLaXd3?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "£1,000 buys 380 shares in this 5.4% yielding passive income stock",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBzV2Vkc2pvZlVkMWhSWFVpOTRrYmhWV216cUduV2tiRWJ4Y0lWYnVOZkt4TmFvbFNFQ3Z5dTU0MFJTT1M2TzZsbl8yWnE1WlRmdXpTbnNxWFpQLVI2SWI4QmlCWHRtR2ZFdEdxUk5za3dPRmJCeFdQV1p3?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Want Decades of Passive Income? Here Are 2 ETFs Worth Owning Forever.",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOemZZX2VGWUhMNExFc01QOUZhSURxS1ZsZVdnREp1SVVVWDVVeFNxXzFvUlR3OWJKZG12SnhzVG1EWElCeUpoZmNScjREYmFEV2FIU0U3QWs0ckhMMUFSajl5T2tYVTFrb0pqRXU2cTBiVUNPS0Etei1pU2RESm8tNl9ZZXhjSzItUjVzTGJCYjVVSklaeUpzS2Rn?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "How much is needed in a Stocks and Shares ISA for £357 of weekly passive income?",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZXFTd2ROZXJSRHZfTjJDYWt1Z0xsYUZGRDNMVF9Ja01VRUxObWJCTXhxNENSUkRGUDg3aGVta2x6RGJaSWZXZzM4T29OZE1PLXNtakFaQ21aTHdoOHhWdDg2czRIbl9fbzZwSWFHMG1ucFAyREdVTnNGcUliS1lldW5HQUw?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "3 Utility Stocks For Years of Passive Income",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQnRTdlZWMFBCa1R1TjUtYzhWNk51NHl6Unh3Z180TDNKbktFbkpiLWVVdHVUS0hFamRxc29iWXhXX2NJMUZWOHZIbk5hWDdwUTlaMWtIMThqZWdUR1JpN0tab3NRWmZUSVQ1UjBYSGVnc1lXSGpxYzdFVTRhZzdTSDh1eG9ZU2dJWWx2SUJEN0NZZXgydjNLdDBZdw?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "3388fe8f5889",
-      "slug": "6f6f6f-yahoo"
+      "id": "35390f5453e8",
+      "slug": "software"
     }
   ],
   "opportunities": [
     {
-      "keyword": "passive income",
-      "count": 58,
-      "score": 246.82850535167196,
-      "proper": true,
-      "niches": [
-        "finance"
-      ],
-      "examples": [
-        {
-          "title": "SpaceX doesn’t pay a dividend. So how come it may help these investors earn passive income?",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTHprc3pBcEgtSnl2RFg1MHNMQWgxSlFjaGMxSEF1WEpFVVZLVVNzY3ZNVXJxSldmTmxCZUx1ZVFrVzlzV1NhLXktcVBQZU85S0hHWHJLRWI0eXRuNEc1Q1RqbDAtVnVoWWtFVjJlbFY4REhlN1A5OTdfbmFJS1dLaXd3?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "SpaceX doesn’t pay a dividend. So how come it may help these investors earn passive income?",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTHprc3pBcEgtSnl2RFg1MHNMQWgxSlFjaGMxSEF1WEpFVVZLVVNzY3ZNVXJxSldmTmxCZUx1ZVFrVzlzV1NhLXktcVBQZU85S0hHWHJLRWI0eXRuNEc1Q1RqbDAtVnVoWWtFVjJlbFY4REhlN1A5OTdfbmFJS1dLaXd3?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "The S&P 500's Dividend Yield Is Down to Around 1%. Buy This 5%-Yielding Pipeline Stock to Boost Your Passive Income.",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaHdtRUdVZEFPX2lGanBjcmR5UlIxOUFQOUdIWGdHSG9tRXNYUVBlREdiamlDbDMzRmo1cllBbGhKcGpRejM4NnZiU0dSY0ZiQ1VYNHVVRV91dXZuaVFnWVJ1UzVjRGtKWm1fTHlBN2tRUUtZTzRFcm5SRnhIT3FnUTREZmUwWXRxcllLU0cyZG13dTRrWDZwdQ?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "The S&P 500's Dividend Yield Is Down to Around 1%. Buy This 5%-Yielding Pipeline Stock to Boost Your Passive Income.",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaHdtRUdVZEFPX2lGanBjcmR5UlIxOUFQOUdIWGdHSG9tRXNYUVBlREdiamlDbDMzRmo1cllBbGhKcGpRejM4NnZiU0dSY0ZiQ1VYNHVVRV91dXZuaVFnWVJ1UzVjRGtKWm1fTHlBN2tRUUtZTzRFcm5SRnhIT3FnUTREZmUwWXRxcllLU0cyZG13dTRrWDZwdQ?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "2 Goldman Sachs ETFs Paying 8%+ in Passive Income with Double-Digit Upside Potential",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNLVRsaGVveUpmUjhudjlnUERjbU9QbTVsRG1KNmt4YUR5cm1mSU1NRVo1NjZHcFRpbDluOWFxNV9PaDBKeVVsTnhSR2tsUHgxaFpBSjZFemVKV013LVZEYTJJNGpJVXVHWm9GMTFSNkg4WllhM3d3NmFHM3ZJYjJWRGg4MDEtSTdJdGl5NHJYVU44MDZxMndlT25wbFpsb3ZTRGZBUjJhN0tOMTZick53T2JB?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "cf2dbbbf8c8c",
-      "slug": "passive-income",
-      "opportunity": {
-        "type": "niche-content",
-        "recommended": "Publish niche guide for \"finance\"; bundle into digital product later."
-      }
-    },
-    {
       "keyword": "claude code",
-      "count": 19,
-      "score": 130.45411462931952,
+      "count": 30,
+      "score": 214.13636145237624,
       "proper": true,
       "niches": [
         "ai"
       ],
       "examples": [
         {
-          "title": "Show HN: Recall – Local project memory for Claude Code",
-          "url": "https://github.com/raiyanyahya/recall",
+          "title": "The text in Claude Code’s “Extended Thinking” output",
+          "url": "https://patrickmccanna.net/the-text-in-claude-codes-extended-thinking-output-is-not-authentic/",
           "source": "hackernews"
         },
         {
-          "title": "Show HN: Recall – Local project memory for Claude Code",
-          "url": "https://github.com/raiyanyahya/recall",
+          "title": "The text in Claude Code’s “Extended Thinking” output",
+          "url": "https://patrickmccanna.net/the-text-in-claude-codes-extended-thinking-output-is-not-authentic/",
           "source": "hackernews"
         },
         {
-          "title": "PieroSierra/SecondBrain — A personal knowledge base that lives in this folder. Drop content in, have it organized automatically, ask questions, and get sourced answers — either through Claude Code sla",
-          "url": "https://github.com/PieroSierra/SecondBrain",
+          "title": "m1ckc3s/claude-status-bar — A tiny macOS menu bar status indicator for Claude Code: animated spark, elapsed timer, and open/close lifecycle.",
+          "url": "https://github.com/m1ckc3s/claude-status-bar",
+          "source": "github"
+        },
+        {
+          "title": "m1ckc3s/claude-status-bar — A tiny macOS menu bar status indicator for Claude Code: animated spark, elapsed timer, and open/close lifecycle.",
+          "url": "https://github.com/m1ckc3s/claude-status-bar",
           "source": "github"
         },
         {
           "title": "PieroSierra/SecondBrain — A personal knowledge base that lives in this folder. Drop content in, have it organized automatically, ask questions, and get sourced answers — either through Claude Code sla",
           "url": "https://github.com/PieroSierra/SecondBrain",
           "source": "github"
-        },
-        {
-          "title": "claude-session-status 0.2.4",
-          "url": "https://pypi.org/project/claude-session-status/0.2.4/",
-          "source": "pypi"
         }
       ],
       "id": "a625159d18da",
@@ -807,138 +734,64 @@
       }
     },
     {
-      "keyword": "claude",
-      "count": 10,
-      "score": 98.73056155831173,
+      "keyword": "mechanical keyboard",
+      "count": 14,
+      "score": 102.96012141298792,
       "proper": true,
       "niches": [
-        "ai"
+        "gear"
       ],
       "examples": [
         {
-          "title": "Identity verification on Claude",
-          "url": "https://support.claude.com/en/articles/14328960-identity-verification-on-claude",
-          "source": "hackernews"
-        },
-        {
-          "title": "Identity verification on Claude",
-          "url": "https://support.claude.com/en/articles/14328960-identity-verification-on-claude",
-          "source": "hackernews"
-        },
-        {
-          "title": "Show HN: Recall – Local project memory for Claude Code",
-          "url": "https://github.com/raiyanyahya/recall",
-          "source": "hackernews"
-        },
-        {
-          "title": "dikurdikur/palmier-pro-windows — Palmier Pro AI video editor macOS windows timeline multitrack NLE footage model context protocol MCP server agent Claude Cursor Swift SwiftUI AVFoundation storyboard a",
-          "url": "https://github.com/dikurdikur/palmier-pro-windows",
-          "source": "github"
-        },
-        {
-          "title": "PieroSierra/SecondBrain — A personal knowledge base that lives in this folder. Drop content in, have it organized automatically, ask questions, and get sourced answers — either through Claude Code sla",
-          "url": "https://github.com/PieroSierra/SecondBrain",
-          "source": "github"
-        }
-      ],
-      "id": "c857d09db23e",
-      "slug": "claude",
-      "opportunity": {
-        "type": "tooling",
-        "recommended": "Build / list AI tools; monetize via affiliate links + lead magnet."
-      }
-    },
-    {
-      "keyword": "income",
-      "count": 21,
-      "score": 94.13012979744738,
-      "proper": true,
-      "niches": [
-        "finance"
-      ],
-      "examples": [
-        {
-          "title": "SpaceX doesn’t pay a dividend. So how come it may help these investors earn passive income?",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTHprc3pBcEgtSnl2RFg1MHNMQWgxSlFjaGMxSEF1WEpFVVZLVVNzY3ZNVXJxSldmTmxCZUx1ZVFrVzlzV1NhLXktcVBQZU85S0hHWHJLRWI0eXRuNEc1Q1RqbDAtVnVoWWtFVjJlbFY4REhlN1A5OTdfbmFJS1dLaXd3?oc=5",
+          "title": "GravaStar Unveils Mercury K98 Pro: A Cyberpunk-Engineered 98% Mechanical Keyboard",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPYk1SY2lsOGEya2Zja3VvOTAybk9Xb0JObEFwWDN4eXlEYUNaeFRfeU1Sb2lrSy1WLW9iQ1drbVljaDFRbjZIT3k4bkJfWTUtak5tZmliMk1kR0c1bWpfcUw5SzlfOWdKNVpnVzBHdElJZzBnbUczVS1qZ0pqeWdwbmJKaUlpZ2Jad2h6bFl3ZzQ3LXRoQVJyWkFXdC1DS1VuMFRCOUNjcTFhUjNLTDRVcmdZZTTSAboBQVVfeXFMTVJ4VnYtbWVhZGVNYUx2Vm9BcUpZcmtKaTVKOG4tYXVELWQ2dWxzc01KMGRQWXVEa243TVh6RUt3UE1kcWFnbVE2NGNjNmNxUFVTY0lORk1yc3EzTEJtQlk0c3ExeWxlVUh4SXhCZzltS3MxR0k0NEZiY1djdG5nOW5PdzJldXR0SzkwMmowN2IxVjFoOTNhVVFhR0JWdmx1enRXdk5SSjBoRnRHQWFqR2ZoU1ZkZElUeVdn?oc=5",
           "source": "gnews"
         },
         {
-          "title": "SpaceX doesn’t pay a dividend. So how come it may help these investors earn passive income?",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTHprc3pBcEgtSnl2RFg1MHNMQWgxSlFjaGMxSEF1WEpFVVZLVVNzY3ZNVXJxSldmTmxCZUx1ZVFrVzlzV1NhLXktcVBQZU85S0hHWHJLRWI0eXRuNEc1Q1RqbDAtVnVoWWtFVjJlbFY4REhlN1A5OTdfbmFJS1dLaXd3?oc=5",
+          "title": "GravaStar Unveils Mercury K98 Pro: A Cyberpunk-Engineered 98% Mechanical Keyboard",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPYk1SY2lsOGEya2Zja3VvOTAybk9Xb0JObEFwWDN4eXlEYUNaeFRfeU1Sb2lrSy1WLW9iQ1drbVljaDFRbjZIT3k4bkJfWTUtak5tZmliMk1kR0c1bWpfcUw5SzlfOWdKNVpnVzBHdElJZzBnbUczVS1qZ0pqeWdwbmJKaUlpZ2Jad2h6bFl3ZzQ3LXRoQVJyWkFXdC1DS1VuMFRCOUNjcTFhUjNLTDRVcmdZZTTSAboBQVVfeXFMTVJ4VnYtbWVhZGVNYUx2Vm9BcUpZcmtKaTVKOG4tYXVELWQ2dWxzc01KMGRQWXVEa243TVh6RUt3UE1kcWFnbVE2NGNjNmNxUFVTY0lORk1yc3EzTEJtQlk0c3ExeWxlVUh4SXhCZzltS3MxR0k0NEZiY1djdG5nOW5PdzJldXR0SzkwMmowN2IxVjFoOTNhVVFhR0JWdmx1enRXdk5SSjBoRnRHQWFqR2ZoU1ZkZElUeVdn?oc=5",
           "source": "gnews"
         },
         {
-          "title": "The S&P 500's Dividend Yield Is Down to Around 1%. Buy This 5%-Yielding Pipeline Stock to Boost Your Passive Income.",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaHdtRUdVZEFPX2lGanBjcmR5UlIxOUFQOUdIWGdHSG9tRXNYUVBlREdiamlDbDMzRmo1cllBbGhKcGpRejM4NnZiU0dSY0ZiQ1VYNHVVRV91dXZuaVFnWVJ1UzVjRGtKWm1fTHlBN2tRUUtZTzRFcm5SRnhIT3FnUTREZmUwWXRxcllLU0cyZG13dTRrWDZwdQ?oc=5",
+          "title": "Mechanical Keyboard Market Revenue To Cross $3.08 Billion By 2030 Supported By Rising Demand",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOMDg2ZEFldjNTOFFfaTVvcUNEV1JlUThYMGlNdVNDdzg3a185UjNjUUxjUWU5UFA1UjU0T2J3QWV0cmxJMTZsU1NqYUlpLWhmTW9uM0FxUG04d2ZJdDg4dTgtcXZKVG9lVEI2bTVtOU5nNjRrZklUaWtfWTlISTdMRnNLNUxCQzJLa0xIa09NTWtlOVRiYkhaSTRlWVkyeGhBV2htSHVpWDFfRnhhZGh3ckxsZjNvRjRLS2s0LTZfbURmdXNMS2JDUmRZcGV6NzhvcjZuaQ?oc=5",
           "source": "gnews"
         },
         {
-          "title": "The S&P 500's Dividend Yield Is Down to Around 1%. Buy This 5%-Yielding Pipeline Stock to Boost Your Passive Income.",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaHdtRUdVZEFPX2lGanBjcmR5UlIxOUFQOUdIWGdHSG9tRXNYUVBlREdiamlDbDMzRmo1cllBbGhKcGpRejM4NnZiU0dSY0ZiQ1VYNHVVRV91dXZuaVFnWVJ1UzVjRGtKWm1fTHlBN2tRUUtZTzRFcm5SRnhIT3FnUTREZmUwWXRxcllLU0cyZG13dTRrWDZwdQ?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "2 Goldman Sachs ETFs Paying 8%+ in Passive Income with Double-Digit Upside Potential",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNLVRsaGVveUpmUjhudjlnUERjbU9QbTVsRG1KNmt4YUR5cm1mSU1NRVo1NjZHcFRpbDluOWFxNV9PaDBKeVVsTnhSR2tsUHgxaFpBSjZFemVKV013LVZEYTJJNGpJVXVHWm9GMTFSNkg4WllhM3d3NmFHM3ZJYjJWRGg4MDEtSTdJdGl5NHJYVU44MDZxMndlT25wbFpsb3ZTRGZBUjJhN0tOMTZick53T2JB?oc=5",
+          "title": "Mechanical Keyboard Market Revenue To Cross $3.08 Billion By 2030 Supported By Rising Demand",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOMDg2ZEFldjNTOFFfaTVvcUNEV1JlUThYMGlNdVNDdzg3a185UjNjUUxjUWU5UFA1UjU0T2J3QWV0cmxJMTZsU1NqYUlpLWhmTW9uM0FxUG04d2ZJdDg4dTgtcXZKVG9lVEI2bTVtOU5nNjRrZklUaWtfWTlISTdMRnNLNUxCQzJLa0xIa09NTWtlOVRiYkhaSTRlWVkyeGhBV2htSHVpWDFfRnhhZGh3ckxsZjNvRjRLS2s0LTZfbURmdXNMS2JDUmRZcGV6NzhvcjZuaQ?oc=5",
           "source": "gnews"
         }
       ],
-      "id": "00cf141f881d",
-      "slug": "income",
+      "id": "e31f9fac7533",
+      "slug": "mechanical-keyboard",
       "opportunity": {
         "type": "niche-content",
-        "recommended": "Publish niche guide for \"finance\"; bundle into digital product later."
+        "recommended": "Publish niche guide for \"gear\"; bundle into digital product later."
       }
     },
     {
-      "keyword": "lars andersen",
+      "keyword": "extended thinking",
       "count": 8,
-      "score": 90.4713929162159,
+      "score": 101.27960561328042,
       "proper": true,
       "niches": [
         "ai"
       ],
       "examples": [
         {
-          "title": "Danish privacy activist Lars Andersen raided by police",
-          "url": "https://twitter.com/LarsAnders1620/status/2068208864747540516#m",
+          "title": "The text in Claude Code’s “Extended Thinking” output",
+          "url": "https://patrickmccanna.net/the-text-in-claude-codes-extended-thinking-output-is-not-authentic/",
           "source": "hackernews"
         },
         {
-          "title": "Danish privacy activist Lars Andersen raided by police",
-          "url": "https://twitter.com/LarsAnders1620/status/2068208864747540516#m",
+          "title": "The text in Claude Code’s “Extended Thinking” output",
+          "url": "https://patrickmccanna.net/the-text-in-claude-codes-extended-thinking-output-is-not-authentic/",
           "source": "hackernews"
         }
       ],
-      "id": "4565938c5f0e",
-      "slug": "lars-andersen",
-      "opportunity": {
-        "type": "niche-content",
-        "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
-      }
-    },
-    {
-      "keyword": "wilonity loader",
-      "count": 8,
-      "score": 83.05672823511975,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "WilonityInc/WilonityLoader — Wilonity Loader is a unified launcher that enhances your favorite games with advanced features — intelligent aiming, visual overlays, intuitive UI improvements, and more. ",
-          "url": "https://github.com/WilonityInc/WilonityLoader",
-          "source": "github"
-        },
-        {
-          "title": "WilonityInc/WilonityLoader — Wilonity Loader is a unified launcher that enhances your favorite games with advanced features — intelligent aiming, visual overlays, intuitive UI improvements, and more. ",
-          "url": "https://github.com/WilonityInc/WilonityLoader",
-          "source": "github"
-        }
-      ],
-      "id": "c561c392b4bc",
-      "slug": "wilonity-loader",
+      "id": "e45ad4c34fab",
+      "slug": "extended-thinking",
       "opportunity": {
         "type": "niche-content",
         "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
@@ -947,7 +800,7 @@
     {
       "keyword": "deno desktop",
       "count": 8,
-      "score": 65.98051160442424,
+      "score": 98.25074226949141,
       "proper": true,
       "niches": [
         "gear"
@@ -972,32 +825,125 @@
       }
     },
     {
-      "keyword": "affordability crisis",
-      "count": 11,
-      "score": 58.75694146801339,
+      "keyword": "rishi sunak",
+      "count": 8,
+      "score": 97.6017928765704,
       "proper": true,
       "niches": [
-        "ai"
+        "software"
       ],
       "examples": [
         {
-          "title": "Affordability Crisis: Five smart side-hustle ideas to the rescue",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTlpoczY3VEVXQ2JHVVdwenZjRjJUS2xrNkZ1VS1BODZyZ0g1TkNjcnJfZldCa2xyenEyXzlKMzlDMDVCMXdvdFdlbmNhV0tqU3N6YkxkdjFzbFZVWEwzQl9ELWd6TlBacm1wOTloc0Z4a0ZKczBrY1N5MHNwUnFFZm1vVTNFeU15N0hIeFZCQWNqMlVIWnlHTXFlTEh0VEVVREhDaWpIWGptUG82QU9hZ0lod0NiWkNER3hxWQ?oc=5",
+          "title": "UK Prime Ministerial tenures since Milk-Snatcher Thatcher, approximated as lettucesKeir Starmer🥬🥬🥬🥬🥬🥬🥬🥬🥬🥬🥬🥬🥬🥬🥬Rishi Sunak🥬🥬🥬🥬🥬🥬🥬🥬🥬🥬🥬🥬🥬Liz Truss🥬Boris Johnson🥬🥬🥬🥬🥬🥬🥬",
+          "url": "https://mastodon.social/@urlyman/116793062918256142",
+          "source": "mastodon"
+        },
+        {
+          "title": "UK Prime Ministerial tenures since Milk-Snatcher Thatcher, approximated as lettucesKeir Starmer🥬🥬🥬🥬🥬🥬🥬🥬🥬🥬🥬🥬🥬🥬🥬Rishi Sunak🥬🥬🥬🥬🥬🥬🥬🥬🥬🥬🥬🥬🥬Liz Truss🥬Boris Johnson🥬🥬🥬🥬🥬🥬🥬",
+          "url": "https://mastodon.social/@urlyman/116793062918256142",
+          "source": "mastodon"
+        }
+      ],
+      "id": "4261e9486a57",
+      "slug": "rishi-sunak",
+      "opportunity": {
+        "type": "niche-content",
+        "recommended": "Publish niche guide for \"software\"; bundle into digital product later."
+      }
+    },
+    {
+      "keyword": "liz truss",
+      "count": 8,
+      "score": 97.6017928765704,
+      "proper": true,
+      "niches": [
+        "software"
+      ],
+      "examples": [
+        {
+          "title": "UK Prime Ministerial tenures since Milk-Snatcher Thatcher, approximated as lettucesKeir Starmer🥬🥬🥬🥬🥬🥬🥬🥬🥬🥬🥬🥬🥬🥬🥬Rishi Sunak🥬🥬🥬🥬🥬🥬🥬🥬🥬🥬🥬🥬🥬Liz Truss🥬Boris Johnson🥬🥬🥬🥬🥬🥬🥬",
+          "url": "https://mastodon.social/@urlyman/116793062918256142",
+          "source": "mastodon"
+        },
+        {
+          "title": "UK Prime Ministerial tenures since Milk-Snatcher Thatcher, approximated as lettucesKeir Starmer🥬🥬🥬🥬🥬🥬🥬🥬🥬🥬🥬🥬🥬🥬🥬Rishi Sunak🥬🥬🥬🥬🥬🥬🥬🥬🥬🥬🥬🥬🥬Liz Truss🥬Boris Johnson🥬🥬🥬🥬🥬🥬🥬",
+          "url": "https://mastodon.social/@urlyman/116793062918256142",
+          "source": "mastodon"
+        }
+      ],
+      "id": "98d0b41ed89c",
+      "slug": "liz-truss",
+      "opportunity": {
+        "type": "niche-content",
+        "recommended": "Publish niche guide for \"software\"; bundle into digital product later."
+      }
+    },
+    {
+      "keyword": "boris johnson",
+      "count": 8,
+      "score": 97.6017928765704,
+      "proper": true,
+      "niches": [
+        "software"
+      ],
+      "examples": [
+        {
+          "title": "UK Prime Ministerial tenures since Milk-Snatcher Thatcher, approximated as lettucesKeir Starmer🥬🥬🥬🥬🥬🥬🥬🥬🥬🥬🥬🥬🥬🥬🥬Rishi Sunak🥬🥬🥬🥬🥬🥬🥬🥬🥬🥬🥬🥬🥬Liz Truss🥬Boris Johnson🥬🥬🥬🥬🥬🥬🥬",
+          "url": "https://mastodon.social/@urlyman/116793062918256142",
+          "source": "mastodon"
+        },
+        {
+          "title": "UK Prime Ministerial tenures since Milk-Snatcher Thatcher, approximated as lettucesKeir Starmer🥬🥬🥬🥬🥬🥬🥬🥬🥬🥬🥬🥬🥬🥬🥬Rishi Sunak🥬🥬🥬🥬🥬🥬🥬🥬🥬🥬🥬🥬🥬Liz Truss🥬Boris Johnson🥬🥬🥬🥬🥬🥬🥬",
+          "url": "https://mastodon.social/@urlyman/116793062918256142",
+          "source": "mastodon"
+        }
+      ],
+      "id": "2bceb9256b14",
+      "slug": "boris-johnson",
+      "opportunity": {
+        "type": "niche-content",
+        "recommended": "Publish niche guide for \"software\"; bundle into digital product later."
+      }
+    },
+    {
+      "keyword": "2026 6f6f6f",
+      "count": 27,
+      "score": 88.03864517061692,
+      "proper": false,
+      "niches": [
+        "ai",
+        "gear",
+        "general"
+      ],
+      "examples": [
+        {
+          "title": "Top 10 AI tools for Visualization in Architecture in 2026 - parametric-architecture.com",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5HSy15bzEwX2tEVGpIUno4OGgxRjN3UnRqODB5NHJNbHVVdVY2cVBYcTM1Wk1tWmVHWFhtUGFpSkFWYnRwSHJicXpNczA1cFRyN3JxTmVuVWtySEJOUzJuVmM1M001S2FXeGwtX0R0eG1HNVZfeGZ5dXFvUQ?oc=5",
           "source": "gnews"
         },
         {
-          "title": "Affordability Crisis: Five smart side-hustle ideas to the rescue",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTlpoczY3VEVXQ2JHVVdwenZjRjJUS2xrNkZ1VS1BODZyZ0g1TkNjcnJfZldCa2xyenEyXzlKMzlDMDVCMXdvdFdlbmNhV0tqU3N6YkxkdjFzbFZVWEwzQl9ELWd6TlBacm1wOTloc0Z4a0ZKczBrY1N5MHNwUnFFZm1vVTNFeU15N0hIeFZCQWNqMlVIWnlHTXFlTEh0VEVVREhDaWpIWGptUG82QU9hZ0lod0NiWkNER3hxWQ?oc=5",
+          "title": "7 AI Application-Security Tools for 2026",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNTS1SWExWaGNNZHRsMExqMDVjcnJwRW9VT2R2dU5SZUxvUkhOSmtWMVQ4d2hzdWpodzZ2Rk8xek45QmFiTmhpbmpiaGN6TkVTRkZwd2dWdm5iVHpLdW1iclFYQVc3dW5LMHljWDVnU0JPaDFpU2xmLWRXa3g5b2JiR2hfeU9XUQ?oc=5",
           "source": "gnews"
         },
         {
-          "title": "Affordability Crisis: Five smart side-hustle ideas to the rescue",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTlpoczY3VEVXQ2JHVVdwenZjRjJUS2xrNkZ1VS1BODZyZ0g1TkNjcnJfZldCa2xyenEyXzlKMzlDMDVCMXdvdFdlbmNhV0tqU3N6YkxkdjFzbFZVWEwzQl9ELWd6TlBacm1wOTloc0Z4a0ZKczBrY1N5MHNwUnFFZm1vVTNFeU15N0hIeFZCQWNqMlVIWnlHTXFlTEh0VEVVREhDaWpIWGptUG82QU9hZ0lod0NiWkNER3hxWQ?oc=5",
+          "title": "The best home gadgets of 2026",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5rbTdFUVRseVBqZi1ZRWktSHl2Ukk1ZjhfcUJsRjVQc0ZibHBrY0VXNUs3d1pSbE9fUFRRaDBoZ0FFbVBMZldNV0N2NHo5dkRfM3d4QWM0V05mSFpWeDhoZm1lN2NHOVBaaE9IeC0wRFRUWFRlRnc?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Best AI Tools to Manage Meeting Workflows in 2026",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNajdNQV9MdkVOLVM1QUdDRDYyak1Fd2lWQ2dWWEM3eDhLVGNQTzhLNHJFeVJRbUtxbjhnU1ZEUGpESFFVZ0NPaEo4eEtSZkVWTVlKSWhMNVp3SHhGZ3JaV2h0M0ZfQkZzSFBXWGxQd09VeDZtUGxqck9mSjBWNEtEbGE5VndJWndrbWJWOHh3?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "11 Best AI Coding Tools for Data Science & ML in 2026",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPaHBGOWZOaERaNVMxVVpPTU9FU1VaMnJ3WkZvMUtUd1MwaGtUQThJZE1nNnNsN25ZemFPZXpUZ1pEdG10NjhhNEx1MnBLTWZOMVg1WUd2MEhzeXM0eWZuOWc3cVgwYkRHUXpYTUF4ZnR0dzlsYmhoVnpKRDd4RjFqRkw4RTE?oc=5",
           "source": "gnews"
         }
       ],
-      "id": "75c4782cb45d",
-      "slug": "affordability-crisis",
+      "id": "819223dcf234",
+      "slug": "2026-6f6f6f",
       "opportunity": {
         "type": "niche-content",
         "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
