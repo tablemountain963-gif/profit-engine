@@ -322,9 +322,9 @@
     },
     "stop": {
       "firstSeen": "2026-05-30T14:27:49.434Z",
-      "lastSeen": "2026-06-21T22:07:12.759Z",
-      "count": 3,
-      "wins": 1,
+      "lastSeen": "2026-06-23T15:45:49.838Z",
+      "count": 4,
+      "wins": 2,
       "losses": 0,
       "niche": "ai"
     },
@@ -783,14 +783,6 @@
       "wins": 1,
       "losses": 0,
       "niche": "ai"
-    },
-    "macbook-neo": {
-      "firstSeen": "2026-06-03T22:56:30.674Z",
-      "lastSeen": "2026-06-09T05:02:01.485Z",
-      "count": 2,
-      "wins": 0,
-      "losses": 1,
-      "niche": "software"
     },
     "ted-chiang": {
       "firstSeen": "2026-06-03T22:56:33.968Z",
@@ -1317,30 +1309,6 @@
       "lastSeen": "2026-06-09T15:53:10.642Z",
       "count": 2,
       "wins": 1,
-      "losses": 0,
-      "niche": "ai"
-    },
-    "video-tools": {
-      "firstSeen": "2026-06-09T05:02:25.075Z",
-      "lastSeen": "2026-06-09T05:02:25.075Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "ai"
-    },
-    "try-ai": {
-      "firstSeen": "2026-06-09T05:02:34.582Z",
-      "lastSeen": "2026-06-09T05:02:34.582Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "ai"
-    },
-    "friendly-platforms": {
-      "firstSeen": "2026-06-09T05:02:41.431Z",
-      "lastSeen": "2026-06-09T05:02:41.431Z",
-      "count": 1,
-      "wins": 0,
       "losses": 0,
       "niche": "ai"
     },
@@ -3714,9 +3682,9 @@
     },
     "google-maps": {
       "firstSeen": "2026-06-23T04:57:00.131Z",
-      "lastSeen": "2026-06-23T04:57:00.131Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-23T15:45:49.839Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -3735,12 +3703,84 @@
       "wins": 0,
       "losses": 0,
       "niche": "software"
+    },
+    "god-mode": {
+      "firstSeen": "2026-06-23T15:46:14.320Z",
+      "lastSeen": "2026-06-23T15:46:14.320Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "infinite-ammo": {
+      "firstSeen": "2026-06-23T15:46:17.813Z",
+      "lastSeen": "2026-06-23T15:46:17.813Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "cp-editor": {
+      "firstSeen": "2026-06-23T15:46:21.430Z",
+      "lastSeen": "2026-06-23T15:46:21.430Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "ultimate-trainer": {
+      "firstSeen": "2026-06-23T15:46:36.817Z",
+      "lastSeen": "2026-06-23T15:46:36.817Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "resident-evil-requiem-ultimate-trainer-2026_v_2-ultimate": {
+      "firstSeen": "2026-06-23T15:46:43.591Z",
+      "lastSeen": "2026-06-23T15:46:43.591Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "trainer-resident": {
+      "firstSeen": "2026-06-23T15:46:49.612Z",
+      "lastSeen": "2026-06-23T15:46:49.612Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "resident-evil": {
+      "firstSeen": "2026-06-23T15:47:08.771Z",
+      "lastSeen": "2026-06-23T15:47:08.771Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "evil-requiem": {
+      "firstSeen": "2026-06-23T15:47:33.809Z",
+      "lastSeen": "2026-06-23T15:47:33.809Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "requiem-re9": {
+      "firstSeen": "2026-06-23T15:47:56.278Z",
+      "lastSeen": "2026-06-23T15:47:56.278Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
     }
   },
   "niches": {
     "ai": {
-      "count": 714,
-      "wins": 203,
+      "count": 725,
+      "wins": 205,
       "losses": 30
     },
     "finance": {
