@@ -832,14 +832,6 @@
       "losses": 0,
       "niche": "software"
     },
-    "asvine-c2000": {
-      "firstSeen": "2026-06-04T16:19:37.226Z",
-      "lastSeen": "2026-06-09T17:52:41.309Z",
-      "count": 2,
-      "wins": 0,
-      "losses": 1,
-      "niche": "ai"
-    },
     "codex-skill": {
       "firstSeen": "2026-06-04T16:19:40.401Z",
       "lastSeen": "2026-06-04T18:08:46.713Z",
@@ -1357,14 +1349,6 @@
       "lastSeen": "2026-06-09T22:16:56.615Z",
       "count": 2,
       "wins": 1,
-      "losses": 0,
-      "niche": "ai"
-    },
-    "agentic-search": {
-      "firstSeen": "2026-06-09T17:53:33.380Z",
-      "lastSeen": "2026-06-09T17:53:33.380Z",
-      "count": 1,
-      "wins": 0,
       "losses": 0,
       "niche": "ai"
     },
@@ -2474,8 +2458,8 @@
     },
     "amazon-prime": {
       "firstSeen": "2026-06-15T22:53:25.514Z",
-      "lastSeen": "2026-06-15T22:53:25.514Z",
-      "count": 1,
+      "lastSeen": "2026-06-23T22:07:36.525Z",
+      "count": 2,
       "wins": 0,
       "losses": 0,
       "niche": "ai"
@@ -2922,10 +2906,10 @@
     },
     "yc-p26": {
       "firstSeen": "2026-06-18T18:21:48.703Z",
-      "lastSeen": "2026-06-18T18:21:48.703Z",
-      "count": 1,
+      "lastSeen": "2026-06-23T22:06:34.802Z",
+      "count": 2,
       "wins": 0,
-      "losses": 0,
+      "losses": 1,
       "niche": "ai"
     },
     "social-isn": {
@@ -3762,25 +3746,25 @@
     },
     "re9-features": {
       "firstSeen": "2026-06-23T17:44:47.282Z",
-      "lastSeen": "2026-06-23T17:44:47.282Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-23T22:06:34.803Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
     "features-including": {
       "firstSeen": "2026-06-23T17:44:50.854Z",
-      "lastSeen": "2026-06-23T17:44:50.854Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-23T22:06:34.803Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
     "including-god": {
       "firstSeen": "2026-06-23T17:44:55.038Z",
-      "lastSeen": "2026-06-23T17:44:55.038Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-23T22:06:34.804Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -3799,13 +3783,69 @@
       "wins": 0,
       "losses": 0,
       "niche": "ai"
+    },
+    "systemic-rejection": {
+      "firstSeen": "2026-06-23T22:06:39.449Z",
+      "lastSeen": "2026-06-23T22:06:39.449Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "claude-tag": {
+      "firstSeen": "2026-06-23T22:06:44.301Z",
+      "lastSeen": "2026-06-23T22:06:44.301Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "futo-swipe": {
+      "firstSeen": "2026-06-23T22:06:47.114Z",
+      "lastSeen": "2026-06-23T22:06:47.114Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "radio-interference": {
+      "firstSeen": "2026-06-23T22:06:53.608Z",
+      "lastSeen": "2026-06-23T22:06:53.608Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "ron-schwerin": {
+      "firstSeen": "2026-06-23T22:07:01.620Z",
+      "lastSeen": "2026-06-23T22:07:01.620Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "shopping-tools": {
+      "firstSeen": "2026-06-23T22:07:10.859Z",
+      "lastSeen": "2026-06-23T22:07:10.859Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "tools-amazon": {
+      "firstSeen": "2026-06-23T22:07:24.052Z",
+      "lastSeen": "2026-06-23T22:07:24.052Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
     }
   },
   "niches": {
     "ai": {
-      "count": 735,
-      "wins": 209,
-      "losses": 31
+      "count": 747,
+      "wins": 212,
+      "losses": 32
     },
     "finance": {
       "count": 62,
