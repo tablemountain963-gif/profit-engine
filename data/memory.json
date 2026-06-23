@@ -290,8 +290,8 @@
     },
     "dividend-stocks": {
       "firstSeen": "2026-05-29T22:24:26.611Z",
-      "lastSeen": "2026-06-17T22:28:52.265Z",
-      "count": 3,
+      "lastSeen": "2026-06-23T04:57:12.018Z",
+      "count": 4,
       "wins": 0,
       "losses": 0,
       "niche": "finance"
@@ -482,8 +482,8 @@
     },
     "2026-_blank": {
       "firstSeen": "2026-05-31T21:45:59.853Z",
-      "lastSeen": "2026-06-16T22:47:02.524Z",
-      "count": 3,
+      "lastSeen": "2026-06-23T04:57:18.968Z",
+      "count": 4,
       "wins": 0,
       "losses": 0,
       "niche": "gear"
@@ -3610,17 +3610,17 @@
     },
     "prompt-injection": {
       "firstSeen": "2026-06-22T19:18:27.289Z",
-      "lastSeen": "2026-06-22T19:18:27.289Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-23T04:56:51.231Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
     "role-confusion": {
       "firstSeen": "2026-06-22T19:18:30.200Z",
-      "lastSeen": "2026-06-22T19:18:30.200Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-23T04:56:51.233Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -3666,25 +3666,25 @@
     },
     "smart-tv-apps-contain": {
       "firstSeen": "2026-06-22T22:29:28.502Z",
-      "lastSeen": "2026-06-22T22:29:28.502Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-23T04:56:51.234Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
     "residential-proxy-sdks": {
       "firstSeen": "2026-06-22T22:29:30.690Z",
-      "lastSeen": "2026-06-22T22:29:30.690Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-23T04:56:51.235Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
     "frame-generation": {
       "firstSeen": "2026-06-22T22:29:34.423Z",
-      "lastSeen": "2026-06-22T22:29:34.423Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-23T04:56:51.236Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "software"
     },
@@ -3703,22 +3703,54 @@
       "wins": 0,
       "losses": 0,
       "niche": "ai"
+    },
+    "mayor-mamdani": {
+      "firstSeen": "2026-06-23T04:56:56.271Z",
+      "lastSeen": "2026-06-23T04:56:56.271Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "google-maps": {
+      "firstSeen": "2026-06-23T04:57:00.131Z",
+      "lastSeen": "2026-06-23T04:57:00.131Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "experimental-astronomy": {
+      "firstSeen": "2026-06-23T04:57:03.688Z",
+      "lastSeen": "2026-06-23T04:57:03.688Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "voidstrap-roblox": {
+      "firstSeen": "2026-06-23T04:57:30.156Z",
+      "lastSeen": "2026-06-23T04:57:30.156Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "software"
     }
   },
   "niches": {
     "ai": {
-      "count": 706,
-      "wins": 199,
+      "count": 714,
+      "wins": 203,
       "losses": 30
     },
     "finance": {
-      "count": 60,
+      "count": 61,
       "wins": 10,
       "losses": 0
     },
     "software": {
-      "count": 183,
-      "wins": 46,
+      "count": 185,
+      "wins": 47,
       "losses": 10
     },
     "gear": {
