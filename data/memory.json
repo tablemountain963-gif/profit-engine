@@ -10,8 +10,8 @@
     },
     "passive-income": {
       "firstSeen": "2026-05-28T04:01:51.171Z",
-      "lastSeen": "2026-06-18T16:29:57.527Z",
-      "count": 6,
+      "lastSeen": "2026-06-23T17:45:04.943Z",
+      "count": 7,
       "wins": 1,
       "losses": 0,
       "niche": "finance"
@@ -1335,22 +1335,6 @@
       "wins": 1,
       "losses": 0,
       "niche": "software"
-    },
-    "logitech-g515": {
-      "firstSeen": "2026-06-09T15:53:33.229Z",
-      "lastSeen": "2026-06-09T15:53:33.229Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "ai"
-    },
-    "timely-reminder": {
-      "firstSeen": "2026-06-09T15:54:07.712Z",
-      "lastSeen": "2026-06-09T15:54:07.712Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "ai"
     },
     "claude-fable": {
       "firstSeen": "2026-06-09T17:52:53.176Z",
@@ -2874,10 +2858,10 @@
     },
     "hong-kong": {
       "firstSeen": "2026-06-18T16:29:10.916Z",
-      "lastSeen": "2026-06-18T16:29:10.916Z",
-      "count": 1,
+      "lastSeen": "2026-06-23T17:44:39.718Z",
+      "count": 2,
       "wins": 0,
-      "losses": 0,
+      "losses": 1,
       "niche": "ai"
     },
     "supports-btc": {
@@ -3410,9 +3394,9 @@
     },
     "happy-father": {
       "firstSeen": "2026-06-21T22:07:10.016Z",
-      "lastSeen": "2026-06-21T22:07:10.016Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-23T17:44:39.721Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "software"
     },
@@ -3690,9 +3674,9 @@
     },
     "experimental-astronomy": {
       "firstSeen": "2026-06-23T04:57:03.688Z",
-      "lastSeen": "2026-06-23T04:57:03.688Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-23T17:44:39.722Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -3706,25 +3690,25 @@
     },
     "god-mode": {
       "firstSeen": "2026-06-23T15:46:14.320Z",
-      "lastSeen": "2026-06-23T15:46:14.320Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-23T17:44:39.723Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
     "infinite-ammo": {
       "firstSeen": "2026-06-23T15:46:17.813Z",
-      "lastSeen": "2026-06-23T15:46:17.813Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-23T17:44:39.724Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
     "cp-editor": {
       "firstSeen": "2026-06-23T15:46:21.430Z",
-      "lastSeen": "2026-06-23T15:46:21.430Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-23T17:44:39.725Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -3775,22 +3759,62 @@
       "wins": 0,
       "losses": 0,
       "niche": "ai"
+    },
+    "re9-features": {
+      "firstSeen": "2026-06-23T17:44:47.282Z",
+      "lastSeen": "2026-06-23T17:44:47.282Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "features-including": {
+      "firstSeen": "2026-06-23T17:44:50.854Z",
+      "lastSeen": "2026-06-23T17:44:50.854Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "including-god": {
+      "firstSeen": "2026-06-23T17:44:55.038Z",
+      "lastSeen": "2026-06-23T17:44:55.038Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "mode-infinite": {
+      "firstSeen": "2026-06-23T17:45:18.862Z",
+      "lastSeen": "2026-06-23T17:45:18.862Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "ammo-editor": {
+      "firstSeen": "2026-06-23T17:45:30.976Z",
+      "lastSeen": "2026-06-23T17:45:30.976Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
     }
   },
   "niches": {
     "ai": {
-      "count": 725,
-      "wins": 205,
-      "losses": 30
+      "count": 735,
+      "wins": 209,
+      "losses": 31
     },
     "finance": {
-      "count": 61,
+      "count": 62,
       "wins": 10,
       "losses": 0
     },
     "software": {
-      "count": 185,
-      "wins": 47,
+      "count": 186,
+      "wins": 48,
       "losses": 10
     },
     "gear": {

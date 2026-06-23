@@ -1,126 +1,148 @@
 {
-  "generatedAt": "2026-06-23T15:45:59.402Z",
-  "sourceCount": 160,
+  "generatedAt": "2026-06-23T17:44:40.573Z",
+  "sourceCount": 207,
   "topItems": [
     {
-      "title": "📣 OPEN SOURCE FUNDING ALERT 📣Are you an #opensource project and active in any of these 11 areas? 1. Digital Workplace2. Communication3. Business apps4. IT & PM tools5. Virtualization6. Cloud, data, ",
-      "url": "https://fosstodon.org/@Gina/116799368876504439",
-      "score": 10.58,
+      "title": "Have Y'all seen what Walmart is doing? They're implementing digital pricing, where you have to scan a QR code with your phone, or use their app, to find out what the price is. Talk about data mining. ",
+      "url": "https://beige.party/@kimlockhartga/116800108352531789",
+      "score": 9.09,
       "niche": "software",
       "source": "mastodon",
       "engagement": {
-        "score": 137,
-        "comments": 3
+        "score": 248,
+        "comments": 33
       }
     },
     {
       "title": "#ClimateDiary “Above is a fictional weather forecast for August 18, 2050, broadcast by French television in 2014, intended to warn against the disastrous consequences of global warming.Below is the we",
       "url": "https://mastodon.green/@pvonhellermannn/116798038528869495",
-      "score": 8.85,
+      "score": 9.01,
       "niche": "ai",
       "source": "mastodon",
       "engagement": {
-        "score": 2779,
-        "comments": 42
-      }
-    },
-    {
-      "title": "Crypto in 2026: Oh, This Is the Bad Place",
-      "url": "https://www.stephendiehl.com/posts/bad_place_2026/",
-      "score": 8.83,
-      "niche": "finance",
-      "source": "hackernews",
-      "engagement": {
-        "score": 263,
-        "comments": 308
-      }
-    },
-    {
-      "title": "Own a 3D printer? The fediverse has a platform for that!You can explore 3D prints that can send g-code directly to your printer.https://manyfold.app(Follow @manyfold and @floppy and spread the word, t",
-      "url": "https://mastodon.social/@pixelfed/116798950437110455",
-      "score": 8.83,
-      "niche": "software",
-      "source": "mastodon",
-      "engagement": {
-        "score": 257,
-        "comments": 4
+        "score": 3203,
+        "comments": 46
       }
     },
     {
       "title": "Elevated error rate across multiple models",
       "url": "https://status.claude.com/incidents/jbhf20wjmzrf",
-      "score": 8.63,
+      "score": 8.86,
       "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 150,
-        "comments": 174
+        "score": 172,
+        "comments": 208
       }
     },
     {
-      "title": "To my northern neighbours suffering from the current heat wave.I lived in approx 38C with 90% humidity for 20 years, and I have a few pieces of advice.1. Don't do anything fast that you can do slow.2.",
-      "url": "https://mstdn.social/@Remittancegirl/116798414087035061",
-      "score": 8.37,
-      "niche": "software",
-      "source": "mastodon",
+      "title": "AI's Affordability Crisis",
+      "url": "https://blog.dshr.org/2026/06/ais-affordability-crisis.html",
+      "score": 8.78,
+      "niche": "ai",
+      "source": "hackernews",
       "engagement": {
-        "score": 693,
-        "comments": 27
+        "score": 155,
+        "comments": 199
       }
     },
     {
-      "title": "RE: https://mastodon.green/@pvonhellermannn/116798038528869495Yes, we are now seeing weather patterns which the early climate models predicted for the 2040's, because back at the turn of the century s",
-      "url": "https://mastodon.scot/@kim_harding/116798955155781073",
-      "score": 7.53,
+      "title": "the cambrian explosion... good times... people weren't afraid to try new things... there were so many ways to eat the bacterial mats... you could be one or two centimeters long and feel like a big dog",
+      "url": "https://social.sublingual.xyz/@Jo/116799629922125541",
+      "score": 8.49,
       "niche": "ai",
       "source": "mastodon",
       "engagement": {
-        "score": 216,
-        "comments": 4
+        "score": 428,
+        "comments": 11
+      }
+    },
+    {
+      "title": "How rich people avoid paying tax(Originally by Instgram user @newmoney.blog)",
+      "url": "https://vis.social/@infobeautiful/116799996144375761",
+      "score": 8.07,
+      "niche": "finance",
+      "source": "mastodon",
+      "engagement": {
+        "score": 465,
+        "comments": 12
+      }
+    },
+    {
+      "title": "Crypto in 2026: Oh, This Is the Bad Place",
+      "url": "https://www.stephendiehl.com/posts/bad_place_2026/",
+      "score": 7.34,
+      "niche": "finance",
+      "source": "hackernews",
+      "engagement": {
+        "score": 326,
+        "comments": 409
+      }
+    },
+    {
+      "title": "Open source projects will tell you they have no choice but to allow slop, because doing anything else is a form of gatekeeping that will exclude too many potential contributors.Nothing could be furthe",
+      "url": "https://mathstodon.xyz/@slava/116800243553764171",
+      "score": 7.25,
+      "niche": "software",
+      "source": "mastodon",
+      "engagement": {
+        "score": 168,
+        "comments": 5
+      }
+    },
+    {
+      "title": "✨ A Sprinkle of JoyousJoyness ✨What is he doing??Have a JoyousJoyfulJoyness day!#happy #funny #cat #cute #joyousjoyness #repost",
+      "url": "https://mastodon.social/@joyousjoyness/116800351851812744",
+      "score": 7.25,
+      "niche": "software",
+      "source": "mastodon",
+      "engagement": {
+        "score": 151,
+        "comments": 13
       }
     },
     {
       "title": "VibeThinker: 3B param model that beats Opus 4.5 on reasoning with novel SFT+GRPO",
       "url": "https://arxiv.org/abs/2606.16140",
-      "score": 7.16,
+      "score": 7.24,
       "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 303,
-        "comments": 161
+        "score": 328,
+        "comments": 173
       }
     },
     {
-      "title": "As per someone online, the Reflecting Pool is now the Strait of Warm Ooze. Pass it on. #ReflectingPool#StraitOfWarmOoze",
-      "url": "https://mastodon.social/@courtcan/116799489760709302",
-      "score": 6.92,
+      "title": "\"Age verification\" means that everyone who does anything online will have to submit to fine-grained tracking and recording of all their online activities. This nightmare is the surveillance advertisin",
+      "url": "https://mastodon.social/@AuthenticPhoto/116799814860363599",
+      "score": 7.16,
       "niche": "ai",
       "source": "mastodon",
       "engagement": {
-        "score": 136,
-        "comments": 4
+        "score": 168,
+        "comments": 2
       }
     },
     {
-      "title": "OpenAI DayBreak – GPT-5.5-Cyber",
-      "url": "https://openai.com/index/daybreak-securing-the-world/",
-      "score": 6.76,
-      "niche": "ai",
-      "source": "hackernews",
+      "title": "What perverse karma is it that #climatechange is expanding the range of a tick named after Texas and causing people to lose the ability to eat BBQ?https://yaleclimateconnections.org/2026/06/as-lone-st",
+      "url": "https://fediscience.org/@petergleick/116799755915073658",
+      "score": 6.87,
+      "niche": "software",
+      "source": "mastodon",
       "engagement": {
-        "score": 177,
-        "comments": 130
+        "score": 258,
+        "comments": 13
       }
     },
     {
-      "title": "In praise of memcached",
-      "url": "https://jchri.st/blog/in-praise-of-memcached/",
-      "score": 6.7,
-      "niche": "ai",
-      "source": "hackernews",
+      "title": "Upgrade Your Whole Gaming Setup Using Prime Day Discounts: Best Keyboards, Gaming Mouses And Headset Deals",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNDgtQ1h6UnYyX2xIUDFDcGtLQjRjYm1zaHRSZjdIaFBxZ1AwN3VKU3RScUNaNmJaSnFzNGNnRk03UVJTT0hXMlJYaXY0em96V1E5aVlpdjhaVE5EWEk3cXdCVi00SXZ5eldyRWs4Mm84ZXZXSUR4aFM2c1NzT2w3OEUtRXdfcmVYRk5qT3k5VQ?oc=5",
+      "score": 6.55,
+      "niche": "gear",
+      "source": "gnews",
       "engagement": {
-        "score": 227,
-        "comments": 94
+        "score": 40,
+        "comments": 0
       }
     },
     {
@@ -179,110 +201,88 @@
       }
     },
     {
-      "title": "The-Young-Swag/Paralives-Ultimate-Trainer-2026_v_2 — Ultimate trainer for Paralives – infinite money, max needs, freeze aging, unlock all items, and more.",
-      "url": "https://github.com/The-Young-Swag/Paralives-Ultimate-Trainer-2026_v_2",
-      "score": 6.46,
-      "niche": "ai",
-      "source": "github",
-      "engagement": {
-        "score": 156,
-        "comments": 0
-      }
-    },
-    {
-      "title": "How rich people avoid paying tax(Originally by Instgram user @newmoney.blog)",
-      "url": "https://vis.social/@infobeautiful/116799996144375761",
-      "score": 6.43,
+      "title": "Magnetic, mechanical, wired or wireless? I’ve found the 15 best Prime Day keyboard deals, starting from just $39",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNFpSNjJmODRUYjlzVjdORUR2TGRJX3NETFhkUDB1Qi1Xd0xXSWRsVkJENzI3NU1IQnpTUEwtejdiLUo3M3RfRE9kaHplbmItRkIybFh1cGJPSmRyMnFmY2JnalhoOTRCdWJVR0VqQWQwaWVlN3ljcUtHOW9BQTR4SURSOXQxMUp0Rnc?oc=5",
+      "score": 6.29,
       "niche": "finance",
-      "source": "mastodon",
+      "source": "gnews",
       "engagement": {
-        "score": 136,
-        "comments": 1
-      }
-    },
-    {
-      "title": "Before I start a day of trying to get a bunch of writing done (...maybe) in between listening to #DDA2026 science talks, please enjoy my goats actually listening to me**This only happens under very sp",
-      "url": "https://mastodon.social/@sundogplanets/116799762684146393",
-      "score": 6.43,
-      "niche": "software",
-      "source": "mastodon",
-      "engagement": {
-        "score": 90,
-        "comments": 4
-      }
-    },
-    {
-      "title": "When a Photographer Turned His Focus on Social Injustice, It Helped Usher in the First Child Labor LawsLewis Hine didn’t consider his job as taking pictures; it was “detective work.” Sometimes gaining",
-      "url": "https://mastodon.social/@gutenberg_org/116799695633903136",
-      "score": 6.37,
-      "niche": "ai",
-      "source": "mastodon",
-      "engagement": {
-        "score": 97,
+        "score": 40,
         "comments": 0
       }
     },
     {
-      "title": "What perverse karma is it that #climatechange is expanding the range of a tick named after Texas and causing people to lose the ability to eat BBQ?https://yaleclimateconnections.org/2026/06/as-lone-st",
-      "url": "https://fediscience.org/@petergleick/116799755915073658",
-      "score": 6.32,
-      "niche": "software",
-      "source": "mastodon",
-      "engagement": {
-        "score": 162,
-        "comments": 9
-      }
-    },
-    {
-      "title": "\"Age verification\" means that everyone who does anything online will have to submit to fine-grained tracking and recording of all their online activities. This nightmare is the surveillance advertisin",
-      "url": "https://mastodon.social/@AuthenticPhoto/116799814860363599",
-      "score": 6.31,
+      "title": "How to Start an AI Side Hustle With a Small Budget",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE92YjNBOFZHb0dsQWdyeUxWYUxyWGNrTkJGQy1KR2trM1ozM25lTjhhYjQ4blIyOG8yUUsxWXRBMDVzUzg3UU5XZWxITjhncGVsajNqU1g4NG1WNXZTemQyWmxWUFZobHZuZ0RDZVpGT1V2OXdrUWEzRnZR?oc=5",
+      "score": 5.99,
       "niche": "ai",
-      "source": "mastodon",
+      "source": "gnews",
       "engagement": {
-        "score": 89,
-        "comments": 2
+        "score": 40,
+        "comments": 0
       }
     },
     {
-      "title": "AI's Affordability Crisis",
-      "url": "https://blog.dshr.org/2026/06/ais-affordability-crisis.html",
-      "score": 6.02,
+      "title": "goehou/tabbit-toy — 这是一个基于tabbit的研究包，可以转化成OAI格式出来，同时增加了会员认证功能和一键提取cookie的浏览器拓展，方便快速本地快速使用claude gpt等模型",
+      "url": "https://github.com/goehou/tabbit-toy",
+      "score": 5.72,
       "niche": "ai",
-      "source": "hackernews",
+      "source": "github",
       "engagement": {
-        "score": 35,
-        "comments": 20
+        "score": 171,
+        "comments": 0
       }
     },
     {
-      "title": "pulsewarriorrank/Lossless-Scaling-Download-2026 — ⭐️ Lossless Scaling download full version pre-activated keygen patch activator lifetime license upscaling tool frame generation gaming performance enh",
-      "url": "https://github.com/pulsewarriorrank/Lossless-Scaling-Download-2026",
-      "score": 5.92,
+      "title": "samasante/liquid-glass — Apple-style Liquid Glass for the web — a headless React lens that refracts the live DOM in Safari, Firefox and Chrome. Zero dependencies.",
+      "url": "https://github.com/samasante/liquid-glass",
+      "score": 5.71,
       "niche": "software",
       "source": "github",
       "engagement": {
-        "score": 197,
+        "score": 164,
         "comments": 0
       }
     },
     {
-      "title": "Show HN: Shumai – open-source Frame.io alternative for creative work",
-      "url": "https://github.com/shumaiOne/shumai",
-      "score": 5.73,
+      "title": "ma7mod7/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2 — Ultimate trainer for Resident Evil Requiem (RE9) – 42+ features including God Mode, Infinite Ammo, CP Editor, FOV fix, and more.",
+      "url": "https://github.com/ma7mod7/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2",
+      "score": 5.65,
       "niche": "ai",
-      "source": "hackernews",
+      "source": "github",
       "engagement": {
-        "score": 33,
-        "comments": 1
+        "score": 160,
+        "comments": 0
+      }
+    },
+    {
+      "title": "M-S-ibrahim/007-First-Light-Trainer-And-Optimizer_v_2 — Advanced trainer and performance utility for 007 First Light. Features God Mode, stealth mechanics, instant gadget/outfit unlocks, map intel rev",
+      "url": "https://github.com/M-S-ibrahim/007-First-Light-Trainer-And-Optimizer_v_2",
+      "score": 5.65,
+      "niche": "ai",
+      "source": "github",
+      "engagement": {
+        "score": 160,
+        "comments": 0
+      }
+    },
+    {
+      "title": "sanjoy9875/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2 — Ultimate trainer for Resident Evil Requiem (RE9) – 42+ features including God Mode, Infinite Ammo, CP Editor, FOV fix, and more.",
+      "url": "https://github.com/sanjoy9875/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2",
+      "score": 5.64,
+      "niche": "ai",
+      "source": "github",
+      "engagement": {
+        "score": 159,
+        "comments": 0
       }
     }
   ],
   "topics": [
     {
       "keyword": "god mode",
-      "count": 62,
-      "score": 524.3047826790648,
+      "count": 54,
+      "score": 456.67786301994056,
       "proper": true,
       "niches": [
         "ai"
@@ -319,8 +319,8 @@
     },
     {
       "keyword": "infinite ammo",
-      "count": 56,
-      "score": 473.55361894546303,
+      "count": 48,
+      "score": 405.9266992863387,
       "proper": true,
       "niches": [
         "ai"
@@ -357,8 +357,8 @@
     },
     {
       "keyword": "cp editor",
-      "count": 35,
-      "score": 295.97101184091434,
+      "count": 30,
+      "score": 253.70418705396168,
       "proper": true,
       "niches": [
         "ai"
@@ -385,8 +385,8 @@
           "source": "github"
         },
         {
-          "title": "ar813/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2 — Ultimate trainer for Resident Evil Requiem (RE9) – 42+ features including God Mode, Infinite Ammo, CP Editor, FOV fix, and more.",
-          "url": "https://github.com/ar813/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2",
+          "title": "tuanvit/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2 — Ultimate trainer for Resident Evil Requiem (RE9) – 42+ features including God Mode, Infinite Ammo, CP Editor, FOV fix, and more.",
+          "url": "https://github.com/tuanvit/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2",
           "source": "github"
         }
       ],
@@ -394,9 +394,48 @@
       "slug": "cp-editor"
     },
     {
+      "keyword": "passive income",
+      "count": 53,
+      "score": 243.852919136024,
+      "proper": true,
+      "niches": [
+        "finance",
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "SCHD vs. VYMI vs. JEPI: Which Is the Best Dividend ETF for Steady Passive Income?",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxON2hRM1g1TWNRLXo3Uk14WjJZN0Y5OTJZOUdxUndYaDVQSmVCNC02ZmZVLTZUUnZDUGtrdTRlcl9pemJZSzhTeks0QkNyeE94RXFTNEpiYmRSdjJ4NExwajdVZG9RcWt1TG5ZUWxDUjFGdExPZF9YdlRWYjIwazB0aXZIN1V1ckhWRHFpNFdUYjJ5ZXVVS2JqcHlXSDFEWm5XaXU5WExhSkd2NWM?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "SCHD vs. VYMI vs. JEPI: Which Is the Best Dividend ETF for Steady Passive Income?",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxON2hRM1g1TWNRLXo3Uk14WjJZN0Y5OTJZOUdxUndYaDVQSmVCNC02ZmZVLTZUUnZDUGtrdTRlcl9pemJZSzhTeks0QkNyeE94RXFTNEpiYmRSdjJ4NExwajdVZG9RcWt1TG5ZUWxDUjFGdExPZF9YdlRWYjIwazB0aXZIN1V1ckhWRHFpNFdUYjJ5ZXVVS2JqcHlXSDFEWm5XaXU5WExhSkd2NWM?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "SCHD vs. VYMI vs. JEPI: Which Is the Best Dividend ETF for Steady Passive Income?",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxON2hRM1g1TWNRLXo3Uk14WjJZN0Y5OTJZOUdxUndYaDVQSmVCNC02ZmZVLTZUUnZDUGtrdTRlcl9pemJZSzhTeks0QkNyeE94RXFTNEpiYmRSdjJ4NExwajdVZG9RcWt1TG5ZUWxDUjFGdExPZF9YdlRWYjIwazB0aXZIN1V1ckhWRHFpNFdUYjJ5ZXVVS2JqcHlXSDFEWm5XaXU5WExhSkd2NWM?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "How many Barclays shares do I need to buy to get a £1,000 passive income?",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNLXJELWRISFVpQTZ5akoxM19CX2VUQkpvRUlscFlMYnBFLTVJRkJ6VUszZzU2ZmJGS3piekFvcUdKQXpvaWlzdHphSmo5cU5NYTBpdDczVENOckpVQUlWcklFdi1Rd3dlb191QlkyY05BR0Y3YUh6OHZGYnktWWsxRg?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "How many Barclays shares do I need to buy to get a £1,000 passive income?",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNLXJELWRISFVpQTZ5akoxM19CX2VUQkpvRUlscFlMYnBFLTVJRkJ6VUszZzU2ZmJGS3piekFvcUdKQXpvaWlzdHphSmo5cU5NYTBpdDczVENOckpVQUlWcklFdi1Rd3dlb191QlkyY05BR0Y3YUh6OHZGYnktWWsxRg?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "cf2dbbbf8c8c",
+      "slug": "passive-income"
+    },
+    {
       "keyword": "ultimate trainer",
-      "count": 39,
-      "score": 235.18807441689546,
+      "count": 33,
+      "score": 198.88715877203606,
       "proper": false,
       "niches": [
         "ai"
@@ -432,9 +471,163 @@
       "slug": "ultimate-trainer"
     },
     {
+      "keyword": "affordability crisis",
+      "count": 19,
+      "score": 164.10771643358513,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "AI's Affordability Crisis",
+          "url": "https://blog.dshr.org/2026/06/ais-affordability-crisis.html",
+          "source": "hackernews"
+        },
+        {
+          "title": "AI's Affordability Crisis",
+          "url": "https://blog.dshr.org/2026/06/ais-affordability-crisis.html",
+          "source": "hackernews"
+        },
+        {
+          "title": "Affordability Crisis: Five smart side-hustle ideas to the rescue",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTlpoczY3VEVXQ2JHVVdwenZjRjJUS2xrNkZ1VS1BODZyZ0g1TkNjcnJfZldCa2xyenEyXzlKMzlDMDVCMXdvdFdlbmNhV0tqU3N6YkxkdjFzbFZVWEwzQl9ELWd6TlBacm1wOTloc0Z4a0ZKczBrY1N5MHNwUnFFZm1vVTNFeU15N0hIeFZCQWNqMlVIWnlHTXFlTEh0VEVVREhDaWpIWGptUG82QU9hZ0lod0NiWkNER3hxWQ?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Affordability Crisis: Five smart side-hustle ideas to the rescue",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTlpoczY3VEVXQ2JHVVdwenZjRjJUS2xrNkZ1VS1BODZyZ0g1TkNjcnJfZldCa2xyenEyXzlKMzlDMDVCMXdvdFdlbmNhV0tqU3N6YkxkdjFzbFZVWEwzQl9ELWd6TlBacm1wOTloc0Z4a0ZKczBrY1N5MHNwUnFFZm1vVTNFeU15N0hIeFZCQWNqMlVIWnlHTXFlTEh0VEVVREhDaWpIWGptUG82QU9hZ0lod0NiWkNER3hxWQ?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Affordability Crisis: Five smart side-hustle ideas to the rescue",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTlpoczY3VEVXQ2JHVVdwenZjRjJUS2xrNkZ1VS1BODZyZ0g1TkNjcnJfZldCa2xyenEyXzlKMzlDMDVCMXdvdFdlbmNhV0tqU3N6YkxkdjFzbFZVWEwzQl9ELWd6TlBacm1wOTloc0Z4a0ZKczBrY1N5MHNwUnFFZm1vVTNFeU15N0hIeFZCQWNqMlVIWnlHTXFlTEh0VEVVREhDaWpIWGptUG82QU9hZ0lod0NiWkNER3hxWQ?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "75c4782cb45d",
+      "slug": "affordability-crisis"
+    },
+    {
+      "keyword": "fitness gear",
+      "count": 23,
+      "score": 123.28119800765656,
+      "proper": true,
+      "niches": [
+        "gear"
+      ],
+      "examples": [
+        {
+          "title": "Attention, Gym Girlies: Our Favorite Fitness Gear Is up to 59% off This Week",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNU08wdUpoY1Excjd4MUVTQWRoMF8tNTEzcURfdlc3RFZXVHJsdmNJYmtlR3ROdnFKM0lhQi1OMFkxYzJVMFhncHdmb1o5ZFplcG1wN19fWGxZSndzRmpBd3dhT2hoaXNyNUhyN3IyLV9vU2tKQjhIUTl0eEhEWlcta1FqaFZlUzBiMXc?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Attention, Gym Girlies: Our Favorite Fitness Gear Is up to 59% off This Week",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNU08wdUpoY1Excjd4MUVTQWRoMF8tNTEzcURfdlc3RFZXVHJsdmNJYmtlR3ROdnFKM0lhQi1OMFkxYzJVMFhncHdmb1o5ZFplcG1wN19fWGxZSndzRmpBd3dhT2hoaXNyNUhyN3IyLV9vU2tKQjhIUTl0eEhEWlcta1FqaFZlUzBiMXc?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Fitness Gear Home Gym Manual The 35 Best Home Gym Equipment Gear, Tested By Us",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4xWWJEaURIa0FVUGdYbGFBQmttcFBjemxuaV83V0syblhTUlBiVm9TV3ZXSlQ1cEpaRV8xTHFsMzN6T2ZXaEpJOUp3TVh3V0xkSVY2d2c3MXdtUGJ6?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Fitness Gear Home Gym Manual The 35 Best Home Gym Equipment Gear, Tested By Us",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4xWWJEaURIa0FVUGdYbGFBQmttcFBjemxuaV83V0syblhTUlBiVm9TV3ZXSlQ1cEpaRV8xTHFsMzN6T2ZXaEpJOUp3TVh3V0xkSVY2d2c3MXdtUGJ6?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Fitness Gear on Sale for Early Prime Day",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9jNDZtZlhYOFMtWnloN2pMenFzSjhqZ0MyN3JMVHE1bVZENE5zT0hoQUpHVEpiSUhJb2Z6ZU85bmk2M3lKT1ctOTlqSlpyUVBZWDBWQkhZdUtiNWVTMDhTVmFGX295N2VWN3RDZHBPSHlaUzUtbzNR?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "a8b7e45842c3",
+      "slug": "fitness-gear"
+    },
+    {
+      "keyword": "mechanical keyboard",
+      "count": 17,
+      "score": 108.60163934379352,
+      "proper": true,
+      "niches": [
+        "finance",
+        "gear"
+      ],
+      "examples": [
+        {
+          "title": "8BitDo's Retro 87 Mechanical Keyboard and Ultimate 2 Wireless Controller get N64-themed colors",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQN1dfczY1VlVVSmJrbzZTNEotaFB1b0JfcVdZMFJBZGRjU0gyUjR4MTdJSDFLd3Q0c1VyekVTNlBiakVMZXYtQ3lTU2JzVG4zUFlMOWhLM1V5RTMxT3RWblRHT19XNkk4X3pwN1RvaDJpMEJpNkJzVy1CWEdKa1JqOXdtZ3Y1WTBlcFJqODBfSHh4YmdZdXhtNllaVXNmMWdIeTFCamdyM25GTDFKdWNEUm4zR1JKTXFWYlJSamVjVlRXQ0VRRHhnUmJWLTlNQmVfT2kyS19R?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "8BitDo's Retro 87 Mechanical Keyboard and Ultimate 2 Wireless Controller get N64-themed colors",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQN1dfczY1VlVVSmJrbzZTNEotaFB1b0JfcVdZMFJBZGRjU0gyUjR4MTdJSDFLd3Q0c1VyekVTNlBiakVMZXYtQ3lTU2JzVG4zUFlMOWhLM1V5RTMxT3RWblRHT19XNkk4X3pwN1RvaDJpMEJpNkJzVy1CWEdKa1JqOXdtZ3Y1WTBlcFJqODBfSHh4YmdZdXhtNllaVXNmMWdIeTFCamdyM25GTDFKdWNEUm4zR1JKTXFWYlJSamVjVlRXQ0VRRHhnUmJWLTlNQmVfT2kyS19R?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Looking to finally upgrade to a serious gaming keyboard? Asus' high-powered mechanical keyboard is finally below $99: today's the day!",
+          "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNZ1Bvdi1iMjhmMm9JNkRqV1FUY0hSUTJxdDZYZ0tjcV9ibUVKdjJvamx3YlV4UmdoMnRWYVIySm9SXzhOWWUtcXYzRFhHRjZKWlBySy0tVTg3amNVQ0RXM01RTXdod0lEMm9TYzl0aFFXS242YngxSmlzajZXVGlQZktKcWFqU1lNck9tZ3F1UWpRWERoLTJaTG1oWVhFSkdQZ1gwUGhQeEd5TEExc2xPRkZ0TWhEMzB3MURuU3JfYk5OYzFwV0d1NG9yVjJsQ0xkN3JJeHIwMDItcG5uV0pDQlV6eE9OZEFsakpjSkZfYjM5bXZpbXQ5RVNSS3hCSzlzRlduTXhHdER6VV9jc3BvN1hGMA?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "GravaStar Unveils Mercury K98 Pro: A Cyberpunk-Engineered 98% Mechanical Keyboard",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPYk1SY2lsOGEya2Zja3VvOTAybk9Xb0JObEFwWDN4eXlEYUNaeFRfeU1Sb2lrSy1WLW9iQ1drbVljaDFRbjZIT3k4bkJfWTUtak5tZmliMk1kR0c1bWpfcUw5SzlfOWdKNVpnVzBHdElJZzBnbUczVS1qZ0pqeWdwbmJKaUlpZ2Jad2h6bFl3ZzQ3LXRoQVJyWkFXdC1DS1VuMFRCOUNjcTFhUjNLTDRVcmdZZTTSAboBQVVfeXFMTVJ4VnYtbWVhZGVNYUx2Vm9BcUpZcmtKaTVKOG4tYXVELWQ2dWxzc01KMGRQWXVEa243TVh6RUt3UE1kcWFnbVE2NGNjNmNxUFVTY0lORk1yc3EzTEJtQlk0c3ExeWxlVUh4SXhCZzltS3MxR0k0NEZiY1djdG5nOW5PdzJldXR0SzkwMmowN2IxVjFoOTNhVVFhR0JWdmx1enRXdk5SSjBoRnRHQWFqR2ZoU1ZkZElUeVdn?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "GravaStar Unveils Mercury K98 Pro: A Cyberpunk-Engineered 98% Mechanical Keyboard",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPYk1SY2lsOGEya2Zja3VvOTAybk9Xb0JObEFwWDN4eXlEYUNaeFRfeU1Sb2lrSy1WLW9iQ1drbVljaDFRbjZIT3k4bkJfWTUtak5tZmliMk1kR0c1bWpfcUw5SzlfOWdKNVpnVzBHdElJZzBnbUczVS1qZ0pqeWdwbmJKaUlpZ2Jad2h6bFl3ZzQ3LXRoQVJyWkFXdC1DS1VuMFRCOUNjcTFhUjNLTDRVcmdZZTTSAboBQVVfeXFMTVJ4VnYtbWVhZGVNYUx2Vm9BcUpZcmtKaTVKOG4tYXVELWQ2dWxzc01KMGRQWXVEa243TVh6RUt3UE1kcWFnbVE2NGNjNmNxUFVTY0lORk1yc3EzTEJtQlk0c3ExeWxlVUh4SXhCZzltS3MxR0k0NEZiY1djdG5nOW5PdzJldXR0SzkwMmowN2IxVjFoOTNhVVFhR0JWdmx1enRXdk5SSjBoRnRHQWFqR2ZoU1ZkZElUeVdn?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "e31f9fac7533",
+      "slug": "mechanical-keyboard"
+    },
+    {
+      "keyword": "side hustle",
+      "count": 36,
+      "score": 107.19851738844737,
+      "proper": false,
+      "niches": [
+        "ai",
+        "finance"
+      ],
+      "examples": [
+        {
+          "title": "How to Start an AI Side Hustle With a Small Budget",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE92YjNBOFZHb0dsQWdyeUxWYUxyWGNrTkJGQy1KR2trM1ozM25lTjhhYjQ4blIyOG8yUUsxWXRBMDVzUzg3UU5XZWxITjhncGVsajNqU1g4NG1WNXZTemQyWmxWUFZobHZuZ0RDZVpGT1V2OXdrUWEzRnZR?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "How to Start an AI Side Hustle With a Small Budget",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE92YjNBOFZHb0dsQWdyeUxWYUxyWGNrTkJGQy1KR2trM1ozM25lTjhhYjQ4blIyOG8yUUsxWXRBMDVzUzg3UU5XZWxITjhncGVsajNqU1g4NG1WNXZTemQyWmxWUFZobHZuZ0RDZVpGT1V2OXdrUWEzRnZR?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "The Side Hustle Hiding in Your Local WhatsApp Group – Without Annoying the Neighbours",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNLV91dDkySFBiekZIZEZhWHA4UDEwYkNTWGF5LUFGQnEwd2EtZ2t4cXRaZEpCYXE3OXF5bDctNUtnSWZsdFZ2Ykd4OVhaWExJd0Vha0hJeGozb1A3dVlickw1bFRsOXd4Z25rZlFpbnJLZ3QycUdua3F3dFpjdzdKMDFJWHJFTDBUZTV5amRWa2JVMU96Z3h2bEpCQWhuRnQ1Q2p2bUh5NERfRUFHaF9fXzNrQkZ4d25CX2trZDdQQQ?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "The Side Hustle Hiding in Your Local WhatsApp Group – Without Annoying the Neighbours",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNLV91dDkySFBiekZIZEZhWHA4UDEwYkNTWGF5LUFGQnEwd2EtZ2t4cXRaZEpCYXE3OXF5bDctNUtnSWZsdFZ2Ykd4OVhaWExJd0Vha0hJeGozb1A3dVlickw1bFRsOXd4Z25rZlFpbnJLZ3QycUdua3F3dFpjdzdKMDFJWHJFTDBUZTV5amRWa2JVMU96Z3h2bEpCQWhuRnQ1Q2p2bUh5NERfRUFHaF9fXzNrQkZ4d25CX2trZDdQQQ?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "A Simple Framework To Test Side Hustle Ideas Without Going Broke",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVmREVmE4d2EyLVNHVGRnNHpUYVNZYkpLZUdNTjk0Y3NkLTZYRDRpQWQ0cEkwVldLbzh6QnJrT2VYSnhldWNOSzkxb19BVXNPVDMzWFlwNDFuNnJDcGg0dlhNemJ6bVhGRDQ3S1dLeXdzSEt4TWd3cE1odTJPQUk0N0JR?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "57270ed2efc7",
+      "slug": "side-hustle"
+    },
+    {
       "keyword": "resident-evil-requiem-ultimate-trainer-2026_v_2 ultimate",
-      "count": 21,
-      "score": 118.38840473636573,
+      "count": 18,
+      "score": 101.48167482158466,
       "proper": false,
       "niches": [
         "ai"
@@ -461,8 +654,8 @@
           "source": "github"
         },
         {
-          "title": "ar813/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2 — Ultimate trainer for Resident Evil Requiem (RE9) – 42+ features including God Mode, Infinite Ammo, CP Editor, FOV fix, and more.",
-          "url": "https://github.com/ar813/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2",
+          "title": "tuanvit/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2 — Ultimate trainer for Resident Evil Requiem (RE9) – 42+ features including God Mode, Infinite Ammo, CP Editor, FOV fix, and more.",
+          "url": "https://github.com/tuanvit/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2",
           "source": "github"
         }
       ],
@@ -471,8 +664,8 @@
     },
     {
       "keyword": "trainer resident",
-      "count": 21,
-      "score": 118.38840473636573,
+      "count": 18,
+      "score": 101.48167482158466,
       "proper": false,
       "niches": [
         "ai"
@@ -499,8 +692,8 @@
           "source": "github"
         },
         {
-          "title": "ar813/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2 — Ultimate trainer for Resident Evil Requiem (RE9) – 42+ features including God Mode, Infinite Ammo, CP Editor, FOV fix, and more.",
-          "url": "https://github.com/ar813/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2",
+          "title": "tuanvit/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2 — Ultimate trainer for Resident Evil Requiem (RE9) – 42+ features including God Mode, Infinite Ammo, CP Editor, FOV fix, and more.",
+          "url": "https://github.com/tuanvit/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2",
           "source": "github"
         }
       ],
@@ -509,8 +702,8 @@
     },
     {
       "keyword": "resident evil",
-      "count": 21,
-      "score": 118.38840473636573,
+      "count": 18,
+      "score": 101.48167482158466,
       "proper": false,
       "niches": [
         "ai"
@@ -537,8 +730,8 @@
           "source": "github"
         },
         {
-          "title": "ar813/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2 — Ultimate trainer for Resident Evil Requiem (RE9) – 42+ features including God Mode, Infinite Ammo, CP Editor, FOV fix, and more.",
-          "url": "https://github.com/ar813/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2",
+          "title": "tuanvit/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2 — Ultimate trainer for Resident Evil Requiem (RE9) – 42+ features including God Mode, Infinite Ammo, CP Editor, FOV fix, and more.",
+          "url": "https://github.com/tuanvit/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2",
           "source": "github"
         }
       ],
@@ -547,8 +740,8 @@
     },
     {
       "keyword": "evil requiem",
-      "count": 21,
-      "score": 118.38840473636573,
+      "count": 18,
+      "score": 101.48167482158466,
       "proper": false,
       "niches": [
         "ai"
@@ -575,8 +768,8 @@
           "source": "github"
         },
         {
-          "title": "ar813/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2 — Ultimate trainer for Resident Evil Requiem (RE9) – 42+ features including God Mode, Infinite Ammo, CP Editor, FOV fix, and more.",
-          "url": "https://github.com/ar813/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2",
+          "title": "tuanvit/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2 — Ultimate trainer for Resident Evil Requiem (RE9) – 42+ features including God Mode, Infinite Ammo, CP Editor, FOV fix, and more.",
+          "url": "https://github.com/tuanvit/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2",
           "source": "github"
         }
       ],
@@ -585,8 +778,8 @@
     },
     {
       "keyword": "requiem re9",
-      "count": 21,
-      "score": 118.38840473636573,
+      "count": 18,
+      "score": 101.48167482158466,
       "proper": false,
       "niches": [
         "ai"
@@ -613,8 +806,8 @@
           "source": "github"
         },
         {
-          "title": "ar813/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2 — Ultimate trainer for Resident Evil Requiem (RE9) – 42+ features including God Mode, Infinite Ammo, CP Editor, FOV fix, and more.",
-          "url": "https://github.com/ar813/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2",
+          "title": "tuanvit/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2 — Ultimate trainer for Resident Evil Requiem (RE9) – 42+ features including God Mode, Infinite Ammo, CP Editor, FOV fix, and more.",
+          "url": "https://github.com/tuanvit/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2",
           "source": "github"
         }
       ],
@@ -623,8 +816,8 @@
     },
     {
       "keyword": "re9 features",
-      "count": 21,
-      "score": 118.38840473636573,
+      "count": 18,
+      "score": 101.48167482158466,
       "proper": false,
       "niches": [
         "ai"
@@ -651,210 +844,20 @@
           "source": "github"
         },
         {
-          "title": "ar813/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2 — Ultimate trainer for Resident Evil Requiem (RE9) – 42+ features including God Mode, Infinite Ammo, CP Editor, FOV fix, and more.",
-          "url": "https://github.com/ar813/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2",
+          "title": "tuanvit/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2 — Ultimate trainer for Resident Evil Requiem (RE9) – 42+ features including God Mode, Infinite Ammo, CP Editor, FOV fix, and more.",
+          "url": "https://github.com/tuanvit/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2",
           "source": "github"
         }
       ],
       "id": "3c520cd92845",
       "slug": "re9-features"
-    },
-    {
-      "keyword": "features including",
-      "count": 21,
-      "score": 118.38840473636573,
-      "proper": false,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "ma7mod7/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2 — Ultimate trainer for Resident Evil Requiem (RE9) – 42+ features including God Mode, Infinite Ammo, CP Editor, FOV fix, and more.",
-          "url": "https://github.com/ma7mod7/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2",
-          "source": "github"
-        },
-        {
-          "title": "sanjoy9875/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2 — Ultimate trainer for Resident Evil Requiem (RE9) – 42+ features including God Mode, Infinite Ammo, CP Editor, FOV fix, and more.",
-          "url": "https://github.com/sanjoy9875/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2",
-          "source": "github"
-        },
-        {
-          "title": "M-S-ibrahim/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2 — Ultimate trainer for Resident Evil Requiem (RE9) – 42+ features including God Mode, Infinite Ammo, CP Editor, FOV fix, and more.",
-          "url": "https://github.com/M-S-ibrahim/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2",
-          "source": "github"
-        },
-        {
-          "title": "Sam50x/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2 — Ultimate trainer for Resident Evil Requiem (RE9) – 42+ features including God Mode, Infinite Ammo, CP Editor, FOV fix, and more.",
-          "url": "https://github.com/Sam50x/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2",
-          "source": "github"
-        },
-        {
-          "title": "ar813/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2 — Ultimate trainer for Resident Evil Requiem (RE9) – 42+ features including God Mode, Infinite Ammo, CP Editor, FOV fix, and more.",
-          "url": "https://github.com/ar813/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2",
-          "source": "github"
-        }
-      ],
-      "id": "13237f73a78b",
-      "slug": "features-including"
-    },
-    {
-      "keyword": "including god",
-      "count": 21,
-      "score": 118.38840473636573,
-      "proper": false,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "ma7mod7/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2 — Ultimate trainer for Resident Evil Requiem (RE9) – 42+ features including God Mode, Infinite Ammo, CP Editor, FOV fix, and more.",
-          "url": "https://github.com/ma7mod7/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2",
-          "source": "github"
-        },
-        {
-          "title": "sanjoy9875/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2 — Ultimate trainer for Resident Evil Requiem (RE9) – 42+ features including God Mode, Infinite Ammo, CP Editor, FOV fix, and more.",
-          "url": "https://github.com/sanjoy9875/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2",
-          "source": "github"
-        },
-        {
-          "title": "M-S-ibrahim/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2 — Ultimate trainer for Resident Evil Requiem (RE9) – 42+ features including God Mode, Infinite Ammo, CP Editor, FOV fix, and more.",
-          "url": "https://github.com/M-S-ibrahim/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2",
-          "source": "github"
-        },
-        {
-          "title": "Sam50x/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2 — Ultimate trainer for Resident Evil Requiem (RE9) – 42+ features including God Mode, Infinite Ammo, CP Editor, FOV fix, and more.",
-          "url": "https://github.com/Sam50x/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2",
-          "source": "github"
-        },
-        {
-          "title": "ar813/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2 — Ultimate trainer for Resident Evil Requiem (RE9) – 42+ features including God Mode, Infinite Ammo, CP Editor, FOV fix, and more.",
-          "url": "https://github.com/ar813/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2",
-          "source": "github"
-        }
-      ],
-      "id": "ac8e89aad45d",
-      "slug": "including-god"
-    },
-    {
-      "keyword": "mode infinite",
-      "count": 21,
-      "score": 118.38840473636573,
-      "proper": false,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "ma7mod7/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2 — Ultimate trainer for Resident Evil Requiem (RE9) – 42+ features including God Mode, Infinite Ammo, CP Editor, FOV fix, and more.",
-          "url": "https://github.com/ma7mod7/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2",
-          "source": "github"
-        },
-        {
-          "title": "sanjoy9875/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2 — Ultimate trainer for Resident Evil Requiem (RE9) – 42+ features including God Mode, Infinite Ammo, CP Editor, FOV fix, and more.",
-          "url": "https://github.com/sanjoy9875/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2",
-          "source": "github"
-        },
-        {
-          "title": "M-S-ibrahim/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2 — Ultimate trainer for Resident Evil Requiem (RE9) – 42+ features including God Mode, Infinite Ammo, CP Editor, FOV fix, and more.",
-          "url": "https://github.com/M-S-ibrahim/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2",
-          "source": "github"
-        },
-        {
-          "title": "Sam50x/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2 — Ultimate trainer for Resident Evil Requiem (RE9) – 42+ features including God Mode, Infinite Ammo, CP Editor, FOV fix, and more.",
-          "url": "https://github.com/Sam50x/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2",
-          "source": "github"
-        },
-        {
-          "title": "ar813/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2 — Ultimate trainer for Resident Evil Requiem (RE9) – 42+ features including God Mode, Infinite Ammo, CP Editor, FOV fix, and more.",
-          "url": "https://github.com/ar813/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2",
-          "source": "github"
-        }
-      ],
-      "id": "f081a56e81e8",
-      "slug": "mode-infinite"
-    },
-    {
-      "keyword": "ammo editor",
-      "count": 21,
-      "score": 118.38840473636573,
-      "proper": false,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "ma7mod7/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2 — Ultimate trainer for Resident Evil Requiem (RE9) – 42+ features including God Mode, Infinite Ammo, CP Editor, FOV fix, and more.",
-          "url": "https://github.com/ma7mod7/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2",
-          "source": "github"
-        },
-        {
-          "title": "sanjoy9875/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2 — Ultimate trainer for Resident Evil Requiem (RE9) – 42+ features including God Mode, Infinite Ammo, CP Editor, FOV fix, and more.",
-          "url": "https://github.com/sanjoy9875/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2",
-          "source": "github"
-        },
-        {
-          "title": "M-S-ibrahim/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2 — Ultimate trainer for Resident Evil Requiem (RE9) – 42+ features including God Mode, Infinite Ammo, CP Editor, FOV fix, and more.",
-          "url": "https://github.com/M-S-ibrahim/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2",
-          "source": "github"
-        },
-        {
-          "title": "Sam50x/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2 — Ultimate trainer for Resident Evil Requiem (RE9) – 42+ features including God Mode, Infinite Ammo, CP Editor, FOV fix, and more.",
-          "url": "https://github.com/Sam50x/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2",
-          "source": "github"
-        },
-        {
-          "title": "ar813/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2 — Ultimate trainer for Resident Evil Requiem (RE9) – 42+ features including God Mode, Infinite Ammo, CP Editor, FOV fix, and more.",
-          "url": "https://github.com/ar813/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2",
-          "source": "github"
-        }
-      ],
-      "id": "03d83151698b",
-      "slug": "ammo-editor"
-    },
-    {
-      "keyword": "editor fov",
-      "count": 21,
-      "score": 118.38840473636573,
-      "proper": false,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "ma7mod7/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2 — Ultimate trainer for Resident Evil Requiem (RE9) – 42+ features including God Mode, Infinite Ammo, CP Editor, FOV fix, and more.",
-          "url": "https://github.com/ma7mod7/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2",
-          "source": "github"
-        },
-        {
-          "title": "sanjoy9875/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2 — Ultimate trainer for Resident Evil Requiem (RE9) – 42+ features including God Mode, Infinite Ammo, CP Editor, FOV fix, and more.",
-          "url": "https://github.com/sanjoy9875/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2",
-          "source": "github"
-        },
-        {
-          "title": "M-S-ibrahim/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2 — Ultimate trainer for Resident Evil Requiem (RE9) – 42+ features including God Mode, Infinite Ammo, CP Editor, FOV fix, and more.",
-          "url": "https://github.com/M-S-ibrahim/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2",
-          "source": "github"
-        },
-        {
-          "title": "Sam50x/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2 — Ultimate trainer for Resident Evil Requiem (RE9) – 42+ features including God Mode, Infinite Ammo, CP Editor, FOV fix, and more.",
-          "url": "https://github.com/Sam50x/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2",
-          "source": "github"
-        },
-        {
-          "title": "ar813/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2 — Ultimate trainer for Resident Evil Requiem (RE9) – 42+ features including God Mode, Infinite Ammo, CP Editor, FOV fix, and more.",
-          "url": "https://github.com/ar813/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2",
-          "source": "github"
-        }
-      ],
-      "id": "01cf9d332539",
-      "slug": "editor-fov"
     }
   ],
   "opportunities": [
     {
       "keyword": "god mode",
-      "count": 62,
-      "score": 524.3047826790648,
+      "count": 54,
+      "score": 456.67786301994056,
       "proper": true,
       "niches": [
         "ai"
@@ -895,8 +898,8 @@
     },
     {
       "keyword": "infinite ammo",
-      "count": 56,
-      "score": 473.55361894546303,
+      "count": 48,
+      "score": 405.9266992863387,
       "proper": true,
       "niches": [
         "ai"
@@ -937,8 +940,8 @@
     },
     {
       "keyword": "cp editor",
-      "count": 35,
-      "score": 295.97101184091434,
+      "count": 30,
+      "score": 253.70418705396168,
       "proper": true,
       "niches": [
         "ai"
@@ -965,8 +968,8 @@
           "source": "github"
         },
         {
-          "title": "ar813/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2 — Ultimate trainer for Resident Evil Requiem (RE9) – 42+ features including God Mode, Infinite Ammo, CP Editor, FOV fix, and more.",
-          "url": "https://github.com/ar813/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2",
+          "title": "tuanvit/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2 — Ultimate trainer for Resident Evil Requiem (RE9) – 42+ features including God Mode, Infinite Ammo, CP Editor, FOV fix, and more.",
+          "url": "https://github.com/tuanvit/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2",
           "source": "github"
         }
       ],
@@ -978,9 +981,52 @@
       }
     },
     {
+      "keyword": "passive income",
+      "count": 53,
+      "score": 243.852919136024,
+      "proper": true,
+      "niches": [
+        "finance",
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "SCHD vs. VYMI vs. JEPI: Which Is the Best Dividend ETF for Steady Passive Income?",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxON2hRM1g1TWNRLXo3Uk14WjJZN0Y5OTJZOUdxUndYaDVQSmVCNC02ZmZVLTZUUnZDUGtrdTRlcl9pemJZSzhTeks0QkNyeE94RXFTNEpiYmRSdjJ4NExwajdVZG9RcWt1TG5ZUWxDUjFGdExPZF9YdlRWYjIwazB0aXZIN1V1ckhWRHFpNFdUYjJ5ZXVVS2JqcHlXSDFEWm5XaXU5WExhSkd2NWM?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "SCHD vs. VYMI vs. JEPI: Which Is the Best Dividend ETF for Steady Passive Income?",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxON2hRM1g1TWNRLXo3Uk14WjJZN0Y5OTJZOUdxUndYaDVQSmVCNC02ZmZVLTZUUnZDUGtrdTRlcl9pemJZSzhTeks0QkNyeE94RXFTNEpiYmRSdjJ4NExwajdVZG9RcWt1TG5ZUWxDUjFGdExPZF9YdlRWYjIwazB0aXZIN1V1ckhWRHFpNFdUYjJ5ZXVVS2JqcHlXSDFEWm5XaXU5WExhSkd2NWM?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "SCHD vs. VYMI vs. JEPI: Which Is the Best Dividend ETF for Steady Passive Income?",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxON2hRM1g1TWNRLXo3Uk14WjJZN0Y5OTJZOUdxUndYaDVQSmVCNC02ZmZVLTZUUnZDUGtrdTRlcl9pemJZSzhTeks0QkNyeE94RXFTNEpiYmRSdjJ4NExwajdVZG9RcWt1TG5ZUWxDUjFGdExPZF9YdlRWYjIwazB0aXZIN1V1ckhWRHFpNFdUYjJ5ZXVVS2JqcHlXSDFEWm5XaXU5WExhSkd2NWM?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "How many Barclays shares do I need to buy to get a £1,000 passive income?",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNLXJELWRISFVpQTZ5akoxM19CX2VUQkpvRUlscFlMYnBFLTVJRkJ6VUszZzU2ZmJGS3piekFvcUdKQXpvaWlzdHphSmo5cU5NYTBpdDczVENOckpVQUlWcklFdi1Rd3dlb191QlkyY05BR0Y3YUh6OHZGYnktWWsxRg?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "How many Barclays shares do I need to buy to get a £1,000 passive income?",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNLXJELWRISFVpQTZ5akoxM19CX2VUQkpvRUlscFlMYnBFLTVJRkJ6VUszZzU2ZmJGS3piekFvcUdKQXpvaWlzdHphSmo5cU5NYTBpdDczVENOckpVQUlWcklFdi1Rd3dlb191QlkyY05BR0Y3YUh6OHZGYnktWWsxRg?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "cf2dbbbf8c8c",
+      "slug": "passive-income",
+      "opportunity": {
+        "type": "niche-content",
+        "recommended": "Publish niche guide for \"finance\"; bundle into digital product later."
+      }
+    },
+    {
       "keyword": "ultimate trainer",
-      "count": 39,
-      "score": 235.18807441689546,
+      "count": 33,
+      "score": 198.88715877203606,
       "proper": false,
       "niches": [
         "ai"
@@ -1020,171 +1066,130 @@
       }
     },
     {
-      "keyword": "resident-evil-requiem-ultimate-trainer-2026_v_2 ultimate",
-      "count": 21,
-      "score": 118.38840473636573,
-      "proper": false,
+      "keyword": "affordability crisis",
+      "count": 19,
+      "score": 164.10771643358513,
+      "proper": true,
       "niches": [
         "ai"
       ],
       "examples": [
         {
-          "title": "ma7mod7/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2 — Ultimate trainer for Resident Evil Requiem (RE9) – 42+ features including God Mode, Infinite Ammo, CP Editor, FOV fix, and more.",
-          "url": "https://github.com/ma7mod7/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2",
-          "source": "github"
+          "title": "AI's Affordability Crisis",
+          "url": "https://blog.dshr.org/2026/06/ais-affordability-crisis.html",
+          "source": "hackernews"
         },
         {
-          "title": "sanjoy9875/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2 — Ultimate trainer for Resident Evil Requiem (RE9) – 42+ features including God Mode, Infinite Ammo, CP Editor, FOV fix, and more.",
-          "url": "https://github.com/sanjoy9875/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2",
-          "source": "github"
+          "title": "AI's Affordability Crisis",
+          "url": "https://blog.dshr.org/2026/06/ais-affordability-crisis.html",
+          "source": "hackernews"
         },
         {
-          "title": "M-S-ibrahim/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2 — Ultimate trainer for Resident Evil Requiem (RE9) – 42+ features including God Mode, Infinite Ammo, CP Editor, FOV fix, and more.",
-          "url": "https://github.com/M-S-ibrahim/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2",
-          "source": "github"
+          "title": "Affordability Crisis: Five smart side-hustle ideas to the rescue",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTlpoczY3VEVXQ2JHVVdwenZjRjJUS2xrNkZ1VS1BODZyZ0g1TkNjcnJfZldCa2xyenEyXzlKMzlDMDVCMXdvdFdlbmNhV0tqU3N6YkxkdjFzbFZVWEwzQl9ELWd6TlBacm1wOTloc0Z4a0ZKczBrY1N5MHNwUnFFZm1vVTNFeU15N0hIeFZCQWNqMlVIWnlHTXFlTEh0VEVVREhDaWpIWGptUG82QU9hZ0lod0NiWkNER3hxWQ?oc=5",
+          "source": "gnews"
         },
         {
-          "title": "Sam50x/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2 — Ultimate trainer for Resident Evil Requiem (RE9) – 42+ features including God Mode, Infinite Ammo, CP Editor, FOV fix, and more.",
-          "url": "https://github.com/Sam50x/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2",
-          "source": "github"
+          "title": "Affordability Crisis: Five smart side-hustle ideas to the rescue",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTlpoczY3VEVXQ2JHVVdwenZjRjJUS2xrNkZ1VS1BODZyZ0g1TkNjcnJfZldCa2xyenEyXzlKMzlDMDVCMXdvdFdlbmNhV0tqU3N6YkxkdjFzbFZVWEwzQl9ELWd6TlBacm1wOTloc0Z4a0ZKczBrY1N5MHNwUnFFZm1vVTNFeU15N0hIeFZCQWNqMlVIWnlHTXFlTEh0VEVVREhDaWpIWGptUG82QU9hZ0lod0NiWkNER3hxWQ?oc=5",
+          "source": "gnews"
         },
         {
-          "title": "ar813/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2 — Ultimate trainer for Resident Evil Requiem (RE9) – 42+ features including God Mode, Infinite Ammo, CP Editor, FOV fix, and more.",
-          "url": "https://github.com/ar813/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2",
-          "source": "github"
+          "title": "Affordability Crisis: Five smart side-hustle ideas to the rescue",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTlpoczY3VEVXQ2JHVVdwenZjRjJUS2xrNkZ1VS1BODZyZ0g1TkNjcnJfZldCa2xyenEyXzlKMzlDMDVCMXdvdFdlbmNhV0tqU3N6YkxkdjFzbFZVWEwzQl9ELWd6TlBacm1wOTloc0Z4a0ZKczBrY1N5MHNwUnFFZm1vVTNFeU15N0hIeFZCQWNqMlVIWnlHTXFlTEh0VEVVREhDaWpIWGptUG82QU9hZ0lod0NiWkNER3hxWQ?oc=5",
+          "source": "gnews"
         }
       ],
-      "id": "769b3702e16e",
-      "slug": "resident-evil-requiem-ultimate-trainer-2026_v_2-ultimate",
-      "opportunity": {
-        "type": "tooling",
-        "recommended": "Build / list AI tools; monetize via affiliate links + lead magnet."
-      }
-    },
-    {
-      "keyword": "trainer resident",
-      "count": 21,
-      "score": 118.38840473636573,
-      "proper": false,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "ma7mod7/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2 — Ultimate trainer for Resident Evil Requiem (RE9) – 42+ features including God Mode, Infinite Ammo, CP Editor, FOV fix, and more.",
-          "url": "https://github.com/ma7mod7/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2",
-          "source": "github"
-        },
-        {
-          "title": "sanjoy9875/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2 — Ultimate trainer for Resident Evil Requiem (RE9) – 42+ features including God Mode, Infinite Ammo, CP Editor, FOV fix, and more.",
-          "url": "https://github.com/sanjoy9875/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2",
-          "source": "github"
-        },
-        {
-          "title": "M-S-ibrahim/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2 — Ultimate trainer for Resident Evil Requiem (RE9) – 42+ features including God Mode, Infinite Ammo, CP Editor, FOV fix, and more.",
-          "url": "https://github.com/M-S-ibrahim/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2",
-          "source": "github"
-        },
-        {
-          "title": "Sam50x/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2 — Ultimate trainer for Resident Evil Requiem (RE9) – 42+ features including God Mode, Infinite Ammo, CP Editor, FOV fix, and more.",
-          "url": "https://github.com/Sam50x/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2",
-          "source": "github"
-        },
-        {
-          "title": "ar813/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2 — Ultimate trainer for Resident Evil Requiem (RE9) – 42+ features including God Mode, Infinite Ammo, CP Editor, FOV fix, and more.",
-          "url": "https://github.com/ar813/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2",
-          "source": "github"
-        }
-      ],
-      "id": "ad8c9ca5148b",
-      "slug": "trainer-resident",
-      "opportunity": {
-        "type": "tooling",
-        "recommended": "Build / list AI tools; monetize via affiliate links + lead magnet."
-      }
-    },
-    {
-      "keyword": "resident evil",
-      "count": 21,
-      "score": 118.38840473636573,
-      "proper": false,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "ma7mod7/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2 — Ultimate trainer for Resident Evil Requiem (RE9) – 42+ features including God Mode, Infinite Ammo, CP Editor, FOV fix, and more.",
-          "url": "https://github.com/ma7mod7/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2",
-          "source": "github"
-        },
-        {
-          "title": "sanjoy9875/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2 — Ultimate trainer for Resident Evil Requiem (RE9) – 42+ features including God Mode, Infinite Ammo, CP Editor, FOV fix, and more.",
-          "url": "https://github.com/sanjoy9875/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2",
-          "source": "github"
-        },
-        {
-          "title": "M-S-ibrahim/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2 — Ultimate trainer for Resident Evil Requiem (RE9) – 42+ features including God Mode, Infinite Ammo, CP Editor, FOV fix, and more.",
-          "url": "https://github.com/M-S-ibrahim/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2",
-          "source": "github"
-        },
-        {
-          "title": "Sam50x/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2 — Ultimate trainer for Resident Evil Requiem (RE9) – 42+ features including God Mode, Infinite Ammo, CP Editor, FOV fix, and more.",
-          "url": "https://github.com/Sam50x/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2",
-          "source": "github"
-        },
-        {
-          "title": "ar813/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2 — Ultimate trainer for Resident Evil Requiem (RE9) – 42+ features including God Mode, Infinite Ammo, CP Editor, FOV fix, and more.",
-          "url": "https://github.com/ar813/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2",
-          "source": "github"
-        }
-      ],
-      "id": "29c802002dbe",
-      "slug": "resident-evil",
+      "id": "75c4782cb45d",
+      "slug": "affordability-crisis",
       "opportunity": {
         "type": "niche-content",
         "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
       }
     },
     {
-      "keyword": "evil requiem",
-      "count": 21,
-      "score": 118.38840473636573,
-      "proper": false,
+      "keyword": "fitness gear",
+      "count": 23,
+      "score": 123.28119800765656,
+      "proper": true,
       "niches": [
-        "ai"
+        "gear"
       ],
       "examples": [
         {
-          "title": "ma7mod7/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2 — Ultimate trainer for Resident Evil Requiem (RE9) – 42+ features including God Mode, Infinite Ammo, CP Editor, FOV fix, and more.",
-          "url": "https://github.com/ma7mod7/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2",
-          "source": "github"
+          "title": "Attention, Gym Girlies: Our Favorite Fitness Gear Is up to 59% off This Week",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNU08wdUpoY1Excjd4MUVTQWRoMF8tNTEzcURfdlc3RFZXVHJsdmNJYmtlR3ROdnFKM0lhQi1OMFkxYzJVMFhncHdmb1o5ZFplcG1wN19fWGxZSndzRmpBd3dhT2hoaXNyNUhyN3IyLV9vU2tKQjhIUTl0eEhEWlcta1FqaFZlUzBiMXc?oc=5",
+          "source": "gnews"
         },
         {
-          "title": "sanjoy9875/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2 — Ultimate trainer for Resident Evil Requiem (RE9) – 42+ features including God Mode, Infinite Ammo, CP Editor, FOV fix, and more.",
-          "url": "https://github.com/sanjoy9875/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2",
-          "source": "github"
+          "title": "Attention, Gym Girlies: Our Favorite Fitness Gear Is up to 59% off This Week",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNU08wdUpoY1Excjd4MUVTQWRoMF8tNTEzcURfdlc3RFZXVHJsdmNJYmtlR3ROdnFKM0lhQi1OMFkxYzJVMFhncHdmb1o5ZFplcG1wN19fWGxZSndzRmpBd3dhT2hoaXNyNUhyN3IyLV9vU2tKQjhIUTl0eEhEWlcta1FqaFZlUzBiMXc?oc=5",
+          "source": "gnews"
         },
         {
-          "title": "M-S-ibrahim/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2 — Ultimate trainer for Resident Evil Requiem (RE9) – 42+ features including God Mode, Infinite Ammo, CP Editor, FOV fix, and more.",
-          "url": "https://github.com/M-S-ibrahim/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2",
-          "source": "github"
+          "title": "Fitness Gear Home Gym Manual The 35 Best Home Gym Equipment Gear, Tested By Us",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4xWWJEaURIa0FVUGdYbGFBQmttcFBjemxuaV83V0syblhTUlBiVm9TV3ZXSlQ1cEpaRV8xTHFsMzN6T2ZXaEpJOUp3TVh3V0xkSVY2d2c3MXdtUGJ6?oc=5",
+          "source": "gnews"
         },
         {
-          "title": "Sam50x/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2 — Ultimate trainer for Resident Evil Requiem (RE9) – 42+ features including God Mode, Infinite Ammo, CP Editor, FOV fix, and more.",
-          "url": "https://github.com/Sam50x/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2",
-          "source": "github"
+          "title": "Fitness Gear Home Gym Manual The 35 Best Home Gym Equipment Gear, Tested By Us",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4xWWJEaURIa0FVUGdYbGFBQmttcFBjemxuaV83V0syblhTUlBiVm9TV3ZXSlQ1cEpaRV8xTHFsMzN6T2ZXaEpJOUp3TVh3V0xkSVY2d2c3MXdtUGJ6?oc=5",
+          "source": "gnews"
         },
         {
-          "title": "ar813/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2 — Ultimate trainer for Resident Evil Requiem (RE9) – 42+ features including God Mode, Infinite Ammo, CP Editor, FOV fix, and more.",
-          "url": "https://github.com/ar813/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2",
-          "source": "github"
+          "title": "Fitness Gear on Sale for Early Prime Day",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9jNDZtZlhYOFMtWnloN2pMenFzSjhqZ0MyN3JMVHE1bVZENE5zT0hoQUpHVEpiSUhJb2Z6ZU85bmk2M3lKT1ctOTlqSlpyUVBZWDBWQkhZdUtiNWVTMDhTVmFGX295N2VWN3RDZHBPSHlaUzUtbzNR?oc=5",
+          "source": "gnews"
         }
       ],
-      "id": "7f1a2eeca196",
-      "slug": "evil-requiem",
+      "id": "a8b7e45842c3",
+      "slug": "fitness-gear",
+      "opportunity": {
+        "type": "affiliate",
+        "recommended": "Write SEO comparison/roundup article with affiliate links."
+      }
+    },
+    {
+      "keyword": "mechanical keyboard",
+      "count": 17,
+      "score": 108.60163934379352,
+      "proper": true,
+      "niches": [
+        "finance",
+        "gear"
+      ],
+      "examples": [
+        {
+          "title": "8BitDo's Retro 87 Mechanical Keyboard and Ultimate 2 Wireless Controller get N64-themed colors",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQN1dfczY1VlVVSmJrbzZTNEotaFB1b0JfcVdZMFJBZGRjU0gyUjR4MTdJSDFLd3Q0c1VyekVTNlBiakVMZXYtQ3lTU2JzVG4zUFlMOWhLM1V5RTMxT3RWblRHT19XNkk4X3pwN1RvaDJpMEJpNkJzVy1CWEdKa1JqOXdtZ3Y1WTBlcFJqODBfSHh4YmdZdXhtNllaVXNmMWdIeTFCamdyM25GTDFKdWNEUm4zR1JKTXFWYlJSamVjVlRXQ0VRRHhnUmJWLTlNQmVfT2kyS19R?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "8BitDo's Retro 87 Mechanical Keyboard and Ultimate 2 Wireless Controller get N64-themed colors",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQN1dfczY1VlVVSmJrbzZTNEotaFB1b0JfcVdZMFJBZGRjU0gyUjR4MTdJSDFLd3Q0c1VyekVTNlBiakVMZXYtQ3lTU2JzVG4zUFlMOWhLM1V5RTMxT3RWblRHT19XNkk4X3pwN1RvaDJpMEJpNkJzVy1CWEdKa1JqOXdtZ3Y1WTBlcFJqODBfSHh4YmdZdXhtNllaVXNmMWdIeTFCamdyM25GTDFKdWNEUm4zR1JKTXFWYlJSamVjVlRXQ0VRRHhnUmJWLTlNQmVfT2kyS19R?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Looking to finally upgrade to a serious gaming keyboard? Asus' high-powered mechanical keyboard is finally below $99: today's the day!",
+          "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNZ1Bvdi1iMjhmMm9JNkRqV1FUY0hSUTJxdDZYZ0tjcV9ibUVKdjJvamx3YlV4UmdoMnRWYVIySm9SXzhOWWUtcXYzRFhHRjZKWlBySy0tVTg3amNVQ0RXM01RTXdod0lEMm9TYzl0aFFXS242YngxSmlzajZXVGlQZktKcWFqU1lNck9tZ3F1UWpRWERoLTJaTG1oWVhFSkdQZ1gwUGhQeEd5TEExc2xPRkZ0TWhEMzB3MURuU3JfYk5OYzFwV0d1NG9yVjJsQ0xkN3JJeHIwMDItcG5uV0pDQlV6eE9OZEFsakpjSkZfYjM5bXZpbXQ5RVNSS3hCSzlzRlduTXhHdER6VV9jc3BvN1hGMA?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "GravaStar Unveils Mercury K98 Pro: A Cyberpunk-Engineered 98% Mechanical Keyboard",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPYk1SY2lsOGEya2Zja3VvOTAybk9Xb0JObEFwWDN4eXlEYUNaeFRfeU1Sb2lrSy1WLW9iQ1drbVljaDFRbjZIT3k4bkJfWTUtak5tZmliMk1kR0c1bWpfcUw5SzlfOWdKNVpnVzBHdElJZzBnbUczVS1qZ0pqeWdwbmJKaUlpZ2Jad2h6bFl3ZzQ3LXRoQVJyWkFXdC1DS1VuMFRCOUNjcTFhUjNLTDRVcmdZZTTSAboBQVVfeXFMTVJ4VnYtbWVhZGVNYUx2Vm9BcUpZcmtKaTVKOG4tYXVELWQ2dWxzc01KMGRQWXVEa243TVh6RUt3UE1kcWFnbVE2NGNjNmNxUFVTY0lORk1yc3EzTEJtQlk0c3ExeWxlVUh4SXhCZzltS3MxR0k0NEZiY1djdG5nOW5PdzJldXR0SzkwMmowN2IxVjFoOTNhVVFhR0JWdmx1enRXdk5SSjBoRnRHQWFqR2ZoU1ZkZElUeVdn?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "GravaStar Unveils Mercury K98 Pro: A Cyberpunk-Engineered 98% Mechanical Keyboard",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPYk1SY2lsOGEya2Zja3VvOTAybk9Xb0JObEFwWDN4eXlEYUNaeFRfeU1Sb2lrSy1WLW9iQ1drbVljaDFRbjZIT3k4bkJfWTUtak5tZmliMk1kR0c1bWpfcUw5SzlfOWdKNVpnVzBHdElJZzBnbUczVS1qZ0pqeWdwbmJKaUlpZ2Jad2h6bFl3ZzQ3LXRoQVJyWkFXdC1DS1VuMFRCOUNjcTFhUjNLTDRVcmdZZTTSAboBQVVfeXFMTVJ4VnYtbWVhZGVNYUx2Vm9BcUpZcmtKaTVKOG4tYXVELWQ2dWxzc01KMGRQWXVEa243TVh6RUt3UE1kcWFnbVE2NGNjNmNxUFVTY0lORk1yc3EzTEJtQlk0c3ExeWxlVUh4SXhCZzltS3MxR0k0NEZiY1djdG5nOW5PdzJldXR0SzkwMmowN2IxVjFoOTNhVVFhR0JWdmx1enRXdk5SSjBoRnRHQWFqR2ZoU1ZkZElUeVdn?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "e31f9fac7533",
+      "slug": "mechanical-keyboard",
       "opportunity": {
         "type": "niche-content",
-        "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
+        "recommended": "Publish niche guide for \"finance\"; bundle into digital product later."
       }
     }
   ]
