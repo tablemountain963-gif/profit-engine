@@ -1,120 +1,153 @@
 {
-  "generatedAt": "2026-06-24T15:32:10.108Z",
-  "sourceCount": 195,
+  "generatedAt": "2026-06-24T17:47:22.134Z",
+  "sourceCount": 207,
   "topItems": [
-    {
-      "title": "yeah ChatGPT, we all trying to find the person who is responsible for this ram prices mess 😂",
-      "url": "https://mastodon.social/@nixCraft/116804588517754145",
-      "score": 9.42,
-      "niche": "ai",
-      "source": "mastodon",
-      "engagement": {
-        "score": 817,
-        "comments": 30
-      }
-    },
     {
       "title": "People, I am begging you, if you have air con in your flat please PUT IT ON YOUR DATING PROFILE.",
       "url": "https://mastodon.social/@girlonthenet/116805556366012159",
-      "score": 8.89,
+      "score": 10.54,
       "niche": "ai",
       "source": "mastodon",
       "engagement": {
-        "score": 241,
-        "comments": 9
+        "score": 676,
+        "comments": 27
       }
     },
     {
-      "title": "Reid Hoffman says SpaceX 'not an AI company', xAI 'complete train wreck'",
-      "url": "https://fortune.com/2026/06/24/reid-hoffman-spacex-musk-openai-anthropic-gen-z-mistake/",
-      "score": 8.8,
+      "title": "Six years since the start of COVID and this type of misinformation by omission is still rampant. The best protection against airborne pathogens is wearing a high quality mask.",
+      "url": "https://mastodon.social/@luckytran/116805825712420411",
+      "score": 9.15,
+      "niche": "ai",
+      "source": "mastodon",
+      "engagement": {
+        "score": 131,
+        "comments": 13
+      }
+    },
+    {
+      "title": "RubyLLM: A Ruby framework for all major AI providers",
+      "url": "https://rubyllm.com/",
+      "score": 8.83,
       "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 175,
-        "comments": 193
+        "score": 202,
+        "comments": 24
       }
     },
     {
       "title": "Minimus container images are now free",
       "url": "https://images.minimus.io/",
-      "score": 8.41,
+      "score": 8.67,
       "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 90,
-        "comments": 51
+        "score": 106,
+        "comments": 60
       }
     },
     {
       "title": "Oh no.I'm going to search Netscape and AltaVista for ways to help. I'll set up funding pages on MySpace and Friends Reunited. And I'll video a charity appeal on Betamax, convert it to Laserdisc, then ",
       "url": "https://mastodon.social/@Richard_Littler/116804953060160859",
-      "score": 7.78,
+      "score": 8.21,
       "niche": "software",
       "source": "mastodon",
       "engagement": {
-        "score": 219,
-        "comments": 20
+        "score": 296,
+        "comments": 29
       }
     },
     {
-      "title": "We keep hearing we can't be 'competitive' without hugging AI, & yet a growing body of research asserts this is in fact bovine manure.Check out this steely take from Nobel Laureate  (Econ) Daron Acemog",
-      "url": "https://mastodon.social/@JulianOliver/116804873809268211",
-      "score": 7.59,
-      "niche": "ai",
-      "source": "mastodon",
-      "engagement": {
-        "score": 214,
-        "comments": 10
-      }
-    },
-    {
-      "title": "I have never seen a graph explain more clearly what's going and why it's completely unsustainable (and this is just cash-flow, it doesn't take into account the rapidly climbing debt!).https://finance.",
-      "url": "https://mas.to/@gabrielesvelto/116805072414090752",
-      "score": 7.55,
-      "niche": "ai",
-      "source": "mastodon",
-      "engagement": {
-        "score": 208,
-        "comments": 10
-      }
-    },
-    {
-      "title": "White House app auto-downloads to government phones, can't be uninstalled“It’s shooting pure unadulterated propaganda into our veins,” says one worker.https://arstechnica.com/tech-policy/2026/06/white",
-      "url": "https://mastodon.social/@arstechnica/116805346873676439",
-      "score": 7.1,
+      "title": "Show HN: Nub – A Bun-like all-in-one toolkit for Node.js",
+      "url": "https://github.com/nubjs/nub",
+      "score": 8.15,
       "niche": "software",
-      "source": "mastodon",
+      "source": "hackernews",
       "engagement": {
-        "score": 78,
-        "comments": 5
+        "score": 120,
+        "comments": 26
+      }
+    },
+    {
+      "title": "John Carmack on the mistakes around Quake that ruined id software",
+      "url": "https://twitter.com/ID_AA_Carmack/status/2069799283369345247",
+      "score": 7.66,
+      "niche": "software",
+      "source": "hackernews",
+      "engagement": {
+        "score": 287,
+        "comments": 129
+      }
+    },
+    {
+      "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
+      "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip/",
+      "score": 7.56,
+      "niche": "ai",
+      "source": "hackernews",
+      "engagement": {
+        "score": 131,
+        "comments": 49
       }
     },
     {
       "title": "Hot. Cartoon from last year.#heatwave #ClimateCrisis",
       "url": "https://newsie.social/@royaards/116805190769296038",
-      "score": 6.95,
+      "score": 7.39,
       "niche": "software",
       "source": "mastodon",
       "engagement": {
-        "score": 292,
+        "score": 419,
+        "comments": 8
+      }
+    },
+    {
+      "title": "For Most of the World, Open-Source AI Is the Only Way Forward",
+      "url": "https://techstrong.ai/articles/for-most-of-the-world-open-source-ai-is-the-only-way-forward/",
+      "score": 7.18,
+      "niche": "ai",
+      "source": "hackernews",
+      "engagement": {
+        "score": 80,
+        "comments": 47
+      }
+    },
+    {
+      "title": "There's a new leader of the Democratic Party, and his name is Mamdani. 3 incumbents with establishment backing, corporate PAC money, AIPAC support, and Hakeem Jeffries endorsements. All 3 lost. Every ",
+      "url": "https://mastodon.social/@QasimRashid/116805923693178264",
+      "score": 7.12,
+      "niche": "ai",
+      "source": "mastodon",
+      "engagement": {
+        "score": 157,
         "comments": 5
       }
     },
     {
-      "title": "Haystack: Open-Source AI Framework for Production Ready Agents, RAG",
-      "url": "https://haystack.deepset.ai/",
-      "score": 6.92,
+      "title": "Boffin claims Microsoft's \"quantum leap\" is invalid due to \"basic Python errors\"",
+      "url": "https://www.theregister.com/research/2026/06/24/boffin-claims-microsofts-supposed-quantum-leap-does-not-compute-due-to-basic-python-errors/5260489",
+      "score": 7,
       "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 43,
-        "comments": 16
+        "score": 83,
+        "comments": 35
       }
     },
     {
-      "title": "Qualcomm inks deal for AI startup Modular to bolster software stack, data center buildout",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE03dm9rcHQ5Qm1yZDgxNUhnRVppRVAzU3h3eXZPczM2R1VZMWRUT0tVVmZXc0VuOE1PUG9kdEFabUU1QWVHMC1rQXZGSVpvZlRJTE5vYlc0dTZ4eDFCZUhPenROX294UXJvSVc2bzhyRFd4RzNuSGJscjhB0gF_QVVfeXFMTmQwQmlJTTczVHM0Ukx4QkxyZGZGckxSdGFQUWhjcU85cy1ReEVINUVKTjFjTE5XV05ETmZuQ1NLLTlUcFBuZmF6Q3RfOWduMHNVd2I3eTdESUowbmNvSl9VbVJsUGF2N0NqRFdXbzc3ejJrNXdWYnBlbV94LWVCQQ?oc=5",
+      "title": "Crocheted canopy for shade in public space, created by 40 local women of Cartaya, Spain #WomensArt",
+      "url": "https://tech.lgbt/@Natasha_Jay/116806009055567310",
+      "score": 6.98,
+      "niche": "ai",
+      "source": "mastodon",
+      "engagement": {
+        "score": 145,
+        "comments": 3
+      }
+    },
+    {
+      "title": "NotebookLM Review: There's Nothing Quite Like This AI Tool",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOYm01UGxPYUNGQTV1WmZITk5sUDVfS3hPLVF1MHc2Y0piOGZmUVpYNU5hYWRSSWE1QlJDbWtPNHd3eWQweEIxdXFCdDlURFRtVlBqVGw4Qm5seUFxVjdYMWp3OXR2U1BUZV9MZGpYWFJGUVU1dTlpZ1dxNkRCTjVEcml2ZU5DNi10RFVXMHdqYkQyQ0N1MlE2UlBtTG5OSEYtdjkxWDZXbnFMcl9JOGFYbEdjbE1EUUlJLVpQT0ltZEk4ajJxYUE?oc=5",
       "score": 6.71,
       "niche": "ai",
       "source": "gnews",
@@ -124,14 +157,14 @@
       }
     },
     {
-      "title": "Swift Package Index joins Apple",
-      "url": "https://swiftpackageindex.com/blog/swift-package-index-joins-apple",
-      "score": 6.65,
-      "niche": "software",
+      "title": "PR spam today looks like email spam in the early 2000s",
+      "url": "https://www.greptile.com/blog/prs-on-openclaw",
+      "score": 6.69,
+      "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 227,
-        "comments": 76
+        "score": 44,
+        "comments": 39
       }
     },
     {
@@ -157,128 +190,134 @@
       }
     },
     {
-      "title": "RubyLLM: A single, beautiful Ruby framework for all major AI providers",
-      "url": "https://rubyllm.com/",
-      "score": 6.46,
-      "niche": "ai",
-      "source": "hackernews",
-      "engagement": {
-        "score": 38,
-        "comments": 9
-      }
-    },
-    {
-      "title": "Can't wait for the scientific ACKCHYUALLYS on this one.",
-      "url": "https://mastodon.social/@designthinkingcomic/116805355941738431",
-      "score": 6.41,
+      "title": "We just released Mastodon 4.6.1. It contains several important bug fixes and we recommend every instance running 4.6.0 to update.We are also releasing Mastodon v4.5.12 and v4.4.19 with small bugfixes ",
+      "url": "https://mastodon.social/@MastodonEngineering/116806085498460059",
+      "score": 6.59,
       "niche": "ai",
       "source": "mastodon",
       "engagement": {
-        "score": 90,
-        "comments": 5
+        "score": 112,
+        "comments": 1
+      }
+    },
+    {
+      "title": "CAPTCHAs have failed for 20 years",
+      "url": "https://www.browserbase.com/blog/why-captchas-are-getting-harder",
+      "score": 6.56,
+      "niche": "ai",
+      "source": "hackernews",
+      "engagement": {
+        "score": 45,
+        "comments": 33
       }
     },
     {
       "title": "Too cheap to be good? Think again.",
       "url": "https://dev.to/pascal_cescato_692b7a8a20/too-cheap-to-be-good-think-again-4nj0",
-      "score": 6.31,
+      "score": 6.36,
       "niche": "ai",
       "source": "devto",
       "engagement": {
-        "score": 36,
-        "comments": 51
+        "score": 38,
+        "comments": 53
       }
     },
     {
-      "title": "Qwen-AgentWorld: Language World Models for General Agents",
-      "url": "https://arxiv.org/abs/2606.24597",
-      "score": 6.2,
-      "niche": "ai",
-      "source": "hackernews",
+      "title": "I Found the Best Fitness Tech and Gear on Sale This Prime Day",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSXZiOEM4ekRUMFY1MUlNb1I5THJqNVRURGhMMWZXLWJRVlF6cUk3eTF2dFdxM2NCalg3QjBmektHX19yUWw0Y3BJeFQtLVFUeFgxMmN2YWdxaDlwMWNHM3dlZmlPZWFuRUMzRTBNbWdIRnBEN0RfOG9fYzNQZVZzU0tDZ3RsVnVjRmtOQUxmb2o?oc=5",
+      "score": 6.29,
+      "niche": "finance",
+      "source": "gnews",
       "engagement": {
-        "score": 172,
-        "comments": 45
+        "score": 40,
+        "comments": 0
       }
     },
     {
-      "title": "Show HN: Nub – A Bun-like all-in-one toolkit for Node.js",
-      "url": "https://github.com/nubjs/nub",
-      "score": 6.18,
+      "title": "\"Hilary Cass climbed out from under the bridge she calls home to tell the BBC there's no evidence of any harms to trans young people from puberty blockers.\"Shock!\"Buried in the appendices, the report ",
+      "url": "https://mastodon.social/@gwynnion/116806082546252045",
+      "score": 6.13,
       "niche": "software",
+      "source": "mastodon",
+      "engagement": {
+        "score": 75,
+        "comments": 2
+      }
+    },
+    {
+      "title": "Haystack: Open-Source AI Framework for Production Ready Agents, RAG",
+      "url": "https://haystack.deepset.ai/",
+      "score": 5.99,
+      "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 33,
-        "comments": 8
+        "score": 67,
+        "comments": 20
       }
     },
     {
-      "title": "Qualcomm Strikes $3.9 Billion Deal for AI Software Company Modular",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdXpBWWdoelBvQUxKaHNGbnN5bzN2cFB2Y2dvdEVONktEVWNRMmxibHJSLVVCWVhQRlliVDNDTTVxQ1FkWHRLbjBsMVhTQVJBMExyUDQydU5rXzdMbkNvY21Ua1NsT2w5UU40TUlELVpQSzZqR3FtY3ZWbmQwT1FIQw?oc=5",
-      "score": 5.94,
-      "niche": "ai",
-      "source": "gnews",
+      "title": "Yu9191/wloc — Apple WLOC Location Spoofer",
+      "url": "https://github.com/Yu9191/wloc",
+      "score": 5.63,
+      "niche": "software",
+      "source": "github",
       "engagement": {
-        "score": 40,
-        "comments": 0
-      }
-    },
-    {
-      "title": "AI is making developers more productive — and anxious about falling behind",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQW9aaE1hXzYwSjhzZnFQeXlRaXI5SmppdXllVEZTZU9rME5KLTNONF9kRkhvNUF0clFxVE1VQm1lMUI5UlpUOXdOSVNTLWttM0RVZkJ4M0tEcU1nUFU4cE5Dc0h6cEpPTUVtU1N5S3hqNmxIeGh2Y3VOYkZLc2xCUWZMU09YdXlaZ3ExczRDU2hWdFdJRU9lSA?oc=5",
-      "score": 5.94,
-      "niche": "ai",
-      "source": "gnews",
-      "engagement": {
-        "score": 40,
-        "comments": 0
-      }
-    },
-    {
-      "title": "AI Is Moving up the Software Lifecycle: From Code Review to PRD Governance",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1TeGlvLWJmcWpjdFpvQUV0ZWRMUnBycWZlYVFqQXVyb0tmdl9yUmxhTmZUb2dmU2VueHMweUdVT1lLbjdfckdSaGYteEREN2J2VTBYYzdXZmFKWlhNejdlaS1CRjBnbFRDcWpBQ0drRTljaUE?oc=5",
-      "score": 5.94,
-      "niche": "ai",
-      "source": "gnews",
-      "engagement": {
-        "score": 40,
-        "comments": 0
-      }
-    },
-    {
-      "title": "Qualcomm to buy AI startup Modular for $4 billion in AI software push",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNUVdoZzZMMXY4aG1hb2ZsRnFKZF9oOU9CVl9QQ3hQa1cxQ1FpT3QxeXFnQy1PSWxvY0tBVmptczRQaW1zWlVrem96MVBFcDRaeE1zQy12eU96bXpMbG5yc2Q0WWdDcDBGbzg0dzFVdTNlVlMzTS1TenJJNE1qM0phMVRB?oc=5",
-      "score": 5.94,
-      "niche": "ai",
-      "source": "gnews",
-      "engagement": {
-        "score": 40,
-        "comments": 0
-      }
-    },
-    {
-      "title": "Prime Day delivers huge discounts on Keychron's mechanical keyboards, landing these models under $56",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaHBxc3QySlNRdU5faHc2SGVPbFNWRnYtcHhZZU4xb0RhSUp4c253bUxPdGRhVXdGYmxxYjB5TW1hamlSXzhraWFHakRsakQzbFZWalNsT0Y3a2dPb25vWU8zdDFrejYwdld5azlYSmQxYndBWlpyUlh4QlNJVXRGM19LUGM2cjEyNmFsLUxNczVrRnl2QWNGWURobV9aLTR6Mjdv?oc=5",
-      "score": 5.94,
-      "niche": "ai",
-      "source": "gnews",
-      "engagement": {
-        "score": 40,
+        "score": 152,
         "comments": 0
       }
     },
     {
       "title": "Johell1NS/browser-search — A skill for AI agents: search the web with SearXNG, browse with Camofox, bypass protections with CloakBrowser. Anti-hallucination by design. Self-hosted, free, unlimited.",
       "url": "https://github.com/Johell1NS/browser-search",
-      "score": 5.47,
+      "score": 5.48,
       "niche": "ai",
       "source": "github",
       "engagement": {
-        "score": 154,
+        "score": 156,
         "comments": 0
       }
     }
   ],
   "topics": [
+    {
+      "keyword": "passive income",
+      "count": 53,
+      "score": 273.46363074539835,
+      "proper": true,
+      "niches": [
+        "finance",
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "1 REIT could turn a £20,000 ISA into annual passive income of £1,580",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1RRS0yYjRaYmMyS0Nsa3BtaEJaN0JLOHBtMFNlVVN4R2RuMXVzTlRzWXpTTGlWbzN2ZXJ5bE1mMXJGMzdLV3Flakd0elhFOXBtYUgzZ0tWZTdnOUw0M1BwbnlySEdsX2llNHJSMnM0WTk0NUtLN2ZnZQ?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "1 REIT could turn a £20,000 ISA into annual passive income of £1,580",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1RRS0yYjRaYmMyS0Nsa3BtaEJaN0JLOHBtMFNlVVN4R2RuMXVzTlRzWXpTTGlWbzN2ZXJ5bE1mMXJGMzdLV3Flakd0elhFOXBtYUgzZ0tWZTdnOUw0M1BwbnlySEdsX2llNHJSMnM0WTk0NUtLN2ZnZQ?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "3 Stocks to Buy for Decades of Passive Income While They're Down",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQW82a2F6amNCU2dUbTFOUjJ2YjAwSnNCSW4xb0dJNk9wNXFZT2JZOXAzMkFYakxfNTRlY3VNTEM4Tmxsd2N3M0pjN1d1NnF5ckdpdzNmY21Hb1Y3OGkta3dmZ1FTcnBCSGZGcGlqbFFPUnJMWFYtU0pPbGo3TnhXNE94eGtFZnc1VEFsalhUOVJxM1ZwSkdtcg?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "3 Stocks to Buy for Decades of Passive Income While They're Down",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQW82a2F6amNCU2dUbTFOUjJ2YjAwSnNCSW4xb0dJNk9wNXFZT2JZOXAzMkFYakxfNTRlY3VNTEM4Tmxsd2N3M0pjN1d1NnF5ckdpdzNmY21Hb1Y3OGkta3dmZ1FTcnBCSGZGcGlqbFFPUnJMWFYtU0pPbGo3TnhXNE94eGtFZnc1VEFsalhUOVJxM1ZwSkdtcg?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "SCHD vs. VYMI vs. JEPI: Which Is the Best Dividend ETF for Steady Passive Income?",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxON2hRM1g1TWNRLXo3Uk14WjJZN0Y5OTJZOUdxUndYaDVQSmVCNC02ZmZVLTZUUnZDUGtrdTRlcl9pemJZSzhTeks0QkNyeE94RXFTNEpiYmRSdjJ4NExwajdVZG9RcWt1TG5ZUWxDUjFGdExPZF9YdlRWYjIwazB0aXZIN1V1ckhWRHFpNFdUYjJ5ZXVVS2JqcHlXSDFEWm5XaXU5WExhSkd2NWM?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "cf2dbbbf8c8c",
+      "slug": "passive-income"
+    },
     {
       "keyword": "god mode",
       "count": 30,
@@ -356,81 +395,9 @@
       "slug": "infinite-ammo"
     },
     {
-      "keyword": "mechanical keyboard",
-      "count": 26,
-      "score": 136.52860460675248,
-      "proper": true,
-      "niches": [
-        "gear",
-        "finance"
-      ],
-      "examples": [
-        {
-          "title": "Just My Type! I Found This Elite Ultrathin Wireless Mechanical Keyboard for Just $122 on Prime Day",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbTJJQnJMdzFYZlE4dHRuaDNTWmtKNkM0ZWRLaFpxUjZqbDNtaXN5SnlUVVBrOXRGZUZSak9GbDd4cWpBajB2eThzc1VCbnkzUDlXU0VhLVMwV2dnQTg5UHFiN2RhcXZRMTNKVFZiZlZyazlTeGd4TzJpaHc3R3RoaTlYY0Jlc0tiVE1UanNMNWk0cWR5dHc?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Just My Type! I Found This Elite Ultrathin Wireless Mechanical Keyboard for Just $122 on Prime Day",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbTJJQnJMdzFYZlE4dHRuaDNTWmtKNkM0ZWRLaFpxUjZqbDNtaXN5SnlUVVBrOXRGZUZSak9GbDd4cWpBajB2eThzc1VCbnkzUDlXU0VhLVMwV2dnQTg5UHFiN2RhcXZRMTNKVFZiZlZyazlTeGd4TzJpaHc3R3RoaTlYY0Jlc0tiVE1UanNMNWk0cWR5dHc?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "GravaStar Unveils Mercury K98 Pro: A Cyberpunk-Engineered 98% Mechanical Keyboard",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPYk1SY2lsOGEya2Zja3VvOTAybk9Xb0JObEFwWDN4eXlEYUNaeFRfeU1Sb2lrSy1WLW9iQ1drbVljaDFRbjZIT3k4bkJfWTUtak5tZmliMk1kR0c1bWpfcUw5SzlfOWdKNVpnVzBHdElJZzBnbUczVS1qZ0pqeWdwbmJKaUlpZ2Jad2h6bFl3ZzQ3LXRoQVJyWkFXdC1DS1VuMFRCOUNjcTFhUjNLTDRVcmdZZTTSAboBQVVfeXFMTVJ4VnYtbWVhZGVNYUx2Vm9BcUpZcmtKaTVKOG4tYXVELWQ2dWxzc01KMGRQWXVEa243TVh6RUt3UE1kcWFnbVE2NGNjNmNxUFVTY0lORk1yc3EzTEJtQlk0c3ExeWxlVUh4SXhCZzltS3MxR0k0NEZiY1djdG5nOW5PdzJldXR0SzkwMmowN2IxVjFoOTNhVVFhR0JWdmx1enRXdk5SSjBoRnRHQWFqR2ZoU1ZkZElUeVdn?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "GravaStar Unveils Mercury K98 Pro: A Cyberpunk-Engineered 98% Mechanical Keyboard",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPYk1SY2lsOGEya2Zja3VvOTAybk9Xb0JObEFwWDN4eXlEYUNaeFRfeU1Sb2lrSy1WLW9iQ1drbVljaDFRbjZIT3k4bkJfWTUtak5tZmliMk1kR0c1bWpfcUw5SzlfOWdKNVpnVzBHdElJZzBnbUczVS1qZ0pqeWdwbmJKaUlpZ2Jad2h6bFl3ZzQ3LXRoQVJyWkFXdC1DS1VuMFRCOUNjcTFhUjNLTDRVcmdZZTTSAboBQVVfeXFMTVJ4VnYtbWVhZGVNYUx2Vm9BcUpZcmtKaTVKOG4tYXVELWQ2dWxzc01KMGRQWXVEa243TVh6RUt3UE1kcWFnbVE2NGNjNmNxUFVTY0lORk1yc3EzTEJtQlk0c3ExeWxlVUh4SXhCZzltS3MxR0k0NEZiY1djdG5nOW5PdzJldXR0SzkwMmowN2IxVjFoOTNhVVFhR0JWdmx1enRXdk5SSjBoRnRHQWFqR2ZoU1ZkZElUeVdn?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "The Epomaker Glyph, my dream keyboard, just got a 20% price cut, and it’s easily the best mechanical keyboard deal right now",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOaUxrOTE0UkIzMlJsV0ZUYXFuS2tsb2VXNzQxM3EtWDlpUVY0cVNVNXBabnJ5QU5HVVY0VDJUNEpQM1JoUXFDSkNUbTFMN1Y2cnJIVmNOUWVaVEFONUVNWlhUeWc2M21VWnVTejRkQU5LUFRMQXhVblhKMHZ0OFFyd0c4RFdhOWM?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "e31f9fac7533",
-      "slug": "mechanical-keyboard"
-    },
-    {
-      "keyword": "general agents",
-      "count": 16,
-      "score": 127.5057493071258,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "Qwen-AgentWorld: Language World Models for General Agents",
-          "url": "https://arxiv.org/abs/2606.24597",
-          "source": "hackernews"
-        },
-        {
-          "title": "Qwen-AgentWorld: Language World Models for General Agents",
-          "url": "https://arxiv.org/abs/2606.24597",
-          "source": "hackernews"
-        },
-        {
-          "title": "QwenLM/Qwen-AgentWorld — Qwen-AgentWorld: Language World Models for General Agents",
-          "url": "https://github.com/QwenLM/Qwen-AgentWorld",
-          "source": "github"
-        },
-        {
-          "title": "QwenLM/Qwen-AgentWorld — Qwen-AgentWorld: Language World Models for General Agents",
-          "url": "https://github.com/QwenLM/Qwen-AgentWorld",
-          "source": "github"
-        }
-      ],
-      "id": "f64cb07cf333",
-      "slug": "general-agents"
-    },
-    {
       "keyword": "dating profile",
       "count": 8,
-      "score": 106.64522304639132,
+      "score": 126.4705913664591,
       "proper": true,
       "niches": [
         "ai"
@@ -451,111 +418,99 @@
       "slug": "dating-profile"
     },
     {
-      "keyword": "reid hoffman",
-      "count": 8,
-      "score": 105.58987451785195,
+      "keyword": "notebooklm review",
+      "count": 11,
+      "score": 110.70148392524266,
       "proper": true,
       "niches": [
         "ai"
       ],
       "examples": [
         {
-          "title": "Reid Hoffman says SpaceX 'not an AI company', xAI 'complete train wreck'",
-          "url": "https://fortune.com/2026/06/24/reid-hoffman-spacex-musk-openai-anthropic-gen-z-mistake/",
+          "title": "NotebookLM Review: There's Nothing Quite Like This AI Tool",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOYm01UGxPYUNGQTV1WmZITk5sUDVfS3hPLVF1MHc2Y0piOGZmUVpYNU5hYWRSSWE1QlJDbWtPNHd3eWQweEIxdXFCdDlURFRtVlBqVGw4Qm5seUFxVjdYMWp3OXR2U1BUZV9MZGpYWFJGUVU1dTlpZ1dxNkRCTjVEcml2ZU5DNi10RFVXMHdqYkQyQ0N1MlE2UlBtTG5OSEYtdjkxWDZXbnFMcl9JOGFYbEdjbE1EUUlJLVpQT0ltZEk4ajJxYUE?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "NotebookLM Review: There's Nothing Quite Like This AI Tool",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOYm01UGxPYUNGQTV1WmZITk5sUDVfS3hPLVF1MHc2Y0piOGZmUVpYNU5hYWRSSWE1QlJDbWtPNHd3eWQweEIxdXFCdDlURFRtVlBqVGw4Qm5seUFxVjdYMWp3OXR2U1BUZV9MZGpYWFJGUVU1dTlpZ1dxNkRCTjVEcml2ZU5DNi10RFVXMHdqYkQyQ0N1MlE2UlBtTG5OSEYtdjkxWDZXbnFMcl9JOGFYbEdjbE1EUUlJLVpQT0ltZEk4ajJxYUE?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "NotebookLM Review: There's Nothing Quite Like This AI Tool",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOYm01UGxPYUNGQTV1WmZITk5sUDVfS3hPLVF1MHc2Y0piOGZmUVpYNU5hYWRSSWE1QlJDbWtPNHd3eWQweEIxdXFCdDlURFRtVlBqVGw4Qm5seUFxVjdYMWp3OXR2U1BUZV9MZGpYWFJGUVU1dTlpZ1dxNkRCTjVEcml2ZU5DNi10RFVXMHdqYkQyQ0N1MlE2UlBtTG5OSEYtdjkxWDZXbnFMcl9JOGFYbEdjbE1EUUlJLVpQT0ltZEk4ajJxYUE?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "b6c13efd7d03",
+      "slug": "notebooklm-review"
+    },
+    {
+      "keyword": "open",
+      "count": 11,
+      "score": 100.58892187992714,
+      "proper": true,
+      "niches": [
+        "ai",
+        "general"
+      ],
+      "examples": [
+        {
+          "title": "For Most of the World, Open-Source AI Is the Only Way Forward",
+          "url": "https://techstrong.ai/articles/for-most-of-the-world-open-source-ai-is-the-only-way-forward/",
           "source": "hackernews"
         },
         {
-          "title": "Reid Hoffman says SpaceX 'not an AI company', xAI 'complete train wreck'",
-          "url": "https://fortune.com/2026/06/24/reid-hoffman-spacex-musk-openai-anthropic-gen-z-mistake/",
+          "title": "Haystack: Open-Source AI Framework for Production Ready Agents, RAG",
+          "url": "https://haystack.deepset.ai/",
           "source": "hackernews"
+        },
+        {
+          "title": "Keeping the Web Open and Private in the Bot Era",
+          "url": "https://blog.mozilla.org/en/privacy-security/keeping-the-web-open-and-private-in-the-bot-era/",
+          "source": "lobsters"
         }
       ],
-      "id": "8b160ad4c2ee",
-      "slug": "reid-hoffman"
+      "id": "2348f9987442",
+      "slug": "open"
     },
     {
-      "keyword": "qualcomm strikes",
-      "count": 11,
-      "score": 97.92823578002233,
+      "keyword": "fitness gear",
+      "count": 23,
+      "score": 94.01884771133368,
       "proper": true,
       "niches": [
-        "ai"
+        "gear"
       ],
       "examples": [
         {
-          "title": "Qualcomm Strikes $3.9 Billion Deal for AI Software Company Modular",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdXpBWWdoelBvQUxKaHNGbnN5bzN2cFB2Y2dvdEVONktEVWNRMmxibHJSLVVCWVhQRlliVDNDTTVxQ1FkWHRLbjBsMVhTQVJBMExyUDQydU5rXzdMbkNvY21Ua1NsT2w5UU40TUlELVpQSzZqR3FtY3ZWbmQwT1FIQw?oc=5",
+          "title": "Fitness Gear Home Gym Manual The 35 Best Home Gym Equipment Gear, Tested By Us",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4xWWJEaURIa0FVUGdYbGFBQmttcFBjemxuaV83V0syblhTUlBiVm9TV3ZXSlQ1cEpaRV8xTHFsMzN6T2ZXaEpJOUp3TVh3V0xkSVY2d2c3MXdtUGJ6?oc=5",
           "source": "gnews"
         },
         {
-          "title": "Qualcomm Strikes $3.9 Billion Deal for AI Software Company Modular",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdXpBWWdoelBvQUxKaHNGbnN5bzN2cFB2Y2dvdEVONktEVWNRMmxibHJSLVVCWVhQRlliVDNDTTVxQ1FkWHRLbjBsMVhTQVJBMExyUDQydU5rXzdMbkNvY21Ua1NsT2w5UU40TUlELVpQSzZqR3FtY3ZWbmQwT1FIQw?oc=5",
+          "title": "Fitness Gear Home Gym Manual The 35 Best Home Gym Equipment Gear, Tested By Us",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4xWWJEaURIa0FVUGdYbGFBQmttcFBjemxuaV83V0syblhTUlBiVm9TV3ZXSlQ1cEpaRV8xTHFsMzN6T2ZXaEpJOUp3TVh3V0xkSVY2d2c3MXdtUGJ6?oc=5",
           "source": "gnews"
         },
         {
-          "title": "Qualcomm Strikes $3.9 Billion Deal for AI Software Company Modular",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdXpBWWdoelBvQUxKaHNGbnN5bzN2cFB2Y2dvdEVONktEVWNRMmxibHJSLVVCWVhQRlliVDNDTTVxQ1FkWHRLbjBsMVhTQVJBMExyUDQydU5rXzdMbkNvY21Ua1NsT2w5UU40TUlELVpQSzZqR3FtY3ZWbmQwT1FIQw?oc=5",
+          "title": "Attention, Gym Girlies: Our Favorite Fitness Gear Is up to 59% off This Week",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNU08wdUpoY1Excjd4MUVTQWRoMF8tNTEzcURfdlc3RFZXVHJsdmNJYmtlR3ROdnFKM0lhQi1OMFkxYzJVMFhncHdmb1o5ZFplcG1wN19fWGxZSndzRmpBd3dhT2hoaXNyNUhyN3IyLV9vU2tKQjhIUTl0eEhEWlcta1FqaFZlUzBiMXc?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Attention, Gym Girlies: Our Favorite Fitness Gear Is up to 59% off This Week",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNU08wdUpoY1Excjd4MUVTQWRoMF8tNTEzcURfdlc3RFZXVHJsdmNJYmtlR3ROdnFKM0lhQi1OMFkxYzJVMFhncHdmb1o5ZFplcG1wN19fWGxZSndzRmpBd3dhT2hoaXNyNUhyN3IyLV9vU2tKQjhIUTl0eEhEWlcta1FqaFZlUzBiMXc?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Fitness Gear on Sale for Early Prime Day",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9jNDZtZlhYOFMtWnloN2pMenFzSjhqZ0MyN3JMVHE1bVZENE5zT0hoQUpHVEpiSUhJb2Z6ZU85bmk2M3lKT1ctOTlqSlpyUVBZWDBWQkhZdUtiNWVTMDhTVmFGX295N2VWN3RDZHBPSHlaUzUtbzNR?oc=5",
           "source": "gnews"
         }
       ],
-      "id": "aae11b15d1f4",
-      "slug": "qualcomm-strikes"
-    },
-    {
-      "keyword": "software lifecycle",
-      "count": 11,
-      "score": 97.92823578002233,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "AI Is Moving up the Software Lifecycle: From Code Review to PRD Governance",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1TeGlvLWJmcWpjdFpvQUV0ZWRMUnBycWZlYVFqQXVyb0tmdl9yUmxhTmZUb2dmU2VueHMweUdVT1lLbjdfckdSaGYteEREN2J2VTBYYzdXZmFKWlhNejdlaS1CRjBnbFRDcWpBQ0drRTljaUE?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "AI Is Moving up the Software Lifecycle: From Code Review to PRD Governance",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1TeGlvLWJmcWpjdFpvQUV0ZWRMUnBycWZlYVFqQXVyb0tmdl9yUmxhTmZUb2dmU2VueHMweUdVT1lLbjdfckdSaGYteEREN2J2VTBYYzdXZmFKWlhNejdlaS1CRjBnbFRDcWpBQ0drRTljaUE?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "AI Is Moving up the Software Lifecycle: From Code Review to PRD Governance",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1TeGlvLWJmcWpjdFpvQUV0ZWRMUnBycWZlYVFqQXVyb0tmdl9yUmxhTmZUb2dmU2VueHMweUdVT1lLbjdfckdSaGYteEREN2J2VTBYYzdXZmFKWlhNejdlaS1CRjBnbFRDcWpBQ0drRTljaUE?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "1505181f52eb",
-      "slug": "software-lifecycle"
-    },
-    {
-      "keyword": "prd governance",
-      "count": 11,
-      "score": 97.92823578002233,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "AI Is Moving up the Software Lifecycle: From Code Review to PRD Governance",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1TeGlvLWJmcWpjdFpvQUV0ZWRMUnBycWZlYVFqQXVyb0tmdl9yUmxhTmZUb2dmU2VueHMweUdVT1lLbjdfckdSaGYteEREN2J2VTBYYzdXZmFKWlhNejdlaS1CRjBnbFRDcWpBQ0drRTljaUE?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "AI Is Moving up the Software Lifecycle: From Code Review to PRD Governance",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1TeGlvLWJmcWpjdFpvQUV0ZWRMUnBycWZlYVFqQXVyb0tmdl9yUmxhTmZUb2dmU2VueHMweUdVT1lLbjdfckdSaGYteEREN2J2VTBYYzdXZmFKWlhNejdlaS1CRjBnbFRDcWpBQ0drRTljaUE?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "AI Is Moving up the Software Lifecycle: From Code Review to PRD Governance",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1TeGlvLWJmcWpjdFpvQUV0ZWRMUnBycWZlYVFqQXVyb0tmdl9yUmxhTmZUb2dmU2VueHMweUdVT1lLbjdfckdSaGYteEREN2J2VTBYYzdXZmFKWlhNejdlaS1CRjBnbFRDcWpBQ0drRTljaUE?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "776482c357ca",
-      "slug": "prd-governance"
+      "id": "a8b7e45842c3",
+      "slug": "fitness-gear"
     },
     {
       "keyword": "cp editor",
@@ -586,101 +541,137 @@
       "slug": "cp-editor"
     },
     {
-      "keyword": "nobel laureate",
+      "keyword": "gear",
+      "count": 19,
+      "score": 88.67730757787791,
+      "proper": true,
+      "niches": [
+        "finance",
+        "gear",
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "I Found the Best Fitness Tech and Gear on Sale This Prime Day",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSXZiOEM4ekRUMFY1MUlNb1I5THJqNVRURGhMMWZXLWJRVlF6cUk3eTF2dFdxM2NCalg3QjBmektHX19yUWw0Y3BJeFQtLVFUeFgxMmN2YWdxaDlwMWNHM3dlZmlPZWFuRUMzRTBNbWdIRnBEN0RfOG9fYzNQZVZzU0tDZ3RsVnVjRmtOQUxmb2o?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "I Found the Best Fitness Tech and Gear on Sale This Prime Day",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSXZiOEM4ekRUMFY1MUlNb1I5THJqNVRURGhMMWZXLWJRVlF6cUk3eTF2dFdxM2NCalg3QjBmektHX19yUWw0Y3BJeFQtLVFUeFgxMmN2YWdxaDlwMWNHM3dlZmlPZWFuRUMzRTBNbWdIRnBEN0RfOG9fYzNQZVZzU0tDZ3RsVnVjRmtOQUxmb2o?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Fitness Gear Home Gym Manual The 35 Best Home Gym Equipment Gear, Tested By Us",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4xWWJEaURIa0FVUGdYbGFBQmttcFBjemxuaV83V0syblhTUlBiVm9TV3ZXSlQ1cEpaRV8xTHFsMzN6T2ZXaEpJOUp3TVh3V0xkSVY2d2c3MXdtUGJ6?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Fitness Gear Home Gym Manual The 35 Best Home Gym Equipment Gear, Tested By Us",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4xWWJEaURIa0FVUGdYbGFBQmttcFBjemxuaV83V0syblhTUlBiVm9TV3ZXSlQ1cEpaRV8xTHFsMzN6T2ZXaEpJOUp3TVh3V0xkSVY2d2c3MXdtUGJ6?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Fitness Gear Home Gym Manual The 35 Best Home Gym Equipment Gear, Tested By Us",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4xWWJEaURIa0FVUGdYbGFBQmttcFBjemxuaV83V0syblhTUlBiVm9TV3ZXSlQ1cEpaRV8xTHFsMzN6T2ZXaEpJOUp3TVh3V0xkSVY2d2c3MXdtUGJ6?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "70ad3de50a55",
+      "slug": "gear"
+    },
+    {
+      "keyword": "democratic party",
       "count": 8,
-      "score": 91.04900591123467,
+      "score": 85.45187641827314,
       "proper": true,
       "niches": [
         "ai"
       ],
       "examples": [
         {
-          "title": "We keep hearing we can't be 'competitive' without hugging AI, & yet a growing body of research asserts this is in fact bovine manure.Check out this steely take from Nobel Laureate  (Econ) Daron Acemog",
-          "url": "https://mastodon.social/@JulianOliver/116804873809268211",
+          "title": "There's a new leader of the Democratic Party, and his name is Mamdani. 3 incumbents with establishment backing, corporate PAC money, AIPAC support, and Hakeem Jeffries endorsements. All 3 lost. Every ",
+          "url": "https://mastodon.social/@QasimRashid/116805923693178264",
           "source": "mastodon"
         },
         {
-          "title": "We keep hearing we can't be 'competitive' without hugging AI, & yet a growing body of research asserts this is in fact bovine manure.Check out this steely take from Nobel Laureate  (Econ) Daron Acemog",
-          "url": "https://mastodon.social/@JulianOliver/116804873809268211",
+          "title": "There's a new leader of the Democratic Party, and his name is Mamdani. 3 incumbents with establishment backing, corporate PAC money, AIPAC support, and Hakeem Jeffries endorsements. All 3 lost. Every ",
+          "url": "https://mastodon.social/@QasimRashid/116805923693178264",
           "source": "mastodon"
         }
       ],
-      "id": "35d039ab61d5",
-      "slug": "nobel-laureate"
+      "id": "23e957fbeb1a",
+      "slug": "democratic-party"
     },
     {
-      "keyword": "daron acemog",
+      "keyword": "hakeem jeffries",
       "count": 8,
-      "score": 91.04900591123467,
+      "score": 85.45187641827314,
       "proper": true,
       "niches": [
         "ai"
       ],
       "examples": [
         {
-          "title": "We keep hearing we can't be 'competitive' without hugging AI, & yet a growing body of research asserts this is in fact bovine manure.Check out this steely take from Nobel Laureate  (Econ) Daron Acemog",
-          "url": "https://mastodon.social/@JulianOliver/116804873809268211",
+          "title": "There's a new leader of the Democratic Party, and his name is Mamdani. 3 incumbents with establishment backing, corporate PAC money, AIPAC support, and Hakeem Jeffries endorsements. All 3 lost. Every ",
+          "url": "https://mastodon.social/@QasimRashid/116805923693178264",
           "source": "mastodon"
         },
         {
-          "title": "We keep hearing we can't be 'competitive' without hugging AI, & yet a growing body of research asserts this is in fact bovine manure.Check out this steely take from Nobel Laureate  (Econ) Daron Acemog",
-          "url": "https://mastodon.social/@JulianOliver/116804873809268211",
+          "title": "There's a new leader of the Democratic Party, and his name is Mamdani. 3 incumbents with establishment backing, corporate PAC money, AIPAC support, and Hakeem Jeffries endorsements. All 3 lost. Every ",
+          "url": "https://mastodon.social/@QasimRashid/116805923693178264",
           "source": "mastodon"
         }
       ],
-      "id": "f8ef0634c175",
-      "slug": "daron-acemog"
+      "id": "b5bc55ad9c31",
+      "slug": "hakeem-jeffries"
     },
     {
-      "keyword": "apple",
-      "count": 10,
-      "score": 85.30073896078552,
+      "keyword": "hilary cass",
+      "count": 8,
+      "score": 73.5353970973687,
       "proper": true,
       "niches": [
         "software"
       ],
       "examples": [
         {
-          "title": "Swift Package Index joins Apple",
-          "url": "https://swiftpackageindex.com/blog/swift-package-index-joins-apple",
-          "source": "hackernews"
+          "title": "\"Hilary Cass climbed out from under the bridge she calls home to tell the BBC there's no evidence of any harms to trans young people from puberty blockers.\"Shock!\"Buried in the appendices, the report ",
+          "url": "https://mastodon.social/@gwynnion/116806082546252045",
+          "source": "mastodon"
         },
         {
-          "title": "samasante/liquid-glass — Apple-style Liquid Glass for the web — a headless React lens that refracts the live DOM in Safari, Firefox and Chrome. Zero dependencies.",
-          "url": "https://github.com/samasante/liquid-glass",
-          "source": "github"
+          "title": "\"Hilary Cass climbed out from under the bridge she calls home to tell the BBC there's no evidence of any harms to trans young people from puberty blockers.\"Shock!\"Buried in the appendices, the report ",
+          "url": "https://mastodon.social/@gwynnion/116806082546252045",
+          "source": "mastodon"
         }
       ],
-      "id": "3a7bd3e2360a",
-      "slug": "apple"
+      "id": "d5a5076aba46",
+      "slug": "hilary-cass"
     },
     {
-      "keyword": "single prompt",
-      "count": 11,
-      "score": 78.34258862401788,
+      "keyword": "apple",
+      "count": 10,
+      "score": 69.15668150373267,
       "proper": true,
       "niches": [
+        "software",
         "ai"
       ],
       "examples": [
         {
-          "title": "ByteDance's New AI Video Model Can Make 30-Second Clips From a Single Prompt",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSTRjblpRcEJHSUs1OHhuSVg2c19sSk9OX01ua09PdkRiSk5aUXBiMFBMLWJHdHV5WkJFNm1vU0VjNDF0ZW5tay1DazNoZVlfSGRFcFBNakRVQTJ3OThENHhlaFlVM0lFQmxXUTBjTjFnb2loTG1mbGdETkloOEh2dHpjcWlHbjdWbm5sNkxQTEdyZGcyczd2LS1XYnRPcFE?oc=5",
-          "source": "gnews"
+          "title": "samasante/liquid-glass — Apple-style Liquid Glass for the web — a headless React lens that refracts the live DOM in Safari, Firefox and Chrome. Zero dependencies.",
+          "url": "https://github.com/samasante/liquid-glass",
+          "source": "github"
         },
         {
-          "title": "ByteDance's New AI Video Model Can Make 30-Second Clips From a Single Prompt",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSTRjblpRcEJHSUs1OHhuSVg2c19sSk9OX01ua09PdkRiSk5aUXBiMFBMLWJHdHV5WkJFNm1vU0VjNDF0ZW5tay1DazNoZVlfSGRFcFBNakRVQTJ3OThENHhlaFlVM0lFQmxXUTBjTjFnb2loTG1mbGdETkloOEh2dHpjcWlHbjdWbm5sNkxQTEdyZGcyczd2LS1XYnRPcFE?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "ByteDance's New AI Video Model Can Make 30-Second Clips From a Single Prompt",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSTRjblpRcEJHSUs1OHhuSVg2c19sSk9OX01ua09PdkRiSk5aUXBiMFBMLWJHdHV5WkJFNm1vU0VjNDF0ZW5tay1DazNoZVlfSGRFcFBNakRVQTJ3OThENHhlaFlVM0lFQmxXUTBjTjFnb2loTG1mbGdETkloOEh2dHpjcWlHbjdWbm5sNkxQTEdyZGcyczd2LS1XYnRPcFE?oc=5",
+          "title": "Apple’s productivity apps have a small but useful AI enhancement in macOS 27",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObkk3bzZXWC1IaTQ0QTdxSmxCM3AyV0lJRWg0WHhrRFlxcFB6TXZsWEQ0QzRUMmZqeHR4anNRQmVISEYtc3VwR3hOalpadENOcDNaendsWU84aHVaUGd0UWZmU1B2TjlqVnlSZGg5NGZpMmlqR1hkN3N4SWQ1SG1GS2Z5bERsZ3EwWkJoTTFkc2dPbEpPV3hkRURjRV9Ha0YwTnVhcFZkZUhmLWc?oc=5",
           "source": "gnews"
         }
       ],
-      "id": "c35871e879fc",
-      "slug": "single-prompt"
+      "id": "3a7bd3e2360a",
+      "slug": "apple"
     },
     {
       "keyword": "ultimate trainer",
@@ -719,9 +710,91 @@
       ],
       "id": "b190655c88ec",
       "slug": "ultimate-trainer"
+    },
+    {
+      "keyword": "productivity apps",
+      "count": 30,
+      "score": 63.78882710097899,
+      "proper": false,
+      "niches": [
+        "ai",
+        "software"
+      ],
+      "examples": [
+        {
+          "title": "Apple’s productivity apps have a small but useful AI enhancement in macOS 27",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObkk3bzZXWC1IaTQ0QTdxSmxCM3AyV0lJRWg0WHhrRFlxcFB6TXZsWEQ0QzRUMmZqeHR4anNRQmVISEYtc3VwR3hOalpadENOcDNaendsWU84aHVaUGd0UWZmU1B2TjlqVnlSZGg5NGZpMmlqR1hkN3N4SWQ1SG1GS2Z5bERsZ3EwWkJoTTFkc2dPbEpPV3hkRURjRV9Ha0YwTnVhcFZkZUhmLWc?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Apple’s productivity apps have a small but useful AI enhancement in macOS 27",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObkk3bzZXWC1IaTQ0QTdxSmxCM3AyV0lJRWg0WHhrRFlxcFB6TXZsWEQ0QzRUMmZqeHR4anNRQmVISEYtc3VwR3hOalpadENOcDNaendsWU84aHVaUGd0UWZmU1B2TjlqVnlSZGg5NGZpMmlqR1hkN3N4SWQ1SG1GS2Z5bERsZ3EwWkJoTTFkc2dPbEpPV3hkRURjRV9Ha0YwTnVhcFZkZUhmLWc?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Why I ditched paid productivity apps for this free open-source alternative - How-To Geek",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTE9jOUhlQl9jazRtcXBDdERaa3FWaFNnV3dzZ1NkbTE2ckZhbGVaTTdFck4xMW50QktnbUFoS183YzJWcUprSTJEbjhYUkR0NlJmaWhZM0d4QkdaREhnV3JXMkZ2NktjWl9xTHNoWjVVbE85cnhKSTdvOWRkaGI5cGFRU01aSWF6V0tMVTdpY2R5ck5LYUF3ZzdqMUZLQQ?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Why I ditched paid productivity apps for this free open-source alternative - How-To Geek",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTE9jOUhlQl9jazRtcXBDdERaa3FWaFNnV3dzZ1NkbTE2ckZhbGVaTTdFck4xMW50QktnbUFoS183YzJWcUprSTJEbjhYUkR0NlJmaWhZM0d4QkdaREhnV3JXMkZ2NktjWl9xTHNoWjVVbE85cnhKSTdvOWRkaGI5cGFRU01aSWF6V0tMVTdpY2R5ck5LYUF3ZzdqMUZLQQ?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "The Best Productivity Apps We've Tested for 2026",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9veGdZYVZtQXhoeGdoN19Db0JwMFZndFd3a3dIczJDZkIxeHBPUHEySTlDT2xzZS1PVkdCVnpla0pWWjRMUVczUm9kaVhnOFB3MzNpNk1YUnl2LUI5YVVJ?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "c3d816ac2a46",
+      "slug": "productivity-apps"
     }
   ],
   "opportunities": [
+    {
+      "keyword": "passive income",
+      "count": 53,
+      "score": 273.46363074539835,
+      "proper": true,
+      "niches": [
+        "finance",
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "1 REIT could turn a £20,000 ISA into annual passive income of £1,580",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1RRS0yYjRaYmMyS0Nsa3BtaEJaN0JLOHBtMFNlVVN4R2RuMXVzTlRzWXpTTGlWbzN2ZXJ5bE1mMXJGMzdLV3Flakd0elhFOXBtYUgzZ0tWZTdnOUw0M1BwbnlySEdsX2llNHJSMnM0WTk0NUtLN2ZnZQ?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "1 REIT could turn a £20,000 ISA into annual passive income of £1,580",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1RRS0yYjRaYmMyS0Nsa3BtaEJaN0JLOHBtMFNlVVN4R2RuMXVzTlRzWXpTTGlWbzN2ZXJ5bE1mMXJGMzdLV3Flakd0elhFOXBtYUgzZ0tWZTdnOUw0M1BwbnlySEdsX2llNHJSMnM0WTk0NUtLN2ZnZQ?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "3 Stocks to Buy for Decades of Passive Income While They're Down",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQW82a2F6amNCU2dUbTFOUjJ2YjAwSnNCSW4xb0dJNk9wNXFZT2JZOXAzMkFYakxfNTRlY3VNTEM4Tmxsd2N3M0pjN1d1NnF5ckdpdzNmY21Hb1Y3OGkta3dmZ1FTcnBCSGZGcGlqbFFPUnJMWFYtU0pPbGo3TnhXNE94eGtFZnc1VEFsalhUOVJxM1ZwSkdtcg?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "3 Stocks to Buy for Decades of Passive Income While They're Down",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQW82a2F6amNCU2dUbTFOUjJ2YjAwSnNCSW4xb0dJNk9wNXFZT2JZOXAzMkFYakxfNTRlY3VNTEM4Tmxsd2N3M0pjN1d1NnF5ckdpdzNmY21Hb1Y3OGkta3dmZ1FTcnBCSGZGcGlqbFFPUnJMWFYtU0pPbGo3TnhXNE94eGtFZnc1VEFsalhUOVJxM1ZwSkdtcg?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "SCHD vs. VYMI vs. JEPI: Which Is the Best Dividend ETF for Steady Passive Income?",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxON2hRM1g1TWNRLXo3Uk14WjJZN0Y5OTJZOUdxUndYaDVQSmVCNC02ZmZVLTZUUnZDUGtrdTRlcl9pemJZSzhTeks0QkNyeE94RXFTNEpiYmRSdjJ4NExwajdVZG9RcWt1TG5ZUWxDUjFGdExPZF9YdlRWYjIwazB0aXZIN1V1ckhWRHFpNFdUYjJ5ZXVVS2JqcHlXSDFEWm5XaXU5WExhSkd2NWM?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "cf2dbbbf8c8c",
+      "slug": "passive-income",
+      "opportunity": {
+        "type": "niche-content",
+        "recommended": "Publish niche guide for \"finance\"; bundle into digital product later."
+      }
+    },
     {
       "keyword": "god mode",
       "count": 30,
@@ -807,89 +880,9 @@
       }
     },
     {
-      "keyword": "mechanical keyboard",
-      "count": 26,
-      "score": 136.52860460675248,
-      "proper": true,
-      "niches": [
-        "gear",
-        "finance"
-      ],
-      "examples": [
-        {
-          "title": "Just My Type! I Found This Elite Ultrathin Wireless Mechanical Keyboard for Just $122 on Prime Day",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbTJJQnJMdzFYZlE4dHRuaDNTWmtKNkM0ZWRLaFpxUjZqbDNtaXN5SnlUVVBrOXRGZUZSak9GbDd4cWpBajB2eThzc1VCbnkzUDlXU0VhLVMwV2dnQTg5UHFiN2RhcXZRMTNKVFZiZlZyazlTeGd4TzJpaHc3R3RoaTlYY0Jlc0tiVE1UanNMNWk0cWR5dHc?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Just My Type! I Found This Elite Ultrathin Wireless Mechanical Keyboard for Just $122 on Prime Day",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbTJJQnJMdzFYZlE4dHRuaDNTWmtKNkM0ZWRLaFpxUjZqbDNtaXN5SnlUVVBrOXRGZUZSak9GbDd4cWpBajB2eThzc1VCbnkzUDlXU0VhLVMwV2dnQTg5UHFiN2RhcXZRMTNKVFZiZlZyazlTeGd4TzJpaHc3R3RoaTlYY0Jlc0tiVE1UanNMNWk0cWR5dHc?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "GravaStar Unveils Mercury K98 Pro: A Cyberpunk-Engineered 98% Mechanical Keyboard",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPYk1SY2lsOGEya2Zja3VvOTAybk9Xb0JObEFwWDN4eXlEYUNaeFRfeU1Sb2lrSy1WLW9iQ1drbVljaDFRbjZIT3k4bkJfWTUtak5tZmliMk1kR0c1bWpfcUw5SzlfOWdKNVpnVzBHdElJZzBnbUczVS1qZ0pqeWdwbmJKaUlpZ2Jad2h6bFl3ZzQ3LXRoQVJyWkFXdC1DS1VuMFRCOUNjcTFhUjNLTDRVcmdZZTTSAboBQVVfeXFMTVJ4VnYtbWVhZGVNYUx2Vm9BcUpZcmtKaTVKOG4tYXVELWQ2dWxzc01KMGRQWXVEa243TVh6RUt3UE1kcWFnbVE2NGNjNmNxUFVTY0lORk1yc3EzTEJtQlk0c3ExeWxlVUh4SXhCZzltS3MxR0k0NEZiY1djdG5nOW5PdzJldXR0SzkwMmowN2IxVjFoOTNhVVFhR0JWdmx1enRXdk5SSjBoRnRHQWFqR2ZoU1ZkZElUeVdn?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "GravaStar Unveils Mercury K98 Pro: A Cyberpunk-Engineered 98% Mechanical Keyboard",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPYk1SY2lsOGEya2Zja3VvOTAybk9Xb0JObEFwWDN4eXlEYUNaeFRfeU1Sb2lrSy1WLW9iQ1drbVljaDFRbjZIT3k4bkJfWTUtak5tZmliMk1kR0c1bWpfcUw5SzlfOWdKNVpnVzBHdElJZzBnbUczVS1qZ0pqeWdwbmJKaUlpZ2Jad2h6bFl3ZzQ3LXRoQVJyWkFXdC1DS1VuMFRCOUNjcTFhUjNLTDRVcmdZZTTSAboBQVVfeXFMTVJ4VnYtbWVhZGVNYUx2Vm9BcUpZcmtKaTVKOG4tYXVELWQ2dWxzc01KMGRQWXVEa243TVh6RUt3UE1kcWFnbVE2NGNjNmNxUFVTY0lORk1yc3EzTEJtQlk0c3ExeWxlVUh4SXhCZzltS3MxR0k0NEZiY1djdG5nOW5PdzJldXR0SzkwMmowN2IxVjFoOTNhVVFhR0JWdmx1enRXdk5SSjBoRnRHQWFqR2ZoU1ZkZElUeVdn?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "The Epomaker Glyph, my dream keyboard, just got a 20% price cut, and it’s easily the best mechanical keyboard deal right now",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOaUxrOTE0UkIzMlJsV0ZUYXFuS2tsb2VXNzQxM3EtWDlpUVY0cVNVNXBabnJ5QU5HVVY0VDJUNEpQM1JoUXFDSkNUbTFMN1Y2cnJIVmNOUWVaVEFONUVNWlhUeWc2M21VWnVTejRkQU5LUFRMQXhVblhKMHZ0OFFyd0c4RFdhOWM?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "e31f9fac7533",
-      "slug": "mechanical-keyboard",
-      "opportunity": {
-        "type": "niche-content",
-        "recommended": "Publish niche guide for \"gear\"; bundle into digital product later."
-      }
-    },
-    {
-      "keyword": "general agents",
-      "count": 16,
-      "score": 127.5057493071258,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "Qwen-AgentWorld: Language World Models for General Agents",
-          "url": "https://arxiv.org/abs/2606.24597",
-          "source": "hackernews"
-        },
-        {
-          "title": "Qwen-AgentWorld: Language World Models for General Agents",
-          "url": "https://arxiv.org/abs/2606.24597",
-          "source": "hackernews"
-        },
-        {
-          "title": "QwenLM/Qwen-AgentWorld — Qwen-AgentWorld: Language World Models for General Agents",
-          "url": "https://github.com/QwenLM/Qwen-AgentWorld",
-          "source": "github"
-        },
-        {
-          "title": "QwenLM/Qwen-AgentWorld — Qwen-AgentWorld: Language World Models for General Agents",
-          "url": "https://github.com/QwenLM/Qwen-AgentWorld",
-          "source": "github"
-        }
-      ],
-      "id": "f64cb07cf333",
-      "slug": "general-agents",
-      "opportunity": {
-        "type": "niche-content",
-        "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
-      }
-    },
-    {
       "keyword": "dating profile",
       "count": 8,
-      "score": 106.64522304639132,
+      "score": 126.4705913664591,
       "proper": true,
       "niches": [
         "ai"
@@ -914,91 +907,139 @@
       }
     },
     {
-      "keyword": "reid hoffman",
-      "count": 8,
-      "score": 105.58987451785195,
+      "keyword": "notebooklm review",
+      "count": 11,
+      "score": 110.70148392524266,
       "proper": true,
       "niches": [
         "ai"
       ],
       "examples": [
         {
-          "title": "Reid Hoffman says SpaceX 'not an AI company', xAI 'complete train wreck'",
-          "url": "https://fortune.com/2026/06/24/reid-hoffman-spacex-musk-openai-anthropic-gen-z-mistake/",
+          "title": "NotebookLM Review: There's Nothing Quite Like This AI Tool",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOYm01UGxPYUNGQTV1WmZITk5sUDVfS3hPLVF1MHc2Y0piOGZmUVpYNU5hYWRSSWE1QlJDbWtPNHd3eWQweEIxdXFCdDlURFRtVlBqVGw4Qm5seUFxVjdYMWp3OXR2U1BUZV9MZGpYWFJGUVU1dTlpZ1dxNkRCTjVEcml2ZU5DNi10RFVXMHdqYkQyQ0N1MlE2UlBtTG5OSEYtdjkxWDZXbnFMcl9JOGFYbEdjbE1EUUlJLVpQT0ltZEk4ajJxYUE?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "NotebookLM Review: There's Nothing Quite Like This AI Tool",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOYm01UGxPYUNGQTV1WmZITk5sUDVfS3hPLVF1MHc2Y0piOGZmUVpYNU5hYWRSSWE1QlJDbWtPNHd3eWQweEIxdXFCdDlURFRtVlBqVGw4Qm5seUFxVjdYMWp3OXR2U1BUZV9MZGpYWFJGUVU1dTlpZ1dxNkRCTjVEcml2ZU5DNi10RFVXMHdqYkQyQ0N1MlE2UlBtTG5OSEYtdjkxWDZXbnFMcl9JOGFYbEdjbE1EUUlJLVpQT0ltZEk4ajJxYUE?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "NotebookLM Review: There's Nothing Quite Like This AI Tool",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOYm01UGxPYUNGQTV1WmZITk5sUDVfS3hPLVF1MHc2Y0piOGZmUVpYNU5hYWRSSWE1QlJDbWtPNHd3eWQweEIxdXFCdDlURFRtVlBqVGw4Qm5seUFxVjdYMWp3OXR2U1BUZV9MZGpYWFJGUVU1dTlpZ1dxNkRCTjVEcml2ZU5DNi10RFVXMHdqYkQyQ0N1MlE2UlBtTG5OSEYtdjkxWDZXbnFMcl9JOGFYbEdjbE1EUUlJLVpQT0ltZEk4ajJxYUE?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "b6c13efd7d03",
+      "slug": "notebooklm-review",
+      "opportunity": {
+        "type": "affiliate",
+        "recommended": "Write SEO comparison/roundup article with affiliate links."
+      }
+    },
+    {
+      "keyword": "open",
+      "count": 11,
+      "score": 100.58892187992714,
+      "proper": true,
+      "niches": [
+        "ai",
+        "general"
+      ],
+      "examples": [
+        {
+          "title": "For Most of the World, Open-Source AI Is the Only Way Forward",
+          "url": "https://techstrong.ai/articles/for-most-of-the-world-open-source-ai-is-the-only-way-forward/",
           "source": "hackernews"
         },
         {
-          "title": "Reid Hoffman says SpaceX 'not an AI company', xAI 'complete train wreck'",
-          "url": "https://fortune.com/2026/06/24/reid-hoffman-spacex-musk-openai-anthropic-gen-z-mistake/",
+          "title": "Haystack: Open-Source AI Framework for Production Ready Agents, RAG",
+          "url": "https://haystack.deepset.ai/",
           "source": "hackernews"
+        },
+        {
+          "title": "Keeping the Web Open and Private in the Bot Era",
+          "url": "https://blog.mozilla.org/en/privacy-security/keeping-the-web-open-and-private-in-the-bot-era/",
+          "source": "lobsters"
         }
       ],
-      "id": "8b160ad4c2ee",
-      "slug": "reid-hoffman",
+      "id": "2348f9987442",
+      "slug": "open",
       "opportunity": {
         "type": "niche-content",
         "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
       }
     },
     {
-      "keyword": "qualcomm strikes",
-      "count": 11,
-      "score": 97.92823578002233,
+      "keyword": "fitness gear",
+      "count": 23,
+      "score": 94.01884771133368,
       "proper": true,
       "niches": [
-        "ai"
+        "gear"
       ],
       "examples": [
         {
-          "title": "Qualcomm Strikes $3.9 Billion Deal for AI Software Company Modular",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdXpBWWdoelBvQUxKaHNGbnN5bzN2cFB2Y2dvdEVONktEVWNRMmxibHJSLVVCWVhQRlliVDNDTTVxQ1FkWHRLbjBsMVhTQVJBMExyUDQydU5rXzdMbkNvY21Ua1NsT2w5UU40TUlELVpQSzZqR3FtY3ZWbmQwT1FIQw?oc=5",
+          "title": "Fitness Gear Home Gym Manual The 35 Best Home Gym Equipment Gear, Tested By Us",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4xWWJEaURIa0FVUGdYbGFBQmttcFBjemxuaV83V0syblhTUlBiVm9TV3ZXSlQ1cEpaRV8xTHFsMzN6T2ZXaEpJOUp3TVh3V0xkSVY2d2c3MXdtUGJ6?oc=5",
           "source": "gnews"
         },
         {
-          "title": "Qualcomm Strikes $3.9 Billion Deal for AI Software Company Modular",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdXpBWWdoelBvQUxKaHNGbnN5bzN2cFB2Y2dvdEVONktEVWNRMmxibHJSLVVCWVhQRlliVDNDTTVxQ1FkWHRLbjBsMVhTQVJBMExyUDQydU5rXzdMbkNvY21Ua1NsT2w5UU40TUlELVpQSzZqR3FtY3ZWbmQwT1FIQw?oc=5",
+          "title": "Fitness Gear Home Gym Manual The 35 Best Home Gym Equipment Gear, Tested By Us",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4xWWJEaURIa0FVUGdYbGFBQmttcFBjemxuaV83V0syblhTUlBiVm9TV3ZXSlQ1cEpaRV8xTHFsMzN6T2ZXaEpJOUp3TVh3V0xkSVY2d2c3MXdtUGJ6?oc=5",
           "source": "gnews"
         },
         {
-          "title": "Qualcomm Strikes $3.9 Billion Deal for AI Software Company Modular",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdXpBWWdoelBvQUxKaHNGbnN5bzN2cFB2Y2dvdEVONktEVWNRMmxibHJSLVVCWVhQRlliVDNDTTVxQ1FkWHRLbjBsMVhTQVJBMExyUDQydU5rXzdMbkNvY21Ua1NsT2w5UU40TUlELVpQSzZqR3FtY3ZWbmQwT1FIQw?oc=5",
+          "title": "Attention, Gym Girlies: Our Favorite Fitness Gear Is up to 59% off This Week",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNU08wdUpoY1Excjd4MUVTQWRoMF8tNTEzcURfdlc3RFZXVHJsdmNJYmtlR3ROdnFKM0lhQi1OMFkxYzJVMFhncHdmb1o5ZFplcG1wN19fWGxZSndzRmpBd3dhT2hoaXNyNUhyN3IyLV9vU2tKQjhIUTl0eEhEWlcta1FqaFZlUzBiMXc?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Attention, Gym Girlies: Our Favorite Fitness Gear Is up to 59% off This Week",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNU08wdUpoY1Excjd4MUVTQWRoMF8tNTEzcURfdlc3RFZXVHJsdmNJYmtlR3ROdnFKM0lhQi1OMFkxYzJVMFhncHdmb1o5ZFplcG1wN19fWGxZSndzRmpBd3dhT2hoaXNyNUhyN3IyLV9vU2tKQjhIUTl0eEhEWlcta1FqaFZlUzBiMXc?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Fitness Gear on Sale for Early Prime Day",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9jNDZtZlhYOFMtWnloN2pMenFzSjhqZ0MyN3JMVHE1bVZENE5zT0hoQUpHVEpiSUhJb2Z6ZU85bmk2M3lKT1ctOTlqSlpyUVBZWDBWQkhZdUtiNWVTMDhTVmFGX295N2VWN3RDZHBPSHlaUzUtbzNR?oc=5",
           "source": "gnews"
         }
       ],
-      "id": "aae11b15d1f4",
-      "slug": "qualcomm-strikes",
+      "id": "a8b7e45842c3",
+      "slug": "fitness-gear",
       "opportunity": {
-        "type": "niche-content",
-        "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
+        "type": "affiliate",
+        "recommended": "Write SEO comparison/roundup article with affiliate links."
       }
     },
     {
-      "keyword": "software lifecycle",
-      "count": 11,
-      "score": 97.92823578002233,
+      "keyword": "cp editor",
+      "count": 15,
+      "score": 94.00133984208483,
       "proper": true,
       "niches": [
         "ai"
       ],
       "examples": [
         {
-          "title": "AI Is Moving up the Software Lifecycle: From Code Review to PRD Governance",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1TeGlvLWJmcWpjdFpvQUV0ZWRMUnBycWZlYVFqQXVyb0tmdl9yUmxhTmZUb2dmU2VueHMweUdVT1lLbjdfckdSaGYteEREN2J2VTBYYzdXZmFKWlhNejdlaS1CRjBnbFRDcWpBQ0drRTljaUE?oc=5",
-          "source": "gnews"
+          "title": "ma7mod7/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2 — Ultimate trainer for Resident Evil Requiem (RE9) – 42+ features including God Mode, Infinite Ammo, CP Editor, FOV fix, and more.",
+          "url": "https://github.com/ma7mod7/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2",
+          "source": "github"
         },
         {
-          "title": "AI Is Moving up the Software Lifecycle: From Code Review to PRD Governance",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1TeGlvLWJmcWpjdFpvQUV0ZWRMUnBycWZlYVFqQXVyb0tmdl9yUmxhTmZUb2dmU2VueHMweUdVT1lLbjdfckdSaGYteEREN2J2VTBYYzdXZmFKWlhNejdlaS1CRjBnbFRDcWpBQ0drRTljaUE?oc=5",
-          "source": "gnews"
+          "title": "we9lii/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2 — Ultimate trainer for Resident Evil Requiem (RE9) – 42+ features including God Mode, Infinite Ammo, CP Editor, FOV fix, and more.",
+          "url": "https://github.com/we9lii/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2",
+          "source": "github"
         },
         {
-          "title": "AI Is Moving up the Software Lifecycle: From Code Review to PRD Governance",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1TeGlvLWJmcWpjdFpvQUV0ZWRMUnBycWZlYVFqQXVyb0tmdl9yUmxhTmZUb2dmU2VueHMweUdVT1lLbjdfckdSaGYteEREN2J2VTBYYzdXZmFKWlhNejdlaS1CRjBnbFRDcWpBQ0drRTljaUE?oc=5",
-          "source": "gnews"
+          "title": "Danu-Nur/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2 — Ultimate trainer for Resident Evil Requiem (RE9) – 42+ features including God Mode, Infinite Ammo, CP Editor, FOV fix, and more.",
+          "url": "https://github.com/Danu-Nur/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2",
+          "source": "github"
         }
       ],
-      "id": "1505181f52eb",
-      "slug": "software-lifecycle",
+      "id": "f7a8bb889a1e",
+      "slug": "cp-editor",
       "opportunity": {
         "type": "niche-content",
         "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."

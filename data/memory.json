@@ -376,14 +376,6 @@
       "losses": 0,
       "niche": "software"
     },
-    "tools": {
-      "firstSeen": "2026-05-30T21:48:02.147Z",
-      "lastSeen": "2026-06-10T16:35:20.378Z",
-      "count": 3,
-      "wins": 0,
-      "losses": 0,
-      "niche": "ai"
-    },
     "apps": {
       "firstSeen": "2026-05-30T21:48:13.917Z",
       "lastSeen": "2026-06-09T17:52:41.312Z",
@@ -912,14 +904,6 @@
       "losses": 0,
       "niche": "software"
     },
-    "nicolas-sutrich": {
-      "firstSeen": "2026-06-05T15:52:03.262Z",
-      "lastSeen": "2026-06-10T16:34:39.297Z",
-      "count": 2,
-      "wins": 0,
-      "losses": 1,
-      "niche": "ai"
-    },
     "jalen-brunson": {
       "firstSeen": "2026-06-05T15:52:05.782Z",
       "lastSeen": "2026-06-06T04:51:42.955Z",
@@ -1408,22 +1392,6 @@
       "losses": 0,
       "niche": "ai"
     },
-    "aws-bedrock": {
-      "firstSeen": "2026-06-10T16:34:58.827Z",
-      "lastSeen": "2026-06-10T16:34:58.827Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "ai"
-    },
-    "nextgenapps": {
-      "firstSeen": "2026-06-10T16:35:39.820Z",
-      "lastSeen": "2026-06-10T16:35:39.820Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "ai"
-    },
     "keyboard": {
       "firstSeen": "2026-06-10T16:35:46.781Z",
       "lastSeen": "2026-06-20T17:16:06.565Z",
@@ -1458,8 +1426,8 @@
     },
     "prime-deals": {
       "firstSeen": "2026-06-10T18:24:55.961Z",
-      "lastSeen": "2026-06-10T18:24:55.961Z",
-      "count": 1,
+      "lastSeen": "2026-06-24T17:48:29.220Z",
+      "count": 2,
       "wins": 0,
       "losses": 0,
       "niche": "software"
@@ -1898,8 +1866,8 @@
     },
     "open": {
       "firstSeen": "2026-06-13T05:18:35.169Z",
-      "lastSeen": "2026-06-19T15:59:34.732Z",
-      "count": 3,
+      "lastSeen": "2026-06-24T17:48:06.547Z",
+      "count": 4,
       "wins": 1,
       "losses": 0,
       "niche": "ai"
@@ -2554,9 +2522,9 @@
     },
     "gear": {
       "firstSeen": "2026-06-16T22:46:11.000Z",
-      "lastSeen": "2026-06-24T15:32:20.906Z",
-      "count": 3,
-      "wins": 1,
+      "lastSeen": "2026-06-24T17:47:21.356Z",
+      "count": 4,
+      "wins": 2,
       "losses": 0,
       "niche": "gear"
     },
@@ -3866,9 +3834,9 @@
     },
     "dating-profile": {
       "firstSeen": "2026-06-24T15:32:14.857Z",
-      "lastSeen": "2026-06-24T15:32:14.857Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-24T17:47:21.353Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -3927,17 +3895,49 @@
       "wins": 0,
       "losses": 0,
       "niche": "ai"
+    },
+    "democratic-party": {
+      "firstSeen": "2026-06-24T17:47:27.255Z",
+      "lastSeen": "2026-06-24T17:47:27.255Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "hakeem-jeffries": {
+      "firstSeen": "2026-06-24T17:47:29.694Z",
+      "lastSeen": "2026-06-24T17:47:29.694Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "acquire-modular": {
+      "firstSeen": "2026-06-24T17:47:33.379Z",
+      "lastSeen": "2026-06-24T17:47:33.379Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "notebooklm-review": {
+      "firstSeen": "2026-06-24T17:47:43.510Z",
+      "lastSeen": "2026-06-24T17:47:43.510Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
     }
   },
   "niches": {
     "ai": {
-      "count": 764,
-      "wins": 217,
+      "count": 770,
+      "wins": 218,
       "losses": 32
     },
     "finance": {
-      "count": 64,
-      "wins": 10,
+      "count": 65,
+      "wins": 11,
       "losses": 0
     },
     "software": {
@@ -3946,7 +3946,7 @@
       "losses": 10
     },
     "gear": {
-      "count": 83,
+      "count": 84,
       "wins": 24,
       "losses": 0
     },

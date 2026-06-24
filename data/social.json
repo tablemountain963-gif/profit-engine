@@ -1,6 +1,27 @@
 {
   "items": [
     {
+      "slug": "prime-deals-2026-06-24",
+      "topic": "Prime Deals",
+      "date": "2026-06-24",
+      "niche": "gear",
+      "file": "social/prime-deals-2026-06-24.md"
+    },
+    {
+      "slug": "open-2026-06-24",
+      "topic": "Open",
+      "date": "2026-06-24",
+      "niche": "ai",
+      "file": "social/open-2026-06-24.md"
+    },
+    {
+      "slug": "notebooklm-review-2026-06-24",
+      "topic": "Notebooklm Review",
+      "date": "2026-06-24",
+      "niche": "ai",
+      "file": "social/notebooklm-review-2026-06-24.md"
+    },
+    {
       "slug": "single-prompt-2026-06-24",
       "topic": "Single Prompt",
       "date": "2026-06-24",
@@ -1378,27 +1399,6 @@
       "date": "2026-06-03",
       "niche": "software",
       "file": "social/production-2026-06-03.md"
-    },
-    {
-      "slug": "claude-2026-06-03",
-      "topic": "Claude",
-      "date": "2026-06-03",
-      "niche": "ai",
-      "file": "social/claude-2026-06-03.md"
-    },
-    {
-      "slug": "canva-pro-2026-06-03",
-      "topic": "Canva Pro",
-      "date": "2026-06-03",
-      "niche": "ai",
-      "file": "social/canva-pro-2026-06-03.md"
-    },
-    {
-      "slug": "vscode-bug-2026-06-03",
-      "topic": "Vscode Bug",
-      "date": "2026-06-03",
-      "niche": "software",
-      "file": "social/vscode-bug-2026-06-03.md"
     }
   ]
 }
