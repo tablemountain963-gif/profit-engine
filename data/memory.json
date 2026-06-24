@@ -538,10 +538,10 @@
     },
     "sam-altman": {
       "firstSeen": "2026-06-01T20:10:24.394Z",
-      "lastSeen": "2026-06-19T21:56:49.295Z",
-      "count": 3,
+      "lastSeen": "2026-06-24T22:04:57.103Z",
+      "count": 4,
       "wins": 1,
-      "losses": 0,
+      "losses": 1,
       "niche": "ai"
     },
     "against-software": {
@@ -1431,30 +1431,6 @@
       "wins": 0,
       "losses": 0,
       "niche": "software"
-    },
-    "googlegoogle-ai-overview": {
-      "firstSeen": "2026-06-10T18:25:57.837Z",
-      "lastSeen": "2026-06-10T18:25:57.837Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "ai"
-    },
-    "krakow-sleeper": {
-      "firstSeen": "2026-06-10T18:26:25.275Z",
-      "lastSeen": "2026-06-10T18:26:25.275Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "ai"
-    },
-    "foundation-models": {
-      "firstSeen": "2026-06-10T18:26:32.878Z",
-      "lastSeen": "2026-06-10T18:26:32.878Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "ai"
     },
     "gb-hyper": {
       "firstSeen": "2026-06-10T22:45:26.757Z",
@@ -3898,25 +3874,25 @@
     },
     "democratic-party": {
       "firstSeen": "2026-06-24T17:47:27.255Z",
-      "lastSeen": "2026-06-24T17:47:27.255Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-24T22:04:57.104Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
     "hakeem-jeffries": {
       "firstSeen": "2026-06-24T17:47:29.694Z",
-      "lastSeen": "2026-06-24T17:47:29.694Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-24T22:04:57.107Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
     "acquire-modular": {
       "firstSeen": "2026-06-24T17:47:33.379Z",
-      "lastSeen": "2026-06-24T17:47:33.379Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-24T22:04:57.108Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -3927,13 +3903,37 @@
       "wins": 0,
       "losses": 0,
       "niche": "ai"
+    },
+    "spain-details": {
+      "firstSeen": "2026-06-24T22:05:02.396Z",
+      "lastSeen": "2026-06-24T22:05:02.396Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "hilary-cass": {
+      "firstSeen": "2026-06-24T22:05:05.410Z",
+      "lastSeen": "2026-06-24T22:05:05.410Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "software"
+    },
+    "gemini": {
+      "firstSeen": "2026-06-24T22:05:08.394Z",
+      "lastSeen": "2026-06-24T22:05:08.394Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
     }
   },
   "niches": {
     "ai": {
-      "count": 770,
-      "wins": 218,
-      "losses": 32
+      "count": 776,
+      "wins": 221,
+      "losses": 33
     },
     "finance": {
       "count": 65,
@@ -3941,7 +3941,7 @@
       "losses": 0
     },
     "software": {
-      "count": 186,
+      "count": 187,
       "wins": 48,
       "losses": 10
     },
