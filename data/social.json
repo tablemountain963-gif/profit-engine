@@ -1,6 +1,27 @@
 {
   "items": [
     {
+      "slug": "single-prompt-2026-06-24",
+      "topic": "Single Prompt",
+      "date": "2026-06-24",
+      "niche": "ai",
+      "file": "social/single-prompt-2026-06-24.md"
+    },
+    {
+      "slug": "daron-acemog-2026-06-24",
+      "topic": "Daron Acemog",
+      "date": "2026-06-24",
+      "niche": "ai",
+      "file": "social/daron-acemog-2026-06-24.md"
+    },
+    {
+      "slug": "nobel-laureate-2026-06-24",
+      "topic": "Nobel Laureate",
+      "date": "2026-06-24",
+      "niche": "ai",
+      "file": "social/nobel-laureate-2026-06-24.md"
+    },
+    {
       "slug": "wireless-controller-2026-06-24",
       "topic": "Wireless Controller",
       "date": "2026-06-24",
@@ -1378,27 +1399,6 @@
       "date": "2026-06-03",
       "niche": "software",
       "file": "social/vscode-bug-2026-06-03.md"
-    },
-    {
-      "slug": "agentic-mfw-2026-06-03",
-      "topic": "Agentic Mfw",
-      "date": "2026-06-03",
-      "niche": "ai",
-      "file": "social/agentic-mfw-2026-06-03.md"
-    },
-    {
-      "slug": "desktop-2026-06-02",
-      "topic": "Desktop",
-      "date": "2026-06-02",
-      "niche": "ai",
-      "file": "social/desktop-2026-06-02.md"
-    },
-    {
-      "slug": "starting-immediately-2026-06-02",
-      "topic": "Starting Immediately",
-      "date": "2026-06-02",
-      "niche": "finance",
-      "file": "social/starting-immediately-2026-06-02.md"
     }
   ]
 }
