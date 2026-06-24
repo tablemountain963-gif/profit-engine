@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "slug": "mini-ebook-tech-deals-2026-06-24",
+      "title": "Tech Deals: A 30-Minute Field Guide",
+      "blurb": "Read it in 30 minutes. Apply it forever. Field guide to Tech Deals.",
+      "type": "mini-ebook",
+      "topic": "Tech Deals",
+      "niche": "gear",
+      "price": 14,
+      "generatedAt": "2026-06-24T05:00:35.117Z",
+      "files": [
+        "ebook.md",
+        "README.md",
+        "LICENSE.txt"
+      ]
+    },
+    {
+      "slug": "prompt-pack-bright-data-2026-06-24",
+      "title": "Bright Data Prompt Pack — 50 Battle-Tested Prompts",
+      "blurb": "50 proven prompts for Bright Data. Copy/paste ready. Tested across Claude, GPT, Gemini.",
+      "type": "prompt-pack",
+      "topic": "Bright Data",
+      "niche": "ai",
+      "price": 19,
+      "generatedAt": "2026-06-24T05:00:26.373Z",
+      "files": [
+        "prompts.md",
+        "README.md",
+        "LICENSE.txt"
+      ]
+    },
+    {
       "slug": "prompt-pack-ron-schwerin-2026-06-23",
       "title": "Ron Schwerin Prompt Pack — 50 Battle-Tested Prompts",
       "blurb": "50 proven prompts for Ron Schwerin. Copy/paste ready. Tested across Claude, GPT, Gemini.",

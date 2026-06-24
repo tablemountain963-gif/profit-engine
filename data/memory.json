@@ -696,14 +696,6 @@
       "losses": 0,
       "niche": "ai"
     },
-    "software-stocks": {
-      "firstSeen": "2026-06-02T22:53:45.557Z",
-      "lastSeen": "2026-06-09T22:17:28.330Z",
-      "count": 2,
-      "wins": 0,
-      "losses": 0,
-      "niche": "ai"
-    },
     "cbs-news": {
       "firstSeen": "2026-06-03T06:01:20.629Z",
       "lastSeen": "2026-06-03T17:59:00.771Z",
@@ -878,14 +870,6 @@
       "count": 2,
       "wins": 1,
       "losses": 0,
-      "niche": "ai"
-    },
-    "thoma-bravo": {
-      "firstSeen": "2026-06-04T22:15:39.256Z",
-      "lastSeen": "2026-06-09T22:16:56.611Z",
-      "count": 2,
-      "wins": 0,
-      "losses": 1,
       "niche": "ai"
     },
     "chris-onstad": {
@@ -1373,14 +1357,6 @@
       "lastSeen": "2026-06-19T21:58:14.236Z",
       "count": 3,
       "wins": 1,
-      "losses": 0,
-      "niche": "ai"
-    },
-    "hype-shifts": {
-      "firstSeen": "2026-06-09T22:17:40.124Z",
-      "lastSeen": "2026-06-09T22:17:40.124Z",
-      "count": 1,
-      "wins": 0,
       "losses": 0,
       "niche": "ai"
     },
@@ -2578,8 +2554,8 @@
     },
     "gym-girlies": {
       "firstSeen": "2026-06-16T22:46:07.693Z",
-      "lastSeen": "2026-06-18T16:29:01.213Z",
-      "count": 2,
+      "lastSeen": "2026-06-24T05:00:59.298Z",
+      "count": 3,
       "wins": 1,
       "losses": 0,
       "niche": "gear"
@@ -3642,9 +3618,9 @@
     },
     "mayor-mamdani": {
       "firstSeen": "2026-06-23T04:56:56.271Z",
-      "lastSeen": "2026-06-23T04:56:56.271Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-24T05:00:09.925Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -3794,17 +3770,17 @@
     },
     "claude-tag": {
       "firstSeen": "2026-06-23T22:06:44.301Z",
-      "lastSeen": "2026-06-23T22:06:44.301Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-24T05:00:09.926Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
     "futo-swipe": {
       "firstSeen": "2026-06-23T22:06:47.114Z",
-      "lastSeen": "2026-06-23T22:06:47.114Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-24T05:00:09.927Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -3839,16 +3815,72 @@
       "wins": 0,
       "losses": 0,
       "niche": "ai"
+    },
+    "lowest-prices": {
+      "firstSeen": "2026-06-24T05:00:16.465Z",
+      "lastSeen": "2026-06-24T05:00:16.465Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "gear"
+    },
+    "master-valorant": {
+      "firstSeen": "2026-06-24T05:00:21.816Z",
+      "lastSeen": "2026-06-24T05:00:21.816Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "general-agents": {
+      "firstSeen": "2026-06-24T05:00:25.942Z",
+      "lastSeen": "2026-06-24T05:00:25.942Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "bright-data": {
+      "firstSeen": "2026-06-24T05:00:35.116Z",
+      "lastSeen": "2026-06-24T05:00:35.116Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "tech-deals": {
+      "firstSeen": "2026-06-24T05:00:47.112Z",
+      "lastSeen": "2026-06-24T05:00:47.112Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "gear"
+    },
+    "editors-favorite": {
+      "firstSeen": "2026-06-24T05:01:07.367Z",
+      "lastSeen": "2026-06-24T05:01:07.367Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "wireless-controller": {
+      "firstSeen": "2026-06-24T05:01:14.148Z",
+      "lastSeen": "2026-06-24T05:01:14.148Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "finance"
     }
   },
   "niches": {
     "ai": {
-      "count": 747,
-      "wins": 212,
+      "count": 754,
+      "wins": 215,
       "losses": 32
     },
     "finance": {
-      "count": 62,
+      "count": 63,
       "wins": 10,
       "losses": 0
     },
@@ -3858,7 +3890,7 @@
       "losses": 10
     },
     "gear": {
-      "count": 79,
+      "count": 82,
       "wins": 23,
       "losses": 0
     },

@@ -1,6 +1,27 @@
 {
   "items": [
     {
+      "slug": "wireless-controller-2026-06-24",
+      "topic": "Wireless Controller",
+      "date": "2026-06-24",
+      "niche": "finance",
+      "file": "social/wireless-controller-2026-06-24.md"
+    },
+    {
+      "slug": "editors-favorite-2026-06-24",
+      "topic": "Editors' Favorite",
+      "date": "2026-06-24",
+      "niche": "ai",
+      "file": "social/editors-favorite-2026-06-24.md"
+    },
+    {
+      "slug": "gym-girlies-2026-06-24",
+      "topic": "Gym Girlies",
+      "date": "2026-06-24",
+      "niche": "gear",
+      "file": "social/gym-girlies-2026-06-24.md"
+    },
+    {
       "slug": "amazon-prime-2026-06-23",
       "topic": "Amazon Prime",
       "date": "2026-06-23",
@@ -1378,27 +1399,6 @@
       "date": "2026-06-02",
       "niche": "finance",
       "file": "social/starting-immediately-2026-06-02.md"
-    },
-    {
-      "slug": "software-2026-06-02",
-      "topic": "Software",
-      "date": "2026-06-02",
-      "niche": "software",
-      "file": "social/software-2026-06-02.md"
-    },
-    {
-      "slug": "bench-pro-2026-06-02",
-      "topic": "Bench Pro",
-      "date": "2026-06-02",
-      "niche": "ai",
-      "file": "social/bench-pro-2026-06-02.md"
-    },
-    {
-      "slug": "flash-scores-2026-06-02",
-      "topic": "Flash Scores",
-      "date": "2026-06-02",
-      "niche": "ai",
-      "file": "social/flash-scores-2026-06-02.md"
     }
   ]
 }
