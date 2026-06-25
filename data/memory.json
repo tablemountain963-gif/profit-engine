@@ -90,8 +90,8 @@
     },
     "fitness-gear": {
       "firstSeen": "2026-05-28T14:27:03.986Z",
-      "lastSeen": "2026-06-19T17:48:42.818Z",
-      "count": 4,
+      "lastSeen": "2026-06-25T05:02:59.497Z",
+      "count": 5,
       "wins": 0,
       "losses": 0,
       "niche": "gear"
@@ -450,8 +450,8 @@
     },
     "coding-tools": {
       "firstSeen": "2026-05-31T16:56:42.796Z",
-      "lastSeen": "2026-05-31T21:45:06.666Z",
-      "count": 2,
+      "lastSeen": "2026-06-25T05:02:17.781Z",
+      "count": 3,
       "wins": 1,
       "losses": 0,
       "niche": "ai"
@@ -1456,22 +1456,6 @@
       "losses": 0,
       "niche": "ai"
     },
-    "ai-exponential": {
-      "firstSeen": "2026-06-10T22:45:40.890Z",
-      "lastSeen": "2026-06-10T22:45:40.890Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "ai"
-    },
-    "fitness-deals": {
-      "firstSeen": "2026-06-10T22:45:48.114Z",
-      "lastSeen": "2026-06-10T22:45:48.114Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "software"
-    },
     "tool-track": {
       "firstSeen": "2026-06-11T05:26:06.454Z",
       "lastSeen": "2026-06-11T16:53:44.374Z",
@@ -2314,8 +2298,8 @@
     },
     "claude-ai": {
       "firstSeen": "2026-06-15T17:59:50.111Z",
-      "lastSeen": "2026-06-15T17:59:50.111Z",
-      "count": 1,
+      "lastSeen": "2026-06-25T05:01:59.386Z",
+      "count": 2,
       "wins": 0,
       "losses": 0,
       "niche": "ai"
@@ -2522,8 +2506,8 @@
     },
     "tool": {
       "firstSeen": "2026-06-16T22:47:14.396Z",
-      "lastSeen": "2026-06-16T22:47:14.396Z",
-      "count": 1,
+      "lastSeen": "2026-06-25T05:03:06.361Z",
+      "count": 2,
       "wins": 0,
       "losses": 0,
       "niche": "software"
@@ -3922,7 +3906,47 @@
     },
     "gemini": {
       "firstSeen": "2026-06-24T22:05:08.394Z",
-      "lastSeen": "2026-06-24T22:05:08.394Z",
+      "lastSeen": "2026-06-25T05:01:53.582Z",
+      "count": 2,
+      "wins": 1,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "google-oauth": {
+      "firstSeen": "2026-06-25T05:02:02.281Z",
+      "lastSeen": "2026-06-25T05:02:02.281Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "rag-database": {
+      "firstSeen": "2026-06-25T05:02:04.959Z",
+      "lastSeen": "2026-06-25T05:02:04.959Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "nvidia-bionemo": {
+      "firstSeen": "2026-06-25T05:02:13.277Z",
+      "lastSeen": "2026-06-25T05:02:13.277Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "professional-bip": {
+      "firstSeen": "2026-06-25T05:02:41.660Z",
+      "lastSeen": "2026-06-25T05:02:41.660Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "hd-wallet-toolkit": {
+      "firstSeen": "2026-06-25T05:03:23.242Z",
+      "lastSeen": "2026-06-25T05:03:23.242Z",
       "count": 1,
       "wins": 0,
       "losses": 0,
@@ -3931,8 +3955,8 @@
   },
   "niches": {
     "ai": {
-      "count": 776,
-      "wins": 221,
+      "count": 785,
+      "wins": 222,
       "losses": 33
     },
     "finance": {
@@ -3941,7 +3965,7 @@
       "losses": 0
     },
     "software": {
-      "count": 187,
+      "count": 188,
       "wins": 48,
       "losses": 10
     },

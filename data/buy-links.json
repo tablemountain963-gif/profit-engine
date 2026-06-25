@@ -1009,5 +1009,26 @@
     "price": 19,
     "productId": "prod_UlPctNOfuOgKAc",
     "cover": "/assets/pack-cover.png"
+  },
+  "prompt-pack-professional-bip-2026-06-25": {
+    "url": "https://buy.stripe.com/4gM8wO4SYfpYdzZ6ZSfjG2k",
+    "platform": "stripe",
+    "price": 19,
+    "productId": "prod_UlcgmS17h9iejJ",
+    "cover": "/assets/pack-cover.png"
+  },
+  "prompt-pack-coding-tools-2026-06-25": {
+    "url": "https://buy.stripe.com/eVqcN4clq3HganN2JCfjG2l",
+    "platform": "stripe",
+    "price": 19,
+    "productId": "prod_UlcgvQKo5ooG9x",
+    "cover": "/assets/pack-cover.png"
+  },
+  "prompt-pack-nvidia-bionemo-2026-06-25": {
+    "url": "https://buy.stripe.com/cNiaEWfxC1z80NdfwofjG2m",
+    "platform": "stripe",
+    "price": 19,
+    "productId": "prod_Ulcga0yhTpIWha",
+    "cover": "/assets/pack-cover.png"
   }
 }
