@@ -1,6 +1,20 @@
 {
   "items": [
     {
+      "slug": "east-palestine-2026-06-25",
+      "topic": "East Palestine",
+      "date": "2026-06-25",
+      "niche": "ai",
+      "file": "social/east-palestine-2026-06-25.md"
+    },
+    {
+      "slug": "norfolk-southern-2026-06-25",
+      "topic": "Norfolk Southern",
+      "date": "2026-06-25",
+      "niche": "ai",
+      "file": "social/norfolk-southern-2026-06-25.md"
+    },
+    {
       "slug": "modular-billion-2026-06-25",
       "topic": "Modular Billion",
       "date": "2026-06-25",
@@ -1385,20 +1399,6 @@
       "date": "2026-06-04",
       "niche": "ai",
       "file": "social/data-science-2026-06-04.md"
-    },
-    {
-      "slug": "launch-hn-2026-06-03",
-      "topic": "Launch Hn",
-      "date": "2026-06-03",
-      "niche": "ai",
-      "file": "social/launch-hn-2026-06-03.md"
-    },
-    {
-      "slug": "full-disclosure-2026-06-03",
-      "topic": "Full Disclosure",
-      "date": "2026-06-03",
-      "niche": "software",
-      "file": "social/full-disclosure-2026-06-03.md"
     }
   ]
 }

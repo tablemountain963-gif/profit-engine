@@ -1,16 +1,71 @@
 {
-  "generatedAt": "2026-06-25T15:38:34.176Z",
-  "sourceCount": 206,
+  "generatedAt": "2026-06-25T18:03:08.815Z",
+  "sourceCount": 205,
   "topItems": [
+    {
+      "title": "Apple raises prices of MacBooks, iPads",
+      "url": "https://www.reuters.com/world/asia-pacific/apple-raises-prices-macbooks-ipads-memory-costs-skyrocket-2026-06-25/",
+      "score": 11.49,
+      "niche": "ai",
+      "source": "hackernews",
+      "engagement": {
+        "score": 304,
+        "comments": 510
+      }
+    },
+    {
+      "title": "So to summarize, AI will cause personal computers to cost ten thousand dollars, all applications will forever be frozen to about 2025 design and implementation (because that’s what vibe coding outputs",
+      "url": "https://hachyderm.io/@thomasfuchs/116811265940958729",
+      "score": 10.48,
+      "niche": "ai",
+      "source": "mastodon",
+      "engagement": {
+        "score": 662,
+        "comments": 20
+      }
+    },
     {
       "title": "\"Beginning next week, most Australians get free electricity for three hours every afternoon. That's what happens when you build out wind, sun, and batteriesAs the cost of clean energy keeps plummeting",
       "url": "https://mstdn.ca/@c_9/116810759996942975",
-      "score": 9.66,
+      "score": 10.21,
       "niche": "software",
       "source": "mastodon",
       "engagement": {
-        "score": 417,
-        "comments": 16
+        "score": 601,
+        "comments": 18
+      }
+    },
+    {
+      "title": "Twenty five years ago today I started the #Safari and #WebKit projects at #Apple Computer.Which means Safari is now old enough to rent itself a car. But let's not speculate about my age. I'm still sad",
+      "url": "https://mastodon.social/@lisamelton/116811886049264408",
+      "score": 10.14,
+      "niche": "software",
+      "source": "mastodon",
+      "engagement": {
+        "score": 278,
+        "comments": 18
+      }
+    },
+    {
+      "title": "Are you annoyed with the anthropomorphizing language being used in the \"AI\" discourse, but not sure how to talk about this stuff without it? Nanna Inie and I have got you covered:https://buttondown.co",
+      "url": "https://dair-community.social/@emilymbender/116811128152569506",
+      "score": 9.62,
+      "niche": "ai",
+      "source": "mastodon",
+      "engagement": {
+        "score": 372,
+        "comments": 19
+      }
+    },
+    {
+      "title": "Huh! I was today years old when I realised that the mighty @libreoffice has a great tool for generating QR. In a world where online QR code generators tend to re route via themselves this is an awesom",
+      "url": "https://mastodon.social/@concretedog/116811167004066974",
+      "score": 9.13,
+      "niche": "software",
+      "source": "mastodon",
+      "engagement": {
+        "score": 643,
+        "comments": 21
       }
     },
     {
@@ -27,210 +82,89 @@
     {
       "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
       "url": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/",
-      "score": 8.8,
+      "score": 8.9,
       "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 640,
-        "comments": 1046
-      }
-    },
-    {
-      "title": "So to summarize, AI will cause personal computers to cost ten thousand dollars, all applications will forever be frozen to about 2025 design and implementation (because that’s what vibe coding outputs",
-      "url": "https://hachyderm.io/@thomasfuchs/116811265940958729",
-      "score": 8.77,
-      "niche": "ai",
-      "source": "mastodon",
-      "engagement": {
-        "score": 221,
-        "comments": 10
-      }
-    },
-    {
-      "title": "Are you annoyed with the anthropomorphizing language being used in the \"AI\" discourse, but not sure how to talk about this stuff without it? Nanna Inie and I have got you covered:https://buttondown.co",
-      "url": "https://dair-community.social/@emilymbender/116811128152569506",
-      "score": 8.73,
-      "niche": "ai",
-      "source": "mastodon",
-      "engagement": {
-        "score": 218,
-        "comments": 8
-      }
-    },
-    {
-      "title": "if your article is headed with an AI image then i'm not reading your article",
-      "url": "https://mastodon.gamedev.place/@eniko/116810394616127497",
-      "score": 8.58,
-      "niche": "ai",
-      "source": "mastodon",
-      "engagement": {
-        "score": 455,
-        "comments": 12
-      }
-    },
-    {
-      "title": "This is NOT ‘just a hot summer.’It is Big Oil and Gas’s business model made visible in sweat, burned crops and packed emergency rooms.Polluters KNEW, they LIED, they PROFITED.Now it is time to make th",
-      "url": "https://mastodon.social/@greenpeace/116810635383038017",
-      "score": 8.44,
-      "niche": "ai",
-      "source": "mastodon",
-      "engagement": {
-        "score": 187,
-        "comments": 4
-      }
-    },
-    {
-      "title": "A vulnerability in ffmpeg allows remote code execution via a crafted media file https://www.securityweek.com/ffmpeg-pixelsmash-flaw-allows-rce-on-video-players-media-servers-nas-appliances/This affect",
-      "url": "https://social.coop/@cwebber/116810673204863384",
-      "score": 8.34,
-      "niche": "software",
-      "source": "mastodon",
-      "engagement": {
-        "score": 352,
-        "comments": 18
-      }
-    },
-    {
-      "title": "OpenAI unveils its first custom chip, built by Broadcom",
-      "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
-      "score": 8.24,
-      "niche": "ai",
-      "source": "hackernews",
-      "engagement": {
-        "score": 769,
-        "comments": 441
-      }
-    },
-    {
-      "title": "Oligarchs should be happy we only want to tax them..",
-      "url": "https://mstdn.social/@stux/116810650163853829",
-      "score": 8.16,
-      "niche": "software",
-      "source": "mastodon",
-      "engagement": {
-        "score": 309,
-        "comments": 16
-      }
-    },
-    {
-      "title": "Huh! I was today years old when I realised that the mighty @libreoffice has a great tool for generating QR. In a world where online QR code generators tend to re route via themselves this is an awesom",
-      "url": "https://mastodon.social/@concretedog/116811167004066974",
-      "score": 7.98,
-      "niche": "software",
-      "source": "mastodon",
-      "engagement": {
-        "score": 270,
-        "comments": 15
+        "score": 707,
+        "comments": 1147
       }
     },
     {
       "title": "benlamiro/ShipGenAI — 🚀 50 production-ready Generative AI SaaS apps — brand them, ship them, keep 100% of the revenue. Stripe billing · Google OAuth · Vercel deploy · MIT licensed",
       "url": "https://github.com/benlamiro/ShipGenAI",
-      "score": 7.73,
+      "score": 7.81,
       "niche": "ai",
       "source": "github",
       "engagement": {
-        "score": 120,
+        "score": 126,
         "comments": 0
       }
     },
     {
-      "title": "Ford rehires 350 engineers after AI fails to preserve expertise or train juniors",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-25/ford-has-been-rehiring-quality-inspectors-after-ai-fell-short",
-      "score": 7.31,
+      "title": "Das Gutachten legt tausende von Belegen vor, dass die völkisch-nationalistische AfD den Tatbestand der Verfassungsfeindlichkeit erfüllt. Wir erwarten von CDU und CSU, dass die Antragsberechtigten die ",
+      "url": "https://mastodon.social/@rpolenz/116811669527782058",
+      "score": 7.62,
       "niche": "ai",
-      "source": "hackernews",
-      "engagement": {
-        "score": 92,
-        "comments": 50
-      }
-    },
-    {
-      "title": "Wikipedia Workers in Britain set global first by seeking union recognition",
-      "url": "https://utaw.tech/news/wikipedia-recognition",
-      "score": 6.92,
-      "niche": "ai",
-      "source": "hackernews",
-      "engagement": {
-        "score": 177,
-        "comments": 164
-      }
-    },
-    {
-      "title": "Remember when we used to be excited when Apple took the store offline for product changes?",
-      "url": "https://mastodon.social/@siracusa/116811192219497196",
-      "score": 6.91,
-      "niche": "software",
       "source": "mastodon",
       "engagement": {
-        "score": 64,
-        "comments": 7
+        "score": 95,
+        "comments": 11
+      }
+    },
+    {
+      "title": "Political bias in AI: Where the AI models stand",
+      "url": "https://trakkr.ai/bias",
+      "score": 7.37,
+      "niche": "ai",
+      "source": "hackernews",
+      "engagement": {
+        "score": 32,
+        "comments": 84
+      }
+    },
+    {
+      "title": "This is NOT ‘just a hot summer.’It is Big Oil and Gas’s business model made visible in sweat, burned crops and packed emergency rooms.Polluters KNEW, they LIED, they PROFITED.Now it is time to make th",
+      "url": "https://mastodon.social/@greenpeace/116810635383038017",
+      "score": 7.19,
+      "niche": "ai",
+      "source": "mastodon",
+      "engagement": {
+        "score": 264,
+        "comments": 6
       }
     },
     {
       "title": "benchflow-ai/awesome-evals — A curated, non-BS library of the best resources for building and evaluating AI agents — papers, blogs, talks, tools, benchmarks. Maintained by BenchFlow.",
       "url": "https://github.com/benchflow-ai/awesome-evals",
-      "score": 6.68,
+      "score": 6.73,
       "niche": "ai",
       "source": "github",
       "engagement": {
-        "score": 249,
-        "comments": 0
+        "score": 258,
+        "comments": 1
       }
     },
     {
-      "title": "Another heat wave cartoon from a couple of years ago.#heatwave #Europe #ClimateCrisis",
-      "url": "https://newsie.social/@royaards/116810751963902575",
-      "score": 6.21,
-      "niche": "software",
-      "source": "mastodon",
+      "title": "Here's How Many Shares of Energy Transfer You'd Need to Buy for $10,000 in Annual Passive Income",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMWtMYXhHSUZXT18xOFpyWk5UWmdrYnRVdTk3RnFyZTQ0NmhndWE4cW9NekxBT1lacHNFRVRJQTJlT0RGa1AtQWE5M0ZvUVdiTEpTUlVCXzAxZndGdklmcHpRaFptYWM0Nlh5NDBDX2NTTnJCYmRSSjJFR3JlZkdyb2dFY0x1UGU1aWVSdzZTZDd5aUxtVXFCeg?oc=5",
+      "score": 6.29,
+      "niche": "finance",
+      "source": "gnews",
       "engagement": {
-        "score": 164,
+        "score": 40,
         "comments": 0
       }
     },
     {
-      "title": "Medical students are using popular research tool to pump out misleading studies",
-      "url": "https://www.science.org/content/article/medical-students-are-using-popular-research-tool-pump-out-misleading-studies",
-      "score": 6.17,
-      "niche": "software",
+      "title": "Show HN: Bible as RAG Database",
+      "url": "https://www.crosscanon.com/",
+      "score": 6.03,
+      "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 117,
+        "score": 96,
         "comments": 65
-      }
-    },
-    {
-      "title": "RubyLLM: A Ruby framework for all major AI providers",
-      "url": "https://rubyllm.com/",
-      "score": 6.09,
-      "niche": "ai",
-      "source": "hackernews",
-      "engagement": {
-        "score": 425,
-        "comments": 74
-      }
-    },
-    {
-      "title": "BlackBerry Sees New AI Opportunities as Embedded-Software Business Accelerates",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWTdSaThjTS10TVFlTmIxUEh4bWduek8tQW50OXRmN0d2dF9Sb0RrMnNPNW5BSG1fTE81SjFvWkg3cEJQd0Z5dlA2aWxLZ2xGQVd2TmVSLXY4d0FBOGhCYnJ1V1BEQVR5Nkc3dEZISGpGemxfLTlzSlJ0S3A4c0dVTElpTDF0U2xLdGhoX1Q1MFBjdHBKWlJSa2I1Si1fck1GX1BlcXF4SzVzWkdXSWdmeWUybEJfdw?oc=5",
-      "score": 5.94,
-      "niche": "ai",
-      "source": "gnews",
-      "engagement": {
-        "score": 40,
-        "comments": 0
-      }
-    },
-    {
-      "title": "Treat Yourself With Irresistible Deals on the Best Tech Gadgets",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5Sb3h3TmNDOHJXcWwxZ3lmdE1rbllfS3Bkbkc5TzlJQW5pSjQ0ZXBVVFVBRGdpczEyVkxWYVRVaHZuVzc5b1M1S0psZmczQUNVRjRVZl9PUGtaLTRycEpMM01oNGtSWEUyYS1RN2dwdTFLamM?oc=5",
-      "score": 5.87,
-      "niche": "gear",
-      "source": "gnews",
-      "engagement": {
-        "score": 40,
-        "comments": 0
       }
     },
     {
@@ -245,10 +179,10 @@
       }
     },
     {
-      "title": "This High-Conviction Dividend Stock Just Triggered a Rare Buying Opportunity for Passive Income Investors",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOeFlPZTNjWW5QV1ljYXJtdWMzMWpma1hSV3kxZF9zVlN0RmdzSDl6UzBNZkNjX1doWUM3TENaRjU2V3dNamplaC1malExZWUtS1pEVXZXNnZ4SV9aTEJMU3Z0QWFib3Qya3N2MUNhTG0tYURDT01OSUhkOVF0WUUyUkVqSzRrSHQ0b0hPVzIwQ0tyRDN0azQ2cm5DWXBqUkVHSEE?oc=5",
-      "score": 5.56,
-      "niche": "finance",
+      "title": "Ninja's Prime Day deals drop popular kitchen gadgets (including the Creami) to the lowest prices of the year",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1BQU5jT3hZNXdtaHdNU21Xc3hzV09RVTNnaTl2ZXFuWjZBQ0xkeC1uWTNiTWJUcVVMa1Q0LTZSOUNqLWpmQVZtdzVuQURfQ2RkRWItbWdueTBnM1BMNVZweEdFTmhnQWJvUUczTkNJOGZhNE5WakZqUTJR?oc=5",
+      "score": 5.87,
+      "niche": "gear",
       "source": "gnews",
       "engagement": {
         "score": 40,
@@ -267,14 +201,80 @@
       }
     },
     {
-      "title": "GLM-5.2 is a step change for open agents",
-      "url": "https://www.interconnects.ai/p/glm-52-is-the-step-change-for-open",
-      "score": 5.45,
+      "title": "Reyzowter/Hello-Agents — 🤖 Building AI Agent Systems from Scratch — A comprehensive, practical tutorial from fundamentals to production-grade multi-agent applications",
+      "url": "https://github.com/Reyzowter/Hello-Agents",
+      "score": 5.29,
       "niche": "ai",
-      "source": "hackernews",
+      "source": "github",
       "engagement": {
-        "score": 322,
-        "comments": 184
+        "score": 131,
+        "comments": 0
+      }
+    },
+    {
+      "title": "Too cheap to be good? Think again.",
+      "url": "https://dev.to/pascal_cescato_692b7a8a20/too-cheap-to-be-good-think-again-4nj0",
+      "score": 5.25,
+      "niche": "ai",
+      "source": "devto",
+      "engagement": {
+        "score": 58,
+        "comments": 90
+      }
+    },
+    {
+      "title": "NVIDIA-BioNeMo/bionemo-agent-toolkit — Turn any agent into a life science expert with NVIDIA BioNeMo skills.",
+      "url": "https://github.com/NVIDIA-BioNeMo/bionemo-agent-toolkit",
+      "score": 5.25,
+      "niche": "ai",
+      "source": "github",
+      "engagement": {
+        "score": 126,
+        "comments": 0
+      }
+    },
+    {
+      "title": "AI shopping tools can help you find the best Amazon Prime Day deals",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUWdhU0dyXzZydTRNZlBYODdYdnVqUFdURHFPUGlUckRjM09ObGlUangzcDgwaDBxdFJsTVVjQk1peHducEpRMUJfWXlJdWVQV2pac0Z0a3lZOVk1OFNYODZPT09DdnY2ZmxkRGF3aEx6Nmc0MWphSmZwV2puYTY5b1hqT2dLX2VhaHZNOXRjOXZGSENXbi1CZVBNcV9YaThCUnNfbjdCX3RBUkJFZFdwUHpBc0lOTEJDWTJpSkQtTEJmenM?oc=5",
+      "score": 4.95,
+      "niche": "ai",
+      "source": "gnews",
+      "engagement": {
+        "score": 40,
+        "comments": 0
+      }
+    },
+    {
+      "title": "16 Best Generative AI Coding Tools in 2026 Compared: Features, and Best Fit",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNYXlURlpYWFBpQkk3dTZrU3JmRWVVNHBDYXFDVFVHQWxRbS1vak1qbWtEcE4xd1R1ckxjVDJ5SWZmWGVjdTI2MVZlak1WQVlLX0ZkSXFUaHhsVmotaF9CVkVnNUx2eDhjay1XOTFybHNIX1RhTVdDX0tLTDQ1Nmx4TlVyUjZwdw?oc=5",
+      "score": 4.95,
+      "niche": "ai",
+      "source": "gnews",
+      "engagement": {
+        "score": 40,
+        "comments": 0
+      }
+    },
+    {
+      "title": "goehou/tabbit-toy — 这是一个基于tabbit的研究包，可以转化成OAI格式出来，同时增加了会员认证功能和一键提取cookie的浏览器拓展，方便快速本地快速使用claude gpt等模型",
+      "url": "https://github.com/goehou/tabbit-toy",
+      "score": 4.76,
+      "niche": "ai",
+      "source": "github",
+      "engagement": {
+        "score": 301,
+        "comments": 0
+      }
+    },
+    {
+      "title": "Yu9191/wloc — Apple WLOC Location Spoofer",
+      "url": "https://github.com/Yu9191/wloc",
+      "score": 4.7,
+      "niche": "software",
+      "source": "github",
+      "engagement": {
+        "score": 267,
+        "comments": 2
       }
     }
   ],
@@ -282,7 +282,7 @@
     {
       "keyword": "passive income",
       "count": 53,
-      "score": 245.15927405996695,
+      "score": 251.6910486796819,
       "proper": true,
       "niches": [
         "finance",
@@ -290,13 +290,13 @@
       ],
       "examples": [
         {
-          "title": "This High-Conviction Dividend Stock Just Triggered a Rare Buying Opportunity for Passive Income Investors",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOeFlPZTNjWW5QV1ljYXJtdWMzMWpma1hSV3kxZF9zVlN0RmdzSDl6UzBNZkNjX1doWUM3TENaRjU2V3dNamplaC1malExZWUtS1pEVXZXNnZ4SV9aTEJMU3Z0QWFib3Qya3N2MUNhTG0tYURDT01OSUhkOVF0WUUyUkVqSzRrSHQ0b0hPVzIwQ0tyRDN0azQ2cm5DWXBqUkVHSEE?oc=5",
+          "title": "Here's How Many Shares of Energy Transfer You'd Need to Buy for $10,000 in Annual Passive Income",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMWtMYXhHSUZXT18xOFpyWk5UWmdrYnRVdTk3RnFyZTQ0NmhndWE4cW9NekxBT1lacHNFRVRJQTJlT0RGa1AtQWE5M0ZvUVdiTEpTUlVCXzAxZndGdklmcHpRaFptYWM0Nlh5NDBDX2NTTnJCYmRSSjJFR3JlZkdyb2dFY0x1UGU1aWVSdzZTZDd5aUxtVXFCeg?oc=5",
           "source": "gnews"
         },
         {
-          "title": "This High-Conviction Dividend Stock Just Triggered a Rare Buying Opportunity for Passive Income Investors",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOeFlPZTNjWW5QV1ljYXJtdWMzMWpma1hSV3kxZF9zVlN0RmdzSDl6UzBNZkNjX1doWUM3TENaRjU2V3dNamplaC1malExZWUtS1pEVXZXNnZ4SV9aTEJMU3Z0QWFib3Qya3N2MUNhTG0tYURDT01OSUhkOVF0WUUyUkVqSzRrSHQ0b0hPVzIwQ0tyRDN0azQ2cm5DWXBqUkVHSEE?oc=5",
+          "title": "Here's How Many Shares of Energy Transfer You'd Need to Buy for $10,000 in Annual Passive Income",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMWtMYXhHSUZXT18xOFpyWk5UWmdrYnRVdTk3RnFyZTQ0NmhndWE4cW9NekxBT1lacHNFRVRJQTJlT0RGa1AtQWE5M0ZvUVdiTEpTUlVCXzAxZndGdklmcHpRaFptYWM0Nlh5NDBDX2NTTnJCYmRSSjJFR3JlZkdyb2dFY0x1UGU1aWVSdzZTZDd5aUxtVXFCeg?oc=5",
           "source": "gnews"
         },
         {
@@ -321,7 +321,7 @@
     {
       "keyword": "google oauth",
       "count": 8,
-      "score": 92.77559153537595,
+      "score": 93.71183294626215,
       "proper": true,
       "niches": [
         "ai"
@@ -342,50 +342,150 @@
       "slug": "google-oauth"
     },
     {
-      "keyword": "wikipedia workers",
+      "keyword": "das gutachten",
       "count": 8,
-      "score": 83.07150387731865,
+      "score": 91.4943094426385,
       "proper": true,
       "niches": [
         "ai"
       ],
       "examples": [
         {
-          "title": "Wikipedia Workers in Britain set global first by seeking union recognition",
-          "url": "https://utaw.tech/news/wikipedia-recognition",
-          "source": "hackernews"
+          "title": "Das Gutachten legt tausende von Belegen vor, dass die völkisch-nationalistische AfD den Tatbestand der Verfassungsfeindlichkeit erfüllt. Wir erwarten von CDU und CSU, dass die Antragsberechtigten die ",
+          "url": "https://mastodon.social/@rpolenz/116811669527782058",
+          "source": "mastodon"
         },
         {
-          "title": "Wikipedia Workers in Britain set global first by seeking union recognition",
-          "url": "https://utaw.tech/news/wikipedia-recognition",
-          "source": "hackernews"
+          "title": "Das Gutachten legt tausende von Belegen vor, dass die völkisch-nationalistische AfD den Tatbestand der Verfassungsfeindlichkeit erfüllt. Wir erwarten von CDU und CSU, dass die Antragsberechtigten die ",
+          "url": "https://mastodon.social/@rpolenz/116811669527782058",
+          "source": "mastodon"
         }
       ],
-      "id": "8df1f9cbe575",
-      "slug": "wikipedia-workers"
+      "id": "504e58f81b16",
+      "slug": "das-gutachten"
+    },
+    {
+      "keyword": "claude code",
+      "count": 11,
+      "score": 86.57337946272025,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "samuto69/claude-ai-desktop-app — free claude code ai github desktop pc windows linux macOS proxy server anthropic free api local llm router nvidia nim openrouter deepseek ollama lm studio vscode exten",
+          "url": "https://github.com/samuto69/claude-ai-desktop-app",
+          "source": "github"
+        },
+        {
+          "title": "amplifthq/opentag — Open-source @agent mentions for Slack and GitHub. OpenTag routes tagged requests to Codex, Claude Code, then returns results in thread.",
+          "url": "https://github.com/amplifthq/opentag",
+          "source": "github"
+        },
+        {
+          "title": "amplifthq/opentag — Open-source @agent mentions for Slack and GitHub. OpenTag routes tagged requests to Codex, Claude Code, then returns results in thread.",
+          "url": "https://github.com/amplifthq/opentag",
+          "source": "github"
+        }
+      ],
+      "id": "a625159d18da",
+      "slug": "claude-code"
     },
     {
       "keyword": "apple",
-      "count": 10,
-      "score": 82.1200505904739,
+      "count": 5,
+      "score": 86.17315824033003,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "Apple raises prices of MacBooks, iPads",
+          "url": "https://www.reuters.com/world/asia-pacific/apple-raises-prices-macbooks-ipads-memory-costs-skyrocket-2026-06-25/",
+          "source": "hackernews"
+        }
+      ],
+      "id": "3a7bd3e2360a",
+      "slug": "apple"
+    },
+    {
+      "keyword": "webkit",
+      "count": 5,
+      "score": 76.07355636289333,
       "proper": true,
       "niches": [
         "software"
       ],
       "examples": [
         {
-          "title": "Remember when we used to be excited when Apple took the store offline for product changes?",
-          "url": "https://mastodon.social/@siracusa/116811192219497196",
+          "title": "Twenty five years ago today I started the #Safari and #WebKit projects at #Apple Computer.Which means Safari is now old enough to rent itself a car. But let's not speculate about my age. I'm still sad",
+          "url": "https://mastodon.social/@lisamelton/116811886049264408",
           "source": "mastodon"
+        }
+      ],
+      "id": "79941e86ee52",
+      "slug": "webkit"
+    },
+    {
+      "keyword": "apple computer.which",
+      "count": 5,
+      "score": 76.07355636289333,
+      "proper": true,
+      "niches": [
+        "software"
+      ],
+      "examples": [
+        {
+          "title": "Twenty five years ago today I started the #Safari and #WebKit projects at #Apple Computer.Which means Safari is now old enough to rent itself a car. But let's not speculate about my age. I'm still sad",
+          "url": "https://mastodon.social/@lisamelton/116811886049264408",
+          "source": "mastodon"
+        }
+      ],
+      "id": "bebe032050d2",
+      "slug": "apple-computerwhich"
+    },
+    {
+      "keyword": "rag database",
+      "count": 8,
+      "score": 72.37711433297272,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "Show HN: Bible as RAG Database",
+          "url": "https://www.crosscanon.com/",
+          "source": "hackernews"
         },
         {
-          "title": "Apple increases MacBook and iPad prices by 20%",
-          "url": "https://www.ft.com/content/0f067265-2baf-4b6e-8fb2-ed56daef6f3c",
+          "title": "Show HN: Bible as RAG Database",
+          "url": "https://www.crosscanon.com/",
           "source": "hackernews"
         }
       ],
-      "id": "3a7bd3e2360a",
-      "slug": "apple"
+      "id": "866d8ad396cb",
+      "slug": "rag-database"
+    },
+    {
+      "keyword": "claude ai",
+      "count": 5,
+      "score": 66.76628520781924,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
+          "url": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/",
+          "source": "hackernews"
+        }
+      ],
+      "id": "be3b5ed12e07",
+      "slug": "claude-ai"
     },
     {
       "keyword": "notebooklm review",
@@ -416,45 +516,48 @@
       "slug": "notebooklm-review"
     },
     {
-      "keyword": "claude ai",
-      "count": 5,
-      "score": 65.98348092849909,
+      "keyword": "tool",
+      "count": 10,
+      "score": 64.33425035359396,
       "proper": true,
       "niches": [
+        "software",
         "ai"
       ],
       "examples": [
         {
-          "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
-          "url": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/",
-          "source": "hackernews"
-        }
-      ],
-      "id": "be3b5ed12e07",
-      "slug": "claude-ai"
-    },
-    {
-      "keyword": "profited.now",
-      "count": 5,
-      "score": 63.26626756943874,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "This is NOT ‘just a hot summer.’It is Big Oil and Gas’s business model made visible in sweat, burned crops and packed emergency rooms.Polluters KNEW, they LIED, they PROFITED.Now it is time to make th",
-          "url": "https://mastodon.social/@greenpeace/116810635383038017",
+          "title": "Huh! I was today years old when I realised that the mighty @libreoffice has a great tool for generating QR. In a world where online QR code generators tend to re route via themselves this is an awesom",
+          "url": "https://mastodon.social/@concretedog/116811167004066974",
           "source": "mastodon"
+        },
+        {
+          "title": "The Exhaustion of Talking to a Tool",
+          "url": "https://ohadravid.github.io/posts/2026-06-tool-talking/",
+          "source": "lobsters"
+        },
+        {
+          "title": "The Exhaustion of Talking to a Tool",
+          "url": "https://ohadravid.github.io/posts/2026-06-tool-talking/",
+          "source": "lobsters"
+        },
+        {
+          "title": "NotebookLM Review: There's Nothing Quite Like This AI Tool",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOYm01UGxPYUNGQTV1WmZITk5sUDVfS3hPLVF1MHc2Y0piOGZmUVpYNU5hYWRSSWE1QlJDbWtPNHd3eWQweEIxdXFCdDlURFRtVlBqVGw4Qm5seUFxVjdYMWp3OXR2U1BUZV9MZGpYWFJGUVU1dTlpZ1dxNkRCTjVEcml2ZU5DNi10RFVXMHdqYkQyQ0N1MlE2UlBtTG5OSEYtdjkxWDZXbnFMcl9JOGFYbEdjbE1EUUlJLVpQT0ltZEk4ajJxYUE?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "NotebookLM Review: There's Nothing Quite Like This AI Tool",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOYm01UGxPYUNGQTV1WmZITk5sUDVfS3hPLVF1MHc2Y0piOGZmUVpYNU5hYWRSSWE1QlJDbWtPNHd3eWQweEIxdXFCdDlURFRtVlBqVGw4Qm5seUFxVjdYMWp3OXR2U1BUZV9MZGpYWFJGUVU1dTlpZ1dxNkRCTjVEcml2ZU5DNi10RFVXMHdqYkQyQ0N1MlE2UlBtTG5OSEYtdjkxWDZXbnFMcl9JOGFYbEdjbE1EUUlJLVpQT0ltZEk4ajJxYUE?oc=5",
+          "source": "gnews"
         }
       ],
-      "id": "7a36303e373e",
-      "slug": "profitednow"
+      "id": "7c9bbe5ec9b3",
+      "slug": "tool"
     },
     {
       "keyword": "nvidia bionemo",
       "count": 8,
-      "score": 62.59683789783286,
+      "score": 63.01312905007282,
       "proper": true,
       "niches": [
         "ai"
@@ -475,225 +578,112 @@
       "slug": "nvidia-bionemo"
     },
     {
-      "keyword": "software lifecycle",
-      "count": 11,
-      "score": 58.75694146801339,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "AI Is Moving up the Software Lifecycle: From Code Review to PRD Governance",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1TeGlvLWJmcWpjdFpvQUV0ZWRMUnBycWZlYVFqQXVyb0tmdl9yUmxhTmZUb2dmU2VueHMweUdVT1lLbjdfckdSaGYteEREN2J2VTBYYzdXZmFKWlhNejdlaS1CRjBnbFRDcWpBQ0drRTljaUE?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "AI Is Moving up the Software Lifecycle: From Code Review to PRD Governance",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1TeGlvLWJmcWpjdFpvQUV0ZWRMUnBycWZlYVFqQXVyb0tmdl9yUmxhTmZUb2dmU2VueHMweUdVT1lLbjdfckdSaGYteEREN2J2VTBYYzdXZmFKWlhNejdlaS1CRjBnbFRDcWpBQ0drRTljaUE?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "AI Is Moving up the Software Lifecycle: From Code Review to PRD Governance",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1TeGlvLWJmcWpjdFpvQUV0ZWRMUnBycWZlYVFqQXVyb0tmdl9yUmxhTmZUb2dmU2VueHMweUdVT1lLbjdfckdSaGYteEREN2J2VTBYYzdXZmFKWlhNejdlaS1CRjBnbFRDcWpBQ0drRTljaUE?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "1505181f52eb",
-      "slug": "software-lifecycle"
-    },
-    {
-      "keyword": "prd governance",
-      "count": 11,
-      "score": 58.75694146801339,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "AI Is Moving up the Software Lifecycle: From Code Review to PRD Governance",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1TeGlvLWJmcWpjdFpvQUV0ZWRMUnBycWZlYVFqQXVyb0tmdl9yUmxhTmZUb2dmU2VueHMweUdVT1lLbjdfckdSaGYteEREN2J2VTBYYzdXZmFKWlhNejdlaS1CRjBnbFRDcWpBQ0drRTljaUE?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "AI Is Moving up the Software Lifecycle: From Code Review to PRD Governance",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1TeGlvLWJmcWpjdFpvQUV0ZWRMUnBycWZlYVFqQXVyb0tmdl9yUmxhTmZUb2dmU2VueHMweUdVT1lLbjdfckdSaGYteEREN2J2VTBYYzdXZmFKWlhNejdlaS1CRjBnbFRDcWpBQ0drRTljaUE?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "AI Is Moving up the Software Lifecycle: From Code Review to PRD Governance",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1TeGlvLWJmcWpjdFpvQUV0ZWRMUnBycWZlYVFqQXVyb0tmdl9yUmxhTmZUb2dmU2VueHMweUdVT1lLbjdfckdSaGYteEREN2J2VTBYYzdXZmFKWlhNejdlaS1CRjBnbFRDcWpBQ0drRTljaUE?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "776482c357ca",
-      "slug": "prd-governance"
-    },
-    {
-      "keyword": "generative ai saas",
-      "count": 5,
-      "score": 57.98474470960998,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "benlamiro/ShipGenAI — 🚀 50 production-ready Generative AI SaaS apps — brand them, ship them, keep 100% of the revenue. Stripe billing · Google OAuth · Vercel deploy · MIT licensed",
-          "url": "https://github.com/benlamiro/ShipGenAI",
-          "source": "github"
-        }
-      ],
-      "id": "90205d0c722d",
-      "slug": "generative-ai-saas"
-    },
-    {
-      "keyword": "software",
-      "count": 14,
-      "score": 54.48271882187736,
+      "keyword": "prime deals",
+      "count": 15,
+      "score": 62.66632953670205,
       "proper": false,
       "niches": [
+        "gear",
         "ai",
-        "software"
+        "general"
       ],
       "examples": [
         {
-          "title": "Software Engineers Are Facing an Existential Crisis As They Drown In Horrendous AI Code",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQTlubzAwLU00b0dtTktjbXdHQ0lIY29kS1VHWE5IWlBMVkdQZElfb3k0Qk9LSExOb2ZaaWZjN2kxTWU4RTVrUWF0bjhUUkpmT2RDbVRtZVVneWhMSlR0d0ViQzhDZndlbDJoa3RTc3h1ZklqQ1BsdUJrRFpBZFBuOGJOTUJHa053dW1mcQ?oc=5",
+          "title": "Ninja's Prime Day deals drop popular kitchen gadgets (including the Creami) to the lowest prices of the year",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1BQU5jT3hZNXdtaHdNU21Xc3hzV09RVTNnaTl2ZXFuWjZBQ0xkeC1uWTNiTWJUcVVMa1Q0LTZSOUNqLWpmQVZtdzVuQURfQ2RkRWItbWdueTBnM1BMNVZweEdFTmhnQWJvUUczTkNJOGZhNE5WakZqUTJR?oc=5",
           "source": "gnews"
         },
         {
-          "title": "Software Engineers Are Facing an Existential Crisis As They Drown In Horrendous AI Code",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQTlubzAwLU00b0dtTktjbXdHQ0lIY29kS1VHWE5IWlBMVkdQZElfb3k0Qk9LSExOb2ZaaWZjN2kxTWU4RTVrUWF0bjhUUkpmT2RDbVRtZVVneWhMSlR0d0ViQzhDZndlbDJoa3RTc3h1ZklqQ1BsdUJrRFpBZFBuOGJOTUJHa053dW1mcQ?oc=5",
+          "title": "Ninja's Prime Day deals drop popular kitchen gadgets (including the Creami) to the lowest prices of the year",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1BQU5jT3hZNXdtaHdNU21Xc3hzV09RVTNnaTl2ZXFuWjZBQ0xkeC1uWTNiTWJUcVVMa1Q0LTZSOUNqLWpmQVZtdzVuQURfQ2RkRWItbWdueTBnM1BMNVZweEdFTmhnQWJvUUczTkNJOGZhNE5WakZqUTJR?oc=5",
           "source": "gnews"
         },
         {
-          "title": "Qualcomm to buy startup Modular for $4 billion in AI software push",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNUVdoZzZMMXY4aG1hb2ZsRnFKZF9oOU9CVl9QQ3hQa1cxQ1FpT3QxeXFnQy1PSWxvY0tBVmptczRQaW1zWlVrem96MVBFcDRaeE1zQy12eU96bXpMbG5yc2Q0WWdDcDBGbzg0dzFVdTNlVlMzTS1TenJJNE1qM0phMVRB?oc=5",
+          "title": "AI shopping tools can help you find the best Amazon Prime Day deals",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUWdhU0dyXzZydTRNZlBYODdYdnVqUFdURHFPUGlUckRjM09ObGlUangzcDgwaDBxdFJsTVVjQk1peHducEpRMUJfWXlJdWVQV2pac0Z0a3lZOVk1OFNYODZPT09DdnY2ZmxkRGF3aEx6Nmc0MWphSmZwV2puYTY5b1hqT2dLX2VhaHZNOXRjOXZGSENXbi1CZVBNcV9YaThCUnNfbjdCX3RBUkJFZFdwUHpBc0lOTEJDWTJpSkQtTEJmenM?oc=5",
           "source": "gnews"
         },
         {
-          "title": "Qualcomm to buy startup Modular for $4 billion in AI software push",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNUVdoZzZMMXY4aG1hb2ZsRnFKZF9oOU9CVl9QQ3hQa1cxQ1FpT3QxeXFnQy1PSWxvY0tBVmptczRQaW1zWlVrem96MVBFcDRaeE1zQy12eU96bXpMbG5yc2Q0WWdDcDBGbzg0dzFVdTNlVlMzTS1TenJJNE1qM0phMVRB?oc=5",
+          "title": "Here’s a bunch of Prime Day deals on keyboards, mice, and other peripherals we like",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOS0Z5T0xiVmtfLUp3bUFVdUkweWlxSm9TNDBRdm5mVkdIeUphRUxZaXZLYUJoaHlvRGhUWnQ1VGFXdFNBOEZLMGJVa1U4UGFYUU1xQ0ZXZDU2RVZlM3BxUVdYM1FSVEgxcXl5bWg0TVZFSDl4SjhaSFJTaGFNcHNBWi12enpaSi1TcFVSV0dmNjd2NUxiYnc?oc=5",
           "source": "gnews"
         },
         {
-          "title": "Infosys boss says vibe coding is no threat because there’s more to writing software than writing software",
-          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNYW43V0RDczlDeTdXVng2ODJEY2xzejUzdEZkbjNZdHVreGUxd3ZWTmZYS0x5cGtrTkRjMEZqaE5ZbHNIb2pjZlgtNmotOEtlQklaWnBIMFBoMnVuWjRJN2RLVEMwM2JaQjlwRjZESnp2WTNOSDhxSFBsclFzQlR0RkYzSkpkc2NLemhUQ0llMXlPYUNLLUowRDZON3V6YWc4RFFnVVd3NndObWMtRks3NTRoa2pIWEdxckFzSHV4ZV91WVphSmdQdTVRSEtIa0dVRTYzQThYcmRZWGtfVVNTbHRIRHNEOGFCME9SSTA5Wl8?oc=5",
+          "title": "Here’s a bunch of Prime Day deals on keyboards, mice, and other peripherals we like",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOS0Z5T0xiVmtfLUp3bUFVdUkweWlxSm9TNDBRdm5mVkdIeUphRUxZaXZLYUJoaHlvRGhUWnQ1VGFXdFNBOEZLMGJVa1U4UGFYUU1xQ0ZXZDU2RVZlM3BxUVdYM1FSVEgxcXl5bWg0TVZFSDl4SjhaSFJTaGFNcHNBWi12enpaSi1TcFVSV0dmNjd2NUxiYnc?oc=5",
           "source": "gnews"
         }
       ],
-      "id": "35390f5453e8",
-      "slug": "software"
+      "id": "71c75cdf6cf5",
+      "slug": "prime-deals"
     },
     {
-      "keyword": "knowledge graph",
-      "count": 8,
-      "score": 53.66250420605535,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "Simpl3x3/ESEILANE — High-performance Knowledge Graph engine for AI, LLMs, and GraphRAG — built for the next generation of intelligent applications.",
-          "url": "https://github.com/Simpl3x3/ESEILANE",
-          "source": "github"
-        },
-        {
-          "title": "Simpl3x3/ESEILANE — High-performance Knowledge Graph engine for AI, LLMs, and GraphRAG — built for the next generation of intelligent applications.",
-          "url": "https://github.com/Simpl3x3/ESEILANE",
-          "source": "github"
-        }
-      ],
-      "id": "0071e48609df",
-      "slug": "knowledge-graph"
-    },
-    {
-      "keyword": "tool",
-      "count": 11,
-      "score": 52.24786153623249,
-      "proper": true,
-      "niches": [
-        "software",
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "Huh! I was today years old when I realised that the mighty @libreoffice has a great tool for generating QR. In a world where online QR code generators tend to re route via themselves this is an awesom",
-          "url": "https://mastodon.social/@concretedog/116811167004066974",
-          "source": "mastodon"
-        },
-        {
-          "title": "Medical students are using popular research tool to pump out misleading studies",
-          "url": "https://www.science.org/content/article/medical-students-are-using-popular-research-tool-pump-out-misleading-studies",
-          "source": "hackernews"
-        },
-        {
-          "title": "NotebookLM Review: There's Nothing Quite Like This AI Tool",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOYm01UGxPYUNGQTV1WmZITk5sUDVfS3hPLVF1MHc2Y0piOGZmUVpYNU5hYWRSSWE1QlJDbWtPNHd3eWQweEIxdXFCdDlURFRtVlBqVGw4Qm5seUFxVjdYMWp3OXR2U1BUZV9MZGpYWFJGUVU1dTlpZ1dxNkRCTjVEcml2ZU5DNi10RFVXMHdqYkQyQ0N1MlE2UlBtTG5OSEYtdjkxWDZXbnFMcl9JOGFYbEdjbE1EUUlJLVpQT0ltZEk4ajJxYUE?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "NotebookLM Review: There's Nothing Quite Like This AI Tool",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOYm01UGxPYUNGQTV1WmZITk5sUDVfS3hPLVF1MHc2Y0piOGZmUVpYNU5hYWRSSWE1QlJDbWtPNHd3eWQweEIxdXFCdDlURFRtVlBqVGw4Qm5seUFxVjdYMWp3OXR2U1BUZV9MZGpYWFJGUVU1dTlpZ1dxNkRCTjVEcml2ZU5DNi10RFVXMHdqYkQyQ0N1MlE2UlBtTG5OSEYtdjkxWDZXbnFMcl9JOGFYbEdjbE1EUUlJLVpQT0ltZEk4ajJxYUE?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "The Exhaustion of Talking to a Tool",
-          "url": "https://ohadravid.github.io/posts/2026-06-tool-talking/",
-          "source": "lobsters"
-        }
-      ],
-      "id": "7c9bbe5ec9b3",
-      "slug": "tool"
-    },
-    {
-      "keyword": "passive",
-      "count": 16,
-      "score": 50.286600652521365,
+      "keyword": "income _blank",
+      "count": 18,
+      "score": 61.398681425320326,
       "proper": false,
       "niches": [
-        "finance",
+        "finance"
+      ],
+      "examples": [
+        {
+          "title": "Here's How Many Shares of Energy Transfer You'd Need to Buy for $10,000 in Annual Passive Income",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMWtMYXhHSUZXT18xOFpyWk5UWmdrYnRVdTk3RnFyZTQ0NmhndWE4cW9NekxBT1lacHNFRVRJQTJlT0RGa1AtQWE5M0ZvUVdiTEpTUlVCXzAxZndGdklmcHpRaFptYWM0Nlh5NDBDX2NTTnJCYmRSSjJFR3JlZkdyb2dFY0x1UGU1aWVSdzZTZDd5aUxtVXFCeg?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Chevron Has Surged Over 14% in 2026 and Still Yields 4.1%. Is It Still Worth Buying for Passive Income Now?",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdXdMY2ZYaFZRa1h4T3k0S19FRm1uUTg2ckc0cWtJV1FneU1oOHpIczBfUHlEd0NMMkN4aUVoSGRTX0kwbHVBWjhKTl9OYTZCd1FQclFtY2ZaN1BzMlA2WUlXdHZ3dGxnODljbEFtZUQwVDVBNW50aE9JalEwUHVYa3ZnRVNQaGhYVlhCVm5PSktycVRQZ3lrTw?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "SCHD vs. VYMI vs. JEPI: Which Is the Best Dividend ETF for Steady Passive Income?",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxON2hRM1g1TWNRLXo3Uk14WjJZN0Y5OTJZOUdxUndYaDVQSmVCNC02ZmZVLTZUUnZDUGtrdTRlcl9pemJZSzhTeks0QkNyeE94RXFTNEpiYmRSdjJ4NExwajdVZG9RcWt1TG5ZUWxDUjFGdExPZF9YdlRWYjIwazB0aXZIN1V1ckhWRHFpNFdUYjJ5ZXVVS2JqcHlXSDFEWm5XaXU5WExhSkd2NWM?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "How many Barclays shares do I need to buy to get a £1,000 passive income?",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNLXJELWRISFVpQTZ5akoxM19CX2VUQkpvRUlscFlMYnBFLTVJRkJ6VUszZzU2ZmJGS3piekFvcUdKQXpvaWlzdHphSmo5cU5NYTBpdDczVENOckpVQUlWcklFdi1Rd3dlb191QlkyY05BR0Y3YUh6OHZGYnktWWsxRg?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "All It Takes Is $10,000 Invested in Each of These 3 Dividend Stocks to Help Generate $1,239 in Yearly Passive Income",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNYmlwZ3Jqa2ZqcWlWOG9ULS1SeGVRRld6Sy1pWjloSVdJcUFHUWUxTTNUU3dQbGZ2ckd1VDNPV2FsMkZUd291aklRb1loYXRLVVpNUWJQM3lrNUpha1NEd2xPX0x4ZEl6TDVQU1VORHJQUnN4dFFtODQzN21HNmo5cGU5cGFJZ2pxQ2pDUDV3QTJCQQ?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "4bfe3085a346",
+      "slug": "income-_blank"
+    },
+    {
+      "keyword": "open",
+      "count": 10,
+      "score": 58.995504187316,
+      "proper": true,
+      "niches": [
         "ai"
       ],
       "examples": [
         {
-          "title": "This High-Conviction Dividend Stock Just Triggered a Rare Buying Opportunity for Passive Income Investors",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOeFlPZTNjWW5QV1ljYXJtdWMzMWpma1hSV3kxZF9zVlN0RmdzSDl6UzBNZkNjX1doWUM3TENaRjU2V3dNamplaC1malExZWUtS1pEVXZXNnZ4SV9aTEJMU3Z0QWFib3Qya3N2MUNhTG0tYURDT01OSUhkOVF0WUUyUkVqSzRrSHQ0b0hPVzIwQ0tyRDN0azQ2cm5DWXBqUkVHSEE?oc=5",
-          "source": "gnews"
+          "title": "lightbearco/tupper — Open-source sandboxes for AI agents — run untrusted, AI-generated code safely on your own machine.",
+          "url": "https://github.com/lightbearco/tupper",
+          "source": "github"
         },
         {
-          "title": "This High-Conviction Dividend Stock Just Triggered a Rare Buying Opportunity for Passive Income Investors",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOeFlPZTNjWW5QV1ljYXJtdWMzMWpma1hSV3kxZF9zVlN0RmdzSDl6UzBNZkNjX1doWUM3TENaRjU2V3dNamplaC1malExZWUtS1pEVXZXNnZ4SV9aTEJMU3Z0QWFib3Qya3N2MUNhTG0tYURDT01OSUhkOVF0WUUyUkVqSzRrSHQ0b0hPVzIwQ0tyRDN0azQ2cm5DWXBqUkVHSEE?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Chevron Has Surged Over 14% in 2026 and Still Yields 4.1%. Is It Still Worth Buying for Passive Income Now?",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdXdMY2ZYaFZRa1h4T3k0S19FRm1uUTg2ckc0cWtJV1FneU1oOHpIczBfUHlEd0NMMkN4aUVoSGRTX0kwbHVBWjhKTl9OYTZCd1FQclFtY2ZaN1BzMlA2WUlXdHZ3dGxnODljbEFtZUQwVDVBNW50aE9JalEwUHVYa3ZnRVNQaGhYVlhCVm5PSktycVRQZ3lrTw?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Chevron Has Surged Over 14% in 2026 and Still Yields 4.1%. Is It Still Worth Buying for Passive Income Now?",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdXdMY2ZYaFZRa1h4T3k0S19FRm1uUTg2ckc0cWtJV1FneU1oOHpIczBfUHlEd0NMMkN4aUVoSGRTX0kwbHVBWjhKTl9OYTZCd1FQclFtY2ZaN1BzMlA2WUlXdHZ3dGxnODljbEFtZUQwVDVBNW50aE9JalEwUHVYa3ZnRVNQaGhYVlhCVm5PSktycVRQZ3lrTw?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "3 Stocks to Buy for Decades of Passive Income While They're Down",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOY01lUk5YdkdWRXRzcXBibl9QWC0xM2J2Qm81Uk9uMElqRU1zSjZBbWIyWmw3NGc3VF9UaW9DUEd4ZmRYTEg3d0RvM0x2dVlvbjNvRC1oS01oTXFEeG5fN0ViMmpDWXQ5OGFVd05mcXZqRmozZDZVU2huTnN1bUR6WDFLempqOVprR004Z1RIYnRpZmN5b21raQ?oc=5",
-          "source": "gnews"
+          "title": "amplifthq/opentag — Open-source @agent mentions for Slack and GitHub. OpenTag routes tagged requests to Codex, Claude Code, then returns results in thread.",
+          "url": "https://github.com/amplifthq/opentag",
+          "source": "github"
         }
       ],
-      "id": "a7f1d7bc2124",
-      "slug": "passive"
+      "id": "2348f9987442",
+      "slug": "open"
     }
   ],
   "opportunities": [
     {
       "keyword": "passive income",
       "count": 53,
-      "score": 245.15927405996695,
+      "score": 251.6910486796819,
       "proper": true,
       "niches": [
         "finance",
@@ -701,13 +691,13 @@
       ],
       "examples": [
         {
-          "title": "This High-Conviction Dividend Stock Just Triggered a Rare Buying Opportunity for Passive Income Investors",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOeFlPZTNjWW5QV1ljYXJtdWMzMWpma1hSV3kxZF9zVlN0RmdzSDl6UzBNZkNjX1doWUM3TENaRjU2V3dNamplaC1malExZWUtS1pEVXZXNnZ4SV9aTEJMU3Z0QWFib3Qya3N2MUNhTG0tYURDT01OSUhkOVF0WUUyUkVqSzRrSHQ0b0hPVzIwQ0tyRDN0azQ2cm5DWXBqUkVHSEE?oc=5",
+          "title": "Here's How Many Shares of Energy Transfer You'd Need to Buy for $10,000 in Annual Passive Income",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMWtMYXhHSUZXT18xOFpyWk5UWmdrYnRVdTk3RnFyZTQ0NmhndWE4cW9NekxBT1lacHNFRVRJQTJlT0RGa1AtQWE5M0ZvUVdiTEpTUlVCXzAxZndGdklmcHpRaFptYWM0Nlh5NDBDX2NTTnJCYmRSSjJFR3JlZkdyb2dFY0x1UGU1aWVSdzZTZDd5aUxtVXFCeg?oc=5",
           "source": "gnews"
         },
         {
-          "title": "This High-Conviction Dividend Stock Just Triggered a Rare Buying Opportunity for Passive Income Investors",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOeFlPZTNjWW5QV1ljYXJtdWMzMWpma1hSV3kxZF9zVlN0RmdzSDl6UzBNZkNjX1doWUM3TENaRjU2V3dNamplaC1malExZWUtS1pEVXZXNnZ4SV9aTEJMU3Z0QWFib3Qya3N2MUNhTG0tYURDT01OSUhkOVF0WUUyUkVqSzRrSHQ0b0hPVzIwQ0tyRDN0azQ2cm5DWXBqUkVHSEE?oc=5",
+          "title": "Here's How Many Shares of Energy Transfer You'd Need to Buy for $10,000 in Annual Passive Income",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMWtMYXhHSUZXT18xOFpyWk5UWmdrYnRVdTk3RnFyZTQ0NmhndWE4cW9NekxBT1lacHNFRVRJQTJlT0RGa1AtQWE5M0ZvUVdiTEpTUlVCXzAxZndGdklmcHpRaFptYWM0Nlh5NDBDX2NTTnJCYmRSSjJFR3JlZkdyb2dFY0x1UGU1aWVSdzZTZDd5aUxtVXFCeg?oc=5",
           "source": "gnews"
         },
         {
@@ -736,7 +726,7 @@
     {
       "keyword": "google oauth",
       "count": 8,
-      "score": 92.77559153537595,
+      "score": 93.71183294626215,
       "proper": true,
       "niches": [
         "ai"
@@ -761,49 +751,76 @@
       }
     },
     {
-      "keyword": "wikipedia workers",
+      "keyword": "das gutachten",
       "count": 8,
-      "score": 83.07150387731865,
+      "score": 91.4943094426385,
       "proper": true,
       "niches": [
         "ai"
       ],
       "examples": [
         {
-          "title": "Wikipedia Workers in Britain set global first by seeking union recognition",
-          "url": "https://utaw.tech/news/wikipedia-recognition",
-          "source": "hackernews"
+          "title": "Das Gutachten legt tausende von Belegen vor, dass die völkisch-nationalistische AfD den Tatbestand der Verfassungsfeindlichkeit erfüllt. Wir erwarten von CDU und CSU, dass die Antragsberechtigten die ",
+          "url": "https://mastodon.social/@rpolenz/116811669527782058",
+          "source": "mastodon"
         },
         {
-          "title": "Wikipedia Workers in Britain set global first by seeking union recognition",
-          "url": "https://utaw.tech/news/wikipedia-recognition",
-          "source": "hackernews"
+          "title": "Das Gutachten legt tausende von Belegen vor, dass die völkisch-nationalistische AfD den Tatbestand der Verfassungsfeindlichkeit erfüllt. Wir erwarten von CDU und CSU, dass die Antragsberechtigten die ",
+          "url": "https://mastodon.social/@rpolenz/116811669527782058",
+          "source": "mastodon"
         }
       ],
-      "id": "8df1f9cbe575",
-      "slug": "wikipedia-workers",
+      "id": "504e58f81b16",
+      "slug": "das-gutachten",
       "opportunity": {
         "type": "niche-content",
         "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
       }
     },
     {
-      "keyword": "apple",
-      "count": 10,
-      "score": 82.1200505904739,
+      "keyword": "claude code",
+      "count": 11,
+      "score": 86.57337946272025,
       "proper": true,
       "niches": [
-        "software"
+        "ai"
       ],
       "examples": [
         {
-          "title": "Remember when we used to be excited when Apple took the store offline for product changes?",
-          "url": "https://mastodon.social/@siracusa/116811192219497196",
-          "source": "mastodon"
+          "title": "samuto69/claude-ai-desktop-app — free claude code ai github desktop pc windows linux macOS proxy server anthropic free api local llm router nvidia nim openrouter deepseek ollama lm studio vscode exten",
+          "url": "https://github.com/samuto69/claude-ai-desktop-app",
+          "source": "github"
         },
         {
-          "title": "Apple increases MacBook and iPad prices by 20%",
-          "url": "https://www.ft.com/content/0f067265-2baf-4b6e-8fb2-ed56daef6f3c",
+          "title": "amplifthq/opentag — Open-source @agent mentions for Slack and GitHub. OpenTag routes tagged requests to Codex, Claude Code, then returns results in thread.",
+          "url": "https://github.com/amplifthq/opentag",
+          "source": "github"
+        },
+        {
+          "title": "amplifthq/opentag — Open-source @agent mentions for Slack and GitHub. OpenTag routes tagged requests to Codex, Claude Code, then returns results in thread.",
+          "url": "https://github.com/amplifthq/opentag",
+          "source": "github"
+        }
+      ],
+      "id": "a625159d18da",
+      "slug": "claude-code",
+      "opportunity": {
+        "type": "tooling",
+        "recommended": "Build / list AI tools; monetize via affiliate links + lead magnet."
+      }
+    },
+    {
+      "keyword": "apple",
+      "count": 5,
+      "score": 86.17315824033003,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "Apple raises prices of MacBooks, iPads",
+          "url": "https://www.reuters.com/world/asia-pacific/apple-raises-prices-macbooks-ipads-memory-costs-skyrocket-2026-06-25/",
           "source": "hackernews"
         }
       ],
@@ -815,103 +832,71 @@
       }
     },
     {
-      "keyword": "notebooklm review",
-      "count": 11,
-      "score": 66.42089035514559,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "NotebookLM Review: There's Nothing Quite Like This AI Tool",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOYm01UGxPYUNGQTV1WmZITk5sUDVfS3hPLVF1MHc2Y0piOGZmUVpYNU5hYWRSSWE1QlJDbWtPNHd3eWQweEIxdXFCdDlURFRtVlBqVGw4Qm5seUFxVjdYMWp3OXR2U1BUZV9MZGpYWFJGUVU1dTlpZ1dxNkRCTjVEcml2ZU5DNi10RFVXMHdqYkQyQ0N1MlE2UlBtTG5OSEYtdjkxWDZXbnFMcl9JOGFYbEdjbE1EUUlJLVpQT0ltZEk4ajJxYUE?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "NotebookLM Review: There's Nothing Quite Like This AI Tool",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOYm01UGxPYUNGQTV1WmZITk5sUDVfS3hPLVF1MHc2Y0piOGZmUVpYNU5hYWRSSWE1QlJDbWtPNHd3eWQweEIxdXFCdDlURFRtVlBqVGw4Qm5seUFxVjdYMWp3OXR2U1BUZV9MZGpYWFJGUVU1dTlpZ1dxNkRCTjVEcml2ZU5DNi10RFVXMHdqYkQyQ0N1MlE2UlBtTG5OSEYtdjkxWDZXbnFMcl9JOGFYbEdjbE1EUUlJLVpQT0ltZEk4ajJxYUE?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "NotebookLM Review: There's Nothing Quite Like This AI Tool",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOYm01UGxPYUNGQTV1WmZITk5sUDVfS3hPLVF1MHc2Y0piOGZmUVpYNU5hYWRSSWE1QlJDbWtPNHd3eWQweEIxdXFCdDlURFRtVlBqVGw4Qm5seUFxVjdYMWp3OXR2U1BUZV9MZGpYWFJGUVU1dTlpZ1dxNkRCTjVEcml2ZU5DNi10RFVXMHdqYkQyQ0N1MlE2UlBtTG5OSEYtdjkxWDZXbnFMcl9JOGFYbEdjbE1EUUlJLVpQT0ltZEk4ajJxYUE?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "b6c13efd7d03",
-      "slug": "notebooklm-review",
-      "opportunity": {
-        "type": "affiliate",
-        "recommended": "Write SEO comparison/roundup article with affiliate links."
-      }
-    },
-    {
-      "keyword": "claude ai",
+      "keyword": "webkit",
       "count": 5,
-      "score": 65.98348092849909,
+      "score": 76.07355636289333,
       "proper": true,
       "niches": [
-        "ai"
+        "software"
       ],
       "examples": [
         {
-          "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
-          "url": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/",
-          "source": "hackernews"
-        }
-      ],
-      "id": "be3b5ed12e07",
-      "slug": "claude-ai",
-      "opportunity": {
-        "type": "tooling",
-        "recommended": "Build / list AI tools; monetize via affiliate links + lead magnet."
-      }
-    },
-    {
-      "keyword": "profited.now",
-      "count": 5,
-      "score": 63.26626756943874,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "This is NOT ‘just a hot summer.’It is Big Oil and Gas’s business model made visible in sweat, burned crops and packed emergency rooms.Polluters KNEW, they LIED, they PROFITED.Now it is time to make th",
-          "url": "https://mastodon.social/@greenpeace/116810635383038017",
+          "title": "Twenty five years ago today I started the #Safari and #WebKit projects at #Apple Computer.Which means Safari is now old enough to rent itself a car. But let's not speculate about my age. I'm still sad",
+          "url": "https://mastodon.social/@lisamelton/116811886049264408",
           "source": "mastodon"
         }
       ],
-      "id": "7a36303e373e",
-      "slug": "profitednow",
+      "id": "79941e86ee52",
+      "slug": "webkit",
       "opportunity": {
         "type": "affiliate",
         "recommended": "Write SEO comparison/roundup article with affiliate links."
       }
     },
     {
-      "keyword": "nvidia bionemo",
+      "keyword": "apple computer.which",
+      "count": 5,
+      "score": 76.07355636289333,
+      "proper": true,
+      "niches": [
+        "software"
+      ],
+      "examples": [
+        {
+          "title": "Twenty five years ago today I started the #Safari and #WebKit projects at #Apple Computer.Which means Safari is now old enough to rent itself a car. But let's not speculate about my age. I'm still sad",
+          "url": "https://mastodon.social/@lisamelton/116811886049264408",
+          "source": "mastodon"
+        }
+      ],
+      "id": "bebe032050d2",
+      "slug": "apple-computerwhich",
+      "opportunity": {
+        "type": "affiliate",
+        "recommended": "Write SEO comparison/roundup article with affiliate links."
+      }
+    },
+    {
+      "keyword": "rag database",
       "count": 8,
-      "score": 62.59683789783286,
+      "score": 72.37711433297272,
       "proper": true,
       "niches": [
         "ai"
       ],
       "examples": [
         {
-          "title": "NVIDIA-BioNeMo/bionemo-agent-toolkit — Turn any agent into a life science expert with NVIDIA BioNeMo skills.",
-          "url": "https://github.com/NVIDIA-BioNeMo/bionemo-agent-toolkit",
-          "source": "github"
+          "title": "Show HN: Bible as RAG Database",
+          "url": "https://www.crosscanon.com/",
+          "source": "hackernews"
         },
         {
-          "title": "NVIDIA-BioNeMo/bionemo-agent-toolkit — Turn any agent into a life science expert with NVIDIA BioNeMo skills.",
-          "url": "https://github.com/NVIDIA-BioNeMo/bionemo-agent-toolkit",
-          "source": "github"
+          "title": "Show HN: Bible as RAG Database",
+          "url": "https://www.crosscanon.com/",
+          "source": "hackernews"
         }
       ],
-      "id": "ad708eee98bc",
-      "slug": "nvidia-bionemo",
+      "id": "866d8ad396cb",
+      "slug": "rag-database",
       "opportunity": {
         "type": "niche-content",
         "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."

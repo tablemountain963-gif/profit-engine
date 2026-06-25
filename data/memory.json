@@ -848,14 +848,6 @@
       "losses": 0,
       "niche": "ai"
     },
-    "prompt": {
-      "firstSeen": "2026-06-04T18:09:44.518Z",
-      "lastSeen": "2026-06-11T16:54:57.256Z",
-      "count": 2,
-      "wins": 0,
-      "losses": 0,
-      "niche": "ai"
-    },
     "scottish-government": {
       "firstSeen": "2026-06-04T22:15:36.159Z",
       "lastSeen": "2026-06-08T22:18:02.216Z",
@@ -975,14 +967,6 @@
       "wins": 1,
       "losses": 0,
       "niche": "finance"
-    },
-    "van-gogh": {
-      "firstSeen": "2026-06-06T14:28:30.462Z",
-      "lastSeen": "2026-06-11T16:53:44.373Z",
-      "count": 2,
-      "wins": 0,
-      "losses": 1,
-      "niche": "ai"
     },
     "stack-overflow": {
       "firstSeen": "2026-06-06T14:28:33.346Z",
@@ -1495,38 +1479,6 @@
       "wins": 1,
       "losses": 0,
       "niche": "ai"
-    },
-    "hitpaw-father": {
-      "firstSeen": "2026-06-11T16:54:02.033Z",
-      "lastSeen": "2026-06-11T16:54:02.033Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "ai"
-    },
-    "samsung-electronics-officially-approves": {
-      "firstSeen": "2026-06-11T16:54:11.210Z",
-      "lastSeen": "2026-06-11T16:54:11.210Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "ai"
-    },
-    "gadgets-under": {
-      "firstSeen": "2026-06-11T16:54:36.436Z",
-      "lastSeen": "2026-06-11T16:54:36.436Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "gear"
-    },
-    "api-key": {
-      "firstSeen": "2026-06-11T16:55:19.879Z",
-      "lastSeen": "2026-06-11T16:55:19.879Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "software"
     },
     "thea-wins": {
       "firstSeen": "2026-06-11T18:40:48.870Z",
@@ -3082,10 +3034,10 @@
     },
     "rubio-approved-detenti": {
       "firstSeen": "2026-06-20T17:15:43.087Z",
-      "lastSeen": "2026-06-20T17:15:43.087Z",
-      "count": 1,
+      "lastSeen": "2026-06-25T18:03:07.893Z",
+      "count": 2,
       "wins": 0,
-      "losses": 0,
+      "losses": 1,
       "niche": "software"
     },
     "mouse": {
@@ -3938,9 +3890,9 @@
     },
     "wikipedia-workers": {
       "firstSeen": "2026-06-25T15:38:39.699Z",
-      "lastSeen": "2026-06-25T15:38:39.699Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-25T18:03:07.896Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -3954,9 +3906,9 @@
     },
     "generative-ai-saas": {
       "firstSeen": "2026-06-25T15:38:46.554Z",
-      "lastSeen": "2026-06-25T15:38:46.554Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-25T18:03:07.897Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -3975,12 +3927,52 @@
       "wins": 0,
       "losses": 0,
       "niche": "ai"
+    },
+    "das-gutachten": {
+      "firstSeen": "2026-06-25T18:03:13.021Z",
+      "lastSeen": "2026-06-25T18:03:13.021Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "webkit": {
+      "firstSeen": "2026-06-25T18:03:16.340Z",
+      "lastSeen": "2026-06-25T18:03:16.340Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "software"
+    },
+    "apple-computerwhich": {
+      "firstSeen": "2026-06-25T18:03:18.798Z",
+      "lastSeen": "2026-06-25T18:03:18.798Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "software"
+    },
+    "norfolk-southern": {
+      "firstSeen": "2026-06-25T18:03:26.724Z",
+      "lastSeen": "2026-06-25T18:03:26.724Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "east-palestine": {
+      "firstSeen": "2026-06-25T18:03:33.684Z",
+      "lastSeen": "2026-06-25T18:03:33.684Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
     }
   },
   "niches": {
     "ai": {
-      "count": 795,
-      "wins": 225,
+      "count": 800,
+      "wins": 227,
       "losses": 34
     },
     "finance": {
@@ -3989,9 +3981,9 @@
       "losses": 0
     },
     "software": {
-      "count": 189,
+      "count": 192,
       "wins": 48,
-      "losses": 11
+      "losses": 12
     },
     "gear": {
       "count": 84,

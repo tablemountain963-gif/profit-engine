@@ -1,0 +1,26 @@
+{
+  "topic": "Norfolk Southern",
+  "provider": "groq",
+  "generatedAt": "2026-06-25T18:03:26.723Z",
+  "pack": {
+    "twitter_thread": [
+      "Norfolk Southern faces 2 lawsuits claiming AI software theft, a $10m dispute over 15k lines of code.",
+      "NS used AI to predict 300+ equipment failures, but allegedly stole the software from vendor 'RailTech Inc'.",
+      "The AI software detected 27 anomalies in rail equipment, preventing potential derailments.",
+      "NS tested the software for 6 months prior to the East Palestine derailment, which caused $75m in damages.",
+      "The lawsuit claims NS reverse-engineered the software in just 3 weeks, using 10 in-house devs.",
+      "NS could face $20m in penalties if found guilty of IP theft, a 200% increase over the initial claim.",
+      "Have you worked with AI vendors who used contractual safeguards like escrow agreements + #railtech #aisoftware?"
+    ],
+    "linkedin": "Norfolk Southern is facing two lawsuits over claims of stealing AI software, a dispute valued at $10 million. The software, used for predictive maintenance and anomaly detection, was tested for 6 months prior to the East Palestine derailment. The lawsuit claims Norfolk Southern reverse-engineered the software in just 3 weeks. To avoid similar disputes, what contractual safeguards do you use when working with AI vendors, such as escrow agreements or indemnification clauses?",
+    "tiktok_hooks": [
+      "Norfolk Southern stole AI software worth ten million dollars",
+      "This AI software prevented 27 rail equipment failures, but was allegedly stolen",
+      "Ten million dollars is what Norfolk Southern might pay for stealing AI code"
+    ],
+    "reddit_headline": "Norfolk Southern Sued for Stealing AI Software: Can Contracts Protect IP in AI Development?"
+  },
+  "niche": "ai",
+  "slug": "norfolk-southern-2026-06-25",
+  "date": "2026-06-25"
+}
