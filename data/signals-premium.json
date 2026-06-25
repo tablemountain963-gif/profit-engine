@@ -1,71 +1,82 @@
 {
-  "generatedAt": "2026-06-25T18:03:08.815Z",
+  "generatedAt": "2026-06-25T22:14:24.970Z",
   "sourceCount": 205,
   "topItems": [
     {
+      "title": "Twenty five years ago today I started the #Safari and #WebKit projects at #Apple Computer.Which means Safari is now old enough to rent itself a car. But let's not speculate about my age. I'm still sad",
+      "url": "https://mastodon.social/@lisamelton/116811886049264408",
+      "score": 12.62,
+      "niche": "software",
+      "source": "mastodon",
+      "engagement": {
+        "score": 1157,
+        "comments": 62
+      }
+    },
+    {
+      "title": "5 free and open-source (FOSS) apps that are better than paid alternatives - How-To Geek",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPQlZzb08yUVpNY1FXdWJIbFpydldhdzFDNHhic291YjNCdU1VSzAtcXMwdVBxa0NuMGtuUlYtMWd0elB4eS1aVkctTnF2YmlJdFBRTTZheTBtOHlKWTFYRHRmNlFlalFHSnRlUV9lR0ZzdnQ1UHlMdGVUemhiNFk1VA?oc=5",
+      "score": 9.81,
+      "niche": "ai",
+      "source": "gnews",
+      "engagement": {
+        "score": 40,
+        "comments": 0
+      }
+    },
+    {
       "title": "Apple raises prices of MacBooks, iPads",
       "url": "https://www.reuters.com/world/asia-pacific/apple-raises-prices-macbooks-ipads-memory-costs-skyrocket-2026-06-25/",
-      "score": 11.49,
+      "score": 9.8,
       "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 304,
-        "comments": 510
+        "score": 543,
+        "comments": 796
+      }
+    },
+    {
+      "title": "germans: “uuuuuhhh, we don’t really have proper high-speed rail!!!!”also germans:",
+      "url": "https://shitpost.trade/@xyla/116812489279889393",
+      "score": 9.75,
+      "niche": "ai",
+      "source": "mastodon",
+      "engagement": {
+        "score": 435,
+        "comments": 5
+      }
+    },
+    {
+      "title": "NASA’s climate crisis visualization is a reality checkThe planet is getting hotter. Fast.https://svs.gsfc.nasa.gov/5190/",
+      "url": "https://mastodon.social/@flexghost/116812252222066882",
+      "score": 9.37,
+      "niche": "software",
+      "source": "mastodon",
+      "engagement": {
+        "score": 355,
+        "comments": 10
+      }
+    },
+    {
+      "title": "Two Minnesota solar farms swapped the gravel under their panels for native prairie and wildflowers. Five years later the native bees had multiplied twentyfold and were crossing the fence to pollinate ",
+      "url": "https://infosec.exchange/@bielsubob/116812012039899537",
+      "score": 9.08,
+      "niche": "ai",
+      "source": "mastodon",
+      "engagement": {
+        "score": 284,
+        "comments": 4
       }
     },
     {
       "title": "So to summarize, AI will cause personal computers to cost ten thousand dollars, all applications will forever be frozen to about 2025 design and implementation (because that’s what vibe coding outputs",
       "url": "https://hachyderm.io/@thomasfuchs/116811265940958729",
-      "score": 10.48,
+      "score": 9.01,
       "niche": "ai",
       "source": "mastodon",
       "engagement": {
-        "score": 662,
-        "comments": 20
-      }
-    },
-    {
-      "title": "\"Beginning next week, most Australians get free electricity for three hours every afternoon. That's what happens when you build out wind, sun, and batteriesAs the cost of clean energy keeps plummeting",
-      "url": "https://mstdn.ca/@c_9/116810759996942975",
-      "score": 10.21,
-      "niche": "software",
-      "source": "mastodon",
-      "engagement": {
-        "score": 601,
-        "comments": 18
-      }
-    },
-    {
-      "title": "Twenty five years ago today I started the #Safari and #WebKit projects at #Apple Computer.Which means Safari is now old enough to rent itself a car. But let's not speculate about my age. I'm still sad",
-      "url": "https://mastodon.social/@lisamelton/116811886049264408",
-      "score": 10.14,
-      "niche": "software",
-      "source": "mastodon",
-      "engagement": {
-        "score": 278,
-        "comments": 18
-      }
-    },
-    {
-      "title": "Are you annoyed with the anthropomorphizing language being used in the \"AI\" discourse, but not sure how to talk about this stuff without it? Nanna Inie and I have got you covered:https://buttondown.co",
-      "url": "https://dair-community.social/@emilymbender/116811128152569506",
-      "score": 9.62,
-      "niche": "ai",
-      "source": "mastodon",
-      "engagement": {
-        "score": 372,
-        "comments": 19
-      }
-    },
-    {
-      "title": "Huh! I was today years old when I realised that the mighty @libreoffice has a great tool for generating QR. In a world where online QR code generators tend to re route via themselves this is an awesom",
-      "url": "https://mastodon.social/@concretedog/116811167004066974",
-      "score": 9.13,
-      "niche": "software",
-      "source": "mastodon",
-      "engagement": {
-        "score": 643,
-        "comments": 21
+        "score": 1084,
+        "comments": 33
       }
     },
     {
@@ -80,76 +91,109 @@
       }
     },
     {
-      "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
-      "url": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/",
-      "score": 8.9,
+      "title": "I want Enron-level congressional hearings when the AI industry collapses.I want everyone to know the names of the guys who stole the future from millions of people.",
+      "url": "https://xoxo.zone/@Ashedryden/116811845592518805",
+      "score": 8.83,
       "niche": "ai",
-      "source": "hackernews",
+      "source": "mastodon",
       "engagement": {
-        "score": 707,
-        "comments": 1147
+        "score": 549,
+        "comments": 13
       }
     },
     {
-      "title": "benlamiro/ShipGenAI — 🚀 50 production-ready Generative AI SaaS apps — brand them, ship them, keep 100% of the revenue. Stripe billing · Google OAuth · Vercel deploy · MIT licensed",
-      "url": "https://github.com/benlamiro/ShipGenAI",
-      "score": 7.81,
+      "title": "aleishawei1983/Seed-Generator — Professional BIP-39 Seed & HD Wallet Toolkit with 12–24 word mnemonics, checksum validation, BIP-44/49/84 derivation, and multi-chain support (BTC, ETH, SOL, LTC, DOGE,",
+      "url": "https://github.com/aleishawei1983/Seed-Generator",
+      "score": 8.56,
       "niche": "ai",
       "source": "github",
       "engagement": {
-        "score": 126,
+        "score": 201,
         "comments": 0
       }
     },
     {
-      "title": "Das Gutachten legt tausende von Belegen vor, dass die völkisch-nationalistische AfD den Tatbestand der Verfassungsfeindlichkeit erfüllt. Wir erwarten von CDU und CSU, dass die Antragsberechtigten die ",
-      "url": "https://mastodon.social/@rpolenz/116811669527782058",
-      "score": 7.62,
+      "title": "Dating is always a fraught issue for dragons. There is, of course, the question of hoard compatibility, but even that takes second place if both have a princess. \"I do hope they get along,\" one dragon",
+      "url": "https://mastodon.art/@MicroSFF/116812204377643340",
+      "score": 8.07,
       "niche": "ai",
       "source": "mastodon",
       "engagement": {
-        "score": 95,
-        "comments": 11
+        "score": 325,
+        "comments": 3
+      }
+    },
+    {
+      "title": "Huh! I was today years old when I realised that the mighty @libreoffice has a great tool for generating QR. In a world where online QR code generators tend to re route via themselves this is an awesom",
+      "url": "https://mastodon.social/@concretedog/116811167004066974",
+      "score": 7.91,
+      "niche": "software",
+      "source": "mastodon",
+      "engagement": {
+        "score": 1096,
+        "comments": 42
+      }
+    },
+    {
+      "title": "7 Best AI Writing Tools for Writers in 2026",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPcnhvcGdOMERRQy1LY3RPWDBMTHFHYzBQelpxRnQ0WklGMlJuWU1PWVVJTk15NTQxYk5OSDhDU0w3ZGhQZk9raXFocHNjalo0V1pUN1pvbExocl9zcEg3eDkwNE8zU2xGTXctcHJzMnZ2THh0VERkeUlfcmFmTDJvM0wwUWd4ckVpdUJBcjFod0w?oc=5",
+      "score": 7.48,
+      "niche": "ai",
+      "source": "gnews",
+      "engagement": {
+        "score": 40,
+        "comments": 0
+      }
+    },
+    {
+      "title": "RE: https://mastodon.social/@eff/116811658436523675Time to trot this cartoon out again.",
+      "url": "https://mastodon.social/@dgoldsmith/116812473236105184",
+      "score": 7.46,
+      "niche": "ai",
+      "source": "mastodon",
+      "engagement": {
+        "score": 210,
+        "comments": 2
+      }
+    },
+    {
+      "title": "Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion",
+      "url": "https://github.com/inkeep/open-knowledge",
+      "score": 7.13,
+      "niche": "ai",
+      "source": "hackernews",
+      "engagement": {
+        "score": 136,
+        "comments": 64
       }
     },
     {
       "title": "Political bias in AI: Where the AI models stand",
       "url": "https://trakkr.ai/bias",
-      "score": 7.37,
+      "score": 6.79,
       "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 32,
-        "comments": 84
-      }
-    },
-    {
-      "title": "This is NOT ‘just a hot summer.’It is Big Oil and Gas’s business model made visible in sweat, burned crops and packed emergency rooms.Polluters KNEW, they LIED, they PROFITED.Now it is time to make th",
-      "url": "https://mastodon.social/@greenpeace/116810635383038017",
-      "score": 7.19,
-      "niche": "ai",
-      "source": "mastodon",
-      "engagement": {
-        "score": 264,
-        "comments": 6
+        "score": 86,
+        "comments": 182
       }
     },
     {
       "title": "benchflow-ai/awesome-evals — A curated, non-BS library of the best resources for building and evaluating AI agents — papers, blogs, talks, tools, benchmarks. Maintained by BenchFlow.",
       "url": "https://github.com/benchflow-ai/awesome-evals",
-      "score": 6.73,
+      "score": 6.78,
       "niche": "ai",
       "source": "github",
       "engagement": {
-        "score": 258,
+        "score": 270,
         "comments": 1
       }
     },
     {
-      "title": "Here's How Many Shares of Energy Transfer You'd Need to Buy for $10,000 in Annual Passive Income",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMWtMYXhHSUZXT18xOFpyWk5UWmdrYnRVdTk3RnFyZTQ0NmhndWE4cW9NekxBT1lacHNFRVRJQTJlT0RGa1AtQWE5M0ZvUVdiTEpTUlVCXzAxZndGdklmcHpRaFptYWM0Nlh5NDBDX2NTTnJCYmRSSjJFR3JlZkdyb2dFY0x1UGU1aWVSdzZTZDd5aUxtVXFCeg?oc=5",
-      "score": 6.29,
-      "niche": "finance",
+      "title": "How To Use ChatGPT To Launch A Teen Side Hustle This Summer",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQeHBzUFY3LU1uVDRadUh2TzlYTk9hM3RfdDVuZ1h6V1Q4MnVtb3pYSzV0OGNhMUZsSnZGZUpIM1JXYnZFSWRHMVA4dDhBZVJoTFh0M3ZDX1Q3NlBsOE1pcGhtTnZBRjJVQXNYMXh5TTN6eEdlZGtZUjFUck9YMzJqRWN4SEVSQ2dkM1JEX0ZBbUdhazlzRVV1R0k2UWE2ZGJRM0htMnFaLU5OY1NwSzcyZlpRSms?oc=5",
+      "score": 6.71,
+      "niche": "ai",
       "source": "gnews",
       "engagement": {
         "score": 40,
@@ -157,21 +201,65 @@
       }
     },
     {
-      "title": "Show HN: Bible as RAG Database",
-      "url": "https://www.crosscanon.com/",
-      "score": 6.03,
+      "title": "Look Past the AI Hype: The Cold, Hard Financial Metric Telling You Exactly Which Enterprise Software Giant to Buy Right Now",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPQnQtMzFmYTFzZ0ZNVnIyaFkzQURBTnNWWnUwRFFLdlJEMmdDbVR2RUpzOGoyNjR1UllTV1hpaWJMWlB6eHpDaEQzeG5pVldVSkM4YVI2UHoxdmVjMFNjX0lYRUNFTWxQYkMybzlESU1DbEJ1Yl9aalBJaUZmLXROTnM5Y3N4OXg5REZqNmtmZFUwdV9PMmNKdmpvUjZNWTFBVTBIMmlJX2ZlN190TE9tcHdwT2ViWHpXNjBlQkhRQWRHZUZTUWpiTFhEeVVMc040RmtwM3hSZHhRSThfZ3VtN295dHJ0MmNwXzhNWE1wSy1sWi1sZHlLVQ?oc=5",
+      "score": 6.71,
+      "niche": "ai",
+      "source": "gnews",
+      "engagement": {
+        "score": 40,
+        "comments": 0
+      }
+    },
+    {
+      "title": "I’m A Certified Personal Trainer — Here’s The Best Fitness Gear To Buy On Prime Day",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPM2JfNDFqdThObG9aem4zdFZuYTRNZk80VVJRVWg1WVAzSDlYUFNVajZLcWtJMHI0U1FhazhfdEN5aGlVN2R1djAtTHpjZ1BiemZYR1V6ZXFYb0VISmUzRW8xN0tFYU9GRFhzdW83R241NHRPdTFHelVCNHBBOEp0OHVtQ19fV1dMQW1BaGpnQ3pkb2NuVDE0d3J1SVZKcy04dC1QZWx3NTFuVld60gGyAUFVX3lxTE9RQy0wcVFpNW4yRHN4ZWc2aHVWOW5aRktzWGx4Nmx1emZwenV4THNjMEZ0T0MzQkdkZV9INmx2dldyZlB3aEZKRDFGcGxEM1g0dnc2MC01TFZhalRmcW1yTXJXdkxFTXJwbmVPVWpfakxhLW0zM0FmVnRNNnlubXh6Y1dwRUppZnhTUVliQktsQkJZNDhaY183ZjBXdXltVDJoYUc3MzJ5MUpIQmU4YjVYWkE?oc=5",
+      "score": 5.99,
+      "niche": "ai",
+      "source": "gnews",
+      "engagement": {
+        "score": 40,
+        "comments": 0
+      }
+    },
+    {
+      "title": "FAA Taps Air Space Intelligence for AI-Enabled ATC Software",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSnNKWWFRWEswNUVMLU1MeU5MZGNqWXlmRUVvSEN6UmVqT3dtTmFDS01jNTJGLUM4ME91V3VRUmg3UktsRmtBU1J4SklfdndGY0RVY284OTMxWmhpTXl2Y2pORVNMb1B4ckRvYVpmZzNlREthLUFGR3JwQmxIQ3dGWXppVm1sVFkwbHFISEVLSEVMbWs3ckZuOGJn?oc=5",
+      "score": 5.94,
+      "niche": "ai",
+      "source": "gnews",
+      "engagement": {
+        "score": 40,
+        "comments": 0
+      }
+    },
+    {
+      "title": "benlamiro/ShipGenAI — 🚀 50 production-ready Generative AI SaaS apps — brand them, ship them, keep 100% of the revenue. Stripe billing · Google OAuth · Vercel deploy · MIT licensed",
+      "url": "https://github.com/benlamiro/ShipGenAI",
+      "score": 5.85,
+      "niche": "ai",
+      "source": "github",
+      "engagement": {
+        "score": 125,
+        "comments": 0
+      }
+    },
+    {
+      "title": "OpenAI Leans Toward Waiting Until Next Year for IPO",
+      "url": "https://www.nytimes.com/2026/06/25/technology/openai-ipo-artificial-intelligence.html",
+      "score": 5.84,
       "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 96,
-        "comments": 65
+        "score": 32,
+        "comments": 17
       }
     },
     {
-      "title": "Logitech gaming gear from $19 for Prime Day: G Pro mice, keyboards, racing wheels, and more up to 55% off",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSmNsZzI4WHJ2bHVRdjRNTjV3Unc0RmFOVWozWTh0dnE0M1ljc2hUT1Nfa0gyRkJGNzF4RzdUZUR2Uk5laDJZeHlRdExfdVNVeHV3YmlsOXpjbzRHTWhZRndxa1llX1lvVzU4M1ZJWkRZQUFnWmFjc1ZvUzAtQ1BRaTNvMHNBVmJjM0VnSHhHVEpwQQ?oc=5",
-      "score": 5.87,
-      "niche": "gear",
+      "title": "Lightweight Email Apps",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1WblI2MS1qWHFQV0ZUYS1SUzhBRzRqOF9BMEV5WUhhUkQxSjZmWTlEcTZFNXUzZ3FJYkYtUjc2YjJHcFVWVnUzTkhraGh6cmU3OW1SUGFR0gFbQVVfeXFMUFg4YVhwT3Q1b24wcVEwU0FhSjU4R0hWSlYyc2hLX0p4UVhjY1BuU3ZYaTZYY1ZoNEtpRjg2aUh6dUZ4VUdOT243VzlaS0RPZ1dfbk9GVzEteVpUVQ?oc=5",
+      "score": 5.37,
+      "niche": "ai",
       "source": "gnews",
       "engagement": {
         "score": 40,
@@ -179,30 +267,8 @@
       }
     },
     {
-      "title": "Ninja's Prime Day deals drop popular kitchen gadgets (including the Creami) to the lowest prices of the year",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1BQU5jT3hZNXdtaHdNU21Xc3hzV09RVTNnaTl2ZXFuWjZBQ0xkeC1uWTNiTWJUcVVMa1Q0LTZSOUNqLWpmQVZtdzVuQURfQ2RkRWItbWdueTBnM1BMNVZweEdFTmhnQWJvUUczTkNJOGZhNE5WakZqUTJR?oc=5",
-      "score": 5.87,
-      "niche": "gear",
-      "source": "gnews",
-      "engagement": {
-        "score": 40,
-        "comments": 0
-      }
-    },
-    {
-      "title": "Chevron Has Surged Over 14% in 2026 and Still Yields 4.1%. Is It Still Worth Buying for Passive Income Now?",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdXdMY2ZYaFZRa1h4T3k0S19FRm1uUTg2ckc0cWtJV1FneU1oOHpIczBfUHlEd0NMMkN4aUVoSGRTX0kwbHVBWjhKTl9OYTZCd1FQclFtY2ZaN1BzMlA2WUlXdHZ3dGxnODljbEFtZUQwVDVBNW50aE9JalEwUHVYa3ZnRVNQaGhYVlhCVm5PSktycVRQZ3lrTw?oc=5",
-      "score": 5.56,
-      "niche": "finance",
-      "source": "gnews",
-      "engagement": {
-        "score": 40,
-        "comments": 0
-      }
-    },
-    {
-      "title": "Reyzowter/Hello-Agents — 🤖 Building AI Agent Systems from Scratch — A comprehensive, practical tutorial from fundamentals to production-grade multi-agent applications",
-      "url": "https://github.com/Reyzowter/Hello-Agents",
+      "title": "NVIDIA-BioNeMo/bionemo-agent-toolkit — Turn any agent into a life science expert with NVIDIA BioNeMo skills.",
+      "url": "https://github.com/NVIDIA-BioNeMo/bionemo-agent-toolkit",
       "score": 5.29,
       "niche": "ai",
       "source": "github",
@@ -210,118 +276,308 @@
         "score": 131,
         "comments": 0
       }
-    },
-    {
-      "title": "Too cheap to be good? Think again.",
-      "url": "https://dev.to/pascal_cescato_692b7a8a20/too-cheap-to-be-good-think-again-4nj0",
-      "score": 5.25,
-      "niche": "ai",
-      "source": "devto",
-      "engagement": {
-        "score": 58,
-        "comments": 90
-      }
-    },
-    {
-      "title": "NVIDIA-BioNeMo/bionemo-agent-toolkit — Turn any agent into a life science expert with NVIDIA BioNeMo skills.",
-      "url": "https://github.com/NVIDIA-BioNeMo/bionemo-agent-toolkit",
-      "score": 5.25,
-      "niche": "ai",
-      "source": "github",
-      "engagement": {
-        "score": 126,
-        "comments": 0
-      }
-    },
-    {
-      "title": "AI shopping tools can help you find the best Amazon Prime Day deals",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUWdhU0dyXzZydTRNZlBYODdYdnVqUFdURHFPUGlUckRjM09ObGlUangzcDgwaDBxdFJsTVVjQk1peHducEpRMUJfWXlJdWVQV2pac0Z0a3lZOVk1OFNYODZPT09DdnY2ZmxkRGF3aEx6Nmc0MWphSmZwV2puYTY5b1hqT2dLX2VhaHZNOXRjOXZGSENXbi1CZVBNcV9YaThCUnNfbjdCX3RBUkJFZFdwUHpBc0lOTEJDWTJpSkQtTEJmenM?oc=5",
-      "score": 4.95,
-      "niche": "ai",
-      "source": "gnews",
-      "engagement": {
-        "score": 40,
-        "comments": 0
-      }
-    },
-    {
-      "title": "16 Best Generative AI Coding Tools in 2026 Compared: Features, and Best Fit",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNYXlURlpYWFBpQkk3dTZrU3JmRWVVNHBDYXFDVFVHQWxRbS1vak1qbWtEcE4xd1R1ckxjVDJ5SWZmWGVjdTI2MVZlak1WQVlLX0ZkSXFUaHhsVmotaF9CVkVnNUx2eDhjay1XOTFybHNIX1RhTVdDX0tLTDQ1Nmx4TlVyUjZwdw?oc=5",
-      "score": 4.95,
-      "niche": "ai",
-      "source": "gnews",
-      "engagement": {
-        "score": 40,
-        "comments": 0
-      }
-    },
-    {
-      "title": "goehou/tabbit-toy — 这是一个基于tabbit的研究包，可以转化成OAI格式出来，同时增加了会员认证功能和一键提取cookie的浏览器拓展，方便快速本地快速使用claude gpt等模型",
-      "url": "https://github.com/goehou/tabbit-toy",
-      "score": 4.76,
-      "niche": "ai",
-      "source": "github",
-      "engagement": {
-        "score": 301,
-        "comments": 0
-      }
-    },
-    {
-      "title": "Yu9191/wloc — Apple WLOC Location Spoofer",
-      "url": "https://github.com/Yu9191/wloc",
-      "score": 4.7,
-      "niche": "software",
-      "source": "github",
-      "engagement": {
-        "score": 267,
-        "comments": 2
-      }
     }
   ],
   "topics": [
     {
-      "keyword": "passive income",
-      "count": 53,
-      "score": 251.6910486796819,
+      "keyword": "fitness gear",
+      "count": 26,
+      "score": 120.95878925398014,
       "proper": true,
       "niches": [
-        "finance",
+        "ai",
+        "gear"
+      ],
+      "examples": [
+        {
+          "title": "I’m A Certified Personal Trainer — Here’s The Best Fitness Gear To Buy On Prime Day",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPM2JfNDFqdThObG9aem4zdFZuYTRNZk80VVJRVWg1WVAzSDlYUFNVajZLcWtJMHI0U1FhazhfdEN5aGlVN2R1djAtTHpjZ1BiemZYR1V6ZXFYb0VISmUzRW8xN0tFYU9GRFhzdW83R241NHRPdTFHelVCNHBBOEp0OHVtQ19fV1dMQW1BaGpnQ3pkb2NuVDE0d3J1SVZKcy04dC1QZWx3NTFuVld60gGyAUFVX3lxTE9RQy0wcVFpNW4yRHN4ZWc2aHVWOW5aRktzWGx4Nmx1emZwenV4THNjMEZ0T0MzQkdkZV9INmx2dldyZlB3aEZKRDFGcGxEM1g0dnc2MC01TFZhalRmcW1yTXJXdkxFTXJwbmVPVWpfakxhLW0zM0FmVnRNNnlubXh6Y1dwRUppZnhTUVliQktsQkJZNDhaY183ZjBXdXltVDJoYUc3MzJ5MUpIQmU4YjVYWkE?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Fitness Gear Home Gym Manual The 35 Best Home Gym Equipment Gear, Tested By Us",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4xWWJEaURIa0FVUGdYbGFBQmttcFBjemxuaV83V0syblhTUlBiVm9TV3ZXSlQ1cEpaRV8xTHFsMzN6T2ZXaEpJOUp3TVh3V0xkSVY2d2c3MXdtUGJ6?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Fitness Gear Home Gym Manual The 35 Best Home Gym Equipment Gear, Tested By Us",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4xWWJEaURIa0FVUGdYbGFBQmttcFBjemxuaV83V0syblhTUlBiVm9TV3ZXSlQ1cEpaRV8xTHFsMzN6T2ZXaEpJOUp3TVh3V0xkSVY2d2c3MXdtUGJ6?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Attention, Gym Girlies: Our Favorite Fitness Gear Is up to 59% off This Week",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNU08wdUpoY1Excjd4MUVTQWRoMF8tNTEzcURfdlc3RFZXVHJsdmNJYmtlR3ROdnFKM0lhQi1OMFkxYzJVMFhncHdmb1o5ZFplcG1wN19fWGxZSndzRmpBd3dhT2hoaXNyNUhyN3IyLV9vU2tKQjhIUTl0eEhEWlcta1FqaFZlUzBiMXc?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Attention, Gym Girlies: Our Favorite Fitness Gear Is up to 59% off This Week",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNU08wdUpoY1Excjd4MUVTQWRoMF8tNTEzcURfdlc3RFZXVHJsdmNJYmtlR3ROdnFKM0lhQi1OMFkxYzJVMFhncHdmb1o5ZFplcG1wN19fWGxZSndzRmpBd3dhT2hoaXNyNUhyN3IyLV9vU2tKQjhIUTl0eEhEWlcta1FqaFZlUzBiMXc?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "a8b7e45842c3",
+      "slug": "fitness-gear"
+    },
+    {
+      "keyword": "apple",
+      "count": 10,
+      "score": 95.96754684925068,
+      "proper": true,
+      "niches": [
         "ai"
       ],
       "examples": [
         {
-          "title": "Here's How Many Shares of Energy Transfer You'd Need to Buy for $10,000 in Annual Passive Income",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMWtMYXhHSUZXT18xOFpyWk5UWmdrYnRVdTk3RnFyZTQ0NmhndWE4cW9NekxBT1lacHNFRVRJQTJlT0RGa1AtQWE5M0ZvUVdiTEpTUlVCXzAxZndGdklmcHpRaFptYWM0Nlh5NDBDX2NTTnJCYmRSSjJFR3JlZkdyb2dFY0x1UGU1aWVSdzZTZDd5aUxtVXFCeg?oc=5",
-          "source": "gnews"
+          "title": "Apple raises prices of MacBooks, iPads",
+          "url": "https://www.reuters.com/world/asia-pacific/apple-raises-prices-macbooks-ipads-memory-costs-skyrocket-2026-06-25/",
+          "source": "hackernews"
         },
         {
-          "title": "Here's How Many Shares of Energy Transfer You'd Need to Buy for $10,000 in Annual Passive Income",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMWtMYXhHSUZXT18xOFpyWk5UWmdrYnRVdTk3RnFyZTQ0NmhndWE4cW9NekxBT1lacHNFRVRJQTJlT0RGa1AtQWE5M0ZvUVdiTEpTUlVCXzAxZndGdklmcHpRaFptYWM0Nlh5NDBDX2NTTnJCYmRSSjJFR3JlZkdyb2dFY0x1UGU1aWVSdzZTZDd5aUxtVXFCeg?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Chevron Has Surged Over 14% in 2026 and Still Yields 4.1%. Is It Still Worth Buying for Passive Income Now?",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdXdMY2ZYaFZRa1h4T3k0S19FRm1uUTg2ckc0cWtJV1FneU1oOHpIczBfUHlEd0NMMkN4aUVoSGRTX0kwbHVBWjhKTl9OYTZCd1FQclFtY2ZaN1BzMlA2WUlXdHZ3dGxnODljbEFtZUQwVDVBNW50aE9JalEwUHVYa3ZnRVNQaGhYVlhCVm5PSktycVRQZ3lrTw?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Chevron Has Surged Over 14% in 2026 and Still Yields 4.1%. Is It Still Worth Buying for Passive Income Now?",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdXdMY2ZYaFZRa1h4T3k0S19FRm1uUTg2ckc0cWtJV1FneU1oOHpIczBfUHlEd0NMMkN4aUVoSGRTX0kwbHVBWjhKTl9OYTZCd1FQclFtY2ZaN1BzMlA2WUlXdHZ3dGxnODljbEFtZUQwVDVBNW50aE9JalEwUHVYa3ZnRVNQaGhYVlhCVm5PSktycVRQZ3lrTw?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "3 Stocks to Buy for Decades of Passive Income While They're Down",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOY01lUk5YdkdWRXRzcXBibl9QWC0xM2J2Qm81Uk9uMElqRU1zSjZBbWIyWmw3NGc3VF9UaW9DUEd4ZmRYTEg3d0RvM0x2dVlvbjNvRC1oS01oTXFEeG5fN0ViMmpDWXQ5OGFVd05mcXZqRmozZDZVU2huTnN1bUR6WDFLempqOVprR004Z1RIYnRpZmN5b21raQ?oc=5",
+          "title": "Apple’s productivity apps have a small but useful AI enhancement in macOS 27",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObkk3bzZXWC1IaTQ0QTdxSmxCM3AyV0lJRWg0WHhrRFlxcFB6TXZsWEQ0QzRUMmZqeHR4anNRQmVISEYtc3VwR3hOalpadENOcDNaendsWU84aHVaUGd0UWZmU1B2TjlqVnlSZGg5NGZpMmlqR1hkN3N4SWQ1SG1GS2Z5bERsZ3EwWkJoTTFkc2dPbEpPV3hkRURjRV9Ha0YwTnVhcFZkZUhmLWc?oc=5",
           "source": "gnews"
         }
       ],
-      "id": "cf2dbbbf8c8c",
-      "slug": "passive-income"
+      "id": "3a7bd3e2360a",
+      "slug": "apple"
+    },
+    {
+      "keyword": "webkit",
+      "count": 5,
+      "score": 94.6351903668162,
+      "proper": true,
+      "niches": [
+        "software"
+      ],
+      "examples": [
+        {
+          "title": "Twenty five years ago today I started the #Safari and #WebKit projects at #Apple Computer.Which means Safari is now old enough to rent itself a car. But let's not speculate about my age. I'm still sad",
+          "url": "https://mastodon.social/@lisamelton/116811886049264408",
+          "source": "mastodon"
+        }
+      ],
+      "id": "79941e86ee52",
+      "slug": "webkit"
+    },
+    {
+      "keyword": "apple computer.which",
+      "count": 5,
+      "score": 94.6351903668162,
+      "proper": true,
+      "niches": [
+        "software"
+      ],
+      "examples": [
+        {
+          "title": "Twenty five years ago today I started the #Safari and #WebKit projects at #Apple Computer.Which means Safari is now old enough to rent itself a car. But let's not speculate about my age. I'm still sad",
+          "url": "https://mastodon.social/@lisamelton/116811886049264408",
+          "source": "mastodon"
+        }
+      ],
+      "id": "bebe032050d2",
+      "slug": "apple-computerwhich"
+    },
+    {
+      "keyword": "claude code",
+      "count": 14,
+      "score": 93.69863429986981,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "samuto69/claude-ai-desktop-app — free claude code ai github desktop pc windows linux macOS proxy server anthropic free api local llm router nvidia nim openrouter deepseek ollama lm studio vscode exten",
+          "url": "https://github.com/samuto69/claude-ai-desktop-app",
+          "source": "github"
+        },
+        {
+          "title": "amplifthq/opentag — Open-source @agent mentions for Slack and GitHub. OpenTag routes tagged requests to Codex, Claude Code, then returns results in thread.",
+          "url": "https://github.com/amplifthq/opentag",
+          "source": "github"
+        },
+        {
+          "title": "amplifthq/opentag — Open-source @agent mentions for Slack and GitHub. OpenTag routes tagged requests to Codex, Claude Code, then returns results in thread.",
+          "url": "https://github.com/amplifthq/opentag",
+          "source": "github"
+        },
+        {
+          "title": "stradiz-claude-tokens 1.1.0",
+          "url": "https://pypi.org/project/stradiz-claude-tokens/1.1.0/",
+          "source": "pypi"
+        }
+      ],
+      "id": "a625159d18da",
+      "slug": "claude-code"
+    },
+    {
+      "keyword": "gear",
+      "count": 19,
+      "score": 93.67048639828221,
+      "proper": true,
+      "niches": [
+        "ai",
+        "finance",
+        "gear"
+      ],
+      "examples": [
+        {
+          "title": "I’m A Certified Personal Trainer — Here’s The Best Fitness Gear To Buy On Prime Day",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPM2JfNDFqdThObG9aem4zdFZuYTRNZk80VVJRVWg1WVAzSDlYUFNVajZLcWtJMHI0U1FhazhfdEN5aGlVN2R1djAtTHpjZ1BiemZYR1V6ZXFYb0VISmUzRW8xN0tFYU9GRFhzdW83R241NHRPdTFHelVCNHBBOEp0OHVtQ19fV1dMQW1BaGpnQ3pkb2NuVDE0d3J1SVZKcy04dC1QZWx3NTFuVld60gGyAUFVX3lxTE9RQy0wcVFpNW4yRHN4ZWc2aHVWOW5aRktzWGx4Nmx1emZwenV4THNjMEZ0T0MzQkdkZV9INmx2dldyZlB3aEZKRDFGcGxEM1g0dnc2MC01TFZhalRmcW1yTXJXdkxFTXJwbmVPVWpfakxhLW0zM0FmVnRNNnlubXh6Y1dwRUppZnhTUVliQktsQkJZNDhaY183ZjBXdXltVDJoYUc3MzJ5MUpIQmU4YjVYWkE?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "From 720Hz Gaming Monitors to Health-Tracking Chairs: Office Gear Makers Go All-In on Prime Day - Ad-hoc-news.de",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWkNpNFhGcHBucm1DR2VMTFZnYVg0aXNhQ1VRQVhQY3Ayck1EMU1pREgycW0zWDhrRXp1bGgxd3RqU29RYzR6dGJjcGRFeDNJLV9uVF9FaE9lTld5M1ZsNWFuWjV4QW40aFNNTjRhbHBpX0hib2pXUWg1cmJTZkJwWFNSOWNzT25fanE1MHMtaUpKZFZiOXp5bjBkUnNnOUhCZ1ZjSHlzbUVTNXJnaFVuY3AyMEtZc0dFVlE1N3RnVGI5UmFDSkR2UFpR?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "I Found the Best Fitness Tech and Gear on Sale This Prime Day",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSXZiOEM4ekRUMFY1MUlNb1I5THJqNVRURGhMMWZXLWJRVlF6cUk3eTF2dFdxM2NCalg3QjBmektHX19yUWw0Y3BJeFQtLVFUeFgxMmN2YWdxaDlwMWNHM3dlZmlPZWFuRUMzRTBNbWdIRnBEN0RfOG9fYzNQZVZzU0tDZ3RsVnVjRmtOQUxmb2o?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "I Found the Best Fitness Tech and Gear on Sale This Prime Day",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSXZiOEM4ekRUMFY1MUlNb1I5THJqNVRURGhMMWZXLWJRVlF6cUk3eTF2dFdxM2NCalg3QjBmektHX19yUWw0Y3BJeFQtLVFUeFgxMmN2YWdxaDlwMWNHM3dlZmlPZWFuRUMzRTBNbWdIRnBEN0RfOG9fYzNQZVZzU0tDZ3RsVnVjRmtOQUxmb2o?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Fitness Gear Home Gym Manual The 35 Best Home Gym Equipment Gear, Tested By Us",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4xWWJEaURIa0FVUGdYbGFBQmttcFBjemxuaV83V0syblhTUlBiVm9TV3ZXSlQ1cEpaRV8xTHFsMzN6T2ZXaEpJOUp3TVh3V0xkSVY2d2c3MXdtUGJ6?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "70ad3de50a55",
+      "slug": "gear"
+    },
+    {
+      "keyword": "side hustle",
+      "count": 30,
+      "score": 87.6709304512848,
+      "proper": false,
+      "niches": [
+        "ai",
+        "finance"
+      ],
+      "examples": [
+        {
+          "title": "How To Use ChatGPT To Launch A Teen Side Hustle This Summer",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQeHBzUFY3LU1uVDRadUh2TzlYTk9hM3RfdDVuZ1h6V1Q4MnVtb3pYSzV0OGNhMUZsSnZGZUpIM1JXYnZFSWRHMVA4dDhBZVJoTFh0M3ZDX1Q3NlBsOE1pcGhtTnZBRjJVQXNYMXh5TTN6eEdlZGtZUjFUck9YMzJqRWN4SEVSQ2dkM1JEX0ZBbUdhazlzRVV1R0k2UWE2ZGJRM0htMnFaLU5OY1NwSzcyZlpRSms?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "How To Use ChatGPT To Launch A Teen Side Hustle This Summer",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQeHBzUFY3LU1uVDRadUh2TzlYTk9hM3RfdDVuZ1h6V1Q4MnVtb3pYSzV0OGNhMUZsSnZGZUpIM1JXYnZFSWRHMVA4dDhBZVJoTFh0M3ZDX1Q3NlBsOE1pcGhtTnZBRjJVQXNYMXh5TTN6eEdlZGtZUjFUck9YMzJqRWN4SEVSQ2dkM1JEX0ZBbUdhazlzRVV1R0k2UWE2ZGJRM0htMnFaLU5OY1NwSzcyZlpRSms?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "How to Start an AI Side Hustle With a Small Budget",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE92YjNBOFZHb0dsQWdyeUxWYUxyWGNrTkJGQy1KR2trM1ozM25lTjhhYjQ4blIyOG8yUUsxWXRBMDVzUzg3UU5XZWxITjhncGVsajNqU1g4NG1WNXZTemQyWmxWUFZobHZuZ0RDZVpGT1V2OXdrUWEzRnZR?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "How to Start an AI Side Hustle With a Small Budget",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE92YjNBOFZHb0dsQWdyeUxWYUxyWGNrTkJGQy1KR2trM1ozM25lTjhhYjQ4blIyOG8yUUsxWXRBMDVzUzg3UU5XZWxITjhncGVsajNqU1g4NG1WNXZTemQyWmxWUFZobHZuZ0RDZVpGT1V2OXdrUWEzRnZR?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "20+ Profitable Side Hustle Ideas to Start in Your Free Time",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5TWEZ5X24wNDFpOGNpdk80WjFrTTdCSmRLOXl3c0cwcGdXelBvdWt3MjdCRklIQzdBcHN5bWpsaElMQUd1U2pWclNLYmd2QlloT21qU0tiZlhEdU5JaWVrNXhSQQ?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "57270ed2efc7",
+      "slug": "side-hustle"
+    },
+    {
+      "keyword": "software giant",
+      "count": 8,
+      "score": 80.51017012744919,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "Look Past the AI Hype: The Cold, Hard Financial Metric Telling You Exactly Which Enterprise Software Giant to Buy Right Now",
+          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPQnQtMzFmYTFzZ0ZNVnIyaFkzQURBTnNWWnUwRFFLdlJEMmdDbVR2RUpzOGoyNjR1UllTV1hpaWJMWlB6eHpDaEQzeG5pVldVSkM4YVI2UHoxdmVjMFNjX0lYRUNFTWxQYkMybzlESU1DbEJ1Yl9aalBJaUZmLXROTnM5Y3N4OXg5REZqNmtmZFUwdV9PMmNKdmpvUjZNWTFBVTBIMmlJX2ZlN190TE9tcHdwT2ViWHpXNjBlQkhRQWRHZUZTUWpiTFhEeVVMc040RmtwM3hSZHhRSThfZ3VtN295dHJ0MmNwXzhNWE1wSy1sWi1sZHlLVQ?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Look Past the AI Hype: The Cold, Hard Financial Metric Telling You Exactly Which Enterprise Software Giant to Buy Right Now",
+          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPQnQtMzFmYTFzZ0ZNVnIyaFkzQURBTnNWWnUwRFFLdlJEMmdDbVR2RUpzOGoyNjR1UllTV1hpaWJMWlB6eHpDaEQzeG5pVldVSkM4YVI2UHoxdmVjMFNjX0lYRUNFTWxQYkMybzlESU1DbEJ1Yl9aalBJaUZmLXROTnM5Y3N4OXg5REZqNmtmZFUwdV9PMmNKdmpvUjZNWTFBVTBIMmlJX2ZlN190TE9tcHdwT2ViWHpXNjBlQkhRQWRHZUZTUWpiTFhEeVVMc040RmtwM3hSZHhRSThfZ3VtN295dHJ0MmNwXzhNWE1wSy1sWi1sZHlLVQ?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "f69ed0ef2e9e",
+      "slug": "software-giant"
+    },
+    {
+      "keyword": "open",
+      "count": 12,
+      "score": 79.09857330352746,
+      "proper": true,
+      "niches": [
+        "ai",
+        "software"
+      ],
+      "examples": [
+        {
+          "title": "Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion",
+          "url": "https://github.com/inkeep/open-knowledge",
+          "source": "hackernews"
+        },
+        {
+          "title": "maria-rcks/dinorip — Free & Open Source Texture Ripper",
+          "url": "https://github.com/maria-rcks/dinorip",
+          "source": "github"
+        },
+        {
+          "title": "amplifthq/opentag — Open-source @agent mentions for Slack and GitHub. OpenTag routes tagged requests to Codex, Claude Code, then returns results in thread.",
+          "url": "https://github.com/amplifthq/opentag",
+          "source": "github"
+        },
+        {
+          "title": "lightbearco/tupper — Open-source sandboxes for AI agents — run untrusted, AI-generated code safely on your own machine.",
+          "url": "https://github.com/lightbearco/tupper",
+          "source": "github"
+        }
+      ],
+      "id": "2348f9987442",
+      "slug": "open"
+    },
+    {
+      "keyword": "gaming monitors",
+      "count": 11,
+      "score": 78.34258862401788,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "From 720Hz Gaming Monitors to Health-Tracking Chairs: Office Gear Makers Go All-In on Prime Day - Ad-hoc-news.de",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWkNpNFhGcHBucm1DR2VMTFZnYVg0aXNhQ1VRQVhQY3Ayck1EMU1pREgycW0zWDhrRXp1bGgxd3RqU29RYzR6dGJjcGRFeDNJLV9uVF9FaE9lTld5M1ZsNWFuWjV4QW40aFNNTjRhbHBpX0hib2pXUWg1cmJTZkJwWFNSOWNzT25fanE1MHMtaUpKZFZiOXp5bjBkUnNnOUhCZ1ZjSHlzbUVTNXJnaFVuY3AyMEtZc0dFVlE1N3RnVGI5UmFDSkR2UFpR?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "From 720Hz Gaming Monitors to Health-Tracking Chairs: Office Gear Makers Go All-In on Prime Day - Ad-hoc-news.de",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWkNpNFhGcHBucm1DR2VMTFZnYVg0aXNhQ1VRQVhQY3Ayck1EMU1pREgycW0zWDhrRXp1bGgxd3RqU29RYzR6dGJjcGRFeDNJLV9uVF9FaE9lTld5M1ZsNWFuWjV4QW40aFNNTjRhbHBpX0hib2pXUWg1cmJTZkJwWFNSOWNzT25fanE1MHMtaUpKZFZiOXp5bjBkUnNnOUhCZ1ZjSHlzbUVTNXJnaFVuY3AyMEtZc0dFVlE1N3RnVGI5UmFDSkR2UFpR?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "From 720Hz Gaming Monitors to Health-Tracking Chairs: Office Gear Makers Go All-In on Prime Day - Ad-hoc-news.de",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWkNpNFhGcHBucm1DR2VMTFZnYVg0aXNhQ1VRQVhQY3Ayck1EMU1pREgycW0zWDhrRXp1bGgxd3RqU29RYzR6dGJjcGRFeDNJLV9uVF9FaE9lTld5M1ZsNWFuWjV4QW40aFNNTjRhbHBpX0hib2pXUWg1cmJTZkJwWFNSOWNzT25fanE1MHMtaUpKZFZiOXp5bjBkUnNnOUhCZ1ZjSHlzbUVTNXJnaFVuY3AyMEtZc0dFVlE1N3RnVGI5UmFDSkR2UFpR?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "c6343d439bad",
+      "slug": "gaming-monitors"
     },
     {
       "keyword": "google oauth",
       "count": 8,
-      "score": 93.71183294626215,
+      "score": 70.16917917128754,
       "proper": true,
       "niches": [
         "ai"
@@ -342,187 +598,12 @@
       "slug": "google-oauth"
     },
     {
-      "keyword": "das gutachten",
-      "count": 8,
-      "score": 91.4943094426385,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "Das Gutachten legt tausende von Belegen vor, dass die völkisch-nationalistische AfD den Tatbestand der Verfassungsfeindlichkeit erfüllt. Wir erwarten von CDU und CSU, dass die Antragsberechtigten die ",
-          "url": "https://mastodon.social/@rpolenz/116811669527782058",
-          "source": "mastodon"
-        },
-        {
-          "title": "Das Gutachten legt tausende von Belegen vor, dass die völkisch-nationalistische AfD den Tatbestand der Verfassungsfeindlichkeit erfüllt. Wir erwarten von CDU und CSU, dass die Antragsberechtigten die ",
-          "url": "https://mastodon.social/@rpolenz/116811669527782058",
-          "source": "mastodon"
-        }
-      ],
-      "id": "504e58f81b16",
-      "slug": "das-gutachten"
-    },
-    {
-      "keyword": "claude code",
-      "count": 11,
-      "score": 86.57337946272025,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "samuto69/claude-ai-desktop-app — free claude code ai github desktop pc windows linux macOS proxy server anthropic free api local llm router nvidia nim openrouter deepseek ollama lm studio vscode exten",
-          "url": "https://github.com/samuto69/claude-ai-desktop-app",
-          "source": "github"
-        },
-        {
-          "title": "amplifthq/opentag — Open-source @agent mentions for Slack and GitHub. OpenTag routes tagged requests to Codex, Claude Code, then returns results in thread.",
-          "url": "https://github.com/amplifthq/opentag",
-          "source": "github"
-        },
-        {
-          "title": "amplifthq/opentag — Open-source @agent mentions for Slack and GitHub. OpenTag routes tagged requests to Codex, Claude Code, then returns results in thread.",
-          "url": "https://github.com/amplifthq/opentag",
-          "source": "github"
-        }
-      ],
-      "id": "a625159d18da",
-      "slug": "claude-code"
-    },
-    {
-      "keyword": "apple",
-      "count": 5,
-      "score": 86.17315824033003,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "Apple raises prices of MacBooks, iPads",
-          "url": "https://www.reuters.com/world/asia-pacific/apple-raises-prices-macbooks-ipads-memory-costs-skyrocket-2026-06-25/",
-          "source": "hackernews"
-        }
-      ],
-      "id": "3a7bd3e2360a",
-      "slug": "apple"
-    },
-    {
-      "keyword": "webkit",
-      "count": 5,
-      "score": 76.07355636289333,
-      "proper": true,
-      "niches": [
-        "software"
-      ],
-      "examples": [
-        {
-          "title": "Twenty five years ago today I started the #Safari and #WebKit projects at #Apple Computer.Which means Safari is now old enough to rent itself a car. But let's not speculate about my age. I'm still sad",
-          "url": "https://mastodon.social/@lisamelton/116811886049264408",
-          "source": "mastodon"
-        }
-      ],
-      "id": "79941e86ee52",
-      "slug": "webkit"
-    },
-    {
-      "keyword": "apple computer.which",
-      "count": 5,
-      "score": 76.07355636289333,
-      "proper": true,
-      "niches": [
-        "software"
-      ],
-      "examples": [
-        {
-          "title": "Twenty five years ago today I started the #Safari and #WebKit projects at #Apple Computer.Which means Safari is now old enough to rent itself a car. But let's not speculate about my age. I'm still sad",
-          "url": "https://mastodon.social/@lisamelton/116811886049264408",
-          "source": "mastodon"
-        }
-      ],
-      "id": "bebe032050d2",
-      "slug": "apple-computerwhich"
-    },
-    {
-      "keyword": "rag database",
-      "count": 8,
-      "score": 72.37711433297272,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "Show HN: Bible as RAG Database",
-          "url": "https://www.crosscanon.com/",
-          "source": "hackernews"
-        },
-        {
-          "title": "Show HN: Bible as RAG Database",
-          "url": "https://www.crosscanon.com/",
-          "source": "hackernews"
-        }
-      ],
-      "id": "866d8ad396cb",
-      "slug": "rag-database"
-    },
-    {
-      "keyword": "claude ai",
-      "count": 5,
-      "score": 66.76628520781924,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
-          "url": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/",
-          "source": "hackernews"
-        }
-      ],
-      "id": "be3b5ed12e07",
-      "slug": "claude-ai"
-    },
-    {
-      "keyword": "notebooklm review",
-      "count": 11,
-      "score": 66.42089035514559,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "NotebookLM Review: There's Nothing Quite Like This AI Tool",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOYm01UGxPYUNGQTV1WmZITk5sUDVfS3hPLVF1MHc2Y0piOGZmUVpYNU5hYWRSSWE1QlJDbWtPNHd3eWQweEIxdXFCdDlURFRtVlBqVGw4Qm5seUFxVjdYMWp3OXR2U1BUZV9MZGpYWFJGUVU1dTlpZ1dxNkRCTjVEcml2ZU5DNi10RFVXMHdqYkQyQ0N1MlE2UlBtTG5OSEYtdjkxWDZXbnFMcl9JOGFYbEdjbE1EUUlJLVpQT0ltZEk4ajJxYUE?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "NotebookLM Review: There's Nothing Quite Like This AI Tool",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOYm01UGxPYUNGQTV1WmZITk5sUDVfS3hPLVF1MHc2Y0piOGZmUVpYNU5hYWRSSWE1QlJDbWtPNHd3eWQweEIxdXFCdDlURFRtVlBqVGw4Qm5seUFxVjdYMWp3OXR2U1BUZV9MZGpYWFJGUVU1dTlpZ1dxNkRCTjVEcml2ZU5DNi10RFVXMHdqYkQyQ0N1MlE2UlBtTG5OSEYtdjkxWDZXbnFMcl9JOGFYbEdjbE1EUUlJLVpQT0ltZEk4ajJxYUE?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "NotebookLM Review: There's Nothing Quite Like This AI Tool",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOYm01UGxPYUNGQTV1WmZITk5sUDVfS3hPLVF1MHc2Y0piOGZmUVpYNU5hYWRSSWE1QlJDbWtPNHd3eWQweEIxdXFCdDlURFRtVlBqVGw4Qm5seUFxVjdYMWp3OXR2U1BUZV9MZGpYWFJGUVU1dTlpZ1dxNkRCTjVEcml2ZU5DNi10RFVXMHdqYkQyQ0N1MlE2UlBtTG5OSEYtdjkxWDZXbnFMcl9JOGFYbEdjbE1EUUlJLVpQT0ltZEk4ajJxYUE?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "b6c13efd7d03",
-      "slug": "notebooklm-review"
-    },
-    {
       "keyword": "tool",
       "count": 10,
-      "score": 64.33425035359396,
+      "score": 64.93835022399784,
       "proper": true,
       "niches": [
-        "software",
-        "ai"
+        "software"
       ],
       "examples": [
         {
@@ -541,13 +622,13 @@
           "source": "lobsters"
         },
         {
-          "title": "NotebookLM Review: There's Nothing Quite Like This AI Tool",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOYm01UGxPYUNGQTV1WmZITk5sUDVfS3hPLVF1MHc2Y0piOGZmUVpYNU5hYWRSSWE1QlJDbWtPNHd3eWQweEIxdXFCdDlURFRtVlBqVGw4Qm5seUFxVjdYMWp3OXR2U1BUZV9MZGpYWFJGUVU1dTlpZ1dxNkRCTjVEcml2ZU5DNi10RFVXMHdqYkQyQ0N1MlE2UlBtTG5OSEYtdjkxWDZXbnFMcl9JOGFYbEdjbE1EUUlJLVpQT0ltZEk4ajJxYUE?oc=5",
+          "title": "California becomes the first state to launch a tool to monitor and track artificial intelligence’s impacts on the workforce",
+          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxObG9LTE4weVhnNzlSck5JZ0VHc1RUMnd3TUNXdmloMkF5bndLUHpaMUNKd1JseG5oOVVJWjRuZ3NiQXFrQlo5Tjd6aVFSckczOEd5R3R4NTJmSnVvcmxfUFN0LWlBeV9NczFVaUt0X1RfMjVrT29pMUpxNFh5c3NFVWNScVFuQndERFo5bnBOOW51RW5zTWd0bmVudE1NUXJaSzNURk40bWl3aWpJYVlxT3JwX3J3LVpFWWpOT25Qei1JVjFnS2c2amNTVUVOY2VmN3o5UDVEcGJycEJCNDkwZHE0eFJSZ1BJVXRqQUt3?oc=5",
           "source": "gnews"
         },
         {
-          "title": "NotebookLM Review: There's Nothing Quite Like This AI Tool",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOYm01UGxPYUNGQTV1WmZITk5sUDVfS3hPLVF1MHc2Y0piOGZmUVpYNU5hYWRSSWE1QlJDbWtPNHd3eWQweEIxdXFCdDlURFRtVlBqVGw4Qm5seUFxVjdYMWp3OXR2U1BUZV9MZGpYWFJGUVU1dTlpZ1dxNkRCTjVEcml2ZU5DNi10RFVXMHdqYkQyQ0N1MlE2UlBtTG5OSEYtdjkxWDZXbnFMcl9JOGFYbEdjbE1EUUlJLVpQT0ltZEk4ajJxYUE?oc=5",
+          "title": "I finally found the best personal knowledge management tool on Android after years of switching back and forth",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNTVTSERBdnlHLVJGN3pOVkhvSER0UTVHYTQtQmVKbl9tVHpwbUVwV3REODlUQkRydVRhSTNYeERHTDFSNGg3RVgzVjlWOW5BZ1owZnpNQko0M3JaVEFYbzFmVVhqNHpTaVFPRm1Mb0dMU3VKRnJkUHp0VW9KT3gzVTFLZUIyaldDdjNyOE45UFZzWExkNGloc3I0Nm5TVkt0b0xBbVFGT2ZIUE1vM2pmdXE2OVdsOHBOOEFLcEJ0ODVNcmZKU0E?oc=5",
           "source": "gnews"
         }
       ],
@@ -555,9 +636,45 @@
       "slug": "tool"
     },
     {
+      "keyword": "professional bip",
+      "count": 5,
+      "score": 64.18098212539402,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "aleishawei1983/Seed-Generator — Professional BIP-39 Seed & HD Wallet Toolkit with 12–24 word mnemonics, checksum validation, BIP-44/49/84 derivation, and multi-chain support (BTC, ETH, SOL, LTC, DOGE,",
+          "url": "https://github.com/aleishawei1983/Seed-Generator",
+          "source": "github"
+        }
+      ],
+      "id": "a28ac04fe527",
+      "slug": "professional-bip"
+    },
+    {
+      "keyword": "hd wallet toolkit",
+      "count": 5,
+      "score": 64.18098212539402,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "aleishawei1983/Seed-Generator — Professional BIP-39 Seed & HD Wallet Toolkit with 12–24 word mnemonics, checksum validation, BIP-44/49/84 derivation, and multi-chain support (BTC, ETH, SOL, LTC, DOGE,",
+          "url": "https://github.com/aleishawei1983/Seed-Generator",
+          "source": "github"
+        }
+      ],
+      "id": "f135d3a7bc29",
+      "slug": "hd-wallet-toolkit"
+    },
+    {
       "keyword": "nvidia bionemo",
       "count": 8,
-      "score": 63.01312905007282,
+      "score": 63.51543038747762,
       "proper": true,
       "niches": [
         "ai"
@@ -576,243 +693,56 @@
       ],
       "id": "ad708eee98bc",
       "slug": "nvidia-bionemo"
-    },
-    {
-      "keyword": "prime deals",
-      "count": 15,
-      "score": 62.66632953670205,
-      "proper": false,
-      "niches": [
-        "gear",
-        "ai",
-        "general"
-      ],
-      "examples": [
-        {
-          "title": "Ninja's Prime Day deals drop popular kitchen gadgets (including the Creami) to the lowest prices of the year",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1BQU5jT3hZNXdtaHdNU21Xc3hzV09RVTNnaTl2ZXFuWjZBQ0xkeC1uWTNiTWJUcVVMa1Q0LTZSOUNqLWpmQVZtdzVuQURfQ2RkRWItbWdueTBnM1BMNVZweEdFTmhnQWJvUUczTkNJOGZhNE5WakZqUTJR?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Ninja's Prime Day deals drop popular kitchen gadgets (including the Creami) to the lowest prices of the year",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1BQU5jT3hZNXdtaHdNU21Xc3hzV09RVTNnaTl2ZXFuWjZBQ0xkeC1uWTNiTWJUcVVMa1Q0LTZSOUNqLWpmQVZtdzVuQURfQ2RkRWItbWdueTBnM1BMNVZweEdFTmhnQWJvUUczTkNJOGZhNE5WakZqUTJR?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "AI shopping tools can help you find the best Amazon Prime Day deals",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUWdhU0dyXzZydTRNZlBYODdYdnVqUFdURHFPUGlUckRjM09ObGlUangzcDgwaDBxdFJsTVVjQk1peHducEpRMUJfWXlJdWVQV2pac0Z0a3lZOVk1OFNYODZPT09DdnY2ZmxkRGF3aEx6Nmc0MWphSmZwV2puYTY5b1hqT2dLX2VhaHZNOXRjOXZGSENXbi1CZVBNcV9YaThCUnNfbjdCX3RBUkJFZFdwUHpBc0lOTEJDWTJpSkQtTEJmenM?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Here’s a bunch of Prime Day deals on keyboards, mice, and other peripherals we like",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOS0Z5T0xiVmtfLUp3bUFVdUkweWlxSm9TNDBRdm5mVkdIeUphRUxZaXZLYUJoaHlvRGhUWnQ1VGFXdFNBOEZLMGJVa1U4UGFYUU1xQ0ZXZDU2RVZlM3BxUVdYM1FSVEgxcXl5bWg0TVZFSDl4SjhaSFJTaGFNcHNBWi12enpaSi1TcFVSV0dmNjd2NUxiYnc?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Here’s a bunch of Prime Day deals on keyboards, mice, and other peripherals we like",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOS0Z5T0xiVmtfLUp3bUFVdUkweWlxSm9TNDBRdm5mVkdIeUphRUxZaXZLYUJoaHlvRGhUWnQ1VGFXdFNBOEZLMGJVa1U4UGFYUU1xQ0ZXZDU2RVZlM3BxUVdYM1FSVEgxcXl5bWg0TVZFSDl4SjhaSFJTaGFNcHNBWi12enpaSi1TcFVSV0dmNjd2NUxiYnc?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "71c75cdf6cf5",
-      "slug": "prime-deals"
-    },
-    {
-      "keyword": "income _blank",
-      "count": 18,
-      "score": 61.398681425320326,
-      "proper": false,
-      "niches": [
-        "finance"
-      ],
-      "examples": [
-        {
-          "title": "Here's How Many Shares of Energy Transfer You'd Need to Buy for $10,000 in Annual Passive Income",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMWtMYXhHSUZXT18xOFpyWk5UWmdrYnRVdTk3RnFyZTQ0NmhndWE4cW9NekxBT1lacHNFRVRJQTJlT0RGa1AtQWE5M0ZvUVdiTEpTUlVCXzAxZndGdklmcHpRaFptYWM0Nlh5NDBDX2NTTnJCYmRSSjJFR3JlZkdyb2dFY0x1UGU1aWVSdzZTZDd5aUxtVXFCeg?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Chevron Has Surged Over 14% in 2026 and Still Yields 4.1%. Is It Still Worth Buying for Passive Income Now?",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdXdMY2ZYaFZRa1h4T3k0S19FRm1uUTg2ckc0cWtJV1FneU1oOHpIczBfUHlEd0NMMkN4aUVoSGRTX0kwbHVBWjhKTl9OYTZCd1FQclFtY2ZaN1BzMlA2WUlXdHZ3dGxnODljbEFtZUQwVDVBNW50aE9JalEwUHVYa3ZnRVNQaGhYVlhCVm5PSktycVRQZ3lrTw?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "SCHD vs. VYMI vs. JEPI: Which Is the Best Dividend ETF for Steady Passive Income?",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxON2hRM1g1TWNRLXo3Uk14WjJZN0Y5OTJZOUdxUndYaDVQSmVCNC02ZmZVLTZUUnZDUGtrdTRlcl9pemJZSzhTeks0QkNyeE94RXFTNEpiYmRSdjJ4NExwajdVZG9RcWt1TG5ZUWxDUjFGdExPZF9YdlRWYjIwazB0aXZIN1V1ckhWRHFpNFdUYjJ5ZXVVS2JqcHlXSDFEWm5XaXU5WExhSkd2NWM?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "How many Barclays shares do I need to buy to get a £1,000 passive income?",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNLXJELWRISFVpQTZ5akoxM19CX2VUQkpvRUlscFlMYnBFLTVJRkJ6VUszZzU2ZmJGS3piekFvcUdKQXpvaWlzdHphSmo5cU5NYTBpdDczVENOckpVQUlWcklFdi1Rd3dlb191QlkyY05BR0Y3YUh6OHZGYnktWWsxRg?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "All It Takes Is $10,000 Invested in Each of These 3 Dividend Stocks to Help Generate $1,239 in Yearly Passive Income",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNYmlwZ3Jqa2ZqcWlWOG9ULS1SeGVRRld6Sy1pWjloSVdJcUFHUWUxTTNUU3dQbGZ2ckd1VDNPV2FsMkZUd291aklRb1loYXRLVVpNUWJQM3lrNUpha1NEd2xPX0x4ZEl6TDVQU1VORHJQUnN4dFFtODQzN21HNmo5cGU5cGFJZ2pxQ2pDUDV3QTJCQQ?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "4bfe3085a346",
-      "slug": "income-_blank"
-    },
-    {
-      "keyword": "open",
-      "count": 10,
-      "score": 58.995504187316,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "lightbearco/tupper — Open-source sandboxes for AI agents — run untrusted, AI-generated code safely on your own machine.",
-          "url": "https://github.com/lightbearco/tupper",
-          "source": "github"
-        },
-        {
-          "title": "amplifthq/opentag — Open-source @agent mentions for Slack and GitHub. OpenTag routes tagged requests to Codex, Claude Code, then returns results in thread.",
-          "url": "https://github.com/amplifthq/opentag",
-          "source": "github"
-        }
-      ],
-      "id": "2348f9987442",
-      "slug": "open"
     }
   ],
   "opportunities": [
     {
-      "keyword": "passive income",
-      "count": 53,
-      "score": 251.6910486796819,
+      "keyword": "fitness gear",
+      "count": 26,
+      "score": 120.95878925398014,
       "proper": true,
       "niches": [
-        "finance",
-        "ai"
+        "ai",
+        "gear"
       ],
       "examples": [
         {
-          "title": "Here's How Many Shares of Energy Transfer You'd Need to Buy for $10,000 in Annual Passive Income",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMWtMYXhHSUZXT18xOFpyWk5UWmdrYnRVdTk3RnFyZTQ0NmhndWE4cW9NekxBT1lacHNFRVRJQTJlT0RGa1AtQWE5M0ZvUVdiTEpTUlVCXzAxZndGdklmcHpRaFptYWM0Nlh5NDBDX2NTTnJCYmRSSjJFR3JlZkdyb2dFY0x1UGU1aWVSdzZTZDd5aUxtVXFCeg?oc=5",
+          "title": "I’m A Certified Personal Trainer — Here’s The Best Fitness Gear To Buy On Prime Day",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPM2JfNDFqdThObG9aem4zdFZuYTRNZk80VVJRVWg1WVAzSDlYUFNVajZLcWtJMHI0U1FhazhfdEN5aGlVN2R1djAtTHpjZ1BiemZYR1V6ZXFYb0VISmUzRW8xN0tFYU9GRFhzdW83R241NHRPdTFHelVCNHBBOEp0OHVtQ19fV1dMQW1BaGpnQ3pkb2NuVDE0d3J1SVZKcy04dC1QZWx3NTFuVld60gGyAUFVX3lxTE9RQy0wcVFpNW4yRHN4ZWc2aHVWOW5aRktzWGx4Nmx1emZwenV4THNjMEZ0T0MzQkdkZV9INmx2dldyZlB3aEZKRDFGcGxEM1g0dnc2MC01TFZhalRmcW1yTXJXdkxFTXJwbmVPVWpfakxhLW0zM0FmVnRNNnlubXh6Y1dwRUppZnhTUVliQktsQkJZNDhaY183ZjBXdXltVDJoYUc3MzJ5MUpIQmU4YjVYWkE?oc=5",
           "source": "gnews"
         },
         {
-          "title": "Here's How Many Shares of Energy Transfer You'd Need to Buy for $10,000 in Annual Passive Income",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMWtMYXhHSUZXT18xOFpyWk5UWmdrYnRVdTk3RnFyZTQ0NmhndWE4cW9NekxBT1lacHNFRVRJQTJlT0RGa1AtQWE5M0ZvUVdiTEpTUlVCXzAxZndGdklmcHpRaFptYWM0Nlh5NDBDX2NTTnJCYmRSSjJFR3JlZkdyb2dFY0x1UGU1aWVSdzZTZDd5aUxtVXFCeg?oc=5",
+          "title": "Fitness Gear Home Gym Manual The 35 Best Home Gym Equipment Gear, Tested By Us",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4xWWJEaURIa0FVUGdYbGFBQmttcFBjemxuaV83V0syblhTUlBiVm9TV3ZXSlQ1cEpaRV8xTHFsMzN6T2ZXaEpJOUp3TVh3V0xkSVY2d2c3MXdtUGJ6?oc=5",
           "source": "gnews"
         },
         {
-          "title": "Chevron Has Surged Over 14% in 2026 and Still Yields 4.1%. Is It Still Worth Buying for Passive Income Now?",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdXdMY2ZYaFZRa1h4T3k0S19FRm1uUTg2ckc0cWtJV1FneU1oOHpIczBfUHlEd0NMMkN4aUVoSGRTX0kwbHVBWjhKTl9OYTZCd1FQclFtY2ZaN1BzMlA2WUlXdHZ3dGxnODljbEFtZUQwVDVBNW50aE9JalEwUHVYa3ZnRVNQaGhYVlhCVm5PSktycVRQZ3lrTw?oc=5",
+          "title": "Fitness Gear Home Gym Manual The 35 Best Home Gym Equipment Gear, Tested By Us",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4xWWJEaURIa0FVUGdYbGFBQmttcFBjemxuaV83V0syblhTUlBiVm9TV3ZXSlQ1cEpaRV8xTHFsMzN6T2ZXaEpJOUp3TVh3V0xkSVY2d2c3MXdtUGJ6?oc=5",
           "source": "gnews"
         },
         {
-          "title": "Chevron Has Surged Over 14% in 2026 and Still Yields 4.1%. Is It Still Worth Buying for Passive Income Now?",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdXdMY2ZYaFZRa1h4T3k0S19FRm1uUTg2ckc0cWtJV1FneU1oOHpIczBfUHlEd0NMMkN4aUVoSGRTX0kwbHVBWjhKTl9OYTZCd1FQclFtY2ZaN1BzMlA2WUlXdHZ3dGxnODljbEFtZUQwVDVBNW50aE9JalEwUHVYa3ZnRVNQaGhYVlhCVm5PSktycVRQZ3lrTw?oc=5",
+          "title": "Attention, Gym Girlies: Our Favorite Fitness Gear Is up to 59% off This Week",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNU08wdUpoY1Excjd4MUVTQWRoMF8tNTEzcURfdlc3RFZXVHJsdmNJYmtlR3ROdnFKM0lhQi1OMFkxYzJVMFhncHdmb1o5ZFplcG1wN19fWGxZSndzRmpBd3dhT2hoaXNyNUhyN3IyLV9vU2tKQjhIUTl0eEhEWlcta1FqaFZlUzBiMXc?oc=5",
           "source": "gnews"
         },
         {
-          "title": "3 Stocks to Buy for Decades of Passive Income While They're Down",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOY01lUk5YdkdWRXRzcXBibl9QWC0xM2J2Qm81Uk9uMElqRU1zSjZBbWIyWmw3NGc3VF9UaW9DUEd4ZmRYTEg3d0RvM0x2dVlvbjNvRC1oS01oTXFEeG5fN0ViMmpDWXQ5OGFVd05mcXZqRmozZDZVU2huTnN1bUR6WDFLempqOVprR004Z1RIYnRpZmN5b21raQ?oc=5",
+          "title": "Attention, Gym Girlies: Our Favorite Fitness Gear Is up to 59% off This Week",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNU08wdUpoY1Excjd4MUVTQWRoMF8tNTEzcURfdlc3RFZXVHJsdmNJYmtlR3ROdnFKM0lhQi1OMFkxYzJVMFhncHdmb1o5ZFplcG1wN19fWGxZSndzRmpBd3dhT2hoaXNyNUhyN3IyLV9vU2tKQjhIUTl0eEhEWlcta1FqaFZlUzBiMXc?oc=5",
           "source": "gnews"
         }
       ],
-      "id": "cf2dbbbf8c8c",
-      "slug": "passive-income",
+      "id": "a8b7e45842c3",
+      "slug": "fitness-gear",
       "opportunity": {
-        "type": "niche-content",
-        "recommended": "Publish niche guide for \"finance\"; bundle into digital product later."
-      }
-    },
-    {
-      "keyword": "google oauth",
-      "count": 8,
-      "score": 93.71183294626215,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "benlamiro/ShipGenAI — 🚀 50 production-ready Generative AI SaaS apps — brand them, ship them, keep 100% of the revenue. Stripe billing · Google OAuth · Vercel deploy · MIT licensed",
-          "url": "https://github.com/benlamiro/ShipGenAI",
-          "source": "github"
-        },
-        {
-          "title": "benlamiro/ShipGenAI — 🚀 50 production-ready Generative AI SaaS apps — brand them, ship them, keep 100% of the revenue. Stripe billing · Google OAuth · Vercel deploy · MIT licensed",
-          "url": "https://github.com/benlamiro/ShipGenAI",
-          "source": "github"
-        }
-      ],
-      "id": "3b8db6c937ec",
-      "slug": "google-oauth",
-      "opportunity": {
-        "type": "niche-content",
-        "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
-      }
-    },
-    {
-      "keyword": "das gutachten",
-      "count": 8,
-      "score": 91.4943094426385,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "Das Gutachten legt tausende von Belegen vor, dass die völkisch-nationalistische AfD den Tatbestand der Verfassungsfeindlichkeit erfüllt. Wir erwarten von CDU und CSU, dass die Antragsberechtigten die ",
-          "url": "https://mastodon.social/@rpolenz/116811669527782058",
-          "source": "mastodon"
-        },
-        {
-          "title": "Das Gutachten legt tausende von Belegen vor, dass die völkisch-nationalistische AfD den Tatbestand der Verfassungsfeindlichkeit erfüllt. Wir erwarten von CDU und CSU, dass die Antragsberechtigten die ",
-          "url": "https://mastodon.social/@rpolenz/116811669527782058",
-          "source": "mastodon"
-        }
-      ],
-      "id": "504e58f81b16",
-      "slug": "das-gutachten",
-      "opportunity": {
-        "type": "niche-content",
-        "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
-      }
-    },
-    {
-      "keyword": "claude code",
-      "count": 11,
-      "score": 86.57337946272025,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "samuto69/claude-ai-desktop-app — free claude code ai github desktop pc windows linux macOS proxy server anthropic free api local llm router nvidia nim openrouter deepseek ollama lm studio vscode exten",
-          "url": "https://github.com/samuto69/claude-ai-desktop-app",
-          "source": "github"
-        },
-        {
-          "title": "amplifthq/opentag — Open-source @agent mentions for Slack and GitHub. OpenTag routes tagged requests to Codex, Claude Code, then returns results in thread.",
-          "url": "https://github.com/amplifthq/opentag",
-          "source": "github"
-        },
-        {
-          "title": "amplifthq/opentag — Open-source @agent mentions for Slack and GitHub. OpenTag routes tagged requests to Codex, Claude Code, then returns results in thread.",
-          "url": "https://github.com/amplifthq/opentag",
-          "source": "github"
-        }
-      ],
-      "id": "a625159d18da",
-      "slug": "claude-code",
-      "opportunity": {
-        "type": "tooling",
-        "recommended": "Build / list AI tools; monetize via affiliate links + lead magnet."
+        "type": "affiliate",
+        "recommended": "Write SEO comparison/roundup article with affiliate links."
       }
     },
     {
       "keyword": "apple",
-      "count": 5,
-      "score": 86.17315824033003,
+      "count": 10,
+      "score": 95.96754684925068,
       "proper": true,
       "niches": [
         "ai"
@@ -822,6 +752,11 @@
           "title": "Apple raises prices of MacBooks, iPads",
           "url": "https://www.reuters.com/world/asia-pacific/apple-raises-prices-macbooks-ipads-memory-costs-skyrocket-2026-06-25/",
           "source": "hackernews"
+        },
+        {
+          "title": "Apple’s productivity apps have a small but useful AI enhancement in macOS 27",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObkk3bzZXWC1IaTQ0QTdxSmxCM3AyV0lJRWg0WHhrRFlxcFB6TXZsWEQ0QzRUMmZqeHR4anNRQmVISEYtc3VwR3hOalpadENOcDNaendsWU84aHVaUGd0UWZmU1B2TjlqVnlSZGg5NGZpMmlqR1hkN3N4SWQ1SG1GS2Z5bERsZ3EwWkJoTTFkc2dPbEpPV3hkRURjRV9Ha0YwTnVhcFZkZUhmLWc?oc=5",
+          "source": "gnews"
         }
       ],
       "id": "3a7bd3e2360a",
@@ -834,7 +769,7 @@
     {
       "keyword": "webkit",
       "count": 5,
-      "score": 76.07355636289333,
+      "score": 94.6351903668162,
       "proper": true,
       "niches": [
         "software"
@@ -856,7 +791,7 @@
     {
       "keyword": "apple computer.which",
       "count": 5,
-      "score": 76.07355636289333,
+      "score": 94.6351903668162,
       "proper": true,
       "niches": [
         "software"
@@ -876,27 +811,151 @@
       }
     },
     {
-      "keyword": "rag database",
-      "count": 8,
-      "score": 72.37711433297272,
+      "keyword": "claude code",
+      "count": 14,
+      "score": 93.69863429986981,
       "proper": true,
       "niches": [
         "ai"
       ],
       "examples": [
         {
-          "title": "Show HN: Bible as RAG Database",
-          "url": "https://www.crosscanon.com/",
-          "source": "hackernews"
+          "title": "samuto69/claude-ai-desktop-app — free claude code ai github desktop pc windows linux macOS proxy server anthropic free api local llm router nvidia nim openrouter deepseek ollama lm studio vscode exten",
+          "url": "https://github.com/samuto69/claude-ai-desktop-app",
+          "source": "github"
         },
         {
-          "title": "Show HN: Bible as RAG Database",
-          "url": "https://www.crosscanon.com/",
-          "source": "hackernews"
+          "title": "amplifthq/opentag — Open-source @agent mentions for Slack and GitHub. OpenTag routes tagged requests to Codex, Claude Code, then returns results in thread.",
+          "url": "https://github.com/amplifthq/opentag",
+          "source": "github"
+        },
+        {
+          "title": "amplifthq/opentag — Open-source @agent mentions for Slack and GitHub. OpenTag routes tagged requests to Codex, Claude Code, then returns results in thread.",
+          "url": "https://github.com/amplifthq/opentag",
+          "source": "github"
+        },
+        {
+          "title": "stradiz-claude-tokens 1.1.0",
+          "url": "https://pypi.org/project/stradiz-claude-tokens/1.1.0/",
+          "source": "pypi"
         }
       ],
-      "id": "866d8ad396cb",
-      "slug": "rag-database",
+      "id": "a625159d18da",
+      "slug": "claude-code",
+      "opportunity": {
+        "type": "tooling",
+        "recommended": "Build / list AI tools; monetize via affiliate links + lead magnet."
+      }
+    },
+    {
+      "keyword": "gear",
+      "count": 19,
+      "score": 93.67048639828221,
+      "proper": true,
+      "niches": [
+        "ai",
+        "finance",
+        "gear"
+      ],
+      "examples": [
+        {
+          "title": "I’m A Certified Personal Trainer — Here’s The Best Fitness Gear To Buy On Prime Day",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPM2JfNDFqdThObG9aem4zdFZuYTRNZk80VVJRVWg1WVAzSDlYUFNVajZLcWtJMHI0U1FhazhfdEN5aGlVN2R1djAtTHpjZ1BiemZYR1V6ZXFYb0VISmUzRW8xN0tFYU9GRFhzdW83R241NHRPdTFHelVCNHBBOEp0OHVtQ19fV1dMQW1BaGpnQ3pkb2NuVDE0d3J1SVZKcy04dC1QZWx3NTFuVld60gGyAUFVX3lxTE9RQy0wcVFpNW4yRHN4ZWc2aHVWOW5aRktzWGx4Nmx1emZwenV4THNjMEZ0T0MzQkdkZV9INmx2dldyZlB3aEZKRDFGcGxEM1g0dnc2MC01TFZhalRmcW1yTXJXdkxFTXJwbmVPVWpfakxhLW0zM0FmVnRNNnlubXh6Y1dwRUppZnhTUVliQktsQkJZNDhaY183ZjBXdXltVDJoYUc3MzJ5MUpIQmU4YjVYWkE?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "From 720Hz Gaming Monitors to Health-Tracking Chairs: Office Gear Makers Go All-In on Prime Day - Ad-hoc-news.de",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWkNpNFhGcHBucm1DR2VMTFZnYVg0aXNhQ1VRQVhQY3Ayck1EMU1pREgycW0zWDhrRXp1bGgxd3RqU29RYzR6dGJjcGRFeDNJLV9uVF9FaE9lTld5M1ZsNWFuWjV4QW40aFNNTjRhbHBpX0hib2pXUWg1cmJTZkJwWFNSOWNzT25fanE1MHMtaUpKZFZiOXp5bjBkUnNnOUhCZ1ZjSHlzbUVTNXJnaFVuY3AyMEtZc0dFVlE1N3RnVGI5UmFDSkR2UFpR?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "I Found the Best Fitness Tech and Gear on Sale This Prime Day",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSXZiOEM4ekRUMFY1MUlNb1I5THJqNVRURGhMMWZXLWJRVlF6cUk3eTF2dFdxM2NCalg3QjBmektHX19yUWw0Y3BJeFQtLVFUeFgxMmN2YWdxaDlwMWNHM3dlZmlPZWFuRUMzRTBNbWdIRnBEN0RfOG9fYzNQZVZzU0tDZ3RsVnVjRmtOQUxmb2o?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "I Found the Best Fitness Tech and Gear on Sale This Prime Day",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSXZiOEM4ekRUMFY1MUlNb1I5THJqNVRURGhMMWZXLWJRVlF6cUk3eTF2dFdxM2NCalg3QjBmektHX19yUWw0Y3BJeFQtLVFUeFgxMmN2YWdxaDlwMWNHM3dlZmlPZWFuRUMzRTBNbWdIRnBEN0RfOG9fYzNQZVZzU0tDZ3RsVnVjRmtOQUxmb2o?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Fitness Gear Home Gym Manual The 35 Best Home Gym Equipment Gear, Tested By Us",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4xWWJEaURIa0FVUGdYbGFBQmttcFBjemxuaV83V0syblhTUlBiVm9TV3ZXSlQ1cEpaRV8xTHFsMzN6T2ZXaEpJOUp3TVh3V0xkSVY2d2c3MXdtUGJ6?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "70ad3de50a55",
+      "slug": "gear",
+      "opportunity": {
+        "type": "affiliate",
+        "recommended": "Write SEO comparison/roundup article with affiliate links."
+      }
+    },
+    {
+      "keyword": "side hustle",
+      "count": 30,
+      "score": 87.6709304512848,
+      "proper": false,
+      "niches": [
+        "ai",
+        "finance"
+      ],
+      "examples": [
+        {
+          "title": "How To Use ChatGPT To Launch A Teen Side Hustle This Summer",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQeHBzUFY3LU1uVDRadUh2TzlYTk9hM3RfdDVuZ1h6V1Q4MnVtb3pYSzV0OGNhMUZsSnZGZUpIM1JXYnZFSWRHMVA4dDhBZVJoTFh0M3ZDX1Q3NlBsOE1pcGhtTnZBRjJVQXNYMXh5TTN6eEdlZGtZUjFUck9YMzJqRWN4SEVSQ2dkM1JEX0ZBbUdhazlzRVV1R0k2UWE2ZGJRM0htMnFaLU5OY1NwSzcyZlpRSms?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "How To Use ChatGPT To Launch A Teen Side Hustle This Summer",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQeHBzUFY3LU1uVDRadUh2TzlYTk9hM3RfdDVuZ1h6V1Q4MnVtb3pYSzV0OGNhMUZsSnZGZUpIM1JXYnZFSWRHMVA4dDhBZVJoTFh0M3ZDX1Q3NlBsOE1pcGhtTnZBRjJVQXNYMXh5TTN6eEdlZGtZUjFUck9YMzJqRWN4SEVSQ2dkM1JEX0ZBbUdhazlzRVV1R0k2UWE2ZGJRM0htMnFaLU5OY1NwSzcyZlpRSms?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "How to Start an AI Side Hustle With a Small Budget",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE92YjNBOFZHb0dsQWdyeUxWYUxyWGNrTkJGQy1KR2trM1ozM25lTjhhYjQ4blIyOG8yUUsxWXRBMDVzUzg3UU5XZWxITjhncGVsajNqU1g4NG1WNXZTemQyWmxWUFZobHZuZ0RDZVpGT1V2OXdrUWEzRnZR?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "How to Start an AI Side Hustle With a Small Budget",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE92YjNBOFZHb0dsQWdyeUxWYUxyWGNrTkJGQy1KR2trM1ozM25lTjhhYjQ4blIyOG8yUUsxWXRBMDVzUzg3UU5XZWxITjhncGVsajNqU1g4NG1WNXZTemQyWmxWUFZobHZuZ0RDZVpGT1V2OXdrUWEzRnZR?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "20+ Profitable Side Hustle Ideas to Start in Your Free Time",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5TWEZ5X24wNDFpOGNpdk80WjFrTTdCSmRLOXl3c0cwcGdXelBvdWt3MjdCRklIQzdBcHN5bWpsaElMQUd1U2pWclNLYmd2QlloT21qU0tiZlhEdU5JaWVrNXhSQQ?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "57270ed2efc7",
+      "slug": "side-hustle",
+      "opportunity": {
+        "type": "niche-content",
+        "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
+      }
+    },
+    {
+      "keyword": "software giant",
+      "count": 8,
+      "score": 80.51017012744919,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "Look Past the AI Hype: The Cold, Hard Financial Metric Telling You Exactly Which Enterprise Software Giant to Buy Right Now",
+          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPQnQtMzFmYTFzZ0ZNVnIyaFkzQURBTnNWWnUwRFFLdlJEMmdDbVR2RUpzOGoyNjR1UllTV1hpaWJMWlB6eHpDaEQzeG5pVldVSkM4YVI2UHoxdmVjMFNjX0lYRUNFTWxQYkMybzlESU1DbEJ1Yl9aalBJaUZmLXROTnM5Y3N4OXg5REZqNmtmZFUwdV9PMmNKdmpvUjZNWTFBVTBIMmlJX2ZlN190TE9tcHdwT2ViWHpXNjBlQkhRQWRHZUZTUWpiTFhEeVVMc040RmtwM3hSZHhRSThfZ3VtN295dHJ0MmNwXzhNWE1wSy1sWi1sZHlLVQ?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Look Past the AI Hype: The Cold, Hard Financial Metric Telling You Exactly Which Enterprise Software Giant to Buy Right Now",
+          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPQnQtMzFmYTFzZ0ZNVnIyaFkzQURBTnNWWnUwRFFLdlJEMmdDbVR2RUpzOGoyNjR1UllTV1hpaWJMWlB6eHpDaEQzeG5pVldVSkM4YVI2UHoxdmVjMFNjX0lYRUNFTWxQYkMybzlESU1DbEJ1Yl9aalBJaUZmLXROTnM5Y3N4OXg5REZqNmtmZFUwdV9PMmNKdmpvUjZNWTFBVTBIMmlJX2ZlN190TE9tcHdwT2ViWHpXNjBlQkhRQWRHZUZTUWpiTFhEeVVMc040RmtwM3hSZHhRSThfZ3VtN295dHJ0MmNwXzhNWE1wSy1sWi1sZHlLVQ?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "f69ed0ef2e9e",
+      "slug": "software-giant",
       "opportunity": {
         "type": "niche-content",
         "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."

@@ -1,6 +1,27 @@
 {
   "items": [
     {
+      "slug": "apps-than-2026-06-25",
+      "topic": "Apps Than",
+      "date": "2026-06-25",
+      "niche": "ai",
+      "file": "social/apps-than-2026-06-25.md"
+    },
+    {
+      "slug": "foss-apps-2026-06-25",
+      "topic": "Foss Apps",
+      "date": "2026-06-25",
+      "niche": "ai",
+      "file": "social/foss-apps-2026-06-25.md"
+    },
+    {
+      "slug": "open-source-foss-2026-06-25",
+      "topic": "Open Source Foss",
+      "date": "2026-06-25",
+      "niche": "ai",
+      "file": "social/open-source-foss-2026-06-25.md"
+    },
+    {
       "slug": "east-palestine-2026-06-25",
       "topic": "East Palestine",
       "date": "2026-06-25",
@@ -1378,27 +1399,6 @@
       "date": "2026-06-04",
       "niche": "software",
       "file": "social/fred-rogers-productions-2026-06-04.md"
-    },
-    {
-      "slug": "several-injured-2026-06-04",
-      "topic": "Several Injured",
-      "date": "2026-06-04",
-      "niche": "gear",
-      "file": "social/several-injured-2026-06-04.md"
-    },
-    {
-      "slug": "llm-ai-2026-06-04",
-      "topic": "Llm Ai",
-      "date": "2026-06-04",
-      "niche": "ai",
-      "file": "social/llm-ai-2026-06-04.md"
-    },
-    {
-      "slug": "data-science-2026-06-04",
-      "topic": "Data Science",
-      "date": "2026-06-04",
-      "niche": "ai",
-      "file": "social/data-science-2026-06-04.md"
     }
   ]
 }

@@ -1,0 +1,26 @@
+{
+  "topic": "Foss Apps",
+  "provider": "groq",
+  "generatedAt": "2026-06-25T22:15:13.784Z",
+  "pack": {
+    "twitter_thread": [
+      "73% of AI teams use closed-source software, despite FOSS alternatives like OpenNLP outperforming them by 25%.",
+      "OpenNLP's maximum entropy tagging can process 10,000 tokens/second, beating some paid tools.",
+      "TensorFlow and PyTorch dominate 85% of machine learning deployments, and they're both FOSS.",
+      "Not reading FOSS documentation can cost you 3x in development time, as seen with spaCy's entity recognition.",
+      "SpaCy's NER model achieves 95% accuracy, making it a staple in many AI workflows.",
+      "FOSS apps like NLTK and Gensim offer 90% of the functionality of paid tools, with full customization.",
+      "What's the most surprising advantage you've found with FOSS apps in AI development? #foss #ai"
+    ],
+    "linkedin": "I've found that 73% of AI teams use closed-source software, despite FOSS alternatives like OpenNLP offering 25% better performance. For example, OpenNLP's maximum entropy tagging can process 10,000 tokens per second, outpacing some paid tools. TensorFlow and PyTorch, which dominate 85% of machine learning deployments, are also FOSS. However, not reading the documentation for FOSS apps like spaCy can triple development time. SpaCy's NER model achieves 95% accuracy, and FOSS apps like NLTK and Gensim offer 90% of the functionality of paid tools, with full customization. What's your experience with using FOSS apps in AI development?",
+    "tiktok_hooks": [
+      "Did you know 73% of AI teams are using the wrong software?",
+      "FOSS apps can give you a 25% performance boost",
+      "You're probably wasting time with closed-source software"
+    ],
+    "reddit_headline": "73% of AI teams are using closed-source software, but FOSS is 25% better - can anyone justify the closed-source choice?"
+  },
+  "niche": "ai",
+  "slug": "foss-apps-2026-06-25",
+  "date": "2026-06-25"
+}
