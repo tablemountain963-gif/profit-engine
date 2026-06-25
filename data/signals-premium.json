@@ -1,143 +1,220 @@
 {
-  "generatedAt": "2026-06-25T05:01:54.523Z",
-  "sourceCount": 208,
+  "generatedAt": "2026-06-25T15:38:34.176Z",
+  "sourceCount": 206,
   "topItems": [
     {
-      "title": "The other day while viewing Amazon for a scam product I noticed I couldn't see any of the 1 star reviews. There was a button to click to \"request all reviews\" or something like that.Now several days l",
-      "url": "https://cloudisland.nz/@xssfox/116807824903661732",
-      "score": 8.67,
+      "title": "\"Beginning next week, most Australians get free electricity for three hours every afternoon. That's what happens when you build out wind, sun, and batteriesAs the cost of clean energy keeps plummeting",
+      "url": "https://mstdn.ca/@c_9/116810759996942975",
+      "score": 9.66,
       "niche": "software",
       "source": "mastodon",
       "engagement": {
-        "score": 202,
-        "comments": 19
+        "score": 417,
+        "comments": 16
       }
     },
     {
-      "title": "benchflow-ai/awesome-evals — A curated, non-BS library of the best resources for building and evaluating AI agents — papers, blogs, talks, tools, benchmarks. Maintained by BenchFlow.",
-      "url": "https://github.com/benchflow-ai/awesome-evals",
-      "score": 8.55,
+      "title": "samuto69/claude-ai-desktop-app — free claude code ai github desktop pc windows linux macOS proxy server anthropic free api local llm router nvidia nim openrouter deepseek ollama lm studio vscode exten",
+      "url": "https://github.com/samuto69/claude-ai-desktop-app",
+      "score": 9,
       "niche": "ai",
       "source": "github",
       "engagement": {
-        "score": 200,
+        "score": 101,
         "comments": 0
-      }
-    },
-    {
-      "title": "OpenAI unveils its first custom chip, built by Broadcom",
-      "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
-      "score": 8,
-      "niche": "ai",
-      "source": "hackernews",
-      "engagement": {
-        "score": 625,
-        "comments": 356
-      }
-    },
-    {
-      "title": "RubyLLM: A Ruby framework for all major AI providers",
-      "url": "https://rubyllm.com/",
-      "score": 7.91,
-      "niche": "ai",
-      "source": "hackernews",
-      "engagement": {
-        "score": 364,
-        "comments": 60
       }
     },
     {
       "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
       "url": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/",
-      "score": 7.61,
+      "score": 8.8,
       "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 209,
-        "comments": 365
+        "score": 640,
+        "comments": 1046
       }
     },
     {
-      "title": "Oh, so now scraping data without permission is bad for AI training? 😂 how ironic 😉 Anthropic accuses Alibaba of using thousands fraudulent accounts to extract Claude AI model capabiliti and data. An",
-      "url": "https://mastodon.social/@nixCraft/116808645149897421",
-      "score": 7.46,
+      "title": "So to summarize, AI will cause personal computers to cost ten thousand dollars, all applications will forever be frozen to about 2025 design and implementation (because that’s what vibe coding outputs",
+      "url": "https://hachyderm.io/@thomasfuchs/116811265940958729",
+      "score": 8.77,
       "niche": "ai",
       "source": "mastodon",
       "engagement": {
-        "score": 195,
-        "comments": 9
+        "score": 221,
+        "comments": 10
       }
     },
     {
-      "title": "Show HN: Nub – A Bun-like all-in-one toolkit for Node.js",
-      "url": "https://github.com/nubjs/nub",
-      "score": 7.4,
+      "title": "Are you annoyed with the anthropomorphizing language being used in the \"AI\" discourse, but not sure how to talk about this stuff without it? Nanna Inie and I have got you covered:https://buttondown.co",
+      "url": "https://dair-community.social/@emilymbender/116811128152569506",
+      "score": 8.73,
+      "niche": "ai",
+      "source": "mastodon",
+      "engagement": {
+        "score": 218,
+        "comments": 8
+      }
+    },
+    {
+      "title": "if your article is headed with an AI image then i'm not reading your article",
+      "url": "https://mastodon.gamedev.place/@eniko/116810394616127497",
+      "score": 8.58,
+      "niche": "ai",
+      "source": "mastodon",
+      "engagement": {
+        "score": 455,
+        "comments": 12
+      }
+    },
+    {
+      "title": "This is NOT ‘just a hot summer.’It is Big Oil and Gas’s business model made visible in sweat, burned crops and packed emergency rooms.Polluters KNEW, they LIED, they PROFITED.Now it is time to make th",
+      "url": "https://mastodon.social/@greenpeace/116810635383038017",
+      "score": 8.44,
+      "niche": "ai",
+      "source": "mastodon",
+      "engagement": {
+        "score": 187,
+        "comments": 4
+      }
+    },
+    {
+      "title": "A vulnerability in ffmpeg allows remote code execution via a crafted media file https://www.securityweek.com/ffmpeg-pixelsmash-flaw-allows-rce-on-video-players-media-servers-nas-appliances/This affect",
+      "url": "https://social.coop/@cwebber/116810673204863384",
+      "score": 8.34,
       "niche": "software",
+      "source": "mastodon",
+      "engagement": {
+        "score": 352,
+        "comments": 18
+      }
+    },
+    {
+      "title": "OpenAI unveils its first custom chip, built by Broadcom",
+      "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
+      "score": 8.24,
+      "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 220,
-        "comments": 63
+        "score": 769,
+        "comments": 441
       }
     },
     {
-      "title": "alexbogdanov74/Seed-Generator — Professional BIP-39 Seed & HD Wallet Toolkit with 12–24 word mnemonics, checksum validation, BIP-44/49/84 derivation, and multi-chain support (BTC, ETH, SOL, LTC, DOGE,",
-      "url": "https://github.com/alexbogdanov74/Seed-Generator",
-      "score": 7.34,
-      "niche": "ai",
-      "source": "github",
+      "title": "Oligarchs should be happy we only want to tax them..",
+      "url": "https://mstdn.social/@stux/116810650163853829",
+      "score": 8.16,
+      "niche": "software",
+      "source": "mastodon",
       "engagement": {
-        "score": 94,
-        "comments": 0
+        "score": 309,
+        "comments": 16
+      }
+    },
+    {
+      "title": "Huh! I was today years old when I realised that the mighty @libreoffice has a great tool for generating QR. In a world where online QR code generators tend to re route via themselves this is an awesom",
+      "url": "https://mastodon.social/@concretedog/116811167004066974",
+      "score": 7.98,
+      "niche": "software",
+      "source": "mastodon",
+      "engagement": {
+        "score": 270,
+        "comments": 15
       }
     },
     {
       "title": "benlamiro/ShipGenAI — 🚀 50 production-ready Generative AI SaaS apps — brand them, ship them, keep 100% of the revenue. Stripe billing · Google OAuth · Vercel deploy · MIT licensed",
       "url": "https://github.com/benlamiro/ShipGenAI",
-      "score": 7.08,
+      "score": 7.73,
       "niche": "ai",
       "source": "github",
       "engagement": {
-        "score": 80,
+        "score": 120,
         "comments": 0
       }
     },
     {
-      "title": "Bible as RAG Database",
-      "url": "https://www.crosscanon.com/",
-      "score": 6.94,
+      "title": "Ford rehires 350 engineers after AI fails to preserve expertise or train juniors",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-25/ford-has-been-rehiring-quality-inspectors-after-ai-fell-short",
+      "score": 7.31,
       "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 69,
-        "comments": 39
+        "score": 92,
+        "comments": 50
       }
     },
     {
-      "title": "Computer use in Gemini 3.5 Flash",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/",
-      "score": 6.77,
+      "title": "Wikipedia Workers in Britain set global first by seeking union recognition",
+      "url": "https://utaw.tech/news/wikipedia-recognition",
+      "score": 6.92,
       "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 194,
-        "comments": 124
+        "score": 177,
+        "comments": 164
       }
     },
     {
-      "title": "PR spam today looks like email spam in the early 2000s",
-      "url": "https://www.greptile.com/blog/prs-on-openclaw",
-      "score": 6.75,
+      "title": "Remember when we used to be excited when Apple took the store offline for product changes?",
+      "url": "https://mastodon.social/@siracusa/116811192219497196",
+      "score": 6.91,
+      "niche": "software",
+      "source": "mastodon",
+      "engagement": {
+        "score": 64,
+        "comments": 7
+      }
+    },
+    {
+      "title": "benchflow-ai/awesome-evals — A curated, non-BS library of the best resources for building and evaluating AI agents — papers, blogs, talks, tools, benchmarks. Maintained by BenchFlow.",
+      "url": "https://github.com/benchflow-ai/awesome-evals",
+      "score": 6.68,
+      "niche": "ai",
+      "source": "github",
+      "engagement": {
+        "score": 249,
+        "comments": 0
+      }
+    },
+    {
+      "title": "Another heat wave cartoon from a couple of years ago.#heatwave #Europe #ClimateCrisis",
+      "url": "https://newsie.social/@royaards/116810751963902575",
+      "score": 6.21,
+      "niche": "software",
+      "source": "mastodon",
+      "engagement": {
+        "score": 164,
+        "comments": 0
+      }
+    },
+    {
+      "title": "Medical students are using popular research tool to pump out misleading studies",
+      "url": "https://www.science.org/content/article/medical-students-are-using-popular-research-tool-pump-out-misleading-studies",
+      "score": 6.17,
+      "niche": "software",
+      "source": "hackernews",
+      "engagement": {
+        "score": 117,
+        "comments": 65
+      }
+    },
+    {
+      "title": "RubyLLM: A Ruby framework for all major AI providers",
+      "url": "https://rubyllm.com/",
+      "score": 6.09,
       "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 198,
-        "comments": 117
+        "score": 425,
+        "comments": 74
       }
     },
     {
-      "title": "16 Best Generative AI Coding Tools in 2026 Compared: Features, and Best Fit",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNYXlURlpYWFBpQkk3dTZrU3JmRWVVNHBDYXFDVFVHQWxRbS1vak1qbWtEcE4xd1R1ckxjVDJ5SWZmWGVjdTI2MVZlak1WQVlLX0ZkSXFUaHhsVmotaF9CVkVnNUx2eDhjay1XOTFybHNIX1RhTVdDX0tLTDQ1Nmx4TlVyUjZwdw?oc=5",
-      "score": 6.61,
+      "title": "BlackBerry Sees New AI Opportunities as Embedded-Software Business Accelerates",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWTdSaThjTS10TVFlTmIxUEh4bWduek8tQW50OXRmN0d2dF9Sb0RrMnNPNW5BSG1fTE81SjFvWkg3cEJQd0Z5dlA2aWxLZ2xGQVd2TmVSLXY4d0FBOGhCYnJ1V1BEQVR5Nkc3dEZISGpGemxfLTlzSlJ0S3A4c0dVTElpTDF0U2xLdGhoX1Q1MFBjdHBKWlJSa2I1Si1fck1GX1BlcXF4SzVzWkdXSWdmeWUybEJfdw?oc=5",
+      "score": 5.94,
       "niche": "ai",
       "source": "gnews",
       "engagement": {
@@ -146,9 +223,9 @@
       }
     },
     {
-      "title": "Best Amazon Prime Day deals under $25: Top deals on cheap gadgets I've tested",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBfdmZlRVFyVjE0TE13OXo3REplbTZfdG1QVFhGVHVwcGxSQkZoV0lMQUljbVVZRGhEbE5LU1JvSXhGY1lnQXNnUFhXVWs1cXZ0Z2tETGJxbGY4Mlc2V2kyRHZUMlgwSFpTdVVuUy0ySVdsWUJpN0JvQTJLbGo?oc=5",
-      "score": 6.32,
+      "title": "Treat Yourself With Irresistible Deals on the Best Tech Gadgets",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5Sb3h3TmNDOHJXcWwxZ3lmdE1rbllfS3Bkbkc5TzlJQW5pSjQ0ZXBVVFVBRGdpczEyVkxWYVRVaHZuVzc5b1M1S0psZmczQUNVRjRVZl9PUGtaLTRycEpMM01oNGtSWEUyYS1RN2dwdTFLamM?oc=5",
+      "score": 5.87,
       "niche": "gear",
       "source": "gnews",
       "engagement": {
@@ -157,32 +234,10 @@
       }
     },
     {
-      "title": "Yu9191/wloc — Apple WLOC Location Spoofer",
-      "url": "https://github.com/Yu9191/wloc",
-      "score": 6.06,
-      "niche": "software",
-      "source": "github",
-      "engagement": {
-        "score": 222,
-        "comments": 1
-      }
-    },
-    {
-      "title": "As The Kyiv Independent said in February 2025, \"The American president has changed sides in this war. The American people have not.\"https://kyivindependent.com/20-000-teddy-bears-displayed-in-los-ange",
-      "url": "https://mstdn.social/@MaryAustinBooks/116808318601581319",
-      "score": 5.92,
-      "niche": "ai",
-      "source": "mastodon",
-      "engagement": {
-        "score": 66,
-        "comments": 2
-      }
-    },
-    {
-      "title": "Upgrade your home office for less with these Prime Day deals on editor-loved tech, desk chairs and more",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbUkzMGE0WTQxVVg0ZlVsTHhtQXFGLUFYX3poeHNMSDBsTzFTMTRxbURHX3ZYX3Z1em9tMHhXSmYxZjF3LUNpTkdHZDlDVFJVTG9welc3aUtKZGxCUnVkQ1RYSzZKazZKemdjTnlUX1BaUHVoTzIyNU9xei1nendIc1QyUjBYeVFsbEJlNFRYUGU?oc=5",
-      "score": 5.37,
-      "niche": "ai",
+      "title": "Logitech gaming gear from $19 for Prime Day: G Pro mice, keyboards, racing wheels, and more up to 55% off",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSmNsZzI4WHJ2bHVRdjRNTjV3Unc0RmFOVWozWTh0dnE0M1ljc2hUT1Nfa0gyRkJGNzF4RzdUZUR2Uk5laDJZeHlRdExfdVNVeHV3YmlsOXpjbzRHTWhZRndxa1llX1lvVzU4M1ZJWkRZQUFnWmFjc1ZvUzAtQ1BRaTNvMHNBVmJjM0VnSHhHVEpwQQ?oc=5",
+      "score": 5.87,
+      "niche": "gear",
       "source": "gnews",
       "engagement": {
         "score": 40,
@@ -190,21 +245,10 @@
       }
     },
     {
-      "title": "Reyzowter/Hello-Agents — 🤖 Building AI Agent Systems from Scratch — A comprehensive, practical tutorial from fundamentals to production-grade multi-agent applications",
-      "url": "https://github.com/Reyzowter/Hello-Agents",
-      "score": 5.28,
-      "niche": "ai",
-      "source": "github",
-      "engagement": {
-        "score": 129,
-        "comments": 0
-      }
-    },
-    {
-      "title": "Logitech’s ultra-slim light-powered Apple Magic Keyboard alternative never needs to be charged, now at $76 for Prime Day",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSFdXSnBKSXRqUlhWWGhxQllwVGN1TkR4U0xPbUo5Q1ZFWEU5MkRFTkZHN05uSV9td1I1ZnFkeE14bUg1dDdYMFFXVmxzZjV0YWIzZlUwcTA5Nm1yRWN1anY0WVJ3QjVXTlM4bWhDSEZuVVpBcEpsS2JGUDJ4aDg4b2NXV1RVSldpbU9TX3Znb19GZHMwTnhEVjk1eklQU0dC?oc=5",
-      "score": 5.24,
-      "niche": "software",
+      "title": "This High-Conviction Dividend Stock Just Triggered a Rare Buying Opportunity for Passive Income Investors",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOeFlPZTNjWW5QV1ljYXJtdWMzMWpma1hSV3kxZF9zVlN0RmdzSDl6UzBNZkNjX1doWUM3TENaRjU2V3dNamplaC1malExZWUtS1pEVXZXNnZ4SV9aTEJMU3Z0QWFib3Qya3N2MUNhTG0tYURDT01OSUhkOVF0WUUyUkVqSzRrSHQ0b0hPVzIwQ0tyRDN0azQ2cm5DWXBqUkVHSEE?oc=5",
+      "score": 5.56,
+      "niche": "finance",
       "source": "gnews",
       "engagement": {
         "score": 40,
@@ -212,69 +256,25 @@
       }
     },
     {
-      "title": "anelaromi544/Flash-USDT-Sender — Flash USDT Sender — Multi-network flash transaction tool for USDT, BTC, and ETH with configurable duration, custom gas settings, ERC-20/TRC-20/BEP-20 support, and bloc",
-      "url": "https://github.com/anelaromi544/Flash-USDT-Sender",
-      "score": 5.19,
-      "niche": "software",
-      "source": "github",
-      "engagement": {
-        "score": 102,
-        "comments": 0
-      }
-    },
-    {
-      "title": "sherryf71/Exodus-Fake-Balance — Exodus Fake Balance — Native balance overlay tool for Exodus wallet with real-time spoofing across BTC, ETH, SOL, XRP and 200+ assets, persistent hooks, and screenshot-",
-      "url": "https://github.com/sherryf71/Exodus-Fake-Balance",
-      "score": 5.07,
-      "niche": "software",
-      "source": "github",
-      "engagement": {
-        "score": 92,
-        "comments": 0
-      }
-    },
-    {
-      "title": "NVIDIA-BioNeMo/bionemo-agent-toolkit — Turn any agent into a life science expert with NVIDIA BioNeMo skills.",
-      "url": "https://github.com/NVIDIA-BioNeMo/bionemo-agent-toolkit",
-      "score": 5.03,
-      "niche": "ai",
-      "source": "github",
-      "engagement": {
-        "score": 103,
-        "comments": 0
-      }
-    },
-    {
-      "title": "AI shopping tools can help you find the best Amazon Prime Day deals",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUWdhU0dyXzZydTRNZlBYODdYdnVqUFdURHFPUGlUckRjM09ObGlUangzcDgwaDBxdFJsTVVjQk1peHducEpRMUJfWXlJdWVQV2pac0Z0a3lZOVk1OFNYODZPT09DdnY2ZmxkRGF3aEx6Nmc0MWphSmZwV2puYTY5b1hqT2dLX2VhaHZNOXRjOXZGSENXbi1CZVBNcV9YaThCUnNfbjdCX3RBUkJFZFdwUHpBc0lOTEJDWTJpSkQtTEJmenM?oc=5",
-      "score": 4.95,
-      "niche": "ai",
+      "title": "Chevron Has Surged Over 14% in 2026 and Still Yields 4.1%. Is It Still Worth Buying for Passive Income Now?",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdXdMY2ZYaFZRa1h4T3k0S19FRm1uUTg2ckc0cWtJV1FneU1oOHpIczBfUHlEd0NMMkN4aUVoSGRTX0kwbHVBWjhKTl9OYTZCd1FQclFtY2ZaN1BzMlA2WUlXdHZ3dGxnODljbEFtZUQwVDVBNW50aE9JalEwUHVYa3ZnRVNQaGhYVlhCVm5PSktycVRQZ3lrTw?oc=5",
+      "score": 5.56,
+      "niche": "finance",
       "source": "gnews",
       "engagement": {
         "score": 40,
         "comments": 0
-      }
-    },
-    {
-      "title": "What I'm Finding About LLM Code Style and Token Costs",
-      "url": "https://www.jimmont.com/llm-style-token-costs",
-      "score": 4.94,
-      "niche": "ai",
-      "source": "hackernews",
-      "engagement": {
-        "score": 20,
-        "comments": 7
       }
     },
     {
       "title": "GLM-5.2 is a step change for open agents",
       "url": "https://www.interconnects.ai/p/glm-52-is-the-step-change-for-open",
-      "score": 4.91,
+      "score": 5.45,
       "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 171,
-        "comments": 95
+        "score": 322,
+        "comments": 184
       }
     }
   ],
@@ -282,7 +282,7 @@
     {
       "keyword": "passive income",
       "count": 53,
-      "score": 254.73921016888232,
+      "score": 245.15927405996695,
       "proper": true,
       "niches": [
         "finance",
@@ -290,28 +290,28 @@
       ],
       "examples": [
         {
-          "title": "Forget Work. Passive Income Is the New American Dream.",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB2Y080cVF1RlhNQnhsdWl0MEtRUlY4cnlnSWNHSzNVTWZOZ19Jbk52SnJqN3RNdTVRUGxUcHIwUmVyeTIyMHp6N2tWeXJ5bFdiZGsxSEV1RzZLd1JoMklvWHpTZktJSWp5SnEtTENkXzhSeERwVm1F?oc=5",
+          "title": "This High-Conviction Dividend Stock Just Triggered a Rare Buying Opportunity for Passive Income Investors",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOeFlPZTNjWW5QV1ljYXJtdWMzMWpma1hSV3kxZF9zVlN0RmdzSDl6UzBNZkNjX1doWUM3TENaRjU2V3dNamplaC1malExZWUtS1pEVXZXNnZ4SV9aTEJMU3Z0QWFib3Qya3N2MUNhTG0tYURDT01OSUhkOVF0WUUyUkVqSzRrSHQ0b0hPVzIwQ0tyRDN0azQ2cm5DWXBqUkVHSEE?oc=5",
           "source": "gnews"
         },
         {
-          "title": "Forget Work. Passive Income Is the New American Dream.",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB2Y080cVF1RlhNQnhsdWl0MEtRUlY4cnlnSWNHSzNVTWZOZ19Jbk52SnJqN3RNdTVRUGxUcHIwUmVyeTIyMHp6N2tWeXJ5bFdiZGsxSEV1RzZLd1JoMklvWHpTZktJSWp5SnEtTENkXzhSeERwVm1F?oc=5",
+          "title": "This High-Conviction Dividend Stock Just Triggered a Rare Buying Opportunity for Passive Income Investors",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOeFlPZTNjWW5QV1ljYXJtdWMzMWpma1hSV3kxZF9zVlN0RmdzSDl6UzBNZkNjX1doWUM3TENaRjU2V3dNamplaC1malExZWUtS1pEVXZXNnZ4SV9aTEJMU3Z0QWFib3Qya3N2MUNhTG0tYURDT01OSUhkOVF0WUUyUkVqSzRrSHQ0b0hPVzIwQ0tyRDN0azQ2cm5DWXBqUkVHSEE?oc=5",
           "source": "gnews"
         },
         {
-          "title": "SCHD vs. VYMI vs. JEPI: Which Is the Best Dividend ETF for Steady Passive Income?",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxON2hRM1g1TWNRLXo3Uk14WjJZN0Y5OTJZOUdxUndYaDVQSmVCNC02ZmZVLTZUUnZDUGtrdTRlcl9pemJZSzhTeks0QkNyeE94RXFTNEpiYmRSdjJ4NExwajdVZG9RcWt1TG5ZUWxDUjFGdExPZF9YdlRWYjIwazB0aXZIN1V1ckhWRHFpNFdUYjJ5ZXVVS2JqcHlXSDFEWm5XaXU5WExhSkd2NWM?oc=5",
+          "title": "Chevron Has Surged Over 14% in 2026 and Still Yields 4.1%. Is It Still Worth Buying for Passive Income Now?",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdXdMY2ZYaFZRa1h4T3k0S19FRm1uUTg2ckc0cWtJV1FneU1oOHpIczBfUHlEd0NMMkN4aUVoSGRTX0kwbHVBWjhKTl9OYTZCd1FQclFtY2ZaN1BzMlA2WUlXdHZ3dGxnODljbEFtZUQwVDVBNW50aE9JalEwUHVYa3ZnRVNQaGhYVlhCVm5PSktycVRQZ3lrTw?oc=5",
           "source": "gnews"
         },
         {
-          "title": "SCHD vs. VYMI vs. JEPI: Which Is the Best Dividend ETF for Steady Passive Income?",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxON2hRM1g1TWNRLXo3Uk14WjJZN0Y5OTJZOUdxUndYaDVQSmVCNC02ZmZVLTZUUnZDUGtrdTRlcl9pemJZSzhTeks0QkNyeE94RXFTNEpiYmRSdjJ4NExwajdVZG9RcWt1TG5ZUWxDUjFGdExPZF9YdlRWYjIwazB0aXZIN1V1ckhWRHFpNFdUYjJ5ZXVVS2JqcHlXSDFEWm5XaXU5WExhSkd2NWM?oc=5",
+          "title": "Chevron Has Surged Over 14% in 2026 and Still Yields 4.1%. Is It Still Worth Buying for Passive Income Now?",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdXdMY2ZYaFZRa1h4T3k0S19FRm1uUTg2ckc0cWtJV1FneU1oOHpIczBfUHlEd0NMMkN4aUVoSGRTX0kwbHVBWjhKTl9OYTZCd1FQclFtY2ZaN1BzMlA2WUlXdHZ3dGxnODljbEFtZUQwVDVBNW50aE9JalEwUHVYa3ZnRVNQaGhYVlhCVm5PSktycVRQZ3lrTw?oc=5",
           "source": "gnews"
         },
         {
-          "title": "SCHD vs. VYMI vs. JEPI: Which Is the Best Dividend ETF for Steady Passive Income?",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxON2hRM1g1TWNRLXo3Uk14WjJZN0Y5OTJZOUdxUndYaDVQSmVCNC02ZmZVLTZUUnZDUGtrdTRlcl9pemJZSzhTeks0QkNyeE94RXFTNEpiYmRSdjJ4NExwajdVZG9RcWt1TG5ZUWxDUjFGdExPZF9YdlRWYjIwazB0aXZIN1V1ckhWRHFpNFdUYjJ5ZXVVS2JqcHlXSDFEWm5XaXU5WExhSkd2NWM?oc=5",
+          "title": "3 Stocks to Buy for Decades of Passive Income While They're Down",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOY01lUk5YdkdWRXRzcXBibl9QWC0xM2J2Qm81Uk9uMElqRU1zSjZBbWIyWmw3NGc3VF9UaW9DUEd4ZmRYTEg3d0RvM0x2dVlvbjNvRC1oS01oTXFEeG5fN0ViMmpDWXQ5OGFVd05mcXZqRmozZDZVU2huTnN1bUR6WDFLempqOVprR004Z1RIYnRpZmN5b21raQ?oc=5",
           "source": "gnews"
         }
       ],
@@ -319,71 +319,9 @@
       "slug": "passive-income"
     },
     {
-      "keyword": "prime deals",
-      "count": 21,
-      "score": 113.48837442965436,
-      "proper": false,
-      "niches": [
-        "gear",
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "Best Amazon Prime Day deals under $25: Top deals on cheap gadgets I've tested",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBfdmZlRVFyVjE0TE13OXo3REplbTZfdG1QVFhGVHVwcGxSQkZoV0lMQUljbVVZRGhEbE5LU1JvSXhGY1lnQXNnUFhXVWs1cXZ0Z2tETGJxbGY4Mlc2V2kyRHZUMlgwSFpTdVVuUy0ySVdsWUJpN0JvQTJLbGo?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Best Amazon Prime Day deals under $25: Top deals on cheap gadgets I've tested",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBfdmZlRVFyVjE0TE13OXo3REplbTZfdG1QVFhGVHVwcGxSQkZoV0lMQUljbVVZRGhEbE5LU1JvSXhGY1lnQXNnUFhXVWs1cXZ0Z2tETGJxbGY4Mlc2V2kyRHZUMlgwSFpTdVVuUy0ySVdsWUJpN0JvQTJLbGo?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Upgrade your home office for less with these Prime Day deals on editor-loved tech, desk chairs and more",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbUkzMGE0WTQxVVg0ZlVsTHhtQXFGLUFYX3poeHNMSDBsTzFTMTRxbURHX3ZYX3Z1em9tMHhXSmYxZjF3LUNpTkdHZDlDVFJVTG9welc3aUtKZGxCUnVkQ1RYSzZKazZKemdjTnlUX1BaUHVoTzIyNU9xei1nendIc1QyUjBYeVFsbEJlNFRYUGU?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Upgrade your home office for less with these Prime Day deals on editor-loved tech, desk chairs and more",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbUkzMGE0WTQxVVg0ZlVsTHhtQXFGLUFYX3poeHNMSDBsTzFTMTRxbURHX3ZYX3Z1em9tMHhXSmYxZjF3LUNpTkdHZDlDVFJVTG9welc3aUtKZGxCUnVkQ1RYSzZKazZKemdjTnlUX1BaUHVoTzIyNU9xei1nendIc1QyUjBYeVFsbEJlNFRYUGU?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "AI shopping tools can help you find the best Amazon Prime Day deals",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUWdhU0dyXzZydTRNZlBYODdYdnVqUFdURHFPUGlUckRjM09ObGlUangzcDgwaDBxdFJsTVVjQk1peHducEpRMUJfWXlJdWVQV2pac0Z0a3lZOVk1OFNYODZPT09DdnY2ZmxkRGF3aEx6Nmc0MWphSmZwV2puYTY5b1hqT2dLX2VhaHZNOXRjOXZGSENXbi1CZVBNcV9YaThCUnNfbjdCX3RBUkJFZFdwUHpBc0lOTEJDWTJpSkQtTEJmenM?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "71c75cdf6cf5",
-      "slug": "prime-deals"
-    },
-    {
-      "keyword": "claude ai",
-      "count": 10,
-      "score": 113.01398534949482,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
-          "url": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/",
-          "source": "hackernews"
-        },
-        {
-          "title": "Oh, so now scraping data without permission is bad for AI training? 😂 how ironic 😉 Anthropic accuses Alibaba of using thousands fraudulent accounts to extract Claude AI model capabiliti and data. An",
-          "url": "https://mastodon.social/@nixCraft/116808645149897421",
-          "source": "mastodon"
-        }
-      ],
-      "id": "be3b5ed12e07",
-      "slug": "claude-ai"
-    },
-    {
       "keyword": "google oauth",
       "count": 8,
-      "score": 85.0115566809306,
+      "score": 92.77559153537595,
       "proper": true,
       "niches": [
         "ai"
@@ -404,134 +342,216 @@
       "slug": "google-oauth"
     },
     {
-      "keyword": "rag database",
+      "keyword": "wikipedia workers",
       "count": 8,
-      "score": 83.33804987116638,
+      "score": 83.07150387731865,
       "proper": true,
       "niches": [
         "ai"
       ],
       "examples": [
         {
-          "title": "Bible as RAG Database",
-          "url": "https://www.crosscanon.com/",
+          "title": "Wikipedia Workers in Britain set global first by seeking union recognition",
+          "url": "https://utaw.tech/news/wikipedia-recognition",
           "source": "hackernews"
         },
         {
-          "title": "Bible as RAG Database",
-          "url": "https://www.crosscanon.com/",
+          "title": "Wikipedia Workers in Britain set global first by seeking union recognition",
+          "url": "https://utaw.tech/news/wikipedia-recognition",
           "source": "hackernews"
         }
       ],
-      "id": "866d8ad396cb",
-      "slug": "rag-database"
+      "id": "8df1f9cbe575",
+      "slug": "wikipedia-workers"
     },
     {
-      "keyword": "tech deals",
+      "keyword": "apple",
+      "count": 10,
+      "score": 82.1200505904739,
+      "proper": true,
+      "niches": [
+        "software"
+      ],
+      "examples": [
+        {
+          "title": "Remember when we used to be excited when Apple took the store offline for product changes?",
+          "url": "https://mastodon.social/@siracusa/116811192219497196",
+          "source": "mastodon"
+        },
+        {
+          "title": "Apple increases MacBook and iPad prices by 20%",
+          "url": "https://www.ft.com/content/0f067265-2baf-4b6e-8fb2-ed56daef6f3c",
+          "source": "hackernews"
+        }
+      ],
+      "id": "3a7bd3e2360a",
+      "slug": "apple"
+    },
+    {
+      "keyword": "notebooklm review",
       "count": 11,
-      "score": 77.49103874766985,
+      "score": 66.42089035514559,
       "proper": true,
       "niches": [
-        "gear"
-      ],
-      "examples": [
-        {
-          "title": "The Best Prime Day Tech Deals on the Gadgets You Actually Want",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB0bV9xVElQeHlZWnBNVDJqbDJnaEJPTWVOQmxualBza1IyWG05ZGhBMXJhMDRqTzNkNXYzT080am9XN1pvYkNqT2h3UVVLQm1vV0E4QkJ5RGFHazk0SkFUNHlCOXZxVDZGU0c5Wk95QklpUEk?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "The Best Prime Day Tech Deals on the Gadgets You Actually Want",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB0bV9xVElQeHlZWnBNVDJqbDJnaEJPTWVOQmxualBza1IyWG05ZGhBMXJhMDRqTzNkNXYzT080am9XN1pvYkNqT2h3UVVLQm1vV0E4QkJ5RGFHazk0SkFUNHlCOXZxVDZGU0c5Wk95QklpUEk?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "The Best Prime Day Tech Deals on the Gadgets You Actually Want",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB0bV9xVElQeHlZWnBNVDJqbDJnaEJPTWVOQmxualBza1IyWG05ZGhBMXJhMDRqTzNkNXYzT080am9XN1pvYkNqT2h3UVVLQm1vV0E4QkJ5RGFHazk0SkFUNHlCOXZxVDZGU0c5Wk95QklpUEk?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "27a62e6e87d9",
-      "slug": "tech-deals"
-    },
-    {
-      "keyword": "home office",
-      "count": 30,
-      "score": 76.27177415198972,
-      "proper": false,
-      "niches": [
-        "ai",
-        "gear",
-        "general"
-      ],
-      "examples": [
-        {
-          "title": "Upgrade your home office for less with these Prime Day deals on editor-loved tech, desk chairs and more",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbUkzMGE0WTQxVVg0ZlVsTHhtQXFGLUFYX3poeHNMSDBsTzFTMTRxbURHX3ZYX3Z1em9tMHhXSmYxZjF3LUNpTkdHZDlDVFJVTG9welc3aUtKZGxCUnVkQ1RYSzZKazZKemdjTnlUX1BaUHVoTzIyNU9xei1nendIc1QyUjBYeVFsbEJlNFRYUGU?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Upgrade your home office for less with these Prime Day deals on editor-loved tech, desk chairs and more",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbUkzMGE0WTQxVVg0ZlVsTHhtQXFGLUFYX3poeHNMSDBsTzFTMTRxbURHX3ZYX3Z1em9tMHhXSmYxZjF3LUNpTkdHZDlDVFJVTG9welc3aUtKZGxCUnVkQ1RYSzZKazZKemdjTnlUX1BaUHVoTzIyNU9xei1nendIc1QyUjBYeVFsbEJlNFRYUGU?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Upgrade your home office for less with these Prime Day deals on editor-loved tech, desk chairs and more",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQejJaaFYzSG5TU1ZvUHFEYjhISkRaOXQtdnlYcVZwSk5yc2tZSWdmZDk1Qm5CVl9UWDlnZHdlM0w0anB2c0FpdVBOb1k0YXg0YUNQbGtOVmNoWWc2SHdCcFFwUk9JWW0zRWx3REVxcTk2XzY4dGRaa0FuVG95NnZtbmJheUhDekpucTJfU0ltZ00xZVNrd1E?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Upgrade your home office for less with these Prime Day deals on editor-loved tech, desk chairs and more",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQejJaaFYzSG5TU1ZvUHFEYjhISkRaOXQtdnlYcVZwSk5yc2tZSWdmZDk1Qm5CVl9UWDlnZHdlM0w0anB2c0FpdVBOb1k0YXg0YUNQbGtOVmNoWWc2SHdCcFFwUk9JWW0zRWx3REVxcTk2XzY4dGRaa0FuVG95NnZtbmJheUhDekpucTJfU0ltZ00xZVNrd1E?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "The #1 Thing Experts Say to Toss From Your Home Office",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQzNtM1pZendxQ0pQcHF2UU1xVG9ZSG9NOG1ZLU42MVQ5OEtqcUVtbG9VbW5id2pPQnBPY1pmQ1BDbXBNNU1IX0JVbllTc0M3T0VwUDFVSDI0WnV4ai1DbzRpOWg5dEo5anJGS2ZkZ256V3ZPV1ZEcGU2RDJITmNLa1ZnenpRb2du?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "307a7ba80d0f",
-      "slug": "home-office"
-    },
-    {
-      "keyword": "amazon prime",
-      "count": 12,
-      "score": 67.65950835710635,
-      "proper": false,
-      "niches": [
-        "gear",
         "ai"
       ],
       "examples": [
         {
-          "title": "Best Amazon Prime Day deals under $25: Top deals on cheap gadgets I've tested",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBfdmZlRVFyVjE0TE13OXo3REplbTZfdG1QVFhGVHVwcGxSQkZoV0lMQUljbVVZRGhEbE5LU1JvSXhGY1lnQXNnUFhXVWs1cXZ0Z2tETGJxbGY4Mlc2V2kyRHZUMlgwSFpTdVVuUy0ySVdsWUJpN0JvQTJLbGo?oc=5",
+          "title": "NotebookLM Review: There's Nothing Quite Like This AI Tool",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOYm01UGxPYUNGQTV1WmZITk5sUDVfS3hPLVF1MHc2Y0piOGZmUVpYNU5hYWRSSWE1QlJDbWtPNHd3eWQweEIxdXFCdDlURFRtVlBqVGw4Qm5seUFxVjdYMWp3OXR2U1BUZV9MZGpYWFJGUVU1dTlpZ1dxNkRCTjVEcml2ZU5DNi10RFVXMHdqYkQyQ0N1MlE2UlBtTG5OSEYtdjkxWDZXbnFMcl9JOGFYbEdjbE1EUUlJLVpQT0ltZEk4ajJxYUE?oc=5",
           "source": "gnews"
         },
         {
-          "title": "Best Amazon Prime Day deals under $25: Top deals on cheap gadgets I've tested",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBfdmZlRVFyVjE0TE13OXo3REplbTZfdG1QVFhGVHVwcGxSQkZoV0lMQUljbVVZRGhEbE5LU1JvSXhGY1lnQXNnUFhXVWs1cXZ0Z2tETGJxbGY4Mlc2V2kyRHZUMlgwSFpTdVVuUy0ySVdsWUJpN0JvQTJLbGo?oc=5",
+          "title": "NotebookLM Review: There's Nothing Quite Like This AI Tool",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOYm01UGxPYUNGQTV1WmZITk5sUDVfS3hPLVF1MHc2Y0piOGZmUVpYNU5hYWRSSWE1QlJDbWtPNHd3eWQweEIxdXFCdDlURFRtVlBqVGw4Qm5seUFxVjdYMWp3OXR2U1BUZV9MZGpYWFJGUVU1dTlpZ1dxNkRCTjVEcml2ZU5DNi10RFVXMHdqYkQyQ0N1MlE2UlBtTG5OSEYtdjkxWDZXbnFMcl9JOGFYbEdjbE1EUUlJLVpQT0ltZEk4ajJxYUE?oc=5",
           "source": "gnews"
         },
         {
-          "title": "AI shopping tools can help you find the best Amazon Prime Day deals",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUWdhU0dyXzZydTRNZlBYODdYdnVqUFdURHFPUGlUckRjM09ObGlUangzcDgwaDBxdFJsTVVjQk1peHducEpRMUJfWXlJdWVQV2pac0Z0a3lZOVk1OFNYODZPT09DdnY2ZmxkRGF3aEx6Nmc0MWphSmZwV2puYTY5b1hqT2dLX2VhaHZNOXRjOXZGSENXbi1CZVBNcV9YaThCUnNfbjdCX3RBUkJFZFdwUHpBc0lOTEJDWTJpSkQtTEJmenM?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "AI shopping tools can help you find the best Amazon Prime Day deals",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUWdhU0dyXzZydTRNZlBYODdYdnVqUFdURHFPUGlUckRjM09ObGlUangzcDgwaDBxdFJsTVVjQk1peHducEpRMUJfWXlJdWVQV2pac0Z0a3lZOVk1OFNYODZPT09DdnY2ZmxkRGF3aEx6Nmc0MWphSmZwV2puYTY5b1hqT2dLX2VhaHZNOXRjOXZGSENXbi1CZVBNcV9YaThCUnNfbjdCX3RBUkJFZFdwUHpBc0lOTEJDWTJpSkQtTEJmenM?oc=5",
+          "title": "NotebookLM Review: There's Nothing Quite Like This AI Tool",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOYm01UGxPYUNGQTV1WmZITk5sUDVfS3hPLVF1MHc2Y0piOGZmUVpYNU5hYWRSSWE1QlJDbWtPNHd3eWQweEIxdXFCdDlURFRtVlBqVGw4Qm5seUFxVjdYMWp3OXR2U1BUZV9MZGpYWFJGUVU1dTlpZ1dxNkRCTjVEcml2ZU5DNi10RFVXMHdqYkQyQ0N1MlE2UlBtTG5OSEYtdjkxWDZXbnFMcl9JOGFYbEdjbE1EUUlJLVpQT0ltZEk4ajJxYUE?oc=5",
           "source": "gnews"
         }
       ],
-      "id": "ea7b41fec124",
-      "slug": "amazon-prime"
+      "id": "b6c13efd7d03",
+      "slug": "notebooklm-review"
     },
     {
-      "keyword": "productivity apps",
-      "count": 30,
-      "score": 63.78882710097899,
+      "keyword": "claude ai",
+      "count": 5,
+      "score": 65.98348092849909,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
+          "url": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/",
+          "source": "hackernews"
+        }
+      ],
+      "id": "be3b5ed12e07",
+      "slug": "claude-ai"
+    },
+    {
+      "keyword": "profited.now",
+      "count": 5,
+      "score": 63.26626756943874,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "This is NOT ‘just a hot summer.’It is Big Oil and Gas’s business model made visible in sweat, burned crops and packed emergency rooms.Polluters KNEW, they LIED, they PROFITED.Now it is time to make th",
+          "url": "https://mastodon.social/@greenpeace/116810635383038017",
+          "source": "mastodon"
+        }
+      ],
+      "id": "7a36303e373e",
+      "slug": "profitednow"
+    },
+    {
+      "keyword": "nvidia bionemo",
+      "count": 8,
+      "score": 62.59683789783286,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "NVIDIA-BioNeMo/bionemo-agent-toolkit — Turn any agent into a life science expert with NVIDIA BioNeMo skills.",
+          "url": "https://github.com/NVIDIA-BioNeMo/bionemo-agent-toolkit",
+          "source": "github"
+        },
+        {
+          "title": "NVIDIA-BioNeMo/bionemo-agent-toolkit — Turn any agent into a life science expert with NVIDIA BioNeMo skills.",
+          "url": "https://github.com/NVIDIA-BioNeMo/bionemo-agent-toolkit",
+          "source": "github"
+        }
+      ],
+      "id": "ad708eee98bc",
+      "slug": "nvidia-bionemo"
+    },
+    {
+      "keyword": "software lifecycle",
+      "count": 11,
+      "score": 58.75694146801339,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "AI Is Moving up the Software Lifecycle: From Code Review to PRD Governance",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1TeGlvLWJmcWpjdFpvQUV0ZWRMUnBycWZlYVFqQXVyb0tmdl9yUmxhTmZUb2dmU2VueHMweUdVT1lLbjdfckdSaGYteEREN2J2VTBYYzdXZmFKWlhNejdlaS1CRjBnbFRDcWpBQ0drRTljaUE?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "AI Is Moving up the Software Lifecycle: From Code Review to PRD Governance",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1TeGlvLWJmcWpjdFpvQUV0ZWRMUnBycWZlYVFqQXVyb0tmdl9yUmxhTmZUb2dmU2VueHMweUdVT1lLbjdfckdSaGYteEREN2J2VTBYYzdXZmFKWlhNejdlaS1CRjBnbFRDcWpBQ0drRTljaUE?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "AI Is Moving up the Software Lifecycle: From Code Review to PRD Governance",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1TeGlvLWJmcWpjdFpvQUV0ZWRMUnBycWZlYVFqQXVyb0tmdl9yUmxhTmZUb2dmU2VueHMweUdVT1lLbjdfckdSaGYteEREN2J2VTBYYzdXZmFKWlhNejdlaS1CRjBnbFRDcWpBQ0drRTljaUE?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "1505181f52eb",
+      "slug": "software-lifecycle"
+    },
+    {
+      "keyword": "prd governance",
+      "count": 11,
+      "score": 58.75694146801339,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "AI Is Moving up the Software Lifecycle: From Code Review to PRD Governance",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1TeGlvLWJmcWpjdFpvQUV0ZWRMUnBycWZlYVFqQXVyb0tmdl9yUmxhTmZUb2dmU2VueHMweUdVT1lLbjdfckdSaGYteEREN2J2VTBYYzdXZmFKWlhNejdlaS1CRjBnbFRDcWpBQ0drRTljaUE?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "AI Is Moving up the Software Lifecycle: From Code Review to PRD Governance",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1TeGlvLWJmcWpjdFpvQUV0ZWRMUnBycWZlYVFqQXVyb0tmdl9yUmxhTmZUb2dmU2VueHMweUdVT1lLbjdfckdSaGYteEREN2J2VTBYYzdXZmFKWlhNejdlaS1CRjBnbFRDcWpBQ0drRTljaUE?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "AI Is Moving up the Software Lifecycle: From Code Review to PRD Governance",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1TeGlvLWJmcWpjdFpvQUV0ZWRMUnBycWZlYVFqQXVyb0tmdl9yUmxhTmZUb2dmU2VueHMweUdVT1lLbjdfckdSaGYteEREN2J2VTBYYzdXZmFKWlhNejdlaS1CRjBnbFRDcWpBQ0drRTljaUE?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "776482c357ca",
+      "slug": "prd-governance"
+    },
+    {
+      "keyword": "generative ai saas",
+      "count": 5,
+      "score": 57.98474470960998,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "benlamiro/ShipGenAI — 🚀 50 production-ready Generative AI SaaS apps — brand them, ship them, keep 100% of the revenue. Stripe billing · Google OAuth · Vercel deploy · MIT licensed",
+          "url": "https://github.com/benlamiro/ShipGenAI",
+          "source": "github"
+        }
+      ],
+      "id": "90205d0c722d",
+      "slug": "generative-ai-saas"
+    },
+    {
+      "keyword": "software",
+      "count": 14,
+      "score": 54.48271882187736,
       "proper": false,
       "niches": [
         "ai",
@@ -539,38 +559,61 @@
       ],
       "examples": [
         {
-          "title": "Apple’s productivity apps have a small but useful AI enhancement in macOS 27",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObkk3bzZXWC1IaTQ0QTdxSmxCM3AyV0lJRWg0WHhrRFlxcFB6TXZsWEQ0QzRUMmZqeHR4anNRQmVISEYtc3VwR3hOalpadENOcDNaendsWU84aHVaUGd0UWZmU1B2TjlqVnlSZGg5NGZpMmlqR1hkN3N4SWQ1SG1GS2Z5bERsZ3EwWkJoTTFkc2dPbEpPV3hkRURjRV9Ha0YwTnVhcFZkZUhmLWc?oc=5",
+          "title": "Software Engineers Are Facing an Existential Crisis As They Drown In Horrendous AI Code",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQTlubzAwLU00b0dtTktjbXdHQ0lIY29kS1VHWE5IWlBMVkdQZElfb3k0Qk9LSExOb2ZaaWZjN2kxTWU4RTVrUWF0bjhUUkpmT2RDbVRtZVVneWhMSlR0d0ViQzhDZndlbDJoa3RTc3h1ZklqQ1BsdUJrRFpBZFBuOGJOTUJHa053dW1mcQ?oc=5",
           "source": "gnews"
         },
         {
-          "title": "Apple’s productivity apps have a small but useful AI enhancement in macOS 27",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObkk3bzZXWC1IaTQ0QTdxSmxCM3AyV0lJRWg0WHhrRFlxcFB6TXZsWEQ0QzRUMmZqeHR4anNRQmVISEYtc3VwR3hOalpadENOcDNaendsWU84aHVaUGd0UWZmU1B2TjlqVnlSZGg5NGZpMmlqR1hkN3N4SWQ1SG1GS2Z5bERsZ3EwWkJoTTFkc2dPbEpPV3hkRURjRV9Ha0YwTnVhcFZkZUhmLWc?oc=5",
+          "title": "Software Engineers Are Facing an Existential Crisis As They Drown In Horrendous AI Code",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQTlubzAwLU00b0dtTktjbXdHQ0lIY29kS1VHWE5IWlBMVkdQZElfb3k0Qk9LSExOb2ZaaWZjN2kxTWU4RTVrUWF0bjhUUkpmT2RDbVRtZVVneWhMSlR0d0ViQzhDZndlbDJoa3RTc3h1ZklqQ1BsdUJrRFpBZFBuOGJOTUJHa053dW1mcQ?oc=5",
           "source": "gnews"
         },
         {
-          "title": "Why I ditched paid productivity apps for this free open-source alternative - How-To Geek",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTE9jOUhlQl9jazRtcXBDdERaa3FWaFNnV3dzZ1NkbTE2ckZhbGVaTTdFck4xMW50QktnbUFoS183YzJWcUprSTJEbjhYUkR0NlJmaWhZM0d4QkdaREhnV3JXMkZ2NktjWl9xTHNoWjVVbE85cnhKSTdvOWRkaGI5cGFRU01aSWF6V0tMVTdpY2R5ck5LYUF3ZzdqMUZLQQ?oc=5",
+          "title": "Qualcomm to buy startup Modular for $4 billion in AI software push",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNUVdoZzZMMXY4aG1hb2ZsRnFKZF9oOU9CVl9QQ3hQa1cxQ1FpT3QxeXFnQy1PSWxvY0tBVmptczRQaW1zWlVrem96MVBFcDRaeE1zQy12eU96bXpMbG5yc2Q0WWdDcDBGbzg0dzFVdTNlVlMzTS1TenJJNE1qM0phMVRB?oc=5",
           "source": "gnews"
         },
         {
-          "title": "Why I ditched paid productivity apps for this free open-source alternative - How-To Geek",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTE9jOUhlQl9jazRtcXBDdERaa3FWaFNnV3dzZ1NkbTE2ckZhbGVaTTdFck4xMW50QktnbUFoS183YzJWcUprSTJEbjhYUkR0NlJmaWhZM0d4QkdaREhnV3JXMkZ2NktjWl9xTHNoWjVVbE85cnhKSTdvOWRkaGI5cGFRU01aSWF6V0tMVTdpY2R5ck5LYUF3ZzdqMUZLQQ?oc=5",
+          "title": "Qualcomm to buy startup Modular for $4 billion in AI software push",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNUVdoZzZMMXY4aG1hb2ZsRnFKZF9oOU9CVl9QQ3hQa1cxQ1FpT3QxeXFnQy1PSWxvY0tBVmptczRQaW1zWlVrem96MVBFcDRaeE1zQy12eU96bXpMbG5yc2Q0WWdDcDBGbzg0dzFVdTNlVlMzTS1TenJJNE1qM0phMVRB?oc=5",
           "source": "gnews"
         },
         {
-          "title": "The Best Productivity Apps We've Tested for 2026",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9veGdZYVZtQXhoeGdoN19Db0JwMFZndFd3a3dIczJDZkIxeHBPUHEySTlDT2xzZS1PVkdCVnpla0pWWjRMUVczUm9kaVhnOFB3MzNpNk1YUnl2LUI5YVVJ?oc=5",
+          "title": "Infosys boss says vibe coding is no threat because there’s more to writing software than writing software",
+          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNYW43V0RDczlDeTdXVng2ODJEY2xzejUzdEZkbjNZdHVreGUxd3ZWTmZYS0x5cGtrTkRjMEZqaE5ZbHNIb2pjZlgtNmotOEtlQklaWnBIMFBoMnVuWjRJN2RLVEMwM2JaQjlwRjZESnp2WTNOSDhxSFBsclFzQlR0RkYzSkpkc2NLemhUQ0llMXlPYUNLLUowRDZON3V6YWc4RFFnVVd3NndObWMtRks3NTRoa2pIWEdxckFzSHV4ZV91WVphSmdQdTVRSEtIa0dVRTYzQThYcmRZWGtfVVNTbHRIRHNEOGFCME9SSTA5Wl8?oc=5",
           "source": "gnews"
         }
       ],
-      "id": "c3d816ac2a46",
-      "slug": "productivity-apps"
+      "id": "35390f5453e8",
+      "slug": "software"
+    },
+    {
+      "keyword": "knowledge graph",
+      "count": 8,
+      "score": 53.66250420605535,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "Simpl3x3/ESEILANE — High-performance Knowledge Graph engine for AI, LLMs, and GraphRAG — built for the next generation of intelligent applications.",
+          "url": "https://github.com/Simpl3x3/ESEILANE",
+          "source": "github"
+        },
+        {
+          "title": "Simpl3x3/ESEILANE — High-performance Knowledge Graph engine for AI, LLMs, and GraphRAG — built for the next generation of intelligent applications.",
+          "url": "https://github.com/Simpl3x3/ESEILANE",
+          "source": "github"
+        }
+      ],
+      "id": "0071e48609df",
+      "slug": "knowledge-graph"
     },
     {
       "keyword": "tool",
-      "count": 12,
-      "score": 63.529564657623126,
+      "count": 11,
+      "score": 52.24786153623249,
       "proper": true,
       "niches": [
         "software",
@@ -578,14 +621,9 @@
       ],
       "examples": [
         {
-          "title": "anelaromi544/Flash-USDT-Sender — Flash USDT Sender — Multi-network flash transaction tool for USDT, BTC, and ETH with configurable duration, custom gas settings, ERC-20/TRC-20/BEP-20 support, and bloc",
-          "url": "https://github.com/anelaromi544/Flash-USDT-Sender",
-          "source": "github"
-        },
-        {
-          "title": "sherryf71/Exodus-Fake-Balance — Exodus Fake Balance — Native balance overlay tool for Exodus wallet with real-time spoofing across BTC, ETH, SOL, XRP and 200+ assets, persistent hooks, and screenshot-",
-          "url": "https://github.com/sherryf71/Exodus-Fake-Balance",
-          "source": "github"
+          "title": "Huh! I was today years old when I realised that the mighty @libreoffice has a great tool for generating QR. In a world where online QR code generators tend to re route via themselves this is an awesom",
+          "url": "https://mastodon.social/@concretedog/116811167004066974",
+          "source": "mastodon"
         },
         {
           "title": "Medical students are using popular research tool to pump out misleading studies",
@@ -593,185 +631,69 @@
           "source": "hackernews"
         },
         {
-          "title": "I finally found the best personal knowledge management tool on Android after years of switching back and forth",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNTVTSERBdnlHLVJGN3pOVkhvSER0UTVHYTQtQmVKbl9tVHpwbUVwV3REODlUQkRydVRhSTNYeERHTDFSNGg3RVgzVjlWOW5BZ1owZnpNQko0M3JaVEFYbzFmVVhqNHpTaVFPRm1Mb0dMU3VKRnJkUHp0VW9KT3gzVTFLZUIyaldDdjNyOE45UFZzWExkNGloc3I0Nm5TVkt0b0xBbVFGT2ZIUE1vM2pmdXE2OVdsOHBOOEFLcEJ0ODVNcmZKU0E?oc=5",
+          "title": "NotebookLM Review: There's Nothing Quite Like This AI Tool",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOYm01UGxPYUNGQTV1WmZITk5sUDVfS3hPLVF1MHc2Y0piOGZmUVpYNU5hYWRSSWE1QlJDbWtPNHd3eWQweEIxdXFCdDlURFRtVlBqVGw4Qm5seUFxVjdYMWp3OXR2U1BUZV9MZGpYWFJGUVU1dTlpZ1dxNkRCTjVEcml2ZU5DNi10RFVXMHdqYkQyQ0N1MlE2UlBtTG5OSEYtdjkxWDZXbnFMcl9JOGFYbEdjbE1EUUlJLVpQT0ltZEk4ajJxYUE?oc=5",
           "source": "gnews"
         },
         {
-          "title": "I finally found the best personal knowledge management tool on Android after years of switching back and forth",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNTVTSERBdnlHLVJGN3pOVkhvSER0UTVHYTQtQmVKbl9tVHpwbUVwV3REODlUQkRydVRhSTNYeERHTDFSNGg3RVgzVjlWOW5BZ1owZnpNQko0M3JaVEFYbzFmVVhqNHpTaVFPRm1Mb0dMU3VKRnJkUHp0VW9KT3gzVTFLZUIyaldDdjNyOE45UFZzWExkNGloc3I0Nm5TVkt0b0xBbVFGT2ZIUE1vM2pmdXE2OVdsOHBOOEFLcEJ0ODVNcmZKU0E?oc=5",
+          "title": "NotebookLM Review: There's Nothing Quite Like This AI Tool",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOYm01UGxPYUNGQTV1WmZITk5sUDVfS3hPLVF1MHc2Y0piOGZmUVpYNU5hYWRSSWE1QlJDbWtPNHd3eWQweEIxdXFCdDlURFRtVlBqVGw4Qm5seUFxVjdYMWp3OXR2U1BUZV9MZGpYWFJGUVU1dTlpZ1dxNkRCTjVEcml2ZU5DNi10RFVXMHdqYkQyQ0N1MlE2UlBtTG5OSEYtdjkxWDZXbnFMcl9JOGFYbEdjbE1EUUlJLVpQT0ltZEk4ajJxYUE?oc=5",
           "source": "gnews"
+        },
+        {
+          "title": "The Exhaustion of Talking to a Tool",
+          "url": "https://ohadravid.github.io/posts/2026-06-tool-talking/",
+          "source": "lobsters"
         }
       ],
       "id": "7c9bbe5ec9b3",
       "slug": "tool"
     },
     {
-      "keyword": "gemini",
-      "count": 7,
-      "score": 62.073424766430634,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "Computer use in Gemini 3.5 Flash",
-          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/",
-          "source": "hackernews"
-        },
-        {
-          "title": "Computer use in Gemini 3.5 Flash",
-          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/",
-          "source": "hackernews"
-        },
-        {
-          "title": "The Oracle and the Wolf: I Made Gemini Lose Like a Kid 🐺",
-          "url": "https://dev.to/anchildress1/the-oracle-and-the-wolf-i-made-gemini-lose-like-a-kid-3nk5",
-          "source": "devto"
-        }
-      ],
-      "id": "5d72436256ad",
-      "slug": "gemini"
-    },
-    {
-      "keyword": "upgrade home",
-      "count": 12,
-      "score": 60.69228209607709,
+      "keyword": "passive",
+      "count": 16,
+      "score": 50.286600652521365,
       "proper": false,
       "niches": [
+        "finance",
         "ai"
       ],
       "examples": [
         {
-          "title": "Upgrade your home office for less with these Prime Day deals on editor-loved tech, desk chairs and more",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbUkzMGE0WTQxVVg0ZlVsTHhtQXFGLUFYX3poeHNMSDBsTzFTMTRxbURHX3ZYX3Z1em9tMHhXSmYxZjF3LUNpTkdHZDlDVFJVTG9welc3aUtKZGxCUnVkQ1RYSzZKazZKemdjTnlUX1BaUHVoTzIyNU9xei1nendIc1QyUjBYeVFsbEJlNFRYUGU?oc=5",
+          "title": "This High-Conviction Dividend Stock Just Triggered a Rare Buying Opportunity for Passive Income Investors",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOeFlPZTNjWW5QV1ljYXJtdWMzMWpma1hSV3kxZF9zVlN0RmdzSDl6UzBNZkNjX1doWUM3TENaRjU2V3dNamplaC1malExZWUtS1pEVXZXNnZ4SV9aTEJMU3Z0QWFib3Qya3N2MUNhTG0tYURDT01OSUhkOVF0WUUyUkVqSzRrSHQ0b0hPVzIwQ0tyRDN0azQ2cm5DWXBqUkVHSEE?oc=5",
           "source": "gnews"
         },
         {
-          "title": "Upgrade your home office for less with these Prime Day deals on editor-loved tech, desk chairs and more",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbUkzMGE0WTQxVVg0ZlVsTHhtQXFGLUFYX3poeHNMSDBsTzFTMTRxbURHX3ZYX3Z1em9tMHhXSmYxZjF3LUNpTkdHZDlDVFJVTG9welc3aUtKZGxCUnVkQ1RYSzZKazZKemdjTnlUX1BaUHVoTzIyNU9xei1nendIc1QyUjBYeVFsbEJlNFRYUGU?oc=5",
+          "title": "This High-Conviction Dividend Stock Just Triggered a Rare Buying Opportunity for Passive Income Investors",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOeFlPZTNjWW5QV1ljYXJtdWMzMWpma1hSV3kxZF9zVlN0RmdzSDl6UzBNZkNjX1doWUM3TENaRjU2V3dNamplaC1malExZWUtS1pEVXZXNnZ4SV9aTEJMU3Z0QWFib3Qya3N2MUNhTG0tYURDT01OSUhkOVF0WUUyUkVqSzRrSHQ0b0hPVzIwQ0tyRDN0azQ2cm5DWXBqUkVHSEE?oc=5",
           "source": "gnews"
         },
         {
-          "title": "Upgrade your home office for less with these Prime Day deals on editor-loved tech, desk chairs and more",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQejJaaFYzSG5TU1ZvUHFEYjhISkRaOXQtdnlYcVZwSk5yc2tZSWdmZDk1Qm5CVl9UWDlnZHdlM0w0anB2c0FpdVBOb1k0YXg0YUNQbGtOVmNoWWc2SHdCcFFwUk9JWW0zRWx3REVxcTk2XzY4dGRaa0FuVG95NnZtbmJheUhDekpucTJfU0ltZ00xZVNrd1E?oc=5",
+          "title": "Chevron Has Surged Over 14% in 2026 and Still Yields 4.1%. Is It Still Worth Buying for Passive Income Now?",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdXdMY2ZYaFZRa1h4T3k0S19FRm1uUTg2ckc0cWtJV1FneU1oOHpIczBfUHlEd0NMMkN4aUVoSGRTX0kwbHVBWjhKTl9OYTZCd1FQclFtY2ZaN1BzMlA2WUlXdHZ3dGxnODljbEFtZUQwVDVBNW50aE9JalEwUHVYa3ZnRVNQaGhYVlhCVm5PSktycVRQZ3lrTw?oc=5",
           "source": "gnews"
         },
         {
-          "title": "Upgrade your home office for less with these Prime Day deals on editor-loved tech, desk chairs and more",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQejJaaFYzSG5TU1ZvUHFEYjhISkRaOXQtdnlYcVZwSk5yc2tZSWdmZDk1Qm5CVl9UWDlnZHdlM0w0anB2c0FpdVBOb1k0YXg0YUNQbGtOVmNoWWc2SHdCcFFwUk9JWW0zRWx3REVxcTk2XzY4dGRaa0FuVG95NnZtbmJheUhDekpucTJfU0ltZ00xZVNrd1E?oc=5",
+          "title": "Chevron Has Surged Over 14% in 2026 and Still Yields 4.1%. Is It Still Worth Buying for Passive Income Now?",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdXdMY2ZYaFZRa1h4T3k0S19FRm1uUTg2ckc0cWtJV1FneU1oOHpIczBfUHlEd0NMMkN4aUVoSGRTX0kwbHVBWjhKTl9OYTZCd1FQclFtY2ZaN1BzMlA2WUlXdHZ3dGxnODljbEFtZUQwVDVBNW50aE9JalEwUHVYa3ZnRVNQaGhYVlhCVm5PSktycVRQZ3lrTw?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "3 Stocks to Buy for Decades of Passive Income While They're Down",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOY01lUk5YdkdWRXRzcXBibl9QWC0xM2J2Qm81Uk9uMElqRU1zSjZBbWIyWmw3NGc3VF9UaW9DUEd4ZmRYTEg3d0RvM0x2dVlvbjNvRC1oS01oTXFEeG5fN0ViMmpDWXQ5OGFVd05mcXZqRmozZDZVU2huTnN1bUR6WDFLempqOVprR004Z1RIYnRpZmN5b21raQ?oc=5",
           "source": "gnews"
         }
       ],
-      "id": "4cbd3d150cba",
-      "slug": "upgrade-home"
-    },
-    {
-      "keyword": "office less",
-      "count": 12,
-      "score": 60.69228209607709,
-      "proper": false,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "Upgrade your home office for less with these Prime Day deals on editor-loved tech, desk chairs and more",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbUkzMGE0WTQxVVg0ZlVsTHhtQXFGLUFYX3poeHNMSDBsTzFTMTRxbURHX3ZYX3Z1em9tMHhXSmYxZjF3LUNpTkdHZDlDVFJVTG9welc3aUtKZGxCUnVkQ1RYSzZKazZKemdjTnlUX1BaUHVoTzIyNU9xei1nendIc1QyUjBYeVFsbEJlNFRYUGU?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Upgrade your home office for less with these Prime Day deals on editor-loved tech, desk chairs and more",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbUkzMGE0WTQxVVg0ZlVsTHhtQXFGLUFYX3poeHNMSDBsTzFTMTRxbURHX3ZYX3Z1em9tMHhXSmYxZjF3LUNpTkdHZDlDVFJVTG9welc3aUtKZGxCUnVkQ1RYSzZKazZKemdjTnlUX1BaUHVoTzIyNU9xei1nendIc1QyUjBYeVFsbEJlNFRYUGU?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Upgrade your home office for less with these Prime Day deals on editor-loved tech, desk chairs and more",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQejJaaFYzSG5TU1ZvUHFEYjhISkRaOXQtdnlYcVZwSk5yc2tZSWdmZDk1Qm5CVl9UWDlnZHdlM0w0anB2c0FpdVBOb1k0YXg0YUNQbGtOVmNoWWc2SHdCcFFwUk9JWW0zRWx3REVxcTk2XzY4dGRaa0FuVG95NnZtbmJheUhDekpucTJfU0ltZ00xZVNrd1E?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Upgrade your home office for less with these Prime Day deals on editor-loved tech, desk chairs and more",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQejJaaFYzSG5TU1ZvUHFEYjhISkRaOXQtdnlYcVZwSk5yc2tZSWdmZDk1Qm5CVl9UWDlnZHdlM0w0anB2c0FpdVBOb1k0YXg0YUNQbGtOVmNoWWc2SHdCcFFwUk9JWW0zRWx3REVxcTk2XzY4dGRaa0FuVG95NnZtbmJheUhDekpucTJfU0ltZ00xZVNrd1E?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "f0660c042db2",
-      "slug": "office-less"
-    },
-    {
-      "keyword": "less prime",
-      "count": 12,
-      "score": 60.69228209607709,
-      "proper": false,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "Upgrade your home office for less with these Prime Day deals on editor-loved tech, desk chairs and more",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbUkzMGE0WTQxVVg0ZlVsTHhtQXFGLUFYX3poeHNMSDBsTzFTMTRxbURHX3ZYX3Z1em9tMHhXSmYxZjF3LUNpTkdHZDlDVFJVTG9welc3aUtKZGxCUnVkQ1RYSzZKazZKemdjTnlUX1BaUHVoTzIyNU9xei1nendIc1QyUjBYeVFsbEJlNFRYUGU?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Upgrade your home office for less with these Prime Day deals on editor-loved tech, desk chairs and more",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbUkzMGE0WTQxVVg0ZlVsTHhtQXFGLUFYX3poeHNMSDBsTzFTMTRxbURHX3ZYX3Z1em9tMHhXSmYxZjF3LUNpTkdHZDlDVFJVTG9welc3aUtKZGxCUnVkQ1RYSzZKazZKemdjTnlUX1BaUHVoTzIyNU9xei1nendIc1QyUjBYeVFsbEJlNFRYUGU?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Upgrade your home office for less with these Prime Day deals on editor-loved tech, desk chairs and more",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQejJaaFYzSG5TU1ZvUHFEYjhISkRaOXQtdnlYcVZwSk5yc2tZSWdmZDk1Qm5CVl9UWDlnZHdlM0w0anB2c0FpdVBOb1k0YXg0YUNQbGtOVmNoWWc2SHdCcFFwUk9JWW0zRWx3REVxcTk2XzY4dGRaa0FuVG95NnZtbmJheUhDekpucTJfU0ltZ00xZVNrd1E?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Upgrade your home office for less with these Prime Day deals on editor-loved tech, desk chairs and more",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQejJaaFYzSG5TU1ZvUHFEYjhISkRaOXQtdnlYcVZwSk5yc2tZSWdmZDk1Qm5CVl9UWDlnZHdlM0w0anB2c0FpdVBOb1k0YXg0YUNQbGtOVmNoWWc2SHdCcFFwUk9JWW0zRWx3REVxcTk2XzY4dGRaa0FuVG95NnZtbmJheUhDekpucTJfU0ltZ00xZVNrd1E?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "20e5c91ae101",
-      "slug": "less-prime"
-    },
-    {
-      "keyword": "deals editor-loved",
-      "count": 12,
-      "score": 60.69228209607709,
-      "proper": false,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "Upgrade your home office for less with these Prime Day deals on editor-loved tech, desk chairs and more",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbUkzMGE0WTQxVVg0ZlVsTHhtQXFGLUFYX3poeHNMSDBsTzFTMTRxbURHX3ZYX3Z1em9tMHhXSmYxZjF3LUNpTkdHZDlDVFJVTG9welc3aUtKZGxCUnVkQ1RYSzZKazZKemdjTnlUX1BaUHVoTzIyNU9xei1nendIc1QyUjBYeVFsbEJlNFRYUGU?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Upgrade your home office for less with these Prime Day deals on editor-loved tech, desk chairs and more",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbUkzMGE0WTQxVVg0ZlVsTHhtQXFGLUFYX3poeHNMSDBsTzFTMTRxbURHX3ZYX3Z1em9tMHhXSmYxZjF3LUNpTkdHZDlDVFJVTG9welc3aUtKZGxCUnVkQ1RYSzZKazZKemdjTnlUX1BaUHVoTzIyNU9xei1nendIc1QyUjBYeVFsbEJlNFRYUGU?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Upgrade your home office for less with these Prime Day deals on editor-loved tech, desk chairs and more",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQejJaaFYzSG5TU1ZvUHFEYjhISkRaOXQtdnlYcVZwSk5yc2tZSWdmZDk1Qm5CVl9UWDlnZHdlM0w0anB2c0FpdVBOb1k0YXg0YUNQbGtOVmNoWWc2SHdCcFFwUk9JWW0zRWx3REVxcTk2XzY4dGRaa0FuVG95NnZtbmJheUhDekpucTJfU0ltZ00xZVNrd1E?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Upgrade your home office for less with these Prime Day deals on editor-loved tech, desk chairs and more",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQejJaaFYzSG5TU1ZvUHFEYjhISkRaOXQtdnlYcVZwSk5yc2tZSWdmZDk1Qm5CVl9UWDlnZHdlM0w0anB2c0FpdVBOb1k0YXg0YUNQbGtOVmNoWWc2SHdCcFFwUk9JWW0zRWx3REVxcTk2XzY4dGRaa0FuVG95NnZtbmJheUhDekpucTJfU0ltZ00xZVNrd1E?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "0609f56cd071",
-      "slug": "deals-editor-loved"
+      "id": "a7f1d7bc2124",
+      "slug": "passive"
     }
   ],
   "opportunities": [
     {
       "keyword": "passive income",
       "count": 53,
-      "score": 254.73921016888232,
+      "score": 245.15927405996695,
       "proper": true,
       "niches": [
         "finance",
@@ -779,28 +701,28 @@
       ],
       "examples": [
         {
-          "title": "Forget Work. Passive Income Is the New American Dream.",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB2Y080cVF1RlhNQnhsdWl0MEtRUlY4cnlnSWNHSzNVTWZOZ19Jbk52SnJqN3RNdTVRUGxUcHIwUmVyeTIyMHp6N2tWeXJ5bFdiZGsxSEV1RzZLd1JoMklvWHpTZktJSWp5SnEtTENkXzhSeERwVm1F?oc=5",
+          "title": "This High-Conviction Dividend Stock Just Triggered a Rare Buying Opportunity for Passive Income Investors",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOeFlPZTNjWW5QV1ljYXJtdWMzMWpma1hSV3kxZF9zVlN0RmdzSDl6UzBNZkNjX1doWUM3TENaRjU2V3dNamplaC1malExZWUtS1pEVXZXNnZ4SV9aTEJMU3Z0QWFib3Qya3N2MUNhTG0tYURDT01OSUhkOVF0WUUyUkVqSzRrSHQ0b0hPVzIwQ0tyRDN0azQ2cm5DWXBqUkVHSEE?oc=5",
           "source": "gnews"
         },
         {
-          "title": "Forget Work. Passive Income Is the New American Dream.",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB2Y080cVF1RlhNQnhsdWl0MEtRUlY4cnlnSWNHSzNVTWZOZ19Jbk52SnJqN3RNdTVRUGxUcHIwUmVyeTIyMHp6N2tWeXJ5bFdiZGsxSEV1RzZLd1JoMklvWHpTZktJSWp5SnEtTENkXzhSeERwVm1F?oc=5",
+          "title": "This High-Conviction Dividend Stock Just Triggered a Rare Buying Opportunity for Passive Income Investors",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOeFlPZTNjWW5QV1ljYXJtdWMzMWpma1hSV3kxZF9zVlN0RmdzSDl6UzBNZkNjX1doWUM3TENaRjU2V3dNamplaC1malExZWUtS1pEVXZXNnZ4SV9aTEJMU3Z0QWFib3Qya3N2MUNhTG0tYURDT01OSUhkOVF0WUUyUkVqSzRrSHQ0b0hPVzIwQ0tyRDN0azQ2cm5DWXBqUkVHSEE?oc=5",
           "source": "gnews"
         },
         {
-          "title": "SCHD vs. VYMI vs. JEPI: Which Is the Best Dividend ETF for Steady Passive Income?",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxON2hRM1g1TWNRLXo3Uk14WjJZN0Y5OTJZOUdxUndYaDVQSmVCNC02ZmZVLTZUUnZDUGtrdTRlcl9pemJZSzhTeks0QkNyeE94RXFTNEpiYmRSdjJ4NExwajdVZG9RcWt1TG5ZUWxDUjFGdExPZF9YdlRWYjIwazB0aXZIN1V1ckhWRHFpNFdUYjJ5ZXVVS2JqcHlXSDFEWm5XaXU5WExhSkd2NWM?oc=5",
+          "title": "Chevron Has Surged Over 14% in 2026 and Still Yields 4.1%. Is It Still Worth Buying for Passive Income Now?",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdXdMY2ZYaFZRa1h4T3k0S19FRm1uUTg2ckc0cWtJV1FneU1oOHpIczBfUHlEd0NMMkN4aUVoSGRTX0kwbHVBWjhKTl9OYTZCd1FQclFtY2ZaN1BzMlA2WUlXdHZ3dGxnODljbEFtZUQwVDVBNW50aE9JalEwUHVYa3ZnRVNQaGhYVlhCVm5PSktycVRQZ3lrTw?oc=5",
           "source": "gnews"
         },
         {
-          "title": "SCHD vs. VYMI vs. JEPI: Which Is the Best Dividend ETF for Steady Passive Income?",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxON2hRM1g1TWNRLXo3Uk14WjJZN0Y5OTJZOUdxUndYaDVQSmVCNC02ZmZVLTZUUnZDUGtrdTRlcl9pemJZSzhTeks0QkNyeE94RXFTNEpiYmRSdjJ4NExwajdVZG9RcWt1TG5ZUWxDUjFGdExPZF9YdlRWYjIwazB0aXZIN1V1ckhWRHFpNFdUYjJ5ZXVVS2JqcHlXSDFEWm5XaXU5WExhSkd2NWM?oc=5",
+          "title": "Chevron Has Surged Over 14% in 2026 and Still Yields 4.1%. Is It Still Worth Buying for Passive Income Now?",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdXdMY2ZYaFZRa1h4T3k0S19FRm1uUTg2ckc0cWtJV1FneU1oOHpIczBfUHlEd0NMMkN4aUVoSGRTX0kwbHVBWjhKTl9OYTZCd1FQclFtY2ZaN1BzMlA2WUlXdHZ3dGxnODljbEFtZUQwVDVBNW50aE9JalEwUHVYa3ZnRVNQaGhYVlhCVm5PSktycVRQZ3lrTw?oc=5",
           "source": "gnews"
         },
         {
-          "title": "SCHD vs. VYMI vs. JEPI: Which Is the Best Dividend ETF for Steady Passive Income?",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxON2hRM1g1TWNRLXo3Uk14WjJZN0Y5OTJZOUdxUndYaDVQSmVCNC02ZmZVLTZUUnZDUGtrdTRlcl9pemJZSzhTeks0QkNyeE94RXFTNEpiYmRSdjJ4NExwajdVZG9RcWt1TG5ZUWxDUjFGdExPZF9YdlRWYjIwazB0aXZIN1V1ckhWRHFpNFdUYjJ5ZXVVS2JqcHlXSDFEWm5XaXU5WExhSkd2NWM?oc=5",
+          "title": "3 Stocks to Buy for Decades of Passive Income While They're Down",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOY01lUk5YdkdWRXRzcXBibl9QWC0xM2J2Qm81Uk9uMElqRU1zSjZBbWIyWmw3NGc3VF9UaW9DUEd4ZmRYTEg3d0RvM0x2dVlvbjNvRC1oS01oTXFEeG5fN0ViMmpDWXQ5OGFVd05mcXZqRmozZDZVU2huTnN1bUR6WDFLempqOVprR004Z1RIYnRpZmN5b21raQ?oc=5",
           "source": "gnews"
         }
       ],
@@ -812,79 +734,9 @@
       }
     },
     {
-      "keyword": "prime deals",
-      "count": 21,
-      "score": 113.48837442965436,
-      "proper": false,
-      "niches": [
-        "gear",
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "Best Amazon Prime Day deals under $25: Top deals on cheap gadgets I've tested",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBfdmZlRVFyVjE0TE13OXo3REplbTZfdG1QVFhGVHVwcGxSQkZoV0lMQUljbVVZRGhEbE5LU1JvSXhGY1lnQXNnUFhXVWs1cXZ0Z2tETGJxbGY4Mlc2V2kyRHZUMlgwSFpTdVVuUy0ySVdsWUJpN0JvQTJLbGo?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Best Amazon Prime Day deals under $25: Top deals on cheap gadgets I've tested",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBfdmZlRVFyVjE0TE13OXo3REplbTZfdG1QVFhGVHVwcGxSQkZoV0lMQUljbVVZRGhEbE5LU1JvSXhGY1lnQXNnUFhXVWs1cXZ0Z2tETGJxbGY4Mlc2V2kyRHZUMlgwSFpTdVVuUy0ySVdsWUJpN0JvQTJLbGo?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Upgrade your home office for less with these Prime Day deals on editor-loved tech, desk chairs and more",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbUkzMGE0WTQxVVg0ZlVsTHhtQXFGLUFYX3poeHNMSDBsTzFTMTRxbURHX3ZYX3Z1em9tMHhXSmYxZjF3LUNpTkdHZDlDVFJVTG9welc3aUtKZGxCUnVkQ1RYSzZKazZKemdjTnlUX1BaUHVoTzIyNU9xei1nendIc1QyUjBYeVFsbEJlNFRYUGU?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Upgrade your home office for less with these Prime Day deals on editor-loved tech, desk chairs and more",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbUkzMGE0WTQxVVg0ZlVsTHhtQXFGLUFYX3poeHNMSDBsTzFTMTRxbURHX3ZYX3Z1em9tMHhXSmYxZjF3LUNpTkdHZDlDVFJVTG9welc3aUtKZGxCUnVkQ1RYSzZKazZKemdjTnlUX1BaUHVoTzIyNU9xei1nendIc1QyUjBYeVFsbEJlNFRYUGU?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "AI shopping tools can help you find the best Amazon Prime Day deals",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUWdhU0dyXzZydTRNZlBYODdYdnVqUFdURHFPUGlUckRjM09ObGlUangzcDgwaDBxdFJsTVVjQk1peHducEpRMUJfWXlJdWVQV2pac0Z0a3lZOVk1OFNYODZPT09DdnY2ZmxkRGF3aEx6Nmc0MWphSmZwV2puYTY5b1hqT2dLX2VhaHZNOXRjOXZGSENXbi1CZVBNcV9YaThCUnNfbjdCX3RBUkJFZFdwUHpBc0lOTEJDWTJpSkQtTEJmenM?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "71c75cdf6cf5",
-      "slug": "prime-deals",
-      "opportunity": {
-        "type": "affiliate",
-        "recommended": "Write SEO comparison/roundup article with affiliate links."
-      }
-    },
-    {
-      "keyword": "claude ai",
-      "count": 10,
-      "score": 113.01398534949482,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
-          "url": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/",
-          "source": "hackernews"
-        },
-        {
-          "title": "Oh, so now scraping data without permission is bad for AI training? 😂 how ironic 😉 Anthropic accuses Alibaba of using thousands fraudulent accounts to extract Claude AI model capabiliti and data. An",
-          "url": "https://mastodon.social/@nixCraft/116808645149897421",
-          "source": "mastodon"
-        }
-      ],
-      "id": "be3b5ed12e07",
-      "slug": "claude-ai",
-      "opportunity": {
-        "type": "tooling",
-        "recommended": "Build / list AI tools; monetize via affiliate links + lead magnet."
-      }
-    },
-    {
       "keyword": "google oauth",
       "count": 8,
-      "score": 85.0115566809306,
+      "score": 92.77559153537595,
       "proper": true,
       "niches": [
         "ai"
@@ -909,144 +761,160 @@
       }
     },
     {
-      "keyword": "rag database",
+      "keyword": "wikipedia workers",
       "count": 8,
-      "score": 83.33804987116638,
+      "score": 83.07150387731865,
       "proper": true,
       "niches": [
         "ai"
       ],
       "examples": [
         {
-          "title": "Bible as RAG Database",
-          "url": "https://www.crosscanon.com/",
+          "title": "Wikipedia Workers in Britain set global first by seeking union recognition",
+          "url": "https://utaw.tech/news/wikipedia-recognition",
           "source": "hackernews"
         },
         {
-          "title": "Bible as RAG Database",
-          "url": "https://www.crosscanon.com/",
+          "title": "Wikipedia Workers in Britain set global first by seeking union recognition",
+          "url": "https://utaw.tech/news/wikipedia-recognition",
           "source": "hackernews"
         }
       ],
-      "id": "866d8ad396cb",
-      "slug": "rag-database",
+      "id": "8df1f9cbe575",
+      "slug": "wikipedia-workers",
       "opportunity": {
         "type": "niche-content",
         "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
       }
     },
     {
-      "keyword": "tech deals",
-      "count": 11,
-      "score": 77.49103874766985,
+      "keyword": "apple",
+      "count": 10,
+      "score": 82.1200505904739,
       "proper": true,
       "niches": [
-        "gear"
+        "software"
       ],
       "examples": [
         {
-          "title": "The Best Prime Day Tech Deals on the Gadgets You Actually Want",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB0bV9xVElQeHlZWnBNVDJqbDJnaEJPTWVOQmxualBza1IyWG05ZGhBMXJhMDRqTzNkNXYzT080am9XN1pvYkNqT2h3UVVLQm1vV0E4QkJ5RGFHazk0SkFUNHlCOXZxVDZGU0c5Wk95QklpUEk?oc=5",
-          "source": "gnews"
+          "title": "Remember when we used to be excited when Apple took the store offline for product changes?",
+          "url": "https://mastodon.social/@siracusa/116811192219497196",
+          "source": "mastodon"
         },
         {
-          "title": "The Best Prime Day Tech Deals on the Gadgets You Actually Want",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB0bV9xVElQeHlZWnBNVDJqbDJnaEJPTWVOQmxualBza1IyWG05ZGhBMXJhMDRqTzNkNXYzT080am9XN1pvYkNqT2h3UVVLQm1vV0E4QkJ5RGFHazk0SkFUNHlCOXZxVDZGU0c5Wk95QklpUEk?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "The Best Prime Day Tech Deals on the Gadgets You Actually Want",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB0bV9xVElQeHlZWnBNVDJqbDJnaEJPTWVOQmxualBza1IyWG05ZGhBMXJhMDRqTzNkNXYzT080am9XN1pvYkNqT2h3UVVLQm1vV0E4QkJ5RGFHazk0SkFUNHlCOXZxVDZGU0c5Wk95QklpUEk?oc=5",
-          "source": "gnews"
+          "title": "Apple increases MacBook and iPad prices by 20%",
+          "url": "https://www.ft.com/content/0f067265-2baf-4b6e-8fb2-ed56daef6f3c",
+          "source": "hackernews"
         }
       ],
-      "id": "27a62e6e87d9",
-      "slug": "tech-deals",
+      "id": "3a7bd3e2360a",
+      "slug": "apple",
       "opportunity": {
         "type": "affiliate",
         "recommended": "Write SEO comparison/roundup article with affiliate links."
       }
     },
     {
-      "keyword": "home office",
-      "count": 30,
-      "score": 76.27177415198972,
-      "proper": false,
+      "keyword": "notebooklm review",
+      "count": 11,
+      "score": 66.42089035514559,
+      "proper": true,
       "niches": [
-        "ai",
-        "gear",
-        "general"
-      ],
-      "examples": [
-        {
-          "title": "Upgrade your home office for less with these Prime Day deals on editor-loved tech, desk chairs and more",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbUkzMGE0WTQxVVg0ZlVsTHhtQXFGLUFYX3poeHNMSDBsTzFTMTRxbURHX3ZYX3Z1em9tMHhXSmYxZjF3LUNpTkdHZDlDVFJVTG9welc3aUtKZGxCUnVkQ1RYSzZKazZKemdjTnlUX1BaUHVoTzIyNU9xei1nendIc1QyUjBYeVFsbEJlNFRYUGU?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Upgrade your home office for less with these Prime Day deals on editor-loved tech, desk chairs and more",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbUkzMGE0WTQxVVg0ZlVsTHhtQXFGLUFYX3poeHNMSDBsTzFTMTRxbURHX3ZYX3Z1em9tMHhXSmYxZjF3LUNpTkdHZDlDVFJVTG9welc3aUtKZGxCUnVkQ1RYSzZKazZKemdjTnlUX1BaUHVoTzIyNU9xei1nendIc1QyUjBYeVFsbEJlNFRYUGU?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Upgrade your home office for less with these Prime Day deals on editor-loved tech, desk chairs and more",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQejJaaFYzSG5TU1ZvUHFEYjhISkRaOXQtdnlYcVZwSk5yc2tZSWdmZDk1Qm5CVl9UWDlnZHdlM0w0anB2c0FpdVBOb1k0YXg0YUNQbGtOVmNoWWc2SHdCcFFwUk9JWW0zRWx3REVxcTk2XzY4dGRaa0FuVG95NnZtbmJheUhDekpucTJfU0ltZ00xZVNrd1E?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Upgrade your home office for less with these Prime Day deals on editor-loved tech, desk chairs and more",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQejJaaFYzSG5TU1ZvUHFEYjhISkRaOXQtdnlYcVZwSk5yc2tZSWdmZDk1Qm5CVl9UWDlnZHdlM0w0anB2c0FpdVBOb1k0YXg0YUNQbGtOVmNoWWc2SHdCcFFwUk9JWW0zRWx3REVxcTk2XzY4dGRaa0FuVG95NnZtbmJheUhDekpucTJfU0ltZ00xZVNrd1E?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "The #1 Thing Experts Say to Toss From Your Home Office",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQzNtM1pZendxQ0pQcHF2UU1xVG9ZSG9NOG1ZLU42MVQ5OEtqcUVtbG9VbW5id2pPQnBPY1pmQ1BDbXBNNU1IX0JVbllTc0M3T0VwUDFVSDI0WnV4ai1DbzRpOWg5dEo5anJGS2ZkZ256V3ZPV1ZEcGU2RDJITmNLa1ZnenpRb2du?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "307a7ba80d0f",
-      "slug": "home-office",
-      "opportunity": {
-        "type": "niche-content",
-        "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
-      }
-    },
-    {
-      "keyword": "amazon prime",
-      "count": 12,
-      "score": 67.65950835710635,
-      "proper": false,
-      "niches": [
-        "gear",
         "ai"
       ],
       "examples": [
         {
-          "title": "Best Amazon Prime Day deals under $25: Top deals on cheap gadgets I've tested",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBfdmZlRVFyVjE0TE13OXo3REplbTZfdG1QVFhGVHVwcGxSQkZoV0lMQUljbVVZRGhEbE5LU1JvSXhGY1lnQXNnUFhXVWs1cXZ0Z2tETGJxbGY4Mlc2V2kyRHZUMlgwSFpTdVVuUy0ySVdsWUJpN0JvQTJLbGo?oc=5",
+          "title": "NotebookLM Review: There's Nothing Quite Like This AI Tool",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOYm01UGxPYUNGQTV1WmZITk5sUDVfS3hPLVF1MHc2Y0piOGZmUVpYNU5hYWRSSWE1QlJDbWtPNHd3eWQweEIxdXFCdDlURFRtVlBqVGw4Qm5seUFxVjdYMWp3OXR2U1BUZV9MZGpYWFJGUVU1dTlpZ1dxNkRCTjVEcml2ZU5DNi10RFVXMHdqYkQyQ0N1MlE2UlBtTG5OSEYtdjkxWDZXbnFMcl9JOGFYbEdjbE1EUUlJLVpQT0ltZEk4ajJxYUE?oc=5",
           "source": "gnews"
         },
         {
-          "title": "Best Amazon Prime Day deals under $25: Top deals on cheap gadgets I've tested",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBfdmZlRVFyVjE0TE13OXo3REplbTZfdG1QVFhGVHVwcGxSQkZoV0lMQUljbVVZRGhEbE5LU1JvSXhGY1lnQXNnUFhXVWs1cXZ0Z2tETGJxbGY4Mlc2V2kyRHZUMlgwSFpTdVVuUy0ySVdsWUJpN0JvQTJLbGo?oc=5",
+          "title": "NotebookLM Review: There's Nothing Quite Like This AI Tool",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOYm01UGxPYUNGQTV1WmZITk5sUDVfS3hPLVF1MHc2Y0piOGZmUVpYNU5hYWRSSWE1QlJDbWtPNHd3eWQweEIxdXFCdDlURFRtVlBqVGw4Qm5seUFxVjdYMWp3OXR2U1BUZV9MZGpYWFJGUVU1dTlpZ1dxNkRCTjVEcml2ZU5DNi10RFVXMHdqYkQyQ0N1MlE2UlBtTG5OSEYtdjkxWDZXbnFMcl9JOGFYbEdjbE1EUUlJLVpQT0ltZEk4ajJxYUE?oc=5",
           "source": "gnews"
         },
         {
-          "title": "AI shopping tools can help you find the best Amazon Prime Day deals",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUWdhU0dyXzZydTRNZlBYODdYdnVqUFdURHFPUGlUckRjM09ObGlUangzcDgwaDBxdFJsTVVjQk1peHducEpRMUJfWXlJdWVQV2pac0Z0a3lZOVk1OFNYODZPT09DdnY2ZmxkRGF3aEx6Nmc0MWphSmZwV2puYTY5b1hqT2dLX2VhaHZNOXRjOXZGSENXbi1CZVBNcV9YaThCUnNfbjdCX3RBUkJFZFdwUHpBc0lOTEJDWTJpSkQtTEJmenM?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "AI shopping tools can help you find the best Amazon Prime Day deals",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUWdhU0dyXzZydTRNZlBYODdYdnVqUFdURHFPUGlUckRjM09ObGlUangzcDgwaDBxdFJsTVVjQk1peHducEpRMUJfWXlJdWVQV2pac0Z0a3lZOVk1OFNYODZPT09DdnY2ZmxkRGF3aEx6Nmc0MWphSmZwV2puYTY5b1hqT2dLX2VhaHZNOXRjOXZGSENXbi1CZVBNcV9YaThCUnNfbjdCX3RBUkJFZFdwUHpBc0lOTEJDWTJpSkQtTEJmenM?oc=5",
+          "title": "NotebookLM Review: There's Nothing Quite Like This AI Tool",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOYm01UGxPYUNGQTV1WmZITk5sUDVfS3hPLVF1MHc2Y0piOGZmUVpYNU5hYWRSSWE1QlJDbWtPNHd3eWQweEIxdXFCdDlURFRtVlBqVGw4Qm5seUFxVjdYMWp3OXR2U1BUZV9MZGpYWFJGUVU1dTlpZ1dxNkRCTjVEcml2ZU5DNi10RFVXMHdqYkQyQ0N1MlE2UlBtTG5OSEYtdjkxWDZXbnFMcl9JOGFYbEdjbE1EUUlJLVpQT0ltZEk4ajJxYUE?oc=5",
           "source": "gnews"
         }
       ],
-      "id": "ea7b41fec124",
-      "slug": "amazon-prime",
+      "id": "b6c13efd7d03",
+      "slug": "notebooklm-review",
+      "opportunity": {
+        "type": "affiliate",
+        "recommended": "Write SEO comparison/roundup article with affiliate links."
+      }
+    },
+    {
+      "keyword": "claude ai",
+      "count": 5,
+      "score": 65.98348092849909,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
+          "url": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/",
+          "source": "hackernews"
+        }
+      ],
+      "id": "be3b5ed12e07",
+      "slug": "claude-ai",
+      "opportunity": {
+        "type": "tooling",
+        "recommended": "Build / list AI tools; monetize via affiliate links + lead magnet."
+      }
+    },
+    {
+      "keyword": "profited.now",
+      "count": 5,
+      "score": 63.26626756943874,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "This is NOT ‘just a hot summer.’It is Big Oil and Gas’s business model made visible in sweat, burned crops and packed emergency rooms.Polluters KNEW, they LIED, they PROFITED.Now it is time to make th",
+          "url": "https://mastodon.social/@greenpeace/116810635383038017",
+          "source": "mastodon"
+        }
+      ],
+      "id": "7a36303e373e",
+      "slug": "profitednow",
+      "opportunity": {
+        "type": "affiliate",
+        "recommended": "Write SEO comparison/roundup article with affiliate links."
+      }
+    },
+    {
+      "keyword": "nvidia bionemo",
+      "count": 8,
+      "score": 62.59683789783286,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "NVIDIA-BioNeMo/bionemo-agent-toolkit — Turn any agent into a life science expert with NVIDIA BioNeMo skills.",
+          "url": "https://github.com/NVIDIA-BioNeMo/bionemo-agent-toolkit",
+          "source": "github"
+        },
+        {
+          "title": "NVIDIA-BioNeMo/bionemo-agent-toolkit — Turn any agent into a life science expert with NVIDIA BioNeMo skills.",
+          "url": "https://github.com/NVIDIA-BioNeMo/bionemo-agent-toolkit",
+          "source": "github"
+        }
+      ],
+      "id": "ad708eee98bc",
+      "slug": "nvidia-bionemo",
       "opportunity": {
         "type": "niche-content",
-        "recommended": "Publish niche guide for \"gear\"; bundle into digital product later."
+        "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
       }
     }
   ]
