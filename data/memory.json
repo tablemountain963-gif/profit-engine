@@ -562,8 +562,8 @@
     },
     "side-hustle": {
       "firstSeen": "2026-06-01T20:10:58.499Z",
-      "lastSeen": "2026-06-21T05:59:15.833Z",
-      "count": 5,
+      "lastSeen": "2026-06-26T15:24:14.856Z",
+      "count": 6,
       "wins": 1,
       "losses": 0,
       "niche": "ai"
@@ -1466,9 +1466,9 @@
     },
     "prime-fitness": {
       "firstSeen": "2026-06-11T18:40:53.886Z",
-      "lastSeen": "2026-06-26T05:06:11.814Z",
-      "count": 3,
-      "wins": 1,
+      "lastSeen": "2026-06-26T15:22:20.169Z",
+      "count": 4,
+      "wins": 2,
       "losses": 0,
       "niche": "software"
     },
@@ -1520,38 +1520,6 @@
       "losses": 0,
       "niche": "ai"
     },
-    "terra-cotta": {
-      "firstSeen": "2026-06-12T05:29:20.764Z",
-      "lastSeen": "2026-06-12T05:29:20.764Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "ai"
-    },
-    "developer-productivity-prompt-pack": {
-      "firstSeen": "2026-06-12T05:29:31.952Z",
-      "lastSeen": "2026-06-12T05:29:31.952Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "software"
-    },
-    "chatgpt-prompts-for-marketing": {
-      "firstSeen": "2026-06-12T05:29:38.494Z",
-      "lastSeen": "2026-06-12T05:29:38.494Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "ai"
-    },
-    "mtg-bench": {
-      "firstSeen": "2026-06-12T05:29:49.013Z",
-      "lastSeen": "2026-06-12T05:29:49.013Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "ai"
-    },
     "free-open-source": {
       "firstSeen": "2026-06-12T05:30:07.789Z",
       "lastSeen": "2026-06-26T05:06:00.202Z",
@@ -1559,14 +1527,6 @@
       "wins": 1,
       "losses": 0,
       "niche": "ai"
-    },
-    "golden-gatemy": {
-      "firstSeen": "2026-06-12T05:30:20.416Z",
-      "lastSeen": "2026-06-12T05:30:20.416Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "software"
     },
     "piccadilly-circus": {
       "firstSeen": "2026-06-12T16:16:13.432Z",
@@ -3042,18 +3002,18 @@
     },
     "franklin-ave": {
       "firstSeen": "2026-06-21T05:58:23.668Z",
-      "lastSeen": "2026-06-21T05:58:23.668Z",
-      "count": 1,
+      "lastSeen": "2026-06-26T15:22:20.164Z",
+      "count": 2,
       "wins": 0,
-      "losses": 0,
+      "losses": 1,
       "niche": "ai"
     },
     "wiiliideh-ave": {
       "firstSeen": "2026-06-21T05:58:26.025Z",
-      "lastSeen": "2026-06-21T05:58:26.025Z",
-      "count": 1,
+      "lastSeen": "2026-06-26T15:22:20.167Z",
+      "count": 2,
       "wins": 0,
-      "losses": 0,
+      "losses": 1,
       "niche": "ai"
     },
     "unreal-engine": {
@@ -3090,10 +3050,10 @@
     },
     "splendor-solis": {
       "firstSeen": "2026-06-21T15:10:27.748Z",
-      "lastSeen": "2026-06-21T15:10:27.748Z",
-      "count": 1,
+      "lastSeen": "2026-06-26T15:22:20.168Z",
+      "count": 2,
       "wins": 0,
-      "losses": 0,
+      "losses": 1,
       "niche": "software"
     },
     "mechanical-keyboards": {
@@ -4015,13 +3975,69 @@
       "wins": 0,
       "losses": 0,
       "niche": "ai"
+    },
+    "boaty-mcboatface": {
+      "firstSeen": "2026-06-26T15:22:27.370Z",
+      "lastSeen": "2026-06-26T15:22:27.370Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "software"
+    },
+    "storm-bigoil": {
+      "firstSeen": "2026-06-26T15:22:31.341Z",
+      "lastSeen": "2026-06-26T15:22:31.341Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "software"
+    },
+    "met-office": {
+      "firstSeen": "2026-06-26T15:22:35.204Z",
+      "lastSeen": "2026-06-26T15:22:35.204Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "software"
+    },
+    "chatgpt-prompts-for-marketing": {
+      "firstSeen": "2026-06-26T15:22:52.862Z",
+      "lastSeen": "2026-06-26T15:22:52.862Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "developer-productivity-prompt-pack": {
+      "firstSeen": "2026-06-26T15:23:14.765Z",
+      "lastSeen": "2026-06-26T15:23:14.765Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "software"
+    },
+    "topaz-labs": {
+      "firstSeen": "2026-06-26T15:23:30.048Z",
+      "lastSeen": "2026-06-26T15:23:30.048Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "creative-cloud": {
+      "firstSeen": "2026-06-26T15:23:53.348Z",
+      "lastSeen": "2026-06-26T15:23:53.348Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
     }
   },
   "niches": {
     "ai": {
-      "count": 817,
-      "wins": 231,
-      "losses": 34
+      "count": 824,
+      "wins": 232,
+      "losses": 36
     },
     "finance": {
       "count": 65,
@@ -4029,9 +4045,9 @@
       "losses": 0
     },
     "software": {
-      "count": 196,
+      "count": 201,
       "wins": 50,
-      "losses": 13
+      "losses": 14
     },
     "gear": {
       "count": 84,

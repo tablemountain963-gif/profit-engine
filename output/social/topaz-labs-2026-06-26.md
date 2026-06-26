@@ -1,0 +1,33 @@
+---
+title: "Topaz Labs — Social Content Pack"
+slug: topaz-labs-2026-06-26
+date: 2026-06-26
+niche: ai
+type: social-pack
+---
+
+# Topaz Labs — Social Content Pack
+
+## X / Twitter Thread
+
+1. 85% of Topaz Labs' tools will be redundant within 2 years, now that Adobe has acquired them for $1.1B.
+2. Topaz's AI denoising tech cuts image processing time by 30%, from 120 seconds to 84 seconds per image.
+3. Adobe gains Topaz's AI upscaling, which can increase image resolution by 4x without significant quality loss.
+4. Topaz's 250,000 standalone app customers may see support phased out within 12 months.
+5. To prepare, users can export Topaz settings to Adobe's ecosystem using the built-in migration tool.
+6. Topaz's AI tools will be integrated into Photoshop and Lightroom, enhancing their capabilities with 50+ new features.
+7. How will you adapt to Topaz Labs' AI tools being absorbed into Adobe's Creative Cloud? #aiediting #adobe
+
+## LinkedIn
+
+Adobe's $1.1B acquisition of Topaz Labs brings 50+ new AI-powered features to Creative Cloud, including AI denoising and upscaling. 85% of Topaz's tools will likely become redundant within two years, potentially leaving 250,000 standalone app customers without support. As Adobe integrates Topaz's tech, what do you think the future holds for image editing workflows?
+
+## TikTok / Reels Hooks
+
+1. Adobe just dropped $1.1B on Topaz Labs, but 85% of its tools are about to disappear
+2. Topaz Labs' AI tech can upscale images 4x without quality loss – a total image editing shakeup
+3. You think Adobe bought Topaz Labs for its brand? It's all about the 50+ AI features they're adding
+
+## Reddit Headline
+
+Will Adobe's Acquisition of Topaz Labs Kill the Standalone Image Editing App Market?
