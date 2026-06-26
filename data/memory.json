@@ -992,14 +992,6 @@
       "losses": 0,
       "niche": "ai"
     },
-    "proton": {
-      "firstSeen": "2026-06-06T21:53:02.526Z",
-      "lastSeen": "2026-06-11T22:45:12.811Z",
-      "count": 2,
-      "wins": 0,
-      "losses": 1,
-      "niche": "ai"
-    },
     "universal-memory-protocol": {
       "firstSeen": "2026-06-06T21:53:05.224Z",
       "lastSeen": "2026-06-07T14:50:31.705Z",
@@ -1298,8 +1290,8 @@
     },
     "fitness-equipment": {
       "firstSeen": "2026-06-09T22:17:07.038Z",
-      "lastSeen": "2026-06-19T21:58:14.236Z",
-      "count": 3,
+      "lastSeen": "2026-06-26T05:06:27.464Z",
+      "count": 4,
       "wins": 1,
       "losses": 0,
       "niche": "ai"
@@ -1474,8 +1466,8 @@
     },
     "prime-fitness": {
       "firstSeen": "2026-06-11T18:40:53.886Z",
-      "lastSeen": "2026-06-11T22:45:12.812Z",
-      "count": 2,
+      "lastSeen": "2026-06-26T05:06:11.814Z",
+      "count": 3,
       "wins": 1,
       "losses": 0,
       "niche": "software"
@@ -1502,14 +1494,6 @@
       "count": 2,
       "wins": 0,
       "losses": 1,
-      "niche": "ai"
-    },
-    "ai-prompts-for-teachers-and-educators": {
-      "firstSeen": "2026-06-11T22:45:32.069Z",
-      "lastSeen": "2026-06-11T22:45:32.069Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
       "niche": "ai"
     },
     "grant-writing": {
@@ -1570,9 +1554,9 @@
     },
     "free-open-source": {
       "firstSeen": "2026-06-12T05:30:07.789Z",
-      "lastSeen": "2026-06-25T22:14:35.910Z",
-      "count": 2,
-      "wins": 0,
+      "lastSeen": "2026-06-26T05:06:00.202Z",
+      "count": 3,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -3802,9 +3786,9 @@
     },
     "spain-details": {
       "firstSeen": "2026-06-24T22:05:02.396Z",
-      "lastSeen": "2026-06-24T22:05:02.396Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-26T05:06:00.199Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -3946,17 +3930,17 @@
     },
     "software-giant": {
       "firstSeen": "2026-06-25T22:14:29.247Z",
-      "lastSeen": "2026-06-25T22:14:29.247Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-26T05:06:00.200Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
     "side": {
       "firstSeen": "2026-06-25T22:14:32.260Z",
-      "lastSeen": "2026-06-25T22:14:32.260Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-26T05:06:00.201Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -3991,12 +3975,52 @@
       "wins": 0,
       "losses": 0,
       "niche": "ai"
+    },
+    "preprint-quality": {
+      "firstSeen": "2026-06-26T05:06:05.797Z",
+      "lastSeen": "2026-06-26T05:06:05.797Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "max-planck": {
+      "firstSeen": "2026-06-26T05:06:08.701Z",
+      "lastSeen": "2026-06-26T05:06:08.701Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "software"
+    },
+    "ai-prompts-for-teachers-and-educators": {
+      "firstSeen": "2026-06-26T05:06:23.191Z",
+      "lastSeen": "2026-06-26T05:06:23.191Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "fitness-deals": {
+      "firstSeen": "2026-06-26T05:06:39.213Z",
+      "lastSeen": "2026-06-26T05:06:39.213Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "m6-mac": {
+      "firstSeen": "2026-06-26T05:06:59.130Z",
+      "lastSeen": "2026-06-26T05:06:59.130Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
     }
   },
   "niches": {
     "ai": {
-      "count": 807,
-      "wins": 227,
+      "count": 817,
+      "wins": 231,
       "losses": 34
     },
     "finance": {
@@ -4005,7 +4029,7 @@
       "losses": 0
     },
     "software": {
-      "count": 195,
+      "count": 196,
       "wins": 50,
       "losses": 13
     },
