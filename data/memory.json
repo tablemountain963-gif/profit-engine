@@ -1032,14 +1032,6 @@
       "losses": 0,
       "niche": "ai"
     },
-    "appfatigue-ipa": {
-      "firstSeen": "2026-06-07T14:50:37.135Z",
-      "lastSeen": "2026-06-12T16:16:07.671Z",
-      "count": 2,
-      "wins": 0,
-      "losses": 1,
-      "niche": "software"
-    },
     "broadcom-ceo": {
       "firstSeen": "2026-06-07T14:50:44.628Z",
       "lastSeen": "2026-06-09T05:02:01.486Z",
@@ -1346,8 +1338,8 @@
     },
     "keyboard": {
       "firstSeen": "2026-06-10T16:35:46.781Z",
-      "lastSeen": "2026-06-20T17:16:06.565Z",
-      "count": 2,
+      "lastSeen": "2026-06-26T17:30:15.229Z",
+      "count": 3,
       "wins": 0,
       "losses": 0,
       "niche": "software"
@@ -1541,46 +1533,6 @@
       "lastSeen": "2026-06-12T17:59:06.708Z",
       "count": 2,
       "wins": 1,
-      "losses": 0,
-      "niche": "ai"
-    },
-    "android-studio": {
-      "firstSeen": "2026-06-12T16:16:30.399Z",
-      "lastSeen": "2026-06-12T16:16:30.399Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "software"
-    },
-    "kimi-k27": {
-      "firstSeen": "2026-06-12T16:16:37.853Z",
-      "lastSeen": "2026-06-12T16:16:37.853Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "ai"
-    },
-    "londonkeir-starmer": {
-      "firstSeen": "2026-06-12T16:16:44.320Z",
-      "lastSeen": "2026-06-12T16:16:44.320Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "software"
-    },
-    "neo-scholars": {
-      "firstSeen": "2026-06-12T16:17:14.425Z",
-      "lastSeen": "2026-06-12T16:17:14.425Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "ai"
-    },
-    "software-developers": {
-      "firstSeen": "2026-06-12T16:17:27.112Z",
-      "lastSeen": "2026-06-12T16:17:27.112Z",
-      "count": 1,
-      "wins": 0,
       "losses": 0,
       "niche": "ai"
     },
@@ -3938,17 +3890,17 @@
     },
     "preprint-quality": {
       "firstSeen": "2026-06-26T05:06:05.797Z",
-      "lastSeen": "2026-06-26T05:06:05.797Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-26T17:29:31.607Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
     "max-planck": {
       "firstSeen": "2026-06-26T05:06:08.701Z",
-      "lastSeen": "2026-06-26T05:06:08.701Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-26T17:29:31.610Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "software"
     },
@@ -3978,25 +3930,25 @@
     },
     "boaty-mcboatface": {
       "firstSeen": "2026-06-26T15:22:27.370Z",
-      "lastSeen": "2026-06-26T15:22:27.370Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-26T17:29:31.611Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "software"
     },
     "storm-bigoil": {
       "firstSeen": "2026-06-26T15:22:31.341Z",
-      "lastSeen": "2026-06-26T15:22:31.341Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-26T17:29:31.613Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "software"
     },
     "met-office": {
       "firstSeen": "2026-06-26T15:22:35.204Z",
-      "lastSeen": "2026-06-26T15:22:35.204Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-26T17:29:31.614Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "software"
     },
@@ -4031,12 +3983,60 @@
       "wins": 0,
       "losses": 0,
       "niche": "ai"
+    },
+    "missing-out": {
+      "firstSeen": "2026-06-26T17:29:36.870Z",
+      "lastSeen": "2026-06-26T17:29:36.870Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "top-talent": {
+      "firstSeen": "2026-06-26T17:29:40.093Z",
+      "lastSeen": "2026-06-26T17:29:40.093Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "previewing-gpt": {
+      "firstSeen": "2026-06-26T17:29:43.274Z",
+      "lastSeen": "2026-06-26T17:29:43.274Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "bank-street": {
+      "firstSeen": "2026-06-26T17:29:49.015Z",
+      "lastSeen": "2026-06-26T17:29:49.015Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "keine-ausreden": {
+      "firstSeen": "2026-06-26T17:29:54.051Z",
+      "lastSeen": "2026-06-26T17:29:54.051Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "die-afd": {
+      "firstSeen": "2026-06-26T17:30:01.515Z",
+      "lastSeen": "2026-06-26T17:30:01.515Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
     }
   },
   "niches": {
     "ai": {
-      "count": 824,
-      "wins": 232,
+      "count": 832,
+      "wins": 233,
       "losses": 36
     },
     "finance": {
@@ -4045,8 +4045,8 @@
       "losses": 0
     },
     "software": {
-      "count": 201,
-      "wins": 50,
+      "count": 205,
+      "wins": 54,
       "losses": 14
     },
     "gear": {
