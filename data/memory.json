@@ -3986,25 +3986,25 @@
     },
     "missing-out": {
       "firstSeen": "2026-06-26T17:29:36.870Z",
-      "lastSeen": "2026-06-26T17:29:36.870Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-26T21:59:11.535Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
     "top-talent": {
       "firstSeen": "2026-06-26T17:29:40.093Z",
-      "lastSeen": "2026-06-26T17:29:40.093Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-26T21:59:11.537Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
     "previewing-gpt": {
       "firstSeen": "2026-06-26T17:29:43.274Z",
-      "lastSeen": "2026-06-26T17:29:43.274Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-26T21:59:11.538Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -4031,12 +4031,36 @@
       "wins": 0,
       "losses": 0,
       "niche": "ai"
+    },
+    "squircle-jail": {
+      "firstSeen": "2026-06-26T21:59:16.617Z",
+      "lastSeen": "2026-06-26T21:59:16.617Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "code-review": {
+      "firstSeen": "2026-06-26T21:59:19.547Z",
+      "lastSeen": "2026-06-26T21:59:19.547Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "project-muteki": {
+      "firstSeen": "2026-06-26T21:59:22.823Z",
+      "lastSeen": "2026-06-26T21:59:22.823Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
     }
   },
   "niches": {
     "ai": {
-      "count": 832,
-      "wins": 233,
+      "count": 838,
+      "wins": 236,
       "losses": 36
     },
     "finance": {
