@@ -1600,30 +1600,6 @@
       "losses": 0,
       "niche": "ai"
     },
-    "midjourney-prompt-pack-for-brand-visuals": {
-      "firstSeen": "2026-06-13T05:18:47.954Z",
-      "lastSeen": "2026-06-13T05:18:47.954Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "ai"
-    },
-    "ai-prompts-for-ecommerce-and-product-listings": {
-      "firstSeen": "2026-06-13T05:18:55.993Z",
-      "lastSeen": "2026-06-13T05:18:55.993Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "ai"
-    },
-    "cold-email-templates-that-book-meetings": {
-      "firstSeen": "2026-06-13T05:19:13.597Z",
-      "lastSeen": "2026-06-13T05:19:13.597Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "finance"
-    },
     "atomic-arch": {
       "firstSeen": "2026-06-13T14:58:59.189Z",
       "lastSeen": "2026-06-13T17:11:32.258Z",
@@ -3074,10 +3050,10 @@
     },
     "lars-andersen": {
       "firstSeen": "2026-06-22T06:25:48.153Z",
-      "lastSeen": "2026-06-22T06:25:48.153Z",
-      "count": 1,
+      "lastSeen": "2026-06-27T14:27:50.780Z",
+      "count": 2,
       "wins": 0,
-      "losses": 0,
+      "losses": 1,
       "niche": "ai"
     },
     "wilonity-loader": {
@@ -3994,9 +3970,9 @@
     },
     "project-muteki": {
       "firstSeen": "2026-06-26T21:59:22.823Z",
-      "lastSeen": "2026-06-26T21:59:22.823Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-27T14:27:50.782Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -4018,9 +3994,9 @@
     },
     "tools": {
       "firstSeen": "2026-06-27T04:50:31.511Z",
-      "lastSeen": "2026-06-27T04:50:31.511Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-27T14:27:50.783Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "software"
     },
@@ -4055,13 +4031,69 @@
       "wins": 0,
       "losses": 0,
       "niche": "software"
+    },
+    "briarpassword-manager": {
+      "firstSeen": "2026-06-27T14:27:55.730Z",
+      "lastSeen": "2026-06-27T14:27:55.730Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "categorized-guide": {
+      "firstSeen": "2026-06-27T14:27:58.481Z",
+      "lastSeen": "2026-06-27T14:27:58.481Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "playstation-store": {
+      "firstSeen": "2026-06-27T14:28:01.829Z",
+      "lastSeen": "2026-06-27T14:28:01.829Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "mythos-ai": {
+      "firstSeen": "2026-06-27T14:28:08.527Z",
+      "lastSeen": "2026-06-27T14:28:08.527Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "btc-eth": {
+      "firstSeen": "2026-06-27T14:28:13.775Z",
+      "lastSeen": "2026-06-27T14:28:13.775Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "content-calendar-and-caption-templates": {
+      "firstSeen": "2026-06-27T14:28:29.483Z",
+      "lastSeen": "2026-06-27T14:28:29.483Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "productivity"
+    },
+    "apps-2026": {
+      "firstSeen": "2026-06-27T14:28:52.142Z",
+      "lastSeen": "2026-06-27T14:28:52.142Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
     }
   },
   "niches": {
     "ai": {
-      "count": 841,
-      "wins": 237,
-      "losses": 36
+      "count": 849,
+      "wins": 238,
+      "losses": 37
     },
     "finance": {
       "count": 67,
@@ -4069,8 +4101,8 @@
       "losses": 0
     },
     "software": {
-      "count": 207,
-      "wins": 54,
+      "count": 208,
+      "wins": 55,
       "losses": 14
     },
     "gear": {
@@ -4084,7 +4116,7 @@
       "losses": 0
     },
     "productivity": {
-      "count": 2,
+      "count": 3,
       "wins": 0,
       "losses": 0
     }
