@@ -1,6 +1,27 @@
 {
   "items": [
     {
+      "slug": "play-store-2026-06-27",
+      "topic": "Play Store",
+      "date": "2026-06-27",
+      "niche": "software",
+      "file": "social/play-store-2026-06-27.md"
+    },
+    {
+      "slug": "news-dsv-2026-06-27",
+      "topic": "News Dsv",
+      "date": "2026-06-27",
+      "niche": "ai",
+      "file": "social/news-dsv-2026-06-27.md"
+    },
+    {
+      "slug": "home-office-2026-06-27",
+      "topic": "Home Office",
+      "date": "2026-06-27",
+      "niche": "gear",
+      "file": "social/home-office-2026-06-27.md"
+    },
+    {
       "slug": "keyboard-2026-06-26",
       "topic": "Keyboard",
       "date": "2026-06-26",
@@ -1378,27 +1399,6 @@
       "date": "2026-06-05",
       "niche": "software",
       "file": "social/azure-redops-2026-06-05.md"
-    },
-    {
-      "slug": "budget-blowout-2026-06-05",
-      "topic": "Budget Blowout",
-      "date": "2026-06-05",
-      "niche": "ai",
-      "file": "social/budget-blowout-2026-06-05.md"
-    },
-    {
-      "slug": "tools-2026-06-05",
-      "topic": "Tools",
-      "date": "2026-06-05",
-      "niche": "ai",
-      "file": "social/tools-2026-06-05.md"
-    },
-    {
-      "slug": "offline-pwa-2026-06-04",
-      "topic": "Offline Pwa",
-      "date": "2026-06-04",
-      "niche": "software",
-      "file": "social/offline-pwa-2026-06-04.md"
     }
   ]
 }
