@@ -218,8 +218,8 @@
     },
     "productivity-apps": {
       "firstSeen": "2026-05-29T16:42:02.875Z",
-      "lastSeen": "2026-06-22T19:18:57.525Z",
-      "count": 6,
+      "lastSeen": "2026-06-27T21:51:31.739Z",
+      "count": 7,
       "wins": 1,
       "losses": 0,
       "niche": "software"
@@ -1639,38 +1639,6 @@
       "wins": 1,
       "losses": 0,
       "niche": "gear"
-    },
-    "chatgpt-prompts-for-small-business-owners": {
-      "firstSeen": "2026-06-13T17:11:51.714Z",
-      "lastSeen": "2026-06-13T17:11:51.714Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "ai"
-    },
-    "sales-email-sequences-that-convert": {
-      "firstSeen": "2026-06-13T17:12:04.245Z",
-      "lastSeen": "2026-06-13T17:12:04.245Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "finance"
-    },
-    "ai-prompts-for-real-estate-agents": {
-      "firstSeen": "2026-06-13T17:12:12.684Z",
-      "lastSeen": "2026-06-13T17:12:12.684Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "finance"
-    },
-    "ruined-lives": {
-      "firstSeen": "2026-06-13T17:12:29.720Z",
-      "lastSeen": "2026-06-13T17:12:29.720Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "ai"
     },
     "freedmen": {
       "firstSeen": "2026-06-13T21:55:40.208Z",
@@ -4066,17 +4034,17 @@
     },
     "automated-qwencloud": {
       "firstSeen": "2026-06-27T16:57:08.180Z",
-      "lastSeen": "2026-06-27T16:57:08.180Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-27T21:50:41.783Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
     "gmail-oauth": {
       "firstSeen": "2026-06-27T16:57:11.061Z",
-      "lastSeen": "2026-06-27T16:57:11.061Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-27T21:50:41.784Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -4103,21 +4071,77 @@
       "wins": 0,
       "losses": 0,
       "niche": "finance"
+    },
+    "mel-brooks": {
+      "firstSeen": "2026-06-27T21:50:48.416Z",
+      "lastSeen": "2026-06-27T21:50:48.416Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "software"
+    },
+    "formerly-noaa": {
+      "firstSeen": "2026-06-27T21:50:51.348Z",
+      "lastSeen": "2026-06-27T21:50:51.348Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "software"
+    },
+    "stocks-buy": {
+      "firstSeen": "2026-06-27T21:50:54.118Z",
+      "lastSeen": "2026-06-27T21:50:54.118Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "finance"
+    },
+    "sales-email-sequences-that-convert": {
+      "firstSeen": "2026-06-27T21:50:58.981Z",
+      "lastSeen": "2026-06-27T21:50:58.981Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "finance"
+    },
+    "ai-prompts-for-ecommerce-and-product-listings": {
+      "firstSeen": "2026-06-27T21:51:07.460Z",
+      "lastSeen": "2026-06-27T21:51:07.460Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "midjourney-prompt-pack-for-brand-visuals": {
+      "firstSeen": "2026-06-27T21:51:15.733Z",
+      "lastSeen": "2026-06-27T21:51:15.733Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "buy-passive": {
+      "firstSeen": "2026-06-27T21:51:48.068Z",
+      "lastSeen": "2026-06-27T21:51:48.068Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "finance"
     }
   },
   "niches": {
     "ai": {
-      "count": 856,
-      "wins": 241,
+      "count": 861,
+      "wins": 243,
       "losses": 37
     },
     "finance": {
-      "count": 69,
+      "count": 72,
       "wins": 11,
       "losses": 0
     },
     "software": {
-      "count": 208,
+      "count": 210,
       "wins": 55,
       "losses": 14
     },
