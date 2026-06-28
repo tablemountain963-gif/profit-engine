@@ -426,8 +426,8 @@
     },
     "silent-sunday": {
       "firstSeen": "2026-05-31T14:42:42.541Z",
-      "lastSeen": "2026-06-04T16:19:28.174Z",
-      "count": 2,
+      "lastSeen": "2026-06-28T14:47:18.728Z",
+      "count": 3,
       "wins": 1,
       "losses": 0,
       "niche": "ai"
@@ -514,9 +514,9 @@
     },
     "happy-pride": {
       "firstSeen": "2026-06-01T18:36:58.272Z",
-      "lastSeen": "2026-06-28T05:14:35.109Z",
-      "count": 3,
-      "wins": 1,
+      "lastSeen": "2026-06-28T14:47:06.087Z",
+      "count": 4,
+      "wins": 2,
       "losses": 0,
       "niche": "software"
     },
@@ -738,8 +738,8 @@
     },
     "affordability-crisis": {
       "firstSeen": "2026-06-03T17:59:29.318Z",
-      "lastSeen": "2026-06-22T06:27:15.974Z",
-      "count": 5,
+      "lastSeen": "2026-06-28T14:48:02.508Z",
+      "count": 6,
       "wins": 1,
       "losses": 0,
       "niche": "ai"
@@ -1191,14 +1191,6 @@
       "wins": 0,
       "losses": 0,
       "niche": "finance"
-    },
-    "nba-finals": {
-      "firstSeen": "2026-06-09T05:02:07.528Z",
-      "lastSeen": "2026-06-14T05:29:09.874Z",
-      "count": 2,
-      "wins": 0,
-      "losses": 1,
-      "niche": "ai"
     },
     "model": {
       "firstSeen": "2026-06-09T05:02:11.965Z",
@@ -1669,22 +1661,6 @@
       "lastSeen": "2026-06-15T22:53:08.624Z",
       "count": 2,
       "wins": 1,
-      "losses": 0,
-      "niche": "ai"
-    },
-    "zero-math": {
-      "firstSeen": "2026-06-14T05:29:42.864Z",
-      "lastSeen": "2026-06-14T05:29:42.864Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "ai"
-    },
-    "open-dungeon": {
-      "firstSeen": "2026-06-14T05:29:54.825Z",
-      "lastSeen": "2026-06-14T05:29:54.825Z",
-      "count": 1,
-      "wins": 0,
       "losses": 0,
       "niche": "ai"
     },
@@ -4159,12 +4135,68 @@
       "wins": 0,
       "losses": 0,
       "niche": "ai"
+    },
+    "modern-llms": {
+      "firstSeen": "2026-06-28T14:47:11.867Z",
+      "lastSeen": "2026-06-28T14:47:11.867Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "openai-codex": {
+      "firstSeen": "2026-06-28T14:47:15.848Z",
+      "lastSeen": "2026-06-28T14:47:15.848Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "side-hustles": {
+      "firstSeen": "2026-06-28T14:47:25.294Z",
+      "lastSeen": "2026-06-28T14:47:25.294Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "planck": {
+      "firstSeen": "2026-06-28T14:47:30.930Z",
+      "lastSeen": "2026-06-28T14:47:30.930Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "chatgpt-prompts-for-small-business-owners": {
+      "firstSeen": "2026-06-28T14:47:49.961Z",
+      "lastSeen": "2026-06-28T14:47:49.961Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "wayfinder-router": {
+      "firstSeen": "2026-06-28T14:48:24.759Z",
+      "lastSeen": "2026-06-28T14:48:24.759Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "ultimate-dead": {
+      "firstSeen": "2026-06-28T14:48:48.986Z",
+      "lastSeen": "2026-06-28T14:48:48.986Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
     }
   },
   "niches": {
     "ai": {
-      "count": 866,
-      "wins": 243,
+      "count": 876,
+      "wins": 244,
       "losses": 37
     },
     "finance": {
