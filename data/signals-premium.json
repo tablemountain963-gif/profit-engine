@@ -1,22 +1,176 @@
 {
-  "generatedAt": "2026-06-27T21:50:42.650Z",
-  "sourceCount": 204,
+  "generatedAt": "2026-06-28T05:14:25.227Z",
+  "sourceCount": 206,
   "topItems": [
     {
-      "title": "I'm coming to the conclusion that community-owned and operated small clouds (co-ops) with easy onramps for self-hosting open source services like mail, storage, and VPN are the only way forward. Every",
-      "url": "https://infosec.exchange/@mttaggart/116823727913089667",
-      "score": 9.5,
+      "title": "Happy 100th Birthday Genius. #MelBrooks",
+      "url": "https://mastodon.scot/@Dolphinchaz/116824703046348885",
+      "score": 8.19,
+      "niche": "software",
+      "source": "mastodon",
+      "engagement": {
+        "score": 338,
+        "comments": 5
+      }
+    },
+    {
+      "title": "The UN just issued a 94-page detailed report documenting that the Israeli government committed genocide by deliberately targeting Palestinian children—killing more than 20,000.You won’t see corporate ",
+      "url": "https://mastodon.social/@QasimRashid/116824698132939186",
+      "score": 8.05,
       "niche": "ai",
       "source": "mastodon",
       "engagement": {
-        "score": 353,
+        "score": 308,
+        "comments": 9
+      }
+    },
+    {
+      "title": "Today is a good day to remember that authoritarianism is not inevitable, overthrowing fascists is possible, and good things can still happen. https://www.pbs.org/newshour/world/tens-of-thousands-march",
+      "url": "https://hachyderm.io/@evacide/116824111767681973",
+      "score": 8.04,
+      "niche": "software",
+      "source": "mastodon",
+      "engagement": {
+        "score": 1295,
+        "comments": 11
+      }
+    },
+    {
+      "title": "DSpark: Speculative decoding accelerates LLM inference [pdf]",
+      "url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
+      "score": 8.03,
+      "niche": "ai",
+      "source": "hackernews",
+      "engagement": {
+        "score": 745,
+        "comments": 312
+      }
+    },
+    {
+      "title": "New neighbours moved in a few days ago, and they have 8 ENORMOUS draft horses!!  I haven't met the people yet, but today the horses came to the fence line and said hi (and immediately lost interest wh",
+      "url": "https://mastodon.social/@sundogplanets/116825216170787898",
+      "score": 7.95,
+      "niche": "ai",
+      "source": "mastodon",
+      "engagement": {
+        "score": 265,
+        "comments": 20
+      }
+    },
+    {
+      "title": "Response to AI slop is from Robin Williams",
+      "url": "https://jayacunzo.com/blog/your-move-chief",
+      "score": 7.85,
+      "niche": "ai",
+      "source": "hackernews",
+      "engagement": {
+        "score": 131,
+        "comments": 76
+      }
+    },
+    {
+      "title": "Hello everyone,All the services we offer are down and unreachable. We are currently investigating the cause. For the time being, it appears that all three servers are without power.",
+      "url": "https://social.anoxinon.de/@codebergstatus/116824443563698727",
+      "score": 7.64,
+      "niche": "software",
+      "source": "mastodon",
+      "engagement": {
+        "score": 363,
+        "comments": 29
+      }
+    },
+    {
+      "title": "Happy Pride from @datasaurus and RainBro Brite!#Pride",
+      "url": "https://mastodon.social/@gairdeachas/116825215711655138",
+      "score": 7.31,
+      "niche": "ai",
+      "source": "mastodon",
+      "engagement": {
+        "score": 88,
+        "comments": 4
+      }
+    },
+    {
+      "title": "What Ozempic does to the gut-brain axis",
+      "url": "https://www.psychologytoday.com/au/blog/mood-by-microbe/202606/what-ozempic-does-to-the-gut-brain-axis",
+      "score": 7.26,
+      "niche": "ai",
+      "source": "hackernews",
+      "engagement": {
+        "score": 123,
+        "comments": 280
+      }
+    },
+    {
+      "title": "Ford hired AI and sacked humans. It backfired badly",
+      "url": "https://www.the-independent.com/tech/ford-ai-automation-human-workers-b3003787.html",
+      "score": 7.08,
+      "niche": "ai",
+      "source": "hackernews",
+      "engagement": {
+        "score": 72,
+        "comments": 45
+      }
+    },
+    {
+      "title": "RE: https://det.social/@lostgen/116820546568940358My disappointment is immeasurable, and my day is ruined.",
+      "url": "https://mastodon.social/@Gargron/116824070810525978",
+      "score": 6.92,
+      "niche": "software",
+      "source": "mastodon",
+      "engagement": {
+        "score": 455,
         "comments": 14
+      }
+    },
+    {
+      "title": "Asian AI startups launch Mythos-like models",
+      "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
+      "score": 6.88,
+      "niche": "ai",
+      "source": "hackernews",
+      "engagement": {
+        "score": 190,
+        "comments": 147
+      }
+    },
+    {
+      "title": "Staircase Sunday! Is it a thing? Well, this is one of my favourite staircases. It was inside the Château de Le Quesnel (Château Secession) in France. Sadly, it was burnt down and lost forever.#Stairca",
+      "url": "https://mstdn.social/@ObsidianUrbex/116825320962894069",
+      "score": 6.79,
+      "niche": "ai",
+      "source": "mastodon",
+      "engagement": {
+        "score": 123,
+        "comments": 4
+      }
+    },
+    {
+      "title": "I would now like to explain to you the evolution of software application binary distribution on Linux over the last twenty-six years",
+      "url": "https://mastodon.social/@mcc/116825851700940559",
+      "score": 6.46,
+      "niche": "ai",
+      "source": "mastodon",
+      "engagement": {
+        "score": 48,
+        "comments": 4
+      }
+    },
+    {
+      "title": "On average, global ocean temperatures right now are the hottest in our historical records for this time of year!Follow along at https://zacklabe.com/climate-change-indicators/",
+      "url": "https://fediscience.org/@ZLabe/116825349160891031",
+      "score": 6.4,
+      "niche": "ai",
+      "source": "mastodon",
+      "engagement": {
+        "score": 95,
+        "comments": 2
       }
     },
     {
       "title": "zanetanasta/Seed-Generator — Professional BIP-39 Seed & HD Wallet Toolkit with 12–24 word mnemonics, checksum validation, BIP-44/49/84 derivation, and multi-chain support (BTC, ETH, SOL, LTC, DOGE, AD",
       "url": "https://github.com/zanetanasta/Seed-Generator",
-      "score": 8.46,
+      "score": 6.34,
       "niche": "ai",
       "source": "github",
       "engagement": {
@@ -25,264 +179,110 @@
       }
     },
     {
-      "title": "Today is a good day to remember that authoritarianism is not inevitable, overthrowing fascists is possible, and good things can still happen. https://www.pbs.org/newshour/world/tens-of-thousands-march",
-      "url": "https://hachyderm.io/@evacide/116824111767681973",
-      "score": 8.08,
-      "niche": "software",
-      "source": "mastodon",
+      "title": "Is PepsiCo (PEP) One of the 10 Best Dividend Stocks to Buy for Passive Income?",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOS2hRcVoxUXA2emtEa3UyZG1VYUVJZUp3bWxwN3d6NU9SV2FCSVRlWUtnSC10VXNOLTk1dzJ1eEYyOV9Ydjg4YWhxaHEwTEdsSjBULXpXc3RBeTFkOEFSdExjNkhXTXltNlZNMF9qV2dtS0lOVnRwVkJQOUptT0REa2ZISzBOZUZhb2RaUDdTUDBVdw?oc=5",
+      "score": 6.29,
+      "niche": "finance",
+      "source": "gnews",
       "engagement": {
-        "score": 317,
-        "comments": 2
+        "score": 40,
+        "comments": 0
       }
     },
     {
-      "title": "Back during COVID I looked into starting either a #DEFCON #VPN service, or a private email service.Both VPN and email are well understood services, there is no shortage of people with expertise, it is",
-      "url": "https://defcon.social/@thedarktangent/116823710775702749",
-      "score": 7.95,
+      "title": "Johnson & Johnson (JNJ) – Among the 10 Best Dividend Stocks to Buy for Passive Income",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWUdfaHVPYTd5T0t5b19jZEIyMzBUZWtlYVFLYS1pMm1id0pXZmRTTkttaDVwLTlQQmRBbWlva2FUUm5GTk9oOGE0dFRxeU03ZjR0WVZkZzVmSlFtZGR0SExzYnBOU0lpcEFmd1FpOUFjMklMTVpZX3hxTTYxelhGdzBjc0hQZWJhd1NmT2JrbGM0RFNDYjI1MA?oc=5",
+      "score": 6.29,
+      "niche": "finance",
+      "source": "gnews",
+      "engagement": {
+        "score": 40,
+        "comments": 0
+      }
+    },
+    {
+      "title": "Japanese internment camp survivors demand closure of Dilley, TX family detention centerhttps://religionnews.com/2026/06/27/japanese-internment-camp-survivors-faith-leaders-demand-closure-of-dilley-tx-",
+      "url": "https://newsie.social/@servelan/116825309017791537",
+      "score": 6.27,
       "niche": "ai",
       "source": "mastodon",
       "engagement": {
-        "score": 142,
+        "score": 88,
         "comments": 1
-      }
-    },
-    {
-      "title": "DSpark: Speculative decoding accelerates LLM inference [pdf]",
-      "url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
-      "score": 7.95,
-      "niche": "ai",
-      "source": "hackernews",
-      "engagement": {
-        "score": 700,
-        "comments": 288
-      }
-    },
-    {
-      "title": "Did you know that Microsoft applied for a permit for a warehouse in southern Sweden - and once they had built the \"warehouse\" they declared they were going to host a datacenter there with diesel backu",
-      "url": "https://swecyb.com/@troed/116823636245910447",
-      "score": 7.84,
-      "niche": "software",
-      "source": "mastodon",
-      "engagement": {
-        "score": 262,
-        "comments": 5
-      }
-    },
-    {
-      "title": "eli-labz/Godcoder — A local-first, open-source coding agent for your desktop. Bring your own LLM key; your code stays on your machine and only ever leaves to the model provider",
-      "url": "https://github.com/eli-labz/Godcoder",
-      "score": 7.81,
-      "niche": "ai",
-      "source": "github",
-      "engagement": {
-        "score": 221,
-        "comments": 0
-      }
-    },
-    {
-      "title": "RE: https://det.social/@lostgen/116820546568940358My disappointment is immeasurable, and my day is ruined.",
-      "url": "https://mastodon.social/@Gargron/116824070810525978",
-      "score": 7.29,
-      "niche": "software",
-      "source": "mastodon",
-      "engagement": {
-        "score": 168,
-        "comments": 7
-      }
-    },
-    {
-      "title": "Mel Brooks is turning 100 years old tomorrow. Everyone knows and loves his comedy. Not everyone knows he served as a US Army combat engineer in WWII and was in the Battle of the Bulge.Happiest of birt",
-      "url": "https://mstdn.social/@MaryAustinBooks/116822794494385859",
-      "score": 7.14,
-      "niche": "software",
-      "source": "mastodon",
-      "engagement": {
-        "score": 558,
-        "comments": 15
-      }
-    },
-    {
-      "title": "This is good news!The scientists behind the new independent organization Climate.us are the same experts Trump fired because they were researching and reporting on climate change. Formerly NOAA’s http",
-      "url": "https://mstdn.ca/@dbattistella/116822991494258324",
-      "score": 7.13,
-      "niche": "software",
-      "source": "mastodon",
-      "engagement": {
-        "score": 346,
-        "comments": 3
-      }
-    },
-    {
-      "title": "playPlumtown/Plumtown — The cozy life-sim that pays. Build a home, master skills, climb careers — earn $PLUM and cash out real SOL. Free to play in your browser.",
-      "url": "https://github.com/playPlumtown/Plumtown",
-      "score": 6.57,
-      "niche": "software",
-      "source": "github",
-      "engagement": {
-        "score": 354,
-        "comments": 0
-      }
-    },
-    {
-      "title": "ME RELEASING COMPILED BINARIES: This is the worst experience in the world. I hate this. I want to release all my software as in-browser web apps from now onME WRITING WEB APPS: This is the worst exper",
-      "url": "https://mastodon.social/@mcc/116824018081192141",
-      "score": 6.47,
-      "niche": "software",
-      "source": "mastodon",
-      "engagement": {
-        "score": 49,
-        "comments": 5
-      }
-    },
-    {
-      "title": "Origin of unix /bin, /sbin, and /usr/bin , /usr/sbin splithttps://lists.busybox.net/pipermail/busybox/2010-December/074114.html",
-      "url": "https://mastodon.social/@nixCraft/116823745746632100",
-      "score": 6.39,
-      "niche": "ai",
-      "source": "mastodon",
-      "engagement": {
-        "score": 92,
-        "comments": 3
-      }
-    },
-    {
-      "title": "In my 20s I asked a mate how will I know if a girl I'm dating is the one to marry. He said I should meet her friends, that if I can't bear them then she's not the one. Took me 15 years to realise he w",
-      "url": "https://mastodon.social/@fesshole/116823687582815327",
-      "score": 6.22,
-      "niche": "ai",
-      "source": "mastodon",
-      "engagement": {
-        "score": 85,
-        "comments": 1
-      }
-    },
-    {
-      "title": "winsznx/theeleven — Eleven autonomous AI agents open live football prop markets on X Layer — custom Uniswap v4 hook, gasless USDT0 staking.",
-      "url": "https://github.com/winsznx/theeleven",
-      "score": 6.19,
-      "niche": "ai",
-      "source": "github",
-      "engagement": {
-        "score": 632,
-        "comments": 0
-      }
-    },
-    {
-      "title": "Show HN: Adrafinil – keep a lid-closed Mac awake only while agents work",
-      "url": "https://github.com/kageroumado/adrafinil",
-      "score": 6.12,
-      "niche": "ai",
-      "source": "hackernews",
-      "engagement": {
-        "score": 29,
-        "comments": 26
-      }
-    },
-    {
-      "title": "Asian AI startups launch Mythos-like models",
-      "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
-      "score": 6.09,
-      "niche": "ai",
-      "source": "hackernews",
-      "engagement": {
-        "score": 82,
-        "comments": 78
       }
     },
     {
       "title": "deepseek-ai/DeepSpec — DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms",
       "url": "https://github.com/deepseek-ai/DeepSpec",
-      "score": 5.92,
+      "score": 6.1,
       "niche": "ai",
       "source": "github",
       "engagement": {
-        "score": 1211,
+        "score": 1498,
         "comments": 2
       }
     },
     {
-      "title": "'Careless People' author claims Meta surveilled her for 12mos to enforce silence",
-      "url": "https://fortune.com/2026/06/26/meta-wynn-williams-surveillance-gag-order-lawsuit-2026/",
-      "score": 5.74,
+      "title": "This morning, Putin's oil refinery in Slavyansk-on-Kuban in the Krasnodar Krai region is wondering if war with Ukraine was such a good idea.Have an excellent day everyone.",
+      "url": "https://mastodon.social/@randahl/116825562248195069",
+      "score": 5.96,
       "niche": "ai",
-      "source": "hackernews",
+      "source": "mastodon",
       "engagement": {
-        "score": 49,
-        "comments": 6
+        "score": 64,
+        "comments": 4
+      }
+    },
+    {
+      "title": "eli-labz/Godcoder — A local-first, open-source coding agent for your desktop. Bring your own LLM key; your code stays on your machine and only ever leaves to the model provider. The AI Agent builds it",
+      "url": "https://github.com/eli-labz/Godcoder",
+      "score": 5.95,
+      "niche": "ai",
+      "source": "github",
+      "engagement": {
+        "score": 241,
+        "comments": 0
       }
     },
     {
       "title": "Pluviobyte/video-production-skills — Reusable AI video production skills library for creation, recreation, motion design, openers, and QA.",
       "url": "https://github.com/Pluviobyte/video-production-skills",
-      "score": 5.53,
+      "score": 5.6,
       "niche": "ai",
       "source": "github",
       "engagement": {
-        "score": 317,
+        "score": 342,
         "comments": 0
       }
     },
     {
-      "title": "10 Essential Survival Gadgets For Camping, Hiking, And Everything Outdoors",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNV3lJS09NZG0tUVh2eVNtd3hReC1xSk9zRFhEMlBIMnVhMmhqbWEzOTZ1Y2FxTFlwM2VJb2ZLdDc0TDFqaEsyYTNJcFVMZ1RMWGxmTmI3TExTbE9WMFJNY0g1QUJUa0kzQWhmbEQ4aFFfZkdhWWlzSHdEUTVsNWV0TUk3XzZzTUpSeFpZ?oc=5",
-      "score": 5.19,
-      "niche": "gear",
-      "source": "gnews",
-      "engagement": {
-        "score": 40,
-        "comments": 0
-      }
-    },
-    {
-      "title": "5 Best Dividend Stocks to Buy for Passive Income",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUGh4elZ5bkxaNFNYNUFfR2tJTWxoQVQ3ZmNTaVU4U1NLVk4xdGpPQk1JN0FKYzFSNUtrVkhQaVNmM3BUaXBUSFZyMXNIMWV4V2U5aUphMlVqVUt0Z0JtZW9TbXY2RWR6ZlBWb1NfQVZTbnZVMUpqd09KTkhlc2NpTUpCN25MMVE2czVkQkl5Zk1pZURrQV9V0gGfAUFVX3lxTE9jVjYyZHdXMVI3UHE4ZmJnd0VRZEI1N3pPUkl5b2RMc3RKZWFNeGFzWWRPVDdybUo0Y2ZWUmt5VWx4emwzUC1pUnNtYnc0S0NqV1JJM1dPRU05amxuZXdob0gyQmhNaGlpSHBzcVZRV3JHWm9oR3dOV2duc3hwTTZWSFVQZG1HY0QtMmhHVGJXejhGX2daN2dQS294QXZZVQ?oc=5",
+      "title": "Enhancing X11 Application Security with LXC",
+      "url": "https://dobrowolski.dev/article/enhancing-x11-application-security-with-lxc/",
       "score": 5.03,
-      "niche": "finance",
-      "source": "gnews",
+      "niche": "software",
+      "source": "hackernews",
       "engagement": {
-        "score": 40,
-        "comments": 0
+        "score": 55,
+        "comments": 17
       }
     },
     {
-      "title": "10 Best Dividend Stocks to Buy for Passive Income",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOc0pyUElPb2dNLWMxdmRXNWRLdWNMbE9WSWNxeXlGRXZMenpOeGJodDJPREdQWVAzOG5ObF9sTldqMm1RTWc1SmdEN0c0a094bFVZOGNmaGVlSWJKc2VBaGtDX3ZLajdYX1RYN3hBT2pXRGhkOW9SbGl4Xzcxd1pxQ3g1b2RRZlNxMFJjaG1ua1NmRVkzTUlSdXR3?oc=5",
-      "score": 5.03,
-      "niche": "finance",
-      "source": "gnews",
+      "title": "playPlumtown/Plumtown — The cozy life-sim that pays. Build a home, master skills, climb careers — earn $PLUM and cash out real SOL. Free to play in your browser.",
+      "url": "https://github.com/playPlumtown/Plumtown",
+      "score": 4.93,
+      "niche": "software",
+      "source": "github",
       "engagement": {
-        "score": 40,
+        "score": 355,
         "comments": 0
-      }
-    },
-    {
-      "title": "10 Best Dividend Stocks to Buy for Passive Income",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOODliTHpxc3QxdEFfS2NMQ21OenlRajJzREVodkZpTTJHYkVISG9ZREsyVjN1V1UzLUZRTjZ4MUIxMUowZ1pVUkxZenVpVGlvdFVpZ3RNN1ZhQ2JPaURhdmloSTF1dXhlZmJTd0NPTUNraW1YNHJqTTJGcFFVYThOdU5YVVRuYVU5RTM4ZzJXV3FCcndyWk1FSNIBoAFBVV95cUxPZExKNFRJQ3ozSGRlTFcyV2xuYTRSb09rSHczR3JQZEpKMTg1bkRZN3lQSkZEcFlfcUdKZm5LNGJkVTlhR2Z4VFB1Um16UnJoUmZrXzFqV2pTazBZWjVlVEVHNGNPQ2ZtLTRuQjhVVldGSHJYN1JIV2k2UTFLVFN5TDdKamtuNzI4anFmeC1yQjR2NG5LMmhUWW5JRWp4OHI0?oc=5",
-      "score": 5.03,
-      "niche": "finance",
-      "source": "gnews",
-      "engagement": {
-        "score": 40,
-        "comments": 0
-      }
-    },
-    {
-      "title": "NLNet Labs LLM Policy",
-      "url": "https://nlnetlabs.nl/llm-policy/",
-      "score": 4.98,
-      "niche": "ai",
-      "source": "lobsters",
-      "engagement": {
-        "score": 61,
-        "comments": 13
       }
     }
   ],
   "topics": [
     {
       "keyword": "passive income",
-      "count": 44,
-      "score": 254.4924542388041,
+      "count": 50,
+      "score": 302.39213478338024,
       "proper": true,
       "niches": [
         "finance",
@@ -290,23 +290,23 @@
       ],
       "examples": [
         {
-          "title": "5 Best Dividend Stocks to Buy for Passive Income",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUGh4elZ5bkxaNFNYNUFfR2tJTWxoQVQ3ZmNTaVU4U1NLVk4xdGpPQk1JN0FKYzFSNUtrVkhQaVNmM3BUaXBUSFZyMXNIMWV4V2U5aUphMlVqVUt0Z0JtZW9TbXY2RWR6ZlBWb1NfQVZTbnZVMUpqd09KTkhlc2NpTUpCN25MMVE2czVkQkl5Zk1pZURrQV9V0gGfAUFVX3lxTE9jVjYyZHdXMVI3UHE4ZmJnd0VRZEI1N3pPUkl5b2RMc3RKZWFNeGFzWWRPVDdybUo0Y2ZWUmt5VWx4emwzUC1pUnNtYnc0S0NqV1JJM1dPRU05amxuZXdob0gyQmhNaGlpSHBzcVZRV3JHWm9oR3dOV2duc3hwTTZWSFVQZG1HY0QtMmhHVGJXejhGX2daN2dQS294QXZZVQ?oc=5",
+          "title": "Is PepsiCo (PEP) One of the 10 Best Dividend Stocks to Buy for Passive Income?",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOS2hRcVoxUXA2emtEa3UyZG1VYUVJZUp3bWxwN3d6NU9SV2FCSVRlWUtnSC10VXNOLTk1dzJ1eEYyOV9Ydjg4YWhxaHEwTEdsSjBULXpXc3RBeTFkOEFSdExjNkhXTXltNlZNMF9qV2dtS0lOVnRwVkJQOUptT0REa2ZISzBOZUZhb2RaUDdTUDBVdw?oc=5",
           "source": "gnews"
         },
         {
-          "title": "10 Best Dividend Stocks to Buy for Passive Income",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOc0pyUElPb2dNLWMxdmRXNWRLdWNMbE9WSWNxeXlGRXZMenpOeGJodDJPREdQWVAzOG5ObF9sTldqMm1RTWc1SmdEN0c0a094bFVZOGNmaGVlSWJKc2VBaGtDX3ZLajdYX1RYN3hBT2pXRGhkOW9SbGl4Xzcxd1pxQ3g1b2RRZlNxMFJjaG1ua1NmRVkzTUlSdXR3?oc=5",
+          "title": "Is PepsiCo (PEP) One of the 10 Best Dividend Stocks to Buy for Passive Income?",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOS2hRcVoxUXA2emtEa3UyZG1VYUVJZUp3bWxwN3d6NU9SV2FCSVRlWUtnSC10VXNOLTk1dzJ1eEYyOV9Ydjg4YWhxaHEwTEdsSjBULXpXc3RBeTFkOEFSdExjNkhXTXltNlZNMF9qV2dtS0lOVnRwVkJQOUptT0REa2ZISzBOZUZhb2RaUDdTUDBVdw?oc=5",
           "source": "gnews"
         },
         {
-          "title": "10 Best Dividend Stocks to Buy for Passive Income",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOc0pyUElPb2dNLWMxdmRXNWRLdWNMbE9WSWNxeXlGRXZMenpOeGJodDJPREdQWVAzOG5ObF9sTldqMm1RTWc1SmdEN0c0a094bFVZOGNmaGVlSWJKc2VBaGtDX3ZLajdYX1RYN3hBT2pXRGhkOW9SbGl4Xzcxd1pxQ3g1b2RRZlNxMFJjaG1ua1NmRVkzTUlSdXR3?oc=5",
+          "title": "Johnson & Johnson (JNJ) – Among the 10 Best Dividend Stocks to Buy for Passive Income",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWUdfaHVPYTd5T0t5b19jZEIyMzBUZWtlYVFLYS1pMm1id0pXZmRTTkttaDVwLTlQQmRBbWlva2FUUm5GTk9oOGE0dFRxeU03ZjR0WVZkZzVmSlFtZGR0SExzYnBOU0lpcEFmd1FpOUFjMklMTVpZX3hxTTYxelhGdzBjc0hQZWJhd1NmT2JrbGM0RFNDYjI1MA?oc=5",
           "source": "gnews"
         },
         {
-          "title": "10 Best Dividend Stocks to Buy for Passive Income",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOODliTHpxc3QxdEFfS2NMQ21OenlRajJzREVodkZpTTJHYkVISG9ZREsyVjN1V1UzLUZRTjZ4MUIxMUowZ1pVUkxZenVpVGlvdFVpZ3RNN1ZhQ2JPaURhdmloSTF1dXhlZmJTd0NPTUNraW1YNHJqTTJGcFFVYThOdU5YVVRuYVU5RTM4ZzJXV3FCcndyWk1FSNIBoAFBVV95cUxPZExKNFRJQ3ozSGRlTFcyV2xuYTRSb09rSHczR3JQZEpKMTg1bkRZN3lQSkZEcFlfcUdKZm5LNGJkVTlhR2Z4VFB1Um16UnJoUmZrXzFqV2pTazBZWjVlVEVHNGNPQ2ZtLTRuQjhVVldGSHJYN1JIV2k2UTFLVFN5TDdKamtuNzI4anFmeC1yQjR2NG5LMmhUWW5JRWp4OHI0?oc=5",
+          "title": "Johnson & Johnson (JNJ) – Among the 10 Best Dividend Stocks to Buy for Passive Income",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWUdfaHVPYTd5T0t5b19jZEIyMzBUZWtlYVFLYS1pMm1id0pXZmRTTkttaDVwLTlQQmRBbWlva2FUUm5GTk9oOGE0dFRxeU03ZjR0WVZkZzVmSlFtZGR0SExzYnBOU0lpcEFmd1FpOUFjMklMTVpZX3hxTTYxelhGdzBjc0hQZWJhd1NmT2JrbGM0RFNDYjI1MA?oc=5",
           "source": "gnews"
         },
         {
@@ -317,6 +317,166 @@
       ],
       "id": "cf2dbbbf8c8c",
       "slug": "passive-income"
+    },
+    {
+      "keyword": "birthday genius",
+      "count": 8,
+      "score": 98.2547744977027,
+      "proper": true,
+      "niches": [
+        "software"
+      ],
+      "examples": [
+        {
+          "title": "Happy 100th Birthday Genius. #MelBrooks",
+          "url": "https://mastodon.scot/@Dolphinchaz/116824703046348885",
+          "source": "mastodon"
+        },
+        {
+          "title": "Happy 100th Birthday Genius. #MelBrooks",
+          "url": "https://mastodon.scot/@Dolphinchaz/116824703046348885",
+          "source": "mastodon"
+        }
+      ],
+      "id": "ca60d8ef3c55",
+      "slug": "birthday-genius"
+    },
+    {
+      "keyword": "dividend stocks",
+      "count": 18,
+      "score": 98.1217698428287,
+      "proper": false,
+      "niches": [
+        "finance"
+      ],
+      "examples": [
+        {
+          "title": "Is PepsiCo (PEP) One of the 10 Best Dividend Stocks to Buy for Passive Income?",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOS2hRcVoxUXA2emtEa3UyZG1VYUVJZUp3bWxwN3d6NU9SV2FCSVRlWUtnSC10VXNOLTk1dzJ1eEYyOV9Ydjg4YWhxaHEwTEdsSjBULXpXc3RBeTFkOEFSdExjNkhXTXltNlZNMF9qV2dtS0lOVnRwVkJQOUptT0REa2ZISzBOZUZhb2RaUDdTUDBVdw?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Is PepsiCo (PEP) One of the 10 Best Dividend Stocks to Buy for Passive Income?",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOS2hRcVoxUXA2emtEa3UyZG1VYUVJZUp3bWxwN3d6NU9SV2FCSVRlWUtnSC10VXNOLTk1dzJ1eEYyOV9Ydjg4YWhxaHEwTEdsSjBULXpXc3RBeTFkOEFSdExjNkhXTXltNlZNMF9qV2dtS0lOVnRwVkJQOUptT0REa2ZISzBOZUZhb2RaUDdTUDBVdw?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Johnson & Johnson (JNJ) – Among the 10 Best Dividend Stocks to Buy for Passive Income",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWUdfaHVPYTd5T0t5b19jZEIyMzBUZWtlYVFLYS1pMm1id0pXZmRTTkttaDVwLTlQQmRBbWlva2FUUm5GTk9oOGE0dFRxeU03ZjR0WVZkZzVmSlFtZGR0SExzYnBOU0lpcEFmd1FpOUFjMklMTVpZX3hxTTYxelhGdzBjc0hQZWJhd1NmT2JrbGM0RFNDYjI1MA?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Johnson & Johnson (JNJ) – Among the 10 Best Dividend Stocks to Buy for Passive Income",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWUdfaHVPYTd5T0t5b19jZEIyMzBUZWtlYVFLYS1pMm1id0pXZmRTTkttaDVwLTlQQmRBbWlva2FUUm5GTk9oOGE0dFRxeU03ZjR0WVZkZzVmSlFtZGR0SExzYnBOU0lpcEFmd1FpOUFjMklMTVpZX3hxTTYxelhGdzBjc0hQZWJhd1NmT2JrbGM0RFNDYjI1MA?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "10 Best Dividend Stocks to Buy for Passive Income",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOc0pyUElPb2dNLWMxdmRXNWRLdWNMbE9WSWNxeXlGRXZMenpOeGJodDJPREdQWVAzOG5ObF9sTldqMm1RTWc1SmdEN0c0a094bFVZOGNmaGVlSWJKc2VBaGtDX3ZLajdYX1RYN3hBT2pXRGhkOW9SbGl4Xzcxd1pxQ3g1b2RRZlNxMFJjaG1ua1NmRVkzTUlSdXR3?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "e1fa01b8fed7",
+      "slug": "dividend-stocks"
+    },
+    {
+      "keyword": "stocks buy",
+      "count": 18,
+      "score": 98.1217698428287,
+      "proper": false,
+      "niches": [
+        "finance"
+      ],
+      "examples": [
+        {
+          "title": "Is PepsiCo (PEP) One of the 10 Best Dividend Stocks to Buy for Passive Income?",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOS2hRcVoxUXA2emtEa3UyZG1VYUVJZUp3bWxwN3d6NU9SV2FCSVRlWUtnSC10VXNOLTk1dzJ1eEYyOV9Ydjg4YWhxaHEwTEdsSjBULXpXc3RBeTFkOEFSdExjNkhXTXltNlZNMF9qV2dtS0lOVnRwVkJQOUptT0REa2ZISzBOZUZhb2RaUDdTUDBVdw?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Is PepsiCo (PEP) One of the 10 Best Dividend Stocks to Buy for Passive Income?",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOS2hRcVoxUXA2emtEa3UyZG1VYUVJZUp3bWxwN3d6NU9SV2FCSVRlWUtnSC10VXNOLTk1dzJ1eEYyOV9Ydjg4YWhxaHEwTEdsSjBULXpXc3RBeTFkOEFSdExjNkhXTXltNlZNMF9qV2dtS0lOVnRwVkJQOUptT0REa2ZISzBOZUZhb2RaUDdTUDBVdw?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Johnson & Johnson (JNJ) – Among the 10 Best Dividend Stocks to Buy for Passive Income",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWUdfaHVPYTd5T0t5b19jZEIyMzBUZWtlYVFLYS1pMm1id0pXZmRTTkttaDVwLTlQQmRBbWlva2FUUm5GTk9oOGE0dFRxeU03ZjR0WVZkZzVmSlFtZGR0SExzYnBOU0lpcEFmd1FpOUFjMklMTVpZX3hxTTYxelhGdzBjc0hQZWJhd1NmT2JrbGM0RFNDYjI1MA?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Johnson & Johnson (JNJ) – Among the 10 Best Dividend Stocks to Buy for Passive Income",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWUdfaHVPYTd5T0t5b19jZEIyMzBUZWtlYVFLYS1pMm1id0pXZmRTTkttaDVwLTlQQmRBbWlva2FUUm5GTk9oOGE0dFRxeU03ZjR0WVZkZzVmSlFtZGR0SExzYnBOU0lpcEFmd1FpOUFjMklMTVpZX3hxTTYxelhGdzBjc0hQZWJhd1NmT2JrbGM0RFNDYjI1MA?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "10 Best Dividend Stocks to Buy for Passive Income",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOc0pyUElPb2dNLWMxdmRXNWRLdWNMbE9WSWNxeXlGRXZMenpOeGJodDJPREdQWVAzOG5ObF9sTldqMm1RTWc1SmdEN0c0a094bFVZOGNmaGVlSWJKc2VBaGtDX3ZLajdYX1RYN3hBT2pXRGhkOW9SbGl4Xzcxd1pxQ3g1b2RRZlNxMFJjaG1ua1NmRVkzTUlSdXR3?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "2fd5aaa23e99",
+      "slug": "stocks-buy"
+    },
+    {
+      "keyword": "buy passive",
+      "count": 18,
+      "score": 98.1217698428287,
+      "proper": false,
+      "niches": [
+        "finance"
+      ],
+      "examples": [
+        {
+          "title": "Is PepsiCo (PEP) One of the 10 Best Dividend Stocks to Buy for Passive Income?",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOS2hRcVoxUXA2emtEa3UyZG1VYUVJZUp3bWxwN3d6NU9SV2FCSVRlWUtnSC10VXNOLTk1dzJ1eEYyOV9Ydjg4YWhxaHEwTEdsSjBULXpXc3RBeTFkOEFSdExjNkhXTXltNlZNMF9qV2dtS0lOVnRwVkJQOUptT0REa2ZISzBOZUZhb2RaUDdTUDBVdw?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Is PepsiCo (PEP) One of the 10 Best Dividend Stocks to Buy for Passive Income?",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOS2hRcVoxUXA2emtEa3UyZG1VYUVJZUp3bWxwN3d6NU9SV2FCSVRlWUtnSC10VXNOLTk1dzJ1eEYyOV9Ydjg4YWhxaHEwTEdsSjBULXpXc3RBeTFkOEFSdExjNkhXTXltNlZNMF9qV2dtS0lOVnRwVkJQOUptT0REa2ZISzBOZUZhb2RaUDdTUDBVdw?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Johnson & Johnson (JNJ) – Among the 10 Best Dividend Stocks to Buy for Passive Income",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWUdfaHVPYTd5T0t5b19jZEIyMzBUZWtlYVFLYS1pMm1id0pXZmRTTkttaDVwLTlQQmRBbWlva2FUUm5GTk9oOGE0dFRxeU03ZjR0WVZkZzVmSlFtZGR0SExzYnBOU0lpcEFmd1FpOUFjMklMTVpZX3hxTTYxelhGdzBjc0hQZWJhd1NmT2JrbGM0RFNDYjI1MA?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Johnson & Johnson (JNJ) – Among the 10 Best Dividend Stocks to Buy for Passive Income",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWUdfaHVPYTd5T0t5b19jZEIyMzBUZWtlYVFLYS1pMm1id0pXZmRTTkttaDVwLTlQQmRBbWlva2FUUm5GTk9oOGE0dFRxeU03ZjR0WVZkZzVmSlFtZGR0SExzYnBOU0lpcEFmd1FpOUFjMklMTVpZX3hxTTYxelhGdzBjc0hQZWJhd1NmT2JrbGM0RFNDYjI1MA?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "10 Best Dividend Stocks to Buy for Passive Income",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOc0pyUElPb2dNLWMxdmRXNWRLdWNMbE9WSWNxeXlGRXZMenpOeGJodDJPREdQWVAzOG5ObF9sTldqMm1RTWc1SmdEN0c0a094bFVZOGNmaGVlSWJKc2VBaGtDX3ZLajdYX1RYN3hBT2pXRGhkOW9SbGl4Xzcxd1pxQ3g1b2RRZlNxMFJjaG1ua1NmRVkzTUlSdXR3?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "2ed9a93aee71",
+      "slug": "buy-passive"
+    },
+    {
+      "keyword": "robin williams",
+      "count": 8,
+      "score": 94.20742425780625,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "Response to AI slop is from Robin Williams",
+          "url": "https://jayacunzo.com/blog/your-move-chief",
+          "source": "hackernews"
+        },
+        {
+          "title": "Response to AI slop is from Robin Williams",
+          "url": "https://jayacunzo.com/blog/your-move-chief",
+          "source": "hackernews"
+        }
+      ],
+      "id": "7695d2f2e1c6",
+      "slug": "robin-williams"
     },
     {
       "keyword": "tech deals",
@@ -358,350 +518,237 @@
       "slug": "tech-deals"
     },
     {
-      "keyword": "mel brooks",
+      "keyword": "happy pride",
       "count": 8,
-      "score": 85.62980399245887,
+      "score": 87.73583978519736,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "Happy Pride from @datasaurus and RainBro Brite!#Pride",
+          "url": "https://mastodon.social/@gairdeachas/116825215711655138",
+          "source": "mastodon"
+        },
+        {
+          "title": "Happy Pride from @datasaurus and RainBro Brite!#Pride",
+          "url": "https://mastodon.social/@gairdeachas/116825215711655138",
+          "source": "mastodon"
+        }
+      ],
+      "id": "fa735f5f0e2a",
+      "slug": "happy-pride"
+    },
+    {
+      "keyword": "rainbro brite",
+      "count": 8,
+      "score": 87.73583978519736,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "Happy Pride from @datasaurus and RainBro Brite!#Pride",
+          "url": "https://mastodon.social/@gairdeachas/116825215711655138",
+          "source": "mastodon"
+        },
+        {
+          "title": "Happy Pride from @datasaurus and RainBro Brite!#Pride",
+          "url": "https://mastodon.social/@gairdeachas/116825215711655138",
+          "source": "mastodon"
+        }
+      ],
+      "id": "e29c3761f1f7",
+      "slug": "rainbro-brite"
+    },
+    {
+      "keyword": "staircase sunday",
+      "count": 8,
+      "score": 81.43003895830465,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "Staircase Sunday! Is it a thing? Well, this is one of my favourite staircases. It was inside the Château de Le Quesnel (Château Secession) in France. Sadly, it was burnt down and lost forever.#Stairca",
+          "url": "https://mstdn.social/@ObsidianUrbex/116825320962894069",
+          "source": "mastodon"
+        },
+        {
+          "title": "Staircase Sunday! Is it a thing? Well, this is one of my favourite staircases. It was inside the Château de Le Quesnel (Château Secession) in France. Sadly, it was burnt down and lost forever.#Stairca",
+          "url": "https://mstdn.social/@ObsidianUrbex/116825320962894069",
+          "source": "mastodon"
+        }
+      ],
+      "id": "0e4a6ecf5601",
+      "slug": "staircase-sunday"
+    },
+    {
+      "keyword": "krasnodar krai",
+      "count": 8,
+      "score": 71.55159782862552,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "This morning, Putin's oil refinery in Slavyansk-on-Kuban in the Krasnodar Krai region is wondering if war with Ukraine was such a good idea.Have an excellent day everyone.",
+          "url": "https://mastodon.social/@randahl/116825562248195069",
+          "source": "mastodon"
+        },
+        {
+          "title": "This morning, Putin's oil refinery in Slavyansk-on-Kuban in the Krasnodar Krai region is wondering if war with Ukraine was such a good idea.Have an excellent day everyone.",
+          "url": "https://mastodon.social/@randahl/116825562248195069",
+          "source": "mastodon"
+        }
+      ],
+      "id": "dc3a5630bbf6",
+      "slug": "krasnodar-krai"
+    },
+    {
+      "keyword": "income _blank",
+      "count": 15,
+      "score": 70.39801534581645,
+      "proper": false,
+      "niches": [
+        "finance"
+      ],
+      "examples": [
+        {
+          "title": "Is PepsiCo (PEP) One of the 10 Best Dividend Stocks to Buy for Passive Income?",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOS2hRcVoxUXA2emtEa3UyZG1VYUVJZUp3bWxwN3d6NU9SV2FCSVRlWUtnSC10VXNOLTk1dzJ1eEYyOV9Ydjg4YWhxaHEwTEdsSjBULXpXc3RBeTFkOEFSdExjNkhXTXltNlZNMF9qV2dtS0lOVnRwVkJQOUptT0REa2ZISzBOZUZhb2RaUDdTUDBVdw?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Johnson & Johnson (JNJ) – Among the 10 Best Dividend Stocks to Buy for Passive Income",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWUdfaHVPYTd5T0t5b19jZEIyMzBUZWtlYVFLYS1pMm1id0pXZmRTTkttaDVwLTlQQmRBbWlva2FUUm5GTk9oOGE0dFRxeU03ZjR0WVZkZzVmSlFtZGR0SExzYnBOU0lpcEFmd1FpOUFjMklMTVpZX3hxTTYxelhGdzBjc0hQZWJhd1NmT2JrbGM0RFNDYjI1MA?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Here's How Many Shares of Energy Transfer You'd Need to Buy for $10,000 in Annual Passive Income",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMmpWQTlFaDREaUhoR0pPcWlYZFR6SXpYU1dBMENsSlpUNU93RmpSVzRQbkZXYkVSTFpFS0l5ZFpDdlREa1FYa3lTZHFfODlBcFpfSUgwc0MxeWlHcnYxOFZuLTVWQjd6VXhZYkZER0NnVjB0UW5uNk5CUjhNTXhiLWdvM1dqaUNtN1NPLWVKck9kd0kzbVQ4eTY0cUdrbmM?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "10 Best Dividend Stocks to Buy for Passive Income",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOc0pyUElPb2dNLWMxdmRXNWRLdWNMbE9WSWNxeXlGRXZMenpOeGJodDJPREdQWVAzOG5ObF9sTldqMm1RTWc1SmdEN0c0a094bFVZOGNmaGVlSWJKc2VBaGtDX3ZLajdYX1RYN3hBT2pXRGhkOW9SbGl4Xzcxd1pxQ3g1b2RRZlNxMFJjaG1ua1NmRVkzTUlSdXR3?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Chevron Has Surged Over 14% in 2026 and Still Yields 4.1%. Is It Still Worth Buying for Passive Income Now?",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdXdMY2ZYaFZRa1h4T3k0S19FRm1uUTg2ckc0cWtJV1FneU1oOHpIczBfUHlEd0NMMkN4aUVoSGRTX0kwbHVBWjhKTl9OYTZCd1FQclFtY2ZaN1BzMlA2WUlXdHZ3dGxnODljbEFtZUQwVDVBNW50aE9JalEwUHVYa3ZnRVNQaGhYVlhCVm5PSktycVRQZ3lrTw?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "4bfe3085a346",
+      "slug": "income-_blank"
+    },
+    {
+      "keyword": "happy",
+      "count": 5,
+      "score": 61.40923406106418,
       "proper": true,
       "niches": [
         "software"
       ],
       "examples": [
         {
-          "title": "Mel Brooks is turning 100 years old tomorrow. Everyone knows and loves his comedy. Not everyone knows he served as a US Army combat engineer in WWII and was in the Battle of the Bulge.Happiest of birt",
-          "url": "https://mstdn.social/@MaryAustinBooks/116822794494385859",
-          "source": "mastodon"
-        },
-        {
-          "title": "Mel Brooks is turning 100 years old tomorrow. Everyone knows and loves his comedy. Not everyone knows he served as a US Army combat engineer in WWII and was in the Battle of the Bulge.Happiest of birt",
-          "url": "https://mstdn.social/@MaryAustinBooks/116822794494385859",
+          "title": "Happy 100th Birthday Genius. #MelBrooks",
+          "url": "https://mastodon.scot/@Dolphinchaz/116824703046348885",
           "source": "mastodon"
         }
       ],
-      "id": "3bcfe3d6f49c",
-      "slug": "mel-brooks"
+      "id": "489f719cadf9",
+      "slug": "happy"
     },
     {
-      "keyword": "formerly noaa",
-      "count": 8,
-      "score": 85.60523010103083,
-      "proper": true,
-      "niches": [
-        "software"
-      ],
-      "examples": [
-        {
-          "title": "This is good news!The scientists behind the new independent organization Climate.us are the same experts Trump fired because they were researching and reporting on climate change. Formerly NOAA’s http",
-          "url": "https://mstdn.ca/@dbattistella/116822991494258324",
-          "source": "mastodon"
-        },
-        {
-          "title": "This is good news!The scientists behind the new independent organization Climate.us are the same experts Trump fired because they were researching and reporting on climate change. Formerly NOAA’s http",
-          "url": "https://mstdn.ca/@dbattistella/116822991494258324",
-          "source": "mastodon"
-        }
-      ],
-      "id": "e91c13b41e8c",
-      "slug": "formerly-noaa"
-    },
-    {
-      "keyword": "professional bip",
-      "count": 5,
-      "score": 63.44050025052675,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "zanetanasta/Seed-Generator — Professional BIP-39 Seed & HD Wallet Toolkit with 12–24 word mnemonics, checksum validation, BIP-44/49/84 derivation, and multi-chain support (BTC, ETH, SOL, LTC, DOGE, AD",
-          "url": "https://github.com/zanetanasta/Seed-Generator",
-          "source": "github"
-        }
-      ],
-      "id": "a28ac04fe527",
-      "slug": "professional-bip"
-    },
-    {
-      "keyword": "hd wallet toolkit",
-      "count": 5,
-      "score": 63.44050025052675,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "zanetanasta/Seed-Generator — Professional BIP-39 Seed & HD Wallet Toolkit with 12–24 word mnemonics, checksum validation, BIP-44/49/84 derivation, and multi-chain support (BTC, ETH, SOL, LTC, DOGE, AD",
-          "url": "https://github.com/zanetanasta/Seed-Generator",
-          "source": "github"
-        }
-      ],
-      "id": "f135d3a7bc29",
-      "slug": "hd-wallet-toolkit"
-    },
-    {
-      "keyword": "dividend stocks",
-      "count": 12,
-      "score": 60.3826275955869,
+      "keyword": "passive",
+      "count": 15,
+      "score": 61.26320758135586,
       "proper": false,
       "niches": [
-        "finance"
+        "finance",
+        "ai"
       ],
       "examples": [
         {
-          "title": "5 Best Dividend Stocks to Buy for Passive Income",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUGh4elZ5bkxaNFNYNUFfR2tJTWxoQVQ3ZmNTaVU4U1NLVk4xdGpPQk1JN0FKYzFSNUtrVkhQaVNmM3BUaXBUSFZyMXNIMWV4V2U5aUphMlVqVUt0Z0JtZW9TbXY2RWR6ZlBWb1NfQVZTbnZVMUpqd09KTkhlc2NpTUpCN25MMVE2czVkQkl5Zk1pZURrQV9V0gGfAUFVX3lxTE9jVjYyZHdXMVI3UHE4ZmJnd0VRZEI1N3pPUkl5b2RMc3RKZWFNeGFzWWRPVDdybUo0Y2ZWUmt5VWx4emwzUC1pUnNtYnc0S0NqV1JJM1dPRU05amxuZXdob0gyQmhNaGlpSHBzcVZRV3JHWm9oR3dOV2duc3hwTTZWSFVQZG1HY0QtMmhHVGJXejhGX2daN2dQS294QXZZVQ?oc=5",
+          "title": "Is PepsiCo (PEP) One of the 10 Best Dividend Stocks to Buy for Passive Income?",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOS2hRcVoxUXA2emtEa3UyZG1VYUVJZUp3bWxwN3d6NU9SV2FCSVRlWUtnSC10VXNOLTk1dzJ1eEYyOV9Ydjg4YWhxaHEwTEdsSjBULXpXc3RBeTFkOEFSdExjNkhXTXltNlZNMF9qV2dtS0lOVnRwVkJQOUptT0REa2ZISzBOZUZhb2RaUDdTUDBVdw?oc=5",
           "source": "gnews"
         },
         {
-          "title": "10 Best Dividend Stocks to Buy for Passive Income",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOc0pyUElPb2dNLWMxdmRXNWRLdWNMbE9WSWNxeXlGRXZMenpOeGJodDJPREdQWVAzOG5ObF9sTldqMm1RTWc1SmdEN0c0a094bFVZOGNmaGVlSWJKc2VBaGtDX3ZLajdYX1RYN3hBT2pXRGhkOW9SbGl4Xzcxd1pxQ3g1b2RRZlNxMFJjaG1ua1NmRVkzTUlSdXR3?oc=5",
+          "title": "Is PepsiCo (PEP) One of the 10 Best Dividend Stocks to Buy for Passive Income?",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOS2hRcVoxUXA2emtEa3UyZG1VYUVJZUp3bWxwN3d6NU9SV2FCSVRlWUtnSC10VXNOLTk1dzJ1eEYyOV9Ydjg4YWhxaHEwTEdsSjBULXpXc3RBeTFkOEFSdExjNkhXTXltNlZNMF9qV2dtS0lOVnRwVkJQOUptT0REa2ZISzBOZUZhb2RaUDdTUDBVdw?oc=5",
           "source": "gnews"
         },
         {
-          "title": "10 Best Dividend Stocks to Buy for Passive Income",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOc0pyUElPb2dNLWMxdmRXNWRLdWNMbE9WSWNxeXlGRXZMenpOeGJodDJPREdQWVAzOG5ObF9sTldqMm1RTWc1SmdEN0c0a094bFVZOGNmaGVlSWJKc2VBaGtDX3ZLajdYX1RYN3hBT2pXRGhkOW9SbGl4Xzcxd1pxQ3g1b2RRZlNxMFJjaG1ua1NmRVkzTUlSdXR3?oc=5",
+          "title": "Johnson & Johnson (JNJ) – Among the 10 Best Dividend Stocks to Buy for Passive Income",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWUdfaHVPYTd5T0t5b19jZEIyMzBUZWtlYVFLYS1pMm1id0pXZmRTTkttaDVwLTlQQmRBbWlva2FUUm5GTk9oOGE0dFRxeU03ZjR0WVZkZzVmSlFtZGR0SExzYnBOU0lpcEFmd1FpOUFjMklMTVpZX3hxTTYxelhGdzBjc0hQZWJhd1NmT2JrbGM0RFNDYjI1MA?oc=5",
           "source": "gnews"
         },
         {
-          "title": "10 Best Dividend Stocks to Buy for Passive Income",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOODliTHpxc3QxdEFfS2NMQ21OenlRajJzREVodkZpTTJHYkVISG9ZREsyVjN1V1UzLUZRTjZ4MUIxMUowZ1pVUkxZenVpVGlvdFVpZ3RNN1ZhQ2JPaURhdmloSTF1dXhlZmJTd0NPTUNraW1YNHJqTTJGcFFVYThOdU5YVVRuYVU5RTM4ZzJXV3FCcndyWk1FSNIBoAFBVV95cUxPZExKNFRJQ3ozSGRlTFcyV2xuYTRSb09rSHczR3JQZEpKMTg1bkRZN3lQSkZEcFlfcUdKZm5LNGJkVTlhR2Z4VFB1Um16UnJoUmZrXzFqV2pTazBZWjVlVEVHNGNPQ2ZtLTRuQjhVVldGSHJYN1JIV2k2UTFLVFN5TDdKamtuNzI4anFmeC1yQjR2NG5LMmhUWW5JRWp4OHI0?oc=5",
+          "title": "Johnson & Johnson (JNJ) – Among the 10 Best Dividend Stocks to Buy for Passive Income",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWUdfaHVPYTd5T0t5b19jZEIyMzBUZWtlYVFLYS1pMm1id0pXZmRTTkttaDVwLTlQQmRBbWlva2FUUm5GTk9oOGE0dFRxeU03ZjR0WVZkZzVmSlFtZGR0SExzYnBOU0lpcEFmd1FpOUFjMklMTVpZX3hxTTYxelhGdzBjc0hQZWJhd1NmT2JrbGM0RFNDYjI1MA?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Here's How Many Shares of Energy Transfer You'd Need to Buy for $10,000 in Annual Passive Income",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMmpWQTlFaDREaUhoR0pPcWlYZFR6SXpYU1dBMENsSlpUNU93RmpSVzRQbkZXYkVSTFpFS0l5ZFpDdlREa1FYa3lTZHFfODlBcFpfSUgwc0MxeWlHcnYxOFZuLTVWQjd6VXhZYkZER0NnVjB0UW5uNk5CUjhNTXhiLWdvM1dqaUNtN1NPLWVKck9kd0kzbVQ4eTY0cUdrbmM?oc=5",
           "source": "gnews"
         }
       ],
-      "id": "e1fa01b8fed7",
-      "slug": "dividend-stocks"
+      "id": "a7f1d7bc2124",
+      "slug": "passive"
     },
     {
-      "keyword": "stocks buy",
-      "count": 12,
-      "score": 60.3826275955869,
+      "keyword": "income",
+      "count": 15,
+      "score": 61.26320758135586,
       "proper": false,
       "niches": [
-        "finance"
-      ],
-      "examples": [
-        {
-          "title": "5 Best Dividend Stocks to Buy for Passive Income",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUGh4elZ5bkxaNFNYNUFfR2tJTWxoQVQ3ZmNTaVU4U1NLVk4xdGpPQk1JN0FKYzFSNUtrVkhQaVNmM3BUaXBUSFZyMXNIMWV4V2U5aUphMlVqVUt0Z0JtZW9TbXY2RWR6ZlBWb1NfQVZTbnZVMUpqd09KTkhlc2NpTUpCN25MMVE2czVkQkl5Zk1pZURrQV9V0gGfAUFVX3lxTE9jVjYyZHdXMVI3UHE4ZmJnd0VRZEI1N3pPUkl5b2RMc3RKZWFNeGFzWWRPVDdybUo0Y2ZWUmt5VWx4emwzUC1pUnNtYnc0S0NqV1JJM1dPRU05amxuZXdob0gyQmhNaGlpSHBzcVZRV3JHWm9oR3dOV2duc3hwTTZWSFVQZG1HY0QtMmhHVGJXejhGX2daN2dQS294QXZZVQ?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "10 Best Dividend Stocks to Buy for Passive Income",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOc0pyUElPb2dNLWMxdmRXNWRLdWNMbE9WSWNxeXlGRXZMenpOeGJodDJPREdQWVAzOG5ObF9sTldqMm1RTWc1SmdEN0c0a094bFVZOGNmaGVlSWJKc2VBaGtDX3ZLajdYX1RYN3hBT2pXRGhkOW9SbGl4Xzcxd1pxQ3g1b2RRZlNxMFJjaG1ua1NmRVkzTUlSdXR3?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "10 Best Dividend Stocks to Buy for Passive Income",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOc0pyUElPb2dNLWMxdmRXNWRLdWNMbE9WSWNxeXlGRXZMenpOeGJodDJPREdQWVAzOG5ObF9sTldqMm1RTWc1SmdEN0c0a094bFVZOGNmaGVlSWJKc2VBaGtDX3ZLajdYX1RYN3hBT2pXRGhkOW9SbGl4Xzcxd1pxQ3g1b2RRZlNxMFJjaG1ua1NmRVkzTUlSdXR3?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "10 Best Dividend Stocks to Buy for Passive Income",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOODliTHpxc3QxdEFfS2NMQ21OenlRajJzREVodkZpTTJHYkVISG9ZREsyVjN1V1UzLUZRTjZ4MUIxMUowZ1pVUkxZenVpVGlvdFVpZ3RNN1ZhQ2JPaURhdmloSTF1dXhlZmJTd0NPTUNraW1YNHJqTTJGcFFVYThOdU5YVVRuYVU5RTM4ZzJXV3FCcndyWk1FSNIBoAFBVV95cUxPZExKNFRJQ3ozSGRlTFcyV2xuYTRSb09rSHczR3JQZEpKMTg1bkRZN3lQSkZEcFlfcUdKZm5LNGJkVTlhR2Z4VFB1Um16UnJoUmZrXzFqV2pTazBZWjVlVEVHNGNPQ2ZtLTRuQjhVVldGSHJYN1JIV2k2UTFLVFN5TDdKamtuNzI4anFmeC1yQjR2NG5LMmhUWW5JRWp4OHI0?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "2fd5aaa23e99",
-      "slug": "stocks-buy"
-    },
-    {
-      "keyword": "buy passive",
-      "count": 12,
-      "score": 60.3826275955869,
-      "proper": false,
-      "niches": [
-        "finance"
-      ],
-      "examples": [
-        {
-          "title": "5 Best Dividend Stocks to Buy for Passive Income",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUGh4elZ5bkxaNFNYNUFfR2tJTWxoQVQ3ZmNTaVU4U1NLVk4xdGpPQk1JN0FKYzFSNUtrVkhQaVNmM3BUaXBUSFZyMXNIMWV4V2U5aUphMlVqVUt0Z0JtZW9TbXY2RWR6ZlBWb1NfQVZTbnZVMUpqd09KTkhlc2NpTUpCN25MMVE2czVkQkl5Zk1pZURrQV9V0gGfAUFVX3lxTE9jVjYyZHdXMVI3UHE4ZmJnd0VRZEI1N3pPUkl5b2RMc3RKZWFNeGFzWWRPVDdybUo0Y2ZWUmt5VWx4emwzUC1pUnNtYnc0S0NqV1JJM1dPRU05amxuZXdob0gyQmhNaGlpSHBzcVZRV3JHWm9oR3dOV2duc3hwTTZWSFVQZG1HY0QtMmhHVGJXejhGX2daN2dQS294QXZZVQ?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "10 Best Dividend Stocks to Buy for Passive Income",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOc0pyUElPb2dNLWMxdmRXNWRLdWNMbE9WSWNxeXlGRXZMenpOeGJodDJPREdQWVAzOG5ObF9sTldqMm1RTWc1SmdEN0c0a094bFVZOGNmaGVlSWJKc2VBaGtDX3ZLajdYX1RYN3hBT2pXRGhkOW9SbGl4Xzcxd1pxQ3g1b2RRZlNxMFJjaG1ua1NmRVkzTUlSdXR3?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "10 Best Dividend Stocks to Buy for Passive Income",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOc0pyUElPb2dNLWMxdmRXNWRLdWNMbE9WSWNxeXlGRXZMenpOeGJodDJPREdQWVAzOG5ObF9sTldqMm1RTWc1SmdEN0c0a094bFVZOGNmaGVlSWJKc2VBaGtDX3ZLajdYX1RYN3hBT2pXRGhkOW9SbGl4Xzcxd1pxQ3g1b2RRZlNxMFJjaG1ua1NmRVkzTUlSdXR3?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "10 Best Dividend Stocks to Buy for Passive Income",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOODliTHpxc3QxdEFfS2NMQ21OenlRajJzREVodkZpTTJHYkVISG9ZREsyVjN1V1UzLUZRTjZ4MUIxMUowZ1pVUkxZenVpVGlvdFVpZ3RNN1ZhQ2JPaURhdmloSTF1dXhlZmJTd0NPTUNraW1YNHJqTTJGcFFVYThOdU5YVVRuYVU5RTM4ZzJXV3FCcndyWk1FSNIBoAFBVV95cUxPZExKNFRJQ3ozSGRlTFcyV2xuYTRSb09rSHczR3JQZEpKMTg1bkRZN3lQSkZEcFlfcUdKZm5LNGJkVTlhR2Z4VFB1Um16UnJoUmZrXzFqV2pTazBZWjVlVEVHNGNPQ2ZtLTRuQjhVVldGSHJYN1JIV2k2UTFLVFN5TDdKamtuNzI4anFmeC1yQjR2NG5LMmhUWW5JRWp4OHI0?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "2ed9a93aee71",
-      "slug": "buy-passive"
-    },
-    {
-      "keyword": "topaz labs",
-      "count": 11,
-      "score": 58.75694146801339,
-      "proper": true,
-      "niches": [
+        "finance",
         "ai"
       ],
       "examples": [
         {
-          "title": "Adobe snags Topaz Labs as it expands AI capabilities across Creative Cloud",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWXU1cldBYUJzM3U4SVEtVWgtT2tUdUlRRkFheTBGNjVDbFhsZ0dtbkRmSjV0d080Zk1fSzRsN2d3NUtQdUozM3VZMEJCZjFYWWM3N29GUml3N1lCZzVqVnZkUU5jNlU5R3NpbG1wN1RCMUMwRWdaeEF1OWFfSVg3R2RBemdNUWh0RzJoVThR?oc=5",
+          "title": "Is PepsiCo (PEP) One of the 10 Best Dividend Stocks to Buy for Passive Income?",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOS2hRcVoxUXA2emtEa3UyZG1VYUVJZUp3bWxwN3d6NU9SV2FCSVRlWUtnSC10VXNOLTk1dzJ1eEYyOV9Ydjg4YWhxaHEwTEdsSjBULXpXc3RBeTFkOEFSdExjNkhXTXltNlZNMF9qV2dtS0lOVnRwVkJQOUptT0REa2ZISzBOZUZhb2RaUDdTUDBVdw?oc=5",
           "source": "gnews"
         },
         {
-          "title": "Adobe snags Topaz Labs as it expands AI capabilities across Creative Cloud",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWXU1cldBYUJzM3U4SVEtVWgtT2tUdUlRRkFheTBGNjVDbFhsZ0dtbkRmSjV0d080Zk1fSzRsN2d3NUtQdUozM3VZMEJCZjFYWWM3N29GUml3N1lCZzVqVnZkUU5jNlU5R3NpbG1wN1RCMUMwRWdaeEF1OWFfSVg3R2RBemdNUWh0RzJoVThR?oc=5",
+          "title": "Is PepsiCo (PEP) One of the 10 Best Dividend Stocks to Buy for Passive Income?",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOS2hRcVoxUXA2emtEa3UyZG1VYUVJZUp3bWxwN3d6NU9SV2FCSVRlWUtnSC10VXNOLTk1dzJ1eEYyOV9Ydjg4YWhxaHEwTEdsSjBULXpXc3RBeTFkOEFSdExjNkhXTXltNlZNMF9qV2dtS0lOVnRwVkJQOUptT0REa2ZISzBOZUZhb2RaUDdTUDBVdw?oc=5",
           "source": "gnews"
         },
         {
-          "title": "Adobe snags Topaz Labs as it expands AI capabilities across Creative Cloud",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWXU1cldBYUJzM3U4SVEtVWgtT2tUdUlRRkFheTBGNjVDbFhsZ0dtbkRmSjV0d080Zk1fSzRsN2d3NUtQdUozM3VZMEJCZjFYWWM3N29GUml3N1lCZzVqVnZkUU5jNlU5R3NpbG1wN1RCMUMwRWdaeEF1OWFfSVg3R2RBemdNUWh0RzJoVThR?oc=5",
+          "title": "Johnson & Johnson (JNJ) – Among the 10 Best Dividend Stocks to Buy for Passive Income",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWUdfaHVPYTd5T0t5b19jZEIyMzBUZWtlYVFLYS1pMm1id0pXZmRTTkttaDVwLTlQQmRBbWlva2FUUm5GTk9oOGE0dFRxeU03ZjR0WVZkZzVmSlFtZGR0SExzYnBOU0lpcEFmd1FpOUFjMklMTVpZX3hxTTYxelhGdzBjc0hQZWJhd1NmT2JrbGM0RFNDYjI1MA?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Johnson & Johnson (JNJ) – Among the 10 Best Dividend Stocks to Buy for Passive Income",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWUdfaHVPYTd5T0t5b19jZEIyMzBUZWtlYVFLYS1pMm1id0pXZmRTTkttaDVwLTlQQmRBbWlva2FUUm5GTk9oOGE0dFRxeU03ZjR0WVZkZzVmSlFtZGR0SExzYnBOU0lpcEFmd1FpOUFjMklMTVpZX3hxTTYxelhGdzBjc0hQZWJhd1NmT2JrbGM0RFNDYjI1MA?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Here's How Many Shares of Energy Transfer You'd Need to Buy for $10,000 in Annual Passive Income",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMmpWQTlFaDREaUhoR0pPcWlYZFR6SXpYU1dBMENsSlpUNU93RmpSVzRQbkZXYkVSTFpFS0l5ZFpDdlREa1FYa3lTZHFfODlBcFpfSUgwc0MxeWlHcnYxOFZuLTVWQjd6VXhZYkZER0NnVjB0UW5uNk5CUjhNTXhiLWdvM1dqaUNtN1NPLWVKck9kd0kzbVQ4eTY0cUdrbmM?oc=5",
           "source": "gnews"
         }
       ],
-      "id": "1ffe6af6b96b",
-      "slug": "topaz-labs"
-    },
-    {
-      "keyword": "creative cloud",
-      "count": 11,
-      "score": 58.75694146801339,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "Adobe snags Topaz Labs as it expands AI capabilities across Creative Cloud",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWXU1cldBYUJzM3U4SVEtVWgtT2tUdUlRRkFheTBGNjVDbFhsZ0dtbkRmSjV0d080Zk1fSzRsN2d3NUtQdUozM3VZMEJCZjFYWWM3N29GUml3N1lCZzVqVnZkUU5jNlU5R3NpbG1wN1RCMUMwRWdaeEF1OWFfSVg3R2RBemdNUWh0RzJoVThR?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Adobe snags Topaz Labs as it expands AI capabilities across Creative Cloud",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWXU1cldBYUJzM3U4SVEtVWgtT2tUdUlRRkFheTBGNjVDbFhsZ0dtbkRmSjV0d080Zk1fSzRsN2d3NUtQdUozM3VZMEJCZjFYWWM3N29GUml3N1lCZzVqVnZkUU5jNlU5R3NpbG1wN1RCMUMwRWdaeEF1OWFfSVg3R2RBemdNUWh0RzJoVThR?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Adobe snags Topaz Labs as it expands AI capabilities across Creative Cloud",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWXU1cldBYUJzM3U4SVEtVWgtT2tUdUlRRkFheTBGNjVDbFhsZ0dtbkRmSjV0d080Zk1fSzRsN2d3NUtQdUozM3VZMEJCZjFYWWM3N29GUml3N1lCZzVqVnZkUU5jNlU5R3NpbG1wN1RCMUMwRWdaeEF1OWFfSVg3R2RBemdNUWh0RzJoVThR?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "ea3947ba028b",
-      "slug": "creative-cloud"
-    },
-    {
-      "keyword": "software giant",
-      "count": 11,
-      "score": 58.75694146801339,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "Look Past the AI Hype: The Cold, Hard Financial Metric Telling You Exactly Which Enterprise Software Giant to Buy Right Now",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZ3RMcTV0V2o1c3JsY2RwNm0yaW84NnBUUDgza0V0V3FSTndHb204Q2V1elZHa2pYMmNzLTlqUWNEaHRJVkVHNEpNYjF6c3VNSmJCS0VISDBrYnktRkVXSlBYd2dVRmJSVGxLRHNTa3lFT1JLd190N0hpSlpiblBpemhoOExPQjI1MGpwME02Q3E?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Look Past the AI Hype: The Cold, Hard Financial Metric Telling You Exactly Which Enterprise Software Giant to Buy Right Now",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZ3RMcTV0V2o1c3JsY2RwNm0yaW84NnBUUDgza0V0V3FSTndHb204Q2V1elZHa2pYMmNzLTlqUWNEaHRJVkVHNEpNYjF6c3VNSmJCS0VISDBrYnktRkVXSlBYd2dVRmJSVGxLRHNTa3lFT1JLd190N0hpSlpiblBpemhoOExPQjI1MGpwME02Q3E?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Look Past the AI Hype: The Cold, Hard Financial Metric Telling You Exactly Which Enterprise Software Giant to Buy Right Now",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZ3RMcTV0V2o1c3JsY2RwNm0yaW84NnBUUDgza0V0V3FSTndHb204Q2V1elZHa2pYMmNzLTlqUWNEaHRJVkVHNEpNYjF6c3VNSmJCS0VISDBrYnktRkVXSlBYd2dVRmJSVGxLRHNTa3lFT1JLd190N0hpSlpiblBpemhoOExPQjI1MGpwME02Q3E?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "f69ed0ef2e9e",
-      "slug": "software-giant"
-    },
-    {
-      "keyword": "automated qwencloud",
-      "count": 8,
-      "score": 56.01104306272195,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "Vanszs/qwencloud-generator —  Automated QwenCloud account registration & API key harvester with multi-threading, TUI dashboard, proxy rotation, and Gmail OAuth",
-          "url": "https://github.com/Vanszs/qwencloud-generator",
-          "source": "github"
-        },
-        {
-          "title": "Vanszs/qwencloud-generator —  Automated QwenCloud account registration & API key harvester with multi-threading, TUI dashboard, proxy rotation, and Gmail OAuth",
-          "url": "https://github.com/Vanszs/qwencloud-generator",
-          "source": "github"
-        }
-      ],
-      "id": "b537806c090e",
-      "slug": "automated-qwencloud"
-    },
-    {
-      "keyword": "gmail oauth",
-      "count": 8,
-      "score": 56.01104306272195,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "Vanszs/qwencloud-generator —  Automated QwenCloud account registration & API key harvester with multi-threading, TUI dashboard, proxy rotation, and Gmail OAuth",
-          "url": "https://github.com/Vanszs/qwencloud-generator",
-          "source": "github"
-        },
-        {
-          "title": "Vanszs/qwencloud-generator —  Automated QwenCloud account registration & API key harvester with multi-threading, TUI dashboard, proxy rotation, and Gmail OAuth",
-          "url": "https://github.com/Vanszs/qwencloud-generator",
-          "source": "github"
-        }
-      ],
-      "id": "0ed028291914",
-      "slug": "gmail-oauth"
-    },
-    {
-      "keyword": "fitness equipment",
-      "count": 11,
-      "score": 54.49919208627331,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "Amazon Prime Day Fitness Deals: Shop the Best Deals on Fitness Equipment",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE51M3laczhpYWNOVVE1NXk0X1ZDYmdWV1ZTaFc3dVo4cEN3VEdLcmdaeGd2cHJ1WXJzSlB6elZveG54Rk5JdzE4NFpWVVktZGdDcEhZX18tV0F3NHg3MUJMekpGSEVwZlpyRkVrZTVSbTM?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Amazon Prime Day Fitness Deals: Shop the Best Deals on Fitness Equipment",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE51M3laczhpYWNOVVE1NXk0X1ZDYmdWV1ZTaFc3dVo4cEN3VEdLcmdaeGd2cHJ1WXJzSlB6elZveG54Rk5JdzE4NFpWVVktZGdDcEhZX18tV0F3NHg3MUJMekpGSEVwZlpyRkVrZTVSbTM?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Amazon Prime Day Fitness Deals: Shop the Best Deals on Fitness Equipment",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE51M3laczhpYWNOVVE1NXk0X1ZDYmdWV1ZTaFc3dVo4cEN3VEdLcmdaeGd2cHJ1WXJzSlB6elZveG54Rk5JdzE4NFpWVVktZGdDcEhZX18tV0F3NHg3MUJMekpGSEVwZlpyRkVrZTVSbTM?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "d6e2f034e8a3",
-      "slug": "fitness-equipment"
+      "id": "00cf141f881d",
+      "slug": "income"
     }
   ],
   "opportunities": [
     {
       "keyword": "passive income",
-      "count": 44,
-      "score": 254.4924542388041,
+      "count": 50,
+      "score": 302.39213478338024,
       "proper": true,
       "niches": [
         "finance",
@@ -709,23 +756,23 @@
       ],
       "examples": [
         {
-          "title": "5 Best Dividend Stocks to Buy for Passive Income",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUGh4elZ5bkxaNFNYNUFfR2tJTWxoQVQ3ZmNTaVU4U1NLVk4xdGpPQk1JN0FKYzFSNUtrVkhQaVNmM3BUaXBUSFZyMXNIMWV4V2U5aUphMlVqVUt0Z0JtZW9TbXY2RWR6ZlBWb1NfQVZTbnZVMUpqd09KTkhlc2NpTUpCN25MMVE2czVkQkl5Zk1pZURrQV9V0gGfAUFVX3lxTE9jVjYyZHdXMVI3UHE4ZmJnd0VRZEI1N3pPUkl5b2RMc3RKZWFNeGFzWWRPVDdybUo0Y2ZWUmt5VWx4emwzUC1pUnNtYnc0S0NqV1JJM1dPRU05amxuZXdob0gyQmhNaGlpSHBzcVZRV3JHWm9oR3dOV2duc3hwTTZWSFVQZG1HY0QtMmhHVGJXejhGX2daN2dQS294QXZZVQ?oc=5",
+          "title": "Is PepsiCo (PEP) One of the 10 Best Dividend Stocks to Buy for Passive Income?",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOS2hRcVoxUXA2emtEa3UyZG1VYUVJZUp3bWxwN3d6NU9SV2FCSVRlWUtnSC10VXNOLTk1dzJ1eEYyOV9Ydjg4YWhxaHEwTEdsSjBULXpXc3RBeTFkOEFSdExjNkhXTXltNlZNMF9qV2dtS0lOVnRwVkJQOUptT0REa2ZISzBOZUZhb2RaUDdTUDBVdw?oc=5",
           "source": "gnews"
         },
         {
-          "title": "10 Best Dividend Stocks to Buy for Passive Income",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOc0pyUElPb2dNLWMxdmRXNWRLdWNMbE9WSWNxeXlGRXZMenpOeGJodDJPREdQWVAzOG5ObF9sTldqMm1RTWc1SmdEN0c0a094bFVZOGNmaGVlSWJKc2VBaGtDX3ZLajdYX1RYN3hBT2pXRGhkOW9SbGl4Xzcxd1pxQ3g1b2RRZlNxMFJjaG1ua1NmRVkzTUlSdXR3?oc=5",
+          "title": "Is PepsiCo (PEP) One of the 10 Best Dividend Stocks to Buy for Passive Income?",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOS2hRcVoxUXA2emtEa3UyZG1VYUVJZUp3bWxwN3d6NU9SV2FCSVRlWUtnSC10VXNOLTk1dzJ1eEYyOV9Ydjg4YWhxaHEwTEdsSjBULXpXc3RBeTFkOEFSdExjNkhXTXltNlZNMF9qV2dtS0lOVnRwVkJQOUptT0REa2ZISzBOZUZhb2RaUDdTUDBVdw?oc=5",
           "source": "gnews"
         },
         {
-          "title": "10 Best Dividend Stocks to Buy for Passive Income",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOc0pyUElPb2dNLWMxdmRXNWRLdWNMbE9WSWNxeXlGRXZMenpOeGJodDJPREdQWVAzOG5ObF9sTldqMm1RTWc1SmdEN0c0a094bFVZOGNmaGVlSWJKc2VBaGtDX3ZLajdYX1RYN3hBT2pXRGhkOW9SbGl4Xzcxd1pxQ3g1b2RRZlNxMFJjaG1ua1NmRVkzTUlSdXR3?oc=5",
+          "title": "Johnson & Johnson (JNJ) – Among the 10 Best Dividend Stocks to Buy for Passive Income",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWUdfaHVPYTd5T0t5b19jZEIyMzBUZWtlYVFLYS1pMm1id0pXZmRTTkttaDVwLTlQQmRBbWlva2FUUm5GTk9oOGE0dFRxeU03ZjR0WVZkZzVmSlFtZGR0SExzYnBOU0lpcEFmd1FpOUFjMklMTVpZX3hxTTYxelhGdzBjc0hQZWJhd1NmT2JrbGM0RFNDYjI1MA?oc=5",
           "source": "gnews"
         },
         {
-          "title": "10 Best Dividend Stocks to Buy for Passive Income",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOODliTHpxc3QxdEFfS2NMQ21OenlRajJzREVodkZpTTJHYkVISG9ZREsyVjN1V1UzLUZRTjZ4MUIxMUowZ1pVUkxZenVpVGlvdFVpZ3RNN1ZhQ2JPaURhdmloSTF1dXhlZmJTd0NPTUNraW1YNHJqTTJGcFFVYThOdU5YVVRuYVU5RTM4ZzJXV3FCcndyWk1FSNIBoAFBVV95cUxPZExKNFRJQ3ozSGRlTFcyV2xuYTRSb09rSHczR3JQZEpKMTg1bkRZN3lQSkZEcFlfcUdKZm5LNGJkVTlhR2Z4VFB1Um16UnJoUmZrXzFqV2pTazBZWjVlVEVHNGNPQ2ZtLTRuQjhVVldGSHJYN1JIV2k2UTFLVFN5TDdKamtuNzI4anFmeC1yQjR2NG5LMmhUWW5JRWp4OHI0?oc=5",
+          "title": "Johnson & Johnson (JNJ) – Among the 10 Best Dividend Stocks to Buy for Passive Income",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWUdfaHVPYTd5T0t5b19jZEIyMzBUZWtlYVFLYS1pMm1id0pXZmRTTkttaDVwLTlQQmRBbWlva2FUUm5GTk9oOGE0dFRxeU03ZjR0WVZkZzVmSlFtZGR0SExzYnBOU0lpcEFmd1FpOUFjMklMTVpZX3hxTTYxelhGdzBjc0hQZWJhd1NmT2JrbGM0RFNDYjI1MA?oc=5",
           "source": "gnews"
         },
         {
@@ -739,6 +786,186 @@
       "opportunity": {
         "type": "niche-content",
         "recommended": "Publish niche guide for \"finance\"; bundle into digital product later."
+      }
+    },
+    {
+      "keyword": "birthday genius",
+      "count": 8,
+      "score": 98.2547744977027,
+      "proper": true,
+      "niches": [
+        "software"
+      ],
+      "examples": [
+        {
+          "title": "Happy 100th Birthday Genius. #MelBrooks",
+          "url": "https://mastodon.scot/@Dolphinchaz/116824703046348885",
+          "source": "mastodon"
+        },
+        {
+          "title": "Happy 100th Birthday Genius. #MelBrooks",
+          "url": "https://mastodon.scot/@Dolphinchaz/116824703046348885",
+          "source": "mastodon"
+        }
+      ],
+      "id": "ca60d8ef3c55",
+      "slug": "birthday-genius",
+      "opportunity": {
+        "type": "niche-content",
+        "recommended": "Publish niche guide for \"software\"; bundle into digital product later."
+      }
+    },
+    {
+      "keyword": "dividend stocks",
+      "count": 18,
+      "score": 98.1217698428287,
+      "proper": false,
+      "niches": [
+        "finance"
+      ],
+      "examples": [
+        {
+          "title": "Is PepsiCo (PEP) One of the 10 Best Dividend Stocks to Buy for Passive Income?",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOS2hRcVoxUXA2emtEa3UyZG1VYUVJZUp3bWxwN3d6NU9SV2FCSVRlWUtnSC10VXNOLTk1dzJ1eEYyOV9Ydjg4YWhxaHEwTEdsSjBULXpXc3RBeTFkOEFSdExjNkhXTXltNlZNMF9qV2dtS0lOVnRwVkJQOUptT0REa2ZISzBOZUZhb2RaUDdTUDBVdw?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Is PepsiCo (PEP) One of the 10 Best Dividend Stocks to Buy for Passive Income?",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOS2hRcVoxUXA2emtEa3UyZG1VYUVJZUp3bWxwN3d6NU9SV2FCSVRlWUtnSC10VXNOLTk1dzJ1eEYyOV9Ydjg4YWhxaHEwTEdsSjBULXpXc3RBeTFkOEFSdExjNkhXTXltNlZNMF9qV2dtS0lOVnRwVkJQOUptT0REa2ZISzBOZUZhb2RaUDdTUDBVdw?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Johnson & Johnson (JNJ) – Among the 10 Best Dividend Stocks to Buy for Passive Income",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWUdfaHVPYTd5T0t5b19jZEIyMzBUZWtlYVFLYS1pMm1id0pXZmRTTkttaDVwLTlQQmRBbWlva2FUUm5GTk9oOGE0dFRxeU03ZjR0WVZkZzVmSlFtZGR0SExzYnBOU0lpcEFmd1FpOUFjMklMTVpZX3hxTTYxelhGdzBjc0hQZWJhd1NmT2JrbGM0RFNDYjI1MA?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Johnson & Johnson (JNJ) – Among the 10 Best Dividend Stocks to Buy for Passive Income",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWUdfaHVPYTd5T0t5b19jZEIyMzBUZWtlYVFLYS1pMm1id0pXZmRTTkttaDVwLTlQQmRBbWlva2FUUm5GTk9oOGE0dFRxeU03ZjR0WVZkZzVmSlFtZGR0SExzYnBOU0lpcEFmd1FpOUFjMklMTVpZX3hxTTYxelhGdzBjc0hQZWJhd1NmT2JrbGM0RFNDYjI1MA?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "10 Best Dividend Stocks to Buy for Passive Income",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOc0pyUElPb2dNLWMxdmRXNWRLdWNMbE9WSWNxeXlGRXZMenpOeGJodDJPREdQWVAzOG5ObF9sTldqMm1RTWc1SmdEN0c0a094bFVZOGNmaGVlSWJKc2VBaGtDX3ZLajdYX1RYN3hBT2pXRGhkOW9SbGl4Xzcxd1pxQ3g1b2RRZlNxMFJjaG1ua1NmRVkzTUlSdXR3?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "e1fa01b8fed7",
+      "slug": "dividend-stocks",
+      "opportunity": {
+        "type": "niche-content",
+        "recommended": "Publish niche guide for \"finance\"; bundle into digital product later."
+      }
+    },
+    {
+      "keyword": "stocks buy",
+      "count": 18,
+      "score": 98.1217698428287,
+      "proper": false,
+      "niches": [
+        "finance"
+      ],
+      "examples": [
+        {
+          "title": "Is PepsiCo (PEP) One of the 10 Best Dividend Stocks to Buy for Passive Income?",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOS2hRcVoxUXA2emtEa3UyZG1VYUVJZUp3bWxwN3d6NU9SV2FCSVRlWUtnSC10VXNOLTk1dzJ1eEYyOV9Ydjg4YWhxaHEwTEdsSjBULXpXc3RBeTFkOEFSdExjNkhXTXltNlZNMF9qV2dtS0lOVnRwVkJQOUptT0REa2ZISzBOZUZhb2RaUDdTUDBVdw?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Is PepsiCo (PEP) One of the 10 Best Dividend Stocks to Buy for Passive Income?",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOS2hRcVoxUXA2emtEa3UyZG1VYUVJZUp3bWxwN3d6NU9SV2FCSVRlWUtnSC10VXNOLTk1dzJ1eEYyOV9Ydjg4YWhxaHEwTEdsSjBULXpXc3RBeTFkOEFSdExjNkhXTXltNlZNMF9qV2dtS0lOVnRwVkJQOUptT0REa2ZISzBOZUZhb2RaUDdTUDBVdw?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Johnson & Johnson (JNJ) – Among the 10 Best Dividend Stocks to Buy for Passive Income",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWUdfaHVPYTd5T0t5b19jZEIyMzBUZWtlYVFLYS1pMm1id0pXZmRTTkttaDVwLTlQQmRBbWlva2FUUm5GTk9oOGE0dFRxeU03ZjR0WVZkZzVmSlFtZGR0SExzYnBOU0lpcEFmd1FpOUFjMklMTVpZX3hxTTYxelhGdzBjc0hQZWJhd1NmT2JrbGM0RFNDYjI1MA?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Johnson & Johnson (JNJ) – Among the 10 Best Dividend Stocks to Buy for Passive Income",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWUdfaHVPYTd5T0t5b19jZEIyMzBUZWtlYVFLYS1pMm1id0pXZmRTTkttaDVwLTlQQmRBbWlva2FUUm5GTk9oOGE0dFRxeU03ZjR0WVZkZzVmSlFtZGR0SExzYnBOU0lpcEFmd1FpOUFjMklMTVpZX3hxTTYxelhGdzBjc0hQZWJhd1NmT2JrbGM0RFNDYjI1MA?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "10 Best Dividend Stocks to Buy for Passive Income",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOc0pyUElPb2dNLWMxdmRXNWRLdWNMbE9WSWNxeXlGRXZMenpOeGJodDJPREdQWVAzOG5ObF9sTldqMm1RTWc1SmdEN0c0a094bFVZOGNmaGVlSWJKc2VBaGtDX3ZLajdYX1RYN3hBT2pXRGhkOW9SbGl4Xzcxd1pxQ3g1b2RRZlNxMFJjaG1ua1NmRVkzTUlSdXR3?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "2fd5aaa23e99",
+      "slug": "stocks-buy",
+      "opportunity": {
+        "type": "affiliate",
+        "recommended": "Write SEO comparison/roundup article with affiliate links."
+      }
+    },
+    {
+      "keyword": "buy passive",
+      "count": 18,
+      "score": 98.1217698428287,
+      "proper": false,
+      "niches": [
+        "finance"
+      ],
+      "examples": [
+        {
+          "title": "Is PepsiCo (PEP) One of the 10 Best Dividend Stocks to Buy for Passive Income?",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOS2hRcVoxUXA2emtEa3UyZG1VYUVJZUp3bWxwN3d6NU9SV2FCSVRlWUtnSC10VXNOLTk1dzJ1eEYyOV9Ydjg4YWhxaHEwTEdsSjBULXpXc3RBeTFkOEFSdExjNkhXTXltNlZNMF9qV2dtS0lOVnRwVkJQOUptT0REa2ZISzBOZUZhb2RaUDdTUDBVdw?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Is PepsiCo (PEP) One of the 10 Best Dividend Stocks to Buy for Passive Income?",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOS2hRcVoxUXA2emtEa3UyZG1VYUVJZUp3bWxwN3d6NU9SV2FCSVRlWUtnSC10VXNOLTk1dzJ1eEYyOV9Ydjg4YWhxaHEwTEdsSjBULXpXc3RBeTFkOEFSdExjNkhXTXltNlZNMF9qV2dtS0lOVnRwVkJQOUptT0REa2ZISzBOZUZhb2RaUDdTUDBVdw?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Johnson & Johnson (JNJ) – Among the 10 Best Dividend Stocks to Buy for Passive Income",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWUdfaHVPYTd5T0t5b19jZEIyMzBUZWtlYVFLYS1pMm1id0pXZmRTTkttaDVwLTlQQmRBbWlva2FUUm5GTk9oOGE0dFRxeU03ZjR0WVZkZzVmSlFtZGR0SExzYnBOU0lpcEFmd1FpOUFjMklMTVpZX3hxTTYxelhGdzBjc0hQZWJhd1NmT2JrbGM0RFNDYjI1MA?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Johnson & Johnson (JNJ) – Among the 10 Best Dividend Stocks to Buy for Passive Income",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWUdfaHVPYTd5T0t5b19jZEIyMzBUZWtlYVFLYS1pMm1id0pXZmRTTkttaDVwLTlQQmRBbWlva2FUUm5GTk9oOGE0dFRxeU03ZjR0WVZkZzVmSlFtZGR0SExzYnBOU0lpcEFmd1FpOUFjMklMTVpZX3hxTTYxelhGdzBjc0hQZWJhd1NmT2JrbGM0RFNDYjI1MA?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "10 Best Dividend Stocks to Buy for Passive Income",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOc0pyUElPb2dNLWMxdmRXNWRLdWNMbE9WSWNxeXlGRXZMenpOeGJodDJPREdQWVAzOG5ObF9sTldqMm1RTWc1SmdEN0c0a094bFVZOGNmaGVlSWJKc2VBaGtDX3ZLajdYX1RYN3hBT2pXRGhkOW9SbGl4Xzcxd1pxQ3g1b2RRZlNxMFJjaG1ua1NmRVkzTUlSdXR3?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "2ed9a93aee71",
+      "slug": "buy-passive",
+      "opportunity": {
+        "type": "affiliate",
+        "recommended": "Write SEO comparison/roundup article with affiliate links."
+      }
+    },
+    {
+      "keyword": "robin williams",
+      "count": 8,
+      "score": 94.20742425780625,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "Response to AI slop is from Robin Williams",
+          "url": "https://jayacunzo.com/blog/your-move-chief",
+          "source": "hackernews"
+        },
+        {
+          "title": "Response to AI slop is from Robin Williams",
+          "url": "https://jayacunzo.com/blog/your-move-chief",
+          "source": "hackernews"
+        }
+      ],
+      "id": "7695d2f2e1c6",
+      "slug": "robin-williams",
+      "opportunity": {
+        "type": "niche-content",
+        "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
       }
     },
     {
@@ -785,172 +1012,27 @@
       }
     },
     {
-      "keyword": "mel brooks",
+      "keyword": "happy pride",
       "count": 8,
-      "score": 85.62980399245887,
-      "proper": true,
-      "niches": [
-        "software"
-      ],
-      "examples": [
-        {
-          "title": "Mel Brooks is turning 100 years old tomorrow. Everyone knows and loves his comedy. Not everyone knows he served as a US Army combat engineer in WWII and was in the Battle of the Bulge.Happiest of birt",
-          "url": "https://mstdn.social/@MaryAustinBooks/116822794494385859",
-          "source": "mastodon"
-        },
-        {
-          "title": "Mel Brooks is turning 100 years old tomorrow. Everyone knows and loves his comedy. Not everyone knows he served as a US Army combat engineer in WWII and was in the Battle of the Bulge.Happiest of birt",
-          "url": "https://mstdn.social/@MaryAustinBooks/116822794494385859",
-          "source": "mastodon"
-        }
-      ],
-      "id": "3bcfe3d6f49c",
-      "slug": "mel-brooks",
-      "opportunity": {
-        "type": "niche-content",
-        "recommended": "Publish niche guide for \"software\"; bundle into digital product later."
-      }
-    },
-    {
-      "keyword": "formerly noaa",
-      "count": 8,
-      "score": 85.60523010103083,
-      "proper": true,
-      "niches": [
-        "software"
-      ],
-      "examples": [
-        {
-          "title": "This is good news!The scientists behind the new independent organization Climate.us are the same experts Trump fired because they were researching and reporting on climate change. Formerly NOAA’s http",
-          "url": "https://mstdn.ca/@dbattistella/116822991494258324",
-          "source": "mastodon"
-        },
-        {
-          "title": "This is good news!The scientists behind the new independent organization Climate.us are the same experts Trump fired because they were researching and reporting on climate change. Formerly NOAA’s http",
-          "url": "https://mstdn.ca/@dbattistella/116822991494258324",
-          "source": "mastodon"
-        }
-      ],
-      "id": "e91c13b41e8c",
-      "slug": "formerly-noaa",
-      "opportunity": {
-        "type": "niche-content",
-        "recommended": "Publish niche guide for \"software\"; bundle into digital product later."
-      }
-    },
-    {
-      "keyword": "professional bip",
-      "count": 5,
-      "score": 63.44050025052675,
+      "score": 87.73583978519736,
       "proper": true,
       "niches": [
         "ai"
       ],
       "examples": [
         {
-          "title": "zanetanasta/Seed-Generator — Professional BIP-39 Seed & HD Wallet Toolkit with 12–24 word mnemonics, checksum validation, BIP-44/49/84 derivation, and multi-chain support (BTC, ETH, SOL, LTC, DOGE, AD",
-          "url": "https://github.com/zanetanasta/Seed-Generator",
-          "source": "github"
+          "title": "Happy Pride from @datasaurus and RainBro Brite!#Pride",
+          "url": "https://mastodon.social/@gairdeachas/116825215711655138",
+          "source": "mastodon"
+        },
+        {
+          "title": "Happy Pride from @datasaurus and RainBro Brite!#Pride",
+          "url": "https://mastodon.social/@gairdeachas/116825215711655138",
+          "source": "mastodon"
         }
       ],
-      "id": "a28ac04fe527",
-      "slug": "professional-bip",
-      "opportunity": {
-        "type": "affiliate",
-        "recommended": "Write SEO comparison/roundup article with affiliate links."
-      }
-    },
-    {
-      "keyword": "hd wallet toolkit",
-      "count": 5,
-      "score": 63.44050025052675,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "zanetanasta/Seed-Generator — Professional BIP-39 Seed & HD Wallet Toolkit with 12–24 word mnemonics, checksum validation, BIP-44/49/84 derivation, and multi-chain support (BTC, ETH, SOL, LTC, DOGE, AD",
-          "url": "https://github.com/zanetanasta/Seed-Generator",
-          "source": "github"
-        }
-      ],
-      "id": "f135d3a7bc29",
-      "slug": "hd-wallet-toolkit",
-      "opportunity": {
-        "type": "affiliate",
-        "recommended": "Write SEO comparison/roundup article with affiliate links."
-      }
-    },
-    {
-      "keyword": "dividend stocks",
-      "count": 12,
-      "score": 60.3826275955869,
-      "proper": false,
-      "niches": [
-        "finance"
-      ],
-      "examples": [
-        {
-          "title": "5 Best Dividend Stocks to Buy for Passive Income",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUGh4elZ5bkxaNFNYNUFfR2tJTWxoQVQ3ZmNTaVU4U1NLVk4xdGpPQk1JN0FKYzFSNUtrVkhQaVNmM3BUaXBUSFZyMXNIMWV4V2U5aUphMlVqVUt0Z0JtZW9TbXY2RWR6ZlBWb1NfQVZTbnZVMUpqd09KTkhlc2NpTUpCN25MMVE2czVkQkl5Zk1pZURrQV9V0gGfAUFVX3lxTE9jVjYyZHdXMVI3UHE4ZmJnd0VRZEI1N3pPUkl5b2RMc3RKZWFNeGFzWWRPVDdybUo0Y2ZWUmt5VWx4emwzUC1pUnNtYnc0S0NqV1JJM1dPRU05amxuZXdob0gyQmhNaGlpSHBzcVZRV3JHWm9oR3dOV2duc3hwTTZWSFVQZG1HY0QtMmhHVGJXejhGX2daN2dQS294QXZZVQ?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "10 Best Dividend Stocks to Buy for Passive Income",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOc0pyUElPb2dNLWMxdmRXNWRLdWNMbE9WSWNxeXlGRXZMenpOeGJodDJPREdQWVAzOG5ObF9sTldqMm1RTWc1SmdEN0c0a094bFVZOGNmaGVlSWJKc2VBaGtDX3ZLajdYX1RYN3hBT2pXRGhkOW9SbGl4Xzcxd1pxQ3g1b2RRZlNxMFJjaG1ua1NmRVkzTUlSdXR3?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "10 Best Dividend Stocks to Buy for Passive Income",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOc0pyUElPb2dNLWMxdmRXNWRLdWNMbE9WSWNxeXlGRXZMenpOeGJodDJPREdQWVAzOG5ObF9sTldqMm1RTWc1SmdEN0c0a094bFVZOGNmaGVlSWJKc2VBaGtDX3ZLajdYX1RYN3hBT2pXRGhkOW9SbGl4Xzcxd1pxQ3g1b2RRZlNxMFJjaG1ua1NmRVkzTUlSdXR3?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "10 Best Dividend Stocks to Buy for Passive Income",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOODliTHpxc3QxdEFfS2NMQ21OenlRajJzREVodkZpTTJHYkVISG9ZREsyVjN1V1UzLUZRTjZ4MUIxMUowZ1pVUkxZenVpVGlvdFVpZ3RNN1ZhQ2JPaURhdmloSTF1dXhlZmJTd0NPTUNraW1YNHJqTTJGcFFVYThOdU5YVVRuYVU5RTM4ZzJXV3FCcndyWk1FSNIBoAFBVV95cUxPZExKNFRJQ3ozSGRlTFcyV2xuYTRSb09rSHczR3JQZEpKMTg1bkRZN3lQSkZEcFlfcUdKZm5LNGJkVTlhR2Z4VFB1Um16UnJoUmZrXzFqV2pTazBZWjVlVEVHNGNPQ2ZtLTRuQjhVVldGSHJYN1JIV2k2UTFLVFN5TDdKamtuNzI4anFmeC1yQjR2NG5LMmhUWW5JRWp4OHI0?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "e1fa01b8fed7",
-      "slug": "dividend-stocks",
-      "opportunity": {
-        "type": "niche-content",
-        "recommended": "Publish niche guide for \"finance\"; bundle into digital product later."
-      }
-    },
-    {
-      "keyword": "stocks buy",
-      "count": 12,
-      "score": 60.3826275955869,
-      "proper": false,
-      "niches": [
-        "finance"
-      ],
-      "examples": [
-        {
-          "title": "5 Best Dividend Stocks to Buy for Passive Income",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUGh4elZ5bkxaNFNYNUFfR2tJTWxoQVQ3ZmNTaVU4U1NLVk4xdGpPQk1JN0FKYzFSNUtrVkhQaVNmM3BUaXBUSFZyMXNIMWV4V2U5aUphMlVqVUt0Z0JtZW9TbXY2RWR6ZlBWb1NfQVZTbnZVMUpqd09KTkhlc2NpTUpCN25MMVE2czVkQkl5Zk1pZURrQV9V0gGfAUFVX3lxTE9jVjYyZHdXMVI3UHE4ZmJnd0VRZEI1N3pPUkl5b2RMc3RKZWFNeGFzWWRPVDdybUo0Y2ZWUmt5VWx4emwzUC1pUnNtYnc0S0NqV1JJM1dPRU05amxuZXdob0gyQmhNaGlpSHBzcVZRV3JHWm9oR3dOV2duc3hwTTZWSFVQZG1HY0QtMmhHVGJXejhGX2daN2dQS294QXZZVQ?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "10 Best Dividend Stocks to Buy for Passive Income",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOc0pyUElPb2dNLWMxdmRXNWRLdWNMbE9WSWNxeXlGRXZMenpOeGJodDJPREdQWVAzOG5ObF9sTldqMm1RTWc1SmdEN0c0a094bFVZOGNmaGVlSWJKc2VBaGtDX3ZLajdYX1RYN3hBT2pXRGhkOW9SbGl4Xzcxd1pxQ3g1b2RRZlNxMFJjaG1ua1NmRVkzTUlSdXR3?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "10 Best Dividend Stocks to Buy for Passive Income",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOc0pyUElPb2dNLWMxdmRXNWRLdWNMbE9WSWNxeXlGRXZMenpOeGJodDJPREdQWVAzOG5ObF9sTldqMm1RTWc1SmdEN0c0a094bFVZOGNmaGVlSWJKc2VBaGtDX3ZLajdYX1RYN3hBT2pXRGhkOW9SbGl4Xzcxd1pxQ3g1b2RRZlNxMFJjaG1ua1NmRVkzTUlSdXR3?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "10 Best Dividend Stocks to Buy for Passive Income",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOODliTHpxc3QxdEFfS2NMQ21OenlRajJzREVodkZpTTJHYkVISG9ZREsyVjN1V1UzLUZRTjZ4MUIxMUowZ1pVUkxZenVpVGlvdFVpZ3RNN1ZhQ2JPaURhdmloSTF1dXhlZmJTd0NPTUNraW1YNHJqTTJGcFFVYThOdU5YVVRuYVU5RTM4ZzJXV3FCcndyWk1FSNIBoAFBVV95cUxPZExKNFRJQ3ozSGRlTFcyV2xuYTRSb09rSHczR3JQZEpKMTg1bkRZN3lQSkZEcFlfcUdKZm5LNGJkVTlhR2Z4VFB1Um16UnJoUmZrXzFqV2pTazBZWjVlVEVHNGNPQ2ZtLTRuQjhVVldGSHJYN1JIV2k2UTFLVFN5TDdKamtuNzI4anFmeC1yQjR2NG5LMmhUWW5JRWp4OHI0?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "2fd5aaa23e99",
-      "slug": "stocks-buy",
+      "id": "fa735f5f0e2a",
+      "slug": "happy-pride",
       "opportunity": {
         "type": "affiliate",
         "recommended": "Write SEO comparison/roundup article with affiliate links."

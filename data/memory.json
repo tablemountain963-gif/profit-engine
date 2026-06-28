@@ -290,8 +290,8 @@
     },
     "dividend-stocks": {
       "firstSeen": "2026-05-29T22:24:26.611Z",
-      "lastSeen": "2026-06-23T04:57:12.018Z",
-      "count": 4,
+      "lastSeen": "2026-06-28T05:15:25.955Z",
+      "count": 5,
       "wins": 0,
       "losses": 0,
       "niche": "finance"
@@ -330,8 +330,8 @@
     },
     "happy": {
       "firstSeen": "2026-05-30T14:27:52.108Z",
-      "lastSeen": "2026-06-21T15:10:55.842Z",
-      "count": 4,
+      "lastSeen": "2026-06-28T05:15:51.507Z",
+      "count": 5,
       "wins": 1,
       "losses": 0,
       "niche": "software"
@@ -514,8 +514,8 @@
     },
     "happy-pride": {
       "firstSeen": "2026-06-01T18:36:58.272Z",
-      "lastSeen": "2026-06-01T20:10:18.706Z",
-      "count": 2,
+      "lastSeen": "2026-06-28T05:14:35.109Z",
+      "count": 3,
       "wins": 1,
       "losses": 0,
       "niche": "software"
@@ -1655,14 +1655,6 @@
       "wins": 1,
       "losses": 0,
       "niche": "ai"
-    },
-    "yield-over": {
-      "firstSeen": "2026-06-13T21:55:55.029Z",
-      "lastSeen": "2026-06-13T21:55:55.029Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "finance"
     },
     "once-hitler": {
       "firstSeen": "2026-06-14T05:29:14.269Z",
@@ -3098,8 +3090,8 @@
     },
     "income-_blank": {
       "firstSeen": "2026-06-22T17:40:45.150Z",
-      "lastSeen": "2026-06-22T17:40:45.150Z",
-      "count": 1,
+      "lastSeen": "2026-06-28T05:15:38.142Z",
+      "count": 2,
       "wins": 0,
       "losses": 0,
       "niche": "finance"
@@ -4090,9 +4082,9 @@
     },
     "stocks-buy": {
       "firstSeen": "2026-06-27T21:50:54.118Z",
-      "lastSeen": "2026-06-27T21:50:54.118Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-28T05:14:24.384Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "finance"
     },
@@ -4127,21 +4119,61 @@
       "wins": 0,
       "losses": 0,
       "niche": "finance"
+    },
+    "birthday-genius": {
+      "firstSeen": "2026-06-28T05:14:29.419Z",
+      "lastSeen": "2026-06-28T05:14:29.419Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "software"
+    },
+    "robin-williams": {
+      "firstSeen": "2026-06-28T05:14:32.283Z",
+      "lastSeen": "2026-06-28T05:14:32.283Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "rainbro-brite": {
+      "firstSeen": "2026-06-28T05:14:41.022Z",
+      "lastSeen": "2026-06-28T05:14:41.022Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "staircase-sunday": {
+      "firstSeen": "2026-06-28T05:14:48.481Z",
+      "lastSeen": "2026-06-28T05:14:48.481Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "krasnodar-krai": {
+      "firstSeen": "2026-06-28T05:15:07.038Z",
+      "lastSeen": "2026-06-28T05:15:07.038Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
     }
   },
   "niches": {
     "ai": {
-      "count": 861,
+      "count": 866,
       "wins": 243,
       "losses": 37
     },
     "finance": {
-      "count": 72,
-      "wins": 11,
+      "count": 75,
+      "wins": 12,
       "losses": 0
     },
     "software": {
-      "count": 210,
+      "count": 212,
       "wins": 55,
       "losses": 14
     },

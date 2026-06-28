@@ -1156,5 +1156,26 @@
     "price": 29,
     "productId": "prod_UmdOfm1SrNNoAQ",
     "cover": "/assets/pack-cover.png"
+  },
+  "prompt-pack-krasnodar-krai-2026-06-28": {
+    "url": "https://buy.stripe.com/fZu9ASbhmgu2cvV1FyfjG2F",
+    "platform": "stripe",
+    "price": 19,
+    "productId": "prod_UmkYFP7qIIwpvE",
+    "cover": "/assets/pack-cover.png"
+  },
+  "prompt-pack-staircase-sunday-2026-06-28": {
+    "url": "https://buy.stripe.com/14AbJ099e3Hg8fF5VOfjG2G",
+    "platform": "stripe",
+    "price": 19,
+    "productId": "prod_UmkYNgZZVvqTt7",
+    "cover": "/assets/pack-cover.png"
+  },
+  "prompt-pack-rainbro-brite-2026-06-28": {
+    "url": "https://buy.stripe.com/aFacN4gBG91A67x5VOfjG2H",
+    "platform": "stripe",
+    "price": 19,
+    "productId": "prod_UmkYmjucVUgZjI",
+    "cover": "/assets/pack-cover.png"
   }
 }

@@ -1,6 +1,27 @@
 {
   "items": [
     {
+      "slug": "happy-2026-06-28",
+      "topic": "Happy",
+      "date": "2026-06-28",
+      "niche": "software",
+      "file": "social/happy-2026-06-28.md"
+    },
+    {
+      "slug": "income-blank-2026-06-28",
+      "topic": "Income Blank",
+      "date": "2026-06-28",
+      "niche": "finance",
+      "file": "social/income-blank-2026-06-28.md"
+    },
+    {
+      "slug": "dividend-stocks-2026-06-28",
+      "topic": "Dividend Stocks",
+      "date": "2026-06-28",
+      "niche": "finance",
+      "file": "social/dividend-stocks-2026-06-28.md"
+    },
+    {
       "slug": "buy-passive-2026-06-27",
       "topic": "Buy Passive",
       "date": "2026-06-27",
@@ -1378,27 +1399,6 @@
       "date": "2026-06-05",
       "niche": "ai",
       "file": "social/project-glasswing-2026-06-05.md"
-    },
-    {
-      "slug": "general-instinct-2026-06-05",
-      "topic": "General Instinct",
-      "date": "2026-06-05",
-      "niche": "ai",
-      "file": "social/general-instinct-2026-06-05.md"
-    },
-    {
-      "slug": "kuratierte-agent-skills-2026-06-05",
-      "topic": "Kuratierte Agent Skills",
-      "date": "2026-06-05",
-      "niche": "ai",
-      "file": "social/kuratierte-agent-skills-2026-06-05.md"
-    },
-    {
-      "slug": "programmers-2026-06-05",
-      "topic": "Programmers",
-      "date": "2026-06-05",
-      "niche": "ai",
-      "file": "social/programmers-2026-06-05.md"
     }
   ]
 }
