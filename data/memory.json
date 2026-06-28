@@ -426,9 +426,9 @@
     },
     "silent-sunday": {
       "firstSeen": "2026-05-31T14:42:42.541Z",
-      "lastSeen": "2026-06-28T14:47:18.728Z",
-      "count": 3,
-      "wins": 1,
+      "lastSeen": "2026-06-28T16:58:12.200Z",
+      "count": 4,
+      "wins": 2,
       "losses": 0,
       "niche": "ai"
     },
@@ -1688,14 +1688,6 @@
       "losses": 0,
       "niche": "software"
     },
-    "cold-war": {
-      "firstSeen": "2026-06-14T15:07:08.388Z",
-      "lastSeen": "2026-06-14T15:07:08.388Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "ai"
-    },
     "paid-options": {
       "firstSeen": "2026-06-14T15:07:29.161Z",
       "lastSeen": "2026-06-19T17:48:58.062Z",
@@ -1704,34 +1696,10 @@
       "losses": 0,
       "niche": "ai"
     },
-    "guide": {
-      "firstSeen": "2026-06-14T15:07:53.083Z",
-      "lastSeen": "2026-06-14T15:07:53.083Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "ai"
-    },
     "tools-business": {
       "firstSeen": "2026-06-14T15:08:14.946Z",
       "lastSeen": "2026-06-20T17:15:56.077Z",
       "count": 2,
-      "wins": 0,
-      "losses": 0,
-      "niche": "ai"
-    },
-    "arcade-cabinets": {
-      "firstSeen": "2026-06-14T15:08:29.200Z",
-      "lastSeen": "2026-06-14T15:08:29.200Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "software"
-    },
-    "full-transformer": {
-      "firstSeen": "2026-06-14T15:08:50.962Z",
-      "lastSeen": "2026-06-14T15:08:50.962Z",
-      "count": 1,
       "wins": 0,
       "losses": 0,
       "niche": "ai"
@@ -4042,9 +4010,9 @@
     },
     "mel-brooks": {
       "firstSeen": "2026-06-27T21:50:48.416Z",
-      "lastSeen": "2026-06-27T21:50:48.416Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-28T16:58:12.195Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "software"
     },
@@ -4098,9 +4066,9 @@
     },
     "birthday-genius": {
       "firstSeen": "2026-06-28T05:14:29.419Z",
-      "lastSeen": "2026-06-28T05:14:29.419Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-28T16:58:12.198Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "software"
     },
@@ -4138,17 +4106,17 @@
     },
     "modern-llms": {
       "firstSeen": "2026-06-28T14:47:11.867Z",
-      "lastSeen": "2026-06-28T14:47:11.867Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-28T16:58:12.199Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
     "openai-codex": {
       "firstSeen": "2026-06-28T14:47:15.848Z",
-      "lastSeen": "2026-06-28T14:47:15.848Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-28T16:58:12.200Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -4191,12 +4159,84 @@
       "wins": 0,
       "losses": 0,
       "niche": "ai"
+    },
+    "ultimate-guide": {
+      "firstSeen": "2026-06-28T16:58:17.255Z",
+      "lastSeen": "2026-06-28T16:58:17.255Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "google-drive": {
+      "firstSeen": "2026-06-28T16:58:20.161Z",
+      "lastSeen": "2026-06-28T16:58:20.161Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "dbd-autogrind-trainer-2026-ultimate": {
+      "firstSeen": "2026-06-28T16:58:24.088Z",
+      "lastSeen": "2026-06-28T16:58:24.088Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "dead-daylight": {
+      "firstSeen": "2026-06-28T16:58:31.095Z",
+      "lastSeen": "2026-06-28T16:58:31.095Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "daylight-auto-grind": {
+      "firstSeen": "2026-06-28T16:58:41.404Z",
+      "lastSeen": "2026-06-28T16:58:41.404Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "auto-grind-trainer": {
+      "firstSeen": "2026-06-28T16:59:08.248Z",
+      "lastSeen": "2026-06-28T16:59:08.248Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "bloodpoint-bot": {
+      "firstSeen": "2026-06-28T16:59:42.236Z",
+      "lastSeen": "2026-06-28T16:59:42.236Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "bot-esp": {
+      "firstSeen": "2026-06-28T16:59:57.406Z",
+      "lastSeen": "2026-06-28T16:59:57.406Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "esp-wallhack": {
+      "firstSeen": "2026-06-28T17:00:05.328Z",
+      "lastSeen": "2026-06-28T17:00:05.328Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
     }
   },
   "niches": {
     "ai": {
-      "count": 876,
-      "wins": 244,
+      "count": 888,
+      "wins": 247,
       "losses": 37
     },
     "finance": {
@@ -4205,8 +4245,8 @@
       "losses": 0
     },
     "software": {
-      "count": 212,
-      "wins": 55,
+      "count": 214,
+      "wins": 57,
       "losses": 14
     },
     "gear": {
