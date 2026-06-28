@@ -2,16 +2,16 @@
   "topics": {
     "claude-code": {
       "firstSeen": "2026-05-28T04:01:44.987Z",
-      "lastSeen": "2026-06-22T17:39:04.057Z",
-      "count": 7,
+      "lastSeen": "2026-06-28T21:52:10.983Z",
+      "count": 8,
       "wins": 3,
       "losses": 0,
       "niche": "ai"
     },
     "passive-income": {
       "firstSeen": "2026-05-28T04:01:51.171Z",
-      "lastSeen": "2026-06-23T17:45:04.943Z",
-      "count": 7,
+      "lastSeen": "2026-06-28T21:51:57.010Z",
+      "count": 8,
       "wins": 1,
       "losses": 0,
       "niche": "finance"
@@ -4162,25 +4162,25 @@
     },
     "ultimate-guide": {
       "firstSeen": "2026-06-28T16:58:17.255Z",
-      "lastSeen": "2026-06-28T16:58:17.255Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-28T21:51:24.251Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
     "google-drive": {
       "firstSeen": "2026-06-28T16:58:20.161Z",
-      "lastSeen": "2026-06-28T16:58:20.161Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-28T21:51:24.252Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
     "dbd-autogrind-trainer-2026-ultimate": {
       "firstSeen": "2026-06-28T16:58:24.088Z",
-      "lastSeen": "2026-06-28T16:58:24.088Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-28T21:51:24.253Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -4231,16 +4231,72 @@
       "wins": 0,
       "losses": 0,
       "niche": "ai"
+    },
+    "wallhack-aimbot": {
+      "firstSeen": "2026-06-28T21:51:30.972Z",
+      "lastSeen": "2026-06-28T21:51:30.972Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "aimbot-full": {
+      "firstSeen": "2026-06-28T21:51:34.016Z",
+      "lastSeen": "2026-06-28T21:51:34.016Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "full-perk": {
+      "firstSeen": "2026-06-28T21:51:36.347Z",
+      "lastSeen": "2026-06-28T21:51:36.347Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "cold-email-templates-that-book-meetings": {
+      "firstSeen": "2026-06-28T21:51:40.458Z",
+      "lastSeen": "2026-06-28T21:51:40.458Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "finance"
+    },
+    "ai-prompts-for-real-estate-agents": {
+      "firstSeen": "2026-06-28T21:51:45.583Z",
+      "lastSeen": "2026-06-28T21:51:45.583Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "finance"
+    },
+    "ai-prompts-for-resume-and-job-search": {
+      "firstSeen": "2026-06-28T21:51:51.001Z",
+      "lastSeen": "2026-06-28T21:51:51.001Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "blox-fruits": {
+      "firstSeen": "2026-06-28T21:52:21.315Z",
+      "lastSeen": "2026-06-28T21:52:21.315Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
     }
   },
   "niches": {
     "ai": {
-      "count": 888,
-      "wins": 247,
+      "count": 897,
+      "wins": 250,
       "losses": 37
     },
     "finance": {
-      "count": 75,
+      "count": 78,
       "wins": 12,
       "losses": 0
     },
