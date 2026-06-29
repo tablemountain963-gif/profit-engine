@@ -1256,14 +1256,6 @@
       "losses": 0,
       "niche": "ai"
     },
-    "smartwatch-trackers": {
-      "firstSeen": "2026-06-09T22:17:03.999Z",
-      "lastSeen": "2026-06-15T06:21:47.274Z",
-      "count": 2,
-      "wins": 0,
-      "losses": 1,
-      "niche": "ai"
-    },
     "fitness-equipment": {
       "firstSeen": "2026-06-09T22:17:07.038Z",
       "lastSeen": "2026-06-26T05:06:27.464Z",
@@ -1766,38 +1758,6 @@
       "count": 2,
       "wins": 0,
       "losses": 1,
-      "niche": "ai"
-    },
-    "_blank-tools": {
-      "firstSeen": "2026-06-15T06:22:06.343Z",
-      "lastSeen": "2026-06-15T06:22:06.343Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "ai"
-    },
-    "proudly": {
-      "firstSeen": "2026-06-15T06:22:45.672Z",
-      "lastSeen": "2026-06-15T06:22:45.672Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "ai"
-    },
-    "gopro": {
-      "firstSeen": "2026-06-15T06:22:52.655Z",
-      "lastSeen": "2026-06-15T06:22:52.655Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "ai"
-    },
-    "m1-max": {
-      "firstSeen": "2026-06-15T06:23:12.077Z",
-      "lastSeen": "2026-06-15T06:23:12.077Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
       "niche": "ai"
     },
     "billion-deal": {
@@ -3370,10 +3330,10 @@
     },
     "reid-hoffman": {
       "firstSeen": "2026-06-24T15:32:17.901Z",
-      "lastSeen": "2026-06-24T15:32:17.901Z",
-      "count": 1,
+      "lastSeen": "2026-06-29T16:37:30.797Z",
+      "count": 2,
       "wins": 0,
-      "losses": 0,
+      "losses": 1,
       "niche": "ai"
     },
     "qualcomm-strikes": {
@@ -4258,25 +4218,25 @@
     },
     "pet-simulator": {
       "firstSeen": "2026-06-29T05:27:32.354Z",
-      "lastSeen": "2026-06-29T05:27:32.354Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-29T16:37:30.798Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
     "backrooms-league": {
       "firstSeen": "2026-06-29T05:27:34.515Z",
-      "lastSeen": "2026-06-29T05:27:34.515Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-29T16:37:30.799Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
     "edition-advanced": {
       "firstSeen": "2026-06-29T05:27:37.617Z",
-      "lastSeen": "2026-06-29T05:27:37.617Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-29T16:37:30.800Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -4319,13 +4279,61 @@
       "wins": 0,
       "losses": 0,
       "niche": "ai"
+    },
+    "coins-hatch": {
+      "firstSeen": "2026-06-29T16:37:37.302Z",
+      "lastSeen": "2026-06-29T16:37:37.302Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "hatch-eggs": {
+      "firstSeen": "2026-06-29T16:37:39.918Z",
+      "lastSeen": "2026-06-29T16:37:39.918Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "eggs-complete": {
+      "firstSeen": "2026-06-29T16:37:43.214Z",
+      "lastSeen": "2026-06-29T16:37:43.214Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "complete-backrooms": {
+      "firstSeen": "2026-06-29T16:38:12.638Z",
+      "lastSeen": "2026-06-29T16:38:12.638Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "league-tasks": {
+      "firstSeen": "2026-06-29T16:38:25.000Z",
+      "lastSeen": "2026-06-29T16:38:25.000Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "gbessey-kiadu": {
+      "firstSeen": "2026-06-29T16:38:40.849Z",
+      "lastSeen": "2026-06-29T16:38:40.849Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
     }
   },
   "niches": {
     "ai": {
-      "count": 907,
-      "wins": 250,
-      "losses": 38
+      "count": 917,
+      "wins": 253,
+      "losses": 39
     },
     "finance": {
       "count": 78,
