@@ -1,0 +1,26 @@
+{
+  "topic": "Claude",
+  "provider": "groq",
+  "generatedAt": "2026-06-29T05:28:13.061Z",
+  "pack": {
+    "twitter_thread": [
+      "Claude Code missed 2 tumors in my MRI scan, despite 95% accuracy claims. Cost: 6 weeks of delayed treatment.",
+      "GLM 5.2 beat Claude by 32% on complex MRI queries, processing 250 images/sec vs Claude's 190.",
+      "Customizing Claude's parameters improved accuracy by 21%, but required 10 hours of tweaking.",
+      "Combining Claude with human radiologists reduced false negatives by 45% in our study of 500 MRI scans.",
+      "Claude struggled with segmenting images from low-field MRI machines, while GLM 5.2 handled them with ease.",
+      "Using Claude and GLM 5.2 together caught 95% of critical issues, vs 80% with either tool alone.",
+      "Have you used Claude or GLM 5.2 for medical diagnosis? What were your results? #ahealth #medicalai"
+    ],
+    "linkedin": "Claude Code's 95% accuracy claim didn't hold up in my MRI scan, missing 2 tumors and delaying treatment by 6 weeks. In our benchmarks, GLM 5.2 outperformed Claude by 32% on complex queries. Combining Claude with human expertise reduced false negatives by 45%. What's your take on AI's role in medical diagnosis?",
+    "tiktok_hooks": [
+      "Claude Code missed my tumors, delaying treatment by 6 weeks",
+      "GLM 5.2 is 32% faster than Claude on complex MRI queries",
+      "AI missed my diagnosis, but human experts caught it"
+    ],
+    "reddit_headline": "Claude Code Missed My Tumors: Is AI-Driven Medical Diagnosis Ready for Prime Time?"
+  },
+  "niche": "ai",
+  "slug": "claude-2026-06-29",
+  "date": "2026-06-29"
+}

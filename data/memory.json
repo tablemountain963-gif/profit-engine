@@ -18,8 +18,8 @@
     },
     "claude": {
       "firstSeen": "2026-05-28T04:02:03.327Z",
-      "lastSeen": "2026-06-22T22:29:48.480Z",
-      "count": 5,
+      "lastSeen": "2026-06-29T05:28:13.063Z",
+      "count": 6,
       "wins": 0,
       "losses": 0,
       "niche": "ai"
@@ -1752,38 +1752,6 @@
       "losses": 1,
       "niche": "ai"
     },
-    "customer-support-reply-templates": {
-      "firstSeen": "2026-06-14T22:01:38.316Z",
-      "lastSeen": "2026-06-14T22:01:38.316Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "productivity"
-    },
-    "roper-technologies": {
-      "firstSeen": "2026-06-14T22:02:01.348Z",
-      "lastSeen": "2026-06-14T22:02:01.348Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "ai"
-    },
-    "vibe-coder": {
-      "firstSeen": "2026-06-14T22:02:28.205Z",
-      "lastSeen": "2026-06-14T22:02:28.205Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "software"
-    },
-    "software-engineer": {
-      "firstSeen": "2026-06-14T22:02:41.030Z",
-      "lastSeen": "2026-06-14T22:02:41.030Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "software"
-    },
     "south-lawn": {
       "firstSeen": "2026-06-15T06:21:53.500Z",
       "lastSeen": "2026-06-15T22:53:08.625Z",
@@ -3282,10 +3250,10 @@
     },
     "systemic-rejection": {
       "firstSeen": "2026-06-23T22:06:39.449Z",
-      "lastSeen": "2026-06-23T22:06:39.449Z",
-      "count": 1,
+      "lastSeen": "2026-06-29T05:27:25.954Z",
+      "count": 2,
       "wins": 0,
-      "losses": 0,
+      "losses": 1,
       "niche": "ai"
     },
     "claude-tag": {
@@ -4287,13 +4255,77 @@
       "wins": 0,
       "losses": 0,
       "niche": "ai"
+    },
+    "pet-simulator": {
+      "firstSeen": "2026-06-29T05:27:32.354Z",
+      "lastSeen": "2026-06-29T05:27:32.354Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "backrooms-league": {
+      "firstSeen": "2026-06-29T05:27:34.515Z",
+      "lastSeen": "2026-06-29T05:27:34.515Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "edition-advanced": {
+      "firstSeen": "2026-06-29T05:27:37.617Z",
+      "lastSeen": "2026-06-29T05:27:37.617Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "advanced-pet": {
+      "firstSeen": "2026-06-29T05:27:45.614Z",
+      "lastSeen": "2026-06-29T05:27:45.614Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "simulator-automation": {
+      "firstSeen": "2026-06-29T05:27:51.558Z",
+      "lastSeen": "2026-06-29T05:27:51.558Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "automation-tool": {
+      "firstSeen": "2026-06-29T05:28:04.798Z",
+      "lastSeen": "2026-06-29T05:28:04.798Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "tool-farm": {
+      "firstSeen": "2026-06-29T05:28:27.533Z",
+      "lastSeen": "2026-06-29T05:28:27.533Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "farm-coins": {
+      "firstSeen": "2026-06-29T05:28:41.535Z",
+      "lastSeen": "2026-06-29T05:28:41.535Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
     }
   },
   "niches": {
     "ai": {
-      "count": 897,
+      "count": 907,
       "wins": 250,
-      "losses": 37
+      "losses": 38
     },
     "finance": {
       "count": 78,

@@ -1,365 +1,820 @@
 {
-  "generatedAt": "2026-06-28T21:51:25.108Z",
-  "sourceCount": 205,
+  "generatedAt": "2026-06-29T05:27:26.784Z",
+  "sourceCount": 206,
   "topItems": [
-    {
-      "title": "I used Claude Code to get a second opinion on my MRI",
-      "url": "https://antoine.fi/mri-analysis-using-claude-code-opus",
-      "score": 9.56,
-      "niche": "ai",
-      "source": "hackernews",
-      "engagement": {
-        "score": 252,
-        "comments": 361
-      }
-    },
-    {
-      "title": "Each broom agent can spawn additional, autonomous broom agents, each with their own pails. This allows apprentices to accelerate monotonous water-fetching tasks and save their time and energy for more",
-      "url": "https://posts.rat.pictures/@hannah/116828101313960464",
-      "score": 8.86,
-      "niche": "ai",
-      "source": "mastodon",
-      "engagement": {
-        "score": 989,
-        "comments": 15
-      }
-    },
-    {
-      "title": "For those of you who don't follow AI and programming, Claude Code came out in May 2025.",
-      "url": "https://mastodon.social/@sjvn/116828624577961731",
-      "score": 8.66,
-      "niche": "ai",
-      "source": "mastodon",
-      "engagement": {
-        "score": 193,
-        "comments": 16
-      }
-    },
-    {
-      "title": "Ford rehires \"greybeard\" engineers after its push for AI automation backfires.\"Mistakenly, we thought that by just introducing artificial intelligence and ingesting the design requirements that we had",
-      "url": "https://hachyderm.io/@evacide/116829265237530324",
-      "score": 8.35,
-      "niche": "ai",
-      "source": "mastodon",
-      "engagement": {
-        "score": 357,
-        "comments": 25
-      }
-    },
     {
       "title": "Professor denounces mass AI fraud on an exam at Brown",
       "url": "https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html",
-      "score": 8.3,
+      "score": 9.11,
       "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 65,
-        "comments": 57
+        "score": 334,
+        "comments": 453
       }
     },
     {
-      "title": "Librepods: AirPods liberated",
-      "url": "https://github.com/librepods-org/librepods",
-      "score": 7.84,
+      "title": "I used Claude Code to get a second opinion on my MRI",
+      "url": "https://antoine.fi/mri-analysis-using-claude-code-opus",
+      "score": 8.05,
       "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 172,
-        "comments": 54
+        "score": 388,
+        "comments": 502
       }
     },
     {
       "title": "GLM 5.2 beats Claude in our benchmarks",
       "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
-      "score": 7.73,
+      "score": 7.93,
       "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 163,
-        "comments": 48
+        "score": 637,
+        "comments": 305
       }
     },
     {
-      "title": "Working around dragons with the Lemote Yeeloong laptop and OpenBSD",
-      "url": "http://oldvcr.blogspot.com/2026/06/working-around-dragons-with-lemote.html",
-      "score": 7.41,
-      "niche": "ai",
-      "source": "hackernews",
-      "engagement": {
-        "score": 76,
-        "comments": 13
-      }
-    },
-    {
-      "title": "It's Mel Brooks' 100th birthday. Here he is wearing a fake extra finger for his handprint ceremony.Mel Brooks: fucking with AI before we even knew 😆",
-      "url": "https://tech.lgbt/@LilahTovMoon/116828445639874043",
-      "score": 7.28,
+      "title": "If you use AI to generate any code or data and it's wrong, I will hold you responsible as if you'd done it yourself.",
+      "url": "https://mastodon.gamedev.place/@grumpygamer/116831023699924955",
+      "score": 7.83,
       "niche": "ai",
       "source": "mastodon",
       "engagement": {
-        "score": 675,
-        "comments": 11
+        "score": 254,
+        "comments": 12
       }
     },
     {
-      "title": "Senior IT guy here. We sent out an all-company reminder that viewing porn on company devices or time is inappropriate. We were deluged with apologies and excuses. In retrospect, it looked like an indi",
-      "url": "https://mastodon.social/@fesshole/116829585730109012",
-      "score": 6.93,
-      "niche": "software",
+      "title": "perglervitek/Pet-Simulator-99-Auto-Farm-Trainer-2026-Premium — Premium edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatica",
+      "url": "https://github.com/perglervitek/Pet-Simulator-99-Auto-Farm-Trainer-2026-Premium",
+      "score": 7.71,
+      "niche": "ai",
+      "source": "github",
+      "engagement": {
+        "score": 206,
+        "comments": 0
+      }
+    },
+    {
+      "title": "This past week I have seen a dozen or more videos where Russian women film themselves crying in their cars, because they cannot fill up the tank due to Ukraines \"Long range sanctions\".These women have",
+      "url": "https://mastodon.social/@randahl/116830535657168979",
+      "score": 7.45,
+      "niche": "ai",
       "source": "mastodon",
       "engagement": {
-        "score": 71,
+        "score": 188,
+        "comments": 12
+      }
+    },
+    {
+      "title": "“Should this bill become law in Michigan, an employer could not require an employee to access or respond to work-related matters outside of their assigned hours. This includes emails, text messages or",
+      "url": "https://hachyderm.io/@jalefkowit/116830592718984819",
+      "score": 7.34,
+      "niche": "ai",
+      "source": "mastodon",
+      "engagement": {
+        "score": 187,
         "comments": 4
       }
     },
     {
-      "title": "Daisugi, the Japanese technique of growing trees out of other trees (2020)",
-      "url": "https://www.openculture.com/2020/10/daisugi.html",
-      "score": 6.83,
+      "title": "So, today I was called a \"Luddite\" because I don't like AI.Call me what you want, but when it comes to folks losing their jobs, data centers sucking up our water and causing higher energy bills for pe",
+      "url": "https://polymaths.social/@cmccullough/statuses/01KW8CK8S6EY8AVDVY3P8TQCX0",
+      "score": 7.23,
+      "niche": "ai",
+      "source": "mastodon",
+      "engagement": {
+        "score": 139,
+        "comments": 21
+      }
+    },
+    {
+      "title": "✨ A Sprinkle of JoyousJoyness ✨MLEM.Have a JoyousJoyfulJoyness day!#happy #funny #blackcat #cat #cute #joyousjoyness #repost",
+      "url": "https://mastodon.social/@joyousjoyness/116830452674321279",
+      "score": 7.15,
+      "niche": "software",
+      "source": "mastodon",
+      "engagement": {
+        "score": 161,
+        "comments": 2
+      }
+    },
+    {
+      "title": "Librepods: AirPods liberated",
+      "url": "https://github.com/librepods-org/librepods",
+      "score": 6.99,
       "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 83,
-        "comments": 26
+        "score": 327,
+        "comments": 106
+      }
+    },
+    {
+      "title": "When billionaires preach \"abundance,\" remember that the richest man in the world killed the poorest children in the world just for the LOLs.And if these AI fascists get their way, most of us will join",
+      "url": "https://journa.host/@gilduran/116831226176851716",
+      "score": 6.9,
+      "niche": "ai",
+      "source": "mastodon",
+      "engagement": {
+        "score": 136,
+        "comments": 3
+      }
+    },
+    {
+      "title": "Don't talk to me or my son ever again. Photo from my collection, no date/info.",
+      "url": "https://mastodon.social/@CatsOfYore/116830774004792405",
+      "score": 6.87,
+      "niche": "ai",
+      "source": "mastodon",
+      "engagement": {
+        "score": 133,
+        "comments": 3
+      }
+    },
+    {
+      "title": "dimasarestuprasmanto/Pet-Simulator-99-Auto-Farm-Trainer-2026-Tera — Tera edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automati",
+      "url": "https://github.com/dimasarestuprasmanto/Pet-Simulator-99-Auto-Farm-Trainer-2026-Tera",
+      "score": 6.86,
+      "niche": "ai",
+      "source": "github",
+      "engagement": {
+        "score": 213,
+        "comments": 0
+      }
+    },
+    {
+      "title": "NagaaSaketh/Pet-Simulator-99-Auto-Farm-Trainer-2026-Ultimate — Ultimate edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatic",
+      "url": "https://github.com/NagaaSaketh/Pet-Simulator-99-Auto-Farm-Trainer-2026-Ultimate",
+      "score": 6.86,
+      "niche": "ai",
+      "source": "github",
+      "engagement": {
+        "score": 213,
+        "comments": 0
+      }
+    },
+    {
+      "title": "MuhammadHanzalaIqbal/Pet-Simulator-99-Auto-Farm-Trainer-2026-Turbo — Turbo edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automa",
+      "url": "https://github.com/MuhammadHanzalaIqbal/Pet-Simulator-99-Auto-Farm-Trainer-2026-Turbo",
+      "score": 6.85,
+      "niche": "ai",
+      "source": "github",
+      "engagement": {
+        "score": 212,
+        "comments": 0
+      }
+    },
+    {
+      "title": "fajarakpdev/Hades-II-Trainer-Z — Free Hades II Trainer with God Mode, Unlimited Health, Max Gold, One-Hit Kill and more. No survey, instant download.",
+      "url": "https://github.com/fajarakpdev/Hades-II-Trainer-Z",
+      "score": 6.84,
+      "niche": "ai",
+      "source": "github",
+      "engagement": {
+        "score": 209,
+        "comments": 0
+      }
+    },
+    {
+      "title": "mofouly/Pet-Simulator-99-Auto-Farm-Trainer-2026-Giga — Giga edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatically. Fully ",
+      "url": "https://github.com/mofouly/Pet-Simulator-99-Auto-Farm-Trainer-2026-Giga",
+      "score": 6.83,
+      "niche": "ai",
+      "source": "github",
+      "engagement": {
+        "score": 208,
+        "comments": 0
+      }
+    },
+    {
+      "title": "perglervitek/Pet-Simulator-99-Auto-Farm-Trainer-2026-X — X edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatically. Fully u",
+      "url": "https://github.com/perglervitek/Pet-Simulator-99-Auto-Farm-Trainer-2026-X",
+      "score": 6.83,
+      "niche": "ai",
+      "source": "github",
+      "engagement": {
+        "score": 208,
+        "comments": 0
+      }
+    },
+    {
+      "title": "NagaaSaketh/Pet-Simulator-99-Auto-Farm-Trainer-2026-Nitro — Boost your Pet Simulator 99 progress with the Nitro trainer. Auto-farm, auto-hatch, instant break, and League auto-grind – all in one sleek ",
+      "url": "https://github.com/NagaaSaketh/Pet-Simulator-99-Auto-Farm-Trainer-2026-Nitro",
+      "score": 6.82,
+      "niche": "ai",
+      "source": "github",
+      "engagement": {
+        "score": 207,
+        "comments": 0
+      }
+    },
+    {
+      "title": "dimasarestuprasmanto/Pet-Simulator-99-Auto-Farm-Trainer-2026-Peta — Boost your Pet Simulator 99 progress with the Peta trainer. Auto-farm, auto-hatch, instant break, and League auto-grind – all in one",
+      "url": "https://github.com/dimasarestuprasmanto/Pet-Simulator-99-Auto-Farm-Trainer-2026-Peta",
+      "score": 6.82,
+      "niche": "ai",
+      "source": "github",
+      "engagement": {
+        "score": 207,
+        "comments": 0
+      }
+    },
+    {
+      "title": "vanroon/Pet-Simulator-99-Auto-Farm-Trainer-2026-Elite — Boost your Pet Simulator 99 progress with the Elite trainer. Auto-farm, auto-hatch, instant break, and League auto-grind – all in one sleek GUI.",
+      "url": "https://github.com/vanroon/Pet-Simulator-99-Auto-Farm-Trainer-2026-Elite",
+      "score": 6.82,
+      "niche": "ai",
+      "source": "github",
+      "engagement": {
+        "score": 206,
+        "comments": 0
+      }
+    },
+    {
+      "title": "yande0/Pet-Simulator-99-Auto-Farm-Trainer-2026-Platinum — Platinum edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatically.",
+      "url": "https://github.com/yande0/Pet-Simulator-99-Auto-Farm-Trainer-2026-Platinum",
+      "score": 6.81,
+      "niche": "ai",
+      "source": "github",
+      "engagement": {
+        "score": 205,
+        "comments": 0
       }
     },
     {
       "title": "A way to exclude sensitive files issue still open for OpenAI Codex",
       "url": "https://github.com/openai/codex/issues/2847",
-      "score": 6.62,
+      "score": 6.76,
       "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 166,
-        "comments": 110
-      }
-    },
-    {
-      "title": "10 Best AI Tools for Marketing in 2026 (Ultimate Guide)",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5ZQnNGclh2cVNXbTdpQmpPd2ZpQmk4X2FLcFRjXzNuMVBoOURMTm9sN0JrWW9mUHA1OEhNSjNEZ28yUFJtRWJLRUlXZG9xX3NvaWtGdzU3a3hLZ3M4WW9hUUlR0gFiQVVfeXFMTllCc0ZyWHZxU1dtN2lCak93ZmlCaThfYUtwVGNfM24xUGg5RExOb2w3QmtZb2ZQcDU4SE1KM0RnbzJQUm1FYktFSVdkb3Ffc29pa0Z3NTdreEtnczhZb2FRSVE?oc=5",
-      "score": 6.61,
-      "niche": "ai",
-      "source": "gnews",
-      "engagement": {
-        "score": 40,
-        "comments": 0
-      }
-    },
-    {
-      "title": "Cartoon: Recycling dilemmas#cartoon #comic #environment #plastic #recycling #pollution",
-      "url": "https://mastodon.social/@jensorensen/116829334388040679",
-      "score": 6.55,
-      "niche": "software",
-      "source": "mastodon",
-      "engagement": {
-        "score": 210,
-        "comments": 4
-      }
-    },
-    {
-      "title": "zanetanasta/Seed-Generator — Professional BIP-39 Seed & HD Wallet Toolkit with 12–24 word mnemonics, checksum validation, BIP-44/49/84 derivation, and multi-chain support (BTC, ETH, SOL, LTC, DOGE, AD",
-      "url": "https://github.com/zanetanasta/Seed-Generator",
-      "score": 6.49,
-      "niche": "ai",
-      "source": "github",
-      "engagement": {
-        "score": 214,
-        "comments": 0
+        "score": 191,
+        "comments": 123
       }
     },
     {
       "title": "The curious case of the disappearing Polish S (2015)",
       "url": "https://aresluna.org/the-curious-case-of-the-disappearing-polish-s/",
-      "score": 6.44,
+      "score": 6.6,
       "niche": "software",
       "source": "hackernews",
       "engagement": {
-        "score": 192,
-        "comments": 62
+        "score": 219,
+        "comments": 73
       }
     },
     {
-      "title": "deepseek-ai/DeepSpec — DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms",
-      "url": "https://github.com/deepseek-ai/DeepSpec",
-      "score": 6.38,
-      "niche": "ai",
-      "source": "github",
-      "engagement": {
-        "score": 2094,
-        "comments": 7
-      }
-    },
-    {
-      "title": "The New Ideal Job: Passive Income",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5yREQycU1iTVZUT2RsZDZuNWJVRGRGUE4zZXFVSHlJcHFIdnhadzFQTEVPbDcxbXdlQXJDTm0xbGxQeDY4U2ZOQ3Z1eDZsRzctVl80bmlodDdpUHVYSzdXNU1WTjBybTZZUTZaVzhKN0FWdDEwZ3ByaUU3LXJXZw?oc=5",
-      "score": 6.29,
-      "niche": "finance",
-      "source": "gnews",
-      "engagement": {
-        "score": 40,
-        "comments": 0
-      }
-    },
-    {
-      "title": "Show HN: Bash4LLM+ – A lightweight, dependency-free Bash wrapper for LLM APIs",
-      "url": "https://github.com/kamaludu/bash4llm/",
-      "score": 6.2,
+      "title": "Working around dragons with the Lemote Yeeloong laptop and OpenBSD",
+      "url": "http://oldvcr.blogspot.com/2026/06/working-around-dragons-with-lemote.html",
+      "score": 6.46,
       "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 12,
-        "comments": 9
-      }
-    },
-    {
-      "title": "eli-labz/Godcoder — A local-first, open-source coding agent for your desktop. Bring your own LLM key; your code stays on your machine and only ever leaves to the model provider. The AI Agent builds it",
-      "url": "https://github.com/eli-labz/Godcoder",
-      "score": 5.97,
-      "niche": "ai",
-      "source": "github",
-      "engagement": {
-        "score": 245,
-        "comments": 0
-      }
-    },
-    {
-      "title": "5k menus from the New York Public Library’s Buttolph Collection (1880-1920)",
-      "url": "https://pudding.cool/2026/06/menu-story/",
-      "score": 5.93,
-      "niche": "software",
-      "source": "hackernews",
-      "engagement": {
-        "score": 289,
-        "comments": 77
-      }
-    },
-    {
-      "title": "10 Best AI Productivity Apps in 2026 (Categorized Guide)",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ldGkwQm9Vblo4TmY5TWFzVGlIWGdlZGl5VUxPN3BGMkdhZGhIWmFFVm5xelVVSEtwNEExS09nX2NPLWZDdEI4WWsxd1FFS2gwR3RzQTRwaWRyWEE3cVlV0gFfQVVfeXFMT2V0aTBCb1VuWjhOZjlNYXNUaUhYZ2VkaXlVTE83cEYyR2FkaEhaYUVWbnF6VVVIS3A0QTFLT2dfY08tZkN0QjhZazF3UUVLaDBHdHNBNHBpZHJYQTdxWVU?oc=5",
-      "score": 5.88,
-      "niche": "ai",
-      "source": "gnews",
-      "engagement": {
-        "score": 40,
-        "comments": 0
-      }
-    },
-    {
-      "title": "AdilMir1433/DBD-AutoGrind-Trainer-2026 — Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected ",
-      "url": "https://github.com/AdilMir1433/DBD-AutoGrind-Trainer-2026",
-      "score": 5.87,
-      "niche": "ai",
-      "source": "github",
-      "engagement": {
-        "score": 195,
-        "comments": 0
-      }
-    },
-    {
-      "title": "XFaltixX/DBD-AutoGrind-Trainer-2026 — Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected ext",
-      "url": "https://github.com/XFaltixX/DBD-AutoGrind-Trainer-2026",
-      "score": 5.87,
-      "niche": "ai",
-      "source": "github",
-      "engagement": {
-        "score": 195,
-        "comments": 0
-      }
-    },
-    {
-      "title": "Karan10010/DBD-AutoGrind-Trainer-2026 — Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected e",
-      "url": "https://github.com/Karan10010/DBD-AutoGrind-Trainer-2026",
-      "score": 5.87,
-      "niche": "ai",
-      "source": "github",
-      "engagement": {
-        "score": 195,
-        "comments": 0
+        "score": 99,
+        "comments": 28
       }
     }
   ],
   "topics": [
     {
-      "keyword": "ultimate dead",
-      "count": 72,
-      "score": 633.7629586086384,
+      "keyword": "pet simulator",
+      "count": 104,
+      "score": 1044.5687602053904,
       "proper": true,
       "niches": [
         "ai"
       ],
       "examples": [
         {
-          "title": "AdilMir1433/DBD-AutoGrind-Trainer-2026 — Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected ",
-          "url": "https://github.com/AdilMir1433/DBD-AutoGrind-Trainer-2026",
+          "title": "perglervitek/Pet-Simulator-99-Auto-Farm-Trainer-2026-Premium — Premium edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatica",
+          "url": "https://github.com/perglervitek/Pet-Simulator-99-Auto-Farm-Trainer-2026-Premium",
           "source": "github"
         },
         {
-          "title": "AdilMir1433/DBD-AutoGrind-Trainer-2026 — Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected ",
-          "url": "https://github.com/AdilMir1433/DBD-AutoGrind-Trainer-2026",
+          "title": "perglervitek/Pet-Simulator-99-Auto-Farm-Trainer-2026-Premium — Premium edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatica",
+          "url": "https://github.com/perglervitek/Pet-Simulator-99-Auto-Farm-Trainer-2026-Premium",
           "source": "github"
         },
         {
-          "title": "XFaltixX/DBD-AutoGrind-Trainer-2026 — Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected ext",
-          "url": "https://github.com/XFaltixX/DBD-AutoGrind-Trainer-2026",
+          "title": "dimasarestuprasmanto/Pet-Simulator-99-Auto-Farm-Trainer-2026-Tera — Tera edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automati",
+          "url": "https://github.com/dimasarestuprasmanto/Pet-Simulator-99-Auto-Farm-Trainer-2026-Tera",
           "source": "github"
         },
         {
-          "title": "XFaltixX/DBD-AutoGrind-Trainer-2026 — Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected ext",
-          "url": "https://github.com/XFaltixX/DBD-AutoGrind-Trainer-2026",
+          "title": "dimasarestuprasmanto/Pet-Simulator-99-Auto-Farm-Trainer-2026-Tera — Tera edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automati",
+          "url": "https://github.com/dimasarestuprasmanto/Pet-Simulator-99-Auto-Farm-Trainer-2026-Tera",
           "source": "github"
         },
         {
-          "title": "Karan10010/DBD-AutoGrind-Trainer-2026 — Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected e",
-          "url": "https://github.com/Karan10010/DBD-AutoGrind-Trainer-2026",
+          "title": "NagaaSaketh/Pet-Simulator-99-Auto-Farm-Trainer-2026-Ultimate — Ultimate edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatic",
+          "url": "https://github.com/NagaaSaketh/Pet-Simulator-99-Auto-Farm-Trainer-2026-Ultimate",
           "source": "github"
         }
       ],
-      "id": "d6effcb40be2",
-      "slug": "ultimate-dead"
+      "id": "186b6e77a1b0",
+      "slug": "pet-simulator"
     },
     {
-      "keyword": "passive income",
-      "count": 55,
-      "score": 316.0459629143695,
+      "keyword": "backrooms league",
+      "count": 80,
+      "score": 798.9650768459594,
       "proper": true,
       "niches": [
-        "finance",
         "ai"
       ],
       "examples": [
         {
-          "title": "The New Ideal Job: Passive Income",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5yREQycU1iTVZUT2RsZDZuNWJVRGRGUE4zZXFVSHlJcHFIdnhadzFQTEVPbDcxbXdlQXJDTm0xbGxQeDY4U2ZOQ3Z1eDZsRzctVl80bmlodDdpUHVYSzdXNU1WTjBybTZZUTZaVzhKN0FWdDEwZ3ByaUU3LXJXZw?oc=5",
+          "title": "perglervitek/Pet-Simulator-99-Auto-Farm-Trainer-2026-Premium — Premium edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatica",
+          "url": "https://github.com/perglervitek/Pet-Simulator-99-Auto-Farm-Trainer-2026-Premium",
+          "source": "github"
+        },
+        {
+          "title": "perglervitek/Pet-Simulator-99-Auto-Farm-Trainer-2026-Premium — Premium edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatica",
+          "url": "https://github.com/perglervitek/Pet-Simulator-99-Auto-Farm-Trainer-2026-Premium",
+          "source": "github"
+        },
+        {
+          "title": "dimasarestuprasmanto/Pet-Simulator-99-Auto-Farm-Trainer-2026-Tera — Tera edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automati",
+          "url": "https://github.com/dimasarestuprasmanto/Pet-Simulator-99-Auto-Farm-Trainer-2026-Tera",
+          "source": "github"
+        },
+        {
+          "title": "dimasarestuprasmanto/Pet-Simulator-99-Auto-Farm-Trainer-2026-Tera — Tera edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automati",
+          "url": "https://github.com/dimasarestuprasmanto/Pet-Simulator-99-Auto-Farm-Trainer-2026-Tera",
+          "source": "github"
+        },
+        {
+          "title": "NagaaSaketh/Pet-Simulator-99-Auto-Farm-Trainer-2026-Ultimate — Ultimate edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatic",
+          "url": "https://github.com/NagaaSaketh/Pet-Simulator-99-Auto-Farm-Trainer-2026-Ultimate",
+          "source": "github"
+        }
+      ],
+      "id": "64c6fc601676",
+      "slug": "backrooms-league"
+    },
+    {
+      "keyword": "claude",
+      "count": 25,
+      "score": 168.21611784588993,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "I used Claude Code to get a second opinion on my MRI",
+          "url": "https://antoine.fi/mri-analysis-using-claude-code-opus",
+          "source": "hackernews"
+        },
+        {
+          "title": "GLM 5.2 beats Claude in our benchmarks",
+          "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
+          "source": "hackernews"
+        },
+        {
+          "title": "GLM 5.2 beats Claude in our benchmarks",
+          "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
+          "source": "hackernews"
+        },
+        {
+          "title": "Karpathy CLAUDE.md Grows to Ten Rules: New Self-Check Protocol for AI Coding Loops",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMm5kN3pKVUNrRTRLS3UwRm03S19rY2VFNlhMS1BEcUJRWGhqa0laNmdsZllFeU84ZjQ2c2Uxci0yWUVteGlHUlR0dGVKOGdXZ0w4eWhSYWdDdWpNZXIyb0xQc3dRV2pySVhHcVZvb0VCZUdUVXl0dGdmVnNyX01tbFFqYmJKbEo5NlYzemc1WUlVV0Z3UUVFUUVPakhLUzltbUh5RGVxTzExWTJUWm5pTFRfc2hVMmpZZUZILTBIeGx4RnBMZlc4?oc=5",
           "source": "gnews"
         },
         {
-          "title": "The New Ideal Job: Passive Income",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5yREQycU1iTVZUT2RsZDZuNWJVRGRGUE4zZXFVSHlJcHFIdnhadzFQTEVPbDcxbXdlQXJDTm0xbGxQeDY4U2ZOQ3Z1eDZsRzctVl80bmlodDdpUHVYSzdXNU1WTjBybTZZUTZaVzhKN0FWdDEwZ3ByaUU3LXJXZw?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "The New Ideal Job: Passive Income",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5yREQycU1iTVZUT2RsZDZuNWJVRGRGUE4zZXFVSHlJcHFIdnhadzFQTEVPbDcxbXdlQXJDTm0xbGxQeDY4U2ZOQ3Z1eDZsRzctVl80bmlodDdpUHVYSzdXNU1WTjBybTZZUTZaVzhKN0FWdDEwZ3ByaUU3LXJXZw?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "3 Dividend Stocks Yielding Over 8.5% to Buy With $1,000 Right Now -- and Hold for a Lifetime of Passive Income",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNeUdNRWR0bDEwUnF5UUZhcTJEem14NmhrNmsyQ2lpaGI5aGlQSnpCVFpUVUJhTXFVdzJOa1A3eTFrOUt1Y3B5WDh1bnNlRmJSakxhT2ZZZy01SkN4eXR5eDlPTVUwUkQ3cTdVcTNNLWZIeExXbzNHbVlBaVZLNFE0X2Z1RUVadllwc3NTSE1HeHhKOV9UOEtpODh3M0s?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "3 Dividend Stocks Yielding Over 8.5% to Buy With $1,000 Right Now -- and Hold for a Lifetime of Passive Income",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNeUdNRWR0bDEwUnF5UUZhcTJEem14NmhrNmsyQ2lpaGI5aGlQSnpCVFpUVUJhTXFVdzJOa1A3eTFrOUt1Y3B5WDh1bnNlRmJSakxhT2ZZZy01SkN4eXR5eDlPTVUwUkQ3cTdVcTNNLWZIeExXbzNHbVlBaVZLNFE0X2Z1RUVadllwc3NTSE1HeHhKOV9UOEtpODh3M0s?oc=5",
+          "title": "Karpathy CLAUDE.md Grows to Ten Rules: New Self-Check Protocol for AI Coding Loops",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMm5kN3pKVUNrRTRLS3UwRm03S19rY2VFNlhMS1BEcUJRWGhqa0laNmdsZllFeU84ZjQ2c2Uxci0yWUVteGlHUlR0dGVKOGdXZ0w4eWhSYWdDdWpNZXIyb0xQc3dRV2pySVhHcVZvb0VCZUdUVXl0dGdmVnNyX01tbFFqYmJKbEo5NlYzemc1WUlVV0Z3UUVFUUVPakhLUzltbUh5RGVxTzExWTJUWm5pTFRfc2hVMmpZZUZILTBIeGx4RnBMZlc4?oc=5",
           "source": "gnews"
         }
       ],
-      "id": "cf2dbbbf8c8c",
-      "slug": "passive-income"
+      "id": "c857d09db23e",
+      "slug": "claude"
+    },
+    {
+      "keyword": "edition advanced",
+      "count": 21,
+      "score": 146.27046476721893,
+      "proper": false,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "perglervitek/Pet-Simulator-99-Auto-Farm-Trainer-2026-Premium — Premium edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatica",
+          "url": "https://github.com/perglervitek/Pet-Simulator-99-Auto-Farm-Trainer-2026-Premium",
+          "source": "github"
+        },
+        {
+          "title": "dimasarestuprasmanto/Pet-Simulator-99-Auto-Farm-Trainer-2026-Tera — Tera edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automati",
+          "url": "https://github.com/dimasarestuprasmanto/Pet-Simulator-99-Auto-Farm-Trainer-2026-Tera",
+          "source": "github"
+        },
+        {
+          "title": "NagaaSaketh/Pet-Simulator-99-Auto-Farm-Trainer-2026-Ultimate — Ultimate edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatic",
+          "url": "https://github.com/NagaaSaketh/Pet-Simulator-99-Auto-Farm-Trainer-2026-Ultimate",
+          "source": "github"
+        },
+        {
+          "title": "MuhammadHanzalaIqbal/Pet-Simulator-99-Auto-Farm-Trainer-2026-Turbo — Turbo edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automa",
+          "url": "https://github.com/MuhammadHanzalaIqbal/Pet-Simulator-99-Auto-Farm-Trainer-2026-Turbo",
+          "source": "github"
+        },
+        {
+          "title": "mofouly/Pet-Simulator-99-Auto-Farm-Trainer-2026-Giga — Giga edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatically. Fully ",
+          "url": "https://github.com/mofouly/Pet-Simulator-99-Auto-Farm-Trainer-2026-Giga",
+          "source": "github"
+        }
+      ],
+      "id": "4d79192c45fc",
+      "slug": "edition-advanced"
+    },
+    {
+      "keyword": "advanced pet",
+      "count": 21,
+      "score": 146.27046476721893,
+      "proper": false,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "perglervitek/Pet-Simulator-99-Auto-Farm-Trainer-2026-Premium — Premium edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatica",
+          "url": "https://github.com/perglervitek/Pet-Simulator-99-Auto-Farm-Trainer-2026-Premium",
+          "source": "github"
+        },
+        {
+          "title": "dimasarestuprasmanto/Pet-Simulator-99-Auto-Farm-Trainer-2026-Tera — Tera edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automati",
+          "url": "https://github.com/dimasarestuprasmanto/Pet-Simulator-99-Auto-Farm-Trainer-2026-Tera",
+          "source": "github"
+        },
+        {
+          "title": "NagaaSaketh/Pet-Simulator-99-Auto-Farm-Trainer-2026-Ultimate — Ultimate edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatic",
+          "url": "https://github.com/NagaaSaketh/Pet-Simulator-99-Auto-Farm-Trainer-2026-Ultimate",
+          "source": "github"
+        },
+        {
+          "title": "MuhammadHanzalaIqbal/Pet-Simulator-99-Auto-Farm-Trainer-2026-Turbo — Turbo edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automa",
+          "url": "https://github.com/MuhammadHanzalaIqbal/Pet-Simulator-99-Auto-Farm-Trainer-2026-Turbo",
+          "source": "github"
+        },
+        {
+          "title": "mofouly/Pet-Simulator-99-Auto-Farm-Trainer-2026-Giga — Giga edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatically. Fully ",
+          "url": "https://github.com/mofouly/Pet-Simulator-99-Auto-Farm-Trainer-2026-Giga",
+          "source": "github"
+        }
+      ],
+      "id": "9a7823ddb1d5",
+      "slug": "advanced-pet"
+    },
+    {
+      "keyword": "simulator automation",
+      "count": 21,
+      "score": 146.27046476721893,
+      "proper": false,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "perglervitek/Pet-Simulator-99-Auto-Farm-Trainer-2026-Premium — Premium edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatica",
+          "url": "https://github.com/perglervitek/Pet-Simulator-99-Auto-Farm-Trainer-2026-Premium",
+          "source": "github"
+        },
+        {
+          "title": "dimasarestuprasmanto/Pet-Simulator-99-Auto-Farm-Trainer-2026-Tera — Tera edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automati",
+          "url": "https://github.com/dimasarestuprasmanto/Pet-Simulator-99-Auto-Farm-Trainer-2026-Tera",
+          "source": "github"
+        },
+        {
+          "title": "NagaaSaketh/Pet-Simulator-99-Auto-Farm-Trainer-2026-Ultimate — Ultimate edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatic",
+          "url": "https://github.com/NagaaSaketh/Pet-Simulator-99-Auto-Farm-Trainer-2026-Ultimate",
+          "source": "github"
+        },
+        {
+          "title": "MuhammadHanzalaIqbal/Pet-Simulator-99-Auto-Farm-Trainer-2026-Turbo — Turbo edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automa",
+          "url": "https://github.com/MuhammadHanzalaIqbal/Pet-Simulator-99-Auto-Farm-Trainer-2026-Turbo",
+          "source": "github"
+        },
+        {
+          "title": "mofouly/Pet-Simulator-99-Auto-Farm-Trainer-2026-Giga — Giga edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatically. Fully ",
+          "url": "https://github.com/mofouly/Pet-Simulator-99-Auto-Farm-Trainer-2026-Giga",
+          "source": "github"
+        }
+      ],
+      "id": "5d2e66b731b8",
+      "slug": "simulator-automation"
+    },
+    {
+      "keyword": "automation tool",
+      "count": 21,
+      "score": 146.27046476721893,
+      "proper": false,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "perglervitek/Pet-Simulator-99-Auto-Farm-Trainer-2026-Premium — Premium edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatica",
+          "url": "https://github.com/perglervitek/Pet-Simulator-99-Auto-Farm-Trainer-2026-Premium",
+          "source": "github"
+        },
+        {
+          "title": "dimasarestuprasmanto/Pet-Simulator-99-Auto-Farm-Trainer-2026-Tera — Tera edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automati",
+          "url": "https://github.com/dimasarestuprasmanto/Pet-Simulator-99-Auto-Farm-Trainer-2026-Tera",
+          "source": "github"
+        },
+        {
+          "title": "NagaaSaketh/Pet-Simulator-99-Auto-Farm-Trainer-2026-Ultimate — Ultimate edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatic",
+          "url": "https://github.com/NagaaSaketh/Pet-Simulator-99-Auto-Farm-Trainer-2026-Ultimate",
+          "source": "github"
+        },
+        {
+          "title": "MuhammadHanzalaIqbal/Pet-Simulator-99-Auto-Farm-Trainer-2026-Turbo — Turbo edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automa",
+          "url": "https://github.com/MuhammadHanzalaIqbal/Pet-Simulator-99-Auto-Farm-Trainer-2026-Turbo",
+          "source": "github"
+        },
+        {
+          "title": "mofouly/Pet-Simulator-99-Auto-Farm-Trainer-2026-Giga — Giga edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatically. Fully ",
+          "url": "https://github.com/mofouly/Pet-Simulator-99-Auto-Farm-Trainer-2026-Giga",
+          "source": "github"
+        }
+      ],
+      "id": "977b38934bf7",
+      "slug": "automation-tool"
+    },
+    {
+      "keyword": "tool farm",
+      "count": 21,
+      "score": 146.27046476721893,
+      "proper": false,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "perglervitek/Pet-Simulator-99-Auto-Farm-Trainer-2026-Premium — Premium edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatica",
+          "url": "https://github.com/perglervitek/Pet-Simulator-99-Auto-Farm-Trainer-2026-Premium",
+          "source": "github"
+        },
+        {
+          "title": "dimasarestuprasmanto/Pet-Simulator-99-Auto-Farm-Trainer-2026-Tera — Tera edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automati",
+          "url": "https://github.com/dimasarestuprasmanto/Pet-Simulator-99-Auto-Farm-Trainer-2026-Tera",
+          "source": "github"
+        },
+        {
+          "title": "NagaaSaketh/Pet-Simulator-99-Auto-Farm-Trainer-2026-Ultimate — Ultimate edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatic",
+          "url": "https://github.com/NagaaSaketh/Pet-Simulator-99-Auto-Farm-Trainer-2026-Ultimate",
+          "source": "github"
+        },
+        {
+          "title": "MuhammadHanzalaIqbal/Pet-Simulator-99-Auto-Farm-Trainer-2026-Turbo — Turbo edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automa",
+          "url": "https://github.com/MuhammadHanzalaIqbal/Pet-Simulator-99-Auto-Farm-Trainer-2026-Turbo",
+          "source": "github"
+        },
+        {
+          "title": "mofouly/Pet-Simulator-99-Auto-Farm-Trainer-2026-Giga — Giga edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatically. Fully ",
+          "url": "https://github.com/mofouly/Pet-Simulator-99-Auto-Farm-Trainer-2026-Giga",
+          "source": "github"
+        }
+      ],
+      "id": "e83e6c0b68f0",
+      "slug": "tool-farm"
+    },
+    {
+      "keyword": "farm coins",
+      "count": 21,
+      "score": 146.27046476721893,
+      "proper": false,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "perglervitek/Pet-Simulator-99-Auto-Farm-Trainer-2026-Premium — Premium edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatica",
+          "url": "https://github.com/perglervitek/Pet-Simulator-99-Auto-Farm-Trainer-2026-Premium",
+          "source": "github"
+        },
+        {
+          "title": "dimasarestuprasmanto/Pet-Simulator-99-Auto-Farm-Trainer-2026-Tera — Tera edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automati",
+          "url": "https://github.com/dimasarestuprasmanto/Pet-Simulator-99-Auto-Farm-Trainer-2026-Tera",
+          "source": "github"
+        },
+        {
+          "title": "NagaaSaketh/Pet-Simulator-99-Auto-Farm-Trainer-2026-Ultimate — Ultimate edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatic",
+          "url": "https://github.com/NagaaSaketh/Pet-Simulator-99-Auto-Farm-Trainer-2026-Ultimate",
+          "source": "github"
+        },
+        {
+          "title": "MuhammadHanzalaIqbal/Pet-Simulator-99-Auto-Farm-Trainer-2026-Turbo — Turbo edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automa",
+          "url": "https://github.com/MuhammadHanzalaIqbal/Pet-Simulator-99-Auto-Farm-Trainer-2026-Turbo",
+          "source": "github"
+        },
+        {
+          "title": "mofouly/Pet-Simulator-99-Auto-Farm-Trainer-2026-Giga — Giga edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatically. Fully ",
+          "url": "https://github.com/mofouly/Pet-Simulator-99-Auto-Farm-Trainer-2026-Giga",
+          "source": "github"
+        }
+      ],
+      "id": "9e52d1f2aaec",
+      "slug": "farm-coins"
+    },
+    {
+      "keyword": "coins hatch",
+      "count": 21,
+      "score": 146.27046476721893,
+      "proper": false,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "perglervitek/Pet-Simulator-99-Auto-Farm-Trainer-2026-Premium — Premium edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatica",
+          "url": "https://github.com/perglervitek/Pet-Simulator-99-Auto-Farm-Trainer-2026-Premium",
+          "source": "github"
+        },
+        {
+          "title": "dimasarestuprasmanto/Pet-Simulator-99-Auto-Farm-Trainer-2026-Tera — Tera edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automati",
+          "url": "https://github.com/dimasarestuprasmanto/Pet-Simulator-99-Auto-Farm-Trainer-2026-Tera",
+          "source": "github"
+        },
+        {
+          "title": "NagaaSaketh/Pet-Simulator-99-Auto-Farm-Trainer-2026-Ultimate — Ultimate edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatic",
+          "url": "https://github.com/NagaaSaketh/Pet-Simulator-99-Auto-Farm-Trainer-2026-Ultimate",
+          "source": "github"
+        },
+        {
+          "title": "MuhammadHanzalaIqbal/Pet-Simulator-99-Auto-Farm-Trainer-2026-Turbo — Turbo edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automa",
+          "url": "https://github.com/MuhammadHanzalaIqbal/Pet-Simulator-99-Auto-Farm-Trainer-2026-Turbo",
+          "source": "github"
+        },
+        {
+          "title": "mofouly/Pet-Simulator-99-Auto-Farm-Trainer-2026-Giga — Giga edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatically. Fully ",
+          "url": "https://github.com/mofouly/Pet-Simulator-99-Auto-Farm-Trainer-2026-Giga",
+          "source": "github"
+        }
+      ],
+      "id": "5dd86c36e176",
+      "slug": "coins-hatch"
+    },
+    {
+      "keyword": "hatch eggs",
+      "count": 21,
+      "score": 146.27046476721893,
+      "proper": false,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "perglervitek/Pet-Simulator-99-Auto-Farm-Trainer-2026-Premium — Premium edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatica",
+          "url": "https://github.com/perglervitek/Pet-Simulator-99-Auto-Farm-Trainer-2026-Premium",
+          "source": "github"
+        },
+        {
+          "title": "dimasarestuprasmanto/Pet-Simulator-99-Auto-Farm-Trainer-2026-Tera — Tera edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automati",
+          "url": "https://github.com/dimasarestuprasmanto/Pet-Simulator-99-Auto-Farm-Trainer-2026-Tera",
+          "source": "github"
+        },
+        {
+          "title": "NagaaSaketh/Pet-Simulator-99-Auto-Farm-Trainer-2026-Ultimate — Ultimate edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatic",
+          "url": "https://github.com/NagaaSaketh/Pet-Simulator-99-Auto-Farm-Trainer-2026-Ultimate",
+          "source": "github"
+        },
+        {
+          "title": "MuhammadHanzalaIqbal/Pet-Simulator-99-Auto-Farm-Trainer-2026-Turbo — Turbo edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automa",
+          "url": "https://github.com/MuhammadHanzalaIqbal/Pet-Simulator-99-Auto-Farm-Trainer-2026-Turbo",
+          "source": "github"
+        },
+        {
+          "title": "mofouly/Pet-Simulator-99-Auto-Farm-Trainer-2026-Giga — Giga edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatically. Fully ",
+          "url": "https://github.com/mofouly/Pet-Simulator-99-Auto-Farm-Trainer-2026-Giga",
+          "source": "github"
+        }
+      ],
+      "id": "fc80f22fa3e2",
+      "slug": "hatch-eggs"
+    },
+    {
+      "keyword": "eggs complete",
+      "count": 21,
+      "score": 146.27046476721893,
+      "proper": false,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "perglervitek/Pet-Simulator-99-Auto-Farm-Trainer-2026-Premium — Premium edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatica",
+          "url": "https://github.com/perglervitek/Pet-Simulator-99-Auto-Farm-Trainer-2026-Premium",
+          "source": "github"
+        },
+        {
+          "title": "dimasarestuprasmanto/Pet-Simulator-99-Auto-Farm-Trainer-2026-Tera — Tera edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automati",
+          "url": "https://github.com/dimasarestuprasmanto/Pet-Simulator-99-Auto-Farm-Trainer-2026-Tera",
+          "source": "github"
+        },
+        {
+          "title": "NagaaSaketh/Pet-Simulator-99-Auto-Farm-Trainer-2026-Ultimate — Ultimate edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatic",
+          "url": "https://github.com/NagaaSaketh/Pet-Simulator-99-Auto-Farm-Trainer-2026-Ultimate",
+          "source": "github"
+        },
+        {
+          "title": "MuhammadHanzalaIqbal/Pet-Simulator-99-Auto-Farm-Trainer-2026-Turbo — Turbo edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automa",
+          "url": "https://github.com/MuhammadHanzalaIqbal/Pet-Simulator-99-Auto-Farm-Trainer-2026-Turbo",
+          "source": "github"
+        },
+        {
+          "title": "mofouly/Pet-Simulator-99-Auto-Farm-Trainer-2026-Giga — Giga edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatically. Fully ",
+          "url": "https://github.com/mofouly/Pet-Simulator-99-Auto-Farm-Trainer-2026-Giga",
+          "source": "github"
+        }
+      ],
+      "id": "a1e0fc4f703b",
+      "slug": "eggs-complete"
+    },
+    {
+      "keyword": "complete backrooms",
+      "count": 21,
+      "score": 146.27046476721893,
+      "proper": false,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "perglervitek/Pet-Simulator-99-Auto-Farm-Trainer-2026-Premium — Premium edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatica",
+          "url": "https://github.com/perglervitek/Pet-Simulator-99-Auto-Farm-Trainer-2026-Premium",
+          "source": "github"
+        },
+        {
+          "title": "dimasarestuprasmanto/Pet-Simulator-99-Auto-Farm-Trainer-2026-Tera — Tera edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automati",
+          "url": "https://github.com/dimasarestuprasmanto/Pet-Simulator-99-Auto-Farm-Trainer-2026-Tera",
+          "source": "github"
+        },
+        {
+          "title": "NagaaSaketh/Pet-Simulator-99-Auto-Farm-Trainer-2026-Ultimate — Ultimate edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatic",
+          "url": "https://github.com/NagaaSaketh/Pet-Simulator-99-Auto-Farm-Trainer-2026-Ultimate",
+          "source": "github"
+        },
+        {
+          "title": "MuhammadHanzalaIqbal/Pet-Simulator-99-Auto-Farm-Trainer-2026-Turbo — Turbo edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automa",
+          "url": "https://github.com/MuhammadHanzalaIqbal/Pet-Simulator-99-Auto-Farm-Trainer-2026-Turbo",
+          "source": "github"
+        },
+        {
+          "title": "mofouly/Pet-Simulator-99-Auto-Farm-Trainer-2026-Giga — Giga edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatically. Fully ",
+          "url": "https://github.com/mofouly/Pet-Simulator-99-Auto-Farm-Trainer-2026-Giga",
+          "source": "github"
+        }
+      ],
+      "id": "1c20f71174cc",
+      "slug": "complete-backrooms"
+    },
+    {
+      "keyword": "league tasks",
+      "count": 21,
+      "score": 146.27046476721893,
+      "proper": false,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "perglervitek/Pet-Simulator-99-Auto-Farm-Trainer-2026-Premium — Premium edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatica",
+          "url": "https://github.com/perglervitek/Pet-Simulator-99-Auto-Farm-Trainer-2026-Premium",
+          "source": "github"
+        },
+        {
+          "title": "dimasarestuprasmanto/Pet-Simulator-99-Auto-Farm-Trainer-2026-Tera — Tera edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automati",
+          "url": "https://github.com/dimasarestuprasmanto/Pet-Simulator-99-Auto-Farm-Trainer-2026-Tera",
+          "source": "github"
+        },
+        {
+          "title": "NagaaSaketh/Pet-Simulator-99-Auto-Farm-Trainer-2026-Ultimate — Ultimate edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatic",
+          "url": "https://github.com/NagaaSaketh/Pet-Simulator-99-Auto-Farm-Trainer-2026-Ultimate",
+          "source": "github"
+        },
+        {
+          "title": "MuhammadHanzalaIqbal/Pet-Simulator-99-Auto-Farm-Trainer-2026-Turbo — Turbo edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automa",
+          "url": "https://github.com/MuhammadHanzalaIqbal/Pet-Simulator-99-Auto-Farm-Trainer-2026-Turbo",
+          "source": "github"
+        },
+        {
+          "title": "mofouly/Pet-Simulator-99-Auto-Farm-Trainer-2026-Giga — Giga edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatically. Fully ",
+          "url": "https://github.com/mofouly/Pet-Simulator-99-Auto-Farm-Trainer-2026-Giga",
+          "source": "github"
+        }
+      ],
+      "id": "05c158d4f683",
+      "slug": "league-tasks"
     },
     {
       "keyword": "claude code",
-      "count": 16,
-      "score": 218.73520591557303,
+      "count": 11,
+      "score": 101.08217829654417,
       "proper": true,
       "niches": [
         "ai"
@@ -376,566 +831,104 @@
           "source": "hackernews"
         },
         {
-          "title": "For those of you who don't follow AI and programming, Claude Code came out in May 2025.",
-          "url": "https://mastodon.social/@sjvn/116828624577961731",
-          "source": "mastodon"
-        },
-        {
-          "title": "For those of you who don't follow AI and programming, Claude Code came out in May 2025.",
-          "url": "https://mastodon.social/@sjvn/116828624577961731",
-          "source": "mastodon"
+          "title": "ai-limit-checker 0.1.0",
+          "url": "https://pypi.org/project/ai-limit-checker/0.1.0/",
+          "source": "pypi"
         }
       ],
       "id": "a625159d18da",
       "slug": "claude-code"
-    },
-    {
-      "keyword": "dead daylight",
-      "count": 27,
-      "score": 158.44073965215964,
-      "proper": false,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "AdilMir1433/DBD-AutoGrind-Trainer-2026 — Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected ",
-          "url": "https://github.com/AdilMir1433/DBD-AutoGrind-Trainer-2026",
-          "source": "github"
-        },
-        {
-          "title": "XFaltixX/DBD-AutoGrind-Trainer-2026 — Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected ext",
-          "url": "https://github.com/XFaltixX/DBD-AutoGrind-Trainer-2026",
-          "source": "github"
-        },
-        {
-          "title": "Karan10010/DBD-AutoGrind-Trainer-2026 — Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected e",
-          "url": "https://github.com/Karan10010/DBD-AutoGrind-Trainer-2026",
-          "source": "github"
-        },
-        {
-          "title": "YousefMahdy1/DBD-AutoGrind-Trainer-2026 — Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected",
-          "url": "https://github.com/YousefMahdy1/DBD-AutoGrind-Trainer-2026",
-          "source": "github"
-        },
-        {
-          "title": "khwarij/DBD-AutoGrind-Trainer-2026 — Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected exte",
-          "url": "https://github.com/khwarij/DBD-AutoGrind-Trainer-2026",
-          "source": "github"
-        }
-      ],
-      "id": "d39e47916bab",
-      "slug": "dead-daylight"
-    },
-    {
-      "keyword": "daylight auto-grind",
-      "count": 27,
-      "score": 158.44073965215964,
-      "proper": false,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "AdilMir1433/DBD-AutoGrind-Trainer-2026 — Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected ",
-          "url": "https://github.com/AdilMir1433/DBD-AutoGrind-Trainer-2026",
-          "source": "github"
-        },
-        {
-          "title": "XFaltixX/DBD-AutoGrind-Trainer-2026 — Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected ext",
-          "url": "https://github.com/XFaltixX/DBD-AutoGrind-Trainer-2026",
-          "source": "github"
-        },
-        {
-          "title": "Karan10010/DBD-AutoGrind-Trainer-2026 — Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected e",
-          "url": "https://github.com/Karan10010/DBD-AutoGrind-Trainer-2026",
-          "source": "github"
-        },
-        {
-          "title": "YousefMahdy1/DBD-AutoGrind-Trainer-2026 — Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected",
-          "url": "https://github.com/YousefMahdy1/DBD-AutoGrind-Trainer-2026",
-          "source": "github"
-        },
-        {
-          "title": "khwarij/DBD-AutoGrind-Trainer-2026 — Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected exte",
-          "url": "https://github.com/khwarij/DBD-AutoGrind-Trainer-2026",
-          "source": "github"
-        }
-      ],
-      "id": "e1127639981d",
-      "slug": "daylight-auto-grind"
-    },
-    {
-      "keyword": "auto-grind trainer",
-      "count": 27,
-      "score": 158.44073965215964,
-      "proper": false,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "AdilMir1433/DBD-AutoGrind-Trainer-2026 — Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected ",
-          "url": "https://github.com/AdilMir1433/DBD-AutoGrind-Trainer-2026",
-          "source": "github"
-        },
-        {
-          "title": "XFaltixX/DBD-AutoGrind-Trainer-2026 — Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected ext",
-          "url": "https://github.com/XFaltixX/DBD-AutoGrind-Trainer-2026",
-          "source": "github"
-        },
-        {
-          "title": "Karan10010/DBD-AutoGrind-Trainer-2026 — Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected e",
-          "url": "https://github.com/Karan10010/DBD-AutoGrind-Trainer-2026",
-          "source": "github"
-        },
-        {
-          "title": "YousefMahdy1/DBD-AutoGrind-Trainer-2026 — Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected",
-          "url": "https://github.com/YousefMahdy1/DBD-AutoGrind-Trainer-2026",
-          "source": "github"
-        },
-        {
-          "title": "khwarij/DBD-AutoGrind-Trainer-2026 — Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected exte",
-          "url": "https://github.com/khwarij/DBD-AutoGrind-Trainer-2026",
-          "source": "github"
-        }
-      ],
-      "id": "c3ab393dcd3e",
-      "slug": "auto-grind-trainer"
-    },
-    {
-      "keyword": "bloodpoint bot",
-      "count": 27,
-      "score": 158.44073965215964,
-      "proper": false,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "AdilMir1433/DBD-AutoGrind-Trainer-2026 — Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected ",
-          "url": "https://github.com/AdilMir1433/DBD-AutoGrind-Trainer-2026",
-          "source": "github"
-        },
-        {
-          "title": "XFaltixX/DBD-AutoGrind-Trainer-2026 — Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected ext",
-          "url": "https://github.com/XFaltixX/DBD-AutoGrind-Trainer-2026",
-          "source": "github"
-        },
-        {
-          "title": "Karan10010/DBD-AutoGrind-Trainer-2026 — Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected e",
-          "url": "https://github.com/Karan10010/DBD-AutoGrind-Trainer-2026",
-          "source": "github"
-        },
-        {
-          "title": "YousefMahdy1/DBD-AutoGrind-Trainer-2026 — Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected",
-          "url": "https://github.com/YousefMahdy1/DBD-AutoGrind-Trainer-2026",
-          "source": "github"
-        },
-        {
-          "title": "khwarij/DBD-AutoGrind-Trainer-2026 — Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected exte",
-          "url": "https://github.com/khwarij/DBD-AutoGrind-Trainer-2026",
-          "source": "github"
-        }
-      ],
-      "id": "5da21e401fa6",
-      "slug": "bloodpoint-bot"
-    },
-    {
-      "keyword": "bot esp",
-      "count": 27,
-      "score": 158.44073965215964,
-      "proper": false,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "AdilMir1433/DBD-AutoGrind-Trainer-2026 — Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected ",
-          "url": "https://github.com/AdilMir1433/DBD-AutoGrind-Trainer-2026",
-          "source": "github"
-        },
-        {
-          "title": "XFaltixX/DBD-AutoGrind-Trainer-2026 — Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected ext",
-          "url": "https://github.com/XFaltixX/DBD-AutoGrind-Trainer-2026",
-          "source": "github"
-        },
-        {
-          "title": "Karan10010/DBD-AutoGrind-Trainer-2026 — Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected e",
-          "url": "https://github.com/Karan10010/DBD-AutoGrind-Trainer-2026",
-          "source": "github"
-        },
-        {
-          "title": "YousefMahdy1/DBD-AutoGrind-Trainer-2026 — Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected",
-          "url": "https://github.com/YousefMahdy1/DBD-AutoGrind-Trainer-2026",
-          "source": "github"
-        },
-        {
-          "title": "khwarij/DBD-AutoGrind-Trainer-2026 — Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected exte",
-          "url": "https://github.com/khwarij/DBD-AutoGrind-Trainer-2026",
-          "source": "github"
-        }
-      ],
-      "id": "e3b45e871210",
-      "slug": "bot-esp"
-    },
-    {
-      "keyword": "esp wallhack",
-      "count": 27,
-      "score": 158.44073965215964,
-      "proper": false,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "AdilMir1433/DBD-AutoGrind-Trainer-2026 — Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected ",
-          "url": "https://github.com/AdilMir1433/DBD-AutoGrind-Trainer-2026",
-          "source": "github"
-        },
-        {
-          "title": "XFaltixX/DBD-AutoGrind-Trainer-2026 — Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected ext",
-          "url": "https://github.com/XFaltixX/DBD-AutoGrind-Trainer-2026",
-          "source": "github"
-        },
-        {
-          "title": "Karan10010/DBD-AutoGrind-Trainer-2026 — Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected e",
-          "url": "https://github.com/Karan10010/DBD-AutoGrind-Trainer-2026",
-          "source": "github"
-        },
-        {
-          "title": "YousefMahdy1/DBD-AutoGrind-Trainer-2026 — Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected",
-          "url": "https://github.com/YousefMahdy1/DBD-AutoGrind-Trainer-2026",
-          "source": "github"
-        },
-        {
-          "title": "khwarij/DBD-AutoGrind-Trainer-2026 — Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected exte",
-          "url": "https://github.com/khwarij/DBD-AutoGrind-Trainer-2026",
-          "source": "github"
-        }
-      ],
-      "id": "d23529b23ebe",
-      "slug": "esp-wallhack"
-    },
-    {
-      "keyword": "wallhack aimbot",
-      "count": 27,
-      "score": 158.44073965215964,
-      "proper": false,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "AdilMir1433/DBD-AutoGrind-Trainer-2026 — Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected ",
-          "url": "https://github.com/AdilMir1433/DBD-AutoGrind-Trainer-2026",
-          "source": "github"
-        },
-        {
-          "title": "XFaltixX/DBD-AutoGrind-Trainer-2026 — Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected ext",
-          "url": "https://github.com/XFaltixX/DBD-AutoGrind-Trainer-2026",
-          "source": "github"
-        },
-        {
-          "title": "Karan10010/DBD-AutoGrind-Trainer-2026 — Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected e",
-          "url": "https://github.com/Karan10010/DBD-AutoGrind-Trainer-2026",
-          "source": "github"
-        },
-        {
-          "title": "YousefMahdy1/DBD-AutoGrind-Trainer-2026 — Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected",
-          "url": "https://github.com/YousefMahdy1/DBD-AutoGrind-Trainer-2026",
-          "source": "github"
-        },
-        {
-          "title": "khwarij/DBD-AutoGrind-Trainer-2026 — Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected exte",
-          "url": "https://github.com/khwarij/DBD-AutoGrind-Trainer-2026",
-          "source": "github"
-        }
-      ],
-      "id": "17e81ceabae6",
-      "slug": "wallhack-aimbot"
-    },
-    {
-      "keyword": "aimbot full",
-      "count": 27,
-      "score": 158.44073965215964,
-      "proper": false,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "AdilMir1433/DBD-AutoGrind-Trainer-2026 — Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected ",
-          "url": "https://github.com/AdilMir1433/DBD-AutoGrind-Trainer-2026",
-          "source": "github"
-        },
-        {
-          "title": "XFaltixX/DBD-AutoGrind-Trainer-2026 — Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected ext",
-          "url": "https://github.com/XFaltixX/DBD-AutoGrind-Trainer-2026",
-          "source": "github"
-        },
-        {
-          "title": "Karan10010/DBD-AutoGrind-Trainer-2026 — Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected e",
-          "url": "https://github.com/Karan10010/DBD-AutoGrind-Trainer-2026",
-          "source": "github"
-        },
-        {
-          "title": "YousefMahdy1/DBD-AutoGrind-Trainer-2026 — Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected",
-          "url": "https://github.com/YousefMahdy1/DBD-AutoGrind-Trainer-2026",
-          "source": "github"
-        },
-        {
-          "title": "khwarij/DBD-AutoGrind-Trainer-2026 — Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected exte",
-          "url": "https://github.com/khwarij/DBD-AutoGrind-Trainer-2026",
-          "source": "github"
-        }
-      ],
-      "id": "0e86fa80f47d",
-      "slug": "aimbot-full"
-    },
-    {
-      "keyword": "full perk",
-      "count": 27,
-      "score": 158.44073965215964,
-      "proper": false,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "AdilMir1433/DBD-AutoGrind-Trainer-2026 — Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected ",
-          "url": "https://github.com/AdilMir1433/DBD-AutoGrind-Trainer-2026",
-          "source": "github"
-        },
-        {
-          "title": "XFaltixX/DBD-AutoGrind-Trainer-2026 — Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected ext",
-          "url": "https://github.com/XFaltixX/DBD-AutoGrind-Trainer-2026",
-          "source": "github"
-        },
-        {
-          "title": "Karan10010/DBD-AutoGrind-Trainer-2026 — Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected e",
-          "url": "https://github.com/Karan10010/DBD-AutoGrind-Trainer-2026",
-          "source": "github"
-        },
-        {
-          "title": "YousefMahdy1/DBD-AutoGrind-Trainer-2026 — Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected",
-          "url": "https://github.com/YousefMahdy1/DBD-AutoGrind-Trainer-2026",
-          "source": "github"
-        },
-        {
-          "title": "khwarij/DBD-AutoGrind-Trainer-2026 — Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected exte",
-          "url": "https://github.com/khwarij/DBD-AutoGrind-Trainer-2026",
-          "source": "github"
-        }
-      ],
-      "id": "051be844aaa2",
-      "slug": "full-perk"
-    },
-    {
-      "keyword": "perk skin",
-      "count": 27,
-      "score": 158.44073965215964,
-      "proper": false,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "AdilMir1433/DBD-AutoGrind-Trainer-2026 — Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected ",
-          "url": "https://github.com/AdilMir1433/DBD-AutoGrind-Trainer-2026",
-          "source": "github"
-        },
-        {
-          "title": "XFaltixX/DBD-AutoGrind-Trainer-2026 — Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected ext",
-          "url": "https://github.com/XFaltixX/DBD-AutoGrind-Trainer-2026",
-          "source": "github"
-        },
-        {
-          "title": "Karan10010/DBD-AutoGrind-Trainer-2026 — Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected e",
-          "url": "https://github.com/Karan10010/DBD-AutoGrind-Trainer-2026",
-          "source": "github"
-        },
-        {
-          "title": "YousefMahdy1/DBD-AutoGrind-Trainer-2026 — Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected",
-          "url": "https://github.com/YousefMahdy1/DBD-AutoGrind-Trainer-2026",
-          "source": "github"
-        },
-        {
-          "title": "khwarij/DBD-AutoGrind-Trainer-2026 — Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected exte",
-          "url": "https://github.com/khwarij/DBD-AutoGrind-Trainer-2026",
-          "source": "github"
-        }
-      ],
-      "id": "b3b9571d8696",
-      "slug": "perk-skin"
-    },
-    {
-      "keyword": "skin unlocker",
-      "count": 27,
-      "score": 158.44073965215964,
-      "proper": false,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "AdilMir1433/DBD-AutoGrind-Trainer-2026 — Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected ",
-          "url": "https://github.com/AdilMir1433/DBD-AutoGrind-Trainer-2026",
-          "source": "github"
-        },
-        {
-          "title": "XFaltixX/DBD-AutoGrind-Trainer-2026 — Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected ext",
-          "url": "https://github.com/XFaltixX/DBD-AutoGrind-Trainer-2026",
-          "source": "github"
-        },
-        {
-          "title": "Karan10010/DBD-AutoGrind-Trainer-2026 — Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected e",
-          "url": "https://github.com/Karan10010/DBD-AutoGrind-Trainer-2026",
-          "source": "github"
-        },
-        {
-          "title": "YousefMahdy1/DBD-AutoGrind-Trainer-2026 — Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected",
-          "url": "https://github.com/YousefMahdy1/DBD-AutoGrind-Trainer-2026",
-          "source": "github"
-        },
-        {
-          "title": "khwarij/DBD-AutoGrind-Trainer-2026 — Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected exte",
-          "url": "https://github.com/khwarij/DBD-AutoGrind-Trainer-2026",
-          "source": "github"
-        }
-      ],
-      "id": "e0125be5c3f5",
-      "slug": "skin-unlocker"
-    },
-    {
-      "keyword": "unlocker dominate",
-      "count": 27,
-      "score": 158.44073965215964,
-      "proper": false,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "AdilMir1433/DBD-AutoGrind-Trainer-2026 — Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected ",
-          "url": "https://github.com/AdilMir1433/DBD-AutoGrind-Trainer-2026",
-          "source": "github"
-        },
-        {
-          "title": "XFaltixX/DBD-AutoGrind-Trainer-2026 — Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected ext",
-          "url": "https://github.com/XFaltixX/DBD-AutoGrind-Trainer-2026",
-          "source": "github"
-        },
-        {
-          "title": "Karan10010/DBD-AutoGrind-Trainer-2026 — Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected e",
-          "url": "https://github.com/Karan10010/DBD-AutoGrind-Trainer-2026",
-          "source": "github"
-        },
-        {
-          "title": "YousefMahdy1/DBD-AutoGrind-Trainer-2026 — Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected",
-          "url": "https://github.com/YousefMahdy1/DBD-AutoGrind-Trainer-2026",
-          "source": "github"
-        },
-        {
-          "title": "khwarij/DBD-AutoGrind-Trainer-2026 — Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected exte",
-          "url": "https://github.com/khwarij/DBD-AutoGrind-Trainer-2026",
-          "source": "github"
-        }
-      ],
-      "id": "df38a03ae519",
-      "slug": "unlocker-dominate"
     }
   ],
   "opportunities": [
     {
-      "keyword": "ultimate dead",
-      "count": 72,
-      "score": 633.7629586086384,
+      "keyword": "pet simulator",
+      "count": 104,
+      "score": 1044.5687602053904,
       "proper": true,
       "niches": [
         "ai"
       ],
       "examples": [
         {
-          "title": "AdilMir1433/DBD-AutoGrind-Trainer-2026 — Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected ",
-          "url": "https://github.com/AdilMir1433/DBD-AutoGrind-Trainer-2026",
+          "title": "perglervitek/Pet-Simulator-99-Auto-Farm-Trainer-2026-Premium — Premium edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatica",
+          "url": "https://github.com/perglervitek/Pet-Simulator-99-Auto-Farm-Trainer-2026-Premium",
           "source": "github"
         },
         {
-          "title": "AdilMir1433/DBD-AutoGrind-Trainer-2026 — Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected ",
-          "url": "https://github.com/AdilMir1433/DBD-AutoGrind-Trainer-2026",
+          "title": "perglervitek/Pet-Simulator-99-Auto-Farm-Trainer-2026-Premium — Premium edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatica",
+          "url": "https://github.com/perglervitek/Pet-Simulator-99-Auto-Farm-Trainer-2026-Premium",
           "source": "github"
         },
         {
-          "title": "XFaltixX/DBD-AutoGrind-Trainer-2026 — Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected ext",
-          "url": "https://github.com/XFaltixX/DBD-AutoGrind-Trainer-2026",
+          "title": "dimasarestuprasmanto/Pet-Simulator-99-Auto-Farm-Trainer-2026-Tera — Tera edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automati",
+          "url": "https://github.com/dimasarestuprasmanto/Pet-Simulator-99-Auto-Farm-Trainer-2026-Tera",
           "source": "github"
         },
         {
-          "title": "XFaltixX/DBD-AutoGrind-Trainer-2026 — Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected ext",
-          "url": "https://github.com/XFaltixX/DBD-AutoGrind-Trainer-2026",
+          "title": "dimasarestuprasmanto/Pet-Simulator-99-Auto-Farm-Trainer-2026-Tera — Tera edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automati",
+          "url": "https://github.com/dimasarestuprasmanto/Pet-Simulator-99-Auto-Farm-Trainer-2026-Tera",
           "source": "github"
         },
         {
-          "title": "Karan10010/DBD-AutoGrind-Trainer-2026 — Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected e",
-          "url": "https://github.com/Karan10010/DBD-AutoGrind-Trainer-2026",
+          "title": "NagaaSaketh/Pet-Simulator-99-Auto-Farm-Trainer-2026-Ultimate — Ultimate edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatic",
+          "url": "https://github.com/NagaaSaketh/Pet-Simulator-99-Auto-Farm-Trainer-2026-Ultimate",
           "source": "github"
         }
       ],
-      "id": "d6effcb40be2",
-      "slug": "ultimate-dead",
+      "id": "186b6e77a1b0",
+      "slug": "pet-simulator",
       "opportunity": {
         "type": "niche-content",
         "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
       }
     },
     {
-      "keyword": "passive income",
-      "count": 55,
-      "score": 316.0459629143695,
+      "keyword": "backrooms league",
+      "count": 80,
+      "score": 798.9650768459594,
       "proper": true,
       "niches": [
-        "finance",
         "ai"
       ],
       "examples": [
         {
-          "title": "The New Ideal Job: Passive Income",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5yREQycU1iTVZUT2RsZDZuNWJVRGRGUE4zZXFVSHlJcHFIdnhadzFQTEVPbDcxbXdlQXJDTm0xbGxQeDY4U2ZOQ3Z1eDZsRzctVl80bmlodDdpUHVYSzdXNU1WTjBybTZZUTZaVzhKN0FWdDEwZ3ByaUU3LXJXZw?oc=5",
-          "source": "gnews"
+          "title": "perglervitek/Pet-Simulator-99-Auto-Farm-Trainer-2026-Premium — Premium edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatica",
+          "url": "https://github.com/perglervitek/Pet-Simulator-99-Auto-Farm-Trainer-2026-Premium",
+          "source": "github"
         },
         {
-          "title": "The New Ideal Job: Passive Income",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5yREQycU1iTVZUT2RsZDZuNWJVRGRGUE4zZXFVSHlJcHFIdnhadzFQTEVPbDcxbXdlQXJDTm0xbGxQeDY4U2ZOQ3Z1eDZsRzctVl80bmlodDdpUHVYSzdXNU1WTjBybTZZUTZaVzhKN0FWdDEwZ3ByaUU3LXJXZw?oc=5",
-          "source": "gnews"
+          "title": "perglervitek/Pet-Simulator-99-Auto-Farm-Trainer-2026-Premium — Premium edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatica",
+          "url": "https://github.com/perglervitek/Pet-Simulator-99-Auto-Farm-Trainer-2026-Premium",
+          "source": "github"
         },
         {
-          "title": "The New Ideal Job: Passive Income",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5yREQycU1iTVZUT2RsZDZuNWJVRGRGUE4zZXFVSHlJcHFIdnhadzFQTEVPbDcxbXdlQXJDTm0xbGxQeDY4U2ZOQ3Z1eDZsRzctVl80bmlodDdpUHVYSzdXNU1WTjBybTZZUTZaVzhKN0FWdDEwZ3ByaUU3LXJXZw?oc=5",
-          "source": "gnews"
+          "title": "dimasarestuprasmanto/Pet-Simulator-99-Auto-Farm-Trainer-2026-Tera — Tera edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automati",
+          "url": "https://github.com/dimasarestuprasmanto/Pet-Simulator-99-Auto-Farm-Trainer-2026-Tera",
+          "source": "github"
         },
         {
-          "title": "3 Dividend Stocks Yielding Over 8.5% to Buy With $1,000 Right Now -- and Hold for a Lifetime of Passive Income",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNeUdNRWR0bDEwUnF5UUZhcTJEem14NmhrNmsyQ2lpaGI5aGlQSnpCVFpUVUJhTXFVdzJOa1A3eTFrOUt1Y3B5WDh1bnNlRmJSakxhT2ZZZy01SkN4eXR5eDlPTVUwUkQ3cTdVcTNNLWZIeExXbzNHbVlBaVZLNFE0X2Z1RUVadllwc3NTSE1HeHhKOV9UOEtpODh3M0s?oc=5",
-          "source": "gnews"
+          "title": "dimasarestuprasmanto/Pet-Simulator-99-Auto-Farm-Trainer-2026-Tera — Tera edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automati",
+          "url": "https://github.com/dimasarestuprasmanto/Pet-Simulator-99-Auto-Farm-Trainer-2026-Tera",
+          "source": "github"
         },
         {
-          "title": "3 Dividend Stocks Yielding Over 8.5% to Buy With $1,000 Right Now -- and Hold for a Lifetime of Passive Income",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNeUdNRWR0bDEwUnF5UUZhcTJEem14NmhrNmsyQ2lpaGI5aGlQSnpCVFpUVUJhTXFVdzJOa1A3eTFrOUt1Y3B5WDh1bnNlRmJSakxhT2ZZZy01SkN4eXR5eDlPTVUwUkQ3cTdVcTNNLWZIeExXbzNHbVlBaVZLNFE0X2Z1RUVadllwc3NTSE1HeHhKOV9UOEtpODh3M0s?oc=5",
-          "source": "gnews"
+          "title": "NagaaSaketh/Pet-Simulator-99-Auto-Farm-Trainer-2026-Ultimate — Ultimate edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatic",
+          "url": "https://github.com/NagaaSaketh/Pet-Simulator-99-Auto-Farm-Trainer-2026-Ultimate",
+          "source": "github"
         }
       ],
-      "id": "cf2dbbbf8c8c",
-      "slug": "passive-income",
+      "id": "64c6fc601676",
+      "slug": "backrooms-league",
       "opportunity": {
         "type": "niche-content",
-        "recommended": "Publish niche guide for \"finance\"; bundle into digital product later."
+        "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
       }
     },
     {
-      "keyword": "claude code",
-      "count": 16,
-      "score": 218.73520591557303,
+      "keyword": "claude",
+      "count": 25,
+      "score": 168.21611784588993,
       "proper": true,
       "niches": [
         "ai"
@@ -947,236 +940,241 @@
           "source": "hackernews"
         },
         {
-          "title": "I used Claude Code to get a second opinion on my MRI",
-          "url": "https://antoine.fi/mri-analysis-using-claude-code-opus",
+          "title": "GLM 5.2 beats Claude in our benchmarks",
+          "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
           "source": "hackernews"
         },
         {
-          "title": "For those of you who don't follow AI and programming, Claude Code came out in May 2025.",
-          "url": "https://mastodon.social/@sjvn/116828624577961731",
-          "source": "mastodon"
+          "title": "GLM 5.2 beats Claude in our benchmarks",
+          "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
+          "source": "hackernews"
         },
         {
-          "title": "For those of you who don't follow AI and programming, Claude Code came out in May 2025.",
-          "url": "https://mastodon.social/@sjvn/116828624577961731",
-          "source": "mastodon"
+          "title": "Karpathy CLAUDE.md Grows to Ten Rules: New Self-Check Protocol for AI Coding Loops",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMm5kN3pKVUNrRTRLS3UwRm03S19rY2VFNlhMS1BEcUJRWGhqa0laNmdsZllFeU84ZjQ2c2Uxci0yWUVteGlHUlR0dGVKOGdXZ0w4eWhSYWdDdWpNZXIyb0xQc3dRV2pySVhHcVZvb0VCZUdUVXl0dGdmVnNyX01tbFFqYmJKbEo5NlYzemc1WUlVV0Z3UUVFUUVPakhLUzltbUh5RGVxTzExWTJUWm5pTFRfc2hVMmpZZUZILTBIeGx4RnBMZlc4?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Karpathy CLAUDE.md Grows to Ten Rules: New Self-Check Protocol for AI Coding Loops",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMm5kN3pKVUNrRTRLS3UwRm03S19rY2VFNlhMS1BEcUJRWGhqa0laNmdsZllFeU84ZjQ2c2Uxci0yWUVteGlHUlR0dGVKOGdXZ0w4eWhSYWdDdWpNZXIyb0xQc3dRV2pySVhHcVZvb0VCZUdUVXl0dGdmVnNyX01tbFFqYmJKbEo5NlYzemc1WUlVV0Z3UUVFUUVPakhLUzltbUh5RGVxTzExWTJUWm5pTFRfc2hVMmpZZUZILTBIeGx4RnBMZlc4?oc=5",
+          "source": "gnews"
         }
       ],
-      "id": "a625159d18da",
-      "slug": "claude-code",
+      "id": "c857d09db23e",
+      "slug": "claude",
       "opportunity": {
         "type": "tooling",
         "recommended": "Build / list AI tools; monetize via affiliate links + lead magnet."
       }
     },
     {
-      "keyword": "dead daylight",
-      "count": 27,
-      "score": 158.44073965215964,
+      "keyword": "edition advanced",
+      "count": 21,
+      "score": 146.27046476721893,
       "proper": false,
       "niches": [
         "ai"
       ],
       "examples": [
         {
-          "title": "AdilMir1433/DBD-AutoGrind-Trainer-2026 — Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected ",
-          "url": "https://github.com/AdilMir1433/DBD-AutoGrind-Trainer-2026",
+          "title": "perglervitek/Pet-Simulator-99-Auto-Farm-Trainer-2026-Premium — Premium edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatica",
+          "url": "https://github.com/perglervitek/Pet-Simulator-99-Auto-Farm-Trainer-2026-Premium",
           "source": "github"
         },
         {
-          "title": "XFaltixX/DBD-AutoGrind-Trainer-2026 — Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected ext",
-          "url": "https://github.com/XFaltixX/DBD-AutoGrind-Trainer-2026",
+          "title": "dimasarestuprasmanto/Pet-Simulator-99-Auto-Farm-Trainer-2026-Tera — Tera edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automati",
+          "url": "https://github.com/dimasarestuprasmanto/Pet-Simulator-99-Auto-Farm-Trainer-2026-Tera",
           "source": "github"
         },
         {
-          "title": "Karan10010/DBD-AutoGrind-Trainer-2026 — Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected e",
-          "url": "https://github.com/Karan10010/DBD-AutoGrind-Trainer-2026",
+          "title": "NagaaSaketh/Pet-Simulator-99-Auto-Farm-Trainer-2026-Ultimate — Ultimate edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatic",
+          "url": "https://github.com/NagaaSaketh/Pet-Simulator-99-Auto-Farm-Trainer-2026-Ultimate",
           "source": "github"
         },
         {
-          "title": "YousefMahdy1/DBD-AutoGrind-Trainer-2026 — Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected",
-          "url": "https://github.com/YousefMahdy1/DBD-AutoGrind-Trainer-2026",
+          "title": "MuhammadHanzalaIqbal/Pet-Simulator-99-Auto-Farm-Trainer-2026-Turbo — Turbo edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automa",
+          "url": "https://github.com/MuhammadHanzalaIqbal/Pet-Simulator-99-Auto-Farm-Trainer-2026-Turbo",
           "source": "github"
         },
         {
-          "title": "khwarij/DBD-AutoGrind-Trainer-2026 — Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected exte",
-          "url": "https://github.com/khwarij/DBD-AutoGrind-Trainer-2026",
+          "title": "mofouly/Pet-Simulator-99-Auto-Farm-Trainer-2026-Giga — Giga edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatically. Fully ",
+          "url": "https://github.com/mofouly/Pet-Simulator-99-Auto-Farm-Trainer-2026-Giga",
           "source": "github"
         }
       ],
-      "id": "d39e47916bab",
-      "slug": "dead-daylight",
+      "id": "4d79192c45fc",
+      "slug": "edition-advanced",
       "opportunity": {
         "type": "niche-content",
         "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
       }
     },
     {
-      "keyword": "daylight auto-grind",
-      "count": 27,
-      "score": 158.44073965215964,
+      "keyword": "advanced pet",
+      "count": 21,
+      "score": 146.27046476721893,
       "proper": false,
       "niches": [
         "ai"
       ],
       "examples": [
         {
-          "title": "AdilMir1433/DBD-AutoGrind-Trainer-2026 — Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected ",
-          "url": "https://github.com/AdilMir1433/DBD-AutoGrind-Trainer-2026",
+          "title": "perglervitek/Pet-Simulator-99-Auto-Farm-Trainer-2026-Premium — Premium edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatica",
+          "url": "https://github.com/perglervitek/Pet-Simulator-99-Auto-Farm-Trainer-2026-Premium",
           "source": "github"
         },
         {
-          "title": "XFaltixX/DBD-AutoGrind-Trainer-2026 — Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected ext",
-          "url": "https://github.com/XFaltixX/DBD-AutoGrind-Trainer-2026",
+          "title": "dimasarestuprasmanto/Pet-Simulator-99-Auto-Farm-Trainer-2026-Tera — Tera edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automati",
+          "url": "https://github.com/dimasarestuprasmanto/Pet-Simulator-99-Auto-Farm-Trainer-2026-Tera",
           "source": "github"
         },
         {
-          "title": "Karan10010/DBD-AutoGrind-Trainer-2026 — Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected e",
-          "url": "https://github.com/Karan10010/DBD-AutoGrind-Trainer-2026",
+          "title": "NagaaSaketh/Pet-Simulator-99-Auto-Farm-Trainer-2026-Ultimate — Ultimate edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatic",
+          "url": "https://github.com/NagaaSaketh/Pet-Simulator-99-Auto-Farm-Trainer-2026-Ultimate",
           "source": "github"
         },
         {
-          "title": "YousefMahdy1/DBD-AutoGrind-Trainer-2026 — Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected",
-          "url": "https://github.com/YousefMahdy1/DBD-AutoGrind-Trainer-2026",
+          "title": "MuhammadHanzalaIqbal/Pet-Simulator-99-Auto-Farm-Trainer-2026-Turbo — Turbo edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automa",
+          "url": "https://github.com/MuhammadHanzalaIqbal/Pet-Simulator-99-Auto-Farm-Trainer-2026-Turbo",
           "source": "github"
         },
         {
-          "title": "khwarij/DBD-AutoGrind-Trainer-2026 — Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected exte",
-          "url": "https://github.com/khwarij/DBD-AutoGrind-Trainer-2026",
+          "title": "mofouly/Pet-Simulator-99-Auto-Farm-Trainer-2026-Giga — Giga edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatically. Fully ",
+          "url": "https://github.com/mofouly/Pet-Simulator-99-Auto-Farm-Trainer-2026-Giga",
           "source": "github"
         }
       ],
-      "id": "e1127639981d",
-      "slug": "daylight-auto-grind",
+      "id": "9a7823ddb1d5",
+      "slug": "advanced-pet",
       "opportunity": {
         "type": "niche-content",
         "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
       }
     },
     {
-      "keyword": "auto-grind trainer",
-      "count": 27,
-      "score": 158.44073965215964,
+      "keyword": "simulator automation",
+      "count": 21,
+      "score": 146.27046476721893,
       "proper": false,
       "niches": [
         "ai"
       ],
       "examples": [
         {
-          "title": "AdilMir1433/DBD-AutoGrind-Trainer-2026 — Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected ",
-          "url": "https://github.com/AdilMir1433/DBD-AutoGrind-Trainer-2026",
+          "title": "perglervitek/Pet-Simulator-99-Auto-Farm-Trainer-2026-Premium — Premium edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatica",
+          "url": "https://github.com/perglervitek/Pet-Simulator-99-Auto-Farm-Trainer-2026-Premium",
           "source": "github"
         },
         {
-          "title": "XFaltixX/DBD-AutoGrind-Trainer-2026 — Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected ext",
-          "url": "https://github.com/XFaltixX/DBD-AutoGrind-Trainer-2026",
+          "title": "dimasarestuprasmanto/Pet-Simulator-99-Auto-Farm-Trainer-2026-Tera — Tera edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automati",
+          "url": "https://github.com/dimasarestuprasmanto/Pet-Simulator-99-Auto-Farm-Trainer-2026-Tera",
           "source": "github"
         },
         {
-          "title": "Karan10010/DBD-AutoGrind-Trainer-2026 — Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected e",
-          "url": "https://github.com/Karan10010/DBD-AutoGrind-Trainer-2026",
+          "title": "NagaaSaketh/Pet-Simulator-99-Auto-Farm-Trainer-2026-Ultimate — Ultimate edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatic",
+          "url": "https://github.com/NagaaSaketh/Pet-Simulator-99-Auto-Farm-Trainer-2026-Ultimate",
           "source": "github"
         },
         {
-          "title": "YousefMahdy1/DBD-AutoGrind-Trainer-2026 — Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected",
-          "url": "https://github.com/YousefMahdy1/DBD-AutoGrind-Trainer-2026",
+          "title": "MuhammadHanzalaIqbal/Pet-Simulator-99-Auto-Farm-Trainer-2026-Turbo — Turbo edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automa",
+          "url": "https://github.com/MuhammadHanzalaIqbal/Pet-Simulator-99-Auto-Farm-Trainer-2026-Turbo",
           "source": "github"
         },
         {
-          "title": "khwarij/DBD-AutoGrind-Trainer-2026 — Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected exte",
-          "url": "https://github.com/khwarij/DBD-AutoGrind-Trainer-2026",
+          "title": "mofouly/Pet-Simulator-99-Auto-Farm-Trainer-2026-Giga — Giga edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatically. Fully ",
+          "url": "https://github.com/mofouly/Pet-Simulator-99-Auto-Farm-Trainer-2026-Giga",
           "source": "github"
         }
       ],
-      "id": "c3ab393dcd3e",
-      "slug": "auto-grind-trainer",
-      "opportunity": {
-        "type": "tooling",
-        "recommended": "Build / list AI tools; monetize via affiliate links + lead magnet."
-      }
-    },
-    {
-      "keyword": "bloodpoint bot",
-      "count": 27,
-      "score": 158.44073965215964,
-      "proper": false,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "AdilMir1433/DBD-AutoGrind-Trainer-2026 — Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected ",
-          "url": "https://github.com/AdilMir1433/DBD-AutoGrind-Trainer-2026",
-          "source": "github"
-        },
-        {
-          "title": "XFaltixX/DBD-AutoGrind-Trainer-2026 — Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected ext",
-          "url": "https://github.com/XFaltixX/DBD-AutoGrind-Trainer-2026",
-          "source": "github"
-        },
-        {
-          "title": "Karan10010/DBD-AutoGrind-Trainer-2026 — Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected e",
-          "url": "https://github.com/Karan10010/DBD-AutoGrind-Trainer-2026",
-          "source": "github"
-        },
-        {
-          "title": "YousefMahdy1/DBD-AutoGrind-Trainer-2026 — Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected",
-          "url": "https://github.com/YousefMahdy1/DBD-AutoGrind-Trainer-2026",
-          "source": "github"
-        },
-        {
-          "title": "khwarij/DBD-AutoGrind-Trainer-2026 — Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected exte",
-          "url": "https://github.com/khwarij/DBD-AutoGrind-Trainer-2026",
-          "source": "github"
-        }
-      ],
-      "id": "5da21e401fa6",
-      "slug": "bloodpoint-bot",
+      "id": "5d2e66b731b8",
+      "slug": "simulator-automation",
       "opportunity": {
         "type": "niche-content",
         "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
       }
     },
     {
-      "keyword": "bot esp",
-      "count": 27,
-      "score": 158.44073965215964,
+      "keyword": "automation tool",
+      "count": 21,
+      "score": 146.27046476721893,
       "proper": false,
       "niches": [
         "ai"
       ],
       "examples": [
         {
-          "title": "AdilMir1433/DBD-AutoGrind-Trainer-2026 — Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected ",
-          "url": "https://github.com/AdilMir1433/DBD-AutoGrind-Trainer-2026",
+          "title": "perglervitek/Pet-Simulator-99-Auto-Farm-Trainer-2026-Premium — Premium edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatica",
+          "url": "https://github.com/perglervitek/Pet-Simulator-99-Auto-Farm-Trainer-2026-Premium",
           "source": "github"
         },
         {
-          "title": "XFaltixX/DBD-AutoGrind-Trainer-2026 — Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected ext",
-          "url": "https://github.com/XFaltixX/DBD-AutoGrind-Trainer-2026",
+          "title": "dimasarestuprasmanto/Pet-Simulator-99-Auto-Farm-Trainer-2026-Tera — Tera edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automati",
+          "url": "https://github.com/dimasarestuprasmanto/Pet-Simulator-99-Auto-Farm-Trainer-2026-Tera",
           "source": "github"
         },
         {
-          "title": "Karan10010/DBD-AutoGrind-Trainer-2026 — Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected e",
-          "url": "https://github.com/Karan10010/DBD-AutoGrind-Trainer-2026",
+          "title": "NagaaSaketh/Pet-Simulator-99-Auto-Farm-Trainer-2026-Ultimate — Ultimate edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatic",
+          "url": "https://github.com/NagaaSaketh/Pet-Simulator-99-Auto-Farm-Trainer-2026-Ultimate",
           "source": "github"
         },
         {
-          "title": "YousefMahdy1/DBD-AutoGrind-Trainer-2026 — Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected",
-          "url": "https://github.com/YousefMahdy1/DBD-AutoGrind-Trainer-2026",
+          "title": "MuhammadHanzalaIqbal/Pet-Simulator-99-Auto-Farm-Trainer-2026-Turbo — Turbo edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automa",
+          "url": "https://github.com/MuhammadHanzalaIqbal/Pet-Simulator-99-Auto-Farm-Trainer-2026-Turbo",
           "source": "github"
         },
         {
-          "title": "khwarij/DBD-AutoGrind-Trainer-2026 — Ultimate Dead by Daylight auto-grind trainer with Bloodpoint bot, ESP wallhack, aimbot, and full perk/skin unlocker. Dominate the Fog with our 2026 undetected exte",
-          "url": "https://github.com/khwarij/DBD-AutoGrind-Trainer-2026",
+          "title": "mofouly/Pet-Simulator-99-Auto-Farm-Trainer-2026-Giga — Giga edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatically. Fully ",
+          "url": "https://github.com/mofouly/Pet-Simulator-99-Auto-Farm-Trainer-2026-Giga",
           "source": "github"
         }
       ],
-      "id": "e3b45e871210",
-      "slug": "bot-esp",
+      "id": "977b38934bf7",
+      "slug": "automation-tool",
       "opportunity": {
-        "type": "niche-content",
-        "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
+        "type": "affiliate",
+        "recommended": "Write SEO comparison/roundup article with affiliate links."
+      }
+    },
+    {
+      "keyword": "tool farm",
+      "count": 21,
+      "score": 146.27046476721893,
+      "proper": false,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "perglervitek/Pet-Simulator-99-Auto-Farm-Trainer-2026-Premium — Premium edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatica",
+          "url": "https://github.com/perglervitek/Pet-Simulator-99-Auto-Farm-Trainer-2026-Premium",
+          "source": "github"
+        },
+        {
+          "title": "dimasarestuprasmanto/Pet-Simulator-99-Auto-Farm-Trainer-2026-Tera — Tera edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automati",
+          "url": "https://github.com/dimasarestuprasmanto/Pet-Simulator-99-Auto-Farm-Trainer-2026-Tera",
+          "source": "github"
+        },
+        {
+          "title": "NagaaSaketh/Pet-Simulator-99-Auto-Farm-Trainer-2026-Ultimate — Ultimate edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatic",
+          "url": "https://github.com/NagaaSaketh/Pet-Simulator-99-Auto-Farm-Trainer-2026-Ultimate",
+          "source": "github"
+        },
+        {
+          "title": "MuhammadHanzalaIqbal/Pet-Simulator-99-Auto-Farm-Trainer-2026-Turbo — Turbo edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automa",
+          "url": "https://github.com/MuhammadHanzalaIqbal/Pet-Simulator-99-Auto-Farm-Trainer-2026-Turbo",
+          "source": "github"
+        },
+        {
+          "title": "mofouly/Pet-Simulator-99-Auto-Farm-Trainer-2026-Giga — Giga edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatically. Fully ",
+          "url": "https://github.com/mofouly/Pet-Simulator-99-Auto-Farm-Trainer-2026-Giga",
+          "source": "github"
+        }
+      ],
+      "id": "e83e6c0b68f0",
+      "slug": "tool-farm",
+      "opportunity": {
+        "type": "affiliate",
+        "recommended": "Write SEO comparison/roundup article with affiliate links."
       }
     }
   ]
