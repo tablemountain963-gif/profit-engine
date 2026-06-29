@@ -586,8 +586,8 @@
     },
     "personal-finance": {
       "firstSeen": "2026-06-01T22:54:46.098Z",
-      "lastSeen": "2026-06-02T05:27:26.766Z",
-      "count": 2,
+      "lastSeen": "2026-06-29T18:03:16.546Z",
+      "count": 3,
       "wins": 1,
       "losses": 0,
       "niche": "finance"
@@ -1784,42 +1784,10 @@
       "losses": 0,
       "niche": "ai"
     },
-    "platform": {
-      "firstSeen": "2026-06-15T17:58:55.762Z",
-      "lastSeen": "2026-06-15T17:58:55.762Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "ai"
-    },
-    "apple-foundation-models": {
-      "firstSeen": "2026-06-15T17:59:02.186Z",
-      "lastSeen": "2026-06-15T17:59:02.186Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "ai"
-    },
-    "social-media": {
-      "firstSeen": "2026-06-15T17:59:07.547Z",
-      "lastSeen": "2026-06-15T17:59:07.547Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "ai"
-    },
     "free": {
       "firstSeen": "2026-06-15T17:59:17.228Z",
       "lastSeen": "2026-06-20T21:58:35.736Z",
       "count": 2,
-      "wins": 0,
-      "losses": 0,
-      "niche": "ai"
-    },
-    "fin-billion": {
-      "firstSeen": "2026-06-15T17:59:23.885Z",
-      "lastSeen": "2026-06-15T17:59:23.885Z",
-      "count": 1,
       "wins": 0,
       "losses": 0,
       "niche": "ai"
@@ -3098,8 +3066,8 @@
     },
     "god-mode": {
       "firstSeen": "2026-06-23T15:46:14.320Z",
-      "lastSeen": "2026-06-23T17:44:39.723Z",
-      "count": 2,
+      "lastSeen": "2026-06-29T18:03:23.631Z",
+      "count": 3,
       "wins": 1,
       "losses": 0,
       "niche": "ai"
@@ -3754,9 +3722,9 @@
     },
     "squircle-jail": {
       "firstSeen": "2026-06-26T21:59:16.617Z",
-      "lastSeen": "2026-06-26T21:59:16.617Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-29T18:02:56.668Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -4282,25 +4250,25 @@
     },
     "coins-hatch": {
       "firstSeen": "2026-06-29T16:37:37.302Z",
-      "lastSeen": "2026-06-29T16:37:37.302Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-29T18:02:56.669Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
     "hatch-eggs": {
       "firstSeen": "2026-06-29T16:37:39.918Z",
-      "lastSeen": "2026-06-29T16:37:39.918Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-29T18:02:56.670Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
     "eggs-complete": {
       "firstSeen": "2026-06-29T16:37:43.214Z",
-      "lastSeen": "2026-06-29T16:37:43.214Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-29T18:02:56.671Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -4327,16 +4295,40 @@
       "wins": 0,
       "losses": 0,
       "niche": "ai"
+    },
+    "academic-research": {
+      "firstSeen": "2026-06-29T18:03:02.465Z",
+      "lastSeen": "2026-06-29T18:03:02.465Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "unlimited-health": {
+      "firstSeen": "2026-06-29T18:03:05.701Z",
+      "lastSeen": "2026-06-29T18:03:05.701Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "max-gold": {
+      "firstSeen": "2026-06-29T18:03:08.139Z",
+      "lastSeen": "2026-06-29T18:03:08.139Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
     }
   },
   "niches": {
     "ai": {
-      "count": 917,
-      "wins": 253,
+      "count": 925,
+      "wins": 257,
       "losses": 39
     },
     "finance": {
-      "count": 78,
+      "count": 79,
       "wins": 12,
       "losses": 0
     },
