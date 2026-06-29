@@ -1,6 +1,20 @@
 {
   "items": [
     {
+      "slug": "computer-networks-2026-06-29",
+      "topic": "Computer Networks",
+      "date": "2026-06-29",
+      "niche": "software",
+      "file": "social/computer-networks-2026-06-29.md"
+    },
+    {
+      "slug": "agent-2026-06-29",
+      "topic": "Agent",
+      "date": "2026-06-29",
+      "niche": "ai",
+      "file": "social/agent-2026-06-29.md"
+    },
+    {
       "slug": "god-mode-2026-06-29",
       "topic": "God Mode",
       "date": "2026-06-29",
@@ -1385,20 +1399,6 @@
       "date": "2026-06-07",
       "niche": "ai",
       "file": "social/career-dont-2026-06-07.md"
-    },
-    {
-      "slug": "engineering-career-2026-06-07",
-      "topic": "Engineering Career",
-      "date": "2026-06-07",
-      "niche": "ai",
-      "file": "social/engineering-career-2026-06-07.md"
-    },
-    {
-      "slug": "software-engineering-2026-06-07",
-      "topic": "Software Engineering",
-      "date": "2026-06-07",
-      "niche": "ai",
-      "file": "social/software-engineering-2026-06-07.md"
     }
   ]
 }

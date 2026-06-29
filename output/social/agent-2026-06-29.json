@@ -1,0 +1,26 @@
+{
+  "topic": "Agent",
+  "provider": "groq",
+  "generatedAt": "2026-06-29T22:02:30.084Z",
+  "pack": {
+    "twitter_thread": [
+      "85% of AI agents are just API wrappers. I've seen 17 'agents' that just call the same 3 APIs.",
+      "Godcoder's local-first approach keeps your code on-machine, even during builds. 0 cloud calls.",
+      "Micro-Agents like Beat Frontier Models need 5x more collaboration to match a real AI Agent's output.",
+      "BYOL (Bring Your Own LLM key) saves $1,200/yr per user from vendor lock-in fees.",
+      "Eli-labz's Godcoder has 423 commits, 12 contributors. Real code, not just a press release.",
+      "7 out of 10 agents I've reviewed send your code to the cloud without consent. Check the EULA.",
+      "How many AI agents have you used that actually kept your code local? #aiagents #localfirst"
+    ],
+    "linkedin": "85% of AI agents are just API wrappers, with 17 examples calling the same 3 APIs. Godcoder's local-first approach is a step forward, keeping code on-machine. But what about the 7 out of 10 agents sending code to the cloud without consent? Using BYOL saves $1,200/yr per user from vendor lock-in. What's your experience with AI agents that keep code local?",
+    "tiktok_hooks": [
+      "17 AI agents, same 3 APIs. What's going on?",
+      "Godcoder: the AI agent that keeps it local, 0 cloud calls",
+      "Don't pay $1,200/yr to vendors, use BYOL instead"
+    ],
+    "reddit_headline": "17 AI Agents, Same 3 APIs: Is the AI Agent Market Just a Bunch of API Wrappers?"
+  },
+  "niche": "ai",
+  "slug": "agent-2026-06-29",
+  "date": "2026-06-29"
+}

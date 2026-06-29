@@ -1338,8 +1338,8 @@
     },
     "agent": {
       "firstSeen": "2026-06-10T18:24:45.439Z",
-      "lastSeen": "2026-06-16T06:31:52.106Z",
-      "count": 3,
+      "lastSeen": "2026-06-29T22:02:30.085Z",
+      "count": 4,
       "wins": 1,
       "losses": 0,
       "niche": "ai"
@@ -1815,14 +1815,6 @@
       "wins": 1,
       "losses": 0,
       "niche": "ai"
-    },
-    "income-strategies": {
-      "firstSeen": "2026-06-15T19:38:17.338Z",
-      "lastSeen": "2026-06-15T19:38:17.338Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "finance"
     },
     "ai-tribunal": {
       "firstSeen": "2026-06-15T22:53:13.741Z",
@@ -4298,17 +4290,17 @@
     },
     "academic-research": {
       "firstSeen": "2026-06-29T18:03:02.465Z",
-      "lastSeen": "2026-06-29T18:03:02.465Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-29T22:01:54.364Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
     "unlimited-health": {
       "firstSeen": "2026-06-29T18:03:05.701Z",
-      "lastSeen": "2026-06-29T18:03:05.701Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-29T22:01:54.366Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -4319,12 +4311,44 @@
       "wins": 0,
       "losses": 0,
       "niche": "ai"
+    },
+    "open-models": {
+      "firstSeen": "2026-06-29T22:02:00.014Z",
+      "lastSeen": "2026-06-29T22:02:00.014Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "closed-environments": {
+      "firstSeen": "2026-06-29T22:02:03.089Z",
+      "lastSeen": "2026-06-29T22:02:03.089Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "fourth-amendment": {
+      "firstSeen": "2026-06-29T22:02:05.784Z",
+      "lastSeen": "2026-06-29T22:02:05.784Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "software"
+    },
+    "computer-networks": {
+      "firstSeen": "2026-06-29T22:02:42.278Z",
+      "lastSeen": "2026-06-29T22:02:42.278Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "software"
     }
   },
   "niches": {
     "ai": {
-      "count": 925,
-      "wins": 257,
+      "count": 930,
+      "wins": 259,
       "losses": 39
     },
     "finance": {
@@ -4333,7 +4357,7 @@
       "losses": 0
     },
     "software": {
-      "count": 214,
+      "count": 216,
       "wins": 57,
       "losses": 14
     },
