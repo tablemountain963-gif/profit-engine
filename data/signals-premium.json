@@ -1,192 +1,115 @@
 {
-  "generatedAt": "2026-06-30T17:46:33.241Z",
-  "sourceCount": 205,
+  "generatedAt": "2026-06-30T22:06:15.916Z",
+  "sourceCount": 204,
   "topItems": [
     {
-      "title": "For years we have been overwhelmed by the volume of code contributions we have to review, especially from new contributors.AI has made the problem much worse.That's why we are taking steps to reduce t",
-      "url": "https://mastodon.gamedev.place/@godotengine/116839550229253906",
-      "score": 10.78,
+      "title": "Claude Sonnet 5",
+      "url": "https://www.anthropic.com/news/claude-sonnet-5",
+      "score": 10.18,
+      "niche": "ai",
+      "source": "hackernews",
+      "engagement": {
+        "score": 724,
+        "comments": 394
+      }
+    },
+    {
+      "title": "Just got word that The Reverse Centaur's Guide to Life After AI, my book that was released last week, is the #1 bestselling paperback nonfiction book among Canada's 400 independent bookstores!",
+      "url": "https://mamot.fr/@pluralistic/116840663205967570",
+      "score": 9.62,
       "niche": "ai",
       "source": "mastodon",
       "engagement": {
-        "score": 368,
-        "comments": 11
-      }
-    },
-    {
-      "title": "Claude Code Is Steganographically Marking Requests",
-      "url": "https://thereallo.dev/blog/claude-code-prompt-steganography",
-      "score": 9.39,
-      "niche": "ai",
-      "source": "hackernews",
-      "engagement": {
-        "score": 524,
-        "comments": 168
-      }
-    },
-    {
-      "title": ".self: A new top-level domain designed to support self-hosting",
-      "url": "https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/",
-      "score": 9.19,
-      "niche": "ai",
-      "source": "hackernews",
-      "engagement": {
-        "score": 622,
-        "comments": 352
-      }
-    },
-    {
-      "title": "The labor share of income in the US is at its lowest post-war level",
-      "url": "https://libertystreeteconomics.newyorkfed.org/2026/06/the-post-covid-decline-in-the-labor-share/",
-      "score": 9.01,
-      "niche": "finance",
-      "source": "hackernews",
-      "engagement": {
-        "score": 351,
-        "comments": 326
-      }
-    },
-    {
-      "title": "So Fediverse, last week I was laid off by my employer, Elastic, as part of a wider reorg that made my position redundant. 7% of the global workforce was impacted, so I'm not alone in this 😢I would ap",
-      "url": "https://hachyderm.io/@endorama/116838922459983798",
-      "score": 8.89,
-      "niche": "ai",
-      "source": "mastodon",
-      "engagement": {
-        "score": 578,
-        "comments": 11
-      }
-    },
-    {
-      "title": "European digital ID wallets rely on safety services of Google and Apple",
-      "url": "https://waag.org/en/article/european-digital-id-wallets-are-gift-google-and-apple/",
-      "score": 8.88,
-      "niche": "software",
-      "source": "hackernews",
-      "engagement": {
-        "score": 606,
-        "comments": 255
-      }
-    },
-    {
-      "title": "My co-authors and I wrote an explainer article for the CRASH Clock that was supposed to get published last night, but it apparently didn't.  So I was all ready to write a thread about it, but I guess ",
-      "url": "https://mastodon.social/@sundogplanets/116839446538724032",
-      "score": 8.54,
-      "niche": "ai",
-      "source": "mastodon",
-      "engagement": {
-        "score": 196,
+        "score": 192,
         "comments": 6
       }
     },
     {
-      "title": "AI Code Review Tools Promise Speed, But Can They Deliver Real-World Software Quality?",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSnBvMG1QV0RyZm9ZWWxQWkFOZzF2RXVqcDFrWWNaMlVtRUVYSXk1VnRQQTJkdFJDaWVRWXJrZjRES0ZvaWZaVEJKR1B5MUM0czM0ZzRjeS03VndJMnRLek0wTFFaTXZxQlZOc1RUeDh1cGRHclJrcnZBUGpZUFg5c0FfZXVuZHlpMVRWQUg1M0dVcXBMOGhTVXlPMDZvaUFDV25Jclh4OWR1elFiaUs4REdQbHNDemp3dEE?oc=5",
-      "score": 8.26,
-      "niche": "ai",
-      "source": "gnews",
-      "engagement": {
-        "score": 40,
-        "comments": 0
-      }
-    },
-    {
-      "title": "The 5 Best AI Visibility Tools That Actually Work in 2026",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeFE2MkozbHZZelBNVmdkUm5qcENtSlNlcmJyVW9VSng0eVVzOTJ5d25sbEtXTlYtRFNzSVNpMHBOblZiandNYmQwN3ZValpFcjduVXJyTW5KcWJtV2M3bjFvZVBTZU9ud3dRb1dHY0dtSGhKakVMN3ZkZEtPX3JlNUhUYnNhYUlIRTVpbUFCMUZYNGxBTUVCZg?oc=5",
-      "score": 8.26,
-      "niche": "ai",
-      "source": "gnews",
-      "engagement": {
-        "score": 40,
-        "comments": 0
-      }
-    },
-    {
-      "title": "Collections let you curate, share, and discover groups of profiles, to help you find the people and content that interests you. Here's how they're different: ✅ You decide whether your profile can appe",
-      "url": "https://mastodon.social/@Mastodon/116839714185151652",
-      "score": 8.12,
-      "niche": "software",
-      "source": "mastodon",
-      "engagement": {
-        "score": 159,
-        "comments": 5
-      }
-    },
-    {
-      "title": "So, #Bandcamp has fired most of its engineers. Time to get on the #FediMusic bandwagon.fm and other platforms like @mirlo and @jamcoop or to self host with #faircamp.https://nham.co.uk/2025/06/how-do-",
-      "url": "https://mamot.fr/@sknob/116839903058359538",
-      "score": 8.02,
+      "title": "The CRASH Clock paper is now peer-reviewed!  So to celebrate, my co-authors and I wrote an explainer article (because how better to celebrate one article than by writing another... oh academia...) It'",
+      "url": "https://mastodon.social/@sundogplanets/116840616010865348",
+      "score": 9.52,
       "niche": "ai",
       "source": "mastodon",
       "engagement": {
-        "score": 134,
-        "comments": 8
-      }
-    },
-    {
-      "title": "‼️⚖️ The #US Supreme Court has declared all independent authorities unconsitutional – effectively blowing up the EU-US deal on data transfers.👉Click the link below for noyb's full assessment of the s",
-      "url": "https://mastodon.social/@noybeu/116839534455221568",
-      "score": 7.92,
-      "niche": "software",
-      "source": "mastodon",
-      "engagement": {
-        "score": 285,
-        "comments": 1
-      }
-    },
-    {
-      "title": "I don't even need to read the article to know this is what's going to happen.",
-      "url": "https://mastodon.social/@designthinkingcomic/116838340902044286",
-      "score": 7.8,
-      "niche": "software",
-      "source": "mastodon",
-      "engagement": {
-        "score": 1033,
-        "comments": 17
+        "score": 368,
+        "comments": 9
       }
     },
     {
       "title": "On the last day of Pride Month, happy Trans Pride, now and forever and ever and ever, Amen.",
       "url": "https://digipres.club/@foone/116840142202082555",
-      "score": 7.39,
+      "score": 9.26,
       "niche": "software",
       "source": "mastodon",
       "engagement": {
-        "score": 196,
-        "comments": 0
+        "score": 736,
+        "comments": 6
+      }
+    },
+    {
+      "title": "Claude Science",
+      "url": "https://claude.com/product/claude-science",
+      "score": 8.61,
+      "niche": "ai",
+      "source": "hackernews",
+      "engagement": {
+        "score": 291,
+        "comments": 100
+      }
+    },
+    {
+      "title": "Dear quilting/library community, please enjoy this bookshelf quilt made as a fundraiser for the new library (in Belleville ONT). The books are all named after local people and organizations.https://ww",
+      "url": "https://glammr.us/@jessamyn/116840496001165566",
+      "score": 8.37,
+      "niche": "ai",
+      "source": "mastodon",
+      "engagement": {
+        "score": 380,
+        "comments": 16
+      }
+    },
+    {
+      "title": "Claude Code is steganographically marking requests",
+      "url": "https://thereallo.dev/blog/claude-code-prompt-steganography",
+      "score": 8.32,
+      "niche": "ai",
+      "source": "hackernews",
+      "engagement": {
+        "score": 1168,
+        "comments": 305
       }
     },
     {
       "title": "TianhangZhuzth/Fundamental-Ava — Build digital human beings — autonomous, collaborative, and socially intelligent agents.",
       "url": "https://github.com/TianhangZhuzth/Fundamental-Ava",
-      "score": 7.01,
+      "score": 7.09,
       "niche": "ai",
       "source": "github",
       "engagement": {
-        "score": 544,
+        "score": 585,
         "comments": 0
       }
     },
     {
-      "title": "We need to either return to a pre-bot/AI internet, or flee to create a new one. Call me naive, but back in the 1990s I was under the impression that the internet's destiny was to be an unprecedented, ",
-      "url": "https://mastodon.social/@Richard_Littler/116838612044666548",
-      "score": 6.93,
-      "niche": "ai",
+      "title": "Capitalism is a system in which some people, called capitalists, own the power to permit or deny other people permission to labor productively.You’ve probably encountered a version of this definition ",
+      "url": "https://kolektiva.social/@HeavenlyPossum/116840727885067097",
+      "score": 6.99,
+      "niche": "software",
       "source": "mastodon",
       "engagement": {
-        "score": 466,
-        "comments": 22
+        "score": 143,
+        "comments": 2
       }
     },
     {
-      "title": "Schneider to Buy Industrial AI Firm Cognite for $3.1 Billion",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSXMzd2FHNjNoTzhhZDZWU3JyN3dXNG12Q1dnNUFhSXZLMEZEdXl4eFV6bGp4YUFMUlRSVzEwRkJjOHZtTTZKUjB1Q1U0ZURxSVlxeEFLNUVKQ0RyZVRXRElBemczNlQyY054c2FGa3lpODVGSnZFaERlazBBM0VTZnZYQjZmWmV3R3Q0dXBwbFNQR19ZWXFpRmFQb1B1SlEteW1LYTZwMEVRdTNROFpJ?oc=5",
-      "score": 6.71,
-      "niche": "ai",
-      "source": "gnews",
+      "title": "‼️⚖️ The #US Supreme Court has declared all independent authorities unconsitutional – effectively blowing up the EU-US deal on data transfers.👉Click the link below for noyb's full assessment of the s",
+      "url": "https://mastodon.social/@noybeu/116839534455221568",
+      "score": 6.86,
+      "niche": "software",
+      "source": "mastodon",
       "engagement": {
-        "score": 40,
-        "comments": 0
+        "score": 442,
+        "comments": 9
       }
     },
     {
@@ -201,36 +124,47 @@
       }
     },
     {
-      "title": "LongCat-2.0, a large-scale MoE model with 1.6T total and 48B Active",
-      "url": "https://longcat.chat/blog/longcat-2.0/",
-      "score": 6.58,
+      "title": "AI Code Review Tools Promise Speed, But Can They Deliver Real-World Software Quality?",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSnBvMG1QV0RyZm9ZWWxQWkFOZzF2RXVqcDFrWWNaMlVtRUVYSXk1VnRQQTJkdFJDaWVRWXJrZjRES0ZvaWZaVEJKR1B5MUM0czM0ZzRjeS03VndJMnRLek0wTFFaTXZxQlZOc1RUeDh1cGRHclJrcnZBUGpZUFg5c0FfZXVuZHlpMVRWQUg1M0dVcXBMOGhTVXlPMDZvaUFDV25Jclh4OWR1elFiaUs4REdQbHNDemp3dEE?oc=5",
+      "score": 6.61,
       "niche": "ai",
-      "source": "hackernews",
+      "source": "gnews",
       "engagement": {
-        "score": 238,
-        "comments": 67
+        "score": 40,
+        "comments": 0
       }
     },
     {
-      "title": "Claude Science",
-      "url": "https://claude.com/product/claude-science",
-      "score": 6.57,
-      "niche": "ai",
-      "source": "hackernews",
+      "title": "I stopped hunting for the perfect productivity app; I built this instead",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVzRDNzNMSlJsc0Y5NzA2RDZfOHN3U1pnWk9xcDd1TE1FZ2ZqSkdWWWRKeUFYVlBneVdZaEgtaWF2Y3ZNcmd3VV82clREaVFGcDBRTWNBQzBqX1lENWNqSGIwYVJpYkRENmFVcmJIb1dNR0JBU3JHLXZPeHBTaXhROXpxLUIxaG1zQTdwSTFOcnJGaDhPT0RBUjI0MnU?oc=5",
+      "score": 6.55,
+      "niche": "software",
+      "source": "gnews",
       "engagement": {
-        "score": 54,
-        "comments": 29
+        "score": 40,
+        "comments": 0
       }
     },
     {
-      "title": "Trump’s personal army/police detained a nun walking to mass, dressed in her habit. They held her in custody until public outcry led to her release. Don’t forget: we live in a county whose federal gove",
-      "url": "https://mastodon.social/@heidilifeldman/116839755286740780",
-      "score": 6.16,
-      "niche": "ai",
+      "title": "An Apparition. Slide from my collection, 1975.",
+      "url": "https://mastodon.social/@CatsOfYore/116840747000215933",
+      "score": 6.41,
+      "niche": "software",
       "source": "mastodon",
       "engagement": {
-        "score": 81,
-        "comments": 1
+        "score": 97,
+        "comments": 0
+      }
+    },
+    {
+      "title": "Running AI Locally, Part 2: From VMware Context to Hands-On Tools",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUTZuTi1BRnhnLVRBLXhtazlvMGdjUWJwZnNTUDdGTktubXktWDllOHFEOU1QM0lidGF3bnlhMjVmek9XZUEwNUVwM3pXRXROLUZmaC1EbDhjZ2g3SHZ0VGNkMElBQXJERHBCWEV3WEgxT0gyWjhIM21BOGcxRWRCY2t3TVRxM2dWcGdTdktkdlp5b2pXajhrYS1DNDJRdEVYR0xKNnZtaU1ZcDJoVHo3UElTTm92OWVPQjVsZFVB?oc=5",
+      "score": 5.99,
+      "niche": "ai",
+      "source": "gnews",
+      "engagement": {
+        "score": 40,
+        "comments": 0
       }
     },
     {
@@ -245,36 +179,102 @@
       }
     },
     {
-      "title": "stop asking writers about \"AI\"",
-      "url": "https://benjaminhollon.com/musings/stop-asking-writers-about-ai/",
-      "score": 5.94,
+      "title": "Meta's brain-scanning system reads sentences non-invasively, code open source",
+      "url": "https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/?_fb_noscript=1",
+      "score": 5.88,
       "niche": "ai",
-      "source": "lobsters",
+      "source": "hackernews",
       "engagement": {
-        "score": 22,
-        "comments": 9
+        "score": 32,
+        "comments": 18
       }
     },
     {
-      "title": "GuardFall Exposes Open-Source AI Coding Agents to Decades-Old Shell Injection Risks",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNREtFbnVwYVpmTzJFeXUtT3dWZ1R5clJtSHh6R0JDTndtamxxZ1Q4b0R2U05DdlFmLU4yUnZ0RHd1Y1ZadWh2NE9MVS1ncEhqQ3N3c2h5ZWtHd3FISU40ckRBWUNTSjNmRWhKZExvd3NPRnBkTHZFTHlPNXNXcjlhMHNqZms?oc=5",
-      "score": 5.94,
+      "title": "perglervitek/Pet-Simulator-99-Auto-Farm-Trainer-2026-Premium — Premium edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatica",
+      "url": "https://github.com/perglervitek/Pet-Simulator-99-Auto-Farm-Trainer-2026-Premium",
+      "score": 5.78,
+      "niche": "ai",
+      "source": "github",
+      "engagement": {
+        "score": 205,
+        "comments": 0
+      }
+    },
+    {
+      "title": "yande0/Blox-Fruits-Dragon-Update-Auto-Farm-Script-2026-Premium — Maximize your progress in Blox Fruits with this Premium trainer – auto farm, ESP, raid, and anti‑ban included.",
+      "url": "https://github.com/yande0/Blox-Fruits-Dragon-Update-Auto-Farm-Script-2026-Premium",
+      "score": 5.76,
+      "niche": "ai",
+      "source": "github",
+      "engagement": {
+        "score": 202,
+        "comments": 0
+      }
+    },
+    {
+      "title": "Zluda 6 release (run unmodified CUDA applications on non-Nvidia GPUs)",
+      "url": "https://vosen.github.io/ZLUDA/blog/zluda-update-q1q2-2026/",
+      "score": 5.66,
+      "niche": "software",
+      "source": "hackernews",
+      "engagement": {
+        "score": 133,
+        "comments": 12
+      }
+    },
+    {
+      "title": "offchainthoughts/Amber — Bank the expensive compute once, then carry it offline as a single file that can prove it is what it claims to be.",
+      "url": "https://github.com/offchainthoughts/Amber",
+      "score": 5.54,
+      "niche": "ai",
+      "source": "github",
+      "engagement": {
+        "score": 321,
+        "comments": 0
+      }
+    },
+    {
+      "title": "stop asking writers about \"AI\"",
+      "url": "https://benjaminhollon.com/musings/stop-asking-writers-about-ai/",
+      "score": 5.28,
+      "niche": "ai",
+      "source": "lobsters",
+      "engagement": {
+        "score": 27,
+        "comments": 17
+      }
+    },
+    {
+      "title": "The end of the AArch64 desktop experiment",
+      "url": "https://marcin.juszkiewicz.com.pl/2026/06/26/the-end-of-the-aarch64-desktop-experiment/",
+      "score": 5.23,
+      "niche": "gear",
+      "source": "lobsters",
+      "engagement": {
+        "score": 44,
+        "comments": 31
+      }
+    },
+    {
+      "title": "Krishnagangwal/CS-Fundamentals — Curated CS fundamentals for placement prep: DSA,Computer Networks, DBMS & SQL, OOPs, Operating Systems, System Design & Software Engineering",
+      "url": "https://github.com/Krishnagangwal/CS-Fundamentals",
+      "score": 5.18,
+      "niche": "software",
+      "source": "github",
+      "engagement": {
+        "score": 1206,
+        "comments": 0
+      }
+    },
+    {
+      "title": "Razer Ornata V3 Gaming Keyboard Down to $60 on Amazon",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE55ZTRUcUxPcHU1WTM0MkxPeEpueFJydjJUMHNudk11aGpTX0hIQXQwem5sUEFISmtXdjJwOG1DTHJDNXV1RFVIQVZFejJHUy1IUHpHMTF1YWRQWno0STFWNS04SGFJcmJ6LVUtZHFPR0VWaEQ2bGlwOW9OZjc?oc=5",
+      "score": 5.16,
       "niche": "ai",
       "source": "gnews",
       "engagement": {
         "score": 40,
         "comments": 0
-      }
-    },
-    {
-      "title": "Crypto firms have spent $189M so far on 2026 US election, report says",
-      "url": "https://www.reuters.com/world/crypto-firms-have-spent-189-million-so-far-2026-us-election-report-says-2026-06-30/",
-      "score": 5.8,
-      "niche": "finance",
-      "source": "hackernews",
-      "engagement": {
-        "score": 53,
-        "comments": 16
       }
     }
   ],
@@ -357,21 +357,26 @@
     },
     {
       "keyword": "passive income",
-      "count": 47,
-      "score": 288.70443819139996,
+      "count": 52,
+      "score": 309.75126752159247,
       "proper": true,
       "niches": [
         "finance"
       ],
       "examples": [
         {
-          "title": "5 High-Yield BlackRock ETFs Paying Over 5% Passive Income Right Now",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQM3U5N0k1dUFjVGdTUUlpQXR4R3RjRlFLY1NZSmpJenl6WUVzcXBUYTNiYVQwWWVBa3JyakxxUVN4YmNMSEk0bTNvdzdqVVBFSnFCV2Y4QWtsOUs3d1BNV0FrNUlrQUlnRlQtOGl0QVJpdlJsLTRrSGQ0T2JlYlplUm03X2J6cTdJbERQeXk4QTFGTzJ4WjBwWlY4ODI?oc=5",
+          "title": "Could This Dividend ETF Be Your Ticket to $500 per Month in Passive Income?",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdFdzODhCbVF3ZWUzMHZGNzlyYjBic3lZNlJxMzJlWU1MQjhwSDNFVUNBNVI4NGx6WjNaZzRDSXZVUFVPOVJ3VktuWkZlNFRjdVBoQ0tfZVlxRTJ4b3lMdmtJMmJDS3JZWFNjbmhIdkhTN0RoVExnVHlWTWp0N0ZMV01KM2otcFJ6TV83Y0xhTXdrdWxWTmQ2WkN3?oc=5",
           "source": "gnews"
         },
         {
-          "title": "5 High-Yield BlackRock ETFs Paying Over 5% Passive Income Right Now",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQM3U5N0k1dUFjVGdTUUlpQXR4R3RjRlFLY1NZSmpJenl6WUVzcXBUYTNiYVQwWWVBa3JyakxxUVN4YmNMSEk0bTNvdzdqVVBFSnFCV2Y4QWtsOUs3d1BNV0FrNUlrQUlnRlQtOGl0QVJpdlJsLTRrSGQ0T2JlYlplUm03X2J6cTdJbERQeXk4QTFGTzJ4WjBwWlY4ODI?oc=5",
+          "title": "Could This Dividend ETF Be Your Ticket to $500 per Month in Passive Income?",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdFdzODhCbVF3ZWUzMHZGNzlyYjBic3lZNlJxMzJlWU1MQjhwSDNFVUNBNVI4NGx6WjNaZzRDSXZVUFVPOVJ3VktuWkZlNFRjdVBoQ0tfZVlxRTJ4b3lMdmtJMmJDS3JZWFNjbmhIdkhTN0RoVExnVHlWTWp0N0ZMV01KM2otcFJ6TV83Y0xhTXdrdWxWTmQ2WkN3?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Could This Dividend ETF Be Your Ticket to $500 per Month in Passive Income?",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdFdzODhCbVF3ZWUzMHZGNzlyYjBic3lZNlJxMzJlWU1MQjhwSDNFVUNBNVI4NGx6WjNaZzRDSXZVUFVPOVJ3VktuWkZlNFRjdVBoQ0tfZVlxRTJ4b3lMdmtJMmJDS3JZWFNjbmhIdkhTN0RoVExnVHlWTWp0N0ZMV01KM2otcFJ6TV83Y0xhTXdrdWxWTmQ2WkN3?oc=5",
           "source": "gnews"
         },
         {
@@ -382,16 +387,44 @@
         {
           "title": "These 5 Passive Income Stocks Could Pay You For Life",
           "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbFFRRWdxUWc1OGlTNlRjbGREOHhNT3lHSFN3dEd5RUhuNWswUDNpYjhiU2laSGtRTFZ3ZS1kVUlQN21KVGtjY2FNUFRlcUM3QWt3ZEZ2M0FuUElwVjR4bHF6WGkxMjVIV1RObHN6bjRldElWOU16WW1XcU9XRWRvQXN1a3c3V1FuYl9tOTBSdUd3R2tnZTJsUGo4Y3Y?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "3 Magnificent Dividend ETFs That Could Supercharge Your Passive Income",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPS0p4Y1JWNWRXMG9QSkMwenh4OHVrb3VpQXVDckhUc1paUmlmYUd3NUsyaDlpTThNYV81cjRzTW5tQk9uM2JXUzZHZE5nUjdlR25SZnJXVWhTZVlfRzQwMm5PRVUtZktsS2s0SG45WkgyS0NoREg5Q0VDdVZ3Y19Bc3BYamhEWGgxR3NSWXFmNXhiOVFjMDZ2bmZHRlF3SlU?oc=5",
           "source": "gnews"
         }
       ],
       "id": "cf2dbbbf8c8c",
       "slug": "passive-income"
+    },
+    {
+      "keyword": "claude code",
+      "count": 16,
+      "score": 153.25358436268021,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "Claude Code is steganographically marking requests",
+          "url": "https://thereallo.dev/blog/claude-code-prompt-steganography",
+          "source": "hackernews"
+        },
+        {
+          "title": "Claude Code is steganographically marking requests",
+          "url": "https://thereallo.dev/blog/claude-code-prompt-steganography",
+          "source": "hackernews"
+        },
+        {
+          "title": "revfactory/webtoon-harness — 트렌드 조사부터 세로 스크롤 뷰어 완성까지, 웹툰 한 회차를 27개 AI 에이전트 팀이 만들어내는 Claude Code 하네스",
+          "url": "https://github.com/revfactory/webtoon-harness",
+          "source": "github"
+        },
+        {
+          "title": "revfactory/webtoon-harness — 트렌드 조사부터 세로 스크롤 뷰어 완성까지, 웹툰 한 회차를 27개 AI 에이전트 팀이 만들어내는 Claude Code 하네스",
+          "url": "https://github.com/revfactory/webtoon-harness",
+          "source": "github"
+        }
+      ],
+      "id": "a625159d18da",
+      "slug": "claude-code"
     },
     {
       "keyword": "blox fruits",
@@ -432,9 +465,93 @@
       "slug": "blox-fruits"
     },
     {
+      "keyword": "claude sonnet",
+      "count": 8,
+      "score": 122.10581483609039,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "Claude Sonnet 5",
+          "url": "https://www.anthropic.com/news/claude-sonnet-5",
+          "source": "hackernews"
+        },
+        {
+          "title": "Claude Sonnet 5",
+          "url": "https://www.anthropic.com/news/claude-sonnet-5",
+          "source": "hackernews"
+        }
+      ],
+      "id": "28d031c22bf1",
+      "slug": "claude-sonnet"
+    },
+    {
+      "keyword": "trans pride",
+      "count": 8,
+      "score": 111.06997743590736,
+      "proper": true,
+      "niches": [
+        "software"
+      ],
+      "examples": [
+        {
+          "title": "On the last day of Pride Month, happy Trans Pride, now and forever and ever and ever, Amen.",
+          "url": "https://digipres.club/@foone/116840142202082555",
+          "source": "mastodon"
+        },
+        {
+          "title": "On the last day of Pride Month, happy Trans Pride, now and forever and ever and ever, Amen.",
+          "url": "https://digipres.club/@foone/116840142202082555",
+          "source": "mastodon"
+        }
+      ],
+      "id": "4441922b44fb",
+      "slug": "trans-pride"
+    },
+    {
+      "keyword": "income",
+      "count": 19,
+      "score": 110.7498674409442,
+      "proper": true,
+      "niches": [
+        "finance"
+      ],
+      "examples": [
+        {
+          "title": "Could This Dividend ETF Be Your Ticket to $500 per Month in Passive Income?",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdFdzODhCbVF3ZWUzMHZGNzlyYjBic3lZNlJxMzJlWU1MQjhwSDNFVUNBNVI4NGx6WjNaZzRDSXZVUFVPOVJ3VktuWkZlNFRjdVBoQ0tfZVlxRTJ4b3lMdmtJMmJDS3JZWFNjbmhIdkhTN0RoVExnVHlWTWp0N0ZMV01KM2otcFJ6TV83Y0xhTXdrdWxWTmQ2WkN3?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Could This Dividend ETF Be Your Ticket to $500 per Month in Passive Income?",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdFdzODhCbVF3ZWUzMHZGNzlyYjBic3lZNlJxMzJlWU1MQjhwSDNFVUNBNVI4NGx6WjNaZzRDSXZVUFVPOVJ3VktuWkZlNFRjdVBoQ0tfZVlxRTJ4b3lMdmtJMmJDS3JZWFNjbmhIdkhTN0RoVExnVHlWTWp0N0ZMV01KM2otcFJ6TV83Y0xhTXdrdWxWTmQ2WkN3?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "These 5 Passive Income Stocks Could Pay You For Life",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbFFRRWdxUWc1OGlTNlRjbGREOHhNT3lHSFN3dEd5RUhuNWswUDNpYjhiU2laSGtRTFZ3ZS1kVUlQN21KVGtjY2FNUFRlcUM3QWt3ZEZ2M0FuUElwVjR4bHF6WGkxMjVIV1RObHN6bjRldElWOU16WW1XcU9XRWRvQXN1a3c3V1FuYl9tOTBSdUd3R2tnZTJsUGo4Y3Y?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "These 5 Passive Income Stocks Could Pay You For Life",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbFFRRWdxUWc1OGlTNlRjbGREOHhNT3lHSFN3dEd5RUhuNWswUDNpYjhiU2laSGtRTFZ3ZS1kVUlQN21KVGtjY2FNUFRlcUM3QWt3ZEZ2M0FuUElwVjR4bHF6WGkxMjVIV1RObHN6bjRldElWOU16WW1XcU9XRWRvQXN1a3c3V1FuYl9tOTBSdUd3R2tnZTJsUGo4Y3Y?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "3 Magnificent Dividend ETFs That Could Supercharge Your Passive Income",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPS0p4Y1JWNWRXMG9QSkMwenh4OHVrb3VpQXVDckhUc1paUmlmYUd3NUsyaDlpTThNYV81cjRzTW5tQk9uM2JXUzZHZE5nUjdlR25SZnJXVWhTZVlfRzQwMm5PRVUtZktsS2s0SG45WkgyS0NoREg5Q0VDdVZ3Y19Bc3BYamhEWGgxR3NSWXFmNXhiOVFjMDZ2bmZHRlF3SlU?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "00cf141f881d",
+      "slug": "income"
+    },
+    {
       "keyword": "promise speed",
       "count": 11,
-      "score": 136.24798021568327,
+      "score": 108.99838417254662,
       "proper": true,
       "niches": [
         "ai"
@@ -460,127 +577,50 @@
       "slug": "promise-speed"
     },
     {
-      "keyword": "income",
-      "count": 20,
-      "score": 129.33793829725187,
-      "proper": true,
-      "niches": [
-        "finance"
-      ],
-      "examples": [
-        {
-          "title": "The labor share of income in the US is at its lowest post-war level",
-          "url": "https://libertystreeteconomics.newyorkfed.org/2026/06/the-post-covid-decline-in-the-labor-share/",
-          "source": "hackernews"
-        },
-        {
-          "title": "5 High-Yield BlackRock ETFs Paying Over 5% Passive Income Right Now",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQM3U5N0k1dUFjVGdTUUlpQXR4R3RjRlFLY1NZSmpJenl6WUVzcXBUYTNiYVQwWWVBa3JyakxxUVN4YmNMSEk0bTNvdzdqVVBFSnFCV2Y4QWtsOUs3d1BNV0FrNUlrQUlnRlQtOGl0QVJpdlJsLTRrSGQ0T2JlYlplUm03X2J6cTdJbERQeXk4QTFGTzJ4WjBwWlY4ODI?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "5 High-Yield BlackRock ETFs Paying Over 5% Passive Income Right Now",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQM3U5N0k1dUFjVGdTUUlpQXR4R3RjRlFLY1NZSmpJenl6WUVzcXBUYTNiYVQwWWVBa3JyakxxUVN4YmNMSEk0bTNvdzdqVVBFSnFCV2Y4QWtsOUs3d1BNV0FrNUlrQUlnRlQtOGl0QVJpdlJsLTRrSGQ0T2JlYlplUm03X2J6cTdJbERQeXk4QTFGTzJ4WjBwWlY4ODI?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "These 5 Passive Income Stocks Could Pay You For Life",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbFFRRWdxUWc1OGlTNlRjbGREOHhNT3lHSFN3dEd5RUhuNWswUDNpYjhiU2laSGtRTFZ3ZS1kVUlQN21KVGtjY2FNUFRlcUM3QWt3ZEZ2M0FuUElwVjR4bHF6WGkxMjVIV1RObHN6bjRldElWOU16WW1XcU9XRWRvQXN1a3c3V1FuYl9tOTBSdUd3R2tnZTJsUGo4Y3Y?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "These 5 Passive Income Stocks Could Pay You For Life",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbFFRRWdxUWc1OGlTNlRjbGREOHhNT3lHSFN3dEd5RUhuNWswUDNpYjhiU2laSGtRTFZ3ZS1kVUlQN21KVGtjY2FNUFRlcUM3QWt3ZEZ2M0FuUElwVjR4bHF6WGkxMjVIV1RObHN6bjRldElWOU16WW1XcU9XRWRvQXN1a3c3V1FuYl9tOTBSdUd3R2tnZTJsUGo4Y3Y?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "00cf141f881d",
-      "slug": "income"
-    },
-    {
-      "keyword": "marking requests",
+      "keyword": "claude science",
       "count": 8,
-      "score": 112.70412101582036,
+      "score": 103.37145994626665,
       "proper": true,
       "niches": [
         "ai"
       ],
       "examples": [
         {
-          "title": "Claude Code Is Steganographically Marking Requests",
-          "url": "https://thereallo.dev/blog/claude-code-prompt-steganography",
+          "title": "Claude Science",
+          "url": "https://claude.com/product/claude-science",
           "source": "hackernews"
         },
         {
-          "title": "Claude Code Is Steganographically Marking Requests",
-          "url": "https://thereallo.dev/blog/claude-code-prompt-steganography",
+          "title": "Claude Science",
+          "url": "https://claude.com/product/claude-science",
           "source": "hackernews"
         }
       ],
-      "id": "08af5feec921",
-      "slug": "marking-requests"
+      "id": "1c498f330553",
+      "slug": "claude-science"
     },
     {
-      "keyword": "crash clock",
+      "keyword": "belleville ont",
       "count": 8,
-      "score": 102.45765999466414,
+      "score": 100.4524819836058,
       "proper": true,
       "niches": [
         "ai"
       ],
       "examples": [
         {
-          "title": "My co-authors and I wrote an explainer article for the CRASH Clock that was supposed to get published last night, but it apparently didn't.  So I was all ready to write a thread about it, but I guess ",
-          "url": "https://mastodon.social/@sundogplanets/116839446538724032",
+          "title": "Dear quilting/library community, please enjoy this bookshelf quilt made as a fundraiser for the new library (in Belleville ONT). The books are all named after local people and organizations.https://ww",
+          "url": "https://glammr.us/@jessamyn/116840496001165566",
           "source": "mastodon"
         },
         {
-          "title": "My co-authors and I wrote an explainer article for the CRASH Clock that was supposed to get published last night, but it apparently didn't.  So I was all ready to write a thread about it, but I guess ",
-          "url": "https://mastodon.social/@sundogplanets/116839446538724032",
+          "title": "Dear quilting/library community, please enjoy this bookshelf quilt made as a fundraiser for the new library (in Belleville ONT). The books are all named after local people and organizations.https://ww",
+          "url": "https://glammr.us/@jessamyn/116840496001165566",
           "source": "mastodon"
         }
       ],
-      "id": "72e3727424c7",
-      "slug": "crash-clock"
-    },
-    {
-      "keyword": "fitness gear",
-      "count": 25,
-      "score": 99.15717707884275,
-      "proper": true,
-      "niches": [
-        "gear",
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "Fitness Gear on Sale for Early Prime Day",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSm9RdFNpc3JFU2NnaUxiaVk5dnp3b2RxcU04bmQyZ3RUMENITl92OG1kcTVMRGZ2dXh3THB6Y2toMmIwUEJsVzdXX2hXZjYtTVUyVjd4SFJtRGwwUGNjaks3UjdPYzRhNDgyTVJfNFRxcF91OEdiaXViUkJmQXJqdEs4bXU?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Fitness Gear on Sale for Early Prime Day",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSm9RdFNpc3JFU2NnaUxiaVk5dnp3b2RxcU04bmQyZ3RUMENITl92OG1kcTVMRGZ2dXh3THB6Y2toMmIwUEJsVzdXX2hXZjYtTVUyVjd4SFJtRGwwUGNjaks3UjdPYzRhNDgyTVJfNFRxcF91OEdiaXViUkJmQXJqdEs4bXU?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Fitness Gear on Sale for Early Prime Day",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSm9RdFNpc3JFU2NnaUxiaVk5dnp3b2RxcU04bmQyZ3RUMENITl92OG1kcTVMRGZ2dXh3THB6Y2toMmIwUEJsVzdXX2hXZjYtTVUyVjd4SFJtRGwwUGNjaks3UjdPYzRhNDgyTVJfNFRxcF91OEdiaXViUkJmQXJqdEs4bXU?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "I’m A Certified Personal Trainer — Here’s The Best Fitness Gear To Buy On Prime Day",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPM2JfNDFqdThObG9aem4zdFZuYTRNZk80VVJRVWg1WVAzSDlYUFNVajZLcWtJMHI0U1FhazhfdEN5aGlVN2R1djAtTHpjZ1BiemZYR1V6ZXFYb0VISmUzRW8xN0tFYU9GRFhzdW83R241NHRPdTFHelVCNHBBOEp0OHVtQ19fV1dMQW1BaGpnQ3pkb2NuVDE0d3J1SVZKcy04dC1QZWx3NTFuVld60gGyAUFVX3lxTE9RQy0wcVFpNW4yRHN4ZWc2aHVWOW5aRktzWGx4Nmx1emZwenV4THNjMEZ0T0MzQkdkZV9INmx2dldyZlB3aEZKRDFGcGxEM1g0dnc2MC01TFZhalRmcW1yTXJXdkxFTXJwbmVPVWpfakxhLW0zM0FmVnRNNnlubXh6Y1dwRUppZnhTUVliQktsQkJZNDhaY183ZjBXdXltVDJoYUc3MzJ5MUpIQmU4YjVYWkE?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Fitness Gear on Sale for Early Prime Day",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9jNDZtZlhYOFMtWnloN2pMenFzSjhqZ0MyN3JMVHE1bVZENE5zT0hoQUpHVEpiSUhJb2Z6ZU85bmk2M3lKT1ctOTlqSlpyUVBZWDBWQkhZdUtiNWVTMDhTVmFGX295N2VWN3RDZHBPSHlaUzUtbzNR?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "a8b7e45842c3",
-      "slug": "fitness-gear"
+      "id": "3c560a275557",
+      "slug": "belleville-ont"
     },
     {
       "keyword": "edition advanced",
@@ -733,82 +773,6 @@
       ],
       "id": "977b38934bf7",
       "slug": "automation-tool"
-    },
-    {
-      "keyword": "tool farm",
-      "count": 18,
-      "score": 94.07117510555156,
-      "proper": false,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "perglervitek/Pet-Simulator-99-Auto-Farm-Trainer-2026-Premium — Premium edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatica",
-          "url": "https://github.com/perglervitek/Pet-Simulator-99-Auto-Farm-Trainer-2026-Premium",
-          "source": "github"
-        },
-        {
-          "title": "NagaaSaketh/Pet-Simulator-99-Auto-Farm-Trainer-2026-Ultimate — Ultimate edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatic",
-          "url": "https://github.com/NagaaSaketh/Pet-Simulator-99-Auto-Farm-Trainer-2026-Ultimate",
-          "source": "github"
-        },
-        {
-          "title": "mofouly/Pet-Simulator-99-Auto-Farm-Trainer-2026-Giga — Giga edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatically. Fully ",
-          "url": "https://github.com/mofouly/Pet-Simulator-99-Auto-Farm-Trainer-2026-Giga",
-          "source": "github"
-        },
-        {
-          "title": "perglervitek/Pet-Simulator-99-Auto-Farm-Trainer-2026-X — X edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatically. Fully u",
-          "url": "https://github.com/perglervitek/Pet-Simulator-99-Auto-Farm-Trainer-2026-X",
-          "source": "github"
-        },
-        {
-          "title": "yande0/Pet-Simulator-99-Auto-Farm-Trainer-2026-Platinum — Platinum edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatically.",
-          "url": "https://github.com/yande0/Pet-Simulator-99-Auto-Farm-Trainer-2026-Platinum",
-          "source": "github"
-        }
-      ],
-      "id": "e83e6c0b68f0",
-      "slug": "tool-farm"
-    },
-    {
-      "keyword": "farm coins",
-      "count": 18,
-      "score": 94.07117510555156,
-      "proper": false,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "perglervitek/Pet-Simulator-99-Auto-Farm-Trainer-2026-Premium — Premium edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatica",
-          "url": "https://github.com/perglervitek/Pet-Simulator-99-Auto-Farm-Trainer-2026-Premium",
-          "source": "github"
-        },
-        {
-          "title": "NagaaSaketh/Pet-Simulator-99-Auto-Farm-Trainer-2026-Ultimate — Ultimate edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatic",
-          "url": "https://github.com/NagaaSaketh/Pet-Simulator-99-Auto-Farm-Trainer-2026-Ultimate",
-          "source": "github"
-        },
-        {
-          "title": "mofouly/Pet-Simulator-99-Auto-Farm-Trainer-2026-Giga — Giga edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatically. Fully ",
-          "url": "https://github.com/mofouly/Pet-Simulator-99-Auto-Farm-Trainer-2026-Giga",
-          "source": "github"
-        },
-        {
-          "title": "perglervitek/Pet-Simulator-99-Auto-Farm-Trainer-2026-X — X edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatically. Fully u",
-          "url": "https://github.com/perglervitek/Pet-Simulator-99-Auto-Farm-Trainer-2026-X",
-          "source": "github"
-        },
-        {
-          "title": "yande0/Pet-Simulator-99-Auto-Farm-Trainer-2026-Platinum — Platinum edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatically.",
-          "url": "https://github.com/yande0/Pet-Simulator-99-Auto-Farm-Trainer-2026-Platinum",
-          "source": "github"
-        }
-      ],
-      "id": "9e52d1f2aaec",
-      "slug": "farm-coins"
     }
   ],
   "opportunities": [
@@ -898,21 +862,26 @@
     },
     {
       "keyword": "passive income",
-      "count": 47,
-      "score": 288.70443819139996,
+      "count": 52,
+      "score": 309.75126752159247,
       "proper": true,
       "niches": [
         "finance"
       ],
       "examples": [
         {
-          "title": "5 High-Yield BlackRock ETFs Paying Over 5% Passive Income Right Now",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQM3U5N0k1dUFjVGdTUUlpQXR4R3RjRlFLY1NZSmpJenl6WUVzcXBUYTNiYVQwWWVBa3JyakxxUVN4YmNMSEk0bTNvdzdqVVBFSnFCV2Y4QWtsOUs3d1BNV0FrNUlrQUlnRlQtOGl0QVJpdlJsLTRrSGQ0T2JlYlplUm03X2J6cTdJbERQeXk4QTFGTzJ4WjBwWlY4ODI?oc=5",
+          "title": "Could This Dividend ETF Be Your Ticket to $500 per Month in Passive Income?",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdFdzODhCbVF3ZWUzMHZGNzlyYjBic3lZNlJxMzJlWU1MQjhwSDNFVUNBNVI4NGx6WjNaZzRDSXZVUFVPOVJ3VktuWkZlNFRjdVBoQ0tfZVlxRTJ4b3lMdmtJMmJDS3JZWFNjbmhIdkhTN0RoVExnVHlWTWp0N0ZMV01KM2otcFJ6TV83Y0xhTXdrdWxWTmQ2WkN3?oc=5",
           "source": "gnews"
         },
         {
-          "title": "5 High-Yield BlackRock ETFs Paying Over 5% Passive Income Right Now",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQM3U5N0k1dUFjVGdTUUlpQXR4R3RjRlFLY1NZSmpJenl6WUVzcXBUYTNiYVQwWWVBa3JyakxxUVN4YmNMSEk0bTNvdzdqVVBFSnFCV2Y4QWtsOUs3d1BNV0FrNUlrQUlnRlQtOGl0QVJpdlJsLTRrSGQ0T2JlYlplUm03X2J6cTdJbERQeXk4QTFGTzJ4WjBwWlY4ODI?oc=5",
+          "title": "Could This Dividend ETF Be Your Ticket to $500 per Month in Passive Income?",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdFdzODhCbVF3ZWUzMHZGNzlyYjBic3lZNlJxMzJlWU1MQjhwSDNFVUNBNVI4NGx6WjNaZzRDSXZVUFVPOVJ3VktuWkZlNFRjdVBoQ0tfZVlxRTJ4b3lMdmtJMmJDS3JZWFNjbmhIdkhTN0RoVExnVHlWTWp0N0ZMV01KM2otcFJ6TV83Y0xhTXdrdWxWTmQ2WkN3?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Could This Dividend ETF Be Your Ticket to $500 per Month in Passive Income?",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdFdzODhCbVF3ZWUzMHZGNzlyYjBic3lZNlJxMzJlWU1MQjhwSDNFVUNBNVI4NGx6WjNaZzRDSXZVUFVPOVJ3VktuWkZlNFRjdVBoQ0tfZVlxRTJ4b3lMdmtJMmJDS3JZWFNjbmhIdkhTN0RoVExnVHlWTWp0N0ZMV01KM2otcFJ6TV83Y0xhTXdrdWxWTmQ2WkN3?oc=5",
           "source": "gnews"
         },
         {
@@ -923,11 +892,6 @@
         {
           "title": "These 5 Passive Income Stocks Could Pay You For Life",
           "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbFFRRWdxUWc1OGlTNlRjbGREOHhNT3lHSFN3dEd5RUhuNWswUDNpYjhiU2laSGtRTFZ3ZS1kVUlQN21KVGtjY2FNUFRlcUM3QWt3ZEZ2M0FuUElwVjR4bHF6WGkxMjVIV1RObHN6bjRldElWOU16WW1XcU9XRWRvQXN1a3c3V1FuYl9tOTBSdUd3R2tnZTJsUGo4Y3Y?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "3 Magnificent Dividend ETFs That Could Supercharge Your Passive Income",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPS0p4Y1JWNWRXMG9QSkMwenh4OHVrb3VpQXVDckhUc1paUmlmYUd3NUsyaDlpTThNYV81cjRzTW5tQk9uM2JXUzZHZE5nUjdlR25SZnJXVWhTZVlfRzQwMm5PRVUtZktsS2s0SG45WkgyS0NoREg5Q0VDdVZ3Y19Bc3BYamhEWGgxR3NSWXFmNXhiOVFjMDZ2bmZHRlF3SlU?oc=5",
           "source": "gnews"
         }
       ],
@@ -936,6 +900,43 @@
       "opportunity": {
         "type": "niche-content",
         "recommended": "Publish niche guide for \"finance\"; bundle into digital product later."
+      }
+    },
+    {
+      "keyword": "claude code",
+      "count": 16,
+      "score": 153.25358436268021,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "Claude Code is steganographically marking requests",
+          "url": "https://thereallo.dev/blog/claude-code-prompt-steganography",
+          "source": "hackernews"
+        },
+        {
+          "title": "Claude Code is steganographically marking requests",
+          "url": "https://thereallo.dev/blog/claude-code-prompt-steganography",
+          "source": "hackernews"
+        },
+        {
+          "title": "revfactory/webtoon-harness — 트렌드 조사부터 세로 스크롤 뷰어 완성까지, 웹툰 한 회차를 27개 AI 에이전트 팀이 만들어내는 Claude Code 하네스",
+          "url": "https://github.com/revfactory/webtoon-harness",
+          "source": "github"
+        },
+        {
+          "title": "revfactory/webtoon-harness — 트렌드 조사부터 세로 스크롤 뷰어 완성까지, 웹툰 한 회차를 27개 AI 에이전트 팀이 만들어내는 Claude Code 하네스",
+          "url": "https://github.com/revfactory/webtoon-harness",
+          "source": "github"
+        }
+      ],
+      "id": "a625159d18da",
+      "slug": "claude-code",
+      "opportunity": {
+        "type": "tooling",
+        "recommended": "Build / list AI tools; monetize via affiliate links + lead magnet."
       }
     },
     {
@@ -981,59 +982,76 @@
       }
     },
     {
-      "keyword": "promise speed",
-      "count": 11,
-      "score": 136.24798021568327,
+      "keyword": "claude sonnet",
+      "count": 8,
+      "score": 122.10581483609039,
       "proper": true,
       "niches": [
         "ai"
       ],
       "examples": [
         {
-          "title": "AI Code Review Tools Promise Speed, But Can They Deliver Real-World Software Quality?",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSnBvMG1QV0RyZm9ZWWxQWkFOZzF2RXVqcDFrWWNaMlVtRUVYSXk1VnRQQTJkdFJDaWVRWXJrZjRES0ZvaWZaVEJKR1B5MUM0czM0ZzRjeS03VndJMnRLek0wTFFaTXZxQlZOc1RUeDh1cGRHclJrcnZBUGpZUFg5c0FfZXVuZHlpMVRWQUg1M0dVcXBMOGhTVXlPMDZvaUFDV25Jclh4OWR1elFiaUs4REdQbHNDemp3dEE?oc=5",
-          "source": "gnews"
+          "title": "Claude Sonnet 5",
+          "url": "https://www.anthropic.com/news/claude-sonnet-5",
+          "source": "hackernews"
         },
         {
-          "title": "AI Code Review Tools Promise Speed, But Can They Deliver Real-World Software Quality?",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSnBvMG1QV0RyZm9ZWWxQWkFOZzF2RXVqcDFrWWNaMlVtRUVYSXk1VnRQQTJkdFJDaWVRWXJrZjRES0ZvaWZaVEJKR1B5MUM0czM0ZzRjeS03VndJMnRLek0wTFFaTXZxQlZOc1RUeDh1cGRHclJrcnZBUGpZUFg5c0FfZXVuZHlpMVRWQUg1M0dVcXBMOGhTVXlPMDZvaUFDV25Jclh4OWR1elFiaUs4REdQbHNDemp3dEE?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "AI Code Review Tools Promise Speed, But Can They Deliver Real-World Software Quality?",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSnBvMG1QV0RyZm9ZWWxQWkFOZzF2RXVqcDFrWWNaMlVtRUVYSXk1VnRQQTJkdFJDaWVRWXJrZjRES0ZvaWZaVEJKR1B5MUM0czM0ZzRjeS03VndJMnRLek0wTFFaTXZxQlZOc1RUeDh1cGRHclJrcnZBUGpZUFg5c0FfZXVuZHlpMVRWQUg1M0dVcXBMOGhTVXlPMDZvaUFDV25Jclh4OWR1elFiaUs4REdQbHNDemp3dEE?oc=5",
-          "source": "gnews"
+          "title": "Claude Sonnet 5",
+          "url": "https://www.anthropic.com/news/claude-sonnet-5",
+          "source": "hackernews"
         }
       ],
-      "id": "aac6482130ec",
-      "slug": "promise-speed",
+      "id": "28d031c22bf1",
+      "slug": "claude-sonnet",
       "opportunity": {
-        "type": "affiliate",
-        "recommended": "Write SEO comparison/roundup article with affiliate links."
+        "type": "tooling",
+        "recommended": "Build / list AI tools; monetize via affiliate links + lead magnet."
+      }
+    },
+    {
+      "keyword": "trans pride",
+      "count": 8,
+      "score": 111.06997743590736,
+      "proper": true,
+      "niches": [
+        "software"
+      ],
+      "examples": [
+        {
+          "title": "On the last day of Pride Month, happy Trans Pride, now and forever and ever and ever, Amen.",
+          "url": "https://digipres.club/@foone/116840142202082555",
+          "source": "mastodon"
+        },
+        {
+          "title": "On the last day of Pride Month, happy Trans Pride, now and forever and ever and ever, Amen.",
+          "url": "https://digipres.club/@foone/116840142202082555",
+          "source": "mastodon"
+        }
+      ],
+      "id": "4441922b44fb",
+      "slug": "trans-pride",
+      "opportunity": {
+        "type": "niche-content",
+        "recommended": "Publish niche guide for \"software\"; bundle into digital product later."
       }
     },
     {
       "keyword": "income",
-      "count": 20,
-      "score": 129.33793829725187,
+      "count": 19,
+      "score": 110.7498674409442,
       "proper": true,
       "niches": [
         "finance"
       ],
       "examples": [
         {
-          "title": "The labor share of income in the US is at its lowest post-war level",
-          "url": "https://libertystreeteconomics.newyorkfed.org/2026/06/the-post-covid-decline-in-the-labor-share/",
-          "source": "hackernews"
-        },
-        {
-          "title": "5 High-Yield BlackRock ETFs Paying Over 5% Passive Income Right Now",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQM3U5N0k1dUFjVGdTUUlpQXR4R3RjRlFLY1NZSmpJenl6WUVzcXBUYTNiYVQwWWVBa3JyakxxUVN4YmNMSEk0bTNvdzdqVVBFSnFCV2Y4QWtsOUs3d1BNV0FrNUlrQUlnRlQtOGl0QVJpdlJsLTRrSGQ0T2JlYlplUm03X2J6cTdJbERQeXk4QTFGTzJ4WjBwWlY4ODI?oc=5",
+          "title": "Could This Dividend ETF Be Your Ticket to $500 per Month in Passive Income?",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdFdzODhCbVF3ZWUzMHZGNzlyYjBic3lZNlJxMzJlWU1MQjhwSDNFVUNBNVI4NGx6WjNaZzRDSXZVUFVPOVJ3VktuWkZlNFRjdVBoQ0tfZVlxRTJ4b3lMdmtJMmJDS3JZWFNjbmhIdkhTN0RoVExnVHlWTWp0N0ZMV01KM2otcFJ6TV83Y0xhTXdrdWxWTmQ2WkN3?oc=5",
           "source": "gnews"
         },
         {
-          "title": "5 High-Yield BlackRock ETFs Paying Over 5% Passive Income Right Now",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQM3U5N0k1dUFjVGdTUUlpQXR4R3RjRlFLY1NZSmpJenl6WUVzcXBUYTNiYVQwWWVBa3JyakxxUVN4YmNMSEk0bTNvdzdqVVBFSnFCV2Y4QWtsOUs3d1BNV0FrNUlrQUlnRlQtOGl0QVJpdlJsLTRrSGQ0T2JlYlplUm03X2J6cTdJbERQeXk4QTFGTzJ4WjBwWlY4ODI?oc=5",
+          "title": "Could This Dividend ETF Be Your Ticket to $500 per Month in Passive Income?",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdFdzODhCbVF3ZWUzMHZGNzlyYjBic3lZNlJxMzJlWU1MQjhwSDNFVUNBNVI4NGx6WjNaZzRDSXZVUFVPOVJ3VktuWkZlNFRjdVBoQ0tfZVlxRTJ4b3lMdmtJMmJDS3JZWFNjbmhIdkhTN0RoVExnVHlWTWp0N0ZMV01KM2otcFJ6TV83Y0xhTXdrdWxWTmQ2WkN3?oc=5",
           "source": "gnews"
         },
         {
@@ -1044,6 +1062,11 @@
         {
           "title": "These 5 Passive Income Stocks Could Pay You For Life",
           "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbFFRRWdxUWc1OGlTNlRjbGREOHhNT3lHSFN3dEd5RUhuNWswUDNpYjhiU2laSGtRTFZ3ZS1kVUlQN21KVGtjY2FNUFRlcUM3QWt3ZEZ2M0FuUElwVjR4bHF6WGkxMjVIV1RObHN6bjRldElWOU16WW1XcU9XRWRvQXN1a3c3V1FuYl9tOTBSdUd3R2tnZTJsUGo4Y3Y?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "3 Magnificent Dividend ETFs That Could Supercharge Your Passive Income",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPS0p4Y1JWNWRXMG9QSkMwenh4OHVrb3VpQXVDckhUc1paUmlmYUd3NUsyaDlpTThNYV81cjRzTW5tQk9uM2JXUzZHZE5nUjdlR25SZnJXVWhTZVlfRzQwMm5PRVUtZktsS2s0SG45WkgyS0NoREg5Q0VDdVZ3Y19Bc3BYamhEWGgxR3NSWXFmNXhiOVFjMDZ2bmZHRlF3SlU?oc=5",
           "source": "gnews"
         }
       ],
@@ -1052,60 +1075,6 @@
       "opportunity": {
         "type": "niche-content",
         "recommended": "Publish niche guide for \"finance\"; bundle into digital product later."
-      }
-    },
-    {
-      "keyword": "marking requests",
-      "count": 8,
-      "score": 112.70412101582036,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "Claude Code Is Steganographically Marking Requests",
-          "url": "https://thereallo.dev/blog/claude-code-prompt-steganography",
-          "source": "hackernews"
-        },
-        {
-          "title": "Claude Code Is Steganographically Marking Requests",
-          "url": "https://thereallo.dev/blog/claude-code-prompt-steganography",
-          "source": "hackernews"
-        }
-      ],
-      "id": "08af5feec921",
-      "slug": "marking-requests",
-      "opportunity": {
-        "type": "niche-content",
-        "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
-      }
-    },
-    {
-      "keyword": "crash clock",
-      "count": 8,
-      "score": 102.45765999466414,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "My co-authors and I wrote an explainer article for the CRASH Clock that was supposed to get published last night, but it apparently didn't.  So I was all ready to write a thread about it, but I guess ",
-          "url": "https://mastodon.social/@sundogplanets/116839446538724032",
-          "source": "mastodon"
-        },
-        {
-          "title": "My co-authors and I wrote an explainer article for the CRASH Clock that was supposed to get published last night, but it apparently didn't.  So I was all ready to write a thread about it, but I guess ",
-          "url": "https://mastodon.social/@sundogplanets/116839446538724032",
-          "source": "mastodon"
-        }
-      ],
-      "id": "72e3727424c7",
-      "slug": "crash-clock",
-      "opportunity": {
-        "type": "niche-content",
-        "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
       }
     }
   ]
