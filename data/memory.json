@@ -706,8 +706,8 @@
     },
     "ground-message": {
       "firstSeen": "2026-06-03T06:01:28.733Z",
-      "lastSeen": "2026-06-03T19:42:00.223Z",
-      "count": 2,
+      "lastSeen": "2026-06-30T04:59:17.950Z",
+      "count": 3,
       "wins": 1,
       "losses": 0,
       "niche": "ai"
@@ -2370,8 +2370,8 @@
     },
     "premium": {
       "firstSeen": "2026-06-19T06:14:37.219Z",
-      "lastSeen": "2026-06-19T06:14:37.219Z",
-      "count": 1,
+      "lastSeen": "2026-06-30T04:59:13.006Z",
+      "count": 2,
       "wins": 0,
       "losses": 0,
       "niche": "ai"
@@ -3386,10 +3386,10 @@
     },
     "hilary-cass": {
       "firstSeen": "2026-06-24T22:05:05.410Z",
-      "lastSeen": "2026-06-24T22:05:05.410Z",
-      "count": 1,
+      "lastSeen": "2026-06-30T04:59:07.425Z",
+      "count": 2,
       "wins": 0,
-      "losses": 0,
+      "losses": 1,
       "niche": "software"
     },
     "gemini": {
@@ -4314,17 +4314,17 @@
     },
     "open-models": {
       "firstSeen": "2026-06-29T22:02:00.014Z",
-      "lastSeen": "2026-06-29T22:02:00.014Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-30T04:59:07.427Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
     "closed-environments": {
       "firstSeen": "2026-06-29T22:02:03.089Z",
-      "lastSeen": "2026-06-29T22:02:03.089Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-30T04:59:07.428Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -4343,12 +4343,28 @@
       "wins": 0,
       "losses": 0,
       "niche": "software"
+    },
+    "jersey-shore": {
+      "firstSeen": "2026-06-30T04:59:21.193Z",
+      "lastSeen": "2026-06-30T04:59:21.194Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "customer-support-reply-templates": {
+      "firstSeen": "2026-06-30T04:59:26.486Z",
+      "lastSeen": "2026-06-30T04:59:26.486Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "productivity"
     }
   },
   "niches": {
     "ai": {
-      "count": 930,
-      "wins": 259,
+      "count": 935,
+      "wins": 261,
       "losses": 39
     },
     "finance": {
@@ -4357,9 +4373,9 @@
       "losses": 0
     },
     "software": {
-      "count": 216,
+      "count": 217,
       "wins": 57,
-      "losses": 14
+      "losses": 15
     },
     "gear": {
       "count": 85,
@@ -4372,7 +4388,7 @@
       "losses": 0
     },
     "productivity": {
-      "count": 3,
+      "count": 4,
       "wins": 0,
       "losses": 0
     }
