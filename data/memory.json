@@ -474,8 +474,8 @@
     },
     "2026-_blank": {
       "firstSeen": "2026-05-31T21:45:59.853Z",
-      "lastSeen": "2026-06-23T04:57:18.968Z",
-      "count": 4,
+      "lastSeen": "2026-06-30T15:26:20.882Z",
+      "count": 5,
       "wins": 0,
       "losses": 0,
       "niche": "gear"
@@ -706,9 +706,9 @@
     },
     "ground-message": {
       "firstSeen": "2026-06-03T06:01:28.733Z",
-      "lastSeen": "2026-06-30T04:59:17.950Z",
-      "count": 3,
-      "wins": 1,
+      "lastSeen": "2026-06-30T15:25:21.048Z",
+      "count": 4,
+      "wins": 2,
       "losses": 0,
       "niche": "ai"
     },
@@ -1872,14 +1872,6 @@
       "losses": 0,
       "niche": "ai"
     },
-    "content-creators": {
-      "firstSeen": "2026-06-16T06:31:43.245Z",
-      "lastSeen": "2026-06-16T06:31:43.245Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "ai"
-    },
     "middle-aisle": {
       "firstSeen": "2026-06-16T18:03:56.471Z",
       "lastSeen": "2026-06-16T22:46:02.173Z",
@@ -2370,9 +2362,9 @@
     },
     "premium": {
       "firstSeen": "2026-06-19T06:14:37.219Z",
-      "lastSeen": "2026-06-30T04:59:13.006Z",
-      "count": 2,
-      "wins": 0,
+      "lastSeen": "2026-06-30T15:25:21.047Z",
+      "count": 3,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -4130,17 +4122,17 @@
     },
     "aimbot-full": {
       "firstSeen": "2026-06-28T21:51:34.016Z",
-      "lastSeen": "2026-06-28T21:51:34.016Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-30T15:25:21.043Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
     "full-perk": {
       "firstSeen": "2026-06-28T21:51:36.347Z",
-      "lastSeen": "2026-06-28T21:51:36.347Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-30T15:25:21.045Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -4330,9 +4322,9 @@
     },
     "fourth-amendment": {
       "firstSeen": "2026-06-29T22:02:05.784Z",
-      "lastSeen": "2026-06-29T22:02:05.784Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-06-30T15:25:21.046Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "software"
     },
@@ -4359,12 +4351,52 @@
       "wins": 0,
       "losses": 0,
       "niche": "productivity"
+    },
+    "crash-clock": {
+      "firstSeen": "2026-06-30T15:25:29.359Z",
+      "lastSeen": "2026-06-30T15:25:29.359Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "keyboard-thingy": {
+      "firstSeen": "2026-06-30T15:25:32.226Z",
+      "lastSeen": "2026-06-30T15:25:32.226Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "operating-systems": {
+      "firstSeen": "2026-06-30T15:25:35.704Z",
+      "lastSeen": "2026-06-30T15:25:35.704Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "software"
+    },
+    "latest-mongodb": {
+      "firstSeen": "2026-06-30T15:25:42.577Z",
+      "lastSeen": "2026-06-30T15:25:42.577Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "guy-eisenkot": {
+      "firstSeen": "2026-06-30T15:25:58.498Z",
+      "lastSeen": "2026-06-30T15:25:58.498Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
     }
   },
   "niches": {
     "ai": {
-      "count": 935,
-      "wins": 261,
+      "count": 944,
+      "wins": 265,
       "losses": 39
     },
     "finance": {
@@ -4373,8 +4405,8 @@
       "losses": 0
     },
     "software": {
-      "count": 217,
-      "wins": 57,
+      "count": 219,
+      "wins": 58,
       "losses": 15
     },
     "gear": {

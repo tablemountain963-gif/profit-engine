@@ -1,120 +1,230 @@
 {
-  "generatedAt": "2026-06-30T04:59:08.323Z",
-  "sourceCount": 205,
+  "generatedAt": "2026-06-30T15:25:24.687Z",
+  "sourceCount": 206,
   "topItems": [
     {
-      "title": ".self: A new top-level domain designed to support self-hosting",
-      "url": "https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/",
-      "score": 8.63,
-      "niche": "ai",
+      "title": "European digital ID wallets rely on safety services of Google and Apple",
+      "url": "https://waag.org/en/article/european-digital-id-wallets-are-gift-google-and-apple/",
+      "score": 10.84,
+      "niche": "software",
       "source": "hackernews",
       "engagement": {
-        "score": 404,
-        "comments": 226
+        "score": 517,
+        "comments": 217
       }
     },
     {
-      "title": "It appears ICE is unhappy with people knowing that Jonathan Ross has been identified as the ICE agent who shot and killed Renee Good. They tried to bully an election worker for sharing Jonathan Ross's",
-      "url": "https://mstdn.social/@allpoints/116836478202248613",
-      "score": 8.5,
-      "niche": "ai",
-      "source": "mastodon",
-      "engagement": {
-        "score": 185,
-        "comments": 9
-      }
-    },
-    {
-      "title": "This is your regular reminder that if you come into my replies to start a fight with me, I will simply block you and then promptly forget who you are.",
-      "url": "https://hachyderm.io/@evacide/116836885633397643",
-      "score": 8.14,
-      "niche": "ai",
-      "source": "mastodon",
-      "engagement": {
-        "score": 144,
-        "comments": 9
-      }
-    },
-    {
-      "title": "✨ A Sprinkle of JoyousJoyness ✨Cue warp sound...Have a JoyousJoyfulJoyness day!#happy #funny #frog #cute #joyousjoyness #repost",
-      "url": "https://mastodon.social/@joyousjoyness/116836114319125885",
-      "score": 7.8,
+      "title": "I don't even need to read the article to know this is what's going to happen.",
+      "url": "https://mastodon.social/@designthinkingcomic/116838340902044286",
+      "score": 9.39,
       "niche": "software",
       "source": "mastodon",
       "engagement": {
-        "score": 250,
+        "score": 803,
+        "comments": 11
+      }
+    },
+    {
+      "title": "For years we have been overwhelmed by the volume of code contributions we have to review, especially from new contributors.AI has made the problem much worse.That's why we are taking steps to reduce t",
+      "url": "https://mastodon.gamedev.place/@godotengine/116839550229253906",
+      "score": 9.3,
+      "niche": "ai",
+      "source": "mastodon",
+      "engagement": {
+        "score": 157,
         "comments": 7
+      }
+    },
+    {
+      "title": ".self: A new top-level domain designed to support self-hosting",
+      "url": "https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/",
+      "score": 9.14,
+      "niche": "ai",
+      "source": "hackernews",
+      "engagement": {
+        "score": 594,
+        "comments": 341
+      }
+    },
+    {
+      "title": "Words Are a Byproduct of Consciousness. For LLMs, It's Backwards",
+      "url": "https://ranpara.net/posts/words-are-a-byproduct-of-consciousness/",
+      "score": 8.95,
+      "niche": "ai",
+      "source": "hackernews",
+      "engagement": {
+        "score": 67,
+        "comments": 101
+      }
+    },
+    {
+      "title": "We need to either return to a pre-bot/AI internet, or flee to create a new one. Call me naive, but back in the 1990s I was under the impression that the internet's destiny was to be an unprecedented, ",
+      "url": "https://mastodon.social/@Richard_Littler/116838612044666548",
+      "score": 8.33,
+      "niche": "ai",
+      "source": "mastodon",
+      "engagement": {
+        "score": 364,
+        "comments": 18
+      }
+    },
+    {
+      "title": "So Fediverse, last week I was laid off by my employer, Elastic, as part of a wider reorg that made my position redundant. 7% of the global workforce was impacted, so I'm not alone in this 😢I would ap",
+      "url": "https://hachyderm.io/@endorama/116838922459983798",
+      "score": 8.29,
+      "niche": "ai",
+      "source": "mastodon",
+      "engagement": {
+        "score": 376,
+        "comments": 6
+      }
+    },
+    {
+      "title": "The best AI tools for writing, research and crisis response",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZ19CNF9xcE8zb1JTdUQxNlk0MzhWVU1HZ3E0WmRuZ0hLQTZVVTZkV1pycnBBM0xRZ3lwXy1ndnFNMUVkWUFiYTVKeG5SSzQ4VEZRS3Z2Szk3SDJsaHFST1Vub3c0R2FFUUhtcUZfTlRfNHpzSFBUYTVDVGRBbjVJY3lJRTk5Wk10ZUhZ?oc=5",
+      "score": 8.26,
+      "niche": "ai",
+      "source": "gnews",
+      "engagement": {
+        "score": 40,
+        "comments": 0
+      }
+    },
+    {
+      "title": "The 5 Best AI Visibility Tools That Actually Work in 2026",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeFE2MkozbHZZelBNVmdkUm5qcENtSlNlcmJyVW9VSng0eVVzOTJ5d25sbEtXTlYtRFNzSVNpMHBOblZiandNYmQwN3ZValpFcjduVXJyTW5KcWJtV2M3bjFvZVBTZU9ud3dRb1dHY0dtSGhKakVMN3ZkZEtPX3JlNUhUYnNhYUlIRTVpbUFCMUZYNGxBTUVCZg?oc=5",
+      "score": 8.26,
+      "niche": "ai",
+      "source": "gnews",
+      "engagement": {
+        "score": 40,
+        "comments": 0
+      }
+    },
+    {
+      "title": "Following recent news, we have cancelled Mullvad's sponsorship of EMF 2026.If you'd like to contribute to make up for the lost income, you can still sponsor EMF through our ticket shop:https://www.emf",
+      "url": "https://social.emfcamp.org/@emf/statuses/01KWBXJ4JCNBK3AZ2YW3M22J9D",
+      "score": 8.18,
+      "niche": "finance",
+      "source": "mastodon",
+      "engagement": {
+        "score": 493,
+        "comments": 19
+      }
+    },
+    {
+      "title": "My co-authors and I wrote an explainer article for the CRASH Clock that was supposed to get published last night, but it apparently didn't.  So I was all ready to write a thread about it, but I guess ",
+      "url": "https://mastodon.social/@sundogplanets/116839446538724032",
+      "score": 7.7,
+      "niche": "ai",
+      "source": "mastodon",
+      "engagement": {
+        "score": 115,
+        "comments": 4
       }
     },
     {
       "title": "Ornith-1.0: self-improving open-source models for agentic coding",
       "url": "https://github.com/deepreinforce-ai/Ornith-1",
-      "score": 7.06,
+      "score": 7.43,
       "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 179,
-        "comments": 35
+        "score": 242,
+        "comments": 45
       }
     },
     {
-      "title": "This presidency invokes so many literary allusions of late. Last week, it was Narcissus at the green slime Reflecting Pool. This week, we're tilting at windmills again. Mind you, this has nothing to d",
-      "url": "https://infosec.exchange/@briankrebs/116836564535756443",
-      "score": 6.58,
+      "title": "100 MNT Reform Next mainboards are chilling in this (ESD) box",
+      "url": "https://mastodon.social/@mntmn/116839018998993664",
+      "score": 7.23,
       "niche": "ai",
       "source": "mastodon",
       "engagement": {
-        "score": 95,
-        "comments": 9
+        "score": 167,
+        "comments": 7
       }
     },
     {
-      "title": "Today I released C1B, the most personal app I’ve ever built.Earlier this year, my father was diagnosed with lymphoma, and my family quickly outgrew our binders, Notes, spreadsheets, and group chats tr",
-      "url": "https://mastodon.social/@atow/116836299225679121",
-      "score": 6.56,
+      "title": "The only data centre I want is a Library. Pass it on.#library",
+      "url": "https://mastodon.scot/@twoowls73/116838705933492317",
+      "score": 7.21,
       "niche": "software",
       "source": "mastodon",
       "engagement": {
-        "score": 106,
+        "score": 371,
+        "comments": 2
+      }
+    },
+    {
+      "title": "‼️⚖️ The #US Supreme Court has declared all independent authorities unconsitutional – effectively blowing up the EU-US deal on data transfers.👉Click the link below for noyb's full assessment of the s",
+      "url": "https://mastodon.social/@noybeu/116839534455221568",
+      "score": 7.03,
+      "niche": "software",
+      "source": "mastodon",
+      "engagement": {
+        "score": 150,
         "comments": 1
       }
     },
     {
-      "title": "Air to Ground Message: WIFI ERRATIC NO CREW PHONE BUT WE CAPTURED A HAMSTER IN FLIGHT DECK FA 1 HAS IT NOW IN A Area: Jersey Shore, NJ, USA Type: Airbus A321A: #a283259c161 F: #f1e0f6594d5 #acars #vdl",
-      "url": "https://live.acarsdrama.com/@acarsdrama/116836838152462341",
-      "score": 6.45,
+      "title": "TianhangZhuzth/Fundamental-Ava — Build digital human beings — autonomous, collaborative, and socially intelligent agents.",
+      "url": "https://github.com/TianhangZhuzth/Fundamental-Ava",
+      "score": 6.91,
       "niche": "ai",
-      "source": "mastodon",
+      "source": "github",
       "engagement": {
-        "score": 95,
-        "comments": 4
+        "score": 498,
+        "comments": 0
+      }
+    },
+    {
+      "title": "Think Twice Before Using That Unsanctioned AI App at Work",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBlNjd2YkJ0S0hZZGVqQVEwbkY1ZUxROXVhMTNBV3MwaW9vWkJtNTJvOFhlanFQc2ZyOXZ3cVl0MmNxR01NcVh2WjFOWkpHYll3M2hQdGhVSF81M0FEVXFsNWVoZV9vVTNNZFBESkdMRnhfVHA4REdRdjF0U2E?oc=5",
+      "score": 6.71,
+      "niche": "ai",
+      "source": "gnews",
+      "engagement": {
+        "score": 40,
+        "comments": 0
       }
     },
     {
       "title": "LongCat-2.0, a large-scale MoE model with 1.6T total and 48B Active",
       "url": "https://longcat.chat/blog/longcat-2.0/",
-      "score": 6.36,
+      "score": 6.45,
       "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 62,
-        "comments": 17
+        "score": 211,
+        "comments": 60
       }
     },
     {
-      "title": "What happens when you run a CUDA kernel?",
-      "url": "https://fergusfinn.com/blog/what-happens-when-you-run-a-gpu-kernel/",
-      "score": 6.34,
+      "title": "Best Budgeting Apps Of 2026",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1IMzFaUkNOY3Y2LXg2OEdzVnZ6Nm1kQUZmUUJZVFNoQ0V5NzNKcVhoaXNldDVFVTdwcW5TM1UwWmFhamdJdGtuR01RN1RtTUJQbHdyRERSUFJHMy1QSVhPUEJsVnVIa0x1anRweXpQT2JaOTBibG1nOEVB?oc=5",
+      "score": 6.19,
+      "niche": "finance",
+      "source": "gnews",
+      "engagement": {
+        "score": 40,
+        "comments": 0
+      }
+    },
+    {
+      "title": "Zluda 6 release (run unmodified CUDA applications on non-Nvidia GPUs)",
+      "url": "https://vosen.github.io/ZLUDA/blog/zluda-update-q1q2-2026/",
+      "score": 6.07,
       "niche": "software",
       "source": "hackernews",
       "engagement": {
-        "score": 231,
-        "comments": 28
+        "score": 64,
+        "comments": 6
       }
     },
     {
-      "title": "Evaluating 5 of the Best AI Tools for Academic Research in 2026",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeFFsYkdKMzRJVklfS2dqMkhpNWVWenpyR3ZCdV8wYWpXVG51V0czVVdQanRURFp4ZV9IaGE3VXlORWZRalZqZkFoRGMzT0lvLVUya3loQ0NJcEgwWDlFVzRwdEVCcXhlUUtpaHVKbWRpYlpLUkZaWkoxZ1dMRVowaVBDRi1rckxweGszR3ZZQ1YzVzRWRkZn?oc=5",
+      "title": "Anthropic to provide California government with AI tools",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWEl4MEh5aEQ5NEoxaGdNOE1raERyN2ttREhRWlhOMVFEcGhDQ1B5a0dIWTNyMm1jU0NGWXBxQmR0UHFXaXRia1BWX0hiSC1UdGZLVmcyY3pnZGZGbU9GOTh1WTFYSVpjeXluY0tSVmROV21pd19lNGpuVDg1TXdNSjVGd24wWC1TWHl0SkdnVngxWmpLLWJn?oc=5",
       "score": 5.99,
       "niche": "ai",
       "source": "gnews",
@@ -124,36 +234,14 @@
       }
     },
     {
-      "title": "10 Powerful AI Tools for Product Managers in 2026",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1vWUxsb3ZBQ2xoalNUQ2R5MHRjb3gwM0psczJiZ1dCYzgtc0tMNnktVmd2Z05zXzdtRHRnV2lZT24zWEJMWkN4UFRIdDdySFdzVGpfTW55WUN1OGlpYzdRWEt1UGRkRHllTzI0StIBb0FVX3lxTE1CeWxKclh1MmNaNzBtSXNFRzVMUXhwY3BUSEhKa1ZOZWRENWF4ZTRldDJTY3piVmhVYkxja0tfVFdrZUxGdlNDZGdDcUlWQzlKV0RUbU96WXhQcHR2cmZQdnc0M19kMjJoMHpmdTdibw?oc=5",
+      "title": "Latest MongoDB tools tackle top AI development hurdles",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSmpLamJ2d1lXaGRmbmNqREVOZUdObDQyanVYTFdIeExDZWZ1RjZzajZLak5IOEJmX1VFX2VMbGgtM3dmOHd5bnBOYVV0bzVuenc4Tm9qay1WZVV6aFVxNFRERG9zbnIxczhwVG5tYXFXbEJPWVliYUtzWnBEb2dpc1NXakR2RjFFd0NKTjZsRUI3cmNseGNTMnlsWTVxcDJYbDloOTdWd2VnVUVEN1pjVUMzTFNEUTI4?oc=5",
       "score": 5.99,
       "niche": "ai",
       "source": "gnews",
       "engagement": {
         "score": 40,
         "comments": 0
-      }
-    },
-    {
-      "title": "10 Best AI Productivity Apps in 2026 (Categorized Guide)",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ldGkwQm9Vblo4TmY5TWFzVGlIWGdlZGl5VUxPN3BGMkdhZGhIWmFFVm5xelVVSEtwNEExS09nX2NPLWZDdEI4WWsxd1FFS2gwR3RzQTRwaWRyWEE3cVlV0gFfQVVfeXFMT2V0aTBCb1VuWjhOZjlNYXNUaUhYZ2VkaXlVTE83cEYyR2FkaEhaYUVWbnF6VVVIS3A0QTFLT2dfY08tZkN0QjhZazF3UUVLaDBHdHNBNHBpZHJYQTdxWVU?oc=5",
-      "score": 5.88,
-      "niche": "ai",
-      "source": "gnews",
-      "engagement": {
-        "score": 40,
-        "comments": 0
-      }
-    },
-    {
-      "title": "Working With AI: A concrete example",
-      "url": "https://htmx.org/essays/working-with-ai/",
-      "score": 5.86,
-      "niche": "ai",
-      "source": "hackernews",
-      "engagement": {
-        "score": 116,
-        "comments": 39
       }
     },
     {
@@ -181,99 +269,11 @@
     {
       "title": "offchainthoughts/Amber — Bank the expensive compute once, then carry it offline as a single file that can prove it is what it claims to be.",
       "url": "https://github.com/offchainthoughts/Amber",
-      "score": 5.5,
+      "score": 5.56,
       "niche": "ai",
       "source": "github",
       "engagement": {
-        "score": 308,
-        "comments": 0
-      }
-    },
-    {
-      "title": "AI Tools Accelerates Coding, but Not Overall Software Delivery, GitLab Research Finds",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBBeFd4UUVNbVNpZzFEbGFKaHhLTkpNbERCRmNuRlh4TVB4c1EzV0ZqVnB0NUoyeDJmZmFmOUh0dHhKdDFaalg0THN4c2NNRjJ0TDFZbHctaEpRQmVkT2Fad01uQmJlLTVIM0Q0RVhaQ21iaEU?oc=5",
-      "score": 5.37,
-      "niche": "ai",
-      "source": "gnews",
-      "engagement": {
-        "score": 40,
-        "comments": 0
-      }
-    },
-    {
-      "title": "DoubleVerify (DV) Shifts Into Russell 2000 As AI Tools Expand Reach: Is Its Ad-Tech Edge Growing?",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPTy11cGFLVWlHd1VkVUo2ZEtkcUxQa1Zzb0FGRlhWRExXNTRoT1l5Vl9kQ1hnelViS1FmeHFUeUwzcE41SzdBTVdSMi1ERllsUFJwNFU1N2oyVWRPQXZFV2YydEZDWWJSV05rYW54QTlZRl9UUXFKMHdUUmZHMHVqcWF2eGtHTldLb0JvQ01LcVkzZ0ZxMU1jTTVfS005U1FNRkM1UE55OEw0R3Rjay01VkNFdEdOWW94ekxTN1poQ2V1Y29PVmhuQzJwS2_SAdIBQVVfeXFMTXdfWDFjOVNuNjQ0ckVCbUhWRlZPQnBrYUJuUHZkbVFRUVhMeWgtZXVXdDJ2ZzhhOEVsNV9WMzBCeXg1Z2hnb3VMdFMydjA0U252YUJCaDlQOWdlOVpNRzhOY3JrU3pRWndNNlNxakVXVjEtSFVhdXFXTjdDUHJJcHpEdUdGdk9DUkFtcUY2ckhRRGFXR0pTdVNBX2lhTm9uU01nUjVkYVRYUEN0STBGc21uQUphV3RHcnZTSk5YckJGRmdUNmRneFVSRDNPSVRUaHJn?oc=5",
-      "score": 5.37,
-      "niche": "ai",
-      "source": "gnews",
-      "engagement": {
-        "score": 40,
-        "comments": 0
-      }
-    },
-    {
-      "title": "dimasarestuprasmanto/Pet-Simulator-99-Auto-Farm-Trainer-2026-Tera — Tera edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automati",
-      "url": "https://github.com/dimasarestuprasmanto/Pet-Simulator-99-Auto-Farm-Trainer-2026-Tera",
-      "score": 5.14,
-      "niche": "ai",
-      "source": "github",
-      "engagement": {
-        "score": 212,
-        "comments": 0
-      }
-    },
-    {
-      "title": "NagaaSaketh/Pet-Simulator-99-Auto-Farm-Trainer-2026-Ultimate — Ultimate edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatic",
-      "url": "https://github.com/NagaaSaketh/Pet-Simulator-99-Auto-Farm-Trainer-2026-Ultimate",
-      "score": 5.14,
-      "niche": "ai",
-      "source": "github",
-      "engagement": {
-        "score": 212,
-        "comments": 0
-      }
-    },
-    {
-      "title": "MuhammadHanzalaIqbal/Pet-Simulator-99-Auto-Farm-Trainer-2026-Turbo — Turbo edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automa",
-      "url": "https://github.com/MuhammadHanzalaIqbal/Pet-Simulator-99-Auto-Farm-Trainer-2026-Turbo",
-      "score": 5.14,
-      "niche": "ai",
-      "source": "github",
-      "engagement": {
-        "score": 211,
-        "comments": 0
-      }
-    },
-    {
-      "title": "mofouly/Pet-Simulator-99-Auto-Farm-Trainer-2026-Giga — Giga edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatically. Fully ",
-      "url": "https://github.com/mofouly/Pet-Simulator-99-Auto-Farm-Trainer-2026-Giga",
-      "score": 5.12,
-      "niche": "ai",
-      "source": "github",
-      "engagement": {
-        "score": 207,
-        "comments": 0
-      }
-    },
-    {
-      "title": "perglervitek/Pet-Simulator-99-Auto-Farm-Trainer-2026-X — X edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatically. Fully u",
-      "url": "https://github.com/perglervitek/Pet-Simulator-99-Auto-Farm-Trainer-2026-X",
-      "score": 5.12,
-      "niche": "ai",
-      "source": "github",
-      "engagement": {
-        "score": 207,
-        "comments": 0
-      }
-    },
-    {
-      "title": "NagaaSaketh/Pet-Simulator-99-Auto-Farm-Trainer-2026-Nitro — Boost your Pet Simulator 99 progress with the Nitro trainer. Auto-farm, auto-hatch, instant break, and League auto-grind – all in one sleek ",
-      "url": "https://github.com/NagaaSaketh/Pet-Simulator-99-Auto-Farm-Trainer-2026-Nitro",
-      "score": 5.11,
-      "niche": "ai",
-      "source": "github",
-      "engagement": {
-        "score": 206,
+        "score": 327,
         "comments": 0
       }
     }
@@ -282,7 +282,7 @@
     {
       "keyword": "pet simulator",
       "count": 96,
-      "score": 728.966707630592,
+      "score": 729.0206049965394,
       "proper": true,
       "niches": [
         "ai"
@@ -320,7 +320,7 @@
     {
       "keyword": "backrooms league",
       "count": 80,
-      "score": 606.238807084139,
+      "score": 606.2927044500864,
       "proper": true,
       "niches": [
         "ai"
@@ -356,48 +356,9 @@
       "slug": "backrooms-league"
     },
     {
-      "keyword": "passive income",
-      "count": 44,
-      "score": 205.64929513804697,
-      "proper": true,
-      "niches": [
-        "finance",
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "The New Ideal Job: Passive Income",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5yREQycU1iTVZUT2RsZDZuNWJVRGRGUE4zZXFVSHlJcHFIdnhadzFQTEVPbDcxbXdlQXJDTm0xbGxQeDY4U2ZOQ3Z1eDZsRzctVl80bmlodDdpUHVYSzdXNU1WTjBybTZZUTZaVzhKN0FWdDEwZ3ByaUU3LXJXZw?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "The New Ideal Job: Passive Income",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5yREQycU1iTVZUT2RsZDZuNWJVRGRGUE4zZXFVSHlJcHFIdnhadzFQTEVPbDcxbXdlQXJDTm0xbGxQeDY4U2ZOQ3Z1eDZsRzctVl80bmlodDdpUHVYSzdXNU1WTjBybTZZUTZaVzhKN0FWdDEwZ3ByaUU3LXJXZw?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "The New Ideal Job: Passive Income",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5yREQycU1iTVZUT2RsZDZuNWJVRGRGUE4zZXFVSHlJcHFIdnhadzFQTEVPbDcxbXdlQXJDTm0xbGxQeDY4U2ZOQ3Z1eDZsRzctVl80bmlodDdpUHVYSzdXNU1WTjBybTZZUTZaVzhKN0FWdDEwZ3ByaUU3LXJXZw?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Is PepsiCo (PEP) One of the 10 Best Dividend Stocks to Buy for Passive Income?",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOS2hRcVoxUXA2emtEa3UyZG1VYUVJZUp3bWxwN3d6NU9SV2FCSVRlWUtnSC10VXNOLTk1dzJ1eEYyOV9Ydjg4YWhxaHEwTEdsSjBULXpXc3RBeTFkOEFSdExjNkhXTXltNlZNMF9qV2dtS0lOVnRwVkJQOUptT0REa2ZISzBOZUZhb2RaUDdTUDBVdw?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Is PepsiCo (PEP) One of the 10 Best Dividend Stocks to Buy for Passive Income?",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOS2hRcVoxUXA2emtEa3UyZG1VYUVJZUp3bWxwN3d6NU9SV2FCSVRlWUtnSC10VXNOLTk1dzJ1eEYyOV9Ydjg4YWhxaHEwTEdsSjBULXpXc3RBeTFkOEFSdExjNkhXTXltNlZNMF9qV2dtS0lOVnRwVkJQOUptT0REa2ZISzBOZUZhb2RaUDdTUDBVdw?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "cf2dbbbf8c8c",
-      "slug": "passive-income"
-    },
-    {
       "keyword": "edition advanced",
       "count": 24,
-      "score": 124.9040103415218,
+      "score": 124.91748468300864,
       "proper": false,
       "niches": [
         "ai"
@@ -435,7 +396,7 @@
     {
       "keyword": "advanced pet",
       "count": 24,
-      "score": 124.9040103415218,
+      "score": 124.91748468300864,
       "proper": false,
       "niches": [
         "ai"
@@ -473,7 +434,7 @@
     {
       "keyword": "simulator automation",
       "count": 24,
-      "score": 124.9040103415218,
+      "score": 124.91748468300864,
       "proper": false,
       "niches": [
         "ai"
@@ -511,7 +472,7 @@
     {
       "keyword": "automation tool",
       "count": 24,
-      "score": 124.9040103415218,
+      "score": 124.91748468300864,
       "proper": false,
       "niches": [
         "ai"
@@ -549,7 +510,7 @@
     {
       "keyword": "tool farm",
       "count": 24,
-      "score": 124.9040103415218,
+      "score": 124.91748468300864,
       "proper": false,
       "niches": [
         "ai"
@@ -587,7 +548,7 @@
     {
       "keyword": "farm coins",
       "count": 24,
-      "score": 124.9040103415218,
+      "score": 124.91748468300864,
       "proper": false,
       "niches": [
         "ai"
@@ -625,7 +586,7 @@
     {
       "keyword": "coins hatch",
       "count": 24,
-      "score": 124.9040103415218,
+      "score": 124.91748468300864,
       "proper": false,
       "niches": [
         "ai"
@@ -663,7 +624,7 @@
     {
       "keyword": "hatch eggs",
       "count": 24,
-      "score": 124.9040103415218,
+      "score": 124.91748468300864,
       "proper": false,
       "niches": [
         "ai"
@@ -701,7 +662,7 @@
     {
       "keyword": "eggs complete",
       "count": 24,
-      "score": 124.9040103415218,
+      "score": 124.91748468300864,
       "proper": false,
       "niches": [
         "ai"
@@ -739,7 +700,7 @@
     {
       "keyword": "complete backrooms",
       "count": 24,
-      "score": 124.9040103415218,
+      "score": 124.91748468300864,
       "proper": false,
       "niches": [
         "ai"
@@ -777,7 +738,7 @@
     {
       "keyword": "league tasks",
       "count": 24,
-      "score": 124.9040103415218,
+      "score": 124.91748468300864,
       "proper": false,
       "niches": [
         "ai"
@@ -813,39 +774,93 @@
       "slug": "league-tasks"
     },
     {
-      "keyword": "academic research",
-      "count": 11,
-      "score": 98.77978565637038,
-      "proper": true,
+      "keyword": "2026 _blank",
+      "count": 27,
+      "score": 102.1085715366399,
+      "proper": false,
       "niches": [
-        "ai"
+        "ai",
+        "finance",
+        "gear",
+        "general"
       ],
       "examples": [
         {
-          "title": "Evaluating 5 of the Best AI Tools for Academic Research in 2026",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeFFsYkdKMzRJVklfS2dqMkhpNWVWenpyR3ZCdV8wYWpXVG51V0czVVdQanRURFp4ZV9IaGE3VXlORWZRalZqZkFoRGMzT0lvLVUya3loQ0NJcEgwWDlFVzRwdEVCcXhlUUtpaHVKbWRpYlpLUkZaWkoxZ1dMRVowaVBDRi1rckxweGszR3ZZQ1YzVzRWRkZn?oc=5",
+          "title": "The 5 Best AI Visibility Tools That Actually Work in 2026",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeFE2MkozbHZZelBNVmdkUm5qcENtSlNlcmJyVW9VSng0eVVzOTJ5d25sbEtXTlYtRFNzSVNpMHBOblZiandNYmQwN3ZValpFcjduVXJyTW5KcWJtV2M3bjFvZVBTZU9ud3dRb1dHY0dtSGhKakVMN3ZkZEtPX3JlNUhUYnNhYUlIRTVpbUFCMUZYNGxBTUVCZg?oc=5",
           "source": "gnews"
         },
         {
-          "title": "Evaluating 5 of the Best AI Tools for Academic Research in 2026",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeFFsYkdKMzRJVklfS2dqMkhpNWVWenpyR3ZCdV8wYWpXVG51V0czVVdQanRURFp4ZV9IaGE3VXlORWZRalZqZkFoRGMzT0lvLVUya3loQ0NJcEgwWDlFVzRwdEVCcXhlUUtpaHVKbWRpYlpLUkZaWkoxZ1dMRVowaVBDRi1rckxweGszR3ZZQ1YzVzRWRkZn?oc=5",
+          "title": "Best Budgeting Apps Of 2026",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1IMzFaUkNOY3Y2LXg2OEdzVnZ6Nm1kQUZmUUJZVFNoQ0V5NzNKcVhoaXNldDVFVTdwcW5TM1UwWmFhamdJdGtuR01RN1RtTUJQbHdyRERSUFJHMy1QSVhPUEJsVnVIa0x1anRweXpQT2JaOTBibG1nOEVB?oc=5",
           "source": "gnews"
         },
         {
-          "title": "Evaluating 5 of the Best AI Tools for Academic Research in 2026",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeFFsYkdKMzRJVklfS2dqMkhpNWVWenpyR3ZCdV8wYWpXVG51V0czVVdQanRURFp4ZV9IaGE3VXlORWZRalZqZkFoRGMzT0lvLVUya3loQ0NJcEgwWDlFVzRwdEVCcXhlUUtpaHVKbWRpYlpLUkZaWkoxZ1dMRVowaVBDRi1rckxweGszR3ZZQ1YzVzRWRkZn?oc=5",
+          "title": "The Best Gadgets of June 2026",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA1cHRyVHlmemVpN3lnc09ocDBYc1RJa2xzbjVBWEs5VElLT29mRzFubnNxLVlhbF9aQVB6M0RLcVhKbnFITVFqaFlhVFVtYjZ5dkwtWW5YUDFEYThJOEE0YlNpbw?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Top tech of the month: the best new gadgets we've tested for July 2026",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdlJxVHc3c2ZtWENMeDhFTDQ2R1VMYzlWMFJFTW5PekdhYTdBOEZJNmNVeUhWUmp3X2tjRWhZcEo5N3czVmdtY0JzUmlCVWtNT2FlUVZHTXdwUExWdV9LajhZVHRVMTZkdzNpSkhTRi1Tb3IzenJoZFhfOW5BNlJDaU1TbFVjRG1oNGhoa3dLdFYzaGp4M2dyZTFqNEx6VnFx?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "6 Best AI Tools for Creating Automotive Marketing Videos in 2026",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOU21DMnAyUC1Sd3VuUzBEYjdDRU01a0dGd2ZhQngzazlYVk9aMHZ4UUNacUM4cERHRzcwckE1S0V3dnZnWDdPalhsSEhxbWQtcHdEajIyS2Rocl9WOU1ncjVlVXJ6OWRRN1R1UGQwc1h2LWlUOWNwYUdiUkF0XzdhcXdXdE1kbEQzVVdkZS04emN3WlNQWndxT2pDbDNTWWxTZ0k2dVRMczE?oc=5",
           "source": "gnews"
         }
       ],
-      "id": "d788d2ddf5e7",
-      "slug": "academic-research"
+      "id": "436796f27eb8",
+      "slug": "2026-_blank"
+    },
+    {
+      "keyword": "2026 6f6f6f",
+      "count": 27,
+      "score": 102.1085715366399,
+      "proper": false,
+      "niches": [
+        "ai",
+        "finance",
+        "gear",
+        "general"
+      ],
+      "examples": [
+        {
+          "title": "The 5 Best AI Visibility Tools That Actually Work in 2026",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeFE2MkozbHZZelBNVmdkUm5qcENtSlNlcmJyVW9VSng0eVVzOTJ5d25sbEtXTlYtRFNzSVNpMHBOblZiandNYmQwN3ZValpFcjduVXJyTW5KcWJtV2M3bjFvZVBTZU9ud3dRb1dHY0dtSGhKakVMN3ZkZEtPX3JlNUhUYnNhYUlIRTVpbUFCMUZYNGxBTUVCZg?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Best Budgeting Apps Of 2026",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1IMzFaUkNOY3Y2LXg2OEdzVnZ6Nm1kQUZmUUJZVFNoQ0V5NzNKcVhoaXNldDVFVTdwcW5TM1UwWmFhamdJdGtuR01RN1RtTUJQbHdyRERSUFJHMy1QSVhPUEJsVnVIa0x1anRweXpQT2JaOTBibG1nOEVB?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "The Best Gadgets of June 2026",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA1cHRyVHlmemVpN3lnc09ocDBYc1RJa2xzbjVBWEs5VElLT29mRzFubnNxLVlhbF9aQVB6M0RLcVhKbnFITVFqaFlhVFVtYjZ5dkwtWW5YUDFEYThJOEE0YlNpbw?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Top tech of the month: the best new gadgets we've tested for July 2026",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdlJxVHc3c2ZtWENMeDhFTDQ2R1VMYzlWMFJFTW5PekdhYTdBOEZJNmNVeUhWUmp3X2tjRWhZcEo5N3czVmdtY0JzUmlCVWtNT2FlUVZHTXdwUExWdV9LajhZVHRVMTZkdzNpSkhTRi1Tb3IzenJoZFhfOW5BNlJDaU1TbFVjRG1oNGhoa3dLdFYzaGp4M2dyZTFqNEx6VnFx?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "6 Best AI Tools for Creating Automotive Marketing Videos in 2026",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOU21DMnAyUC1Sd3VuUzBEYjdDRU01a0dGd2ZhQngzazlYVk9aMHZ4UUNacUM4cERHRzcwckE1S0V3dnZnWDdPalhsSEhxbWQtcHdEajIyS2Rocl9WOU1ncjVlVXJ6OWRRN1R1UGQwc1h2LWlUOWNwYUdiUkF0XzdhcXdXdE1kbEQzVVdkZS04emN3WlNQWndxT2pDbDNTWWxTZ0k2dVRMczE?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "819223dcf234",
+      "slug": "2026-6f6f6f"
     }
   ],
   "opportunities": [
     {
       "keyword": "pet simulator",
       "count": 96,
-      "score": 728.966707630592,
+      "score": 729.0206049965394,
       "proper": true,
       "niches": [
         "ai"
@@ -887,7 +902,7 @@
     {
       "keyword": "backrooms league",
       "count": 80,
-      "score": 606.238807084139,
+      "score": 606.2927044500864,
       "proper": true,
       "niches": [
         "ai"
@@ -927,52 +942,9 @@
       }
     },
     {
-      "keyword": "passive income",
-      "count": 44,
-      "score": 205.64929513804697,
-      "proper": true,
-      "niches": [
-        "finance",
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "The New Ideal Job: Passive Income",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5yREQycU1iTVZUT2RsZDZuNWJVRGRGUE4zZXFVSHlJcHFIdnhadzFQTEVPbDcxbXdlQXJDTm0xbGxQeDY4U2ZOQ3Z1eDZsRzctVl80bmlodDdpUHVYSzdXNU1WTjBybTZZUTZaVzhKN0FWdDEwZ3ByaUU3LXJXZw?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "The New Ideal Job: Passive Income",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5yREQycU1iTVZUT2RsZDZuNWJVRGRGUE4zZXFVSHlJcHFIdnhadzFQTEVPbDcxbXdlQXJDTm0xbGxQeDY4U2ZOQ3Z1eDZsRzctVl80bmlodDdpUHVYSzdXNU1WTjBybTZZUTZaVzhKN0FWdDEwZ3ByaUU3LXJXZw?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "The New Ideal Job: Passive Income",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5yREQycU1iTVZUT2RsZDZuNWJVRGRGUE4zZXFVSHlJcHFIdnhadzFQTEVPbDcxbXdlQXJDTm0xbGxQeDY4U2ZOQ3Z1eDZsRzctVl80bmlodDdpUHVYSzdXNU1WTjBybTZZUTZaVzhKN0FWdDEwZ3ByaUU3LXJXZw?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Is PepsiCo (PEP) One of the 10 Best Dividend Stocks to Buy for Passive Income?",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOS2hRcVoxUXA2emtEa3UyZG1VYUVJZUp3bWxwN3d6NU9SV2FCSVRlWUtnSC10VXNOLTk1dzJ1eEYyOV9Ydjg4YWhxaHEwTEdsSjBULXpXc3RBeTFkOEFSdExjNkhXTXltNlZNMF9qV2dtS0lOVnRwVkJQOUptT0REa2ZISzBOZUZhb2RaUDdTUDBVdw?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Is PepsiCo (PEP) One of the 10 Best Dividend Stocks to Buy for Passive Income?",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOS2hRcVoxUXA2emtEa3UyZG1VYUVJZUp3bWxwN3d6NU9SV2FCSVRlWUtnSC10VXNOLTk1dzJ1eEYyOV9Ydjg4YWhxaHEwTEdsSjBULXpXc3RBeTFkOEFSdExjNkhXTXltNlZNMF9qV2dtS0lOVnRwVkJQOUptT0REa2ZISzBOZUZhb2RaUDdTUDBVdw?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "cf2dbbbf8c8c",
-      "slug": "passive-income",
-      "opportunity": {
-        "type": "niche-content",
-        "recommended": "Publish niche guide for \"finance\"; bundle into digital product later."
-      }
-    },
-    {
       "keyword": "edition advanced",
       "count": 24,
-      "score": 124.9040103415218,
+      "score": 124.91748468300864,
       "proper": false,
       "niches": [
         "ai"
@@ -1014,7 +986,7 @@
     {
       "keyword": "advanced pet",
       "count": 24,
-      "score": 124.9040103415218,
+      "score": 124.91748468300864,
       "proper": false,
       "niches": [
         "ai"
@@ -1056,7 +1028,7 @@
     {
       "keyword": "simulator automation",
       "count": 24,
-      "score": 124.9040103415218,
+      "score": 124.91748468300864,
       "proper": false,
       "niches": [
         "ai"
@@ -1098,7 +1070,7 @@
     {
       "keyword": "automation tool",
       "count": 24,
-      "score": 124.9040103415218,
+      "score": 124.91748468300864,
       "proper": false,
       "niches": [
         "ai"
@@ -1140,7 +1112,7 @@
     {
       "keyword": "tool farm",
       "count": 24,
-      "score": 124.9040103415218,
+      "score": 124.91748468300864,
       "proper": false,
       "niches": [
         "ai"
@@ -1177,6 +1149,48 @@
       "opportunity": {
         "type": "affiliate",
         "recommended": "Write SEO comparison/roundup article with affiliate links."
+      }
+    },
+    {
+      "keyword": "farm coins",
+      "count": 24,
+      "score": 124.91748468300864,
+      "proper": false,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "perglervitek/Pet-Simulator-99-Auto-Farm-Trainer-2026-Premium — Premium edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatica",
+          "url": "https://github.com/perglervitek/Pet-Simulator-99-Auto-Farm-Trainer-2026-Premium",
+          "source": "github"
+        },
+        {
+          "title": "dimasarestuprasmanto/Pet-Simulator-99-Auto-Farm-Trainer-2026-Tera — Tera edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automati",
+          "url": "https://github.com/dimasarestuprasmanto/Pet-Simulator-99-Auto-Farm-Trainer-2026-Tera",
+          "source": "github"
+        },
+        {
+          "title": "NagaaSaketh/Pet-Simulator-99-Auto-Farm-Trainer-2026-Ultimate — Ultimate edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatic",
+          "url": "https://github.com/NagaaSaketh/Pet-Simulator-99-Auto-Farm-Trainer-2026-Ultimate",
+          "source": "github"
+        },
+        {
+          "title": "MuhammadHanzalaIqbal/Pet-Simulator-99-Auto-Farm-Trainer-2026-Turbo — Turbo edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automa",
+          "url": "https://github.com/MuhammadHanzalaIqbal/Pet-Simulator-99-Auto-Farm-Trainer-2026-Turbo",
+          "source": "github"
+        },
+        {
+          "title": "mofouly/Pet-Simulator-99-Auto-Farm-Trainer-2026-Giga — Giga edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatically. Fully ",
+          "url": "https://github.com/mofouly/Pet-Simulator-99-Auto-Farm-Trainer-2026-Giga",
+          "source": "github"
+        }
+      ],
+      "id": "9e52d1f2aaec",
+      "slug": "farm-coins",
+      "opportunity": {
+        "type": "niche-content",
+        "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
       }
     }
   ]
