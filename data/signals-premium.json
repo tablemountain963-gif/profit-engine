@@ -1,87 +1,87 @@
 {
-  "generatedAt": "2026-06-30T15:25:24.687Z",
-  "sourceCount": 206,
+  "generatedAt": "2026-06-30T17:46:33.241Z",
+  "sourceCount": 205,
   "topItems": [
     {
-      "title": "European digital ID wallets rely on safety services of Google and Apple",
-      "url": "https://waag.org/en/article/european-digital-id-wallets-are-gift-google-and-apple/",
-      "score": 10.84,
-      "niche": "software",
-      "source": "hackernews",
-      "engagement": {
-        "score": 517,
-        "comments": 217
-      }
-    },
-    {
-      "title": "I don't even need to read the article to know this is what's going to happen.",
-      "url": "https://mastodon.social/@designthinkingcomic/116838340902044286",
-      "score": 9.39,
-      "niche": "software",
+      "title": "For years we have been overwhelmed by the volume of code contributions we have to review, especially from new contributors.AI has made the problem much worse.That's why we are taking steps to reduce t",
+      "url": "https://mastodon.gamedev.place/@godotengine/116839550229253906",
+      "score": 10.78,
+      "niche": "ai",
       "source": "mastodon",
       "engagement": {
-        "score": 803,
+        "score": 368,
         "comments": 11
       }
     },
     {
-      "title": "For years we have been overwhelmed by the volume of code contributions we have to review, especially from new contributors.AI has made the problem much worse.That's why we are taking steps to reduce t",
-      "url": "https://mastodon.gamedev.place/@godotengine/116839550229253906",
-      "score": 9.3,
+      "title": "Claude Code Is Steganographically Marking Requests",
+      "url": "https://thereallo.dev/blog/claude-code-prompt-steganography",
+      "score": 9.39,
       "niche": "ai",
-      "source": "mastodon",
+      "source": "hackernews",
       "engagement": {
-        "score": 157,
-        "comments": 7
+        "score": 524,
+        "comments": 168
       }
     },
     {
       "title": ".self: A new top-level domain designed to support self-hosting",
       "url": "https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/",
-      "score": 9.14,
+      "score": 9.19,
       "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 594,
-        "comments": 341
+        "score": 622,
+        "comments": 352
       }
     },
     {
-      "title": "Words Are a Byproduct of Consciousness. For LLMs, It's Backwards",
-      "url": "https://ranpara.net/posts/words-are-a-byproduct-of-consciousness/",
-      "score": 8.95,
-      "niche": "ai",
+      "title": "The labor share of income in the US is at its lowest post-war level",
+      "url": "https://libertystreeteconomics.newyorkfed.org/2026/06/the-post-covid-decline-in-the-labor-share/",
+      "score": 9.01,
+      "niche": "finance",
       "source": "hackernews",
       "engagement": {
-        "score": 67,
-        "comments": 101
-      }
-    },
-    {
-      "title": "We need to either return to a pre-bot/AI internet, or flee to create a new one. Call me naive, but back in the 1990s I was under the impression that the internet's destiny was to be an unprecedented, ",
-      "url": "https://mastodon.social/@Richard_Littler/116838612044666548",
-      "score": 8.33,
-      "niche": "ai",
-      "source": "mastodon",
-      "engagement": {
-        "score": 364,
-        "comments": 18
+        "score": 351,
+        "comments": 326
       }
     },
     {
       "title": "So Fediverse, last week I was laid off by my employer, Elastic, as part of a wider reorg that made my position redundant. 7% of the global workforce was impacted, so I'm not alone in this 😢I would ap",
       "url": "https://hachyderm.io/@endorama/116838922459983798",
-      "score": 8.29,
+      "score": 8.89,
       "niche": "ai",
       "source": "mastodon",
       "engagement": {
-        "score": 376,
+        "score": 578,
+        "comments": 11
+      }
+    },
+    {
+      "title": "European digital ID wallets rely on safety services of Google and Apple",
+      "url": "https://waag.org/en/article/european-digital-id-wallets-are-gift-google-and-apple/",
+      "score": 8.88,
+      "niche": "software",
+      "source": "hackernews",
+      "engagement": {
+        "score": 606,
+        "comments": 255
+      }
+    },
+    {
+      "title": "My co-authors and I wrote an explainer article for the CRASH Clock that was supposed to get published last night, but it apparently didn't.  So I was all ready to write a thread about it, but I guess ",
+      "url": "https://mastodon.social/@sundogplanets/116839446538724032",
+      "score": 8.54,
+      "niche": "ai",
+      "source": "mastodon",
+      "engagement": {
+        "score": 196,
         "comments": 6
       }
     },
     {
-      "title": "The best AI tools for writing, research and crisis response",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZ19CNF9xcE8zb1JTdUQxNlk0MzhWVU1HZ3E0WmRuZ0hLQTZVVTZkV1pycnBBM0xRZ3lwXy1ndnFNMUVkWUFiYTVKeG5SSzQ4VEZRS3Z2Szk3SDJsaHFST1Vub3c0R2FFUUhtcUZfTlRfNHpzSFBUYTVDVGRBbjVJY3lJRTk5Wk10ZUhZ?oc=5",
+      "title": "AI Code Review Tools Promise Speed, But Can They Deliver Real-World Software Quality?",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSnBvMG1QV0RyZm9ZWWxQWkFOZzF2RXVqcDFrWWNaMlVtRUVYSXk1VnRQQTJkdFJDaWVRWXJrZjRES0ZvaWZaVEJKR1B5MUM0czM0ZzRjeS03VndJMnRLek0wTFFaTXZxQlZOc1RUeDh1cGRHclJrcnZBUGpZUFg5c0FfZXVuZHlpMVRWQUg1M0dVcXBMOGhTVXlPMDZvaUFDV25Jclh4OWR1elFiaUs4REdQbHNDemp3dEE?oc=5",
       "score": 8.26,
       "niche": "ai",
       "source": "gnews",
@@ -102,86 +102,97 @@
       }
     },
     {
-      "title": "Following recent news, we have cancelled Mullvad's sponsorship of EMF 2026.If you'd like to contribute to make up for the lost income, you can still sponsor EMF through our ticket shop:https://www.emf",
-      "url": "https://social.emfcamp.org/@emf/statuses/01KWBXJ4JCNBK3AZ2YW3M22J9D",
-      "score": 8.18,
-      "niche": "finance",
-      "source": "mastodon",
-      "engagement": {
-        "score": 493,
-        "comments": 19
-      }
-    },
-    {
-      "title": "My co-authors and I wrote an explainer article for the CRASH Clock that was supposed to get published last night, but it apparently didn't.  So I was all ready to write a thread about it, but I guess ",
-      "url": "https://mastodon.social/@sundogplanets/116839446538724032",
-      "score": 7.7,
-      "niche": "ai",
-      "source": "mastodon",
-      "engagement": {
-        "score": 115,
-        "comments": 4
-      }
-    },
-    {
-      "title": "Ornith-1.0: self-improving open-source models for agentic coding",
-      "url": "https://github.com/deepreinforce-ai/Ornith-1",
-      "score": 7.43,
-      "niche": "ai",
-      "source": "hackernews",
-      "engagement": {
-        "score": 242,
-        "comments": 45
-      }
-    },
-    {
-      "title": "100 MNT Reform Next mainboards are chilling in this (ESD) box",
-      "url": "https://mastodon.social/@mntmn/116839018998993664",
-      "score": 7.23,
-      "niche": "ai",
-      "source": "mastodon",
-      "engagement": {
-        "score": 167,
-        "comments": 7
-      }
-    },
-    {
-      "title": "The only data centre I want is a Library. Pass it on.#library",
-      "url": "https://mastodon.scot/@twoowls73/116838705933492317",
-      "score": 7.21,
+      "title": "Collections let you curate, share, and discover groups of profiles, to help you find the people and content that interests you. Here's how they're different: ✅ You decide whether your profile can appe",
+      "url": "https://mastodon.social/@Mastodon/116839714185151652",
+      "score": 8.12,
       "niche": "software",
       "source": "mastodon",
       "engagement": {
-        "score": 371,
-        "comments": 2
+        "score": 159,
+        "comments": 5
+      }
+    },
+    {
+      "title": "So, #Bandcamp has fired most of its engineers. Time to get on the #FediMusic bandwagon.fm and other platforms like @mirlo and @jamcoop or to self host with #faircamp.https://nham.co.uk/2025/06/how-do-",
+      "url": "https://mamot.fr/@sknob/116839903058359538",
+      "score": 8.02,
+      "niche": "ai",
+      "source": "mastodon",
+      "engagement": {
+        "score": 134,
+        "comments": 8
       }
     },
     {
       "title": "‼️⚖️ The #US Supreme Court has declared all independent authorities unconsitutional – effectively blowing up the EU-US deal on data transfers.👉Click the link below for noyb's full assessment of the s",
       "url": "https://mastodon.social/@noybeu/116839534455221568",
-      "score": 7.03,
+      "score": 7.92,
       "niche": "software",
       "source": "mastodon",
       "engagement": {
-        "score": 150,
+        "score": 285,
         "comments": 1
+      }
+    },
+    {
+      "title": "I don't even need to read the article to know this is what's going to happen.",
+      "url": "https://mastodon.social/@designthinkingcomic/116838340902044286",
+      "score": 7.8,
+      "niche": "software",
+      "source": "mastodon",
+      "engagement": {
+        "score": 1033,
+        "comments": 17
+      }
+    },
+    {
+      "title": "On the last day of Pride Month, happy Trans Pride, now and forever and ever and ever, Amen.",
+      "url": "https://digipres.club/@foone/116840142202082555",
+      "score": 7.39,
+      "niche": "software",
+      "source": "mastodon",
+      "engagement": {
+        "score": 196,
+        "comments": 0
       }
     },
     {
       "title": "TianhangZhuzth/Fundamental-Ava — Build digital human beings — autonomous, collaborative, and socially intelligent agents.",
       "url": "https://github.com/TianhangZhuzth/Fundamental-Ava",
-      "score": 6.91,
+      "score": 7.01,
       "niche": "ai",
       "source": "github",
       "engagement": {
-        "score": 498,
+        "score": 544,
         "comments": 0
       }
     },
     {
-      "title": "Think Twice Before Using That Unsanctioned AI App at Work",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBlNjd2YkJ0S0hZZGVqQVEwbkY1ZUxROXVhMTNBV3MwaW9vWkJtNTJvOFhlanFQc2ZyOXZ3cVl0MmNxR01NcVh2WjFOWkpHYll3M2hQdGhVSF81M0FEVXFsNWVoZV9vVTNNZFBESkdMRnhfVHA4REdRdjF0U2E?oc=5",
+      "title": "We need to either return to a pre-bot/AI internet, or flee to create a new one. Call me naive, but back in the 1990s I was under the impression that the internet's destiny was to be an unprecedented, ",
+      "url": "https://mastodon.social/@Richard_Littler/116838612044666548",
+      "score": 6.93,
+      "niche": "ai",
+      "source": "mastodon",
+      "engagement": {
+        "score": 466,
+        "comments": 22
+      }
+    },
+    {
+      "title": "Schneider to Buy Industrial AI Firm Cognite for $3.1 Billion",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSXMzd2FHNjNoTzhhZDZWU3JyN3dXNG12Q1dnNUFhSXZLMEZEdXl4eFV6bGp4YUFMUlRSVzEwRkJjOHZtTTZKUjB1Q1U0ZURxSVlxeEFLNUVKQ0RyZVRXRElBemczNlQyY054c2FGa3lpODVGSnZFaERlazBBM0VTZnZYQjZmWmV3R3Q0dXBwbFNQR19ZWXFpRmFQb1B1SlEteW1LYTZwMEVRdTNROFpJ?oc=5",
       "score": 6.71,
+      "niche": "ai",
+      "source": "gnews",
+      "engagement": {
+        "score": 40,
+        "comments": 0
+      }
+    },
+    {
+      "title": "The best AI tools for writing, research and crisis response",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZ19CNF9xcE8zb1JTdUQxNlk0MzhWVU1HZ3E0WmRuZ0hLQTZVVTZkV1pycnBBM0xRZ3lwXy1ndnFNMUVkWUFiYTVKeG5SSzQ4VEZRS3Z2Szk3SDJsaHFST1Vub3c0R2FFUUhtcUZfTlRfNHpzSFBUYTVDVGRBbjVJY3lJRTk5Wk10ZUhZ?oc=5",
+      "score": 6.61,
       "niche": "ai",
       "source": "gnews",
       "engagement": {
@@ -192,34 +203,34 @@
     {
       "title": "LongCat-2.0, a large-scale MoE model with 1.6T total and 48B Active",
       "url": "https://longcat.chat/blog/longcat-2.0/",
-      "score": 6.45,
+      "score": 6.58,
       "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 211,
-        "comments": 60
+        "score": 238,
+        "comments": 67
       }
     },
     {
-      "title": "Best Budgeting Apps Of 2026",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1IMzFaUkNOY3Y2LXg2OEdzVnZ6Nm1kQUZmUUJZVFNoQ0V5NzNKcVhoaXNldDVFVTdwcW5TM1UwWmFhamdJdGtuR01RN1RtTUJQbHdyRERSUFJHMy1QSVhPUEJsVnVIa0x1anRweXpQT2JaOTBibG1nOEVB?oc=5",
-      "score": 6.19,
-      "niche": "finance",
-      "source": "gnews",
-      "engagement": {
-        "score": 40,
-        "comments": 0
-      }
-    },
-    {
-      "title": "Zluda 6 release (run unmodified CUDA applications on non-Nvidia GPUs)",
-      "url": "https://vosen.github.io/ZLUDA/blog/zluda-update-q1q2-2026/",
-      "score": 6.07,
-      "niche": "software",
+      "title": "Claude Science",
+      "url": "https://claude.com/product/claude-science",
+      "score": 6.57,
+      "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 64,
-        "comments": 6
+        "score": 54,
+        "comments": 29
+      }
+    },
+    {
+      "title": "Trump’s personal army/police detained a nun walking to mass, dressed in her habit. They held her in custody until public outcry led to her release. Don’t forget: we live in a county whose federal gove",
+      "url": "https://mastodon.social/@heidilifeldman/116839755286740780",
+      "score": 6.16,
+      "niche": "ai",
+      "source": "mastodon",
+      "engagement": {
+        "score": 81,
+        "comments": 1
       }
     },
     {
@@ -234,9 +245,20 @@
       }
     },
     {
-      "title": "Latest MongoDB tools tackle top AI development hurdles",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSmpLamJ2d1lXaGRmbmNqREVOZUdObDQyanVYTFdIeExDZWZ1RjZzajZLak5IOEJmX1VFX2VMbGgtM3dmOHd5bnBOYVV0bzVuenc4Tm9qay1WZVV6aFVxNFRERG9zbnIxczhwVG5tYXFXbEJPWVliYUtzWnBEb2dpc1NXakR2RjFFd0NKTjZsRUI3cmNseGNTMnlsWTVxcDJYbDloOTdWd2VnVUVEN1pjVUMzTFNEUTI4?oc=5",
-      "score": 5.99,
+      "title": "stop asking writers about \"AI\"",
+      "url": "https://benjaminhollon.com/musings/stop-asking-writers-about-ai/",
+      "score": 5.94,
+      "niche": "ai",
+      "source": "lobsters",
+      "engagement": {
+        "score": 22,
+        "comments": 9
+      }
+    },
+    {
+      "title": "GuardFall Exposes Open-Source AI Coding Agents to Decades-Old Shell Injection Risks",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNREtFbnVwYVpmTzJFeXUtT3dWZ1R5clJtSHh6R0JDTndtamxxZ1Q4b0R2U05DdlFmLU4yUnZ0RHd1Y1ZadWh2NE9MVS1ncEhqQ3N3c2h5ZWtHd3FISU40ckRBWUNTSjNmRWhKZExvd3NPRnBkTHZFTHlPNXNXcjlhMHNqZms?oc=5",
+      "score": 5.94,
       "niche": "ai",
       "source": "gnews",
       "engagement": {
@@ -245,44 +267,22 @@
       }
     },
     {
-      "title": "perglervitek/Pet-Simulator-99-Auto-Farm-Trainer-2026-Premium — Premium edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatica",
-      "url": "https://github.com/perglervitek/Pet-Simulator-99-Auto-Farm-Trainer-2026-Premium",
-      "score": 5.78,
-      "niche": "ai",
-      "source": "github",
+      "title": "Crypto firms have spent $189M so far on 2026 US election, report says",
+      "url": "https://www.reuters.com/world/crypto-firms-have-spent-189-million-so-far-2026-us-election-report-says-2026-06-30/",
+      "score": 5.8,
+      "niche": "finance",
+      "source": "hackernews",
       "engagement": {
-        "score": 205,
-        "comments": 0
-      }
-    },
-    {
-      "title": "dimasarestuprasmanto/Hades-II-Trainer-Premium — The ultimate cheat tool for Hades II – unlock all features instantly. Includes God Mode, infinite resources, speed hack and many more.",
-      "url": "https://github.com/dimasarestuprasmanto/Hades-II-Trainer-Premium",
-      "score": 5.78,
-      "niche": "ai",
-      "source": "github",
-      "engagement": {
-        "score": 203,
-        "comments": 1
-      }
-    },
-    {
-      "title": "offchainthoughts/Amber — Bank the expensive compute once, then carry it offline as a single file that can prove it is what it claims to be.",
-      "url": "https://github.com/offchainthoughts/Amber",
-      "score": 5.56,
-      "niche": "ai",
-      "source": "github",
-      "engagement": {
-        "score": 327,
-        "comments": 0
+        "score": 53,
+        "comments": 16
       }
     }
   ],
   "topics": [
     {
       "keyword": "pet simulator",
-      "count": 96,
-      "score": 729.0206049965394,
+      "count": 72,
+      "score": 544.2224865122528,
       "proper": true,
       "niches": [
         "ai"
@@ -299,18 +299,18 @@
           "source": "github"
         },
         {
-          "title": "dimasarestuprasmanto/Pet-Simulator-99-Auto-Farm-Trainer-2026-Tera — Tera edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automati",
-          "url": "https://github.com/dimasarestuprasmanto/Pet-Simulator-99-Auto-Farm-Trainer-2026-Tera",
-          "source": "github"
-        },
-        {
-          "title": "dimasarestuprasmanto/Pet-Simulator-99-Auto-Farm-Trainer-2026-Tera — Tera edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automati",
-          "url": "https://github.com/dimasarestuprasmanto/Pet-Simulator-99-Auto-Farm-Trainer-2026-Tera",
+          "title": "NagaaSaketh/Pet-Simulator-99-Auto-Farm-Trainer-2026-Ultimate — Ultimate edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatic",
+          "url": "https://github.com/NagaaSaketh/Pet-Simulator-99-Auto-Farm-Trainer-2026-Ultimate",
           "source": "github"
         },
         {
           "title": "NagaaSaketh/Pet-Simulator-99-Auto-Farm-Trainer-2026-Ultimate — Ultimate edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatic",
           "url": "https://github.com/NagaaSaketh/Pet-Simulator-99-Auto-Farm-Trainer-2026-Ultimate",
+          "source": "github"
+        },
+        {
+          "title": "mofouly/Pet-Simulator-99-Auto-Farm-Trainer-2026-Giga — Giga edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatically. Fully ",
+          "url": "https://github.com/mofouly/Pet-Simulator-99-Auto-Farm-Trainer-2026-Giga",
           "source": "github"
         }
       ],
@@ -319,8 +319,8 @@
     },
     {
       "keyword": "backrooms league",
-      "count": 80,
-      "score": 606.2927044500864,
+      "count": 64,
+      "score": 482.8585362390263,
       "proper": true,
       "niches": [
         "ai"
@@ -337,18 +337,18 @@
           "source": "github"
         },
         {
-          "title": "dimasarestuprasmanto/Pet-Simulator-99-Auto-Farm-Trainer-2026-Tera — Tera edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automati",
-          "url": "https://github.com/dimasarestuprasmanto/Pet-Simulator-99-Auto-Farm-Trainer-2026-Tera",
-          "source": "github"
-        },
-        {
-          "title": "dimasarestuprasmanto/Pet-Simulator-99-Auto-Farm-Trainer-2026-Tera — Tera edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automati",
-          "url": "https://github.com/dimasarestuprasmanto/Pet-Simulator-99-Auto-Farm-Trainer-2026-Tera",
+          "title": "NagaaSaketh/Pet-Simulator-99-Auto-Farm-Trainer-2026-Ultimate — Ultimate edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatic",
+          "url": "https://github.com/NagaaSaketh/Pet-Simulator-99-Auto-Farm-Trainer-2026-Ultimate",
           "source": "github"
         },
         {
           "title": "NagaaSaketh/Pet-Simulator-99-Auto-Farm-Trainer-2026-Ultimate — Ultimate edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatic",
           "url": "https://github.com/NagaaSaketh/Pet-Simulator-99-Auto-Farm-Trainer-2026-Ultimate",
+          "source": "github"
+        },
+        {
+          "title": "mofouly/Pet-Simulator-99-Auto-Farm-Trainer-2026-Giga — Giga edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatically. Fully ",
+          "url": "https://github.com/mofouly/Pet-Simulator-99-Auto-Farm-Trainer-2026-Giga",
           "source": "github"
         }
       ],
@@ -356,9 +356,236 @@
       "slug": "backrooms-league"
     },
     {
+      "keyword": "passive income",
+      "count": 47,
+      "score": 288.70443819139996,
+      "proper": true,
+      "niches": [
+        "finance"
+      ],
+      "examples": [
+        {
+          "title": "5 High-Yield BlackRock ETFs Paying Over 5% Passive Income Right Now",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQM3U5N0k1dUFjVGdTUUlpQXR4R3RjRlFLY1NZSmpJenl6WUVzcXBUYTNiYVQwWWVBa3JyakxxUVN4YmNMSEk0bTNvdzdqVVBFSnFCV2Y4QWtsOUs3d1BNV0FrNUlrQUlnRlQtOGl0QVJpdlJsLTRrSGQ0T2JlYlplUm03X2J6cTdJbERQeXk4QTFGTzJ4WjBwWlY4ODI?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "5 High-Yield BlackRock ETFs Paying Over 5% Passive Income Right Now",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQM3U5N0k1dUFjVGdTUUlpQXR4R3RjRlFLY1NZSmpJenl6WUVzcXBUYTNiYVQwWWVBa3JyakxxUVN4YmNMSEk0bTNvdzdqVVBFSnFCV2Y4QWtsOUs3d1BNV0FrNUlrQUlnRlQtOGl0QVJpdlJsLTRrSGQ0T2JlYlplUm03X2J6cTdJbERQeXk4QTFGTzJ4WjBwWlY4ODI?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "These 5 Passive Income Stocks Could Pay You For Life",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbFFRRWdxUWc1OGlTNlRjbGREOHhNT3lHSFN3dEd5RUhuNWswUDNpYjhiU2laSGtRTFZ3ZS1kVUlQN21KVGtjY2FNUFRlcUM3QWt3ZEZ2M0FuUElwVjR4bHF6WGkxMjVIV1RObHN6bjRldElWOU16WW1XcU9XRWRvQXN1a3c3V1FuYl9tOTBSdUd3R2tnZTJsUGo4Y3Y?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "These 5 Passive Income Stocks Could Pay You For Life",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbFFRRWdxUWc1OGlTNlRjbGREOHhNT3lHSFN3dEd5RUhuNWswUDNpYjhiU2laSGtRTFZ3ZS1kVUlQN21KVGtjY2FNUFRlcUM3QWt3ZEZ2M0FuUElwVjR4bHF6WGkxMjVIV1RObHN6bjRldElWOU16WW1XcU9XRWRvQXN1a3c3V1FuYl9tOTBSdUd3R2tnZTJsUGo4Y3Y?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "3 Magnificent Dividend ETFs That Could Supercharge Your Passive Income",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPS0p4Y1JWNWRXMG9QSkMwenh4OHVrb3VpQXVDckhUc1paUmlmYUd3NUsyaDlpTThNYV81cjRzTW5tQk9uM2JXUzZHZE5nUjdlR25SZnJXVWhTZVlfRzQwMm5PRVUtZktsS2s0SG45WkgyS0NoREg5Q0VDdVZ3Y19Bc3BYamhEWGgxR3NSWXFmNXhiOVFjMDZ2bmZHRlF3SlU?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "cf2dbbbf8c8c",
+      "slug": "passive-income"
+    },
+    {
+      "keyword": "blox fruits",
+      "count": 19,
+      "score": 150.1903021156952,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "yande0/Blox-Fruits-Dragon-Update-Auto-Farm-Script-2026-Premium — Maximize your progress in Blox Fruits with this Premium trainer – auto farm, ESP, raid, and anti‑ban included.",
+          "url": "https://github.com/yande0/Blox-Fruits-Dragon-Update-Auto-Farm-Script-2026-Premium",
+          "source": "github"
+        },
+        {
+          "title": "yande0/Blox-Fruits-Dragon-Update-Auto-Farm-Script-2026-Premium — Maximize your progress in Blox Fruits with this Premium trainer – auto farm, ESP, raid, and anti‑ban included.",
+          "url": "https://github.com/yande0/Blox-Fruits-Dragon-Update-Auto-Farm-Script-2026-Premium",
+          "source": "github"
+        },
+        {
+          "title": "incursio003/Blox-Fruits-Dragon-Update-Auto-Farm-Script-2026-Plus — Maximize your progress in Blox Fruits with this Plus trainer – auto farm, ESP, raid, and anti‑ban included.",
+          "url": "https://github.com/incursio003/Blox-Fruits-Dragon-Update-Auto-Farm-Script-2026-Plus",
+          "source": "github"
+        },
+        {
+          "title": "incursio003/Blox-Fruits-Dragon-Update-Auto-Farm-Script-2026-Plus — Maximize your progress in Blox Fruits with this Plus trainer – auto farm, ESP, raid, and anti‑ban included.",
+          "url": "https://github.com/incursio003/Blox-Fruits-Dragon-Update-Auto-Farm-Script-2026-Plus",
+          "source": "github"
+        },
+        {
+          "title": "NagaaSaketh/Blox-Fruits-Dragon-Update-Auto-Farm-Script-2026-Ultimate — Auto farm, ESP, and raid script for Blox Fruits Dragon Update 2026 – Ultimate edition. Level up, farm bosses, and dominate PvP wi",
+          "url": "https://github.com/NagaaSaketh/Blox-Fruits-Dragon-Update-Auto-Farm-Script-2026-Ultimate",
+          "source": "github"
+        }
+      ],
+      "id": "f4e20fe08350",
+      "slug": "blox-fruits"
+    },
+    {
+      "keyword": "promise speed",
+      "count": 11,
+      "score": 136.24798021568327,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "AI Code Review Tools Promise Speed, But Can They Deliver Real-World Software Quality?",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSnBvMG1QV0RyZm9ZWWxQWkFOZzF2RXVqcDFrWWNaMlVtRUVYSXk1VnRQQTJkdFJDaWVRWXJrZjRES0ZvaWZaVEJKR1B5MUM0czM0ZzRjeS03VndJMnRLek0wTFFaTXZxQlZOc1RUeDh1cGRHclJrcnZBUGpZUFg5c0FfZXVuZHlpMVRWQUg1M0dVcXBMOGhTVXlPMDZvaUFDV25Jclh4OWR1elFiaUs4REdQbHNDemp3dEE?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "AI Code Review Tools Promise Speed, But Can They Deliver Real-World Software Quality?",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSnBvMG1QV0RyZm9ZWWxQWkFOZzF2RXVqcDFrWWNaMlVtRUVYSXk1VnRQQTJkdFJDaWVRWXJrZjRES0ZvaWZaVEJKR1B5MUM0czM0ZzRjeS03VndJMnRLek0wTFFaTXZxQlZOc1RUeDh1cGRHclJrcnZBUGpZUFg5c0FfZXVuZHlpMVRWQUg1M0dVcXBMOGhTVXlPMDZvaUFDV25Jclh4OWR1elFiaUs4REdQbHNDemp3dEE?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "AI Code Review Tools Promise Speed, But Can They Deliver Real-World Software Quality?",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSnBvMG1QV0RyZm9ZWWxQWkFOZzF2RXVqcDFrWWNaMlVtRUVYSXk1VnRQQTJkdFJDaWVRWXJrZjRES0ZvaWZaVEJKR1B5MUM0czM0ZzRjeS03VndJMnRLek0wTFFaTXZxQlZOc1RUeDh1cGRHclJrcnZBUGpZUFg5c0FfZXVuZHlpMVRWQUg1M0dVcXBMOGhTVXlPMDZvaUFDV25Jclh4OWR1elFiaUs4REdQbHNDemp3dEE?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "aac6482130ec",
+      "slug": "promise-speed"
+    },
+    {
+      "keyword": "income",
+      "count": 20,
+      "score": 129.33793829725187,
+      "proper": true,
+      "niches": [
+        "finance"
+      ],
+      "examples": [
+        {
+          "title": "The labor share of income in the US is at its lowest post-war level",
+          "url": "https://libertystreeteconomics.newyorkfed.org/2026/06/the-post-covid-decline-in-the-labor-share/",
+          "source": "hackernews"
+        },
+        {
+          "title": "5 High-Yield BlackRock ETFs Paying Over 5% Passive Income Right Now",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQM3U5N0k1dUFjVGdTUUlpQXR4R3RjRlFLY1NZSmpJenl6WUVzcXBUYTNiYVQwWWVBa3JyakxxUVN4YmNMSEk0bTNvdzdqVVBFSnFCV2Y4QWtsOUs3d1BNV0FrNUlrQUlnRlQtOGl0QVJpdlJsLTRrSGQ0T2JlYlplUm03X2J6cTdJbERQeXk4QTFGTzJ4WjBwWlY4ODI?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "5 High-Yield BlackRock ETFs Paying Over 5% Passive Income Right Now",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQM3U5N0k1dUFjVGdTUUlpQXR4R3RjRlFLY1NZSmpJenl6WUVzcXBUYTNiYVQwWWVBa3JyakxxUVN4YmNMSEk0bTNvdzdqVVBFSnFCV2Y4QWtsOUs3d1BNV0FrNUlrQUlnRlQtOGl0QVJpdlJsLTRrSGQ0T2JlYlplUm03X2J6cTdJbERQeXk4QTFGTzJ4WjBwWlY4ODI?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "These 5 Passive Income Stocks Could Pay You For Life",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbFFRRWdxUWc1OGlTNlRjbGREOHhNT3lHSFN3dEd5RUhuNWswUDNpYjhiU2laSGtRTFZ3ZS1kVUlQN21KVGtjY2FNUFRlcUM3QWt3ZEZ2M0FuUElwVjR4bHF6WGkxMjVIV1RObHN6bjRldElWOU16WW1XcU9XRWRvQXN1a3c3V1FuYl9tOTBSdUd3R2tnZTJsUGo4Y3Y?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "These 5 Passive Income Stocks Could Pay You For Life",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbFFRRWdxUWc1OGlTNlRjbGREOHhNT3lHSFN3dEd5RUhuNWswUDNpYjhiU2laSGtRTFZ3ZS1kVUlQN21KVGtjY2FNUFRlcUM3QWt3ZEZ2M0FuUElwVjR4bHF6WGkxMjVIV1RObHN6bjRldElWOU16WW1XcU9XRWRvQXN1a3c3V1FuYl9tOTBSdUd3R2tnZTJsUGo4Y3Y?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "00cf141f881d",
+      "slug": "income"
+    },
+    {
+      "keyword": "marking requests",
+      "count": 8,
+      "score": 112.70412101582036,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "Claude Code Is Steganographically Marking Requests",
+          "url": "https://thereallo.dev/blog/claude-code-prompt-steganography",
+          "source": "hackernews"
+        },
+        {
+          "title": "Claude Code Is Steganographically Marking Requests",
+          "url": "https://thereallo.dev/blog/claude-code-prompt-steganography",
+          "source": "hackernews"
+        }
+      ],
+      "id": "08af5feec921",
+      "slug": "marking-requests"
+    },
+    {
+      "keyword": "crash clock",
+      "count": 8,
+      "score": 102.45765999466414,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "My co-authors and I wrote an explainer article for the CRASH Clock that was supposed to get published last night, but it apparently didn't.  So I was all ready to write a thread about it, but I guess ",
+          "url": "https://mastodon.social/@sundogplanets/116839446538724032",
+          "source": "mastodon"
+        },
+        {
+          "title": "My co-authors and I wrote an explainer article for the CRASH Clock that was supposed to get published last night, but it apparently didn't.  So I was all ready to write a thread about it, but I guess ",
+          "url": "https://mastodon.social/@sundogplanets/116839446538724032",
+          "source": "mastodon"
+        }
+      ],
+      "id": "72e3727424c7",
+      "slug": "crash-clock"
+    },
+    {
+      "keyword": "fitness gear",
+      "count": 25,
+      "score": 99.15717707884275,
+      "proper": true,
+      "niches": [
+        "gear",
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "Fitness Gear on Sale for Early Prime Day",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSm9RdFNpc3JFU2NnaUxiaVk5dnp3b2RxcU04bmQyZ3RUMENITl92OG1kcTVMRGZ2dXh3THB6Y2toMmIwUEJsVzdXX2hXZjYtTVUyVjd4SFJtRGwwUGNjaks3UjdPYzRhNDgyTVJfNFRxcF91OEdiaXViUkJmQXJqdEs4bXU?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Fitness Gear on Sale for Early Prime Day",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSm9RdFNpc3JFU2NnaUxiaVk5dnp3b2RxcU04bmQyZ3RUMENITl92OG1kcTVMRGZ2dXh3THB6Y2toMmIwUEJsVzdXX2hXZjYtTVUyVjd4SFJtRGwwUGNjaks3UjdPYzRhNDgyTVJfNFRxcF91OEdiaXViUkJmQXJqdEs4bXU?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Fitness Gear on Sale for Early Prime Day",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSm9RdFNpc3JFU2NnaUxiaVk5dnp3b2RxcU04bmQyZ3RUMENITl92OG1kcTVMRGZ2dXh3THB6Y2toMmIwUEJsVzdXX2hXZjYtTVUyVjd4SFJtRGwwUGNjaks3UjdPYzRhNDgyTVJfNFRxcF91OEdiaXViUkJmQXJqdEs4bXU?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "I’m A Certified Personal Trainer — Here’s The Best Fitness Gear To Buy On Prime Day",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPM2JfNDFqdThObG9aem4zdFZuYTRNZk80VVJRVWg1WVAzSDlYUFNVajZLcWtJMHI0U1FhazhfdEN5aGlVN2R1djAtTHpjZ1BiemZYR1V6ZXFYb0VISmUzRW8xN0tFYU9GRFhzdW83R241NHRPdTFHelVCNHBBOEp0OHVtQ19fV1dMQW1BaGpnQ3pkb2NuVDE0d3J1SVZKcy04dC1QZWx3NTFuVld60gGyAUFVX3lxTE9RQy0wcVFpNW4yRHN4ZWc2aHVWOW5aRktzWGx4Nmx1emZwenV4THNjMEZ0T0MzQkdkZV9INmx2dldyZlB3aEZKRDFGcGxEM1g0dnc2MC01TFZhalRmcW1yTXJXdkxFTXJwbmVPVWpfakxhLW0zM0FmVnRNNnlubXh6Y1dwRUppZnhTUVliQktsQkJZNDhaY183ZjBXdXltVDJoYUc3MzJ5MUpIQmU4YjVYWkE?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Fitness Gear on Sale for Early Prime Day",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9jNDZtZlhYOFMtWnloN2pMenFzSjhqZ0MyN3JMVHE1bVZENE5zT0hoQUpHVEpiSUhJb2Z6ZU85bmk2M3lKT1ctOTlqSlpyUVBZWDBWQkhZdUtiNWVTMDhTVmFGX295N2VWN3RDZHBPSHlaUzUtbzNR?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "a8b7e45842c3",
+      "slug": "fitness-gear"
+    },
+    {
       "keyword": "edition advanced",
-      "count": 24,
-      "score": 124.91748468300864,
+      "count": 18,
+      "score": 94.07117510555156,
       "proper": false,
       "niches": [
         "ai"
@@ -370,23 +597,23 @@
           "source": "github"
         },
         {
-          "title": "dimasarestuprasmanto/Pet-Simulator-99-Auto-Farm-Trainer-2026-Tera — Tera edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automati",
-          "url": "https://github.com/dimasarestuprasmanto/Pet-Simulator-99-Auto-Farm-Trainer-2026-Tera",
-          "source": "github"
-        },
-        {
           "title": "NagaaSaketh/Pet-Simulator-99-Auto-Farm-Trainer-2026-Ultimate — Ultimate edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatic",
           "url": "https://github.com/NagaaSaketh/Pet-Simulator-99-Auto-Farm-Trainer-2026-Ultimate",
           "source": "github"
         },
         {
-          "title": "MuhammadHanzalaIqbal/Pet-Simulator-99-Auto-Farm-Trainer-2026-Turbo — Turbo edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automa",
-          "url": "https://github.com/MuhammadHanzalaIqbal/Pet-Simulator-99-Auto-Farm-Trainer-2026-Turbo",
+          "title": "mofouly/Pet-Simulator-99-Auto-Farm-Trainer-2026-Giga — Giga edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatically. Fully ",
+          "url": "https://github.com/mofouly/Pet-Simulator-99-Auto-Farm-Trainer-2026-Giga",
           "source": "github"
         },
         {
-          "title": "mofouly/Pet-Simulator-99-Auto-Farm-Trainer-2026-Giga — Giga edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatically. Fully ",
-          "url": "https://github.com/mofouly/Pet-Simulator-99-Auto-Farm-Trainer-2026-Giga",
+          "title": "perglervitek/Pet-Simulator-99-Auto-Farm-Trainer-2026-X — X edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatically. Fully u",
+          "url": "https://github.com/perglervitek/Pet-Simulator-99-Auto-Farm-Trainer-2026-X",
+          "source": "github"
+        },
+        {
+          "title": "yande0/Pet-Simulator-99-Auto-Farm-Trainer-2026-Platinum — Platinum edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatically.",
+          "url": "https://github.com/yande0/Pet-Simulator-99-Auto-Farm-Trainer-2026-Platinum",
           "source": "github"
         }
       ],
@@ -395,8 +622,8 @@
     },
     {
       "keyword": "advanced pet",
-      "count": 24,
-      "score": 124.91748468300864,
+      "count": 18,
+      "score": 94.07117510555156,
       "proper": false,
       "niches": [
         "ai"
@@ -408,23 +635,23 @@
           "source": "github"
         },
         {
-          "title": "dimasarestuprasmanto/Pet-Simulator-99-Auto-Farm-Trainer-2026-Tera — Tera edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automati",
-          "url": "https://github.com/dimasarestuprasmanto/Pet-Simulator-99-Auto-Farm-Trainer-2026-Tera",
-          "source": "github"
-        },
-        {
           "title": "NagaaSaketh/Pet-Simulator-99-Auto-Farm-Trainer-2026-Ultimate — Ultimate edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatic",
           "url": "https://github.com/NagaaSaketh/Pet-Simulator-99-Auto-Farm-Trainer-2026-Ultimate",
           "source": "github"
         },
         {
-          "title": "MuhammadHanzalaIqbal/Pet-Simulator-99-Auto-Farm-Trainer-2026-Turbo — Turbo edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automa",
-          "url": "https://github.com/MuhammadHanzalaIqbal/Pet-Simulator-99-Auto-Farm-Trainer-2026-Turbo",
+          "title": "mofouly/Pet-Simulator-99-Auto-Farm-Trainer-2026-Giga — Giga edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatically. Fully ",
+          "url": "https://github.com/mofouly/Pet-Simulator-99-Auto-Farm-Trainer-2026-Giga",
           "source": "github"
         },
         {
-          "title": "mofouly/Pet-Simulator-99-Auto-Farm-Trainer-2026-Giga — Giga edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatically. Fully ",
-          "url": "https://github.com/mofouly/Pet-Simulator-99-Auto-Farm-Trainer-2026-Giga",
+          "title": "perglervitek/Pet-Simulator-99-Auto-Farm-Trainer-2026-X — X edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatically. Fully u",
+          "url": "https://github.com/perglervitek/Pet-Simulator-99-Auto-Farm-Trainer-2026-X",
+          "source": "github"
+        },
+        {
+          "title": "yande0/Pet-Simulator-99-Auto-Farm-Trainer-2026-Platinum — Platinum edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatically.",
+          "url": "https://github.com/yande0/Pet-Simulator-99-Auto-Farm-Trainer-2026-Platinum",
           "source": "github"
         }
       ],
@@ -433,8 +660,8 @@
     },
     {
       "keyword": "simulator automation",
-      "count": 24,
-      "score": 124.91748468300864,
+      "count": 18,
+      "score": 94.07117510555156,
       "proper": false,
       "niches": [
         "ai"
@@ -446,23 +673,23 @@
           "source": "github"
         },
         {
-          "title": "dimasarestuprasmanto/Pet-Simulator-99-Auto-Farm-Trainer-2026-Tera — Tera edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automati",
-          "url": "https://github.com/dimasarestuprasmanto/Pet-Simulator-99-Auto-Farm-Trainer-2026-Tera",
-          "source": "github"
-        },
-        {
           "title": "NagaaSaketh/Pet-Simulator-99-Auto-Farm-Trainer-2026-Ultimate — Ultimate edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatic",
           "url": "https://github.com/NagaaSaketh/Pet-Simulator-99-Auto-Farm-Trainer-2026-Ultimate",
           "source": "github"
         },
         {
-          "title": "MuhammadHanzalaIqbal/Pet-Simulator-99-Auto-Farm-Trainer-2026-Turbo — Turbo edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automa",
-          "url": "https://github.com/MuhammadHanzalaIqbal/Pet-Simulator-99-Auto-Farm-Trainer-2026-Turbo",
+          "title": "mofouly/Pet-Simulator-99-Auto-Farm-Trainer-2026-Giga — Giga edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatically. Fully ",
+          "url": "https://github.com/mofouly/Pet-Simulator-99-Auto-Farm-Trainer-2026-Giga",
           "source": "github"
         },
         {
-          "title": "mofouly/Pet-Simulator-99-Auto-Farm-Trainer-2026-Giga — Giga edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatically. Fully ",
-          "url": "https://github.com/mofouly/Pet-Simulator-99-Auto-Farm-Trainer-2026-Giga",
+          "title": "perglervitek/Pet-Simulator-99-Auto-Farm-Trainer-2026-X — X edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatically. Fully u",
+          "url": "https://github.com/perglervitek/Pet-Simulator-99-Auto-Farm-Trainer-2026-X",
+          "source": "github"
+        },
+        {
+          "title": "yande0/Pet-Simulator-99-Auto-Farm-Trainer-2026-Platinum — Platinum edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatically.",
+          "url": "https://github.com/yande0/Pet-Simulator-99-Auto-Farm-Trainer-2026-Platinum",
           "source": "github"
         }
       ],
@@ -471,8 +698,8 @@
     },
     {
       "keyword": "automation tool",
-      "count": 24,
-      "score": 124.91748468300864,
+      "count": 18,
+      "score": 94.07117510555156,
       "proper": false,
       "niches": [
         "ai"
@@ -484,23 +711,23 @@
           "source": "github"
         },
         {
-          "title": "dimasarestuprasmanto/Pet-Simulator-99-Auto-Farm-Trainer-2026-Tera — Tera edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automati",
-          "url": "https://github.com/dimasarestuprasmanto/Pet-Simulator-99-Auto-Farm-Trainer-2026-Tera",
-          "source": "github"
-        },
-        {
           "title": "NagaaSaketh/Pet-Simulator-99-Auto-Farm-Trainer-2026-Ultimate — Ultimate edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatic",
           "url": "https://github.com/NagaaSaketh/Pet-Simulator-99-Auto-Farm-Trainer-2026-Ultimate",
           "source": "github"
         },
         {
-          "title": "MuhammadHanzalaIqbal/Pet-Simulator-99-Auto-Farm-Trainer-2026-Turbo — Turbo edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automa",
-          "url": "https://github.com/MuhammadHanzalaIqbal/Pet-Simulator-99-Auto-Farm-Trainer-2026-Turbo",
+          "title": "mofouly/Pet-Simulator-99-Auto-Farm-Trainer-2026-Giga — Giga edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatically. Fully ",
+          "url": "https://github.com/mofouly/Pet-Simulator-99-Auto-Farm-Trainer-2026-Giga",
           "source": "github"
         },
         {
-          "title": "mofouly/Pet-Simulator-99-Auto-Farm-Trainer-2026-Giga — Giga edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatically. Fully ",
-          "url": "https://github.com/mofouly/Pet-Simulator-99-Auto-Farm-Trainer-2026-Giga",
+          "title": "perglervitek/Pet-Simulator-99-Auto-Farm-Trainer-2026-X — X edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatically. Fully u",
+          "url": "https://github.com/perglervitek/Pet-Simulator-99-Auto-Farm-Trainer-2026-X",
+          "source": "github"
+        },
+        {
+          "title": "yande0/Pet-Simulator-99-Auto-Farm-Trainer-2026-Platinum — Platinum edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatically.",
+          "url": "https://github.com/yande0/Pet-Simulator-99-Auto-Farm-Trainer-2026-Platinum",
           "source": "github"
         }
       ],
@@ -509,8 +736,8 @@
     },
     {
       "keyword": "tool farm",
-      "count": 24,
-      "score": 124.91748468300864,
+      "count": 18,
+      "score": 94.07117510555156,
       "proper": false,
       "niches": [
         "ai"
@@ -522,23 +749,23 @@
           "source": "github"
         },
         {
-          "title": "dimasarestuprasmanto/Pet-Simulator-99-Auto-Farm-Trainer-2026-Tera — Tera edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automati",
-          "url": "https://github.com/dimasarestuprasmanto/Pet-Simulator-99-Auto-Farm-Trainer-2026-Tera",
-          "source": "github"
-        },
-        {
           "title": "NagaaSaketh/Pet-Simulator-99-Auto-Farm-Trainer-2026-Ultimate — Ultimate edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatic",
           "url": "https://github.com/NagaaSaketh/Pet-Simulator-99-Auto-Farm-Trainer-2026-Ultimate",
           "source": "github"
         },
         {
-          "title": "MuhammadHanzalaIqbal/Pet-Simulator-99-Auto-Farm-Trainer-2026-Turbo — Turbo edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automa",
-          "url": "https://github.com/MuhammadHanzalaIqbal/Pet-Simulator-99-Auto-Farm-Trainer-2026-Turbo",
+          "title": "mofouly/Pet-Simulator-99-Auto-Farm-Trainer-2026-Giga — Giga edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatically. Fully ",
+          "url": "https://github.com/mofouly/Pet-Simulator-99-Auto-Farm-Trainer-2026-Giga",
           "source": "github"
         },
         {
-          "title": "mofouly/Pet-Simulator-99-Auto-Farm-Trainer-2026-Giga — Giga edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatically. Fully ",
-          "url": "https://github.com/mofouly/Pet-Simulator-99-Auto-Farm-Trainer-2026-Giga",
+          "title": "perglervitek/Pet-Simulator-99-Auto-Farm-Trainer-2026-X — X edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatically. Fully u",
+          "url": "https://github.com/perglervitek/Pet-Simulator-99-Auto-Farm-Trainer-2026-X",
+          "source": "github"
+        },
+        {
+          "title": "yande0/Pet-Simulator-99-Auto-Farm-Trainer-2026-Platinum — Platinum edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatically.",
+          "url": "https://github.com/yande0/Pet-Simulator-99-Auto-Farm-Trainer-2026-Platinum",
           "source": "github"
         }
       ],
@@ -547,8 +774,8 @@
     },
     {
       "keyword": "farm coins",
-      "count": 24,
-      "score": 124.91748468300864,
+      "count": 18,
+      "score": 94.07117510555156,
       "proper": false,
       "niches": [
         "ai"
@@ -560,307 +787,35 @@
           "source": "github"
         },
         {
-          "title": "dimasarestuprasmanto/Pet-Simulator-99-Auto-Farm-Trainer-2026-Tera — Tera edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automati",
-          "url": "https://github.com/dimasarestuprasmanto/Pet-Simulator-99-Auto-Farm-Trainer-2026-Tera",
-          "source": "github"
-        },
-        {
           "title": "NagaaSaketh/Pet-Simulator-99-Auto-Farm-Trainer-2026-Ultimate — Ultimate edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatic",
           "url": "https://github.com/NagaaSaketh/Pet-Simulator-99-Auto-Farm-Trainer-2026-Ultimate",
           "source": "github"
         },
         {
-          "title": "MuhammadHanzalaIqbal/Pet-Simulator-99-Auto-Farm-Trainer-2026-Turbo — Turbo edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automa",
-          "url": "https://github.com/MuhammadHanzalaIqbal/Pet-Simulator-99-Auto-Farm-Trainer-2026-Turbo",
+          "title": "mofouly/Pet-Simulator-99-Auto-Farm-Trainer-2026-Giga — Giga edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatically. Fully ",
+          "url": "https://github.com/mofouly/Pet-Simulator-99-Auto-Farm-Trainer-2026-Giga",
           "source": "github"
         },
         {
-          "title": "mofouly/Pet-Simulator-99-Auto-Farm-Trainer-2026-Giga — Giga edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatically. Fully ",
-          "url": "https://github.com/mofouly/Pet-Simulator-99-Auto-Farm-Trainer-2026-Giga",
+          "title": "perglervitek/Pet-Simulator-99-Auto-Farm-Trainer-2026-X — X edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatically. Fully u",
+          "url": "https://github.com/perglervitek/Pet-Simulator-99-Auto-Farm-Trainer-2026-X",
+          "source": "github"
+        },
+        {
+          "title": "yande0/Pet-Simulator-99-Auto-Farm-Trainer-2026-Platinum — Platinum edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatically.",
+          "url": "https://github.com/yande0/Pet-Simulator-99-Auto-Farm-Trainer-2026-Platinum",
           "source": "github"
         }
       ],
       "id": "9e52d1f2aaec",
       "slug": "farm-coins"
-    },
-    {
-      "keyword": "coins hatch",
-      "count": 24,
-      "score": 124.91748468300864,
-      "proper": false,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "perglervitek/Pet-Simulator-99-Auto-Farm-Trainer-2026-Premium — Premium edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatica",
-          "url": "https://github.com/perglervitek/Pet-Simulator-99-Auto-Farm-Trainer-2026-Premium",
-          "source": "github"
-        },
-        {
-          "title": "dimasarestuprasmanto/Pet-Simulator-99-Auto-Farm-Trainer-2026-Tera — Tera edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automati",
-          "url": "https://github.com/dimasarestuprasmanto/Pet-Simulator-99-Auto-Farm-Trainer-2026-Tera",
-          "source": "github"
-        },
-        {
-          "title": "NagaaSaketh/Pet-Simulator-99-Auto-Farm-Trainer-2026-Ultimate — Ultimate edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatic",
-          "url": "https://github.com/NagaaSaketh/Pet-Simulator-99-Auto-Farm-Trainer-2026-Ultimate",
-          "source": "github"
-        },
-        {
-          "title": "MuhammadHanzalaIqbal/Pet-Simulator-99-Auto-Farm-Trainer-2026-Turbo — Turbo edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automa",
-          "url": "https://github.com/MuhammadHanzalaIqbal/Pet-Simulator-99-Auto-Farm-Trainer-2026-Turbo",
-          "source": "github"
-        },
-        {
-          "title": "mofouly/Pet-Simulator-99-Auto-Farm-Trainer-2026-Giga — Giga edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatically. Fully ",
-          "url": "https://github.com/mofouly/Pet-Simulator-99-Auto-Farm-Trainer-2026-Giga",
-          "source": "github"
-        }
-      ],
-      "id": "5dd86c36e176",
-      "slug": "coins-hatch"
-    },
-    {
-      "keyword": "hatch eggs",
-      "count": 24,
-      "score": 124.91748468300864,
-      "proper": false,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "perglervitek/Pet-Simulator-99-Auto-Farm-Trainer-2026-Premium — Premium edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatica",
-          "url": "https://github.com/perglervitek/Pet-Simulator-99-Auto-Farm-Trainer-2026-Premium",
-          "source": "github"
-        },
-        {
-          "title": "dimasarestuprasmanto/Pet-Simulator-99-Auto-Farm-Trainer-2026-Tera — Tera edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automati",
-          "url": "https://github.com/dimasarestuprasmanto/Pet-Simulator-99-Auto-Farm-Trainer-2026-Tera",
-          "source": "github"
-        },
-        {
-          "title": "NagaaSaketh/Pet-Simulator-99-Auto-Farm-Trainer-2026-Ultimate — Ultimate edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatic",
-          "url": "https://github.com/NagaaSaketh/Pet-Simulator-99-Auto-Farm-Trainer-2026-Ultimate",
-          "source": "github"
-        },
-        {
-          "title": "MuhammadHanzalaIqbal/Pet-Simulator-99-Auto-Farm-Trainer-2026-Turbo — Turbo edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automa",
-          "url": "https://github.com/MuhammadHanzalaIqbal/Pet-Simulator-99-Auto-Farm-Trainer-2026-Turbo",
-          "source": "github"
-        },
-        {
-          "title": "mofouly/Pet-Simulator-99-Auto-Farm-Trainer-2026-Giga — Giga edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatically. Fully ",
-          "url": "https://github.com/mofouly/Pet-Simulator-99-Auto-Farm-Trainer-2026-Giga",
-          "source": "github"
-        }
-      ],
-      "id": "fc80f22fa3e2",
-      "slug": "hatch-eggs"
-    },
-    {
-      "keyword": "eggs complete",
-      "count": 24,
-      "score": 124.91748468300864,
-      "proper": false,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "perglervitek/Pet-Simulator-99-Auto-Farm-Trainer-2026-Premium — Premium edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatica",
-          "url": "https://github.com/perglervitek/Pet-Simulator-99-Auto-Farm-Trainer-2026-Premium",
-          "source": "github"
-        },
-        {
-          "title": "dimasarestuprasmanto/Pet-Simulator-99-Auto-Farm-Trainer-2026-Tera — Tera edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automati",
-          "url": "https://github.com/dimasarestuprasmanto/Pet-Simulator-99-Auto-Farm-Trainer-2026-Tera",
-          "source": "github"
-        },
-        {
-          "title": "NagaaSaketh/Pet-Simulator-99-Auto-Farm-Trainer-2026-Ultimate — Ultimate edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatic",
-          "url": "https://github.com/NagaaSaketh/Pet-Simulator-99-Auto-Farm-Trainer-2026-Ultimate",
-          "source": "github"
-        },
-        {
-          "title": "MuhammadHanzalaIqbal/Pet-Simulator-99-Auto-Farm-Trainer-2026-Turbo — Turbo edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automa",
-          "url": "https://github.com/MuhammadHanzalaIqbal/Pet-Simulator-99-Auto-Farm-Trainer-2026-Turbo",
-          "source": "github"
-        },
-        {
-          "title": "mofouly/Pet-Simulator-99-Auto-Farm-Trainer-2026-Giga — Giga edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatically. Fully ",
-          "url": "https://github.com/mofouly/Pet-Simulator-99-Auto-Farm-Trainer-2026-Giga",
-          "source": "github"
-        }
-      ],
-      "id": "a1e0fc4f703b",
-      "slug": "eggs-complete"
-    },
-    {
-      "keyword": "complete backrooms",
-      "count": 24,
-      "score": 124.91748468300864,
-      "proper": false,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "perglervitek/Pet-Simulator-99-Auto-Farm-Trainer-2026-Premium — Premium edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatica",
-          "url": "https://github.com/perglervitek/Pet-Simulator-99-Auto-Farm-Trainer-2026-Premium",
-          "source": "github"
-        },
-        {
-          "title": "dimasarestuprasmanto/Pet-Simulator-99-Auto-Farm-Trainer-2026-Tera — Tera edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automati",
-          "url": "https://github.com/dimasarestuprasmanto/Pet-Simulator-99-Auto-Farm-Trainer-2026-Tera",
-          "source": "github"
-        },
-        {
-          "title": "NagaaSaketh/Pet-Simulator-99-Auto-Farm-Trainer-2026-Ultimate — Ultimate edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatic",
-          "url": "https://github.com/NagaaSaketh/Pet-Simulator-99-Auto-Farm-Trainer-2026-Ultimate",
-          "source": "github"
-        },
-        {
-          "title": "MuhammadHanzalaIqbal/Pet-Simulator-99-Auto-Farm-Trainer-2026-Turbo — Turbo edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automa",
-          "url": "https://github.com/MuhammadHanzalaIqbal/Pet-Simulator-99-Auto-Farm-Trainer-2026-Turbo",
-          "source": "github"
-        },
-        {
-          "title": "mofouly/Pet-Simulator-99-Auto-Farm-Trainer-2026-Giga — Giga edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatically. Fully ",
-          "url": "https://github.com/mofouly/Pet-Simulator-99-Auto-Farm-Trainer-2026-Giga",
-          "source": "github"
-        }
-      ],
-      "id": "1c20f71174cc",
-      "slug": "complete-backrooms"
-    },
-    {
-      "keyword": "league tasks",
-      "count": 24,
-      "score": 124.91748468300864,
-      "proper": false,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "perglervitek/Pet-Simulator-99-Auto-Farm-Trainer-2026-Premium — Premium edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatica",
-          "url": "https://github.com/perglervitek/Pet-Simulator-99-Auto-Farm-Trainer-2026-Premium",
-          "source": "github"
-        },
-        {
-          "title": "dimasarestuprasmanto/Pet-Simulator-99-Auto-Farm-Trainer-2026-Tera — Tera edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automati",
-          "url": "https://github.com/dimasarestuprasmanto/Pet-Simulator-99-Auto-Farm-Trainer-2026-Tera",
-          "source": "github"
-        },
-        {
-          "title": "NagaaSaketh/Pet-Simulator-99-Auto-Farm-Trainer-2026-Ultimate — Ultimate edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatic",
-          "url": "https://github.com/NagaaSaketh/Pet-Simulator-99-Auto-Farm-Trainer-2026-Ultimate",
-          "source": "github"
-        },
-        {
-          "title": "MuhammadHanzalaIqbal/Pet-Simulator-99-Auto-Farm-Trainer-2026-Turbo — Turbo edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automa",
-          "url": "https://github.com/MuhammadHanzalaIqbal/Pet-Simulator-99-Auto-Farm-Trainer-2026-Turbo",
-          "source": "github"
-        },
-        {
-          "title": "mofouly/Pet-Simulator-99-Auto-Farm-Trainer-2026-Giga — Giga edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatically. Fully ",
-          "url": "https://github.com/mofouly/Pet-Simulator-99-Auto-Farm-Trainer-2026-Giga",
-          "source": "github"
-        }
-      ],
-      "id": "05c158d4f683",
-      "slug": "league-tasks"
-    },
-    {
-      "keyword": "2026 _blank",
-      "count": 27,
-      "score": 102.1085715366399,
-      "proper": false,
-      "niches": [
-        "ai",
-        "finance",
-        "gear",
-        "general"
-      ],
-      "examples": [
-        {
-          "title": "The 5 Best AI Visibility Tools That Actually Work in 2026",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeFE2MkozbHZZelBNVmdkUm5qcENtSlNlcmJyVW9VSng0eVVzOTJ5d25sbEtXTlYtRFNzSVNpMHBOblZiandNYmQwN3ZValpFcjduVXJyTW5KcWJtV2M3bjFvZVBTZU9ud3dRb1dHY0dtSGhKakVMN3ZkZEtPX3JlNUhUYnNhYUlIRTVpbUFCMUZYNGxBTUVCZg?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Best Budgeting Apps Of 2026",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1IMzFaUkNOY3Y2LXg2OEdzVnZ6Nm1kQUZmUUJZVFNoQ0V5NzNKcVhoaXNldDVFVTdwcW5TM1UwWmFhamdJdGtuR01RN1RtTUJQbHdyRERSUFJHMy1QSVhPUEJsVnVIa0x1anRweXpQT2JaOTBibG1nOEVB?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "The Best Gadgets of June 2026",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA1cHRyVHlmemVpN3lnc09ocDBYc1RJa2xzbjVBWEs5VElLT29mRzFubnNxLVlhbF9aQVB6M0RLcVhKbnFITVFqaFlhVFVtYjZ5dkwtWW5YUDFEYThJOEE0YlNpbw?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Top tech of the month: the best new gadgets we've tested for July 2026",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdlJxVHc3c2ZtWENMeDhFTDQ2R1VMYzlWMFJFTW5PekdhYTdBOEZJNmNVeUhWUmp3X2tjRWhZcEo5N3czVmdtY0JzUmlCVWtNT2FlUVZHTXdwUExWdV9LajhZVHRVMTZkdzNpSkhTRi1Tb3IzenJoZFhfOW5BNlJDaU1TbFVjRG1oNGhoa3dLdFYzaGp4M2dyZTFqNEx6VnFx?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "6 Best AI Tools for Creating Automotive Marketing Videos in 2026",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOU21DMnAyUC1Sd3VuUzBEYjdDRU01a0dGd2ZhQngzazlYVk9aMHZ4UUNacUM4cERHRzcwckE1S0V3dnZnWDdPalhsSEhxbWQtcHdEajIyS2Rocl9WOU1ncjVlVXJ6OWRRN1R1UGQwc1h2LWlUOWNwYUdiUkF0XzdhcXdXdE1kbEQzVVdkZS04emN3WlNQWndxT2pDbDNTWWxTZ0k2dVRMczE?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "436796f27eb8",
-      "slug": "2026-_blank"
-    },
-    {
-      "keyword": "2026 6f6f6f",
-      "count": 27,
-      "score": 102.1085715366399,
-      "proper": false,
-      "niches": [
-        "ai",
-        "finance",
-        "gear",
-        "general"
-      ],
-      "examples": [
-        {
-          "title": "The 5 Best AI Visibility Tools That Actually Work in 2026",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeFE2MkozbHZZelBNVmdkUm5qcENtSlNlcmJyVW9VSng0eVVzOTJ5d25sbEtXTlYtRFNzSVNpMHBOblZiandNYmQwN3ZValpFcjduVXJyTW5KcWJtV2M3bjFvZVBTZU9ud3dRb1dHY0dtSGhKakVMN3ZkZEtPX3JlNUhUYnNhYUlIRTVpbUFCMUZYNGxBTUVCZg?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Best Budgeting Apps Of 2026",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1IMzFaUkNOY3Y2LXg2OEdzVnZ6Nm1kQUZmUUJZVFNoQ0V5NzNKcVhoaXNldDVFVTdwcW5TM1UwWmFhamdJdGtuR01RN1RtTUJQbHdyRERSUFJHMy1QSVhPUEJsVnVIa0x1anRweXpQT2JaOTBibG1nOEVB?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "The Best Gadgets of June 2026",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA1cHRyVHlmemVpN3lnc09ocDBYc1RJa2xzbjVBWEs5VElLT29mRzFubnNxLVlhbF9aQVB6M0RLcVhKbnFITVFqaFlhVFVtYjZ5dkwtWW5YUDFEYThJOEE0YlNpbw?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Top tech of the month: the best new gadgets we've tested for July 2026",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdlJxVHc3c2ZtWENMeDhFTDQ2R1VMYzlWMFJFTW5PekdhYTdBOEZJNmNVeUhWUmp3X2tjRWhZcEo5N3czVmdtY0JzUmlCVWtNT2FlUVZHTXdwUExWdV9LajhZVHRVMTZkdzNpSkhTRi1Tb3IzenJoZFhfOW5BNlJDaU1TbFVjRG1oNGhoa3dLdFYzaGp4M2dyZTFqNEx6VnFx?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "6 Best AI Tools for Creating Automotive Marketing Videos in 2026",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOU21DMnAyUC1Sd3VuUzBEYjdDRU01a0dGd2ZhQngzazlYVk9aMHZ4UUNacUM4cERHRzcwckE1S0V3dnZnWDdPalhsSEhxbWQtcHdEajIyS2Rocl9WOU1ncjVlVXJ6OWRRN1R1UGQwc1h2LWlUOWNwYUdiUkF0XzdhcXdXdE1kbEQzVVdkZS04emN3WlNQWndxT2pDbDNTWWxTZ0k2dVRMczE?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "819223dcf234",
-      "slug": "2026-6f6f6f"
     }
   ],
   "opportunities": [
     {
       "keyword": "pet simulator",
-      "count": 96,
-      "score": 729.0206049965394,
+      "count": 72,
+      "score": 544.2224865122528,
       "proper": true,
       "niches": [
         "ai"
@@ -877,18 +832,18 @@
           "source": "github"
         },
         {
-          "title": "dimasarestuprasmanto/Pet-Simulator-99-Auto-Farm-Trainer-2026-Tera — Tera edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automati",
-          "url": "https://github.com/dimasarestuprasmanto/Pet-Simulator-99-Auto-Farm-Trainer-2026-Tera",
-          "source": "github"
-        },
-        {
-          "title": "dimasarestuprasmanto/Pet-Simulator-99-Auto-Farm-Trainer-2026-Tera — Tera edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automati",
-          "url": "https://github.com/dimasarestuprasmanto/Pet-Simulator-99-Auto-Farm-Trainer-2026-Tera",
+          "title": "NagaaSaketh/Pet-Simulator-99-Auto-Farm-Trainer-2026-Ultimate — Ultimate edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatic",
+          "url": "https://github.com/NagaaSaketh/Pet-Simulator-99-Auto-Farm-Trainer-2026-Ultimate",
           "source": "github"
         },
         {
           "title": "NagaaSaketh/Pet-Simulator-99-Auto-Farm-Trainer-2026-Ultimate — Ultimate edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatic",
           "url": "https://github.com/NagaaSaketh/Pet-Simulator-99-Auto-Farm-Trainer-2026-Ultimate",
+          "source": "github"
+        },
+        {
+          "title": "mofouly/Pet-Simulator-99-Auto-Farm-Trainer-2026-Giga — Giga edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatically. Fully ",
+          "url": "https://github.com/mofouly/Pet-Simulator-99-Auto-Farm-Trainer-2026-Giga",
           "source": "github"
         }
       ],
@@ -901,8 +856,8 @@
     },
     {
       "keyword": "backrooms league",
-      "count": 80,
-      "score": 606.2927044500864,
+      "count": 64,
+      "score": 482.8585362390263,
       "proper": true,
       "niches": [
         "ai"
@@ -919,18 +874,18 @@
           "source": "github"
         },
         {
-          "title": "dimasarestuprasmanto/Pet-Simulator-99-Auto-Farm-Trainer-2026-Tera — Tera edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automati",
-          "url": "https://github.com/dimasarestuprasmanto/Pet-Simulator-99-Auto-Farm-Trainer-2026-Tera",
-          "source": "github"
-        },
-        {
-          "title": "dimasarestuprasmanto/Pet-Simulator-99-Auto-Farm-Trainer-2026-Tera — Tera edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automati",
-          "url": "https://github.com/dimasarestuprasmanto/Pet-Simulator-99-Auto-Farm-Trainer-2026-Tera",
+          "title": "NagaaSaketh/Pet-Simulator-99-Auto-Farm-Trainer-2026-Ultimate — Ultimate edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatic",
+          "url": "https://github.com/NagaaSaketh/Pet-Simulator-99-Auto-Farm-Trainer-2026-Ultimate",
           "source": "github"
         },
         {
           "title": "NagaaSaketh/Pet-Simulator-99-Auto-Farm-Trainer-2026-Ultimate — Ultimate edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatic",
           "url": "https://github.com/NagaaSaketh/Pet-Simulator-99-Auto-Farm-Trainer-2026-Ultimate",
+          "source": "github"
+        },
+        {
+          "title": "mofouly/Pet-Simulator-99-Auto-Farm-Trainer-2026-Giga — Giga edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatically. Fully ",
+          "url": "https://github.com/mofouly/Pet-Simulator-99-Auto-Farm-Trainer-2026-Giga",
           "source": "github"
         }
       ],
@@ -942,252 +897,212 @@
       }
     },
     {
-      "keyword": "edition advanced",
-      "count": 24,
-      "score": 124.91748468300864,
-      "proper": false,
+      "keyword": "passive income",
+      "count": 47,
+      "score": 288.70443819139996,
+      "proper": true,
+      "niches": [
+        "finance"
+      ],
+      "examples": [
+        {
+          "title": "5 High-Yield BlackRock ETFs Paying Over 5% Passive Income Right Now",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQM3U5N0k1dUFjVGdTUUlpQXR4R3RjRlFLY1NZSmpJenl6WUVzcXBUYTNiYVQwWWVBa3JyakxxUVN4YmNMSEk0bTNvdzdqVVBFSnFCV2Y4QWtsOUs3d1BNV0FrNUlrQUlnRlQtOGl0QVJpdlJsLTRrSGQ0T2JlYlplUm03X2J6cTdJbERQeXk4QTFGTzJ4WjBwWlY4ODI?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "5 High-Yield BlackRock ETFs Paying Over 5% Passive Income Right Now",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQM3U5N0k1dUFjVGdTUUlpQXR4R3RjRlFLY1NZSmpJenl6WUVzcXBUYTNiYVQwWWVBa3JyakxxUVN4YmNMSEk0bTNvdzdqVVBFSnFCV2Y4QWtsOUs3d1BNV0FrNUlrQUlnRlQtOGl0QVJpdlJsLTRrSGQ0T2JlYlplUm03X2J6cTdJbERQeXk4QTFGTzJ4WjBwWlY4ODI?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "These 5 Passive Income Stocks Could Pay You For Life",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbFFRRWdxUWc1OGlTNlRjbGREOHhNT3lHSFN3dEd5RUhuNWswUDNpYjhiU2laSGtRTFZ3ZS1kVUlQN21KVGtjY2FNUFRlcUM3QWt3ZEZ2M0FuUElwVjR4bHF6WGkxMjVIV1RObHN6bjRldElWOU16WW1XcU9XRWRvQXN1a3c3V1FuYl9tOTBSdUd3R2tnZTJsUGo4Y3Y?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "These 5 Passive Income Stocks Could Pay You For Life",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbFFRRWdxUWc1OGlTNlRjbGREOHhNT3lHSFN3dEd5RUhuNWswUDNpYjhiU2laSGtRTFZ3ZS1kVUlQN21KVGtjY2FNUFRlcUM3QWt3ZEZ2M0FuUElwVjR4bHF6WGkxMjVIV1RObHN6bjRldElWOU16WW1XcU9XRWRvQXN1a3c3V1FuYl9tOTBSdUd3R2tnZTJsUGo4Y3Y?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "3 Magnificent Dividend ETFs That Could Supercharge Your Passive Income",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPS0p4Y1JWNWRXMG9QSkMwenh4OHVrb3VpQXVDckhUc1paUmlmYUd3NUsyaDlpTThNYV81cjRzTW5tQk9uM2JXUzZHZE5nUjdlR25SZnJXVWhTZVlfRzQwMm5PRVUtZktsS2s0SG45WkgyS0NoREg5Q0VDdVZ3Y19Bc3BYamhEWGgxR3NSWXFmNXhiOVFjMDZ2bmZHRlF3SlU?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "cf2dbbbf8c8c",
+      "slug": "passive-income",
+      "opportunity": {
+        "type": "niche-content",
+        "recommended": "Publish niche guide for \"finance\"; bundle into digital product later."
+      }
+    },
+    {
+      "keyword": "blox fruits",
+      "count": 19,
+      "score": 150.1903021156952,
+      "proper": true,
       "niches": [
         "ai"
       ],
       "examples": [
         {
-          "title": "perglervitek/Pet-Simulator-99-Auto-Farm-Trainer-2026-Premium — Premium edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatica",
-          "url": "https://github.com/perglervitek/Pet-Simulator-99-Auto-Farm-Trainer-2026-Premium",
+          "title": "yande0/Blox-Fruits-Dragon-Update-Auto-Farm-Script-2026-Premium — Maximize your progress in Blox Fruits with this Premium trainer – auto farm, ESP, raid, and anti‑ban included.",
+          "url": "https://github.com/yande0/Blox-Fruits-Dragon-Update-Auto-Farm-Script-2026-Premium",
           "source": "github"
         },
         {
-          "title": "dimasarestuprasmanto/Pet-Simulator-99-Auto-Farm-Trainer-2026-Tera — Tera edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automati",
-          "url": "https://github.com/dimasarestuprasmanto/Pet-Simulator-99-Auto-Farm-Trainer-2026-Tera",
+          "title": "yande0/Blox-Fruits-Dragon-Update-Auto-Farm-Script-2026-Premium — Maximize your progress in Blox Fruits with this Premium trainer – auto farm, ESP, raid, and anti‑ban included.",
+          "url": "https://github.com/yande0/Blox-Fruits-Dragon-Update-Auto-Farm-Script-2026-Premium",
           "source": "github"
         },
         {
-          "title": "NagaaSaketh/Pet-Simulator-99-Auto-Farm-Trainer-2026-Ultimate — Ultimate edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatic",
-          "url": "https://github.com/NagaaSaketh/Pet-Simulator-99-Auto-Farm-Trainer-2026-Ultimate",
+          "title": "incursio003/Blox-Fruits-Dragon-Update-Auto-Farm-Script-2026-Plus — Maximize your progress in Blox Fruits with this Plus trainer – auto farm, ESP, raid, and anti‑ban included.",
+          "url": "https://github.com/incursio003/Blox-Fruits-Dragon-Update-Auto-Farm-Script-2026-Plus",
           "source": "github"
         },
         {
-          "title": "MuhammadHanzalaIqbal/Pet-Simulator-99-Auto-Farm-Trainer-2026-Turbo — Turbo edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automa",
-          "url": "https://github.com/MuhammadHanzalaIqbal/Pet-Simulator-99-Auto-Farm-Trainer-2026-Turbo",
+          "title": "incursio003/Blox-Fruits-Dragon-Update-Auto-Farm-Script-2026-Plus — Maximize your progress in Blox Fruits with this Plus trainer – auto farm, ESP, raid, and anti‑ban included.",
+          "url": "https://github.com/incursio003/Blox-Fruits-Dragon-Update-Auto-Farm-Script-2026-Plus",
           "source": "github"
         },
         {
-          "title": "mofouly/Pet-Simulator-99-Auto-Farm-Trainer-2026-Giga — Giga edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatically. Fully ",
-          "url": "https://github.com/mofouly/Pet-Simulator-99-Auto-Farm-Trainer-2026-Giga",
+          "title": "NagaaSaketh/Blox-Fruits-Dragon-Update-Auto-Farm-Script-2026-Ultimate — Auto farm, ESP, and raid script for Blox Fruits Dragon Update 2026 – Ultimate edition. Level up, farm bosses, and dominate PvP wi",
+          "url": "https://github.com/NagaaSaketh/Blox-Fruits-Dragon-Update-Auto-Farm-Script-2026-Ultimate",
           "source": "github"
         }
       ],
-      "id": "4d79192c45fc",
-      "slug": "edition-advanced",
+      "id": "f4e20fe08350",
+      "slug": "blox-fruits",
       "opportunity": {
         "type": "niche-content",
         "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
       }
     },
     {
-      "keyword": "advanced pet",
-      "count": 24,
-      "score": 124.91748468300864,
-      "proper": false,
+      "keyword": "promise speed",
+      "count": 11,
+      "score": 136.24798021568327,
+      "proper": true,
       "niches": [
         "ai"
       ],
       "examples": [
         {
-          "title": "perglervitek/Pet-Simulator-99-Auto-Farm-Trainer-2026-Premium — Premium edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatica",
-          "url": "https://github.com/perglervitek/Pet-Simulator-99-Auto-Farm-Trainer-2026-Premium",
-          "source": "github"
+          "title": "AI Code Review Tools Promise Speed, But Can They Deliver Real-World Software Quality?",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSnBvMG1QV0RyZm9ZWWxQWkFOZzF2RXVqcDFrWWNaMlVtRUVYSXk1VnRQQTJkdFJDaWVRWXJrZjRES0ZvaWZaVEJKR1B5MUM0czM0ZzRjeS03VndJMnRLek0wTFFaTXZxQlZOc1RUeDh1cGRHclJrcnZBUGpZUFg5c0FfZXVuZHlpMVRWQUg1M0dVcXBMOGhTVXlPMDZvaUFDV25Jclh4OWR1elFiaUs4REdQbHNDemp3dEE?oc=5",
+          "source": "gnews"
         },
         {
-          "title": "dimasarestuprasmanto/Pet-Simulator-99-Auto-Farm-Trainer-2026-Tera — Tera edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automati",
-          "url": "https://github.com/dimasarestuprasmanto/Pet-Simulator-99-Auto-Farm-Trainer-2026-Tera",
-          "source": "github"
+          "title": "AI Code Review Tools Promise Speed, But Can They Deliver Real-World Software Quality?",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSnBvMG1QV0RyZm9ZWWxQWkFOZzF2RXVqcDFrWWNaMlVtRUVYSXk1VnRQQTJkdFJDaWVRWXJrZjRES0ZvaWZaVEJKR1B5MUM0czM0ZzRjeS03VndJMnRLek0wTFFaTXZxQlZOc1RUeDh1cGRHclJrcnZBUGpZUFg5c0FfZXVuZHlpMVRWQUg1M0dVcXBMOGhTVXlPMDZvaUFDV25Jclh4OWR1elFiaUs4REdQbHNDemp3dEE?oc=5",
+          "source": "gnews"
         },
         {
-          "title": "NagaaSaketh/Pet-Simulator-99-Auto-Farm-Trainer-2026-Ultimate — Ultimate edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatic",
-          "url": "https://github.com/NagaaSaketh/Pet-Simulator-99-Auto-Farm-Trainer-2026-Ultimate",
-          "source": "github"
-        },
-        {
-          "title": "MuhammadHanzalaIqbal/Pet-Simulator-99-Auto-Farm-Trainer-2026-Turbo — Turbo edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automa",
-          "url": "https://github.com/MuhammadHanzalaIqbal/Pet-Simulator-99-Auto-Farm-Trainer-2026-Turbo",
-          "source": "github"
-        },
-        {
-          "title": "mofouly/Pet-Simulator-99-Auto-Farm-Trainer-2026-Giga — Giga edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatically. Fully ",
-          "url": "https://github.com/mofouly/Pet-Simulator-99-Auto-Farm-Trainer-2026-Giga",
-          "source": "github"
+          "title": "AI Code Review Tools Promise Speed, But Can They Deliver Real-World Software Quality?",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSnBvMG1QV0RyZm9ZWWxQWkFOZzF2RXVqcDFrWWNaMlVtRUVYSXk1VnRQQTJkdFJDaWVRWXJrZjRES0ZvaWZaVEJKR1B5MUM0czM0ZzRjeS03VndJMnRLek0wTFFaTXZxQlZOc1RUeDh1cGRHclJrcnZBUGpZUFg5c0FfZXVuZHlpMVRWQUg1M0dVcXBMOGhTVXlPMDZvaUFDV25Jclh4OWR1elFiaUs4REdQbHNDemp3dEE?oc=5",
+          "source": "gnews"
         }
       ],
-      "id": "9a7823ddb1d5",
-      "slug": "advanced-pet",
-      "opportunity": {
-        "type": "niche-content",
-        "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
-      }
-    },
-    {
-      "keyword": "simulator automation",
-      "count": 24,
-      "score": 124.91748468300864,
-      "proper": false,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "perglervitek/Pet-Simulator-99-Auto-Farm-Trainer-2026-Premium — Premium edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatica",
-          "url": "https://github.com/perglervitek/Pet-Simulator-99-Auto-Farm-Trainer-2026-Premium",
-          "source": "github"
-        },
-        {
-          "title": "dimasarestuprasmanto/Pet-Simulator-99-Auto-Farm-Trainer-2026-Tera — Tera edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automati",
-          "url": "https://github.com/dimasarestuprasmanto/Pet-Simulator-99-Auto-Farm-Trainer-2026-Tera",
-          "source": "github"
-        },
-        {
-          "title": "NagaaSaketh/Pet-Simulator-99-Auto-Farm-Trainer-2026-Ultimate — Ultimate edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatic",
-          "url": "https://github.com/NagaaSaketh/Pet-Simulator-99-Auto-Farm-Trainer-2026-Ultimate",
-          "source": "github"
-        },
-        {
-          "title": "MuhammadHanzalaIqbal/Pet-Simulator-99-Auto-Farm-Trainer-2026-Turbo — Turbo edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automa",
-          "url": "https://github.com/MuhammadHanzalaIqbal/Pet-Simulator-99-Auto-Farm-Trainer-2026-Turbo",
-          "source": "github"
-        },
-        {
-          "title": "mofouly/Pet-Simulator-99-Auto-Farm-Trainer-2026-Giga — Giga edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatically. Fully ",
-          "url": "https://github.com/mofouly/Pet-Simulator-99-Auto-Farm-Trainer-2026-Giga",
-          "source": "github"
-        }
-      ],
-      "id": "5d2e66b731b8",
-      "slug": "simulator-automation",
-      "opportunity": {
-        "type": "niche-content",
-        "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
-      }
-    },
-    {
-      "keyword": "automation tool",
-      "count": 24,
-      "score": 124.91748468300864,
-      "proper": false,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "perglervitek/Pet-Simulator-99-Auto-Farm-Trainer-2026-Premium — Premium edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatica",
-          "url": "https://github.com/perglervitek/Pet-Simulator-99-Auto-Farm-Trainer-2026-Premium",
-          "source": "github"
-        },
-        {
-          "title": "dimasarestuprasmanto/Pet-Simulator-99-Auto-Farm-Trainer-2026-Tera — Tera edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automati",
-          "url": "https://github.com/dimasarestuprasmanto/Pet-Simulator-99-Auto-Farm-Trainer-2026-Tera",
-          "source": "github"
-        },
-        {
-          "title": "NagaaSaketh/Pet-Simulator-99-Auto-Farm-Trainer-2026-Ultimate — Ultimate edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatic",
-          "url": "https://github.com/NagaaSaketh/Pet-Simulator-99-Auto-Farm-Trainer-2026-Ultimate",
-          "source": "github"
-        },
-        {
-          "title": "MuhammadHanzalaIqbal/Pet-Simulator-99-Auto-Farm-Trainer-2026-Turbo — Turbo edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automa",
-          "url": "https://github.com/MuhammadHanzalaIqbal/Pet-Simulator-99-Auto-Farm-Trainer-2026-Turbo",
-          "source": "github"
-        },
-        {
-          "title": "mofouly/Pet-Simulator-99-Auto-Farm-Trainer-2026-Giga — Giga edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatically. Fully ",
-          "url": "https://github.com/mofouly/Pet-Simulator-99-Auto-Farm-Trainer-2026-Giga",
-          "source": "github"
-        }
-      ],
-      "id": "977b38934bf7",
-      "slug": "automation-tool",
+      "id": "aac6482130ec",
+      "slug": "promise-speed",
       "opportunity": {
         "type": "affiliate",
         "recommended": "Write SEO comparison/roundup article with affiliate links."
       }
     },
     {
-      "keyword": "tool farm",
-      "count": 24,
-      "score": 124.91748468300864,
-      "proper": false,
+      "keyword": "income",
+      "count": 20,
+      "score": 129.33793829725187,
+      "proper": true,
       "niches": [
-        "ai"
+        "finance"
       ],
       "examples": [
         {
-          "title": "perglervitek/Pet-Simulator-99-Auto-Farm-Trainer-2026-Premium — Premium edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatica",
-          "url": "https://github.com/perglervitek/Pet-Simulator-99-Auto-Farm-Trainer-2026-Premium",
-          "source": "github"
+          "title": "The labor share of income in the US is at its lowest post-war level",
+          "url": "https://libertystreeteconomics.newyorkfed.org/2026/06/the-post-covid-decline-in-the-labor-share/",
+          "source": "hackernews"
         },
         {
-          "title": "dimasarestuprasmanto/Pet-Simulator-99-Auto-Farm-Trainer-2026-Tera — Tera edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automati",
-          "url": "https://github.com/dimasarestuprasmanto/Pet-Simulator-99-Auto-Farm-Trainer-2026-Tera",
-          "source": "github"
+          "title": "5 High-Yield BlackRock ETFs Paying Over 5% Passive Income Right Now",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQM3U5N0k1dUFjVGdTUUlpQXR4R3RjRlFLY1NZSmpJenl6WUVzcXBUYTNiYVQwWWVBa3JyakxxUVN4YmNMSEk0bTNvdzdqVVBFSnFCV2Y4QWtsOUs3d1BNV0FrNUlrQUlnRlQtOGl0QVJpdlJsLTRrSGQ0T2JlYlplUm03X2J6cTdJbERQeXk4QTFGTzJ4WjBwWlY4ODI?oc=5",
+          "source": "gnews"
         },
         {
-          "title": "NagaaSaketh/Pet-Simulator-99-Auto-Farm-Trainer-2026-Ultimate — Ultimate edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatic",
-          "url": "https://github.com/NagaaSaketh/Pet-Simulator-99-Auto-Farm-Trainer-2026-Ultimate",
-          "source": "github"
+          "title": "5 High-Yield BlackRock ETFs Paying Over 5% Passive Income Right Now",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQM3U5N0k1dUFjVGdTUUlpQXR4R3RjRlFLY1NZSmpJenl6WUVzcXBUYTNiYVQwWWVBa3JyakxxUVN4YmNMSEk0bTNvdzdqVVBFSnFCV2Y4QWtsOUs3d1BNV0FrNUlrQUlnRlQtOGl0QVJpdlJsLTRrSGQ0T2JlYlplUm03X2J6cTdJbERQeXk4QTFGTzJ4WjBwWlY4ODI?oc=5",
+          "source": "gnews"
         },
         {
-          "title": "MuhammadHanzalaIqbal/Pet-Simulator-99-Auto-Farm-Trainer-2026-Turbo — Turbo edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automa",
-          "url": "https://github.com/MuhammadHanzalaIqbal/Pet-Simulator-99-Auto-Farm-Trainer-2026-Turbo",
-          "source": "github"
+          "title": "These 5 Passive Income Stocks Could Pay You For Life",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbFFRRWdxUWc1OGlTNlRjbGREOHhNT3lHSFN3dEd5RUhuNWswUDNpYjhiU2laSGtRTFZ3ZS1kVUlQN21KVGtjY2FNUFRlcUM3QWt3ZEZ2M0FuUElwVjR4bHF6WGkxMjVIV1RObHN6bjRldElWOU16WW1XcU9XRWRvQXN1a3c3V1FuYl9tOTBSdUd3R2tnZTJsUGo4Y3Y?oc=5",
+          "source": "gnews"
         },
         {
-          "title": "mofouly/Pet-Simulator-99-Auto-Farm-Trainer-2026-Giga — Giga edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatically. Fully ",
-          "url": "https://github.com/mofouly/Pet-Simulator-99-Auto-Farm-Trainer-2026-Giga",
-          "source": "github"
+          "title": "These 5 Passive Income Stocks Could Pay You For Life",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbFFRRWdxUWc1OGlTNlRjbGREOHhNT3lHSFN3dEd5RUhuNWswUDNpYjhiU2laSGtRTFZ3ZS1kVUlQN21KVGtjY2FNUFRlcUM3QWt3ZEZ2M0FuUElwVjR4bHF6WGkxMjVIV1RObHN6bjRldElWOU16WW1XcU9XRWRvQXN1a3c3V1FuYl9tOTBSdUd3R2tnZTJsUGo4Y3Y?oc=5",
+          "source": "gnews"
         }
       ],
-      "id": "e83e6c0b68f0",
-      "slug": "tool-farm",
+      "id": "00cf141f881d",
+      "slug": "income",
       "opportunity": {
-        "type": "affiliate",
-        "recommended": "Write SEO comparison/roundup article with affiliate links."
+        "type": "niche-content",
+        "recommended": "Publish niche guide for \"finance\"; bundle into digital product later."
       }
     },
     {
-      "keyword": "farm coins",
-      "count": 24,
-      "score": 124.91748468300864,
-      "proper": false,
+      "keyword": "marking requests",
+      "count": 8,
+      "score": 112.70412101582036,
+      "proper": true,
       "niches": [
         "ai"
       ],
       "examples": [
         {
-          "title": "perglervitek/Pet-Simulator-99-Auto-Farm-Trainer-2026-Premium — Premium edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatica",
-          "url": "https://github.com/perglervitek/Pet-Simulator-99-Auto-Farm-Trainer-2026-Premium",
-          "source": "github"
+          "title": "Claude Code Is Steganographically Marking Requests",
+          "url": "https://thereallo.dev/blog/claude-code-prompt-steganography",
+          "source": "hackernews"
         },
         {
-          "title": "dimasarestuprasmanto/Pet-Simulator-99-Auto-Farm-Trainer-2026-Tera — Tera edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automati",
-          "url": "https://github.com/dimasarestuprasmanto/Pet-Simulator-99-Auto-Farm-Trainer-2026-Tera",
-          "source": "github"
-        },
-        {
-          "title": "NagaaSaketh/Pet-Simulator-99-Auto-Farm-Trainer-2026-Ultimate — Ultimate edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatic",
-          "url": "https://github.com/NagaaSaketh/Pet-Simulator-99-Auto-Farm-Trainer-2026-Ultimate",
-          "source": "github"
-        },
-        {
-          "title": "MuhammadHanzalaIqbal/Pet-Simulator-99-Auto-Farm-Trainer-2026-Turbo — Turbo edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automa",
-          "url": "https://github.com/MuhammadHanzalaIqbal/Pet-Simulator-99-Auto-Farm-Trainer-2026-Turbo",
-          "source": "github"
-        },
-        {
-          "title": "mofouly/Pet-Simulator-99-Auto-Farm-Trainer-2026-Giga — Giga edition of the most advanced Pet Simulator 99 automation tool. Farm coins, hatch eggs, complete Backrooms League tasks automatically. Fully ",
-          "url": "https://github.com/mofouly/Pet-Simulator-99-Auto-Farm-Trainer-2026-Giga",
-          "source": "github"
+          "title": "Claude Code Is Steganographically Marking Requests",
+          "url": "https://thereallo.dev/blog/claude-code-prompt-steganography",
+          "source": "hackernews"
         }
       ],
-      "id": "9e52d1f2aaec",
-      "slug": "farm-coins",
+      "id": "08af5feec921",
+      "slug": "marking-requests",
+      "opportunity": {
+        "type": "niche-content",
+        "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
+      }
+    },
+    {
+      "keyword": "crash clock",
+      "count": 8,
+      "score": 102.45765999466414,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "My co-authors and I wrote an explainer article for the CRASH Clock that was supposed to get published last night, but it apparently didn't.  So I was all ready to write a thread about it, but I guess ",
+          "url": "https://mastodon.social/@sundogplanets/116839446538724032",
+          "source": "mastodon"
+        },
+        {
+          "title": "My co-authors and I wrote an explainer article for the CRASH Clock that was supposed to get published last night, but it apparently didn't.  So I was all ready to write a thread about it, but I guess ",
+          "url": "https://mastodon.social/@sundogplanets/116839446538724032",
+          "source": "mastodon"
+        }
+      ],
+      "id": "72e3727424c7",
+      "slug": "crash-clock",
       "opportunity": {
         "type": "niche-content",
         "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
