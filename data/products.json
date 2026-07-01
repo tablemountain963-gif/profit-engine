@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "slug": "prompt-pack-stream-deck-2026-07-01",
+      "title": "Stream Deck Prompt Pack — 50 Battle-Tested Prompts",
+      "blurb": "50 proven prompts for Stream Deck. Copy/paste ready. Tested across Claude, GPT, Gemini.",
+      "type": "prompt-pack",
+      "topic": "Stream Deck",
+      "niche": "ai",
+      "price": 19,
+      "generatedAt": "2026-07-01T22:11:11.119Z",
+      "files": [
+        "prompts.md",
+        "README.md",
+        "LICENSE.txt"
+      ]
+    },
+    {
+      "slug": "prompt-pack-clickhouse-olap-2026-07-01",
+      "title": "Clickhouse Olap Prompt Pack — 50 Battle-Tested Prompts",
+      "blurb": "50 proven prompts for Clickhouse Olap. Copy/paste ready. Tested across Claude, GPT, Gemini.",
+      "type": "prompt-pack",
+      "topic": "Clickhouse Olap",
+      "niche": "software",
+      "price": 19,
+      "generatedAt": "2026-07-01T22:11:06.043Z",
+      "files": [
+        "prompts.md",
+        "README.md",
+        "LICENSE.txt"
+      ]
+    },
+    {
       "slug": "prompt-pack-critical-mistakes-2026-07-01",
       "title": "Critical Mistakes Prompt Pack — 50 Battle-Tested Prompts",
       "blurb": "50 proven prompts for Critical Mistakes. Copy/paste ready. Tested across Claude, GPT, Gemini.",

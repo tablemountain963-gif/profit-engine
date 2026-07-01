@@ -1317,5 +1317,19 @@
     "price": 19,
     "productId": "prod_Uo4MFGrNhdABSI",
     "cover": "/assets/pack-cover.png"
+  },
+  "prompt-pack-stream-deck-2026-07-01": {
+    "url": "https://buy.stripe.com/fZucN4adi7Xw9jJ0BufjG32",
+    "platform": "stripe",
+    "price": 19,
+    "productId": "prod_Uo8dcNR9y94Aol",
+    "cover": "/assets/pack-cover.png"
+  },
+  "prompt-pack-clickhouse-olap-2026-07-01": {
+    "url": "https://buy.stripe.com/7sY28qdpua5EbrRckcfjG33",
+    "platform": "stripe",
+    "price": 19,
+    "productId": "prod_Uo8dKLb4UKNV4b",
+    "cover": "/assets/pack-cover.png"
   }
 }

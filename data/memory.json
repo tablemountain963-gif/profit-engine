@@ -162,8 +162,8 @@
     },
     "software": {
       "firstSeen": "2026-05-28T20:13:05.178Z",
-      "lastSeen": "2026-06-25T15:39:02.470Z",
-      "count": 6,
+      "lastSeen": "2026-07-01T22:11:31.278Z",
+      "count": 7,
       "wins": 0,
       "losses": 0,
       "niche": "ai"
@@ -1512,14 +1512,6 @@
       "losses": 0,
       "niche": "ai"
     },
-    "monaco-ai": {
-      "firstSeen": "2026-06-12T17:59:14.988Z",
-      "lastSeen": "2026-06-17T18:09:21.030Z",
-      "count": 2,
-      "wins": 0,
-      "losses": 1,
-      "niche": "ai"
-    },
     "side-hustle-ideas": {
       "firstSeen": "2026-06-12T17:59:17.737Z",
       "lastSeen": "2026-06-13T05:18:30.137Z",
@@ -2015,22 +2007,6 @@
       "wins": 0,
       "losses": 1,
       "niche": "ai"
-    },
-    "apparently": {
-      "firstSeen": "2026-06-17T18:10:02.032Z",
-      "lastSeen": "2026-06-17T18:10:02.032Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "finance"
-    },
-    "x-cringe": {
-      "firstSeen": "2026-06-17T18:10:24.089Z",
-      "lastSeen": "2026-06-17T18:10:24.089Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "software"
     },
     "european-commission": {
       "firstSeen": "2026-06-17T22:28:13.028Z",
@@ -2762,8 +2738,8 @@
     },
     "mechanical-keyboard": {
       "firstSeen": "2026-06-22T17:39:16.085Z",
-      "lastSeen": "2026-06-22T19:18:22.720Z",
-      "count": 2,
+      "lastSeen": "2026-07-01T22:11:01.882Z",
+      "count": 3,
       "wins": 1,
       "losses": 0,
       "niche": "gear"
@@ -4474,17 +4450,17 @@
     },
     "corsair-galleon": {
       "firstSeen": "2026-07-01T17:46:29.454Z",
-      "lastSeen": "2026-07-01T17:46:29.454Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-07-01T22:10:53.799Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
     "000-passive": {
       "firstSeen": "2026-07-01T17:46:32.196Z",
-      "lastSeen": "2026-07-01T17:46:32.196Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-07-01T22:10:53.800Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "finance"
     },
@@ -4503,21 +4479,69 @@
       "wins": 0,
       "losses": 0,
       "niche": "finance"
+    },
+    "cherry-k33": {
+      "firstSeen": "2026-07-01T22:10:59.113Z",
+      "lastSeen": "2026-07-01T22:10:59.113Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "dividend-income": {
+      "firstSeen": "2026-07-01T22:11:05.444Z",
+      "lastSeen": "2026-07-01T22:11:05.444Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "clickhouse-olap": {
+      "firstSeen": "2026-07-01T22:11:11.118Z",
+      "lastSeen": "2026-07-01T22:11:11.118Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "software"
+    },
+    "stream-deck": {
+      "firstSeen": "2026-07-01T22:11:18.825Z",
+      "lastSeen": "2026-07-01T22:11:18.825Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "creative-workflow": {
+      "firstSeen": "2026-07-01T22:11:53.408Z",
+      "lastSeen": "2026-07-01T22:11:53.408Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "phantom-squatting": {
+      "firstSeen": "2026-07-01T22:12:04.583Z",
+      "lastSeen": "2026-07-01T22:12:04.583Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
     }
   },
   "niches": {
     "ai": {
-      "count": 979,
-      "wins": 276,
+      "count": 987,
+      "wins": 277,
       "losses": 41
     },
     "finance": {
-      "count": 86,
-      "wins": 13,
+      "count": 87,
+      "wins": 14,
       "losses": 0
     },
     "software": {
-      "count": 226,
+      "count": 227,
       "wins": 62,
       "losses": 15
     },
