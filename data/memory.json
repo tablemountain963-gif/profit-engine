@@ -1226,9 +1226,9 @@
     },
     "claude-fable": {
       "firstSeen": "2026-06-09T17:52:53.176Z",
-      "lastSeen": "2026-07-01T05:19:25.142Z",
-      "count": 3,
-      "wins": 1,
+      "lastSeen": "2026-07-01T15:39:22.774Z",
+      "count": 4,
+      "wins": 2,
       "losses": 0,
       "niche": "ai"
     },
@@ -1966,30 +1966,6 @@
       "count": 2,
       "wins": 0,
       "losses": 1,
-      "niche": "ai"
-    },
-    "humiliating-iis": {
-      "firstSeen": "2026-06-17T06:07:33.215Z",
-      "lastSeen": "2026-06-17T06:07:33.215Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "ai"
-    },
-    "symbolic-music": {
-      "firstSeen": "2026-06-17T06:07:44.474Z",
-      "lastSeen": "2026-06-17T06:07:44.474Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "ai"
-    },
-    "stop-killing-games": {
-      "firstSeen": "2026-06-17T06:07:55.533Z",
-      "lastSeen": "2026-06-17T06:07:55.533Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
       "niche": "ai"
     },
     "vs-code": {
@@ -4402,9 +4378,9 @@
     },
     "happy-birthday": {
       "firstSeen": "2026-07-01T05:19:30.881Z",
-      "lastSeen": "2026-07-01T05:19:30.881Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-07-01T15:39:22.775Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "software"
     },
@@ -4447,22 +4423,94 @@
       "wins": 0,
       "losses": 0,
       "niche": "ai"
+    },
+    "schneider-electric": {
+      "firstSeen": "2026-07-01T15:39:28.151Z",
+      "lastSeen": "2026-07-01T15:39:28.151Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "cognite-billion": {
+      "firstSeen": "2026-07-01T15:39:30.900Z",
+      "lastSeen": "2026-07-01T15:39:30.900Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "software-gains": {
+      "firstSeen": "2026-07-01T15:39:33.344Z",
+      "lastSeen": "2026-07-01T15:39:33.344Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "yield-dividend-stock": {
+      "firstSeen": "2026-07-01T15:39:38.427Z",
+      "lastSeen": "2026-07-01T15:39:38.427Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "finance"
+    },
+    "2026-ranked": {
+      "firstSeen": "2026-07-01T15:39:44.062Z",
+      "lastSeen": "2026-07-01T15:39:44.062Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "death-knell": {
+      "firstSeen": "2026-07-01T15:39:55.459Z",
+      "lastSeen": "2026-07-01T15:39:55.459Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "sony-deletes": {
+      "firstSeen": "2026-07-01T15:40:05.126Z",
+      "lastSeen": "2026-07-01T15:40:05.126Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "includes-shadowrocket": {
+      "firstSeen": "2026-07-01T15:40:26.784Z",
+      "lastSeen": "2026-07-01T15:40:26.784Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "keyboard-down": {
+      "firstSeen": "2026-07-01T15:40:39.187Z",
+      "lastSeen": "2026-07-01T15:40:39.187Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
     }
   },
   "niches": {
     "ai": {
-      "count": 964,
-      "wins": 272,
+      "count": 973,
+      "wins": 273,
       "losses": 41
     },
     "finance": {
-      "count": 81,
+      "count": 82,
       "wins": 13,
       "losses": 0
     },
     "software": {
-      "count": 225,
-      "wins": 61,
+      "count": 226,
+      "wins": 62,
       "losses": 15
     },
     "gear": {

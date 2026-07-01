@@ -1,6 +1,53 @@
 {
   "items": [
     {
+      "slug": "prompt-pack-death-knell-2026-07-01",
+      "title": "Death Knell Prompt Pack — 50 Battle-Tested Prompts",
+      "blurb": "50 proven prompts for Death Knell. Copy/paste ready. Tested across Claude, GPT, Gemini.",
+      "type": "prompt-pack",
+      "topic": "Death Knell",
+      "niche": "ai",
+      "price": 19,
+      "generatedAt": "2026-07-01T15:39:44.063Z",
+      "files": [
+        "prompts.md",
+        "README.md",
+        "LICENSE.txt"
+      ]
+    },
+    {
+      "slug": "prompt-pack-2026-ranked-2026-07-01",
+      "title": "2026 Ranked Prompt Pack — 50 Battle-Tested Prompts",
+      "blurb": "50 proven prompts for 2026 Ranked. Copy/paste ready. Tested across Claude, GPT, Gemini.",
+      "type": "prompt-pack",
+      "topic": "2026 Ranked",
+      "niche": "ai",
+      "price": 19,
+      "generatedAt": "2026-07-01T15:39:38.428Z",
+      "files": [
+        "prompts.md",
+        "README.md",
+        "LICENSE.txt"
+      ]
+    },
+    {
+      "slug": "starter-kit-yield-dividend-stock-2026-07-01",
+      "title": "Yield Dividend Stock Starter Kit — Templates + Playbook",
+      "blurb": "Templates, playbook, and 30-day plan for Yield Dividend Stock. Skip the blank page.",
+      "type": "starter-kit",
+      "topic": "Yield Dividend Stock",
+      "niche": "finance",
+      "price": 29,
+      "generatedAt": "2026-07-01T15:39:33.904Z",
+      "files": [
+        "playbook.md",
+        "templates.md",
+        "30-day-plan.md",
+        "README.md",
+        "LICENSE.txt"
+      ]
+    },
+    {
       "slug": "prompt-pack-scan-qr-2026-07-01",
       "title": "Scan Qr Prompt Pack — 50 Battle-Tested Prompts",
       "blurb": "50 proven prompts for Scan Qr. Copy/paste ready. Tested across Claude, GPT, Gemini.",

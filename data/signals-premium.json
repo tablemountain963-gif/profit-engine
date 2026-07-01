@@ -1,55 +1,165 @@
 {
-  "generatedAt": "2026-07-01T05:19:21.293Z",
-  "sourceCount": 205,
+  "generatedAt": "2026-07-01T15:39:23.671Z",
+  "sourceCount": 203,
   "topItems": [
-    {
-      "title": "Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5",
-      "url": "https://twitter.com/AnthropicAI/status/2072106151890809341",
-      "score": 9.49,
-      "niche": "ai",
-      "source": "hackernews",
-      "engagement": {
-        "score": 472,
-        "comments": 227
-      }
-    },
     {
       "title": "Claude Code is steganographically marking requests",
       "url": "https://thereallo.dev/blog/claude-code-prompt-steganography",
-      "score": 8.72,
+      "score": 9.13,
       "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 1614,
-        "comments": 462
+        "score": 2301,
+        "comments": 688
       }
     },
     {
-      "title": "What happened to the fight for the internet? https://dustycloud.org/blog/what-happened-to-the-fight-for-the-internet/A new blogpost from me. I believe the fight for keeping the internet free is more i",
-      "url": "https://social.coop/@cwebber/116841848684568048",
-      "score": 8.66,
-      "niche": "software",
+      "title": "Nintendo has raised its employees base salary by 10%",
+      "url": "https://mynintendonews.com/2026/06/26/nintendo-has-raised-its-employees-base-salary-by-10/",
+      "score": 8.83,
+      "niche": "ai",
+      "source": "hackernews",
+      "engagement": {
+        "score": 301,
+        "comments": 137
+      }
+    },
+    {
+      "title": "Claude Sonnet 5",
+      "url": "https://www.anthropic.com/news/claude-sonnet-5",
+      "score": 8.78,
+      "niche": "ai",
+      "source": "hackernews",
+      "engagement": {
+        "score": 1211,
+        "comments": 744
+      }
+    },
+    {
+      "title": "It's amazing AI companies can legally bill by usage.\"How much will this cost?\"\"No idea.\"\"What will I get?\"\"No idea.\"\"Can you estimate either?\"\"Absolutely not!\"We're one jackpot animation away from cal",
+      "url": "https://mastodon.social/@fribbledom/116844557748409262",
+      "score": 8.63,
+      "niche": "ai",
       "source": "mastodon",
       "engagement": {
-        "score": 222,
-        "comments": 8
+        "score": 449,
+        "comments": 23
+      }
+    },
+    {
+      "title": "8 Best AI Tools for Developers in 2026 (Ranked & Reviewed)",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE83SHZjZ1BXZnhFdFphcXg3bWp5Y3V1blVpZ0szbW90RVRqZ1pKV1J2aXRESUxWLTdHUC1meW84Y2pxRm01QWtWYVNFOW4tOFF5bFIyVGIzRG1aMEg5cXo0ckYwQnrSAWdBVV95cUxNbTExZTdyYjdZMzNyMjRheTBTUlNTVHBWWjRFZTc5czNESWEtQTRpTEJ4RVhiSmk5MXJJMnBzckU3ekJVZlc5dy1GTGE1Y1NxeUtSWHVrb2xQaHB0T255TTRnN3hUeHFV?oc=5",
+      "score": 8.26,
+      "niche": "ai",
+      "source": "gnews",
+      "engagement": {
+        "score": 40,
+        "comments": 0
+      }
+    },
+    {
+      "title": "The 7 Best AI Mode Tracking Tools for SEO and GEO in 2026",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5tRWxGOWU3UnRiczJJU0FVeGdjLWFWRk1fN0ctRHRweE45SzRLd012bWd6N216T3AwZkRSa1AwUG1zSEcyNVU3RnBpaDJLb05ZdkJVLVp5ZHFrTElaRVFqYVptNVFvQQ?oc=5",
+      "score": 8.26,
+      "niche": "ai",
+      "source": "gnews",
+      "engagement": {
+        "score": 40,
+        "comments": 0
+      }
+    },
+    {
+      "title": "Happy Canada Day!  I really shouldn't complain about too much rain while others are in severe drought and catching fire, but wow there are mushrooms everywhere and I am starting to worry about hoof-ro",
+      "url": "https://mastodon.social/@sundogplanets/116845056656506532",
+      "score": 7.9,
+      "niche": "ai",
+      "source": "mastodon",
+      "engagement": {
+        "score": 135,
+        "comments": 2
+      }
+    },
+    {
+      "title": "\"It is, of course, an extraordinarily effective estrogenic agent, but that is the least of the problem. It is hypergolic with every known patient*, and so rapidly hypergolic that no induction period h",
+      "url": "https://bitbang.social/@NanoRaptor/116844845371735445",
+      "score": 7.75,
+      "niche": "ai",
+      "source": "mastodon",
+      "engagement": {
+        "score": 87,
+        "comments": 20
+      }
+    },
+    {
+      "title": "Godot will no longer accept AI-authored code contributions",
+      "url": "https://www.pcgamer.com/gaming-industry/open-source-game-engine-godot-will-no-longer-accept-ai-authored-code-contributions-we-cant-trust-heavy-users-of-ai-to-understand-their-code-enough-to-fix-it/",
+      "score": 7.75,
+      "niche": "ai",
+      "source": "hackernews",
+      "engagement": {
+        "score": 466,
+        "comments": 297
+      }
+    },
+    {
+      "title": "If bots are running the #stockmarket  with no grip on reality, well, it's no wonder the #AI bubble is so huge.",
+      "url": "https://hachyderm.io/@cyberlyra/116844864803984763",
+      "score": 7.55,
+      "niche": "ai",
+      "source": "mastodon",
+      "engagement": {
+        "score": 202,
+        "comments": 13
+      }
+    },
+    {
+      "title": "Claude Science",
+      "url": "https://claude.com/product/claude-science",
+      "score": 7.5,
+      "niche": "ai",
+      "source": "hackernews",
+      "engagement": {
+        "score": 539,
+        "comments": 155
+      }
+    },
+    {
+      "title": "I painted a red panda! medium: Nicker poster colour on Arches watercolour paper #Illustration #Watercolor #TraditionalArt #AnimeArt #Nature #Animals",
+      "url": "https://mastodon.art/@djamilaknopf/116845086926137129",
+      "score": 7.05,
+      "niche": "ai",
+      "source": "mastodon",
+      "engagement": {
+        "score": 157,
+        "comments": 1
+      }
+    },
+    {
+      "title": "You cannot claim to act on climate while ignoring the massive emissions of war.Count military emissions, expose the damage, and make those responsible pay for the harm done to the climate and ecosyste",
+      "url": "https://mastodon.social/@greenpeace/116844864539721124",
+      "score": 7.03,
+      "niche": "ai",
+      "source": "mastodon",
+      "engagement": {
+        "score": 144,
+        "comments": 6
       }
     },
     {
       "title": "zhujingqi/Twitter_Engagement_Tool — Auto-tweet, follow/unfollow, and like/retweet scheduler. Schedule tweets, gain followers, like tweets, and reply to mentions. Grow your Twitter audience.",
       "url": "https://github.com/zhujingqi/Twitter_Engagement_Tool",
-      "score": 8.65,
+      "score": 6.93,
       "niche": "ai",
       "source": "github",
       "engagement": {
-        "score": 223,
+        "score": 225,
         "comments": 0
       }
     },
     {
       "title": "AnonymousDev1494/System_Information_Viewer — Show detailed hardware and software info. Show processor details, memory usage, graphics card info, and Windows version. Get full system specs.",
       "url": "https://github.com/AnonymousDev1494/System_Information_Viewer",
-      "score": 8.65,
+      "score": 6.92,
       "niche": "ai",
       "source": "github",
       "engagement": {
@@ -60,7 +170,7 @@
     {
       "title": "MikoVelascoRamirez/Roblox_Adopt_Me_Pet_Farm — Auto-raise pets, trade bot, and legendary pet sniper for Adopt Me. Raise pets to full grown, automate trades, and claim legendary pets instantly. Best for",
       "url": "https://github.com/MikoVelascoRamirez/Roblox_Adopt_Me_Pet_Farm",
-      "score": 8.64,
+      "score": 6.91,
       "niche": "ai",
       "source": "github",
       "engagement": {
@@ -69,53 +179,42 @@
       }
     },
     {
-      "title": "Claude Sonnet 5",
-      "url": "https://www.anthropic.com/news/claude-sonnet-5",
-      "score": 8.52,
+      "title": "1028 died in Spain, in one month, due to capitalist-created #canicule hitting Europe this summer. Europe has 50 countries. 27 of those countries are in the European Union. let’s use Spain as a baselin",
+      "url": "https://mastodon.social/@blogdiva/116844750426641669",
+      "score": 6.69,
+      "niche": "ai",
+      "source": "mastodon",
+      "engagement": {
+        "score": 110,
+        "comments": 6
+      }
+    },
+    {
+      "title": "Sony Deletes 551 Movies PlayStation Owners Paid For",
+      "url": "https://reclaimthenet.org/sony-deletes-551-studiocanal-movies-playstation-owners-paid-for",
+      "score": 6.68,
       "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 1001,
-        "comments": 564
+        "score": 71,
+        "comments": 25
       }
     },
     {
-      "title": "The critical thing to understand about this air conditioning debate is that fossil fuel companies should be held accountable for destroying the planet.",
-      "url": "https://mastodon.social/@luckytran/116841469672903906",
-      "score": 8.07,
+      "title": "A haiku about #ADHD:Walk into a room. Stand in the doorway frozen. What was I doing?",
+      "url": "https://mastodon.social/@adhd_coffee/116844791095702049",
+      "score": 6.48,
       "niche": "ai",
       "source": "mastodon",
       "engagement": {
-        "score": 532,
-        "comments": 9
-      }
-    },
-    {
-      "title": "A reminder that SCOTUS declined to hear Trump’s appeal to E Jean Carroll, leaving permanently intact his obligation to pay Carroll $5M in fines plus $100M in jury awards. In other words, the US Suprem",
-      "url": "https://mastodon.social/@QasimRashid/116842049048100986",
-      "score": 7.74,
-      "niche": "software",
-      "source": "mastodon",
-      "engagement": {
-        "score": 246,
-        "comments": 3
-      }
-    },
-    {
-      "title": "arenaasd/Roblox_BedWars_Auto-Farm___Aimbot — Auto-farm, aimbot, and ESP for Roblox BedWars. Automatically break beds, kill enemies, and farm resources.",
-      "url": "https://github.com/arenaasd/Roblox_BedWars_Auto-Farm___Aimbot",
-      "score": 7.52,
-      "niche": "ai",
-      "source": "github",
-      "engagement": {
-        "score": 223,
-        "comments": 0
+        "score": 101,
+        "comments": 2
       }
     },
     {
       "title": "Fdani007/PUBG_Battlegrounds_ESP___Aimbot — ESP, aimbot, and no recoil for PUBG Battlegrounds. See enemies through walls, auto-aim, and zero recoil. Works with both FPP and TPP.",
       "url": "https://github.com/Fdani007/PUBG_Battlegrounds_ESP___Aimbot",
-      "score": 7.52,
+      "score": 6.02,
       "niche": "ai",
       "source": "github",
       "engagement": {
@@ -126,7 +225,7 @@
     {
       "title": "zhaixiansen1023-cpu/QR_Code_Scanner — Scan QR codes and barcodes from images, webcam, or screenshots. Decode instantly and copy to clipboard.",
       "url": "https://github.com/zhaixiansen1023-cpu/QR_Code_Scanner",
-      "score": 7.52,
+      "score": 6.02,
       "niche": "ai",
       "source": "github",
       "engagement": {
@@ -137,7 +236,7 @@
     {
       "title": "zaidoonkamil/TikTok_Follower_Farm — Auto-view, like, follow, and comment for TikTok. Get followers, increase views, add likes, and auto-comment. Grow your TikTok presence rapidly.",
       "url": "https://github.com/zaidoonkamil/TikTok_Follower_Farm",
-      "score": 7.52,
+      "score": 6.02,
       "niche": "ai",
       "source": "github",
       "engagement": {
@@ -148,7 +247,7 @@
     {
       "title": "Sac-tharan/The_Elder_Scrolls_Online_Auto-Farm — Auto-farm, gathering, and quest bot for ESO. Farm gold, materials, and complete daily quests automatically. Perfect for grinding.",
       "url": "https://github.com/Sac-tharan/The_Elder_Scrolls_Online_Auto-Farm",
-      "score": 7.51,
+      "score": 6.01,
       "niche": "ai",
       "source": "github",
       "engagement": {
@@ -159,7 +258,7 @@
     {
       "title": "usaid-anxari/Roblox_Tower_Defense_Simulator_Auto-Farm — Auto-place towers, auto-farm, and auto-upgrade for Tower Defense Simulator. Automatically place towers, upgrade, and survive waves.",
       "url": "https://github.com/usaid-anxari/Roblox_Tower_Defense_Simulator_Auto-Farm",
-      "score": 7.51,
+      "score": 6.01,
       "niche": "ai",
       "source": "github",
       "engagement": {
@@ -168,107 +267,8 @@
       }
     },
     {
-      "title": "One of the most baffling things about the modern world is just how fucking passive everyone is while a handful of people destroy everything.",
-      "url": "https://mastodon.social/@gwynnion/116842126507149052",
-      "score": 7.36,
-      "niche": "finance",
-      "source": "mastodon",
-      "engagement": {
-        "score": 255,
-        "comments": 14
-      }
-    },
-    {
-      "title": "Claude Science",
-      "url": "https://claude.com/product/claude-science",
-      "score": 7.24,
-      "niche": "ai",
-      "source": "hackernews",
-      "engagement": {
-        "score": 416,
-        "comments": 129
-      }
-    },
-    {
-      "title": "but #aislop is inevitable, right?!?!?❝ OpenAI Went From $5.09 Billion Net Loss in 2024 to $38.53 Billion Net Loss in 2025 https://cleantechnica.com/2026/06/30/openai-went-from-5-09-billion-net-loss-in",
-      "url": "https://mastodon.social/@blogdiva/116842138906851785",
-      "score": 6.81,
-      "niche": "ai",
-      "source": "mastodon",
-      "engagement": {
-        "score": 115,
-        "comments": 9
-      }
-    },
-    {
-      "title": "The best AI tools for writing, research and crisis response",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZ19CNF9xcE8zb1JTdUQxNlk0MzhWVU1HZ3E0WmRuZ0hLQTZVVTZkV1pycnBBM0xRZ3lwXy1ndnFNMUVkWUFiYTVKeG5SSzQ4VEZRS3Z2Szk3SDJsaHFST1Vub3c0R2FFUUhtcUZfTlRfNHpzSFBUYTVDVGRBbjVJY3lJRTk5Wk10ZUhZ?oc=5",
-      "score": 6.61,
-      "niche": "ai",
-      "source": "gnews",
-      "engagement": {
-        "score": 40,
-        "comments": 0
-      }
-    },
-    {
-      "title": "AI Code Review Tools Promise Speed, But Can They Deliver Real-World Software Quality?",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSnBvMG1QV0RyZm9ZWWxQWkFOZzF2RXVqcDFrWWNaMlVtRUVYSXk1VnRQQTJkdFJDaWVRWXJrZjRES0ZvaWZaVEJKR1B5MUM0czM0ZzRjeS03VndJMnRLek0wTFFaTXZxQlZOc1RUeDh1cGRHclJrcnZBUGpZUFg5c0FfZXVuZHlpMVRWQUg1M0dVcXBMOGhTVXlPMDZvaUFDV25Jclh4OWR1elFiaUs4REdQbHNDemp3dEE?oc=5",
-      "score": 6.61,
-      "niche": "ai",
-      "source": "gnews",
-      "engagement": {
-        "score": 40,
-        "comments": 0
-      }
-    },
-    {
-      "title": "😍 81 years young 💥Happy Birthday to the georgeous, fantastic Angela Trimble aka Deborah Ann Harry, born on this day in 1945, Miami, Florida.Photo by John Lamparski#punkrock #womenofpunk #debbieharry",
-      "url": "https://sfba.social/@historyofpunkrock/116842384566693822",
-      "score": 6.48,
-      "niche": "software",
-      "source": "mastodon",
-      "engagement": {
-        "score": 96,
-        "comments": 3
-      }
-    },
-    {
-      "title": "✨ A Sprinkle of JoyousJoyness ✨Perfect!Have a JoyousJoyfulJoyness day!#happy #sheep #lamb #cute #joyousjoyness #repost",
-      "url": "https://mastodon.social/@joyousjoyness/116842248186422516",
-      "score": 6.31,
-      "niche": "software",
-      "source": "mastodon",
-      "engagement": {
-        "score": 90,
-        "comments": 0
-      }
-    },
-    {
-      "title": "From brain waves to words: a new path to communication without surgery",
-      "url": "https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/?_fb_noscript=1",
-      "score": 6.25,
-      "niche": "ai",
-      "source": "hackernews",
-      "engagement": {
-        "score": 133,
-        "comments": 71
-      }
-    },
-    {
-      "title": "These fuckin' headlines.\"Far-left extends victory streak into Denver\"Far-left? Far-left?!?Only billionaires think fair wages, reasonable healthcare, decent schools, and viable housing support are \"far",
-      "url": "https://mastodon.social/@GeePawHill/116842851197449105",
-      "score": 6.16,
-      "niche": "ai",
-      "source": "mastodon",
-      "engagement": {
-        "score": 73,
-        "comments": 5
-      }
-    },
-    {
-      "title": "Running AI Locally, Part 2: From VMware Context to Hands-On Tools",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUTZuTi1BRnhnLVRBLXhtazlvMGdjUWJwZnNTUDdGTktubXktWDllOHFEOU1QM0lidGF3bnlhMjVmek9XZUEwNUVwM3pXRXROLUZmaC1EbDhjZ2g3SHZ0VGNkMElBQXJERHBCWEV3WEgxT0gyWjhIM21BOGcxRWRCY2t3TVRxM2dWcGdTdktkdlp5b2pXajhrYS1DNDJRdEVYR0xKNnZtaU1ZcDJoVHo3UElTTm92OWVPQjVsZFVB?oc=5",
+      "title": "6 best AI stock trading tools in 2026 (ranked for what AI actually does well)",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQYU5TUTBvb2MxM2I5YllWRVg2SjgyUDJGTjRRMFJnZ2hFOHc0eUs0cmJTRXpSekRlRWl6VmZSVnRxLXZXQXdkcVFDbHBBckxBM3d1ZS1oTjV1M3VPdF94aXI4ODNmV0dyUnhGSXBobUVPaVdVRE9rUjd6amZDNlVCcnFQYzg4em1oelh5TDMwOXR0Wm9nVGJKTVFYRFF6VXBfOGpkZUFnS1ZCRjBDRHpoZ1VnQk9fLXJFeHhpSV9tYUhzN3RSTXM4?oc=5",
       "score": 5.99,
       "niche": "ai",
       "source": "gnews",
@@ -280,60 +280,47 @@
   ],
   "topics": [
     {
-      "keyword": "claude fable",
-      "count": 8,
-      "score": 113.93586179114868,
+      "keyword": "schneider electric",
+      "count": 17,
+      "score": 126.6486907004874,
       "proper": true,
       "niches": [
         "ai"
       ],
       "examples": [
         {
-          "title": "Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5",
-          "url": "https://twitter.com/AnthropicAI/status/2072106151890809341",
-          "source": "hackernews"
-        },
-        {
-          "title": "Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5",
-          "url": "https://twitter.com/AnthropicAI/status/2072106151890809341",
-          "source": "hackernews"
-        }
-      ],
-      "id": "ced86039c0ad",
-      "slug": "claude-fable"
-    },
-    {
-      "keyword": "promise speed",
-      "count": 11,
-      "score": 108.99838417254662,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "AI Code Review Tools Promise Speed, But Can They Deliver Real-World Software Quality?",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSnBvMG1QV0RyZm9ZWWxQWkFOZzF2RXVqcDFrWWNaMlVtRUVYSXk1VnRQQTJkdFJDaWVRWXJrZjRES0ZvaWZaVEJKR1B5MUM0czM0ZzRjeS03VndJMnRLek0wTFFaTXZxQlZOc1RUeDh1cGRHclJrcnZBUGpZUFg5c0FfZXVuZHlpMVRWQUg1M0dVcXBMOGhTVXlPMDZvaUFDV25Jclh4OWR1elFiaUs4REdQbHNDemp3dEE?oc=5",
+          "title": "Schneider Electric Buys Cognite in $3.1 Billion AI Software Deal",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOTAtZldkMFRXel81Z2xnMlJKbEFLQlUzM0hzMDRrMEtFVHV4cnhZN09IM2RKRE1tT2NmajVfR0xZd0oxWnBvTGZPTS1DQmZOSTNwNDVwME9JU08ta1ZpU2YxOERuWVVzQlktSTlObEdjQ29SeGxWVUZJS25UUE1zeHBMLVBibHdjQ0ljUWI5N0hlek5oTEk3WjFwaldDQQ?oc=5",
           "source": "gnews"
         },
         {
-          "title": "AI Code Review Tools Promise Speed, But Can They Deliver Real-World Software Quality?",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSnBvMG1QV0RyZm9ZWWxQWkFOZzF2RXVqcDFrWWNaMlVtRUVYSXk1VnRQQTJkdFJDaWVRWXJrZjRES0ZvaWZaVEJKR1B5MUM0czM0ZzRjeS03VndJMnRLek0wTFFaTXZxQlZOc1RUeDh1cGRHclJrcnZBUGpZUFg5c0FfZXVuZHlpMVRWQUg1M0dVcXBMOGhTVXlPMDZvaUFDV25Jclh4OWR1elFiaUs4REdQbHNDemp3dEE?oc=5",
+          "title": "Schneider Electric Buys Cognite in $3.1 Billion AI Software Deal",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOTAtZldkMFRXel81Z2xnMlJKbEFLQlUzM0hzMDRrMEtFVHV4cnhZN09IM2RKRE1tT2NmajVfR0xZd0oxWnBvTGZPTS1DQmZOSTNwNDVwME9JU08ta1ZpU2YxOERuWVVzQlktSTlObEdjQ29SeGxWVUZJS25UUE1zeHBMLVBibHdjQ0ljUWI5N0hlek5oTEk3WjFwaldDQQ?oc=5",
           "source": "gnews"
         },
         {
-          "title": "AI Code Review Tools Promise Speed, But Can They Deliver Real-World Software Quality?",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSnBvMG1QV0RyZm9ZWWxQWkFOZzF2RXVqcDFrWWNaMlVtRUVYSXk1VnRQQTJkdFJDaWVRWXJrZjRES0ZvaWZaVEJKR1B5MUM0czM0ZzRjeS03VndJMnRLek0wTFFaTXZxQlZOc1RUeDh1cGRHclJrcnZBUGpZUFg5c0FfZXVuZHlpMVRWQUg1M0dVcXBMOGhTVXlPMDZvaUFDV25Jclh4OWR1elFiaUs4REdQbHNDemp3dEE?oc=5",
+          "title": "Schneider Electric to buy AI software firm Cognite for $3.1 billion",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTTdJSkpnY0JpeXZkOXZ0aXZKZ3B0UjFVZ3AzU1JUUUpLdkhUQXc0VzdwVkFwZV9Hc3ZydFFwNUVBbEVFeko1aHFZc2RkZ0NTN0gzcDFXQVhYcUhtd0NGcUxhVnFOVzNoY1dVNDhSb1VNVjZfYjZzWGk3dWJlYkttenFjTUd4MFkwWUFkelctNi1GQjhtajVLcEtyM290SW5mbUpQWGtR?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Schneider Electric to buy AI software firm Cognite for $3.1 billion",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTTdJSkpnY0JpeXZkOXZ0aXZKZ3B0UjFVZ3AzU1JUUUpLdkhUQXc0VzdwVkFwZV9Hc3ZydFFwNUVBbEVFeko1aHFZc2RkZ0NTN0gzcDFXQVhYcUhtd0NGcUxhVnFOVzNoY1dVNDhSb1VNVjZfYjZzWGk3dWJlYkttenFjTUd4MFkwWUFkelctNi1GQjhtajVLcEtyM290SW5mbUpQWGtR?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Schneider Electric to buy AI software firm Cognite for $3.1 billion",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTTdJSkpnY0JpeXZkOXZ0aXZKZ3B0UjFVZ3AzU1JUUUpLdkhUQXc0VzdwVkFwZV9Hc3ZydFFwNUVBbEVFeko1aHFZc2RkZ0NTN0gzcDFXQVhYcUhtd0NGcUxhVnFOVzNoY1dVNDhSb1VNVjZfYjZzWGk3dWJlYkttenFjTUd4MFkwWUFkelctNi1GQjhtajVLcEtyM290SW5mbUpQWGtR?oc=5",
           "source": "gnews"
         }
       ],
-      "id": "aac6482130ec",
-      "slug": "promise-speed"
+      "id": "bc3067ac45df",
+      "slug": "schneider-electric"
     },
     {
       "keyword": "claude code",
       "count": 8,
-      "score": 104.59123817084074,
+      "score": 109.53559218899125,
       "proper": true,
       "niches": [
         "ai"
@@ -356,7 +343,7 @@
     {
       "keyword": "claude sonnet",
       "count": 8,
-      "score": 102.24782141763802,
+      "score": 105.41149483496412,
       "proper": true,
       "niches": [
         "ai"
@@ -377,71 +364,47 @@
       "slug": "claude-sonnet"
     },
     {
-      "keyword": "fitness gear",
-      "count": 25,
-      "score": 99.15717707884275,
-      "proper": true,
+      "keyword": "cognite billion",
+      "count": 18,
+      "score": 92.89635014705678,
+      "proper": false,
       "niches": [
-        "gear",
         "ai"
       ],
       "examples": [
         {
-          "title": "Fitness Gear on Sale for Early Prime Day",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSm9RdFNpc3JFU2NnaUxiaVk5dnp3b2RxcU04bmQyZ3RUMENITl92OG1kcTVMRGZ2dXh3THB6Y2toMmIwUEJsVzdXX2hXZjYtTVUyVjd4SFJtRGwwUGNjaks3UjdPYzRhNDgyTVJfNFRxcF91OEdiaXViUkJmQXJqdEs4bXU?oc=5",
+          "title": "Schneider Electric Buys Cognite in $3.1 Billion AI Software Deal",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOTAtZldkMFRXel81Z2xnMlJKbEFLQlUzM0hzMDRrMEtFVHV4cnhZN09IM2RKRE1tT2NmajVfR0xZd0oxWnBvTGZPTS1DQmZOSTNwNDVwME9JU08ta1ZpU2YxOERuWVVzQlktSTlObEdjQ29SeGxWVUZJS25UUE1zeHBMLVBibHdjQ0ljUWI5N0hlek5oTEk3WjFwaldDQQ?oc=5",
           "source": "gnews"
         },
         {
-          "title": "Fitness Gear on Sale for Early Prime Day",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSm9RdFNpc3JFU2NnaUxiaVk5dnp3b2RxcU04bmQyZ3RUMENITl92OG1kcTVMRGZ2dXh3THB6Y2toMmIwUEJsVzdXX2hXZjYtTVUyVjd4SFJtRGwwUGNjaks3UjdPYzRhNDgyTVJfNFRxcF91OEdiaXViUkJmQXJqdEs4bXU?oc=5",
+          "title": "Schneider Electric Buys Cognite in $3.1 Billion AI Software Deal",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOTAtZldkMFRXel81Z2xnMlJKbEFLQlUzM0hzMDRrMEtFVHV4cnhZN09IM2RKRE1tT2NmajVfR0xZd0oxWnBvTGZPTS1DQmZOSTNwNDVwME9JU08ta1ZpU2YxOERuWVVzQlktSTlObEdjQ29SeGxWVUZJS25UUE1zeHBMLVBibHdjQ0ljUWI5N0hlek5oTEk3WjFwaldDQQ?oc=5",
           "source": "gnews"
         },
         {
-          "title": "Fitness Gear on Sale for Early Prime Day",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSm9RdFNpc3JFU2NnaUxiaVk5dnp3b2RxcU04bmQyZ3RUMENITl92OG1kcTVMRGZ2dXh3THB6Y2toMmIwUEJsVzdXX2hXZjYtTVUyVjd4SFJtRGwwUGNjaks3UjdPYzRhNDgyTVJfNFRxcF91OEdiaXViUkJmQXJqdEs4bXU?oc=5",
+          "title": "Schneider to Buy Industrial AI Firm Cognite for $3.1 Billion",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSXMzd2FHNjNoTzhhZDZWU3JyN3dXNG12Q1dnNUFhSXZLMEZEdXl4eFV6bGp4YUFMUlRSVzEwRkJjOHZtTTZKUjB1Q1U0ZURxSVlxeEFLNUVKQ0RyZVRXRElBemczNlQyY054c2FGa3lpODVGSnZFaERlazBBM0VTZnZYQjZmWmV3R3Q0dXBwbFNQR19ZWXFpRmFQb1B1SlEteW1LYTZwMEVRdTNROFpJ?oc=5",
           "source": "gnews"
         },
         {
-          "title": "I’m A Certified Personal Trainer — Here’s The Best Fitness Gear To Buy On Prime Day",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPM2JfNDFqdThObG9aem4zdFZuYTRNZk80VVJRVWg1WVAzSDlYUFNVajZLcWtJMHI0U1FhazhfdEN5aGlVN2R1djAtTHpjZ1BiemZYR1V6ZXFYb0VISmUzRW8xN0tFYU9GRFhzdW83R241NHRPdTFHelVCNHBBOEp0OHVtQ19fV1dMQW1BaGpnQ3pkb2NuVDE0d3J1SVZKcy04dC1QZWx3NTFuVld60gGyAUFVX3lxTE9RQy0wcVFpNW4yRHN4ZWc2aHVWOW5aRktzWGx4Nmx1emZwenV4THNjMEZ0T0MzQkdkZV9INmx2dldyZlB3aEZKRDFGcGxEM1g0dnc2MC01TFZhalRmcW1yTXJXdkxFTXJwbmVPVWpfakxhLW0zM0FmVnRNNnlubXh6Y1dwRUppZnhTUVliQktsQkJZNDhaY183ZjBXdXltVDJoYUc3MzJ5MUpIQmU4YjVYWkE?oc=5",
+          "title": "Schneider to Buy Industrial AI Firm Cognite for $3.1 Billion",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSXMzd2FHNjNoTzhhZDZWU3JyN3dXNG12Q1dnNUFhSXZLMEZEdXl4eFV6bGp4YUFMUlRSVzEwRkJjOHZtTTZKUjB1Q1U0ZURxSVlxeEFLNUVKQ0RyZVRXRElBemczNlQyY054c2FGa3lpODVGSnZFaERlazBBM0VTZnZYQjZmWmV3R3Q0dXBwbFNQR19ZWXFpRmFQb1B1SlEteW1LYTZwMEVRdTNROFpJ?oc=5",
           "source": "gnews"
         },
         {
-          "title": "Fitness Gear on Sale for Early Prime Day",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9jNDZtZlhYOFMtWnloN2pMenFzSjhqZ0MyN3JMVHE1bVZENE5zT0hoQUpHVEpiSUhJb2Z6ZU85bmk2M3lKT1ctOTlqSlpyUVBZWDBWQkhZdUtiNWVTMDhTVmFGX295N2VWN3RDZHBPSHlaUzUtbzNR?oc=5",
+          "title": "Schneider Electric to buy AI software firm Cognite for $3.1 billion",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTTdJSkpnY0JpeXZkOXZ0aXZKZ3B0UjFVZ3AzU1JUUUpLdkhUQXc0VzdwVkFwZV9Hc3ZydFFwNUVBbEVFeko1aHFZc2RkZ0NTN0gzcDFXQVhYcUhtd0NGcUxhVnFOVzNoY1dVNDhSb1VNVjZfYjZzWGk3dWJlYkttenFjTUd4MFkwWUFkelctNi1GQjhtajVLcEtyM290SW5mbUpQWGtR?oc=5",
           "source": "gnews"
         }
       ],
-      "id": "a8b7e45842c3",
-      "slug": "fitness-gear"
-    },
-    {
-      "keyword": "jean carroll",
-      "count": 8,
-      "score": 92.85657693823362,
-      "proper": true,
-      "niches": [
-        "software"
-      ],
-      "examples": [
-        {
-          "title": "A reminder that SCOTUS declined to hear Trump’s appeal to E Jean Carroll, leaving permanently intact his obligation to pay Carroll $5M in fines plus $100M in jury awards. In other words, the US Suprem",
-          "url": "https://mastodon.social/@QasimRashid/116842049048100986",
-          "source": "mastodon"
-        },
-        {
-          "title": "A reminder that SCOTUS declined to hear Trump’s appeal to E Jean Carroll, leaving permanently intact his obligation to pay Carroll $5M in fines plus $100M in jury awards. In other words, the US Suprem",
-          "url": "https://mastodon.social/@QasimRashid/116842049048100986",
-          "source": "mastodon"
-        }
-      ],
-      "id": "d696cb599a7f",
-      "slug": "jean-carroll"
+      "id": "d8f11049d8f7",
+      "slug": "cognite-billion"
     },
     {
       "keyword": "claude science",
       "count": 8,
-      "score": 86.9162119013691,
+      "score": 89.99174939794308,
       "proper": true,
       "niches": [
         "ai"
@@ -460,6 +423,133 @@
       ],
       "id": "1c498f330553",
       "slug": "claude-science"
+    },
+    {
+      "keyword": "fitness gear",
+      "count": 33,
+      "score": 87.92252473293308,
+      "proper": true,
+      "niches": [
+        "gear"
+      ],
+      "examples": [
+        {
+          "title": "Fitness Gear on Sale for Early Prime Day",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSm9RdFNpc3JFU2NnaUxiaVk5dnp3b2RxcU04bmQyZ3RUMENITl92OG1kcTVMRGZ2dXh3THB6Y2toMmIwUEJsVzdXX2hXZjYtTVUyVjd4SFJtRGwwUGNjaks3UjdPYzRhNDgyTVJfNFRxcF91OEdiaXViUkJmQXJqdEs4bXU?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Fitness Gear on Sale for Early Prime Day",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSm9RdFNpc3JFU2NnaUxiaVk5dnp3b2RxcU04bmQyZ3RUMENITl92OG1kcTVMRGZ2dXh3THB6Y2toMmIwUEJsVzdXX2hXZjYtTVUyVjd4SFJtRGwwUGNjaks3UjdPYzRhNDgyTVJfNFRxcF91OEdiaXViUkJmQXJqdEs4bXU?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Fitness Gear on Sale for Early Prime Day",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSm9RdFNpc3JFU2NnaUxiaVk5dnp3b2RxcU04bmQyZ3RUMENITl92OG1kcTVMRGZ2dXh3THB6Y2toMmIwUEJsVzdXX2hXZjYtTVUyVjd4SFJtRGwwUGNjaks3UjdPYzRhNDgyTVJfNFRxcF91OEdiaXViUkJmQXJqdEs4bXU?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Memorial Day Sales: Stunning Deals on Fitness Gear",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWEx2T2hXVnExdVY4T2tVczl4cUd1QjcyM2ZMaG0wU3NIdUg1UnR2WnJPVkxjNnAwQ3RGOVlxOGRESXNabVpvejJkem5LN2pfOHhBbUhKYnpMczU3enpBenYzSjRHTUJuSm80QjVxVjI5RFNwdnItSWEtLS1vNlJUNjFDS2Y?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Memorial Day Sales: Stunning Deals on Fitness Gear",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWEx2T2hXVnExdVY4T2tVczl4cUd1QjcyM2ZMaG0wU3NIdUg1UnR2WnJPVkxjNnAwQ3RGOVlxOGRESXNabVpvejJkem5LN2pfOHhBbUhKYnpMczU3enpBenYzSjRHTUJuSm80QjVxVjI5RFNwdnItSWEtLS1vNlJUNjFDS2Y?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "a8b7e45842c3",
+      "slug": "fitness-gear"
+    },
+    {
+      "keyword": "2026 ranked",
+      "count": 12,
+      "score": 85.46464213529222,
+      "proper": false,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "8 Best AI Tools for Developers in 2026 (Ranked & Reviewed)",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE83SHZjZ1BXZnhFdFphcXg3bWp5Y3V1blVpZ0szbW90RVRqZ1pKV1J2aXRESUxWLTdHUC1meW84Y2pxRm01QWtWYVNFOW4tOFF5bFIyVGIzRG1aMEg5cXo0ckYwQnrSAWdBVV95cUxNbTExZTdyYjdZMzNyMjRheTBTUlNTVHBWWjRFZTc5czNESWEtQTRpTEJ4RVhiSmk5MXJJMnBzckU3ekJVZlc5dy1GTGE1Y1NxeUtSWHVrb2xQaHB0T255TTRnN3hUeHFV?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "8 Best AI Tools for Developers in 2026 (Ranked & Reviewed)",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE83SHZjZ1BXZnhFdFphcXg3bWp5Y3V1blVpZ0szbW90RVRqZ1pKV1J2aXRESUxWLTdHUC1meW84Y2pxRm01QWtWYVNFOW4tOFF5bFIyVGIzRG1aMEg5cXo0ckYwQnrSAWdBVV95cUxNbTExZTdyYjdZMzNyMjRheTBTUlNTVHBWWjRFZTc5czNESWEtQTRpTEJ4RVhiSmk5MXJJMnBzckU3ekJVZlc5dy1GTGE1Y1NxeUtSWHVrb2xQaHB0T255TTRnN3hUeHFV?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "6 best AI stock trading tools in 2026 (ranked for what AI actually does well)",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQYU5TUTBvb2MxM2I5YllWRVg2SjgyUDJGTjRRMFJnZ2hFOHc0eUs0cmJTRXpSekRlRWl6VmZSVnRxLXZXQXdkcVFDbHBBckxBM3d1ZS1oTjV1M3VPdF94aXI4ODNmV0dyUnhGSXBobUVPaVdVRE9rUjd6amZDNlVCcnFQYzg4em1oelh5TDMwOXR0Wm9nVGJKTVFYRFF6VXBfOGpkZUFnS1ZCRjBDRHpoZ1VnQk9fLXJFeHhpSV9tYUhzN3RSTXM4?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "6 best AI stock trading tools in 2026 (ranked for what AI actually does well)",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQYU5TUTBvb2MxM2I5YllWRVg2SjgyUDJGTjRRMFJnZ2hFOHc0eUs0cmJTRXpSekRlRWl6VmZSVnRxLXZXQXdkcVFDbHBBckxBM3d1ZS1oTjV1M3VPdF94aXI4ODNmV0dyUnhGSXBobUVPaVdVRE9rUjd6amZDNlVCcnFQYzg4em1oelh5TDMwOXR0Wm9nVGJKTVFYRFF6VXBfOGpkZUFnS1ZCRjBDRHpoZ1VnQk9fLXJFeHhpSV9tYUhzN3RSTXM4?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "c9a44f4ef59e",
+      "slug": "2026-ranked"
+    },
+    {
+      "keyword": "software gains",
+      "count": 11,
+      "score": 85.15498763480204,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "Software Gains as Guggenheim Says AI No ‘Death Knell’ for Sector",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxON2xDa1dZcXRMUVZCbDRSQnZVYUYzcWJ2VjBUeEg4cThvc3VqeGdxbWRYU2VuLThhTTZoNVo5RWY3YnNNQktVcmNteVczbmFTb2ltemdUXzVmVlBhNXNkYXliUVR4Q0hiQ0I1MGNOaXU0c18zZmJVUG91cjVRWUtnSFZ5MVZpTTI3SmpucVBiX0RUdzhHY2x6ZGh0djR2TG1NNGlQMDRjZHVpU195OVU5blYyQQ?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Software Gains as Guggenheim Says AI No ‘Death Knell’ for Sector",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxON2xDa1dZcXRMUVZCbDRSQnZVYUYzcWJ2VjBUeEg4cThvc3VqeGdxbWRYU2VuLThhTTZoNVo5RWY3YnNNQktVcmNteVczbmFTb2ltemdUXzVmVlBhNXNkYXliUVR4Q0hiQ0I1MGNOaXU0c18zZmJVUG91cjVRWUtnSFZ5MVZpTTI3SmpucVBiX0RUdzhHY2x6ZGh0djR2TG1NNGlQMDRjZHVpU195OVU5blYyQQ?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Software Gains as Guggenheim Says AI No ‘Death Knell’ for Sector",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxON2xDa1dZcXRMUVZCbDRSQnZVYUYzcWJ2VjBUeEg4cThvc3VqeGdxbWRYU2VuLThhTTZoNVo5RWY3YnNNQktVcmNteVczbmFTb2ltemdUXzVmVlBhNXNkYXliUVR4Q0hiQ0I1MGNOaXU0c18zZmJVUG91cjVRWUtnSFZ5MVZpTTI3SmpucVBiX0RUdzhHY2x6ZGh0djR2TG1NNGlQMDRjZHVpU195OVU5blYyQQ?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "4ccedb402a6a",
+      "slug": "software-gains"
+    },
+    {
+      "keyword": "death knell",
+      "count": 11,
+      "score": 85.15498763480204,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "Software Gains as Guggenheim Says AI No ‘Death Knell’ for Sector",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxON2xDa1dZcXRMUVZCbDRSQnZVYUYzcWJ2VjBUeEg4cThvc3VqeGdxbWRYU2VuLThhTTZoNVo5RWY3YnNNQktVcmNteVczbmFTb2ltemdUXzVmVlBhNXNkYXliUVR4Q0hiQ0I1MGNOaXU0c18zZmJVUG91cjVRWUtnSFZ5MVZpTTI3SmpucVBiX0RUdzhHY2x6ZGh0djR2TG1NNGlQMDRjZHVpU195OVU5blYyQQ?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Software Gains as Guggenheim Says AI No ‘Death Knell’ for Sector",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxON2xDa1dZcXRMUVZCbDRSQnZVYUYzcWJ2VjBUeEg4cThvc3VqeGdxbWRYU2VuLThhTTZoNVo5RWY3YnNNQktVcmNteVczbmFTb2ltemdUXzVmVlBhNXNkYXliUVR4Q0hiQ0I1MGNOaXU0c18zZmJVUG91cjVRWUtnSFZ5MVZpTTI3SmpucVBiX0RUdzhHY2x6ZGh0djR2TG1NNGlQMDRjZHVpU195OVU5blYyQQ?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Software Gains as Guggenheim Says AI No ‘Death Knell’ for Sector",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxON2xDa1dZcXRMUVZCbDRSQnZVYUYzcWJ2VjBUeEg4cThvc3VqeGdxbWRYU2VuLThhTTZoNVo5RWY3YnNNQktVcmNteVczbmFTb2ltemdUXzVmVlBhNXNkYXliUVR4Q0hiQ0I1MGNOaXU0c18zZmJVUG91cjVRWUtnSFZ5MVZpTTI3SmpucVBiX0RUdzhHY2x6ZGh0djR2TG1NNGlQMDRjZHVpU195OVU5blYyQQ?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "3696179bc9dd",
+      "slug": "death-knell"
     },
     {
       "keyword": "personal finance",
@@ -500,27 +590,101 @@
       "slug": "personal-finance"
     },
     {
-      "keyword": "happy birthday",
+      "keyword": "sony deletes",
       "count": 8,
-      "score": 77.77603036260783,
+      "score": 80.11621749791033,
       "proper": true,
       "niches": [
-        "software"
+        "ai"
       ],
       "examples": [
         {
-          "title": "😍 81 years young 💥Happy Birthday to the georgeous, fantastic Angela Trimble aka Deborah Ann Harry, born on this day in 1945, Miami, Florida.Photo by John Lamparski#punkrock #womenofpunk #debbieharry",
-          "url": "https://sfba.social/@historyofpunkrock/116842384566693822",
-          "source": "mastodon"
+          "title": "Sony Deletes 551 Movies PlayStation Owners Paid For",
+          "url": "https://reclaimthenet.org/sony-deletes-551-studiocanal-movies-playstation-owners-paid-for",
+          "source": "hackernews"
         },
         {
-          "title": "😍 81 years young 💥Happy Birthday to the georgeous, fantastic Angela Trimble aka Deborah Ann Harry, born on this day in 1945, Miami, Florida.Photo by John Lamparski#punkrock #womenofpunk #debbieharry",
-          "url": "https://sfba.social/@historyofpunkrock/116842384566693822",
-          "source": "mastodon"
+          "title": "Sony Deletes 551 Movies PlayStation Owners Paid For",
+          "url": "https://reclaimthenet.org/sony-deletes-551-studiocanal-movies-playstation-owners-paid-for",
+          "source": "hackernews"
         }
       ],
-      "id": "d7469a66c4bb",
-      "slug": "happy-birthday"
+      "id": "415a122ec06c",
+      "slug": "sony-deletes"
+    },
+    {
+      "keyword": "creative workflow",
+      "count": 8,
+      "score": 71.8398441137239,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "AI Music Video Generation: 10 Tools That Automate Your Creative Workflow in 2026",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNaW5uSU9UcEdsNkxTUlBRVWk1ZTR1Q2JqTWVRLXhwN0xjaHdVSXpvNHk0elNIeHNIV2F2MEtSSENwMEVTUjU0ZDNxWDRIX0NoV195c1U4LV80SWxXcV9FYm5JeFAzeWstR2J6LXdrV0F1Uy0weHpreWplZzYwbE9ZdVgtUlRjRzI3V0l6MWZ0RUF2U0RuMXE5aWRqYldCa1pvaWkxMGxUdDZRRVZRNU02cTNUbWZzRTB1Z1VLbWl1MzdUaXFEV2hvV0E4Rlh3SG9JU2c?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "AI Music Video Generation: 10 Tools That Automate Your Creative Workflow in 2026",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNaW5uSU9UcEdsNkxTUlBRVWk1ZTR1Q2JqTWVRLXhwN0xjaHdVSXpvNHk0elNIeHNIV2F2MEtSSENwMEVTUjU0ZDNxWDRIX0NoV195c1U4LV80SWxXcV9FYm5JeFAzeWstR2J6LXdrV0F1Uy0weHpreWplZzYwbE9ZdVgtUlRjRzI3V0l6MWZ0RUF2U0RuMXE5aWRqYldCa1pvaWkxMGxUdDZRRVZRNU02cTNUbWZzRTB1Z1VLbWl1MzdUaXFEV2hvV0E4Rlh3SG9JU2c?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "718125b2ead5",
+      "slug": "creative-workflow"
+    },
+    {
+      "keyword": "includes shadowrocket",
+      "count": 8,
+      "score": 71.06611594360105,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "mekos2772/ios-location-spoofer — Standalone iOS app to spoof GPS location without jailbreak. Includes Shadowrocket/Surge/Loon/QX/Stash module.",
+          "url": "https://github.com/mekos2772/ios-location-spoofer",
+          "source": "github"
+        },
+        {
+          "title": "mekos2772/ios-location-spoofer — Standalone iOS app to spoof GPS location without jailbreak. Includes Shadowrocket/Surge/Loon/QX/Stash module.",
+          "url": "https://github.com/mekos2772/ios-location-spoofer",
+          "source": "github"
+        }
+      ],
+      "id": "1118317698b7",
+      "slug": "includes-shadowrocket"
+    },
+    {
+      "keyword": "categorized guide",
+      "count": 11,
+      "score": 64.71779060244955,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "10 Best AI Productivity Apps in 2026 (Categorized Guide)",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ldGkwQm9Vblo4TmY5TWFzVGlIWGdlZGl5VUxPN3BGMkdhZGhIWmFFVm5xelVVSEtwNEExS09nX2NPLWZDdEI4WWsxd1FFS2gwR3RzQTRwaWRyWEE3cVlV0gFfQVVfeXFMT2V0aTBCb1VuWjhOZjlNYXNUaUhYZ2VkaXlVTE83cEYyR2FkaEhaYUVWbnF6VVVIS3A0QTFLT2dfY08tZkN0QjhZazF3UUVLaDBHdHNBNHBpZHJYQTdxWVU?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "10 Best AI Productivity Apps in 2026 (Categorized Guide)",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ldGkwQm9Vblo4TmY5TWFzVGlIWGdlZGl5VUxPN3BGMkdhZGhIWmFFVm5xelVVSEtwNEExS09nX2NPLWZDdEI4WWsxd1FFS2gwR3RzQTRwaWRyWEE3cVlV0gFfQVVfeXFMT2V0aTBCb1VuWjhOZjlNYXNUaUhYZ2VkaXlVTE83cEYyR2FkaEhaYUVWbnF6VVVIS3A0QTFLT2dfY08tZkN0QjhZazF3UUVLaDBHdHNBNHBpZHJYQTdxWVU?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "10 Best AI Productivity Apps in 2026 (Categorized Guide)",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ldGkwQm9Vblo4TmY5TWFzVGlIWGdlZGl5VUxPN3BGMkdhZGhIWmFFVm5xelVVSEtwNEExS09nX2NPLWZDdEI4WWsxd1FFS2gwR3RzQTRwaWRyWEE3cVlV0gFfQVVfeXFMT2V0aTBCb1VuWjhOZjlNYXNUaUhYZ2VkaXlVTE83cEYyR2FkaEhaYUVWbnF6VVVIS3A0QTFLT2dfY08tZkN0QjhZazF3UUVLaDBHdHNBNHBpZHJYQTdxWVU?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "bc2fed6e3e62",
+      "slug": "categorized-guide"
     },
     {
       "keyword": "palo alto",
@@ -544,177 +708,55 @@
       ],
       "id": "41a1b0e1074a",
       "slug": "palo-alto"
-    },
-    {
-      "keyword": "scan qr",
-      "count": 5,
-      "score": 56.4059524400199,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "zhaixiansen1023-cpu/QR_Code_Scanner — Scan QR codes and barcodes from images, webcam, or screenshots. Decode instantly and copy to clipboard.",
-          "url": "https://github.com/zhaixiansen1023-cpu/QR_Code_Scanner",
-          "source": "github"
-        }
-      ],
-      "id": "e1e82228f81d",
-      "slug": "scan-qr"
-    },
-    {
-      "keyword": "eso. farm",
-      "count": 5,
-      "score": 56.359316713155856,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "Sac-tharan/The_Elder_Scrolls_Online_Auto-Farm — Auto-farm, gathering, and quest bot for ESO. Farm gold, materials, and complete daily quests automatically. Perfect for grinding.",
-          "url": "https://github.com/Sac-tharan/The_Elder_Scrolls_Online_Auto-Farm",
-          "source": "github"
-        }
-      ],
-      "id": "14ca7f8af543",
-      "slug": "eso-farm"
-    },
-    {
-      "keyword": "informal guide",
-      "count": 8,
-      "score": 56.209130437032165,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "Soatok’s Informal Guide to Threat Models",
-          "url": "https://soatok.blog/2026/06/30/soatoks-informal-guide-to-threat-models/",
-          "source": "lobsters"
-        },
-        {
-          "title": "Soatok’s Informal Guide to Threat Models",
-          "url": "https://soatok.blog/2026/06/30/soatoks-informal-guide-to-threat-models/",
-          "source": "lobsters"
-        }
-      ],
-      "id": "715e85cad069",
-      "slug": "informal-guide"
-    },
-    {
-      "keyword": "threat models",
-      "count": 8,
-      "score": 56.209130437032165,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "Soatok’s Informal Guide to Threat Models",
-          "url": "https://soatok.blog/2026/06/30/soatoks-informal-guide-to-threat-models/",
-          "source": "lobsters"
-        },
-        {
-          "title": "Soatok’s Informal Guide to Threat Models",
-          "url": "https://soatok.blog/2026/06/30/soatoks-informal-guide-to-threat-models/",
-          "source": "lobsters"
-        }
-      ],
-      "id": "fec171d177b3",
-      "slug": "threat-models"
-    },
-    {
-      "keyword": "llm api",
-      "count": 8,
-      "score": 54.49975094101118,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "What Actually Happens When You Call an LLM API",
-          "url": "https://dev.to/dannwaneri/what-actually-happens-when-you-call-an-llm-api-28l6",
-          "source": "devto"
-        },
-        {
-          "title": "What Actually Happens When You Call an LLM API",
-          "url": "https://dev.to/dannwaneri/what-actually-happens-when-you-call-an-llm-api-28l6",
-          "source": "devto"
-        }
-      ],
-      "id": "e932000565cf",
-      "slug": "llm-api"
     }
   ],
   "opportunities": [
     {
-      "keyword": "claude fable",
-      "count": 8,
-      "score": 113.93586179114868,
+      "keyword": "schneider electric",
+      "count": 17,
+      "score": 126.6486907004874,
       "proper": true,
       "niches": [
         "ai"
       ],
       "examples": [
         {
-          "title": "Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5",
-          "url": "https://twitter.com/AnthropicAI/status/2072106151890809341",
-          "source": "hackernews"
-        },
-        {
-          "title": "Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5",
-          "url": "https://twitter.com/AnthropicAI/status/2072106151890809341",
-          "source": "hackernews"
-        }
-      ],
-      "id": "ced86039c0ad",
-      "slug": "claude-fable",
-      "opportunity": {
-        "type": "tooling",
-        "recommended": "Build / list AI tools; monetize via affiliate links + lead magnet."
-      }
-    },
-    {
-      "keyword": "promise speed",
-      "count": 11,
-      "score": 108.99838417254662,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "AI Code Review Tools Promise Speed, But Can They Deliver Real-World Software Quality?",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSnBvMG1QV0RyZm9ZWWxQWkFOZzF2RXVqcDFrWWNaMlVtRUVYSXk1VnRQQTJkdFJDaWVRWXJrZjRES0ZvaWZaVEJKR1B5MUM0czM0ZzRjeS03VndJMnRLek0wTFFaTXZxQlZOc1RUeDh1cGRHclJrcnZBUGpZUFg5c0FfZXVuZHlpMVRWQUg1M0dVcXBMOGhTVXlPMDZvaUFDV25Jclh4OWR1elFiaUs4REdQbHNDemp3dEE?oc=5",
+          "title": "Schneider Electric Buys Cognite in $3.1 Billion AI Software Deal",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOTAtZldkMFRXel81Z2xnMlJKbEFLQlUzM0hzMDRrMEtFVHV4cnhZN09IM2RKRE1tT2NmajVfR0xZd0oxWnBvTGZPTS1DQmZOSTNwNDVwME9JU08ta1ZpU2YxOERuWVVzQlktSTlObEdjQ29SeGxWVUZJS25UUE1zeHBMLVBibHdjQ0ljUWI5N0hlek5oTEk3WjFwaldDQQ?oc=5",
           "source": "gnews"
         },
         {
-          "title": "AI Code Review Tools Promise Speed, But Can They Deliver Real-World Software Quality?",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSnBvMG1QV0RyZm9ZWWxQWkFOZzF2RXVqcDFrWWNaMlVtRUVYSXk1VnRQQTJkdFJDaWVRWXJrZjRES0ZvaWZaVEJKR1B5MUM0czM0ZzRjeS03VndJMnRLek0wTFFaTXZxQlZOc1RUeDh1cGRHclJrcnZBUGpZUFg5c0FfZXVuZHlpMVRWQUg1M0dVcXBMOGhTVXlPMDZvaUFDV25Jclh4OWR1elFiaUs4REdQbHNDemp3dEE?oc=5",
+          "title": "Schneider Electric Buys Cognite in $3.1 Billion AI Software Deal",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOTAtZldkMFRXel81Z2xnMlJKbEFLQlUzM0hzMDRrMEtFVHV4cnhZN09IM2RKRE1tT2NmajVfR0xZd0oxWnBvTGZPTS1DQmZOSTNwNDVwME9JU08ta1ZpU2YxOERuWVVzQlktSTlObEdjQ29SeGxWVUZJS25UUE1zeHBMLVBibHdjQ0ljUWI5N0hlek5oTEk3WjFwaldDQQ?oc=5",
           "source": "gnews"
         },
         {
-          "title": "AI Code Review Tools Promise Speed, But Can They Deliver Real-World Software Quality?",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSnBvMG1QV0RyZm9ZWWxQWkFOZzF2RXVqcDFrWWNaMlVtRUVYSXk1VnRQQTJkdFJDaWVRWXJrZjRES0ZvaWZaVEJKR1B5MUM0czM0ZzRjeS03VndJMnRLek0wTFFaTXZxQlZOc1RUeDh1cGRHclJrcnZBUGpZUFg5c0FfZXVuZHlpMVRWQUg1M0dVcXBMOGhTVXlPMDZvaUFDV25Jclh4OWR1elFiaUs4REdQbHNDemp3dEE?oc=5",
+          "title": "Schneider Electric to buy AI software firm Cognite for $3.1 billion",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTTdJSkpnY0JpeXZkOXZ0aXZKZ3B0UjFVZ3AzU1JUUUpLdkhUQXc0VzdwVkFwZV9Hc3ZydFFwNUVBbEVFeko1aHFZc2RkZ0NTN0gzcDFXQVhYcUhtd0NGcUxhVnFOVzNoY1dVNDhSb1VNVjZfYjZzWGk3dWJlYkttenFjTUd4MFkwWUFkelctNi1GQjhtajVLcEtyM290SW5mbUpQWGtR?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Schneider Electric to buy AI software firm Cognite for $3.1 billion",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTTdJSkpnY0JpeXZkOXZ0aXZKZ3B0UjFVZ3AzU1JUUUpLdkhUQXc0VzdwVkFwZV9Hc3ZydFFwNUVBbEVFeko1aHFZc2RkZ0NTN0gzcDFXQVhYcUhtd0NGcUxhVnFOVzNoY1dVNDhSb1VNVjZfYjZzWGk3dWJlYkttenFjTUd4MFkwWUFkelctNi1GQjhtajVLcEtyM290SW5mbUpQWGtR?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Schneider Electric to buy AI software firm Cognite for $3.1 billion",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTTdJSkpnY0JpeXZkOXZ0aXZKZ3B0UjFVZ3AzU1JUUUpLdkhUQXc0VzdwVkFwZV9Hc3ZydFFwNUVBbEVFeko1aHFZc2RkZ0NTN0gzcDFXQVhYcUhtd0NGcUxhVnFOVzNoY1dVNDhSb1VNVjZfYjZzWGk3dWJlYkttenFjTUd4MFkwWUFkelctNi1GQjhtajVLcEtyM290SW5mbUpQWGtR?oc=5",
           "source": "gnews"
         }
       ],
-      "id": "aac6482130ec",
-      "slug": "promise-speed",
+      "id": "bc3067ac45df",
+      "slug": "schneider-electric",
       "opportunity": {
-        "type": "affiliate",
-        "recommended": "Write SEO comparison/roundup article with affiliate links."
+        "type": "niche-content",
+        "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
       }
     },
     {
       "keyword": "claude code",
       "count": 8,
-      "score": 104.59123817084074,
+      "score": 109.53559218899125,
       "proper": true,
       "niches": [
         "ai"
@@ -741,7 +783,7 @@
     {
       "keyword": "claude sonnet",
       "count": 8,
-      "score": 102.24782141763802,
+      "score": 105.41149483496412,
       "proper": true,
       "niches": [
         "ai"
@@ -766,79 +808,51 @@
       }
     },
     {
-      "keyword": "fitness gear",
-      "count": 25,
-      "score": 99.15717707884275,
-      "proper": true,
+      "keyword": "cognite billion",
+      "count": 18,
+      "score": 92.89635014705678,
+      "proper": false,
       "niches": [
-        "gear",
         "ai"
       ],
       "examples": [
         {
-          "title": "Fitness Gear on Sale for Early Prime Day",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSm9RdFNpc3JFU2NnaUxiaVk5dnp3b2RxcU04bmQyZ3RUMENITl92OG1kcTVMRGZ2dXh3THB6Y2toMmIwUEJsVzdXX2hXZjYtTVUyVjd4SFJtRGwwUGNjaks3UjdPYzRhNDgyTVJfNFRxcF91OEdiaXViUkJmQXJqdEs4bXU?oc=5",
+          "title": "Schneider Electric Buys Cognite in $3.1 Billion AI Software Deal",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOTAtZldkMFRXel81Z2xnMlJKbEFLQlUzM0hzMDRrMEtFVHV4cnhZN09IM2RKRE1tT2NmajVfR0xZd0oxWnBvTGZPTS1DQmZOSTNwNDVwME9JU08ta1ZpU2YxOERuWVVzQlktSTlObEdjQ29SeGxWVUZJS25UUE1zeHBMLVBibHdjQ0ljUWI5N0hlek5oTEk3WjFwaldDQQ?oc=5",
           "source": "gnews"
         },
         {
-          "title": "Fitness Gear on Sale for Early Prime Day",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSm9RdFNpc3JFU2NnaUxiaVk5dnp3b2RxcU04bmQyZ3RUMENITl92OG1kcTVMRGZ2dXh3THB6Y2toMmIwUEJsVzdXX2hXZjYtTVUyVjd4SFJtRGwwUGNjaks3UjdPYzRhNDgyTVJfNFRxcF91OEdiaXViUkJmQXJqdEs4bXU?oc=5",
+          "title": "Schneider Electric Buys Cognite in $3.1 Billion AI Software Deal",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOTAtZldkMFRXel81Z2xnMlJKbEFLQlUzM0hzMDRrMEtFVHV4cnhZN09IM2RKRE1tT2NmajVfR0xZd0oxWnBvTGZPTS1DQmZOSTNwNDVwME9JU08ta1ZpU2YxOERuWVVzQlktSTlObEdjQ29SeGxWVUZJS25UUE1zeHBMLVBibHdjQ0ljUWI5N0hlek5oTEk3WjFwaldDQQ?oc=5",
           "source": "gnews"
         },
         {
-          "title": "Fitness Gear on Sale for Early Prime Day",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSm9RdFNpc3JFU2NnaUxiaVk5dnp3b2RxcU04bmQyZ3RUMENITl92OG1kcTVMRGZ2dXh3THB6Y2toMmIwUEJsVzdXX2hXZjYtTVUyVjd4SFJtRGwwUGNjaks3UjdPYzRhNDgyTVJfNFRxcF91OEdiaXViUkJmQXJqdEs4bXU?oc=5",
+          "title": "Schneider to Buy Industrial AI Firm Cognite for $3.1 Billion",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSXMzd2FHNjNoTzhhZDZWU3JyN3dXNG12Q1dnNUFhSXZLMEZEdXl4eFV6bGp4YUFMUlRSVzEwRkJjOHZtTTZKUjB1Q1U0ZURxSVlxeEFLNUVKQ0RyZVRXRElBemczNlQyY054c2FGa3lpODVGSnZFaERlazBBM0VTZnZYQjZmWmV3R3Q0dXBwbFNQR19ZWXFpRmFQb1B1SlEteW1LYTZwMEVRdTNROFpJ?oc=5",
           "source": "gnews"
         },
         {
-          "title": "I’m A Certified Personal Trainer — Here’s The Best Fitness Gear To Buy On Prime Day",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPM2JfNDFqdThObG9aem4zdFZuYTRNZk80VVJRVWg1WVAzSDlYUFNVajZLcWtJMHI0U1FhazhfdEN5aGlVN2R1djAtTHpjZ1BiemZYR1V6ZXFYb0VISmUzRW8xN0tFYU9GRFhzdW83R241NHRPdTFHelVCNHBBOEp0OHVtQ19fV1dMQW1BaGpnQ3pkb2NuVDE0d3J1SVZKcy04dC1QZWx3NTFuVld60gGyAUFVX3lxTE9RQy0wcVFpNW4yRHN4ZWc2aHVWOW5aRktzWGx4Nmx1emZwenV4THNjMEZ0T0MzQkdkZV9INmx2dldyZlB3aEZKRDFGcGxEM1g0dnc2MC01TFZhalRmcW1yTXJXdkxFTXJwbmVPVWpfakxhLW0zM0FmVnRNNnlubXh6Y1dwRUppZnhTUVliQktsQkJZNDhaY183ZjBXdXltVDJoYUc3MzJ5MUpIQmU4YjVYWkE?oc=5",
+          "title": "Schneider to Buy Industrial AI Firm Cognite for $3.1 Billion",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSXMzd2FHNjNoTzhhZDZWU3JyN3dXNG12Q1dnNUFhSXZLMEZEdXl4eFV6bGp4YUFMUlRSVzEwRkJjOHZtTTZKUjB1Q1U0ZURxSVlxeEFLNUVKQ0RyZVRXRElBemczNlQyY054c2FGa3lpODVGSnZFaERlazBBM0VTZnZYQjZmWmV3R3Q0dXBwbFNQR19ZWXFpRmFQb1B1SlEteW1LYTZwMEVRdTNROFpJ?oc=5",
           "source": "gnews"
         },
         {
-          "title": "Fitness Gear on Sale for Early Prime Day",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9jNDZtZlhYOFMtWnloN2pMenFzSjhqZ0MyN3JMVHE1bVZENE5zT0hoQUpHVEpiSUhJb2Z6ZU85bmk2M3lKT1ctOTlqSlpyUVBZWDBWQkhZdUtiNWVTMDhTVmFGX295N2VWN3RDZHBPSHlaUzUtbzNR?oc=5",
+          "title": "Schneider Electric to buy AI software firm Cognite for $3.1 billion",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTTdJSkpnY0JpeXZkOXZ0aXZKZ3B0UjFVZ3AzU1JUUUpLdkhUQXc0VzdwVkFwZV9Hc3ZydFFwNUVBbEVFeko1aHFZc2RkZ0NTN0gzcDFXQVhYcUhtd0NGcUxhVnFOVzNoY1dVNDhSb1VNVjZfYjZzWGk3dWJlYkttenFjTUd4MFkwWUFkelctNi1GQjhtajVLcEtyM290SW5mbUpQWGtR?oc=5",
           "source": "gnews"
         }
       ],
-      "id": "a8b7e45842c3",
-      "slug": "fitness-gear",
-      "opportunity": {
-        "type": "affiliate",
-        "recommended": "Write SEO comparison/roundup article with affiliate links."
-      }
-    },
-    {
-      "keyword": "jean carroll",
-      "count": 8,
-      "score": 92.85657693823362,
-      "proper": true,
-      "niches": [
-        "software"
-      ],
-      "examples": [
-        {
-          "title": "A reminder that SCOTUS declined to hear Trump’s appeal to E Jean Carroll, leaving permanently intact his obligation to pay Carroll $5M in fines plus $100M in jury awards. In other words, the US Suprem",
-          "url": "https://mastodon.social/@QasimRashid/116842049048100986",
-          "source": "mastodon"
-        },
-        {
-          "title": "A reminder that SCOTUS declined to hear Trump’s appeal to E Jean Carroll, leaving permanently intact his obligation to pay Carroll $5M in fines plus $100M in jury awards. In other words, the US Suprem",
-          "url": "https://mastodon.social/@QasimRashid/116842049048100986",
-          "source": "mastodon"
-        }
-      ],
-      "id": "d696cb599a7f",
-      "slug": "jean-carroll",
+      "id": "d8f11049d8f7",
+      "slug": "cognite-billion",
       "opportunity": {
         "type": "niche-content",
-        "recommended": "Publish niche guide for \"software\"; bundle into digital product later."
+        "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
       }
     },
     {
       "keyword": "claude science",
       "count": 8,
-      "score": 86.9162119013691,
+      "score": 89.99174939794308,
       "proper": true,
       "niches": [
         "ai"
@@ -863,45 +877,114 @@
       }
     },
     {
-      "keyword": "personal finance",
-      "count": 26,
-      "score": 82.73581184972242,
+      "keyword": "fitness gear",
+      "count": 33,
+      "score": 87.92252473293308,
       "proper": true,
       "niches": [
-        "finance"
+        "gear"
       ],
       "examples": [
         {
-          "title": "PERSONAL FINANCE: Putting your best face forward – tips for better virtual meetings",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWDZlWVZKdy1WQWpFZ3drMEpjUWE1SUNsYXdONjUzZ0IzOXRjSlpiZVR6a1NlYkdac1VtSDU3b1dZSW53bzNxSTRWZV9waDNMNGxSMjQweFluTHhZeFlwalV5ZlNxcXlEOVBHV3J1Yk1YVExHYk5FOWFrTUx0UU9rZ2ZMT2JsbWFtbDZlU2xvdW9FUmZONzlEUzFVQ3cxRWxyNkxteUo5c2dSdHdqMWZ3NkpKeGxxdFVua2c?oc=5",
+          "title": "Fitness Gear on Sale for Early Prime Day",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSm9RdFNpc3JFU2NnaUxiaVk5dnp3b2RxcU04bmQyZ3RUMENITl92OG1kcTVMRGZ2dXh3THB6Y2toMmIwUEJsVzdXX2hXZjYtTVUyVjd4SFJtRGwwUGNjaks3UjdPYzRhNDgyTVJfNFRxcF91OEdiaXViUkJmQXJqdEs4bXU?oc=5",
           "source": "gnews"
         },
         {
-          "title": "PERSONAL FINANCE: Putting your best face forward – tips for better virtual meetings",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWDZlWVZKdy1WQWpFZ3drMEpjUWE1SUNsYXdONjUzZ0IzOXRjSlpiZVR6a1NlYkdac1VtSDU3b1dZSW53bzNxSTRWZV9waDNMNGxSMjQweFluTHhZeFlwalV5ZlNxcXlEOVBHV3J1Yk1YVExHYk5FOWFrTUx0UU9rZ2ZMT2JsbWFtbDZlU2xvdW9FUmZONzlEUzFVQ3cxRWxyNkxteUo5c2dSdHdqMWZ3NkpKeGxxdFVua2c?oc=5",
+          "title": "Fitness Gear on Sale for Early Prime Day",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSm9RdFNpc3JFU2NnaUxiaVk5dnp3b2RxcU04bmQyZ3RUMENITl92OG1kcTVMRGZ2dXh3THB6Y2toMmIwUEJsVzdXX2hXZjYtTVUyVjd4SFJtRGwwUGNjaks3UjdPYzRhNDgyTVJfNFRxcF91OEdiaXViUkJmQXJqdEs4bXU?oc=5",
           "source": "gnews"
         },
         {
-          "title": "PERSONAL FINANCE: Putting your best face forward – tips for better virtual meetings",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWDZlWVZKdy1WQWpFZ3drMEpjUWE1SUNsYXdONjUzZ0IzOXRjSlpiZVR6a1NlYkdac1VtSDU3b1dZSW53bzNxSTRWZV9waDNMNGxSMjQweFluTHhZeFlwalV5ZlNxcXlEOVBHV3J1Yk1YVExHYk5FOWFrTUx0UU9rZ2ZMT2JsbWFtbDZlU2xvdW9FUmZONzlEUzFVQ3cxRWxyNkxteUo5c2dSdHdqMWZ3NkpKeGxxdFVua2c?oc=5",
+          "title": "Fitness Gear on Sale for Early Prime Day",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSm9RdFNpc3JFU2NnaUxiaVk5dnp3b2RxcU04bmQyZ3RUMENITl92OG1kcTVMRGZ2dXh3THB6Y2toMmIwUEJsVzdXX2hXZjYtTVUyVjd4SFJtRGwwUGNjaks3UjdPYzRhNDgyTVJfNFRxcF91OEdiaXViUkJmQXJqdEs4bXU?oc=5",
           "source": "gnews"
         },
         {
-          "title": "The best personal finance tools to help you reach 6 money goals in 2026",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNTjlkR1VlMXJ1MjR0LURjbjl2QWo5ejdlYjN0UWFYQnZrVWNydkh2cUxEeEZRQXpaWXhpT2VNeHNtUlRoUy1JaW44WmMwQTdaVEtDbE5Yb3kzUWEzUTdaNlVLYXd1LXJTbC1pQ181U0ktRVM1OGUwbkhpN3F6Y1JMNUtzcUJfUdIBiwFBVV95cUxPc3pfOHZqRlMxakh3cVhGbEZ1SzgzY2tUR0ppcEg4ZVlxNlZyaF9hd01YZDJ5a0lpRkV5RHoySHZ4Qzlta0U0cW5XYzNDMlRaUTNIaGZmb3hzaXpaR1dnUGt0MFZDNmpIYTRISXBfQTBHdmYxOVotR2VhakU2U3pZbWNJQk9zNkdjeE9J?oc=5",
+          "title": "Memorial Day Sales: Stunning Deals on Fitness Gear",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWEx2T2hXVnExdVY4T2tVczl4cUd1QjcyM2ZMaG0wU3NIdUg1UnR2WnJPVkxjNnAwQ3RGOVlxOGRESXNabVpvejJkem5LN2pfOHhBbUhKYnpMczU3enpBenYzSjRHTUJuSm80QjVxVjI5RFNwdnItSWEtLS1vNlJUNjFDS2Y?oc=5",
           "source": "gnews"
         },
         {
-          "title": "The Best Personal Finance Tips of All Time, According to 35 Top Experts",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdGlySWFWWU5wVFBON1Y2aUMxYkdtQjhYV2lHcXZWcHNwSXg0UkNOX0V6bVEzN3JaVjJ6RHRmMUg1R2s0NVFwOXZia3dkUHdpNDFkeHJUanViZXRuSHBpYmFPMkRmTUVxSnhUM2lpMFRnSmp4S1A1c3JJVjRSWTdVMlR6XzV0UndXaTgxeTkydkhxRHpERGxWZlZIc0hQT2RlXzhUTTEwcXdTeW55UFE?oc=5",
+          "title": "Memorial Day Sales: Stunning Deals on Fitness Gear",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWEx2T2hXVnExdVY4T2tVczl4cUd1QjcyM2ZMaG0wU3NIdUg1UnR2WnJPVkxjNnAwQ3RGOVlxOGRESXNabVpvejJkem5LN2pfOHhBbUhKYnpMczU3enpBenYzSjRHTUJuSm80QjVxVjI5RFNwdnItSWEtLS1vNlJUNjFDS2Y?oc=5",
           "source": "gnews"
         }
       ],
-      "id": "61108514445d",
-      "slug": "personal-finance",
+      "id": "a8b7e45842c3",
+      "slug": "fitness-gear",
+      "opportunity": {
+        "type": "affiliate",
+        "recommended": "Write SEO comparison/roundup article with affiliate links."
+      }
+    },
+    {
+      "keyword": "2026 ranked",
+      "count": 12,
+      "score": 85.46464213529222,
+      "proper": false,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "8 Best AI Tools for Developers in 2026 (Ranked & Reviewed)",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE83SHZjZ1BXZnhFdFphcXg3bWp5Y3V1blVpZ0szbW90RVRqZ1pKV1J2aXRESUxWLTdHUC1meW84Y2pxRm01QWtWYVNFOW4tOFF5bFIyVGIzRG1aMEg5cXo0ckYwQnrSAWdBVV95cUxNbTExZTdyYjdZMzNyMjRheTBTUlNTVHBWWjRFZTc5czNESWEtQTRpTEJ4RVhiSmk5MXJJMnBzckU3ekJVZlc5dy1GTGE1Y1NxeUtSWHVrb2xQaHB0T255TTRnN3hUeHFV?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "8 Best AI Tools for Developers in 2026 (Ranked & Reviewed)",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE83SHZjZ1BXZnhFdFphcXg3bWp5Y3V1blVpZ0szbW90RVRqZ1pKV1J2aXRESUxWLTdHUC1meW84Y2pxRm01QWtWYVNFOW4tOFF5bFIyVGIzRG1aMEg5cXo0ckYwQnrSAWdBVV95cUxNbTExZTdyYjdZMzNyMjRheTBTUlNTVHBWWjRFZTc5czNESWEtQTRpTEJ4RVhiSmk5MXJJMnBzckU3ekJVZlc5dy1GTGE1Y1NxeUtSWHVrb2xQaHB0T255TTRnN3hUeHFV?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "6 best AI stock trading tools in 2026 (ranked for what AI actually does well)",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQYU5TUTBvb2MxM2I5YllWRVg2SjgyUDJGTjRRMFJnZ2hFOHc0eUs0cmJTRXpSekRlRWl6VmZSVnRxLXZXQXdkcVFDbHBBckxBM3d1ZS1oTjV1M3VPdF94aXI4ODNmV0dyUnhGSXBobUVPaVdVRE9rUjd6amZDNlVCcnFQYzg4em1oelh5TDMwOXR0Wm9nVGJKTVFYRFF6VXBfOGpkZUFnS1ZCRjBDRHpoZ1VnQk9fLXJFeHhpSV9tYUhzN3RSTXM4?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "6 best AI stock trading tools in 2026 (ranked for what AI actually does well)",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQYU5TUTBvb2MxM2I5YllWRVg2SjgyUDJGTjRRMFJnZ2hFOHc0eUs0cmJTRXpSekRlRWl6VmZSVnRxLXZXQXdkcVFDbHBBckxBM3d1ZS1oTjV1M3VPdF94aXI4ODNmV0dyUnhGSXBobUVPaVdVRE9rUjd6amZDNlVCcnFQYzg4em1oelh5TDMwOXR0Wm9nVGJKTVFYRFF6VXBfOGpkZUFnS1ZCRjBDRHpoZ1VnQk9fLXJFeHhpSV9tYUhzN3RSTXM4?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "c9a44f4ef59e",
+      "slug": "2026-ranked",
       "opportunity": {
         "type": "niche-content",
-        "recommended": "Publish niche guide for \"finance\"; bundle into digital product later."
+        "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
+      }
+    },
+    {
+      "keyword": "software gains",
+      "count": 11,
+      "score": 85.15498763480204,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "Software Gains as Guggenheim Says AI No ‘Death Knell’ for Sector",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxON2xDa1dZcXRMUVZCbDRSQnZVYUYzcWJ2VjBUeEg4cThvc3VqeGdxbWRYU2VuLThhTTZoNVo5RWY3YnNNQktVcmNteVczbmFTb2ltemdUXzVmVlBhNXNkYXliUVR4Q0hiQ0I1MGNOaXU0c18zZmJVUG91cjVRWUtnSFZ5MVZpTTI3SmpucVBiX0RUdzhHY2x6ZGh0djR2TG1NNGlQMDRjZHVpU195OVU5blYyQQ?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Software Gains as Guggenheim Says AI No ‘Death Knell’ for Sector",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxON2xDa1dZcXRMUVZCbDRSQnZVYUYzcWJ2VjBUeEg4cThvc3VqeGdxbWRYU2VuLThhTTZoNVo5RWY3YnNNQktVcmNteVczbmFTb2ltemdUXzVmVlBhNXNkYXliUVR4Q0hiQ0I1MGNOaXU0c18zZmJVUG91cjVRWUtnSFZ5MVZpTTI3SmpucVBiX0RUdzhHY2x6ZGh0djR2TG1NNGlQMDRjZHVpU195OVU5blYyQQ?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Software Gains as Guggenheim Says AI No ‘Death Knell’ for Sector",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxON2xDa1dZcXRMUVZCbDRSQnZVYUYzcWJ2VjBUeEg4cThvc3VqeGdxbWRYU2VuLThhTTZoNVo5RWY3YnNNQktVcmNteVczbmFTb2ltemdUXzVmVlBhNXNkYXliUVR4Q0hiQ0I1MGNOaXU0c18zZmJVUG91cjVRWUtnSFZ5MVZpTTI3SmpucVBiX0RUdzhHY2x6ZGh0djR2TG1NNGlQMDRjZHVpU195OVU5blYyQQ?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "4ccedb402a6a",
+      "slug": "software-gains",
+      "opportunity": {
+        "type": "tooling",
+        "recommended": "Build / list AI tools; monetize via affiliate links + lead magnet."
       }
     }
   ]
