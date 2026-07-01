@@ -1,148 +1,159 @@
 {
-  "generatedAt": "2026-07-01T15:39:23.671Z",
-  "sourceCount": 203,
+  "generatedAt": "2026-07-01T17:46:22.063Z",
+  "sourceCount": 206,
   "topItems": [
     {
-      "title": "Claude Code is steganographically marking requests",
-      "url": "https://thereallo.dev/blog/claude-code-prompt-steganography",
-      "score": 9.13,
-      "niche": "ai",
-      "source": "hackernews",
+      "title": "You remember that time DRAM manufacturers were caught acting as a cartel to fix prices and the fines were smaller than the profit they made as a result?  You're never going to guess what happened next",
+      "url": "https://infosec.exchange/@david_chisnall/116845197744863138",
+      "score": 9.19,
+      "niche": "software",
+      "source": "mastodon",
       "engagement": {
-        "score": 2301,
-        "comments": 688
-      }
-    },
-    {
-      "title": "Nintendo has raised its employees base salary by 10%",
-      "url": "https://mynintendonews.com/2026/06/26/nintendo-has-raised-its-employees-base-salary-by-10/",
-      "score": 8.83,
-      "niche": "ai",
-      "source": "hackernews",
-      "engagement": {
-        "score": 301,
-        "comments": 137
-      }
-    },
-    {
-      "title": "Claude Sonnet 5",
-      "url": "https://www.anthropic.com/news/claude-sonnet-5",
-      "score": 8.78,
-      "niche": "ai",
-      "source": "hackernews",
-      "engagement": {
-        "score": 1211,
-        "comments": 744
+        "score": 305,
+        "comments": 14
       }
     },
     {
       "title": "It's amazing AI companies can legally bill by usage.\"How much will this cost?\"\"No idea.\"\"What will I get?\"\"No idea.\"\"Can you estimate either?\"\"Absolutely not!\"We're one jackpot animation away from cal",
       "url": "https://mastodon.social/@fribbledom/116844557748409262",
-      "score": 8.63,
+      "score": 8.97,
       "niche": "ai",
       "source": "mastodon",
       "engagement": {
-        "score": 449,
-        "comments": 23
+        "score": 582,
+        "comments": 27
       }
     },
     {
-      "title": "8 Best AI Tools for Developers in 2026 (Ranked & Reviewed)",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE83SHZjZ1BXZnhFdFphcXg3bWp5Y3V1blVpZ0szbW90RVRqZ1pKV1J2aXRESUxWLTdHUC1meW84Y2pxRm01QWtWYVNFOW4tOFF5bFIyVGIzRG1aMEg5cXo0ckYwQnrSAWdBVV95cUxNbTExZTdyYjdZMzNyMjRheTBTUlNTVHBWWjRFZTc5czNESWEtQTRpTEJ4RVhiSmk5MXJJMnBzckU3ekJVZlc5dy1GTGE1Y1NxeUtSWHVrb2xQaHB0T255TTRnN3hUeHFV?oc=5",
-      "score": 8.26,
-      "niche": "ai",
-      "source": "gnews",
+      "title": "I’m happy to announce the release of a new open source 3D physics engine called Box3D. I’ve been working on this project for a few years now, but it represents over 20 years of experience writing phys",
+      "url": "https://mastodon.gamedev.place/@erin_catto/116845187674744906",
+      "score": 8.66,
+      "niche": "software",
+      "source": "mastodon",
       "engagement": {
-        "score": 40,
+        "score": 228,
+        "comments": 5
+      }
+    },
+    {
+      "title": "Happy Canada Day!The Indigenous flag was designed by artist Curtis Wilson (d 2019). The renowned artist was born and raised in the Ligwilda’xw territories and he was a member of the Wei Wai Kum First ",
+      "url": "https://mstdn.ca/@cardamomaddict/116845235313626310",
+      "score": 8.58,
+      "niche": "ai",
+      "source": "mastodon",
+      "engagement": {
+        "score": 214,
         "comments": 0
-      }
-    },
-    {
-      "title": "The 7 Best AI Mode Tracking Tools for SEO and GEO in 2026",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5tRWxGOWU3UnRiczJJU0FVeGdjLWFWRk1fN0ctRHRweE45SzRLd012bWd6N216T3AwZkRSa1AwUG1zSEcyNVU3RnBpaDJLb05ZdkJVLVp5ZHFrTElaRVFqYVptNVFvQQ?oc=5",
-      "score": 8.26,
-      "niche": "ai",
-      "source": "gnews",
-      "engagement": {
-        "score": 40,
-        "comments": 0
-      }
-    },
-    {
-      "title": "Happy Canada Day!  I really shouldn't complain about too much rain while others are in severe drought and catching fire, but wow there are mushrooms everywhere and I am starting to worry about hoof-ro",
-      "url": "https://mastodon.social/@sundogplanets/116845056656506532",
-      "score": 7.9,
-      "niche": "ai",
-      "source": "mastodon",
-      "engagement": {
-        "score": 135,
-        "comments": 2
-      }
-    },
-    {
-      "title": "\"It is, of course, an extraordinarily effective estrogenic agent, but that is the least of the problem. It is hypergolic with every known patient*, and so rapidly hypergolic that no induction period h",
-      "url": "https://bitbang.social/@NanoRaptor/116844845371735445",
-      "score": 7.75,
-      "niche": "ai",
-      "source": "mastodon",
-      "engagement": {
-        "score": 87,
-        "comments": 20
-      }
-    },
-    {
-      "title": "Godot will no longer accept AI-authored code contributions",
-      "url": "https://www.pcgamer.com/gaming-industry/open-source-game-engine-godot-will-no-longer-accept-ai-authored-code-contributions-we-cant-trust-heavy-users-of-ai-to-understand-their-code-enough-to-fix-it/",
-      "score": 7.75,
-      "niche": "ai",
-      "source": "hackernews",
-      "engagement": {
-        "score": 466,
-        "comments": 297
       }
     },
     {
       "title": "If bots are running the #stockmarket  with no grip on reality, well, it's no wonder the #AI bubble is so huge.",
       "url": "https://hachyderm.io/@cyberlyra/116844864803984763",
-      "score": 7.55,
+      "score": 8.58,
       "niche": "ai",
       "source": "mastodon",
       "engagement": {
-        "score": 202,
-        "comments": 13
+        "score": 430,
+        "comments": 24
       }
     },
     {
-      "title": "Claude Science",
-      "url": "https://claude.com/product/claude-science",
-      "score": 7.5,
+      "title": "Sony Deletes 551 Movies PlayStation Owners Paid For",
+      "url": "https://reclaimthenet.org/sony-deletes-551-studiocanal-movies-playstation-owners-paid-for",
+      "score": 8.51,
       "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 539,
-        "comments": 155
+        "score": 229,
+        "comments": 113
+      }
+    },
+    {
+      "title": "Best Budgeting Apps Of 2026",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA3eVJUSVFBWHFLenE1MGJwZW5JXzlBbVlsRUtRbnY4Zk51X1l3R2JVSFRrbmhWZUs3OEdVUmx6cmpFNjVyUFFVRWk5N1MzYy1uSTFWVVJ0OGdTNjgtV1RUU3NibThsQm11c1pGNFl4QXhkZw?oc=5",
+      "score": 8.47,
+      "niche": "finance",
+      "source": "gnews",
+      "engagement": {
+        "score": 40,
+        "comments": 0
+      }
+    },
+    {
+      "title": "Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5",
+      "url": "https://twitter.com/AnthropicAI/status/2072106151890809341",
+      "score": 8.47,
+      "niche": "ai",
+      "source": "hackernews",
+      "engagement": {
+        "score": 874,
+        "comments": 576
+      }
+    },
+    {
+      "title": "Happy Canada Day!  I really shouldn't complain about too much rain while others are in severe drought and catching fire, but wow there are mushrooms everywhere and I am starting to worry about hoof-ro",
+      "url": "https://mastodon.social/@sundogplanets/116845056656506532",
+      "score": 8.42,
+      "niche": "ai",
+      "source": "mastodon",
+      "engagement": {
+        "score": 185,
+        "comments": 4
+      }
+    },
+    {
+      "title": "Episode 59: \"Baby Pagoda Side Quest: Failed\"Sources and bonus timelapse: https://www.peppercarrot.com/en/miniFantasyTheater/059.html#webcomic #krita #miniFantasyTheater",
+      "url": "https://framapiaf.org/@davidrevoy/116845549871373672",
+      "score": 7.82,
+      "niche": "ai",
+      "source": "mastodon",
+      "engagement": {
+        "score": 260,
+        "comments": 8
       }
     },
     {
       "title": "I painted a red panda! medium: Nicker poster colour on Arches watercolour paper #Illustration #Watercolor #TraditionalArt #AnimeArt #Nature #Animals",
       "url": "https://mastodon.art/@djamilaknopf/116845086926137129",
-      "score": 7.05,
+      "score": 7.61,
       "niche": "ai",
       "source": "mastodon",
       "engagement": {
-        "score": 157,
+        "score": 236,
         "comments": 1
+      }
+    },
+    {
+      "title": "Nintendo has raised its employees base salary by 10%",
+      "url": "https://mynintendonews.com/2026/06/26/nintendo-has-raised-its-employees-base-salary-by-10/",
+      "score": 7.46,
+      "niche": "ai",
+      "source": "hackernews",
+      "engagement": {
+        "score": 399,
+        "comments": 210
       }
     },
     {
       "title": "You cannot claim to act on climate while ignoring the massive emissions of war.Count military emissions, expose the damage, and make those responsible pay for the harm done to the climate and ecosyste",
       "url": "https://mastodon.social/@greenpeace/116844864539721124",
-      "score": 7.03,
+      "score": 7.41,
       "niche": "ai",
       "source": "mastodon",
       "engagement": {
-        "score": 144,
-        "comments": 6
+        "score": 188,
+        "comments": 9
+      }
+    },
+    {
+      "title": "Box3D, an open source 3D physics engine",
+      "url": "https://box2d.org/posts/2026/06/announcing-box3d/",
+      "score": 7.04,
+      "niche": "software",
+      "source": "hackernews",
+      "engagement": {
+        "score": 239,
+        "comments": 43
       }
     },
     {
@@ -179,36 +190,58 @@
       }
     },
     {
-      "title": "1028 died in Spain, in one month, due to capitalist-created #canicule hitting Europe this summer. Europe has 50 countries. 27 of those countries are in the European Union. let’s use Spain as a baselin",
-      "url": "https://mastodon.social/@blogdiva/116844750426641669",
-      "score": 6.69,
-      "niche": "ai",
-      "source": "mastodon",
+      "title": "Top Chromebook Productivity Apps 2026",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNd01iY0c5X2FyTS1YaTJQdmtUazdHOTRCUjlVeWw3SmRxQmdWaF9jUHhveDNDdTZxMW1NNS1zOGdTWUpkV2dxU3NuYTU5OWtRNUk4eUwwVno0SmxfRHZvMHFSTVg0VXpWWlNTTHl0cGdMbXhtdE5oOGcwNDBfUVRvSDRjOC1WR2hLemRPUjA0NA?oc=5",
+      "score": 6.32,
+      "niche": "software",
+      "source": "gnews",
       "engagement": {
-        "score": 110,
-        "comments": 6
+        "score": 40,
+        "comments": 0
       }
     },
     {
-      "title": "Sony Deletes 551 Movies PlayStation Owners Paid For",
-      "url": "https://reclaimthenet.org/sony-deletes-551-studiocanal-movies-playstation-owners-paid-for",
-      "score": 6.68,
+      "title": "Would You Like $3,000 in Passive Income Each Year? Buy 2,239 Shares of This Top High-Yield Dividend Stock.",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNams2eGFnUG96bDU0c0oybVVnYW9RemtseXVYY294WlA2aERPQm9SSXU3YkRaVmV3Y0hxQXdIQ25tYXhzUU5aa3B1X3BIR0tVZUo5dnQ0QUtFOXJqT0VHSUh5NHp2VW9MT3pJT1RNaERIM3lVRkhBeHh0R0laMVJneXRRQXAtZ1g0VlM4MnZlN19SOEZZd3ZrdA?oc=5",
+      "score": 6.29,
+      "niche": "finance",
+      "source": "gnews",
+      "engagement": {
+        "score": 40,
+        "comments": 0
+      }
+    },
+    {
+      "title": "Apple 'Hide My Email' vulnerability reveals peoples' real email addresses",
+      "url": "https://easyoptouts.com/guides/apple-hide-my-email-is-leaking-email-addresses",
+      "score": 6.1,
       "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 71,
-        "comments": 25
+        "score": 99,
+        "comments": 9
       }
     },
     {
-      "title": "A haiku about #ADHD:Walk into a room. Stand in the doorway frozen. What was I doing?",
-      "url": "https://mastodon.social/@adhd_coffee/116844791095702049",
-      "score": 6.48,
+      "title": "mekos2772/ios-location-spoofer — Standalone iOS app to spoof GPS location without jailbreak. Includes Shadowrocket/Surge/Loon/QX/Stash module.",
+      "url": "https://github.com/mekos2772/ios-location-spoofer",
+      "score": 6.06,
       "niche": "ai",
-      "source": "mastodon",
+      "source": "github",
       "engagement": {
-        "score": 101,
-        "comments": 2
+        "score": 547,
+        "comments": 3
+      }
+    },
+    {
+      "title": "What happened to the fight for the internet?",
+      "url": "https://dustycloud.org/blog/what-happened-to-the-fight-for-the-internet/",
+      "score": 6.05,
+      "niche": "software",
+      "source": "lobsters",
+      "engagement": {
+        "score": 109,
+        "comments": 57
       }
     },
     {
@@ -243,356 +276,152 @@
         "score": 223,
         "comments": 0
       }
-    },
-    {
-      "title": "Sac-tharan/The_Elder_Scrolls_Online_Auto-Farm — Auto-farm, gathering, and quest bot for ESO. Farm gold, materials, and complete daily quests automatically. Perfect for grinding.",
-      "url": "https://github.com/Sac-tharan/The_Elder_Scrolls_Online_Auto-Farm",
-      "score": 6.01,
-      "niche": "ai",
-      "source": "github",
-      "engagement": {
-        "score": 222,
-        "comments": 0
-      }
-    },
-    {
-      "title": "usaid-anxari/Roblox_Tower_Defense_Simulator_Auto-Farm — Auto-place towers, auto-farm, and auto-upgrade for Tower Defense Simulator. Automatically place towers, upgrade, and survive waves.",
-      "url": "https://github.com/usaid-anxari/Roblox_Tower_Defense_Simulator_Auto-Farm",
-      "score": 6.01,
-      "niche": "ai",
-      "source": "github",
-      "engagement": {
-        "score": 222,
-        "comments": 0
-      }
-    },
-    {
-      "title": "6 best AI stock trading tools in 2026 (ranked for what AI actually does well)",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQYU5TUTBvb2MxM2I5YllWRVg2SjgyUDJGTjRRMFJnZ2hFOHc0eUs0cmJTRXpSekRlRWl6VmZSVnRxLXZXQXdkcVFDbHBBckxBM3d1ZS1oTjV1M3VPdF94aXI4ODNmV0dyUnhGSXBobUVPaVdVRE9rUjd6amZDNlVCcnFQYzg4em1oelh5TDMwOXR0Wm9nVGJKTVFYRFF6VXBfOGpkZUFnS1ZCRjBDRHpoZ1VnQk9fLXJFeHhpSV9tYUhzN3RSTXM4?oc=5",
-      "score": 5.99,
-      "niche": "ai",
-      "source": "gnews",
-      "engagement": {
-        "score": 40,
-        "comments": 0
-      }
     }
   ],
   "topics": [
     {
-      "keyword": "schneider electric",
-      "count": 17,
-      "score": 126.6486907004874,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "Schneider Electric Buys Cognite in $3.1 Billion AI Software Deal",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOTAtZldkMFRXel81Z2xnMlJKbEFLQlUzM0hzMDRrMEtFVHV4cnhZN09IM2RKRE1tT2NmajVfR0xZd0oxWnBvTGZPTS1DQmZOSTNwNDVwME9JU08ta1ZpU2YxOERuWVVzQlktSTlObEdjQ29SeGxWVUZJS25UUE1zeHBMLVBibHdjQ0ljUWI5N0hlek5oTEk3WjFwaldDQQ?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Schneider Electric Buys Cognite in $3.1 Billion AI Software Deal",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOTAtZldkMFRXel81Z2xnMlJKbEFLQlUzM0hzMDRrMEtFVHV4cnhZN09IM2RKRE1tT2NmajVfR0xZd0oxWnBvTGZPTS1DQmZOSTNwNDVwME9JU08ta1ZpU2YxOERuWVVzQlktSTlObEdjQ29SeGxWVUZJS25UUE1zeHBMLVBibHdjQ0ljUWI5N0hlek5oTEk3WjFwaldDQQ?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Schneider Electric to buy AI software firm Cognite for $3.1 billion",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTTdJSkpnY0JpeXZkOXZ0aXZKZ3B0UjFVZ3AzU1JUUUpLdkhUQXc0VzdwVkFwZV9Hc3ZydFFwNUVBbEVFeko1aHFZc2RkZ0NTN0gzcDFXQVhYcUhtd0NGcUxhVnFOVzNoY1dVNDhSb1VNVjZfYjZzWGk3dWJlYkttenFjTUd4MFkwWUFkelctNi1GQjhtajVLcEtyM290SW5mbUpQWGtR?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Schneider Electric to buy AI software firm Cognite for $3.1 billion",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTTdJSkpnY0JpeXZkOXZ0aXZKZ3B0UjFVZ3AzU1JUUUpLdkhUQXc0VzdwVkFwZV9Hc3ZydFFwNUVBbEVFeko1aHFZc2RkZ0NTN0gzcDFXQVhYcUhtd0NGcUxhVnFOVzNoY1dVNDhSb1VNVjZfYjZzWGk3dWJlYkttenFjTUd4MFkwWUFkelctNi1GQjhtajVLcEtyM290SW5mbUpQWGtR?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Schneider Electric to buy AI software firm Cognite for $3.1 billion",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTTdJSkpnY0JpeXZkOXZ0aXZKZ3B0UjFVZ3AzU1JUUUpLdkhUQXc0VzdwVkFwZV9Hc3ZydFFwNUVBbEVFeko1aHFZc2RkZ0NTN0gzcDFXQVhYcUhtd0NGcUxhVnFOVzNoY1dVNDhSb1VNVjZfYjZzWGk3dWJlYkttenFjTUd4MFkwWUFkelctNi1GQjhtajVLcEtyM290SW5mbUpQWGtR?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "bc3067ac45df",
-      "slug": "schneider-electric"
-    },
-    {
-      "keyword": "claude code",
-      "count": 8,
-      "score": 109.53559218899125,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "Claude Code is steganographically marking requests",
-          "url": "https://thereallo.dev/blog/claude-code-prompt-steganography",
-          "source": "hackernews"
-        },
-        {
-          "title": "Claude Code is steganographically marking requests",
-          "url": "https://thereallo.dev/blog/claude-code-prompt-steganography",
-          "source": "hackernews"
-        }
-      ],
-      "id": "a625159d18da",
-      "slug": "claude-code"
-    },
-    {
-      "keyword": "claude sonnet",
-      "count": 8,
-      "score": 105.41149483496412,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "Claude Sonnet 5",
-          "url": "https://www.anthropic.com/news/claude-sonnet-5",
-          "source": "hackernews"
-        },
-        {
-          "title": "Claude Sonnet 5",
-          "url": "https://www.anthropic.com/news/claude-sonnet-5",
-          "source": "hackernews"
-        }
-      ],
-      "id": "28d031c22bf1",
-      "slug": "claude-sonnet"
-    },
-    {
-      "keyword": "cognite billion",
-      "count": 18,
-      "score": 92.89635014705678,
-      "proper": false,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "Schneider Electric Buys Cognite in $3.1 Billion AI Software Deal",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOTAtZldkMFRXel81Z2xnMlJKbEFLQlUzM0hzMDRrMEtFVHV4cnhZN09IM2RKRE1tT2NmajVfR0xZd0oxWnBvTGZPTS1DQmZOSTNwNDVwME9JU08ta1ZpU2YxOERuWVVzQlktSTlObEdjQ29SeGxWVUZJS25UUE1zeHBMLVBibHdjQ0ljUWI5N0hlek5oTEk3WjFwaldDQQ?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Schneider Electric Buys Cognite in $3.1 Billion AI Software Deal",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOTAtZldkMFRXel81Z2xnMlJKbEFLQlUzM0hzMDRrMEtFVHV4cnhZN09IM2RKRE1tT2NmajVfR0xZd0oxWnBvTGZPTS1DQmZOSTNwNDVwME9JU08ta1ZpU2YxOERuWVVzQlktSTlObEdjQ29SeGxWVUZJS25UUE1zeHBMLVBibHdjQ0ljUWI5N0hlek5oTEk3WjFwaldDQQ?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Schneider to Buy Industrial AI Firm Cognite for $3.1 Billion",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSXMzd2FHNjNoTzhhZDZWU3JyN3dXNG12Q1dnNUFhSXZLMEZEdXl4eFV6bGp4YUFMUlRSVzEwRkJjOHZtTTZKUjB1Q1U0ZURxSVlxeEFLNUVKQ0RyZVRXRElBemczNlQyY054c2FGa3lpODVGSnZFaERlazBBM0VTZnZYQjZmWmV3R3Q0dXBwbFNQR19ZWXFpRmFQb1B1SlEteW1LYTZwMEVRdTNROFpJ?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Schneider to Buy Industrial AI Firm Cognite for $3.1 Billion",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSXMzd2FHNjNoTzhhZDZWU3JyN3dXNG12Q1dnNUFhSXZLMEZEdXl4eFV6bGp4YUFMUlRSVzEwRkJjOHZtTTZKUjB1Q1U0ZURxSVlxeEFLNUVKQ0RyZVRXRElBemczNlQyY054c2FGa3lpODVGSnZFaERlazBBM0VTZnZYQjZmWmV3R3Q0dXBwbFNQR19ZWXFpRmFQb1B1SlEteW1LYTZwMEVRdTNROFpJ?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Schneider Electric to buy AI software firm Cognite for $3.1 billion",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTTdJSkpnY0JpeXZkOXZ0aXZKZ3B0UjFVZ3AzU1JUUUpLdkhUQXc0VzdwVkFwZV9Hc3ZydFFwNUVBbEVFeko1aHFZc2RkZ0NTN0gzcDFXQVhYcUhtd0NGcUxhVnFOVzNoY1dVNDhSb1VNVjZfYjZzWGk3dWJlYkttenFjTUd4MFkwWUFkelctNi1GQjhtajVLcEtyM290SW5mbUpQWGtR?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "d8f11049d8f7",
-      "slug": "cognite-billion"
-    },
-    {
-      "keyword": "claude science",
-      "count": 8,
-      "score": 89.99174939794308,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "Claude Science",
-          "url": "https://claude.com/product/claude-science",
-          "source": "hackernews"
-        },
-        {
-          "title": "Claude Science",
-          "url": "https://claude.com/product/claude-science",
-          "source": "hackernews"
-        }
-      ],
-      "id": "1c498f330553",
-      "slug": "claude-science"
-    },
-    {
-      "keyword": "fitness gear",
-      "count": 33,
-      "score": 87.92252473293308,
-      "proper": true,
-      "niches": [
-        "gear"
-      ],
-      "examples": [
-        {
-          "title": "Fitness Gear on Sale for Early Prime Day",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSm9RdFNpc3JFU2NnaUxiaVk5dnp3b2RxcU04bmQyZ3RUMENITl92OG1kcTVMRGZ2dXh3THB6Y2toMmIwUEJsVzdXX2hXZjYtTVUyVjd4SFJtRGwwUGNjaks3UjdPYzRhNDgyTVJfNFRxcF91OEdiaXViUkJmQXJqdEs4bXU?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Fitness Gear on Sale for Early Prime Day",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSm9RdFNpc3JFU2NnaUxiaVk5dnp3b2RxcU04bmQyZ3RUMENITl92OG1kcTVMRGZ2dXh3THB6Y2toMmIwUEJsVzdXX2hXZjYtTVUyVjd4SFJtRGwwUGNjaks3UjdPYzRhNDgyTVJfNFRxcF91OEdiaXViUkJmQXJqdEs4bXU?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Fitness Gear on Sale for Early Prime Day",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSm9RdFNpc3JFU2NnaUxiaVk5dnp3b2RxcU04bmQyZ3RUMENITl92OG1kcTVMRGZ2dXh3THB6Y2toMmIwUEJsVzdXX2hXZjYtTVUyVjd4SFJtRGwwUGNjaks3UjdPYzRhNDgyTVJfNFRxcF91OEdiaXViUkJmQXJqdEs4bXU?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Memorial Day Sales: Stunning Deals on Fitness Gear",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWEx2T2hXVnExdVY4T2tVczl4cUd1QjcyM2ZMaG0wU3NIdUg1UnR2WnJPVkxjNnAwQ3RGOVlxOGRESXNabVpvejJkem5LN2pfOHhBbUhKYnpMczU3enpBenYzSjRHTUJuSm80QjVxVjI5RFNwdnItSWEtLS1vNlJUNjFDS2Y?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Memorial Day Sales: Stunning Deals on Fitness Gear",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWEx2T2hXVnExdVY4T2tVczl4cUd1QjcyM2ZMaG0wU3NIdUg1UnR2WnJPVkxjNnAwQ3RGOVlxOGRESXNabVpvejJkem5LN2pfOHhBbUhKYnpMczU3enpBenYzSjRHTUJuSm80QjVxVjI5RFNwdnItSWEtLS1vNlJUNjFDS2Y?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "a8b7e45842c3",
-      "slug": "fitness-gear"
-    },
-    {
-      "keyword": "2026 ranked",
-      "count": 12,
-      "score": 85.46464213529222,
-      "proper": false,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "8 Best AI Tools for Developers in 2026 (Ranked & Reviewed)",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE83SHZjZ1BXZnhFdFphcXg3bWp5Y3V1blVpZ0szbW90RVRqZ1pKV1J2aXRESUxWLTdHUC1meW84Y2pxRm01QWtWYVNFOW4tOFF5bFIyVGIzRG1aMEg5cXo0ckYwQnrSAWdBVV95cUxNbTExZTdyYjdZMzNyMjRheTBTUlNTVHBWWjRFZTc5czNESWEtQTRpTEJ4RVhiSmk5MXJJMnBzckU3ekJVZlc5dy1GTGE1Y1NxeUtSWHVrb2xQaHB0T255TTRnN3hUeHFV?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "8 Best AI Tools for Developers in 2026 (Ranked & Reviewed)",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE83SHZjZ1BXZnhFdFphcXg3bWp5Y3V1blVpZ0szbW90RVRqZ1pKV1J2aXRESUxWLTdHUC1meW84Y2pxRm01QWtWYVNFOW4tOFF5bFIyVGIzRG1aMEg5cXo0ckYwQnrSAWdBVV95cUxNbTExZTdyYjdZMzNyMjRheTBTUlNTVHBWWjRFZTc5czNESWEtQTRpTEJ4RVhiSmk5MXJJMnBzckU3ekJVZlc5dy1GTGE1Y1NxeUtSWHVrb2xQaHB0T255TTRnN3hUeHFV?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "6 best AI stock trading tools in 2026 (ranked for what AI actually does well)",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQYU5TUTBvb2MxM2I5YllWRVg2SjgyUDJGTjRRMFJnZ2hFOHc0eUs0cmJTRXpSekRlRWl6VmZSVnRxLXZXQXdkcVFDbHBBckxBM3d1ZS1oTjV1M3VPdF94aXI4ODNmV0dyUnhGSXBobUVPaVdVRE9rUjd6amZDNlVCcnFQYzg4em1oelh5TDMwOXR0Wm9nVGJKTVFYRFF6VXBfOGpkZUFnS1ZCRjBDRHpoZ1VnQk9fLXJFeHhpSV9tYUhzN3RSTXM4?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "6 best AI stock trading tools in 2026 (ranked for what AI actually does well)",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQYU5TUTBvb2MxM2I5YllWRVg2SjgyUDJGTjRRMFJnZ2hFOHc0eUs0cmJTRXpSekRlRWl6VmZSVnRxLXZXQXdkcVFDbHBBckxBM3d1ZS1oTjV1M3VPdF94aXI4ODNmV0dyUnhGSXBobUVPaVdVRE9rUjd6amZDNlVCcnFQYzg4em1oelh5TDMwOXR0Wm9nVGJKTVFYRFF6VXBfOGpkZUFnS1ZCRjBDRHpoZ1VnQk9fLXJFeHhpSV9tYUhzN3RSTXM4?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "c9a44f4ef59e",
-      "slug": "2026-ranked"
-    },
-    {
-      "keyword": "software gains",
-      "count": 11,
-      "score": 85.15498763480204,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "Software Gains as Guggenheim Says AI No ‘Death Knell’ for Sector",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxON2xDa1dZcXRMUVZCbDRSQnZVYUYzcWJ2VjBUeEg4cThvc3VqeGdxbWRYU2VuLThhTTZoNVo5RWY3YnNNQktVcmNteVczbmFTb2ltemdUXzVmVlBhNXNkYXliUVR4Q0hiQ0I1MGNOaXU0c18zZmJVUG91cjVRWUtnSFZ5MVZpTTI3SmpucVBiX0RUdzhHY2x6ZGh0djR2TG1NNGlQMDRjZHVpU195OVU5blYyQQ?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Software Gains as Guggenheim Says AI No ‘Death Knell’ for Sector",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxON2xDa1dZcXRMUVZCbDRSQnZVYUYzcWJ2VjBUeEg4cThvc3VqeGdxbWRYU2VuLThhTTZoNVo5RWY3YnNNQktVcmNteVczbmFTb2ltemdUXzVmVlBhNXNkYXliUVR4Q0hiQ0I1MGNOaXU0c18zZmJVUG91cjVRWUtnSFZ5MVZpTTI3SmpucVBiX0RUdzhHY2x6ZGh0djR2TG1NNGlQMDRjZHVpU195OVU5blYyQQ?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Software Gains as Guggenheim Says AI No ‘Death Knell’ for Sector",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxON2xDa1dZcXRMUVZCbDRSQnZVYUYzcWJ2VjBUeEg4cThvc3VqeGdxbWRYU2VuLThhTTZoNVo5RWY3YnNNQktVcmNteVczbmFTb2ltemdUXzVmVlBhNXNkYXliUVR4Q0hiQ0I1MGNOaXU0c18zZmJVUG91cjVRWUtnSFZ5MVZpTTI3SmpucVBiX0RUdzhHY2x6ZGh0djR2TG1NNGlQMDRjZHVpU195OVU5blYyQQ?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "4ccedb402a6a",
-      "slug": "software-gains"
-    },
-    {
-      "keyword": "death knell",
-      "count": 11,
-      "score": 85.15498763480204,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "Software Gains as Guggenheim Says AI No ‘Death Knell’ for Sector",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxON2xDa1dZcXRMUVZCbDRSQnZVYUYzcWJ2VjBUeEg4cThvc3VqeGdxbWRYU2VuLThhTTZoNVo5RWY3YnNNQktVcmNteVczbmFTb2ltemdUXzVmVlBhNXNkYXliUVR4Q0hiQ0I1MGNOaXU0c18zZmJVUG91cjVRWUtnSFZ5MVZpTTI3SmpucVBiX0RUdzhHY2x6ZGh0djR2TG1NNGlQMDRjZHVpU195OVU5blYyQQ?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Software Gains as Guggenheim Says AI No ‘Death Knell’ for Sector",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxON2xDa1dZcXRMUVZCbDRSQnZVYUYzcWJ2VjBUeEg4cThvc3VqeGdxbWRYU2VuLThhTTZoNVo5RWY3YnNNQktVcmNteVczbmFTb2ltemdUXzVmVlBhNXNkYXliUVR4Q0hiQ0I1MGNOaXU0c18zZmJVUG91cjVRWUtnSFZ5MVZpTTI3SmpucVBiX0RUdzhHY2x6ZGh0djR2TG1NNGlQMDRjZHVpU195OVU5blYyQQ?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Software Gains as Guggenheim Says AI No ‘Death Knell’ for Sector",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxON2xDa1dZcXRMUVZCbDRSQnZVYUYzcWJ2VjBUeEg4cThvc3VqeGdxbWRYU2VuLThhTTZoNVo5RWY3YnNNQktVcmNteVczbmFTb2ltemdUXzVmVlBhNXNkYXliUVR4Q0hiQ0I1MGNOaXU0c18zZmJVUG91cjVRWUtnSFZ5MVZpTTI3SmpucVBiX0RUdzhHY2x6ZGh0djR2TG1NNGlQMDRjZHVpU195OVU5blYyQQ?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "3696179bc9dd",
-      "slug": "death-knell"
-    },
-    {
-      "keyword": "personal finance",
-      "count": 26,
-      "score": 82.73581184972242,
+      "keyword": "passive income",
+      "count": 58,
+      "score": 322.3793651197079,
       "proper": true,
       "niches": [
         "finance"
       ],
       "examples": [
         {
-          "title": "PERSONAL FINANCE: Putting your best face forward – tips for better virtual meetings",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWDZlWVZKdy1WQWpFZ3drMEpjUWE1SUNsYXdONjUzZ0IzOXRjSlpiZVR6a1NlYkdac1VtSDU3b1dZSW53bzNxSTRWZV9waDNMNGxSMjQweFluTHhZeFlwalV5ZlNxcXlEOVBHV3J1Yk1YVExHYk5FOWFrTUx0UU9rZ2ZMT2JsbWFtbDZlU2xvdW9FUmZONzlEUzFVQ3cxRWxyNkxteUo5c2dSdHdqMWZ3NkpKeGxxdFVua2c?oc=5",
+          "title": "Would You Like $3,000 in Passive Income Each Year? Buy 2,239 Shares of This Top High-Yield Dividend Stock.",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNams2eGFnUG96bDU0c0oybVVnYW9RemtseXVYY294WlA2aERPQm9SSXU3YkRaVmV3Y0hxQXdIQ25tYXhzUU5aa3B1X3BIR0tVZUo5dnQ0QUtFOXJqT0VHSUh5NHp2VW9MT3pJT1RNaERIM3lVRkhBeHh0R0laMVJneXRRQXAtZ1g0VlM4MnZlN19SOEZZd3ZrdA?oc=5",
           "source": "gnews"
         },
         {
-          "title": "PERSONAL FINANCE: Putting your best face forward – tips for better virtual meetings",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWDZlWVZKdy1WQWpFZ3drMEpjUWE1SUNsYXdONjUzZ0IzOXRjSlpiZVR6a1NlYkdac1VtSDU3b1dZSW53bzNxSTRWZV9waDNMNGxSMjQweFluTHhZeFlwalV5ZlNxcXlEOVBHV3J1Yk1YVExHYk5FOWFrTUx0UU9rZ2ZMT2JsbWFtbDZlU2xvdW9FUmZONzlEUzFVQ3cxRWxyNkxteUo5c2dSdHdqMWZ3NkpKeGxxdFVua2c?oc=5",
+          "title": "Would You Like $3,000 in Passive Income Each Year? Buy 2,239 Shares of This Top High-Yield Dividend Stock.",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNams2eGFnUG96bDU0c0oybVVnYW9RemtseXVYY294WlA2aERPQm9SSXU3YkRaVmV3Y0hxQXdIQ25tYXhzUU5aa3B1X3BIR0tVZUo5dnQ0QUtFOXJqT0VHSUh5NHp2VW9MT3pJT1RNaERIM3lVRkhBeHh0R0laMVJneXRRQXAtZ1g0VlM4MnZlN19SOEZZd3ZrdA?oc=5",
           "source": "gnews"
         },
         {
-          "title": "PERSONAL FINANCE: Putting your best face forward – tips for better virtual meetings",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWDZlWVZKdy1WQWpFZ3drMEpjUWE1SUNsYXdONjUzZ0IzOXRjSlpiZVR6a1NlYkdac1VtSDU3b1dZSW53bzNxSTRWZV9waDNMNGxSMjQweFluTHhZeFlwalV5ZlNxcXlEOVBHV3J1Yk1YVExHYk5FOWFrTUx0UU9rZ2ZMT2JsbWFtbDZlU2xvdW9FUmZONzlEUzFVQ3cxRWxyNkxteUo5c2dSdHdqMWZ3NkpKeGxxdFVua2c?oc=5",
+          "title": "Would You Like $3,000 in Passive Income Each Year? Buy 2,239 Shares of This Top High-Yield Dividend Stock.",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOaTd1U3FHald1V21sT2tBQlVYekVWcmJRX2lwRU1pNXR6U2tYbGJ4Ul9VSHBBa3lseFlBVThqVHdHNW1HcVFOS2duOWNSdEFkLUpxNFVyeU90cGk3c2hMc3VDTUYwX2c4OU96UGhpdkRwcmpzR24yNkpnbVdjZTZ2SWNrQjNWaVpXV29OVkVIdEF6ZWc?oc=5",
           "source": "gnews"
         },
         {
-          "title": "The best personal finance tools to help you reach 6 money goals in 2026",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNTjlkR1VlMXJ1MjR0LURjbjl2QWo5ejdlYjN0UWFYQnZrVWNydkh2cUxEeEZRQXpaWXhpT2VNeHNtUlRoUy1JaW44WmMwQTdaVEtDbE5Yb3kzUWEzUTdaNlVLYXd1LXJTbC1pQ181U0ktRVM1OGUwbkhpN3F6Y1JMNUtzcUJfUdIBiwFBVV95cUxPc3pfOHZqRlMxakh3cVhGbEZ1SzgzY2tUR0ppcEg4ZVlxNlZyaF9hd01YZDJ5a0lpRkV5RHoySHZ4Qzlta0U0cW5XYzNDMlRaUTNIaGZmb3hzaXpaR1dnUGt0MFZDNmpIYTRISXBfQTBHdmYxOVotR2VhakU2U3pZbWNJQk9zNkdjeE9J?oc=5",
+          "title": "Would You Like $3,000 in Passive Income Each Year? Buy 2,239 Shares of This Top High-Yield Dividend Stock.",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOaTd1U3FHald1V21sT2tBQlVYekVWcmJRX2lwRU1pNXR6U2tYbGJ4Ul9VSHBBa3lseFlBVThqVHdHNW1HcVFOS2duOWNSdEFkLUpxNFVyeU90cGk3c2hMc3VDTUYwX2c4OU96UGhpdkRwcmpzR24yNkpnbVdjZTZ2SWNrQjNWaVpXV29OVkVIdEF6ZWc?oc=5",
           "source": "gnews"
         },
         {
-          "title": "The Best Personal Finance Tips of All Time, According to 35 Top Experts",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdGlySWFWWU5wVFBON1Y2aUMxYkdtQjhYV2lHcXZWcHNwSXg0UkNOX0V6bVEzN3JaVjJ6RHRmMUg1R2s0NVFwOXZia3dkUHdpNDFkeHJUanViZXRuSHBpYmFPMkRmTUVxSnhUM2lpMFRnSmp4S1A1c3JJVjRSWTdVMlR6XzV0UndXaTgxeTkydkhxRHpERGxWZlZIc0hQT2RlXzhUTTEwcXdTeW55UFE?oc=5",
+          "title": "2 Goldman Sachs ETFs Offering 8%+ Passive Income and Double-Digit Upside",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQaEE1cWJ2V3ByYkhheVFrOEw3SXJQSC1wbi1tdWhWSGRfdFpZcFEwSzZkR2NMR0RaLTd2Z3UwOHNVYzZzTFdqM1lfRzlKbnVhVnM4QVZYWnNybC1BdXg1cUhUSDQ3UzFYenVwQ3ZxVGcyNHlxME5PTUd1akNwU19aSmRqc3JiQTBnYWhGMmgyY0k2T2NwU2h6SUJ1YUUwaWxlYkE?oc=5",
           "source": "gnews"
         }
       ],
-      "id": "61108514445d",
-      "slug": "personal-finance"
+      "id": "cf2dbbbf8c8c",
+      "slug": "passive-income"
+    },
+    {
+      "keyword": "apps 2026",
+      "count": 24,
+      "score": 121.75227891148631,
+      "proper": false,
+      "niches": [
+        "finance",
+        "software",
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "Best Budgeting Apps Of 2026",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA3eVJUSVFBWHFLenE1MGJwZW5JXzlBbVlsRUtRbnY4Zk51X1l3R2JVSFRrbmhWZUs3OEdVUmx6cmpFNjVyUFFVRWk5N1MzYy1uSTFWVVJ0OGdTNjgtV1RUU3NibThsQm11c1pGNFl4QXhkZw?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Best Budgeting Apps Of 2026",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA3eVJUSVFBWHFLenE1MGJwZW5JXzlBbVlsRUtRbnY4Zk51X1l3R2JVSFRrbmhWZUs3OEdVUmx6cmpFNjVyUFFVRWk5N1MzYy1uSTFWVVJ0OGdTNjgtV1RUU3NibThsQm11c1pGNFl4QXhkZw?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Top Chromebook Productivity Apps 2026",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNd01iY0c5X2FyTS1YaTJQdmtUazdHOTRCUjlVeWw3SmRxQmdWaF9jUHhveDNDdTZxMW1NNS1zOGdTWUpkV2dxU3NuYTU5OWtRNUk4eUwwVno0SmxfRHZvMHFSTVg0VXpWWlNTTHl0cGdMbXhtdE5oOGcwNDBfUVRvSDRjOC1WR2hLemRPUjA0NA?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Top Chromebook Productivity Apps 2026",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNd01iY0c5X2FyTS1YaTJQdmtUazdHOTRCUjlVeWw3SmRxQmdWaF9jUHhveDNDdTZxMW1NNS1zOGdTWUpkV2dxU3NuYTU5OWtRNUk4eUwwVno0SmxfRHZvMHFSTVg0VXpWWlNTTHl0cGdMbXhtdE5oOGcwNDBfUVRvSDRjOC1WR2hLemRPUjA0NA?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "10 Best AI Productivity Apps in 2026 (Categorized Guide)",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ldGkwQm9Vblo4TmY5TWFzVGlIWGdlZGl5VUxPN3BGMkdhZGhIWmFFVm5xelVVSEtwNEExS09nX2NPLWZDdEI4WWsxd1FFS2gwR3RzQTRwaWRyWEE3cVlV0gFfQVVfeXFMT2V0aTBCb1VuWjhOZjlNYXNUaUhYZ2VkaXlVTE83cEYyR2FkaEhaYUVWbnF6VVVIS3A0QTFLT2dfY08tZkN0QjhZazF3UUVLaDBHdHNBNHBpZHJYQTdxWVU?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "764a73d78f8a",
+      "slug": "apps-2026"
+    },
+    {
+      "keyword": "income",
+      "count": 21,
+      "score": 115.68498604250662,
+      "proper": true,
+      "niches": [
+        "finance"
+      ],
+      "examples": [
+        {
+          "title": "Would You Like $3,000 in Passive Income Each Year? Buy 2,239 Shares of This Top High-Yield Dividend Stock.",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNams2eGFnUG96bDU0c0oybVVnYW9RemtseXVYY294WlA2aERPQm9SSXU3YkRaVmV3Y0hxQXdIQ25tYXhzUU5aa3B1X3BIR0tVZUo5dnQ0QUtFOXJqT0VHSUh5NHp2VW9MT3pJT1RNaERIM3lVRkhBeHh0R0laMVJneXRRQXAtZ1g0VlM4MnZlN19SOEZZd3ZrdA?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Would You Like $3,000 in Passive Income Each Year? Buy 2,239 Shares of This Top High-Yield Dividend Stock.",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNams2eGFnUG96bDU0c0oybVVnYW9RemtseXVYY294WlA2aERPQm9SSXU3YkRaVmV3Y0hxQXdIQ25tYXhzUU5aa3B1X3BIR0tVZUo5dnQ0QUtFOXJqT0VHSUh5NHp2VW9MT3pJT1RNaERIM3lVRkhBeHh0R0laMVJneXRRQXAtZ1g0VlM4MnZlN19SOEZZd3ZrdA?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Would You Like $3,000 in Passive Income Each Year? Buy 2,239 Shares of This Top High-Yield Dividend Stock.",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOaTd1U3FHald1V21sT2tBQlVYekVWcmJRX2lwRU1pNXR6U2tYbGJ4Ul9VSHBBa3lseFlBVThqVHdHNW1HcVFOS2duOWNSdEFkLUpxNFVyeU90cGk3c2hMc3VDTUYwX2c4OU96UGhpdkRwcmpzR24yNkpnbVdjZTZ2SWNrQjNWaVpXV29OVkVIdEF6ZWc?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Would You Like $3,000 in Passive Income Each Year? Buy 2,239 Shares of This Top High-Yield Dividend Stock.",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOaTd1U3FHald1V21sT2tBQlVYekVWcmJRX2lwRU1pNXR6U2tYbGJ4Ul9VSHBBa3lseFlBVThqVHdHNW1HcVFOS2duOWNSdEFkLUpxNFVyeU90cGk3c2hMc3VDTUYwX2c4OU96UGhpdkRwcmpzR24yNkpnbVdjZTZ2SWNrQjNWaVpXV29OVkVIdEF6ZWc?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "2 Goldman Sachs ETFs Offering 8%+ Passive Income and Double-Digit Upside",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQaEE1cWJ2V3ByYkhheVFrOEw3SXJQSC1wbi1tdWhWSGRfdFpZcFEwSzZkR2NMR0RaLTd2Z3UwOHNVYzZzTFdqM1lfRzlKbnVhVnM4QVZYWnNybC1BdXg1cUhUSDQ3UzFYenVwQ3ZxVGcyNHlxME5PTUd1akNwU19aSmRqc3JiQTBnYWhGMmgyY0k2T2NwU2h6SUJ1YUUwaWxlYkE?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "00cf141f881d",
+      "slug": "income"
+    },
+    {
+      "keyword": "curtis wilson",
+      "count": 8,
+      "score": 103.00048238987314,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "Happy Canada Day!The Indigenous flag was designed by artist Curtis Wilson (d 2019). The renowned artist was born and raised in the Ligwilda’xw territories and he was a member of the Wei Wai Kum First ",
+          "url": "https://mstdn.ca/@cardamomaddict/116845235313626310",
+          "source": "mastodon"
+        },
+        {
+          "title": "Happy Canada Day!The Indigenous flag was designed by artist Curtis Wilson (d 2019). The renowned artist was born and raised in the Ligwilda’xw territories and he was a member of the Wei Wai Kum First ",
+          "url": "https://mstdn.ca/@cardamomaddict/116845235313626310",
+          "source": "mastodon"
+        }
+      ],
+      "id": "a4b43334adc6",
+      "slug": "curtis-wilson"
     },
     {
       "keyword": "sony deletes",
       "count": 8,
-      "score": 80.11621749791033,
+      "score": 102.10424995831431,
       "proper": true,
       "niches": [
         "ai"
@@ -613,32 +442,232 @@
       "slug": "sony-deletes"
     },
     {
-      "keyword": "creative workflow",
+      "keyword": "claude fable",
       "count": 8,
-      "score": 71.8398441137239,
+      "score": 101.58654715984923,
       "proper": true,
       "niches": [
         "ai"
       ],
       "examples": [
         {
-          "title": "AI Music Video Generation: 10 Tools That Automate Your Creative Workflow in 2026",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNaW5uSU9UcEdsNkxTUlBRVWk1ZTR1Q2JqTWVRLXhwN0xjaHdVSXpvNHk0elNIeHNIV2F2MEtSSENwMEVTUjU0ZDNxWDRIX0NoV195c1U4LV80SWxXcV9FYm5JeFAzeWstR2J6LXdrV0F1Uy0weHpreWplZzYwbE9ZdVgtUlRjRzI3V0l6MWZ0RUF2U0RuMXE5aWRqYldCa1pvaWkxMGxUdDZRRVZRNU02cTNUbWZzRTB1Z1VLbWl1MzdUaXFEV2hvV0E4Rlh3SG9JU2c?oc=5",
+          "title": "Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5",
+          "url": "https://twitter.com/AnthropicAI/status/2072106151890809341",
+          "source": "hackernews"
+        },
+        {
+          "title": "Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5",
+          "url": "https://twitter.com/AnthropicAI/status/2072106151890809341",
+          "source": "hackernews"
+        }
+      ],
+      "id": "ced86039c0ad",
+      "slug": "claude-fable"
+    },
+    {
+      "keyword": "productivity apps",
+      "count": 36,
+      "score": 99.43780146991202,
+      "proper": false,
+      "niches": [
+        "software",
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "Top Chromebook Productivity Apps 2026",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNd01iY0c5X2FyTS1YaTJQdmtUazdHOTRCUjlVeWw3SmRxQmdWaF9jUHhveDNDdTZxMW1NNS1zOGdTWUpkV2dxU3NuYTU5OWtRNUk4eUwwVno0SmxfRHZvMHFSTVg0VXpWWlNTTHl0cGdMbXhtdE5oOGcwNDBfUVRvSDRjOC1WR2hLemRPUjA0NA?oc=5",
           "source": "gnews"
         },
         {
-          "title": "AI Music Video Generation: 10 Tools That Automate Your Creative Workflow in 2026",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNaW5uSU9UcEdsNkxTUlBRVWk1ZTR1Q2JqTWVRLXhwN0xjaHdVSXpvNHk0elNIeHNIV2F2MEtSSENwMEVTUjU0ZDNxWDRIX0NoV195c1U4LV80SWxXcV9FYm5JeFAzeWstR2J6LXdrV0F1Uy0weHpreWplZzYwbE9ZdVgtUlRjRzI3V0l6MWZ0RUF2U0RuMXE5aWRqYldCa1pvaWkxMGxUdDZRRVZRNU02cTNUbWZzRTB1Z1VLbWl1MzdUaXFEV2hvV0E4Rlh3SG9JU2c?oc=5",
+          "title": "Top Chromebook Productivity Apps 2026",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNd01iY0c5X2FyTS1YaTJQdmtUazdHOTRCUjlVeWw3SmRxQmdWaF9jUHhveDNDdTZxMW1NNS1zOGdTWUpkV2dxU3NuYTU5OWtRNUk4eUwwVno0SmxfRHZvMHFSTVg0VXpWWlNTTHl0cGdMbXhtdE5oOGcwNDBfUVRvSDRjOC1WR2hLemRPUjA0NA?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "10 Best AI Productivity Apps in 2026 (Categorized Guide)",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ldGkwQm9Vblo4TmY5TWFzVGlIWGdlZGl5VUxPN3BGMkdhZGhIWmFFVm5xelVVSEtwNEExS09nX2NPLWZDdEI4WWsxd1FFS2gwR3RzQTRwaWRyWEE3cVlV0gFfQVVfeXFMT2V0aTBCb1VuWjhOZjlNYXNUaUhYZ2VkaXlVTE83cEYyR2FkaEhaYUVWbnF6VVVIS3A0QTFLT2dfY08tZkN0QjhZazF3UUVLaDBHdHNBNHBpZHJYQTdxWVU?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "10 Best AI Productivity Apps in 2026 (Categorized Guide)",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ldGkwQm9Vblo4TmY5TWFzVGlIWGdlZGl5VUxPN3BGMkdhZGhIWmFFVm5xelVVSEtwNEExS09nX2NPLWZDdEI4WWsxd1FFS2gwR3RzQTRwaWRyWEE3cVlV0gFfQVVfeXFMT2V0aTBCb1VuWjhOZjlNYXNUaUhYZ2VkaXlVTE83cEYyR2FkaEhaYUVWbnF6VVVIS3A0QTFLT2dfY08tZkN0QjhZazF3UUVLaDBHdHNBNHBpZHJYQTdxWVU?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Why I ditched paid productivity apps for this free open-source alternative - How-To Geek",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTE9jOUhlQl9jazRtcXBDdERaa3FWaFNnV3dzZ1NkbTE2ckZhbGVaTTdFck4xMW50QktnbUFoS183YzJWcUprSTJEbjhYUkR0NlJmaWhZM0d4QkdaREhnV3JXMkZ2NktjWl9xTHNoWjVVbE85cnhKSTdvOWRkaGI5cGFRU01aSWF6V0tMVTdpY2R5ck5LYUF3ZzdqMUZLQQ?oc=5",
           "source": "gnews"
         }
       ],
-      "id": "718125b2ead5",
-      "slug": "creative-workflow"
+      "id": "c3d816ac2a46",
+      "slug": "productivity-apps"
+    },
+    {
+      "keyword": "yield dividend stock",
+      "count": 10,
+      "score": 89.26758646943736,
+      "proper": true,
+      "niches": [
+        "finance"
+      ],
+      "examples": [
+        {
+          "title": "Would You Like $3,000 in Passive Income Each Year? Buy 2,239 Shares of This Top High-Yield Dividend Stock.",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNams2eGFnUG96bDU0c0oybVVnYW9RemtseXVYY294WlA2aERPQm9SSXU3YkRaVmV3Y0hxQXdIQ25tYXhzUU5aa3B1X3BIR0tVZUo5dnQ0QUtFOXJqT0VHSUh5NHp2VW9MT3pJT1RNaERIM3lVRkhBeHh0R0laMVJneXRRQXAtZ1g0VlM4MnZlN19SOEZZd3ZrdA?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Would You Like $3,000 in Passive Income Each Year? Buy 2,239 Shares of This Top High-Yield Dividend Stock.",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOaTd1U3FHald1V21sT2tBQlVYekVWcmJRX2lwRU1pNXR6U2tYbGJ4Ul9VSHBBa3lseFlBVThqVHdHNW1HcVFOS2duOWNSdEFkLUpxNFVyeU90cGk3c2hMc3VDTUYwX2c4OU96UGhpdkRwcmpzR24yNkpnbVdjZTZ2SWNrQjNWaVpXV29OVkVIdEF6ZWc?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "0298a33ec5ac",
+      "slug": "yield-dividend-stock"
+    },
+    {
+      "keyword": "software gains",
+      "count": 11,
+      "score": 85.15498763480204,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "Software Gains as Guggenheim Says AI No Sector ‘Death Knell’",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxON2xDa1dZcXRMUVZCbDRSQnZVYUYzcWJ2VjBUeEg4cThvc3VqeGdxbWRYU2VuLThhTTZoNVo5RWY3YnNNQktVcmNteVczbmFTb2ltemdUXzVmVlBhNXNkYXliUVR4Q0hiQ0I1MGNOaXU0c18zZmJVUG91cjVRWUtnSFZ5MVZpTTI3SmpucVBiX0RUdzhHY2x6ZGh0djR2TG1NNGlQMDRjZHVpU195OVU5blYyQQ?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Software Gains as Guggenheim Says AI No Sector ‘Death Knell’",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxON2xDa1dZcXRMUVZCbDRSQnZVYUYzcWJ2VjBUeEg4cThvc3VqeGdxbWRYU2VuLThhTTZoNVo5RWY3YnNNQktVcmNteVczbmFTb2ltemdUXzVmVlBhNXNkYXliUVR4Q0hiQ0I1MGNOaXU0c18zZmJVUG91cjVRWUtnSFZ5MVZpTTI3SmpucVBiX0RUdzhHY2x6ZGh0djR2TG1NNGlQMDRjZHVpU195OVU5blYyQQ?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Software Gains as Guggenheim Says AI No Sector ‘Death Knell’",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxON2xDa1dZcXRMUVZCbDRSQnZVYUYzcWJ2VjBUeEg4cThvc3VqeGdxbWRYU2VuLThhTTZoNVo5RWY3YnNNQktVcmNteVczbmFTb2ltemdUXzVmVlBhNXNkYXliUVR4Q0hiQ0I1MGNOaXU0c18zZmJVUG91cjVRWUtnSFZ5MVZpTTI3SmpucVBiX0RUdzhHY2x6ZGh0djR2TG1NNGlQMDRjZHVpU195OVU5blYyQQ?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "4ccedb402a6a",
+      "slug": "software-gains"
+    },
+    {
+      "keyword": "death knell",
+      "count": 11,
+      "score": 85.15498763480204,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "Software Gains as Guggenheim Says AI No Sector ‘Death Knell’",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxON2xDa1dZcXRMUVZCbDRSQnZVYUYzcWJ2VjBUeEg4cThvc3VqeGdxbWRYU2VuLThhTTZoNVo5RWY3YnNNQktVcmNteVczbmFTb2ltemdUXzVmVlBhNXNkYXliUVR4Q0hiQ0I1MGNOaXU0c18zZmJVUG91cjVRWUtnSFZ5MVZpTTI3SmpucVBiX0RUdzhHY2x6ZGh0djR2TG1NNGlQMDRjZHVpU195OVU5blYyQQ?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Software Gains as Guggenheim Says AI No Sector ‘Death Knell’",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxON2xDa1dZcXRMUVZCbDRSQnZVYUYzcWJ2VjBUeEg4cThvc3VqeGdxbWRYU2VuLThhTTZoNVo5RWY3YnNNQktVcmNteVczbmFTb2ltemdUXzVmVlBhNXNkYXliUVR4Q0hiQ0I1MGNOaXU0c18zZmJVUG91cjVRWUtnSFZ5MVZpTTI3SmpucVBiX0RUdzhHY2x6ZGh0djR2TG1NNGlQMDRjZHVpU195OVU5blYyQQ?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Software Gains as Guggenheim Says AI No Sector ‘Death Knell’",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxON2xDa1dZcXRMUVZCbDRSQnZVYUYzcWJ2VjBUeEg4cThvc3VqeGdxbWRYU2VuLThhTTZoNVo5RWY3YnNNQktVcmNteVczbmFTb2ltemdUXzVmVlBhNXNkYXliUVR4Q0hiQ0I1MGNOaXU0c18zZmJVUG91cjVRWUtnSFZ5MVZpTTI3SmpucVBiX0RUdzhHY2x6ZGh0djR2TG1NNGlQMDRjZHVpU195OVU5blYyQQ?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "3696179bc9dd",
+      "slug": "death-knell"
+    },
+    {
+      "keyword": "2026 _blank",
+      "count": 24,
+      "score": 76.15565371430591,
+      "proper": false,
+      "niches": [
+        "finance",
+        "software",
+        "gear",
+        "general"
+      ],
+      "examples": [
+        {
+          "title": "Best Budgeting Apps Of 2026",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA3eVJUSVFBWHFLenE1MGJwZW5JXzlBbVlsRUtRbnY4Zk51X1l3R2JVSFRrbmhWZUs3OEdVUmx6cmpFNjVyUFFVRWk5N1MzYy1uSTFWVVJ0OGdTNjgtV1RUU3NibThsQm11c1pGNFl4QXhkZw?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Top Chromebook Productivity Apps 2026",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNd01iY0c5X2FyTS1YaTJQdmtUazdHOTRCUjlVeWw3SmRxQmdWaF9jUHhveDNDdTZxMW1NNS1zOGdTWUpkV2dxU3NuYTU5OWtRNUk4eUwwVno0SmxfRHZvMHFSTVg0VXpWWlNTTHl0cGdMbXhtdE5oOGcwNDBfUVRvSDRjOC1WR2hLemRPUjA0NA?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Top tech of the month: the best new gadgets we've tested for July 2026",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdlJxVHc3c2ZtWENMeDhFTDQ2R1VMYzlWMFJFTW5PekdhYTdBOEZJNmNVeUhWUmp3X2tjRWhZcEo5N3czVmdtY0JzUmlCVWtNT2FlUVZHTXdwUExWdV9LajhZVHRVMTZkdzNpSkhTRi1Tb3IzenJoZFhfOW5BNlJDaU1TbFVjRG1oNGhoa3dLdFYzaGp4M2dyZTFqNEx6VnFx?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "The Best Gadgets of June 2026",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA1cHRyVHlmemVpN3lnc09ocDBYc1RJa2xzbjVBWEs5VElLT29mRzFubnNxLVlhbF9aQVB6M0RLcVhKbnFITVFqaFlhVFVtYjZ5dkwtWW5YUDFEYThJOEE0YlNpbw?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "The Best Productivity Apps for 2026",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBlUkl4VnlMUjNqT0VwYXhHSzNWZ2dtcDAxUEpGVHlkSE1KZ3hMWHZKVzlhOWpTLTJOMGxMVHBnN0lRTnAwUzRCLTdoQjRUNThsLXdQOUlzYjc3eU14YmR0S1FVMWctZmdkdTVSRzNSczJ0Y1BsRVE?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "436796f27eb8",
+      "slug": "2026-_blank"
+    },
+    {
+      "keyword": "2026 6f6f6f",
+      "count": 24,
+      "score": 76.15565371430591,
+      "proper": false,
+      "niches": [
+        "finance",
+        "software",
+        "gear",
+        "general"
+      ],
+      "examples": [
+        {
+          "title": "Best Budgeting Apps Of 2026",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA3eVJUSVFBWHFLenE1MGJwZW5JXzlBbVlsRUtRbnY4Zk51X1l3R2JVSFRrbmhWZUs3OEdVUmx6cmpFNjVyUFFVRWk5N1MzYy1uSTFWVVJ0OGdTNjgtV1RUU3NibThsQm11c1pGNFl4QXhkZw?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Top Chromebook Productivity Apps 2026",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNd01iY0c5X2FyTS1YaTJQdmtUazdHOTRCUjlVeWw3SmRxQmdWaF9jUHhveDNDdTZxMW1NNS1zOGdTWUpkV2dxU3NuYTU5OWtRNUk4eUwwVno0SmxfRHZvMHFSTVg0VXpWWlNTTHl0cGdMbXhtdE5oOGcwNDBfUVRvSDRjOC1WR2hLemRPUjA0NA?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Top tech of the month: the best new gadgets we've tested for July 2026",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdlJxVHc3c2ZtWENMeDhFTDQ2R1VMYzlWMFJFTW5PekdhYTdBOEZJNmNVeUhWUmp3X2tjRWhZcEo5N3czVmdtY0JzUmlCVWtNT2FlUVZHTXdwUExWdV9LajhZVHRVMTZkdzNpSkhTRi1Tb3IzenJoZFhfOW5BNlJDaU1TbFVjRG1oNGhoa3dLdFYzaGp4M2dyZTFqNEx6VnFx?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "The Best Gadgets of June 2026",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA1cHRyVHlmemVpN3lnc09ocDBYc1RJa2xzbjVBWEs5VElLT29mRzFubnNxLVlhbF9aQVB6M0RLcVhKbnFITVFqaFlhVFVtYjZ5dkwtWW5YUDFEYThJOEE0YlNpbw?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "The Best Productivity Apps for 2026",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBlUkl4VnlMUjNqT0VwYXhHSzNWZ2dtcDAxUEpGVHlkSE1KZ3hMWHZKVzlhOWpTLTJOMGxMVHBnN0lRTnAwUzRCLTdoQjRUNThsLXdQOUlzYjc3eU14YmR0S1FVMWctZmdkdTVSRzNSczJ0Y1BsRVE?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "819223dcf234",
+      "slug": "2026-6f6f6f"
     },
     {
       "keyword": "includes shadowrocket",
       "count": 8,
-      "score": 71.06611594360105,
+      "score": 72.69203472624447,
       "proper": true,
       "niches": [
         "ai"
@@ -659,332 +688,350 @@
       "slug": "includes-shadowrocket"
     },
     {
-      "keyword": "categorized guide",
-      "count": 11,
-      "score": 64.71779060244955,
-      "proper": true,
+      "keyword": "000 passive",
+      "count": 12,
+      "score": 71.41406917554988,
+      "proper": false,
       "niches": [
-        "ai"
+        "finance"
       ],
       "examples": [
         {
-          "title": "10 Best AI Productivity Apps in 2026 (Categorized Guide)",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ldGkwQm9Vblo4TmY5TWFzVGlIWGdlZGl5VUxPN3BGMkdhZGhIWmFFVm5xelVVSEtwNEExS09nX2NPLWZDdEI4WWsxd1FFS2gwR3RzQTRwaWRyWEE3cVlV0gFfQVVfeXFMT2V0aTBCb1VuWjhOZjlNYXNUaUhYZ2VkaXlVTE83cEYyR2FkaEhaYUVWbnF6VVVIS3A0QTFLT2dfY08tZkN0QjhZazF3UUVLaDBHdHNBNHBpZHJYQTdxWVU?oc=5",
+          "title": "Would You Like $3,000 in Passive Income Each Year? Buy 2,239 Shares of This Top High-Yield Dividend Stock.",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNams2eGFnUG96bDU0c0oybVVnYW9RemtseXVYY294WlA2aERPQm9SSXU3YkRaVmV3Y0hxQXdIQ25tYXhzUU5aa3B1X3BIR0tVZUo5dnQ0QUtFOXJqT0VHSUh5NHp2VW9MT3pJT1RNaERIM3lVRkhBeHh0R0laMVJneXRRQXAtZ1g0VlM4MnZlN19SOEZZd3ZrdA?oc=5",
           "source": "gnews"
         },
         {
-          "title": "10 Best AI Productivity Apps in 2026 (Categorized Guide)",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ldGkwQm9Vblo4TmY5TWFzVGlIWGdlZGl5VUxPN3BGMkdhZGhIWmFFVm5xelVVSEtwNEExS09nX2NPLWZDdEI4WWsxd1FFS2gwR3RzQTRwaWRyWEE3cVlV0gFfQVVfeXFMT2V0aTBCb1VuWjhOZjlNYXNUaUhYZ2VkaXlVTE83cEYyR2FkaEhaYUVWbnF6VVVIS3A0QTFLT2dfY08tZkN0QjhZazF3UUVLaDBHdHNBNHBpZHJYQTdxWVU?oc=5",
+          "title": "Would You Like $3,000 in Passive Income Each Year? Buy 2,239 Shares of This Top High-Yield Dividend Stock.",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNams2eGFnUG96bDU0c0oybVVnYW9RemtseXVYY294WlA2aERPQm9SSXU3YkRaVmV3Y0hxQXdIQ25tYXhzUU5aa3B1X3BIR0tVZUo5dnQ0QUtFOXJqT0VHSUh5NHp2VW9MT3pJT1RNaERIM3lVRkhBeHh0R0laMVJneXRRQXAtZ1g0VlM4MnZlN19SOEZZd3ZrdA?oc=5",
           "source": "gnews"
         },
         {
-          "title": "10 Best AI Productivity Apps in 2026 (Categorized Guide)",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ldGkwQm9Vblo4TmY5TWFzVGlIWGdlZGl5VUxPN3BGMkdhZGhIWmFFVm5xelVVSEtwNEExS09nX2NPLWZDdEI4WWsxd1FFS2gwR3RzQTRwaWRyWEE3cVlV0gFfQVVfeXFMT2V0aTBCb1VuWjhOZjlNYXNUaUhYZ2VkaXlVTE83cEYyR2FkaEhaYUVWbnF6VVVIS3A0QTFLT2dfY08tZkN0QjhZazF3UUVLaDBHdHNBNHBpZHJYQTdxWVU?oc=5",
+          "title": "Would You Like $3,000 in Passive Income Each Year? Buy 2,239 Shares of This Top High-Yield Dividend Stock.",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOaTd1U3FHald1V21sT2tBQlVYekVWcmJRX2lwRU1pNXR6U2tYbGJ4Ul9VSHBBa3lseFlBVThqVHdHNW1HcVFOS2duOWNSdEFkLUpxNFVyeU90cGk3c2hMc3VDTUYwX2c4OU96UGhpdkRwcmpzR24yNkpnbVdjZTZ2SWNrQjNWaVpXV29OVkVIdEF6ZWc?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Would You Like $3,000 in Passive Income Each Year? Buy 2,239 Shares of This Top High-Yield Dividend Stock.",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOaTd1U3FHald1V21sT2tBQlVYekVWcmJRX2lwRU1pNXR6U2tYbGJ4Ul9VSHBBa3lseFlBVThqVHdHNW1HcVFOS2duOWNSdEFkLUpxNFVyeU90cGk3c2hMc3VDTUYwX2c4OU96UGhpdkRwcmpzR24yNkpnbVdjZTZ2SWNrQjNWaVpXV29OVkVIdEF6ZWc?oc=5",
           "source": "gnews"
         }
       ],
-      "id": "bc2fed6e3e62",
-      "slug": "categorized-guide"
+      "id": "b2e7a5f25ce5",
+      "slug": "000-passive"
     },
     {
-      "keyword": "palo alto",
-      "count": 8,
-      "score": 64.40813610195937,
-      "proper": true,
+      "keyword": "income buy",
+      "count": 12,
+      "score": 71.41406917554988,
+      "proper": false,
       "niches": [
-        "ai"
+        "finance"
       ],
       "examples": [
         {
-          "title": "Palo Alto, CrowdStrike both have best quarter ever as AI threats bolster cyber demand",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9JNFBZYkxMQ3ZEQmozT1RxZVdqTTBlUFJnckM0dnJ3cDJlMkZLMnpwXzdWNHFReE9oaVgySWRfTmxPUG5CMEZWeDFmWUtSanJMUk02aE1hQWIzY2lPX0VRN1dPN1RYaUJIRXVKOUFzSDh6S3c4SW93b1A0aFhHOHfSAYQBQVVfeXFMUGNFdk5HaDVPR1lnamFsNF9PbEduTTgxd1pBbDZUdFJIVDhvY1gzcGFIMTlrWUNDLUt1RWV1WDFZa3lqZ0tUMGtTZVVCWG1XUFM5eHVhYlhPcWxoMjVmNjhHak9TZlkwaktIY2x1MkZpOE9ZdnpTMkhqSnF5WFJGWHNsTHVU?oc=5",
+          "title": "Would You Like $3,000 in Passive Income Each Year? Buy 2,239 Shares of This Top High-Yield Dividend Stock.",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNams2eGFnUG96bDU0c0oybVVnYW9RemtseXVYY294WlA2aERPQm9SSXU3YkRaVmV3Y0hxQXdIQ25tYXhzUU5aa3B1X3BIR0tVZUo5dnQ0QUtFOXJqT0VHSUh5NHp2VW9MT3pJT1RNaERIM3lVRkhBeHh0R0laMVJneXRRQXAtZ1g0VlM4MnZlN19SOEZZd3ZrdA?oc=5",
           "source": "gnews"
         },
         {
-          "title": "Palo Alto, CrowdStrike both have best quarter ever as AI threats bolster cyber demand",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9JNFBZYkxMQ3ZEQmozT1RxZVdqTTBlUFJnckM0dnJ3cDJlMkZLMnpwXzdWNHFReE9oaVgySWRfTmxPUG5CMEZWeDFmWUtSanJMUk02aE1hQWIzY2lPX0VRN1dPN1RYaUJIRXVKOUFzSDh6S3c4SW93b1A0aFhHOHfSAYQBQVVfeXFMUGNFdk5HaDVPR1lnamFsNF9PbEduTTgxd1pBbDZUdFJIVDhvY1gzcGFIMTlrWUNDLUt1RWV1WDFZa3lqZ0tUMGtTZVVCWG1XUFM5eHVhYlhPcWxoMjVmNjhHak9TZlkwaktIY2x1MkZpOE9ZdnpTMkhqSnF5WFJGWHNsTHVU?oc=5",
+          "title": "Would You Like $3,000 in Passive Income Each Year? Buy 2,239 Shares of This Top High-Yield Dividend Stock.",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNams2eGFnUG96bDU0c0oybVVnYW9RemtseXVYY294WlA2aERPQm9SSXU3YkRaVmV3Y0hxQXdIQ25tYXhzUU5aa3B1X3BIR0tVZUo5dnQ0QUtFOXJqT0VHSUh5NHp2VW9MT3pJT1RNaERIM3lVRkhBeHh0R0laMVJneXRRQXAtZ1g0VlM4MnZlN19SOEZZd3ZrdA?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Would You Like $3,000 in Passive Income Each Year? Buy 2,239 Shares of This Top High-Yield Dividend Stock.",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOaTd1U3FHald1V21sT2tBQlVYekVWcmJRX2lwRU1pNXR6U2tYbGJ4Ul9VSHBBa3lseFlBVThqVHdHNW1HcVFOS2duOWNSdEFkLUpxNFVyeU90cGk3c2hMc3VDTUYwX2c4OU96UGhpdkRwcmpzR24yNkpnbVdjZTZ2SWNrQjNWaVpXV29OVkVIdEF6ZWc?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Would You Like $3,000 in Passive Income Each Year? Buy 2,239 Shares of This Top High-Yield Dividend Stock.",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOaTd1U3FHald1V21sT2tBQlVYekVWcmJRX2lwRU1pNXR6U2tYbGJ4Ul9VSHBBa3lseFlBVThqVHdHNW1HcVFOS2duOWNSdEFkLUpxNFVyeU90cGk3c2hMc3VDTUYwX2c4OU96UGhpdkRwcmpzR24yNkpnbVdjZTZ2SWNrQjNWaVpXV29OVkVIdEF6ZWc?oc=5",
           "source": "gnews"
         }
       ],
-      "id": "41a1b0e1074a",
-      "slug": "palo-alto"
+      "id": "4100cd514d68",
+      "slug": "income-buy"
     }
   ],
   "opportunities": [
     {
-      "keyword": "schneider electric",
-      "count": 17,
-      "score": 126.6486907004874,
+      "keyword": "passive income",
+      "count": 58,
+      "score": 322.3793651197079,
       "proper": true,
       "niches": [
-        "ai"
+        "finance"
       ],
       "examples": [
         {
-          "title": "Schneider Electric Buys Cognite in $3.1 Billion AI Software Deal",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOTAtZldkMFRXel81Z2xnMlJKbEFLQlUzM0hzMDRrMEtFVHV4cnhZN09IM2RKRE1tT2NmajVfR0xZd0oxWnBvTGZPTS1DQmZOSTNwNDVwME9JU08ta1ZpU2YxOERuWVVzQlktSTlObEdjQ29SeGxWVUZJS25UUE1zeHBMLVBibHdjQ0ljUWI5N0hlek5oTEk3WjFwaldDQQ?oc=5",
+          "title": "Would You Like $3,000 in Passive Income Each Year? Buy 2,239 Shares of This Top High-Yield Dividend Stock.",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNams2eGFnUG96bDU0c0oybVVnYW9RemtseXVYY294WlA2aERPQm9SSXU3YkRaVmV3Y0hxQXdIQ25tYXhzUU5aa3B1X3BIR0tVZUo5dnQ0QUtFOXJqT0VHSUh5NHp2VW9MT3pJT1RNaERIM3lVRkhBeHh0R0laMVJneXRRQXAtZ1g0VlM4MnZlN19SOEZZd3ZrdA?oc=5",
           "source": "gnews"
         },
         {
-          "title": "Schneider Electric Buys Cognite in $3.1 Billion AI Software Deal",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOTAtZldkMFRXel81Z2xnMlJKbEFLQlUzM0hzMDRrMEtFVHV4cnhZN09IM2RKRE1tT2NmajVfR0xZd0oxWnBvTGZPTS1DQmZOSTNwNDVwME9JU08ta1ZpU2YxOERuWVVzQlktSTlObEdjQ29SeGxWVUZJS25UUE1zeHBMLVBibHdjQ0ljUWI5N0hlek5oTEk3WjFwaldDQQ?oc=5",
+          "title": "Would You Like $3,000 in Passive Income Each Year? Buy 2,239 Shares of This Top High-Yield Dividend Stock.",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNams2eGFnUG96bDU0c0oybVVnYW9RemtseXVYY294WlA2aERPQm9SSXU3YkRaVmV3Y0hxQXdIQ25tYXhzUU5aa3B1X3BIR0tVZUo5dnQ0QUtFOXJqT0VHSUh5NHp2VW9MT3pJT1RNaERIM3lVRkhBeHh0R0laMVJneXRRQXAtZ1g0VlM4MnZlN19SOEZZd3ZrdA?oc=5",
           "source": "gnews"
         },
         {
-          "title": "Schneider Electric to buy AI software firm Cognite for $3.1 billion",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTTdJSkpnY0JpeXZkOXZ0aXZKZ3B0UjFVZ3AzU1JUUUpLdkhUQXc0VzdwVkFwZV9Hc3ZydFFwNUVBbEVFeko1aHFZc2RkZ0NTN0gzcDFXQVhYcUhtd0NGcUxhVnFOVzNoY1dVNDhSb1VNVjZfYjZzWGk3dWJlYkttenFjTUd4MFkwWUFkelctNi1GQjhtajVLcEtyM290SW5mbUpQWGtR?oc=5",
+          "title": "Would You Like $3,000 in Passive Income Each Year? Buy 2,239 Shares of This Top High-Yield Dividend Stock.",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOaTd1U3FHald1V21sT2tBQlVYekVWcmJRX2lwRU1pNXR6U2tYbGJ4Ul9VSHBBa3lseFlBVThqVHdHNW1HcVFOS2duOWNSdEFkLUpxNFVyeU90cGk3c2hMc3VDTUYwX2c4OU96UGhpdkRwcmpzR24yNkpnbVdjZTZ2SWNrQjNWaVpXV29OVkVIdEF6ZWc?oc=5",
           "source": "gnews"
         },
         {
-          "title": "Schneider Electric to buy AI software firm Cognite for $3.1 billion",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTTdJSkpnY0JpeXZkOXZ0aXZKZ3B0UjFVZ3AzU1JUUUpLdkhUQXc0VzdwVkFwZV9Hc3ZydFFwNUVBbEVFeko1aHFZc2RkZ0NTN0gzcDFXQVhYcUhtd0NGcUxhVnFOVzNoY1dVNDhSb1VNVjZfYjZzWGk3dWJlYkttenFjTUd4MFkwWUFkelctNi1GQjhtajVLcEtyM290SW5mbUpQWGtR?oc=5",
+          "title": "Would You Like $3,000 in Passive Income Each Year? Buy 2,239 Shares of This Top High-Yield Dividend Stock.",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOaTd1U3FHald1V21sT2tBQlVYekVWcmJRX2lwRU1pNXR6U2tYbGJ4Ul9VSHBBa3lseFlBVThqVHdHNW1HcVFOS2duOWNSdEFkLUpxNFVyeU90cGk3c2hMc3VDTUYwX2c4OU96UGhpdkRwcmpzR24yNkpnbVdjZTZ2SWNrQjNWaVpXV29OVkVIdEF6ZWc?oc=5",
           "source": "gnews"
         },
         {
-          "title": "Schneider Electric to buy AI software firm Cognite for $3.1 billion",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTTdJSkpnY0JpeXZkOXZ0aXZKZ3B0UjFVZ3AzU1JUUUpLdkhUQXc0VzdwVkFwZV9Hc3ZydFFwNUVBbEVFeko1aHFZc2RkZ0NTN0gzcDFXQVhYcUhtd0NGcUxhVnFOVzNoY1dVNDhSb1VNVjZfYjZzWGk3dWJlYkttenFjTUd4MFkwWUFkelctNi1GQjhtajVLcEtyM290SW5mbUpQWGtR?oc=5",
+          "title": "2 Goldman Sachs ETFs Offering 8%+ Passive Income and Double-Digit Upside",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQaEE1cWJ2V3ByYkhheVFrOEw3SXJQSC1wbi1tdWhWSGRfdFpZcFEwSzZkR2NMR0RaLTd2Z3UwOHNVYzZzTFdqM1lfRzlKbnVhVnM4QVZYWnNybC1BdXg1cUhUSDQ3UzFYenVwQ3ZxVGcyNHlxME5PTUd1akNwU19aSmRqc3JiQTBnYWhGMmgyY0k2T2NwU2h6SUJ1YUUwaWxlYkE?oc=5",
           "source": "gnews"
         }
       ],
-      "id": "bc3067ac45df",
-      "slug": "schneider-electric",
+      "id": "cf2dbbbf8c8c",
+      "slug": "passive-income",
       "opportunity": {
         "type": "niche-content",
-        "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
+        "recommended": "Publish niche guide for \"finance\"; bundle into digital product later."
       }
     },
     {
-      "keyword": "claude code",
-      "count": 8,
-      "score": 109.53559218899125,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "Claude Code is steganographically marking requests",
-          "url": "https://thereallo.dev/blog/claude-code-prompt-steganography",
-          "source": "hackernews"
-        },
-        {
-          "title": "Claude Code is steganographically marking requests",
-          "url": "https://thereallo.dev/blog/claude-code-prompt-steganography",
-          "source": "hackernews"
-        }
-      ],
-      "id": "a625159d18da",
-      "slug": "claude-code",
-      "opportunity": {
-        "type": "tooling",
-        "recommended": "Build / list AI tools; monetize via affiliate links + lead magnet."
-      }
-    },
-    {
-      "keyword": "claude sonnet",
-      "count": 8,
-      "score": 105.41149483496412,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "Claude Sonnet 5",
-          "url": "https://www.anthropic.com/news/claude-sonnet-5",
-          "source": "hackernews"
-        },
-        {
-          "title": "Claude Sonnet 5",
-          "url": "https://www.anthropic.com/news/claude-sonnet-5",
-          "source": "hackernews"
-        }
-      ],
-      "id": "28d031c22bf1",
-      "slug": "claude-sonnet",
-      "opportunity": {
-        "type": "tooling",
-        "recommended": "Build / list AI tools; monetize via affiliate links + lead magnet."
-      }
-    },
-    {
-      "keyword": "cognite billion",
-      "count": 18,
-      "score": 92.89635014705678,
+      "keyword": "apps 2026",
+      "count": 24,
+      "score": 121.75227891148631,
       "proper": false,
       "niches": [
+        "finance",
+        "software",
         "ai"
       ],
       "examples": [
         {
-          "title": "Schneider Electric Buys Cognite in $3.1 Billion AI Software Deal",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOTAtZldkMFRXel81Z2xnMlJKbEFLQlUzM0hzMDRrMEtFVHV4cnhZN09IM2RKRE1tT2NmajVfR0xZd0oxWnBvTGZPTS1DQmZOSTNwNDVwME9JU08ta1ZpU2YxOERuWVVzQlktSTlObEdjQ29SeGxWVUZJS25UUE1zeHBMLVBibHdjQ0ljUWI5N0hlek5oTEk3WjFwaldDQQ?oc=5",
+          "title": "Best Budgeting Apps Of 2026",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA3eVJUSVFBWHFLenE1MGJwZW5JXzlBbVlsRUtRbnY4Zk51X1l3R2JVSFRrbmhWZUs3OEdVUmx6cmpFNjVyUFFVRWk5N1MzYy1uSTFWVVJ0OGdTNjgtV1RUU3NibThsQm11c1pGNFl4QXhkZw?oc=5",
           "source": "gnews"
         },
         {
-          "title": "Schneider Electric Buys Cognite in $3.1 Billion AI Software Deal",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOTAtZldkMFRXel81Z2xnMlJKbEFLQlUzM0hzMDRrMEtFVHV4cnhZN09IM2RKRE1tT2NmajVfR0xZd0oxWnBvTGZPTS1DQmZOSTNwNDVwME9JU08ta1ZpU2YxOERuWVVzQlktSTlObEdjQ29SeGxWVUZJS25UUE1zeHBMLVBibHdjQ0ljUWI5N0hlek5oTEk3WjFwaldDQQ?oc=5",
+          "title": "Best Budgeting Apps Of 2026",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA3eVJUSVFBWHFLenE1MGJwZW5JXzlBbVlsRUtRbnY4Zk51X1l3R2JVSFRrbmhWZUs3OEdVUmx6cmpFNjVyUFFVRWk5N1MzYy1uSTFWVVJ0OGdTNjgtV1RUU3NibThsQm11c1pGNFl4QXhkZw?oc=5",
           "source": "gnews"
         },
         {
-          "title": "Schneider to Buy Industrial AI Firm Cognite for $3.1 Billion",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSXMzd2FHNjNoTzhhZDZWU3JyN3dXNG12Q1dnNUFhSXZLMEZEdXl4eFV6bGp4YUFMUlRSVzEwRkJjOHZtTTZKUjB1Q1U0ZURxSVlxeEFLNUVKQ0RyZVRXRElBemczNlQyY054c2FGa3lpODVGSnZFaERlazBBM0VTZnZYQjZmWmV3R3Q0dXBwbFNQR19ZWXFpRmFQb1B1SlEteW1LYTZwMEVRdTNROFpJ?oc=5",
+          "title": "Top Chromebook Productivity Apps 2026",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNd01iY0c5X2FyTS1YaTJQdmtUazdHOTRCUjlVeWw3SmRxQmdWaF9jUHhveDNDdTZxMW1NNS1zOGdTWUpkV2dxU3NuYTU5OWtRNUk4eUwwVno0SmxfRHZvMHFSTVg0VXpWWlNTTHl0cGdMbXhtdE5oOGcwNDBfUVRvSDRjOC1WR2hLemRPUjA0NA?oc=5",
           "source": "gnews"
         },
         {
-          "title": "Schneider to Buy Industrial AI Firm Cognite for $3.1 Billion",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSXMzd2FHNjNoTzhhZDZWU3JyN3dXNG12Q1dnNUFhSXZLMEZEdXl4eFV6bGp4YUFMUlRSVzEwRkJjOHZtTTZKUjB1Q1U0ZURxSVlxeEFLNUVKQ0RyZVRXRElBemczNlQyY054c2FGa3lpODVGSnZFaERlazBBM0VTZnZYQjZmWmV3R3Q0dXBwbFNQR19ZWXFpRmFQb1B1SlEteW1LYTZwMEVRdTNROFpJ?oc=5",
+          "title": "Top Chromebook Productivity Apps 2026",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNd01iY0c5X2FyTS1YaTJQdmtUazdHOTRCUjlVeWw3SmRxQmdWaF9jUHhveDNDdTZxMW1NNS1zOGdTWUpkV2dxU3NuYTU5OWtRNUk4eUwwVno0SmxfRHZvMHFSTVg0VXpWWlNTTHl0cGdMbXhtdE5oOGcwNDBfUVRvSDRjOC1WR2hLemRPUjA0NA?oc=5",
           "source": "gnews"
         },
         {
-          "title": "Schneider Electric to buy AI software firm Cognite for $3.1 billion",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTTdJSkpnY0JpeXZkOXZ0aXZKZ3B0UjFVZ3AzU1JUUUpLdkhUQXc0VzdwVkFwZV9Hc3ZydFFwNUVBbEVFeko1aHFZc2RkZ0NTN0gzcDFXQVhYcUhtd0NGcUxhVnFOVzNoY1dVNDhSb1VNVjZfYjZzWGk3dWJlYkttenFjTUd4MFkwWUFkelctNi1GQjhtajVLcEtyM290SW5mbUpQWGtR?oc=5",
+          "title": "10 Best AI Productivity Apps in 2026 (Categorized Guide)",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ldGkwQm9Vblo4TmY5TWFzVGlIWGdlZGl5VUxPN3BGMkdhZGhIWmFFVm5xelVVSEtwNEExS09nX2NPLWZDdEI4WWsxd1FFS2gwR3RzQTRwaWRyWEE3cVlV0gFfQVVfeXFMT2V0aTBCb1VuWjhOZjlNYXNUaUhYZ2VkaXlVTE83cEYyR2FkaEhaYUVWbnF6VVVIS3A0QTFLT2dfY08tZkN0QjhZazF3UUVLaDBHdHNBNHBpZHJYQTdxWVU?oc=5",
           "source": "gnews"
         }
       ],
-      "id": "d8f11049d8f7",
-      "slug": "cognite-billion",
-      "opportunity": {
-        "type": "niche-content",
-        "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
-      }
-    },
-    {
-      "keyword": "claude science",
-      "count": 8,
-      "score": 89.99174939794308,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "Claude Science",
-          "url": "https://claude.com/product/claude-science",
-          "source": "hackernews"
-        },
-        {
-          "title": "Claude Science",
-          "url": "https://claude.com/product/claude-science",
-          "source": "hackernews"
-        }
-      ],
-      "id": "1c498f330553",
-      "slug": "claude-science",
-      "opportunity": {
-        "type": "tooling",
-        "recommended": "Build / list AI tools; monetize via affiliate links + lead magnet."
-      }
-    },
-    {
-      "keyword": "fitness gear",
-      "count": 33,
-      "score": 87.92252473293308,
-      "proper": true,
-      "niches": [
-        "gear"
-      ],
-      "examples": [
-        {
-          "title": "Fitness Gear on Sale for Early Prime Day",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSm9RdFNpc3JFU2NnaUxiaVk5dnp3b2RxcU04bmQyZ3RUMENITl92OG1kcTVMRGZ2dXh3THB6Y2toMmIwUEJsVzdXX2hXZjYtTVUyVjd4SFJtRGwwUGNjaks3UjdPYzRhNDgyTVJfNFRxcF91OEdiaXViUkJmQXJqdEs4bXU?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Fitness Gear on Sale for Early Prime Day",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSm9RdFNpc3JFU2NnaUxiaVk5dnp3b2RxcU04bmQyZ3RUMENITl92OG1kcTVMRGZ2dXh3THB6Y2toMmIwUEJsVzdXX2hXZjYtTVUyVjd4SFJtRGwwUGNjaks3UjdPYzRhNDgyTVJfNFRxcF91OEdiaXViUkJmQXJqdEs4bXU?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Fitness Gear on Sale for Early Prime Day",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSm9RdFNpc3JFU2NnaUxiaVk5dnp3b2RxcU04bmQyZ3RUMENITl92OG1kcTVMRGZ2dXh3THB6Y2toMmIwUEJsVzdXX2hXZjYtTVUyVjd4SFJtRGwwUGNjaks3UjdPYzRhNDgyTVJfNFRxcF91OEdiaXViUkJmQXJqdEs4bXU?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Memorial Day Sales: Stunning Deals on Fitness Gear",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWEx2T2hXVnExdVY4T2tVczl4cUd1QjcyM2ZMaG0wU3NIdUg1UnR2WnJPVkxjNnAwQ3RGOVlxOGRESXNabVpvejJkem5LN2pfOHhBbUhKYnpMczU3enpBenYzSjRHTUJuSm80QjVxVjI5RFNwdnItSWEtLS1vNlJUNjFDS2Y?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Memorial Day Sales: Stunning Deals on Fitness Gear",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWEx2T2hXVnExdVY4T2tVczl4cUd1QjcyM2ZMaG0wU3NIdUg1UnR2WnJPVkxjNnAwQ3RGOVlxOGRESXNabVpvejJkem5LN2pfOHhBbUhKYnpMczU3enpBenYzSjRHTUJuSm80QjVxVjI5RFNwdnItSWEtLS1vNlJUNjFDS2Y?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "a8b7e45842c3",
-      "slug": "fitness-gear",
+      "id": "764a73d78f8a",
+      "slug": "apps-2026",
       "opportunity": {
         "type": "affiliate",
         "recommended": "Write SEO comparison/roundup article with affiliate links."
       }
     },
     {
-      "keyword": "2026 ranked",
-      "count": 12,
-      "score": 85.46464213529222,
-      "proper": false,
+      "keyword": "income",
+      "count": 21,
+      "score": 115.68498604250662,
+      "proper": true,
       "niches": [
-        "ai"
+        "finance"
       ],
       "examples": [
         {
-          "title": "8 Best AI Tools for Developers in 2026 (Ranked & Reviewed)",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE83SHZjZ1BXZnhFdFphcXg3bWp5Y3V1blVpZ0szbW90RVRqZ1pKV1J2aXRESUxWLTdHUC1meW84Y2pxRm01QWtWYVNFOW4tOFF5bFIyVGIzRG1aMEg5cXo0ckYwQnrSAWdBVV95cUxNbTExZTdyYjdZMzNyMjRheTBTUlNTVHBWWjRFZTc5czNESWEtQTRpTEJ4RVhiSmk5MXJJMnBzckU3ekJVZlc5dy1GTGE1Y1NxeUtSWHVrb2xQaHB0T255TTRnN3hUeHFV?oc=5",
+          "title": "Would You Like $3,000 in Passive Income Each Year? Buy 2,239 Shares of This Top High-Yield Dividend Stock.",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNams2eGFnUG96bDU0c0oybVVnYW9RemtseXVYY294WlA2aERPQm9SSXU3YkRaVmV3Y0hxQXdIQ25tYXhzUU5aa3B1X3BIR0tVZUo5dnQ0QUtFOXJqT0VHSUh5NHp2VW9MT3pJT1RNaERIM3lVRkhBeHh0R0laMVJneXRRQXAtZ1g0VlM4MnZlN19SOEZZd3ZrdA?oc=5",
           "source": "gnews"
         },
         {
-          "title": "8 Best AI Tools for Developers in 2026 (Ranked & Reviewed)",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE83SHZjZ1BXZnhFdFphcXg3bWp5Y3V1blVpZ0szbW90RVRqZ1pKV1J2aXRESUxWLTdHUC1meW84Y2pxRm01QWtWYVNFOW4tOFF5bFIyVGIzRG1aMEg5cXo0ckYwQnrSAWdBVV95cUxNbTExZTdyYjdZMzNyMjRheTBTUlNTVHBWWjRFZTc5czNESWEtQTRpTEJ4RVhiSmk5MXJJMnBzckU3ekJVZlc5dy1GTGE1Y1NxeUtSWHVrb2xQaHB0T255TTRnN3hUeHFV?oc=5",
+          "title": "Would You Like $3,000 in Passive Income Each Year? Buy 2,239 Shares of This Top High-Yield Dividend Stock.",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNams2eGFnUG96bDU0c0oybVVnYW9RemtseXVYY294WlA2aERPQm9SSXU3YkRaVmV3Y0hxQXdIQ25tYXhzUU5aa3B1X3BIR0tVZUo5dnQ0QUtFOXJqT0VHSUh5NHp2VW9MT3pJT1RNaERIM3lVRkhBeHh0R0laMVJneXRRQXAtZ1g0VlM4MnZlN19SOEZZd3ZrdA?oc=5",
           "source": "gnews"
         },
         {
-          "title": "6 best AI stock trading tools in 2026 (ranked for what AI actually does well)",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQYU5TUTBvb2MxM2I5YllWRVg2SjgyUDJGTjRRMFJnZ2hFOHc0eUs0cmJTRXpSekRlRWl6VmZSVnRxLXZXQXdkcVFDbHBBckxBM3d1ZS1oTjV1M3VPdF94aXI4ODNmV0dyUnhGSXBobUVPaVdVRE9rUjd6amZDNlVCcnFQYzg4em1oelh5TDMwOXR0Wm9nVGJKTVFYRFF6VXBfOGpkZUFnS1ZCRjBDRHpoZ1VnQk9fLXJFeHhpSV9tYUhzN3RSTXM4?oc=5",
+          "title": "Would You Like $3,000 in Passive Income Each Year? Buy 2,239 Shares of This Top High-Yield Dividend Stock.",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOaTd1U3FHald1V21sT2tBQlVYekVWcmJRX2lwRU1pNXR6U2tYbGJ4Ul9VSHBBa3lseFlBVThqVHdHNW1HcVFOS2duOWNSdEFkLUpxNFVyeU90cGk3c2hMc3VDTUYwX2c4OU96UGhpdkRwcmpzR24yNkpnbVdjZTZ2SWNrQjNWaVpXV29OVkVIdEF6ZWc?oc=5",
           "source": "gnews"
         },
         {
-          "title": "6 best AI stock trading tools in 2026 (ranked for what AI actually does well)",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQYU5TUTBvb2MxM2I5YllWRVg2SjgyUDJGTjRRMFJnZ2hFOHc0eUs0cmJTRXpSekRlRWl6VmZSVnRxLXZXQXdkcVFDbHBBckxBM3d1ZS1oTjV1M3VPdF94aXI4ODNmV0dyUnhGSXBobUVPaVdVRE9rUjd6amZDNlVCcnFQYzg4em1oelh5TDMwOXR0Wm9nVGJKTVFYRFF6VXBfOGpkZUFnS1ZCRjBDRHpoZ1VnQk9fLXJFeHhpSV9tYUhzN3RSTXM4?oc=5",
+          "title": "Would You Like $3,000 in Passive Income Each Year? Buy 2,239 Shares of This Top High-Yield Dividend Stock.",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOaTd1U3FHald1V21sT2tBQlVYekVWcmJRX2lwRU1pNXR6U2tYbGJ4Ul9VSHBBa3lseFlBVThqVHdHNW1HcVFOS2duOWNSdEFkLUpxNFVyeU90cGk3c2hMc3VDTUYwX2c4OU96UGhpdkRwcmpzR24yNkpnbVdjZTZ2SWNrQjNWaVpXV29OVkVIdEF6ZWc?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "2 Goldman Sachs ETFs Offering 8%+ Passive Income and Double-Digit Upside",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQaEE1cWJ2V3ByYkhheVFrOEw3SXJQSC1wbi1tdWhWSGRfdFpZcFEwSzZkR2NMR0RaLTd2Z3UwOHNVYzZzTFdqM1lfRzlKbnVhVnM4QVZYWnNybC1BdXg1cUhUSDQ3UzFYenVwQ3ZxVGcyNHlxME5PTUd1akNwU19aSmRqc3JiQTBnYWhGMmgyY0k2T2NwU2h6SUJ1YUUwaWxlYkE?oc=5",
           "source": "gnews"
         }
       ],
-      "id": "c9a44f4ef59e",
-      "slug": "2026-ranked",
+      "id": "00cf141f881d",
+      "slug": "income",
       "opportunity": {
         "type": "niche-content",
-        "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
+        "recommended": "Publish niche guide for \"finance\"; bundle into digital product later."
       }
     },
     {
-      "keyword": "software gains",
-      "count": 11,
-      "score": 85.15498763480204,
+      "keyword": "curtis wilson",
+      "count": 8,
+      "score": 103.00048238987314,
       "proper": true,
       "niches": [
         "ai"
       ],
       "examples": [
         {
-          "title": "Software Gains as Guggenheim Says AI No ‘Death Knell’ for Sector",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxON2xDa1dZcXRMUVZCbDRSQnZVYUYzcWJ2VjBUeEg4cThvc3VqeGdxbWRYU2VuLThhTTZoNVo5RWY3YnNNQktVcmNteVczbmFTb2ltemdUXzVmVlBhNXNkYXliUVR4Q0hiQ0I1MGNOaXU0c18zZmJVUG91cjVRWUtnSFZ5MVZpTTI3SmpucVBiX0RUdzhHY2x6ZGh0djR2TG1NNGlQMDRjZHVpU195OVU5blYyQQ?oc=5",
-          "source": "gnews"
+          "title": "Happy Canada Day!The Indigenous flag was designed by artist Curtis Wilson (d 2019). The renowned artist was born and raised in the Ligwilda’xw territories and he was a member of the Wei Wai Kum First ",
+          "url": "https://mstdn.ca/@cardamomaddict/116845235313626310",
+          "source": "mastodon"
         },
         {
-          "title": "Software Gains as Guggenheim Says AI No ‘Death Knell’ for Sector",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxON2xDa1dZcXRMUVZCbDRSQnZVYUYzcWJ2VjBUeEg4cThvc3VqeGdxbWRYU2VuLThhTTZoNVo5RWY3YnNNQktVcmNteVczbmFTb2ltemdUXzVmVlBhNXNkYXliUVR4Q0hiQ0I1MGNOaXU0c18zZmJVUG91cjVRWUtnSFZ5MVZpTTI3SmpucVBiX0RUdzhHY2x6ZGh0djR2TG1NNGlQMDRjZHVpU195OVU5blYyQQ?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Software Gains as Guggenheim Says AI No ‘Death Knell’ for Sector",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxON2xDa1dZcXRMUVZCbDRSQnZVYUYzcWJ2VjBUeEg4cThvc3VqeGdxbWRYU2VuLThhTTZoNVo5RWY3YnNNQktVcmNteVczbmFTb2ltemdUXzVmVlBhNXNkYXliUVR4Q0hiQ0I1MGNOaXU0c18zZmJVUG91cjVRWUtnSFZ5MVZpTTI3SmpucVBiX0RUdzhHY2x6ZGh0djR2TG1NNGlQMDRjZHVpU195OVU5blYyQQ?oc=5",
-          "source": "gnews"
+          "title": "Happy Canada Day!The Indigenous flag was designed by artist Curtis Wilson (d 2019). The renowned artist was born and raised in the Ligwilda’xw territories and he was a member of the Wei Wai Kum First ",
+          "url": "https://mstdn.ca/@cardamomaddict/116845235313626310",
+          "source": "mastodon"
         }
       ],
-      "id": "4ccedb402a6a",
-      "slug": "software-gains",
+      "id": "a4b43334adc6",
+      "slug": "curtis-wilson",
+      "opportunity": {
+        "type": "niche-content",
+        "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
+      }
+    },
+    {
+      "keyword": "sony deletes",
+      "count": 8,
+      "score": 102.10424995831431,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "Sony Deletes 551 Movies PlayStation Owners Paid For",
+          "url": "https://reclaimthenet.org/sony-deletes-551-studiocanal-movies-playstation-owners-paid-for",
+          "source": "hackernews"
+        },
+        {
+          "title": "Sony Deletes 551 Movies PlayStation Owners Paid For",
+          "url": "https://reclaimthenet.org/sony-deletes-551-studiocanal-movies-playstation-owners-paid-for",
+          "source": "hackernews"
+        }
+      ],
+      "id": "415a122ec06c",
+      "slug": "sony-deletes",
+      "opportunity": {
+        "type": "niche-content",
+        "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
+      }
+    },
+    {
+      "keyword": "claude fable",
+      "count": 8,
+      "score": 101.58654715984923,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5",
+          "url": "https://twitter.com/AnthropicAI/status/2072106151890809341",
+          "source": "hackernews"
+        },
+        {
+          "title": "Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5",
+          "url": "https://twitter.com/AnthropicAI/status/2072106151890809341",
+          "source": "hackernews"
+        }
+      ],
+      "id": "ced86039c0ad",
+      "slug": "claude-fable",
       "opportunity": {
         "type": "tooling",
         "recommended": "Build / list AI tools; monetize via affiliate links + lead magnet."
+      }
+    },
+    {
+      "keyword": "productivity apps",
+      "count": 36,
+      "score": 99.43780146991202,
+      "proper": false,
+      "niches": [
+        "software",
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "Top Chromebook Productivity Apps 2026",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNd01iY0c5X2FyTS1YaTJQdmtUazdHOTRCUjlVeWw3SmRxQmdWaF9jUHhveDNDdTZxMW1NNS1zOGdTWUpkV2dxU3NuYTU5OWtRNUk4eUwwVno0SmxfRHZvMHFSTVg0VXpWWlNTTHl0cGdMbXhtdE5oOGcwNDBfUVRvSDRjOC1WR2hLemRPUjA0NA?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Top Chromebook Productivity Apps 2026",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNd01iY0c5X2FyTS1YaTJQdmtUazdHOTRCUjlVeWw3SmRxQmdWaF9jUHhveDNDdTZxMW1NNS1zOGdTWUpkV2dxU3NuYTU5OWtRNUk4eUwwVno0SmxfRHZvMHFSTVg0VXpWWlNTTHl0cGdMbXhtdE5oOGcwNDBfUVRvSDRjOC1WR2hLemRPUjA0NA?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "10 Best AI Productivity Apps in 2026 (Categorized Guide)",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ldGkwQm9Vblo4TmY5TWFzVGlIWGdlZGl5VUxPN3BGMkdhZGhIWmFFVm5xelVVSEtwNEExS09nX2NPLWZDdEI4WWsxd1FFS2gwR3RzQTRwaWRyWEE3cVlV0gFfQVVfeXFMT2V0aTBCb1VuWjhOZjlNYXNUaUhYZ2VkaXlVTE83cEYyR2FkaEhaYUVWbnF6VVVIS3A0QTFLT2dfY08tZkN0QjhZazF3UUVLaDBHdHNBNHBpZHJYQTdxWVU?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "10 Best AI Productivity Apps in 2026 (Categorized Guide)",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ldGkwQm9Vblo4TmY5TWFzVGlIWGdlZGl5VUxPN3BGMkdhZGhIWmFFVm5xelVVSEtwNEExS09nX2NPLWZDdEI4WWsxd1FFS2gwR3RzQTRwaWRyWEE3cVlV0gFfQVVfeXFMT2V0aTBCb1VuWjhOZjlNYXNUaUhYZ2VkaXlVTE83cEYyR2FkaEhaYUVWbnF6VVVIS3A0QTFLT2dfY08tZkN0QjhZazF3UUVLaDBHdHNBNHBpZHJYQTdxWVU?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Why I ditched paid productivity apps for this free open-source alternative - How-To Geek",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTE9jOUhlQl9jazRtcXBDdERaa3FWaFNnV3dzZ1NkbTE2ckZhbGVaTTdFck4xMW50QktnbUFoS183YzJWcUprSTJEbjhYUkR0NlJmaWhZM0d4QkdaREhnV3JXMkZ2NktjWl9xTHNoWjVVbE85cnhKSTdvOWRkaGI5cGFRU01aSWF6V0tMVTdpY2R5ck5LYUF3ZzdqMUZLQQ?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "c3d816ac2a46",
+      "slug": "productivity-apps",
+      "opportunity": {
+        "type": "affiliate",
+        "recommended": "Write SEO comparison/roundup article with affiliate links."
+      }
+    },
+    {
+      "keyword": "yield dividend stock",
+      "count": 10,
+      "score": 89.26758646943736,
+      "proper": true,
+      "niches": [
+        "finance"
+      ],
+      "examples": [
+        {
+          "title": "Would You Like $3,000 in Passive Income Each Year? Buy 2,239 Shares of This Top High-Yield Dividend Stock.",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNams2eGFnUG96bDU0c0oybVVnYW9RemtseXVYY294WlA2aERPQm9SSXU3YkRaVmV3Y0hxQXdIQ25tYXhzUU5aa3B1X3BIR0tVZUo5dnQ0QUtFOXJqT0VHSUh5NHp2VW9MT3pJT1RNaERIM3lVRkhBeHh0R0laMVJneXRRQXAtZ1g0VlM4MnZlN19SOEZZd3ZrdA?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Would You Like $3,000 in Passive Income Each Year? Buy 2,239 Shares of This Top High-Yield Dividend Stock.",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOaTd1U3FHald1V21sT2tBQlVYekVWcmJRX2lwRU1pNXR6U2tYbGJ4Ul9VSHBBa3lseFlBVThqVHdHNW1HcVFOS2duOWNSdEFkLUpxNFVyeU90cGk3c2hMc3VDTUYwX2c4OU96UGhpdkRwcmpzR24yNkpnbVdjZTZ2SWNrQjNWaVpXV29OVkVIdEF6ZWc?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "0298a33ec5ac",
+      "slug": "yield-dividend-stock",
+      "opportunity": {
+        "type": "niche-content",
+        "recommended": "Publish niche guide for \"finance\"; bundle into digital product later."
       }
     }
   ]

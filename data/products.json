@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "slug": "prompt-pack-critical-mistakes-2026-07-01",
+      "title": "Critical Mistakes Prompt Pack — 50 Battle-Tested Prompts",
+      "blurb": "50 proven prompts for Critical Mistakes. Copy/paste ready. Tested across Claude, GPT, Gemini.",
+      "type": "prompt-pack",
+      "topic": "Critical Mistakes",
+      "niche": "ai",
+      "price": 19,
+      "generatedAt": "2026-07-01T17:46:33.102Z",
+      "files": [
+        "prompts.md",
+        "README.md",
+        "LICENSE.txt"
+      ]
+    },
+    {
       "slug": "prompt-pack-death-knell-2026-07-01",
       "title": "Death Knell Prompt Pack — 50 Battle-Tested Prompts",
       "blurb": "50 proven prompts for Death Knell. Copy/paste ready. Tested across Claude, GPT, Gemini.",

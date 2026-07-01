@@ -506,8 +506,8 @@
     },
     "2026-6f6f6f": {
       "firstSeen": "2026-06-01T05:59:34.077Z",
-      "lastSeen": "2026-06-18T05:53:33.753Z",
-      "count": 3,
+      "lastSeen": "2026-07-01T17:46:57.611Z",
+      "count": 4,
       "wins": 0,
       "losses": 0,
       "niche": "gear"
@@ -1890,8 +1890,8 @@
     },
     "income-buy": {
       "firstSeen": "2026-06-16T19:28:01.567Z",
-      "lastSeen": "2026-06-16T22:46:02.174Z",
-      "count": 2,
+      "lastSeen": "2026-07-01T17:47:22.933Z",
+      "count": 3,
       "wins": 1,
       "losses": 0,
       "niche": "finance"
@@ -1991,38 +1991,6 @@
       "wins": 0,
       "losses": 1,
       "niche": "software"
-    },
-    "hunger-games": {
-      "firstSeen": "2026-06-17T16:38:45.878Z",
-      "lastSeen": "2026-06-17T16:38:45.878Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "ai"
-    },
-    "source": {
-      "firstSeen": "2026-06-17T16:39:11.516Z",
-      "lastSeen": "2026-06-17T16:39:11.516Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "software"
-    },
-    "nxtpaper-addresses": {
-      "firstSeen": "2026-06-17T16:39:28.467Z",
-      "lastSeen": "2026-06-17T16:39:28.467Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "software"
-    },
-    "programrepublican": {
-      "firstSeen": "2026-06-17T16:40:12.665Z",
-      "lastSeen": "2026-06-17T16:40:12.665Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "ai"
     },
     "positive-impact": {
       "firstSeen": "2026-06-17T18:09:25.710Z",
@@ -4426,25 +4394,25 @@
     },
     "schneider-electric": {
       "firstSeen": "2026-07-01T15:39:28.151Z",
-      "lastSeen": "2026-07-01T15:39:28.151Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-07-01T17:46:21.094Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
     "cognite-billion": {
       "firstSeen": "2026-07-01T15:39:30.900Z",
-      "lastSeen": "2026-07-01T15:39:30.900Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-07-01T17:46:21.095Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
     "software-gains": {
       "firstSeen": "2026-07-01T15:39:33.344Z",
-      "lastSeen": "2026-07-01T15:39:33.344Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-07-01T17:46:21.097Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -4495,16 +4463,56 @@
       "wins": 0,
       "losses": 0,
       "niche": "ai"
+    },
+    "curtis-wilson": {
+      "firstSeen": "2026-07-01T17:46:26.413Z",
+      "lastSeen": "2026-07-01T17:46:26.413Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "corsair-galleon": {
+      "firstSeen": "2026-07-01T17:46:29.454Z",
+      "lastSeen": "2026-07-01T17:46:29.454Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "000-passive": {
+      "firstSeen": "2026-07-01T17:46:32.196Z",
+      "lastSeen": "2026-07-01T17:46:32.196Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "finance"
+    },
+    "critical-mistakes": {
+      "firstSeen": "2026-07-01T17:46:39.205Z",
+      "lastSeen": "2026-07-01T17:46:39.205Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "buy-239": {
+      "firstSeen": "2026-07-01T17:47:34.165Z",
+      "lastSeen": "2026-07-01T17:47:34.165Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "finance"
     }
   },
   "niches": {
     "ai": {
-      "count": 973,
-      "wins": 273,
+      "count": 979,
+      "wins": 276,
       "losses": 41
     },
     "finance": {
-      "count": 82,
+      "count": 86,
       "wins": 13,
       "losses": 0
     },
