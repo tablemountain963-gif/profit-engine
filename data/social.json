@@ -1,6 +1,27 @@
 {
   "items": [
     {
+      "slug": "threat-models-2026-07-01",
+      "topic": "Threat Models",
+      "date": "2026-07-01",
+      "niche": "ai",
+      "file": "social/threat-models-2026-07-01.md"
+    },
+    {
+      "slug": "informal-guide-2026-07-01",
+      "topic": "Informal Guide",
+      "date": "2026-07-01",
+      "niche": "ai",
+      "file": "social/informal-guide-2026-07-01.md"
+    },
+    {
+      "slug": "eso-farm-2026-07-01",
+      "topic": "Eso. Farm",
+      "date": "2026-07-01",
+      "niche": "ai",
+      "file": "social/eso-farm-2026-07-01.md"
+    },
+    {
       "slug": "fitness-gear-2026-06-30",
       "topic": "Fitness Gear",
       "date": "2026-06-30",
@@ -1378,27 +1399,6 @@
       "date": "2026-06-08",
       "niche": "ai",
       "file": "social/apple-2026-06-08.md"
-    },
-    {
-      "slug": "software-2026-06-08",
-      "topic": "Software",
-      "date": "2026-06-08",
-      "niche": "ai",
-      "file": "social/software-2026-06-08.md"
-    },
-    {
-      "slug": "montara-mountain-2026-06-08",
-      "topic": "Montara Mountain",
-      "date": "2026-06-08",
-      "niche": "ai",
-      "file": "social/montara-mountain-2026-06-08.md"
-    },
-    {
-      "slug": "desktop-2026-06-08",
-      "topic": "Desktop",
-      "date": "2026-06-08",
-      "niche": "software",
-      "file": "social/desktop-2026-06-08.md"
     }
   ]
 }

@@ -1275,5 +1275,19 @@
     "price": 19,
     "productId": "prod_UnlKJutoMLVC83",
     "cover": "/assets/pack-cover.png"
+  },
+  "prompt-pack-scan-qr-2026-07-01": {
+    "url": "https://buy.stripe.com/8x2cN43OU2Dc2VlfwofjG2W",
+    "platform": "stripe",
+    "price": 19,
+    "productId": "prod_UnsJOg4Sog5yKY",
+    "cover": "/assets/pack-cover.png"
+  },
+  "prompt-pack-palo-alto-2026-07-01": {
+    "url": "https://buy.stripe.com/dRmfZg0CIgu23Zpac4fjG2X",
+    "platform": "stripe",
+    "price": 19,
+    "productId": "prod_UnsJw4oiVZirjT",
+    "cover": "/assets/pack-cover.png"
   }
 }

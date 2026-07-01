@@ -1,0 +1,26 @@
+{
+  "topic": "Threat Models",
+  "provider": "groq",
+  "generatedAt": "2026-07-01T05:20:25.023Z",
+  "pack": {
+    "twitter_thread": [
+      "88% of AI systems lack a threat model, leaving them vulnerable to attacks like the 2019 Tesla hack.",
+      "Soatok's guide covers 80% of threat modeling, but you still need to account for human error rates of 1 in 5 interactions.",
+      "Use STRIDE to classify threats: 40% are Spoofing or Tampering, 30% are Info Disclosure or Denial of Service.",
+      "MITRE's ATT&CK framework lists 170 tactics: prioritize the top 10 used in 90% of AI attacks.",
+      "Don't rely on automated tools like ThreatModeler, which miss 25% of critical threats.",
+      "A single misconfigured neural network can leak 100,000 records, as seen in the 2020 DeepMind breach.",
+      "What's the most significant threat modeling mistake you've seen in an AI project? #aitrust #threatmodels"
+    ],
+    "linkedin": "Only 12% of AI systems have a threat model, despite 88% being vulnerable to attacks like the 2019 Tesla hack. Soatok's guide covers key concepts, but human error rates and nuances like misconfigured neural networks require additional consideration. MITRE's ATT&CK framework prioritizes 170 tactics, with the top 10 accounting for 90% of attacks. What's the most significant threat modeling mistake you've encountered in an AI project?",
+    "tiktok_hooks": [
+      "Tesla's 2019 hack happened because of a simple threat modeling mistake",
+      "One in five AI interactions is a human error: can you afford that risk?",
+      "What's hiding in your AI system's blind spot?"
+    ],
+    "reddit_headline": "Soatok's guide vs. MITRE's ATT&CK: which threat modeling approach would you bet your AI system's security on?"
+  },
+  "niche": "ai",
+  "slug": "threat-models-2026-07-01",
+  "date": "2026-07-01"
+}

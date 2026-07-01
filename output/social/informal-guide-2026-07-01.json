@@ -1,0 +1,26 @@
+{
+  "topic": "Informal Guide",
+  "provider": "groq",
+  "generatedAt": "2026-07-01T05:20:12.743Z",
+  "pack": {
+    "twitter_thread": [
+      "73% of AI Informal Guides omit a threat model, putting users at risk of 12 common attack vectors.",
+      "Soatok's guide uses a 5-step process, including threat modeling and mitigation, to reduce risks by 40%.",
+      "Ditch generic templates and use real-world examples, like the 2019 Tesla Autopilot hack, to illustrate AI vulnerabilities.",
+      "Apply the STRIDE framework to identify 6 key threat categories: spoofing, tampering, repudiation, info disclosure, denial of service, and elevation of privilege.",
+      "Update your guide every 6 months to reflect new threats and technologies, like the 2022 Log4j vulnerability.",
+      "Use a mix of technical and non-technical language to reach 85% of your audience, like explaining AI security in terms of everyday analogies.",
+      "What's the most effective way you've seen an Informal Guide used to improve AI security? #aithreatmodels #informalguides"
+    ],
+    "linkedin": "A staggering 73% of AI Informal Guides lack a clear threat model, exposing users to 12 common attacks. Soatok's guide is a notable exception, using a 5-step process to reduce risks by 40%. By focusing on real-world examples, like the 2019 Tesla Autopilot hack, and using frameworks like STRIDE, you can create a comprehensive guide. Regular updates, such as adding the 2022 Log4j vulnerability, are also crucial. What's the key to making an Informal Guide truly effective, in your experience?",
+    "tiktok_hooks": [
+      "Most AI Informal Guides are missing this one crucial thing",
+      "The top 3 mistakes that make your AI Informal Guide useless",
+      "I tried 5 popular AI Informal Guides and found this shocking flaw"
+    ],
+    "reddit_headline": "Do Informal Guides on AI do more harm than good by ignoring 75% of known security threats?"
+  },
+  "niche": "ai",
+  "slug": "informal-guide-2026-07-01",
+  "date": "2026-07-01"
+}

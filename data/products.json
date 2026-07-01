@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "slug": "prompt-pack-scan-qr-2026-07-01",
+      "title": "Scan Qr Prompt Pack — 50 Battle-Tested Prompts",
+      "blurb": "50 proven prompts for Scan Qr. Copy/paste ready. Tested across Claude, GPT, Gemini.",
+      "type": "prompt-pack",
+      "topic": "Scan Qr",
+      "niche": "ai",
+      "price": 19,
+      "generatedAt": "2026-07-01T05:19:41.919Z",
+      "files": [
+        "prompts.md",
+        "README.md",
+        "LICENSE.txt"
+      ]
+    },
+    {
+      "slug": "prompt-pack-palo-alto-2026-07-01",
+      "title": "Palo Alto Prompt Pack — 50 Battle-Tested Prompts",
+      "blurb": "50 proven prompts for Palo Alto. Copy/paste ready. Tested across Claude, GPT, Gemini.",
+      "type": "prompt-pack",
+      "topic": "Palo Alto",
+      "niche": "ai",
+      "price": 19,
+      "generatedAt": "2026-07-01T05:19:31.475Z",
+      "files": [
+        "prompts.md",
+        "README.md",
+        "LICENSE.txt"
+      ]
+    },
+    {
       "slug": "prompt-pack-promise-speed-2026-06-30",
       "title": "Promise Speed Prompt Pack — 50 Battle-Tested Prompts",
       "blurb": "50 proven prompts for Promise Speed. Copy/paste ready. Tested across Claude, GPT, Gemini.",
