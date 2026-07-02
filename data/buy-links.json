@@ -1373,5 +1373,19 @@
     "price": 14,
     "productId": "prod_UoRH9z5o7nKPFZ",
     "cover": "/assets/pack-cover.png"
+  },
+  "prompt-pack-running-shoes-2026-07-02": {
+    "url": "https://buy.stripe.com/aFa8wO5X2a5E7bBeskfjG3a",
+    "platform": "stripe",
+    "price": 19,
+    "productId": "prod_UoVbOWAvkL85m3",
+    "cover": "/assets/pack-cover.png"
+  },
+  "prompt-pack-nike-sale-2026-07-02": {
+    "url": "https://buy.stripe.com/5kQ5kCetyb9IcvV2JCfjG3b",
+    "platform": "stripe",
+    "price": 19,
+    "productId": "prod_UoVcZFCJbi7o17",
+    "cover": "/assets/pack-cover.png"
   }
 }
