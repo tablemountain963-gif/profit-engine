@@ -346,8 +346,8 @@
     },
     "passive": {
       "firstSeen": "2026-05-30T16:52:40.063Z",
-      "lastSeen": "2026-06-19T21:58:29.150Z",
-      "count": 5,
+      "lastSeen": "2026-07-02T15:14:41.334Z",
+      "count": 6,
       "wins": 2,
       "losses": 0,
       "niche": "finance"
@@ -2056,22 +2056,6 @@
       "losses": 0,
       "niche": "software"
     },
-    "less-frustrating": {
-      "firstSeen": "2026-06-18T05:53:27.016Z",
-      "lastSeen": "2026-06-18T05:53:27.016Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "software"
-    },
-    "british-library": {
-      "firstSeen": "2026-06-18T05:53:47.827Z",
-      "lastSeen": "2026-06-18T05:53:47.827Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "software"
-    },
     "apple-appstore": {
       "firstSeen": "2026-06-18T16:29:07.563Z",
       "lastSeen": "2026-06-18T18:21:35.737Z",
@@ -2730,9 +2714,9 @@
     },
     "mechanical-keyboard": {
       "firstSeen": "2026-06-22T17:39:16.085Z",
-      "lastSeen": "2026-07-01T22:11:01.882Z",
-      "count": 3,
-      "wins": 1,
+      "lastSeen": "2026-07-02T15:13:23.876Z",
+      "count": 4,
+      "wins": 2,
       "losses": 0,
       "niche": "gear"
     },
@@ -4474,9 +4458,9 @@
     },
     "cherry-k33": {
       "firstSeen": "2026-07-01T22:10:59.113Z",
-      "lastSeen": "2026-07-01T22:10:59.113Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-07-02T15:13:23.874Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -4530,9 +4514,9 @@
     },
     "manage-docker": {
       "firstSeen": "2026-07-02T04:55:25.438Z",
-      "lastSeen": "2026-07-02T04:55:25.438Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-07-02T15:13:23.878Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -4575,16 +4559,72 @@
       "wins": 0,
       "losses": 0,
       "niche": "software"
+    },
+    "software-experts": {
+      "firstSeen": "2026-07-02T15:13:29.550Z",
+      "lastSeen": "2026-07-02T15:13:29.550Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "content-faster": {
+      "firstSeen": "2026-07-02T15:13:32.288Z",
+      "lastSeen": "2026-07-02T15:13:32.288Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "patent-applications": {
+      "firstSeen": "2026-07-02T15:13:35.384Z",
+      "lastSeen": "2026-07-02T15:13:35.384Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "mail-memories": {
+      "firstSeen": "2026-07-02T15:13:42.726Z",
+      "lastSeen": "2026-07-02T15:13:42.726Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "_blank-tools": {
+      "firstSeen": "2026-07-02T15:13:51.089Z",
+      "lastSeen": "2026-07-02T15:13:51.089Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "premium-features": {
+      "firstSeen": "2026-07-02T15:14:06.406Z",
+      "lastSeen": "2026-07-02T15:14:06.406Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "gear"
+    },
+    "top-court-rules": {
+      "firstSeen": "2026-07-02T15:15:03.212Z",
+      "lastSeen": "2026-07-02T15:15:03.212Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
     }
   },
   "niches": {
     "ai": {
-      "count": 990,
-      "wins": 278,
+      "count": 999,
+      "wins": 281,
       "losses": 41
     },
     "finance": {
-      "count": 89,
+      "count": 90,
       "wins": 14,
       "losses": 2
     },
@@ -4594,7 +4634,7 @@
       "losses": 15
     },
     "gear": {
-      "count": 86,
+      "count": 87,
       "wins": 24,
       "losses": 0
     },
