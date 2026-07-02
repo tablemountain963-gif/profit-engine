@@ -1352,5 +1352,26 @@
     "price": 19,
     "productId": "prod_UoP7U1dTWJAXla",
     "cover": "/assets/pack-cover.png"
+  },
+  "prompt-pack-discerning-investor-2026-07-02": {
+    "url": "https://buy.stripe.com/cNi9ASbhm3Hg8fFdogfjG37",
+    "platform": "stripe",
+    "price": 19,
+    "productId": "prod_UoRHwHk6pZOnxG",
+    "cover": "/assets/pack-cover.png"
+  },
+  "prompt-pack-microsoft-office-2026-07-02": {
+    "url": "https://buy.stripe.com/4gM00i7163Hg53t4RKfjG38",
+    "platform": "stripe",
+    "price": 19,
+    "productId": "prod_UoRH2ZrobeVA7K",
+    "cover": "/assets/pack-cover.png"
+  },
+  "mini-ebook-sneak-peak-2026-07-02": {
+    "url": "https://buy.stripe.com/28E4gy0CIfpYgMbdogfjG39",
+    "platform": "stripe",
+    "price": 14,
+    "productId": "prod_UoRH9z5o7nKPFZ",
+    "cover": "/assets/pack-cover.png"
   }
 }

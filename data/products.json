@@ -1,6 +1,51 @@
 {
   "items": [
     {
+      "slug": "prompt-pack-discerning-investor-2026-07-02",
+      "title": "Discerning Investor Prompt Pack — 50 Battle-Tested Prompts",
+      "blurb": "50 proven prompts for Discerning Investor. Copy/paste ready. Tested across Claude, GPT, Gemini.",
+      "type": "prompt-pack",
+      "topic": "Discerning Investor",
+      "niche": "software",
+      "price": 19,
+      "generatedAt": "2026-07-02T17:27:05.552Z",
+      "files": [
+        "prompts.md",
+        "README.md",
+        "LICENSE.txt"
+      ]
+    },
+    {
+      "slug": "prompt-pack-microsoft-office-2026-07-02",
+      "title": "Microsoft Office Prompt Pack — 50 Battle-Tested Prompts",
+      "blurb": "50 proven prompts for Microsoft Office. Copy/paste ready. Tested across Claude, GPT, Gemini.",
+      "type": "prompt-pack",
+      "topic": "Microsoft Office",
+      "niche": "ai",
+      "price": 19,
+      "generatedAt": "2026-07-02T17:26:59.836Z",
+      "files": [
+        "prompts.md",
+        "README.md",
+        "LICENSE.txt"
+      ]
+    },
+    {
+      "slug": "mini-ebook-sneak-peak-2026-07-02",
+      "title": "Sneak Peak: A 30-Minute Field Guide",
+      "blurb": "Read it in 30 minutes. Apply it forever. Field guide to Sneak Peak.",
+      "type": "mini-ebook",
+      "topic": "Sneak Peak",
+      "niche": "gear",
+      "price": 14,
+      "generatedAt": "2026-07-02T17:26:48.714Z",
+      "files": [
+        "ebook.md",
+        "README.md",
+        "LICENSE.txt"
+      ]
+    },
+    {
       "slug": "prompt-pack-blank-tools-2026-07-02",
       "title": "Blank Tools Prompt Pack — 50 Battle-Tested Prompts",
       "blurb": "50 proven prompts for Blank Tools. Copy/paste ready. Tested across Claude, GPT, Gemini.",

@@ -1584,14 +1584,6 @@
       "losses": 0,
       "niche": "ai"
     },
-    "ai-oss": {
-      "firstSeen": "2026-06-13T14:59:05.975Z",
-      "lastSeen": "2026-06-18T16:29:01.212Z",
-      "count": 2,
-      "wins": 0,
-      "losses": 1,
-      "niche": "ai"
-    },
     "regina-pride": {
       "firstSeen": "2026-06-13T17:11:36.850Z",
       "lastSeen": "2026-06-13T21:55:34.867Z",
@@ -2079,46 +2071,6 @@
       "wins": 1,
       "losses": 0,
       "niche": "software"
-    },
-    "financial-slides": {
-      "firstSeen": "2026-06-18T16:29:20.014Z",
-      "lastSeen": "2026-06-18T16:29:20.014Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "ai"
-    },
-    "bravo-attempts": {
-      "firstSeen": "2026-06-18T16:29:27.803Z",
-      "lastSeen": "2026-06-18T16:29:27.803Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "ai"
-    },
-    "acquire-cyberhawk": {
-      "firstSeen": "2026-06-18T16:29:34.596Z",
-      "lastSeen": "2026-06-18T16:29:34.596Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "ai"
-    },
-    "stock": {
-      "firstSeen": "2026-06-18T16:30:13.909Z",
-      "lastSeen": "2026-06-18T16:30:13.909Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "ai"
-    },
-    "upside-potential": {
-      "firstSeen": "2026-06-18T16:30:22.080Z",
-      "lastSeen": "2026-06-18T16:30:22.080Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "finance"
     },
     "launch-hn": {
       "firstSeen": "2026-06-18T18:21:45.511Z",
@@ -3594,8 +3546,8 @@
     },
     "tools": {
       "firstSeen": "2026-06-27T04:50:31.511Z",
-      "lastSeen": "2026-06-27T14:27:50.783Z",
-      "count": 2,
+      "lastSeen": "2026-07-02T17:27:29.589Z",
+      "count": 3,
       "wins": 1,
       "losses": 0,
       "niche": "software"
@@ -3642,8 +3594,8 @@
     },
     "categorized-guide": {
       "firstSeen": "2026-06-27T14:27:58.481Z",
-      "lastSeen": "2026-06-27T16:56:59.526Z",
-      "count": 2,
+      "lastSeen": "2026-07-02T17:27:46.828Z",
+      "count": 3,
       "wins": 1,
       "losses": 0,
       "niche": "ai"
@@ -3690,10 +3642,10 @@
     },
     "kimberly-prost": {
       "firstSeen": "2026-06-27T16:57:04.708Z",
-      "lastSeen": "2026-06-27T16:57:04.708Z",
-      "count": 1,
+      "lastSeen": "2026-07-02T17:26:36.867Z",
+      "count": 2,
       "wins": 0,
-      "losses": 0,
+      "losses": 1,
       "niche": "ai"
     },
     "automated-qwencloud": {
@@ -4562,25 +4514,25 @@
     },
     "software-experts": {
       "firstSeen": "2026-07-02T15:13:29.550Z",
-      "lastSeen": "2026-07-02T15:13:29.550Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-07-02T17:26:36.868Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
     "content-faster": {
       "firstSeen": "2026-07-02T15:13:32.288Z",
-      "lastSeen": "2026-07-02T15:13:32.288Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-07-02T17:26:36.869Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
     "patent-applications": {
       "firstSeen": "2026-07-02T15:13:35.384Z",
-      "lastSeen": "2026-07-02T15:13:35.384Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-07-02T17:26:36.870Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -4615,13 +4567,69 @@
       "wins": 0,
       "losses": 0,
       "niche": "ai"
+    },
+    "price-fixing": {
+      "firstSeen": "2026-07-02T17:26:42.696Z",
+      "lastSeen": "2026-07-02T17:26:42.696Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "akko-air": {
+      "firstSeen": "2026-07-02T17:26:45.038Z",
+      "lastSeen": "2026-07-02T17:26:45.038Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "arc-raiders": {
+      "firstSeen": "2026-07-02T17:26:48.001Z",
+      "lastSeen": "2026-07-02T17:26:48.001Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "sneak-peak": {
+      "firstSeen": "2026-07-02T17:26:59.835Z",
+      "lastSeen": "2026-07-02T17:26:59.835Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "gear"
+    },
+    "microsoft-office": {
+      "firstSeen": "2026-07-02T17:27:05.551Z",
+      "lastSeen": "2026-07-02T17:27:05.551Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "discerning-investor": {
+      "firstSeen": "2026-07-02T17:27:23.368Z",
+      "lastSeen": "2026-07-02T17:27:23.368Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "software"
+    },
+    "productivity": {
+      "firstSeen": "2026-07-02T17:27:59.184Z",
+      "lastSeen": "2026-07-02T17:27:59.184Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
     }
   },
   "niches": {
     "ai": {
-      "count": 999,
-      "wins": 281,
-      "losses": 41
+      "count": 1010,
+      "wins": 284,
+      "losses": 42
     },
     "finance": {
       "count": 90,
@@ -4629,12 +4637,12 @@
       "losses": 2
     },
     "software": {
-      "count": 232,
+      "count": 233,
       "wins": 62,
       "losses": 15
     },
     "gear": {
-      "count": 87,
+      "count": 88,
       "wins": 24,
       "losses": 0
     },
