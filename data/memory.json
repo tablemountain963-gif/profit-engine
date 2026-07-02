@@ -2032,14 +2032,6 @@
       "losses": 0,
       "niche": "gear"
     },
-    "apple-intelligence": {
-      "firstSeen": "2026-06-17T22:28:59.239Z",
-      "lastSeen": "2026-06-17T22:28:59.239Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "software"
-    },
     "major-trends": {
       "firstSeen": "2026-06-18T05:52:55.996Z",
       "lastSeen": "2026-06-19T15:58:33.117Z",
@@ -3602,18 +3594,18 @@
     },
     "barrack-obama": {
       "firstSeen": "2026-06-27T04:50:24.889Z",
-      "lastSeen": "2026-06-27T04:50:24.889Z",
-      "count": 1,
+      "lastSeen": "2026-07-02T04:55:17.108Z",
+      "count": 2,
       "wins": 0,
-      "losses": 0,
+      "losses": 1,
       "niche": "finance"
     },
     "puerto-rico": {
       "firstSeen": "2026-06-27T04:50:27.748Z",
-      "lastSeen": "2026-06-27T04:50:27.749Z",
-      "count": 1,
+      "lastSeen": "2026-07-02T04:55:17.111Z",
+      "count": 2,
       "wins": 0,
-      "losses": 0,
+      "losses": 1,
       "niche": "finance"
     },
     "tools": {
@@ -4490,9 +4482,9 @@
     },
     "dividend-income": {
       "firstSeen": "2026-07-01T22:11:05.444Z",
-      "lastSeen": "2026-07-01T22:11:05.444Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-07-02T04:55:17.112Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -4527,21 +4519,77 @@
       "wins": 0,
       "losses": 0,
       "niche": "ai"
+    },
+    "capitalist-frame": {
+      "firstSeen": "2026-07-02T04:55:22.577Z",
+      "lastSeen": "2026-07-02T04:55:22.577Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "software"
+    },
+    "manage-docker": {
+      "firstSeen": "2026-07-02T04:55:25.438Z",
+      "lastSeen": "2026-07-02T04:55:25.438Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "blade-ball": {
+      "firstSeen": "2026-07-02T04:55:29.178Z",
+      "lastSeen": "2026-07-02T04:55:29.178Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "gasket-mount": {
+      "firstSeen": "2026-07-02T04:55:35.018Z",
+      "lastSeen": "2026-07-02T04:55:35.018Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "software"
+    },
+    "jokitsien": {
+      "firstSeen": "2026-07-02T04:55:41.675Z",
+      "lastSeen": "2026-07-02T04:55:41.675Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "software"
+    },
+    "app-store-boost": {
+      "firstSeen": "2026-07-02T04:56:03.666Z",
+      "lastSeen": "2026-07-02T04:56:03.666Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "software"
+    },
+    "ownership-sharing": {
+      "firstSeen": "2026-07-02T04:56:37.442Z",
+      "lastSeen": "2026-07-02T04:56:37.442Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "software"
     }
   },
   "niches": {
     "ai": {
-      "count": 987,
-      "wins": 277,
+      "count": 990,
+      "wins": 278,
       "losses": 41
     },
     "finance": {
-      "count": 87,
+      "count": 89,
       "wins": 14,
-      "losses": 0
+      "losses": 2
     },
     "software": {
-      "count": 227,
+      "count": 232,
       "wins": 62,
       "losses": 15
     },
