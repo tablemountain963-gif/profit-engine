@@ -42,9 +42,9 @@
     },
     "open-source": {
       "firstSeen": "2026-05-28T11:29:48.152Z",
-      "lastSeen": "2026-07-03T15:08:54.871Z",
-      "count": 3,
-      "wins": 1,
+      "lastSeen": "2026-07-03T17:13:14.548Z",
+      "count": 4,
+      "wins": 2,
       "losses": 0,
       "niche": "ai"
     },
@@ -738,8 +738,8 @@
     },
     "affordability-crisis": {
       "firstSeen": "2026-06-03T17:59:29.318Z",
-      "lastSeen": "2026-06-28T14:48:02.508Z",
-      "count": 6,
+      "lastSeen": "2026-07-03T17:13:35.562Z",
+      "count": 7,
       "wins": 1,
       "losses": 0,
       "niche": "ai"
@@ -2160,38 +2160,6 @@
       "losses": 0,
       "niche": "ai"
     },
-    "epomaker-qk108": {
-      "firstSeen": "2026-06-19T15:59:01.087Z",
-      "lastSeen": "2026-06-19T15:59:01.087Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "gear"
-    },
-    "review": {
-      "firstSeen": "2026-06-19T15:59:11.776Z",
-      "lastSeen": "2026-06-19T15:59:11.776Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "gear"
-    },
-    "dell-pro": {
-      "firstSeen": "2026-06-19T15:59:21.426Z",
-      "lastSeen": "2026-06-19T15:59:21.426Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "ai"
-    },
-    "software-stock": {
-      "firstSeen": "2026-06-19T15:59:41.731Z",
-      "lastSeen": "2026-06-19T15:59:41.731Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "ai"
-    },
     "viggle-review": {
       "firstSeen": "2026-06-19T17:47:50.171Z",
       "lastSeen": "2026-06-19T21:56:38.722Z",
@@ -2338,8 +2306,8 @@
     },
     "freedom": {
       "firstSeen": "2026-06-20T17:15:39.742Z",
-      "lastSeen": "2026-06-20T21:57:48.497Z",
-      "count": 2,
+      "lastSeen": "2026-07-03T17:13:27.074Z",
+      "count": 3,
       "wins": 1,
       "losses": 0,
       "niche": "ai"
@@ -4650,17 +4618,17 @@
     },
     "digital-safety": {
       "firstSeen": "2026-07-03T15:08:57.462Z",
-      "lastSeen": "2026-07-03T15:08:57.462Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-07-03T17:13:14.549Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
     "dangerous-world": {
       "firstSeen": "2026-07-03T15:09:00.180Z",
-      "lastSeen": "2026-07-03T15:09:00.180Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-07-03T17:13:14.550Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -4711,12 +4679,28 @@
       "wins": 0,
       "losses": 0,
       "niche": "ai"
+    },
+    "reebok-sale": {
+      "firstSeen": "2026-07-03T17:13:19.976Z",
+      "lastSeen": "2026-07-03T17:13:19.976Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "sota-llms": {
+      "firstSeen": "2026-07-03T17:13:23.513Z",
+      "lastSeen": "2026-07-03T17:13:23.513Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
     }
   },
   "niches": {
     "ai": {
-      "count": 1032,
-      "wins": 290,
+      "count": 1037,
+      "wins": 292,
       "losses": 43
     },
     "finance": {
@@ -4725,8 +4709,8 @@
       "losses": 2
     },
     "software": {
-      "count": 236,
-      "wins": 62,
+      "count": 238,
+      "wins": 63,
       "losses": 15
     },
     "gear": {

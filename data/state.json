@@ -1,46 +1,46 @@
 {
-  "runs": 172,
-  "lastRun": "2026-07-03T15:08:46.953Z",
+  "runs": 173,
+  "lastRun": "2026-07-03T17:13:13.608Z",
   "streams": {
     "trend-signals": {
-      "lastRunAt": "2026-07-03T15:08:50.231Z",
+      "lastRunAt": "2026-07-03T17:13:16.181Z",
       "lastResult": "25 items / 20 topics / 8 opps",
-      "totalRuns": 161
+      "totalRuns": 162
     },
     "affiliate-content": {
-      "lastRunAt": "2026-07-03T15:09:00.182Z",
+      "lastRunAt": "2026-07-03T17:13:27.076Z",
       "lastResult": "3 articles",
-      "totalRuns": 161
+      "totalRuns": 162
     },
     "digital-products": {
-      "lastRunAt": "2026-07-03T15:09:46.457Z",
-      "lastResult": "3 products",
-      "totalRuns": 162
+      "lastRunAt": "2026-07-03T17:13:30.343Z",
+      "lastResult": "0 products",
+      "totalRuns": 163
     },
     "viral-factory": {
-      "lastRunAt": "2026-07-03T15:10:47.163Z",
-      "lastResult": "3 content packs",
-      "totalRuns": 162
+      "lastRunAt": "2026-07-03T17:13:39.563Z",
+      "lastResult": "1 content packs",
+      "totalRuns": 163
     },
     "x-publisher": {
-      "lastRunAt": "2026-07-03T15:10:47.294Z",
+      "lastRunAt": "2026-07-03T17:13:39.697Z",
       "lastResult": "nothing to post",
-      "totalRuns": 147
+      "totalRuns": 148
     },
     "mastodon-publisher": {
-      "lastRunAt": "2026-07-03T15:10:47.301Z",
+      "lastRunAt": "2026-07-03T17:13:39.705Z",
       "lastResult": "nothing to post",
-      "totalRuns": 145
+      "totalRuns": 146
     },
     "bluesky-publisher": {
-      "lastRunAt": "2026-07-03T15:10:55.826Z",
+      "lastRunAt": "2026-07-03T17:13:48.116Z",
       "lastResult": "posted 1 thread(s)",
-      "totalRuns": 145
+      "totalRuns": 146
     },
     "stripe-lister": {
-      "lastRunAt": "2026-07-03T15:09:48.860Z",
-      "lastResult": "listed 3, backfilled 0",
-      "totalRuns": 146
+      "lastRunAt": "2026-07-03T17:13:30.345Z",
+      "lastResult": "listed 0, backfilled 0",
+      "totalRuns": 147
     }
   },
   "totals": {
