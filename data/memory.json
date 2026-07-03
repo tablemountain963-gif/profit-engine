@@ -42,8 +42,8 @@
     },
     "open-source": {
       "firstSeen": "2026-05-28T11:29:48.152Z",
-      "lastSeen": "2026-05-28T12:35:51.653Z",
-      "count": 2,
+      "lastSeen": "2026-07-03T15:08:54.871Z",
+      "count": 3,
       "wins": 1,
       "losses": 0,
       "niche": "ai"
@@ -2128,14 +2128,6 @@
       "losses": 0,
       "niche": "gear"
     },
-    "workflow": {
-      "firstSeen": "2026-06-19T06:14:25.317Z",
-      "lastSeen": "2026-06-19T06:14:25.317Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "ai"
-    },
     "premium": {
       "firstSeen": "2026-06-19T06:14:37.219Z",
       "lastSeen": "2026-06-30T15:25:21.047Z",
@@ -3730,10 +3722,10 @@
     },
     "robin-williams": {
       "firstSeen": "2026-06-28T05:14:32.283Z",
-      "lastSeen": "2026-06-28T05:14:32.283Z",
-      "count": 1,
+      "lastSeen": "2026-07-03T15:08:48.097Z",
+      "count": 2,
       "wins": 0,
-      "losses": 0,
+      "losses": 1,
       "niche": "ai"
     },
     "rainbro-brite": {
@@ -4655,13 +4647,77 @@
       "wins": 0,
       "losses": 0,
       "niche": "software"
+    },
+    "digital-safety": {
+      "firstSeen": "2026-07-03T15:08:57.462Z",
+      "lastSeen": "2026-07-03T15:08:57.462Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "dangerous-world": {
+      "firstSeen": "2026-07-03T15:09:00.180Z",
+      "lastSeen": "2026-07-03T15:09:00.180Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "fox-news": {
+      "firstSeen": "2026-07-03T15:09:09.550Z",
+      "lastSeen": "2026-07-03T15:09:09.550Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "competition-mounts": {
+      "firstSeen": "2026-07-03T15:09:35.200Z",
+      "lastSeen": "2026-07-03T15:09:35.200Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "steam-machine": {
+      "firstSeen": "2026-07-03T15:09:46.456Z",
+      "lastSeen": "2026-07-03T15:09:46.456Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "software"
+    },
+    "expert-consumers": {
+      "firstSeen": "2026-07-03T15:10:09.305Z",
+      "lastSeen": "2026-07-03T15:10:09.305Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "kickstarter": {
+      "firstSeen": "2026-07-03T15:10:21.873Z",
+      "lastSeen": "2026-07-03T15:10:21.873Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "ultimate-cybersecurity-careers-guide": {
+      "firstSeen": "2026-07-03T15:10:43.162Z",
+      "lastSeen": "2026-07-03T15:10:43.162Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
     }
   },
   "niches": {
     "ai": {
-      "count": 1024,
+      "count": 1032,
       "wins": 290,
-      "losses": 42
+      "losses": 43
     },
     "finance": {
       "count": 90,
@@ -4669,7 +4725,7 @@
       "losses": 2
     },
     "software": {
-      "count": 234,
+      "count": 236,
       "wins": 62,
       "losses": 15
     },

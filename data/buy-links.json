@@ -1387,5 +1387,26 @@
     "price": 19,
     "productId": "prod_UoVcZFCJbi7o17",
     "cover": "/assets/pack-cover.png"
+  },
+  "prompt-pack-steam-machine-2026-07-03": {
+    "url": "https://buy.stripe.com/6oUdR885a7Xw7bB2JCfjG3c",
+    "platform": "stripe",
+    "price": 19,
+    "productId": "prod_UomHkOYDKpdphS",
+    "cover": "/assets/pack-cover.png"
+  },
+  "prompt-pack-competition-mounts-2026-07-03": {
+    "url": "https://buy.stripe.com/4gMbJ02KQcdMdzZ6ZSfjG3d",
+    "platform": "stripe",
+    "price": 19,
+    "productId": "prod_UomH1zm2PRBjPC",
+    "cover": "/assets/pack-cover.png"
+  },
+  "prompt-pack-fox-news-2026-07-03": {
+    "url": "https://buy.stripe.com/cNibJ04SY3HganN4RKfjG3e",
+    "platform": "stripe",
+    "price": 19,
+    "productId": "prod_UomHXUFbOHXMgy",
+    "cover": "/assets/pack-cover.png"
   }
 }
