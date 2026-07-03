@@ -1106,8 +1106,8 @@
     },
     "loch-shieldaig": {
       "firstSeen": "2026-06-08T05:28:52.759Z",
-      "lastSeen": "2026-06-20T15:02:22.388Z",
-      "count": 3,
+      "lastSeen": "2026-07-03T04:39:13.528Z",
+      "count": 4,
       "wins": 0,
       "losses": 1,
       "niche": "ai"
@@ -1599,14 +1599,6 @@
       "wins": 1,
       "losses": 0,
       "niche": "gear"
-    },
-    "freedmen": {
-      "firstSeen": "2026-06-13T21:55:40.208Z",
-      "lastSeen": "2026-06-18T22:49:26.898Z",
-      "count": 2,
-      "wins": 0,
-      "losses": 1,
-      "niche": "software"
     },
     "amazon-ceo": {
       "firstSeen": "2026-06-13T21:55:42.803Z",
@@ -2109,22 +2101,6 @@
       "lastSeen": "2026-06-19T06:13:59.099Z",
       "count": 2,
       "wins": 1,
-      "losses": 0,
-      "niche": "ai"
-    },
-    "rest-apis": {
-      "firstSeen": "2026-06-18T22:49:45.924Z",
-      "lastSeen": "2026-06-18T22:49:45.924Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "ai"
-    },
-    "lens-repair": {
-      "firstSeen": "2026-06-18T22:49:52.794Z",
-      "lastSeen": "2026-06-18T22:49:52.794Z",
-      "count": 1,
-      "wins": 0,
       "losses": 0,
       "niche": "ai"
     },
@@ -4626,25 +4602,25 @@
     },
     "library": {
       "firstSeen": "2026-07-02T21:55:49.227Z",
-      "lastSeen": "2026-07-02T21:55:49.227Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-07-03T04:39:01.955Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
     "low-profile-mechanical": {
       "firstSeen": "2026-07-02T21:55:52.487Z",
-      "lastSeen": "2026-07-02T21:55:52.487Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-07-03T04:39:01.956Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
     "neural-information-processing-systems": {
       "firstSeen": "2026-07-02T21:55:55.940Z",
-      "lastSeen": "2026-07-02T21:55:55.940Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-07-03T04:39:01.957Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -4663,12 +4639,28 @@
       "wins": 0,
       "losses": 0,
       "niche": "ai"
+    },
+    "caitlin-doughty": {
+      "firstSeen": "2026-07-03T04:39:07.357Z",
+      "lastSeen": "2026-07-03T04:39:07.357Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "mitch-mcconnell": {
+      "firstSeen": "2026-07-03T04:39:10.387Z",
+      "lastSeen": "2026-07-03T04:39:10.387Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "software"
     }
   },
   "niches": {
     "ai": {
-      "count": 1019,
-      "wins": 287,
+      "count": 1024,
+      "wins": 290,
       "losses": 42
     },
     "finance": {
@@ -4677,7 +4669,7 @@
       "losses": 2
     },
     "software": {
-      "count": 233,
+      "count": 234,
       "wins": 62,
       "losses": 15
     },
