@@ -250,8 +250,8 @@
     },
     "tools-2026": {
       "firstSeen": "2026-05-29T18:28:06.277Z",
-      "lastSeen": "2026-06-13T21:55:34.869Z",
-      "count": 4,
+      "lastSeen": "2026-07-03T21:53:58.155Z",
+      "count": 5,
       "wins": 1,
       "losses": 0,
       "niche": "ai"
@@ -1648,28 +1648,12 @@
       "losses": 0,
       "niche": "software"
     },
-    "paid-options": {
-      "firstSeen": "2026-06-14T15:07:29.161Z",
-      "lastSeen": "2026-06-19T17:48:58.062Z",
-      "count": 2,
-      "wins": 0,
-      "losses": 0,
-      "niche": "ai"
-    },
     "tools-business": {
       "firstSeen": "2026-06-14T15:08:14.946Z",
       "lastSeen": "2026-06-20T17:15:56.077Z",
       "count": 2,
       "wins": 0,
       "losses": 0,
-      "niche": "ai"
-    },
-    "albaniawell-albanians": {
-      "firstSeen": "2026-06-14T17:08:50.169Z",
-      "lastSeen": "2026-06-19T17:47:44.729Z",
-      "count": 2,
-      "wins": 0,
-      "losses": 1,
       "niche": "ai"
     },
     "changing-careers": {
@@ -4394,9 +4378,9 @@
     },
     "capitalist-frame": {
       "firstSeen": "2026-07-02T04:55:22.577Z",
-      "lastSeen": "2026-07-02T04:55:22.577Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-07-03T21:53:38.252Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "software"
     },
@@ -4682,15 +4666,63 @@
     },
     "reebok-sale": {
       "firstSeen": "2026-07-03T17:13:19.976Z",
-      "lastSeen": "2026-07-03T17:13:19.976Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-07-03T21:53:38.255Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
     "sota-llms": {
       "firstSeen": "2026-07-03T17:13:23.513Z",
-      "lastSeen": "2026-07-03T17:13:23.513Z",
+      "lastSeen": "2026-07-03T21:53:38.256Z",
+      "count": 2,
+      "wins": 1,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "kagi-changelog": {
+      "firstSeen": "2026-07-03T21:53:43.513Z",
+      "lastSeen": "2026-07-03T21:53:43.513Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "keep-forever": {
+      "firstSeen": "2026-07-03T21:53:46.405Z",
+      "lastSeen": "2026-07-03T21:53:46.405Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "gear"
+    },
+    "observability-wars": {
+      "firstSeen": "2026-07-03T21:53:50.002Z",
+      "lastSeen": "2026-07-03T21:53:50.002Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "software"
+    },
+    "essaygraderai-rated": {
+      "firstSeen": "2026-07-03T21:54:05.176Z",
+      "lastSeen": "2026-07-03T21:54:05.176Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "ai-essay-grading-tools": {
+      "firstSeen": "2026-07-03T21:54:11.297Z",
+      "lastSeen": "2026-07-03T21:54:11.297Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "visual-content-production": {
+      "firstSeen": "2026-07-03T21:54:18.277Z",
+      "lastSeen": "2026-07-03T21:54:18.277Z",
       "count": 1,
       "wins": 0,
       "losses": 0,
@@ -4699,8 +4731,8 @@
   },
   "niches": {
     "ai": {
-      "count": 1037,
-      "wins": 292,
+      "count": 1044,
+      "wins": 294,
       "losses": 43
     },
     "finance": {
@@ -4709,12 +4741,12 @@
       "losses": 2
     },
     "software": {
-      "count": 238,
-      "wins": 63,
+      "count": 240,
+      "wins": 64,
       "losses": 15
     },
     "gear": {
-      "count": 88,
+      "count": 89,
       "wins": 24,
       "losses": 0
     },
