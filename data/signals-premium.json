@@ -1,165 +1,66 @@
 {
-  "generatedAt": "2026-07-04T14:27:30.708Z",
+  "generatedAt": "2026-07-04T16:53:40.009Z",
   "sourceCount": 203,
   "topItems": [
     {
-      "title": "The Merlin bird ID app will soon allow users to feed real-time bird identifications into the eBird platform to monitor bird populations and aid conservation efforts.The project at Cornell University t",
-      "url": "https://mastodon.world/@davidho/116861605644440882",
-      "score": 9.85,
-      "niche": "ai",
-      "source": "mastodon",
-      "engagement": {
-        "score": 128,
-        "comments": 2
-      }
-    },
-    {
-      "title": "A few months ago, I was getting worried about my financial situation, and the possibility that I may have to step away from daily fediverse development.Then, I saw the perfect job and applied, not exp",
-      "url": "https://mastodon.social/@dansup/116861200548507296",
-      "score": 8.55,
-      "niche": "ai",
-      "source": "mastodon",
-      "engagement": {
-        "score": 183,
-        "comments": 13
-      }
-    },
-    {
-      "title": "Jamesob's guide to running SOTA LLMs locally",
-      "url": "https://github.com/jamesob/local-llm",
-      "score": 8.39,
-      "niche": "ai",
-      "source": "hackernews",
-      "engagement": {
-        "score": 373,
-        "comments": 168
-      }
-    },
-    {
-      "title": "Happy 55th Birthday, Project Gutenberg! Let's celebrate!🎉 Project Gutenberg was founded on July 4, 1971, when Michael Hart typed the U.S. Declaration of Independence into an early internet-connected ",
-      "url": "https://mastodon.social/@gutenberg_org/116860757849700230",
-      "score": 8.26,
-      "niche": "software",
-      "source": "mastodon",
-      "engagement": {
-        "score": 177,
-        "comments": 4
-      }
-    },
-    {
       "title": "Congratulations to all my US friends on making it to the end of your epic 250 year experiment with democracy!  May the subsequent imperial phase be mercifully brief and the aftermath painless.",
       "url": "https://wandering.shop/@cstross/116861585744759416",
-      "score": 8.23,
+      "score": 9.04,
       "niche": "ai",
       "source": "mastodon",
       "engagement": {
-        "score": 345,
-        "comments": 13
+        "score": 613,
+        "comments": 27
       }
     },
     {
-      "title": "I got caught in traffic on my way home yesterday. As the farmer thanked me for waiting, he said I’d sleep well 😅. #Defaidodon #SheepOfMastodon",
-      "url": "https://mas.to/@helenclayton/116861142564468250",
-      "score": 7.9,
+      "title": "Congratulations to the US on becoming a kleptocratic monarchy, 250 years after gaining independence from royalist colonisers. You must be *so* proud that your new king exemplifies, as William Burrough",
+      "url": "https://mastodon.social/@Richard_Littler/116862064116415843",
+      "score": 8.28,
       "niche": "ai",
       "source": "mastodon",
       "engagement": {
-        "score": 280,
-        "comments": 7
+        "score": 167,
+        "comments": 5
       }
     },
     {
       "title": "The bottleneck might be the air in the room",
       "url": "https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/",
-      "score": 7.82,
+      "score": 7.99,
       "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 508,
-        "comments": 311
+        "score": 617,
+        "comments": 350
       }
     },
     {
-      "title": "New serious vulnerabilities spiked around release of Claude Mythos Preview",
-      "url": "https://epoch.ai/data-insights/cve-severity-spike",
-      "score": 7.04,
-      "niche": "ai",
-      "source": "hackernews",
+      "title": "Happy Birthday, #USA! #America250 #Americas250th #USPol #FirstAmendment #NoKings #StatueOfLiberty",
+      "url": "https://kolektiva.social/@DoomsdaysCW/116862268387936222",
+      "score": 7.6,
+      "niche": "software",
+      "source": "mastodon",
       "engagement": {
-        "score": 131,
-        "comments": 57
+        "score": 215,
+        "comments": 7
       }
     },
     {
       "title": "MSI Center – How to gain SYSTEM privileges in seconds",
       "url": "https://mrbruh.com/msicenter/",
-      "score": 6.85,
+      "score": 6.97,
       "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 115,
-        "comments": 48
+        "score": 128,
+        "comments": 52
       }
     },
     {
-      "title": "Soatok's Informal Guide to Threat Models",
-      "url": "https://soatok.blog/2026/06/30/soatoks-informal-guide-to-threat-models/",
-      "score": 6.54,
-      "niche": "ai",
-      "source": "hackernews",
-      "engagement": {
-        "score": 111,
-        "comments": 27
-      }
-    },
-    {
-      "title": "Kulaxyz/token-diet — Always-on token-efficiency skill for coding agents (Claude Code, Codex, Cursor, Windsurf, Cline). ~31% lower bill on average, no loss of correctness.",
-      "url": "https://github.com/Kulaxyz/token-diet",
-      "score": 6.46,
-      "niche": "ai",
-      "source": "github",
-      "engagement": {
-        "score": 332,
-        "comments": 0
-      }
-    },
-    {
-      "title": "Agentic coding notes from Galapagos Island",
-      "url": "https://danluu.com/ai-coding/#appendix-agentic-loops-and-writing-this-post",
-      "score": 6.19,
-      "niche": "ai",
-      "source": "hackernews",
-      "engagement": {
-        "score": 135,
-        "comments": 63
-      }
-    },
-    {
-      "title": "uzairansaruzi/hermex — Native iPhone app for your Hermes agent",
-      "url": "https://github.com/uzairansaruzi/hermex",
-      "score": 6.09,
-      "niche": "ai",
-      "source": "github",
-      "engagement": {
-        "score": 493,
-        "comments": 40
-      }
-    },
-    {
-      "title": "2026 Unslop AI-Written Fiction Contest Results",
-      "url": "https://www.hyperstitionai.com/unslop-results",
-      "score": 6.04,
-      "niche": "ai",
-      "source": "hackernews",
-      "engagement": {
-        "score": 35,
-        "comments": 96
-      }
-    },
-    {
-      "title": "SOXX vs. CHAT ETF: Semiconductor Chips Beat AI Software",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRlRFSm9vc2xpdkRPeUVUd2t0dFlKazFVNVNRdnNEM2h2V3c0VG43bjU5c2Y3TVk5c1Jpa0lrS1hLdk9ZQnVIVlgyQnZkeXBIaU5FeGdhNVN6Ujh1ZTdZMDhOeVZUMTMwcG45Sk9iQlgxNHlJY2poU1lGWkZBakNlbU8ySVVTS0Z0RDBOOFozTDZUTTgyTFZuNVBnWEJNcWJsVUE?oc=5",
-      "score": 5.94,
+      "title": "Best AI Content Creation Tools (2026): CapCut Recognized for AI-Powered Video and Image Creation by Software Experts",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPaEtPbjNkbW13QVdDYnVmVkxzUnc0cmx6R1hvdFJuYUc5WDhPOVlmdVFnYkItM2JmYkJ4TXNwMlZUZmNCdkx3a0h2dW9Gdjh1OE5aek9CR0J4akhOVGNhVzZkUVU3YXZZUUhMOGtkd0x0YXpJRVBxTVpnbWtCMkttM2FQZTJyaGtaYXNBWm9NdDJUWE1wQ0pVcGVB?oc=5",
+      "score": 6.61,
       "niche": "ai",
       "source": "gnews",
       "engagement": {
@@ -168,25 +69,91 @@
       }
     },
     {
-      "title": "Congratulations to the US on becoming a kleptocratic monarchy, 250 years after gaining independence from royalist colonisers. You must be *so* proud that your new king exemplifies, as William Burrough",
-      "url": "https://mastodon.social/@Richard_Littler/116862064116415843",
-      "score": 5.68,
+      "title": "Looks like Trump is finally going to have a crowd at the Nazi State Fair",
+      "url": "https://ohai.social/@SecularJeffrey/116862451141091733",
+      "score": 6.44,
       "niche": "ai",
       "source": "mastodon",
       "engagement": {
-        "score": 34,
+        "score": 70,
+        "comments": 16
+      }
+    },
+    {
+      "title": "Jamesob's guide to running SOTA LLMs locally",
+      "url": "https://github.com/jamesob/local-llm",
+      "score": 6.32,
+      "niche": "ai",
+      "source": "hackernews",
+      "engagement": {
+        "score": 384,
+        "comments": 172
+      }
+    },
+    {
+      "title": "uzairansaruzi/hermex — Native iPhone app for your Hermes agent",
+      "url": "https://github.com/uzairansaruzi/hermex",
+      "score": 6.13,
+      "niche": "ai",
+      "source": "github",
+      "engagement": {
+        "score": 507,
+        "comments": 46
+      }
+    },
+    {
+      "title": "🚨 Well that's that. The Barents Sea had its earliest melt-out of #Arctic sea ice on record this summer!ICYMI: I wrote up a blog on this extreme event: https://zacklabe.com/climate-viz-of-the-month/. ",
+      "url": "https://fediscience.org/@ZLabe/116862085251007144",
+      "score": 6.04,
+      "niche": "software",
+      "source": "mastodon",
+      "engagement": {
+        "score": 139,
+        "comments": 2
+      }
+    },
+    {
+      "title": "The Weekly Performance Edit: Best Workout Gear and Recovery Products This Week",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNU25McElTNEtZc3BPdkJGeWlXOWZlMzlrTEdvVmUteGJKcUgxV2U2bDVrQjdXZm5yN0VYa1hWc1o1UFNGQ1c0SFk4c3c0RnE4OHpFOGNLTnFTeHNUV1NVeHdVNjZlc0N2VTVSOU1EZzFTX24yaXAtc0FBSHlNMFlRV3d6N0NLZnNyYVo2M3RqTDlIeXBMZkVqdVdZUUxzVHpZTjlEWXdJOFdnS0Z3eFIw?oc=5",
+      "score": 5.78,
+      "niche": "gear",
+      "source": "gnews",
+      "engagement": {
+        "score": 40,
         "comments": 0
       }
     },
     {
-      "title": "Applied Category Theory Course (2018)",
-      "url": "https://math.ucr.edu/home/baez/act_course/index.html",
-      "score": 5.64,
-      "niche": "software",
-      "source": "hackernews",
+      "title": "yynxxxxx/Codex-X — Codex Switch & Instruct desktop manager",
+      "url": "https://github.com/yynxxxxx/Codex-X",
+      "score": 5.37,
+      "niche": "gear",
+      "source": "github",
       "engagement": {
-        "score": 132,
-        "comments": 11
+        "score": 121,
+        "comments": 0
+      }
+    },
+    {
+      "title": "4 student discounts for AI services that college students need to know",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5hR01WbTFNamFETkdWclFaYl83bHp4NkRfMUljeHVwRG5YSGlKWGRoeHNRNG5hcFhuTzhWVWtranBUVjg2ZXdfNVhjWmxnQVhKVllhdVdsU3BIVC1OUHN5R0JsNFhTYVNQLWphQg?oc=5",
+      "score": 5.37,
+      "niche": "ai",
+      "source": "gnews",
+      "engagement": {
+        "score": 40,
+        "comments": 0
+      }
+    },
+    {
+      "title": "jmerelnyc/Talos — GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payouts.",
+      "url": "https://github.com/jmerelnyc/Talos",
+      "score": 5.25,
+      "niche": "ai",
+      "source": "github",
+      "engagement": {
+        "score": 540,
+        "comments": 0
       }
     },
     {
@@ -212,68 +179,101 @@
       }
     },
     {
-      "title": "jmerelnyc/Talos — GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payouts.",
-      "url": "https://github.com/jmerelnyc/Talos",
-      "score": 5.17,
-      "niche": "ai",
-      "source": "github",
-      "engagement": {
-        "score": 491,
-        "comments": 0
-      }
-    },
-    {
       "title": "tomicz/fable-5-train-opus-skills-after-it-retires — Thsis is a prompt that will create skills by Fable 5 before it retires and your cheaper models can use those skills. ",
       "url": "https://github.com/tomicz/fable-5-train-opus-skills-after-it-retires",
-      "score": 5.11,
+      "score": 5.18,
       "niche": "ai",
       "source": "github",
       "engagement": {
-        "score": 111,
-        "comments": 0
-      }
-    },
-    {
-      "title": "Best Budgeting Apps Of 2026",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA3eVJUSVFBWHFLenE1MGJwZW5JXzlBbVlsRUtRbnY4Zk51X1l3R2JVSFRrbmhWZUs3OEdVUmx6cmpFNjVyUFFVRWk5N1MzYy1uSTFWVVJ0OGdTNjgtV1RUU3NibThsQm11c1pGNFl4QXhkZw?oc=5",
-      "score": 5.08,
-      "niche": "finance",
-      "source": "gnews",
-      "engagement": {
-        "score": 40,
-        "comments": 0
+        "score": 116,
+        "comments": 1
       }
     },
     {
       "title": "xuchonglang/investing-for-beginners — 小隐寺投资百科官方公开索引：美股、期权与加密货币知识框架",
       "url": "https://github.com/xuchonglang/investing-for-beginners",
-      "score": 5,
+      "score": 5.04,
       "niche": "finance",
       "source": "github",
       "engagement": {
-        "score": 602,
+        "score": 627,
+        "comments": 0
+      }
+    },
+    {
+      "title": "The Reports of Jim Carrey's Death Are a Failure Mode",
+      "url": "https://tane.dev/2026/07/the-reports-of-jim-carreys-death-are-a-failure-mode/",
+      "score": 5.02,
+      "niche": "ai",
+      "source": "hackernews",
+      "engagement": {
+        "score": 14,
+        "comments": 11
+      }
+    },
+    {
+      "title": "Kulaxyz/token-diet — Always-on token-efficiency skill for coding agents (Claude Code, Codex, Cursor, Windsurf, Cline). ~31% lower bill on average, no loss of correctness.",
+      "url": "https://github.com/Kulaxyz/token-diet",
+      "score": 4.96,
+      "niche": "ai",
+      "source": "github",
+      "engagement": {
+        "score": 381,
         "comments": 0
       }
     },
     {
       "title": "LinXiaoTao/FuckClaude — ",
       "url": "https://github.com/LinXiaoTao/FuckClaude",
-      "score": 4.93,
+      "score": 4.95,
       "niche": "ai",
       "source": "github",
       "engagement": {
-        "score": 359,
+        "score": 366,
         "comments": 5
       }
     },
     {
       "title": "rolekkona/bghira-bark — A 🍴 of a 🔊 Text-Prompted Generative Audio Model",
       "url": "https://github.com/rolekkona/bghira-bark",
-      "score": 4.72,
+      "score": 4.76,
       "niche": "ai",
       "source": "github",
       "engagement": {
-        "score": 137,
+        "score": 142,
+        "comments": 0
+      }
+    },
+    {
+      "title": "I Don't Maintain My Homelab",
+      "url": "https://cleberg.net/blog/homelab-maintenance.html",
+      "score": 4.66,
+      "niche": "ai",
+      "source": "lobsters",
+      "engagement": {
+        "score": 29,
+        "comments": 18
+      }
+    },
+    {
+      "title": "SuperJJ007/CSSwitch — 帮你的 Claude Science 一键接入你自己的 API：DeepSeek / 通义千问 / 智谱 GLM / Kimi / MiniMax / 小米 MiMo / 硅基流动 / OpenRouter / 任意 OpenAI·Anthropic 兼容端点",
+      "url": "https://github.com/SuperJJ007/CSSwitch",
+      "score": 4.57,
+      "niche": "ai",
+      "source": "github",
+      "engagement": {
+        "score": 209,
+        "comments": 15
+      }
+    },
+    {
+      "title": "Can Microsoft’s productivity apps survive the age of AI?",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPOUdsTXlXNVVudkhHNEtLNGRNejU3Y19uendOX28zMklWWmNFdEhMeFhiVEVFVFpkUzhHcWZENTMzOHYwajhPQVROb3RERzFVRm1hcm5IVUh3UDVFaFVVVHpmOU1DY2NFR0Y3VmwtSFBZTXFUa0dGU0RmVDBBQjN0YmJIZ0J3Q1d0emEwbFV4NUdDYXdwbzM1MHE3dGJiOHph?oc=5",
+      "score": 4.49,
+      "niche": "ai",
+      "source": "gnews",
+      "engagement": {
+        "score": 40,
         "comments": 0
       }
     }
@@ -281,12 +281,11 @@
   "topics": [
     {
       "keyword": "passive income",
-      "count": 45,
-      "score": 146.48593213814016,
+      "count": 42,
+      "score": 138.4736219379565,
       "proper": false,
       "niches": [
-        "finance",
-        "ai"
+        "finance"
       ],
       "examples": [
         {
@@ -295,8 +294,8 @@
           "source": "gnews"
         },
         {
-          "title": "My Top High-Yield Dividend Stock to Buy for Passive Income, Even If There's a Stock Market Crash",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVDBzVUZZa216OVBFcF81dE9oMDlGTEpma0s5SnUtdDdVT3hfWGFuckpiU19jbHVRZlhFY2g3cGg5dzlxT0JPX0M4UDJ2dHZGSy1FRG40N0ZQYTEwMDZkclZNWGVma2tRZkhHYkdCUjN3YWhvVGVKRDAzbjNFdm5lbm5JX2J5WWhKUTdlZEN1MURHSVBvbXBmblBn?oc=5",
+          "title": "How much do you need in an ISA to target a £3,000 monthly passive income with shares?",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdmJHRVdQa1IyR2pGUG9KTFZlY2FGVDgxYUZjaEh0UlZMVUFLM3lZYVBIaVdvaEQzNjZsdF9pVVNETHM5YlZZRVpldFNQbjhuVEJxVWVRMDNJLWI2aDZFc25SenFYclgybnlhaHBzUHNOYUZYWmJXLXJPS29mTWZoZUYwOTA4SzJNLVd4U2tlV25XX0VsZnVrQzV5bHhtMlBKenZPQVpkQTRpaFVPRm9BY0tvQUJVTjBCMG5mX1llQVhPQQ?oc=5",
           "source": "gnews"
         },
         {
@@ -305,13 +304,13 @@
           "source": "gnews"
         },
         {
-          "title": "Want $3,000 in Annual Passive Income? Invest $146,000 in Costco in July and Wait 10 Years. (But It's Not Just About the Dividend Income.)",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOM0hJdkR5U3l0WXZxSFNzNldMclFyeDJTX0dxcUNQdDVxRW4zRGczRmtTUHM2OWZ0QUpvdDlJWWZIa3BfaG1VSGlEOHc1SzVSOWhYaU5pa2lyV2Nhbk9URTlRRFVnWkJVWHoxUFV1bWtuOG1Icko2M05mRmNJb3JqckVrTG8zdDRXb1FLZGlIQVVoalVf?oc=5",
+          "title": "My Top High-Yield Dividend Stock to Buy for Passive Income, Even If There's a Stock Market Crash",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVDBzVUZZa216OVBFcF81dE9oMDlGTEpma0s5SnUtdDdVT3hfWGFuckpiU19jbHVRZlhFY2g3cGg5dzlxT0JPX0M4UDJ2dHZGSy1FRG40N0ZQYTEwMDZkclZNWGVma2tRZkhHYkdCUjN3YWhvVGVKRDAzbjNFdm5lbm5JX2J5WWhKUTdlZEN1MURHSVBvbXBmblBn?oc=5",
           "source": "gnews"
         },
         {
-          "title": "Want $3,000 in Annual Passive Income? Invest $146,000 in Costco in July and Wait 10 Years. (But It's Not Just About the Dividend Income.)",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOM0hJdkR5U3l0WXZxSFNzNldMclFyeDJTX0dxcUNQdDVxRW4zRGczRmtTUHM2OWZ0QUpvdDlJWWZIa3BfaG1VSGlEOHc1SzVSOWhYaU5pa2lyV2Nhbk9URTlRRFVnWkJVWHoxUFV1bWtuOG1Icko2M05mRmNJb3JqckVrTG8zdDRXb1FLZGlIQVVoalVf?oc=5",
+          "title": "Want a Lifetime of Passive Income? Buy Realty Income Stock in July and Never Sell.",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObVJHekxQZ2hJdXBQMlVlUGVwVUk0UjRMWUtJdHdxNF9vdVBLOUFGenExMmk5UHVrVjJaeGlpNmYwdXVHck5tMEVJTzA3WUt3UGRQa2JTazZGYzUxVkJYWEstN3FjY1NLcjcxcERwMG9mdU9tb0E3eVpFbmtfWjJRREVESHlHNXJIeHAxbmN0eG9XUnVxd0pPVw?oc=5",
           "source": "gnews"
         }
       ],
@@ -319,64 +318,40 @@
       "slug": "passive-income"
     },
     {
-      "keyword": "project gutenberg",
+      "keyword": "software experts",
       "count": 11,
-      "score": 136.30694742972804,
-      "proper": true,
-      "niches": [
-        "software"
-      ],
-      "examples": [
-        {
-          "title": "Happy 55th Birthday, Project Gutenberg! Let's celebrate!🎉 Project Gutenberg was founded on July 4, 1971, when Michael Hart typed the U.S. Declaration of Independence into an early internet-connected ",
-          "url": "https://mastodon.social/@gutenberg_org/116860757849700230",
-          "source": "mastodon"
-        },
-        {
-          "title": "Happy 55th Birthday, Project Gutenberg! Let's celebrate!🎉 Project Gutenberg was founded on July 4, 1971, when Michael Hart typed the U.S. Declaration of Independence into an early internet-connected ",
-          "url": "https://mastodon.social/@gutenberg_org/116860757849700230",
-          "source": "mastodon"
-        },
-        {
-          "title": "Happy 55th Birthday, Project Gutenberg! Let's celebrate!🎉 Project Gutenberg was founded on July 4, 1971, when Michael Hart typed the U.S. Declaration of Independence into an early internet-connected ",
-          "url": "https://mastodon.social/@gutenberg_org/116860757849700230",
-          "source": "mastodon"
-        }
-      ],
-      "id": "893ccde10eed",
-      "slug": "project-gutenberg"
-    },
-    {
-      "keyword": "cornell university",
-      "count": 8,
-      "score": 118.25605936904734,
+      "score": 108.99838417254662,
       "proper": true,
       "niches": [
         "ai"
       ],
       "examples": [
         {
-          "title": "The Merlin bird ID app will soon allow users to feed real-time bird identifications into the eBird platform to monitor bird populations and aid conservation efforts.The project at Cornell University t",
-          "url": "https://mastodon.world/@davidho/116861605644440882",
-          "source": "mastodon"
+          "title": "Best AI Content Creation Tools (2026): CapCut Recognized for AI-Powered Video and Image Creation by Software Experts",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPaEtPbjNkbW13QVdDYnVmVkxzUnc0cmx6R1hvdFJuYUc5WDhPOVlmdVFnYkItM2JmYkJ4TXNwMlZUZmNCdkx3a0h2dW9Gdjh1OE5aek9CR0J4akhOVGNhVzZkUVU3YXZZUUhMOGtkd0x0YXpJRVBxTVpnbWtCMkttM2FQZTJyaGtaYXNBWm9NdDJUWE1wQ0pVcGVB?oc=5",
+          "source": "gnews"
         },
         {
-          "title": "The Merlin bird ID app will soon allow users to feed real-time bird identifications into the eBird platform to monitor bird populations and aid conservation efforts.The project at Cornell University t",
-          "url": "https://mastodon.world/@davidho/116861605644440882",
-          "source": "mastodon"
+          "title": "Best AI Content Creation Tools (2026): CapCut Recognized for AI-Powered Video and Image Creation by Software Experts",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPaEtPbjNkbW13QVdDYnVmVkxzUnc0cmx6R1hvdFJuYUc5WDhPOVlmdVFnYkItM2JmYkJ4TXNwMlZUZmNCdkx3a0h2dW9Gdjh1OE5aek9CR0J4akhOVGNhVzZkUVU3YXZZUUhMOGtkd0x0YXpJRVBxTVpnbWtCMkttM2FQZTJyaGtaYXNBWm9NdDJUWE1wQ0pVcGVB?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Best AI Content Creation Tools (2026): CapCut Recognized for AI-Powered Video and Image Creation by Software Experts",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPaEtPbjNkbW13QVdDYnVmVkxzUnc0cmx6R1hvdFJuYUc5WDhPOVlmdVFnYkItM2JmYkJ4TXNwMlZUZmNCdkx3a0h2dW9Gdjh1OE5aek9CR0J4akhOVGNhVzZkUVU3YXZZUUhMOGtkd0x0YXpJRVBxTVpnbWtCMkttM2FQZTJyaGtaYXNBWm9NdDJUWE1wQ0pVcGVB?oc=5",
+          "source": "gnews"
         }
       ],
-      "id": "556024ebbe9f",
-      "slug": "cornell-university"
+      "id": "34dae3f3dd65",
+      "slug": "software-experts"
     },
     {
       "keyword": "income",
-      "count": 23,
-      "score": 113.63836332832923,
+      "count": 21,
+      "score": 104.2906680947817,
       "proper": true,
       "niches": [
-        "finance",
-        "ai"
+        "finance"
       ],
       "examples": [
         {
@@ -385,8 +360,8 @@
           "source": "gnews"
         },
         {
-          "title": "My Top High-Yield Dividend Stock to Buy for Passive Income, Even If There's a Stock Market Crash",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVDBzVUZZa216OVBFcF81dE9oMDlGTEpma0s5SnUtdDdVT3hfWGFuckpiU19jbHVRZlhFY2g3cGg5dzlxT0JPX0M4UDJ2dHZGSy1FRG40N0ZQYTEwMDZkclZNWGVma2tRZkhHYkdCUjN3YWhvVGVKRDAzbjNFdm5lbm5JX2J5WWhKUTdlZEN1MURHSVBvbXBmblBn?oc=5",
+          "title": "How much do you need in an ISA to target a £3,000 monthly passive income with shares?",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdmJHRVdQa1IyR2pGUG9KTFZlY2FGVDgxYUZjaEh0UlZMVUFLM3lZYVBIaVdvaEQzNjZsdF9pVVNETHM5YlZZRVpldFNQbjhuVEJxVWVRMDNJLWI2aDZFc25SenFYclgybnlhaHBzUHNOYUZYWmJXLXJPS29mTWZoZUYwOTA4SzJNLVd4U2tlV25XX0VsZnVrQzV5bHhtMlBKenZPQVpkQTRpaFVPRm9BY0tvQUJVTjBCMG5mX1llQVhPQQ?oc=5",
           "source": "gnews"
         },
         {
@@ -395,13 +370,13 @@
           "source": "gnews"
         },
         {
-          "title": "Want $3,000 in Annual Passive Income? Invest $146,000 in Costco in July and Wait 10 Years. (But It's Not Just About the Dividend Income.)",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOM0hJdkR5U3l0WXZxSFNzNldMclFyeDJTX0dxcUNQdDVxRW4zRGczRmtTUHM2OWZ0QUpvdDlJWWZIa3BfaG1VSGlEOHc1SzVSOWhYaU5pa2lyV2Nhbk9URTlRRFVnWkJVWHoxUFV1bWtuOG1Icko2M05mRmNJb3JqckVrTG8zdDRXb1FLZGlIQVVoalVf?oc=5",
+          "title": "My Top High-Yield Dividend Stock to Buy for Passive Income, Even If There's a Stock Market Crash",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVDBzVUZZa216OVBFcF81dE9oMDlGTEpma0s5SnUtdDdVT3hfWGFuckpiU19jbHVRZlhFY2g3cGg5dzlxT0JPX0M4UDJ2dHZGSy1FRG40N0ZQYTEwMDZkclZNWGVma2tRZkhHYkdCUjN3YWhvVGVKRDAzbjNFdm5lbm5JX2J5WWhKUTdlZEN1MURHSVBvbXBmblBn?oc=5",
           "source": "gnews"
         },
         {
-          "title": "Want $3,000 in Annual Passive Income? Invest $146,000 in Costco in July and Wait 10 Years. (But It's Not Just About the Dividend Income.)",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOM0hJdkR5U3l0WXZxSFNzNldMclFyeDJTX0dxcUNQdDVxRW4zRGczRmtTUHM2OWZ0QUpvdDlJWWZIa3BfaG1VSGlEOHc1SzVSOWhYaU5pa2lyV2Nhbk9URTlRRFVnWkJVWHoxUFV1bWtuOG1Icko2M05mRmNJb3JqckVrTG8zdDRXb1FLZGlIQVVoalVf?oc=5",
+          "title": "Want a Lifetime of Passive Income? Buy Realty Income Stock in July and Never Sell.",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObVJHekxQZ2hJdXBQMlVlUGVwVUk0UjRMWUtJdHdxNF9vdVBLOUFGenExMmk5UHVrVjJaeGlpNmYwdXVHck5tMEVJTzA3WUt3UGRQa2JTazZGYzUxVkJYWEstN3FjY1NLcjcxcERwMG9mdU9tb0E3eVpFbmtfWjJRREVESHlHNXJIeHAxbmN0eG9XUnVxd0pPVw?oc=5",
           "source": "gnews"
         }
       ],
@@ -409,122 +384,9 @@
       "slug": "income"
     },
     {
-      "keyword": "software",
-      "count": 16,
-      "score": 110.03528474653908,
-      "proper": true,
-      "niches": [
-        "ai",
-        "software"
-      ],
-      "examples": [
-        {
-          "title": "SOXX vs. CHAT ETF: Semiconductor Chips Beat AI Software",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRlRFSm9vc2xpdkRPeUVUd2t0dFlKazFVNVNRdnNEM2h2V3c0VG43bjU5c2Y3TVk5c1Jpa0lrS1hLdk9ZQnVIVlgyQnZkeXBIaU5FeGdhNVN6Ujh1ZTdZMDhOeVZUMTMwcG45Sk9iQlgxNHlJY2poU1lGWkZBakNlbU8ySVVTS0Z0RDBOOFozTDZUTTgyTFZuNVBnWEJNcWJsVUE?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "SOXX vs. CHAT ETF: Semiconductor Chips Beat AI Software",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRlRFSm9vc2xpdkRPeUVUd2t0dFlKazFVNVNRdnNEM2h2V3c0VG43bjU5c2Y3TVk5c1Jpa0lrS1hLdk9ZQnVIVlgyQnZkeXBIaU5FeGdhNVN6Ujh1ZTdZMDhOeVZUMTMwcG45Sk9iQlgxNHlJY2poU1lGWkZBakNlbU8ySVVTS0Z0RDBOOFozTDZUTTgyTFZuNVBnWEJNcWJsVUE?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "SOXX vs. CHAT ETF: Semiconductor Chips Beat AI Software",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRlRFSm9vc2xpdkRPeUVUd2t0dFlKazFVNVNRdnNEM2h2V3c0VG43bjU5c2Y3TVk5c1Jpa0lrS1hLdk9ZQnVIVlgyQnZkeXBIaU5FeGdhNVN6Ujh1ZTdZMDhOeVZUMTMwcG45Sk9iQlgxNHlJY2poU1lGWkZBakNlbU8ySVVTS0Z0RDBOOFozTDZUTTgyTFZuNVBnWEJNcWJsVUE?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "'Devin-kun': Japan embraces agents as legacy code and a shrinking workforce create a perfect market for an AI software engineer",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQTkd5RF92Q2hTdW9ibms2cFBobXE4VmM0c3RtUzVfdm5odTNSejdoazJWR3E3NEZZdjBwcFJLeFZDd0xwbEQzUE10T1FhSUR3QzJpY0d0cThNekFHUUVqaEpHakFBUXZWS0JzbmFQelhtRTdBQXhXMkpqVkZ3c3BuRQ?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "'Devin-kun': Japan embraces agents as legacy code and a shrinking workforce create a perfect market for an AI software engineer",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQTkd5RF92Q2hTdW9ibms2cFBobXE4VmM0c3RtUzVfdm5odTNSejdoazJWR3E3NEZZdjBwcFJLeFZDd0xwbEQzUE10T1FhSUR3QzJpY0d0cThNekFHUUVqaEpHakFBUXZWS0JzbmFQelhtRTdBQXhXMkpqVkZ3c3BuRQ?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "35390f5453e8",
-      "slug": "software"
-    },
-    {
-      "keyword": "sota llms",
-      "count": 8,
-      "score": 100.7292549435475,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "Jamesob's guide to running SOTA LLMs locally",
-          "url": "https://github.com/jamesob/local-llm",
-          "source": "hackernews"
-        },
-        {
-          "title": "Jamesob's guide to running SOTA LLMs locally",
-          "url": "https://github.com/jamesob/local-llm",
-          "source": "hackernews"
-        }
-      ],
-      "id": "92222701c5dd",
-      "slug": "sota-llms"
-    },
-    {
-      "keyword": "chat etf",
-      "count": 11,
-      "score": 97.92823578002233,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "SOXX vs. CHAT ETF: Semiconductor Chips Beat AI Software",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRlRFSm9vc2xpdkRPeUVUd2t0dFlKazFVNVNRdnNEM2h2V3c0VG43bjU5c2Y3TVk5c1Jpa0lrS1hLdk9ZQnVIVlgyQnZkeXBIaU5FeGdhNVN6Ujh1ZTdZMDhOeVZUMTMwcG45Sk9iQlgxNHlJY2poU1lGWkZBakNlbU8ySVVTS0Z0RDBOOFozTDZUTTgyTFZuNVBnWEJNcWJsVUE?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "SOXX vs. CHAT ETF: Semiconductor Chips Beat AI Software",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRlRFSm9vc2xpdkRPeUVUd2t0dFlKazFVNVNRdnNEM2h2V3c0VG43bjU5c2Y3TVk5c1Jpa0lrS1hLdk9ZQnVIVlgyQnZkeXBIaU5FeGdhNVN6Ujh1ZTdZMDhOeVZUMTMwcG45Sk9iQlgxNHlJY2poU1lGWkZBakNlbU8ySVVTS0Z0RDBOOFozTDZUTTgyTFZuNVBnWEJNcWJsVUE?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "SOXX vs. CHAT ETF: Semiconductor Chips Beat AI Software",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRlRFSm9vc2xpdkRPeUVUd2t0dFlKazFVNVNRdnNEM2h2V3c0VG43bjU5c2Y3TVk5c1Jpa0lrS1hLdk9ZQnVIVlgyQnZkeXBIaU5FeGdhNVN6Ujh1ZTdZMDhOeVZUMTMwcG45Sk9iQlgxNHlJY2poU1lGWkZBakNlbU8ySVVTS0Z0RDBOOFozTDZUTTgyTFZuNVBnWEJNcWJsVUE?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "2827d3ba8d4c",
-      "slug": "chat-etf"
-    },
-    {
-      "keyword": "msi center",
-      "count": 8,
-      "score": 82.18479329489097,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "MSI Center – How to gain SYSTEM privileges in seconds",
-          "url": "https://mrbruh.com/msicenter/",
-          "source": "hackernews"
-        },
-        {
-          "title": "MSI Center – How to gain SYSTEM privileges in seconds",
-          "url": "https://mrbruh.com/msicenter/",
-          "source": "hackernews"
-        }
-      ],
-      "id": "35a499b437a3",
-      "slug": "msi-center"
-    },
-    {
       "keyword": "side hustles",
-      "count": 23,
-      "score": 79.78925574349547,
+      "count": 35,
+      "score": 99.82003124395459,
       "proper": true,
       "niches": [
         "finance",
@@ -561,55 +423,230 @@
       "slug": "side-hustles"
     },
     {
-      "keyword": "informal guide",
+      "keyword": "happy birthday",
       "count": 8,
-      "score": 78.43197853427907,
+      "score": 91.25716358371979,
       "proper": true,
       "niches": [
-        "ai"
+        "software"
       ],
       "examples": [
         {
-          "title": "Soatok's Informal Guide to Threat Models",
-          "url": "https://soatok.blog/2026/06/30/soatoks-informal-guide-to-threat-models/",
-          "source": "hackernews"
+          "title": "Happy Birthday, #USA! #America250 #Americas250th #USPol #FirstAmendment #NoKings #StatueOfLiberty",
+          "url": "https://kolektiva.social/@DoomsdaysCW/116862268387936222",
+          "source": "mastodon"
         },
         {
-          "title": "Soatok's Informal Guide to Threat Models",
-          "url": "https://soatok.blog/2026/06/30/soatoks-informal-guide-to-threat-models/",
-          "source": "hackernews"
+          "title": "Happy Birthday, #USA! #America250 #Americas250th #USPol #FirstAmendment #NoKings #StatueOfLiberty",
+          "url": "https://kolektiva.social/@DoomsdaysCW/116862268387936222",
+          "source": "mastodon"
         }
       ],
-      "id": "715e85cad069",
-      "slug": "informal-guide"
+      "id": "d7469a66c4bb",
+      "slug": "happy-birthday"
     },
     {
-      "keyword": "threat models",
+      "keyword": "msi center",
       "count": 8,
-      "score": 78.43197853427907,
+      "score": 83.6339499780072,
       "proper": true,
       "niches": [
         "ai"
       ],
       "examples": [
         {
-          "title": "Soatok's Informal Guide to Threat Models",
-          "url": "https://soatok.blog/2026/06/30/soatoks-informal-guide-to-threat-models/",
+          "title": "MSI Center – How to gain SYSTEM privileges in seconds",
+          "url": "https://mrbruh.com/msicenter/",
           "source": "hackernews"
         },
         {
-          "title": "Soatok's Informal Guide to Threat Models",
-          "url": "https://soatok.blog/2026/06/30/soatoks-informal-guide-to-threat-models/",
+          "title": "MSI Center – How to gain SYSTEM privileges in seconds",
+          "url": "https://mrbruh.com/msicenter/",
           "source": "hackernews"
         }
       ],
-      "id": "fec171d177b3",
-      "slug": "threat-models"
+      "id": "35a499b437a3",
+      "slug": "msi-center"
+    },
+    {
+      "keyword": "sota llms",
+      "count": 8,
+      "score": 75.85082859031306,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "Jamesob's guide to running SOTA LLMs locally",
+          "url": "https://github.com/jamesob/local-llm",
+          "source": "hackernews"
+        },
+        {
+          "title": "Jamesob's guide to running SOTA LLMs locally",
+          "url": "https://github.com/jamesob/local-llm",
+          "source": "hackernews"
+        }
+      ],
+      "id": "92222701c5dd",
+      "slug": "sota-llms"
+    },
+    {
+      "keyword": "fitness gear",
+      "count": 20,
+      "score": 67.38856066917742,
+      "proper": true,
+      "niches": [
+        "ai",
+        "gear"
+      ],
+      "examples": [
+        {
+          "title": "Reebok Sale: Save on Nano Training Shoes, Apparel and Fitness Gear",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAxZ1c4TVlHQmlLZUhCMjRsRk1lT3hQQk0tV2lNYWJOaFZyY2ZHckczM1FXRGgyeEZSaXVPMXRDLWc0dGt3MlBCbzlTRmVFLXJYa3JJM0VnOVI0VlgwRjNHMF9tZ3hCZUlIZkZPag?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Reebok Sale: Save on Nano Training Shoes, Apparel and Fitness Gear",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAxZ1c4TVlHQmlLZUhCMjRsRk1lT3hQQk0tV2lNYWJOaFZyY2ZHckczM1FXRGgyeEZSaXVPMXRDLWc0dGt3MlBCbzlTRmVFLXJYa3JJM0VnOVI0VlgwRjNHMF9tZ3hCZUlIZkZPag?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "TFit Foundation donates fitness gear to Staten Island FDNY",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdDhOWFN6TF9kMEZZLWNQU09KdDM1bmVkV1ZaMkw2bmtDY25mMnVISjYwX0drQU5DWEJWbkVFalZpWWFmY2xPZXhkTkNTUGlsSVduNlQxa2h1TXptbVROUDRhVzBVUnlndnZLaWRuTUhKZU9JYmRwSldXa2NPSzZSN09hUkh0UWh1dXRVWlRpemFYZEJTX0ZQY25DV2otOEhM0gG0AUFVX3lxTE5JR0xEYXpsVE9nLTFXdEJ0RWZxQmRHYWVmZGpzaVlEdzR4bFMyd0E3RDJiM2VBWS14cktKMWVNeEdsR3pkSDM4djR2NEhEQ3lEbUxYT2JtX3J3MHhjUzd2aWNSbWxoSElRRFJiWV9vQzluMWNJWVNDU1oyT21NajBvSElzNTBMc3pZeVRiQmVpZVZqcTdmWVVWZEFieVhPbG1kUnpBYWhqY3F4SHVPZjVLRk84OA?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Fitness Gear on Sale for Early Prime Day",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9jNDZtZlhYOFMtWnloN2pMenFzSjhqZ0MyN3JMVHE1bVZENE5zT0hoQUpHVEpiSUhJb2Z6ZU85bmk2M3lKT1ctOTlqSlpyUVBZWDBWQkhZdUtiNWVTMDhTVmFGX295N2VWN3RDZHBPSHlaUzUtbzNR?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Fitness Gear on Sale for Early Prime Day",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9jNDZtZlhYOFMtWnloN2pMenFzSjhqZ0MyN3JMVHE1bVZENE5zT0hoQUpHVEpiSUhJb2Z6ZU85bmk2M3lKT1ctOTlqSlpyUVBZWDBWQkhZdUtiNWVTMDhTVmFGX295N2VWN3RDZHBPSHlaUzUtbzNR?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "a8b7e45842c3",
+      "slug": "fitness-gear"
+    },
+    {
+      "keyword": "reebok sale",
+      "count": 11,
+      "score": 66.42089035514559,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "Reebok Sale: Save on Nano Training Shoes, Apparel and Fitness Gear",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAxZ1c4TVlHQmlLZUhCMjRsRk1lT3hQQk0tV2lNYWJOaFZyY2ZHckczM1FXRGgyeEZSaXVPMXRDLWc0dGt3MlBCbzlTRmVFLXJYa3JJM0VnOVI0VlgwRjNHMF9tZ3hCZUlIZkZPag?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Reebok Sale: Save on Nano Training Shoes, Apparel and Fitness Gear",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAxZ1c4TVlHQmlLZUhCMjRsRk1lT3hQQk0tV2lNYWJOaFZyY2ZHckczM1FXRGgyeEZSaXVPMXRDLWc0dGt3MlBCbzlTRmVFLXJYa3JJM0VnOVI0VlgwRjNHMF9tZ3hCZUlIZkZPag?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Reebok Sale: Save on Nano Training Shoes, Apparel and Fitness Gear",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAxZ1c4TVlHQmlLZUhCMjRsRk1lT3hQQk0tV2lNYWJOaFZyY2ZHckczM1FXRGgyeEZSaXVPMXRDLWc0dGt3MlBCbzlTRmVFLXJYa3JJM0VnOVI0VlgwRjNHMF9tZ3hCZUlIZkZPag?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "6fa170efb19c",
+      "slug": "reebok-sale"
+    },
+    {
+      "keyword": "productivity apps",
+      "count": 30,
+      "score": 64.91132466525592,
+      "proper": false,
+      "niches": [
+        "ai",
+        "software"
+      ],
+      "examples": [
+        {
+          "title": "Can Microsoft’s productivity apps survive the age of AI?",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPOUdsTXlXNVVudkhHNEtLNGRNejU3Y19uendOX28zMklWWmNFdEhMeFhiVEVFVFpkUzhHcWZENTMzOHYwajhPQVROb3RERzFVRm1hcm5IVUh3UDVFaFVVVHpmOU1DY2NFR0Y3VmwtSFBZTXFUa0dGU0RmVDBBQjN0YmJIZ0J3Q1d0emEwbFV4NUdDYXdwbzM1MHE3dGJiOHph?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Can Microsoft’s productivity apps survive the age of AI?",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPOUdsTXlXNVVudkhHNEtLNGRNejU3Y19uendOX28zMklWWmNFdEhMeFhiVEVFVFpkUzhHcWZENTMzOHYwajhPQVROb3RERzFVRm1hcm5IVUh3UDVFaFVVVHpmOU1DY2NFR0Y3VmwtSFBZTXFUa0dGU0RmVDBBQjN0YmJIZ0J3Q1d0emEwbFV4NUdDYXdwbzM1MHE3dGJiOHph?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Why I ditched paid productivity apps for this free open-source alternative - How-To Geek",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTE9jOUhlQl9jazRtcXBDdERaa3FWaFNnV3dzZ1NkbTE2ckZhbGVaTTdFck4xMW50QktnbUFoS183YzJWcUprSTJEbjhYUkR0NlJmaWhZM0d4QkdaREhnV3JXMkZ2NktjWl9xTHNoWjVVbE85cnhKSTdvOWRkaGI5cGFRU01aSWF6V0tMVTdpY2R5ck5LYUF3ZzdqMUZLQQ?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Why I ditched paid productivity apps for this free open-source alternative - How-To Geek",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTE9jOUhlQl9jazRtcXBDdERaa3FWaFNnV3dzZ1NkbTE2ckZhbGVaTTdFck4xMW50QktnbUFoS183YzJWcUprSTJEbjhYUkR0NlJmaWhZM0d4QkdaREhnV3JXMkZ2NktjWl9xTHNoWjVVbE85cnhKSTdvOWRkaGI5cGFRU01aSWF6V0tMVTdpY2R5ck5LYUF3ZzdqMUZLQQ?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "The Best Productivity Apps for 2026",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1lTGlBVEtSUGh6ZURqUFFYMlpTUXlVU0VsZHQ5ZzhaMlBqUnBCTTcyTU9uczVSRzVwQ0docE45Sy1WVUxIOVpPSVp0TDJxM2ppY3dSMVlWU0FGS2MyMjBySDFCM0Jjano2OEliSWhkcWM?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "c3d816ac2a46",
+      "slug": "productivity-apps"
+    },
+    {
+      "keyword": "codex switch",
+      "count": 8,
+      "score": 64.49355508581782,
+      "proper": true,
+      "niches": [
+        "gear"
+      ],
+      "examples": [
+        {
+          "title": "yynxxxxx/Codex-X — Codex Switch & Instruct desktop manager",
+          "url": "https://github.com/yynxxxxx/Codex-X",
+          "source": "github"
+        },
+        {
+          "title": "yynxxxxx/Codex-X — Codex Switch & Instruct desktop manager",
+          "url": "https://github.com/yynxxxxx/Codex-X",
+          "source": "github"
+        }
+      ],
+      "id": "3f1ca610feb1",
+      "slug": "codex-switch"
+    },
+    {
+      "keyword": "failure mode",
+      "count": 8,
+      "score": 60.21894620417261,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "The Reports of Jim Carrey's Death Are a Failure Mode",
+          "url": "https://tane.dev/2026/07/the-reports-of-jim-carreys-death-are-a-failure-mode/",
+          "source": "hackernews"
+        },
+        {
+          "title": "The Reports of Jim Carrey's Death Are a Failure Mode",
+          "url": "https://tane.dev/2026/07/the-reports-of-jim-carreys-death-are-a-failure-mode/",
+          "source": "hackernews"
+        }
+      ],
+      "id": "52f0720fa009",
+      "slug": "failure-mode"
     },
     {
       "keyword": "claude code",
       "count": 8,
-      "score": 77.48948685331415,
+      "score": 59.490739881485766,
       "proper": true,
       "niches": [
         "ai"
@@ -630,84 +667,35 @@
       "slug": "claude-code"
     },
     {
-      "keyword": "galapagos island",
+      "keyword": "claude science",
       "count": 8,
-      "score": 74.29021566934259,
+      "score": 54.8400670090354,
       "proper": true,
       "niches": [
         "ai"
       ],
       "examples": [
         {
-          "title": "Agentic coding notes from Galapagos Island",
-          "url": "https://danluu.com/ai-coding/#appendix-agentic-loops-and-writing-this-post",
-          "source": "hackernews"
+          "title": "SuperJJ007/CSSwitch — 帮你的 Claude Science 一键接入你自己的 API：DeepSeek / 通义千问 / 智谱 GLM / Kimi / MiniMax / 小米 MiMo / 硅基流动 / OpenRouter / 任意 OpenAI·Anthropic 兼容端点",
+          "url": "https://github.com/SuperJJ007/CSSwitch",
+          "source": "github"
         },
         {
-          "title": "Agentic coding notes from Galapagos Island",
-          "url": "https://danluu.com/ai-coding/#appendix-agentic-loops-and-writing-this-post",
-          "source": "hackernews"
+          "title": "SuperJJ007/CSSwitch — 帮你的 Claude Science 一键接入你自己的 API：DeepSeek / 通义千问 / 智谱 GLM / Kimi / MiniMax / 小米 MiMo / 硅基流动 / OpenRouter / 任意 OpenAI·Anthropic 兼容端点",
+          "url": "https://github.com/SuperJJ007/CSSwitch",
+          "source": "github"
         }
       ],
-      "id": "9e77e95a75cc",
-      "slug": "galapagos-island"
+      "id": "1c498f330553",
+      "slug": "claude-science"
     },
     {
-      "keyword": "happy",
-      "count": 5,
-      "score": 61.957703377149116,
-      "proper": true,
-      "niches": [
-        "software"
-      ],
-      "examples": [
-        {
-          "title": "Happy 55th Birthday, Project Gutenberg! Let's celebrate!🎉 Project Gutenberg was founded on July 4, 1971, when Michael Hart typed the U.S. Declaration of Independence into an early internet-connected ",
-          "url": "https://mastodon.social/@gutenberg_org/116860757849700230",
-          "source": "mastodon"
-        }
-      ],
-      "id": "489f719cadf9",
-      "slug": "happy"
-    },
-    {
-      "keyword": "microsoft office",
-      "count": 11,
-      "score": 58.75694146801339,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "Indian tech tycoon bets $30M of his own money to build AI alternative to Microsoft Office",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNeWRfc3BGREc3NVQyVWVZQmF4VUN2Q1M4QzhQUVI2QjdLZUgxUjlZdjhCazlDYUUtTDJtRk51QllaLW5JYzViZXA0aXU0dU5iRnpRcmlRdW10WEhKN18yVW5aLXFlS1Y5UWRWNzM5Qk5LQmhoY2ZHT0J5ajlQMXB2cFdXR2xTNzhwZUR4UHkyckx0UzBuUGU3d1FOWWszTkVFMS1WbkQ1TjctWGlGYXc?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Indian tech tycoon bets $30M of his own money to build AI alternative to Microsoft Office",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNeWRfc3BGREc3NVQyVWVZQmF4VUN2Q1M4QzhQUVI2QjdLZUgxUjlZdjhCazlDYUUtTDJtRk51QllaLW5JYzViZXA0aXU0dU5iRnpRcmlRdW10WEhKN18yVW5aLXFlS1Y5UWRWNzM5Qk5LQmhoY2ZHT0J5ajlQMXB2cFdXR2xTNzhwZUR4UHkyckx0UzBuUGU3d1FOWWszTkVFMS1WbkQ1TjctWGlGYXc?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Indian tech tycoon bets $30M of his own money to build AI alternative to Microsoft Office",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNeWRfc3BGREc3NVQyVWVZQmF4VUN2Q1M4QzhQUVI2QjdLZUgxUjlZdjhCazlDYUUtTDJtRk51QllaLW5JYzViZXA0aXU0dU5iRnpRcmlRdW10WEhKN18yVW5aLXFlS1Y5UWRWNzM5Qk5LQmhoY2ZHT0J5ajlQMXB2cFdXR2xTNzhwZUR4UHkyckx0UzBuUGU3d1FOWWszTkVFMS1WbkQ1TjctWGlGYXc?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "365c74daf6f0",
-      "slug": "microsoft-office"
-    }
-  ],
-  "opportunities": [
-    {
-      "keyword": "passive income",
-      "count": 45,
-      "score": 146.48593213814016,
+      "keyword": "passive",
+      "count": 15,
+      "score": 50.609157423865305,
       "proper": false,
       "niches": [
-        "finance",
-        "ai"
+        "finance"
       ],
       "examples": [
         {
@@ -716,6 +704,51 @@
           "source": "gnews"
         },
         {
+          "title": "How much do you need in an ISA to target a £3,000 monthly passive income with shares?",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdmJHRVdQa1IyR2pGUG9KTFZlY2FGVDgxYUZjaEh0UlZMVUFLM3lZYVBIaVdvaEQzNjZsdF9pVVNETHM5YlZZRVpldFNQbjhuVEJxVWVRMDNJLWI2aDZFc25SenFYclgybnlhaHBzUHNOYUZYWmJXLXJPS29mTWZoZUYwOTA4SzJNLVd4U2tlV25XX0VsZnVrQzV5bHhtMlBKenZPQVpkQTRpaFVPRm9BY0tvQUJVTjBCMG5mX1llQVhPQQ?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "How much do you need in an ISA to target a £3,000 monthly passive income with shares?",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdmJHRVdQa1IyR2pGUG9KTFZlY2FGVDgxYUZjaEh0UlZMVUFLM3lZYVBIaVdvaEQzNjZsdF9pVVNETHM5YlZZRVpldFNQbjhuVEJxVWVRMDNJLWI2aDZFc25SenFYclgybnlhaHBzUHNOYUZYWmJXLXJPS29mTWZoZUYwOTA4SzJNLVd4U2tlV25XX0VsZnVrQzV5bHhtMlBKenZPQVpkQTRpaFVPRm9BY0tvQUJVTjBCMG5mX1llQVhPQQ?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "My Top High-Yield Dividend Stock to Buy for Passive Income, Even If There's a Stock Market Crash",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVDBzVUZZa216OVBFcF81dE9oMDlGTEpma0s5SnUtdDdVT3hfWGFuckpiU19jbHVRZlhFY2g3cGg5dzlxT0JPX0M4UDJ2dHZGSy1FRG40N0ZQYTEwMDZkclZNWGVma2tRZkhHYkdCUjN3YWhvVGVKRDAzbjNFdm5lbm5JX2J5WWhKUTdlZEN1MURHSVBvbXBmblBn?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "My Top High-Yield Dividend Stock to Buy for Passive Income, Even If There's a Stock Market Crash",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVDBzVUZZa216OVBFcF81dE9oMDlGTEpma0s5SnUtdDdVT3hfWGFuckpiU19jbHVRZlhFY2g3cGg5dzlxT0JPX0M4UDJ2dHZGSy1FRG40N0ZQYTEwMDZkclZNWGVma2tRZkhHYkdCUjN3YWhvVGVKRDAzbjNFdm5lbm5JX2J5WWhKUTdlZEN1MURHSVBvbXBmblBn?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "a7f1d7bc2124",
+      "slug": "passive"
+    }
+  ],
+  "opportunities": [
+    {
+      "keyword": "passive income",
+      "count": 42,
+      "score": 138.4736219379565,
+      "proper": false,
+      "niches": [
+        "finance"
+      ],
+      "examples": [
+        {
+          "title": "Rental Properties Need Work And Side Hustles Need Time. Dividend ETFs Are What One Investor Calls 'The Most Realistic Passive Income Source'",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQmNhV0ZZRDAycUFZUXdNQnh5djNybTlHTEEzQjlzVTJXWVFlUHJHYVJPLUJ2bEZJOGJJb2MyTFFLcHBhRzByMmgyS3Nsc3ROclpKSWVlSzd3aDFNT2M3ak1hYno4ZE1ha0p3cDN2cEZLNUNPTHZTRkFOSkhXZXBrVVgyRHE3MmNZZF9ZRXdkUUZXMXRWY2tlak9nVER0U3NOdEE?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "How much do you need in an ISA to target a £3,000 monthly passive income with shares?",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdmJHRVdQa1IyR2pGUG9KTFZlY2FGVDgxYUZjaEh0UlZMVUFLM3lZYVBIaVdvaEQzNjZsdF9pVVNETHM5YlZZRVpldFNQbjhuVEJxVWVRMDNJLWI2aDZFc25SenFYclgybnlhaHBzUHNOYUZYWmJXLXJPS29mTWZoZUYwOTA4SzJNLVd4U2tlV25XX0VsZnVrQzV5bHhtMlBKenZPQVpkQTRpaFVPRm9BY0tvQUJVTjBCMG5mX1llQVhPQQ?oc=5",
+          "source": "gnews"
+        },
+        {
           "title": "My Top High-Yield Dividend Stock to Buy for Passive Income, Even If There's a Stock Market Crash",
           "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVDBzVUZZa216OVBFcF81dE9oMDlGTEpma0s5SnUtdDdVT3hfWGFuckpiU19jbHVRZlhFY2g3cGg5dzlxT0JPX0M4UDJ2dHZGSy1FRG40N0ZQYTEwMDZkclZNWGVma2tRZkhHYkdCUjN3YWhvVGVKRDAzbjNFdm5lbm5JX2J5WWhKUTdlZEN1MURHSVBvbXBmblBn?oc=5",
           "source": "gnews"
@@ -726,13 +759,8 @@
           "source": "gnews"
         },
         {
-          "title": "Want $3,000 in Annual Passive Income? Invest $146,000 in Costco in July and Wait 10 Years. (But It's Not Just About the Dividend Income.)",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOM0hJdkR5U3l0WXZxSFNzNldMclFyeDJTX0dxcUNQdDVxRW4zRGczRmtTUHM2OWZ0QUpvdDlJWWZIa3BfaG1VSGlEOHc1SzVSOWhYaU5pa2lyV2Nhbk9URTlRRFVnWkJVWHoxUFV1bWtuOG1Icko2M05mRmNJb3JqckVrTG8zdDRXb1FLZGlIQVVoalVf?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Want $3,000 in Annual Passive Income? Invest $146,000 in Costco in July and Wait 10 Years. (But It's Not Just About the Dividend Income.)",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOM0hJdkR5U3l0WXZxSFNzNldMclFyeDJTX0dxcUNQdDVxRW4zRGczRmtTUHM2OWZ0QUpvdDlJWWZIa3BfaG1VSGlEOHc1SzVSOWhYaU5pa2lyV2Nhbk9URTlRRFVnWkJVWHoxUFV1bWtuOG1Icko2M05mRmNJb3JqckVrTG8zdDRXb1FLZGlIQVVoalVf?oc=5",
+          "title": "Want a Lifetime of Passive Income? Buy Realty Income Stock in July and Never Sell.",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObVJHekxQZ2hJdXBQMlVlUGVwVUk0UjRMWUtJdHdxNF9vdVBLOUFGenExMmk5UHVrVjJaeGlpNmYwdXVHck5tMEVJTzA3WUt3UGRQa2JTazZGYzUxVkJYWEstN3FjY1NLcjcxcERwMG9mdU9tb0E3eVpFbmtfWjJRREVESHlHNXJIeHAxbmN0eG9XUnVxd0pPVw?oc=5",
           "source": "gnews"
         }
       ],
@@ -744,59 +772,32 @@
       }
     },
     {
-      "keyword": "project gutenberg",
+      "keyword": "software experts",
       "count": 11,
-      "score": 136.30694742972804,
-      "proper": true,
-      "niches": [
-        "software"
-      ],
-      "examples": [
-        {
-          "title": "Happy 55th Birthday, Project Gutenberg! Let's celebrate!🎉 Project Gutenberg was founded on July 4, 1971, when Michael Hart typed the U.S. Declaration of Independence into an early internet-connected ",
-          "url": "https://mastodon.social/@gutenberg_org/116860757849700230",
-          "source": "mastodon"
-        },
-        {
-          "title": "Happy 55th Birthday, Project Gutenberg! Let's celebrate!🎉 Project Gutenberg was founded on July 4, 1971, when Michael Hart typed the U.S. Declaration of Independence into an early internet-connected ",
-          "url": "https://mastodon.social/@gutenberg_org/116860757849700230",
-          "source": "mastodon"
-        },
-        {
-          "title": "Happy 55th Birthday, Project Gutenberg! Let's celebrate!🎉 Project Gutenberg was founded on July 4, 1971, when Michael Hart typed the U.S. Declaration of Independence into an early internet-connected ",
-          "url": "https://mastodon.social/@gutenberg_org/116860757849700230",
-          "source": "mastodon"
-        }
-      ],
-      "id": "893ccde10eed",
-      "slug": "project-gutenberg",
-      "opportunity": {
-        "type": "affiliate",
-        "recommended": "Write SEO comparison/roundup article with affiliate links."
-      }
-    },
-    {
-      "keyword": "cornell university",
-      "count": 8,
-      "score": 118.25605936904734,
+      "score": 108.99838417254662,
       "proper": true,
       "niches": [
         "ai"
       ],
       "examples": [
         {
-          "title": "The Merlin bird ID app will soon allow users to feed real-time bird identifications into the eBird platform to monitor bird populations and aid conservation efforts.The project at Cornell University t",
-          "url": "https://mastodon.world/@davidho/116861605644440882",
-          "source": "mastodon"
+          "title": "Best AI Content Creation Tools (2026): CapCut Recognized for AI-Powered Video and Image Creation by Software Experts",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPaEtPbjNkbW13QVdDYnVmVkxzUnc0cmx6R1hvdFJuYUc5WDhPOVlmdVFnYkItM2JmYkJ4TXNwMlZUZmNCdkx3a0h2dW9Gdjh1OE5aek9CR0J4akhOVGNhVzZkUVU3YXZZUUhMOGtkd0x0YXpJRVBxTVpnbWtCMkttM2FQZTJyaGtaYXNBWm9NdDJUWE1wQ0pVcGVB?oc=5",
+          "source": "gnews"
         },
         {
-          "title": "The Merlin bird ID app will soon allow users to feed real-time bird identifications into the eBird platform to monitor bird populations and aid conservation efforts.The project at Cornell University t",
-          "url": "https://mastodon.world/@davidho/116861605644440882",
-          "source": "mastodon"
+          "title": "Best AI Content Creation Tools (2026): CapCut Recognized for AI-Powered Video and Image Creation by Software Experts",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPaEtPbjNkbW13QVdDYnVmVkxzUnc0cmx6R1hvdFJuYUc5WDhPOVlmdVFnYkItM2JmYkJ4TXNwMlZUZmNCdkx3a0h2dW9Gdjh1OE5aek9CR0J4akhOVGNhVzZkUVU3YXZZUUhMOGtkd0x0YXpJRVBxTVpnbWtCMkttM2FQZTJyaGtaYXNBWm9NdDJUWE1wQ0pVcGVB?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Best AI Content Creation Tools (2026): CapCut Recognized for AI-Powered Video and Image Creation by Software Experts",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPaEtPbjNkbW13QVdDYnVmVkxzUnc0cmx6R1hvdFJuYUc5WDhPOVlmdVFnYkItM2JmYkJ4TXNwMlZUZmNCdkx3a0h2dW9Gdjh1OE5aek9CR0J4akhOVGNhVzZkUVU3YXZZUUhMOGtkd0x0YXpJRVBxTVpnbWtCMkttM2FQZTJyaGtaYXNBWm9NdDJUWE1wQ0pVcGVB?oc=5",
+          "source": "gnews"
         }
       ],
-      "id": "556024ebbe9f",
-      "slug": "cornell-university",
+      "id": "34dae3f3dd65",
+      "slug": "software-experts",
       "opportunity": {
         "type": "niche-content",
         "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
@@ -804,8 +805,50 @@
     },
     {
       "keyword": "income",
-      "count": 23,
-      "score": 113.63836332832923,
+      "count": 21,
+      "score": 104.2906680947817,
+      "proper": true,
+      "niches": [
+        "finance"
+      ],
+      "examples": [
+        {
+          "title": "Rental Properties Need Work And Side Hustles Need Time. Dividend ETFs Are What One Investor Calls 'The Most Realistic Passive Income Source'",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQmNhV0ZZRDAycUFZUXdNQnh5djNybTlHTEEzQjlzVTJXWVFlUHJHYVJPLUJ2bEZJOGJJb2MyTFFLcHBhRzByMmgyS3Nsc3ROclpKSWVlSzd3aDFNT2M3ak1hYno4ZE1ha0p3cDN2cEZLNUNPTHZTRkFOSkhXZXBrVVgyRHE3MmNZZF9ZRXdkUUZXMXRWY2tlak9nVER0U3NOdEE?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "How much do you need in an ISA to target a £3,000 monthly passive income with shares?",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdmJHRVdQa1IyR2pGUG9KTFZlY2FGVDgxYUZjaEh0UlZMVUFLM3lZYVBIaVdvaEQzNjZsdF9pVVNETHM5YlZZRVpldFNQbjhuVEJxVWVRMDNJLWI2aDZFc25SenFYclgybnlhaHBzUHNOYUZYWmJXLXJPS29mTWZoZUYwOTA4SzJNLVd4U2tlV25XX0VsZnVrQzV5bHhtMlBKenZPQVpkQTRpaFVPRm9BY0tvQUJVTjBCMG5mX1llQVhPQQ?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "My Top High-Yield Dividend Stock to Buy for Passive Income, Even If There's a Stock Market Crash",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVDBzVUZZa216OVBFcF81dE9oMDlGTEpma0s5SnUtdDdVT3hfWGFuckpiU19jbHVRZlhFY2g3cGg5dzlxT0JPX0M4UDJ2dHZGSy1FRG40N0ZQYTEwMDZkclZNWGVma2tRZkhHYkdCUjN3YWhvVGVKRDAzbjNFdm5lbm5JX2J5WWhKUTdlZEN1MURHSVBvbXBmblBn?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "My Top High-Yield Dividend Stock to Buy for Passive Income, Even If There's a Stock Market Crash",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVDBzVUZZa216OVBFcF81dE9oMDlGTEpma0s5SnUtdDdVT3hfWGFuckpiU19jbHVRZlhFY2g3cGg5dzlxT0JPX0M4UDJ2dHZGSy1FRG40N0ZQYTEwMDZkclZNWGVma2tRZkhHYkdCUjN3YWhvVGVKRDAzbjNFdm5lbm5JX2J5WWhKUTdlZEN1MURHSVBvbXBmblBn?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Want a Lifetime of Passive Income? Buy Realty Income Stock in July and Never Sell.",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObVJHekxQZ2hJdXBQMlVlUGVwVUk0UjRMWUtJdHdxNF9vdVBLOUFGenExMmk5UHVrVjJaeGlpNmYwdXVHck5tMEVJTzA3WUt3UGRQa2JTazZGYzUxVkJYWEstN3FjY1NLcjcxcERwMG9mdU9tb0E3eVpFbmtfWjJRREVESHlHNXJIeHAxbmN0eG9XUnVxd0pPVw?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "00cf141f881d",
+      "slug": "income",
+      "opportunity": {
+        "type": "niche-content",
+        "recommended": "Publish niche guide for \"finance\"; bundle into digital product later."
+      }
+    },
+    {
+      "keyword": "side hustles",
+      "count": 35,
+      "score": 99.82003124395459,
       "proper": true,
       "niches": [
         "finance",
@@ -818,71 +861,82 @@
           "source": "gnews"
         },
         {
-          "title": "My Top High-Yield Dividend Stock to Buy for Passive Income, Even If There's a Stock Market Crash",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVDBzVUZZa216OVBFcF81dE9oMDlGTEpma0s5SnUtdDdVT3hfWGFuckpiU19jbHVRZlhFY2g3cGg5dzlxT0JPX0M4UDJ2dHZGSy1FRG40N0ZQYTEwMDZkclZNWGVma2tRZkhHYkdCUjN3YWhvVGVKRDAzbjNFdm5lbm5JX2J5WWhKUTdlZEN1MURHSVBvbXBmblBn?oc=5",
+          "title": "Rental Properties Need Work And Side Hustles Need Time. Dividend ETFs Are What One Investor Calls 'The Most Realistic Passive Income Source'",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQmNhV0ZZRDAycUFZUXdNQnh5djNybTlHTEEzQjlzVTJXWVFlUHJHYVJPLUJ2bEZJOGJJb2MyTFFLcHBhRzByMmgyS3Nsc3ROclpKSWVlSzd3aDFNT2M3ak1hYno4ZE1ha0p3cDN2cEZLNUNPTHZTRkFOSkhXZXBrVVgyRHE3MmNZZF9ZRXdkUUZXMXRWY2tlak9nVER0U3NOdEE?oc=5",
           "source": "gnews"
         },
         {
-          "title": "My Top High-Yield Dividend Stock to Buy for Passive Income, Even If There's a Stock Market Crash",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVDBzVUZZa216OVBFcF81dE9oMDlGTEpma0s5SnUtdDdVT3hfWGFuckpiU19jbHVRZlhFY2g3cGg5dzlxT0JPX0M4UDJ2dHZGSy1FRG40N0ZQYTEwMDZkclZNWGVma2tRZkhHYkdCUjN3YWhvVGVKRDAzbjNFdm5lbm5JX2J5WWhKUTdlZEN1MURHSVBvbXBmblBn?oc=5",
+          "title": "Where Side Hustles Businesses Are Booming: The Top Cities in America Right Now",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObFpWbjdRdlZXUUpYay1DX2ljUmU0TWJUdjZZN09MNkFWc0oyU1Q5NnJXNVprMVNCVzVoNVluYUNxY3Q0SzI5OHhrQkxJeG5LR0lyTGxCMUFNZUtmUmdLakRub1VoWXhIWEtvMjZidzVwWFdLcEpoVXA2NFZSU2pDMGZqb1FHSmVtWUFNaVI5dlhPZER3aTJzSXJwVjNfWkVRXzlRaGZSV181azlYTXlHUzNPa0I2eUw2Ukkw?oc=5",
           "source": "gnews"
         },
         {
-          "title": "Want $3,000 in Annual Passive Income? Invest $146,000 in Costco in July and Wait 10 Years. (But It's Not Just About the Dividend Income.)",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOM0hJdkR5U3l0WXZxSFNzNldMclFyeDJTX0dxcUNQdDVxRW4zRGczRmtTUHM2OWZ0QUpvdDlJWWZIa3BfaG1VSGlEOHc1SzVSOWhYaU5pa2lyV2Nhbk9URTlRRFVnWkJVWHoxUFV1bWtuOG1Icko2M05mRmNJb3JqckVrTG8zdDRXb1FLZGlIQVVoalVf?oc=5",
+          "title": "Where Side Hustles Businesses Are Booming: The Top Cities in America Right Now",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObFpWbjdRdlZXUUpYay1DX2ljUmU0TWJUdjZZN09MNkFWc0oyU1Q5NnJXNVprMVNCVzVoNVluYUNxY3Q0SzI5OHhrQkxJeG5LR0lyTGxCMUFNZUtmUmdLakRub1VoWXhIWEtvMjZidzVwWFdLcEpoVXA2NFZSU2pDMGZqb1FHSmVtWUFNaVI5dlhPZER3aTJzSXJwVjNfWkVRXzlRaGZSV181azlYTXlHUzNPa0I2eUw2Ukkw?oc=5",
           "source": "gnews"
         },
         {
-          "title": "Want $3,000 in Annual Passive Income? Invest $146,000 in Costco in July and Wait 10 Years. (But It's Not Just About the Dividend Income.)",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOM0hJdkR5U3l0WXZxSFNzNldMclFyeDJTX0dxcUNQdDVxRW4zRGczRmtTUHM2OWZ0QUpvdDlJWWZIa3BfaG1VSGlEOHc1SzVSOWhYaU5pa2lyV2Nhbk9URTlRRFVnWkJVWHoxUFV1bWtuOG1Icko2M05mRmNJb3JqckVrTG8zdDRXb1FLZGlIQVVoalVf?oc=5",
+          "title": "11 Side Hustles from Home and How to Get Started",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA4TVVRczNSdlMzM1ZCNERKZExPNGUzejhRYUdfSlJWT1oxbUdPdDc5MmhSYldvNmZFZ3V4S2xYMkkxVXh3TmIyUWZOVDBqQzE2QVlnd1piNHdoaVN4SVpwMDZNeHVycDdtb2pF?oc=5",
           "source": "gnews"
         }
       ],
-      "id": "00cf141f881d",
-      "slug": "income",
+      "id": "c69e96fd90af",
+      "slug": "side-hustles",
       "opportunity": {
         "type": "niche-content",
         "recommended": "Publish niche guide for \"finance\"; bundle into digital product later."
       }
     },
     {
-      "keyword": "software",
-      "count": 16,
-      "score": 110.03528474653908,
+      "keyword": "happy birthday",
+      "count": 8,
+      "score": 91.25716358371979,
       "proper": true,
       "niches": [
-        "ai",
         "software"
       ],
       "examples": [
         {
-          "title": "SOXX vs. CHAT ETF: Semiconductor Chips Beat AI Software",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRlRFSm9vc2xpdkRPeUVUd2t0dFlKazFVNVNRdnNEM2h2V3c0VG43bjU5c2Y3TVk5c1Jpa0lrS1hLdk9ZQnVIVlgyQnZkeXBIaU5FeGdhNVN6Ujh1ZTdZMDhOeVZUMTMwcG45Sk9iQlgxNHlJY2poU1lGWkZBakNlbU8ySVVTS0Z0RDBOOFozTDZUTTgyTFZuNVBnWEJNcWJsVUE?oc=5",
-          "source": "gnews"
+          "title": "Happy Birthday, #USA! #America250 #Americas250th #USPol #FirstAmendment #NoKings #StatueOfLiberty",
+          "url": "https://kolektiva.social/@DoomsdaysCW/116862268387936222",
+          "source": "mastodon"
         },
         {
-          "title": "SOXX vs. CHAT ETF: Semiconductor Chips Beat AI Software",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRlRFSm9vc2xpdkRPeUVUd2t0dFlKazFVNVNRdnNEM2h2V3c0VG43bjU5c2Y3TVk5c1Jpa0lrS1hLdk9ZQnVIVlgyQnZkeXBIaU5FeGdhNVN6Ujh1ZTdZMDhOeVZUMTMwcG45Sk9iQlgxNHlJY2poU1lGWkZBakNlbU8ySVVTS0Z0RDBOOFozTDZUTTgyTFZuNVBnWEJNcWJsVUE?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "SOXX vs. CHAT ETF: Semiconductor Chips Beat AI Software",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRlRFSm9vc2xpdkRPeUVUd2t0dFlKazFVNVNRdnNEM2h2V3c0VG43bjU5c2Y3TVk5c1Jpa0lrS1hLdk9ZQnVIVlgyQnZkeXBIaU5FeGdhNVN6Ujh1ZTdZMDhOeVZUMTMwcG45Sk9iQlgxNHlJY2poU1lGWkZBakNlbU8ySVVTS0Z0RDBOOFozTDZUTTgyTFZuNVBnWEJNcWJsVUE?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "'Devin-kun': Japan embraces agents as legacy code and a shrinking workforce create a perfect market for an AI software engineer",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQTkd5RF92Q2hTdW9ibms2cFBobXE4VmM0c3RtUzVfdm5odTNSejdoazJWR3E3NEZZdjBwcFJLeFZDd0xwbEQzUE10T1FhSUR3QzJpY0d0cThNekFHUUVqaEpHakFBUXZWS0JzbmFQelhtRTdBQXhXMkpqVkZ3c3BuRQ?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "'Devin-kun': Japan embraces agents as legacy code and a shrinking workforce create a perfect market for an AI software engineer",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQTkd5RF92Q2hTdW9ibms2cFBobXE4VmM0c3RtUzVfdm5odTNSejdoazJWR3E3NEZZdjBwcFJLeFZDd0xwbEQzUE10T1FhSUR3QzJpY0d0cThNekFHUUVqaEpHakFBUXZWS0JzbmFQelhtRTdBQXhXMkpqVkZ3c3BuRQ?oc=5",
-          "source": "gnews"
+          "title": "Happy Birthday, #USA! #America250 #Americas250th #USPol #FirstAmendment #NoKings #StatueOfLiberty",
+          "url": "https://kolektiva.social/@DoomsdaysCW/116862268387936222",
+          "source": "mastodon"
         }
       ],
-      "id": "35390f5453e8",
-      "slug": "software",
+      "id": "d7469a66c4bb",
+      "slug": "happy-birthday",
+      "opportunity": {
+        "type": "affiliate",
+        "recommended": "Write SEO comparison/roundup article with affiliate links."
+      }
+    },
+    {
+      "keyword": "msi center",
+      "count": 8,
+      "score": 83.6339499780072,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "MSI Center – How to gain SYSTEM privileges in seconds",
+          "url": "https://mrbruh.com/msicenter/",
+          "source": "hackernews"
+        },
+        {
+          "title": "MSI Center – How to gain SYSTEM privileges in seconds",
+          "url": "https://mrbruh.com/msicenter/",
+          "source": "hackernews"
+        }
+      ],
+      "id": "35a499b437a3",
+      "slug": "msi-center",
       "opportunity": {
         "type": "niche-content",
         "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
@@ -891,7 +945,7 @@
     {
       "keyword": "sota llms",
       "count": 8,
-      "score": 100.7292549435475,
+      "score": 75.85082859031306,
       "proper": true,
       "niches": [
         "ai"
@@ -916,62 +970,46 @@
       }
     },
     {
-      "keyword": "chat etf",
-      "count": 11,
-      "score": 97.92823578002233,
+      "keyword": "fitness gear",
+      "count": 20,
+      "score": 67.38856066917742,
       "proper": true,
       "niches": [
-        "ai"
+        "ai",
+        "gear"
       ],
       "examples": [
         {
-          "title": "SOXX vs. CHAT ETF: Semiconductor Chips Beat AI Software",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRlRFSm9vc2xpdkRPeUVUd2t0dFlKazFVNVNRdnNEM2h2V3c0VG43bjU5c2Y3TVk5c1Jpa0lrS1hLdk9ZQnVIVlgyQnZkeXBIaU5FeGdhNVN6Ujh1ZTdZMDhOeVZUMTMwcG45Sk9iQlgxNHlJY2poU1lGWkZBakNlbU8ySVVTS0Z0RDBOOFozTDZUTTgyTFZuNVBnWEJNcWJsVUE?oc=5",
+          "title": "Reebok Sale: Save on Nano Training Shoes, Apparel and Fitness Gear",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAxZ1c4TVlHQmlLZUhCMjRsRk1lT3hQQk0tV2lNYWJOaFZyY2ZHckczM1FXRGgyeEZSaXVPMXRDLWc0dGt3MlBCbzlTRmVFLXJYa3JJM0VnOVI0VlgwRjNHMF9tZ3hCZUlIZkZPag?oc=5",
           "source": "gnews"
         },
         {
-          "title": "SOXX vs. CHAT ETF: Semiconductor Chips Beat AI Software",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRlRFSm9vc2xpdkRPeUVUd2t0dFlKazFVNVNRdnNEM2h2V3c0VG43bjU5c2Y3TVk5c1Jpa0lrS1hLdk9ZQnVIVlgyQnZkeXBIaU5FeGdhNVN6Ujh1ZTdZMDhOeVZUMTMwcG45Sk9iQlgxNHlJY2poU1lGWkZBakNlbU8ySVVTS0Z0RDBOOFozTDZUTTgyTFZuNVBnWEJNcWJsVUE?oc=5",
+          "title": "Reebok Sale: Save on Nano Training Shoes, Apparel and Fitness Gear",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAxZ1c4TVlHQmlLZUhCMjRsRk1lT3hQQk0tV2lNYWJOaFZyY2ZHckczM1FXRGgyeEZSaXVPMXRDLWc0dGt3MlBCbzlTRmVFLXJYa3JJM0VnOVI0VlgwRjNHMF9tZ3hCZUlIZkZPag?oc=5",
           "source": "gnews"
         },
         {
-          "title": "SOXX vs. CHAT ETF: Semiconductor Chips Beat AI Software",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRlRFSm9vc2xpdkRPeUVUd2t0dFlKazFVNVNRdnNEM2h2V3c0VG43bjU5c2Y3TVk5c1Jpa0lrS1hLdk9ZQnVIVlgyQnZkeXBIaU5FeGdhNVN6Ujh1ZTdZMDhOeVZUMTMwcG45Sk9iQlgxNHlJY2poU1lGWkZBakNlbU8ySVVTS0Z0RDBOOFozTDZUTTgyTFZuNVBnWEJNcWJsVUE?oc=5",
+          "title": "TFit Foundation donates fitness gear to Staten Island FDNY",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdDhOWFN6TF9kMEZZLWNQU09KdDM1bmVkV1ZaMkw2bmtDY25mMnVISjYwX0drQU5DWEJWbkVFalZpWWFmY2xPZXhkTkNTUGlsSVduNlQxa2h1TXptbVROUDRhVzBVUnlndnZLaWRuTUhKZU9JYmRwSldXa2NPSzZSN09hUkh0UWh1dXRVWlRpemFYZEJTX0ZQY25DV2otOEhM0gG0AUFVX3lxTE5JR0xEYXpsVE9nLTFXdEJ0RWZxQmRHYWVmZGpzaVlEdzR4bFMyd0E3RDJiM2VBWS14cktKMWVNeEdsR3pkSDM4djR2NEhEQ3lEbUxYT2JtX3J3MHhjUzd2aWNSbWxoSElRRFJiWV9vQzluMWNJWVNDU1oyT21NajBvSElzNTBMc3pZeVRiQmVpZVZqcTdmWVVWZEFieVhPbG1kUnpBYWhqY3F4SHVPZjVLRk84OA?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Fitness Gear on Sale for Early Prime Day",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9jNDZtZlhYOFMtWnloN2pMenFzSjhqZ0MyN3JMVHE1bVZENE5zT0hoQUpHVEpiSUhJb2Z6ZU85bmk2M3lKT1ctOTlqSlpyUVBZWDBWQkhZdUtiNWVTMDhTVmFGX295N2VWN3RDZHBPSHlaUzUtbzNR?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Fitness Gear on Sale for Early Prime Day",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9jNDZtZlhYOFMtWnloN2pMenFzSjhqZ0MyN3JMVHE1bVZENE5zT0hoQUpHVEpiSUhJb2Z6ZU85bmk2M3lKT1ctOTlqSlpyUVBZWDBWQkhZdUtiNWVTMDhTVmFGX295N2VWN3RDZHBPSHlaUzUtbzNR?oc=5",
           "source": "gnews"
         }
       ],
-      "id": "2827d3ba8d4c",
-      "slug": "chat-etf",
+      "id": "a8b7e45842c3",
+      "slug": "fitness-gear",
       "opportunity": {
-        "type": "niche-content",
-        "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
-      }
-    },
-    {
-      "keyword": "msi center",
-      "count": 8,
-      "score": 82.18479329489097,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "MSI Center – How to gain SYSTEM privileges in seconds",
-          "url": "https://mrbruh.com/msicenter/",
-          "source": "hackernews"
-        },
-        {
-          "title": "MSI Center – How to gain SYSTEM privileges in seconds",
-          "url": "https://mrbruh.com/msicenter/",
-          "source": "hackernews"
-        }
-      ],
-      "id": "35a499b437a3",
-      "slug": "msi-center",
-      "opportunity": {
-        "type": "niche-content",
-        "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
+        "type": "affiliate",
+        "recommended": "Write SEO comparison/roundup article with affiliate links."
       }
     }
   ]

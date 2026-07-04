@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "slug": "buy-passive-2026-07-04",
+      "topic": "Buy Passive",
+      "date": "2026-07-04",
+      "niche": "finance",
+      "file": "social/buy-passive-2026-07-04.md"
+    },
+    {
       "slug": "claude-mythos-preview-2026-07-04",
       "topic": "Claude Mythos Preview",
       "date": "2026-07-04",
@@ -1392,13 +1399,6 @@
       "date": "2026-06-12",
       "niche": "ai",
       "file": "social/free-open-source-2026-06-12.md"
-    },
-    {
-      "slug": "mtg-bench-2026-06-12",
-      "topic": "Mtg Bench",
-      "date": "2026-06-12",
-      "niche": "ai",
-      "file": "social/mtg-bench-2026-06-12.md"
     }
   ]
 }

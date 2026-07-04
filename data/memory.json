@@ -1184,14 +1184,6 @@
       "losses": 0,
       "niche": "ai"
     },
-    "6f6f6f-yahoo": {
-      "firstSeen": "2026-06-08T22:19:31.466Z",
-      "lastSeen": "2026-06-20T15:03:04.277Z",
-      "count": 2,
-      "wins": 0,
-      "losses": 0,
-      "niche": "finance"
-    },
     "model": {
       "firstSeen": "2026-06-09T05:02:11.965Z",
       "lastSeen": "2026-06-09T15:53:10.642Z",
@@ -1694,14 +1686,6 @@
       "count": 2,
       "wins": 1,
       "losses": 0,
-      "niche": "ai"
-    },
-    "grande-bible": {
-      "firstSeen": "2026-06-15T06:21:59.822Z",
-      "lastSeen": "2026-06-20T15:02:22.389Z",
-      "count": 2,
-      "wins": 0,
-      "losses": 1,
       "niche": "ai"
     },
     "billion-deal": {
@@ -2214,22 +2198,6 @@
       "count": 2,
       "wins": 0,
       "losses": 1,
-      "niche": "ai"
-    },
-    "tech-gadgets": {
-      "firstSeen": "2026-06-20T15:02:56.920Z",
-      "lastSeen": "2026-06-20T15:02:56.920Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "ai"
-    },
-    "less-than": {
-      "firstSeen": "2026-06-20T15:03:18.059Z",
-      "lastSeen": "2026-06-20T15:03:18.059Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
       "niche": "ai"
     },
     "claude-guillemot": {
@@ -3610,8 +3578,8 @@
     },
     "buy-passive": {
       "firstSeen": "2026-06-27T21:51:48.068Z",
-      "lastSeen": "2026-06-27T21:51:48.068Z",
-      "count": 1,
+      "lastSeen": "2026-07-04T16:53:56.987Z",
+      "count": 2,
       "wins": 0,
       "losses": 0,
       "niche": "finance"
@@ -4722,9 +4690,9 @@
     },
     "chat-etf": {
       "firstSeen": "2026-07-04T14:27:42.108Z",
-      "lastSeen": "2026-07-04T14:27:42.108Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-07-04T16:53:39.066Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -4743,16 +4711,40 @@
       "wins": 0,
       "losses": 0,
       "niche": "ai"
+    },
+    "codex-switch": {
+      "firstSeen": "2026-07-04T16:53:45.119Z",
+      "lastSeen": "2026-07-04T16:53:45.119Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "gear"
+    },
+    "failure-mode": {
+      "firstSeen": "2026-07-04T16:53:47.821Z",
+      "lastSeen": "2026-07-04T16:53:47.821Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "content-creation": {
+      "firstSeen": "2026-07-04T16:53:50.785Z",
+      "lastSeen": "2026-07-04T16:53:50.785Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
     }
   },
   "niches": {
     "ai": {
-      "count": 1052,
-      "wins": 295,
+      "count": 1055,
+      "wins": 296,
       "losses": 43
     },
     "finance": {
-      "count": 91,
+      "count": 92,
       "wins": 14,
       "losses": 2
     },
@@ -4762,7 +4754,7 @@
       "losses": 15
     },
     "gear": {
-      "count": 92,
+      "count": 93,
       "wins": 26,
       "losses": 0
     },
