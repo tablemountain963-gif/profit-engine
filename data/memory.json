@@ -10,8 +10,8 @@
     },
     "passive-income": {
       "firstSeen": "2026-05-28T04:01:51.171Z",
-      "lastSeen": "2026-06-28T21:51:57.010Z",
-      "count": 8,
+      "lastSeen": "2026-07-04T04:32:16.633Z",
+      "count": 9,
       "wins": 1,
       "losses": 0,
       "niche": "finance"
@@ -2175,38 +2175,6 @@
       "wins": 1,
       "losses": 0,
       "niche": "ai"
-    },
-    "contact-shadows": {
-      "firstSeen": "2026-06-19T21:56:58.006Z",
-      "lastSeen": "2026-06-19T21:56:58.006Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "software"
-    },
-    "text-input": {
-      "firstSeen": "2026-06-19T21:57:08.082Z",
-      "lastSeen": "2026-06-19T21:57:08.082Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "software"
-    },
-    "richer-text": {
-      "firstSeen": "2026-06-19T21:57:30.426Z",
-      "lastSeen": "2026-06-19T21:57:30.426Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "software"
-    },
-    "app-settings": {
-      "firstSeen": "2026-06-19T21:57:45.282Z",
-      "lastSeen": "2026-06-19T21:57:45.282Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "software"
     },
     "windows-powershell": {
       "firstSeen": "2026-06-20T05:09:44.340Z",
@@ -4690,17 +4658,17 @@
     },
     "keep-forever": {
       "firstSeen": "2026-07-03T21:53:46.405Z",
-      "lastSeen": "2026-07-03T21:53:46.405Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-07-04T04:31:58.536Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "gear"
     },
     "observability-wars": {
       "firstSeen": "2026-07-03T21:53:50.002Z",
-      "lastSeen": "2026-07-03T21:53:50.002Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-07-04T04:31:58.537Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "software"
     },
@@ -4727,27 +4695,51 @@
       "wins": 0,
       "losses": 0,
       "niche": "ai"
+    },
+    "keyboard-deal": {
+      "firstSeen": "2026-07-04T04:32:03.531Z",
+      "lastSeen": "2026-07-04T04:32:03.531Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "gear"
+    },
+    "nazis-fun": {
+      "firstSeen": "2026-07-04T04:32:07.000Z",
+      "lastSeen": "2026-07-04T04:32:07.000Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "msi-center": {
+      "firstSeen": "2026-07-04T04:32:10.353Z",
+      "lastSeen": "2026-07-04T04:32:10.353Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
     }
   },
   "niches": {
     "ai": {
-      "count": 1044,
+      "count": 1046,
       "wins": 294,
       "losses": 43
     },
     "finance": {
-      "count": 90,
+      "count": 91,
       "wins": 14,
       "losses": 2
     },
     "software": {
-      "count": 240,
-      "wins": 64,
+      "count": 241,
+      "wins": 65,
       "losses": 15
     },
     "gear": {
-      "count": 89,
-      "wins": 24,
+      "count": 91,
+      "wins": 25,
       "losses": 0
     },
     "health": {
