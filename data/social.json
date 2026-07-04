@@ -1,6 +1,27 @@
 {
   "items": [
     {
+      "slug": "claude-mythos-preview-2026-07-04",
+      "topic": "Claude Mythos Preview",
+      "date": "2026-07-04",
+      "niche": "ai",
+      "file": "social/claude-mythos-preview-2026-07-04.md"
+    },
+    {
+      "slug": "galapagos-island-2026-07-04",
+      "topic": "Galapagos Island",
+      "date": "2026-07-04",
+      "niche": "ai",
+      "file": "social/galapagos-island-2026-07-04.md"
+    },
+    {
+      "slug": "claude-code-2026-07-04",
+      "topic": "Claude Code",
+      "date": "2026-07-04",
+      "niche": "ai",
+      "file": "social/claude-code-2026-07-04.md"
+    },
+    {
       "slug": "passive-income-2026-07-04",
       "topic": "Passive Income",
       "date": "2026-07-04",
@@ -1378,27 +1399,6 @@
       "date": "2026-06-12",
       "niche": "ai",
       "file": "social/mtg-bench-2026-06-12.md"
-    },
-    {
-      "slug": "income-2026-06-11",
-      "topic": "Income",
-      "date": "2026-06-11",
-      "niche": "finance",
-      "file": "social/income-2026-06-11.md"
-    },
-    {
-      "slug": "ai-tools-including-chatgpt-2026-06-11",
-      "topic": "Ai Tools Including Chatgpt",
-      "date": "2026-06-11",
-      "niche": "ai",
-      "file": "social/ai-tools-including-chatgpt-2026-06-11.md"
-    },
-    {
-      "slug": "api-key-2026-06-11",
-      "topic": "Api Key",
-      "date": "2026-06-11",
-      "niche": "software",
-      "file": "social/api-key-2026-06-11.md"
     }
   ]
 }

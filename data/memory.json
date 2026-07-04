@@ -2,8 +2,8 @@
   "topics": {
     "claude-code": {
       "firstSeen": "2026-05-28T04:01:44.987Z",
-      "lastSeen": "2026-06-28T21:52:10.983Z",
-      "count": 8,
+      "lastSeen": "2026-07-04T14:28:07.815Z",
+      "count": 9,
       "wins": 3,
       "losses": 0,
       "niche": "ai"
@@ -1688,14 +1688,6 @@
       "losses": 0,
       "niche": "ai"
     },
-    "gerade-liberale": {
-      "firstSeen": "2026-06-14T22:01:19.799Z",
-      "lastSeen": "2026-06-20T05:09:39.394Z",
-      "count": 2,
-      "wins": 0,
-      "losses": 1,
-      "niche": "ai"
-    },
     "south-lawn": {
       "firstSeen": "2026-06-15T06:21:53.500Z",
       "lastSeen": "2026-06-15T22:53:08.625Z",
@@ -2199,14 +2191,6 @@
       "wins": 1,
       "losses": 0,
       "niche": "software"
-    },
-    "beyond-nvidia": {
-      "firstSeen": "2026-06-20T05:09:57.105Z",
-      "lastSeen": "2026-06-20T05:09:57.105Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "ai"
     },
     "arctic-ocean": {
       "firstSeen": "2026-06-20T15:02:28.299Z",
@@ -4698,9 +4682,9 @@
     },
     "keyboard-deal": {
       "firstSeen": "2026-07-04T04:32:03.531Z",
-      "lastSeen": "2026-07-04T04:32:03.531Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-07-04T14:27:29.807Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "gear"
     },
@@ -4714,7 +4698,47 @@
     },
     "msi-center": {
       "firstSeen": "2026-07-04T04:32:10.353Z",
-      "lastSeen": "2026-07-04T04:32:10.353Z",
+      "lastSeen": "2026-07-04T14:27:29.808Z",
+      "count": 2,
+      "wins": 1,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "project-gutenberg": {
+      "firstSeen": "2026-07-04T14:27:35.717Z",
+      "lastSeen": "2026-07-04T14:27:35.717Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "software"
+    },
+    "cornell-university": {
+      "firstSeen": "2026-07-04T14:27:39.194Z",
+      "lastSeen": "2026-07-04T14:27:39.194Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "chat-etf": {
+      "firstSeen": "2026-07-04T14:27:42.108Z",
+      "lastSeen": "2026-07-04T14:27:42.108Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "galapagos-island": {
+      "firstSeen": "2026-07-04T14:28:15.101Z",
+      "lastSeen": "2026-07-04T14:28:15.101Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "claude-mythos-preview": {
+      "firstSeen": "2026-07-04T14:28:41.118Z",
+      "lastSeen": "2026-07-04T14:28:41.118Z",
       "count": 1,
       "wins": 0,
       "losses": 0,
@@ -4723,8 +4747,8 @@
   },
   "niches": {
     "ai": {
-      "count": 1046,
-      "wins": 294,
+      "count": 1052,
+      "wins": 295,
       "losses": 43
     },
     "finance": {
@@ -4733,13 +4757,13 @@
       "losses": 2
     },
     "software": {
-      "count": 241,
+      "count": 242,
       "wins": 65,
       "losses": 15
     },
     "gear": {
-      "count": 91,
-      "wins": 25,
+      "count": 92,
+      "wins": 26,
       "losses": 0
     },
     "health": {
