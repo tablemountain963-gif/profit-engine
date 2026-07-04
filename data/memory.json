@@ -18,8 +18,8 @@
     },
     "claude": {
       "firstSeen": "2026-05-28T04:02:03.327Z",
-      "lastSeen": "2026-06-29T05:28:13.063Z",
-      "count": 6,
+      "lastSeen": "2026-07-04T21:45:30.774Z",
+      "count": 7,
       "wins": 0,
       "losses": 0,
       "niche": "ai"
@@ -1640,14 +1640,6 @@
       "losses": 0,
       "niche": "software"
     },
-    "tools-business": {
-      "firstSeen": "2026-06-14T15:08:14.946Z",
-      "lastSeen": "2026-06-20T17:15:56.077Z",
-      "count": 2,
-      "wins": 0,
-      "losses": 0,
-      "niche": "ai"
-    },
     "changing-careers": {
       "firstSeen": "2026-06-14T17:08:53.516Z",
       "lastSeen": "2026-06-14T22:01:08.265Z",
@@ -2223,14 +2215,6 @@
       "wins": 0,
       "losses": 1,
       "niche": "software"
-    },
-    "mouse": {
-      "firstSeen": "2026-06-20T17:16:19.955Z",
-      "lastSeen": "2026-06-20T17:16:19.955Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "gear"
     },
     "uhf-x11": {
       "firstSeen": "2026-06-20T21:57:53.757Z",
@@ -3642,8 +3626,8 @@
     },
     "side-hustles": {
       "firstSeen": "2026-06-28T14:47:25.294Z",
-      "lastSeen": "2026-06-28T14:47:25.294Z",
-      "count": 1,
+      "lastSeen": "2026-07-04T21:45:08.125Z",
+      "count": 2,
       "wins": 0,
       "losses": 0,
       "niche": "ai"
@@ -4714,9 +4698,9 @@
     },
     "codex-switch": {
       "firstSeen": "2026-07-04T16:53:45.119Z",
-      "lastSeen": "2026-07-04T16:53:45.119Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-07-04T21:44:43.455Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "gear"
     },
@@ -4730,32 +4714,64 @@
     },
     "content-creation": {
       "firstSeen": "2026-07-04T16:53:50.785Z",
-      "lastSeen": "2026-07-04T16:53:50.785Z",
+      "lastSeen": "2026-07-04T21:44:43.456Z",
+      "count": 2,
+      "wins": 1,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "north-carolina": {
+      "firstSeen": "2026-07-04T21:44:49.517Z",
+      "lastSeen": "2026-07-04T21:44:49.517Z",
       "count": 1,
       "wins": 0,
       "losses": 0,
       "niche": "ai"
+    },
+    "desktop-tool": {
+      "firstSeen": "2026-07-04T21:44:53.191Z",
+      "lastSeen": "2026-07-04T21:44:53.191Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "software"
+    },
+    "cheney-orr": {
+      "firstSeen": "2026-07-04T21:44:58.093Z",
+      "lastSeen": "2026-07-04T21:44:58.093Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "software"
+    },
+    "stock-market-crash": {
+      "firstSeen": "2026-07-04T21:46:00.887Z",
+      "lastSeen": "2026-07-04T21:46:00.887Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "finance"
     }
   },
   "niches": {
     "ai": {
-      "count": 1055,
-      "wins": 296,
+      "count": 1058,
+      "wins": 297,
       "losses": 43
     },
     "finance": {
-      "count": 92,
+      "count": 94,
       "wins": 14,
       "losses": 2
     },
     "software": {
-      "count": 242,
+      "count": 244,
       "wins": 65,
       "losses": 15
     },
     "gear": {
-      "count": 93,
-      "wins": 26,
+      "count": 94,
+      "wins": 27,
       "losses": 0
     },
     "health": {

@@ -1,6 +1,27 @@
 {
   "items": [
     {
+      "slug": "stock-market-crash-2026-07-04",
+      "topic": "Stock Market Crash",
+      "date": "2026-07-04",
+      "niche": "finance",
+      "file": "social/stock-market-crash-2026-07-04.md"
+    },
+    {
+      "slug": "claude-2026-07-04",
+      "topic": "Claude",
+      "date": "2026-07-04",
+      "niche": "ai",
+      "file": "social/claude-2026-07-04.md"
+    },
+    {
+      "slug": "side-hustles-2026-07-04",
+      "topic": "Side Hustles",
+      "date": "2026-07-04",
+      "niche": "finance",
+      "file": "social/side-hustles-2026-07-04.md"
+    },
+    {
       "slug": "buy-passive-2026-07-04",
       "topic": "Buy Passive",
       "date": "2026-07-04",
@@ -1378,27 +1399,6 @@
       "date": "2026-06-12",
       "niche": "ai",
       "file": "social/neo-scholars-2026-06-12.md"
-    },
-    {
-      "slug": "claude-2026-06-12",
-      "topic": "Claude",
-      "date": "2026-06-12",
-      "niche": "ai",
-      "file": "social/claude-2026-06-12.md"
-    },
-    {
-      "slug": "golden-gatemy-2026-06-12",
-      "topic": "Golden Gate.my",
-      "date": "2026-06-12",
-      "niche": "software",
-      "file": "social/golden-gatemy-2026-06-12.md"
-    },
-    {
-      "slug": "free-open-source-2026-06-12",
-      "topic": "Free Open Source",
-      "date": "2026-06-12",
-      "niche": "ai",
-      "file": "social/free-open-source-2026-06-12.md"
     }
   ]
 }
