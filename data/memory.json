@@ -1826,9 +1826,9 @@
     },
     "gear": {
       "firstSeen": "2026-06-16T22:46:11.000Z",
-      "lastSeen": "2026-07-05T16:55:53.508Z",
-      "count": 5,
-      "wins": 2,
+      "lastSeen": "2026-07-05T21:47:19.213Z",
+      "count": 6,
+      "wins": 3,
       "losses": 0,
       "niche": "gear"
     },
@@ -2280,38 +2280,6 @@
       "losses": 0,
       "niche": "gear"
     },
-    "rk-r65": {
-      "firstSeen": "2026-06-21T17:18:52.531Z",
-      "lastSeen": "2026-06-21T17:18:52.531Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "finance"
-    },
-    "windows-copilot": {
-      "firstSeen": "2026-06-21T17:19:01.092Z",
-      "lastSeen": "2026-06-21T17:19:01.092Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "ai"
-    },
-    "apple-internals": {
-      "firstSeen": "2026-06-21T17:19:29.274Z",
-      "lastSeen": "2026-06-21T17:19:29.274Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "software"
-    },
-    "autonomous-llm": {
-      "firstSeen": "2026-06-21T17:19:51.260Z",
-      "lastSeen": "2026-06-21T17:19:51.260Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "ai"
-    },
     "happy-father": {
       "firstSeen": "2026-06-21T22:07:10.016Z",
       "lastSeen": "2026-06-23T17:44:39.721Z",
@@ -2610,8 +2578,8 @@
     },
     "god-mode": {
       "firstSeen": "2026-06-23T15:46:14.320Z",
-      "lastSeen": "2026-06-29T18:03:23.631Z",
-      "count": 3,
+      "lastSeen": "2026-07-05T21:47:57.170Z",
+      "count": 4,
       "wins": 1,
       "losses": 0,
       "niche": "ai"
@@ -4762,17 +4730,73 @@
     },
     "codex-cli": {
       "firstSeen": "2026-07-05T16:55:56.777Z",
-      "lastSeen": "2026-07-05T16:55:56.777Z",
+      "lastSeen": "2026-07-05T21:47:19.216Z",
+      "count": 2,
+      "wins": 1,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "fly-hack": {
+      "firstSeen": "2026-07-05T21:47:26.633Z",
+      "lastSeen": "2026-07-05T21:47:26.633Z",
       "count": 1,
       "wins": 0,
       "losses": 0,
       "niche": "ai"
+    },
+    "infinite-paint": {
+      "firstSeen": "2026-07-05T21:47:29.193Z",
+      "lastSeen": "2026-07-05T21:47:29.193Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "speed-hack": {
+      "firstSeen": "2026-07-05T21:47:31.734Z",
+      "lastSeen": "2026-07-05T21:47:31.734Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "tomboy-toes": {
+      "firstSeen": "2026-07-05T21:47:38.427Z",
+      "lastSeen": "2026-07-05T21:47:38.427Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "mallory-mcmorrow": {
+      "firstSeen": "2026-07-05T21:47:45.146Z",
+      "lastSeen": "2026-07-05T21:47:45.146Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "ed-zitron": {
+      "firstSeen": "2026-07-05T21:48:24.474Z",
+      "lastSeen": "2026-07-05T21:48:24.474Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "software"
+    },
+    "adhd-support-apps": {
+      "firstSeen": "2026-07-05T21:48:47.491Z",
+      "lastSeen": "2026-07-05T21:48:47.491Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "software"
     }
   },
   "niches": {
     "ai": {
-      "count": 1075,
-      "wins": 301,
+      "count": 1083,
+      "wins": 303,
       "losses": 44
     },
     "finance": {
@@ -4781,7 +4805,7 @@
       "losses": 2
     },
     "software": {
-      "count": 250,
+      "count": 252,
       "wins": 69,
       "losses": 15
     },

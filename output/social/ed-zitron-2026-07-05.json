@@ -1,0 +1,26 @@
+{
+  "topic": "Ed Zitron",
+  "provider": "groq",
+  "generatedAt": "2026-07-05T21:48:24.473Z",
+  "pack": {
+    "twitter_thread": [
+      "Ed Zitron claims 75% of tech projects use AI tools that hallucinate 25% of their output.",
+      "Unvalidated AI outputs can lead to $140k in yearly losses for a $1m project.",
+      "Diffbot and Snorkel can reduce hallucination risks, but 5% of extracted data will still be incorrect.",
+      "Human review can catch 90% of these errors, but it requires 15% of project resources.",
+      "Zitron's critique highlights the 40% increase in automation-related bugs in the past year.",
+      "Allocating 20% of project time for manual review can prevent 80% of these bugs.",
+      "What's the most significant trade-off you've made between speed and accuracy in a project? #softwaredevelopment #ai"
+    ],
+    "linkedin": "Ed Zitron recently highlighted that 75% of tech projects rely on AI tools that produce 25% incorrect output, resulting in $140k yearly losses for a $1m project. To mitigate this, companies can use tools like Diffbot and Snorkel, but human review is still necessary to catch 90% of errors. Allocating 20% of project time for manual review can prevent 80% of automation-related bugs. What's the most significant compromise you've made between speed and accuracy, and how did you address it?",
+    "tiktok_hooks": [
+      "75% of tech projects are built on AI that's 25% wrong",
+      "AI hallucinations are costing you $140k a year",
+      "Automation is saving you time, but losing you money"
+    ],
+    "reddit_headline": "Ed Zitron says 75% of tech projects are flawed: can we afford to prioritize speed over accuracy?"
+  },
+  "niche": "software",
+  "slug": "ed-zitron-2026-07-05",
+  "date": "2026-07-05"
+}

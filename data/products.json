@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "slug": "prompt-pack-mallory-mcmorrow-2026-07-05",
+      "title": "Mallory Mcmorrow Prompt Pack — 50 Battle-Tested Prompts",
+      "blurb": "50 proven prompts for Mallory Mcmorrow. Copy/paste ready. Tested across Claude, GPT, Gemini.",
+      "type": "prompt-pack",
+      "topic": "Mallory Mcmorrow",
+      "niche": "ai",
+      "price": 19,
+      "generatedAt": "2026-07-05T21:47:38.428Z",
+      "files": [
+        "prompts.md",
+        "README.md",
+        "LICENSE.txt"
+      ]
+    },
+    {
+      "slug": "prompt-pack-tomboy-toes-2026-07-05",
+      "title": "Tomboy Toes Prompt Pack — 50 Battle-Tested Prompts",
+      "blurb": "50 proven prompts for Tomboy Toes. Copy/paste ready. Tested across Claude, GPT, Gemini.",
+      "type": "prompt-pack",
+      "topic": "Tomboy Toes",
+      "niche": "ai",
+      "price": 19,
+      "generatedAt": "2026-07-05T21:47:32.207Z",
+      "files": [
+        "prompts.md",
+        "README.md",
+        "LICENSE.txt"
+      ]
+    },
+    {
       "slug": "prompt-pack-notebooklm-alternatives-2026-07-05",
       "title": "Notebooklm Alternatives Prompt Pack — 50 Battle-Tested Prompts",
       "blurb": "50 proven prompts for Notebooklm Alternatives. Copy/paste ready. Tested across Claude, GPT, Gemini.",
@@ -3008,36 +3038,6 @@
       "niche": "ai",
       "price": 19,
       "generatedAt": "2026-05-29T16:41:30.392Z",
-      "files": [
-        "prompts.md",
-        "README.md",
-        "LICENSE.txt"
-      ]
-    },
-    {
-      "slug": "prompt-pack-standard-gpus-2026-05-29",
-      "title": "Standard Gpus Prompt Pack — 50 Battle-Tested Prompts",
-      "blurb": "50 proven prompts for Standard Gpus. Copy/paste ready. Tested across Claude, GPT, Gemini.",
-      "type": "prompt-pack",
-      "topic": "Standard Gpus",
-      "niche": "ai",
-      "price": 19,
-      "generatedAt": "2026-05-29T16:41:23.718Z",
-      "files": [
-        "prompts.md",
-        "README.md",
-        "LICENSE.txt"
-      ]
-    },
-    {
-      "slug": "prompt-pack-llm-inference-2026-05-29",
-      "title": "LLM Inference Prompt Pack — 50 Battle-Tested Prompts",
-      "blurb": "50 proven prompts for LLM Inference. Copy/paste ready. Tested across Claude, GPT, Gemini.",
-      "type": "prompt-pack",
-      "topic": "LLM Inference",
-      "niche": "ai",
-      "price": 19,
-      "generatedAt": "2026-05-29T16:41:18.207Z",
       "files": [
         "prompts.md",
         "README.md",

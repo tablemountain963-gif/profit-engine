@@ -1436,5 +1436,19 @@
     "price": 19,
     "productId": "prod_UpWG1xFWUQfARJ",
     "cover": "/assets/pack-cover.png"
+  },
+  "prompt-pack-mallory-mcmorrow-2026-07-05": {
+    "url": "https://buy.stripe.com/8x2bJ0716elUanNgAsfjG3j",
+    "platform": "stripe",
+    "price": 19,
+    "productId": "prod_Upd9i15pGivXbH",
+    "cover": "/assets/pack-cover.png"
+  },
+  "prompt-pack-tomboy-toes-2026-07-05": {
+    "url": "https://buy.stripe.com/bJebJ04SYcdMdzZ2JCfjG3k",
+    "platform": "stripe",
+    "price": 19,
+    "productId": "prod_Upd9HoYTyjg9cJ",
+    "cover": "/assets/pack-cover.png"
   }
 }
