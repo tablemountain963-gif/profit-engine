@@ -426,8 +426,8 @@
     },
     "silent-sunday": {
       "firstSeen": "2026-05-31T14:42:42.541Z",
-      "lastSeen": "2026-06-28T16:58:12.200Z",
-      "count": 4,
+      "lastSeen": "2026-07-05T14:40:50.658Z",
+      "count": 5,
       "wins": 2,
       "losses": 0,
       "niche": "ai"
@@ -1538,8 +1538,8 @@
     },
     "open": {
       "firstSeen": "2026-06-13T05:18:35.169Z",
-      "lastSeen": "2026-06-24T17:48:06.547Z",
-      "count": 4,
+      "lastSeen": "2026-07-05T14:40:33.881Z",
+      "count": 5,
       "wins": 1,
       "losses": 0,
       "niche": "ai"
@@ -1726,14 +1726,6 @@
       "count": 2,
       "wins": 1,
       "losses": 0,
-      "niche": "ai"
-    },
-    "ai-tribunal": {
-      "firstSeen": "2026-06-15T22:53:13.741Z",
-      "lastSeen": "2026-06-21T05:58:18.857Z",
-      "count": 2,
-      "wins": 0,
-      "losses": 1,
       "niche": "ai"
     },
     "setup-installer": {
@@ -2255,30 +2247,6 @@
       "wins": 1,
       "losses": 0,
       "niche": "software"
-    },
-    "samsung-magician": {
-      "firstSeen": "2026-06-21T05:58:39.412Z",
-      "lastSeen": "2026-06-21T05:58:39.412Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "ai"
-    },
-    "generative-software": {
-      "firstSeen": "2026-06-21T05:58:46.366Z",
-      "lastSeen": "2026-06-21T05:58:46.366Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "ai"
-    },
-    "cloudflare-worker": {
-      "firstSeen": "2026-06-21T05:58:59.055Z",
-      "lastSeen": "2026-06-21T05:58:59.055Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "ai"
     },
     "splendor-solis": {
       "firstSeen": "2026-06-21T15:10:27.748Z",
@@ -3946,10 +3914,10 @@
     },
     "jersey-shore": {
       "firstSeen": "2026-06-30T04:59:21.193Z",
-      "lastSeen": "2026-06-30T04:59:21.194Z",
-      "count": 1,
+      "lastSeen": "2026-07-05T14:40:22.362Z",
+      "count": 2,
       "wins": 0,
-      "losses": 0,
+      "losses": 1,
       "niche": "ai"
     },
     "customer-support-reply-templates": {
@@ -4642,9 +4610,9 @@
     },
     "project-gutenberg": {
       "firstSeen": "2026-07-04T14:27:35.717Z",
-      "lastSeen": "2026-07-04T14:27:35.717Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-07-05T14:40:22.363Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "software"
     },
@@ -4767,13 +4735,53 @@
       "wins": 0,
       "losses": 0,
       "niche": "ai"
+    },
+    "apps-don": {
+      "firstSeen": "2026-07-05T14:40:27.431Z",
+      "lastSeen": "2026-07-05T14:40:27.431Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "software"
+    },
+    "stuart-dunkel": {
+      "firstSeen": "2026-07-05T14:40:30.676Z",
+      "lastSeen": "2026-07-05T14:40:30.676Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "notebooklm-alternatives": {
+      "firstSeen": "2026-07-05T14:40:41.097Z",
+      "lastSeen": "2026-07-05T14:40:41.097Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "open-science": {
+      "firstSeen": "2026-07-05T14:41:02.571Z",
+      "lastSeen": "2026-07-05T14:41:02.571Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "noaa-ersstv5": {
+      "firstSeen": "2026-07-05T14:41:16.927Z",
+      "lastSeen": "2026-07-05T14:41:16.927Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
     }
   },
   "niches": {
     "ai": {
-      "count": 1064,
+      "count": 1071,
       "wins": 299,
-      "losses": 43
+      "losses": 44
     },
     "finance": {
       "count": 94,
@@ -4781,8 +4789,8 @@
       "losses": 2
     },
     "software": {
-      "count": 247,
-      "wins": 67,
+      "count": 249,
+      "wins": 68,
       "losses": 15
     },
     "gear": {

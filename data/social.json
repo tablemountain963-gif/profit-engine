@@ -1,6 +1,27 @@
 {
   "items": [
     {
+      "slug": "noaa-ersstv5-2026-07-05",
+      "topic": "Noaa Ersstv5",
+      "date": "2026-07-05",
+      "niche": "ai",
+      "file": "social/noaa-ersstv5-2026-07-05.md"
+    },
+    {
+      "slug": "open-science-2026-07-05",
+      "topic": "Open Science",
+      "date": "2026-07-05",
+      "niche": "ai",
+      "file": "social/open-science-2026-07-05.md"
+    },
+    {
+      "slug": "silent-sunday-2026-07-05",
+      "topic": "Silent Sunday",
+      "date": "2026-07-05",
+      "niche": "ai",
+      "file": "social/silent-sunday-2026-07-05.md"
+    },
+    {
       "slug": "protocol-prying-2026-07-05",
       "topic": "Protocol Prying",
       "date": "2026-07-05",
@@ -1378,27 +1399,6 @@
       "date": "2026-06-13",
       "niche": "ai",
       "file": "social/claude-code-2026-06-13.md"
-    },
-    {
-      "slug": "modos-flow-2026-06-12",
-      "topic": "Modos Flow",
-      "date": "2026-06-12",
-      "niche": "gear",
-      "file": "social/modos-flow-2026-06-12.md"
-    },
-    {
-      "slug": "june-2026-2026-06-12",
-      "topic": "June 2026",
-      "date": "2026-06-12",
-      "niche": "ai",
-      "file": "social/june-2026-2026-06-12.md"
-    },
-    {
-      "slug": "free-tools-2026-06-12",
-      "topic": "Free Tools",
-      "date": "2026-06-12",
-      "niche": "ai",
-      "file": "social/free-tools-2026-06-12.md"
     }
   ]
 }
