@@ -1538,9 +1538,9 @@
     },
     "open": {
       "firstSeen": "2026-06-13T05:18:35.169Z",
-      "lastSeen": "2026-07-05T14:40:33.881Z",
-      "count": 5,
-      "wins": 1,
+      "lastSeen": "2026-07-05T16:55:45.360Z",
+      "count": 6,
+      "wins": 2,
       "losses": 0,
       "niche": "ai"
     },
@@ -1760,14 +1760,6 @@
       "losses": 0,
       "niche": "ai"
     },
-    "bogota-colombia": {
-      "firstSeen": "2026-06-16T06:31:33.373Z",
-      "lastSeen": "2026-06-21T15:10:22.315Z",
-      "count": 2,
-      "wins": 0,
-      "losses": 1,
-      "niche": "software"
-    },
     "turn-app-store": {
       "firstSeen": "2026-06-16T06:31:36.901Z",
       "lastSeen": "2026-06-16T18:03:50.866Z",
@@ -1834,8 +1826,8 @@
     },
     "gear": {
       "firstSeen": "2026-06-16T22:46:11.000Z",
-      "lastSeen": "2026-06-24T17:47:21.356Z",
-      "count": 4,
+      "lastSeen": "2026-07-05T16:55:53.508Z",
+      "count": 5,
       "wins": 2,
       "losses": 0,
       "niche": "gear"
@@ -2258,8 +2250,8 @@
     },
     "mechanical-keyboards": {
       "firstSeen": "2026-06-21T15:10:30.803Z",
-      "lastSeen": "2026-06-21T22:07:03.998Z",
-      "count": 2,
+      "lastSeen": "2026-07-05T16:55:50.456Z",
+      "count": 3,
       "wins": 1,
       "losses": 0,
       "niche": "gear"
@@ -2269,14 +2261,6 @@
       "lastSeen": "2026-06-21T17:18:36.821Z",
       "count": 2,
       "wins": 1,
-      "losses": 0,
-      "niche": "ai"
-    },
-    "agent-skill": {
-      "firstSeen": "2026-06-21T15:10:48.824Z",
-      "lastSeen": "2026-06-21T15:10:48.824Z",
-      "count": 1,
-      "wins": 0,
       "losses": 0,
       "niche": "ai"
     },
@@ -4250,9 +4234,9 @@
     },
     "blade-ball": {
       "firstSeen": "2026-07-02T04:55:29.178Z",
-      "lastSeen": "2026-07-02T04:55:29.178Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-07-05T16:55:45.358Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -4738,9 +4722,9 @@
     },
     "apps-don": {
       "firstSeen": "2026-07-05T14:40:27.431Z",
-      "lastSeen": "2026-07-05T14:40:27.431Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-07-05T16:55:45.359Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "software"
     },
@@ -4775,12 +4759,20 @@
       "wins": 0,
       "losses": 0,
       "niche": "ai"
+    },
+    "codex-cli": {
+      "firstSeen": "2026-07-05T16:55:56.777Z",
+      "lastSeen": "2026-07-05T16:55:56.777Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
     }
   },
   "niches": {
     "ai": {
-      "count": 1071,
-      "wins": 299,
+      "count": 1075,
+      "wins": 301,
       "losses": 44
     },
     "finance": {
@@ -4789,12 +4781,12 @@
       "losses": 2
     },
     "software": {
-      "count": 249,
-      "wins": 68,
+      "count": 250,
+      "wins": 69,
       "losses": 15
     },
     "gear": {
-      "count": 94,
+      "count": 95,
       "wins": 27,
       "losses": 0
     },
