@@ -474,8 +474,8 @@
     },
     "2026-_blank": {
       "firstSeen": "2026-05-31T21:45:59.853Z",
-      "lastSeen": "2026-06-30T15:26:20.882Z",
-      "count": 5,
+      "lastSeen": "2026-07-06T22:04:45.096Z",
+      "count": 6,
       "wins": 0,
       "losses": 0,
       "niche": "gear"
@@ -506,8 +506,8 @@
     },
     "2026-6f6f6f": {
       "firstSeen": "2026-06-01T05:59:34.077Z",
-      "lastSeen": "2026-07-01T17:46:57.611Z",
-      "count": 4,
+      "lastSeen": "2026-07-06T22:04:57.419Z",
+      "count": 5,
       "wins": 0,
       "losses": 0,
       "niche": "gear"
@@ -1896,14 +1896,6 @@
       "losses": 0,
       "niche": "ai"
     },
-    "daphy-michel": {
-      "firstSeen": "2026-06-17T18:09:31.582Z",
-      "lastSeen": "2026-06-22T19:18:22.717Z",
-      "count": 2,
-      "wins": 0,
-      "losses": 1,
-      "niche": "ai"
-    },
     "european-commission": {
       "firstSeen": "2026-06-17T22:28:13.028Z",
       "lastSeen": "2026-06-18T22:49:26.899Z",
@@ -2349,38 +2341,6 @@
       "lastSeen": "2026-06-22T22:29:23.874Z",
       "count": 2,
       "wins": 1,
-      "losses": 0,
-      "niche": "ai"
-    },
-    "network-traffic": {
-      "firstSeen": "2026-06-22T19:18:40.153Z",
-      "lastSeen": "2026-06-22T19:18:40.153Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "ai"
-    },
-    "ai-act": {
-      "firstSeen": "2026-06-22T19:18:47.506Z",
-      "lastSeen": "2026-06-22T19:18:47.506Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "ai"
-    },
-    "gadgets-2026": {
-      "firstSeen": "2026-06-22T19:19:10.764Z",
-      "lastSeen": "2026-06-22T19:19:10.764Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "gear"
-    },
-    "sealant-team": {
-      "firstSeen": "2026-06-22T19:19:18.043Z",
-      "lastSeen": "2026-06-22T19:19:18.043Z",
-      "count": 1,
-      "wins": 0,
       "losses": 0,
       "niche": "ai"
     },
@@ -3242,8 +3202,8 @@
     },
     "apps-2026": {
       "firstSeen": "2026-06-27T14:28:52.142Z",
-      "lastSeen": "2026-06-27T14:28:52.142Z",
-      "count": 1,
+      "lastSeen": "2026-07-06T22:04:35.932Z",
+      "count": 2,
       "wins": 0,
       "losses": 0,
       "niche": "ai"
@@ -4682,9 +4642,9 @@
     },
     "reviewed": {
       "firstSeen": "2026-07-06T05:07:38.736Z",
-      "lastSeen": "2026-07-06T05:07:38.736Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-07-06T22:04:24.952Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -4762,25 +4722,25 @@
     },
     "search-wechat": {
       "firstSeen": "2026-07-06T18:04:36.676Z",
-      "lastSeen": "2026-07-06T18:04:36.676Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-07-06T22:04:24.955Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "software"
     },
     "training-data": {
       "firstSeen": "2026-07-06T18:04:39.998Z",
-      "lastSeen": "2026-07-06T18:04:39.998Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-07-06T22:04:24.956Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
     "crypto": {
       "firstSeen": "2026-07-06T18:04:43.864Z",
-      "lastSeen": "2026-07-06T18:04:43.864Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-07-06T22:04:24.957Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "finance"
     },
@@ -4807,22 +4767,38 @@
       "wins": 0,
       "losses": 0,
       "niche": "ai"
+    },
+    "chat-control": {
+      "firstSeen": "2026-07-06T22:04:30.690Z",
+      "lastSeen": "2026-07-06T22:04:30.690Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "budgeting-apps": {
+      "firstSeen": "2026-07-06T22:04:33.545Z",
+      "lastSeen": "2026-07-06T22:04:33.545Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "finance"
     }
   },
   "niches": {
     "ai": {
-      "count": 1109,
-      "wins": 311,
+      "count": 1112,
+      "wins": 313,
       "losses": 46
     },
     "finance": {
-      "count": 95,
-      "wins": 14,
+      "count": 100,
+      "wins": 15,
       "losses": 2
     },
     "software": {
-      "count": 256,
-      "wins": 69,
+      "count": 257,
+      "wins": 70,
       "losses": 16
     },
     "gear": {
