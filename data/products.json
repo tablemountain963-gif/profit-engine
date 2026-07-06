@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "slug": "prompt-pack-video-image-2026-07-06",
+      "title": "Video Image Prompt Pack — 50 Battle-Tested Prompts",
+      "blurb": "50 proven prompts for Video Image. Copy/paste ready. Tested across Claude, GPT, Gemini.",
+      "type": "prompt-pack",
+      "topic": "Video Image",
+      "niche": "ai",
+      "price": 19,
+      "generatedAt": "2026-07-06T18:04:51.104Z",
+      "files": [
+        "prompts.md",
+        "README.md",
+        "LICENSE.txt"
+      ]
+    },
+    {
+      "slug": "prompt-pack-2026-tested-2026-07-06",
+      "title": "2026 Tested Prompt Pack — 50 Battle-Tested Prompts",
+      "blurb": "50 proven prompts for 2026 Tested. Copy/paste ready. Tested across Claude, GPT, Gemini.",
+      "type": "prompt-pack",
+      "topic": "2026 Tested",
+      "niche": "ai",
+      "price": 19,
+      "generatedAt": "2026-07-06T18:04:44.417Z",
+      "files": [
+        "prompts.md",
+        "README.md",
+        "LICENSE.txt"
+      ]
+    },
+    {
       "slug": "prompt-pack-ai-dev-kit-2026-07-06",
       "title": "AI Dev Kit Prompt Pack — 50 Battle-Tested Prompts",
       "blurb": "50 proven prompts for AI Dev Kit. Copy/paste ready. Tested across Claude, GPT, Gemini.",
@@ -3006,38 +3036,6 @@
       "generatedAt": "2026-05-29T22:23:17.981Z",
       "files": [
         "prompts.md",
-        "README.md",
-        "LICENSE.txt"
-      ]
-    },
-    {
-      "slug": "prompt-pack-gay-hitler-2026-05-29",
-      "title": "Gay Hitler Prompt Pack — 50 Battle-Tested Prompts",
-      "blurb": "50 proven prompts for Gay Hitler. Copy/paste ready. Tested across Claude, GPT, Gemini.",
-      "type": "prompt-pack",
-      "topic": "Gay Hitler",
-      "niche": "software",
-      "price": 19,
-      "generatedAt": "2026-05-29T22:23:12.006Z",
-      "files": [
-        "prompts.md",
-        "README.md",
-        "LICENSE.txt"
-      ]
-    },
-    {
-      "slug": "starter-kit-cold-email-templates-that-book-meetings-2026-05-29",
-      "title": "Cold Email Templates That Book Meetings Starter Kit — Templates + Playbook",
-      "blurb": "Templates, playbook, and 30-day plan for Cold Email Templates That Book Meetings. Skip the blank page.",
-      "type": "starter-kit",
-      "topic": "Cold Email Templates That Book Meetings",
-      "niche": "finance",
-      "price": 29,
-      "generatedAt": "2026-05-29T18:27:38.975Z",
-      "files": [
-        "playbook.md",
-        "templates.md",
-        "30-day-plan.md",
         "README.md",
         "LICENSE.txt"
       ]
