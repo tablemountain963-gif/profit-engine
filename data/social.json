@@ -1,6 +1,27 @@
 {
   "items": [
     {
+      "slug": "software-maker-2026-07-07",
+      "topic": "Software Maker",
+      "date": "2026-07-07",
+      "niche": "ai",
+      "file": "social/software-maker-2026-07-07.md"
+    },
+    {
+      "slug": "intel-backed-chip-2026-07-07",
+      "topic": "Intel Backed Chip",
+      "date": "2026-07-07",
+      "niche": "ai",
+      "file": "social/intel-backed-chip-2026-07-07.md"
+    },
+    {
+      "slug": "schneider-electric-2026-07-07",
+      "topic": "Schneider Electric",
+      "date": "2026-07-07",
+      "niche": "ai",
+      "file": "social/schneider-electric-2026-07-07.md"
+    },
+    {
       "slug": "software-2026-07-07",
       "topic": "Software",
       "date": "2026-07-07",
@@ -1378,27 +1399,6 @@
       "date": "2026-06-14",
       "niche": "software",
       "file": "social/software-engineer-2026-06-14.md"
-    },
-    {
-      "slug": "vibe-coder-2026-06-14",
-      "topic": "Vibe Coder",
-      "date": "2026-06-14",
-      "niche": "software",
-      "file": "social/vibe-coder-2026-06-14.md"
-    },
-    {
-      "slug": "roper-technologies-2026-06-14",
-      "topic": "Roper Technologies",
-      "date": "2026-06-14",
-      "niche": "ai",
-      "file": "social/roper-technologies-2026-06-14.md"
-    },
-    {
-      "slug": "fitness-gear-2026-06-14",
-      "topic": "Fitness Gear",
-      "date": "2026-06-14",
-      "niche": "ai",
-      "file": "social/fitness-gear-2026-06-14.md"
     }
   ]
 }
