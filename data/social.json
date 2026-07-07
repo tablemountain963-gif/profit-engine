@@ -1,6 +1,27 @@
 {
   "items": [
     {
+      "slug": "fit-check-2026-07-07",
+      "topic": "Fit Check",
+      "date": "2026-07-07",
+      "niche": "software",
+      "file": "social/fit-check-2026-07-07.md"
+    },
+    {
+      "slug": "apple-containers-ui-2026-07-07",
+      "topic": "Apple Containers Ui",
+      "date": "2026-07-07",
+      "niche": "ai",
+      "file": "social/apple-containers-ui-2026-07-07.md"
+    },
+    {
+      "slug": "home-office-2026-07-07",
+      "topic": "Home Office",
+      "date": "2026-07-07",
+      "niche": "gear",
+      "file": "social/home-office-2026-07-07.md"
+    },
+    {
       "slug": "syntiant-files-2026-07-07",
       "topic": "Syntiant Files",
       "date": "2026-07-07",
@@ -1378,27 +1399,6 @@
       "date": "2026-06-15",
       "niche": "ai",
       "file": "social/fin-billion-2026-06-15.md"
-    },
-    {
-      "slug": "free-2026-06-15",
-      "topic": "Free",
-      "date": "2026-06-15",
-      "niche": "ai",
-      "file": "social/free-2026-06-15.md"
-    },
-    {
-      "slug": "m1-max-2026-06-15",
-      "topic": "M1 Max",
-      "date": "2026-06-15",
-      "niche": "ai",
-      "file": "social/m1-max-2026-06-15.md"
-    },
-    {
-      "slug": "gopro-2026-06-15",
-      "topic": "Gopro",
-      "date": "2026-06-15",
-      "niche": "ai",
-      "file": "social/gopro-2026-06-15.md"
     }
   ]
 }

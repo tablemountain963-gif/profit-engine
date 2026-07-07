@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "slug": "prompt-pack-software-quality-2026-07-07",
+      "title": "Software Quality Prompt Pack — 50 Battle-Tested Prompts",
+      "blurb": "50 proven prompts for Software Quality. Copy/paste ready. Tested across Claude, GPT, Gemini.",
+      "type": "prompt-pack",
+      "topic": "Software Quality",
+      "niche": "software",
+      "price": 19,
+      "generatedAt": "2026-07-07T22:03:37.556Z",
+      "files": [
+        "prompts.md",
+        "README.md",
+        "LICENSE.txt"
+      ]
+    },
+    {
       "slug": "prompt-pack-tools-businesses-2026-07-07",
       "title": "Tools Businesses Prompt Pack — 50 Battle-Tested Prompts",
       "blurb": "50 proven prompts for Tools Businesses. Copy/paste ready. Tested across Claude, GPT, Gemini.",
@@ -3013,23 +3028,6 @@
       "generatedAt": "2026-05-30T16:52:46.184Z",
       "files": [
         "checklist.md",
-        "README.md",
-        "LICENSE.txt"
-      ]
-    },
-    {
-      "slug": "starter-kit-freelance-proposal-and-contract-templates-2026-05-30",
-      "title": "Freelance Proposal And Contract Templates Starter Kit — Templates + Playbook",
-      "blurb": "Templates, playbook, and 30-day plan for Freelance Proposal And Contract Templates. Skip the blank page.",
-      "type": "starter-kit",
-      "topic": "Freelance Proposal And Contract Templates",
-      "niche": "finance",
-      "price": 29,
-      "generatedAt": "2026-05-30T14:27:58.785Z",
-      "files": [
-        "playbook.md",
-        "templates.md",
-        "30-day-plan.md",
         "README.md",
         "LICENSE.txt"
       ]
