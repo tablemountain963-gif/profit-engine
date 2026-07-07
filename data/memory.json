@@ -162,8 +162,8 @@
     },
     "software": {
       "firstSeen": "2026-05-28T20:13:05.178Z",
-      "lastSeen": "2026-07-01T22:11:31.278Z",
-      "count": 7,
+      "lastSeen": "2026-07-07T04:48:32.056Z",
+      "count": 8,
       "wins": 0,
       "losses": 0,
       "niche": "ai"
@@ -2368,22 +2368,6 @@
       "losses": 0,
       "niche": "software"
     },
-    "saas-isn": {
-      "firstSeen": "2026-06-22T22:30:02.783Z",
-      "lastSeen": "2026-06-22T22:30:02.783Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "software"
-    },
-    "groq-raises": {
-      "firstSeen": "2026-06-22T22:30:15.801Z",
-      "lastSeen": "2026-06-22T22:30:15.801Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "ai"
-    },
     "mayor-mamdani": {
       "firstSeen": "2026-06-23T04:56:56.271Z",
       "lastSeen": "2026-06-24T05:00:09.925Z",
@@ -3202,9 +3186,9 @@
     },
     "apps-2026": {
       "firstSeen": "2026-06-27T14:28:52.142Z",
-      "lastSeen": "2026-07-06T22:04:35.932Z",
-      "count": 2,
-      "wins": 0,
+      "lastSeen": "2026-07-07T04:47:38.307Z",
+      "count": 3,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -4242,9 +4226,9 @@
     },
     "mitch-mcconnell": {
       "firstSeen": "2026-07-03T04:39:10.387Z",
-      "lastSeen": "2026-07-03T04:39:10.387Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-07-07T04:47:38.302Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "software"
     },
@@ -4466,9 +4450,9 @@
     },
     "north-carolina": {
       "firstSeen": "2026-07-04T21:44:49.517Z",
-      "lastSeen": "2026-07-04T21:44:49.517Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-07-07T04:47:38.305Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -4778,27 +4762,75 @@
     },
     "budgeting-apps": {
       "firstSeen": "2026-07-06T22:04:33.545Z",
-      "lastSeen": "2026-07-06T22:04:33.545Z",
+      "lastSeen": "2026-07-07T04:47:38.306Z",
+      "count": 2,
+      "wins": 1,
+      "losses": 0,
+      "niche": "finance"
+    },
+    "jonas-vingegaard": {
+      "firstSeen": "2026-07-07T04:47:43.643Z",
+      "lastSeen": "2026-07-07T04:47:43.643Z",
       "count": 1,
       "wins": 0,
       "losses": 0,
-      "niche": "finance"
+      "niche": "ai"
+    },
+    "north-america": {
+      "firstSeen": "2026-07-07T04:47:46.774Z",
+      "lastSeen": "2026-07-07T04:47:46.774Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "pruning-rag": {
+      "firstSeen": "2026-07-07T04:47:49.483Z",
+      "lastSeen": "2026-07-07T04:47:49.483Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "chip-software": {
+      "firstSeen": "2026-07-07T04:47:58.951Z",
+      "lastSeen": "2026-07-07T04:47:58.951Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "keyboard-review": {
+      "firstSeen": "2026-07-07T04:48:04.994Z",
+      "lastSeen": "2026-07-07T04:48:04.994Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "software-maker-syntiant-files": {
+      "firstSeen": "2026-07-07T04:48:13.779Z",
+      "lastSeen": "2026-07-07T04:48:13.779Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
     }
   },
   "niches": {
     "ai": {
-      "count": 1112,
-      "wins": 313,
+      "count": 1120,
+      "wins": 314,
       "losses": 46
     },
     "finance": {
-      "count": 100,
-      "wins": 15,
+      "count": 102,
+      "wins": 17,
       "losses": 2
     },
     "software": {
-      "count": 257,
-      "wins": 70,
+      "count": 258,
+      "wins": 71,
       "losses": 16
     },
     "gear": {
