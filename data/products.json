@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "slug": "prompt-pack-apple-silicon-2026-07-08",
+      "title": "Apple Silicon Prompt Pack — 50 Battle-Tested Prompts",
+      "blurb": "50 proven prompts for Apple Silicon. Copy/paste ready. Tested across Claude, GPT, Gemini.",
+      "type": "prompt-pack",
+      "topic": "Apple Silicon",
+      "niche": "software",
+      "price": 19,
+      "generatedAt": "2026-07-08T04:11:42.398Z",
+      "files": [
+        "prompts.md",
+        "README.md",
+        "LICENSE.txt"
+      ]
+    },
+    {
       "slug": "prompt-pack-software-quality-2026-07-07",
       "title": "Software Quality Prompt Pack — 50 Battle-Tested Prompts",
       "blurb": "50 proven prompts for Software Quality. Copy/paste ready. Tested across Claude, GPT, Gemini.",
@@ -3013,21 +3028,6 @@
       "generatedAt": "2026-05-31T05:16:44.501Z",
       "files": [
         "prompts.md",
-        "README.md",
-        "LICENSE.txt"
-      ]
-    },
-    {
-      "slug": "checklist-customer-support-reply-templates-2026-05-30",
-      "title": "Customer Support Reply Templates Operator Checklist — Printable PDF",
-      "blurb": "A one-page operator checklist for Customer Support Reply Templates. Print, laminate, ship.",
-      "type": "checklist",
-      "topic": "Customer Support Reply Templates",
-      "niche": "productivity",
-      "price": 9,
-      "generatedAt": "2026-05-30T16:52:46.184Z",
-      "files": [
-        "checklist.md",
         "README.md",
         "LICENSE.txt"
       ]

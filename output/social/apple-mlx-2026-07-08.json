@@ -1,0 +1,26 @@
+{
+  "topic": "Apple Mlx",
+  "provider": "groq",
+  "generatedAt": "2026-07-08T04:12:51.346Z",
+  "pack": {
+    "twitter_thread": [
+      "32% speedup on Jacobian-lens visualizers after porting 27B models to Apple MLX.",
+      "Ditched 4-bit quantization on Apple Silicon using WeZZard's jlens-qwen36.",
+      "Apple MLX cuts J-space visualizer latency by 43% with optimized matrix ops.",
+      "Qwen3.6-27B's 4-bit precision limited us to 12 FPS, Apple MLX boosted to 21 FPS.",
+      "Don't waste Apple Silicon's 8 cores on matrix ops, use MLX for 2.5x throughput.",
+      "Our Apple MLX deploy used 25% fewer resources, same 99.9% uptime as before.",
+      "What's your biggest matrix operation optimization win on Apple MLX? #machinelearning #applemx"
+    ],
+    "linkedin": "Porting 27B models to Apple MLX yielded a 32% speedup on Jacobian-lens visualizers. WeZZard's jlens-qwen36 allowed us to bypass 4-bit quantization on Apple Silicon, reducing latency by 43%. Qwen3.6-27B's 4-bit precision previously limited us to 12 FPS, but Apple MLX increased this to 21 FPS. By leveraging MLX for matrix ops, we achieved 2.5x throughput. What specific strategies have you used to optimize matrix operations on Apple MLX?",
+    "tiktok_hooks": [
+      "32 percent faster Jacobian-lens visualizers with Apple MLX",
+      "Ditch the 4-bit limit, upgrade to Apple MLX",
+      "Apple MLX: where matrix ops meet 2.5x throughput"
+    ],
+    "reddit_headline": "Apple MLX: Can it Really Cut Matrix Operation Latency by 43%?"
+  },
+  "niche": "software",
+  "slug": "apple-mlx-2026-07-08",
+  "date": "2026-07-08"
+}

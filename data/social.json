@@ -1,6 +1,27 @@
 {
   "items": [
     {
+      "slug": "apple-mlx-2026-07-08",
+      "topic": "Apple Mlx",
+      "date": "2026-07-08",
+      "niche": "software",
+      "file": "social/apple-mlx-2026-07-08.md"
+    },
+    {
+      "slug": "office-apps-2026-07-08",
+      "topic": "Office Apps",
+      "date": "2026-07-08",
+      "niche": "ai",
+      "file": "social/office-apps-2026-07-08.md"
+    },
+    {
+      "slug": "anthropic-models-2026-07-08",
+      "topic": "Anthropic Models",
+      "date": "2026-07-08",
+      "niche": "ai",
+      "file": "social/anthropic-models-2026-07-08.md"
+    },
+    {
       "slug": "fit-check-2026-07-07",
       "topic": "Fit Check",
       "date": "2026-07-07",
@@ -1378,27 +1399,6 @@
       "date": "2026-06-15",
       "niche": "ai",
       "file": "social/stop-pretending-2026-06-15.md"
-    },
-    {
-      "slug": "income-strategies-2026-06-15",
-      "topic": "Income Strategies",
-      "date": "2026-06-15",
-      "niche": "finance",
-      "file": "social/income-strategies-2026-06-15.md"
-    },
-    {
-      "slug": "claude-ai-2026-06-15",
-      "topic": "Claude Ai",
-      "date": "2026-06-15",
-      "niche": "ai",
-      "file": "social/claude-ai-2026-06-15.md"
-    },
-    {
-      "slug": "fin-billion-2026-06-15",
-      "topic": "Fin Billion",
-      "date": "2026-06-15",
-      "niche": "ai",
-      "file": "social/fin-billion-2026-06-15.md"
     }
   ]
 }
