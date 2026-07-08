@@ -738,8 +738,8 @@
     },
     "affordability-crisis": {
       "firstSeen": "2026-06-03T17:59:29.318Z",
-      "lastSeen": "2026-07-03T17:13:35.562Z",
-      "count": 7,
+      "lastSeen": "2026-07-08T21:56:53.668Z",
+      "count": 8,
       "wins": 1,
       "losses": 0,
       "niche": "ai"
@@ -1335,14 +1335,6 @@
       "wins": 1,
       "losses": 0,
       "niche": "ai"
-    },
-    "prime-deals": {
-      "firstSeen": "2026-06-10T18:24:55.961Z",
-      "lastSeen": "2026-06-24T17:48:29.220Z",
-      "count": 2,
-      "wins": 0,
-      "losses": 0,
-      "niche": "software"
     },
     "gb-hyper": {
       "firstSeen": "2026-06-10T22:45:26.757Z",
@@ -2282,8 +2274,8 @@
     },
     "mechanical-keyboard": {
       "firstSeen": "2026-06-22T17:39:16.085Z",
-      "lastSeen": "2026-07-02T15:13:23.876Z",
-      "count": 4,
+      "lastSeen": "2026-07-08T21:56:41.001Z",
+      "count": 5,
       "wins": 2,
       "losses": 0,
       "niche": "gear"
@@ -2501,14 +2493,6 @@
       "lastSeen": "2026-06-24T22:04:57.108Z",
       "count": 2,
       "wins": 1,
-      "losses": 0,
-      "niche": "ai"
-    },
-    "notebooklm-review": {
-      "firstSeen": "2026-06-24T17:47:43.510Z",
-      "lastSeen": "2026-06-24T17:47:43.510Z",
-      "count": 1,
-      "wins": 0,
       "losses": 0,
       "niche": "ai"
     },
@@ -4058,8 +4042,8 @@
     },
     "steam-machine": {
       "firstSeen": "2026-07-03T15:09:46.456Z",
-      "lastSeen": "2026-07-03T15:09:46.456Z",
-      "count": 1,
+      "lastSeen": "2026-07-08T21:56:24.628Z",
+      "count": 2,
       "wins": 0,
       "losses": 0,
       "niche": "software"
@@ -4106,10 +4090,10 @@
     },
     "kagi-changelog": {
       "firstSeen": "2026-07-03T21:53:43.513Z",
-      "lastSeen": "2026-07-03T21:53:43.513Z",
-      "count": 1,
+      "lastSeen": "2026-07-08T21:55:54.680Z",
+      "count": 2,
       "wins": 0,
-      "losses": 0,
+      "losses": 1,
       "niche": "ai"
     },
     "keep-forever": {
@@ -4850,18 +4834,50 @@
     },
     "opus-intelligence": {
       "firstSeen": "2026-07-08T17:19:28.405Z",
-      "lastSeen": "2026-07-08T17:19:28.405Z",
+      "lastSeen": "2026-07-08T21:55:54.682Z",
+      "count": 2,
+      "wins": 1,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "gym-bro": {
+      "firstSeen": "2026-07-08T21:56:01.452Z",
+      "lastSeen": "2026-07-08T21:56:01.452Z",
       "count": 1,
       "wins": 0,
       "losses": 0,
       "niche": "ai"
+    },
+    "earth-tone": {
+      "firstSeen": "2026-07-08T21:56:04.289Z",
+      "lastSeen": "2026-07-08T21:56:04.289Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "reach-near-gpt": {
+      "firstSeen": "2026-07-08T21:56:07.025Z",
+      "lastSeen": "2026-07-08T21:56:07.025Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "notion-templates-for-founders": {
+      "firstSeen": "2026-07-08T21:56:10.387Z",
+      "lastSeen": "2026-07-08T21:56:10.387Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "productivity"
     }
   },
   "niches": {
     "ai": {
-      "count": 1154,
-      "wins": 323,
-      "losses": 48
+      "count": 1160,
+      "wins": 324,
+      "losses": 49
     },
     "finance": {
       "count": 102,
@@ -4869,12 +4885,12 @@
       "losses": 2
     },
     "software": {
-      "count": 276,
+      "count": 277,
       "wins": 75,
       "losses": 17
     },
     "gear": {
-      "count": 99,
+      "count": 100,
       "wins": 29,
       "losses": 0
     },
@@ -4884,7 +4900,7 @@
       "losses": 0
     },
     "productivity": {
-      "count": 4,
+      "count": 5,
       "wins": 0,
       "losses": 0
     }

@@ -1,6 +1,27 @@
 {
   "items": [
     {
+      "slug": "affordability-crisis-2026-07-08",
+      "topic": "Affordability Crisis",
+      "date": "2026-07-08",
+      "niche": "ai",
+      "file": "social/affordability-crisis-2026-07-08.md"
+    },
+    {
+      "slug": "mechanical-keyboard-2026-07-08",
+      "topic": "Mechanical Keyboard",
+      "date": "2026-07-08",
+      "niche": "gear",
+      "file": "social/mechanical-keyboard-2026-07-08.md"
+    },
+    {
+      "slug": "steam-machine-2026-07-08",
+      "topic": "Steam Machine",
+      "date": "2026-07-08",
+      "niche": "software",
+      "file": "social/steam-machine-2026-07-08.md"
+    },
+    {
       "slug": "open-source-2026-07-08",
       "topic": "Open Source",
       "date": "2026-07-08",
@@ -1378,27 +1399,6 @@
       "date": "2026-06-17",
       "niche": "ai",
       "file": "social/humiliating-iis-2026-06-17.md"
-    },
-    {
-      "slug": "tool-2026-06-16",
-      "topic": "Tool",
-      "date": "2026-06-16",
-      "niche": "software",
-      "file": "social/tool-2026-06-16.md"
-    },
-    {
-      "slug": "2026-blank-2026-06-16",
-      "topic": "2026 Blank",
-      "date": "2026-06-16",
-      "niche": "ai",
-      "file": "social/2026-blank-2026-06-16.md"
-    },
-    {
-      "slug": "cool-gadgets-2026-06-16",
-      "topic": "Cool Gadgets",
-      "date": "2026-06-16",
-      "niche": "gear",
-      "file": "social/cool-gadgets-2026-06-16.md"
     }
   ]
 }
