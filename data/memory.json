@@ -634,8 +634,8 @@
     },
     "apple": {
       "firstSeen": "2026-06-02T17:22:17.986Z",
-      "lastSeen": "2026-06-22T06:25:38.985Z",
-      "count": 5,
+      "lastSeen": "2026-07-08T15:19:25.304Z",
+      "count": 6,
       "wins": 1,
       "losses": 0,
       "niche": "software"
@@ -1106,10 +1106,10 @@
     },
     "loch-shieldaig": {
       "firstSeen": "2026-06-08T05:28:52.759Z",
-      "lastSeen": "2026-07-03T04:39:13.528Z",
-      "count": 4,
+      "lastSeen": "2026-07-08T15:19:06.441Z",
+      "count": 5,
       "wins": 0,
-      "losses": 1,
+      "losses": 2,
       "niche": "ai"
     },
     "coding-observability": {
@@ -1906,8 +1906,8 @@
     },
     "codex-desktop": {
       "firstSeen": "2026-06-17T22:28:18.507Z",
-      "lastSeen": "2026-06-18T05:52:51.381Z",
-      "count": 2,
+      "lastSeen": "2026-07-08T15:19:19.323Z",
+      "count": 3,
       "wins": 1,
       "losses": 0,
       "niche": "gear"
@@ -2463,38 +2463,6 @@
       "wins": 1,
       "losses": 0,
       "niche": "ai"
-    },
-    "bright-data": {
-      "firstSeen": "2026-06-24T05:00:35.116Z",
-      "lastSeen": "2026-06-24T05:00:35.116Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "ai"
-    },
-    "tech-deals": {
-      "firstSeen": "2026-06-24T05:00:47.112Z",
-      "lastSeen": "2026-06-24T05:00:47.112Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "gear"
-    },
-    "editors-favorite": {
-      "firstSeen": "2026-06-24T05:01:07.367Z",
-      "lastSeen": "2026-06-24T05:01:07.367Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "ai"
-    },
-    "wireless-controller": {
-      "firstSeen": "2026-06-24T05:01:14.148Z",
-      "lastSeen": "2026-06-24T05:01:14.148Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "finance"
     },
     "dating-profile": {
       "firstSeen": "2026-06-24T15:32:14.857Z",
@@ -4090,10 +4058,10 @@
     },
     "caitlin-doughty": {
       "firstSeen": "2026-07-03T04:39:07.357Z",
-      "lastSeen": "2026-07-03T04:39:07.357Z",
-      "count": 1,
+      "lastSeen": "2026-07-08T15:19:06.439Z",
+      "count": 2,
       "wins": 0,
-      "losses": 0,
+      "losses": 1,
       "niche": "ai"
     },
     "mitch-mcconnell": {
@@ -4826,9 +4794,9 @@
     },
     "image-projection": {
       "firstSeen": "2026-07-08T04:11:35.721Z",
-      "lastSeen": "2026-07-08T04:11:35.721Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-07-08T15:19:06.442Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -4879,13 +4847,45 @@
       "wins": 0,
       "losses": 0,
       "niche": "software"
+    },
+    "ubuntu-touch": {
+      "firstSeen": "2026-07-08T15:19:11.701Z",
+      "lastSeen": "2026-07-08T15:19:11.701Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "software"
+    },
+    "software-products": {
+      "firstSeen": "2026-07-08T15:19:15.390Z",
+      "lastSeen": "2026-07-08T15:19:15.390Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "robostral-navigate": {
+      "firstSeen": "2026-07-08T15:19:48.285Z",
+      "lastSeen": "2026-07-08T15:19:48.285Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "raising-kids": {
+      "firstSeen": "2026-07-08T15:20:08.309Z",
+      "lastSeen": "2026-07-08T15:20:08.309Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
     }
   },
   "niches": {
     "ai": {
-      "count": 1143,
-      "wins": 320,
-      "losses": 46
+      "count": 1149,
+      "wins": 321,
+      "losses": 48
     },
     "finance": {
       "count": 102,
@@ -4893,7 +4893,7 @@
       "losses": 2
     },
     "software": {
-      "count": 269,
+      "count": 272,
       "wins": 73,
       "losses": 16
     },
