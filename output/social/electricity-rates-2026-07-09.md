@@ -1,0 +1,33 @@
+---
+title: "Electricity Rates — Social Content Pack"
+slug: electricity-rates-2026-07-09
+date: 2026-07-09
+niche: ai
+type: social-pack
+---
+
+# Electricity Rates — Social Content Pack
+
+## X / Twitter Thread
+
+1. 29.7% electricity rate hike for Oregon data centers means $1.4M more per year for a 10MW facility. Who's next?
+2. Oregon's data centers now pay $0.15/kWh, up from $0.12/kWh. Residential rates drop to $0.084/kWh.
+3. Data centers use 300x more power than average homes. Is it fair they pay 79% more per kWh?
+4. This hike could prompt data centers to relocate to states like Washington, where rates are 25% lower.
+5. Residential users save $1.50/month on average. Not enough to notice, but a start.
+6. Commercial rates are now 44% higher than residential in Oregon. Expect more states to follow.
+7. Do you think data centers should subsidize residential electricity rates? #electricityrates #datacenters
+
+## LinkedIn
+
+Oregon's 29.7% electricity rate hike for data centers, paired with a 1.3% cut for residential users, raises questions about rate fairness. A 10MW data center now pays $1.4M more per year. As data centers use 300x more power than average homes, is it fair they pay 79% more per kWh? The potential relocation of data centers to lower-cost areas could have significant economic implications. How do you think these rate structures will impact your business or community?
+
+## TikTok / Reels Hooks
+
+1. 29.7% rate hike: data centers pay $1.4M more per year for 10MW
+2. Data centers use 300x more power than homes, but pay 79% more per kWh
+3. Oregon data centers: $0.15/kWh, homes: $0.084/kWh - fair or not?
+
+## Reddit Headline
+
+Oregon data centers face 29.7% electricity rate hike, while homes get 1.3% cut - fair pricing or cross-subsidization?
