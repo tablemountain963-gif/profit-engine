@@ -1,6 +1,43 @@
 {
   "items": [
     {
+      "slug": "personal-finance-2026-07-09-e7d69e",
+      "title": "Personal Finance",
+      "date": "2026-07-09",
+      "niche": "finance",
+      "keywords": [
+        "Personal Finance",
+        "finance",
+        "ai"
+      ],
+      "score": 92.3,
+      "file": "articles/personal-finance-2026-07-09-e7d69e.md"
+    },
+    {
+      "slug": "ibm-software-2026-07-09-10d92d",
+      "title": "Ibm Software",
+      "date": "2026-07-09",
+      "niche": "ai",
+      "keywords": [
+        "Ibm Software",
+        "ai"
+      ],
+      "score": 170.31,
+      "file": "articles/ibm-software-2026-07-09-10d92d.md"
+    },
+    {
+      "slug": "cut-reliance-2026-07-09-47b9a3",
+      "title": "Cut Reliance: How 30% of Companies Are Reducing Their Dependence on External Software",
+      "date": "2026-07-09",
+      "niche": "ai",
+      "keywords": [
+        "Cut Reliance",
+        "ai"
+      ],
+      "score": 170.31,
+      "file": "articles/cut-reliance-2026-07-09-47b9a3.md"
+    },
+    {
       "slug": "brown-universityai-2026-07-09-73ed52",
       "title": "Brown Universityai",
       "date": "2026-07-09",
@@ -6003,42 +6040,6 @@
       ],
       "score": 50.67,
       "file": "articles/wallpaper-engine-2026-05-28-b9b3a3.md"
-    },
-    {
-      "slug": "various-llm-smells-2026-05-28-9cd7f1",
-      "title": "85% of LLM-Generated Writing Contains at Least One Major Smell",
-      "date": "2026-05-28",
-      "niche": "ai",
-      "keywords": [
-        "Various Llm Smells",
-        "ai"
-      ],
-      "score": 57.76,
-      "file": "articles/various-llm-smells-2026-05-28-9cd7f1.md"
-    },
-    {
-      "slug": "gamestop-2026-05-28-b1b500",
-      "title": "Gamestop: The $13.4 Billion Enigma",
-      "date": "2026-05-28",
-      "niche": "ai",
-      "keywords": [
-        "Gamestop",
-        "ai"
-      ],
-      "score": 62.77,
-      "file": "articles/gamestop-2026-05-28-b1b500.md"
-    },
-    {
-      "slug": "red-teaming-2026-05-28-1fb843",
-      "title": "Red Teaming: The $100,000 Question",
-      "date": "2026-05-28",
-      "niche": "ai",
-      "keywords": [
-        "Red Teaming",
-        "ai"
-      ],
-      "score": 81.52,
-      "file": "articles/red-teaming-2026-05-28-1fb843.md"
     }
   ]
 }

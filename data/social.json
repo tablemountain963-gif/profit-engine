@@ -1,6 +1,27 @@
 {
   "items": [
     {
+      "slug": "claude-code-2026-07-09",
+      "topic": "Claude Code",
+      "date": "2026-07-09",
+      "niche": "ai",
+      "file": "social/claude-code-2026-07-09.md"
+    },
+    {
+      "slug": "busy-parents-2026-07-09",
+      "topic": "Busy Parents",
+      "date": "2026-07-09",
+      "niche": "finance",
+      "file": "social/busy-parents-2026-07-09.md"
+    },
+    {
+      "slug": "apple-apps-2026-07-09",
+      "topic": "Apple Apps",
+      "date": "2026-07-09",
+      "niche": "software",
+      "file": "social/apple-apps-2026-07-09.md"
+    },
+    {
       "slug": "meccha-chameleon-2026-07-09",
       "topic": "Meccha Chameleon",
       "date": "2026-07-09",
@@ -1378,27 +1399,6 @@
       "date": "2026-06-17",
       "niche": "finance",
       "file": "social/apparently-2026-06-17.md"
-    },
-    {
-      "slug": "programrepublican-2026-06-17",
-      "topic": "Programrepublican",
-      "date": "2026-06-17",
-      "niche": "ai",
-      "file": "social/programrepublican-2026-06-17.md"
-    },
-    {
-      "slug": "productivity-apps-2026-06-17",
-      "topic": "Productivity Apps",
-      "date": "2026-06-17",
-      "niche": "software",
-      "file": "social/productivity-apps-2026-06-17.md"
-    },
-    {
-      "slug": "nxtpaper-addresses-2026-06-17",
-      "topic": "Nxtpaper Addresses",
-      "date": "2026-06-17",
-      "niche": "software",
-      "file": "social/nxtpaper-addresses-2026-06-17.md"
     }
   ]
 }

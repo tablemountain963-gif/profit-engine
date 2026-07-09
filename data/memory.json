@@ -2,8 +2,8 @@
   "topics": {
     "claude-code": {
       "firstSeen": "2026-05-28T04:01:44.987Z",
-      "lastSeen": "2026-07-04T14:28:07.815Z",
-      "count": 9,
+      "lastSeen": "2026-07-09T15:55:57.874Z",
+      "count": 10,
       "wins": 3,
       "losses": 0,
       "niche": "ai"
@@ -586,8 +586,8 @@
     },
     "personal-finance": {
       "firstSeen": "2026-06-01T22:54:46.098Z",
-      "lastSeen": "2026-06-29T18:03:16.546Z",
-      "count": 3,
+      "lastSeen": "2026-07-09T15:54:44.155Z",
+      "count": 4,
       "wins": 1,
       "losses": 0,
       "niche": "finance"
@@ -1824,14 +1824,6 @@
       "losses": 0,
       "niche": "gear"
     },
-    "tool": {
-      "firstSeen": "2026-06-16T22:47:14.396Z",
-      "lastSeen": "2026-06-25T05:03:06.361Z",
-      "count": 2,
-      "wins": 0,
-      "losses": 0,
-      "niche": "software"
-    },
     "unlock-tool": {
       "firstSeen": "2026-06-17T06:07:18.936Z",
       "lastSeen": "2026-06-17T16:38:19.417Z",
@@ -2088,28 +2080,12 @@
       "losses": 0,
       "niche": "software"
     },
-    "arctic-ocean": {
-      "firstSeen": "2026-06-20T15:02:28.299Z",
-      "lastSeen": "2026-06-25T15:38:33.257Z",
-      "count": 2,
-      "wins": 0,
-      "losses": 1,
-      "niche": "software"
-    },
     "boot-server": {
       "firstSeen": "2026-06-20T15:02:31.974Z",
       "lastSeen": "2026-06-20T17:15:31.589Z",
       "count": 2,
       "wins": 1,
       "losses": 0,
-      "niche": "ai"
-    },
-    "rtx-pro": {
-      "firstSeen": "2026-06-20T15:02:34.938Z",
-      "lastSeen": "2026-06-25T15:38:33.258Z",
-      "count": 2,
-      "wins": 0,
-      "losses": 1,
       "niche": "ai"
     },
     "claude-guillemot": {
@@ -2536,30 +2512,6 @@
       "losses": 0,
       "niche": "ai"
     },
-    "nvidia-bionemo": {
-      "firstSeen": "2026-06-25T05:02:13.277Z",
-      "lastSeen": "2026-06-25T05:02:13.277Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "ai"
-    },
-    "professional-bip": {
-      "firstSeen": "2026-06-25T05:02:41.660Z",
-      "lastSeen": "2026-06-25T05:02:41.660Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "ai"
-    },
-    "hd-wallet-toolkit": {
-      "firstSeen": "2026-06-25T05:03:23.242Z",
-      "lastSeen": "2026-06-25T05:03:23.242Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "ai"
-    },
     "wikipedia-workers": {
       "firstSeen": "2026-06-25T15:38:39.699Z",
       "lastSeen": "2026-06-25T18:03:07.896Z",
@@ -2581,22 +2533,6 @@
       "lastSeen": "2026-06-25T18:03:07.897Z",
       "count": 2,
       "wins": 1,
-      "losses": 0,
-      "niche": "ai"
-    },
-    "knowledge-graph": {
-      "firstSeen": "2026-06-25T15:39:09.390Z",
-      "lastSeen": "2026-06-25T15:39:09.390Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "ai"
-    },
-    "modular-billion": {
-      "firstSeen": "2026-06-25T15:39:22.529Z",
-      "lastSeen": "2026-06-25T15:39:22.529Z",
-      "count": 1,
-      "wins": 0,
       "losses": 0,
       "niche": "ai"
     },
@@ -4274,9 +4210,9 @@
     },
     "yankovic-rejected": {
       "firstSeen": "2026-07-05T04:53:43.120Z",
-      "lastSeen": "2026-07-05T04:53:43.120Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-07-09T15:54:32.478Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -4698,9 +4634,9 @@
     },
     "illegal-voting": {
       "firstSeen": "2026-07-07T22:03:32.268Z",
-      "lastSeen": "2026-07-07T22:03:32.268Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-07-09T15:54:32.480Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "software"
     },
@@ -4874,17 +4810,17 @@
     },
     "keyboy-advance": {
       "firstSeen": "2026-07-09T04:48:55.742Z",
-      "lastSeen": "2026-07-09T04:48:55.742Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-07-09T15:54:32.481Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "gear"
     },
     "game-boy": {
       "firstSeen": "2026-07-09T04:48:58.885Z",
-      "lastSeen": "2026-07-09T04:48:58.885Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-07-09T15:54:32.482Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "gear"
     },
@@ -4927,27 +4863,83 @@
       "wins": 0,
       "losses": 0,
       "niche": "ai"
+    },
+    "cut-reliance": {
+      "firstSeen": "2026-07-09T15:54:38.037Z",
+      "lastSeen": "2026-07-09T15:54:38.037Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "ibm-software": {
+      "firstSeen": "2026-07-09T15:54:40.983Z",
+      "lastSeen": "2026-07-09T15:54:40.983Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "content-creator": {
+      "firstSeen": "2026-07-09T15:54:52.673Z",
+      "lastSeen": "2026-07-09T15:54:52.673Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "domore-review": {
+      "firstSeen": "2026-07-09T15:54:57.696Z",
+      "lastSeen": "2026-07-09T15:54:57.696Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "bonnie-tyler": {
+      "firstSeen": "2026-07-09T15:55:08.342Z",
+      "lastSeen": "2026-07-09T15:55:08.342Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "software"
+    },
+    "apple-apps": {
+      "firstSeen": "2026-07-09T15:55:17.369Z",
+      "lastSeen": "2026-07-09T15:55:17.369Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "software"
+    },
+    "busy-parents": {
+      "firstSeen": "2026-07-09T15:55:50.864Z",
+      "lastSeen": "2026-07-09T15:55:50.864Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "finance"
     }
   },
   "niches": {
     "ai": {
-      "count": 1168,
-      "wins": 325,
+      "count": 1174,
+      "wins": 326,
       "losses": 50
     },
     "finance": {
-      "count": 102,
+      "count": 104,
       "wins": 17,
       "losses": 2
     },
     "software": {
-      "count": 277,
-      "wins": 75,
+      "count": 280,
+      "wins": 76,
       "losses": 17
     },
     "gear": {
-      "count": 102,
-      "wins": 29,
+      "count": 104,
+      "wins": 31,
       "losses": 0
     },
     "health": {
