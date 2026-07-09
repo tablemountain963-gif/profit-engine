@@ -586,9 +586,9 @@
     },
     "personal-finance": {
       "firstSeen": "2026-06-01T22:54:46.098Z",
-      "lastSeen": "2026-07-09T15:54:44.155Z",
-      "count": 4,
-      "wins": 1,
+      "lastSeen": "2026-07-09T17:47:28.289Z",
+      "count": 5,
+      "wins": 2,
       "losses": 0,
       "niche": "finance"
     },
@@ -3810,8 +3810,8 @@
     },
     "_blank-tools": {
       "firstSeen": "2026-07-02T15:13:51.089Z",
-      "lastSeen": "2026-07-02T15:13:51.089Z",
-      "count": 1,
+      "lastSeen": "2026-07-09T17:48:24.820Z",
+      "count": 2,
       "wins": 0,
       "losses": 0,
       "niche": "ai"
@@ -4722,9 +4722,9 @@
     },
     "ubuntu-touch": {
       "firstSeen": "2026-07-08T15:19:11.701Z",
-      "lastSeen": "2026-07-08T15:19:11.701Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-07-09T17:47:28.285Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "software"
     },
@@ -4762,9 +4762,9 @@
     },
     "taylor-lorenz": {
       "firstSeen": "2026-07-08T17:19:25.903Z",
-      "lastSeen": "2026-07-08T17:19:25.903Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-07-09T17:47:28.286Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -4866,17 +4866,17 @@
     },
     "cut-reliance": {
       "firstSeen": "2026-07-09T15:54:38.037Z",
-      "lastSeen": "2026-07-09T15:54:38.037Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-07-09T17:47:28.287Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
     "ibm-software": {
       "firstSeen": "2026-07-09T15:54:40.983Z",
-      "lastSeen": "2026-07-09T15:54:40.983Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-07-09T17:47:28.288Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -4919,22 +4919,62 @@
       "wins": 0,
       "losses": 0,
       "niche": "finance"
+    },
+    "video-generators": {
+      "firstSeen": "2026-07-09T17:47:33.531Z",
+      "lastSeen": "2026-07-09T17:47:33.531Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "shou-xin": {
+      "firstSeen": "2026-07-09T17:47:36.501Z",
+      "lastSeen": "2026-07-09T17:47:36.501Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "full-song": {
+      "firstSeen": "2026-07-09T17:47:39.751Z",
+      "lastSeen": "2026-07-09T17:47:39.751Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "animation-quality": {
+      "firstSeen": "2026-07-09T17:47:43.946Z",
+      "lastSeen": "2026-07-09T17:47:43.946Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "drew-devault": {
+      "firstSeen": "2026-07-09T17:48:09.882Z",
+      "lastSeen": "2026-07-09T17:48:09.882Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
     }
   },
   "niches": {
     "ai": {
-      "count": 1174,
-      "wins": 326,
+      "count": 1183,
+      "wins": 329,
       "losses": 50
     },
     "finance": {
-      "count": 104,
-      "wins": 17,
+      "count": 105,
+      "wins": 18,
       "losses": 2
     },
     "software": {
-      "count": 280,
-      "wins": 76,
+      "count": 281,
+      "wins": 77,
       "losses": 17
     },
     "gear": {
