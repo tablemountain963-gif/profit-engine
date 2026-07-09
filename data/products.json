@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "slug": "prompt-pack-pacific-ocean-2026-07-09",
+      "title": "Pacific Ocean Prompt Pack — 50 Battle-Tested Prompts",
+      "blurb": "50 proven prompts for Pacific Ocean. Copy/paste ready. Tested across Claude, GPT, Gemini.",
+      "type": "prompt-pack",
+      "topic": "Pacific Ocean",
+      "niche": "ai",
+      "price": 19,
+      "generatedAt": "2026-07-09T04:49:11.876Z",
+      "files": [
+        "prompts.md",
+        "README.md",
+        "LICENSE.txt"
+      ]
+    },
+    {
+      "slug": "prompt-pack-kelsey-pfendler-2026-07-09",
+      "title": "Kelsey Pfendler Prompt Pack — 50 Battle-Tested Prompts",
+      "blurb": "50 proven prompts for Kelsey Pfendler. Copy/paste ready. Tested across Claude, GPT, Gemini.",
+      "type": "prompt-pack",
+      "topic": "Kelsey Pfendler",
+      "niche": "ai",
+      "price": 19,
+      "generatedAt": "2026-07-09T04:49:02.440Z",
+      "files": [
+        "prompts.md",
+        "README.md",
+        "LICENSE.txt"
+      ]
+    },
+    {
       "slug": "checklist-notion-templates-for-founders-2026-07-08",
       "title": "Notion Templates For Founders Operator Checklist — Printable PDF",
       "blurb": "A one-page operator checklist for Notion Templates For Founders. Print, laminate, ship.",
@@ -2994,38 +3024,6 @@
       "generatedAt": "2026-06-01T05:59:16.503Z",
       "files": [
         "prompts.md",
-        "README.md",
-        "LICENSE.txt"
-      ]
-    },
-    {
-      "slug": "prompt-pack-whatsapp-2026-05-31",
-      "title": "Whatsapp Prompt Pack — 50 Battle-Tested Prompts",
-      "blurb": "50 proven prompts for Whatsapp. Copy/paste ready. Tested across Claude, GPT, Gemini.",
-      "type": "prompt-pack",
-      "topic": "Whatsapp",
-      "niche": "software",
-      "price": 19,
-      "generatedAt": "2026-05-31T21:45:19.055Z",
-      "files": [
-        "prompts.md",
-        "README.md",
-        "LICENSE.txt"
-      ]
-    },
-    {
-      "slug": "starter-kit-000-into-2026-05-31",
-      "title": "000 Into Starter Kit — Templates + Playbook",
-      "blurb": "Templates, playbook, and 30-day plan for 000 Into. Skip the blank page.",
-      "type": "starter-kit",
-      "topic": "000 Into",
-      "niche": "finance",
-      "price": 29,
-      "generatedAt": "2026-05-31T16:56:47.918Z",
-      "files": [
-        "playbook.md",
-        "templates.md",
-        "30-day-plan.md",
         "README.md",
         "LICENSE.txt"
       ]

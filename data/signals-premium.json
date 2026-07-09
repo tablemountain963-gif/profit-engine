@@ -1,158 +1,191 @@
 {
-  "generatedAt": "2026-07-08T21:55:55.558Z",
-  "sourceCount": 200,
+  "generatedAt": "2026-07-09T04:48:51.512Z",
+  "sourceCount": 202,
   "topItems": [
     {
-      "title": "GPT‑Live",
-      "url": "https://openai.com/index/introducing-gpt-live/",
-      "score": 9.89,
+      "title": "We made Grok 4.5, GPT-5.5, and Claude build the same apps",
+      "url": "https://www.tryai.dev/blog/grok-4.5-vs-gpt-5.5-vs-claude-build-off",
+      "score": 9.78,
       "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 516,
-        "comments": 357
+        "score": 113,
+        "comments": 55
+      }
+    },
+    {
+      "title": "Every Spaniard should be proud of Spain. While so many countries cower to Donald Trump, Spain does not. Spain treats the mob boss like the criminal he is, and if we all did, Trump would lose all power",
+      "url": "https://mastodon.social/@randahl/116886818163624017",
+      "score": 9.56,
+      "niche": "ai",
+      "source": "mastodon",
+      "engagement": {
+        "score": 385,
+        "comments": 5
+      }
+    },
+    {
+      "title": "John Deere owners will get the right to repair equipment under FTC settlement",
+      "url": "https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02",
+      "score": 9.13,
+      "niche": "ai",
+      "source": "hackernews",
+      "engagement": {
+        "score": 509,
+        "comments": 102
+      }
+    },
+    {
+      "title": "Companies are *already* quietly hiring people to come in and clean up the digital asbestos that is \"AI\" slop, or re-hiring the same folk (who did the actual work) that managers and CEOs ditched with s",
+      "url": "https://raggedfeathers.com/@lilithsaintcrow/116887079193176320",
+      "score": 9.08,
+      "niche": "ai",
+      "source": "mastodon",
+      "engagement": {
+        "score": 281,
+        "comments": 6
+      }
+    },
+    {
+      "title": "I think I have LLM burnout",
+      "url": "https://www.alecscollon.com/blog/llm-burnout/",
+      "score": 8.76,
+      "niche": "ai",
+      "source": "hackernews",
+      "engagement": {
+        "score": 222,
+        "comments": 161
+      }
+    },
+    {
+      "title": "Nanako0129/pilotfish — Multi-model orchestration layer for Claude Code — the frontier model plans, cheaper models execute, verification guards quality. One-prompt install.",
+      "url": "https://github.com/Nanako0129/pilotfish",
+      "score": 8.41,
+      "niche": "ai",
+      "source": "github",
+      "engagement": {
+        "score": 183,
+        "comments": 0
+      }
+    },
+    {
+      "title": "GPT‑Live",
+      "url": "https://openai.com/index/introducing-gpt-live/",
+      "score": 8.13,
+      "niche": "ai",
+      "source": "hackernews",
+      "engagement": {
+        "score": 644,
+        "comments": 425
       }
     },
     {
       "title": "I had 3 hours straight of back-to-back intense meetings on various aspects of satellites destroying astronomy with different groups of people.  This dishcloth I knitted during the meetings expresses m",
       "url": "https://mastodon.social/@sundogplanets/116886105415786488",
-      "score": 9.09,
+      "score": 8.08,
       "niche": "ai",
       "source": "mastodon",
       "engagement": {
-        "score": 666,
-        "comments": 12
+        "score": 1375,
+        "comments": 27
       }
     },
     {
-      "title": "I fucking love that these conversations are actually happening.It gets better: his costume may violate a 14th century law banning the wearing of armor in Parliament.https://www.legislation.gov.uk/aep/",
-      "url": "https://mstdn.social/@MaryAustinBooks/116885254551376660",
-      "score": 8.87,
-      "niche": "software",
-      "source": "mastodon",
-      "engagement": {
-        "score": 515,
-        "comments": 26
-      }
-    },
-    {
-      "title": "When people ask me what the phrase \"artificial intelligence\" means, my short answer is, it means \"venture capitalists, give me some money\".But OUP asked me for a longer answer, given here and summariz",
-      "url": "https://dair-community.social/@emilymbender/116885366454908070",
-      "score": 8.82,
-      "niche": "finance",
-      "source": "mastodon",
-      "engagement": {
-        "score": 820,
-        "comments": 25
-      }
-    },
-    {
-      "title": "SWE-1.7 Reach Near GPT 5.5 and Opus Intelligence",
-      "url": "https://cognition.com/blog/swe-1-7",
-      "score": 8.53,
-      "niche": "ai",
-      "source": "hackernews",
-      "engagement": {
-        "score": 227,
-        "comments": 118
-      }
-    },
-    {
-      "title": "Gym Bro:  I get up at 4am and go for a run, by 6am I'm at the gym training... That's the peak of being an alpha male.Me: Not it's not... Have you ever actually seen an apex predator... they're all laz",
-      "url": "https://beige.party/@Anomnomnomaly/116885293899368405",
-      "score": 8.52,
+      "title": "> take care of your body, your future doctor is using ChatGPT to pass med school",
+      "url": "https://mastodon.social/@never_released/116887335955332234",
+      "score": 7.73,
       "niche": "ai",
       "source": "mastodon",
       "engagement": {
-        "score": 443,
+        "score": 243,
         "comments": 8
       }
     },
     {
-      "title": "Show HN: Microsoft releases Flint, a visualization language for AI agents",
-      "url": "https://microsoft.github.io/flint-chart/#/",
-      "score": 7.59,
-      "niche": "ai",
-      "source": "hackernews",
-      "engagement": {
-        "score": 127,
-        "comments": 54
-      }
-    },
-    {
-      "title": "This is an unoriginal thought at this point but I will say it anyway: If the RAMpocalypse hadn't happened and Valve could have gotten the lower spec of the Steam Machine in at $700, the reviews for it",
-      "url": "https://mastodon.social/@scalzi/116886278049129070",
+      "title": "ThornRogueHypnotize/Meccha-Chameleon-MecchaSpecter — Tool for MECCHA CHAMELEON ESP · Aimbot · Fly Hack · Teleport · God Mode · Infinite Paint",
+      "url": "https://github.com/ThornRogueHypnotize/Meccha-Chameleon-MecchaSpecter",
       "score": 7.39,
-      "niche": "software",
-      "source": "mastodon",
-      "engagement": {
-        "score": 96,
-        "comments": 5
-      }
-    },
-    {
-      "title": "President Trump is taking one of the older Air Force One jets back to the US amid security concerns regarding the new Qatari-donated model. https://thehill.com/homenews/administration/5959582-trump-ai",
-      "url": "https://flipboard.social/@newsguyusa/116886037019275904",
-      "score": 7,
       "niche": "ai",
-      "source": "mastodon",
+      "source": "github",
       "engagement": {
-        "score": 117,
-        "comments": 18
+        "score": 101,
+        "comments": 0
       }
     },
     {
       "title": "Mistral's Robostral Navigate: a state of the art robotics navigation model",
       "url": "https://mistral.ai/news/robostral-navigate/",
-      "score": 7,
+      "score": 7.17,
       "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 366,
-        "comments": 87
+        "score": 438,
+        "comments": 96
       }
     },
     {
-      "title": "Ownership: do \"temos um rojão na mão\" até \"não precisa mais pensar nisso\"",
-      "url": "https://dev.to/he4rt/ownership-do-temos-um-rojao-na-mao-ate-nao-precisa-mais-pensar-nisso-3ki7",
-      "score": 6.66,
-      "niche": "ai",
-      "source": "devto",
+      "title": "withmarbleapp/os-taxonomy — ",
+      "url": "https://github.com/withmarbleapp/os-taxonomy",
+      "score": 7.05,
+      "niche": "software",
+      "source": "github",
       "engagement": {
-        "score": 116,
-        "comments": 2
+        "score": 544,
+        "comments": 0
+      }
+    },
+    {
+      "title": "\"We cannot choose to become idiots\": The AI cheating scandal roiling Brown UniversityAI cheating leads to \"a failed society,\" professor says.https://arstechnica.com/ai/2026/07/we-cannot-choose-to-beco",
+      "url": "https://mastodon.social/@arstechnica/116886534754333000",
+      "score": 6.98,
+      "niche": "ai",
+      "source": "mastodon",
+      "engagement": {
+        "score": 214,
+        "comments": 10
       }
     },
     {
       "title": "Chatto is now open source",
       "url": "https://www.hmans.dev/blog/chatto-is-open-source",
-      "score": 6.63,
+      "score": 6.95,
       "niche": "software",
       "source": "hackernews",
       "engagement": {
-        "score": 579,
-        "comments": 164
+        "score": 827,
+        "comments": 218
       }
     },
     {
-      "title": "Best AI Tools for Social Media Content Creation (2026): CapCut Named a Top Choice for Video and Image Content Creation by Consumer365",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQT1RfLUI5dEctX2tFMk11M21FTEVDai1rUVJ6elJfcl9ld0QwYnB6UjhsUktDS0dWSVJ6d0xzNVZfMmFTVC1VZm85UWlCdGFqUWVMTjQ2cXNzWEsxczdjLURZVmFHbjVKak50M0RxY3RMLWlnRTJWQjdrX1pMMDlfemtNZWFULUpGR09vNXhiUkdlQ0xmLXFkRktR?oc=5",
-      "score": 6.61,
+      "title": "\"It has been criminally underreported but Kelsey Pfendler has just rowed solo across the Pacific Ocean from the US coast to Hawaii in record time. A 2,400-mile unsupported journey in 43 days, 17 hours",
+      "url": "https://mastodon.social/@gwynnion/116886318881320314",
+      "score": 6.93,
       "niche": "ai",
-      "source": "gnews",
+      "source": "mastodon",
       "engagement": {
-        "score": 40,
-        "comments": 0
+        "score": 489,
+        "comments": 10
       }
     },
     {
-      "title": "wassermanproductions/motion-previs-studio — Open-source desktop app for AI-film motion, depth, pose, and camera-move previsualization.",
-      "url": "https://github.com/wassermanproductions/motion-previs-studio",
-      "score": 6.23,
+      "title": "Show HN: Microsoft releases Flint, a visualization language for AI agents",
+      "url": "https://microsoft.github.io/flint-chart/#/",
+      "score": 6.71,
+      "niche": "ai",
+      "source": "hackernews",
+      "engagement": {
+        "score": 235,
+        "comments": 91
+      }
+    },
+    {
+      "title": "Robbyant/lingbot-video — Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence",
+      "url": "https://github.com/Robbyant/lingbot-video",
+      "score": 6.08,
       "niche": "ai",
       "source": "github",
       "engagement": {
-        "score": 172,
+        "score": 236,
         "comments": 0
       }
     },
@@ -163,138 +196,100 @@
       "niche": "ai",
       "source": "github",
       "engagement": {
-        "score": 227,
+        "score": 228,
         "comments": 0
       }
     },
     {
-      "title": "3 Best AI Chatbot Tools for Banking Customer Support (2026)",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZEk4enNlRDc0dFJuZkpsMlkyN2FCa0lLLTJhZmhHcEM2MldSbVZUVlVxM1FGUFJIMm9RcU14UTdhTmJYWENUNUJRa2JUR0pJVlN5R0NMQ21GbXZmR3IxM1ZEQm5WalRhNDBjYVdLMjdZVFhEemhCX1FwY29HdDBYd21UdGxMSFdYSGJKY0doR0tXLXlUUnc?oc=5",
-      "score": 5.99,
+      "title": "PitShipwrightGraph/MecchaPhantom — 🦎 MecchaPhantom – complete hack tool for MECCHA CHAMELEON. Features ESP wallhack, aimbot, fly hack, teleport, god mode, infinite paint, speed hack, and more. Domina",
+      "url": "https://github.com/PitShipwrightGraph/MecchaPhantom",
+      "score": 5.91,
       "niche": "ai",
-      "source": "gnews",
+      "source": "github",
       "engagement": {
-        "score": 40,
+        "score": 101,
         "comments": 0
       }
     },
     {
-      "title": "A couple favorite Earth Tone pots from my last kiln load. I sent them to a gallery this week for an upcoming show. The theme is geometric patterning. I can’t wait to see the work from the other makers",
-      "url": "https://mastodon.social/@potterybyosa/116886416775660587",
-      "score": 5.96,
+      "title": "CylinderFoal/MecchaUltraCheat — 🦎 MecchaUltraCheat – complete cheat tool for MECCHA CHAMELEON. Features ESP wallhack, aimbot, fly hack, teleport, god mode, infinite paint, speed hack, and more. Domin",
+      "url": "https://github.com/CylinderFoal/MecchaUltraCheat",
+      "score": 5.91,
       "niche": "ai",
+      "source": "github",
+      "engagement": {
+        "score": 101,
+        "comments": 0
+      }
+    },
+    {
+      "title": "MIRA: Multiplayer Interactive World Models Trained on Rocket League",
+      "url": "https://mira-wm.com/",
+      "score": 5.78,
+      "niche": "ai",
+      "source": "hackernews",
+      "engagement": {
+        "score": 45,
+        "comments": 9
+      }
+    },
+    {
+      "title": "epic stormy evening here, friends seeing Wynton Marsalis at the botanical gardens sent this, apparently it was wild",
+      "url": "https://mastodon.social/@regehr/116887771638242566",
+      "score": 5.58,
+      "niche": "software",
       "source": "mastodon",
       "engagement": {
-        "score": 62,
+        "score": 43,
         "comments": 5
       }
     },
     {
-      "title": "After chance remarks established we both like rainbows, a colleague and I send each other photos whenever we see one. I've since learned she's very Christian and sees them as a sign of God's love. I a",
-      "url": "https://mastodon.social/@fesshole/116886208937518748",
-      "score": 5.96,
+      "title": "Ownership: do \"temos um rojão na mão\" até \"não precisa mais pensar nisso\"",
+      "url": "https://dev.to/he4rt/ownership-do-temos-um-rojao-na-mao-ate-nao-precisa-mais-pensar-nisso-3ki7",
+      "score": 5.55,
       "niche": "ai",
-      "source": "mastodon",
+      "source": "devto",
       "engagement": {
-        "score": 64,
-        "comments": 4
+        "score": 140,
+        "comments": 3
       }
     },
     {
-      "title": "withmarbleapp/os-taxonomy — ",
-      "url": "https://github.com/withmarbleapp/os-taxonomy",
-      "score": 5.85,
+      "title": "Interview: Drew DeVault on an AI-free version of Vim",
+      "url": "https://jasonpolak.substack.com/p/interview-drew-devault-on-an-ai-free",
+      "score": 5.54,
+      "niche": "ai",
+      "source": "lobsters",
+      "engagement": {
+        "score": 11,
+        "comments": 10
+      }
+    },
+    {
+      "title": "JackdawRespect/MecchaChameleonESP — 🦎 MecchaChameleonESP – complete ESP tool for MECCHA CHAMELEON. Features ESP wallhack, player tracking, distance indicators, box ESP, snap lines, and more. Dominate",
+      "url": "https://github.com/JackdawRespect/MecchaChameleonESP",
+      "score": 5.53,
       "niche": "software",
       "source": "github",
       "engagement": {
-        "score": 186,
+        "score": 139,
         "comments": 0
-      }
-    },
-    {
-      "title": "OmarH-creator/Autonomous-Forge — This repo is automated and is fully AI-built and AI-maintained project that continuously plans, codes, tests, and improves itself.",
-      "url": "https://github.com/OmarH-creator/Autonomous-Forge",
-      "score": 5.74,
-      "niche": "ai",
-      "source": "github",
-      "engagement": {
-        "score": 189,
-        "comments": 5
-      }
-    },
-    {
-      "title": "Best Budgeting Apps Of 2026",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA3eVJUSVFBWHFLenE1MGJwZW5JXzlBbVlsRUtRbnY4Zk51X1l3R2JVSFRrbmhWZUs3OEdVUmx6cmpFNjVyUFFVRWk5N1MzYy1uSTFWVVJ0OGdTNjgtV1RUU3NibThsQm11c1pGNFl4QXhkZw?oc=5",
-      "score": 5.08,
-      "niche": "finance",
-      "source": "gnews",
-      "engagement": {
-        "score": 40,
-        "comments": 0
-      }
-    },
-    {
-      "title": "sunflower-of-parchman/codex-hygiene — Codex skill for auditing and tuning Codex Desktop context/tool surfaces",
-      "url": "https://github.com/sunflower-of-parchman/codex-hygiene",
-      "score": 5,
-      "niche": "software",
-      "source": "github",
-      "engagement": {
-        "score": 193,
-        "comments": 0
-      }
-    },
-    {
-      "title": "10 Best AI Writing Tools in 2026: Tested, Ranked, and Reviewed",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4xa1pobm5McVB2bWVDSUxCSmR1RTBmajJWanZTQld0N0dvaTlGZHkzLVJ1V2dWYXB3ZmRlWU1UUDZHdjl6aTNkald3aEp2MlNqN2NSY3Jn?oc=5",
-      "score": 4.95,
-      "niche": "ai",
-      "source": "gnews",
-      "engagement": {
-        "score": 40,
-        "comments": 0
-      }
-    },
-    {
-      "title": "nexu-io/motion-anything — ✨ The agentic motion layer — an open-source, chat-native motion engine. Describe the feeling; your AI ships the animation.",
-      "url": "https://github.com/nexu-io/motion-anything",
-      "score": 4.77,
-      "niche": "ai",
-      "source": "github",
-      "engagement": {
-        "score": 296,
-        "comments": 4
-      }
-    },
-    {
-      "title": "Robbyant/lingbot-vla-v2 — From Foundation to Application",
-      "url": "https://github.com/Robbyant/lingbot-vla-v2",
-      "score": 4.7,
-      "niche": "software",
-      "source": "github",
-      "engagement": {
-        "score": 268,
-        "comments": 1
       }
     }
   ],
   "topics": [
     {
       "keyword": "passive income",
-      "count": 47,
-      "score": 154.77886672939303,
+      "count": 58,
+      "score": 174.88221750340452,
       "proper": true,
       "niches": [
-        "finance",
-        "ai"
+        "ai",
+        "finance"
       ],
       "examples": [
         {
-          "title": "Here's how much an investor needs in a Stocks and Shares ISA to target £15,000 of passive income a year",
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxObG9ybVpTWExXQTB6azh3d3JsRmJHYmN3SzY1T1hQOUd5MXlwTEU5ZXRqeUs4bFBYZXY2MldyLUljQUlSSGpvaFkwZ0xQdVRwZ1pFakFBUmlxU205QTlZamgzMU1WUlRIVlNmVXlwWDU4cjVWWERCOG9aa0JybmdBNVJDU3VDcEQ4Y2JNWkk0S2hZVlczeUxIVnJISjl0emw3bjlNZzI4QXByanljVUFJcGxoZkZrRmk1TEVFZjl1Tk51MnZWSHVvSVFDUFF4eFMyV3VMUC1kS0Vfdw?oc=5",
-          "source": "gnews"
-        },
-        {
           "title": "I'm 46 and Raising Kids on My Own. What Are the Most Realistic Ways to Generate an Extra $2K to $3K a Month in Passive Income?",
           "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWkNkQmRWajZkSlVDRG94RHFnOF9jSlBRWjRjTHlKUDRjZGYyTG0wMF81NlFfVkpsTFd1QVBlRkV5Q0xFU0JVM3AwWWQtSVVXLVRsblZmMm1fOUR3SXJSWWtGZmVtdjJ3QmhCR3RaeFVlMFczTnh5Y2VTdy1oSzBaS2VGZ09wbWFRczlhazl0Y3c?oc=5",
           "source": "gnews"
@@ -310,8 +305,13 @@
           "source": "gnews"
         },
         {
-          "title": "Passive Income Is the New American Dream. The Psychology Behind It Should Worry Leaders",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxONktVeGxiNVBDWnktaWNfRUdDbXVacGtCbUpZOU15STBIUHV2aUFieVRpNzIyYXBMdnBHV3BkVGx6VmZ1c3ZVZXVNTlZmOEgyWmFocFJaekFmSDY5T2ljWVY3OXJ2WHRBNkR1ZTJJVklMX1JFRkRvQTZnN0ZjV0Roc25zNDQ3QmRMVG93aThmS1hYdGlreEhQMDJjN1p4cFVoQ2E5RFZ0Tm8wN0JNcElOZ3FXSHhRUTZfMWh4OUFnd1ZfcHlyRTNR?oc=5",
+          "title": "S$1,000 Every Month: 4 Singapore REITs to Build a Reliable Passive Income Stream",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE45MDhoVVJzblNlVHdoM3dwSzdZNElrY29jN2otX0dXaFdab1pGTWkzVEtZTWdtbDlYWnN1cDl5d0RqbHI0Zm5oQ1NGOGZVWTh0cVRVak1Ld1JEUEtNejJ2QnhQZDhIeW95NDVTampVY3IxMkRsX0Q0?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "S$1,000 Every Month: 4 Singapore REITs to Build a Reliable Passive Income Stream",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE45MDhoVVJzblNlVHdoM3dwSzdZNElrY29jN2otX0dXaFdab1pGTWkzVEtZTWdtbDlYWnN1cDl5d0RqbHI0Zm5oQ1NGOGZVWTh0cVRVak1Ld1JEUEtNejJ2QnhQZDhIeW95NDVTampVY3IxMkRsX0Q0?oc=5",
           "source": "gnews"
         }
       ],
@@ -319,106 +319,164 @@
       "slug": "passive-income"
     },
     {
-      "keyword": "capcut named",
-      "count": 11,
-      "score": 108.99838417254662,
+      "keyword": "fly hack",
+      "count": 14,
+      "score": 141.91965373601005,
       "proper": true,
       "niches": [
         "ai"
       ],
       "examples": [
         {
-          "title": "Best AI Tools for Social Media Content Creation (2026): CapCut Named a Top Choice for Video and Image Content Creation by Consumer365",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQT1RfLUI5dEctX2tFMk11M21FTEVDai1rUVJ6elJfcl9ld0QwYnB6UjhsUktDS0dWSVJ6d0xzNVZfMmFTVC1VZm85UWlCdGFqUWVMTjQ2cXNzWEsxczdjLURZVmFHbjVKak50M0RxY3RMLWlnRTJWQjdrX1pMMDlfemtNZWFULUpGR09vNXhiUkdlQ0xmLXFkRktR?oc=5",
-          "source": "gnews"
+          "title": "ThornRogueHypnotize/Meccha-Chameleon-MecchaSpecter — Tool for MECCHA CHAMELEON ESP · Aimbot · Fly Hack · Teleport · God Mode · Infinite Paint",
+          "url": "https://github.com/ThornRogueHypnotize/Meccha-Chameleon-MecchaSpecter",
+          "source": "github"
         },
         {
-          "title": "Best AI Tools for Social Media Content Creation (2026): CapCut Named a Top Choice for Video and Image Content Creation by Consumer365",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQT1RfLUI5dEctX2tFMk11M21FTEVDai1rUVJ6elJfcl9ld0QwYnB6UjhsUktDS0dWSVJ6d0xzNVZfMmFTVC1VZm85UWlCdGFqUWVMTjQ2cXNzWEsxczdjLURZVmFHbjVKak50M0RxY3RMLWlnRTJWQjdrX1pMMDlfemtNZWFULUpGR09vNXhiUkdlQ0xmLXFkRktR?oc=5",
-          "source": "gnews"
+          "title": "ThornRogueHypnotize/Meccha-Chameleon-MecchaSpecter — Tool for MECCHA CHAMELEON ESP · Aimbot · Fly Hack · Teleport · God Mode · Infinite Paint",
+          "url": "https://github.com/ThornRogueHypnotize/Meccha-Chameleon-MecchaSpecter",
+          "source": "github"
         },
         {
-          "title": "Best AI Tools for Social Media Content Creation (2026): CapCut Named a Top Choice for Video and Image Content Creation by Consumer365",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQT1RfLUI5dEctX2tFMk11M21FTEVDai1rUVJ6elJfcl9ld0QwYnB6UjhsUktDS0dWSVJ6d0xzNVZfMmFTVC1VZm85UWlCdGFqUWVMTjQ2cXNzWEsxczdjLURZVmFHbjVKak50M0RxY3RMLWlnRTJWQjdrX1pMMDlfemtNZWFULUpGR09vNXhiUkdlQ0xmLXFkRktR?oc=5",
-          "source": "gnews"
+          "title": "PitShipwrightGraph/MecchaPhantom — 🦎 MecchaPhantom – complete hack tool for MECCHA CHAMELEON. Features ESP wallhack, aimbot, fly hack, teleport, god mode, infinite paint, speed hack, and more. Domina",
+          "url": "https://github.com/PitShipwrightGraph/MecchaPhantom",
+          "source": "github"
+        },
+        {
+          "title": "CylinderFoal/MecchaUltraCheat — 🦎 MecchaUltraCheat – complete cheat tool for MECCHA CHAMELEON. Features ESP wallhack, aimbot, fly hack, teleport, god mode, infinite paint, speed hack, and more. Domin",
+          "url": "https://github.com/CylinderFoal/MecchaUltraCheat",
+          "source": "github"
         }
       ],
-      "id": "d4fa3a453462",
-      "slug": "capcut-named"
+      "id": "f156dcefa209",
+      "slug": "fly-hack"
     },
     {
-      "keyword": "opus intelligence",
-      "count": 8,
-      "score": 102.3942904533074,
+      "keyword": "god mode",
+      "count": 14,
+      "score": 141.91965373601005,
       "proper": true,
       "niches": [
         "ai"
       ],
       "examples": [
         {
-          "title": "SWE-1.7 Reach Near GPT 5.5 and Opus Intelligence",
-          "url": "https://cognition.com/blog/swe-1-7",
+          "title": "ThornRogueHypnotize/Meccha-Chameleon-MecchaSpecter — Tool for MECCHA CHAMELEON ESP · Aimbot · Fly Hack · Teleport · God Mode · Infinite Paint",
+          "url": "https://github.com/ThornRogueHypnotize/Meccha-Chameleon-MecchaSpecter",
+          "source": "github"
+        },
+        {
+          "title": "ThornRogueHypnotize/Meccha-Chameleon-MecchaSpecter — Tool for MECCHA CHAMELEON ESP · Aimbot · Fly Hack · Teleport · God Mode · Infinite Paint",
+          "url": "https://github.com/ThornRogueHypnotize/Meccha-Chameleon-MecchaSpecter",
+          "source": "github"
+        },
+        {
+          "title": "PitShipwrightGraph/MecchaPhantom — 🦎 MecchaPhantom – complete hack tool for MECCHA CHAMELEON. Features ESP wallhack, aimbot, fly hack, teleport, god mode, infinite paint, speed hack, and more. Domina",
+          "url": "https://github.com/PitShipwrightGraph/MecchaPhantom",
+          "source": "github"
+        },
+        {
+          "title": "CylinderFoal/MecchaUltraCheat — 🦎 MecchaUltraCheat – complete cheat tool for MECCHA CHAMELEON. Features ESP wallhack, aimbot, fly hack, teleport, god mode, infinite paint, speed hack, and more. Domin",
+          "url": "https://github.com/CylinderFoal/MecchaUltraCheat",
+          "source": "github"
+        }
+      ],
+      "id": "d0dad605d6b1",
+      "slug": "god-mode"
+    },
+    {
+      "keyword": "infinite paint",
+      "count": 14,
+      "score": 141.91965373601005,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "ThornRogueHypnotize/Meccha-Chameleon-MecchaSpecter — Tool for MECCHA CHAMELEON ESP · Aimbot · Fly Hack · Teleport · God Mode · Infinite Paint",
+          "url": "https://github.com/ThornRogueHypnotize/Meccha-Chameleon-MecchaSpecter",
+          "source": "github"
+        },
+        {
+          "title": "ThornRogueHypnotize/Meccha-Chameleon-MecchaSpecter — Tool for MECCHA CHAMELEON ESP · Aimbot · Fly Hack · Teleport · God Mode · Infinite Paint",
+          "url": "https://github.com/ThornRogueHypnotize/Meccha-Chameleon-MecchaSpecter",
+          "source": "github"
+        },
+        {
+          "title": "PitShipwrightGraph/MecchaPhantom — 🦎 MecchaPhantom – complete hack tool for MECCHA CHAMELEON. Features ESP wallhack, aimbot, fly hack, teleport, god mode, infinite paint, speed hack, and more. Domina",
+          "url": "https://github.com/PitShipwrightGraph/MecchaPhantom",
+          "source": "github"
+        },
+        {
+          "title": "CylinderFoal/MecchaUltraCheat — 🦎 MecchaUltraCheat – complete cheat tool for MECCHA CHAMELEON. Features ESP wallhack, aimbot, fly hack, teleport, god mode, infinite paint, speed hack, and more. Domin",
+          "url": "https://github.com/CylinderFoal/MecchaUltraCheat",
+          "source": "github"
+        }
+      ],
+      "id": "6259dce37164",
+      "slug": "infinite-paint"
+    },
+    {
+      "keyword": "claude",
+      "count": 8,
+      "score": 102.10379144494816,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "We made Grok 4.5, GPT-5.5, and Claude build the same apps",
+          "url": "https://www.tryai.dev/blog/grok-4.5-vs-gpt-5.5-vs-claude-build-off",
           "source": "hackernews"
         },
         {
-          "title": "SWE-1.7 Reach Near GPT 5.5 and Opus Intelligence",
-          "url": "https://cognition.com/blog/swe-1-7",
+          "title": "We made Grok 4.5, GPT-5.5, and Claude build the same apps",
+          "url": "https://www.tryai.dev/blog/grok-4.5-vs-gpt-5.5-vs-claude-build-off",
           "source": "hackernews"
+        },
+        {
+          "title": "Nanako0129/pilotfish — Multi-model orchestration layer for Claude Code — the frontier model plans, cheaper models execute, verification guards quality. One-prompt install.",
+          "url": "https://github.com/Nanako0129/pilotfish",
+          "source": "github"
+        },
+        {
+          "title": "finops-mcp 0.8.149",
+          "url": "https://pypi.org/project/finops-mcp/0.8.149/",
+          "source": "pypi"
         }
       ],
-      "id": "e7f71cf7f15f",
-      "slug": "opus-intelligence"
+      "id": "c857d09db23e",
+      "slug": "claude"
     },
     {
-      "keyword": "gym bro",
+      "keyword": "claude code",
       "count": 8,
-      "score": 102.24990073657244,
+      "score": 100.88404510813679,
       "proper": true,
       "niches": [
         "ai"
       ],
       "examples": [
         {
-          "title": "Gym Bro:  I get up at 4am and go for a run, by 6am I'm at the gym training... That's the peak of being an alpha male.Me: Not it's not... Have you ever actually seen an apex predator... they're all laz",
-          "url": "https://beige.party/@Anomnomnomaly/116885293899368405",
-          "source": "mastodon"
+          "title": "Nanako0129/pilotfish — Multi-model orchestration layer for Claude Code — the frontier model plans, cheaper models execute, verification guards quality. One-prompt install.",
+          "url": "https://github.com/Nanako0129/pilotfish",
+          "source": "github"
         },
         {
-          "title": "Gym Bro:  I get up at 4am and go for a run, by 6am I'm at the gym training... That's the peak of being an alpha male.Me: Not it's not... Have you ever actually seen an apex predator... they're all laz",
-          "url": "https://beige.party/@Anomnomnomaly/116885293899368405",
-          "source": "mastodon"
+          "title": "Nanako0129/pilotfish — Multi-model orchestration layer for Claude Code — the frontier model plans, cheaper models execute, verification guards quality. One-prompt install.",
+          "url": "https://github.com/Nanako0129/pilotfish",
+          "source": "github"
         }
       ],
-      "id": "44a357184cdd",
-      "slug": "gym-bro"
-    },
-    {
-      "keyword": "steam machine",
-      "count": 8,
-      "score": 88.64348340928998,
-      "proper": true,
-      "niches": [
-        "software"
-      ],
-      "examples": [
-        {
-          "title": "This is an unoriginal thought at this point but I will say it anyway: If the RAMpocalypse hadn't happened and Valve could have gotten the lower spec of the Steam Machine in at $700, the reviews for it",
-          "url": "https://mastodon.social/@scalzi/116886278049129070",
-          "source": "mastodon"
-        },
-        {
-          "title": "This is an unoriginal thought at this point but I will say it anyway: If the RAMpocalypse hadn't happened and Valve could have gotten the lower spec of the Steam Machine in at $700, the reviews for it",
-          "url": "https://mastodon.social/@scalzi/116886278049129070",
-          "source": "mastodon"
-        }
-      ],
-      "id": "dc86b660d6db",
-      "slug": "steam-machine"
+      "id": "a625159d18da",
+      "slug": "claude-code"
     },
     {
       "keyword": "robostral navigate",
       "count": 8,
-      "score": 83.96381998407382,
+      "score": 86.01690191597982,
       "proper": true,
       "niches": [
         "ai"
@@ -439,42 +497,73 @@
       "slug": "robostral-navigate"
     },
     {
-      "keyword": "agent",
-      "count": 15,
-      "score": 83.73277451127066,
+      "keyword": "brown universityai",
+      "count": 8,
+      "score": 83.76508543833589,
       "proper": true,
       "niches": [
         "ai"
       ],
       "examples": [
         {
-          "title": "CWS6206/EasyLastSkill — EasyLastSkill ist eine deutschsprachige Codex-/Agent-Skill fuer schnelle Recherchen zu den letzten Tagen eines Themas. Standardmaessig betrachtet sie die letzten 30 Tage und er",
-          "url": "https://github.com/CWS6206/EasyLastSkill",
-          "source": "github"
+          "title": "\"We cannot choose to become idiots\": The AI cheating scandal roiling Brown UniversityAI cheating leads to \"a failed society,\" professor says.https://arstechnica.com/ai/2026/07/we-cannot-choose-to-beco",
+          "url": "https://mastodon.social/@arstechnica/116886534754333000",
+          "source": "mastodon"
         },
         {
-          "title": "xiaotianfotos/homerail — Voice-first local agent orchestration runtime for auditable DAG workflows.",
-          "url": "https://github.com/xiaotianfotos/homerail",
-          "source": "github"
-        },
-        {
-          "title": "shlokkhemani/rabbithole — An infinite canvas for learning — select text, ask, and answers branch out as documents. MCP server for Claude Code, Codex, and any agent.",
-          "url": "https://github.com/shlokkhemani/rabbithole",
-          "source": "github"
-        },
-        {
-          "title": "My AI agent tried to ship a mistake we'd already reverted",
-          "url": "https://dev.to/masondelan/my-ai-agent-tried-to-ship-a-mistake-wed-already-reverted-4737",
-          "source": "devto"
-        },
-        {
-          "title": "GitLost: How We Tricked GitHub’s AI Agent into Leaking Private Repos",
-          "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/",
-          "source": "lobsters"
+          "title": "\"We cannot choose to become idiots\": The AI cheating scandal roiling Brown UniversityAI cheating leads to \"a failed society,\" professor says.https://arstechnica.com/ai/2026/07/we-cannot-choose-to-beco",
+          "url": "https://mastodon.social/@arstechnica/116886534754333000",
+          "source": "mastodon"
         }
       ],
-      "id": "d4f0bc5a29de",
-      "slug": "agent"
+      "id": "3f7308b45f76",
+      "slug": "brown-universityai"
+    },
+    {
+      "keyword": "kelsey pfendler",
+      "count": 8,
+      "score": 83.1765558097286,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "\"It has been criminally underreported but Kelsey Pfendler has just rowed solo across the Pacific Ocean from the US coast to Hawaii in record time. A 2,400-mile unsupported journey in 43 days, 17 hours",
+          "url": "https://mastodon.social/@gwynnion/116886318881320314",
+          "source": "mastodon"
+        },
+        {
+          "title": "\"It has been criminally underreported but Kelsey Pfendler has just rowed solo across the Pacific Ocean from the US coast to Hawaii in record time. A 2,400-mile unsupported journey in 43 days, 17 hours",
+          "url": "https://mastodon.social/@gwynnion/116886318881320314",
+          "source": "mastodon"
+        }
+      ],
+      "id": "87903a1a552a",
+      "slug": "kelsey-pfendler"
+    },
+    {
+      "keyword": "pacific ocean",
+      "count": 8,
+      "score": 83.1765558097286,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "\"It has been criminally underreported but Kelsey Pfendler has just rowed solo across the Pacific Ocean from the US coast to Hawaii in record time. A 2,400-mile unsupported journey in 43 days, 17 hours",
+          "url": "https://mastodon.social/@gwynnion/116886318881320314",
+          "source": "mastodon"
+        },
+        {
+          "title": "\"It has been criminally underreported but Kelsey Pfendler has just rowed solo across the Pacific Ocean from the US coast to Hawaii in record time. A 2,400-mile unsupported journey in 43 days, 17 hours",
+          "url": "https://mastodon.social/@gwynnion/116886318881320314",
+          "source": "mastodon"
+        }
+      ],
+      "id": "f0c03fb8abc4",
+      "slug": "pacific-ocean"
     },
     {
       "keyword": "personal finance",
@@ -516,215 +605,132 @@
       "slug": "personal-finance"
     },
     {
-      "keyword": "content creation",
+      "keyword": "tool meccha",
       "count": 12,
-      "score": 79.27155212548845,
+      "score": 74.2401367899755,
       "proper": false,
       "niches": [
-        "ai"
+        "ai",
+        "software"
       ],
       "examples": [
         {
-          "title": "Best AI Tools for Social Media Content Creation (2026): CapCut Named a Top Choice for Video and Image Content Creation by Consumer365",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQT1RfLUI5dEctX2tFMk11M21FTEVDai1rUVJ6elJfcl9ld0QwYnB6UjhsUktDS0dWSVJ6d0xzNVZfMmFTVC1VZm85UWlCdGFqUWVMTjQ2cXNzWEsxczdjLURZVmFHbjVKak50M0RxY3RMLWlnRTJWQjdrX1pMMDlfemtNZWFULUpGR09vNXhiUkdlQ0xmLXFkRktR?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Best AI Tools for Social Media Content Creation (2026): CapCut Named a Top Choice for Video and Image Content Creation by Consumer365",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQT1RfLUI5dEctX2tFMk11M21FTEVDai1rUVJ6elJfcl9ld0QwYnB6UjhsUktDS0dWSVJ6d0xzNVZfMmFTVC1VZm85UWlCdGFqUWVMTjQ2cXNzWEsxczdjLURZVmFHbjVKak50M0RxY3RMLWlnRTJWQjdrX1pMMDlfemtNZWFULUpGR09vNXhiUkdlQ0xmLXFkRktR?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Best AI Tools for Social Media Content Creation (2026): CapCut Named a Top Choice for Video and Image Content Creation by Consumer365",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQT1RfLUI5dEctX2tFMk11M21FTEVDai1rUVJ6elJfcl9ld0QwYnB6UjhsUktDS0dWSVJ6d0xzNVZfMmFTVC1VZm85UWlCdGFqUWVMTjQ2cXNzWEsxczdjLURZVmFHbjVKak50M0RxY3RMLWlnRTJWQjdrX1pMMDlfemtNZWFULUpGR09vNXhiUkdlQ0xmLXFkRktR?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Best AI Tools for Social Media Content Creation (2026): CapCut Named a Top Choice for Video and Image Content Creation by Consumer365",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQT1RfLUI5dEctX2tFMk11M21FTEVDai1rUVJ6elJfcl9ld0QwYnB6UjhsUktDS0dWSVJ6d0xzNVZfMmFTVC1VZm85UWlCdGFqUWVMTjQ2cXNzWEsxczdjLURZVmFHbjVKak50M0RxY3RMLWlnRTJWQjdrX1pMMDlfemtNZWFULUpGR09vNXhiUkdlQ0xmLXFkRktR?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "c8909b77caee",
-      "slug": "content-creation"
-    },
-    {
-      "keyword": "earth tone",
-      "count": 8,
-      "score": 71.55159782862552,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "A couple favorite Earth Tone pots from my last kiln load. I sent them to a gallery this week for an upcoming show. The theme is geometric patterning. I can’t wait to see the work from the other makers",
-          "url": "https://mastodon.social/@potterybyosa/116886416775660587",
-          "source": "mastodon"
-        },
-        {
-          "title": "A couple favorite Earth Tone pots from my last kiln load. I sent them to a gallery this week for an upcoming show. The theme is geometric patterning. I can’t wait to see the work from the other makers",
-          "url": "https://mastodon.social/@potterybyosa/116886416775660587",
-          "source": "mastodon"
-        }
-      ],
-      "id": "db2892e4c01f",
-      "slug": "earth-tone"
-    },
-    {
-      "keyword": "raising kids",
-      "count": 11,
-      "score": 68.12399010784164,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "I'm 46 and Raising Kids on My Own. What Are the Most Realistic Ways to Generate an Extra $2K to $3K a Month in Passive Income?",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWkNkQmRWajZkSlVDRG94RHFnOF9jSlBRWjRjTHlKUDRjZGYyTG0wMF81NlFfVkpsTFd1QVBlRkV5Q0xFU0JVM3AwWWQtSVVXLVRsblZmMm1fOUR3SXJSWWtGZmVtdjJ3QmhCR3RaeFVlMFczTnh5Y2VTdy1oSzBaS2VGZ09wbWFRczlhazl0Y3c?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "I'm 46 and Raising Kids on My Own. What Are the Most Realistic Ways to Generate an Extra $2K to $3K a Month in Passive Income?",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWkNkQmRWajZkSlVDRG94RHFnOF9jSlBRWjRjTHlKUDRjZGYyTG0wMF81NlFfVkpsTFd1QVBlRkV5Q0xFU0JVM3AwWWQtSVVXLVRsblZmMm1fOUR3SXJSWWtGZmVtdjJ3QmhCR3RaeFVlMFczTnh5Y2VTdy1oSzBaS2VGZ09wbWFRczlhazl0Y3c?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "I'm 46 and Raising Kids on My Own. What Are the Most Realistic Ways to Generate an Extra $2K to $3K a Month in Passive Income?",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWkNkQmRWajZkSlVDRG94RHFnOF9jSlBRWjRjTHlKUDRjZGYyTG0wMF81NlFfVkpsTFd1QVBlRkV5Q0xFU0JVM3AwWWQtSVVXLVRsblZmMm1fOUR3SXJSWWtGZmVtdjJ3QmhCR3RaeFVlMFczTnh5Y2VTdy1oSzBaS2VGZ09wbWFRczlhazl0Y3c?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "bcad7cf60875",
-      "slug": "raising-kids"
-    },
-    {
-      "keyword": "anthropic models",
-      "count": 11,
-      "score": 66.42089035514559,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "Microsoft Starts Replacing OpenAI Anthropic Models in Office Apps",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbGVfeXR1aHpzZnRtSm0zRnZRQlFRTm1sV2hxVEFMdzdZZUxELW5nbHlGS1BHWHhEVHdJb1Z2THQ4OUZXYi1FZUNUSUozM0t5SE80dUdIZjFtNl9tbUpFLTBDU1VpakM5ME1JbjJ5UGNMLXJsa2dmYjRqemNwTzJxNm01QzhLTUpqWm91UGJOMHZCU3JCLWQzMzdMT2haYUwzQVRuUg?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Microsoft Starts Replacing OpenAI Anthropic Models in Office Apps",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbGVfeXR1aHpzZnRtSm0zRnZRQlFRTm1sV2hxVEFMdzdZZUxELW5nbHlGS1BHWHhEVHdJb1Z2THQ4OUZXYi1FZUNUSUozM0t5SE80dUdIZjFtNl9tbUpFLTBDU1VpakM5ME1JbjJ5UGNMLXJsa2dmYjRqemNwTzJxNm01QzhLTUpqWm91UGJOMHZCU3JCLWQzMzdMT2haYUwzQVRuUg?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Microsoft Starts Replacing OpenAI Anthropic Models in Office Apps",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbGVfeXR1aHpzZnRtSm0zRnZRQlFRTm1sV2hxVEFMdzdZZUxELW5nbHlGS1BHWHhEVHdJb1Z2THQ4OUZXYi1FZUNUSUozM0t5SE80dUdIZjFtNl9tbUpFLTBDU1VpakM5ME1JbjJ5UGNMLXJsa2dmYjRqemNwTzJxNm01QzhLTUpqWm91UGJOMHZCU3JCLWQzMzdMT2haYUwzQVRuUg?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "4904fcb8ef75",
-      "slug": "anthropic-models"
-    },
-    {
-      "keyword": "office apps",
-      "count": 11,
-      "score": 66.42089035514559,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "Microsoft Starts Replacing OpenAI Anthropic Models in Office Apps",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbGVfeXR1aHpzZnRtSm0zRnZRQlFRTm1sV2hxVEFMdzdZZUxELW5nbHlGS1BHWHhEVHdJb1Z2THQ4OUZXYi1FZUNUSUozM0t5SE80dUdIZjFtNl9tbUpFLTBDU1VpakM5ME1JbjJ5UGNMLXJsa2dmYjRqemNwTzJxNm01QzhLTUpqWm91UGJOMHZCU3JCLWQzMzdMT2haYUwzQVRuUg?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Microsoft Starts Replacing OpenAI Anthropic Models in Office Apps",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbGVfeXR1aHpzZnRtSm0zRnZRQlFRTm1sV2hxVEFMdzdZZUxELW5nbHlGS1BHWHhEVHdJb1Z2THQ4OUZXYi1FZUNUSUozM0t5SE80dUdIZjFtNl9tbUpFLTBDU1VpakM5ME1JbjJ5UGNMLXJsa2dmYjRqemNwTzJxNm01QzhLTUpqWm91UGJOMHZCU3JCLWQzMzdMT2haYUwzQVRuUg?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Microsoft Starts Replacing OpenAI Anthropic Models in Office Apps",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbGVfeXR1aHpzZnRtSm0zRnZRQlFRTm1sV2hxVEFMdzdZZUxELW5nbHlGS1BHWHhEVHdJb1Z2THQ4OUZXYi1FZUNUSUozM0t5SE80dUdIZjFtNl9tbUpFLTBDU1VpakM5ME1JbjJ5UGNMLXJsa2dmYjRqemNwTzJxNm01QzhLTUpqWm91UGJOMHZCU3JCLWQzMzdMT2haYUwzQVRuUg?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "2157f0f18a58",
-      "slug": "office-apps"
-    },
-    {
-      "keyword": "open",
-      "count": 8,
-      "score": 66.01635227858836,
-      "proper": true,
-      "niches": [
-        "software",
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "Chatto is now open source",
-          "url": "https://www.hmans.dev/blog/chatto-is-open-source",
-          "source": "hackernews"
-        },
-        {
-          "title": "wassermanproductions/motion-previs-studio — Open-source desktop app for AI-film motion, depth, pose, and camera-move previsualization.",
-          "url": "https://github.com/wassermanproductions/motion-previs-studio",
+          "title": "ThornRogueHypnotize/Meccha-Chameleon-MecchaSpecter — Tool for MECCHA CHAMELEON ESP · Aimbot · Fly Hack · Teleport · God Mode · Infinite Paint",
+          "url": "https://github.com/ThornRogueHypnotize/Meccha-Chameleon-MecchaSpecter",
           "source": "github"
         },
         {
-          "title": "EVE Online's Carbon engine is now open source: Fenris Creations explains why",
-          "url": "https://www.gamesindustry.biz/eve-onlines-carbon-engine-is-now-open-source-fenris-creations-explains-why",
-          "source": "hackernews"
+          "title": "PitShipwrightGraph/MecchaPhantom — 🦎 MecchaPhantom – complete hack tool for MECCHA CHAMELEON. Features ESP wallhack, aimbot, fly hack, teleport, god mode, infinite paint, speed hack, and more. Domina",
+          "url": "https://github.com/PitShipwrightGraph/MecchaPhantom",
+          "source": "github"
         },
         {
-          "title": "Dev Opportunity Radar #6: Y Combinator Startup School, Open Source AI Grants, and a $60K APAC Hackathon",
-          "url": "https://dev.to/devengers/dev-opportunity-radar-6-y-combinator-startup-school-open-source-ai-grants-and-a-60k-apac-4nlp",
-          "source": "devto"
+          "title": "CylinderFoal/MecchaUltraCheat — 🦎 MecchaUltraCheat – complete cheat tool for MECCHA CHAMELEON. Features ESP wallhack, aimbot, fly hack, teleport, god mode, infinite paint, speed hack, and more. Domin",
+          "url": "https://github.com/CylinderFoal/MecchaUltraCheat",
+          "source": "github"
+        },
+        {
+          "title": "JackdawRespect/MecchaChameleonESP — 🦎 MecchaChameleonESP – complete ESP tool for MECCHA CHAMELEON. Features ESP wallhack, player tracking, distance indicators, box ESP, snap lines, and more. Dominate",
+          "url": "https://github.com/JackdawRespect/MecchaChameleonESP",
+          "source": "github"
         }
       ],
-      "id": "2348f9987442",
-      "slug": "open"
+      "id": "7bffaa50c01b",
+      "slug": "tool-meccha"
     },
     {
-      "keyword": "reach near gpt",
-      "count": 5,
-      "score": 63.996431533317136,
+      "keyword": "meccha chameleon",
+      "count": 12,
+      "score": 74.2401367899755,
+      "proper": false,
+      "niches": [
+        "ai",
+        "software"
+      ],
+      "examples": [
+        {
+          "title": "ThornRogueHypnotize/Meccha-Chameleon-MecchaSpecter — Tool for MECCHA CHAMELEON ESP · Aimbot · Fly Hack · Teleport · God Mode · Infinite Paint",
+          "url": "https://github.com/ThornRogueHypnotize/Meccha-Chameleon-MecchaSpecter",
+          "source": "github"
+        },
+        {
+          "title": "PitShipwrightGraph/MecchaPhantom — 🦎 MecchaPhantom – complete hack tool for MECCHA CHAMELEON. Features ESP wallhack, aimbot, fly hack, teleport, god mode, infinite paint, speed hack, and more. Domina",
+          "url": "https://github.com/PitShipwrightGraph/MecchaPhantom",
+          "source": "github"
+        },
+        {
+          "title": "CylinderFoal/MecchaUltraCheat — 🦎 MecchaUltraCheat – complete cheat tool for MECCHA CHAMELEON. Features ESP wallhack, aimbot, fly hack, teleport, god mode, infinite paint, speed hack, and more. Domin",
+          "url": "https://github.com/CylinderFoal/MecchaUltraCheat",
+          "source": "github"
+        },
+        {
+          "title": "JackdawRespect/MecchaChameleonESP — 🦎 MecchaChameleonESP – complete ESP tool for MECCHA CHAMELEON. Features ESP wallhack, player tracking, distance indicators, box ESP, snap lines, and more. Dominate",
+          "url": "https://github.com/JackdawRespect/MecchaChameleonESP",
+          "source": "github"
+        }
+      ],
+      "id": "c6fb145decbd",
+      "slug": "meccha-chameleon"
+    },
+    {
+      "keyword": "embodied intelligence",
+      "count": 8,
+      "score": 72.9522691894304,
       "proper": true,
       "niches": [
         "ai"
       ],
       "examples": [
         {
-          "title": "SWE-1.7 Reach Near GPT 5.5 and Opus Intelligence",
-          "url": "https://cognition.com/blog/swe-1-7",
+          "title": "Robbyant/lingbot-video — Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence",
+          "url": "https://github.com/Robbyant/lingbot-video",
+          "source": "github"
+        },
+        {
+          "title": "Robbyant/lingbot-video — Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence",
+          "url": "https://github.com/Robbyant/lingbot-video",
+          "source": "github"
+        }
+      ],
+      "id": "a305fb4b9c82",
+      "slug": "embodied-intelligence"
+    },
+    {
+      "keyword": "rocket league",
+      "count": 8,
+      "score": 69.35731100098127,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "MIRA: Multiplayer Interactive World Models Trained on Rocket League",
+          "url": "https://mira-wm.com/",
+          "source": "hackernews"
+        },
+        {
+          "title": "MIRA: Multiplayer Interactive World Models Trained on Rocket League",
+          "url": "https://mira-wm.com/",
           "source": "hackernews"
         }
       ],
-      "id": "733c1cab6171",
-      "slug": "reach-near-gpt"
+      "id": "54bf08dd5e85",
+      "slug": "rocket-league"
     }
   ],
   "opportunities": [
     {
       "keyword": "passive income",
-      "count": 47,
-      "score": 154.77886672939303,
+      "count": 58,
+      "score": 174.88221750340452,
       "proper": true,
       "niches": [
-        "finance",
-        "ai"
+        "ai",
+        "finance"
       ],
       "examples": [
         {
-          "title": "Here's how much an investor needs in a Stocks and Shares ISA to target £15,000 of passive income a year",
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxObG9ybVpTWExXQTB6azh3d3JsRmJHYmN3SzY1T1hQOUd5MXlwTEU5ZXRqeUs4bFBYZXY2MldyLUljQUlSSGpvaFkwZ0xQdVRwZ1pFakFBUmlxU205QTlZamgzMU1WUlRIVlNmVXlwWDU4cjVWWERCOG9aa0JybmdBNVJDU3VDcEQ4Y2JNWkk0S2hZVlczeUxIVnJISjl0emw3bjlNZzI4QXByanljVUFJcGxoZkZrRmk1TEVFZjl1Tk51MnZWSHVvSVFDUFF4eFMyV3VMUC1kS0Vfdw?oc=5",
-          "source": "gnews"
-        },
-        {
           "title": "I'm 46 and Raising Kids on My Own. What Are the Most Realistic Ways to Generate an Extra $2K to $3K a Month in Passive Income?",
           "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWkNkQmRWajZkSlVDRG94RHFnOF9jSlBRWjRjTHlKUDRjZGYyTG0wMF81NlFfVkpsTFd1QVBlRkV5Q0xFU0JVM3AwWWQtSVVXLVRsblZmMm1fOUR3SXJSWWtGZmVtdjJ3QmhCR3RaeFVlMFczTnh5Y2VTdy1oSzBaS2VGZ09wbWFRczlhazl0Y3c?oc=5",
           "source": "gnews"
@@ -740,8 +746,13 @@
           "source": "gnews"
         },
         {
-          "title": "Passive Income Is the New American Dream. The Psychology Behind It Should Worry Leaders",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxONktVeGxiNVBDWnktaWNfRUdDbXVacGtCbUpZOU15STBIUHV2aUFieVRpNzIyYXBMdnBHV3BkVGx6VmZ1c3ZVZXVNTlZmOEgyWmFocFJaekFmSDY5T2ljWVY3OXJ2WHRBNkR1ZTJJVklMX1JFRkRvQTZnN0ZjV0Roc25zNDQ3QmRMVG93aThmS1hYdGlreEhQMDJjN1p4cFVoQ2E5RFZ0Tm8wN0JNcElOZ3FXSHhRUTZfMWh4OUFnd1ZfcHlyRTNR?oc=5",
+          "title": "S$1,000 Every Month: 4 Singapore REITs to Build a Reliable Passive Income Stream",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE45MDhoVVJzblNlVHdoM3dwSzdZNElrY29jN2otX0dXaFdab1pGTWkzVEtZTWdtbDlYWnN1cDl5d0RqbHI0Zm5oQ1NGOGZVWTh0cVRVak1Ld1JEUEtNejJ2QnhQZDhIeW95NDVTampVY3IxMkRsX0Q0?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "S$1,000 Every Month: 4 Singapore REITs to Build a Reliable Passive Income Stream",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE45MDhoVVJzblNlVHdoM3dwSzdZNElrY29jN2otX0dXaFdab1pGTWkzVEtZTWdtbDlYWnN1cDl5d0RqbHI0Zm5oQ1NGOGZVWTh0cVRVak1Ld1JEUEtNejJ2QnhQZDhIeW95NDVTampVY3IxMkRsX0Q0?oc=5",
           "source": "gnews"
         }
       ],
@@ -749,126 +760,188 @@
       "slug": "passive-income",
       "opportunity": {
         "type": "niche-content",
-        "recommended": "Publish niche guide for \"finance\"; bundle into digital product later."
+        "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
       }
     },
     {
-      "keyword": "capcut named",
-      "count": 11,
-      "score": 108.99838417254662,
+      "keyword": "fly hack",
+      "count": 14,
+      "score": 141.91965373601005,
       "proper": true,
       "niches": [
         "ai"
       ],
       "examples": [
         {
-          "title": "Best AI Tools for Social Media Content Creation (2026): CapCut Named a Top Choice for Video and Image Content Creation by Consumer365",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQT1RfLUI5dEctX2tFMk11M21FTEVDai1rUVJ6elJfcl9ld0QwYnB6UjhsUktDS0dWSVJ6d0xzNVZfMmFTVC1VZm85UWlCdGFqUWVMTjQ2cXNzWEsxczdjLURZVmFHbjVKak50M0RxY3RMLWlnRTJWQjdrX1pMMDlfemtNZWFULUpGR09vNXhiUkdlQ0xmLXFkRktR?oc=5",
-          "source": "gnews"
+          "title": "ThornRogueHypnotize/Meccha-Chameleon-MecchaSpecter — Tool for MECCHA CHAMELEON ESP · Aimbot · Fly Hack · Teleport · God Mode · Infinite Paint",
+          "url": "https://github.com/ThornRogueHypnotize/Meccha-Chameleon-MecchaSpecter",
+          "source": "github"
         },
         {
-          "title": "Best AI Tools for Social Media Content Creation (2026): CapCut Named a Top Choice for Video and Image Content Creation by Consumer365",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQT1RfLUI5dEctX2tFMk11M21FTEVDai1rUVJ6elJfcl9ld0QwYnB6UjhsUktDS0dWSVJ6d0xzNVZfMmFTVC1VZm85UWlCdGFqUWVMTjQ2cXNzWEsxczdjLURZVmFHbjVKak50M0RxY3RMLWlnRTJWQjdrX1pMMDlfemtNZWFULUpGR09vNXhiUkdlQ0xmLXFkRktR?oc=5",
-          "source": "gnews"
+          "title": "ThornRogueHypnotize/Meccha-Chameleon-MecchaSpecter — Tool for MECCHA CHAMELEON ESP · Aimbot · Fly Hack · Teleport · God Mode · Infinite Paint",
+          "url": "https://github.com/ThornRogueHypnotize/Meccha-Chameleon-MecchaSpecter",
+          "source": "github"
         },
         {
-          "title": "Best AI Tools for Social Media Content Creation (2026): CapCut Named a Top Choice for Video and Image Content Creation by Consumer365",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQT1RfLUI5dEctX2tFMk11M21FTEVDai1rUVJ6elJfcl9ld0QwYnB6UjhsUktDS0dWSVJ6d0xzNVZfMmFTVC1VZm85UWlCdGFqUWVMTjQ2cXNzWEsxczdjLURZVmFHbjVKak50M0RxY3RMLWlnRTJWQjdrX1pMMDlfemtNZWFULUpGR09vNXhiUkdlQ0xmLXFkRktR?oc=5",
-          "source": "gnews"
+          "title": "PitShipwrightGraph/MecchaPhantom — 🦎 MecchaPhantom – complete hack tool for MECCHA CHAMELEON. Features ESP wallhack, aimbot, fly hack, teleport, god mode, infinite paint, speed hack, and more. Domina",
+          "url": "https://github.com/PitShipwrightGraph/MecchaPhantom",
+          "source": "github"
+        },
+        {
+          "title": "CylinderFoal/MecchaUltraCheat — 🦎 MecchaUltraCheat – complete cheat tool for MECCHA CHAMELEON. Features ESP wallhack, aimbot, fly hack, teleport, god mode, infinite paint, speed hack, and more. Domin",
+          "url": "https://github.com/CylinderFoal/MecchaUltraCheat",
+          "source": "github"
         }
       ],
-      "id": "d4fa3a453462",
-      "slug": "capcut-named",
+      "id": "f156dcefa209",
+      "slug": "fly-hack",
       "opportunity": {
         "type": "niche-content",
         "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
       }
     },
     {
-      "keyword": "opus intelligence",
-      "count": 8,
-      "score": 102.3942904533074,
+      "keyword": "god mode",
+      "count": 14,
+      "score": 141.91965373601005,
       "proper": true,
       "niches": [
         "ai"
       ],
       "examples": [
         {
-          "title": "SWE-1.7 Reach Near GPT 5.5 and Opus Intelligence",
-          "url": "https://cognition.com/blog/swe-1-7",
+          "title": "ThornRogueHypnotize/Meccha-Chameleon-MecchaSpecter — Tool for MECCHA CHAMELEON ESP · Aimbot · Fly Hack · Teleport · God Mode · Infinite Paint",
+          "url": "https://github.com/ThornRogueHypnotize/Meccha-Chameleon-MecchaSpecter",
+          "source": "github"
+        },
+        {
+          "title": "ThornRogueHypnotize/Meccha-Chameleon-MecchaSpecter — Tool for MECCHA CHAMELEON ESP · Aimbot · Fly Hack · Teleport · God Mode · Infinite Paint",
+          "url": "https://github.com/ThornRogueHypnotize/Meccha-Chameleon-MecchaSpecter",
+          "source": "github"
+        },
+        {
+          "title": "PitShipwrightGraph/MecchaPhantom — 🦎 MecchaPhantom – complete hack tool for MECCHA CHAMELEON. Features ESP wallhack, aimbot, fly hack, teleport, god mode, infinite paint, speed hack, and more. Domina",
+          "url": "https://github.com/PitShipwrightGraph/MecchaPhantom",
+          "source": "github"
+        },
+        {
+          "title": "CylinderFoal/MecchaUltraCheat — 🦎 MecchaUltraCheat – complete cheat tool for MECCHA CHAMELEON. Features ESP wallhack, aimbot, fly hack, teleport, god mode, infinite paint, speed hack, and more. Domin",
+          "url": "https://github.com/CylinderFoal/MecchaUltraCheat",
+          "source": "github"
+        }
+      ],
+      "id": "d0dad605d6b1",
+      "slug": "god-mode",
+      "opportunity": {
+        "type": "niche-content",
+        "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
+      }
+    },
+    {
+      "keyword": "infinite paint",
+      "count": 14,
+      "score": 141.91965373601005,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "ThornRogueHypnotize/Meccha-Chameleon-MecchaSpecter — Tool for MECCHA CHAMELEON ESP · Aimbot · Fly Hack · Teleport · God Mode · Infinite Paint",
+          "url": "https://github.com/ThornRogueHypnotize/Meccha-Chameleon-MecchaSpecter",
+          "source": "github"
+        },
+        {
+          "title": "ThornRogueHypnotize/Meccha-Chameleon-MecchaSpecter — Tool for MECCHA CHAMELEON ESP · Aimbot · Fly Hack · Teleport · God Mode · Infinite Paint",
+          "url": "https://github.com/ThornRogueHypnotize/Meccha-Chameleon-MecchaSpecter",
+          "source": "github"
+        },
+        {
+          "title": "PitShipwrightGraph/MecchaPhantom — 🦎 MecchaPhantom – complete hack tool for MECCHA CHAMELEON. Features ESP wallhack, aimbot, fly hack, teleport, god mode, infinite paint, speed hack, and more. Domina",
+          "url": "https://github.com/PitShipwrightGraph/MecchaPhantom",
+          "source": "github"
+        },
+        {
+          "title": "CylinderFoal/MecchaUltraCheat — 🦎 MecchaUltraCheat – complete cheat tool for MECCHA CHAMELEON. Features ESP wallhack, aimbot, fly hack, teleport, god mode, infinite paint, speed hack, and more. Domin",
+          "url": "https://github.com/CylinderFoal/MecchaUltraCheat",
+          "source": "github"
+        }
+      ],
+      "id": "6259dce37164",
+      "slug": "infinite-paint",
+      "opportunity": {
+        "type": "tooling",
+        "recommended": "Build / list AI tools; monetize via affiliate links + lead magnet."
+      }
+    },
+    {
+      "keyword": "claude",
+      "count": 8,
+      "score": 102.10379144494816,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "We made Grok 4.5, GPT-5.5, and Claude build the same apps",
+          "url": "https://www.tryai.dev/blog/grok-4.5-vs-gpt-5.5-vs-claude-build-off",
           "source": "hackernews"
         },
         {
-          "title": "SWE-1.7 Reach Near GPT 5.5 and Opus Intelligence",
-          "url": "https://cognition.com/blog/swe-1-7",
+          "title": "We made Grok 4.5, GPT-5.5, and Claude build the same apps",
+          "url": "https://www.tryai.dev/blog/grok-4.5-vs-gpt-5.5-vs-claude-build-off",
           "source": "hackernews"
+        },
+        {
+          "title": "Nanako0129/pilotfish — Multi-model orchestration layer for Claude Code — the frontier model plans, cheaper models execute, verification guards quality. One-prompt install.",
+          "url": "https://github.com/Nanako0129/pilotfish",
+          "source": "github"
+        },
+        {
+          "title": "finops-mcp 0.8.149",
+          "url": "https://pypi.org/project/finops-mcp/0.8.149/",
+          "source": "pypi"
         }
       ],
-      "id": "e7f71cf7f15f",
-      "slug": "opus-intelligence",
+      "id": "c857d09db23e",
+      "slug": "claude",
       "opportunity": {
-        "type": "niche-content",
-        "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
+        "type": "tooling",
+        "recommended": "Build / list AI tools; monetize via affiliate links + lead magnet."
       }
     },
     {
-      "keyword": "gym bro",
+      "keyword": "claude code",
       "count": 8,
-      "score": 102.24990073657244,
+      "score": 100.88404510813679,
       "proper": true,
       "niches": [
         "ai"
       ],
       "examples": [
         {
-          "title": "Gym Bro:  I get up at 4am and go for a run, by 6am I'm at the gym training... That's the peak of being an alpha male.Me: Not it's not... Have you ever actually seen an apex predator... they're all laz",
-          "url": "https://beige.party/@Anomnomnomaly/116885293899368405",
-          "source": "mastodon"
+          "title": "Nanako0129/pilotfish — Multi-model orchestration layer for Claude Code — the frontier model plans, cheaper models execute, verification guards quality. One-prompt install.",
+          "url": "https://github.com/Nanako0129/pilotfish",
+          "source": "github"
         },
         {
-          "title": "Gym Bro:  I get up at 4am and go for a run, by 6am I'm at the gym training... That's the peak of being an alpha male.Me: Not it's not... Have you ever actually seen an apex predator... they're all laz",
-          "url": "https://beige.party/@Anomnomnomaly/116885293899368405",
-          "source": "mastodon"
+          "title": "Nanako0129/pilotfish — Multi-model orchestration layer for Claude Code — the frontier model plans, cheaper models execute, verification guards quality. One-prompt install.",
+          "url": "https://github.com/Nanako0129/pilotfish",
+          "source": "github"
         }
       ],
-      "id": "44a357184cdd",
-      "slug": "gym-bro",
+      "id": "a625159d18da",
+      "slug": "claude-code",
       "opportunity": {
-        "type": "niche-content",
-        "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
-      }
-    },
-    {
-      "keyword": "steam machine",
-      "count": 8,
-      "score": 88.64348340928998,
-      "proper": true,
-      "niches": [
-        "software"
-      ],
-      "examples": [
-        {
-          "title": "This is an unoriginal thought at this point but I will say it anyway: If the RAMpocalypse hadn't happened and Valve could have gotten the lower spec of the Steam Machine in at $700, the reviews for it",
-          "url": "https://mastodon.social/@scalzi/116886278049129070",
-          "source": "mastodon"
-        },
-        {
-          "title": "This is an unoriginal thought at this point but I will say it anyway: If the RAMpocalypse hadn't happened and Valve could have gotten the lower spec of the Steam Machine in at $700, the reviews for it",
-          "url": "https://mastodon.social/@scalzi/116886278049129070",
-          "source": "mastodon"
-        }
-      ],
-      "id": "dc86b660d6db",
-      "slug": "steam-machine",
-      "opportunity": {
-        "type": "niche-content",
-        "recommended": "Publish niche guide for \"software\"; bundle into digital product later."
+        "type": "tooling",
+        "recommended": "Build / list AI tools; monetize via affiliate links + lead magnet."
       }
     },
     {
       "keyword": "robostral navigate",
       "count": 8,
-      "score": 83.96381998407382,
+      "score": 86.01690191597982,
       "proper": true,
       "niches": [
         "ai"
@@ -893,88 +966,30 @@
       }
     },
     {
-      "keyword": "agent",
-      "count": 15,
-      "score": 83.73277451127066,
+      "keyword": "brown universityai",
+      "count": 8,
+      "score": 83.76508543833589,
       "proper": true,
       "niches": [
         "ai"
       ],
       "examples": [
         {
-          "title": "CWS6206/EasyLastSkill — EasyLastSkill ist eine deutschsprachige Codex-/Agent-Skill fuer schnelle Recherchen zu den letzten Tagen eines Themas. Standardmaessig betrachtet sie die letzten 30 Tage und er",
-          "url": "https://github.com/CWS6206/EasyLastSkill",
-          "source": "github"
+          "title": "\"We cannot choose to become idiots\": The AI cheating scandal roiling Brown UniversityAI cheating leads to \"a failed society,\" professor says.https://arstechnica.com/ai/2026/07/we-cannot-choose-to-beco",
+          "url": "https://mastodon.social/@arstechnica/116886534754333000",
+          "source": "mastodon"
         },
         {
-          "title": "xiaotianfotos/homerail — Voice-first local agent orchestration runtime for auditable DAG workflows.",
-          "url": "https://github.com/xiaotianfotos/homerail",
-          "source": "github"
-        },
-        {
-          "title": "shlokkhemani/rabbithole — An infinite canvas for learning — select text, ask, and answers branch out as documents. MCP server for Claude Code, Codex, and any agent.",
-          "url": "https://github.com/shlokkhemani/rabbithole",
-          "source": "github"
-        },
-        {
-          "title": "My AI agent tried to ship a mistake we'd already reverted",
-          "url": "https://dev.to/masondelan/my-ai-agent-tried-to-ship-a-mistake-wed-already-reverted-4737",
-          "source": "devto"
-        },
-        {
-          "title": "GitLost: How We Tricked GitHub’s AI Agent into Leaking Private Repos",
-          "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/",
-          "source": "lobsters"
+          "title": "\"We cannot choose to become idiots\": The AI cheating scandal roiling Brown UniversityAI cheating leads to \"a failed society,\" professor says.https://arstechnica.com/ai/2026/07/we-cannot-choose-to-beco",
+          "url": "https://mastodon.social/@arstechnica/116886534754333000",
+          "source": "mastodon"
         }
       ],
-      "id": "d4f0bc5a29de",
-      "slug": "agent",
+      "id": "3f7308b45f76",
+      "slug": "brown-universityai",
       "opportunity": {
-        "type": "niche-content",
-        "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
-      }
-    },
-    {
-      "keyword": "personal finance",
-      "count": 17,
-      "score": 80.97949022975465,
-      "proper": true,
-      "niches": [
-        "finance",
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "How to Budget When Your Income Is Irregular: Advice From the Experts | Personal Finance - U.S. News",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPaGMwaTlHYTIyX1Q4YTRaTzNsdnFQMEZqdmhLV05mM2tZblMtOURBSnMwcGJZeGdkcGhUMlFQSmdBRkJuQWl5Z0w5QmFHU2R4QWFvX2pIWTlYV1B6NmdtYW0ydXVwYlI1dHFYbFhOTkQzQVJjeHdwLUNyOU53ajgxRmxqeGljNWFvSWhRZmdmcldNNFVYYlJLem5XZkd5bWNaSGlfeE9yS1JQMm9uYS1TVjBQUkl5TkpVeXd5LTdNZUtmUQ?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "How to Budget When Your Income Is Irregular: Advice From the Experts | Personal Finance - U.S. News",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPaGMwaTlHYTIyX1Q4YTRaTzNsdnFQMEZqdmhLV05mM2tZblMtOURBSnMwcGJZeGdkcGhUMlFQSmdBRkJuQWl5Z0w5QmFHU2R4QWFvX2pIWTlYV1B6NmdtYW0ydXVwYlI1dHFYbFhOTkQzQVJjeHdwLUNyOU53ajgxRmxqeGljNWFvSWhRZmdmcldNNFVYYlJLem5XZkd5bWNaSGlfeE9yS1JQMm9uYS1TVjBQUkl5TkpVeXd5LTdNZUtmUQ?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "How to Use AI for Personal Finance: A Step-by-Step Guide (2026)",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdzlPdC1rRmNLeUNBZkpkNkR0YUZjMDRVR1N1cERIeFF3djh4R1ozbkVjcnlzeXoxd1htT1VNSW1IMnJLOGdxRnlpcElWNlRUa29jRG5yS3pPQWRtTDRTRzlUSldpWDVKY19pWS1CdmJjM2FLNU9FZVBZREVYcEtwbXJwQm5LblI4WlNlWkZBZk5zOXIxZWQxUXVQUjFoQQ?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "How to Use AI for Personal Finance: A Step-by-Step Guide (2026)",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdzlPdC1rRmNLeUNBZkpkNkR0YUZjMDRVR1N1cERIeFF3djh4R1ozbkVjcnlzeXoxd1htT1VNSW1IMnJLOGdxRnlpcElWNlRUa29jRG5yS3pPQWRtTDRTRzlUSldpWDVKY19pWS1CdmJjM2FLNU9FZVBZREVYcEtwbXJwQm5LblI4WlNlWkZBZk5zOXIxZWQxUXVQUjFoQQ?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "The best personal finance tools to help you reach 6 money goals in 2026",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNTjlkR1VlMXJ1MjR0LURjbjl2QWo5ejdlYjN0UWFYQnZrVWNydkh2cUxEeEZRQXpaWXhpT2VNeHNtUlRoUy1JaW44WmMwQTdaVEtDbE5Yb3kzUWEzUTdaNlVLYXd1LXJTbC1pQ181U0ktRVM1OGUwbkhpN3F6Y1JMNUtzcUJfUdIBiwFBVV95cUxPc3pfOHZqRlMxakh3cVhGbEZ1SzgzY2tUR0ppcEg4ZVlxNlZyaF9hd01YZDJ5a0lpRkV5RHoySHZ4Qzlta0U0cW5XYzNDMlRaUTNIaGZmb3hzaXpaR1dnUGt0MFZDNmpIYTRISXBfQTBHdmYxOVotR2VhakU2U3pZbWNJQk9zNkdjeE9J?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "61108514445d",
-      "slug": "personal-finance",
-      "opportunity": {
-        "type": "niche-content",
-        "recommended": "Publish niche guide for \"finance\"; bundle into digital product later."
+        "type": "tooling",
+        "recommended": "Build / list AI tools; monetize via affiliate links + lead magnet."
       }
     }
   ]

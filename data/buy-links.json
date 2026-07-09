@@ -1555,5 +1555,19 @@
     "price": 9,
     "productId": "prod_Uqkxk9YIYEX6GQ",
     "cover": "/assets/pack-cover.png"
+  },
+  "prompt-pack-pacific-ocean-2026-07-09": {
+    "url": "https://buy.stripe.com/6oUcN4dpu7XwgMb5VOfjG3A",
+    "platform": "stripe",
+    "price": 19,
+    "productId": "prod_UqrczQzsteglN1",
+    "cover": "/assets/pack-cover.png"
+  },
+  "prompt-pack-kelsey-pfendler-2026-07-09": {
+    "url": "https://buy.stripe.com/8x26oGdpufpYbrRbg8fjG3B",
+    "platform": "stripe",
+    "price": 19,
+    "productId": "prod_UqrcuL12FG3yXo",
+    "cover": "/assets/pack-cover.png"
   }
 }
