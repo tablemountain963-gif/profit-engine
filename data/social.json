@@ -1,6 +1,27 @@
 {
   "items": [
     {
+      "slug": "tools-teachers-2026-07-10",
+      "topic": "Tools Teachers",
+      "date": "2026-07-10",
+      "niche": "ai",
+      "file": "social/tools-teachers-2026-07-10.md"
+    },
+    {
+      "slug": "learning-tools-2026-07-10",
+      "topic": "Learning Tools",
+      "date": "2026-07-10",
+      "niche": "ai",
+      "file": "social/learning-tools-2026-07-10.md"
+    },
+    {
+      "slug": "agent-2026-07-10",
+      "topic": "Agent",
+      "date": "2026-07-10",
+      "niche": "ai",
+      "file": "social/agent-2026-07-10.md"
+    },
+    {
       "slug": "singapore-reits-2026-07-10",
       "topic": "Singapore Reits",
       "date": "2026-07-10",
@@ -1378,27 +1399,6 @@
       "date": "2026-06-19",
       "niche": "ai",
       "file": "social/workflow-2026-06-19.md"
-    },
-    {
-      "slug": "lens-repair-2026-06-18",
-      "topic": "Lens Repair",
-      "date": "2026-06-18",
-      "niche": "ai",
-      "file": "social/lens-repair-2026-06-18.md"
-    },
-    {
-      "slug": "rest-apis-2026-06-18",
-      "topic": "Rest Apis",
-      "date": "2026-06-18",
-      "niche": "ai",
-      "file": "social/rest-apis-2026-06-18.md"
-    },
-    {
-      "slug": "software-2026-06-18",
-      "topic": "Software",
-      "date": "2026-06-18",
-      "niche": "ai",
-      "file": "social/software-2026-06-18.md"
     }
   ]
 }

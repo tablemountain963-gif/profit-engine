@@ -1330,8 +1330,8 @@
     },
     "agent": {
       "firstSeen": "2026-06-10T18:24:45.439Z",
-      "lastSeen": "2026-07-05T04:53:53.052Z",
-      "count": 5,
+      "lastSeen": "2026-07-10T17:41:55.200Z",
+      "count": 6,
       "wins": 1,
       "losses": 0,
       "niche": "ai"
@@ -2597,30 +2597,6 @@
       "lastSeen": "2026-06-26T21:59:11.538Z",
       "count": 2,
       "wins": 1,
-      "losses": 0,
-      "niche": "ai"
-    },
-    "bank-street": {
-      "firstSeen": "2026-06-26T17:29:49.015Z",
-      "lastSeen": "2026-06-26T17:29:49.015Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "ai"
-    },
-    "keine-ausreden": {
-      "firstSeen": "2026-06-26T17:29:54.051Z",
-      "lastSeen": "2026-06-26T17:29:54.051Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "ai"
-    },
-    "die-afd": {
-      "firstSeen": "2026-06-26T17:30:01.515Z",
-      "lastSeen": "2026-06-26T17:30:01.515Z",
-      "count": 1,
-      "wins": 0,
       "losses": 0,
       "niche": "ai"
     },
@@ -4890,9 +4866,9 @@
     },
     "reflect-orbital": {
       "firstSeen": "2026-07-10T15:30:03.540Z",
-      "lastSeen": "2026-07-10T15:30:03.540Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-07-10T17:40:50.649Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "software"
     },
@@ -4906,9 +4882,9 @@
     },
     "solo-grants": {
       "firstSeen": "2026-07-10T15:30:09.899Z",
-      "lastSeen": "2026-07-10T15:30:09.899Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-07-10T17:40:50.650Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -4959,12 +4935,76 @@
       "wins": 0,
       "losses": 0,
       "niche": "finance"
+    },
+    "protect-yourself": {
+      "firstSeen": "2026-07-10T17:40:55.708Z",
+      "lastSeen": "2026-07-10T17:40:55.708Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "silent-switches": {
+      "firstSeen": "2026-07-10T17:40:58.786Z",
+      "lastSeen": "2026-07-10T17:40:58.786Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "gear"
+    },
+    "strongest-material": {
+      "firstSeen": "2026-07-10T17:41:01.545Z",
+      "lastSeen": "2026-07-10T17:41:01.545Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "chatgpt-prompts-for-marketing": {
+      "firstSeen": "2026-07-10T17:41:07.501Z",
+      "lastSeen": "2026-07-10T17:41:07.501Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "ai-prompts-for-teachers-and-educators": {
+      "firstSeen": "2026-07-10T17:41:24.464Z",
+      "lastSeen": "2026-07-10T17:41:24.464Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "developer-productivity-prompt-pack": {
+      "firstSeen": "2026-07-10T17:41:31.740Z",
+      "lastSeen": "2026-07-10T17:41:31.740Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "software"
+    },
+    "learning-tools": {
+      "firstSeen": "2026-07-10T17:42:01.636Z",
+      "lastSeen": "2026-07-10T17:42:01.636Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "tools-teachers": {
+      "firstSeen": "2026-07-10T17:42:10.369Z",
+      "lastSeen": "2026-07-10T17:42:10.369Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
     }
   },
   "niches": {
     "ai": {
-      "count": 1205,
-      "wins": 335,
+      "count": 1213,
+      "wins": 336,
       "losses": 51
     },
     "finance": {
@@ -4973,12 +5013,12 @@
       "losses": 2
     },
     "software": {
-      "count": 286,
-      "wins": 79,
+      "count": 288,
+      "wins": 80,
       "losses": 18
     },
     "gear": {
-      "count": 106,
+      "count": 107,
       "wins": 32,
       "losses": 0
     },
