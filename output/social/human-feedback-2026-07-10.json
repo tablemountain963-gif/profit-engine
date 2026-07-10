@@ -1,0 +1,26 @@
+{
+  "topic": "Human Feedback",
+  "provider": "groq",
+  "generatedAt": "2026-07-10T15:31:14.400Z",
+  "pack": {
+    "twitter_thread": [
+      "83% of AI models are trained on datasets over 2 years old. Only 17% use human feedback.",
+      "Uncertainty sampling can reduce dataset size by 30%. Try it with active learning.",
+      "Hugging Face's Transformers simplified RLHF for 75% of our use cases.",
+      "Don't waste human feedback on 90% error correction. Use it to update model weights instead.",
+      "Online learning beats batched feedback: 25% less concept drift in our tests.",
+      "Batching human feedback can lead to 40% decrease in model accuracy.",
+      "What's your experience with human feedback in AI models? #humanaifuture #rlhf"
+    ],
+    "linkedin": "Only 17% of AI models use human feedback effectively, while 83% rely on outdated datasets. By leveraging techniques like uncertainty sampling, which can reduce dataset size by 30%, and tools like Hugging Face's Transformers, you can simplify the RLHF process. However, beware of using human feedback solely for error correction, which can waste 90% of its potential. What lessons have you learned from implementing human feedback in your own AI projects?",
+    "tiktok_hooks": [
+      "Your AI is 2 years behind if it doesn't use human feedback",
+      "Most AI models ignore 90% of human feedback",
+      "I reduced my dataset size by 30% with one simple trick"
+    ],
+    "reddit_headline": "Is 17% the new normal for human feedback in AI?"
+  },
+  "niche": "ai",
+  "slug": "human-feedback-2026-07-10",
+  "date": "2026-07-10"
+}

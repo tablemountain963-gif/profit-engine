@@ -1590,5 +1590,26 @@
     "price": 19,
     "productId": "prod_Ur2MgYT1icYsFI",
     "cover": "/assets/pack-cover.png"
+  },
+  "prompt-pack-bristol-airporti-2026-07-10": {
+    "url": "https://buy.stripe.com/cNifZgfxCgu2brReskfjG3F",
+    "platform": "stripe",
+    "price": 19,
+    "productId": "prod_UrPCViv1OD78LT",
+    "cover": "/assets/pack-cover.png"
+  },
+  "prompt-pack-unified-memory-2026-07-10": {
+    "url": "https://buy.stripe.com/3cIdR8gBG0v47bB5VOfjG3G",
+    "platform": "stripe",
+    "price": 19,
+    "productId": "prod_UrPC3FwfOkdSkv",
+    "cover": "/assets/pack-cover.png"
+  },
+  "prompt-pack-mlh-hackathon-2026-07-10": {
+    "url": "https://buy.stripe.com/eVq14m1GMelU1RheskfjG3H",
+    "platform": "stripe",
+    "price": 19,
+    "productId": "prod_UrPCHxt0iJAy7M",
+    "cover": "/assets/pack-cover.png"
   }
 }

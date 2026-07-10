@@ -1,6 +1,27 @@
 {
   "items": [
     {
+      "slug": "singapore-reits-2026-07-10",
+      "topic": "Singapore Reits",
+      "date": "2026-07-10",
+      "niche": "finance",
+      "file": "social/singapore-reits-2026-07-10.md"
+    },
+    {
+      "slug": "rlhf-book-2026-07-10",
+      "topic": "Rlhf Book",
+      "date": "2026-07-10",
+      "niche": "ai",
+      "file": "social/rlhf-book-2026-07-10.md"
+    },
+    {
+      "slug": "human-feedback-2026-07-10",
+      "topic": "Human Feedback",
+      "date": "2026-07-10",
+      "niche": "ai",
+      "file": "social/human-feedback-2026-07-10.md"
+    },
+    {
       "slug": "reinforcement-learning-2026-07-10",
       "topic": "Reinforcement Learning",
       "date": "2026-07-10",
@@ -1378,27 +1399,6 @@
       "date": "2026-06-18",
       "niche": "ai",
       "file": "social/software-2026-06-18.md"
-    },
-    {
-      "slug": "upside-potential-2026-06-18",
-      "topic": "Upside Potential",
-      "date": "2026-06-18",
-      "niche": "finance",
-      "file": "social/upside-potential-2026-06-18.md"
-    },
-    {
-      "slug": "stock-2026-06-18",
-      "topic": "Stock",
-      "date": "2026-06-18",
-      "niche": "ai",
-      "file": "social/stock-2026-06-18.md"
-    },
-    {
-      "slug": "passive-income-2026-06-18",
-      "topic": "Passive Income",
-      "date": "2026-06-18",
-      "niche": "finance",
-      "file": "social/passive-income-2026-06-18.md"
     }
   ]
 }

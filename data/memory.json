@@ -2120,36 +2120,12 @@
       "losses": 0,
       "niche": "ai"
     },
-    "franklin-ave": {
-      "firstSeen": "2026-06-21T05:58:23.668Z",
-      "lastSeen": "2026-06-26T15:22:20.164Z",
-      "count": 2,
-      "wins": 0,
-      "losses": 1,
-      "niche": "ai"
-    },
-    "wiiliideh-ave": {
-      "firstSeen": "2026-06-21T05:58:26.025Z",
-      "lastSeen": "2026-06-26T15:22:20.167Z",
-      "count": 2,
-      "wins": 0,
-      "losses": 1,
-      "niche": "ai"
-    },
     "unreal-engine": {
       "firstSeen": "2026-06-21T05:58:29.435Z",
       "lastSeen": "2026-06-21T15:10:22.316Z",
       "count": 2,
       "wins": 1,
       "losses": 0,
-      "niche": "software"
-    },
-    "splendor-solis": {
-      "firstSeen": "2026-06-21T15:10:27.748Z",
-      "lastSeen": "2026-06-26T15:22:20.168Z",
-      "count": 2,
-      "wins": 0,
-      "losses": 1,
       "niche": "software"
     },
     "mechanical-keyboards": {
@@ -2576,30 +2552,6 @@
       "losses": 0,
       "niche": "software"
     },
-    "ai-prompts-for-teachers-and-educators": {
-      "firstSeen": "2026-06-26T05:06:23.191Z",
-      "lastSeen": "2026-06-26T05:06:23.191Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "ai"
-    },
-    "fitness-deals": {
-      "firstSeen": "2026-06-26T05:06:39.213Z",
-      "lastSeen": "2026-06-26T05:06:39.213Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "ai"
-    },
-    "m6-mac": {
-      "firstSeen": "2026-06-26T05:06:59.130Z",
-      "lastSeen": "2026-06-26T05:06:59.130Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "ai"
-    },
     "boaty-mcboatface": {
       "firstSeen": "2026-06-26T15:22:27.370Z",
       "lastSeen": "2026-06-26T17:29:31.611Z",
@@ -2623,38 +2575,6 @@
       "wins": 1,
       "losses": 0,
       "niche": "software"
-    },
-    "chatgpt-prompts-for-marketing": {
-      "firstSeen": "2026-06-26T15:22:52.862Z",
-      "lastSeen": "2026-06-26T15:22:52.862Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "ai"
-    },
-    "developer-productivity-prompt-pack": {
-      "firstSeen": "2026-06-26T15:23:14.765Z",
-      "lastSeen": "2026-06-26T15:23:14.765Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "software"
-    },
-    "topaz-labs": {
-      "firstSeen": "2026-06-26T15:23:30.048Z",
-      "lastSeen": "2026-06-26T15:23:30.048Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "ai"
-    },
-    "creative-cloud": {
-      "firstSeen": "2026-06-26T15:23:53.348Z",
-      "lastSeen": "2026-06-26T15:23:53.348Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "ai"
     },
     "missing-out": {
       "firstSeen": "2026-06-26T17:29:36.870Z",
@@ -4138,10 +4058,10 @@
     },
     "dc-metro": {
       "firstSeen": "2026-07-05T04:53:40.083Z",
-      "lastSeen": "2026-07-05T04:53:40.083Z",
-      "count": 1,
+      "lastSeen": "2026-07-10T15:29:58.159Z",
+      "count": 2,
       "wins": 0,
-      "losses": 0,
+      "losses": 1,
       "niche": "software"
     },
     "yankovic-rejected": {
@@ -4170,10 +4090,10 @@
     },
     "stuart-dunkel": {
       "firstSeen": "2026-07-05T14:40:30.676Z",
-      "lastSeen": "2026-07-05T14:40:30.676Z",
-      "count": 1,
+      "lastSeen": "2026-07-10T15:29:58.163Z",
+      "count": 2,
       "wins": 0,
-      "losses": 0,
+      "losses": 1,
       "niche": "ai"
     },
     "notebooklm-alternatives": {
@@ -4938,9 +4858,9 @@
     },
     "fuck-fuck": {
       "firstSeen": "2026-07-10T04:47:10.134Z",
-      "lastSeen": "2026-07-10T04:47:10.134Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-07-10T15:29:58.164Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "software"
     },
@@ -4954,9 +4874,9 @@
     },
     "marketing-noise": {
       "firstSeen": "2026-07-10T04:47:19.129Z",
-      "lastSeen": "2026-07-10T04:47:19.129Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-07-10T15:29:58.165Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "gear"
     },
@@ -4967,27 +4887,99 @@
       "wins": 0,
       "losses": 0,
       "niche": "ai"
+    },
+    "reflect-orbital": {
+      "firstSeen": "2026-07-10T15:30:03.540Z",
+      "lastSeen": "2026-07-10T15:30:03.540Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "software"
+    },
+    "wally-funk": {
+      "firstSeen": "2026-07-10T15:30:06.951Z",
+      "lastSeen": "2026-07-10T15:30:06.951Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "solo-grants": {
+      "firstSeen": "2026-07-10T15:30:09.899Z",
+      "lastSeen": "2026-07-10T15:30:09.899Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "mlh-hackathon": {
+      "firstSeen": "2026-07-10T15:30:17.013Z",
+      "lastSeen": "2026-07-10T15:30:17.013Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "unified-memory": {
+      "firstSeen": "2026-07-10T15:30:27.769Z",
+      "lastSeen": "2026-07-10T15:30:27.769Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "bristol-airporti": {
+      "firstSeen": "2026-07-10T15:30:53.169Z",
+      "lastSeen": "2026-07-10T15:30:53.169Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "human-feedback": {
+      "firstSeen": "2026-07-10T15:31:14.401Z",
+      "lastSeen": "2026-07-10T15:31:14.401Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "rlhf-book": {
+      "firstSeen": "2026-07-10T15:31:28.867Z",
+      "lastSeen": "2026-07-10T15:31:28.867Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "singapore-reits": {
+      "firstSeen": "2026-07-10T15:31:36.343Z",
+      "lastSeen": "2026-07-10T15:31:36.343Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "finance"
     }
   },
   "niches": {
     "ai": {
-      "count": 1197,
+      "count": 1205,
       "wins": 335,
-      "losses": 50
+      "losses": 51
     },
     "finance": {
-      "count": 106,
+      "count": 107,
       "wins": 18,
       "losses": 2
     },
     "software": {
-      "count": 283,
-      "wins": 78,
-      "losses": 17
+      "count": 286,
+      "wins": 79,
+      "losses": 18
     },
     "gear": {
-      "count": 105,
-      "wins": 31,
+      "count": 106,
+      "wins": 32,
       "losses": 0
     },
     "health": {
