@@ -250,8 +250,8 @@
     },
     "tools-2026": {
       "firstSeen": "2026-05-29T18:28:06.277Z",
-      "lastSeen": "2026-07-03T21:53:58.155Z",
-      "count": 5,
+      "lastSeen": "2026-07-10T04:47:23.003Z",
+      "count": 6,
       "wins": 1,
       "losses": 0,
       "niche": "ai"
@@ -2104,14 +2104,6 @@
       "losses": 1,
       "niche": "ai"
     },
-    "uhf-x11": {
-      "firstSeen": "2026-06-20T21:57:53.757Z",
-      "lastSeen": "2026-06-25T22:14:24.246Z",
-      "count": 2,
-      "wins": 0,
-      "losses": 1,
-      "niche": "software"
-    },
     "happy-solstice": {
       "firstSeen": "2026-06-20T21:57:57.132Z",
       "lastSeen": "2026-06-21T05:58:18.859Z",
@@ -2565,38 +2557,6 @@
       "lastSeen": "2026-06-26T05:06:00.201Z",
       "count": 2,
       "wins": 1,
-      "losses": 0,
-      "niche": "ai"
-    },
-    "gaming-monitors": {
-      "firstSeen": "2026-06-25T22:14:45.177Z",
-      "lastSeen": "2026-06-25T22:14:45.177Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "ai"
-    },
-    "open-source-foss": {
-      "firstSeen": "2026-06-25T22:15:04.635Z",
-      "lastSeen": "2026-06-25T22:15:04.635Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "ai"
-    },
-    "foss-apps": {
-      "firstSeen": "2026-06-25T22:15:13.785Z",
-      "lastSeen": "2026-06-25T22:15:13.785Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "ai"
-    },
-    "apps-than": {
-      "firstSeen": "2026-06-25T22:15:26.136Z",
-      "lastSeen": "2026-06-25T22:15:26.136Z",
-      "count": 1,
-      "wins": 0,
       "losses": 0,
       "niche": "ai"
     },
@@ -3962,8 +3922,8 @@
     },
     "expert-consumers": {
       "firstSeen": "2026-07-03T15:10:09.305Z",
-      "lastSeen": "2026-07-03T15:10:09.305Z",
-      "count": 1,
+      "lastSeen": "2026-07-10T04:47:35.425Z",
+      "count": 2,
       "wins": 0,
       "losses": 0,
       "niche": "ai"
@@ -4650,9 +4610,9 @@
     },
     "happy-dootsday": {
       "firstSeen": "2026-07-08T04:11:39.365Z",
-      "lastSeen": "2026-07-08T04:11:39.365Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-07-10T04:47:04.834Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "software"
     },
@@ -4762,9 +4722,9 @@
     },
     "earth-tone": {
       "firstSeen": "2026-07-08T21:56:04.289Z",
-      "lastSeen": "2026-07-08T21:56:04.289Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-07-10T04:47:04.836Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -4938,9 +4898,9 @@
     },
     "break-free": {
       "firstSeen": "2026-07-09T22:11:02.842Z",
-      "lastSeen": "2026-07-09T22:11:02.842Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-07-10T04:47:04.838Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -4954,9 +4914,9 @@
     },
     "embodied-intelligence": {
       "firstSeen": "2026-07-09T22:11:09.194Z",
-      "lastSeen": "2026-07-09T22:11:09.194Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-07-10T04:47:04.840Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -4975,12 +4935,44 @@
       "wins": 0,
       "losses": 0,
       "niche": "ai"
+    },
+    "fuck-fuck": {
+      "firstSeen": "2026-07-10T04:47:10.134Z",
+      "lastSeen": "2026-07-10T04:47:10.134Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "software"
+    },
+    "election-ass": {
+      "firstSeen": "2026-07-10T04:47:15.383Z",
+      "lastSeen": "2026-07-10T04:47:15.383Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "marketing-noise": {
+      "firstSeen": "2026-07-10T04:47:19.129Z",
+      "lastSeen": "2026-07-10T04:47:19.129Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "gear"
+    },
+    "reinforcement-learning": {
+      "firstSeen": "2026-07-10T04:47:50.292Z",
+      "lastSeen": "2026-07-10T04:47:50.292Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
     }
   },
   "niches": {
     "ai": {
-      "count": 1190,
-      "wins": 332,
+      "count": 1197,
+      "wins": 335,
       "losses": 50
     },
     "finance": {
@@ -4989,12 +4981,12 @@
       "losses": 2
     },
     "software": {
-      "count": 281,
-      "wins": 77,
+      "count": 283,
+      "wins": 78,
       "losses": 17
     },
     "gear": {
-      "count": 104,
+      "count": 105,
       "wins": 31,
       "losses": 0
     },
