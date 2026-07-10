@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "slug": "prompt-pack-pokemon-gold-2026-07-10",
+      "title": "Pokemon Gold Prompt Pack — 50 Battle-Tested Prompts",
+      "blurb": "50 proven prompts for Pokemon Gold. Copy/paste ready. Tested across Claude, GPT, Gemini.",
+      "type": "prompt-pack",
+      "topic": "Pokemon Gold",
+      "niche": "ai",
+      "price": 19,
+      "generatedAt": "2026-07-10T21:48:30.292Z",
+      "files": [
+        "prompts.md",
+        "README.md",
+        "LICENSE.txt"
+      ]
+    },
+    {
+      "slug": "prompt-pack-gameboy-advance-2026-07-10",
+      "title": "Gameboy Advance Prompt Pack — 50 Battle-Tested Prompts",
+      "blurb": "50 proven prompts for Gameboy Advance. Copy/paste ready. Tested across Claude, GPT, Gemini.",
+      "type": "prompt-pack",
+      "topic": "Gameboy Advance",
+      "niche": "ai",
+      "price": 19,
+      "generatedAt": "2026-07-10T21:48:23.316Z",
+      "files": [
+        "prompts.md",
+        "README.md",
+        "LICENSE.txt"
+      ]
+    },
+    {
       "slug": "prompt-pack-developer-productivity-prompt-pack-2026-07-10",
       "title": "Developer Productivity Prompt Pack Prompt Pack — 50 Battle-Tested Prompts",
       "blurb": "50 proven prompts for Developer Productivity Prompt Pack. Copy/paste ready. Tested across Claude, GPT, Gemini.",
@@ -2992,36 +3022,6 @@
       "niche": "gear",
       "price": 14,
       "generatedAt": "2026-06-03T19:42:12.825Z",
-      "files": [
-        "ebook.md",
-        "README.md",
-        "LICENSE.txt"
-      ]
-    },
-    {
-      "slug": "prompt-pack-affordability-crisis-2026-06-03",
-      "title": "Affordability Crisis Prompt Pack — 50 Battle-Tested Prompts",
-      "blurb": "50 proven prompts for Affordability Crisis. Copy/paste ready. Tested across Claude, GPT, Gemini.",
-      "type": "prompt-pack",
-      "topic": "Affordability Crisis",
-      "niche": "ai",
-      "price": 19,
-      "generatedAt": "2026-06-03T17:59:22.431Z",
-      "files": [
-        "prompts.md",
-        "README.md",
-        "LICENSE.txt"
-      ]
-    },
-    {
-      "slug": "mini-ebook-sleep-2026-06-03",
-      "title": "Sleep: A 30-Minute Field Guide",
-      "blurb": "Read it in 30 minutes. Apply it forever. Field guide to Sleep.",
-      "type": "mini-ebook",
-      "topic": "Sleep",
-      "niche": "gear",
-      "price": 14,
-      "generatedAt": "2026-06-03T17:59:14.778Z",
       "files": [
         "ebook.md",
         "README.md",

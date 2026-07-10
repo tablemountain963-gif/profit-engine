@@ -18,8 +18,8 @@
     },
     "claude": {
       "firstSeen": "2026-05-28T04:02:03.327Z",
-      "lastSeen": "2026-07-04T21:45:30.774Z",
-      "count": 7,
+      "lastSeen": "2026-07-10T21:49:27.626Z",
+      "count": 8,
       "wins": 0,
       "losses": 0,
       "niche": "ai"
@@ -538,8 +538,8 @@
     },
     "sam-altman": {
       "firstSeen": "2026-06-01T20:10:24.394Z",
-      "lastSeen": "2026-06-24T22:04:57.103Z",
-      "count": 4,
+      "lastSeen": "2026-07-10T21:48:22.718Z",
+      "count": 5,
       "wins": 1,
       "losses": 1,
       "niche": "ai"
@@ -4946,17 +4946,17 @@
     },
     "silent-switches": {
       "firstSeen": "2026-07-10T17:40:58.786Z",
-      "lastSeen": "2026-07-10T17:40:58.786Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-07-10T21:48:11.015Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "gear"
     },
     "strongest-material": {
       "firstSeen": "2026-07-10T17:41:01.545Z",
-      "lastSeen": "2026-07-10T17:41:01.545Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-07-10T21:48:11.016Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -4999,12 +4999,44 @@
       "wins": 0,
       "losses": 0,
       "niche": "ai"
+    },
+    "muse-spark": {
+      "firstSeen": "2026-07-10T21:48:15.756Z",
+      "lastSeen": "2026-07-10T21:48:15.756Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "boko-haram": {
+      "firstSeen": "2026-07-10T21:48:20.123Z",
+      "lastSeen": "2026-07-10T21:48:20.123Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "gameboy-advance": {
+      "firstSeen": "2026-07-10T21:48:30.291Z",
+      "lastSeen": "2026-07-10T21:48:30.291Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "pokemon-gold": {
+      "firstSeen": "2026-07-10T21:48:54.000Z",
+      "lastSeen": "2026-07-10T21:48:54.000Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
     }
   },
   "niches": {
     "ai": {
-      "count": 1213,
-      "wins": 336,
+      "count": 1220,
+      "wins": 337,
       "losses": 51
     },
     "finance": {
@@ -5018,8 +5050,8 @@
       "losses": 18
     },
     "gear": {
-      "count": 107,
-      "wins": 32,
+      "count": 108,
+      "wins": 33,
       "losses": 0
     },
     "health": {

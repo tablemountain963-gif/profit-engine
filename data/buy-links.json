@@ -1632,5 +1632,19 @@
     "price": 19,
     "productId": "prod_UrRJA9Xfc3OdFw",
     "cover": "/assets/pack-cover.png"
+  },
+  "prompt-pack-pokemon-gold-2026-07-10": {
+    "url": "https://buy.stripe.com/6oUdR84SY0v49jJdogfjG3L",
+    "platform": "stripe",
+    "price": 19,
+    "productId": "prod_UrVIzh0Q1qcWbA",
+    "cover": "/assets/pack-cover.png"
+  },
+  "prompt-pack-gameboy-advance-2026-07-10": {
+    "url": "https://buy.stripe.com/aFa4gy7161z8gMb6ZSfjG3M",
+    "platform": "stripe",
+    "price": 19,
+    "productId": "prod_UrVIdZAMfTaD1e",
+    "cover": "/assets/pack-cover.png"
   }
 }
