@@ -1,142 +1,175 @@
 {
-  "generatedAt": "2026-07-11T04:10:09.233Z",
-  "sourceCount": 204,
+  "generatedAt": "2026-07-11T14:20:49.641Z",
+  "sourceCount": 206,
   "topItems": [
+    {
+      "title": "Help, please. 🙏 One of the world’s largest AI data centres is being planned next to the quiet village of Auchtertool in Fife, Scotland.It is estimated that this monstrosity will consume 20% of Scotla",
+      "url": "https://icelandphotos.co.uk/@mo/116900481552322306",
+      "score": 11.42,
+      "niche": "ai",
+      "source": "mastodon",
+      "engagement": {
+        "score": 520,
+        "comments": 17
+      }
+    },
     {
       "title": "Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
       "url": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/",
-      "score": 9.26,
+      "score": 10.07,
       "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 708,
-        "comments": 343
+        "score": 1270,
+        "comments": 686
       }
     },
     {
       "title": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
       "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
-      "score": 8.83,
+      "score": 9.15,
       "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 388,
-        "comments": 303
+        "score": 488,
+        "comments": 398
       }
     },
     {
-      "title": "I’ve been working with computers for five decades. Some people view me as an “expert” in certain subjects.And I can tell you that when I am learning a new technology I still feel like the dumbest newb",
-      "url": "https://infosec.exchange/@hal_pomeranz/116898915732895057",
-      "score": 8.38,
+      "title": "If anyone is wondering how well ‘AI’ in hiring is going:My partner just tried putting her CV through some ATS checkers that use LLMs. Her name can be turned into a male name by deleting one letter. Do",
+      "url": "https://infosec.exchange/@david_chisnall/116901167730598410",
+      "score": 8.71,
       "niche": "ai",
       "source": "mastodon",
       "engagement": {
-        "score": 168,
+        "score": 505,
         "comments": 10
       }
     },
     {
-      "title": "Good Tools Are Invisible",
-      "url": "https://www.gingerbill.org/article/2026/07/10/good-tools-are-invisible/",
-      "score": 8.35,
+      "title": "FCC Approves Test of Space Mirror to Light Night Sky Despite Outcry",
+      "url": "https://www.nytimes.com/2026/07/10/climate/fcc-space-mirror.html",
+      "score": 7.58,
       "niche": "software",
       "source": "hackernews",
       "engagement": {
-        "score": 380,
-        "comments": 178
+        "score": 44,
+        "comments": 38
       }
     },
     {
-      "title": "Meta has launched a new AI image generator that allows anyone to create AI images with your Instagram photos. And if you have a public Instagram account, Meta automatically opted you in.Here’s how to ",
-      "url": "https://flipboard.social/@newsguyusa/116898329613173808",
-      "score": 8.06,
+      "title": "The British are adding panels to the Bayeux Tapestry while its in London#farage #countbinface #bayeux #tapestry #politics",
+      "url": "https://mas.to/@cmsdengl/116901421278619946",
+      "score": 7.56,
       "niche": "ai",
       "source": "mastodon",
       "engagement": {
-        "score": 138,
-        "comments": 8
+        "score": 216,
+        "comments": 7
       }
     },
     {
-      "title": "RE: https://mastodon.social/@austinkocher/116898508370546669#debtPrisons are part of the #MAGA #Project2025 plan to copy the Hapsburgs’ game plan in Spain BUT!each wave of deportations (expulsiones) t",
-      "url": "https://mastodon.social/@blogdiva/116898993981759153",
-      "score": 7.6,
+      "title": "I just saw a Dutch-speaking user who was trying to look up more information about a photo of an archaeological dig (a black and white photo of a man and a woman) and Gemini interjected, in Dutch, that",
+      "url": "https://infosec.exchange/@0xabad1dea/116900852720954466",
+      "score": 7.26,
       "niche": "ai",
       "source": "mastodon",
       "engagement": {
-        "score": 64,
-        "comments": 1
-      }
-    },
-    {
-      "title": "yetone/kill-ai-slop — A field guide to the visual & copy tics of AI-generated products — and an Agent Skill that scans your project and strips them out. https://killaislop.com",
-      "url": "https://github.com/yetone/kill-ai-slop",
-      "score": 7.34,
-      "niche": "ai",
-      "source": "github",
-      "engagement": {
-        "score": 158,
-        "comments": 1
-      }
-    },
-    {
-      "title": "There is no so thing as medical bankruptcy in a civilised society.#DoubleStandards #GaslightNation #GangOfPredators #Zer0Billionaires",
-      "url": "https://mastodon.social/@zer0billionaires/116898281177357339",
-      "score": 7.34,
-      "niche": "ai",
-      "source": "mastodon",
-      "engagement": {
-        "score": 183,
-        "comments": 6
-      }
-    },
-    {
-      "title": "How the terrorist group Boko Haram uses frontier AI",
-      "url": "https://casp.ac/reports/ai-enabled-terrorism",
-      "score": 6.95,
-      "niche": "ai",
-      "source": "hackernews",
-      "engagement": {
-        "score": 194,
-        "comments": 162
+        "score": 177,
+        "comments": 4
       }
     },
     {
       "title": "Snails' teeth beats spider silk as nature's strongest material (2015)",
       "url": "https://www.smithsonianmag.com/smart-news/spider-silk-loses-top-spot-natures-strongest-material-snails-teeth-180954346/",
-      "score": 6.74,
+      "score": 6.97,
       "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 165,
-        "comments": 131
+        "score": 210,
+        "comments": 158
       }
     },
     {
-      "title": "Heard this crazy story of American \"justice\" on the Criminal podcast.A man is arrested for a crime cos the police used AI facial recognition. The man has a solid alibi: he was in hospital cos his chil",
-      "url": "https://mastodon.world/@davidnjoku/116897928716506241",
-      "score": 6.17,
+      "title": "There are two types of Linux users. the ones who use the OS & go home, and the ones who use it as a personality trait 😂 i am in the last camp 😅",
+      "url": "https://mastodon.social/@nixCraft/116900825234194283",
+      "score": 6.76,
       "niche": "ai",
       "source": "mastodon",
       "engagement": {
-        "score": 236,
+        "score": 109,
         "comments": 10
+      }
+    },
+    {
+      "title": "Weebapp003/tradingview-mcp — tradingview mcp which connect claude code via chrome devtools protocol",
+      "url": "https://github.com/Weebapp003/tradingview-mcp",
+      "score": 6.69,
+      "niche": "ai",
+      "source": "github",
+      "engagement": {
+        "score": 150,
+        "comments": 0
       }
     },
     {
       "title": "AI 2040: Plan A",
       "url": "https://ai-2040.com/",
-      "score": 6.06,
+      "score": 6.66,
       "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 178,
-        "comments": 187
+        "score": 321,
+        "comments": 356
       }
     },
     {
-      "title": "Keychron Launches K5 Ultra 8K Low Profile Mechanical Keyboard with Wood Accents",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRW9JVGwtMlRWOXowX2w0WWxmNUdCQ3hzZ2xpOUtlU0Z3YWYzbDh1dmFuNVRUT0RIeG5BZHp0bXV3S3Jnbk9TMTA2dFh4SXF0Ujc2NHc3STJfb3RxVndpNkNOdXFQTlp1b25XNnQwRERaU3lEdDlYS2luWEd4VUJjUERkbkNqWV9OVTBjVmxROTZMX2tDdEVsUDFkdEVRRV90bXNkOTlFVjIxZW5lWjJuLWxsYzLSAboBQVVfeXFMT1huUi1zSUtIdW5icDhTUXJyQUhiTmNhUjZ0MkJJaDZYMVp0WXhURm1ER1pPUV9RMTdUNzBNUndiMU96d0t4ZktLN0FpVFhJaktNYjJCcXVNZWItVVVPbk9yc0NDOFI3NnRaYm9KRnFmcW1NVWFIdWx5MDcxWkJScHlEV2dVNDhzdG9XWEs5T0xxV1hfQk00cWk1R0M2cFVLWW96X1JQZkhRNTRaVVFNUFNWbVlZRjlfVXpn?oc=5",
+      "title": "Let me introduce myself: I’m Naor, a Dutch guy with a masters degree in experimental physics. I’m passionate about tackling the climate crisis, which is how I’ve ended up in the world of energy transi",
+      "url": "https://mastodon.social/@naor_nl/116900198975182179",
+      "score": 6.55,
+      "niche": "software",
+      "source": "mastodon",
+      "engagement": {
+        "score": 737,
+        "comments": 50
+      }
+    },
+    {
+      "title": "Good Tools Are Invisible",
+      "url": "https://www.gingerbill.org/article/2026/07/10/good-tools-are-invisible/",
+      "score": 6.49,
+      "niche": "software",
+      "source": "hackernews",
+      "engagement": {
+        "score": 491,
+        "comments": 222
+      }
+    },
+    {
+      "title": "What's going on at Meta?! Meta removed support for end-to-end encrypted messages in Instagram, & now it lets users create AI images with other people's public photos? 🤯To make it worse, users must OP",
+      "url": "https://mastodon.social/@Tutanota/116900295302998354",
+      "score": 6.49,
+      "niche": "ai",
+      "source": "mastodon",
+      "engagement": {
+        "score": 305,
+        "comments": 18
+      }
+    },
+    {
+      "title": "New Swiss magazine with \"Ohne KI\" (No #AI) on the cover.Nice to see some publishers openly resisting.",
+      "url": "https://mastodon.social/@Richard_Littler/116900291690112856",
+      "score": 6.06,
+      "niche": "ai",
+      "source": "mastodon",
+      "engagement": {
+        "score": 223,
+        "comments": 4
+      }
+    },
+    {
+      "title": "Trending Costco Kitchen Gadgets: From soft serve ice cream to espresso machines this are the best you can get",
+      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPOF9qdTZHa3FxV0JhR2R2TURCQVA0aVgxWjNZc0toZnFXVzQwQ1hFMzBZS3ZHRHZtSFFjTW9ITGwyOG45WWUwcDVZZXV2Q3NZb1hlRGpRVGx1YlI2eldJckhvb24tME9BRTA5N1FwemF5MFpUNTh2MmRfY3dTeWlIRmJjalIyR2w3MEJSemhndV9pUTBpYkZkcjd1Q2JMV05uc25ZakROekdadUxCMmtOV0d4V3k3S3I4dk00ME05UlRzZjRLU0ZrT1ZfM2pfbF9ySkVNWVoyNHlmbGV1bUduUGJERURiOWp5cEFoZGRQT0lSWkxhRlpBNzBpd2RhV1ZoRTQwSnNJd2t3RUtWcXBPcU130gGSAkFVX3lxTE9qOUZaemNxZ3FGb2dISjJMM1MtRXdVWGFBQU9vZDhZbGl3UjJ1WEZiMXhwYUdrQ1NTNFlqLXVJOUdSak1xbW0xMThaREthSUJfNVo4Z1pxanJuQzNkMnNsVmRQV0NlOEJpUkhfal8wVjVOX0d0MTJxRzA1QTZCN1R5bkR6WEFER1J1UkdTUFJGVWp0dlpZMGxGUE5UcXJXNHc3SUtoVG5YTm9RRFoyd04tZENaNVo4WG1CMWI2Zm85cUljeGpOeUhLdmcyejdxcHhYRy1xSktSVkp0UXRpR0I4ZmN6T2g5ZzFOczl2UzJvUVRYdUlTQzRYblEwcWlXUEw3ZGRSd0RJRnI4ZXYyRmxRaWc?oc=5",
       "score": 5.87,
       "niche": "gear",
       "source": "gnews",
@@ -146,14 +179,36 @@
       }
     },
     {
+      "title": "yetone/kill-ai-slop — A field guide to the visual & copy tics of AI-generated products — and an Agent Skill that scans your project and strips them out. https://killaislop.com",
+      "url": "https://github.com/yetone/kill-ai-slop",
+      "score": 5.83,
+      "niche": "ai",
+      "source": "github",
+      "engagement": {
+        "score": 216,
+        "comments": 0
+      }
+    },
+    {
+      "title": "\"A Place to Rest\" for Week 2 of the challenge I am co-hosting over on ig.Process pics and commentary are available on my Patreon: https://patreon.com/lindenshieldarts#MastoArt #TraditionalArt #Fantasy",
+      "url": "https://mastodon.social/@lindenshieldarts/116901573927390350",
+      "score": 5.77,
+      "niche": "ai",
+      "source": "mastodon",
+      "engagement": {
+        "score": 36,
+        "comments": 0
+      }
+    },
+    {
       "title": "Dev Opportunity Radar #7: $1,000 Solo Grants, Free Claude Max for Open Source Contributors, and an MLH Hackathon",
       "url": "https://dev.to/devengers/dev-opportunity-radar-7-1000-solo-grants-free-claude-max-for-open-source-contributors-and-an-3i12",
-      "score": 5.47,
+      "score": 5.62,
       "niche": "ai",
       "source": "devto",
       "engagement": {
-        "score": 43,
-        "comments": 14
+        "score": 46,
+        "comments": 17
       }
     },
     {
@@ -168,21 +223,10 @@
       }
     },
     {
-      "title": "I Got Tired of Maintaining Frontend Code. So I Built a Declarative UI Runtime.",
-      "url": "https://dev.to/thuangf45/i-got-tired-of-maintaining-frontend-code-so-i-built-a-declarative-ui-runtime-5dbl",
-      "score": 5.06,
-      "niche": "ai",
-      "source": "devto",
-      "engagement": {
-        "score": 50,
-        "comments": 22
-      }
-    },
-    {
-      "title": "How to Remove an Erroneous Rental Income or VAT Obligation From Your KRA PIN Erroneous tax obligations, especially Rental Income Tax and VAT, have become increasingly common, with many taxpayers recei",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQeEY1dGxVMXItYkpzeGNIZ1Q2NzJCTFlJUTZialprQVNBZ0VxVnNiZWVaOTFpUDRzSkh3S1ZZQWhGd1hVTUVSWHAwTHdDRmpUMzhHRWVoZENlNlhMNG9CcGJQMlF0dUZUeHNrTTNpRkl0T1BqSWZicnQzemJHRlRQOXpqeFlldHhOeE1DR3kzTWJUbU84OEcxaVVEWjlLVU1MdjJTaw?oc=5",
-      "score": 5.03,
-      "niche": "finance",
+      "title": "Amazon’s Best Kitchen Gadget Deals in July",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5hZkYyUl91U2d6ZjBXOFRJNzlTOFZscEhCOW13VnFQTXJ3cUlKYU55dUlOZi1GWmFlQWJRRm1aMEFvNUM1My1zX0NscHplMUlSTEZwdDdmektUQkRoZjVwMkZGanlFZ1Q0V1B1dHJWX2R0bnRvdG81UVJXNHhRQQ?oc=5",
+      "score": 5.24,
+      "niche": "gear",
       "source": "gnews",
       "engagement": {
         "score": 40,
@@ -192,97 +236,104 @@
     {
       "title": "vinhhien112/Three.js-Object-Sculptor-Codex-Plugin — Codex plugin that turns attached object images into code-only, animation-ready procedural Three.js models.",
       "url": "https://github.com/vinhhien112/Three.js-Object-Sculptor-Codex-Plugin",
+      "score": 5.07,
+      "niche": "ai",
+      "source": "github",
+      "engagement": {
+        "score": 196,
+        "comments": 0
+      }
+    },
+    {
+      "title": "dongguatanglinux/grok-build-auth — Protocol research client: x.ai signup → SSO → Grok Build OAuth → CLIProxyAPI auth export (authorized use only)",
+      "url": "https://github.com/dongguatanglinux/grok-build-auth",
       "score": 4.84,
       "niche": "ai",
       "source": "github",
       "engagement": {
-        "score": 154,
+        "score": 155,
         "comments": 0
       }
     },
     {
       "title": "adamholter/hive-mind-landing-page — CHORUS Hive Mind landing page — source, prompts, frontend skills, generated design reference, and sanitized Codex build trace",
       "url": "https://github.com/adamholter/hive-mind-landing-page",
-      "score": 4.82,
+      "score": 4.83,
       "niche": "ai",
       "source": "github",
       "engagement": {
-        "score": 151,
-        "comments": 0
-      }
-    },
-    {
-      "title": "Elias569/fintech-dashboard — fintech dashboard for personal finance management which track income and expenses, leverage AI-powered analytics, manage budgets and financial goals, enjoy a dark theme",
-      "url": "https://github.com/Elias569/fintech-dashboard",
-      "score": 4.82,
-      "niche": "ai",
-      "source": "github",
-      "engagement": {
-        "score": 151,
-        "comments": 0
-      }
-    },
-    {
-      "title": "imchine/FinTech-Wallet — fintech wallet platform same to cloud-native microservices system designed to power digital financial operations",
-      "url": "https://github.com/imchine/FinTech-Wallet",
-      "score": 4.77,
-      "niche": "software",
-      "source": "github",
-      "engagement": {
-        "score": 151,
+        "score": 153,
         "comments": 0
       }
     },
     {
       "title": "nicobailon/grill-for-unknowns — Agent skill for finding unknowns, grilling plans, and reaching shared understanding before implementation",
       "url": "https://github.com/nicobailon/grill-for-unknowns",
-      "score": 4.75,
+      "score": 4.82,
       "niche": "ai",
       "source": "github",
       "engagement": {
-        "score": 141,
-        "comments": 0
-      }
-    },
-    {
-      "title": "64% of Gen Z would rather buy fitness gear than go on a date — and investors are betting billions on the trend",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVUlKXzhPY3RKbEdTdXBUcW0tbHVZejVnUDFJamZZSTNucU5QXzhpd3NvelRUM0owcU9ldGRzTFZwdnlUdU8wLXU0akI5R1UyNGJBY3Z2dUx0MWFnZTBiOUZnWkE2eFNhWVJUdjc0a095Nkd5enB6ejBxZHNIWFJxc3Nqa2c1ZnRwc0I4Nw?oc=5",
-      "score": 4.7,
-      "niche": "gear",
-      "source": "gnews",
-      "engagement": {
-        "score": 40,
-        "comments": 0
-      }
-    },
-    {
-      "title": "The Best New Gadgets and Hi-Fi Releases of 2026 (Updated)",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOa0doU2FrM3Zpb25aVko3QmppUTJJSDROQzhyb1lZdTR0dl9TckxrMVJ6ZDVtbTB6eFZRSGdldFhMNkVuOUFyQ1NtcVo2dXNVTEhUR2tDckgxVW5wX3U2MVF4WE1uV2w3OF9iTnowOUhwMjZFcTV5amR4eFJzeWN4RUR6ZFNyMUJq?oc=5",
-      "score": 4.7,
-      "niche": "gear",
-      "source": "gnews",
-      "engagement": {
-        "score": 40,
-        "comments": 0
-      }
-    },
-    {
-      "title": "Don't Sweat This Heatwave—These Amazon Cooling Gadgets Start at Just $10",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWkl1ekRlQS1GazN4eGl0QlljbUJ1UWpVV2EtVzhfMHpfVzlYSnF5ZzJCR3BvdjVleEs2bGtVTDlaNlEtLVc0blhLQ2N5YXpLYmNfb0JvYXk3UmxyNHE5N3Z0NjZoV1JabDBEY0JsSElYNnpPd1hPcEFUMV96cTJQR0F4YzAzZDRzWUVoRTNB?oc=5",
-      "score": 4.7,
-      "niche": "gear",
-      "source": "gnews",
-      "engagement": {
-        "score": 40,
+        "score": 151,
         "comments": 0
       }
     }
   ],
   "topics": [
     {
+      "keyword": "bayeux tapestry",
+      "count": 11,
+      "score": 124.79871253830522,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "The British are adding panels to the Bayeux Tapestry while its in London#farage #countbinface #bayeux #tapestry #politics",
+          "url": "https://mas.to/@cmsdengl/116901421278619946",
+          "source": "mastodon"
+        },
+        {
+          "title": "The British are adding panels to the Bayeux Tapestry while its in London#farage #countbinface #bayeux #tapestry #politics",
+          "url": "https://mas.to/@cmsdengl/116901421278619946",
+          "source": "mastodon"
+        },
+        {
+          "title": "The British are adding panels to the Bayeux Tapestry while its in London#farage #countbinface #bayeux #tapestry #politics",
+          "url": "https://mas.to/@cmsdengl/116901421278619946",
+          "source": "mastodon"
+        }
+      ],
+      "id": "3701b12a7e8c",
+      "slug": "bayeux-tapestry"
+    },
+    {
+      "keyword": "sol ultra",
+      "count": 8,
+      "score": 109.83132969423085,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
+          "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
+          "source": "hackernews"
+        },
+        {
+          "title": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
+          "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
+          "source": "hackernews"
+        }
+      ],
+      "id": "114686689aad",
+      "slug": "sol-ultra"
+    },
+    {
       "keyword": "agent skill",
       "count": 11,
-      "score": 109.516935174998,
+      "score": 91.66043983805042,
       "proper": true,
       "niches": [
         "ai"
@@ -308,55 +359,32 @@
       "slug": "agent-skill"
     },
     {
-      "keyword": "sol ultra",
+      "keyword": "space mirror",
       "count": 8,
-      "score": 105.907093796585,
+      "score": 90.97606497542253,
       "proper": true,
       "niches": [
-        "ai"
+        "software"
       ],
       "examples": [
         {
-          "title": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
-          "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
+          "title": "FCC Approves Test of Space Mirror to Light Night Sky Despite Outcry",
+          "url": "https://www.nytimes.com/2026/07/10/climate/fcc-space-mirror.html",
           "source": "hackernews"
         },
         {
-          "title": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
-          "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
+          "title": "FCC Approves Test of Space Mirror to Light Night Sky Despite Outcry",
+          "url": "https://www.nytimes.com/2026/07/10/climate/fcc-space-mirror.html",
           "source": "hackernews"
         }
       ],
-      "id": "114686689aad",
-      "slug": "sol-ultra"
-    },
-    {
-      "keyword": "boko haram",
-      "count": 8,
-      "score": 83.4099412331046,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "How the terrorist group Boko Haram uses frontier AI",
-          "url": "https://casp.ac/reports/ai-enabled-terrorism",
-          "source": "hackernews"
-        },
-        {
-          "title": "How the terrorist group Boko Haram uses frontier AI",
-          "url": "https://casp.ac/reports/ai-enabled-terrorism",
-          "source": "hackernews"
-        }
-      ],
-      "id": "93efe6418eff",
-      "slug": "boko-haram"
+      "id": "1d16263308d9",
+      "slug": "space-mirror"
     },
     {
       "keyword": "apple",
       "count": 10,
-      "score": 80.65717414678969,
+      "score": 86.78488100471753,
       "proper": true,
       "niches": [
         "ai"
@@ -377,32 +405,27 @@
       "slug": "apple"
     },
     {
-      "keyword": "wood accents",
-      "count": 8,
-      "score": 70.44639886151805,
+      "keyword": "auchtertool",
+      "count": 5,
+      "score": 85.62194107342751,
       "proper": true,
       "niches": [
-        "gear"
+        "ai"
       ],
       "examples": [
         {
-          "title": "Keychron Launches K5 Ultra 8K Low Profile Mechanical Keyboard with Wood Accents",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRW9JVGwtMlRWOXowX2w0WWxmNUdCQ3hzZ2xpOUtlU0Z3YWYzbDh1dmFuNVRUT0RIeG5BZHp0bXV3S3Jnbk9TMTA2dFh4SXF0Ujc2NHc3STJfb3RxVndpNkNOdXFQTlp1b25XNnQwRERaU3lEdDlYS2luWEd4VUJjUERkbkNqWV9OVTBjVmxROTZMX2tDdEVsUDFkdEVRRV90bXNkOTlFVjIxZW5lWjJuLWxsYzLSAboBQVVfeXFMT1huUi1zSUtIdW5icDhTUXJyQUhiTmNhUjZ0MkJJaDZYMVp0WXhURm1ER1pPUV9RMTdUNzBNUndiMU96d0t4ZktLN0FpVFhJaktNYjJCcXVNZWItVVVPbk9yc0NDOFI3NnRaYm9KRnFmcW1NVWFIdWx5MDcxWkJScHlEV2dVNDhzdG9XWEs5T0xxV1hfQk00cWk1R0M2cFVLWW96X1JQZkhRNTRaVVFNUFNWbVlZRjlfVXpn?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Keychron Launches K5 Ultra 8K Low Profile Mechanical Keyboard with Wood Accents",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRW9JVGwtMlRWOXowX2w0WWxmNUdCQ3hzZ2xpOUtlU0Z3YWYzbDh1dmFuNVRUT0RIeG5BZHp0bXV3S3Jnbk9TMTA2dFh4SXF0Ujc2NHc3STJfb3RxVndpNkNOdXFQTlp1b25XNnQwRERaU3lEdDlYS2luWEd4VUJjUERkbkNqWV9OVTBjVmxROTZMX2tDdEVsUDFkdEVRRV90bXNkOTlFVjIxZW5lWjJuLWxsYzLSAboBQVVfeXFMT1huUi1zSUtIdW5icDhTUXJyQUhiTmNhUjZ0MkJJaDZYMVp0WXhURm1ER1pPUV9RMTdUNzBNUndiMU96d0t4ZktLN0FpVFhJaktNYjJCcXVNZWItVVVPbk9yc0NDOFI3NnRaYm9KRnFmcW1NVWFIdWx5MDcxWkJScHlEV2dVNDhzdG9XWEs5T0xxV1hfQk00cWk1R0M2cFVLWW96X1JQZkhRNTRaVVFNUFNWbVlZRjlfVXpn?oc=5",
-          "source": "gnews"
+          "title": "Help, please. 🙏 One of the world’s largest AI data centres is being planned next to the quiet village of Auchtertool in Fife, Scotland.It is estimated that this monstrosity will consume 20% of Scotla",
+          "url": "https://icelandphotos.co.uk/@mo/116900481552322306",
+          "source": "mastodon"
         }
       ],
-      "id": "5e6a49ad8ef8",
-      "slug": "wood-accents"
+      "id": "bae133786d37",
+      "slug": "auchtertool"
     },
     {
       "keyword": "mechanical keyboard",
       "count": 27,
-      "score": 68.82071273394455,
+      "score": 75.32345724423853,
       "proper": false,
       "niches": [
         "gear"
@@ -424,13 +447,13 @@
           "source": "gnews"
         },
         {
-          "title": "Upgrade to Keychron’s full-size C2 Pro mechanical keyboard for just $35 today (45% off)",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVzNOUF9rcmR2SGVpZGpqcUtqSW50cjZLSkFmcmdWYUhZbXJPVmdpMi10M1g0WW1PRUJNbVE5ZmRyRlNiNmh6amtNQzJaWnRPM09rWVFwT082SVNablBBeHd2ZjhXaS1BU3F3WE5jS21uZXlBb0Y1aGoySVZZbUU3Q1h5OE9hREdJek8yRzltZ3dYZWg5?oc=5",
+          "title": "Keychron K6 Wireless Mechanical Keyboard 30% Off at $52",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5MdlFoZVB3RkcyVTRHOWNOUzJLbG83eTNnczQyOElGbHpkNjVlY052RVpRbUVvN0E0QkNOelp6ejF3VEg0bmtmam9QUDM5VW9qRkUzZWNQOGhHVlV5dVNEQXYtRjBCTkVxbExSanFDYndzWkVoUGtCWVRn?oc=5",
           "source": "gnews"
         },
         {
-          "title": "Upgrade to Keychron’s full-size C2 Pro mechanical keyboard for just $35 today (45% off)",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVzNOUF9rcmR2SGVpZGpqcUtqSW50cjZLSkFmcmdWYUhZbXJPVmdpMi10M1g0WW1PRUJNbVE5ZmRyRlNiNmh6amtNQzJaWnRPM09rWVFwT082SVNablBBeHd2ZjhXaS1BU3F3WE5jS21uZXlBb0Y1aGoySVZZbUU3Q1h5OE9hREdJek8yRzltZ3dYZWg5?oc=5",
+          "title": "Keychron K6 Wireless Mechanical Keyboard 30% Off at $52",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5MdlFoZVB3RkcyVTRHOWNOUzJLbG83eTNnczQyOElGbHpkNjVlY052RVpRbUVvN0E0QkNOelp6ejF3VEg0bmtmam9QUDM5VW9qRkUzZWNQOGhHVlV5dVNEQXYtRjBCTkVxbExSanFDYndzWkVoUGtCWVRn?oc=5",
           "source": "gnews"
         }
       ],
@@ -438,86 +461,48 @@
       "slug": "mechanical-keyboard"
     },
     {
-      "keyword": "personal finance",
-      "count": 33,
-      "score": 67.50021854177172,
-      "proper": false,
-      "niches": [
-        "ai",
-        "finance"
-      ],
-      "examples": [
-        {
-          "title": "Elias569/fintech-dashboard — fintech dashboard for personal finance management which track income and expenses, leverage AI-powered analytics, manage budgets and financial goals, enjoy a dark theme",
-          "url": "https://github.com/Elias569/fintech-dashboard",
-          "source": "github"
-        },
-        {
-          "title": "What is the stoozing personal finance hack – and how does it work?",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTHB4MkxEMGUyV1ZrR2NKSVBYdWkxZzJGS1h5U2ZyVUlnUHJKSWJIcWZHWWk4T284cmM3Sk9CRXItN0dWWEJ6cnlIdHR3TkhRdTRNMmxrYVdEb2RpOFFjU3U1YjZyalFseDBMTlhacjF2VF95Vk5oSi1lRDRzSE1VQmlmaVN0NENlUE5fUg?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "What is the stoozing personal finance hack – and how does it work?",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTHB4MkxEMGUyV1ZrR2NKSVBYdWkxZzJGS1h5U2ZyVUlnUHJKSWJIcWZHWWk4T284cmM3Sk9CRXItN0dWWEJ6cnlIdHR3TkhRdTRNMmxrYVdEb2RpOFFjU3U1YjZyalFseDBMTlhacjF2VF95Vk5oSi1lRDRzSE1VQmlmaVN0NENlUE5fUg?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "The best personal finance tools to help you reach 6 money goals in 2026",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNTjlkR1VlMXJ1MjR0LURjbjl2QWo5ejdlYjN0UWFYQnZrVWNydkh2cUxEeEZRQXpaWXhpT2VNeHNtUlRoUy1JaW44WmMwQTdaVEtDbE5Yb3kzUWEzUTdaNlVLYXd1LXJTbC1pQ181U0ktRVM1OGUwbkhpN3F6Y1JMNUtzcUJfUdIBiwFBVV95cUxPc3pfOHZqRlMxakh3cVhGbEZ1SzgzY2tUR0ppcEg4ZVlxNlZyaF9hd01YZDJ5a0lpRkV5RHoySHZ4Qzlta0U0cW5XYzNDMlRaUTNIaGZmb3hzaXpaR1dnUGt0MFZDNmpIYTRISXBfQTBHdmYxOVotR2VhakU2U3pZbWNJQk9zNkdjeE9J?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "How to Use AI for Personal Finance: A Step-by-Step Guide (2026)",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdzlPdC1rRmNLeUNBZkpkNkR0YUZjMDRVR1N1cERIeFF3djh4R1ozbkVjcnlzeXoxd1htT1VNSW1IMnJLOGdxRnlpcElWNlRUa29jRG5yS3pPQWRtTDRTRzlUSldpWDVKY19pWS1CdmJjM2FLNU9FZVBZREVYcEtwbXJwQm5LblI4WlNlWkZBZk5zOXIxZWQxUXVQUjFoQQ?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "61108514445d",
-      "slug": "personal-finance"
-    },
-    {
-      "keyword": "fitness gear",
-      "count": 20,
-      "score": 66.31444662060207,
+      "keyword": "keyboard",
+      "count": 17,
+      "score": 69.05824243576404,
       "proper": true,
       "niches": [
-        "gear"
+        "gear",
+        "general"
       ],
       "examples": [
         {
-          "title": "64% of Gen Z would rather buy fitness gear than go on a date — and investors are betting billions on the trend",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVUlKXzhPY3RKbEdTdXBUcW0tbHVZejVnUDFJamZZSTNucU5QXzhpd3NvelRUM0owcU9ldGRzTFZwdnlUdU8wLXU0akI5R1UyNGJBY3Z2dUx0MWFnZTBiOUZnWkE2eFNhWVJUdjc0a095Nkd5enB6ejBxZHNIWFJxc3Nqa2c1ZnRwc0I4Nw?oc=5",
+          "title": "Keychron Launches K5 Ultra 8K Low Profile Mechanical Keyboard with Wood Accents",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRW9JVGwtMlRWOXowX2w0WWxmNUdCQ3hzZ2xpOUtlU0Z3YWYzbDh1dmFuNVRUT0RIeG5BZHp0bXV3S3Jnbk9TMTA2dFh4SXF0Ujc2NHc3STJfb3RxVndpNkNOdXFQTlp1b25XNnQwRERaU3lEdDlYS2luWEd4VUJjUERkbkNqWV9OVTBjVmxROTZMX2tDdEVsUDFkdEVRRV90bXNkOTlFVjIxZW5lWjJuLWxsYzLSAboBQVVfeXFMT1huUi1zSUtIdW5icDhTUXJyQUhiTmNhUjZ0MkJJaDZYMVp0WXhURm1ER1pPUV9RMTdUNzBNUndiMU96d0t4ZktLN0FpVFhJaktNYjJCcXVNZWItVVVPbk9yc0NDOFI3NnRaYm9KRnFmcW1NVWFIdWx5MDcxWkJScHlEV2dVNDhzdG9XWEs5T0xxV1hfQk00cWk1R0M2cFVLWW96X1JQZkhRNTRaVVFNUFNWbVlZRjlfVXpn?oc=5",
           "source": "gnews"
         },
         {
-          "title": "64% of Gen Z would rather buy fitness gear than go on a date — and investors are betting billions on the trend",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVUlKXzhPY3RKbEdTdXBUcW0tbHVZejVnUDFJamZZSTNucU5QXzhpd3NvelRUM0owcU9ldGRzTFZwdnlUdU8wLXU0akI5R1UyNGJBY3Z2dUx0MWFnZTBiOUZnWkE2eFNhWVJUdjc0a095Nkd5enB6ejBxZHNIWFJxc3Nqa2c1ZnRwc0I4Nw?oc=5",
+          "title": "Keychron K2 Mechanical Keyboard Drops to $64 (20% Off)",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5Ybk1ZdU5uOTZQY1drbE1LY04xTW5ybVVrWkNzVjRwQTZkOGMydFM1STV2M3g4cnp6NVROdnRkSm5Ldi14cUY0UGpHdUNELW9KYU1QQUZON0FVMWR1Uk1NSE1GdURiVFVEYjI3U1UzanE3Wnp0R1hYNm1jdzE?oc=5",
           "source": "gnews"
         },
         {
-          "title": "Memorial Day Sales: Stunning Deals on Fitness Gear",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWEx2T2hXVnExdVY4T2tVczl4cUd1QjcyM2ZMaG0wU3NIdUg1UnR2WnJPVkxjNnAwQ3RGOVlxOGRESXNabVpvejJkem5LN2pfOHhBbUhKYnpMczU3enpBenYzSjRHTUJuSm80QjVxVjI5RFNwdnItSWEtLS1vNlJUNjFDS2Y?oc=5",
+          "title": "Keychron K2 Mechanical Keyboard Drops to $64 (20% Off)",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5Ybk1ZdU5uOTZQY1drbE1LY04xTW5ybVVrWkNzVjRwQTZkOGMydFM1STV2M3g4cnp6NVROdnRkSm5Ldi14cUY0UGpHdUNELW9KYU1QQUZON0FVMWR1Uk1NSE1GdURiVFVEYjI3U1UzanE3Wnp0R1hYNm1jdzE?oc=5",
           "source": "gnews"
         },
         {
-          "title": "Memorial Day Sales: Stunning Deals on Fitness Gear",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWEx2T2hXVnExdVY4T2tVczl4cUd1QjcyM2ZMaG0wU3NIdUg1UnR2WnJPVkxjNnAwQ3RGOVlxOGRESXNabVpvejJkem5LN2pfOHhBbUhKYnpMczU3enpBenYzSjRHTUJuSm80QjVxVjI5RFNwdnItSWEtLS1vNlJUNjFDS2Y?oc=5",
+          "title": "Keychron K6 Wireless Mechanical Keyboard 30% Off at $52",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5MdlFoZVB3RkcyVTRHOWNOUzJLbG83eTNnczQyOElGbHpkNjVlY052RVpRbUVvN0E0QkNOelp6ejF3VEg0bmtmam9QUDM5VW9qRkUzZWNQOGhHVlV5dVNEQXYtRjBCTkVxbExSanFDYndzWkVoUGtCWVRn?oc=5",
           "source": "gnews"
         },
         {
-          "title": "Memorial Day Sales: Stunning Deals on Fitness Gear",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWEx2T2hXVnExdVY4T2tVczl4cUd1QjcyM2ZMaG0wU3NIdUg1UnR2WnJPVkxjNnAwQ3RGOVlxOGRESXNabVpvejJkem5LN2pfOHhBbUhKYnpMczU3enpBenYzSjRHTUJuSm80QjVxVjI5RFNwdnItSWEtLS1vNlJUNjFDS2Y?oc=5",
+          "title": "Keychron K6 Wireless Mechanical Keyboard 30% Off at $52",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5MdlFoZVB3RkcyVTRHOWNOUzJLbG83eTNnczQyOElGbHpkNjVlY052RVpRbUVvN0E0QkNOelp6ejF3VEg0bmtmam9QUDM5VW9qRkUzZWNQOGhHVlV5dVNEQXYtRjBCTkVxbExSanFDYndzWkVoUGtCWVRn?oc=5",
           "source": "gnews"
         }
       ],
-      "id": "a8b7e45842c3",
-      "slug": "fitness-gear"
+      "id": "91f060a9ad4b",
+      "slug": "keyboard"
     },
     {
       "keyword": "solo grants",
       "count": 8,
-      "score": 65.61584243392386,
+      "score": 67.42295874694494,
       "proper": true,
       "niches": [
         "ai"
@@ -540,7 +525,7 @@
     {
       "keyword": "mlh hackathon",
       "count": 8,
-      "score": 65.61584243392386,
+      "score": 67.42295874694494,
       "proper": true,
       "niches": [
         "ai"
@@ -561,9 +546,50 @@
       "slug": "mlh-hackathon"
     },
     {
+      "keyword": "gemini",
+      "count": 6,
+      "score": 65.361972793476,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "I just saw a Dutch-speaking user who was trying to look up more information about a photo of an archaeological dig (a black and white photo of a man and a woman) and Gemini interjected, in Dutch, that",
+          "url": "https://infosec.exchange/@0xabad1dea/116900852720954466",
+          "source": "mastodon"
+        },
+        {
+          "title": "I just saw a Dutch-speaking user who was trying to look up more information about a photo of an archaeological dig (a black and white photo of a man and a woman) and Gemini interjected, in Dutch, that",
+          "url": "https://infosec.exchange/@0xabad1dea/116900852720954466",
+          "source": "mastodon"
+        }
+      ],
+      "id": "5d72436256ad",
+      "slug": "gemini"
+    },
+    {
+      "keyword": "llms. her",
+      "count": 5,
+      "score": 65.30365785968974,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "If anyone is wondering how well ‘AI’ in hiring is going:My partner just tried putting her CV through some ATS checkers that use LLMs. Her name can be turned into a male name by deleting one letter. Do",
+          "url": "https://infosec.exchange/@david_chisnall/116901167730598410",
+          "source": "mastodon"
+        }
+      ],
+      "id": "6304cad5c1a9",
+      "slug": "llms-her"
+    },
+    {
       "keyword": "agent",
-      "count": 9,
-      "score": 58.9813649819699,
+      "count": 11,
+      "score": 65.11144937030974,
       "proper": true,
       "niches": [
         "ai"
@@ -585,133 +611,160 @@
           "source": "github"
         },
         {
+          "title": "MoisesR7/browser-mcp — browser mcp agent integration with autonomous browser automation capabilities",
+          "url": "https://github.com/MoisesR7/browser-mcp",
+          "source": "github"
+        },
+        {
           "title": "My AI agent tried to ship a mistake we'd already reverted",
           "url": "https://dev.to/masondelan/my-ai-agent-tried-to-ship-a-mistake-wed-already-reverted-4737",
           "source": "devto"
-        },
-        {
-          "title": "coomi-agent 1.1.0",
-          "url": "https://pypi.org/project/coomi-agent/1.1.0/",
-          "source": "pypi"
         }
       ],
       "id": "d4f0bc5a29de",
       "slug": "agent"
     },
     {
-      "keyword": "finance",
-      "count": 18,
-      "score": 57.788724814273294,
-      "proper": true,
+      "keyword": "side hustle",
+      "count": 30,
+      "score": 59.802025407167804,
+      "proper": false,
       "niches": [
-        "ai",
         "finance"
       ],
       "examples": [
         {
-          "title": "KORAYTEACHER/fintech-forge — fintech forge of AI-powered financial tools and insights to secure authentication and dashboards to empowers developers, analysts, and students to build and extend finance",
-          "url": "https://github.com/KORAYTEACHER/fintech-forge",
-          "source": "github"
-        },
-        {
-          "title": "Elias569/fintech-dashboard — fintech dashboard for personal finance management which track income and expenses, leverage AI-powered analytics, manage budgets and financial goals, enjoy a dark theme",
-          "url": "https://github.com/Elias569/fintech-dashboard",
-          "source": "github"
-        },
-        {
-          "title": "What is the stoozing personal finance hack – and how does it work?",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTHB4MkxEMGUyV1ZrR2NKSVBYdWkxZzJGS1h5U2ZyVUlnUHJKSWJIcWZHWWk4T284cmM3Sk9CRXItN0dWWEJ6cnlIdHR3TkhRdTRNMmxrYVdEb2RpOFFjU3U1YjZyalFseDBMTlhacjF2VF95Vk5oSi1lRDRzSE1VQmlmaVN0NENlUE5fUg?oc=5",
+          "title": "Side hustle ideas are becoming real businesses in 2026",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNT1ZRVWhwUldRWUNUblQ4WkhTWDB0dFV5X3N1bXNlSU1kbnExemxRZUJFcFdmdlg3ZnItX0hzLU1BQVFYU2JDZWlWUzBOV0gyeFNUZF9GdWtYX1B3X1ppdUZ3ZHZtbjZhY0NGS2hKbVJFald2Unp6ZTZhX2dsUk9aWW9wWnVDaG9maHpCeUxTaVpTUGFJMGdLQWxzSlF2aG5uZ1ZmQi12RWpFMjNGWUxSbFB3?oc=5",
           "source": "gnews"
         },
         {
-          "title": "What is the stoozing personal finance hack – and how does it work?",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTHB4MkxEMGUyV1ZrR2NKSVBYdWkxZzJGS1h5U2ZyVUlnUHJKSWJIcWZHWWk4T284cmM3Sk9CRXItN0dWWEJ6cnlIdHR3TkhRdTRNMmxrYVdEb2RpOFFjU3U1YjZyalFseDBMTlhacjF2VF95Vk5oSi1lRDRzSE1VQmlmaVN0NENlUE5fUg?oc=5",
+          "title": "Side hustle ideas are becoming real businesses in 2026",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNT1ZRVWhwUldRWUNUblQ4WkhTWDB0dFV5X3N1bXNlSU1kbnExemxRZUJFcFdmdlg3ZnItX0hzLU1BQVFYU2JDZWlWUzBOV0gyeFNUZF9GdWtYX1B3X1ppdUZ3ZHZtbjZhY0NGS2hKbVJFald2Unp6ZTZhX2dsUk9aWW9wWnVDaG9maHpCeUxTaVpTUGFJMGdLQWxzSlF2aG5uZ1ZmQi12RWpFMjNGWUxSbFB3?oc=5",
           "source": "gnews"
         },
         {
-          "title": "What is the stoozing personal finance hack – and how does it work?",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTHB4MkxEMGUyV1ZrR2NKSVBYdWkxZzJGS1h5U2ZyVUlnUHJKSWJIcWZHWWk4T284cmM3Sk9CRXItN0dWWEJ6cnlIdHR3TkhRdTRNMmxrYVdEb2RpOFFjU3U1YjZyalFseDBMTlhacjF2VF95Vk5oSi1lRDRzSE1VQmlmaVN0NENlUE5fUg?oc=5",
+          "title": "5 Side Hustle Businesses for Busy Parents",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdTJrNUhtUUgzamdzWUJkOWtfbFFpbFVYRzU0bHpEWVdNeTRRNzV1ZVFQQUN2a2xhaERhTGIwOHRTd2t6dEZrWVhVWnJGRnZoV21SaDZqQ3ZUTVRvc3pRMGtKLU9mdlVWRUxobzdzYmhLbFRmOEdLOXJzVHIySU1FTUZwM1Z6THdvWG5B?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "5 Side Hustle Businesses for Busy Parents",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdTJrNUhtUUgzamdzWUJkOWtfbFFpbFVYRzU0bHpEWVdNeTRRNzV1ZVFQQUN2a2xhaERhTGIwOHRTd2t6dEZrWVhVWnJGRnZoV21SaDZqQ3ZUTVRvc3pRMGtKLU9mdlVWRUxobzdzYmhLbFRmOEdLOXJzVHIySU1FTUZwM1Z6THdvWG5B?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "20+ Profitable Side Hustle Ideas to Start in Your Free Time",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5TWEZ5X24wNDFpOGNpdk80WjFrTTdCSmRLOXl3c0cwcGdXelBvdWt3MjdCRklIQzdBcHN5bWpsaElMQUd1U2pWclNLYmd2QlloT21qU0tiZlhEdU5JaWVrNXhSQQ?oc=5",
           "source": "gnews"
         }
       ],
-      "id": "eab762a03fd9",
-      "slug": "finance"
+      "id": "57270ed2efc7",
+      "slug": "side-hustle"
     },
     {
-      "keyword": "project2025",
-      "count": 5,
-      "score": 56.973533844265795,
+      "keyword": "side",
+      "count": 15,
+      "score": 58.931122124539144,
       "proper": true,
       "niches": [
-        "ai"
+        "finance"
       ],
       "examples": [
         {
-          "title": "RE: https://mastodon.social/@austinkocher/116898508370546669#debtPrisons are part of the #MAGA #Project2025 plan to copy the Hapsburgs’ game plan in Spain BUT!each wave of deportations (expulsiones) t",
-          "url": "https://mastodon.social/@blogdiva/116898993981759153",
-          "source": "mastodon"
-        }
-      ],
-      "id": "769a4bc6a719",
-      "slug": "project2025"
-    },
-    {
-      "keyword": "marketing noise",
-      "count": 11,
-      "score": 51.41232378451173,
-      "proper": true,
-      "niches": [
-        "gear"
-      ],
-      "examples": [
-        {
-          "title": "We Test So Much Gear We're Immune to Hype. These 15 Pieces Cut Through the Marketing Noise.",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZWp6Z0NGRUpZcmVEQTRNWWRTc1AzWHdiODE4aS1iUmhmNVZpY2U0bDlTeXViMTBnLUpFWUZUTXJfNzlYZTVqY1ktc1AtdE5ZcUU0Sy14bkRvZHNjU3VtQ2pyeFhwM3ZhV1lkSDFXYWZWdFZNMGs2WEhvb1VMdndGVWVkbFhpcDF0?oc=5",
+          "title": "Side hustle ideas are becoming real businesses in 2026",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNT1ZRVWhwUldRWUNUblQ4WkhTWDB0dFV5X3N1bXNlSU1kbnExemxRZUJFcFdmdlg3ZnItX0hzLU1BQVFYU2JDZWlWUzBOV0gyeFNUZF9GdWtYX1B3X1ppdUZ3ZHZtbjZhY0NGS2hKbVJFald2Unp6ZTZhX2dsUk9aWW9wWnVDaG9maHpCeUxTaVpTUGFJMGdLQWxzSlF2aG5uZ1ZmQi12RWpFMjNGWUxSbFB3?oc=5",
           "source": "gnews"
         },
         {
-          "title": "We Test So Much Gear We're Immune to Hype. These 15 Pieces Cut Through the Marketing Noise.",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZWp6Z0NGRUpZcmVEQTRNWWRTc1AzWHdiODE4aS1iUmhmNVZpY2U0bDlTeXViMTBnLUpFWUZUTXJfNzlYZTVqY1ktc1AtdE5ZcUU0Sy14bkRvZHNjU3VtQ2pyeFhwM3ZhV1lkSDFXYWZWdFZNMGs2WEhvb1VMdndGVWVkbFhpcDF0?oc=5",
+          "title": "Side hustle ideas are becoming real businesses in 2026",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNT1ZRVWhwUldRWUNUblQ4WkhTWDB0dFV5X3N1bXNlSU1kbnExemxRZUJFcFdmdlg3ZnItX0hzLU1BQVFYU2JDZWlWUzBOV0gyeFNUZF9GdWtYX1B3X1ppdUZ3ZHZtbjZhY0NGS2hKbVJFald2Unp6ZTZhX2dsUk9aWW9wWnVDaG9maHpCeUxTaVpTUGFJMGdLQWxzSlF2aG5uZ1ZmQi12RWpFMjNGWUxSbFB3?oc=5",
           "source": "gnews"
         },
         {
-          "title": "We Test So Much Gear We're Immune to Hype. These 15 Pieces Cut Through the Marketing Noise.",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZWp6Z0NGRUpZcmVEQTRNWWRTc1AzWHdiODE4aS1iUmhmNVZpY2U0bDlTeXViMTBnLUpFWUZUTXJfNzlYZTVqY1ktc1AtdE5ZcUU0Sy14bkRvZHNjU3VtQ2pyeFhwM3ZhV1lkSDFXYWZWdFZNMGs2WEhvb1VMdndGVWVkbFhpcDF0?oc=5",
+          "title": "Side hustle ideas are becoming real businesses in 2026",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNT1ZRVWhwUldRWUNUblQ4WkhTWDB0dFV5X3N1bXNlSU1kbnExemxRZUJFcFdmdlg3ZnItX0hzLU1BQVFYU2JDZWlWUzBOV0gyeFNUZF9GdWtYX1B3X1ppdUZ3ZHZtbjZhY0NGS2hKbVJFald2Unp6ZTZhX2dsUk9aWW9wWnVDaG9maHpCeUxTaVpTUGFJMGdLQWxzSlF2aG5uZ1ZmQi12RWpFMjNGWUxSbFB3?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "5 Side Hustle Businesses for Busy Parents",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdTJrNUhtUUgzamdzWUJkOWtfbFFpbFVYRzU0bHpEWVdNeTRRNzV1ZVFQQUN2a2xhaERhTGIwOHRTd2t6dEZrWVhVWnJGRnZoV21SaDZqQ3ZUTVRvc3pRMGtKLU9mdlVWRUxobzdzYmhLbFRmOEdLOXJzVHIySU1FTUZwM1Z6THdvWG5B?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "5 Side Hustle Businesses for Busy Parents",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdTJrNUhtUUgzamdzWUJkOWtfbFFpbFVYRzU0bHpEWVdNeTRRNzV1ZVFQQUN2a2xhaERhTGIwOHRTd2t6dEZrWVhVWnJGRnZoV21SaDZqQ3ZUTVRvc3pRMGtKLU9mdlVWRUxobzdzYmhLbFRmOEdLOXJzVHIySU1FTUZwM1Z6THdvWG5B?oc=5",
           "source": "gnews"
         }
       ],
-      "id": "da47e645f242",
-      "slug": "marketing-noise"
-    },
-    {
-      "keyword": "evaluation infrastructure",
-      "count": 8,
-      "score": 48.47163773082525,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "OpenEnvision/WorldFoundry — Unified World Model Inference & Evaluation Infrastructure",
-          "url": "https://github.com/OpenEnvision/WorldFoundry",
-          "source": "github"
-        },
-        {
-          "title": "OpenEnvision/WorldFoundry — Unified World Model Inference & Evaluation Infrastructure",
-          "url": "https://github.com/OpenEnvision/WorldFoundry",
-          "source": "github"
-        }
-      ],
-      "id": "89daa6fd0603",
-      "slug": "evaluation-infrastructure"
+      "id": "ea7bf4bb7230",
+      "slug": "side"
     }
   ],
   "opportunities": [
     {
+      "keyword": "bayeux tapestry",
+      "count": 11,
+      "score": 124.79871253830522,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "The British are adding panels to the Bayeux Tapestry while its in London#farage #countbinface #bayeux #tapestry #politics",
+          "url": "https://mas.to/@cmsdengl/116901421278619946",
+          "source": "mastodon"
+        },
+        {
+          "title": "The British are adding panels to the Bayeux Tapestry while its in London#farage #countbinface #bayeux #tapestry #politics",
+          "url": "https://mas.to/@cmsdengl/116901421278619946",
+          "source": "mastodon"
+        },
+        {
+          "title": "The British are adding panels to the Bayeux Tapestry while its in London#farage #countbinface #bayeux #tapestry #politics",
+          "url": "https://mas.to/@cmsdengl/116901421278619946",
+          "source": "mastodon"
+        }
+      ],
+      "id": "3701b12a7e8c",
+      "slug": "bayeux-tapestry",
+      "opportunity": {
+        "type": "niche-content",
+        "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
+      }
+    },
+    {
+      "keyword": "sol ultra",
+      "count": 8,
+      "score": 109.83132969423085,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
+          "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
+          "source": "hackernews"
+        },
+        {
+          "title": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
+          "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
+          "source": "hackernews"
+        }
+      ],
+      "id": "114686689aad",
+      "slug": "sol-ultra",
+      "opportunity": {
+        "type": "niche-content",
+        "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
+      }
+    },
+    {
       "keyword": "agent skill",
       "count": 11,
-      "score": 109.516935174998,
+      "score": 91.66043983805042,
       "proper": true,
       "niches": [
         "ai"
@@ -741,63 +794,36 @@
       }
     },
     {
-      "keyword": "sol ultra",
+      "keyword": "space mirror",
       "count": 8,
-      "score": 105.907093796585,
+      "score": 90.97606497542253,
       "proper": true,
       "niches": [
-        "ai"
+        "software"
       ],
       "examples": [
         {
-          "title": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
-          "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
+          "title": "FCC Approves Test of Space Mirror to Light Night Sky Despite Outcry",
+          "url": "https://www.nytimes.com/2026/07/10/climate/fcc-space-mirror.html",
           "source": "hackernews"
         },
         {
-          "title": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
-          "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
+          "title": "FCC Approves Test of Space Mirror to Light Night Sky Despite Outcry",
+          "url": "https://www.nytimes.com/2026/07/10/climate/fcc-space-mirror.html",
           "source": "hackernews"
         }
       ],
-      "id": "114686689aad",
-      "slug": "sol-ultra",
+      "id": "1d16263308d9",
+      "slug": "space-mirror",
       "opportunity": {
         "type": "niche-content",
-        "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
-      }
-    },
-    {
-      "keyword": "boko haram",
-      "count": 8,
-      "score": 83.4099412331046,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "How the terrorist group Boko Haram uses frontier AI",
-          "url": "https://casp.ac/reports/ai-enabled-terrorism",
-          "source": "hackernews"
-        },
-        {
-          "title": "How the terrorist group Boko Haram uses frontier AI",
-          "url": "https://casp.ac/reports/ai-enabled-terrorism",
-          "source": "hackernews"
-        }
-      ],
-      "id": "93efe6418eff",
-      "slug": "boko-haram",
-      "opportunity": {
-        "type": "niche-content",
-        "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
+        "recommended": "Publish niche guide for \"software\"; bundle into digital product later."
       }
     },
     {
       "keyword": "apple",
       "count": 10,
-      "score": 80.65717414678969,
+      "score": 86.78488100471753,
       "proper": true,
       "niches": [
         "ai"
@@ -822,36 +848,31 @@
       }
     },
     {
-      "keyword": "wood accents",
-      "count": 8,
-      "score": 70.44639886151805,
+      "keyword": "auchtertool",
+      "count": 5,
+      "score": 85.62194107342751,
       "proper": true,
       "niches": [
-        "gear"
+        "ai"
       ],
       "examples": [
         {
-          "title": "Keychron Launches K5 Ultra 8K Low Profile Mechanical Keyboard with Wood Accents",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRW9JVGwtMlRWOXowX2w0WWxmNUdCQ3hzZ2xpOUtlU0Z3YWYzbDh1dmFuNVRUT0RIeG5BZHp0bXV3S3Jnbk9TMTA2dFh4SXF0Ujc2NHc3STJfb3RxVndpNkNOdXFQTlp1b25XNnQwRERaU3lEdDlYS2luWEd4VUJjUERkbkNqWV9OVTBjVmxROTZMX2tDdEVsUDFkdEVRRV90bXNkOTlFVjIxZW5lWjJuLWxsYzLSAboBQVVfeXFMT1huUi1zSUtIdW5icDhTUXJyQUhiTmNhUjZ0MkJJaDZYMVp0WXhURm1ER1pPUV9RMTdUNzBNUndiMU96d0t4ZktLN0FpVFhJaktNYjJCcXVNZWItVVVPbk9yc0NDOFI3NnRaYm9KRnFmcW1NVWFIdWx5MDcxWkJScHlEV2dVNDhzdG9XWEs5T0xxV1hfQk00cWk1R0M2cFVLWW96X1JQZkhRNTRaVVFNUFNWbVlZRjlfVXpn?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Keychron Launches K5 Ultra 8K Low Profile Mechanical Keyboard with Wood Accents",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRW9JVGwtMlRWOXowX2w0WWxmNUdCQ3hzZ2xpOUtlU0Z3YWYzbDh1dmFuNVRUT0RIeG5BZHp0bXV3S3Jnbk9TMTA2dFh4SXF0Ujc2NHc3STJfb3RxVndpNkNOdXFQTlp1b25XNnQwRERaU3lEdDlYS2luWEd4VUJjUERkbkNqWV9OVTBjVmxROTZMX2tDdEVsUDFkdEVRRV90bXNkOTlFVjIxZW5lWjJuLWxsYzLSAboBQVVfeXFMT1huUi1zSUtIdW5icDhTUXJyQUhiTmNhUjZ0MkJJaDZYMVp0WXhURm1ER1pPUV9RMTdUNzBNUndiMU96d0t4ZktLN0FpVFhJaktNYjJCcXVNZWItVVVPbk9yc0NDOFI3NnRaYm9KRnFmcW1NVWFIdWx5MDcxWkJScHlEV2dVNDhzdG9XWEs5T0xxV1hfQk00cWk1R0M2cFVLWW96X1JQZkhRNTRaVVFNUFNWbVlZRjlfVXpn?oc=5",
-          "source": "gnews"
+          "title": "Help, please. 🙏 One of the world’s largest AI data centres is being planned next to the quiet village of Auchtertool in Fife, Scotland.It is estimated that this monstrosity will consume 20% of Scotla",
+          "url": "https://icelandphotos.co.uk/@mo/116900481552322306",
+          "source": "mastodon"
         }
       ],
-      "id": "5e6a49ad8ef8",
-      "slug": "wood-accents",
+      "id": "bae133786d37",
+      "slug": "auchtertool",
       "opportunity": {
-        "type": "niche-content",
-        "recommended": "Publish niche guide for \"gear\"; bundle into digital product later."
+        "type": "affiliate",
+        "recommended": "Write SEO comparison/roundup article with affiliate links."
       }
     },
     {
       "keyword": "mechanical keyboard",
       "count": 27,
-      "score": 68.82071273394455,
+      "score": 75.32345724423853,
       "proper": false,
       "niches": [
         "gear"
@@ -873,13 +894,13 @@
           "source": "gnews"
         },
         {
-          "title": "Upgrade to Keychron’s full-size C2 Pro mechanical keyboard for just $35 today (45% off)",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVzNOUF9rcmR2SGVpZGpqcUtqSW50cjZLSkFmcmdWYUhZbXJPVmdpMi10M1g0WW1PRUJNbVE5ZmRyRlNiNmh6amtNQzJaWnRPM09rWVFwT082SVNablBBeHd2ZjhXaS1BU3F3WE5jS21uZXlBb0Y1aGoySVZZbUU3Q1h5OE9hREdJek8yRzltZ3dYZWg5?oc=5",
+          "title": "Keychron K6 Wireless Mechanical Keyboard 30% Off at $52",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5MdlFoZVB3RkcyVTRHOWNOUzJLbG83eTNnczQyOElGbHpkNjVlY052RVpRbUVvN0E0QkNOelp6ejF3VEg0bmtmam9QUDM5VW9qRkUzZWNQOGhHVlV5dVNEQXYtRjBCTkVxbExSanFDYndzWkVoUGtCWVRn?oc=5",
           "source": "gnews"
         },
         {
-          "title": "Upgrade to Keychron’s full-size C2 Pro mechanical keyboard for just $35 today (45% off)",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVzNOUF9rcmR2SGVpZGpqcUtqSW50cjZLSkFmcmdWYUhZbXJPVmdpMi10M1g0WW1PRUJNbVE5ZmRyRlNiNmh6amtNQzJaWnRPM09rWVFwT082SVNablBBeHd2ZjhXaS1BU3F3WE5jS21uZXlBb0Y1aGoySVZZbUU3Q1h5OE9hREdJek8yRzltZ3dYZWg5?oc=5",
+          "title": "Keychron K6 Wireless Mechanical Keyboard 30% Off at $52",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5MdlFoZVB3RkcyVTRHOWNOUzJLbG83eTNnczQyOElGbHpkNjVlY052RVpRbUVvN0E0QkNOelp6ejF3VEg0bmtmam9QUDM5VW9qRkUzZWNQOGhHVlV5dVNEQXYtRjBCTkVxbExSanFDYndzWkVoUGtCWVRn?oc=5",
           "source": "gnews"
         }
       ],
@@ -891,88 +912,46 @@
       }
     },
     {
-      "keyword": "personal finance",
-      "count": 33,
-      "score": 67.50021854177172,
-      "proper": false,
-      "niches": [
-        "ai",
-        "finance"
-      ],
-      "examples": [
-        {
-          "title": "Elias569/fintech-dashboard — fintech dashboard for personal finance management which track income and expenses, leverage AI-powered analytics, manage budgets and financial goals, enjoy a dark theme",
-          "url": "https://github.com/Elias569/fintech-dashboard",
-          "source": "github"
-        },
-        {
-          "title": "What is the stoozing personal finance hack – and how does it work?",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTHB4MkxEMGUyV1ZrR2NKSVBYdWkxZzJGS1h5U2ZyVUlnUHJKSWJIcWZHWWk4T284cmM3Sk9CRXItN0dWWEJ6cnlIdHR3TkhRdTRNMmxrYVdEb2RpOFFjU3U1YjZyalFseDBMTlhacjF2VF95Vk5oSi1lRDRzSE1VQmlmaVN0NENlUE5fUg?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "What is the stoozing personal finance hack – and how does it work?",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTHB4MkxEMGUyV1ZrR2NKSVBYdWkxZzJGS1h5U2ZyVUlnUHJKSWJIcWZHWWk4T284cmM3Sk9CRXItN0dWWEJ6cnlIdHR3TkhRdTRNMmxrYVdEb2RpOFFjU3U1YjZyalFseDBMTlhacjF2VF95Vk5oSi1lRDRzSE1VQmlmaVN0NENlUE5fUg?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "The best personal finance tools to help you reach 6 money goals in 2026",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNTjlkR1VlMXJ1MjR0LURjbjl2QWo5ejdlYjN0UWFYQnZrVWNydkh2cUxEeEZRQXpaWXhpT2VNeHNtUlRoUy1JaW44WmMwQTdaVEtDbE5Yb3kzUWEzUTdaNlVLYXd1LXJTbC1pQ181U0ktRVM1OGUwbkhpN3F6Y1JMNUtzcUJfUdIBiwFBVV95cUxPc3pfOHZqRlMxakh3cVhGbEZ1SzgzY2tUR0ppcEg4ZVlxNlZyaF9hd01YZDJ5a0lpRkV5RHoySHZ4Qzlta0U0cW5XYzNDMlRaUTNIaGZmb3hzaXpaR1dnUGt0MFZDNmpIYTRISXBfQTBHdmYxOVotR2VhakU2U3pZbWNJQk9zNkdjeE9J?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "How to Use AI for Personal Finance: A Step-by-Step Guide (2026)",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdzlPdC1rRmNLeUNBZkpkNkR0YUZjMDRVR1N1cERIeFF3djh4R1ozbkVjcnlzeXoxd1htT1VNSW1IMnJLOGdxRnlpcElWNlRUa29jRG5yS3pPQWRtTDRTRzlUSldpWDVKY19pWS1CdmJjM2FLNU9FZVBZREVYcEtwbXJwQm5LblI4WlNlWkZBZk5zOXIxZWQxUXVQUjFoQQ?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "61108514445d",
-      "slug": "personal-finance",
-      "opportunity": {
-        "type": "niche-content",
-        "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
-      }
-    },
-    {
-      "keyword": "fitness gear",
-      "count": 20,
-      "score": 66.31444662060207,
+      "keyword": "keyboard",
+      "count": 17,
+      "score": 69.05824243576404,
       "proper": true,
       "niches": [
-        "gear"
+        "gear",
+        "general"
       ],
       "examples": [
         {
-          "title": "64% of Gen Z would rather buy fitness gear than go on a date — and investors are betting billions on the trend",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVUlKXzhPY3RKbEdTdXBUcW0tbHVZejVnUDFJamZZSTNucU5QXzhpd3NvelRUM0owcU9ldGRzTFZwdnlUdU8wLXU0akI5R1UyNGJBY3Z2dUx0MWFnZTBiOUZnWkE2eFNhWVJUdjc0a095Nkd5enB6ejBxZHNIWFJxc3Nqa2c1ZnRwc0I4Nw?oc=5",
+          "title": "Keychron Launches K5 Ultra 8K Low Profile Mechanical Keyboard with Wood Accents",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRW9JVGwtMlRWOXowX2w0WWxmNUdCQ3hzZ2xpOUtlU0Z3YWYzbDh1dmFuNVRUT0RIeG5BZHp0bXV3S3Jnbk9TMTA2dFh4SXF0Ujc2NHc3STJfb3RxVndpNkNOdXFQTlp1b25XNnQwRERaU3lEdDlYS2luWEd4VUJjUERkbkNqWV9OVTBjVmxROTZMX2tDdEVsUDFkdEVRRV90bXNkOTlFVjIxZW5lWjJuLWxsYzLSAboBQVVfeXFMT1huUi1zSUtIdW5icDhTUXJyQUhiTmNhUjZ0MkJJaDZYMVp0WXhURm1ER1pPUV9RMTdUNzBNUndiMU96d0t4ZktLN0FpVFhJaktNYjJCcXVNZWItVVVPbk9yc0NDOFI3NnRaYm9KRnFmcW1NVWFIdWx5MDcxWkJScHlEV2dVNDhzdG9XWEs5T0xxV1hfQk00cWk1R0M2cFVLWW96X1JQZkhRNTRaVVFNUFNWbVlZRjlfVXpn?oc=5",
           "source": "gnews"
         },
         {
-          "title": "64% of Gen Z would rather buy fitness gear than go on a date — and investors are betting billions on the trend",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVUlKXzhPY3RKbEdTdXBUcW0tbHVZejVnUDFJamZZSTNucU5QXzhpd3NvelRUM0owcU9ldGRzTFZwdnlUdU8wLXU0akI5R1UyNGJBY3Z2dUx0MWFnZTBiOUZnWkE2eFNhWVJUdjc0a095Nkd5enB6ejBxZHNIWFJxc3Nqa2c1ZnRwc0I4Nw?oc=5",
+          "title": "Keychron K2 Mechanical Keyboard Drops to $64 (20% Off)",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5Ybk1ZdU5uOTZQY1drbE1LY04xTW5ybVVrWkNzVjRwQTZkOGMydFM1STV2M3g4cnp6NVROdnRkSm5Ldi14cUY0UGpHdUNELW9KYU1QQUZON0FVMWR1Uk1NSE1GdURiVFVEYjI3U1UzanE3Wnp0R1hYNm1jdzE?oc=5",
           "source": "gnews"
         },
         {
-          "title": "Memorial Day Sales: Stunning Deals on Fitness Gear",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWEx2T2hXVnExdVY4T2tVczl4cUd1QjcyM2ZMaG0wU3NIdUg1UnR2WnJPVkxjNnAwQ3RGOVlxOGRESXNabVpvejJkem5LN2pfOHhBbUhKYnpMczU3enpBenYzSjRHTUJuSm80QjVxVjI5RFNwdnItSWEtLS1vNlJUNjFDS2Y?oc=5",
+          "title": "Keychron K2 Mechanical Keyboard Drops to $64 (20% Off)",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5Ybk1ZdU5uOTZQY1drbE1LY04xTW5ybVVrWkNzVjRwQTZkOGMydFM1STV2M3g4cnp6NVROdnRkSm5Ldi14cUY0UGpHdUNELW9KYU1QQUZON0FVMWR1Uk1NSE1GdURiVFVEYjI3U1UzanE3Wnp0R1hYNm1jdzE?oc=5",
           "source": "gnews"
         },
         {
-          "title": "Memorial Day Sales: Stunning Deals on Fitness Gear",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWEx2T2hXVnExdVY4T2tVczl4cUd1QjcyM2ZMaG0wU3NIdUg1UnR2WnJPVkxjNnAwQ3RGOVlxOGRESXNabVpvejJkem5LN2pfOHhBbUhKYnpMczU3enpBenYzSjRHTUJuSm80QjVxVjI5RFNwdnItSWEtLS1vNlJUNjFDS2Y?oc=5",
+          "title": "Keychron K6 Wireless Mechanical Keyboard 30% Off at $52",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5MdlFoZVB3RkcyVTRHOWNOUzJLbG83eTNnczQyOElGbHpkNjVlY052RVpRbUVvN0E0QkNOelp6ejF3VEg0bmtmam9QUDM5VW9qRkUzZWNQOGhHVlV5dVNEQXYtRjBCTkVxbExSanFDYndzWkVoUGtCWVRn?oc=5",
           "source": "gnews"
         },
         {
-          "title": "Memorial Day Sales: Stunning Deals on Fitness Gear",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWEx2T2hXVnExdVY4T2tVczl4cUd1QjcyM2ZMaG0wU3NIdUg1UnR2WnJPVkxjNnAwQ3RGOVlxOGRESXNabVpvejJkem5LN2pfOHhBbUhKYnpMczU3enpBenYzSjRHTUJuSm80QjVxVjI5RFNwdnItSWEtLS1vNlJUNjFDS2Y?oc=5",
+          "title": "Keychron K6 Wireless Mechanical Keyboard 30% Off at $52",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5MdlFoZVB3RkcyVTRHOWNOUzJLbG83eTNnczQyOElGbHpkNjVlY052RVpRbUVvN0E0QkNOelp6ejF3VEg0bmtmam9QUDM5VW9qRkUzZWNQOGhHVlV5dVNEQXYtRjBCTkVxbExSanFDYndzWkVoUGtCWVRn?oc=5",
           "source": "gnews"
         }
       ],
-      "id": "a8b7e45842c3",
-      "slug": "fitness-gear",
+      "id": "91f060a9ad4b",
+      "slug": "keyboard",
       "opportunity": {
-        "type": "affiliate",
-        "recommended": "Write SEO comparison/roundup article with affiliate links."
+        "type": "niche-content",
+        "recommended": "Publish niche guide for \"gear\"; bundle into digital product later."
       }
     }
   ]

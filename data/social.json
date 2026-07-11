@@ -1,6 +1,27 @@
 {
   "items": [
     {
+      "slug": "side-2026-07-11",
+      "topic": "Side",
+      "date": "2026-07-11",
+      "niche": "finance",
+      "file": "social/side-2026-07-11.md"
+    },
+    {
+      "slug": "side-hustle-2026-07-11",
+      "topic": "Side Hustle",
+      "date": "2026-07-11",
+      "niche": "finance",
+      "file": "social/side-hustle-2026-07-11.md"
+    },
+    {
+      "slug": "llms-her-2026-07-11",
+      "topic": "Llms. Her",
+      "date": "2026-07-11",
+      "niche": "ai",
+      "file": "social/llms-her-2026-07-11.md"
+    },
+    {
       "slug": "evaluation-infrastructure-2026-07-11",
       "topic": "Evaluation Infrastructure",
       "date": "2026-07-11",
@@ -1378,27 +1399,6 @@
       "date": "2026-06-19",
       "niche": "ai",
       "file": "social/paid-options-2026-06-19.md"
-    },
-    {
-      "slug": "fitness-gear-2026-06-19",
-      "topic": "Fitness Gear",
-      "date": "2026-06-19",
-      "niche": "gear",
-      "file": "social/fitness-gear-2026-06-19.md"
-    },
-    {
-      "slug": "software-stock-2026-06-19",
-      "topic": "Software Stock",
-      "date": "2026-06-19",
-      "niche": "ai",
-      "file": "social/software-stock-2026-06-19.md"
-    },
-    {
-      "slug": "open-2026-06-19",
-      "topic": "Open",
-      "date": "2026-06-19",
-      "niche": "ai",
-      "file": "social/open-2026-06-19.md"
     }
   ]
 }

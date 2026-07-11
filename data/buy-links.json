@@ -1646,5 +1646,19 @@
     "price": 19,
     "productId": "prod_UrVIdZAMfTaD1e",
     "cover": "/assets/pack-cover.png"
+  },
+  "starter-kit-fitness-and-meal-plan-template-pack-2026-07-11": {
+    "url": "https://buy.stripe.com/bJe3cugBGa5E53t980fjG3N",
+    "platform": "stripe",
+    "price": 29,
+    "productId": "prod_UrlIXnROLG19ra",
+    "cover": "/assets/pack-cover.png"
+  },
+  "prompt-pack-gemini-2026-07-11": {
+    "url": "https://buy.stripe.com/fZu28qfxCelUgMb83WfjG3O",
+    "platform": "stripe",
+    "price": 19,
+    "productId": "prod_UrlIbaw6yJ25Ct",
+    "cover": "/assets/pack-cover.png"
   }
 }

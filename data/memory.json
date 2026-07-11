@@ -562,8 +562,8 @@
     },
     "side-hustle": {
       "firstSeen": "2026-06-01T20:10:58.499Z",
-      "lastSeen": "2026-06-26T15:24:14.856Z",
-      "count": 6,
+      "lastSeen": "2026-07-11T14:21:31.549Z",
+      "count": 7,
       "wins": 1,
       "losses": 0,
       "niche": "ai"
@@ -2450,8 +2450,8 @@
     },
     "gemini": {
       "firstSeen": "2026-06-24T22:05:08.394Z",
-      "lastSeen": "2026-06-25T05:01:53.582Z",
-      "count": 2,
+      "lastSeen": "2026-07-11T14:21:15.429Z",
+      "count": 3,
       "wins": 1,
       "losses": 0,
       "niche": "ai"
@@ -2530,8 +2530,8 @@
     },
     "side": {
       "firstSeen": "2026-06-25T22:14:32.260Z",
-      "lastSeen": "2026-06-26T05:06:00.201Z",
-      "count": 2,
+      "lastSeen": "2026-07-11T14:21:38.805Z",
+      "count": 3,
       "wins": 1,
       "losses": 0,
       "niche": "ai"
@@ -2645,38 +2645,6 @@
       "lastSeen": "2026-07-02T17:27:29.589Z",
       "count": 3,
       "wins": 1,
-      "losses": 0,
-      "niche": "software"
-    },
-    "hacker-news": {
-      "firstSeen": "2026-06-27T04:50:38.780Z",
-      "lastSeen": "2026-06-27T04:50:38.780Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "ai"
-    },
-    "fitness-and-meal-plan-template-pack": {
-      "firstSeen": "2026-06-27T04:50:51.167Z",
-      "lastSeen": "2026-06-27T04:50:51.167Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "health"
-    },
-    "news-dsv": {
-      "firstSeen": "2026-06-27T04:51:19.198Z",
-      "lastSeen": "2026-06-27T04:51:19.198Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "ai"
-    },
-    "play-store": {
-      "firstSeen": "2026-06-27T04:51:31.030Z",
-      "lastSeen": "2026-06-27T04:51:31.030Z",
-      "count": 1,
-      "wins": 0,
       "losses": 0,
       "niche": "software"
     },
@@ -4178,10 +4146,10 @@
     },
     "dust-bowl": {
       "firstSeen": "2026-07-06T05:07:42.207Z",
-      "lastSeen": "2026-07-06T05:07:42.207Z",
-      "count": 1,
+      "lastSeen": "2026-07-11T14:20:48.659Z",
+      "count": 2,
       "wins": 0,
-      "losses": 0,
+      "losses": 1,
       "niche": "software"
     },
     "midway-airport": {
@@ -5034,9 +5002,9 @@
     },
     "agent-skill": {
       "firstSeen": "2026-07-11T04:10:13.113Z",
-      "lastSeen": "2026-07-11T04:10:13.114Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-07-11T14:20:48.660Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -5050,9 +5018,9 @@
     },
     "finance": {
       "firstSeen": "2026-07-11T04:10:19.890Z",
-      "lastSeen": "2026-07-11T04:10:19.890Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-07-11T14:20:48.663Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -5071,23 +5039,63 @@
       "wins": 0,
       "losses": 0,
       "niche": "ai"
+    },
+    "bayeux-tapestry": {
+      "firstSeen": "2026-07-11T14:20:54.444Z",
+      "lastSeen": "2026-07-11T14:20:54.444Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "space-mirror": {
+      "firstSeen": "2026-07-11T14:20:57.175Z",
+      "lastSeen": "2026-07-11T14:20:57.175Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "software"
+    },
+    "auchtertool": {
+      "firstSeen": "2026-07-11T14:21:10.121Z",
+      "lastSeen": "2026-07-11T14:21:10.121Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "fitness-and-meal-plan-template-pack": {
+      "firstSeen": "2026-07-11T14:21:18.885Z",
+      "lastSeen": "2026-07-11T14:21:18.885Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "health"
+    },
+    "llms-her": {
+      "firstSeen": "2026-07-11T14:21:24.344Z",
+      "lastSeen": "2026-07-11T14:21:24.344Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
     }
   },
   "niches": {
     "ai": {
-      "count": 1226,
-      "wins": 339,
+      "count": 1232,
+      "wins": 341,
       "losses": 51
     },
     "finance": {
-      "count": 107,
+      "count": 109,
       "wins": 18,
       "losses": 2
     },
     "software": {
-      "count": 288,
+      "count": 290,
       "wins": 80,
-      "losses": 18
+      "losses": 19
     },
     "gear": {
       "count": 109,
@@ -5095,7 +5103,7 @@
       "losses": 0
     },
     "health": {
-      "count": 3,
+      "count": 4,
       "wins": 0,
       "losses": 0
     },
