@@ -2176,14 +2176,6 @@
       "losses": 0,
       "niche": "gear"
     },
-    "lars-andersen": {
-      "firstSeen": "2026-06-22T06:25:48.153Z",
-      "lastSeen": "2026-06-27T14:27:50.780Z",
-      "count": 2,
-      "wins": 0,
-      "losses": 1,
-      "niche": "ai"
-    },
     "wilonity-loader": {
       "firstSeen": "2026-06-22T06:25:51.200Z",
       "lastSeen": "2026-06-22T17:39:04.058Z",
@@ -2671,30 +2663,6 @@
       "wins": 1,
       "losses": 0,
       "niche": "ai"
-    },
-    "mythos-ai": {
-      "firstSeen": "2026-06-27T14:28:08.527Z",
-      "lastSeen": "2026-06-27T14:28:08.527Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "ai"
-    },
-    "btc-eth": {
-      "firstSeen": "2026-06-27T14:28:13.775Z",
-      "lastSeen": "2026-06-27T14:28:13.775Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "ai"
-    },
-    "content-calendar-and-caption-templates": {
-      "firstSeen": "2026-06-27T14:28:29.483Z",
-      "lastSeen": "2026-06-27T14:28:29.483Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "productivity"
     },
     "apps-2026": {
       "firstSeen": "2026-06-27T14:28:52.142Z",
@@ -5010,9 +4978,9 @@
     },
     "wood-accents": {
       "firstSeen": "2026-07-11T04:10:16.105Z",
-      "lastSeen": "2026-07-11T04:10:16.105Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-07-11T16:42:42.889Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "gear"
     },
@@ -5042,25 +5010,25 @@
     },
     "bayeux-tapestry": {
       "firstSeen": "2026-07-11T14:20:54.444Z",
-      "lastSeen": "2026-07-11T14:20:54.444Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-07-11T16:42:42.890Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
     "space-mirror": {
       "firstSeen": "2026-07-11T14:20:57.175Z",
-      "lastSeen": "2026-07-11T14:20:57.175Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-07-11T16:42:42.891Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "software"
     },
     "auchtertool": {
       "firstSeen": "2026-07-11T14:21:10.121Z",
-      "lastSeen": "2026-07-11T14:21:10.121Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-07-11T16:42:42.893Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -5079,12 +5047,52 @@
       "wins": 0,
       "losses": 0,
       "niche": "ai"
+    },
+    "ultraintelligent-machine": {
+      "firstSeen": "2026-07-11T16:42:48.547Z",
+      "lastSeen": "2026-07-11T16:42:48.547Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "process": {
+      "firstSeen": "2026-07-11T16:42:51.714Z",
+      "lastSeen": "2026-07-11T16:42:51.714Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "plan": {
+      "firstSeen": "2026-07-11T16:42:54.506Z",
+      "lastSeen": "2026-07-11T16:42:54.506Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "kamar-samuels": {
+      "firstSeen": "2026-07-11T16:43:03.987Z",
+      "lastSeen": "2026-07-11T16:43:03.987Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "software-rebounds": {
+      "firstSeen": "2026-07-11T16:43:34.582Z",
+      "lastSeen": "2026-07-11T16:43:34.582Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
     }
   },
   "niches": {
     "ai": {
-      "count": 1232,
-      "wins": 341,
+      "count": 1239,
+      "wins": 343,
       "losses": 51
     },
     "finance": {
@@ -5093,13 +5101,13 @@
       "losses": 2
     },
     "software": {
-      "count": 290,
-      "wins": 80,
+      "count": 291,
+      "wins": 81,
       "losses": 19
     },
     "gear": {
-      "count": 109,
-      "wins": 33,
+      "count": 110,
+      "wins": 34,
       "losses": 0
     },
     "health": {
