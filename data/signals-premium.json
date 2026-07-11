@@ -1,247 +1,170 @@
 {
-  "generatedAt": "2026-07-10T21:48:11.984Z",
-  "sourceCount": 203,
+  "generatedAt": "2026-07-11T04:10:09.233Z",
+  "sourceCount": 204,
   "topItems": [
+    {
+      "title": "Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
+      "url": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/",
+      "score": 9.26,
+      "niche": "ai",
+      "source": "hackernews",
+      "engagement": {
+        "score": 708,
+        "comments": 343
+      }
+    },
     {
       "title": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
       "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
-      "score": 10.26,
+      "score": 8.83,
       "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 216,
-        "comments": 198
+        "score": 388,
+        "comments": 303
       }
     },
     {
-      "title": "Oh no how horrible anywayhttps://www.tomshardware.com/tech-industry/big-tech/openai-could-reportedly-run-out-of-cash-by-mid-2027-nyt-analyst-paints-grim-picture-after-examining-companys-finances",
-      "url": "https://mastodon.social/@scalzi/116896634962234790",
-      "score": 8.48,
+      "title": "I’ve been working with computers for five decades. Some people view me as an “expert” in certain subjects.And I can tell you that when I am learning a new technology I still feel like the dumbest newb",
+      "url": "https://infosec.exchange/@hal_pomeranz/116898915732895057",
+      "score": 8.38,
       "niche": "ai",
       "source": "mastodon",
       "engagement": {
-        "score": 385,
-        "comments": 31
-      }
-    },
-    {
-      "title": "GPT-5.6, Grok 4.5, Claude, and Muse Spark build the same 4 apps",
-      "url": "https://www.tryai.dev/blog/gpt-5.6-build-off-12-models",
-      "score": 8.37,
-      "niche": "ai",
-      "source": "hackernews",
-      "engagement": {
-        "score": 54,
-        "comments": 24
+        "score": 168,
+        "comments": 10
       }
     },
     {
       "title": "Good Tools Are Invisible",
       "url": "https://www.gingerbill.org/article/2026/07/10/good-tools-are-invisible/",
-      "score": 8.04,
+      "score": 8.35,
       "niche": "software",
       "source": "hackernews",
       "engagement": {
-        "score": 297,
-        "comments": 140
+        "score": 380,
+        "comments": 178
       }
     },
     {
-      "title": "Snails' teeth beats spider silk as nature's strongest material (2015)",
-      "url": "https://www.smithsonianmag.com/smart-news/spider-silk-loses-top-spot-natures-strongest-material-snails-teeth-180954346/",
-      "score": 8.03,
+      "title": "Meta has launched a new AI image generator that allows anyone to create AI images with your Instagram photos. And if you have a public Instagram account, Meta automatically opted you in.Here’s how to ",
+      "url": "https://flipboard.social/@newsguyusa/116898329613173808",
+      "score": 8.06,
       "niche": "ai",
-      "source": "hackernews",
+      "source": "mastodon",
       "engagement": {
-        "score": 130,
-        "comments": 96
+        "score": 138,
+        "comments": 8
+      }
+    },
+    {
+      "title": "RE: https://mastodon.social/@austinkocher/116898508370546669#debtPrisons are part of the #MAGA #Project2025 plan to copy the Hapsburgs’ game plan in Spain BUT!each wave of deportations (expulsiones) t",
+      "url": "https://mastodon.social/@blogdiva/116898993981759153",
+      "score": 7.6,
+      "niche": "ai",
+      "source": "mastodon",
+      "engagement": {
+        "score": 64,
+        "comments": 1
+      }
+    },
+    {
+      "title": "yetone/kill-ai-slop — A field guide to the visual & copy tics of AI-generated products — and an Agent Skill that scans your project and strips them out. https://killaislop.com",
+      "url": "https://github.com/yetone/kill-ai-slop",
+      "score": 7.34,
+      "niche": "ai",
+      "source": "github",
+      "engagement": {
+        "score": 158,
+        "comments": 1
+      }
+    },
+    {
+      "title": "There is no so thing as medical bankruptcy in a civilised society.#DoubleStandards #GaslightNation #GangOfPredators #Zer0Billionaires",
+      "url": "https://mastodon.social/@zer0billionaires/116898281177357339",
+      "score": 7.34,
+      "niche": "ai",
+      "source": "mastodon",
+      "engagement": {
+        "score": 183,
+        "comments": 6
       }
     },
     {
       "title": "How the terrorist group Boko Haram uses frontier AI",
       "url": "https://casp.ac/reports/ai-enabled-terrorism",
-      "score": 7.76,
+      "score": 6.95,
       "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 95,
-        "comments": 85
+        "score": 194,
+        "comments": 162
       }
     },
     {
-      "title": "Write code like a human will maintain it",
-      "url": "https://unstack.io/write-code-like-a-human-will-maintain-it",
-      "score": 7.45,
+      "title": "Snails' teeth beats spider silk as nature's strongest material (2015)",
+      "url": "https://www.smithsonianmag.com/smart-news/spider-silk-loses-top-spot-natures-strongest-material-snails-teeth-180954346/",
+      "score": 6.74,
       "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 306,
-        "comments": 253
+        "score": 165,
+        "comments": 131
       }
     },
     {
-      "title": "Like Nazi Germany in 1945, Russia is under pressure, and there are two ways forward:The Trump/Merz way, where Ukraine’s allies give up and try to force Ukraine to make a deal with Putin, which will ne",
-      "url": "https://mastodon.social/@randahl/116897432628489714",
-      "score": 7.39,
+      "title": "Heard this crazy story of American \"justice\" on the Criminal podcast.A man is arrested for a crime cos the police used AI facial recognition. The man has a solid alibi: he was in hospital cos his chil",
+      "url": "https://mastodon.world/@davidnjoku/116897928716506241",
+      "score": 6.17,
       "niche": "ai",
       "source": "mastodon",
       "engagement": {
-        "score": 91,
-        "comments": 5
+        "score": 236,
+        "comments": 10
       }
     },
     {
-      "title": "Apple sues OpenAI, alleging it stole top-secret information. 😂 Sam Altman has stolen information, art, books, songs, trade secrets and whatnot from everyone and now APPLE  alleges that the AI lab too",
-      "url": "https://mastodon.social/@nixCraft/116897694359551637",
-      "score": 7.34,
-      "niche": "ai",
-      "source": "mastodon",
-      "engagement": {
-        "score": 49,
-        "comments": 4
-      }
-    },
-    {
-      "title": "By Daniel Arthur #Art #Painting",
-      "url": "https://mastodon.social/@cmconseils/116896526918946291",
-      "score": 7.32,
-      "niche": "ai",
-      "source": "mastodon",
-      "engagement": {
-        "score": 185,
-        "comments": 4
-      }
-    },
-    {
-      "title": "Do you have GameBoy or GameBoy Advance cartridge in which the internal battery has run out? For example, a Pokemon Gold cartridge on which you can’t save?Good news! I ordered batteries to repair my ow",
-      "url": "https://eldritch.cafe/@Sylvhem/116897081663682892",
-      "score": 7.15,
-      "niche": "ai",
-      "source": "mastodon",
-      "engagement": {
-        "score": 167,
-        "comments": 2
-      }
-    },
-    {
-      "title": "Nanako0129/pilotfish — Multi-model orchestration layer for Claude Code — the frontier model plans, cheaper models execute, verification guards quality. One-prompt install.",
-      "url": "https://github.com/Nanako0129/pilotfish",
-      "score": 6.99,
-      "niche": "ai",
-      "source": "github",
-      "engagement": {
-        "score": 322,
-        "comments": 0
-      }
-    },
-    {
-      "title": "Show HN: Reverse-engineering web apps into agent tools",
-      "url": "https://news.ycombinator.com/item?id=48847834",
-      "score": 6.49,
+      "title": "AI 2040: Plan A",
+      "url": "https://ai-2040.com/",
+      "score": 6.06,
       "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 75,
-        "comments": 27
+        "score": 178,
+        "comments": 187
       }
     },
     {
-      "title": "Hands-On with the AMD Ryzen AI Halo",
-      "url": "https://www.microcenter.com/site/mc-news/article/amd-ryzen-ai-halo-review.aspx",
-      "score": 6.44,
-      "niche": "ai",
-      "source": "hackernews",
-      "engagement": {
-        "score": 38,
-        "comments": 32
-      }
-    },
-    {
-      "title": "withmarbleapp/os-taxonomy — ",
-      "url": "https://github.com/withmarbleapp/os-taxonomy",
-      "score": 6.41,
-      "niche": "software",
-      "source": "github",
-      "engagement": {
-        "score": 2070,
-        "comments": 7
-      }
-    },
-    {
-      "title": "Don't discontinue Gemini 2.5 Flash",
-      "url": "https://discuss.ai.google.dev/t/please-dont-discontinue-gemini-2-5-flash/174246",
-      "score": 6.22,
-      "niche": "ai",
-      "source": "hackernews",
-      "engagement": {
-        "score": 41,
-        "comments": 23
-      }
-    },
-    {
-      "title": "The Best New Gadgets and Hi-Fi Releases of 2026 (Updated)",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOa0doU2FrM3Zpb25aVko3QmppUTJJSDROQzhyb1lZdTR0dl9TckxrMVJ6ZDVtbTB6eFZRSGdldFhMNkVuOUFyQ1NtcVo2dXNVTEhUR2tDckgxVW5wX3U2MVF4WE1uV2w3OF9iTnowOUhwMjZFcTV5amR4eFJzeWN4RUR6ZFNyMUJq?oc=5",
+      "title": "Keychron Launches K5 Ultra 8K Low Profile Mechanical Keyboard with Wood Accents",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRW9JVGwtMlRWOXowX2w0WWxmNUdCQ3hzZ2xpOUtlU0Z3YWYzbDh1dmFuNVRUT0RIeG5BZHp0bXV3S3Jnbk9TMTA2dFh4SXF0Ujc2NHc3STJfb3RxVndpNkNOdXFQTlp1b25XNnQwRERaU3lEdDlYS2luWEd4VUJjUERkbkNqWV9OVTBjVmxROTZMX2tDdEVsUDFkdEVRRV90bXNkOTlFVjIxZW5lWjJuLWxsYzLSAboBQVVfeXFMT1huUi1zSUtIdW5icDhTUXJyQUhiTmNhUjZ0MkJJaDZYMVp0WXhURm1ER1pPUV9RMTdUNzBNUndiMU96d0t4ZktLN0FpVFhJaktNYjJCcXVNZWItVVVPbk9yc0NDOFI3NnRaYm9KRnFmcW1NVWFIdWx5MDcxWkJScHlEV2dVNDhzdG9XWEs5T0xxV1hfQk00cWk1R0M2cFVLWW96X1JQZkhRNTRaVVFNUFNWbVlZRjlfVXpn?oc=5",
       "score": 5.87,
       "niche": "gear",
       "source": "gnews",
       "engagement": {
         "score": 40,
-        "comments": 0
-      }
-    },
-    {
-      "title": "Don't Sweat This Heatwave—These Amazon Cooling Gadgets Start at Just $10",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWkl1ekRlQS1GazN4eGl0QlljbUJ1UWpVV2EtVzhfMHpfVzlYSnF5ZzJCR3BvdjVleEs2bGtVTDlaNlEtLVc0blhLQ2N5YXpLYmNfb0JvYXk3UmxyNHE5N3Z0NjZoV1JabDBEY0JsSElYNnpPd1hPcEFUMV96cTJQR0F4YzAzZDRzWUVoRTNB?oc=5",
-      "score": 5.87,
-      "niche": "gear",
-      "source": "gnews",
-      "engagement": {
-        "score": 40,
-        "comments": 0
-      }
-    },
-    {
-      "title": "angieruiz17/claude-fintech-skills — claude fintech skills of running fintech infra, trading platforms, and borker-side systems in production",
-      "url": "https://github.com/angieruiz17/claude-fintech-skills",
-      "score": 5.46,
-      "niche": "ai",
-      "source": "github",
-      "engagement": {
-        "score": 151,
-        "comments": 1
-      }
-    },
-    {
-      "title": "Robbyant/lingbot-video — Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence",
-      "url": "https://github.com/Robbyant/lingbot-video",
-      "score": 5.41,
-      "niche": "ai",
-      "source": "github",
-      "engagement": {
-        "score": 639,
-        "comments": 7
-      }
-    },
-    {
-      "title": "gostonx/uninstally — A clean, native macOS uninstaller. Completely removes apps and every file they leave behind using smart bundle-identifier detection. SwiftUI + Finder extension.",
-      "url": "https://github.com/gostonx/uninstally",
-      "score": 5.31,
-      "niche": "software",
-      "source": "github",
-      "engagement": {
-        "score": 268,
         "comments": 0
       }
     },
     {
       "title": "Dev Opportunity Radar #7: $1,000 Solo Grants, Free Claude Max for Open Source Contributors, and an MLH Hackathon",
       "url": "https://dev.to/devengers/dev-opportunity-radar-7-1000-solo-grants-free-claude-max-for-open-source-contributors-and-an-3i12",
-      "score": 5.26,
+      "score": 5.47,
       "niche": "ai",
       "source": "devto",
       "engagement": {
-        "score": 32,
+        "score": 43,
         "comments": 14
+      }
+    },
+    {
+      "title": "KORAYTEACHER/fintech-forge — fintech forge of AI-powered financial tools and insights to secure authentication and dashboards to empowers developers, analysts, and students to build and extend finance",
+      "url": "https://github.com/KORAYTEACHER/fintech-forge",
+      "score": 5.45,
+      "niche": "ai",
+      "source": "github",
+      "engagement": {
+        "score": 151,
+        "comments": 0
       }
     },
     {
@@ -256,110 +179,138 @@
       }
     },
     {
-      "title": "PitShipwrightGraph/MecchaPhantom — 🦎 MecchaPhantom – complete hack tool for MECCHA CHAMELEON. Features ESP wallhack, aimbot, fly hack, teleport, god mode, infinite paint, speed hack, and more. Domina",
-      "url": "https://github.com/PitShipwrightGraph/MecchaPhantom",
-      "score": 4.93,
-      "niche": "ai",
-      "source": "github",
+      "title": "How to Remove an Erroneous Rental Income or VAT Obligation From Your KRA PIN Erroneous tax obligations, especially Rental Income Tax and VAT, have become increasingly common, with many taxpayers recei",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQeEY1dGxVMXItYkpzeGNIZ1Q2NzJCTFlJUTZialprQVNBZ0VxVnNiZWVaOTFpUDRzSkh3S1ZZQWhGd1hVTUVSWHAwTHdDRmpUMzhHRWVoZENlNlhMNG9CcGJQMlF0dUZUeHNrTTNpRkl0T1BqSWZicnQzemJHRlRQOXpqeFlldHhOeE1DR3kzTWJUbU84OEcxaVVEWjlLVU1MdjJTaw?oc=5",
+      "score": 5.03,
+      "niche": "finance",
+      "source": "gnews",
       "engagement": {
-        "score": 168,
-        "comments": 1
+        "score": 40,
+        "comments": 0
       }
     },
     {
-      "title": "Return on Attention: Why AI Code Reviews Are Wearing Us Out",
-      "url": "https://dev.to/cseeman/return-on-attention-why-ai-code-reviews-are-wearing-us-out-2hh0",
-      "score": 4.92,
+      "title": "vinhhien112/Three.js-Object-Sculptor-Codex-Plugin — Codex plugin that turns attached object images into code-only, animation-ready procedural Three.js models.",
+      "url": "https://github.com/vinhhien112/Three.js-Object-Sculptor-Codex-Plugin",
+      "score": 4.84,
       "niche": "ai",
-      "source": "devto",
+      "source": "github",
       "engagement": {
-        "score": 18,
-        "comments": 14
+        "score": 154,
+        "comments": 0
+      }
+    },
+    {
+      "title": "adamholter/hive-mind-landing-page — CHORUS Hive Mind landing page — source, prompts, frontend skills, generated design reference, and sanitized Codex build trace",
+      "url": "https://github.com/adamholter/hive-mind-landing-page",
+      "score": 4.82,
+      "niche": "ai",
+      "source": "github",
+      "engagement": {
+        "score": 151,
+        "comments": 0
+      }
+    },
+    {
+      "title": "Elias569/fintech-dashboard — fintech dashboard for personal finance management which track income and expenses, leverage AI-powered analytics, manage budgets and financial goals, enjoy a dark theme",
+      "url": "https://github.com/Elias569/fintech-dashboard",
+      "score": 4.82,
+      "niche": "ai",
+      "source": "github",
+      "engagement": {
+        "score": 151,
+        "comments": 0
+      }
+    },
+    {
+      "title": "imchine/FinTech-Wallet — fintech wallet platform same to cloud-native microservices system designed to power digital financial operations",
+      "url": "https://github.com/imchine/FinTech-Wallet",
+      "score": 4.77,
+      "niche": "software",
+      "source": "github",
+      "engagement": {
+        "score": 151,
+        "comments": 0
+      }
+    },
+    {
+      "title": "nicobailon/grill-for-unknowns — Agent skill for finding unknowns, grilling plans, and reaching shared understanding before implementation",
+      "url": "https://github.com/nicobailon/grill-for-unknowns",
+      "score": 4.75,
+      "niche": "ai",
+      "source": "github",
+      "engagement": {
+        "score": 141,
+        "comments": 0
+      }
+    },
+    {
+      "title": "64% of Gen Z would rather buy fitness gear than go on a date — and investors are betting billions on the trend",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVUlKXzhPY3RKbEdTdXBUcW0tbHVZejVnUDFJamZZSTNucU5QXzhpd3NvelRUM0owcU9ldGRzTFZwdnlUdU8wLXU0akI5R1UyNGJBY3Z2dUx0MWFnZTBiOUZnWkE2eFNhWVJUdjc0a095Nkd5enB6ejBxZHNIWFJxc3Nqa2c1ZnRwc0I4Nw?oc=5",
+      "score": 4.7,
+      "niche": "gear",
+      "source": "gnews",
+      "engagement": {
+        "score": 40,
+        "comments": 0
+      }
+    },
+    {
+      "title": "The Best New Gadgets and Hi-Fi Releases of 2026 (Updated)",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOa0doU2FrM3Zpb25aVko3QmppUTJJSDROQzhyb1lZdTR0dl9TckxrMVJ6ZDVtbTB6eFZRSGdldFhMNkVuOUFyQ1NtcVo2dXNVTEhUR2tDckgxVW5wX3U2MVF4WE1uV2w3OF9iTnowOUhwMjZFcTV5amR4eFJzeWN4RUR6ZFNyMUJq?oc=5",
+      "score": 4.7,
+      "niche": "gear",
+      "source": "gnews",
+      "engagement": {
+        "score": 40,
+        "comments": 0
+      }
+    },
+    {
+      "title": "Don't Sweat This Heatwave—These Amazon Cooling Gadgets Start at Just $10",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWkl1ekRlQS1GazN4eGl0QlljbUJ1UWpVV2EtVzhfMHpfVzlYSnF5ZzJCR3BvdjVleEs2bGtVTDlaNlEtLVc0blhLQ2N5YXpLYmNfb0JvYXk3UmxyNHE5N3Z0NjZoV1JabDBEY0JsSElYNnpPd1hPcEFUMV96cTJQR0F4YzAzZDRzWUVoRTNB?oc=5",
+      "score": 4.7,
+      "niche": "gear",
+      "source": "gnews",
+      "engagement": {
+        "score": 40,
+        "comments": 0
       }
     }
   ],
   "topics": [
     {
-      "keyword": "passive income",
-      "count": 52,
-      "score": 277.2375449701226,
-      "proper": true,
-      "niches": [
-        "finance",
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "How $20,000 Across 4 TSX Stocks Can Deliver $1,000 in Passive Income",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9USmFjR1JVenQ5STdzbEtBV0l0em5Zb3pCd2xObUs3VnA2NUNNUjMwV1pCNm5FRHhBN3dBUnRaRTRVTEJyZWN3RkpRUzR6Mk5xa0Z4d1g2NGJ5Z2h2R3B0QmZkNHNUdjEteWhxbUtTZEZQc1JUQktJ?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "How $20,000 Across 4 TSX Stocks Can Deliver $1,000 in Passive Income",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9USmFjR1JVenQ5STdzbEtBV0l0em5Zb3pCd2xObUs3VnA2NUNNUjMwV1pCNm5FRHhBN3dBUnRaRTRVTEJyZWN3RkpRUzR6Mk5xa0Z4d1g2NGJ5Z2h2R3B0QmZkNHNUdjEteWhxbUtTZEZQc1JUQktJ?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "How $20,000 Across 4 TSX Stocks Can Deliver $1,000 in Passive Income",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9USmFjR1JVenQ5STdzbEtBV0l0em5Zb3pCd2xObUs3VnA2NUNNUjMwV1pCNm5FRHhBN3dBUnRaRTRVTEJyZWN3RkpRUzR6Mk5xa0Z4d1g2NGJ5Z2h2R3B0QmZkNHNUdjEteWhxbUtTZEZQc1JUQktJ?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "ExxonMobil vs. Chevron: Which Oil Dividend Stock is the Better Buy for a Lifetime of Passive Income",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMnhna215MzRaZjlOWHAzUnhrR0JYdXd3M0doVU9GS3hmdXBMcXBubWlkZGFuYWFoLXVpSXJad2w2d3IxOHpzSnFROTdIb1ozNGQ2QW41eXYzLUtoSTFiTURPQnloM2NnMDFjMGt6d0Z1c0pBV3RCbFdQaUxRb3kzeVhteHhsNmdrQzFGX21Td09iTVp1Y2F6dkU0Rm1UZnRw?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "ExxonMobil vs. Chevron: Which Oil Dividend Stock is the Better Buy for a Lifetime of Passive Income",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMnhna215MzRaZjlOWHAzUnhrR0JYdXd3M0doVU9GS3hmdXBMcXBubWlkZGFuYWFoLXVpSXJad2w2d3IxOHpzSnFROTdIb1ozNGQ2QW41eXYzLUtoSTFiTURPQnloM2NnMDFjMGt6d0Z1c0pBV3RCbFdQaUxRb3kzeVhteHhsNmdrQzFGX21Td09iTVp1Y2F6dkU0Rm1UZnRw?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "cf2dbbbf8c8c",
-      "slug": "passive-income"
-    },
-    {
-      "keyword": "claude code",
-      "count": 22,
-      "score": 147.54163975811025,
+      "keyword": "agent skill",
+      "count": 11,
+      "score": 109.516935174998,
       "proper": true,
       "niches": [
         "ai"
       ],
       "examples": [
         {
-          "title": "Nanako0129/pilotfish — Multi-model orchestration layer for Claude Code — the frontier model plans, cheaper models execute, verification guards quality. One-prompt install.",
-          "url": "https://github.com/Nanako0129/pilotfish",
+          "title": "yetone/kill-ai-slop — A field guide to the visual & copy tics of AI-generated products — and an Agent Skill that scans your project and strips them out. https://killaislop.com",
+          "url": "https://github.com/yetone/kill-ai-slop",
           "source": "github"
         },
         {
-          "title": "Nanako0129/pilotfish — Multi-model orchestration layer for Claude Code — the frontier model plans, cheaper models execute, verification guards quality. One-prompt install.",
-          "url": "https://github.com/Nanako0129/pilotfish",
+          "title": "yetone/kill-ai-slop — A field guide to the visual & copy tics of AI-generated products — and an Agent Skill that scans your project and strips them out. https://killaislop.com",
+          "url": "https://github.com/yetone/kill-ai-slop",
           "source": "github"
         },
         {
-          "title": "Moore-developers/moore-wechat-article-downloader — 本地优先的微信内容情报库：同步公众号文章，保存精选评论和互动数据，供 Codex/Claude Code 做内容研究。",
-          "url": "https://github.com/Moore-developers/moore-wechat-article-downloader",
+          "title": "nicobailon/grill-for-unknowns — Agent skill for finding unknowns, grilling plans, and reaching shared understanding before implementation",
+          "url": "https://github.com/nicobailon/grill-for-unknowns",
           "source": "github"
-        },
-        {
-          "title": "Moore-developers/moore-wechat-article-downloader — 本地优先的微信内容情报库：同步公众号文章，保存精选评论和互动数据，供 Codex/Claude Code 做内容研究。",
-          "url": "https://github.com/Moore-developers/moore-wechat-article-downloader",
-          "source": "github"
-        },
-        {
-          "title": "memex-chats 0.5.0",
-          "url": "https://pypi.org/project/memex-chats/0.5.0/",
-          "source": "pypi"
         }
       ],
-      "id": "a625159d18da",
-      "slug": "claude-code"
+      "id": "bbe4337ea159",
+      "slug": "agent-skill"
     },
     {
       "keyword": "sol ultra",
       "count": 8,
-      "score": 123.0942545547332,
+      "score": 105.907093796585,
       "proper": true,
       "niches": [
         "ai"
@@ -380,70 +331,9 @@
       "slug": "sol-ultra"
     },
     {
-      "keyword": "claude",
-      "count": 14,
-      "score": 114.7524247929447,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "GPT-5.6, Grok 4.5, Claude, and Muse Spark build the same 4 apps",
-          "url": "https://www.tryai.dev/blog/gpt-5.6-build-off-12-models",
-          "source": "hackernews"
-        },
-        {
-          "title": "GPT-5.6, Grok 4.5, Claude, and Muse Spark build the same 4 apps",
-          "url": "https://www.tryai.dev/blog/gpt-5.6-build-off-12-models",
-          "source": "hackernews"
-        },
-        {
-          "title": "Nanako0129/pilotfish — Multi-model orchestration layer for Claude Code — the frontier model plans, cheaper models execute, verification guards quality. One-prompt install.",
-          "url": "https://github.com/Nanako0129/pilotfish",
-          "source": "github"
-        },
-        {
-          "title": "angieruiz17/claude-fintech-skills — claude fintech skills of running fintech infra, trading platforms, and borker-side systems in production",
-          "url": "https://github.com/angieruiz17/claude-fintech-skills",
-          "source": "github"
-        },
-        {
-          "title": "Dev Opportunity Radar #7: $1,000 Solo Grants, Free Claude Max for Open Source Contributors, and an MLH Hackathon",
-          "url": "https://dev.to/devengers/dev-opportunity-radar-7-1000-solo-grants-free-claude-max-for-open-source-contributors-and-an-3i12",
-          "source": "devto"
-        }
-      ],
-      "id": "c857d09db23e",
-      "slug": "claude"
-    },
-    {
-      "keyword": "muse spark",
-      "count": 8,
-      "score": 100.4808342572822,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "GPT-5.6, Grok 4.5, Claude, and Muse Spark build the same 4 apps",
-          "url": "https://www.tryai.dev/blog/gpt-5.6-build-off-12-models",
-          "source": "hackernews"
-        },
-        {
-          "title": "GPT-5.6, Grok 4.5, Claude, and Muse Spark build the same 4 apps",
-          "url": "https://www.tryai.dev/blog/gpt-5.6-build-off-12-models",
-          "source": "hackernews"
-        }
-      ],
-      "id": "d02a71879ff8",
-      "slug": "muse-spark"
-    },
-    {
       "keyword": "boko haram",
       "count": 8,
-      "score": 93.11545484663299,
+      "score": 83.4099412331046,
       "proper": true,
       "niches": [
         "ai"
@@ -464,45 +354,63 @@
       "slug": "boko-haram"
     },
     {
-      "keyword": "sam altman",
-      "count": 8,
-      "score": 88.03032543866183,
+      "keyword": "apple",
+      "count": 10,
+      "score": 80.65717414678969,
       "proper": true,
       "niches": [
         "ai"
       ],
       "examples": [
         {
-          "title": "Apple sues OpenAI, alleging it stole top-secret information. 😂 Sam Altman has stolen information, art, books, songs, trade secrets and whatnot from everyone and now APPLE  alleges that the AI lab too",
-          "url": "https://mastodon.social/@nixCraft/116897694359551637",
-          "source": "mastodon"
+          "title": "Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
+          "url": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/",
+          "source": "hackernews"
         },
         {
-          "title": "Apple sues OpenAI, alleging it stole top-secret information. 😂 Sam Altman has stolen information, art, books, songs, trade secrets and whatnot from everyone and now APPLE  alleges that the AI lab too",
-          "url": "https://mastodon.social/@nixCraft/116897694359551637",
-          "source": "mastodon"
+          "title": "Apple’s productivity apps have a small but useful AI enhancement in macOS 27",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObkk3bzZXWC1IaTQ0QTdxSmxCM3AyV0lJRWg0WHhrRFlxcFB6TXZsWEQ0QzRUMmZqeHR4anNRQmVISEYtc3VwR3hOalpadENOcDNaendsWU84aHVaUGd0UWZmU1B2TjlqVnlSZGg5NGZpMmlqR1hkN3N4SWQ1SG1GS2Z5bERsZ3EwWkJoTTFkc2dPbEpPV3hkRURjRV9Ha0YwTnVhcFZkZUhmLWc?oc=5",
+          "source": "gnews"
         }
       ],
-      "id": "46b09b212b77",
-      "slug": "sam-altman"
+      "id": "3a7bd3e2360a",
+      "slug": "apple"
+    },
+    {
+      "keyword": "wood accents",
+      "count": 8,
+      "score": 70.44639886151805,
+      "proper": true,
+      "niches": [
+        "gear"
+      ],
+      "examples": [
+        {
+          "title": "Keychron Launches K5 Ultra 8K Low Profile Mechanical Keyboard with Wood Accents",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRW9JVGwtMlRWOXowX2w0WWxmNUdCQ3hzZ2xpOUtlU0Z3YWYzbDh1dmFuNVRUT0RIeG5BZHp0bXV3S3Jnbk9TMTA2dFh4SXF0Ujc2NHc3STJfb3RxVndpNkNOdXFQTlp1b25XNnQwRERaU3lEdDlYS2luWEd4VUJjUERkbkNqWV9OVTBjVmxROTZMX2tDdEVsUDFkdEVRRV90bXNkOTlFVjIxZW5lWjJuLWxsYzLSAboBQVVfeXFMT1huUi1zSUtIdW5icDhTUXJyQUhiTmNhUjZ0MkJJaDZYMVp0WXhURm1ER1pPUV9RMTdUNzBNUndiMU96d0t4ZktLN0FpVFhJaktNYjJCcXVNZWItVVVPbk9yc0NDOFI3NnRaYm9KRnFmcW1NVWFIdWx5MDcxWkJScHlEV2dVNDhzdG9XWEs5T0xxV1hfQk00cWk1R0M2cFVLWW96X1JQZkhRNTRaVVFNUFNWbVlZRjlfVXpn?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Keychron Launches K5 Ultra 8K Low Profile Mechanical Keyboard with Wood Accents",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRW9JVGwtMlRWOXowX2w0WWxmNUdCQ3hzZ2xpOUtlU0Z3YWYzbDh1dmFuNVRUT0RIeG5BZHp0bXV3S3Jnbk9TMTA2dFh4SXF0Ujc2NHc3STJfb3RxVndpNkNOdXFQTlp1b25XNnQwRERaU3lEdDlYS2luWEd4VUJjUERkbkNqWV9OVTBjVmxROTZMX2tDdEVsUDFkdEVRRV90bXNkOTlFVjIxZW5lWjJuLWxsYzLSAboBQVVfeXFMT1huUi1zSUtIdW5icDhTUXJyQUhiTmNhUjZ0MkJJaDZYMVp0WXhURm1ER1pPUV9RMTdUNzBNUndiMU96d0t4ZktLN0FpVFhJaktNYjJCcXVNZWItVVVPbk9yc0NDOFI3NnRaYm9KRnFmcW1NVWFIdWx5MDcxWkJScHlEV2dVNDhzdG9XWEs5T0xxV1hfQk00cWk1R0M2cFVLWW96X1JQZkhRNTRaVVFNUFNWbVlZRjlfVXpn?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "5e6a49ad8ef8",
+      "slug": "wood-accents"
     },
     {
       "keyword": "mechanical keyboard",
       "count": 27,
-      "score": 87.65157704500417,
+      "score": 68.82071273394455,
       "proper": false,
       "niches": [
         "gear"
       ],
       "examples": [
         {
-          "title": "$81 Wireless Mechanical Keyboard With Silent Switches",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1EMG5jY05XM3lIamdzOUE0WXdvNEpsU1pnVndSRHNFUDVuZndIOW92QTUwN09ReUhKQ0FnczdRQ0FSY1UyZUJJdHBiRlJ4Y1NPSVNtOGM1cWY4cTdadzBWX3Nobm1TQUw1cWVOUk5xb1c5Rk9LZzhYa25aa1F1dw?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "$81 Wireless Mechanical Keyboard With Silent Switches",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1EMG5jY05XM3lIamdzOUE0WXdvNEpsU1pnVndSRHNFUDVuZndIOW92QTUwN09ReUhKQ0FnczdRQ0FSY1UyZUJJdHBiRlJ4Y1NPSVNtOGM1cWY4cTdadzBWX3Nobm1TQUw1cWVOUk5xb1c5Rk9LZzhYa25aa1F1dw?oc=5",
+          "title": "Keychron Launches K5 Ultra 8K Low Profile Mechanical Keyboard with Wood Accents",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRW9JVGwtMlRWOXowX2w0WWxmNUdCQ3hzZ2xpOUtlU0Z3YWYzbDh1dmFuNVRUT0RIeG5BZHp0bXV3S3Jnbk9TMTA2dFh4SXF0Ujc2NHc3STJfb3RxVndpNkNOdXFQTlp1b25XNnQwRERaU3lEdDlYS2luWEd4VUJjUERkbkNqWV9OVTBjVmxROTZMX2tDdEVsUDFkdEVRRV90bXNkOTlFVjIxZW5lWjJuLWxsYzLSAboBQVVfeXFMT1huUi1zSUtIdW5icDhTUXJyQUhiTmNhUjZ0MkJJaDZYMVp0WXhURm1ER1pPUV9RMTdUNzBNUndiMU96d0t4ZktLN0FpVFhJaktNYjJCcXVNZWItVVVPbk9yc0NDOFI3NnRaYm9KRnFmcW1NVWFIdWx5MDcxWkJScHlEV2dVNDhzdG9XWEs5T0xxV1hfQk00cWk1R0M2cFVLWW96X1JQZkhRNTRaVVFNUFNWbVlZRjlfVXpn?oc=5",
           "source": "gnews"
         },
         {
@@ -519,135 +427,97 @@
           "title": "Upgrade to Keychron’s full-size C2 Pro mechanical keyboard for just $35 today (45% off)",
           "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVzNOUF9rcmR2SGVpZGpqcUtqSW50cjZLSkFmcmdWYUhZbXJPVmdpMi10M1g0WW1PRUJNbVE5ZmRyRlNiNmh6amtNQzJaWnRPM09rWVFwT082SVNablBBeHd2ZjhXaS1BU3F3WE5jS21uZXlBb0Y1aGoySVZZbUU3Q1h5OE9hREdJek8yRzltZ3dYZWg5?oc=5",
           "source": "gnews"
+        },
+        {
+          "title": "Upgrade to Keychron’s full-size C2 Pro mechanical keyboard for just $35 today (45% off)",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVzNOUF9rcmR2SGVpZGpqcUtqSW50cjZLSkFmcmdWYUhZbXJPVmdpMi10M1g0WW1PRUJNbVE5ZmRyRlNiNmh6amtNQzJaWnRPM09rWVFwT082SVNablBBeHd2ZjhXaS1BU3F3WE5jS21uZXlBb0Y1aGoySVZZbUU3Q1h5OE9hREdJek8yRzltZ3dYZWg5?oc=5",
+          "source": "gnews"
         }
       ],
       "id": "e31f9fac7533",
       "slug": "mechanical-keyboard"
     },
     {
-      "keyword": "gameboy advance",
-      "count": 8,
-      "score": 85.84429236124987,
-      "proper": true,
+      "keyword": "personal finance",
+      "count": 33,
+      "score": 67.50021854177172,
+      "proper": false,
       "niches": [
-        "ai"
+        "ai",
+        "finance"
       ],
       "examples": [
         {
-          "title": "Do you have GameBoy or GameBoy Advance cartridge in which the internal battery has run out? For example, a Pokemon Gold cartridge on which you can’t save?Good news! I ordered batteries to repair my ow",
-          "url": "https://eldritch.cafe/@Sylvhem/116897081663682892",
-          "source": "mastodon"
+          "title": "Elias569/fintech-dashboard — fintech dashboard for personal finance management which track income and expenses, leverage AI-powered analytics, manage budgets and financial goals, enjoy a dark theme",
+          "url": "https://github.com/Elias569/fintech-dashboard",
+          "source": "github"
         },
         {
-          "title": "Do you have GameBoy or GameBoy Advance cartridge in which the internal battery has run out? For example, a Pokemon Gold cartridge on which you can’t save?Good news! I ordered batteries to repair my ow",
-          "url": "https://eldritch.cafe/@Sylvhem/116897081663682892",
-          "source": "mastodon"
-        }
-      ],
-      "id": "6090b66bceb2",
-      "slug": "gameboy-advance"
-    },
-    {
-      "keyword": "pokemon gold",
-      "count": 8,
-      "score": 85.84429236124987,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "Do you have GameBoy or GameBoy Advance cartridge in which the internal battery has run out? For example, a Pokemon Gold cartridge on which you can’t save?Good news! I ordered batteries to repair my ow",
-          "url": "https://eldritch.cafe/@Sylvhem/116897081663682892",
-          "source": "mastodon"
+          "title": "What is the stoozing personal finance hack – and how does it work?",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTHB4MkxEMGUyV1ZrR2NKSVBYdWkxZzJGS1h5U2ZyVUlnUHJKSWJIcWZHWWk4T284cmM3Sk9CRXItN0dWWEJ6cnlIdHR3TkhRdTRNMmxrYVdEb2RpOFFjU3U1YjZyalFseDBMTlhacjF2VF95Vk5oSi1lRDRzSE1VQmlmaVN0NENlUE5fUg?oc=5",
+          "source": "gnews"
         },
         {
-          "title": "Do you have GameBoy or GameBoy Advance cartridge in which the internal battery has run out? For example, a Pokemon Gold cartridge on which you can’t save?Good news! I ordered batteries to repair my ow",
-          "url": "https://eldritch.cafe/@Sylvhem/116897081663682892",
-          "source": "mastodon"
+          "title": "What is the stoozing personal finance hack – and how does it work?",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTHB4MkxEMGUyV1ZrR2NKSVBYdWkxZzJGS1h5U2ZyVUlnUHJKSWJIcWZHWWk4T284cmM3Sk9CRXItN0dWWEJ6cnlIdHR3TkhRdTRNMmxrYVdEb2RpOFFjU3U1YjZyalFseDBMTlhacjF2VF95Vk5oSi1lRDRzSE1VQmlmaVN0NENlUE5fUg?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "The best personal finance tools to help you reach 6 money goals in 2026",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNTjlkR1VlMXJ1MjR0LURjbjl2QWo5ejdlYjN0UWFYQnZrVWNydkh2cUxEeEZRQXpaWXhpT2VNeHNtUlRoUy1JaW44WmMwQTdaVEtDbE5Yb3kzUWEzUTdaNlVLYXd1LXJTbC1pQ181U0ktRVM1OGUwbkhpN3F6Y1JMNUtzcUJfUdIBiwFBVV95cUxPc3pfOHZqRlMxakh3cVhGbEZ1SzgzY2tUR0ppcEg4ZVlxNlZyaF9hd01YZDJ5a0lpRkV5RHoySHZ4Qzlta0U0cW5XYzNDMlRaUTNIaGZmb3hzaXpaR1dnUGt0MFZDNmpIYTRISXBfQTBHdmYxOVotR2VhakU2U3pZbWNJQk9zNkdjeE9J?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "How to Use AI for Personal Finance: A Step-by-Step Guide (2026)",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdzlPdC1rRmNLeUNBZkpkNkR0YUZjMDRVR1N1cERIeFF3djh4R1ozbkVjcnlzeXoxd1htT1VNSW1IMnJLOGdxRnlpcElWNlRUa29jRG5yS3pPQWRtTDRTRzlUSldpWDVKY19pWS1CdmJjM2FLNU9FZVBZREVYcEtwbXJwQm5LblI4WlNlWkZBZk5zOXIxZWQxUXVQUjFoQQ?oc=5",
+          "source": "gnews"
         }
       ],
-      "id": "30c79fcc62fc",
-      "slug": "pokemon-gold"
+      "id": "61108514445d",
+      "slug": "personal-finance"
     },
     {
-      "keyword": "silent switches",
-      "count": 11,
-      "score": 74.51061418045177,
+      "keyword": "fitness gear",
+      "count": 20,
+      "score": 66.31444662060207,
       "proper": true,
       "niches": [
         "gear"
       ],
       "examples": [
         {
-          "title": "$81 Wireless Mechanical Keyboard With Silent Switches",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1EMG5jY05XM3lIamdzOUE0WXdvNEpsU1pnVndSRHNFUDVuZndIOW92QTUwN09ReUhKQ0FnczdRQ0FSY1UyZUJJdHBiRlJ4Y1NPSVNtOGM1cWY4cTdadzBWX3Nobm1TQUw1cWVOUk5xb1c5Rk9LZzhYa25aa1F1dw?oc=5",
+          "title": "64% of Gen Z would rather buy fitness gear than go on a date — and investors are betting billions on the trend",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVUlKXzhPY3RKbEdTdXBUcW0tbHVZejVnUDFJamZZSTNucU5QXzhpd3NvelRUM0owcU9ldGRzTFZwdnlUdU8wLXU0akI5R1UyNGJBY3Z2dUx0MWFnZTBiOUZnWkE2eFNhWVJUdjc0a095Nkd5enB6ejBxZHNIWFJxc3Nqa2c1ZnRwc0I4Nw?oc=5",
           "source": "gnews"
         },
         {
-          "title": "$81 Wireless Mechanical Keyboard With Silent Switches",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1EMG5jY05XM3lIamdzOUE0WXdvNEpsU1pnVndSRHNFUDVuZndIOW92QTUwN09ReUhKQ0FnczdRQ0FSY1UyZUJJdHBiRlJ4Y1NPSVNtOGM1cWY4cTdadzBWX3Nobm1TQUw1cWVOUk5xb1c5Rk9LZzhYa25aa1F1dw?oc=5",
+          "title": "64% of Gen Z would rather buy fitness gear than go on a date — and investors are betting billions on the trend",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVUlKXzhPY3RKbEdTdXBUcW0tbHVZejVnUDFJamZZSTNucU5QXzhpd3NvelRUM0owcU9ldGRzTFZwdnlUdU8wLXU0akI5R1UyNGJBY3Z2dUx0MWFnZTBiOUZnWkE2eFNhWVJUdjc0a095Nkd5enB6ejBxZHNIWFJxc3Nqa2c1ZnRwc0I4Nw?oc=5",
           "source": "gnews"
         },
         {
-          "title": "$81 Wireless Mechanical Keyboard With Silent Switches",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1EMG5jY05XM3lIamdzOUE0WXdvNEpsU1pnVndSRHNFUDVuZndIOW92QTUwN09ReUhKQ0FnczdRQ0FSY1UyZUJJdHBiRlJ4Y1NPSVNtOGM1cWY4cTdadzBWX3Nobm1TQUw1cWVOUk5xb1c5Rk9LZzhYa25aa1F1dw?oc=5",
+          "title": "Memorial Day Sales: Stunning Deals on Fitness Gear",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWEx2T2hXVnExdVY4T2tVczl4cUd1QjcyM2ZMaG0wU3NIdUg1UnR2WnJPVkxjNnAwQ3RGOVlxOGRESXNabVpvejJkem5LN2pfOHhBbUhKYnpMczU3enpBenYzSjRHTUJuSm80QjVxVjI5RFNwdnItSWEtLS1vNlJUNjFDS2Y?oc=5",
           "source": "gnews"
-        }
-      ],
-      "id": "2c5e6937a820",
-      "slug": "silent-switches"
-    },
-    {
-      "keyword": "apple",
-      "count": 10,
-      "score": 66.243929041933,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "Apple sues OpenAI, alleging it stole top-secret information. 😂 Sam Altman has stolen information, art, books, songs, trade secrets and whatnot from everyone and now APPLE  alleges that the AI lab too",
-          "url": "https://mastodon.social/@nixCraft/116897694359551637",
-          "source": "mastodon"
         },
         {
-          "title": "Apple’s productivity apps have a small but useful AI enhancement in macOS 27",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObkk3bzZXWC1IaTQ0QTdxSmxCM3AyV0lJRWg0WHhrRFlxcFB6TXZsWEQ0QzRUMmZqeHR4anNRQmVISEYtc3VwR3hOalpadENOcDNaendsWU84aHVaUGd0UWZmU1B2TjlqVnlSZGg5NGZpMmlqR1hkN3N4SWQ1SG1GS2Z5bERsZ3EwWkJoTTFkc2dPbEpPV3hkRURjRV9Ha0YwTnVhcFZkZUhmLWc?oc=5",
+          "title": "Memorial Day Sales: Stunning Deals on Fitness Gear",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWEx2T2hXVnExdVY4T2tVczl4cUd1QjcyM2ZMaG0wU3NIdUg1UnR2WnJPVkxjNnAwQ3RGOVlxOGRESXNabVpvejJkem5LN2pfOHhBbUhKYnpMczU3enpBenYzSjRHTUJuSm80QjVxVjI5RFNwdnItSWEtLS1vNlJUNjFDS2Y?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Memorial Day Sales: Stunning Deals on Fitness Gear",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWEx2T2hXVnExdVY4T2tVczl4cUd1QjcyM2ZMaG0wU3NIdUg1UnR2WnJPVkxjNnAwQ3RGOVlxOGRESXNabVpvejJkem5LN2pfOHhBbUhKYnpMczU3enpBenYzSjRHTUJuSm80QjVxVjI5RFNwdnItSWEtLS1vNlJUNjFDS2Y?oc=5",
           "source": "gnews"
         }
       ],
-      "id": "3a7bd3e2360a",
-      "slug": "apple"
-    },
-    {
-      "keyword": "embodied intelligence",
-      "count": 8,
-      "score": 64.8709113213911,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "Robbyant/lingbot-video — Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence",
-          "url": "https://github.com/Robbyant/lingbot-video",
-          "source": "github"
-        },
-        {
-          "title": "Robbyant/lingbot-video — Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence",
-          "url": "https://github.com/Robbyant/lingbot-video",
-          "source": "github"
-        }
-      ],
-      "id": "a305fb4b9c82",
-      "slug": "embodied-intelligence"
+      "id": "a8b7e45842c3",
+      "slug": "fitness-gear"
     },
     {
       "keyword": "solo grants",
       "count": 8,
-      "score": 63.072132411260384,
+      "score": 65.61584243392386,
       "proper": true,
       "niches": [
         "ai"
@@ -670,7 +540,7 @@
     {
       "keyword": "mlh hackathon",
       "count": 8,
-      "score": 63.072132411260384,
+      "score": 65.61584243392386,
       "proper": true,
       "niches": [
         "ai"
@@ -689,98 +559,191 @@
       ],
       "id": "b4bf7f70b380",
       "slug": "mlh-hackathon"
+    },
+    {
+      "keyword": "agent",
+      "count": 9,
+      "score": 58.9813649819699,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "yetone/kill-ai-slop — A field guide to the visual & copy tics of AI-generated products — and an Agent Skill that scans your project and strips them out. https://killaislop.com",
+          "url": "https://github.com/yetone/kill-ai-slop",
+          "source": "github"
+        },
+        {
+          "title": "nicobailon/grill-for-unknowns — Agent skill for finding unknowns, grilling plans, and reaching shared understanding before implementation",
+          "url": "https://github.com/nicobailon/grill-for-unknowns",
+          "source": "github"
+        },
+        {
+          "title": "nicobailon/grill-for-unknowns — Agent skill for finding unknowns, grilling plans, and reaching shared understanding before implementation",
+          "url": "https://github.com/nicobailon/grill-for-unknowns",
+          "source": "github"
+        },
+        {
+          "title": "My AI agent tried to ship a mistake we'd already reverted",
+          "url": "https://dev.to/masondelan/my-ai-agent-tried-to-ship-a-mistake-wed-already-reverted-4737",
+          "source": "devto"
+        },
+        {
+          "title": "coomi-agent 1.1.0",
+          "url": "https://pypi.org/project/coomi-agent/1.1.0/",
+          "source": "pypi"
+        }
+      ],
+      "id": "d4f0bc5a29de",
+      "slug": "agent"
+    },
+    {
+      "keyword": "finance",
+      "count": 18,
+      "score": 57.788724814273294,
+      "proper": true,
+      "niches": [
+        "ai",
+        "finance"
+      ],
+      "examples": [
+        {
+          "title": "KORAYTEACHER/fintech-forge — fintech forge of AI-powered financial tools and insights to secure authentication and dashboards to empowers developers, analysts, and students to build and extend finance",
+          "url": "https://github.com/KORAYTEACHER/fintech-forge",
+          "source": "github"
+        },
+        {
+          "title": "Elias569/fintech-dashboard — fintech dashboard for personal finance management which track income and expenses, leverage AI-powered analytics, manage budgets and financial goals, enjoy a dark theme",
+          "url": "https://github.com/Elias569/fintech-dashboard",
+          "source": "github"
+        },
+        {
+          "title": "What is the stoozing personal finance hack – and how does it work?",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTHB4MkxEMGUyV1ZrR2NKSVBYdWkxZzJGS1h5U2ZyVUlnUHJKSWJIcWZHWWk4T284cmM3Sk9CRXItN0dWWEJ6cnlIdHR3TkhRdTRNMmxrYVdEb2RpOFFjU3U1YjZyalFseDBMTlhacjF2VF95Vk5oSi1lRDRzSE1VQmlmaVN0NENlUE5fUg?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "What is the stoozing personal finance hack – and how does it work?",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTHB4MkxEMGUyV1ZrR2NKSVBYdWkxZzJGS1h5U2ZyVUlnUHJKSWJIcWZHWWk4T284cmM3Sk9CRXItN0dWWEJ6cnlIdHR3TkhRdTRNMmxrYVdEb2RpOFFjU3U1YjZyalFseDBMTlhacjF2VF95Vk5oSi1lRDRzSE1VQmlmaVN0NENlUE5fUg?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "What is the stoozing personal finance hack – and how does it work?",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTHB4MkxEMGUyV1ZrR2NKSVBYdWkxZzJGS1h5U2ZyVUlnUHJKSWJIcWZHWWk4T284cmM3Sk9CRXItN0dWWEJ6cnlIdHR3TkhRdTRNMmxrYVdEb2RpOFFjU3U1YjZyalFseDBMTlhacjF2VF95Vk5oSi1lRDRzSE1VQmlmaVN0NENlUE5fUg?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "eab762a03fd9",
+      "slug": "finance"
+    },
+    {
+      "keyword": "project2025",
+      "count": 5,
+      "score": 56.973533844265795,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "RE: https://mastodon.social/@austinkocher/116898508370546669#debtPrisons are part of the #MAGA #Project2025 plan to copy the Hapsburgs’ game plan in Spain BUT!each wave of deportations (expulsiones) t",
+          "url": "https://mastodon.social/@blogdiva/116898993981759153",
+          "source": "mastodon"
+        }
+      ],
+      "id": "769a4bc6a719",
+      "slug": "project2025"
+    },
+    {
+      "keyword": "marketing noise",
+      "count": 11,
+      "score": 51.41232378451173,
+      "proper": true,
+      "niches": [
+        "gear"
+      ],
+      "examples": [
+        {
+          "title": "We Test So Much Gear We're Immune to Hype. These 15 Pieces Cut Through the Marketing Noise.",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZWp6Z0NGRUpZcmVEQTRNWWRTc1AzWHdiODE4aS1iUmhmNVZpY2U0bDlTeXViMTBnLUpFWUZUTXJfNzlYZTVqY1ktc1AtdE5ZcUU0Sy14bkRvZHNjU3VtQ2pyeFhwM3ZhV1lkSDFXYWZWdFZNMGs2WEhvb1VMdndGVWVkbFhpcDF0?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "We Test So Much Gear We're Immune to Hype. These 15 Pieces Cut Through the Marketing Noise.",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZWp6Z0NGRUpZcmVEQTRNWWRTc1AzWHdiODE4aS1iUmhmNVZpY2U0bDlTeXViMTBnLUpFWUZUTXJfNzlYZTVqY1ktc1AtdE5ZcUU0Sy14bkRvZHNjU3VtQ2pyeFhwM3ZhV1lkSDFXYWZWdFZNMGs2WEhvb1VMdndGVWVkbFhpcDF0?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "We Test So Much Gear We're Immune to Hype. These 15 Pieces Cut Through the Marketing Noise.",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZWp6Z0NGRUpZcmVEQTRNWWRTc1AzWHdiODE4aS1iUmhmNVZpY2U0bDlTeXViMTBnLUpFWUZUTXJfNzlYZTVqY1ktc1AtdE5ZcUU0Sy14bkRvZHNjU3VtQ2pyeFhwM3ZhV1lkSDFXYWZWdFZNMGs2WEhvb1VMdndGVWVkbFhpcDF0?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "da47e645f242",
+      "slug": "marketing-noise"
+    },
+    {
+      "keyword": "evaluation infrastructure",
+      "count": 8,
+      "score": 48.47163773082525,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "OpenEnvision/WorldFoundry — Unified World Model Inference & Evaluation Infrastructure",
+          "url": "https://github.com/OpenEnvision/WorldFoundry",
+          "source": "github"
+        },
+        {
+          "title": "OpenEnvision/WorldFoundry — Unified World Model Inference & Evaluation Infrastructure",
+          "url": "https://github.com/OpenEnvision/WorldFoundry",
+          "source": "github"
+        }
+      ],
+      "id": "89daa6fd0603",
+      "slug": "evaluation-infrastructure"
     }
   ],
   "opportunities": [
     {
-      "keyword": "passive income",
-      "count": 52,
-      "score": 277.2375449701226,
+      "keyword": "agent skill",
+      "count": 11,
+      "score": 109.516935174998,
       "proper": true,
       "niches": [
-        "finance",
         "ai"
       ],
       "examples": [
         {
-          "title": "How $20,000 Across 4 TSX Stocks Can Deliver $1,000 in Passive Income",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9USmFjR1JVenQ5STdzbEtBV0l0em5Zb3pCd2xObUs3VnA2NUNNUjMwV1pCNm5FRHhBN3dBUnRaRTRVTEJyZWN3RkpRUzR6Mk5xa0Z4d1g2NGJ5Z2h2R3B0QmZkNHNUdjEteWhxbUtTZEZQc1JUQktJ?oc=5",
-          "source": "gnews"
+          "title": "yetone/kill-ai-slop — A field guide to the visual & copy tics of AI-generated products — and an Agent Skill that scans your project and strips them out. https://killaislop.com",
+          "url": "https://github.com/yetone/kill-ai-slop",
+          "source": "github"
         },
         {
-          "title": "How $20,000 Across 4 TSX Stocks Can Deliver $1,000 in Passive Income",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9USmFjR1JVenQ5STdzbEtBV0l0em5Zb3pCd2xObUs3VnA2NUNNUjMwV1pCNm5FRHhBN3dBUnRaRTRVTEJyZWN3RkpRUzR6Mk5xa0Z4d1g2NGJ5Z2h2R3B0QmZkNHNUdjEteWhxbUtTZEZQc1JUQktJ?oc=5",
-          "source": "gnews"
+          "title": "yetone/kill-ai-slop — A field guide to the visual & copy tics of AI-generated products — and an Agent Skill that scans your project and strips them out. https://killaislop.com",
+          "url": "https://github.com/yetone/kill-ai-slop",
+          "source": "github"
         },
         {
-          "title": "How $20,000 Across 4 TSX Stocks Can Deliver $1,000 in Passive Income",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9USmFjR1JVenQ5STdzbEtBV0l0em5Zb3pCd2xObUs3VnA2NUNNUjMwV1pCNm5FRHhBN3dBUnRaRTRVTEJyZWN3RkpRUzR6Mk5xa0Z4d1g2NGJ5Z2h2R3B0QmZkNHNUdjEteWhxbUtTZEZQc1JUQktJ?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "ExxonMobil vs. Chevron: Which Oil Dividend Stock is the Better Buy for a Lifetime of Passive Income",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMnhna215MzRaZjlOWHAzUnhrR0JYdXd3M0doVU9GS3hmdXBMcXBubWlkZGFuYWFoLXVpSXJad2w2d3IxOHpzSnFROTdIb1ozNGQ2QW41eXYzLUtoSTFiTURPQnloM2NnMDFjMGt6d0Z1c0pBV3RCbFdQaUxRb3kzeVhteHhsNmdrQzFGX21Td09iTVp1Y2F6dkU0Rm1UZnRw?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "ExxonMobil vs. Chevron: Which Oil Dividend Stock is the Better Buy for a Lifetime of Passive Income",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMnhna215MzRaZjlOWHAzUnhrR0JYdXd3M0doVU9GS3hmdXBMcXBubWlkZGFuYWFoLXVpSXJad2w2d3IxOHpzSnFROTdIb1ozNGQ2QW41eXYzLUtoSTFiTURPQnloM2NnMDFjMGt6d0Z1c0pBV3RCbFdQaUxRb3kzeVhteHhsNmdrQzFGX21Td09iTVp1Y2F6dkU0Rm1UZnRw?oc=5",
-          "source": "gnews"
+          "title": "nicobailon/grill-for-unknowns — Agent skill for finding unknowns, grilling plans, and reaching shared understanding before implementation",
+          "url": "https://github.com/nicobailon/grill-for-unknowns",
+          "source": "github"
         }
       ],
-      "id": "cf2dbbbf8c8c",
-      "slug": "passive-income",
+      "id": "bbe4337ea159",
+      "slug": "agent-skill",
       "opportunity": {
         "type": "niche-content",
-        "recommended": "Publish niche guide for \"finance\"; bundle into digital product later."
-      }
-    },
-    {
-      "keyword": "claude code",
-      "count": 22,
-      "score": 147.54163975811025,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "Nanako0129/pilotfish — Multi-model orchestration layer for Claude Code — the frontier model plans, cheaper models execute, verification guards quality. One-prompt install.",
-          "url": "https://github.com/Nanako0129/pilotfish",
-          "source": "github"
-        },
-        {
-          "title": "Nanako0129/pilotfish — Multi-model orchestration layer for Claude Code — the frontier model plans, cheaper models execute, verification guards quality. One-prompt install.",
-          "url": "https://github.com/Nanako0129/pilotfish",
-          "source": "github"
-        },
-        {
-          "title": "Moore-developers/moore-wechat-article-downloader — 本地优先的微信内容情报库：同步公众号文章，保存精选评论和互动数据，供 Codex/Claude Code 做内容研究。",
-          "url": "https://github.com/Moore-developers/moore-wechat-article-downloader",
-          "source": "github"
-        },
-        {
-          "title": "Moore-developers/moore-wechat-article-downloader — 本地优先的微信内容情报库：同步公众号文章，保存精选评论和互动数据，供 Codex/Claude Code 做内容研究。",
-          "url": "https://github.com/Moore-developers/moore-wechat-article-downloader",
-          "source": "github"
-        },
-        {
-          "title": "memex-chats 0.5.0",
-          "url": "https://pypi.org/project/memex-chats/0.5.0/",
-          "source": "pypi"
-        }
-      ],
-      "id": "a625159d18da",
-      "slug": "claude-code",
-      "opportunity": {
-        "type": "tooling",
-        "recommended": "Build / list AI tools; monetize via affiliate links + lead magnet."
+        "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
       }
     },
     {
       "keyword": "sol ultra",
       "count": 8,
-      "score": 123.0942545547332,
+      "score": 105.907093796585,
       "proper": true,
       "niches": [
         "ai"
@@ -805,78 +768,9 @@
       }
     },
     {
-      "keyword": "claude",
-      "count": 14,
-      "score": 114.7524247929447,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "GPT-5.6, Grok 4.5, Claude, and Muse Spark build the same 4 apps",
-          "url": "https://www.tryai.dev/blog/gpt-5.6-build-off-12-models",
-          "source": "hackernews"
-        },
-        {
-          "title": "GPT-5.6, Grok 4.5, Claude, and Muse Spark build the same 4 apps",
-          "url": "https://www.tryai.dev/blog/gpt-5.6-build-off-12-models",
-          "source": "hackernews"
-        },
-        {
-          "title": "Nanako0129/pilotfish — Multi-model orchestration layer for Claude Code — the frontier model plans, cheaper models execute, verification guards quality. One-prompt install.",
-          "url": "https://github.com/Nanako0129/pilotfish",
-          "source": "github"
-        },
-        {
-          "title": "angieruiz17/claude-fintech-skills — claude fintech skills of running fintech infra, trading platforms, and borker-side systems in production",
-          "url": "https://github.com/angieruiz17/claude-fintech-skills",
-          "source": "github"
-        },
-        {
-          "title": "Dev Opportunity Radar #7: $1,000 Solo Grants, Free Claude Max for Open Source Contributors, and an MLH Hackathon",
-          "url": "https://dev.to/devengers/dev-opportunity-radar-7-1000-solo-grants-free-claude-max-for-open-source-contributors-and-an-3i12",
-          "source": "devto"
-        }
-      ],
-      "id": "c857d09db23e",
-      "slug": "claude",
-      "opportunity": {
-        "type": "tooling",
-        "recommended": "Build / list AI tools; monetize via affiliate links + lead magnet."
-      }
-    },
-    {
-      "keyword": "muse spark",
-      "count": 8,
-      "score": 100.4808342572822,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "GPT-5.6, Grok 4.5, Claude, and Muse Spark build the same 4 apps",
-          "url": "https://www.tryai.dev/blog/gpt-5.6-build-off-12-models",
-          "source": "hackernews"
-        },
-        {
-          "title": "GPT-5.6, Grok 4.5, Claude, and Muse Spark build the same 4 apps",
-          "url": "https://www.tryai.dev/blog/gpt-5.6-build-off-12-models",
-          "source": "hackernews"
-        }
-      ],
-      "id": "d02a71879ff8",
-      "slug": "muse-spark",
-      "opportunity": {
-        "type": "niche-content",
-        "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
-      }
-    },
-    {
       "keyword": "boko haram",
       "count": 8,
-      "score": 93.11545484663299,
+      "score": 83.4099412331046,
       "proper": true,
       "niches": [
         "ai"
@@ -901,49 +795,71 @@
       }
     },
     {
-      "keyword": "sam altman",
-      "count": 8,
-      "score": 88.03032543866183,
+      "keyword": "apple",
+      "count": 10,
+      "score": 80.65717414678969,
       "proper": true,
       "niches": [
         "ai"
       ],
       "examples": [
         {
-          "title": "Apple sues OpenAI, alleging it stole top-secret information. 😂 Sam Altman has stolen information, art, books, songs, trade secrets and whatnot from everyone and now APPLE  alleges that the AI lab too",
-          "url": "https://mastodon.social/@nixCraft/116897694359551637",
-          "source": "mastodon"
+          "title": "Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
+          "url": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/",
+          "source": "hackernews"
         },
         {
-          "title": "Apple sues OpenAI, alleging it stole top-secret information. 😂 Sam Altman has stolen information, art, books, songs, trade secrets and whatnot from everyone and now APPLE  alleges that the AI lab too",
-          "url": "https://mastodon.social/@nixCraft/116897694359551637",
-          "source": "mastodon"
+          "title": "Apple’s productivity apps have a small but useful AI enhancement in macOS 27",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObkk3bzZXWC1IaTQ0QTdxSmxCM3AyV0lJRWg0WHhrRFlxcFB6TXZsWEQ0QzRUMmZqeHR4anNRQmVISEYtc3VwR3hOalpadENOcDNaendsWU84aHVaUGd0UWZmU1B2TjlqVnlSZGg5NGZpMmlqR1hkN3N4SWQ1SG1GS2Z5bERsZ3EwWkJoTTFkc2dPbEpPV3hkRURjRV9Ha0YwTnVhcFZkZUhmLWc?oc=5",
+          "source": "gnews"
         }
       ],
-      "id": "46b09b212b77",
-      "slug": "sam-altman",
+      "id": "3a7bd3e2360a",
+      "slug": "apple",
+      "opportunity": {
+        "type": "affiliate",
+        "recommended": "Write SEO comparison/roundup article with affiliate links."
+      }
+    },
+    {
+      "keyword": "wood accents",
+      "count": 8,
+      "score": 70.44639886151805,
+      "proper": true,
+      "niches": [
+        "gear"
+      ],
+      "examples": [
+        {
+          "title": "Keychron Launches K5 Ultra 8K Low Profile Mechanical Keyboard with Wood Accents",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRW9JVGwtMlRWOXowX2w0WWxmNUdCQ3hzZ2xpOUtlU0Z3YWYzbDh1dmFuNVRUT0RIeG5BZHp0bXV3S3Jnbk9TMTA2dFh4SXF0Ujc2NHc3STJfb3RxVndpNkNOdXFQTlp1b25XNnQwRERaU3lEdDlYS2luWEd4VUJjUERkbkNqWV9OVTBjVmxROTZMX2tDdEVsUDFkdEVRRV90bXNkOTlFVjIxZW5lWjJuLWxsYzLSAboBQVVfeXFMT1huUi1zSUtIdW5icDhTUXJyQUhiTmNhUjZ0MkJJaDZYMVp0WXhURm1ER1pPUV9RMTdUNzBNUndiMU96d0t4ZktLN0FpVFhJaktNYjJCcXVNZWItVVVPbk9yc0NDOFI3NnRaYm9KRnFmcW1NVWFIdWx5MDcxWkJScHlEV2dVNDhzdG9XWEs5T0xxV1hfQk00cWk1R0M2cFVLWW96X1JQZkhRNTRaVVFNUFNWbVlZRjlfVXpn?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Keychron Launches K5 Ultra 8K Low Profile Mechanical Keyboard with Wood Accents",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRW9JVGwtMlRWOXowX2w0WWxmNUdCQ3hzZ2xpOUtlU0Z3YWYzbDh1dmFuNVRUT0RIeG5BZHp0bXV3S3Jnbk9TMTA2dFh4SXF0Ujc2NHc3STJfb3RxVndpNkNOdXFQTlp1b25XNnQwRERaU3lEdDlYS2luWEd4VUJjUERkbkNqWV9OVTBjVmxROTZMX2tDdEVsUDFkdEVRRV90bXNkOTlFVjIxZW5lWjJuLWxsYzLSAboBQVVfeXFMT1huUi1zSUtIdW5icDhTUXJyQUhiTmNhUjZ0MkJJaDZYMVp0WXhURm1ER1pPUV9RMTdUNzBNUndiMU96d0t4ZktLN0FpVFhJaktNYjJCcXVNZWItVVVPbk9yc0NDOFI3NnRaYm9KRnFmcW1NVWFIdWx5MDcxWkJScHlEV2dVNDhzdG9XWEs5T0xxV1hfQk00cWk1R0M2cFVLWW96X1JQZkhRNTRaVVFNUFNWbVlZRjlfVXpn?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "5e6a49ad8ef8",
+      "slug": "wood-accents",
       "opportunity": {
         "type": "niche-content",
-        "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
+        "recommended": "Publish niche guide for \"gear\"; bundle into digital product later."
       }
     },
     {
       "keyword": "mechanical keyboard",
       "count": 27,
-      "score": 87.65157704500417,
+      "score": 68.82071273394455,
       "proper": false,
       "niches": [
         "gear"
       ],
       "examples": [
         {
-          "title": "$81 Wireless Mechanical Keyboard With Silent Switches",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1EMG5jY05XM3lIamdzOUE0WXdvNEpsU1pnVndSRHNFUDVuZndIOW92QTUwN09ReUhKQ0FnczdRQ0FSY1UyZUJJdHBiRlJ4Y1NPSVNtOGM1cWY4cTdadzBWX3Nobm1TQUw1cWVOUk5xb1c5Rk9LZzhYa25aa1F1dw?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "$81 Wireless Mechanical Keyboard With Silent Switches",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1EMG5jY05XM3lIamdzOUE0WXdvNEpsU1pnVndSRHNFUDVuZndIOW92QTUwN09ReUhKQ0FnczdRQ0FSY1UyZUJJdHBiRlJ4Y1NPSVNtOGM1cWY4cTdadzBWX3Nobm1TQUw1cWVOUk5xb1c5Rk9LZzhYa25aa1F1dw?oc=5",
+          "title": "Keychron Launches K5 Ultra 8K Low Profile Mechanical Keyboard with Wood Accents",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRW9JVGwtMlRWOXowX2w0WWxmNUdCQ3hzZ2xpOUtlU0Z3YWYzbDh1dmFuNVRUT0RIeG5BZHp0bXV3S3Jnbk9TMTA2dFh4SXF0Ujc2NHc3STJfb3RxVndpNkNOdXFQTlp1b25XNnQwRERaU3lEdDlYS2luWEd4VUJjUERkbkNqWV9OVTBjVmxROTZMX2tDdEVsUDFkdEVRRV90bXNkOTlFVjIxZW5lWjJuLWxsYzLSAboBQVVfeXFMT1huUi1zSUtIdW5icDhTUXJyQUhiTmNhUjZ0MkJJaDZYMVp0WXhURm1ER1pPUV9RMTdUNzBNUndiMU96d0t4ZktLN0FpVFhJaktNYjJCcXVNZWItVVVPbk9yc0NDOFI3NnRaYm9KRnFmcW1NVWFIdWx5MDcxWkJScHlEV2dVNDhzdG9XWEs5T0xxV1hfQk00cWk1R0M2cFVLWW96X1JQZkhRNTRaVVFNUFNWbVlZRjlfVXpn?oc=5",
           "source": "gnews"
         },
         {
@@ -960,6 +876,11 @@
           "title": "Upgrade to Keychron’s full-size C2 Pro mechanical keyboard for just $35 today (45% off)",
           "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVzNOUF9rcmR2SGVpZGpqcUtqSW50cjZLSkFmcmdWYUhZbXJPVmdpMi10M1g0WW1PRUJNbVE5ZmRyRlNiNmh6amtNQzJaWnRPM09rWVFwT082SVNablBBeHd2ZjhXaS1BU3F3WE5jS21uZXlBb0Y1aGoySVZZbUU3Q1h5OE9hREdJek8yRzltZ3dYZWg5?oc=5",
           "source": "gnews"
+        },
+        {
+          "title": "Upgrade to Keychron’s full-size C2 Pro mechanical keyboard for just $35 today (45% off)",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVzNOUF9rcmR2SGVpZGpqcUtqSW50cjZLSkFmcmdWYUhZbXJPVmdpMi10M1g0WW1PRUJNbVE5ZmRyRlNiNmh6amtNQzJaWnRPM09rWVFwT082SVNablBBeHd2ZjhXaS1BU3F3WE5jS21uZXlBb0Y1aGoySVZZbUU3Q1h5OE9hREdJek8yRzltZ3dYZWg5?oc=5",
+          "source": "gnews"
         }
       ],
       "id": "e31f9fac7533",
@@ -967,6 +888,91 @@
       "opportunity": {
         "type": "niche-content",
         "recommended": "Publish niche guide for \"gear\"; bundle into digital product later."
+      }
+    },
+    {
+      "keyword": "personal finance",
+      "count": 33,
+      "score": 67.50021854177172,
+      "proper": false,
+      "niches": [
+        "ai",
+        "finance"
+      ],
+      "examples": [
+        {
+          "title": "Elias569/fintech-dashboard — fintech dashboard for personal finance management which track income and expenses, leverage AI-powered analytics, manage budgets and financial goals, enjoy a dark theme",
+          "url": "https://github.com/Elias569/fintech-dashboard",
+          "source": "github"
+        },
+        {
+          "title": "What is the stoozing personal finance hack – and how does it work?",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTHB4MkxEMGUyV1ZrR2NKSVBYdWkxZzJGS1h5U2ZyVUlnUHJKSWJIcWZHWWk4T284cmM3Sk9CRXItN0dWWEJ6cnlIdHR3TkhRdTRNMmxrYVdEb2RpOFFjU3U1YjZyalFseDBMTlhacjF2VF95Vk5oSi1lRDRzSE1VQmlmaVN0NENlUE5fUg?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "What is the stoozing personal finance hack – and how does it work?",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTHB4MkxEMGUyV1ZrR2NKSVBYdWkxZzJGS1h5U2ZyVUlnUHJKSWJIcWZHWWk4T284cmM3Sk9CRXItN0dWWEJ6cnlIdHR3TkhRdTRNMmxrYVdEb2RpOFFjU3U1YjZyalFseDBMTlhacjF2VF95Vk5oSi1lRDRzSE1VQmlmaVN0NENlUE5fUg?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "The best personal finance tools to help you reach 6 money goals in 2026",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNTjlkR1VlMXJ1MjR0LURjbjl2QWo5ejdlYjN0UWFYQnZrVWNydkh2cUxEeEZRQXpaWXhpT2VNeHNtUlRoUy1JaW44WmMwQTdaVEtDbE5Yb3kzUWEzUTdaNlVLYXd1LXJTbC1pQ181U0ktRVM1OGUwbkhpN3F6Y1JMNUtzcUJfUdIBiwFBVV95cUxPc3pfOHZqRlMxakh3cVhGbEZ1SzgzY2tUR0ppcEg4ZVlxNlZyaF9hd01YZDJ5a0lpRkV5RHoySHZ4Qzlta0U0cW5XYzNDMlRaUTNIaGZmb3hzaXpaR1dnUGt0MFZDNmpIYTRISXBfQTBHdmYxOVotR2VhakU2U3pZbWNJQk9zNkdjeE9J?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "How to Use AI for Personal Finance: A Step-by-Step Guide (2026)",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdzlPdC1rRmNLeUNBZkpkNkR0YUZjMDRVR1N1cERIeFF3djh4R1ozbkVjcnlzeXoxd1htT1VNSW1IMnJLOGdxRnlpcElWNlRUa29jRG5yS3pPQWRtTDRTRzlUSldpWDVKY19pWS1CdmJjM2FLNU9FZVBZREVYcEtwbXJwQm5LblI4WlNlWkZBZk5zOXIxZWQxUXVQUjFoQQ?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "61108514445d",
+      "slug": "personal-finance",
+      "opportunity": {
+        "type": "niche-content",
+        "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
+      }
+    },
+    {
+      "keyword": "fitness gear",
+      "count": 20,
+      "score": 66.31444662060207,
+      "proper": true,
+      "niches": [
+        "gear"
+      ],
+      "examples": [
+        {
+          "title": "64% of Gen Z would rather buy fitness gear than go on a date — and investors are betting billions on the trend",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVUlKXzhPY3RKbEdTdXBUcW0tbHVZejVnUDFJamZZSTNucU5QXzhpd3NvelRUM0owcU9ldGRzTFZwdnlUdU8wLXU0akI5R1UyNGJBY3Z2dUx0MWFnZTBiOUZnWkE2eFNhWVJUdjc0a095Nkd5enB6ejBxZHNIWFJxc3Nqa2c1ZnRwc0I4Nw?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "64% of Gen Z would rather buy fitness gear than go on a date — and investors are betting billions on the trend",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVUlKXzhPY3RKbEdTdXBUcW0tbHVZejVnUDFJamZZSTNucU5QXzhpd3NvelRUM0owcU9ldGRzTFZwdnlUdU8wLXU0akI5R1UyNGJBY3Z2dUx0MWFnZTBiOUZnWkE2eFNhWVJUdjc0a095Nkd5enB6ejBxZHNIWFJxc3Nqa2c1ZnRwc0I4Nw?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Memorial Day Sales: Stunning Deals on Fitness Gear",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWEx2T2hXVnExdVY4T2tVczl4cUd1QjcyM2ZMaG0wU3NIdUg1UnR2WnJPVkxjNnAwQ3RGOVlxOGRESXNabVpvejJkem5LN2pfOHhBbUhKYnpMczU3enpBenYzSjRHTUJuSm80QjVxVjI5RFNwdnItSWEtLS1vNlJUNjFDS2Y?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Memorial Day Sales: Stunning Deals on Fitness Gear",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWEx2T2hXVnExdVY4T2tVczl4cUd1QjcyM2ZMaG0wU3NIdUg1UnR2WnJPVkxjNnAwQ3RGOVlxOGRESXNabVpvejJkem5LN2pfOHhBbUhKYnpMczU3enpBenYzSjRHTUJuSm80QjVxVjI5RFNwdnItSWEtLS1vNlJUNjFDS2Y?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Memorial Day Sales: Stunning Deals on Fitness Gear",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWEx2T2hXVnExdVY4T2tVczl4cUd1QjcyM2ZMaG0wU3NIdUg1UnR2WnJPVkxjNnAwQ3RGOVlxOGRESXNabVpvejJkem5LN2pfOHhBbUhKYnpMczU3enpBenYzSjRHTUJuSm80QjVxVjI5RFNwdnItSWEtLS1vNlJUNjFDS2Y?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "a8b7e45842c3",
+      "slug": "fitness-gear",
+      "opportunity": {
+        "type": "affiliate",
+        "recommended": "Write SEO comparison/roundup article with affiliate links."
       }
     }
   ]
