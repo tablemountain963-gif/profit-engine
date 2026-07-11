@@ -2696,30 +2696,6 @@
       "losses": 0,
       "niche": "ai"
     },
-    "2026-categorized": {
-      "firstSeen": "2026-06-27T16:57:17.588Z",
-      "lastSeen": "2026-06-27T16:57:17.588Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "ai"
-    },
-    "personal-finance-and-budgeting-toolkit": {
-      "firstSeen": "2026-06-27T16:57:21.647Z",
-      "lastSeen": "2026-06-27T16:57:21.647Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "finance"
-    },
-    "freelance-proposal-and-contract-templates": {
-      "firstSeen": "2026-06-27T16:57:28.304Z",
-      "lastSeen": "2026-06-27T16:57:28.304Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "finance"
-    },
     "mel-brooks": {
       "firstSeen": "2026-06-27T21:50:48.416Z",
       "lastSeen": "2026-06-28T16:58:12.195Z",
@@ -5050,9 +5026,9 @@
     },
     "ultraintelligent-machine": {
       "firstSeen": "2026-07-11T16:42:48.547Z",
-      "lastSeen": "2026-07-11T16:42:48.547Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-07-11T21:36:52.083Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -5087,16 +5063,72 @@
       "wins": 0,
       "losses": 0,
       "niche": "ai"
+    },
+    "cathedral-group": {
+      "firstSeen": "2026-07-11T21:36:57.917Z",
+      "lastSeen": "2026-07-11T21:36:57.917Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "software-development": {
+      "firstSeen": "2026-07-11T21:37:01.710Z",
+      "lastSeen": "2026-07-11T21:37:01.710Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "lm-wr": {
+      "firstSeen": "2026-07-11T21:37:06.009Z",
+      "lastSeen": "2026-07-11T21:37:06.009Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "content-calendar-and-caption-templates": {
+      "firstSeen": "2026-07-11T21:37:09.497Z",
+      "lastSeen": "2026-07-11T21:37:09.497Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "productivity"
+    },
+    "freelance-proposal-and-contract-templates": {
+      "firstSeen": "2026-07-11T21:37:14.693Z",
+      "lastSeen": "2026-07-11T21:37:14.693Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "finance"
+    },
+    "personal-finance-and-budgeting-toolkit": {
+      "firstSeen": "2026-07-11T21:37:18.052Z",
+      "lastSeen": "2026-07-11T21:37:18.052Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "finance"
+    },
+    "weebapp003": {
+      "firstSeen": "2026-07-11T21:37:23.200Z",
+      "lastSeen": "2026-07-11T21:37:23.200Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
     }
   },
   "niches": {
     "ai": {
-      "count": 1239,
-      "wins": 343,
+      "count": 1244,
+      "wins": 344,
       "losses": 51
     },
     "finance": {
-      "count": 109,
+      "count": 111,
       "wins": 18,
       "losses": 2
     },
@@ -5116,7 +5148,7 @@
       "losses": 0
     },
     "productivity": {
-      "count": 5,
+      "count": 6,
       "wins": 0,
       "losses": 0
     }

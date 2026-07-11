@@ -1,6 +1,55 @@
 {
   "items": [
     {
+      "slug": "starter-kit-personal-finance-and-budgeting-toolkit-2026-07-11",
+      "title": "Personal Finance And Budgeting Toolkit Starter Kit — Templates + Playbook",
+      "blurb": "Templates, playbook, and 30-day plan for Personal Finance And Budgeting Toolkit. Skip the blank page.",
+      "type": "starter-kit",
+      "topic": "Personal Finance And Budgeting Toolkit",
+      "niche": "finance",
+      "price": 29,
+      "generatedAt": "2026-07-11T21:37:14.694Z",
+      "files": [
+        "playbook.md",
+        "templates.md",
+        "30-day-plan.md",
+        "README.md",
+        "LICENSE.txt"
+      ]
+    },
+    {
+      "slug": "starter-kit-freelance-proposal-and-contract-templates-2026-07-11",
+      "title": "Freelance Proposal And Contract Templates Starter Kit — Templates + Playbook",
+      "blurb": "Templates, playbook, and 30-day plan for Freelance Proposal And Contract Templates. Skip the blank page.",
+      "type": "starter-kit",
+      "topic": "Freelance Proposal And Contract Templates",
+      "niche": "finance",
+      "price": 29,
+      "generatedAt": "2026-07-11T21:37:09.498Z",
+      "files": [
+        "playbook.md",
+        "templates.md",
+        "30-day-plan.md",
+        "README.md",
+        "LICENSE.txt"
+      ]
+    },
+    {
+      "slug": "checklist-content-calendar-and-caption-templates-2026-07-11",
+      "title": "Content Calendar And Caption Templates Operator Checklist — Printable PDF",
+      "blurb": "A one-page operator checklist for Content Calendar And Caption Templates. Print, laminate, ship.",
+      "type": "checklist",
+      "topic": "Content Calendar And Caption Templates",
+      "niche": "productivity",
+      "price": 9,
+      "generatedAt": "2026-07-11T21:37:07.186Z",
+      "files": [
+        "checklist.md",
+        "README.md",
+        "LICENSE.txt"
+      ]
+    },
+    {
       "slug": "starter-kit-fitness-and-meal-plan-template-pack-2026-07-11",
       "title": "Fitness And Meal Plan Template Pack Starter Kit — Templates + Playbook",
       "blurb": "Templates, playbook, and 30-day plan for Fitness And Meal Plan Template Pack. Skip the blank page.",
@@ -2981,51 +3030,6 @@
       "generatedAt": "2026-06-04T16:19:40.741Z",
       "files": [
         "prompts.md",
-        "README.md",
-        "LICENSE.txt"
-      ]
-    },
-    {
-      "slug": "mini-ebook-night-sleep-2026-06-04",
-      "title": "Night Sleep: A 30-Minute Field Guide",
-      "blurb": "Read it in 30 minutes. Apply it forever. Field guide to Night Sleep.",
-      "type": "mini-ebook",
-      "topic": "Night Sleep",
-      "niche": "gear",
-      "price": 14,
-      "generatedAt": "2026-06-04T05:54:00.571Z",
-      "files": [
-        "ebook.md",
-        "README.md",
-        "LICENSE.txt"
-      ]
-    },
-    {
-      "slug": "prompt-pack-billion-valuation-2026-06-03",
-      "title": "Billion Valuation Prompt Pack — 50 Battle-Tested Prompts",
-      "blurb": "50 proven prompts for Billion Valuation. Copy/paste ready. Tested across Claude, GPT, Gemini.",
-      "type": "prompt-pack",
-      "topic": "Billion Valuation",
-      "niche": "ai",
-      "price": 19,
-      "generatedAt": "2026-06-03T22:56:37.810Z",
-      "files": [
-        "prompts.md",
-        "README.md",
-        "LICENSE.txt"
-      ]
-    },
-    {
-      "slug": "mini-ebook-amazon-night-2026-06-03",
-      "title": "Amazon Night: A 30-Minute Field Guide",
-      "blurb": "Read it in 30 minutes. Apply it forever. Field guide to Amazon Night.",
-      "type": "mini-ebook",
-      "topic": "Amazon Night",
-      "niche": "gear",
-      "price": 14,
-      "generatedAt": "2026-06-03T19:42:48.959Z",
-      "files": [
-        "ebook.md",
         "README.md",
         "LICENSE.txt"
       ]
