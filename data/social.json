@@ -1,6 +1,20 @@
 {
   "items": [
     {
+      "slug": "codex-cli-2026-07-12",
+      "topic": "Codex Cli",
+      "date": "2026-07-12",
+      "niche": "ai",
+      "file": "social/codex-cli-2026-07-12.md"
+    },
+    {
+      "slug": "lazy-cooks-2026-07-12",
+      "topic": "Lazy Cooks",
+      "date": "2026-07-12",
+      "niche": "gear",
+      "file": "social/lazy-cooks-2026-07-12.md"
+    },
+    {
       "slug": "software-2026-07-12",
       "topic": "Software",
       "date": "2026-07-12",
@@ -1385,20 +1399,6 @@
       "date": "2026-06-21",
       "niche": "ai",
       "file": "social/cloudflare-worker-2026-06-21.md"
-    },
-    {
-      "slug": "free-2026-06-20",
-      "topic": "Free",
-      "date": "2026-06-20",
-      "niche": "ai",
-      "file": "social/free-2026-06-20.md"
-    },
-    {
-      "slug": "mouse-2026-06-20",
-      "topic": "Mouse",
-      "date": "2026-06-20",
-      "niche": "gear",
-      "file": "social/mouse-2026-06-20.md"
     }
   ]
 }

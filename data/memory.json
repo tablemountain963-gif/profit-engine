@@ -2752,38 +2752,6 @@
       "losses": 0,
       "niche": "ai"
     },
-    "planck": {
-      "firstSeen": "2026-06-28T14:47:30.930Z",
-      "lastSeen": "2026-06-28T14:47:30.930Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "ai"
-    },
-    "chatgpt-prompts-for-small-business-owners": {
-      "firstSeen": "2026-06-28T14:47:49.961Z",
-      "lastSeen": "2026-06-28T14:47:49.961Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "ai"
-    },
-    "wayfinder-router": {
-      "firstSeen": "2026-06-28T14:48:24.759Z",
-      "lastSeen": "2026-06-28T14:48:24.759Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "ai"
-    },
-    "ultimate-dead": {
-      "firstSeen": "2026-06-28T14:48:48.986Z",
-      "lastSeen": "2026-06-28T14:48:48.986Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "ai"
-    },
     "ultimate-guide": {
       "firstSeen": "2026-06-28T16:58:17.255Z",
       "lastSeen": "2026-06-28T21:51:24.251Z",
@@ -3946,8 +3914,8 @@
     },
     "codex-cli": {
       "firstSeen": "2026-07-05T16:55:56.777Z",
-      "lastSeen": "2026-07-05T21:47:19.216Z",
-      "count": 2,
+      "lastSeen": "2026-07-12T16:46:23.208Z",
+      "count": 3,
       "wins": 1,
       "losses": 0,
       "niche": "ai"
@@ -5130,25 +5098,25 @@
     },
     "lindsey-graham": {
       "firstSeen": "2026-07-12T14:25:14.597Z",
-      "lastSeen": "2026-07-12T14:25:14.597Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-07-12T16:45:38.958Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
     "atlas-cloud": {
       "firstSeen": "2026-07-12T14:25:17.706Z",
-      "lastSeen": "2026-07-12T14:25:17.706Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-07-12T16:45:38.959Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
     "warn-against": {
       "firstSeen": "2026-07-12T14:25:20.278Z",
-      "lastSeen": "2026-07-12T14:25:20.278Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-07-12T16:45:38.960Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -5175,12 +5143,60 @@
       "wins": 0,
       "losses": 0,
       "niche": "finance"
+    },
+    "naive-art": {
+      "firstSeen": "2026-07-12T16:45:44.809Z",
+      "lastSeen": "2026-07-12T16:45:44.809Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "ai-boosts-research-careers": {
+      "firstSeen": "2026-07-12T16:45:47.644Z",
+      "lastSeen": "2026-07-12T16:45:47.644Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "starbucks-fired": {
+      "firstSeen": "2026-07-12T16:45:50.733Z",
+      "lastSeen": "2026-07-12T16:45:50.733Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "chatgpt-prompts-for-small-business-owners": {
+      "firstSeen": "2026-07-12T16:45:58.726Z",
+      "lastSeen": "2026-07-12T16:45:58.726Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "midjourney-prompt-pack-for-brand-visuals": {
+      "firstSeen": "2026-07-12T16:46:04.509Z",
+      "lastSeen": "2026-07-12T16:46:04.509Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "lazy-cooks": {
+      "firstSeen": "2026-07-12T16:46:09.680Z",
+      "lastSeen": "2026-07-12T16:46:09.680Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "gear"
     }
   },
   "niches": {
     "ai": {
-      "count": 1266,
-      "wins": 351,
+      "count": 1275,
+      "wins": 354,
       "losses": 52
     },
     "finance": {
@@ -5194,7 +5210,7 @@
       "losses": 19
     },
     "gear": {
-      "count": 110,
+      "count": 111,
       "wins": 34,
       "losses": 0
     },
