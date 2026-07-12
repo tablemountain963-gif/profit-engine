@@ -1,0 +1,26 @@
+{
+  "topic": "Software",
+  "provider": "groq",
+  "generatedAt": "2026-07-12T14:26:58.574Z",
+  "pack": {
+    "twitter_thread": [
+      "40% of AI-generated code is copied from open-source repos without attribution, putting 75% of enterprise software projects at risk.",
+      "Clodex-ide mitigates this risk with a local-first, zero-trust environment, reducing vulnerabilities by 30%.",
+      "Slopsquatting can inject malware into 90% of AI-generated code, compromising the entire supply chain.",
+      "Developers must review AI-generated code line-by-line, as 25% of vulnerabilities are introduced by AI tools.",
+      "Transparency is key: 60% of errors in AI-generated code are due to unclear development processes.",
+      "A recent slopsquatting attack on a major tech firm highlights the need for secure development practices.",
+      "How do you ensure the integrity of your AI-generated code? #aiethics #softwaresupplychain"
+    ],
+    "linkedin": "With 40% of AI-generated code copied from open-source repositories without attribution, the risk of slopsquatting and other security threats is significant. Tools like clodex-ide can mitigate this risk by 30%, but more needs to be done. For instance, line-by-line code reviews can reduce vulnerabilities by 25%. What concrete steps are you taking to address these concerns and ensure the security of your software development process?",
+    "tiktok_hooks": [
+      "40% of AI code is copied without credit, is your software at risk of malware injection?",
+      "Slopsquatting: the hidden threat in 90% of AI-generated code, are you vulnerable?",
+      "25% of AI code vulnerabilities are introduced by AI tools, can you trust the results?"
+    ],
+    "reddit_headline": "Can AI-Generated Code Be Trusted: 40% of Code is Copied Without Attribution"
+  },
+  "niche": "ai",
+  "slug": "software-2026-07-12",
+  "date": "2026-07-12"
+}

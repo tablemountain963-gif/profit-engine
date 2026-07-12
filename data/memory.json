@@ -162,8 +162,8 @@
     },
     "software": {
       "firstSeen": "2026-05-28T20:13:05.178Z",
-      "lastSeen": "2026-07-07T04:48:32.056Z",
-      "count": 8,
+      "lastSeen": "2026-07-12T14:26:58.576Z",
+      "count": 9,
       "wins": 0,
       "losses": 0,
       "niche": "ai"
@@ -282,17 +282,9 @@
     },
     "income": {
       "firstSeen": "2026-05-29T22:24:13.712Z",
-      "lastSeen": "2026-07-06T05:07:48.927Z",
-      "count": 8,
+      "lastSeen": "2026-07-12T14:26:22.408Z",
+      "count": 9,
       "wins": 2,
-      "losses": 0,
-      "niche": "finance"
-    },
-    "dividend-stocks": {
-      "firstSeen": "2026-05-29T22:24:26.611Z",
-      "lastSeen": "2026-06-28T05:15:25.955Z",
-      "count": 5,
-      "wins": 0,
       "losses": 0,
       "niche": "finance"
     },
@@ -426,8 +418,8 @@
     },
     "silent-sunday": {
       "firstSeen": "2026-05-31T14:42:42.541Z",
-      "lastSeen": "2026-07-05T14:40:50.658Z",
-      "count": 5,
+      "lastSeen": "2026-07-12T14:26:36.669Z",
+      "count": 6,
       "wins": 2,
       "losses": 0,
       "niche": "ai"
@@ -2208,14 +2200,6 @@
       "losses": 0,
       "niche": "gear"
     },
-    "income-_blank": {
-      "firstSeen": "2026-06-22T17:40:45.150Z",
-      "lastSeen": "2026-06-28T05:15:38.142Z",
-      "count": 2,
-      "wins": 0,
-      "losses": 0,
-      "niche": "finance"
-    },
     "prompt-injection": {
       "firstSeen": "2026-06-22T19:18:27.289Z",
       "lastSeen": "2026-06-23T04:56:51.231Z",
@@ -2742,30 +2726,6 @@
       "count": 2,
       "wins": 0,
       "losses": 1,
-      "niche": "ai"
-    },
-    "rainbro-brite": {
-      "firstSeen": "2026-06-28T05:14:41.022Z",
-      "lastSeen": "2026-06-28T05:14:41.022Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "ai"
-    },
-    "staircase-sunday": {
-      "firstSeen": "2026-06-28T05:14:48.481Z",
-      "lastSeen": "2026-06-28T05:14:48.481Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "ai"
-    },
-    "krasnodar-krai": {
-      "firstSeen": "2026-06-28T05:15:07.038Z",
-      "lastSeen": "2026-06-28T05:15:07.038Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
       "niche": "ai"
     },
     "modern-llms": {
@@ -4202,10 +4162,10 @@
     },
     "jonas-vingegaard": {
       "firstSeen": "2026-07-07T04:47:43.643Z",
-      "lastSeen": "2026-07-07T04:47:43.643Z",
-      "count": 1,
+      "lastSeen": "2026-07-12T14:25:08.134Z",
+      "count": 2,
       "wins": 0,
-      "losses": 0,
+      "losses": 1,
       "niche": "ai"
     },
     "north-america": {
@@ -5018,9 +4978,9 @@
     },
     "plan": {
       "firstSeen": "2026-07-11T16:42:54.506Z",
-      "lastSeen": "2026-07-11T16:42:54.506Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-07-12T14:25:08.136Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -5098,25 +5058,25 @@
     },
     "mesh-llm": {
       "firstSeen": "2026-07-12T04:22:54.860Z",
-      "lastSeen": "2026-07-12T04:22:54.860Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-07-12T14:25:08.137Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
     "tested-chatgpt": {
       "firstSeen": "2026-07-12T04:22:57.607Z",
-      "lastSeen": "2026-07-12T04:22:57.607Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-07-12T14:25:08.138Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
     "cliproxyapi": {
       "firstSeen": "2026-07-12T04:23:00.863Z",
-      "lastSeen": "2026-07-12T04:23:00.863Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-07-12T14:25:08.139Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "software"
     },
@@ -5167,22 +5127,70 @@
       "wins": 0,
       "losses": 0,
       "niche": "ai"
+    },
+    "lindsey-graham": {
+      "firstSeen": "2026-07-12T14:25:14.597Z",
+      "lastSeen": "2026-07-12T14:25:14.597Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "atlas-cloud": {
+      "firstSeen": "2026-07-12T14:25:17.706Z",
+      "lastSeen": "2026-07-12T14:25:17.706Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "warn-against": {
+      "firstSeen": "2026-07-12T14:25:20.278Z",
+      "lastSeen": "2026-07-12T14:25:20.278Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "microsoft-ibm": {
+      "firstSeen": "2026-07-12T14:25:29.705Z",
+      "lastSeen": "2026-07-12T14:25:29.705Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "ai-prompts-for-ecommerce-and-product-listings": {
+      "firstSeen": "2026-07-12T14:25:35.572Z",
+      "lastSeen": "2026-07-12T14:25:35.572Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "sales-email-sequences-that-convert": {
+      "firstSeen": "2026-07-12T14:25:51.866Z",
+      "lastSeen": "2026-07-12T14:25:51.866Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "finance"
     }
   },
   "niches": {
     "ai": {
-      "count": 1255,
-      "wins": 348,
-      "losses": 51
+      "count": 1266,
+      "wins": 351,
+      "losses": 52
     },
     "finance": {
-      "count": 111,
+      "count": 113,
       "wins": 18,
       "losses": 2
     },
     "software": {
-      "count": 293,
-      "wins": 81,
+      "count": 294,
+      "wins": 82,
       "losses": 19
     },
     "gear": {
