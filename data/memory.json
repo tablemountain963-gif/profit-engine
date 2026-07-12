@@ -2720,30 +2720,6 @@
       "losses": 0,
       "niche": "finance"
     },
-    "sales-email-sequences-that-convert": {
-      "firstSeen": "2026-06-27T21:50:58.981Z",
-      "lastSeen": "2026-06-27T21:50:58.981Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "finance"
-    },
-    "ai-prompts-for-ecommerce-and-product-listings": {
-      "firstSeen": "2026-06-27T21:51:07.460Z",
-      "lastSeen": "2026-06-27T21:51:07.460Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "ai"
-    },
-    "midjourney-prompt-pack-for-brand-visuals": {
-      "firstSeen": "2026-06-27T21:51:15.733Z",
-      "lastSeen": "2026-06-27T21:51:15.733Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "ai"
-    },
     "buy-passive": {
       "firstSeen": "2026-06-27T21:51:48.068Z",
       "lastSeen": "2026-07-04T16:53:56.987Z",
@@ -4754,9 +4730,9 @@
     },
     "election-ass": {
       "firstSeen": "2026-07-10T04:47:15.383Z",
-      "lastSeen": "2026-07-10T04:47:15.383Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-07-12T04:22:50.167Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -5034,9 +5010,9 @@
     },
     "process": {
       "firstSeen": "2026-07-11T16:42:51.714Z",
-      "lastSeen": "2026-07-11T16:42:51.714Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-07-12T04:22:50.171Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -5066,17 +5042,17 @@
     },
     "cathedral-group": {
       "firstSeen": "2026-07-11T21:36:57.917Z",
-      "lastSeen": "2026-07-11T21:36:57.917Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-07-12T04:22:50.172Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
     "software-development": {
       "firstSeen": "2026-07-11T21:37:01.710Z",
-      "lastSeen": "2026-07-11T21:37:01.710Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-07-12T04:22:50.173Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -5119,12 +5095,84 @@
       "wins": 0,
       "losses": 0,
       "niche": "ai"
+    },
+    "mesh-llm": {
+      "firstSeen": "2026-07-12T04:22:54.860Z",
+      "lastSeen": "2026-07-12T04:22:54.860Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "tested-chatgpt": {
+      "firstSeen": "2026-07-12T04:22:57.607Z",
+      "lastSeen": "2026-07-12T04:22:57.607Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "cliproxyapi": {
+      "firstSeen": "2026-07-12T04:23:00.863Z",
+      "lastSeen": "2026-07-12T04:23:00.863Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "software"
+    },
+    "official-sdk": {
+      "firstSeen": "2026-07-12T04:23:08.053Z",
+      "lastSeen": "2026-07-12T04:23:08.053Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "robinhood-chain": {
+      "firstSeen": "2026-07-12T04:23:14.589Z",
+      "lastSeen": "2026-07-12T04:23:14.589Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "skip-arkk": {
+      "firstSeen": "2026-07-12T04:23:19.842Z",
+      "lastSeen": "2026-07-12T04:23:19.842Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "management-api": {
+      "firstSeen": "2026-07-12T04:23:28.409Z",
+      "lastSeen": "2026-07-12T04:23:28.409Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "software"
+    },
+    "gpt-free": {
+      "firstSeen": "2026-07-12T04:23:40.085Z",
+      "lastSeen": "2026-07-12T04:23:40.085Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "mac-studio": {
+      "firstSeen": "2026-07-12T04:24:01.972Z",
+      "lastSeen": "2026-07-12T04:24:01.972Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
     }
   },
   "niches": {
     "ai": {
-      "count": 1244,
-      "wins": 344,
+      "count": 1255,
+      "wins": 348,
       "losses": 51
     },
     "finance": {
@@ -5133,7 +5181,7 @@
       "losses": 2
     },
     "software": {
-      "count": 291,
+      "count": 293,
       "wins": 81,
       "losses": 19
     },

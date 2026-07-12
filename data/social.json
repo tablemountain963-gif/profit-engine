@@ -1,6 +1,27 @@
 {
   "items": [
     {
+      "slug": "mac-studio-2026-07-12",
+      "topic": "Mac Studio",
+      "date": "2026-07-12",
+      "niche": "ai",
+      "file": "social/mac-studio-2026-07-12.md"
+    },
+    {
+      "slug": "gpt-free-2026-07-12",
+      "topic": "Gpt Free",
+      "date": "2026-07-12",
+      "niche": "ai",
+      "file": "social/gpt-free-2026-07-12.md"
+    },
+    {
+      "slug": "management-api-2026-07-12",
+      "topic": "Management Api",
+      "date": "2026-07-12",
+      "niche": "software",
+      "file": "social/management-api-2026-07-12.md"
+    },
+    {
       "slug": "weebapp003-2026-07-11",
       "topic": "Weebapp003",
       "date": "2026-07-11",
@@ -1378,27 +1399,6 @@
       "date": "2026-06-20",
       "niche": "ai",
       "file": "social/less-than-2026-06-20.md"
-    },
-    {
-      "slug": "6f6f6f-yahoo-2026-06-20",
-      "topic": "6f6f6f Yahoo",
-      "date": "2026-06-20",
-      "niche": "finance",
-      "file": "social/6f6f6f-yahoo-2026-06-20.md"
-    },
-    {
-      "slug": "tech-gadgets-2026-06-20",
-      "topic": "Tech Gadgets",
-      "date": "2026-06-20",
-      "niche": "ai",
-      "file": "social/tech-gadgets-2026-06-20.md"
-    },
-    {
-      "slug": "passive-2026-06-19",
-      "topic": "Passive",
-      "date": "2026-06-19",
-      "niche": "finance",
-      "file": "social/passive-2026-06-19.md"
     }
   ]
 }

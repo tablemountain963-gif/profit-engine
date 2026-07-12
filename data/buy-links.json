@@ -1681,5 +1681,26 @@
     "price": 9,
     "productId": "prod_UrsKyDP1mTEEHP",
     "cover": "/assets/pack-cover.png"
+  },
+  "prompt-pack-skip-arkk-2026-07-12": {
+    "url": "https://buy.stripe.com/eVq9AS1GMa5EbrR2JCfjG3S",
+    "platform": "stripe",
+    "price": 19,
+    "productId": "prod_Urys6FNPY5l8GC",
+    "cover": "/assets/pack-cover.png"
+  },
+  "prompt-pack-robinhood-chain-2026-07-12": {
+    "url": "https://buy.stripe.com/9B600iadi3Hg8fF3NGfjG3T",
+    "platform": "stripe",
+    "price": 19,
+    "productId": "prod_UrytRKkG01zOaL",
+    "cover": "/assets/pack-cover.png"
+  },
+  "prompt-pack-official-sdk-2026-07-12": {
+    "url": "https://buy.stripe.com/4gM7sK3OU5Po2Vl6ZSfjG3U",
+    "platform": "stripe",
+    "price": 19,
+    "productId": "prod_UrytYswnkDKnck",
+    "cover": "/assets/pack-cover.png"
   }
 }
