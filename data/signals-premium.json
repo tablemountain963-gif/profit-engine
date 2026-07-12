@@ -1,93 +1,126 @@
 {
-  "generatedAt": "2026-07-12T16:45:39.848Z",
-  "sourceCount": 201,
+  "generatedAt": "2026-07-12T21:36:48.631Z",
+  "sourceCount": 204,
   "topItems": [
     {
-      "title": "Old and new apps, via modern coding agents by Terry Tao",
-      "url": "https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/",
-      "score": 10.78,
+      "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
+      "url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
+      "score": 10.35,
       "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 258,
-        "comments": 66
+        "score": 301,
+        "comments": 173
+      }
+    },
+    {
+      "title": "Old and new apps, via modern coding agents",
+      "url": "https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/",
+      "score": 9.23,
+      "niche": "ai",
+      "source": "hackernews",
+      "engagement": {
+        "score": 381,
+        "comments": 106
+      }
+    },
+    {
+      "title": "RSS is a secret trick to making the internet more usable. https://www.eff.org/deeplinks/2026/06/hate-algorithm-rss-one-tools-youve-been-looking",
+      "url": "https://mastodon.social/@eff/116908311262192259",
+      "score": 8.91,
+      "niche": "software",
+      "source": "mastodon",
+      "engagement": {
+        "score": 273,
+        "comments": 3
+      }
+    },
+    {
+      "title": "Trying to figure out what’s clickable in modern UI",
+      "url": "https://mastodon.online/@nikitonsky/116907750097879448",
+      "score": 8.84,
+      "niche": "software",
+      "source": "mastodon",
+      "engagement": {
+        "score": 1364,
+        "comments": 34
+      }
+    },
+    {
+      "title": "RE: https://corteximplant.com/@revengeday/116851393554189784Long thread, so here’s a short version:When Bandcamp (or any platform) goes awful, don’t aim your pitchforks at the people relying on that p",
+      "url": "https://hachyderm.io/@inthehands/116908760408653696",
+      "score": 8.81,
+      "niche": "ai",
+      "source": "mastodon",
+      "engagement": {
+        "score": 124,
+        "comments": 3
+      }
+    },
+    {
+      "title": "When you \"break\" the anti-AI software I have on my website that does not illustrate that the software doesn't work well enough: It shows that you are someone who explicitly circumvents people's stated",
+      "url": "https://tldr.nettime.org/@tante/116908308620011433",
+      "score": 8.57,
+      "niche": "ai",
+      "source": "mastodon",
+      "engagement": {
+        "score": 454,
+        "comments": 10
+      }
+    },
+    {
+      "title": "I love LLMs, I hate hype",
+      "url": "https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html",
+      "score": 8.49,
+      "niche": "ai",
+      "source": "hackernews",
+      "engagement": {
+        "score": 215,
+        "comments": 117
+      }
+    },
+    {
+      "title": "Flohmarkt is a free open platform for small ads and selling things (\"Flohmarkt\" is the German for flea market). It's part of the Fediverse so the small ads can federate to other servers, and people ca",
+      "url": "https://social.growyourown.services/@homegrown/116908540294565658",
+      "score": 8.18,
+      "niche": "software",
+      "source": "mastodon",
+      "engagement": {
+        "score": 168,
+        "comments": 4
       }
     },
     {
       "title": "Remember me asking about visibke mending for a L-tear in my linen pants?I combined the recs I got here with some crafts I already knew how to do (cross stitch) for a 🌻-result that makes me very happy",
       "url": "https://mastodon.social/@vicgrinberg/116907695708020687",
-      "score": 8.03,
+      "score": 7.65,
       "niche": "software",
       "source": "mastodon",
       "engagement": {
-        "score": 146,
+        "score": 397,
+        "comments": 13
+      }
+    },
+    {
+      "title": "Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper",
+      "url": "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6",
+      "score": 7.65,
+      "niche": "ai",
+      "source": "hackernews",
+      "engagement": {
+        "score": 54,
         "comments": 7
       }
     },
     {
-      "title": "dear etsy,you currently know/have a copy of my:nameaddressphone numbere-mailbank cardbank accountfrench business registration numbergerman EPR numberfrench EPR numberand passportso i'm quite sure that",
-      "url": "https://sunny.garden/@moonrabbit/116907258264325874",
-      "score": 7.82,
-      "niche": "ai",
-      "source": "mastodon",
-      "engagement": {
-        "score": 266,
-        "comments": 5
-      }
-    },
-    {
-      "title": "Starbucks Just Fired A Warning Shot At Microsoft And IBM AI Apps",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQUpYQzllbU94bmt4WUxOQkg2SHdOMzNVMlFFay1sUkpqRXcwcUpUTUlSMWpEUE1hNXhsNlNMLWpqd0ZDOHZLWHM5UnpBTlpleHJwX3hJNUtydWlZcFhoR1JjS3lXR0dkdFZLdlhZSVk0V3pEd3gzSldoamtBanBsbnlibDZJaC1uN2hBclRZTkItTFNlVUpwdENJbHVLRWpra042Wm5seFRHb2R1LUVxVXFWeE15M1Zp?oc=5",
-      "score": 7.48,
-      "niche": "ai",
-      "source": "gnews",
-      "engagement": {
-        "score": 40,
-        "comments": 0
-      }
-    },
-    {
-      "title": "AI Boosts Research Careers but Flattens Scientific Discovery",
-      "url": "https://spectrum.ieee.org/ai-science-research-flattens-discovery",
-      "score": 7.48,
+      "title": "What xAI's Grok build CLI sends to xAI: A wire-level analysis",
+      "url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
+      "score": 7.27,
       "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 84,
-        "comments": 66
-      }
-    },
-    {
-      "title": "There are more Linux distros in existence than there are people who can explain the difference between them 😂",
-      "url": "https://mastodon.social/@nixCraft/116907132419068125",
-      "score": 7.44,
-      "niche": "ai",
-      "source": "mastodon",
-      "engagement": {
-        "score": 188,
-        "comments": 11
-      }
-    },
-    {
-      "title": "\"But the LLMs won't just go away, right?\"Says who? The technology is ecologically and economically unsustainable. The people who are most enthusiastic about the slop machines are those who are trying ",
-      "url": "https://mastodon.social/@r_alb/116906981066003561",
-      "score": 7.4,
-      "niche": "ai",
-      "source": "mastodon",
-      "engagement": {
-        "score": 189,
-        "comments": 8
-      }
-    },
-    {
-      "title": "Silent Sunday 🌿 #art #mastoart #fediart #nature #silentsunday #cute #insects #digitalArt #noai #portrait #butterfly #bee",
-      "url": "https://mastodon.social/@sylvia_ritter/116906990903005465",
-      "score": 7.25,
-      "niche": "ai",
-      "source": "mastodon",
-      "engagement": {
-        "score": 177,
-        "comments": 3
+        "score": 384,
+        "comments": 153
       }
     },
     {
@@ -97,96 +130,85 @@
       "niche": "ai",
       "source": "github",
       "engagement": {
-        "score": 635,
+        "score": 638,
         "comments": 0
       }
     },
     {
-      "title": "RIP Lindsey Graham. You taught us all that it's never too late to abandon every single thing you claimed to believe in as recently as 60 seconds ago. Brave. Iconic. Unhinged. We'll miss you.",
-      "url": "https://mastodon.social/@Daojoan/116906200975036045",
-      "score": 7.17,
-      "niche": "ai",
-      "source": "mastodon",
+      "title": "Show HN: Shirei, cross-platform GUI framework in native Go",
+      "url": "https://github.com/hasenj/go-shirei/",
+      "score": 6.93,
+      "niche": "software",
+      "source": "hackernews",
       "engagement": {
-        "score": 586,
-        "comments": 22
+        "score": 69,
+        "comments": 36
       }
     },
     {
-      "title": "I’m now an official maintainer of homebrew🍻",
-      "url": "https://mastodon.social/@andrewnez/116907689443394510",
-      "score": 6.83,
-      "niche": "ai",
-      "source": "mastodon",
-      "engagement": {
-        "score": 127,
-        "comments": 4
-      }
-    },
-    {
-      "title": "Mesh LLM: distributed AI computing on iroh",
-      "url": "https://www.iroh.computer/blog/mesh-llm",
-      "score": 6.81,
+      "title": "Against Usefulness",
+      "url": "https://www.motivenotes.ai/p/against-usefulness",
+      "score": 6.28,
       "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 312,
-        "comments": 72
-      }
-    },
-    {
-      "title": "Trying to figure out what’s clickable in modern UI",
-      "url": "https://mastodon.online/@nikitonsky/116907750097879448",
-      "score": 6.38,
-      "niche": "software",
-      "source": "mastodon",
-      "engagement": {
-        "score": 171,
-        "comments": 9
+        "score": 61,
+        "comments": 15
       }
     },
     {
       "title": "yetone/kill-ai-slop — A field guide to the visual & copy tics of AI-generated products — and an Agent Skill that scans your project and strips them out. https://killaislop.com",
       "url": "https://github.com/yetone/kill-ai-slop",
-      "score": 6.13,
+      "score": 6.19,
       "niche": "ai",
       "source": "github",
       "engagement": {
-        "score": 284,
+        "score": 301,
         "comments": 0
-      }
-    },
-    {
-      "title": "Show HN: Mindwalk – Replay coding-agent sessions on a 3D map of your codebase",
-      "url": "https://github.com/cosmtrek/mindwalk",
-      "score": 6.09,
-      "niche": "ai",
-      "source": "hackernews",
-      "engagement": {
-        "score": 131,
-        "comments": 54
       }
     },
     {
       "title": "chordswallowthrust/undress-design — AI-powered fashion visualization and virtual try-on toolkit for consent-based garment editing, outfit prototyping, and creative design workflows. https://undress.de",
       "url": "https://github.com/chordswallowthrust/undress-design",
-      "score": 6.08,
+      "score": 6.11,
       "niche": "ai",
       "source": "github",
       "engagement": {
-        "score": 152,
+        "score": 156,
         "comments": 0
       }
     },
     {
-      "title": "A no-brainer for protecting your brain",
-      "url": "https://www.economist.com/leaders/2026/07/09/a-no-brainer-for-protecting-your-brain",
-      "score": 6.01,
+      "title": "I Learned to Read Again",
+      "url": "https://substack.magazinenongrata.com/p/how-i-learned-to-read-again",
+      "score": 6.04,
       "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 24,
-        "comments": 9
+        "score": 46,
+        "comments": 15
+      }
+    },
+    {
+      "title": "Hey remember when Github was high-availability",
+      "url": "https://mastodon.social/@mcc/116908997542549663",
+      "score": 6,
+      "niche": "ai",
+      "source": "mastodon",
+      "engagement": {
+        "score": 58,
+        "comments": 8
+      }
+    },
+    {
+      "title": "I hope this email finds you lying very still in your bed, and looking surprisingly healthier than you looked the night before.",
+      "url": "https://mastodon.social/@thisemailfindsyou/116908680971999548",
+      "score": 6,
+      "niche": "ai",
+      "source": "mastodon",
+      "engagement": {
+        "score": 72,
+        "comments": 1
       }
     },
     {
@@ -201,10 +223,10 @@
       }
     },
     {
-      "title": "‘Not where they hoped it'd be’: Launch of Trump AI promotion program underwhelms",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQcmtYVEFaazR5Tnp3ZTlJQlRyYl96dHJkT3BpUHRlWU1pUnFRNUkzaVhtaHdiN01KMDdKekt5ajRPOElFcF9DWFg3ckhJWnRkM2RXTFg4amFnRVRuWUEtWVN5MXp0LTRoVVB6a0htaHRZOE9PQmFlTzBBenBPT0JLc3ZTcnk2SUZTbDJHbnVhYXdjLUVS?oc=5",
-      "score": 5.37,
-      "niche": "ai",
+      "title": "8 Cool New Gadgets to Keep on Your Radar",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1lNUZDQlBCbVprNXJjek1vdXljNmc1b1RTVDRhdWhZQWF2QUVRZE9HZktRWXVpWVBvWUVyTEIzSVhoVEY0T1lKMk9IX0w5QXlIbkt0RER0Ymd0V19GYjZTbmVlcGNITzlMMkRETTFpN25HUQ?oc=5",
+      "score": 5.19,
+      "niche": "gear",
       "source": "gnews",
       "engagement": {
         "score": 40,
@@ -212,125 +234,69 @@
       }
     },
     {
-      "title": "Gina Gallery of International Naive Art",
-      "url": "https://www.ginagallery.com/",
-      "score": 5.23,
-      "niche": "ai",
-      "source": "hackernews",
+      "title": "10 Mini Gadgets That Are Perfect For A Small Home Office",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1OdlRSYkZfODk2R0VRYmpnUWpEVnhSVWlWc01wVmYxbVNUNTZfN2JoeVNYdVRnSXl3aWU3TEhnNGgwY0RJU004cGhsMlVSX2t2aDdscFl6S0tpMS1pVFhKZXkyN3NSTzd1TGxRTVpVMDJuUVZ4U3VWNFFHOA?oc=5",
+      "score": 5.19,
+      "niche": "gear",
+      "source": "gnews",
       "engagement": {
-        "score": 22,
-        "comments": 10
+        "score": 40,
+        "comments": 0
       }
     },
     {
       "title": "xsser/cliproxyapi-cloudflare-stack — 感谢马斯克 让我grok自由，免费注册grok 无数个号。然后cpa自由使用",
       "url": "https://github.com/xsser/cliproxyapi-cloudflare-stack",
-      "score": 5.07,
+      "score": 5.17,
       "niche": "software",
       "source": "github",
       "engagement": {
-        "score": 92,
+        "score": 101,
         "comments": 0
+      }
+    },
+    {
+      "title": "The One-Step Trap (In AI Research)",
+      "url": "http://incompleteideas.net/IncIdeas/OneStepTrap.html",
+      "score": 5.06,
+      "niche": "ai",
+      "source": "hackernews",
+      "engagement": {
+        "score": 29,
+        "comments": 4
       }
     },
     {
       "title": "dongguatanglinux/grok-build-auth — Protocol research client: x.ai signup → SSO → Grok Build OAuth → CLIProxyAPI auth export (authorized use only)",
       "url": "https://github.com/dongguatanglinux/grok-build-auth",
-      "score": 5.04,
+      "score": 5.05,
       "niche": "ai",
       "source": "github",
       "engagement": {
-        "score": 191,
+        "score": 192,
         "comments": 0
-      }
-    },
-    {
-      "title": "The Best AI Learning Tools Make Better Teachers, Not Fewer",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZ3NDRnZSMXR5VzIxVVE2b0Q0ek1hbXExbVhveDNWQlB2MUZXZF93bzFnRmUwR004VER5RWw5d2ZJX0NhR3hsU2JyZGFEaW5BWkt6anByM283eE1PTlNCMjJWSHB1bHUya1ZjMV9oY1NNQmZ0T19Gb1VWRUZVb3hRakpKVXVSOGRicTNMLW1FVThRMXhZOGZ4V3RYNkFZUC12QnhyUldiTQ?oc=5",
-      "score": 4.95,
-      "niche": "ai",
-      "source": "gnews",
-      "engagement": {
-        "score": 40,
-        "comments": 0
-      }
-    },
-    {
-      "title": "Good Tools Are Invisible",
-      "url": "https://www.gingerbill.org/article/2026/07/10/good-tools-are-invisible/",
-      "score": 4.95,
-      "niche": "software",
-      "source": "lobsters",
-      "engagement": {
-        "score": 33,
-        "comments": 8
-      }
-    },
-    {
-      "title": "CoscoAI/luxy-aisre — AISRE for Cosco",
-      "url": "https://github.com/CoscoAI/luxy-aisre",
-      "score": 4.82,
-      "niche": "ai",
-      "source": "github",
-      "engagement": {
-        "score": 321,
-        "comments": 1
       }
     }
   ],
   "topics": [
     {
-      "keyword": "side hustle",
-      "count": 35,
-      "score": 112.57876433446438,
-      "proper": true,
-      "niches": [
-        "ai",
-        "finance"
-      ],
-      "examples": [
-        {
-          "title": "I Tested ChatGPT’s 10-Hour Plan for Making $1,500 Monthly With a Side Hustle",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE81WHdKT3MzQ0ZaS29neU0zdzF2ZzFtRjhKc01MWHRmVE12cFpudmZqdnhtbTN6TTlMM1hMNnptckw3STVjeGpzMDdwS2s4MzFEN0ZfT3ZEUmFmVnRVWlcybXFXbGd6U096ZnZvSjR3X1F2QUR6Wk5lNE91dw?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "I Tested ChatGPT’s 10-Hour Plan for Making $1,500 Monthly With a Side Hustle",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE81WHdKT3MzQ0ZaS29neU0zdzF2ZzFtRjhKc01MWHRmVE12cFpudmZqdnhtbTN6TTlMM1hMNnptckw3STVjeGpzMDdwS2s4MzFEN0ZfT3ZEUmFmVnRVWlcybXFXbGd6U096ZnZvSjR3X1F2QUR6Wk5lNE91dw?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "I Tested ChatGPT’s 10-Hour Plan for Making $1,500 Monthly With a Side Hustle",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE81WHdKT3MzQ0ZaS29neU0zdzF2ZzFtRjhKc01MWHRmVE12cFpudmZqdnhtbTN6TTlMM1hMNnptckw3STVjeGpzMDdwS2s4MzFEN0ZfT3ZEUmFmVnRVWlcybXFXbGd6U096ZnZvSjR3X1F2QUR6Wk5lNE91dw?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "5 Side Hustle Businesses for Busy Parents",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdTJrNUhtUUgzamdzWUJkOWtfbFFpbFVYRzU0bHpEWVdNeTRRNzV1ZVFQQUN2a2xhaERhTGIwOHRTd2t6dEZrWVhVWnJGRnZoV21SaDZqQ3ZUTVRvc3pRMGtKLU9mdlVWRUxobzdzYmhLbFRmOEdLOXJzVHIySU1FTUZwM1Z6THdvWG5B?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "5 Side Hustle Businesses for Busy Parents",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdTJrNUhtUUgzamdzWUJkOWtfbFFpbFVYRzU0bHpEWVdNeTRRNzV1ZVFQQUN2a2xhaERhTGIwOHRTd2t6dEZrWVhVWnJGRnZoV21SaDZqQ3ZUTVRvc3pRMGtKLU9mdlVWRUxobzdzYmhLbFRmOEdLOXJzVHIySU1FTUZwM1Z6THdvWG5B?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "57270ed2efc7",
-      "slug": "side-hustle"
-    },
-    {
       "keyword": "claude code",
-      "count": 16,
-      "score": 103.12989620518218,
+      "count": 24,
+      "score": 227.4615724773119,
       "proper": true,
       "niches": [
         "ai"
       ],
       "examples": [
         {
-          "title": "nhevers/project-r0x — Official SDK, Claude Code plugin and facilitator docs for r0x, the x402 facilitator for Robinhood Chain.",
-          "url": "https://github.com/nhevers/project-r0x",
-          "source": "github"
+          "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
+          "url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
+          "source": "hackernews"
+        },
+        {
+          "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
+          "url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
+          "source": "hackernews"
         },
         {
           "title": "nhevers/project-r0x — Official SDK, Claude Code plugin and facilitator docs for r0x, the x402 facilitator for Robinhood Chain.",
@@ -338,8 +304,8 @@
           "source": "github"
         },
         {
-          "title": "djfksjd/ir-search — 🇰🇷 한국 정부 지원사업 전수조사 Claude Code 스킬 — K-Startup·기업마당·NIPA·KOCCA·SMTECH 크롤링 + 프로젝트 프로필 기반 즉시/로드맵/변형 3분류 (Korea-only)",
-          "url": "https://github.com/djfksjd/ir-search",
+          "title": "nhevers/project-r0x — Official SDK, Claude Code plugin and facilitator docs for r0x, the x402 facilitator for Robinhood Chain.",
+          "url": "https://github.com/nhevers/project-r0x",
           "source": "github"
         },
         {
@@ -380,9 +346,32 @@
       "slug": "lazy-cooks"
     },
     {
+      "keyword": "against usefulness",
+      "count": 8,
+      "score": 75.40945257006932,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "Against Usefulness",
+          "url": "https://www.motivenotes.ai/p/against-usefulness",
+          "source": "hackernews"
+        },
+        {
+          "title": "Against Usefulness",
+          "url": "https://www.motivenotes.ai/p/against-usefulness",
+          "source": "hackernews"
+        }
+      ],
+      "id": "af7247ff1f76",
+      "slug": "against-usefulness"
+    },
+    {
       "keyword": "agent skill",
-      "count": 11,
-      "score": 92.38233602603673,
+      "count": 8,
+      "score": 74.28116795545259,
       "proper": true,
       "niches": [
         "ai"
@@ -396,11 +385,6 @@
         {
           "title": "yetone/kill-ai-slop — A field guide to the visual & copy tics of AI-generated products — and an Agent Skill that scans your project and strips them out. https://killaislop.com",
           "url": "https://github.com/yetone/kill-ai-slop",
-          "source": "github"
-        },
-        {
-          "title": "Alisa0808/vox-director — Turn one topic into a finished Vox-style paper-collage explainer/ad video — automated end to end on Atlas Cloud + ffmpeg. An agent skill.",
-          "url": "https://github.com/Alisa0808/vox-director",
           "source": "github"
         }
       ],
@@ -408,55 +392,9 @@
       "slug": "agent-skill"
     },
     {
-      "keyword": "silent sunday",
-      "count": 8,
-      "score": 86.9690044035662,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "Silent Sunday 🌿 #art #mastoart #fediart #nature #silentsunday #cute #insects #digitalArt #noai #portrait #butterfly #bee",
-          "url": "https://mastodon.social/@sylvia_ritter/116906990903005465",
-          "source": "mastodon"
-        },
-        {
-          "title": "Silent Sunday 🌿 #art #mastoart #fediart #nature #silentsunday #cute #insects #digitalArt #noai #portrait #butterfly #bee",
-          "url": "https://mastodon.social/@sylvia_ritter/116906990903005465",
-          "source": "mastodon"
-        }
-      ],
-      "id": "a2b385ec8d90",
-      "slug": "silent-sunday"
-    },
-    {
-      "keyword": "mesh llm",
-      "count": 8,
-      "score": 81.71262566614581,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "Mesh LLM: distributed AI computing on iroh",
-          "url": "https://www.iroh.computer/blog/mesh-llm",
-          "source": "hackernews"
-        },
-        {
-          "title": "Mesh LLM: distributed AI computing on iroh",
-          "url": "https://www.iroh.computer/blog/mesh-llm",
-          "source": "hackernews"
-        }
-      ],
-      "id": "c6742286eaba",
-      "slug": "mesh-llm"
-    },
-    {
       "keyword": "codex cli",
       "count": 11,
-      "score": 69.91585306144515,
+      "score": 72.05242638788329,
       "proper": true,
       "niches": [
         "ai"
@@ -484,7 +422,7 @@
     {
       "keyword": "cliproxyapi",
       "count": 10,
-      "score": 69.86606673514413,
+      "score": 70.05599070409721,
       "proper": true,
       "niches": [
         "ai",
@@ -506,83 +444,32 @@
       "slug": "cliproxyapi"
     },
     {
-      "keyword": "skip arkk",
+      "keyword": "codie sanchez",
       "count": 11,
-      "score": 68.12399010784164,
+      "score": 63.86624072610152,
       "proper": true,
       "niches": [
-        "ai"
+        "finance"
       ],
       "examples": [
         {
-          "title": "Skip ARKK’s Moonshots: This Fund Owns the AI Software Winners for 0.45%",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaXFjRnkyaHJ4T3RtT2dqTTVEbFpoSUFuNlhzbXVCZDZOaFg1dGNFSTRnMTVTaWl6cTVrbk9NTkpCU3ZHYnhsSkZfcHpaR0FEUE45MUJUei1TN2lJNUZJVG9XUHFWbWRwWGt1ZXBicFc0OHRYcjJhREdjcVZBeVVXbE1QelFKQlpFUlRmS3laY1ZiSzRRalJHRA?oc=5",
+          "title": "3 Side Hustles You Should Start Over Others, According to Codie Sanchez",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE92U0ZqSnJLX1p1Vmp2NWRUUEVtLXNUckRZa3BlMjB1Sm5nUU9PYk1LTXFKQVF5cHAtaHdNM3hQNjNQWmdRSFBYREpuMnFHZGpBbUVtMGI4YlZGM3ltaUhTM3ZXQUZZcnM3YWJ2WTVoOXhyWlJUZldDXw?oc=5",
           "source": "gnews"
         },
         {
-          "title": "Skip ARKK’s Moonshots: This Fund Owns the AI Software Winners for 0.45%",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaXFjRnkyaHJ4T3RtT2dqTTVEbFpoSUFuNlhzbXVCZDZOaFg1dGNFSTRnMTVTaWl6cTVrbk9NTkpCU3ZHYnhsSkZfcHpaR0FEUE45MUJUei1TN2lJNUZJVG9XUHFWbWRwWGt1ZXBicFc0OHRYcjJhREdjcVZBeVVXbE1QelFKQlpFUlRmS3laY1ZiSzRRalJHRA?oc=5",
+          "title": "3 Side Hustles You Should Start Over Others, According to Codie Sanchez",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE92U0ZqSnJLX1p1Vmp2NWRUUEVtLXNUckRZa3BlMjB1Sm5nUU9PYk1LTXFKQVF5cHAtaHdNM3hQNjNQWmdRSFBYREpuMnFHZGpBbUVtMGI4YlZGM3ltaUhTM3ZXQUZZcnM3YWJ2WTVoOXhyWlJUZldDXw?oc=5",
           "source": "gnews"
         },
         {
-          "title": "Skip ARKK’s Moonshots: This Fund Owns the AI Software Winners for 0.45%",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaXFjRnkyaHJ4T3RtT2dqTTVEbFpoSUFuNlhzbXVCZDZOaFg1dGNFSTRnMTVTaWl6cTVrbk9NTkpCU3ZHYnhsSkZfcHpaR0FEUE45MUJUei1TN2lJNUZJVG9XUHFWbWRwWGt1ZXBicFc0OHRYcjJhREdjcVZBeVVXbE1QelFKQlpFUlRmS3laY1ZiSzRRalJHRA?oc=5",
+          "title": "3 Side Hustles You Should Start Over Others, According to Codie Sanchez",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE92U0ZqSnJLX1p1Vmp2NWRUUEVtLXNUckRZa3BlMjB1Sm5nUU9PYk1LTXFKQVF5cHAtaHdNM3hQNjNQWmdRSFBYREpuMnFHZGpBbUVtMGI4YlZGM3ltaUhTM3ZXQUZZcnM3YWJ2WTVoOXhyWlJUZldDXw?oc=5",
           "source": "gnews"
         }
       ],
-      "id": "ae2e9b9de242",
-      "slug": "skip-arkk"
-    },
-    {
-      "keyword": "tested chatgpt",
-      "count": 11,
-      "score": 66.42089035514559,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "I Tested ChatGPT’s 10-Hour Plan for Making $1,500 Monthly With a Side Hustle",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE81WHdKT3MzQ0ZaS29neU0zdzF2ZzFtRjhKc01MWHRmVE12cFpudmZqdnhtbTN6TTlMM1hMNnptckw3STVjeGpzMDdwS2s4MzFEN0ZfT3ZEUmFmVnRVWlcybXFXbGd6U096ZnZvSjR3X1F2QUR6Wk5lNE91dw?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "I Tested ChatGPT’s 10-Hour Plan for Making $1,500 Monthly With a Side Hustle",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE81WHdKT3MzQ0ZaS29neU0zdzF2ZzFtRjhKc01MWHRmVE12cFpudmZqdnhtbTN6TTlMM1hMNnptckw3STVjeGpzMDdwS2s4MzFEN0ZfT3ZEUmFmVnRVWlcybXFXbGd6U096ZnZvSjR3X1F2QUR6Wk5lNE91dw?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "I Tested ChatGPT’s 10-Hour Plan for Making $1,500 Monthly With a Side Hustle",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE81WHdKT3MzQ0ZaS29neU0zdzF2ZzFtRjhKc01MWHRmVE12cFpudmZqdnhtbTN6TTlMM1hMNnptckw3STVjeGpzMDdwS2s4MzFEN0ZfT3ZEUmFmVnRVWlcybXFXbGd6U096ZnZvSjR3X1F2QUR6Wk5lNE91dw?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "c07d7fcac6ba",
-      "slug": "tested-chatgpt"
-    },
-    {
-      "keyword": "naive art",
-      "count": 8,
-      "score": 62.72518869425613,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "Gina Gallery of International Naive Art",
-          "url": "https://www.ginagallery.com/",
-          "source": "hackernews"
-        },
-        {
-          "title": "Gina Gallery of International Naive Art",
-          "url": "https://www.ginagallery.com/",
-          "source": "hackernews"
-        }
-      ],
-      "id": "550c0d437f28",
-      "slug": "naive-art"
+      "id": "d6b66659f5e1",
+      "slug": "codie-sanchez"
     },
     {
       "keyword": "affordability crisis",
@@ -613,55 +500,37 @@
       "slug": "affordability-crisis"
     },
     {
-      "keyword": "microsoft ibm",
+      "keyword": "kitchen gadgets",
       "count": 12,
-      "score": 57.286082590685005,
+      "score": 56.357119089214436,
       "proper": false,
       "niches": [
-        "ai"
+        "gear"
       ],
       "examples": [
         {
-          "title": "Starbucks Just Fired A Warning Shot At Microsoft And IBM AI Apps",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQUpYQzllbU94bmt4WUxOQkg2SHdOMzNVMlFFay1sUkpqRXcwcUpUTUlSMWpEUE1hNXhsNlNMLWpqd0ZDOHZLWHM5UnpBTlpleHJwX3hJNUtydWlZcFhoR1JjS3lXR0dkdFZLdlhZSVk0V3pEd3gzSldoamtBanBsbnlibDZJaC1uN2hBclRZTkItTFNlVUpwdENJbHVLRWpra042Wm5seFRHb2R1LUVxVXFWeE15M1Zp?oc=5",
+          "title": "13 Best Kitchen Gadgets For Lazy Cooks",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBvdTZoOHZMcEhFQmtuRDNwQmR5WURRN2RxVWEwcml0aVFSQTFacXQ0dmNSbnotWVJNR1Y5QjZIUmF0SVh6VFlEdjhmYUNwWklJODlZMDdBU3A2eExZVWhrZnJ4ZHBNNVg0bDh3M0I4ZmNHeUxoN0NTQmNkdw?oc=5",
           "source": "gnews"
         },
         {
-          "title": "Starbucks Just Fired A Warning Shot At Microsoft And IBM AI Apps",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQUpYQzllbU94bmt4WUxOQkg2SHdOMzNVMlFFay1sUkpqRXcwcUpUTUlSMWpEUE1hNXhsNlNMLWpqd0ZDOHZLWHM5UnpBTlpleHJwX3hJNUtydWlZcFhoR1JjS3lXR0dkdFZLdlhZSVk0V3pEd3gzSldoamtBanBsbnlibDZJaC1uN2hBclRZTkItTFNlVUpwdENJbHVLRWpra042Wm5seFRHb2R1LUVxVXFWeE15M1Zp?oc=5",
+          "title": "13 Best Kitchen Gadgets For Lazy Cooks",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBvdTZoOHZMcEhFQmtuRDNwQmR5WURRN2RxVWEwcml0aVFSQTFacXQ0dmNSbnotWVJNR1Y5QjZIUmF0SVh6VFlEdjhmYUNwWklJODlZMDdBU3A2eExZVWhrZnJ4ZHBNNVg0bDh3M0I4ZmNHeUxoN0NTQmNkdw?oc=5",
           "source": "gnews"
         },
         {
-          "title": "Starbucks Taps AI to Cut Reliance on Microsoft, IBM Software",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORHVUVWVqNHpkRnFrVnFsT3oxSzlNYXhKYVRoeVZlS0NqOXpVQ2oxMTIwLTAxQjZNaFo4UnRMN1JIMDNHN1JLNzZuMG9oQ0hmc1gtZWstTXIzTTVnZ1QxdGN6LWxkU05kWkMwYWhUNk5FWkR1Q0lOMmNHVVptbmVZSlczNUZiRkktWVNkUGtoQzFjcWk3V2FCX3FHVWZzUlAwOXNzRUJVYnpZSTI1ZjZTaWx3WQ?oc=5",
+          "title": "I Found the Best Kitchen Gadgets That Make Meal Prep, Cooking, and Cleanup So Much Easier—All Under $25",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQYjNld3E1NGNFVE5CWG9NVTJUWTBoOV9VTUNsLUtpb1I3WHZQck1DQVNLVFl2Sm1IbGZBazY5S1ZXWXdVYzFaSmFuVmMyNXdKTTh1bm5EbV9aSGpjTWszTlg1a2x3andvZTdtUFc3eV9WM3gxSUdjZjJweDVJazRUSVNEZGxhMzNCZmc?oc=5",
           "source": "gnews"
         },
         {
-          "title": "Starbucks Taps AI to Cut Reliance on Microsoft, IBM Software",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORHVUVWVqNHpkRnFrVnFsT3oxSzlNYXhKYVRoeVZlS0NqOXpVQ2oxMTIwLTAxQjZNaFo4UnRMN1JIMDNHN1JLNzZuMG9oQ0hmc1gtZWstTXIzTTVnZ1QxdGN6LWxkU05kWkMwYWhUNk5FWkR1Q0lOMmNHVVptbmVZSlczNUZiRkktWVNkUGtoQzFjcWk3V2FCX3FHVWZzUlAwOXNzRUJVYnpZSTI1ZjZTaWx3WQ?oc=5",
+          "title": "I Found the Best Kitchen Gadgets That Make Meal Prep, Cooking, and Cleanup So Much Easier—All Under $25",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQYjNld3E1NGNFVE5CWG9NVTJUWTBoOV9VTUNsLUtpb1I3WHZQck1DQVNLVFl2Sm1IbGZBazY5S1ZXWXdVYzFaSmFuVmMyNXdKTTh1bm5EbV9aSGpjTWszTlg1a2x3andvZTdtUFc3eV9WM3gxSUdjZjJweDVJazRUSVNEZGxhMzNCZmc?oc=5",
           "source": "gnews"
         }
       ],
-      "id": "32253b9b9792",
-      "slug": "microsoft-ibm"
-    },
-    {
-      "keyword": "ai boosts research careers",
-      "count": 5,
-      "score": 56.075033612364706,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "AI Boosts Research Careers but Flattens Scientific Discovery",
-          "url": "https://spectrum.ieee.org/ai-science-research-flattens-discovery",
-          "source": "hackernews"
-        }
-      ],
-      "id": "ee5bfc853a8b",
-      "slug": "ai-boosts-research-careers"
+      "id": "4e4a1c4cb31e",
+      "slug": "kitchen-gadgets"
     },
     {
       "keyword": "official sdk",
@@ -685,56 +554,11 @@
       ],
       "id": "02e0ba92fe64",
       "slug": "official-sdk"
-    }
-  ],
-  "opportunities": [
-    {
-      "keyword": "side hustle",
-      "count": 35,
-      "score": 112.57876433446438,
-      "proper": true,
-      "niches": [
-        "ai",
-        "finance"
-      ],
-      "examples": [
-        {
-          "title": "I Tested ChatGPT’s 10-Hour Plan for Making $1,500 Monthly With a Side Hustle",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE81WHdKT3MzQ0ZaS29neU0zdzF2ZzFtRjhKc01MWHRmVE12cFpudmZqdnhtbTN6TTlMM1hMNnptckw3STVjeGpzMDdwS2s4MzFEN0ZfT3ZEUmFmVnRVWlcybXFXbGd6U096ZnZvSjR3X1F2QUR6Wk5lNE91dw?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "I Tested ChatGPT’s 10-Hour Plan for Making $1,500 Monthly With a Side Hustle",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE81WHdKT3MzQ0ZaS29neU0zdzF2ZzFtRjhKc01MWHRmVE12cFpudmZqdnhtbTN6TTlMM1hMNnptckw3STVjeGpzMDdwS2s4MzFEN0ZfT3ZEUmFmVnRVWlcybXFXbGd6U096ZnZvSjR3X1F2QUR6Wk5lNE91dw?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "I Tested ChatGPT’s 10-Hour Plan for Making $1,500 Monthly With a Side Hustle",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE81WHdKT3MzQ0ZaS29neU0zdzF2ZzFtRjhKc01MWHRmVE12cFpudmZqdnhtbTN6TTlMM1hMNnptckw3STVjeGpzMDdwS2s4MzFEN0ZfT3ZEUmFmVnRVWlcybXFXbGd6U096ZnZvSjR3X1F2QUR6Wk5lNE91dw?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "5 Side Hustle Businesses for Busy Parents",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdTJrNUhtUUgzamdzWUJkOWtfbFFpbFVYRzU0bHpEWVdNeTRRNzV1ZVFQQUN2a2xhaERhTGIwOHRTd2t6dEZrWVhVWnJGRnZoV21SaDZqQ3ZUTVRvc3pRMGtKLU9mdlVWRUxobzdzYmhLbFRmOEdLOXJzVHIySU1FTUZwM1Z6THdvWG5B?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "5 Side Hustle Businesses for Busy Parents",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdTJrNUhtUUgzamdzWUJkOWtfbFFpbFVYRzU0bHpEWVdNeTRRNzV1ZVFQQUN2a2xhaERhTGIwOHRTd2t6dEZrWVhVWnJGRnZoV21SaDZqQ3ZUTVRvc3pRMGtKLU9mdlVWRUxobzdzYmhLbFRmOEdLOXJzVHIySU1FTUZwM1Z6THdvWG5B?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "57270ed2efc7",
-      "slug": "side-hustle",
-      "opportunity": {
-        "type": "niche-content",
-        "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
-      }
     },
     {
-      "keyword": "claude code",
-      "count": 16,
-      "score": 103.12989620518218,
+      "keyword": "robinhood chain",
+      "count": 8,
+      "score": 55.65141796343495,
       "proper": true,
       "niches": [
         "ai"
@@ -749,10 +573,147 @@
           "title": "nhevers/project-r0x — Official SDK, Claude Code plugin and facilitator docs for r0x, the x402 facilitator for Robinhood Chain.",
           "url": "https://github.com/nhevers/project-r0x",
           "source": "github"
+        }
+      ],
+      "id": "d18ddd738234",
+      "slug": "robinhood-chain"
+    },
+    {
+      "keyword": "gpt free",
+      "count": 8,
+      "score": 55.08998629527787,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "myfanhua/turb-gpt-free-register — 纯协议+指纹浏览器自动GPT FREE注册机+Codex自动接码授权",
+          "url": "https://github.com/myfanhua/turb-gpt-free-register",
+          "source": "github"
         },
         {
-          "title": "djfksjd/ir-search — 🇰🇷 한국 정부 지원사업 전수조사 Claude Code 스킬 — K-Startup·기업마당·NIPA·KOCCA·SMTECH 크롤링 + 프로젝트 프로필 기반 즉시/로드맵/변형 3분류 (Korea-only)",
-          "url": "https://github.com/djfksjd/ir-search",
+          "title": "myfanhua/turb-gpt-free-register — 纯协议+指纹浏览器自动GPT FREE注册机+Codex自动接码授权",
+          "url": "https://github.com/myfanhua/turb-gpt-free-register",
+          "source": "github"
+        }
+      ],
+      "id": "5024f856b47b",
+      "slug": "gpt-free"
+    },
+    {
+      "keyword": "solo grants",
+      "count": 8,
+      "score": 53.66250420605535,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "Dev Opportunity Radar #7: $1,000 Solo Grants, Free Claude Max for Open Source Contributors, and an MLH Hackathon",
+          "url": "https://dev.to/devengers/dev-opportunity-radar-7-1000-solo-grants-free-claude-max-for-open-source-contributors-and-an-3i12",
+          "source": "devto"
+        },
+        {
+          "title": "Dev Opportunity Radar #7: $1,000 Solo Grants, Free Claude Max for Open Source Contributors, and an MLH Hackathon",
+          "url": "https://dev.to/devengers/dev-opportunity-radar-7-1000-solo-grants-free-claude-max-for-open-source-contributors-and-an-3i12",
+          "source": "devto"
+        }
+      ],
+      "id": "ad4457815c79",
+      "slug": "solo-grants"
+    },
+    {
+      "keyword": "mlh hackathon",
+      "count": 8,
+      "score": 53.66250420605535,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "Dev Opportunity Radar #7: $1,000 Solo Grants, Free Claude Max for Open Source Contributors, and an MLH Hackathon",
+          "url": "https://dev.to/devengers/dev-opportunity-radar-7-1000-solo-grants-free-claude-max-for-open-source-contributors-and-an-3i12",
+          "source": "devto"
+        },
+        {
+          "title": "Dev Opportunity Radar #7: $1,000 Solo Grants, Free Claude Max for Open Source Contributors, and an MLH Hackathon",
+          "url": "https://dev.to/devengers/dev-opportunity-radar-7-1000-solo-grants-free-claude-max-for-open-source-contributors-and-an-3i12",
+          "source": "devto"
+        }
+      ],
+      "id": "b4bf7f70b380",
+      "slug": "mlh-hackathon"
+    },
+    {
+      "keyword": "side hustles",
+      "count": 17,
+      "score": 53.19767551390048,
+      "proper": true,
+      "niches": [
+        "finance"
+      ],
+      "examples": [
+        {
+          "title": "3 Side Hustles You Should Start Over Others, According to Codie Sanchez",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE92U0ZqSnJLX1p1Vmp2NWRUUEVtLXNUckRZa3BlMjB1Sm5nUU9PYk1LTXFKQVF5cHAtaHdNM3hQNjNQWmdRSFBYREpuMnFHZGpBbUVtMGI4YlZGM3ltaUhTM3ZXQUZZcnM3YWJ2WTVoOXhyWlJUZldDXw?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "3 Side Hustles You Should Start Over Others, According to Codie Sanchez",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE92U0ZqSnJLX1p1Vmp2NWRUUEVtLXNUckRZa3BlMjB1Sm5nUU9PYk1LTXFKQVF5cHAtaHdNM3hQNjNQWmdRSFBYREpuMnFHZGpBbUVtMGI4YlZGM3ltaUhTM3ZXQUZZcnM3YWJ2WTVoOXhyWlJUZldDXw?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "11 Side Hustles from Home and How to Get Started",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA4TVVRczNSdlMzM1ZCNERKZExPNGUzejhRYUdfSlJWT1oxbUdPdDc5MmhSYldvNmZFZ3V4S2xYMkkxVXh3TmIyUWZOVDBqQzE2QVlnd1piNHdoaVN4SVpwMDZNeHVycDdtb2pF?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "11 Side Hustles from Home and How to Get Started",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA4TVVRczNSdlMzM1ZCNERKZExPNGUzejhRYUdfSlJWT1oxbUdPdDc5MmhSYldvNmZFZ3V4S2xYMkkxVXh3TmIyUWZOVDBqQzE2QVlnd1piNHdoaVN4SVpwMDZNeHVycDdtb2pF?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "11 Side Hustles from Home and How to Get Started",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA4TVVRczNSdlMzM1ZCNERKZExPNGUzejhRYUdfSlJWT1oxbUdPdDc5MmhSYldvNmZFZ3V4S2xYMkkxVXh3TmIyUWZOVDBqQzE2QVlnd1piNHdoaVN4SVpwMDZNeHVycDdtb2pF?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "c69e96fd90af",
+      "slug": "side-hustles"
+    }
+  ],
+  "opportunities": [
+    {
+      "keyword": "claude code",
+      "count": 24,
+      "score": 227.4615724773119,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
+          "url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
+          "source": "hackernews"
+        },
+        {
+          "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
+          "url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
+          "source": "hackernews"
+        },
+        {
+          "title": "nhevers/project-r0x — Official SDK, Claude Code plugin and facilitator docs for r0x, the x402 facilitator for Robinhood Chain.",
+          "url": "https://github.com/nhevers/project-r0x",
+          "source": "github"
+        },
+        {
+          "title": "nhevers/project-r0x — Official SDK, Claude Code plugin and facilitator docs for r0x, the x402 facilitator for Robinhood Chain.",
+          "url": "https://github.com/nhevers/project-r0x",
           "source": "github"
         },
         {
@@ -801,9 +762,36 @@
       }
     },
     {
+      "keyword": "against usefulness",
+      "count": 8,
+      "score": 75.40945257006932,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "Against Usefulness",
+          "url": "https://www.motivenotes.ai/p/against-usefulness",
+          "source": "hackernews"
+        },
+        {
+          "title": "Against Usefulness",
+          "url": "https://www.motivenotes.ai/p/against-usefulness",
+          "source": "hackernews"
+        }
+      ],
+      "id": "af7247ff1f76",
+      "slug": "against-usefulness",
+      "opportunity": {
+        "type": "tooling",
+        "recommended": "Build / list AI tools; monetize via affiliate links + lead magnet."
+      }
+    },
+    {
       "keyword": "agent skill",
-      "count": 11,
-      "score": 92.38233602603673,
+      "count": 8,
+      "score": 74.28116795545259,
       "proper": true,
       "niches": [
         "ai"
@@ -817,11 +805,6 @@
         {
           "title": "yetone/kill-ai-slop — A field guide to the visual & copy tics of AI-generated products — and an Agent Skill that scans your project and strips them out. https://killaislop.com",
           "url": "https://github.com/yetone/kill-ai-slop",
-          "source": "github"
-        },
-        {
-          "title": "Alisa0808/vox-director — Turn one topic into a finished Vox-style paper-collage explainer/ad video — automated end to end on Atlas Cloud + ffmpeg. An agent skill.",
-          "url": "https://github.com/Alisa0808/vox-director",
           "source": "github"
         }
       ],
@@ -833,63 +816,9 @@
       }
     },
     {
-      "keyword": "silent sunday",
-      "count": 8,
-      "score": 86.9690044035662,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "Silent Sunday 🌿 #art #mastoart #fediart #nature #silentsunday #cute #insects #digitalArt #noai #portrait #butterfly #bee",
-          "url": "https://mastodon.social/@sylvia_ritter/116906990903005465",
-          "source": "mastodon"
-        },
-        {
-          "title": "Silent Sunday 🌿 #art #mastoart #fediart #nature #silentsunday #cute #insects #digitalArt #noai #portrait #butterfly #bee",
-          "url": "https://mastodon.social/@sylvia_ritter/116906990903005465",
-          "source": "mastodon"
-        }
-      ],
-      "id": "a2b385ec8d90",
-      "slug": "silent-sunday",
-      "opportunity": {
-        "type": "niche-content",
-        "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
-      }
-    },
-    {
-      "keyword": "mesh llm",
-      "count": 8,
-      "score": 81.71262566614581,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "Mesh LLM: distributed AI computing on iroh",
-          "url": "https://www.iroh.computer/blog/mesh-llm",
-          "source": "hackernews"
-        },
-        {
-          "title": "Mesh LLM: distributed AI computing on iroh",
-          "url": "https://www.iroh.computer/blog/mesh-llm",
-          "source": "hackernews"
-        }
-      ],
-      "id": "c6742286eaba",
-      "slug": "mesh-llm",
-      "opportunity": {
-        "type": "tooling",
-        "recommended": "Build / list AI tools; monetize via affiliate links + lead magnet."
-      }
-    },
-    {
       "keyword": "codex cli",
       "count": 11,
-      "score": 69.91585306144515,
+      "score": 72.05242638788329,
       "proper": true,
       "niches": [
         "ai"
@@ -921,7 +850,7 @@
     {
       "keyword": "cliproxyapi",
       "count": 10,
-      "score": 69.86606673514413,
+      "score": 70.05599070409721,
       "proper": true,
       "niches": [
         "ai",
@@ -944,6 +873,70 @@
       "opportunity": {
         "type": "affiliate",
         "recommended": "Write SEO comparison/roundup article with affiliate links."
+      }
+    },
+    {
+      "keyword": "codie sanchez",
+      "count": 11,
+      "score": 63.86624072610152,
+      "proper": true,
+      "niches": [
+        "finance"
+      ],
+      "examples": [
+        {
+          "title": "3 Side Hustles You Should Start Over Others, According to Codie Sanchez",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE92U0ZqSnJLX1p1Vmp2NWRUUEVtLXNUckRZa3BlMjB1Sm5nUU9PYk1LTXFKQVF5cHAtaHdNM3hQNjNQWmdRSFBYREpuMnFHZGpBbUVtMGI4YlZGM3ltaUhTM3ZXQUZZcnM3YWJ2WTVoOXhyWlJUZldDXw?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "3 Side Hustles You Should Start Over Others, According to Codie Sanchez",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE92U0ZqSnJLX1p1Vmp2NWRUUEVtLXNUckRZa3BlMjB1Sm5nUU9PYk1LTXFKQVF5cHAtaHdNM3hQNjNQWmdRSFBYREpuMnFHZGpBbUVtMGI4YlZGM3ltaUhTM3ZXQUZZcnM3YWJ2WTVoOXhyWlJUZldDXw?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "3 Side Hustles You Should Start Over Others, According to Codie Sanchez",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE92U0ZqSnJLX1p1Vmp2NWRUUEVtLXNUckRZa3BlMjB1Sm5nUU9PYk1LTXFKQVF5cHAtaHdNM3hQNjNQWmdRSFBYREpuMnFHZGpBbUVtMGI4YlZGM3ltaUhTM3ZXQUZZcnM3YWJ2WTVoOXhyWlJUZldDXw?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "d6b66659f5e1",
+      "slug": "codie-sanchez",
+      "opportunity": {
+        "type": "niche-content",
+        "recommended": "Publish niche guide for \"finance\"; bundle into digital product later."
+      }
+    },
+    {
+      "keyword": "affordability crisis",
+      "count": 11,
+      "score": 58.75694146801339,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "Affordability Crisis: Five smart side-hustle ideas to the rescue",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTlpoczY3VEVXQ2JHVVdwenZjRjJUS2xrNkZ1VS1BODZyZ0g1TkNjcnJfZldCa2xyenEyXzlKMzlDMDVCMXdvdFdlbmNhV0tqU3N6YkxkdjFzbFZVWEwzQl9ELWd6TlBacm1wOTloc0Z4a0ZKczBrY1N5MHNwUnFFZm1vVTNFeU15N0hIeFZCQWNqMlVIWnlHTXFlTEh0VEVVREhDaWpIWGptUG82QU9hZ0lod0NiWkNER3hxWQ?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Affordability Crisis: Five smart side-hustle ideas to the rescue",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTlpoczY3VEVXQ2JHVVdwenZjRjJUS2xrNkZ1VS1BODZyZ0g1TkNjcnJfZldCa2xyenEyXzlKMzlDMDVCMXdvdFdlbmNhV0tqU3N6YkxkdjFzbFZVWEwzQl9ELWd6TlBacm1wOTloc0Z4a0ZKczBrY1N5MHNwUnFFZm1vVTNFeU15N0hIeFZCQWNqMlVIWnlHTXFlTEh0VEVVREhDaWpIWGptUG82QU9hZ0lod0NiWkNER3hxWQ?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Affordability Crisis: Five smart side-hustle ideas to the rescue",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTlpoczY3VEVXQ2JHVVdwenZjRjJUS2xrNkZ1VS1BODZyZ0g1TkNjcnJfZldCa2xyenEyXzlKMzlDMDVCMXdvdFdlbmNhV0tqU3N6YkxkdjFzbFZVWEwzQl9ELWd6TlBacm1wOTloc0Z4a0ZKczBrY1N5MHNwUnFFZm1vVTNFeU15N0hIeFZCQWNqMlVIWnlHTXFlTEh0VEVVREhDaWpIWGptUG82QU9hZ0lod0NiWkNER3hxWQ?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "75c4782cb45d",
+      "slug": "affordability-crisis",
+      "opportunity": {
+        "type": "niche-content",
+        "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
       }
     }
   ]

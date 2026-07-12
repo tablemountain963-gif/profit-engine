@@ -74,8 +74,8 @@
     },
     "kitchen-gadgets": {
       "firstSeen": "2026-05-28T13:16:58.330Z",
-      "lastSeen": "2026-06-11T05:26:32.222Z",
-      "count": 4,
+      "lastSeen": "2026-07-12T21:36:59.766Z",
+      "count": 5,
       "wins": 1,
       "losses": 0,
       "niche": "gear"
@@ -2776,54 +2776,6 @@
       "losses": 0,
       "niche": "ai"
     },
-    "dead-daylight": {
-      "firstSeen": "2026-06-28T16:58:31.095Z",
-      "lastSeen": "2026-06-28T16:58:31.095Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "ai"
-    },
-    "daylight-auto-grind": {
-      "firstSeen": "2026-06-28T16:58:41.404Z",
-      "lastSeen": "2026-06-28T16:58:41.404Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "ai"
-    },
-    "auto-grind-trainer": {
-      "firstSeen": "2026-06-28T16:59:08.248Z",
-      "lastSeen": "2026-06-28T16:59:08.248Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "ai"
-    },
-    "bloodpoint-bot": {
-      "firstSeen": "2026-06-28T16:59:42.236Z",
-      "lastSeen": "2026-06-28T16:59:42.236Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "ai"
-    },
-    "bot-esp": {
-      "firstSeen": "2026-06-28T16:59:57.406Z",
-      "lastSeen": "2026-06-28T16:59:57.406Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "ai"
-    },
-    "esp-wallhack": {
-      "firstSeen": "2026-06-28T17:00:05.328Z",
-      "lastSeen": "2026-06-28T17:00:05.328Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "ai"
-    },
     "wallhack-aimbot": {
       "firstSeen": "2026-06-28T21:51:30.972Z",
       "lastSeen": "2026-07-01T05:19:20.364Z",
@@ -4202,8 +4154,8 @@
     },
     "capcut-named": {
       "firstSeen": "2026-07-07T15:42:43.673Z",
-      "lastSeen": "2026-07-07T15:42:43.673Z",
-      "count": 1,
+      "lastSeen": "2026-07-12T21:37:03.580Z",
+      "count": 2,
       "wins": 0,
       "losses": 0,
       "niche": "ai"
@@ -5154,9 +5106,9 @@
     },
     "ai-boosts-research-careers": {
       "firstSeen": "2026-07-12T16:45:47.644Z",
-      "lastSeen": "2026-07-12T16:45:47.644Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-07-12T21:36:47.547Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -5191,16 +5143,32 @@
       "wins": 0,
       "losses": 0,
       "niche": "gear"
+    },
+    "against-usefulness": {
+      "firstSeen": "2026-07-12T21:36:53.008Z",
+      "lastSeen": "2026-07-12T21:36:53.008Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "codie-sanchez": {
+      "firstSeen": "2026-07-12T21:36:56.283Z",
+      "lastSeen": "2026-07-12T21:36:56.283Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "finance"
     }
   },
   "niches": {
     "ai": {
-      "count": 1275,
-      "wins": 354,
+      "count": 1278,
+      "wins": 355,
       "losses": 52
     },
     "finance": {
-      "count": 113,
+      "count": 114,
       "wins": 18,
       "losses": 2
     },
@@ -5210,7 +5178,7 @@
       "losses": 19
     },
     "gear": {
-      "count": 111,
+      "count": 112,
       "wins": 34,
       "losses": 0
     },
