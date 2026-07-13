@@ -1,280 +1,280 @@
 {
-  "generatedAt": "2026-07-12T21:36:48.631Z",
-  "sourceCount": 204,
+  "generatedAt": "2026-07-13T04:27:41.061Z",
+  "sourceCount": 206,
   "topItems": [
     {
       "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
       "url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
-      "score": 10.35,
-      "niche": "ai",
-      "source": "hackernews",
-      "engagement": {
-        "score": 301,
-        "comments": 173
-      }
-    },
-    {
-      "title": "Old and new apps, via modern coding agents",
-      "url": "https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/",
-      "score": 9.23,
-      "niche": "ai",
-      "source": "hackernews",
-      "engagement": {
-        "score": 381,
-        "comments": 106
-      }
-    },
-    {
-      "title": "RSS is a secret trick to making the internet more usable. https://www.eff.org/deeplinks/2026/06/hate-algorithm-rss-one-tools-youve-been-looking",
-      "url": "https://mastodon.social/@eff/116908311262192259",
       "score": 8.91,
-      "niche": "software",
-      "source": "mastodon",
-      "engagement": {
-        "score": 273,
-        "comments": 3
-      }
-    },
-    {
-      "title": "Trying to figure out what’s clickable in modern UI",
-      "url": "https://mastodon.online/@nikitonsky/116907750097879448",
-      "score": 8.84,
-      "niche": "software",
-      "source": "mastodon",
-      "engagement": {
-        "score": 1364,
-        "comments": 34
-      }
-    },
-    {
-      "title": "RE: https://corteximplant.com/@revengeday/116851393554189784Long thread, so here’s a short version:When Bandcamp (or any platform) goes awful, don’t aim your pitchforks at the people relying on that p",
-      "url": "https://hachyderm.io/@inthehands/116908760408653696",
-      "score": 8.81,
-      "niche": "ai",
-      "source": "mastodon",
-      "engagement": {
-        "score": 124,
-        "comments": 3
-      }
-    },
-    {
-      "title": "When you \"break\" the anti-AI software I have on my website that does not illustrate that the software doesn't work well enough: It shows that you are someone who explicitly circumvents people's stated",
-      "url": "https://tldr.nettime.org/@tante/116908308620011433",
-      "score": 8.57,
-      "niche": "ai",
-      "source": "mastodon",
-      "engagement": {
-        "score": 454,
-        "comments": 10
-      }
-    },
-    {
-      "title": "I love LLMs, I hate hype",
-      "url": "https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html",
-      "score": 8.49,
       "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 215,
-        "comments": 117
+        "score": 503,
+        "comments": 281
       }
     },
     {
-      "title": "Flohmarkt is a free open platform for small ads and selling things (\"Flohmarkt\" is the German for flea market). It's part of the Fediverse so the small ads can federate to other servers, and people ca",
-      "url": "https://social.growyourown.services/@homegrown/116908540294565658",
-      "score": 8.18,
-      "niche": "software",
-      "source": "mastodon",
+      "title": "Ask HN: Add flag for AI-generated articles",
+      "url": "https://news.ycombinator.com/item?id=48886741",
+      "score": 8.64,
+      "niche": "ai",
+      "source": "hackernews",
       "engagement": {
-        "score": 168,
-        "comments": 4
+        "score": 213,
+        "comments": 143
       }
     },
     {
-      "title": "Remember me asking about visibke mending for a L-tear in my linen pants?I combined the recs I got here with some crafts I already knew how to do (cross stitch) for a 🌻-result that makes me very happy",
-      "url": "https://mastodon.social/@vicgrinberg/116907695708020687",
-      "score": 7.65,
+      "title": "Time to head to the Big Apple!",
+      "url": "https://mastodon.social/@VeroniqueB99/116909666295511851",
+      "score": 8.5,
       "niche": "software",
       "source": "mastodon",
       "engagement": {
-        "score": 397,
+        "score": 408,
         "comments": 13
       }
     },
     {
       "title": "Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper",
       "url": "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6",
-      "score": 7.65,
+      "score": 8.15,
       "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 54,
-        "comments": 7
+        "score": 160,
+        "comments": 60
       }
     },
     {
-      "title": "What xAI's Grok build CLI sends to xAI: A wire-level analysis",
-      "url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
-      "score": 7.27,
+      "title": "The kids are alright. From an email I  received today:I am writing to express my huge appreciation for your incredible work and dedication to maintaining curl—one of the most essential building blocks",
+      "url": "https://mastodon.social/@bagder/116909133263883845",
+      "score": 8.03,
+      "niche": "ai",
+      "source": "mastodon",
+      "engagement": {
+        "score": 519,
+        "comments": 6
+      }
+    },
+    {
+      "title": "I love LLMs, I hate hype",
+      "url": "https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html",
+      "score": 7.46,
       "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 384,
-        "comments": 153
+        "score": 363,
+        "comments": 227
+      }
+    },
+    {
+      "title": "RE: https://mastodon.social/@VeroniqueB99/116909666295511851today’s #altTxt #yaddayadda because this will make living in #nyc 100% better:❝ MAGA is apparently now boycotting going to NYC because they ",
+      "url": "https://mastodon.social/@blogdiva/116910113050364181",
+      "score": 7.21,
+      "niche": "software",
+      "source": "mastodon",
+      "engagement": {
+        "score": 157,
+        "comments": 8
       }
     },
     {
       "title": "mereyabdenbekuly-ctrl/clodex-ide — Local-first, zero-trust agentic IDE for verifiable autonomous software development.",
       "url": "https://github.com/mereyabdenbekuly-ctrl/clodex-ide",
-      "score": 7.18,
+      "score": 7.19,
       "niche": "ai",
       "source": "github",
       "engagement": {
-        "score": 638,
+        "score": 641,
         "comments": 0
       }
     },
     {
-      "title": "Show HN: Shirei, cross-platform GUI framework in native Go",
-      "url": "https://github.com/hasenj/go-shirei/",
-      "score": 6.93,
+      "title": "Mechanistic interpretability researchers applying causality theory to LLMs",
+      "url": "https://cacm.acm.org/news/can-we-understand-how-large-language-models-reason/",
+      "score": 6.92,
+      "niche": "ai",
+      "source": "hackernews",
+      "engagement": {
+        "score": 91,
+        "comments": 66
+      }
+    },
+    {
+      "title": "oops, i cloned another sound card! this is the Beavis Ultrasound, an open source clone of the Gravis Ultrasound PnP. yes, i know there are already clones of this card, but mine provides the full schem",
+      "url": "https://mastodon.social/@tubetime/116910438288228622",
+      "score": 6.91,
       "niche": "software",
-      "source": "hackernews",
+      "source": "mastodon",
       "engagement": {
-        "score": 69,
-        "comments": 36
+        "score": 129,
+        "comments": 5
       }
     },
     {
-      "title": "Against Usefulness",
-      "url": "https://www.motivenotes.ai/p/against-usefulness",
-      "score": 6.28,
+      "title": "You Europeans are always complaining about #Europe. And I'm not saying Europe is perfect and deserves no criticism, but as an American I am often envious of your set of problems versus our set of prob",
+      "url": "https://mastodon.social/@benroyce/116910046813924230",
+      "score": 6.83,
       "niche": "ai",
-      "source": "hackernews",
+      "source": "mastodon",
       "engagement": {
-        "score": 61,
-        "comments": 15
+        "score": 63,
+        "comments": 4
       }
     },
     {
-      "title": "yetone/kill-ai-slop — A field guide to the visual & copy tics of AI-generated products — and an Agent Skill that scans your project and strips them out. https://killaislop.com",
-      "url": "https://github.com/yetone/kill-ai-slop",
-      "score": 6.19,
+      "title": "shadowhawkstride/Meccha-Chameleon-Vision — External ESP · Aimbot · Radar · Player Mod · Camouflage for MECCHA CHAMELEON",
+      "url": "https://github.com/shadowhawkstride/Meccha-Chameleon-Vision",
+      "score": 6.79,
       "niche": "ai",
       "source": "github",
       "engagement": {
-        "score": 301,
+        "score": 131,
         "comments": 0
       }
     },
     {
-      "title": "chordswallowthrust/undress-design — AI-powered fashion visualization and virtual try-on toolkit for consent-based garment editing, outfit prototyping, and creative design workflows. https://undress.de",
-      "url": "https://github.com/chordswallowthrust/undress-design",
-      "score": 6.11,
+      "title": "I met a friend yesterday who last saw Cookie a decade ago. Her main memory of Cookie was ‘super cute and clumsy’ They say dogs take after their owners.. miss her clumsy face#Dogs",
+      "url": "https://hachyderm.io/@skinnylatte/116910488646170075",
+      "score": 6.43,
       "niche": "ai",
-      "source": "github",
+      "source": "mastodon",
       "engagement": {
-        "score": 156,
+        "score": 97,
+        "comments": 2
+      }
+    },
+    {
+      "title": "Starbucks Just Fired A Warning Shot At Microsoft And IBM AI Apps",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQUpYQzllbU94bmt4WUxOQkg2SHdOMzNVMlFFay1sUkpqRXcwcUpUTUlSMWpEUE1hNXhsNlNMLWpqd0ZDOHZLWHM5UnpBTlpleHJwX3hJNUtydWlZcFhoR1JjS3lXR0dkdFZLdlhZSVk0V3pEd3gzSldoamtBanBsbnlibDZJaC1uN2hBclRZTkItTFNlVUpwdENJbHVLRWpra042Wm5seFRHb2R1LUVxVXFWeE15M1Zp?oc=5",
+      "score": 5.99,
+      "niche": "ai",
+      "source": "gnews",
+      "engagement": {
+        "score": 40,
         "comments": 0
+      }
+    },
+    {
+      "title": "James Talarico raised $30 million over the last three months, the most in Senate campaign history, sending a clear signal about where this race is headed. Democratic primary turnout is outpacing Repub",
+      "url": "https://universeodon.com/@georgetakei/116910332378329016",
+      "score": 5.98,
+      "niche": "ai",
+      "source": "mastodon",
+      "engagement": {
+        "score": 71,
+        "comments": 1
       }
     },
     {
       "title": "I Learned to Read Again",
       "url": "https://substack.magazinenongrata.com/p/how-i-learned-to-read-again",
-      "score": 6.04,
+      "score": 5.97,
       "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 46,
-        "comments": 15
+        "score": 117,
+        "comments": 48
       }
     },
     {
-      "title": "Hey remember when Github was high-availability",
-      "url": "https://mastodon.social/@mcc/116908997542549663",
-      "score": 6,
+      "title": "What xAI's Grok build CLI sends to xAI: A wire-level analysis",
+      "url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
+      "score": 5.52,
       "niche": "ai",
-      "source": "mastodon",
+      "source": "hackernews",
       "engagement": {
-        "score": 58,
-        "comments": 8
+        "score": 421,
+        "comments": 163
       }
     },
     {
-      "title": "I hope this email finds you lying very still in your bed, and looking surprisingly healthier than you looked the night before.",
-      "url": "https://mastodon.social/@thisemailfindsyou/116908680971999548",
-      "score": 6,
+      "title": "Against Usefulness",
+      "url": "https://www.motivenotes.ai/p/against-usefulness",
+      "score": 5.51,
       "niche": "ai",
-      "source": "mastodon",
+      "source": "hackernews",
       "engagement": {
-        "score": 72,
+        "score": 93,
+        "comments": 24
+      }
+    },
+    {
+      "title": "MarvinSchwaibold/mri-grid-viewer — Local-first MRI series grid viewer with a SwiftUI iOS wrapper",
+      "url": "https://github.com/MarvinSchwaibold/mri-grid-viewer",
+      "score": 5.47,
+      "niche": "ai",
+      "source": "github",
+      "engagement": {
+        "score": 71,
+        "comments": 0
+      }
+    },
+    {
+      "title": "Logitech G316 X keyboard review: Retro charm done right",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ySDhwR0UxbjktcGlkeldNTF9LcXZmQnBzZU13WEJOWmZzR3l3WmpFYVI0elJlREMyRTlFLWpLS29BM1lqUG5WX0dlcUdkdEpLelhyZldjY1EyMGlDVzBaM3lB?oc=5",
+      "score": 5.19,
+      "niche": "gear",
+      "source": "gnews",
+      "engagement": {
+        "score": 40,
+        "comments": 0
+      }
+    },
+    {
+      "title": "Procter & Gamble vs PepsiCo: The Better Stock For Passive Income Investors",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxORkgxMlhIaUktNnpIVmtqYVdYbkhGX2dSdTBvRUh1ekNlTGlzaDA5MWQyTW9mOWR3bVRfZWxLdlhKaXE4OHBfUjlXQjB0NnlwQm9LUFVGdkN6TDhLSC1vOWpGb0I2UjlodHNaanpUSlRxX1BIZ0QyQmh1WTlpN1hzYkpCSGhPclBuZmVMLUFmeGRqVEhaYTlXT1Z5UE53UQ?oc=5",
+      "score": 5.03,
+      "niche": "finance",
+      "source": "gnews",
+      "engagement": {
+        "score": 40,
+        "comments": 0
+      }
+    },
+    {
+      "title": "The Best AI Learning Tools Make Better Teachers, Not Fewer",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZ3NDRnZSMXR5VzIxVVE2b0Q0ek1hbXExbVhveDNWQlB2MUZXZF93bzFnRmUwR004VER5RWw5d2ZJX0NhR3hsU2JyZGFEaW5BWkt6anByM283eE1PTlNCMjJWSHB1bHUya1ZjMV9oY1NNQmZ0T19Gb1VWRUZVb3hRakpKVXVSOGRicTNMLW1FVThRMXhZOGZ4V3RYNkFZUC12QnhyUldiTQ?oc=5",
+      "score": 4.95,
+      "niche": "ai",
+      "source": "gnews",
+      "engagement": {
+        "score": 40,
+        "comments": 0
+      }
+    },
+    {
+      "title": "Paresh-Maheshwari/morphe-ai — Morphe's AI-powered Android APK patching workspace — multi-agent pipeline for APK analysis, target hunting, patch writing & deployment.",
+      "url": "https://github.com/Paresh-Maheshwari/morphe-ai",
+      "score": 4.71,
+      "niche": "ai",
+      "source": "github",
+      "engagement": {
+        "score": 68,
+        "comments": 0
+      }
+    },
+    {
+      "title": "MDX-Tom/gpt-5.6-instruct — A Codex CLI jailbreak prompt and test pack for gpt-5.6-sol. 针对 gpt-5.6 系列的 Codex CLI 破甲提示词与测试包。",
+      "url": "https://github.com/MDX-Tom/gpt-5.6-instruct",
+      "score": 4.65,
+      "niche": "ai",
+      "source": "github",
+      "engagement": {
+        "score": 127,
+        "comments": 0
+      }
+    },
+    {
+      "title": "nhevers/project-r0x — Official SDK, Claude Code plugin and facilitator docs for r0x, the x402 facilitator for Robinhood Chain.",
+      "url": "https://github.com/nhevers/project-r0x",
+      "score": 4.64,
+      "niche": "ai",
+      "source": "github",
+      "engagement": {
+        "score": 123,
         "comments": 1
-      }
-    },
-    {
-      "title": "13 Best Kitchen Gadgets For Lazy Cooks",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBvdTZoOHZMcEhFQmtuRDNwQmR5WURRN2RxVWEwcml0aVFSQTFacXQ0dmNSbnotWVJNR1Y5QjZIUmF0SVh6VFlEdjhmYUNwWklJODlZMDdBU3A2eExZVWhrZnJ4ZHBNNVg0bDh3M0I4ZmNHeUxoN0NTQmNkdw?oc=5",
-      "score": 5.87,
-      "niche": "gear",
-      "source": "gnews",
-      "engagement": {
-        "score": 40,
-        "comments": 0
-      }
-    },
-    {
-      "title": "8 Cool New Gadgets to Keep on Your Radar",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1lNUZDQlBCbVprNXJjek1vdXljNmc1b1RTVDRhdWhZQWF2QUVRZE9HZktRWXVpWVBvWUVyTEIzSVhoVEY0T1lKMk9IX0w5QXlIbkt0RER0Ymd0V19GYjZTbmVlcGNITzlMMkRETTFpN25HUQ?oc=5",
-      "score": 5.19,
-      "niche": "gear",
-      "source": "gnews",
-      "engagement": {
-        "score": 40,
-        "comments": 0
-      }
-    },
-    {
-      "title": "10 Mini Gadgets That Are Perfect For A Small Home Office",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1OdlRSYkZfODk2R0VRYmpnUWpEVnhSVWlWc01wVmYxbVNUNTZfN2JoeVNYdVRnSXl3aWU3TEhnNGgwY0RJU004cGhsMlVSX2t2aDdscFl6S0tpMS1pVFhKZXkyN3NSTzd1TGxRTVpVMDJuUVZ4U3VWNFFHOA?oc=5",
-      "score": 5.19,
-      "niche": "gear",
-      "source": "gnews",
-      "engagement": {
-        "score": 40,
-        "comments": 0
-      }
-    },
-    {
-      "title": "xsser/cliproxyapi-cloudflare-stack — 感谢马斯克 让我grok自由，免费注册grok 无数个号。然后cpa自由使用",
-      "url": "https://github.com/xsser/cliproxyapi-cloudflare-stack",
-      "score": 5.17,
-      "niche": "software",
-      "source": "github",
-      "engagement": {
-        "score": 101,
-        "comments": 0
-      }
-    },
-    {
-      "title": "The One-Step Trap (In AI Research)",
-      "url": "http://incompleteideas.net/IncIdeas/OneStepTrap.html",
-      "score": 5.06,
-      "niche": "ai",
-      "source": "hackernews",
-      "engagement": {
-        "score": 29,
-        "comments": 4
-      }
-    },
-    {
-      "title": "dongguatanglinux/grok-build-auth — Protocol research client: x.ai signup → SSO → Grok Build OAuth → CLIProxyAPI auth export (authorized use only)",
-      "url": "https://github.com/dongguatanglinux/grok-build-auth",
-      "score": 5.05,
-      "niche": "ai",
-      "source": "github",
-      "engagement": {
-        "score": 192,
-        "comments": 0
       }
     }
   ],
@@ -282,7 +282,7 @@
     {
       "keyword": "claude code",
       "count": 24,
-      "score": 227.4615724773119,
+      "score": 212.48271428801624,
       "proper": true,
       "niches": [
         "ai"
@@ -318,83 +318,182 @@
       "slug": "claude-code"
     },
     {
-      "keyword": "lazy cooks",
+      "keyword": "passive income",
+      "count": 39,
+      "score": 114.37863111856365,
+      "proper": false,
+      "niches": [
+        "finance"
+      ],
+      "examples": [
+        {
+          "title": "Procter & Gamble vs PepsiCo: The Better Stock For Passive Income Investors",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxORkgxMlhIaUktNnpIVmtqYVdYbkhGX2dSdTBvRUh1ekNlTGlzaDA5MWQyTW9mOWR3bVRfZWxLdlhKaXE4OHBfUjlXQjB0NnlwQm9LUFVGdkN6TDhLSC1vOWpGb0I2UjlodHNaanpUSlRxX1BIZ0QyQmh1WTlpN1hzYkpCSGhPclBuZmVMLUFmeGRqVEhaYTlXT1Z5UE53UQ?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Procter & Gamble vs PepsiCo: The Better Stock For Passive Income Investors",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxORkgxMlhIaUktNnpIVmtqYVdYbkhGX2dSdTBvRUh1ekNlTGlzaDA5MWQyTW9mOWR3bVRfZWxLdlhKaXE4OHBfUjlXQjB0NnlwQm9LUFVGdkN6TDhLSC1vOWpGb0I2UjlodHNaanpUSlRxX1BIZ0QyQmh1WTlpN1hzYkpCSGhPclBuZmVMLUFmeGRqVEhaYTlXT1Z5UE53UQ?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "3 Passive Income ETFs Worth Holding for the Long Haul",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbE9EemtKNEhtRGFLaDlyWUd3UjhHdmpaaXQ1U0dOdnczVUhHa0tWZURjcGM4bk42WXJBVi0tc3ZOdDZId1NJOFN5WUk3YnJEbzk3QzdlWmtXbjVnbm51d3dTUUVnWElmMUh0aURtd0tpSFZhRVBBekdkS2tITTNuNFRBTkVValhfVDd0N0NlbUZKSXRMMHdZ?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "3 Passive Income ETFs Worth Holding for the Long Haul",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbE9EemtKNEhtRGFLaDlyWUd3UjhHdmpaaXQ1U0dOdnczVUhHa0tWZURjcGM4bk42WXJBVi0tc3ZOdDZId1NJOFN5WUk3YnJEbzk3QzdlWmtXbjVnbm51d3dTUUVnWElmMUh0aURtd0tpSFZhRVBBekdkS2tITTNuNFRBTkVValhfVDd0N0NlbUZKSXRMMHdZ?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "If I Could Tell Every Dividend Investor 1 Thing About Building Passive Income in 2026, It's This",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMUFZdEhrZW1ZR0FjZGlMV0xhVjlaVkRYRFRPbEZrQmV6OThMZWpreGdjTE1mMnJxWUgzR2FFRWkxZGpIaEl3c1A5blhOM3NUY0JLUjBCank5ZkxBSGhjRG5MQ1BqNGVDUXk0UUZNVnZKOEZRaDdTZ3RjNGhiaHQ3RGRob2w2ekFrY2tNZW9SZlM1QkgybTFRcFVIVGhiUjRs?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "cf2dbbbf8c8c",
+      "slug": "passive-income"
+    },
+    {
+      "keyword": "income",
+      "count": 18,
+      "score": 86.21942498023708,
+      "proper": true,
+      "niches": [
+        "finance"
+      ],
+      "examples": [
+        {
+          "title": "Procter & Gamble vs PepsiCo: The Better Stock For Passive Income Investors",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxORkgxMlhIaUktNnpIVmtqYVdYbkhGX2dSdTBvRUh1ekNlTGlzaDA5MWQyTW9mOWR3bVRfZWxLdlhKaXE4OHBfUjlXQjB0NnlwQm9LUFVGdkN6TDhLSC1vOWpGb0I2UjlodHNaanpUSlRxX1BIZ0QyQmh1WTlpN1hzYkpCSGhPclBuZmVMLUFmeGRqVEhaYTlXT1Z5UE53UQ?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Procter & Gamble vs PepsiCo: The Better Stock For Passive Income Investors",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxORkgxMlhIaUktNnpIVmtqYVdYbkhGX2dSdTBvRUh1ekNlTGlzaDA5MWQyTW9mOWR3bVRfZWxLdlhKaXE4OHBfUjlXQjB0NnlwQm9LUFVGdkN6TDhLSC1vOWpGb0I2UjlodHNaanpUSlRxX1BIZ0QyQmh1WTlpN1hzYkpCSGhPclBuZmVMLUFmeGRqVEhaYTlXT1Z5UE53UQ?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "3 Passive Income ETFs Worth Holding for the Long Haul",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbE9EemtKNEhtRGFLaDlyWUd3UjhHdmpaaXQ1U0dOdnczVUhHa0tWZURjcGM4bk42WXJBVi0tc3ZOdDZId1NJOFN5WUk3YnJEbzk3QzdlWmtXbjVnbm51d3dTUUVnWElmMUh0aURtd0tpSFZhRVBBekdkS2tITTNuNFRBTkVValhfVDd0N0NlbUZKSXRMMHdZ?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "3 Passive Income ETFs Worth Holding for the Long Haul",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbE9EemtKNEhtRGFLaDlyWUd3UjhHdmpaaXQ1U0dOdnczVUhHa0tWZURjcGM4bk42WXJBVi0tc3ZOdDZId1NJOFN5WUk3YnJEbzk3QzdlWmtXbjVnbm51d3dTUUVnWElmMUh0aURtd0tpSFZhRVBBekdkS2tITTNuNFRBTkVValhfVDd0N0NlbUZKSXRMMHdZ?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "If I Could Tell Every Dividend Investor 1 Thing About Building Passive Income in 2026, It's This",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMUFZdEhrZW1ZR0FjZGlMV0xhVjlaVkRYRFRPbEZrQmV6OThMZWpreGdjTE1mMnJxWUgzR2FFRWkxZGpIaEl3c1A5blhOM3NUY0JLUjBCank5ZkxBSGhjRG5MQ1BqNGVDUXk0UUZNVnZKOEZRaDdTZ3RjNGhiaHQ3RGRob2w2ekFrY2tNZW9SZlM1QkgybTFRcFVIVGhiUjRs?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "00cf141f881d",
+      "slug": "income"
+    },
+    {
+      "keyword": "logitech g316",
       "count": 11,
-      "score": 96.86379843458731,
+      "score": 85.68720630751953,
       "proper": true,
       "niches": [
         "gear"
       ],
       "examples": [
         {
-          "title": "13 Best Kitchen Gadgets For Lazy Cooks",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBvdTZoOHZMcEhFQmtuRDNwQmR5WURRN2RxVWEwcml0aVFSQTFacXQ0dmNSbnotWVJNR1Y5QjZIUmF0SVh6VFlEdjhmYUNwWklJODlZMDdBU3A2eExZVWhrZnJ4ZHBNNVg0bDh3M0I4ZmNHeUxoN0NTQmNkdw?oc=5",
+          "title": "Logitech G316 X keyboard review: Retro charm done right",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ySDhwR0UxbjktcGlkeldNTF9LcXZmQnBzZU13WEJOWmZzR3l3WmpFYVI0elJlREMyRTlFLWpLS29BM1lqUG5WX0dlcUdkdEpLelhyZldjY1EyMGlDVzBaM3lB?oc=5",
           "source": "gnews"
         },
         {
-          "title": "13 Best Kitchen Gadgets For Lazy Cooks",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBvdTZoOHZMcEhFQmtuRDNwQmR5WURRN2RxVWEwcml0aVFSQTFacXQ0dmNSbnotWVJNR1Y5QjZIUmF0SVh6VFlEdjhmYUNwWklJODlZMDdBU3A2eExZVWhrZnJ4ZHBNNVg0bDh3M0I4ZmNHeUxoN0NTQmNkdw?oc=5",
+          "title": "Logitech G316 X keyboard review: Retro charm done right",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ySDhwR0UxbjktcGlkeldNTF9LcXZmQnBzZU13WEJOWmZzR3l3WmpFYVI0elJlREMyRTlFLWpLS29BM1lqUG5WX0dlcUdkdEpLelhyZldjY1EyMGlDVzBaM3lB?oc=5",
           "source": "gnews"
         },
         {
-          "title": "13 Best Kitchen Gadgets For Lazy Cooks",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBvdTZoOHZMcEhFQmtuRDNwQmR5WURRN2RxVWEwcml0aVFSQTFacXQ0dmNSbnotWVJNR1Y5QjZIUmF0SVh6VFlEdjhmYUNwWklJODlZMDdBU3A2eExZVWhrZnJ4ZHBNNVg0bDh3M0I4ZmNHeUxoN0NTQmNkdw?oc=5",
+          "title": "Logitech G316 X keyboard review: Retro charm done right",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ySDhwR0UxbjktcGlkeldNTF9LcXZmQnBzZU13WEJOWmZzR3l3WmpFYVI0elJlREMyRTlFLWpLS29BM1lqUG5WX0dlcUdkdEpLelhyZldjY1EyMGlDVzBaM3lB?oc=5",
           "source": "gnews"
         }
       ],
-      "id": "2aefc19d64b6",
-      "slug": "lazy-cooks"
+      "id": "c0693870752e",
+      "slug": "logitech-g316"
     },
     {
-      "keyword": "against usefulness",
+      "keyword": "beavis ultrasound",
       "count": 8,
-      "score": 75.40945257006932,
+      "score": 82.9263872986071,
+      "proper": true,
+      "niches": [
+        "software"
+      ],
+      "examples": [
+        {
+          "title": "oops, i cloned another sound card! this is the Beavis Ultrasound, an open source clone of the Gravis Ultrasound PnP. yes, i know there are already clones of this card, but mine provides the full schem",
+          "url": "https://mastodon.social/@tubetime/116910438288228622",
+          "source": "mastodon"
+        },
+        {
+          "title": "oops, i cloned another sound card! this is the Beavis Ultrasound, an open source clone of the Gravis Ultrasound PnP. yes, i know there are already clones of this card, but mine provides the full schem",
+          "url": "https://mastodon.social/@tubetime/116910438288228622",
+          "source": "mastodon"
+        }
+      ],
+      "id": "da560044c4f1",
+      "slug": "beavis-ultrasound"
+    },
+    {
+      "keyword": "external esp",
+      "count": 8,
+      "score": 81.43003895830465,
       "proper": true,
       "niches": [
         "ai"
       ],
       "examples": [
         {
-          "title": "Against Usefulness",
-          "url": "https://www.motivenotes.ai/p/against-usefulness",
-          "source": "hackernews"
+          "title": "shadowhawkstride/Meccha-Chameleon-Vision — External ESP · Aimbot · Radar · Player Mod · Camouflage for MECCHA CHAMELEON",
+          "url": "https://github.com/shadowhawkstride/Meccha-Chameleon-Vision",
+          "source": "github"
         },
         {
-          "title": "Against Usefulness",
-          "url": "https://www.motivenotes.ai/p/against-usefulness",
-          "source": "hackernews"
+          "title": "shadowhawkstride/Meccha-Chameleon-Vision — External ESP · Aimbot · Radar · Player Mod · Camouflage for MECCHA CHAMELEON",
+          "url": "https://github.com/shadowhawkstride/Meccha-Chameleon-Vision",
+          "source": "github"
         }
       ],
-      "id": "af7247ff1f76",
-      "slug": "against-usefulness"
+      "id": "5ec853a7f9e9",
+      "slug": "external-esp"
     },
     {
-      "keyword": "agent skill",
+      "keyword": "player mod",
       "count": 8,
-      "score": 74.28116795545259,
+      "score": 81.43003895830465,
       "proper": true,
       "niches": [
         "ai"
       ],
       "examples": [
         {
-          "title": "yetone/kill-ai-slop — A field guide to the visual & copy tics of AI-generated products — and an Agent Skill that scans your project and strips them out. https://killaislop.com",
-          "url": "https://github.com/yetone/kill-ai-slop",
+          "title": "shadowhawkstride/Meccha-Chameleon-Vision — External ESP · Aimbot · Radar · Player Mod · Camouflage for MECCHA CHAMELEON",
+          "url": "https://github.com/shadowhawkstride/Meccha-Chameleon-Vision",
           "source": "github"
         },
         {
-          "title": "yetone/kill-ai-slop — A field guide to the visual & copy tics of AI-generated products — and an Agent Skill that scans your project and strips them out. https://killaislop.com",
-          "url": "https://github.com/yetone/kill-ai-slop",
+          "title": "shadowhawkstride/Meccha-Chameleon-Vision — External ESP · Aimbot · Radar · Player Mod · Camouflage for MECCHA CHAMELEON",
+          "url": "https://github.com/shadowhawkstride/Meccha-Chameleon-Vision",
           "source": "github"
         }
       ],
-      "id": "bbe4337ea159",
-      "slug": "agent-skill"
+      "id": "05c4565dae58",
+      "slug": "player-mod"
     },
     {
       "keyword": "codex cli",
       "count": 11,
-      "score": 72.05242638788329,
+      "score": 76.76987361421114,
       "proper": true,
       "niches": [
         "ai"
@@ -420,117 +519,50 @@
       "slug": "codex-cli"
     },
     {
-      "keyword": "cliproxyapi",
-      "count": 10,
-      "score": 70.05599070409721,
-      "proper": true,
-      "niches": [
-        "ai",
-        "software"
-      ],
-      "examples": [
-        {
-          "title": "dongguatanglinux/grok-build-auth — Protocol research client: x.ai signup → SSO → Grok Build OAuth → CLIProxyAPI auth export (authorized use only)",
-          "url": "https://github.com/dongguatanglinux/grok-build-auth",
-          "source": "github"
-        },
-        {
-          "title": "Git-creat7/grokRegister-cpa — Grok 自动注册机 — 注册成功后自动入库 CLIProxyAPI (CPA)：支持本地 auth 目录与远程 Management API 上传",
-          "url": "https://github.com/Git-creat7/grokRegister-cpa",
-          "source": "github"
-        }
-      ],
-      "id": "4f9930f1036b",
-      "slug": "cliproxyapi"
-    },
-    {
-      "keyword": "codie sanchez",
-      "count": 11,
-      "score": 63.86624072610152,
-      "proper": true,
-      "niches": [
-        "finance"
-      ],
-      "examples": [
-        {
-          "title": "3 Side Hustles You Should Start Over Others, According to Codie Sanchez",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE92U0ZqSnJLX1p1Vmp2NWRUUEVtLXNUckRZa3BlMjB1Sm5nUU9PYk1LTXFKQVF5cHAtaHdNM3hQNjNQWmdRSFBYREpuMnFHZGpBbUVtMGI4YlZGM3ltaUhTM3ZXQUZZcnM3YWJ2WTVoOXhyWlJUZldDXw?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "3 Side Hustles You Should Start Over Others, According to Codie Sanchez",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE92U0ZqSnJLX1p1Vmp2NWRUUEVtLXNUckRZa3BlMjB1Sm5nUU9PYk1LTXFKQVF5cHAtaHdNM3hQNjNQWmdRSFBYREpuMnFHZGpBbUVtMGI4YlZGM3ltaUhTM3ZXQUZZcnM3YWJ2WTVoOXhyWlJUZldDXw?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "3 Side Hustles You Should Start Over Others, According to Codie Sanchez",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE92U0ZqSnJLX1p1Vmp2NWRUUEVtLXNUckRZa3BlMjB1Sm5nUU9PYk1LTXFKQVF5cHAtaHdNM3hQNjNQWmdRSFBYREpuMnFHZGpBbUVtMGI4YlZGM3ltaUhTM3ZXQUZZcnM3YWJ2WTVoOXhyWlJUZldDXw?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "d6b66659f5e1",
-      "slug": "codie-sanchez"
-    },
-    {
-      "keyword": "affordability crisis",
-      "count": 11,
-      "score": 58.75694146801339,
+      "keyword": "against usefulness",
+      "count": 8,
+      "score": 66.1182979394475,
       "proper": true,
       "niches": [
         "ai"
       ],
       "examples": [
         {
-          "title": "Affordability Crisis: Five smart side-hustle ideas to the rescue",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTlpoczY3VEVXQ2JHVVdwenZjRjJUS2xrNkZ1VS1BODZyZ0g1TkNjcnJfZldCa2xyenEyXzlKMzlDMDVCMXdvdFdlbmNhV0tqU3N6YkxkdjFzbFZVWEwzQl9ELWd6TlBacm1wOTloc0Z4a0ZKczBrY1N5MHNwUnFFZm1vVTNFeU15N0hIeFZCQWNqMlVIWnlHTXFlTEh0VEVVREhDaWpIWGptUG82QU9hZ0lod0NiWkNER3hxWQ?oc=5",
-          "source": "gnews"
+          "title": "Against Usefulness",
+          "url": "https://www.motivenotes.ai/p/against-usefulness",
+          "source": "hackernews"
         },
         {
-          "title": "Affordability Crisis: Five smart side-hustle ideas to the rescue",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTlpoczY3VEVXQ2JHVVdwenZjRjJUS2xrNkZ1VS1BODZyZ0g1TkNjcnJfZldCa2xyenEyXzlKMzlDMDVCMXdvdFdlbmNhV0tqU3N6YkxkdjFzbFZVWEwzQl9ELWd6TlBacm1wOTloc0Z4a0ZKczBrY1N5MHNwUnFFZm1vVTNFeU15N0hIeFZCQWNqMlVIWnlHTXFlTEh0VEVVREhDaWpIWGptUG82QU9hZ0lod0NiWkNER3hxWQ?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Affordability Crisis: Five smart side-hustle ideas to the rescue",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTlpoczY3VEVXQ2JHVVdwenZjRjJUS2xrNkZ1VS1BODZyZ0g1TkNjcnJfZldCa2xyenEyXzlKMzlDMDVCMXdvdFdlbmNhV0tqU3N6YkxkdjFzbFZVWEwzQl9ELWd6TlBacm1wOTloc0Z4a0ZKczBrY1N5MHNwUnFFZm1vVTNFeU15N0hIeFZCQWNqMlVIWnlHTXFlTEh0VEVVREhDaWpIWGptUG82QU9hZ0lod0NiWkNER3hxWQ?oc=5",
-          "source": "gnews"
+          "title": "Against Usefulness",
+          "url": "https://www.motivenotes.ai/p/against-usefulness",
+          "source": "hackernews"
         }
       ],
-      "id": "75c4782cb45d",
-      "slug": "affordability-crisis"
+      "id": "af7247ff1f76",
+      "slug": "against-usefulness"
     },
     {
-      "keyword": "kitchen gadgets",
-      "count": 12,
-      "score": 56.357119089214436,
-      "proper": false,
+      "keyword": "android apk",
+      "count": 8,
+      "score": 56.48944406744849,
+      "proper": true,
       "niches": [
-        "gear"
+        "ai"
       ],
       "examples": [
         {
-          "title": "13 Best Kitchen Gadgets For Lazy Cooks",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBvdTZoOHZMcEhFQmtuRDNwQmR5WURRN2RxVWEwcml0aVFSQTFacXQ0dmNSbnotWVJNR1Y5QjZIUmF0SVh6VFlEdjhmYUNwWklJODlZMDdBU3A2eExZVWhrZnJ4ZHBNNVg0bDh3M0I4ZmNHeUxoN0NTQmNkdw?oc=5",
-          "source": "gnews"
+          "title": "Paresh-Maheshwari/morphe-ai — Morphe's AI-powered Android APK patching workspace — multi-agent pipeline for APK analysis, target hunting, patch writing & deployment.",
+          "url": "https://github.com/Paresh-Maheshwari/morphe-ai",
+          "source": "github"
         },
         {
-          "title": "13 Best Kitchen Gadgets For Lazy Cooks",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBvdTZoOHZMcEhFQmtuRDNwQmR5WURRN2RxVWEwcml0aVFSQTFacXQ0dmNSbnotWVJNR1Y5QjZIUmF0SVh6VFlEdjhmYUNwWklJODlZMDdBU3A2eExZVWhrZnJ4ZHBNNVg0bDh3M0I4ZmNHeUxoN0NTQmNkdw?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "I Found the Best Kitchen Gadgets That Make Meal Prep, Cooking, and Cleanup So Much Easier—All Under $25",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQYjNld3E1NGNFVE5CWG9NVTJUWTBoOV9VTUNsLUtpb1I3WHZQck1DQVNLVFl2Sm1IbGZBazY5S1ZXWXdVYzFaSmFuVmMyNXdKTTh1bm5EbV9aSGpjTWszTlg1a2x3andvZTdtUFc3eV9WM3gxSUdjZjJweDVJazRUSVNEZGxhMzNCZmc?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "I Found the Best Kitchen Gadgets That Make Meal Prep, Cooking, and Cleanup So Much Easier—All Under $25",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQYjNld3E1NGNFVE5CWG9NVTJUWTBoOV9VTUNsLUtpb1I3WHZQck1DQVNLVFl2Sm1IbGZBazY5S1ZXWXdVYzFaSmFuVmMyNXdKTTh1bm5EbV9aSGpjTWszTlg1a2x3andvZTdtUFc3eV9WM3gxSUdjZjJweDVJazRUSVNEZGxhMzNCZmc?oc=5",
-          "source": "gnews"
+          "title": "Paresh-Maheshwari/morphe-ai — Morphe's AI-powered Android APK patching workspace — multi-agent pipeline for APK analysis, target hunting, patch writing & deployment.",
+          "url": "https://github.com/Paresh-Maheshwari/morphe-ai",
+          "source": "github"
         }
       ],
-      "id": "4e4a1c4cb31e",
-      "slug": "kitchen-gadgets"
+      "id": "f6dce83a7f08",
+      "slug": "android-apk"
     },
     {
       "keyword": "official sdk",
@@ -579,32 +611,37 @@
       "slug": "robinhood-chain"
     },
     {
-      "keyword": "gpt free",
-      "count": 8,
-      "score": 55.08998629527787,
+      "keyword": "capcut named",
+      "count": 11,
+      "score": 54.49919208627331,
       "proper": true,
       "niches": [
         "ai"
       ],
       "examples": [
         {
-          "title": "myfanhua/turb-gpt-free-register — 纯协议+指纹浏览器自动GPT FREE注册机+Codex自动接码授权",
-          "url": "https://github.com/myfanhua/turb-gpt-free-register",
-          "source": "github"
+          "title": "Best AI Tools for Social Media Content Creation (2026): CapCut Named a Top Choice for Video and Image Content Creation by Consumer365",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQT1RfLUI5dEctX2tFMk11M21FTEVDai1rUVJ6elJfcl9ld0QwYnB6UjhsUktDS0dWSVJ6d0xzNVZfMmFTVC1VZm85UWlCdGFqUWVMTjQ2cXNzWEsxczdjLURZVmFHbjVKak50M0RxY3RMLWlnRTJWQjdrX1pMMDlfemtNZWFULUpGR09vNXhiUkdlQ0xmLXFkRktR?oc=5",
+          "source": "gnews"
         },
         {
-          "title": "myfanhua/turb-gpt-free-register — 纯协议+指纹浏览器自动GPT FREE注册机+Codex自动接码授权",
-          "url": "https://github.com/myfanhua/turb-gpt-free-register",
-          "source": "github"
+          "title": "Best AI Tools for Social Media Content Creation (2026): CapCut Named a Top Choice for Video and Image Content Creation by Consumer365",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQT1RfLUI5dEctX2tFMk11M21FTEVDai1rUVJ6elJfcl9ld0QwYnB6UjhsUktDS0dWSVJ6d0xzNVZfMmFTVC1VZm85UWlCdGFqUWVMTjQ2cXNzWEsxczdjLURZVmFHbjVKak50M0RxY3RMLWlnRTJWQjdrX1pMMDlfemtNZWFULUpGR09vNXhiUkdlQ0xmLXFkRktR?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Best AI Tools for Social Media Content Creation (2026): CapCut Named a Top Choice for Video and Image Content Creation by Consumer365",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQT1RfLUI5dEctX2tFMk11M21FTEVDai1rUVJ6elJfcl9ld0QwYnB6UjhsUktDS0dWSVJ6d0xzNVZfMmFTVC1VZm85UWlCdGFqUWVMTjQ2cXNzWEsxczdjLURZVmFHbjVKak50M0RxY3RMLWlnRTJWQjdrX1pMMDlfemtNZWFULUpGR09vNXhiUkdlQ0xmLXFkRktR?oc=5",
+          "source": "gnews"
         }
       ],
-      "id": "5024f856b47b",
-      "slug": "gpt-free"
+      "id": "d4fa3a453462",
+      "slug": "capcut-named"
     },
     {
       "keyword": "solo grants",
       "count": 8,
-      "score": 53.66250420605535,
+      "score": 53.877595825382215,
       "proper": true,
       "niches": [
         "ai"
@@ -627,7 +664,7 @@
     {
       "keyword": "mlh hackathon",
       "count": 8,
-      "score": 53.66250420605535,
+      "score": 53.877595825382215,
       "proper": true,
       "niches": [
         "ai"
@@ -646,51 +683,13 @@
       ],
       "id": "b4bf7f70b380",
       "slug": "mlh-hackathon"
-    },
-    {
-      "keyword": "side hustles",
-      "count": 17,
-      "score": 53.19767551390048,
-      "proper": true,
-      "niches": [
-        "finance"
-      ],
-      "examples": [
-        {
-          "title": "3 Side Hustles You Should Start Over Others, According to Codie Sanchez",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE92U0ZqSnJLX1p1Vmp2NWRUUEVtLXNUckRZa3BlMjB1Sm5nUU9PYk1LTXFKQVF5cHAtaHdNM3hQNjNQWmdRSFBYREpuMnFHZGpBbUVtMGI4YlZGM3ltaUhTM3ZXQUZZcnM3YWJ2WTVoOXhyWlJUZldDXw?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "3 Side Hustles You Should Start Over Others, According to Codie Sanchez",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE92U0ZqSnJLX1p1Vmp2NWRUUEVtLXNUckRZa3BlMjB1Sm5nUU9PYk1LTXFKQVF5cHAtaHdNM3hQNjNQWmdRSFBYREpuMnFHZGpBbUVtMGI4YlZGM3ltaUhTM3ZXQUZZcnM3YWJ2WTVoOXhyWlJUZldDXw?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "11 Side Hustles from Home and How to Get Started",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA4TVVRczNSdlMzM1ZCNERKZExPNGUzejhRYUdfSlJWT1oxbUdPdDc5MmhSYldvNmZFZ3V4S2xYMkkxVXh3TmIyUWZOVDBqQzE2QVlnd1piNHdoaVN4SVpwMDZNeHVycDdtb2pF?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "11 Side Hustles from Home and How to Get Started",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA4TVVRczNSdlMzM1ZCNERKZExPNGUzejhRYUdfSlJWT1oxbUdPdDc5MmhSYldvNmZFZ3V4S2xYMkkxVXh3TmIyUWZOVDBqQzE2QVlnd1piNHdoaVN4SVpwMDZNeHVycDdtb2pF?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "11 Side Hustles from Home and How to Get Started",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA4TVVRczNSdlMzM1ZCNERKZExPNGUzejhRYUdfSlJWT1oxbUdPdDc5MmhSYldvNmZFZ3V4S2xYMkkxVXh3TmIyUWZOVDBqQzE2QVlnd1piNHdoaVN4SVpwMDZNeHVycDdtb2pF?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "c69e96fd90af",
-      "slug": "side-hustles"
     }
   ],
   "opportunities": [
     {
       "keyword": "claude code",
       "count": 24,
-      "score": 227.4615724773119,
+      "score": 212.48271428801624,
       "proper": true,
       "niches": [
         "ai"
@@ -730,86 +729,197 @@
       }
     },
     {
-      "keyword": "lazy cooks",
+      "keyword": "passive income",
+      "count": 39,
+      "score": 114.37863111856365,
+      "proper": false,
+      "niches": [
+        "finance"
+      ],
+      "examples": [
+        {
+          "title": "Procter & Gamble vs PepsiCo: The Better Stock For Passive Income Investors",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxORkgxMlhIaUktNnpIVmtqYVdYbkhGX2dSdTBvRUh1ekNlTGlzaDA5MWQyTW9mOWR3bVRfZWxLdlhKaXE4OHBfUjlXQjB0NnlwQm9LUFVGdkN6TDhLSC1vOWpGb0I2UjlodHNaanpUSlRxX1BIZ0QyQmh1WTlpN1hzYkpCSGhPclBuZmVMLUFmeGRqVEhaYTlXT1Z5UE53UQ?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Procter & Gamble vs PepsiCo: The Better Stock For Passive Income Investors",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxORkgxMlhIaUktNnpIVmtqYVdYbkhGX2dSdTBvRUh1ekNlTGlzaDA5MWQyTW9mOWR3bVRfZWxLdlhKaXE4OHBfUjlXQjB0NnlwQm9LUFVGdkN6TDhLSC1vOWpGb0I2UjlodHNaanpUSlRxX1BIZ0QyQmh1WTlpN1hzYkpCSGhPclBuZmVMLUFmeGRqVEhaYTlXT1Z5UE53UQ?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "3 Passive Income ETFs Worth Holding for the Long Haul",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbE9EemtKNEhtRGFLaDlyWUd3UjhHdmpaaXQ1U0dOdnczVUhHa0tWZURjcGM4bk42WXJBVi0tc3ZOdDZId1NJOFN5WUk3YnJEbzk3QzdlWmtXbjVnbm51d3dTUUVnWElmMUh0aURtd0tpSFZhRVBBekdkS2tITTNuNFRBTkVValhfVDd0N0NlbUZKSXRMMHdZ?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "3 Passive Income ETFs Worth Holding for the Long Haul",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbE9EemtKNEhtRGFLaDlyWUd3UjhHdmpaaXQ1U0dOdnczVUhHa0tWZURjcGM4bk42WXJBVi0tc3ZOdDZId1NJOFN5WUk3YnJEbzk3QzdlWmtXbjVnbm51d3dTUUVnWElmMUh0aURtd0tpSFZhRVBBekdkS2tITTNuNFRBTkVValhfVDd0N0NlbUZKSXRMMHdZ?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "If I Could Tell Every Dividend Investor 1 Thing About Building Passive Income in 2026, It's This",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMUFZdEhrZW1ZR0FjZGlMV0xhVjlaVkRYRFRPbEZrQmV6OThMZWpreGdjTE1mMnJxWUgzR2FFRWkxZGpIaEl3c1A5blhOM3NUY0JLUjBCank5ZkxBSGhjRG5MQ1BqNGVDUXk0UUZNVnZKOEZRaDdTZ3RjNGhiaHQ3RGRob2w2ekFrY2tNZW9SZlM1QkgybTFRcFVIVGhiUjRs?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "cf2dbbbf8c8c",
+      "slug": "passive-income",
+      "opportunity": {
+        "type": "niche-content",
+        "recommended": "Publish niche guide for \"finance\"; bundle into digital product later."
+      }
+    },
+    {
+      "keyword": "income",
+      "count": 18,
+      "score": 86.21942498023708,
+      "proper": true,
+      "niches": [
+        "finance"
+      ],
+      "examples": [
+        {
+          "title": "Procter & Gamble vs PepsiCo: The Better Stock For Passive Income Investors",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxORkgxMlhIaUktNnpIVmtqYVdYbkhGX2dSdTBvRUh1ekNlTGlzaDA5MWQyTW9mOWR3bVRfZWxLdlhKaXE4OHBfUjlXQjB0NnlwQm9LUFVGdkN6TDhLSC1vOWpGb0I2UjlodHNaanpUSlRxX1BIZ0QyQmh1WTlpN1hzYkpCSGhPclBuZmVMLUFmeGRqVEhaYTlXT1Z5UE53UQ?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Procter & Gamble vs PepsiCo: The Better Stock For Passive Income Investors",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxORkgxMlhIaUktNnpIVmtqYVdYbkhGX2dSdTBvRUh1ekNlTGlzaDA5MWQyTW9mOWR3bVRfZWxLdlhKaXE4OHBfUjlXQjB0NnlwQm9LUFVGdkN6TDhLSC1vOWpGb0I2UjlodHNaanpUSlRxX1BIZ0QyQmh1WTlpN1hzYkpCSGhPclBuZmVMLUFmeGRqVEhaYTlXT1Z5UE53UQ?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "3 Passive Income ETFs Worth Holding for the Long Haul",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbE9EemtKNEhtRGFLaDlyWUd3UjhHdmpaaXQ1U0dOdnczVUhHa0tWZURjcGM4bk42WXJBVi0tc3ZOdDZId1NJOFN5WUk3YnJEbzk3QzdlWmtXbjVnbm51d3dTUUVnWElmMUh0aURtd0tpSFZhRVBBekdkS2tITTNuNFRBTkVValhfVDd0N0NlbUZKSXRMMHdZ?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "3 Passive Income ETFs Worth Holding for the Long Haul",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbE9EemtKNEhtRGFLaDlyWUd3UjhHdmpaaXQ1U0dOdnczVUhHa0tWZURjcGM4bk42WXJBVi0tc3ZOdDZId1NJOFN5WUk3YnJEbzk3QzdlWmtXbjVnbm51d3dTUUVnWElmMUh0aURtd0tpSFZhRVBBekdkS2tITTNuNFRBTkVValhfVDd0N0NlbUZKSXRMMHdZ?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "If I Could Tell Every Dividend Investor 1 Thing About Building Passive Income in 2026, It's This",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMUFZdEhrZW1ZR0FjZGlMV0xhVjlaVkRYRFRPbEZrQmV6OThMZWpreGdjTE1mMnJxWUgzR2FFRWkxZGpIaEl3c1A5blhOM3NUY0JLUjBCank5ZkxBSGhjRG5MQ1BqNGVDUXk0UUZNVnZKOEZRaDdTZ3RjNGhiaHQ3RGRob2w2ekFrY2tNZW9SZlM1QkgybTFRcFVIVGhiUjRs?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "00cf141f881d",
+      "slug": "income",
+      "opportunity": {
+        "type": "niche-content",
+        "recommended": "Publish niche guide for \"finance\"; bundle into digital product later."
+      }
+    },
+    {
+      "keyword": "logitech g316",
       "count": 11,
-      "score": 96.86379843458731,
+      "score": 85.68720630751953,
       "proper": true,
       "niches": [
         "gear"
       ],
       "examples": [
         {
-          "title": "13 Best Kitchen Gadgets For Lazy Cooks",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBvdTZoOHZMcEhFQmtuRDNwQmR5WURRN2RxVWEwcml0aVFSQTFacXQ0dmNSbnotWVJNR1Y5QjZIUmF0SVh6VFlEdjhmYUNwWklJODlZMDdBU3A2eExZVWhrZnJ4ZHBNNVg0bDh3M0I4ZmNHeUxoN0NTQmNkdw?oc=5",
+          "title": "Logitech G316 X keyboard review: Retro charm done right",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ySDhwR0UxbjktcGlkeldNTF9LcXZmQnBzZU13WEJOWmZzR3l3WmpFYVI0elJlREMyRTlFLWpLS29BM1lqUG5WX0dlcUdkdEpLelhyZldjY1EyMGlDVzBaM3lB?oc=5",
           "source": "gnews"
         },
         {
-          "title": "13 Best Kitchen Gadgets For Lazy Cooks",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBvdTZoOHZMcEhFQmtuRDNwQmR5WURRN2RxVWEwcml0aVFSQTFacXQ0dmNSbnotWVJNR1Y5QjZIUmF0SVh6VFlEdjhmYUNwWklJODlZMDdBU3A2eExZVWhrZnJ4ZHBNNVg0bDh3M0I4ZmNHeUxoN0NTQmNkdw?oc=5",
+          "title": "Logitech G316 X keyboard review: Retro charm done right",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ySDhwR0UxbjktcGlkeldNTF9LcXZmQnBzZU13WEJOWmZzR3l3WmpFYVI0elJlREMyRTlFLWpLS29BM1lqUG5WX0dlcUdkdEpLelhyZldjY1EyMGlDVzBaM3lB?oc=5",
           "source": "gnews"
         },
         {
-          "title": "13 Best Kitchen Gadgets For Lazy Cooks",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBvdTZoOHZMcEhFQmtuRDNwQmR5WURRN2RxVWEwcml0aVFSQTFacXQ0dmNSbnotWVJNR1Y5QjZIUmF0SVh6VFlEdjhmYUNwWklJODlZMDdBU3A2eExZVWhrZnJ4ZHBNNVg0bDh3M0I4ZmNHeUxoN0NTQmNkdw?oc=5",
+          "title": "Logitech G316 X keyboard review: Retro charm done right",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ySDhwR0UxbjktcGlkeldNTF9LcXZmQnBzZU13WEJOWmZzR3l3WmpFYVI0elJlREMyRTlFLWpLS29BM1lqUG5WX0dlcUdkdEpLelhyZldjY1EyMGlDVzBaM3lB?oc=5",
           "source": "gnews"
         }
       ],
-      "id": "2aefc19d64b6",
-      "slug": "lazy-cooks",
+      "id": "c0693870752e",
+      "slug": "logitech-g316",
       "opportunity": {
         "type": "niche-content",
         "recommended": "Publish niche guide for \"gear\"; bundle into digital product later."
       }
     },
     {
-      "keyword": "against usefulness",
+      "keyword": "beavis ultrasound",
       "count": 8,
-      "score": 75.40945257006932,
+      "score": 82.9263872986071,
       "proper": true,
       "niches": [
-        "ai"
+        "software"
       ],
       "examples": [
         {
-          "title": "Against Usefulness",
-          "url": "https://www.motivenotes.ai/p/against-usefulness",
-          "source": "hackernews"
+          "title": "oops, i cloned another sound card! this is the Beavis Ultrasound, an open source clone of the Gravis Ultrasound PnP. yes, i know there are already clones of this card, but mine provides the full schem",
+          "url": "https://mastodon.social/@tubetime/116910438288228622",
+          "source": "mastodon"
         },
         {
-          "title": "Against Usefulness",
-          "url": "https://www.motivenotes.ai/p/against-usefulness",
-          "source": "hackernews"
+          "title": "oops, i cloned another sound card! this is the Beavis Ultrasound, an open source clone of the Gravis Ultrasound PnP. yes, i know there are already clones of this card, but mine provides the full schem",
+          "url": "https://mastodon.social/@tubetime/116910438288228622",
+          "source": "mastodon"
         }
       ],
-      "id": "af7247ff1f76",
-      "slug": "against-usefulness",
+      "id": "da560044c4f1",
+      "slug": "beavis-ultrasound",
       "opportunity": {
-        "type": "tooling",
-        "recommended": "Build / list AI tools; monetize via affiliate links + lead magnet."
+        "type": "niche-content",
+        "recommended": "Publish niche guide for \"software\"; bundle into digital product later."
       }
     },
     {
-      "keyword": "agent skill",
+      "keyword": "external esp",
       "count": 8,
-      "score": 74.28116795545259,
+      "score": 81.43003895830465,
       "proper": true,
       "niches": [
         "ai"
       ],
       "examples": [
         {
-          "title": "yetone/kill-ai-slop — A field guide to the visual & copy tics of AI-generated products — and an Agent Skill that scans your project and strips them out. https://killaislop.com",
-          "url": "https://github.com/yetone/kill-ai-slop",
+          "title": "shadowhawkstride/Meccha-Chameleon-Vision — External ESP · Aimbot · Radar · Player Mod · Camouflage for MECCHA CHAMELEON",
+          "url": "https://github.com/shadowhawkstride/Meccha-Chameleon-Vision",
           "source": "github"
         },
         {
-          "title": "yetone/kill-ai-slop — A field guide to the visual & copy tics of AI-generated products — and an Agent Skill that scans your project and strips them out. https://killaislop.com",
-          "url": "https://github.com/yetone/kill-ai-slop",
+          "title": "shadowhawkstride/Meccha-Chameleon-Vision — External ESP · Aimbot · Radar · Player Mod · Camouflage for MECCHA CHAMELEON",
+          "url": "https://github.com/shadowhawkstride/Meccha-Chameleon-Vision",
           "source": "github"
         }
       ],
-      "id": "bbe4337ea159",
-      "slug": "agent-skill",
+      "id": "5ec853a7f9e9",
+      "slug": "external-esp",
+      "opportunity": {
+        "type": "niche-content",
+        "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
+      }
+    },
+    {
+      "keyword": "player mod",
+      "count": 8,
+      "score": 81.43003895830465,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "shadowhawkstride/Meccha-Chameleon-Vision — External ESP · Aimbot · Radar · Player Mod · Camouflage for MECCHA CHAMELEON",
+          "url": "https://github.com/shadowhawkstride/Meccha-Chameleon-Vision",
+          "source": "github"
+        },
+        {
+          "title": "shadowhawkstride/Meccha-Chameleon-Vision — External ESP · Aimbot · Radar · Player Mod · Camouflage for MECCHA CHAMELEON",
+          "url": "https://github.com/shadowhawkstride/Meccha-Chameleon-Vision",
+          "source": "github"
+        }
+      ],
+      "id": "05c4565dae58",
+      "slug": "player-mod",
       "opportunity": {
         "type": "niche-content",
         "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
@@ -818,7 +928,7 @@
     {
       "keyword": "codex cli",
       "count": 11,
-      "score": 72.05242638788329,
+      "score": 76.76987361421114,
       "proper": true,
       "niches": [
         "ai"
@@ -842,98 +952,6 @@
       ],
       "id": "3e6b25ccb929",
       "slug": "codex-cli",
-      "opportunity": {
-        "type": "niche-content",
-        "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
-      }
-    },
-    {
-      "keyword": "cliproxyapi",
-      "count": 10,
-      "score": 70.05599070409721,
-      "proper": true,
-      "niches": [
-        "ai",
-        "software"
-      ],
-      "examples": [
-        {
-          "title": "dongguatanglinux/grok-build-auth — Protocol research client: x.ai signup → SSO → Grok Build OAuth → CLIProxyAPI auth export (authorized use only)",
-          "url": "https://github.com/dongguatanglinux/grok-build-auth",
-          "source": "github"
-        },
-        {
-          "title": "Git-creat7/grokRegister-cpa — Grok 自动注册机 — 注册成功后自动入库 CLIProxyAPI (CPA)：支持本地 auth 目录与远程 Management API 上传",
-          "url": "https://github.com/Git-creat7/grokRegister-cpa",
-          "source": "github"
-        }
-      ],
-      "id": "4f9930f1036b",
-      "slug": "cliproxyapi",
-      "opportunity": {
-        "type": "affiliate",
-        "recommended": "Write SEO comparison/roundup article with affiliate links."
-      }
-    },
-    {
-      "keyword": "codie sanchez",
-      "count": 11,
-      "score": 63.86624072610152,
-      "proper": true,
-      "niches": [
-        "finance"
-      ],
-      "examples": [
-        {
-          "title": "3 Side Hustles You Should Start Over Others, According to Codie Sanchez",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE92U0ZqSnJLX1p1Vmp2NWRUUEVtLXNUckRZa3BlMjB1Sm5nUU9PYk1LTXFKQVF5cHAtaHdNM3hQNjNQWmdRSFBYREpuMnFHZGpBbUVtMGI4YlZGM3ltaUhTM3ZXQUZZcnM3YWJ2WTVoOXhyWlJUZldDXw?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "3 Side Hustles You Should Start Over Others, According to Codie Sanchez",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE92U0ZqSnJLX1p1Vmp2NWRUUEVtLXNUckRZa3BlMjB1Sm5nUU9PYk1LTXFKQVF5cHAtaHdNM3hQNjNQWmdRSFBYREpuMnFHZGpBbUVtMGI4YlZGM3ltaUhTM3ZXQUZZcnM3YWJ2WTVoOXhyWlJUZldDXw?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "3 Side Hustles You Should Start Over Others, According to Codie Sanchez",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE92U0ZqSnJLX1p1Vmp2NWRUUEVtLXNUckRZa3BlMjB1Sm5nUU9PYk1LTXFKQVF5cHAtaHdNM3hQNjNQWmdRSFBYREpuMnFHZGpBbUVtMGI4YlZGM3ltaUhTM3ZXQUZZcnM3YWJ2WTVoOXhyWlJUZldDXw?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "d6b66659f5e1",
-      "slug": "codie-sanchez",
-      "opportunity": {
-        "type": "niche-content",
-        "recommended": "Publish niche guide for \"finance\"; bundle into digital product later."
-      }
-    },
-    {
-      "keyword": "affordability crisis",
-      "count": 11,
-      "score": 58.75694146801339,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "Affordability Crisis: Five smart side-hustle ideas to the rescue",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTlpoczY3VEVXQ2JHVVdwenZjRjJUS2xrNkZ1VS1BODZyZ0g1TkNjcnJfZldCa2xyenEyXzlKMzlDMDVCMXdvdFdlbmNhV0tqU3N6YkxkdjFzbFZVWEwzQl9ELWd6TlBacm1wOTloc0Z4a0ZKczBrY1N5MHNwUnFFZm1vVTNFeU15N0hIeFZCQWNqMlVIWnlHTXFlTEh0VEVVREhDaWpIWGptUG82QU9hZ0lod0NiWkNER3hxWQ?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Affordability Crisis: Five smart side-hustle ideas to the rescue",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTlpoczY3VEVXQ2JHVVdwenZjRjJUS2xrNkZ1VS1BODZyZ0g1TkNjcnJfZldCa2xyenEyXzlKMzlDMDVCMXdvdFdlbmNhV0tqU3N6YkxkdjFzbFZVWEwzQl9ELWd6TlBacm1wOTloc0Z4a0ZKczBrY1N5MHNwUnFFZm1vVTNFeU15N0hIeFZCQWNqMlVIWnlHTXFlTEh0VEVVREhDaWpIWGptUG82QU9hZ0lod0NiWkNER3hxWQ?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Affordability Crisis: Five smart side-hustle ideas to the rescue",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTlpoczY3VEVXQ2JHVVdwenZjRjJUS2xrNkZ1VS1BODZyZ0g1TkNjcnJfZldCa2xyenEyXzlKMzlDMDVCMXdvdFdlbmNhV0tqU3N6YkxkdjFzbFZVWEwzQl9ELWd6TlBacm1wOTloc0Z4a0ZKczBrY1N5MHNwUnFFZm1vVTNFeU15N0hIeFZCQWNqMlVIWnlHTXFlTEh0VEVVREhDaWpIWGptUG82QU9hZ0lod0NiWkNER3hxWQ?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "75c4782cb45d",
-      "slug": "affordability-crisis",
       "opportunity": {
         "type": "niche-content",
         "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
