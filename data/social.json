@@ -1,6 +1,20 @@
 {
   "items": [
     {
+      "slug": "proper-studio-2026-07-13",
+      "topic": "Proper Studio",
+      "date": "2026-07-13",
+      "niche": "ai",
+      "file": "social/proper-studio-2026-07-13.md"
+    },
+    {
+      "slug": "apple-2026-07-13",
+      "topic": "Apple",
+      "date": "2026-07-13",
+      "niche": "ai",
+      "file": "social/apple-2026-07-13.md"
+    },
+    {
       "slug": "typescript-api-2026-07-13",
       "topic": "Typescript Api",
       "date": "2026-07-13",
@@ -1385,20 +1399,6 @@
       "date": "2026-06-21",
       "niche": "software",
       "file": "social/apple-internals-2026-06-21.md"
-    },
-    {
-      "slug": "windows-copilot-2026-06-21",
-      "topic": "Windows Copilot",
-      "date": "2026-06-21",
-      "niche": "ai",
-      "file": "social/windows-copilot-2026-06-21.md"
-    },
-    {
-      "slug": "happy-2026-06-21",
-      "topic": "Happy",
-      "date": "2026-06-21",
-      "niche": "software",
-      "file": "social/happy-2026-06-21.md"
     }
   ]
 }

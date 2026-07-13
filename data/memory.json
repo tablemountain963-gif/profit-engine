@@ -90,8 +90,8 @@
     },
     "fitness-gear": {
       "firstSeen": "2026-05-28T14:27:03.986Z",
-      "lastSeen": "2026-07-06T16:19:21.710Z",
-      "count": 7,
+      "lastSeen": "2026-07-13T17:48:18.990Z",
+      "count": 8,
       "wins": 0,
       "losses": 0,
       "niche": "gear"
@@ -626,8 +626,8 @@
     },
     "apple": {
       "firstSeen": "2026-06-02T17:22:17.986Z",
-      "lastSeen": "2026-07-08T15:19:25.304Z",
-      "count": 6,
+      "lastSeen": "2026-07-13T17:48:48.573Z",
+      "count": 7,
       "wins": 1,
       "losses": 0,
       "niche": "software"
@@ -2368,14 +2368,6 @@
       "losses": 0,
       "niche": "ai"
     },
-    "reid-hoffman": {
-      "firstSeen": "2026-06-24T15:32:17.901Z",
-      "lastSeen": "2026-06-29T16:37:30.797Z",
-      "count": 2,
-      "wins": 0,
-      "losses": 1,
-      "niche": "ai"
-    },
     "democratic-party": {
       "firstSeen": "2026-06-24T17:47:27.255Z",
       "lastSeen": "2026-06-24T22:04:57.104Z",
@@ -2837,30 +2829,6 @@
       "lastSeen": "2026-06-29T18:02:56.671Z",
       "count": 2,
       "wins": 1,
-      "losses": 0,
-      "niche": "ai"
-    },
-    "complete-backrooms": {
-      "firstSeen": "2026-06-29T16:38:12.638Z",
-      "lastSeen": "2026-06-29T16:38:12.638Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "ai"
-    },
-    "league-tasks": {
-      "firstSeen": "2026-06-29T16:38:25.000Z",
-      "lastSeen": "2026-06-29T16:38:25.000Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "ai"
-    },
-    "gbessey-kiadu": {
-      "firstSeen": "2026-06-29T16:38:40.849Z",
-      "lastSeen": "2026-06-29T16:38:40.849Z",
-      "count": 1,
-      "wins": 0,
       "losses": 0,
       "niche": "ai"
     },
@@ -4274,10 +4242,10 @@
     },
     "hank-green": {
       "firstSeen": "2026-07-08T17:19:23.050Z",
-      "lastSeen": "2026-07-08T17:19:23.050Z",
-      "count": 1,
+      "lastSeen": "2026-07-13T17:48:08.349Z",
+      "count": 2,
       "wins": 0,
-      "losses": 0,
+      "losses": 1,
       "niche": "ai"
     },
     "taylor-lorenz": {
@@ -5138,25 +5106,25 @@
     },
     "progress-software": {
       "firstSeen": "2026-07-13T15:40:52.718Z",
-      "lastSeen": "2026-07-13T15:40:52.718Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-07-13T17:48:08.352Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
     "hdmi-consortium": {
       "firstSeen": "2026-07-13T15:40:56.530Z",
-      "lastSeen": "2026-07-13T15:40:56.530Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-07-13T17:48:08.353Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "gear"
     },
     "grok-cli": {
       "firstSeen": "2026-07-13T15:40:59.180Z",
-      "lastSeen": "2026-07-13T15:40:59.180Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-07-13T17:48:08.354Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "software"
     },
@@ -5199,27 +5167,67 @@
       "wins": 0,
       "losses": 0,
       "niche": "ai"
+    },
+    "speechanalyzer-api": {
+      "firstSeen": "2026-07-13T17:48:15.188Z",
+      "lastSeen": "2026-07-13T17:48:15.188Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "side-projects": {
+      "firstSeen": "2026-07-13T17:48:22.199Z",
+      "lastSeen": "2026-07-13T17:48:22.199Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "cold-email-templates-that-book-meetings": {
+      "firstSeen": "2026-07-13T17:48:26.744Z",
+      "lastSeen": "2026-07-13T17:48:26.744Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "finance"
+    },
+    "ai-prompts-for-real-estate-agents": {
+      "firstSeen": "2026-07-13T17:48:41.059Z",
+      "lastSeen": "2026-07-13T17:48:41.059Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "finance"
+    },
+    "proper-studio": {
+      "firstSeen": "2026-07-13T17:48:56.090Z",
+      "lastSeen": "2026-07-13T17:48:56.090Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
     }
   },
   "niches": {
     "ai": {
-      "count": 1290,
-      "wins": 357,
-      "losses": 53
+      "count": 1296,
+      "wins": 358,
+      "losses": 54
     },
     "finance": {
-      "count": 116,
+      "count": 118,
       "wins": 19,
       "losses": 2
     },
     "software": {
-      "count": 298,
-      "wins": 83,
+      "count": 299,
+      "wins": 84,
       "losses": 19
     },
     "gear": {
-      "count": 115,
-      "wins": 35,
+      "count": 117,
+      "wins": 36,
       "losses": 0
     },
     "health": {
