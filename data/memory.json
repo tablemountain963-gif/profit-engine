@@ -90,9 +90,9 @@
     },
     "fitness-gear": {
       "firstSeen": "2026-05-28T14:27:03.986Z",
-      "lastSeen": "2026-07-13T17:48:18.990Z",
-      "count": 8,
-      "wins": 0,
+      "lastSeen": "2026-07-13T21:41:50.239Z",
+      "count": 9,
+      "wins": 1,
       "losses": 0,
       "niche": "gear"
     },
@@ -322,8 +322,8 @@
     },
     "happy": {
       "firstSeen": "2026-05-30T14:27:52.108Z",
-      "lastSeen": "2026-07-06T16:19:08.257Z",
-      "count": 6,
+      "lastSeen": "2026-07-13T21:42:25.896Z",
+      "count": 7,
       "wins": 1,
       "losses": 0,
       "niche": "software"
@@ -1522,8 +1522,8 @@
     },
     "open": {
       "firstSeen": "2026-06-13T05:18:35.169Z",
-      "lastSeen": "2026-07-05T16:55:45.360Z",
-      "count": 6,
+      "lastSeen": "2026-07-13T21:42:01.904Z",
+      "count": 7,
       "wins": 2,
       "losses": 0,
       "niche": "ai"
@@ -5170,17 +5170,17 @@
     },
     "speechanalyzer-api": {
       "firstSeen": "2026-07-13T17:48:15.188Z",
-      "lastSeen": "2026-07-13T17:48:15.188Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-07-13T21:41:50.238Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
     "side-projects": {
       "firstSeen": "2026-07-13T17:48:22.199Z",
-      "lastSeen": "2026-07-13T17:48:22.199Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-07-13T21:41:50.241Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -5207,12 +5207,44 @@
       "wins": 0,
       "losses": 0,
       "niche": "ai"
+    },
+    "anthropic-api": {
+      "firstSeen": "2026-07-13T21:41:56.000Z",
+      "lastSeen": "2026-07-13T21:41:56.000Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "thunderbird-desktop": {
+      "firstSeen": "2026-07-13T21:41:58.537Z",
+      "lastSeen": "2026-07-13T21:41:58.537Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "gear"
+    },
+    "billai-bass": {
+      "firstSeen": "2026-07-13T21:42:10.380Z",
+      "lastSeen": "2026-07-13T21:42:10.380Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "apps-without-ever-opening": {
+      "firstSeen": "2026-07-13T21:42:16.923Z",
+      "lastSeen": "2026-07-13T21:42:16.923Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "software"
     }
   },
   "niches": {
     "ai": {
-      "count": 1296,
-      "wins": 358,
+      "count": 1300,
+      "wins": 360,
       "losses": 54
     },
     "finance": {
@@ -5221,13 +5253,13 @@
       "losses": 2
     },
     "software": {
-      "count": 299,
+      "count": 302,
       "wins": 84,
       "losses": 19
     },
     "gear": {
-      "count": 117,
-      "wins": 36,
+      "count": 119,
+      "wins": 37,
       "losses": 0
     },
     "health": {

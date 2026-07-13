@@ -1,6 +1,44 @@
 {
   "items": [
     {
+      "slug": "open-2026-07-13-2bf00d",
+      "title": "90% of Government Data is Still Closed: How Open Data Can Save the Day",
+      "date": "2026-07-13",
+      "niche": "software",
+      "keywords": [
+        "Open",
+        "software",
+        "ai",
+        "general"
+      ],
+      "score": 75.26,
+      "file": "articles/open-2026-07-13-2bf00d.md"
+    },
+    {
+      "slug": "thunderbird-desktop-2026-07-13-21ba67",
+      "title": "Thunderbird Desktop",
+      "date": "2026-07-13",
+      "niche": "gear",
+      "keywords": [
+        "Thunderbird Desktop",
+        "gear"
+      ],
+      "score": 79.03,
+      "file": "articles/thunderbird-desktop-2026-07-13-21ba67.md"
+    },
+    {
+      "slug": "anthropic-api-2026-07-13-879eaf",
+      "title": "Anthropic Api",
+      "date": "2026-07-13",
+      "niche": "ai",
+      "keywords": [
+        "Anthropic Api",
+        "ai"
+      ],
+      "score": 90.15,
+      "file": "articles/anthropic-api-2026-07-13-879eaf.md"
+    },
+    {
       "slug": "side-projects-2026-07-13-ce0ae7",
       "title": "Side Projects",
       "date": "2026-07-13",
@@ -6004,42 +6042,6 @@
       ],
       "score": 71.67,
       "file": "articles/mr-banky-2026-06-02-72a867.md"
-    },
-    {
-      "slug": "hermes-agent-2026-06-02-b70747",
-      "title": "Introducing Hermes Agent: A 7-Layer Memory Operating System",
-      "date": "2026-06-02",
-      "niche": "ai",
-      "keywords": [
-        "Hermes Agent",
-        "ai"
-      ],
-      "score": 77.37,
-      "file": "articles/hermes-agent-2026-06-02-b70747.md"
-    },
-    {
-      "slug": "chipotlai-max-2026-06-02-328305",
-      "title": "Chipotlai Max: Unpacking the Mystery",
-      "date": "2026-06-02",
-      "niche": "ai",
-      "keywords": [
-        "Chipotlai Max",
-        "ai"
-      ],
-      "score": 70.07,
-      "file": "articles/chipotlai-max-2026-06-02-328305.md"
-    },
-    {
-      "slug": "maya-angelouand-2026-06-02-45c0f8",
-      "title": "7 Words That Changed the Course of Freedom: Understanding Maya Angelou's Impact",
-      "date": "2026-06-02",
-      "niche": "software",
-      "keywords": [
-        "Maya Angelouand",
-        "software"
-      ],
-      "score": 82.15,
-      "file": "articles/maya-angelouand-2026-06-02-45c0f8.md"
     }
   ]
 }
