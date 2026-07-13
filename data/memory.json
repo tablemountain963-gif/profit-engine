@@ -2320,14 +2320,6 @@
       "losses": 0,
       "niche": "ai"
     },
-    "systemic-rejection": {
-      "firstSeen": "2026-06-23T22:06:39.449Z",
-      "lastSeen": "2026-06-29T05:27:25.954Z",
-      "count": 2,
-      "wins": 0,
-      "losses": 1,
-      "niche": "ai"
-    },
     "claude-tag": {
       "firstSeen": "2026-06-23T22:06:44.301Z",
       "lastSeen": "2026-06-24T05:00:09.926Z",
@@ -2821,46 +2813,6 @@
       "lastSeen": "2026-06-29T16:37:30.800Z",
       "count": 2,
       "wins": 1,
-      "losses": 0,
-      "niche": "ai"
-    },
-    "advanced-pet": {
-      "firstSeen": "2026-06-29T05:27:45.614Z",
-      "lastSeen": "2026-06-29T05:27:45.614Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "ai"
-    },
-    "simulator-automation": {
-      "firstSeen": "2026-06-29T05:27:51.558Z",
-      "lastSeen": "2026-06-29T05:27:51.558Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "ai"
-    },
-    "automation-tool": {
-      "firstSeen": "2026-06-29T05:28:04.798Z",
-      "lastSeen": "2026-06-29T05:28:04.798Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "ai"
-    },
-    "tool-farm": {
-      "firstSeen": "2026-06-29T05:28:27.533Z",
-      "lastSeen": "2026-06-29T05:28:27.533Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "ai"
-    },
-    "farm-coins": {
-      "firstSeen": "2026-06-29T05:28:41.535Z",
-      "lastSeen": "2026-06-29T05:28:41.535Z",
-      "count": 1,
-      "wins": 0,
       "losses": 0,
       "niche": "ai"
     },
@@ -5138,9 +5090,9 @@
     },
     "beavis-ultrasound": {
       "firstSeen": "2026-07-13T04:27:48.442Z",
-      "lastSeen": "2026-07-13T04:27:48.442Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-07-13T15:40:45.876Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "software"
     },
@@ -5183,26 +5135,90 @@
       "wins": 0,
       "losses": 0,
       "niche": "software"
+    },
+    "progress-software": {
+      "firstSeen": "2026-07-13T15:40:52.718Z",
+      "lastSeen": "2026-07-13T15:40:52.718Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "hdmi-consortium": {
+      "firstSeen": "2026-07-13T15:40:56.530Z",
+      "lastSeen": "2026-07-13T15:40:56.530Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "gear"
+    },
+    "grok-cli": {
+      "firstSeen": "2026-07-13T15:40:59.180Z",
+      "lastSeen": "2026-07-13T15:40:59.180Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "software"
+    },
+    "page-news": {
+      "firstSeen": "2026-07-13T15:41:07.331Z",
+      "lastSeen": "2026-07-13T15:41:07.331Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "linux-vm": {
+      "firstSeen": "2026-07-13T15:41:15.760Z",
+      "lastSeen": "2026-07-13T15:41:15.760Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "ai-design-logicby-twonks": {
+      "firstSeen": "2026-07-13T15:41:22.260Z",
+      "lastSeen": "2026-07-13T15:41:22.260Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "software-stocks": {
+      "firstSeen": "2026-07-13T15:41:34.868Z",
+      "lastSeen": "2026-07-13T15:41:34.868Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "finance"
+    },
+    "typescript-api": {
+      "firstSeen": "2026-07-13T15:41:45.646Z",
+      "lastSeen": "2026-07-13T15:41:45.646Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
     }
   },
   "niches": {
     "ai": {
-      "count": 1285,
+      "count": 1290,
       "wins": 357,
       "losses": 53
     },
     "finance": {
-      "count": 115,
+      "count": 116,
       "wins": 19,
       "losses": 2
     },
     "software": {
-      "count": 296,
-      "wins": 82,
+      "count": 298,
+      "wins": 83,
       "losses": 19
     },
     "gear": {
-      "count": 114,
+      "count": 115,
       "wins": 35,
       "losses": 0
     },

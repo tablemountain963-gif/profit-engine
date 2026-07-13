@@ -1,326 +1,288 @@
 {
-  "generatedAt": "2026-07-13T04:27:41.061Z",
-  "sourceCount": 206,
+  "generatedAt": "2026-07-13T15:40:46.854Z",
+  "sourceCount": 207,
   "topItems": [
     {
-      "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
-      "url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
-      "score": 8.91,
+      "title": "This graph should be front page news.Instead, there is silence.This is not a projection, not a prediction, not the result of a model.These are measurements, it is what is happening.Now.https://www.lyr",
+      "url": "https://mathstodon.xyz/@ColinTheMathmo/116912500970035250",
+      "score": 11,
+      "niche": "ai",
+      "source": "mastodon",
+      "engagement": {
+        "score": 417,
+        "comments": 11
+      }
+    },
+    {
+      "title": "Show HN: Clawk – Give coding agents a disposable Linux VM, not your laptop",
+      "url": "https://github.com/clawkwork/clawk",
+      "score": 8.83,
       "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 503,
-        "comments": 281
+        "score": 78,
+        "comments": 86
+      }
+    },
+    {
+      "title": "Grok uploaded my user directory to xAI's servers",
+      "url": "https://twitter.com/a_green_being/status/2076598897779020159",
+      "score": 8.72,
+      "niche": "ai",
+      "source": "hackernews",
+      "engagement": {
+        "score": 262,
+        "comments": 133
       }
     },
     {
       "title": "Ask HN: Add flag for AI-generated articles",
       "url": "https://news.ycombinator.com/item?id=48886741",
-      "score": 8.64,
+      "score": 8.25,
       "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 213,
-        "comments": 143
+        "score": 893,
+        "comments": 386
       }
     },
     {
-      "title": "Time to head to the Big Apple!",
-      "url": "https://mastodon.social/@VeroniqueB99/116909666295511851",
-      "score": 8.5,
-      "niche": "software",
-      "source": "mastodon",
-      "engagement": {
-        "score": 408,
-        "comments": 13
-      }
-    },
-    {
-      "title": "Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper",
-      "url": "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6",
-      "score": 8.15,
-      "niche": "ai",
-      "source": "hackernews",
-      "engagement": {
-        "score": 160,
-        "comments": 60
-      }
-    },
-    {
-      "title": "The kids are alright. From an email I  received today:I am writing to express my huge appreciation for your incredible work and dedication to maintaining curl—one of the most essential building blocks",
-      "url": "https://mastodon.social/@bagder/116909133263883845",
-      "score": 8.03,
+      "title": "AI Design Logicby Twonks",
+      "url": "https://tech.lgbt/@Natasha_Jay/116913004573347300",
+      "score": 8.18,
       "niche": "ai",
       "source": "mastodon",
       "engagement": {
-        "score": 519,
-        "comments": 6
-      }
-    },
-    {
-      "title": "I love LLMs, I hate hype",
-      "url": "https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html",
-      "score": 7.46,
-      "niche": "ai",
-      "source": "hackernews",
-      "engagement": {
-        "score": 363,
-        "comments": 227
-      }
-    },
-    {
-      "title": "RE: https://mastodon.social/@VeroniqueB99/116909666295511851today’s #altTxt #yaddayadda because this will make living in #nyc 100% better:❝ MAGA is apparently now boycotting going to NYC because they ",
-      "url": "https://mastodon.social/@blogdiva/116910113050364181",
-      "score": 7.21,
-      "niche": "software",
-      "source": "mastodon",
-      "engagement": {
-        "score": 157,
-        "comments": 8
-      }
-    },
-    {
-      "title": "mereyabdenbekuly-ctrl/clodex-ide — Local-first, zero-trust agentic IDE for verifiable autonomous software development.",
-      "url": "https://github.com/mereyabdenbekuly-ctrl/clodex-ide",
-      "score": 7.19,
-      "niche": "ai",
-      "source": "github",
-      "engagement": {
-        "score": 641,
-        "comments": 0
-      }
-    },
-    {
-      "title": "Mechanistic interpretability researchers applying causality theory to LLMs",
-      "url": "https://cacm.acm.org/news/can-we-understand-how-large-language-models-reason/",
-      "score": 6.92,
-      "niche": "ai",
-      "source": "hackernews",
-      "engagement": {
-        "score": 91,
-        "comments": 66
-      }
-    },
-    {
-      "title": "oops, i cloned another sound card! this is the Beavis Ultrasound, an open source clone of the Gravis Ultrasound PnP. yes, i know there are already clones of this card, but mine provides the full schem",
-      "url": "https://mastodon.social/@tubetime/116910438288228622",
-      "score": 6.91,
-      "niche": "software",
-      "source": "mastodon",
-      "engagement": {
-        "score": 129,
-        "comments": 5
-      }
-    },
-    {
-      "title": "You Europeans are always complaining about #Europe. And I'm not saying Europe is perfect and deserves no criticism, but as an American I am often envious of your set of problems versus our set of prob",
-      "url": "https://mastodon.social/@benroyce/116910046813924230",
-      "score": 6.83,
-      "niche": "ai",
-      "source": "mastodon",
-      "engagement": {
-        "score": 63,
+        "score": 352,
         "comments": 4
       }
     },
     {
-      "title": "shadowhawkstride/Meccha-Chameleon-Vision — External ESP · Aimbot · Radar · Player Mod · Camouflage for MECCHA CHAMELEON",
-      "url": "https://github.com/shadowhawkstride/Meccha-Chameleon-Vision",
-      "score": 6.79,
+      "title": "On first glance (pre-caffeine) it looks like there are a bunch of mansplainers doing math to defend Reflect Orbital in my mentions.  FANTASTIC.  (Editing to add that reading more carefully, I think mo",
+      "url": "https://mastodon.social/@sundogplanets/116913079442492524",
+      "score": 7.76,
       "niche": "ai",
-      "source": "github",
+      "source": "mastodon",
       "engagement": {
-        "score": 131,
+        "score": 234,
+        "comments": 16
+      }
+    },
+    {
+      "title": "Best Fantasy Football AI Tools for 2026",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9pZThxanlMeFB4SGJqT0xTOUtpWHpKVUw1aHBVa0dBdFNybWZnWVVIRWhDRzVCT3dFd0swRHdUVUxaYVlhaHktcTBVR1Z4ZEpsRnktYk9DaEwtNjljZHBVMFRxSGg0NEowck9UQUs4cDhPSEg4TWfSAXtBVV95cUxPTjBkOVVmUFAwcWxtckdzVl9WcS1lM1FkSkdyaUZIelUtZ3NXZmNaMm9iQjBsZUM1NkZ1UWJlTVkwMU1meEJDbTFoeWFkYzZadkROdEtVODhfSTNvUDZTa08xSXlCTGxfYUtpY2Y3MHU0Mk81QnN0dW0xTEE?oc=5",
+      "score": 7.48,
+      "niche": "ai",
+      "source": "gnews",
+      "engagement": {
+        "score": 40,
         "comments": 0
       }
     },
     {
-      "title": "I met a friend yesterday who last saw Cookie a decade ago. Her main memory of Cookie was ‘super cute and clumsy’ They say dogs take after their owners.. miss her clumsy face#Dogs",
-      "url": "https://hachyderm.io/@skinnylatte/116910488646170075",
+      "title": "LonghornSilicon/awesome-ai-accelerators — A curated list of AI accelerator papers, resources, tools, and open-source projects.",
+      "url": "https://github.com/LonghornSilicon/awesome-ai-accelerators",
+      "score": 7.22,
+      "niche": "ai",
+      "source": "github",
+      "engagement": {
+        "score": 87,
+        "comments": 0
+      }
+    },
+    {
+      "title": "Every year, the HDMI Consortium meets with hardware manufacturers to plan where to place HDMI ports on monitors. Through a rigorous series of testing, they ensure that each monitor has its port locati",
+      "url": "https://haunted.computer/@Dio9sys/116912839297115870",
+      "score": 7.21,
+      "niche": "gear",
+      "source": "mastodon",
+      "engagement": {
+        "score": 160,
+        "comments": 6
+      }
+    },
+    {
+      "title": "Authorities say ICE shot and killed a person this morning in Maine. https://www.wmtw.com/article/significant-police-presence-pool-street-biddeford-maine/71917201",
+      "url": "https://flipboard.social/@newsguyusa/116912840461037655",
+      "score": 7.13,
+      "niche": "ai",
+      "source": "mastodon",
+      "engagement": {
+        "score": 158,
+        "comments": 5
+      }
+    },
+    {
+      "title": "Grok CLI uploaded the whole home directory to GCS",
+      "url": "https://twitter.com/i/status/2076598897779020159",
+      "score": 6.94,
+      "niche": "software",
+      "source": "hackernews",
+      "engagement": {
+        "score": 177,
+        "comments": 62
+      }
+    },
+    {
+      "title": "My Polish cousin sent her daughter over to stay with us in England for the weekend as she wanted to go to an anime convention. It turns out being a 47 year old man waiting alone in an airport for a 17",
+      "url": "https://mastodon.social/@fesshole/116912633160957735",
+      "score": 6.84,
+      "niche": "ai",
+      "source": "mastodon",
+      "engagement": {
+        "score": 126,
+        "comments": 5
+      }
+    },
+    {
+      "title": "Over on Whatever today I'm talking about GMail has turned into a spam farm so completely that a) most email I get from there is spam/scam, b) I can't assume a GMail I get is from a real person, c) peo",
+      "url": "https://mastodon.social/@scalzi/116912936445444385",
+      "score": 6.81,
+      "niche": "ai",
+      "source": "mastodon",
+      "engagement": {
+        "score": 105,
+        "comments": 14
+      }
+    },
+    {
+      "title": "Forget typosquatting; slopsquatting is the software supply chain threat created by AI coding tools",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQTXVqTlJVNUF2Ukx0cG9paXhkSkR3QmZMWF9Wc1Rvak1QVENnMmk1Z1ctc3k0SWFjQ1ZlZlU5RG5DNV92RDVEX0lxZTVCNllGNXhCcnpxOC00cnRNcUdwc0VDUlp6YndCWkZLU0N3d0pwUjF5U3J2dlJpOEVoVi1FTVlpbVVUUFgzdkdIUFpUUGRabUJqZFdLU3lFRFVWWUEwZ1o3STlTLXB5Q3FWTjVtdHFYbG5yTDhmQWZ6QkZ1Z2h2NHh1ZGFRZXd3?oc=5",
+      "score": 6.71,
+      "niche": "ai",
+      "source": "gnews",
+      "engagement": {
+        "score": 40,
+        "comments": 0
+      }
+    },
+    {
+      "title": "Reminder: in 2025, the UN estimates that spending $93 B / year would be sufficient to end world hunger by 2030.  This is roughly a third of the amount of money that companies have set on fire driving ",
+      "url": "https://infosec.exchange/@david_chisnall/116911834754482664",
+      "score": 6.64,
+      "niche": "finance",
+      "source": "mastodon",
+      "engagement": {
+        "score": 557,
+        "comments": 13
+      }
+    },
+    {
+      "title": "Interrail: 6,379Km and 13 Countries over 7 weeks",
+      "url": "https://shkspr.mobi/blog/2026/07/another-ridiculous-interrail-holiday-6379km-and-13-countries-over-7-weeks/",
+      "score": 6.6,
+      "niche": "ai",
+      "source": "hackernews",
+      "engagement": {
+        "score": 164,
+        "comments": 107
+      }
+    },
+    {
+      "title": "littledivy/mimic — Intercept any app, then call it from Python like a library",
+      "url": "https://github.com/littledivy/mimic",
+      "score": 6.6,
+      "niche": "software",
+      "source": "github",
+      "engagement": {
+        "score": 363,
+        "comments": 0
+      }
+    },
+    {
+      "title": "We said it before. We say it again: @ecosia is so cool and just by using it you can make a positive impact on nature and climate. In contrast to other search engines that work towards the apocalypse..",
+      "url": "https://mastodon.social/@warandpeas/116912728532882975",
       "score": 6.43,
       "niche": "ai",
       "source": "mastodon",
       "engagement": {
-        "score": 97,
-        "comments": 2
+        "score": 91,
+        "comments": 5
       }
     },
     {
-      "title": "Starbucks Just Fired A Warning Shot At Microsoft And IBM AI Apps",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQUpYQzllbU94bmt4WUxOQkg2SHdOMzNVMlFFay1sUkpqRXcwcUpUTUlSMWpEUE1hNXhsNlNMLWpqd0ZDOHZLWHM5UnpBTlpleHJwX3hJNUtydWlZcFhoR1JjS3lXR0dkdFZLdlhZSVk0V3pEd3gzSldoamtBanBsbnlibDZJaC1uN2hBclRZTkItTFNlVUpwdENJbHVLRWpra042Wm5seFRHb2R1LUVxVXFWeE15M1Zp?oc=5",
-      "score": 5.99,
-      "niche": "ai",
-      "source": "gnews",
-      "engagement": {
-        "score": 40,
-        "comments": 0
-      }
-    },
-    {
-      "title": "James Talarico raised $30 million over the last three months, the most in Senate campaign history, sending a clear signal about where this race is headed. Democratic primary turnout is outpacing Repub",
-      "url": "https://universeodon.com/@georgetakei/116910332378329016",
-      "score": 5.98,
+      "title": "Understand the state of democracy in the UK:Picture 1: Father of Brexit Nigel Farage has been exposed for taking £5 million from a crypto billionaire, so he has resigned as MP. Not to exit politics, b",
+      "url": "https://mastodon.social/@randahl/116912924994354692",
+      "score": 6.41,
       "niche": "ai",
       "source": "mastodon",
       "engagement": {
-        "score": 71,
-        "comments": 1
-      }
-    },
-    {
-      "title": "I Learned to Read Again",
-      "url": "https://substack.magazinenongrata.com/p/how-i-learned-to-read-again",
-      "score": 5.97,
-      "niche": "ai",
-      "source": "hackernews",
-      "engagement": {
-        "score": 117,
-        "comments": 48
-      }
-    },
-    {
-      "title": "What xAI's Grok build CLI sends to xAI: A wire-level analysis",
-      "url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
-      "score": 5.52,
-      "niche": "ai",
-      "source": "hackernews",
-      "engagement": {
-        "score": 421,
-        "comments": 163
-      }
-    },
-    {
-      "title": "Against Usefulness",
-      "url": "https://www.motivenotes.ai/p/against-usefulness",
-      "score": 5.51,
-      "niche": "ai",
-      "source": "hackernews",
-      "engagement": {
-        "score": 93,
-        "comments": 24
-      }
-    },
-    {
-      "title": "MarvinSchwaibold/mri-grid-viewer — Local-first MRI series grid viewer with a SwiftUI iOS wrapper",
-      "url": "https://github.com/MarvinSchwaibold/mri-grid-viewer",
-      "score": 5.47,
-      "niche": "ai",
-      "source": "github",
-      "engagement": {
-        "score": 71,
-        "comments": 0
-      }
-    },
-    {
-      "title": "Logitech G316 X keyboard review: Retro charm done right",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ySDhwR0UxbjktcGlkeldNTF9LcXZmQnBzZU13WEJOWmZzR3l3WmpFYVI0elJlREMyRTlFLWpLS29BM1lqUG5WX0dlcUdkdEpLelhyZldjY1EyMGlDVzBaM3lB?oc=5",
-      "score": 5.19,
-      "niche": "gear",
-      "source": "gnews",
-      "engagement": {
-        "score": 40,
-        "comments": 0
-      }
-    },
-    {
-      "title": "Procter & Gamble vs PepsiCo: The Better Stock For Passive Income Investors",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxORkgxMlhIaUktNnpIVmtqYVdYbkhGX2dSdTBvRUh1ekNlTGlzaDA5MWQyTW9mOWR3bVRfZWxLdlhKaXE4OHBfUjlXQjB0NnlwQm9LUFVGdkN6TDhLSC1vOWpGb0I2UjlodHNaanpUSlRxX1BIZ0QyQmh1WTlpN1hzYkpCSGhPclBuZmVMLUFmeGRqVEhaYTlXT1Z5UE53UQ?oc=5",
-      "score": 5.03,
-      "niche": "finance",
-      "source": "gnews",
-      "engagement": {
-        "score": 40,
-        "comments": 0
-      }
-    },
-    {
-      "title": "The Best AI Learning Tools Make Better Teachers, Not Fewer",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZ3NDRnZSMXR5VzIxVVE2b0Q0ek1hbXExbVhveDNWQlB2MUZXZF93bzFnRmUwR004VER5RWw5d2ZJX0NhR3hsU2JyZGFEaW5BWkt6anByM283eE1PTlNCMjJWSHB1bHUya1ZjMV9oY1NNQmZ0T19Gb1VWRUZVb3hRakpKVXVSOGRicTNMLW1FVThRMXhZOGZ4V3RYNkFZUC12QnhyUldiTQ?oc=5",
-      "score": 4.95,
-      "niche": "ai",
-      "source": "gnews",
-      "engagement": {
-        "score": 40,
-        "comments": 0
-      }
-    },
-    {
-      "title": "Paresh-Maheshwari/morphe-ai — Morphe's AI-powered Android APK patching workspace — multi-agent pipeline for APK analysis, target hunting, patch writing & deployment.",
-      "url": "https://github.com/Paresh-Maheshwari/morphe-ai",
-      "score": 4.71,
-      "niche": "ai",
-      "source": "github",
-      "engagement": {
-        "score": 68,
-        "comments": 0
+        "score": 76,
+        "comments": 12
       }
     },
     {
       "title": "MDX-Tom/gpt-5.6-instruct — A Codex CLI jailbreak prompt and test pack for gpt-5.6-sol. 针对 gpt-5.6 系列的 Codex CLI 破甲提示词与测试包。",
       "url": "https://github.com/MDX-Tom/gpt-5.6-instruct",
-      "score": 4.65,
+      "score": 6.13,
       "niche": "ai",
       "source": "github",
       "engagement": {
-        "score": 127,
+        "score": 595,
+        "comments": 1
+      }
+    },
+    {
+      "title": "Progress Software: AI Ambitions Need To Translate Into Growth (NASDAQ:PRGS)",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVUlVVVVUazdTamRhRTVFRk9pVjFtbUdCZm15dV8wTHRIR2gwdjhQbmRaeWJjVVpGYm04RDJfcHJOOWZyY2ZuWGhxaVJMaVNNeUNRNWlydVlSNFVhamJfZ1p2RjE1bTVWT2VVN0NEQVc0Q3NnMXQ0b2dlM1ZOdzFNMXAtRVlWRFU5UEJlaHh0QmtsNE5kM2xUZk1VNUJLR29Tdm40?oc=5",
+      "score": 5.94,
+      "niche": "ai",
+      "source": "gnews",
+      "engagement": {
+        "score": 40,
         "comments": 0
       }
     },
     {
-      "title": "nhevers/project-r0x — Official SDK, Claude Code plugin and facilitator docs for r0x, the x402 facilitator for Robinhood Chain.",
-      "url": "https://github.com/nhevers/project-r0x",
-      "score": 4.64,
+      "title": "cron-parser — Node.js library for parsing crontab instructions",
+      "url": "https://www.npmjs.com/package/cron-parser",
+      "score": 5.61,
+      "niche": "software",
+      "source": "npm",
+      "engagement": {
+        "score": 100,
+        "comments": 0
+      }
+    },
+    {
+      "title": "mereyabdenbekuly-ctrl/clodex-ide — Local-first, zero-trust agentic IDE for verifiable autonomous software development.",
+      "url": "https://github.com/mereyabdenbekuly-ctrl/clodex-ide",
+      "score": 5.46,
       "niche": "ai",
       "source": "github",
       "engagement": {
-        "score": 123,
-        "comments": 1
+        "score": 695,
+        "comments": 2
+      }
+    },
+    {
+      "title": "Apple’s failed self-driving car program left a legacy of powerful AI chips",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPTVdadFM1QW1fWFNnZHpkSV9La3p1SVcwWmg2QUlZTVZDSEdBWFBjY0N4UW1kLXlTZ2lmRm9LeVJiWlFkVmpvM2l5a1NlMEk4eklQaHVGaF9nRHFPZDRKdi1xYmNab0RXdmQzaVZmS3pCMW5pZE9VRlUzS1dTTHRrOS1uZjFOQQ?oc=5",
+      "score": 5.37,
+      "niche": "ai",
+      "source": "gnews",
+      "engagement": {
+        "score": 40,
+        "comments": 0
+      }
+    },
+    {
+      "title": "I was a software engineer who couldn't get excited about AI. Now I'm studying to be a nurse.",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMlVfRGRhaTcyTUF0eTV2TmlRY3VpeTVuMFJCdTRaSHZyRkVicHY5aGIxWTAzNkJWb25xOHBJSTI1dFV5ZWswUVFnLUNFSlp6dUNIZmNTeHZHbFhmajBTV3NORGtjaThIMi1oTUVDSTlzWTJzYUNhS3JSV2t0MGZkSE5FQVlzZjd6blJ1bXRUT21LZURB?oc=5",
+      "score": 5.16,
+      "niche": "ai",
+      "source": "gnews",
+      "engagement": {
+        "score": 40,
+        "comments": 0
       }
     }
   ],
   "topics": [
     {
-      "keyword": "claude code",
-      "count": 24,
-      "score": 212.48271428801624,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
-          "url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
-          "source": "hackernews"
-        },
-        {
-          "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
-          "url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
-          "source": "hackernews"
-        },
-        {
-          "title": "nhevers/project-r0x — Official SDK, Claude Code plugin and facilitator docs for r0x, the x402 facilitator for Robinhood Chain.",
-          "url": "https://github.com/nhevers/project-r0x",
-          "source": "github"
-        },
-        {
-          "title": "nhevers/project-r0x — Official SDK, Claude Code plugin and facilitator docs for r0x, the x402 facilitator for Robinhood Chain.",
-          "url": "https://github.com/nhevers/project-r0x",
-          "source": "github"
-        },
-        {
-          "title": "djfksjd/ir-search — 🇰🇷 한국 정부 지원사업 전수조사 Claude Code 스킬 — K-Startup·기업마당·NIPA·KOCCA·SMTECH 크롤링 + 프로젝트 프로필 기반 즉시/로드맵/변형 3분류 (Korea-only)",
-          "url": "https://github.com/djfksjd/ir-search",
-          "source": "github"
-        }
-      ],
-      "id": "a625159d18da",
-      "slug": "claude-code"
-    },
-    {
       "keyword": "passive income",
       "count": 39,
-      "score": 114.37863111856365,
+      "score": 120.18465300275469,
       "proper": false,
       "niches": [
         "finance"
@@ -337,18 +299,18 @@
           "source": "gnews"
         },
         {
-          "title": "3 Passive Income ETFs Worth Holding for the Long Haul",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbE9EemtKNEhtRGFLaDlyWUd3UjhHdmpaaXQ1U0dOdnczVUhHa0tWZURjcGM4bk42WXJBVi0tc3ZOdDZId1NJOFN5WUk3YnJEbzk3QzdlWmtXbjVnbm51d3dTUUVnWElmMUh0aURtd0tpSFZhRVBBekdkS2tITTNuNFRBTkVValhfVDd0N0NlbUZKSXRMMHdZ?oc=5",
+          "title": "By Christmas 2027, £9,999 in Tesco shares could generate this much passive income…",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWUF0Tjl6czhoTUY1cjVIMWIxT05BaG4yc1lSbjBiRTlVck41azNTM3ZsNElBNXhNUEw4WkZ4Rkl2WWI2akRaOWJjUVVGQVhpeXd1VHFOZm9ILVBVc1NyRWU2aVd3NWMwS1BfNmxGdXp6d1BXUEh5UU5iMnIwd3RBUA?oc=5",
           "source": "gnews"
         },
         {
-          "title": "3 Passive Income ETFs Worth Holding for the Long Haul",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbE9EemtKNEhtRGFLaDlyWUd3UjhHdmpaaXQ1U0dOdnczVUhHa0tWZURjcGM4bk42WXJBVi0tc3ZOdDZId1NJOFN5WUk3YnJEbzk3QzdlWmtXbjVnbm51d3dTUUVnWElmMUh0aURtd0tpSFZhRVBBekdkS2tITTNuNFRBTkVValhfVDd0N0NlbUZKSXRMMHdZ?oc=5",
+          "title": "By Christmas 2027, £9,999 in Tesco shares could generate this much passive income…",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWUF0Tjl6czhoTUY1cjVIMWIxT05BaG4yc1lSbjBiRTlVck41azNTM3ZsNElBNXhNUEw4WkZ4Rkl2WWI2akRaOWJjUVVGQVhpeXd1VHFOZm9ILVBVc1NyRWU2aVd3NWMwS1BfNmxGdXp6d1BXUEh5UU5iMnIwd3RBUA?oc=5",
           "source": "gnews"
         },
         {
-          "title": "If I Could Tell Every Dividend Investor 1 Thing About Building Passive Income in 2026, It's This",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMUFZdEhrZW1ZR0FjZGlMV0xhVjlaVkRYRFRPbEZrQmV6OThMZWpreGdjTE1mMnJxWUgzR2FFRWkxZGpIaEl3c1A5blhOM3NUY0JLUjBCank5ZkxBSGhjRG5MQ1BqNGVDUXk0UUZNVnZKOEZRaDdTZ3RjNGhiaHQ3RGRob2w2ekFrY2tNZW9SZlM1QkgybTFRcFVIVGhiUjRs?oc=5",
+          "title": "If You Invest $5,000 in SCHD Today, Here's the Passive Income It Could Deliver in 20 Years",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNHk5Sy1FaWdiWkJ2LS01VW9SbThUNEZ5N2FoRGRweGlEbnRrYkp3WnNxOFZMWkxmSXBfZENBWGlIQWVnTWJqZGhIMlVIdWd0RHZvY3hGWlEtblB1LTBGOHBSUFZSOGpjWEN6V3dfMkgxVC1CMThFZG92dXZicHR4ZG1UQ2RCY3k5NmE0cy05azhRUkV0U1ZGRA?oc=5",
           "source": "gnews"
         }
       ],
@@ -356,144 +318,42 @@
       "slug": "passive-income"
     },
     {
-      "keyword": "income",
-      "count": 18,
-      "score": 86.21942498023708,
-      "proper": true,
-      "niches": [
-        "finance"
-      ],
-      "examples": [
-        {
-          "title": "Procter & Gamble vs PepsiCo: The Better Stock For Passive Income Investors",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxORkgxMlhIaUktNnpIVmtqYVdYbkhGX2dSdTBvRUh1ekNlTGlzaDA5MWQyTW9mOWR3bVRfZWxLdlhKaXE4OHBfUjlXQjB0NnlwQm9LUFVGdkN6TDhLSC1vOWpGb0I2UjlodHNaanpUSlRxX1BIZ0QyQmh1WTlpN1hzYkpCSGhPclBuZmVMLUFmeGRqVEhaYTlXT1Z5UE53UQ?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Procter & Gamble vs PepsiCo: The Better Stock For Passive Income Investors",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxORkgxMlhIaUktNnpIVmtqYVdYbkhGX2dSdTBvRUh1ekNlTGlzaDA5MWQyTW9mOWR3bVRfZWxLdlhKaXE4OHBfUjlXQjB0NnlwQm9LUFVGdkN6TDhLSC1vOWpGb0I2UjlodHNaanpUSlRxX1BIZ0QyQmh1WTlpN1hzYkpCSGhPclBuZmVMLUFmeGRqVEhaYTlXT1Z5UE53UQ?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "3 Passive Income ETFs Worth Holding for the Long Haul",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbE9EemtKNEhtRGFLaDlyWUd3UjhHdmpaaXQ1U0dOdnczVUhHa0tWZURjcGM4bk42WXJBVi0tc3ZOdDZId1NJOFN5WUk3YnJEbzk3QzdlWmtXbjVnbm51d3dTUUVnWElmMUh0aURtd0tpSFZhRVBBekdkS2tITTNuNFRBTkVValhfVDd0N0NlbUZKSXRMMHdZ?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "3 Passive Income ETFs Worth Holding for the Long Haul",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbE9EemtKNEhtRGFLaDlyWUd3UjhHdmpaaXQ1U0dOdnczVUhHa0tWZURjcGM4bk42WXJBVi0tc3ZOdDZId1NJOFN5WUk3YnJEbzk3QzdlWmtXbjVnbm51d3dTUUVnWElmMUh0aURtd0tpSFZhRVBBekdkS2tITTNuNFRBTkVValhfVDd0N0NlbUZKSXRMMHdZ?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "If I Could Tell Every Dividend Investor 1 Thing About Building Passive Income in 2026, It's This",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMUFZdEhrZW1ZR0FjZGlMV0xhVjlaVkRYRFRPbEZrQmV6OThMZWpreGdjTE1mMnJxWUgzR2FFRWkxZGpIaEl3c1A5blhOM3NUY0JLUjBCank5ZkxBSGhjRG5MQ1BqNGVDUXk0UUZNVnZKOEZRaDdTZ3RjNGhiaHQ3RGRob2w2ekFrY2tNZW9SZlM1QkgybTFRcFVIVGhiUjRs?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "00cf141f881d",
-      "slug": "income"
-    },
-    {
-      "keyword": "logitech g316",
-      "count": 11,
-      "score": 85.68720630751953,
-      "proper": true,
-      "niches": [
-        "gear"
-      ],
-      "examples": [
-        {
-          "title": "Logitech G316 X keyboard review: Retro charm done right",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ySDhwR0UxbjktcGlkeldNTF9LcXZmQnBzZU13WEJOWmZzR3l3WmpFYVI0elJlREMyRTlFLWpLS29BM1lqUG5WX0dlcUdkdEpLelhyZldjY1EyMGlDVzBaM3lB?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Logitech G316 X keyboard review: Retro charm done right",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ySDhwR0UxbjktcGlkeldNTF9LcXZmQnBzZU13WEJOWmZzR3l3WmpFYVI0elJlREMyRTlFLWpLS29BM1lqUG5WX0dlcUdkdEpLelhyZldjY1EyMGlDVzBaM3lB?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Logitech G316 X keyboard review: Retro charm done right",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ySDhwR0UxbjktcGlkeldNTF9LcXZmQnBzZU13WEJOWmZzR3l3WmpFYVI0elJlREMyRTlFLWpLS29BM1lqUG5WX0dlcUdkdEpLelhyZldjY1EyMGlDVzBaM3lB?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "c0693870752e",
-      "slug": "logitech-g316"
-    },
-    {
-      "keyword": "beavis ultrasound",
-      "count": 8,
-      "score": 82.9263872986071,
-      "proper": true,
-      "niches": [
-        "software"
-      ],
-      "examples": [
-        {
-          "title": "oops, i cloned another sound card! this is the Beavis Ultrasound, an open source clone of the Gravis Ultrasound PnP. yes, i know there are already clones of this card, but mine provides the full schem",
-          "url": "https://mastodon.social/@tubetime/116910438288228622",
-          "source": "mastodon"
-        },
-        {
-          "title": "oops, i cloned another sound card! this is the Beavis Ultrasound, an open source clone of the Gravis Ultrasound PnP. yes, i know there are already clones of this card, but mine provides the full schem",
-          "url": "https://mastodon.social/@tubetime/116910438288228622",
-          "source": "mastodon"
-        }
-      ],
-      "id": "da560044c4f1",
-      "slug": "beavis-ultrasound"
-    },
-    {
-      "keyword": "external esp",
-      "count": 8,
-      "score": 81.43003895830465,
+      "keyword": "claude code",
+      "count": 16,
+      "score": 106.62022036890212,
       "proper": true,
       "niches": [
         "ai"
       ],
       "examples": [
         {
-          "title": "shadowhawkstride/Meccha-Chameleon-Vision — External ESP · Aimbot · Radar · Player Mod · Camouflage for MECCHA CHAMELEON",
-          "url": "https://github.com/shadowhawkstride/Meccha-Chameleon-Vision",
+          "title": "nhevers/project-r0x — Official SDK, Claude Code plugin and facilitator docs for r0x, the x402 facilitator for Robinhood Chain.",
+          "url": "https://github.com/nhevers/project-r0x",
           "source": "github"
         },
         {
-          "title": "shadowhawkstride/Meccha-Chameleon-Vision — External ESP · Aimbot · Radar · Player Mod · Camouflage for MECCHA CHAMELEON",
-          "url": "https://github.com/shadowhawkstride/Meccha-Chameleon-Vision",
-          "source": "github"
-        }
-      ],
-      "id": "5ec853a7f9e9",
-      "slug": "external-esp"
-    },
-    {
-      "keyword": "player mod",
-      "count": 8,
-      "score": 81.43003895830465,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "shadowhawkstride/Meccha-Chameleon-Vision — External ESP · Aimbot · Radar · Player Mod · Camouflage for MECCHA CHAMELEON",
-          "url": "https://github.com/shadowhawkstride/Meccha-Chameleon-Vision",
+          "title": "nhevers/project-r0x — Official SDK, Claude Code plugin and facilitator docs for r0x, the x402 facilitator for Robinhood Chain.",
+          "url": "https://github.com/nhevers/project-r0x",
           "source": "github"
         },
         {
-          "title": "shadowhawkstride/Meccha-Chameleon-Vision — External ESP · Aimbot · Radar · Player Mod · Camouflage for MECCHA CHAMELEON",
-          "url": "https://github.com/shadowhawkstride/Meccha-Chameleon-Vision",
+          "title": "djfksjd/ir-search — 🇰🇷 한국 정부 지원사업 전수조사 Claude Code 스킬 — K-Startup·기업마당·NIPA·KOCCA·SMTECH 크롤링 + 프로젝트 프로필 기반 즉시/로드맵/변형 3분류 (Korea-only)",
+          "url": "https://github.com/djfksjd/ir-search",
+          "source": "github"
+        },
+        {
+          "title": "djfksjd/ir-search — 🇰🇷 한국 정부 지원사업 전수조사 Claude Code 스킬 — K-Startup·기업마당·NIPA·KOCCA·SMTECH 크롤링 + 프로젝트 프로필 기반 즉시/로드맵/변형 3분류 (Korea-only)",
+          "url": "https://github.com/djfksjd/ir-search",
           "source": "github"
         }
       ],
-      "id": "05c4565dae58",
-      "slug": "player-mod"
+      "id": "a625159d18da",
+      "slug": "claude-code"
     },
     {
       "keyword": "codex cli",
       "count": 11,
-      "score": 76.76987361421114,
+      "score": 101.16077753506579,
       "proper": true,
       "niches": [
         "ai"
@@ -519,219 +379,329 @@
       "slug": "codex-cli"
     },
     {
-      "keyword": "against usefulness",
-      "count": 8,
-      "score": 66.1182979394475,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "Against Usefulness",
-          "url": "https://www.motivenotes.ai/p/against-usefulness",
-          "source": "hackernews"
-        },
-        {
-          "title": "Against Usefulness",
-          "url": "https://www.motivenotes.ai/p/against-usefulness",
-          "source": "hackernews"
-        }
-      ],
-      "id": "af7247ff1f76",
-      "slug": "against-usefulness"
-    },
-    {
-      "keyword": "android apk",
-      "count": 8,
-      "score": 56.48944406744849,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "Paresh-Maheshwari/morphe-ai — Morphe's AI-powered Android APK patching workspace — multi-agent pipeline for APK analysis, target hunting, patch writing & deployment.",
-          "url": "https://github.com/Paresh-Maheshwari/morphe-ai",
-          "source": "github"
-        },
-        {
-          "title": "Paresh-Maheshwari/morphe-ai — Morphe's AI-powered Android APK patching workspace — multi-agent pipeline for APK analysis, target hunting, patch writing & deployment.",
-          "url": "https://github.com/Paresh-Maheshwari/morphe-ai",
-          "source": "github"
-        }
-      ],
-      "id": "f6dce83a7f08",
-      "slug": "android-apk"
-    },
-    {
-      "keyword": "official sdk",
-      "count": 8,
-      "score": 55.65141796343495,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "nhevers/project-r0x — Official SDK, Claude Code plugin and facilitator docs for r0x, the x402 facilitator for Robinhood Chain.",
-          "url": "https://github.com/nhevers/project-r0x",
-          "source": "github"
-        },
-        {
-          "title": "nhevers/project-r0x — Official SDK, Claude Code plugin and facilitator docs for r0x, the x402 facilitator for Robinhood Chain.",
-          "url": "https://github.com/nhevers/project-r0x",
-          "source": "github"
-        }
-      ],
-      "id": "02e0ba92fe64",
-      "slug": "official-sdk"
-    },
-    {
-      "keyword": "robinhood chain",
-      "count": 8,
-      "score": 55.65141796343495,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "nhevers/project-r0x — Official SDK, Claude Code plugin and facilitator docs for r0x, the x402 facilitator for Robinhood Chain.",
-          "url": "https://github.com/nhevers/project-r0x",
-          "source": "github"
-        },
-        {
-          "title": "nhevers/project-r0x — Official SDK, Claude Code plugin and facilitator docs for r0x, the x402 facilitator for Robinhood Chain.",
-          "url": "https://github.com/nhevers/project-r0x",
-          "source": "github"
-        }
-      ],
-      "id": "d18ddd738234",
-      "slug": "robinhood-chain"
-    },
-    {
-      "keyword": "capcut named",
+      "keyword": "progress software",
       "count": 11,
-      "score": 54.49919208627331,
+      "score": 97.92823578002233,
       "proper": true,
       "niches": [
         "ai"
       ],
       "examples": [
         {
-          "title": "Best AI Tools for Social Media Content Creation (2026): CapCut Named a Top Choice for Video and Image Content Creation by Consumer365",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQT1RfLUI5dEctX2tFMk11M21FTEVDai1rUVJ6elJfcl9ld0QwYnB6UjhsUktDS0dWSVJ6d0xzNVZfMmFTVC1VZm85UWlCdGFqUWVMTjQ2cXNzWEsxczdjLURZVmFHbjVKak50M0RxY3RMLWlnRTJWQjdrX1pMMDlfemtNZWFULUpGR09vNXhiUkdlQ0xmLXFkRktR?oc=5",
+          "title": "Progress Software: AI Ambitions Need To Translate Into Growth (NASDAQ:PRGS)",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVUlVVVVUazdTamRhRTVFRk9pVjFtbUdCZm15dV8wTHRIR2gwdjhQbmRaeWJjVVpGYm04RDJfcHJOOWZyY2ZuWGhxaVJMaVNNeUNRNWlydVlSNFVhamJfZ1p2RjE1bTVWT2VVN0NEQVc0Q3NnMXQ0b2dlM1ZOdzFNMXAtRVlWRFU5UEJlaHh0QmtsNE5kM2xUZk1VNUJLR29Tdm40?oc=5",
           "source": "gnews"
         },
         {
-          "title": "Best AI Tools for Social Media Content Creation (2026): CapCut Named a Top Choice for Video and Image Content Creation by Consumer365",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQT1RfLUI5dEctX2tFMk11M21FTEVDai1rUVJ6elJfcl9ld0QwYnB6UjhsUktDS0dWSVJ6d0xzNVZfMmFTVC1VZm85UWlCdGFqUWVMTjQ2cXNzWEsxczdjLURZVmFHbjVKak50M0RxY3RMLWlnRTJWQjdrX1pMMDlfemtNZWFULUpGR09vNXhiUkdlQ0xmLXFkRktR?oc=5",
+          "title": "Progress Software: AI Ambitions Need To Translate Into Growth (NASDAQ:PRGS)",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVUlVVVVUazdTamRhRTVFRk9pVjFtbUdCZm15dV8wTHRIR2gwdjhQbmRaeWJjVVpGYm04RDJfcHJOOWZyY2ZuWGhxaVJMaVNNeUNRNWlydVlSNFVhamJfZ1p2RjE1bTVWT2VVN0NEQVc0Q3NnMXQ0b2dlM1ZOdzFNMXAtRVlWRFU5UEJlaHh0QmtsNE5kM2xUZk1VNUJLR29Tdm40?oc=5",
           "source": "gnews"
         },
         {
-          "title": "Best AI Tools for Social Media Content Creation (2026): CapCut Named a Top Choice for Video and Image Content Creation by Consumer365",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQT1RfLUI5dEctX2tFMk11M21FTEVDai1rUVJ6elJfcl9ld0QwYnB6UjhsUktDS0dWSVJ6d0xzNVZfMmFTVC1VZm85UWlCdGFqUWVMTjQ2cXNzWEsxczdjLURZVmFHbjVKak50M0RxY3RMLWlnRTJWQjdrX1pMMDlfemtNZWFULUpGR09vNXhiUkdlQ0xmLXFkRktR?oc=5",
+          "title": "Progress Software: AI Ambitions Need To Translate Into Growth (NASDAQ:PRGS)",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVUlVVVVUazdTamRhRTVFRk9pVjFtbUdCZm15dV8wTHRIR2gwdjhQbmRaeWJjVVpGYm04RDJfcHJOOWZyY2ZuWGhxaVJMaVNNeUNRNWlydVlSNFVhamJfZ1p2RjE1bTVWT2VVN0NEQVc0Q3NnMXQ0b2dlM1ZOdzFNMXAtRVlWRFU5UEJlaHh0QmtsNE5kM2xUZk1VNUJLR29Tdm40?oc=5",
           "source": "gnews"
         }
       ],
-      "id": "d4fa3a453462",
-      "slug": "capcut-named"
+      "id": "0eca0fcdf655",
+      "slug": "progress-software"
     },
     {
-      "keyword": "solo grants",
+      "keyword": "reflect orbital",
       "count": 8,
-      "score": 53.877595825382215,
+      "score": 93.1780324363997,
       "proper": true,
       "niches": [
         "ai"
       ],
       "examples": [
         {
-          "title": "Dev Opportunity Radar #7: $1,000 Solo Grants, Free Claude Max for Open Source Contributors, and an MLH Hackathon",
-          "url": "https://dev.to/devengers/dev-opportunity-radar-7-1000-solo-grants-free-claude-max-for-open-source-contributors-and-an-3i12",
-          "source": "devto"
+          "title": "On first glance (pre-caffeine) it looks like there are a bunch of mansplainers doing math to defend Reflect Orbital in my mentions.  FANTASTIC.  (Editing to add that reading more carefully, I think mo",
+          "url": "https://mastodon.social/@sundogplanets/116913079442492524",
+          "source": "mastodon"
         },
         {
-          "title": "Dev Opportunity Radar #7: $1,000 Solo Grants, Free Claude Max for Open Source Contributors, and an MLH Hackathon",
-          "url": "https://dev.to/devengers/dev-opportunity-radar-7-1000-solo-grants-free-claude-max-for-open-source-contributors-and-an-3i12",
-          "source": "devto"
+          "title": "On first glance (pre-caffeine) it looks like there are a bunch of mansplainers doing math to defend Reflect Orbital in my mentions.  FANTASTIC.  (Editing to add that reading more carefully, I think mo",
+          "url": "https://mastodon.social/@sundogplanets/116913079442492524",
+          "source": "mastodon"
         }
       ],
-      "id": "ad4457815c79",
-      "slug": "solo-grants"
+      "id": "7b99f225a749",
+      "slug": "reflect-orbital"
     },
     {
-      "keyword": "mlh hackathon",
+      "keyword": "income",
+      "count": 20,
+      "score": 88.5418337339135,
+      "proper": true,
+      "niches": [
+        "finance"
+      ],
+      "examples": [
+        {
+          "title": "Procter & Gamble vs PepsiCo: The Better Stock For Passive Income Investors",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxORkgxMlhIaUktNnpIVmtqYVdYbkhGX2dSdTBvRUh1ekNlTGlzaDA5MWQyTW9mOWR3bVRfZWxLdlhKaXE4OHBfUjlXQjB0NnlwQm9LUFVGdkN6TDhLSC1vOWpGb0I2UjlodHNaanpUSlRxX1BIZ0QyQmh1WTlpN1hzYkpCSGhPclBuZmVMLUFmeGRqVEhaYTlXT1Z5UE53UQ?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Procter & Gamble vs PepsiCo: The Better Stock For Passive Income Investors",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxORkgxMlhIaUktNnpIVmtqYVdYbkhGX2dSdTBvRUh1ekNlTGlzaDA5MWQyTW9mOWR3bVRfZWxLdlhKaXE4OHBfUjlXQjB0NnlwQm9LUFVGdkN6TDhLSC1vOWpGb0I2UjlodHNaanpUSlRxX1BIZ0QyQmh1WTlpN1hzYkpCSGhPclBuZmVMLUFmeGRqVEhaYTlXT1Z5UE53UQ?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "By Christmas 2027, £9,999 in Tesco shares could generate this much passive income…",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWUF0Tjl6czhoTUY1cjVIMWIxT05BaG4yc1lSbjBiRTlVck41azNTM3ZsNElBNXhNUEw4WkZ4Rkl2WWI2akRaOWJjUVVGQVhpeXd1VHFOZm9ILVBVc1NyRWU2aVd3NWMwS1BfNmxGdXp6d1BXUEh5UU5iMnIwd3RBUA?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "By Christmas 2027, £9,999 in Tesco shares could generate this much passive income…",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWUF0Tjl6czhoTUY1cjVIMWIxT05BaG4yc1lSbjBiRTlVck41azNTM3ZsNElBNXhNUEw4WkZ4Rkl2WWI2akRaOWJjUVVGQVhpeXd1VHFOZm9ILVBVc1NyRWU2aVd3NWMwS1BfNmxGdXp6d1BXUEh5UU5iMnIwd3RBUA?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "If You Invest $5,000 in SCHD Today, Here's the Passive Income It Could Deliver in 20 Years",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNHk5Sy1FaWdiWkJ2LS01VW9SbThUNEZ5N2FoRGRweGlEbnRrYkp3WnNxOFZMWkxmSXBfZENBWGlIQWVnTWJqZGhIMlVIdWd0RHZvY3hGWlEtblB1LTBGOHBSUFZSOGpjWEN6V3dfMkgxVC1CMThFZG92dXZicHR4ZG1UQ2RCY3k5NmE0cy05azhRUkV0U1ZGRA?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "00cf141f881d",
+      "slug": "income"
+    },
+    {
+      "keyword": "hdmi consortium",
       "count": 8,
-      "score": 53.877595825382215,
+      "score": 86.47810142489664,
+      "proper": true,
+      "niches": [
+        "gear"
+      ],
+      "examples": [
+        {
+          "title": "Every year, the HDMI Consortium meets with hardware manufacturers to plan where to place HDMI ports on monitors. Through a rigorous series of testing, they ensure that each monitor has its port locati",
+          "url": "https://haunted.computer/@Dio9sys/116912839297115870",
+          "source": "mastodon"
+        },
+        {
+          "title": "Every year, the HDMI Consortium meets with hardware manufacturers to plan where to place HDMI ports on monitors. Through a rigorous series of testing, they ensure that each monitor has its port locati",
+          "url": "https://haunted.computer/@Dio9sys/116912839297115870",
+          "source": "mastodon"
+        }
+      ],
+      "id": "e28a972ebb72",
+      "slug": "hdmi-consortium"
+    },
+    {
+      "keyword": "grok cli",
+      "count": 8,
+      "score": 83.32823328336025,
+      "proper": true,
+      "niches": [
+        "software"
+      ],
+      "examples": [
+        {
+          "title": "Grok CLI uploaded the whole home directory to GCS",
+          "url": "https://twitter.com/i/status/2076598897779020159",
+          "source": "hackernews"
+        },
+        {
+          "title": "Grok CLI uploaded the whole home directory to GCS",
+          "url": "https://twitter.com/i/status/2076598897779020159",
+          "source": "hackernews"
+        }
+      ],
+      "id": "1c0f0134656b",
+      "slug": "grok-cli"
+    },
+    {
+      "keyword": "software stocks",
+      "count": 11,
+      "score": 83.02611294393199,
+      "proper": true,
+      "niches": [
+        "finance"
+      ],
+      "examples": [
+        {
+          "title": "My Top 3 Software Stocks to Buy on the Dip",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTW1vcjhFRGtjRnV2VG9qUnNMaldpcHVlU3E3cW41M3I0OG9fZ2pFVWVFMmhxNk9vMFF5ZEpJM09PTzhhSjNKUG1JZUFGZktFSWl1YlpkSVAzdjdmQ2Y4eXZBdHFqNjJ5M1pLT1ZKZ2Q4cmJPOXVGNHhHTkdjVFREOHQ0V0xLNlF2eE9vN2J3?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "My Top 3 Software Stocks to Buy on the Dip",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTW1vcjhFRGtjRnV2VG9qUnNMaldpcHVlU3E3cW41M3I0OG9fZ2pFVWVFMmhxNk9vMFF5ZEpJM09PTzhhSjNKUG1JZUFGZktFSWl1YlpkSVAzdjdmQ2Y4eXZBdHFqNjJ5M1pLT1ZKZ2Q4cmJPOXVGNHhHTkdjVFREOHQ0V0xLNlF2eE9vN2J3?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "My Top 3 Software Stocks to Buy on the Dip",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTW1vcjhFRGtjRnV2VG9qUnNMaldpcHVlU3E3cW41M3I0OG9fZ2pFVWVFMmhxNk9vMFF5ZEpJM09PTzhhSjNKUG1JZUFGZktFSWl1YlpkSVAzdjdmQ2Y4eXZBdHFqNjJ5M1pLT1ZKZ2Q4cmJPOXVGNHhHTkdjVFREOHQ0V0xLNlF2eE9vN2J3?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "679c3b5b4aa7",
+      "slug": "software-stocks"
+    },
+    {
+      "keyword": "software",
+      "count": 14,
+      "score": 67.53740349234937,
+      "proper": false,
+      "niches": [
+        "ai",
+        "finance"
+      ],
+      "examples": [
+        {
+          "title": "Forget typosquatting; slopsquatting is the software supply chain threat created by AI coding tools",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQTXVqTlJVNUF2Ukx0cG9paXhkSkR3QmZMWF9Wc1Rvak1QVENnMmk1Z1ctc3k0SWFjQ1ZlZlU5RG5DNV92RDVEX0lxZTVCNllGNXhCcnpxOC00cnRNcUdwc0VDUlp6YndCWkZLU0N3d0pwUjF5U3J2dlJpOEVoVi1FTVlpbVVUUFgzdkdIUFpUUGRabUJqZFdLU3lFRFVWWUEwZ1o3STlTLXB5Q3FWTjVtdHFYbG5yTDhmQWZ6QkZ1Z2h2NHh1ZGFRZXd3?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Forget typosquatting; slopsquatting is the software supply chain threat created by AI coding tools",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQTXVqTlJVNUF2Ukx0cG9paXhkSkR3QmZMWF9Wc1Rvak1QVENnMmk1Z1ctc3k0SWFjQ1ZlZlU5RG5DNV92RDVEX0lxZTVCNllGNXhCcnpxOC00cnRNcUdwc0VDUlp6YndCWkZLU0N3d0pwUjF5U3J2dlJpOEVoVi1FTVlpbVVUUFgzdkdIUFpUUGRabUJqZFdLU3lFRFVWWUEwZ1o3STlTLXB5Q3FWTjVtdHFYbG5yTDhmQWZ6QkZ1Z2h2NHh1ZGFRZXd3?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Progress Software: AI Ambitions Need To Translate Into Growth (NASDAQ:PRGS)",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVUlVVVVUazdTamRhRTVFRk9pVjFtbUdCZm15dV8wTHRIR2gwdjhQbmRaeWJjVVpGYm04RDJfcHJOOWZyY2ZuWGhxaVJMaVNNeUNRNWlydVlSNFVhamJfZ1p2RjE1bTVWT2VVN0NEQVc0Q3NnMXQ0b2dlM1ZOdzFNMXAtRVlWRFU5UEJlaHh0QmtsNE5kM2xUZk1VNUJLR29Tdm40?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Progress Software: AI Ambitions Need To Translate Into Growth (NASDAQ:PRGS)",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVUlVVVVUazdTamRhRTVFRk9pVjFtbUdCZm15dV8wTHRIR2gwdjhQbmRaeWJjVVpGYm04RDJfcHJOOWZyY2ZuWGhxaVJMaVNNeUNRNWlydVlSNFVhamJfZ1p2RjE1bTVWT2VVN0NEQVc0Q3NnMXQ0b2dlM1ZOdzFNMXAtRVlWRFU5UEJlaHh0QmtsNE5kM2xUZk1VNUJLR29Tdm40?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "mereyabdenbekuly-ctrl/clodex-ide — Local-first, zero-trust agentic IDE for verifiable autonomous software development.",
+          "url": "https://github.com/mereyabdenbekuly-ctrl/clodex-ide",
+          "source": "github"
+        }
+      ],
+      "id": "35390f5453e8",
+      "slug": "software"
+    },
+    {
+      "keyword": "page news",
+      "count": 8,
+      "score": 66.92990226846894,
+      "proper": true,
+      "niches": [
+        "ai",
+        "general"
+      ],
+      "examples": [
+        {
+          "title": "This graph should be front page news.Instead, there is silence.This is not a projection, not a prediction, not the result of a model.These are measurements, it is what is happening.Now.https://www.lyr",
+          "url": "https://mathstodon.xyz/@ColinTheMathmo/116912500970035250",
+          "source": "mastodon"
+        },
+        {
+          "title": "The Graph That Should Be Front-Page News",
+          "url": "https://www.lyrebirddreaming.com/post/the-graph-that-should-be-front-page-news",
+          "source": "hackernews"
+        }
+      ],
+      "id": "0725cc6f1b9c",
+      "slug": "page-news"
+    },
+    {
+      "keyword": "linux vm",
+      "count": 5,
+      "score": 66.23099471287665,
       "proper": true,
       "niches": [
         "ai"
       ],
       "examples": [
         {
-          "title": "Dev Opportunity Radar #7: $1,000 Solo Grants, Free Claude Max for Open Source Contributors, and an MLH Hackathon",
-          "url": "https://dev.to/devengers/dev-opportunity-radar-7-1000-solo-grants-free-claude-max-for-open-source-contributors-and-an-3i12",
-          "source": "devto"
-        },
-        {
-          "title": "Dev Opportunity Radar #7: $1,000 Solo Grants, Free Claude Max for Open Source Contributors, and an MLH Hackathon",
-          "url": "https://dev.to/devengers/dev-opportunity-radar-7-1000-solo-grants-free-claude-max-for-open-source-contributors-and-an-3i12",
-          "source": "devto"
+          "title": "Show HN: Clawk – Give coding agents a disposable Linux VM, not your laptop",
+          "url": "https://github.com/clawkwork/clawk",
+          "source": "hackernews"
         }
       ],
-      "id": "b4bf7f70b380",
-      "slug": "mlh-hackathon"
+      "id": "132c48a7c91c",
+      "slug": "linux-vm"
+    },
+    {
+      "keyword": "ai design logicby twonks",
+      "count": 5,
+      "score": 61.380172845735785,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "AI Design Logicby Twonks",
+          "url": "https://tech.lgbt/@Natasha_Jay/116913004573347300",
+          "source": "mastodon"
+        }
+      ],
+      "id": "bcc591667558",
+      "slug": "ai-design-logicby-twonks"
+    },
+    {
+      "keyword": "sam neill",
+      "count": 16,
+      "score": 59.902242391016145,
+      "proper": true,
+      "niches": [
+        "general"
+      ],
+      "examples": [
+        {
+          "title": "The actor Sam Neill, known for his roles in the Jurassic Park films, has died aged 78. RIP. Jurassic Park is a cautionary tale about how you compensate your IT staff.",
+          "url": "https://mastodon.social/@nixCraft/116912301132827494",
+          "source": "mastodon"
+        },
+        {
+          "title": "The actor Sam Neill, known for his roles in the Jurassic Park films, has died aged 78. RIP. Jurassic Park is a cautionary tale about how you compensate your IT staff.",
+          "url": "https://mastodon.social/@nixCraft/116912301132827494",
+          "source": "mastodon"
+        },
+        {
+          "title": "Sam Neill has died",
+          "url": "https://www.theguardian.com/film/2026/jul/13/sam-neill-death-actor-dies-aged-78",
+          "source": "hackernews"
+        },
+        {
+          "title": "Sam Neill has died",
+          "url": "https://www.theguardian.com/film/2026/jul/13/sam-neill-death-actor-dies-aged-78",
+          "source": "hackernews"
+        }
+      ],
+      "id": "8449e8e1d453",
+      "slug": "sam-neill"
+    },
+    {
+      "keyword": "typescript api",
+      "count": 8,
+      "score": 59.42779242220241,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "opencoredev/domain-sdk — Add, verify, monitor, and remove customer domains with one TypeScript API.",
+          "url": "https://github.com/opencoredev/domain-sdk",
+          "source": "github"
+        },
+        {
+          "title": "opencoredev/domain-sdk — Add, verify, monitor, and remove customer domains with one TypeScript API.",
+          "url": "https://github.com/opencoredev/domain-sdk",
+          "source": "github"
+        }
+      ],
+      "id": "8527a2c8c0be",
+      "slug": "typescript-api"
     }
   ],
   "opportunities": [
     {
-      "keyword": "claude code",
-      "count": 24,
-      "score": 212.48271428801624,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
-          "url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
-          "source": "hackernews"
-        },
-        {
-          "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
-          "url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
-          "source": "hackernews"
-        },
-        {
-          "title": "nhevers/project-r0x — Official SDK, Claude Code plugin and facilitator docs for r0x, the x402 facilitator for Robinhood Chain.",
-          "url": "https://github.com/nhevers/project-r0x",
-          "source": "github"
-        },
-        {
-          "title": "nhevers/project-r0x — Official SDK, Claude Code plugin and facilitator docs for r0x, the x402 facilitator for Robinhood Chain.",
-          "url": "https://github.com/nhevers/project-r0x",
-          "source": "github"
-        },
-        {
-          "title": "djfksjd/ir-search — 🇰🇷 한국 정부 지원사업 전수조사 Claude Code 스킬 — K-Startup·기업마당·NIPA·KOCCA·SMTECH 크롤링 + 프로젝트 프로필 기반 즉시/로드맵/변형 3분류 (Korea-only)",
-          "url": "https://github.com/djfksjd/ir-search",
-          "source": "github"
-        }
-      ],
-      "id": "a625159d18da",
-      "slug": "claude-code",
-      "opportunity": {
-        "type": "tooling",
-        "recommended": "Build / list AI tools; monetize via affiliate links + lead magnet."
-      }
-    },
-    {
       "keyword": "passive income",
       "count": 39,
-      "score": 114.37863111856365,
+      "score": 120.18465300275469,
       "proper": false,
       "niches": [
         "finance"
@@ -748,18 +718,18 @@
           "source": "gnews"
         },
         {
-          "title": "3 Passive Income ETFs Worth Holding for the Long Haul",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbE9EemtKNEhtRGFLaDlyWUd3UjhHdmpaaXQ1U0dOdnczVUhHa0tWZURjcGM4bk42WXJBVi0tc3ZOdDZId1NJOFN5WUk3YnJEbzk3QzdlWmtXbjVnbm51d3dTUUVnWElmMUh0aURtd0tpSFZhRVBBekdkS2tITTNuNFRBTkVValhfVDd0N0NlbUZKSXRMMHdZ?oc=5",
+          "title": "By Christmas 2027, £9,999 in Tesco shares could generate this much passive income…",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWUF0Tjl6czhoTUY1cjVIMWIxT05BaG4yc1lSbjBiRTlVck41azNTM3ZsNElBNXhNUEw4WkZ4Rkl2WWI2akRaOWJjUVVGQVhpeXd1VHFOZm9ILVBVc1NyRWU2aVd3NWMwS1BfNmxGdXp6d1BXUEh5UU5iMnIwd3RBUA?oc=5",
           "source": "gnews"
         },
         {
-          "title": "3 Passive Income ETFs Worth Holding for the Long Haul",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbE9EemtKNEhtRGFLaDlyWUd3UjhHdmpaaXQ1U0dOdnczVUhHa0tWZURjcGM4bk42WXJBVi0tc3ZOdDZId1NJOFN5WUk3YnJEbzk3QzdlWmtXbjVnbm51d3dTUUVnWElmMUh0aURtd0tpSFZhRVBBekdkS2tITTNuNFRBTkVValhfVDd0N0NlbUZKSXRMMHdZ?oc=5",
+          "title": "By Christmas 2027, £9,999 in Tesco shares could generate this much passive income…",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWUF0Tjl6czhoTUY1cjVIMWIxT05BaG4yc1lSbjBiRTlVck41azNTM3ZsNElBNXhNUEw4WkZ4Rkl2WWI2akRaOWJjUVVGQVhpeXd1VHFOZm9ILVBVc1NyRWU2aVd3NWMwS1BfNmxGdXp6d1BXUEh5UU5iMnIwd3RBUA?oc=5",
           "source": "gnews"
         },
         {
-          "title": "If I Could Tell Every Dividend Investor 1 Thing About Building Passive Income in 2026, It's This",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMUFZdEhrZW1ZR0FjZGlMV0xhVjlaVkRYRFRPbEZrQmV6OThMZWpreGdjTE1mMnJxWUgzR2FFRWkxZGpIaEl3c1A5blhOM3NUY0JLUjBCank5ZkxBSGhjRG5MQ1BqNGVDUXk0UUZNVnZKOEZRaDdTZ3RjNGhiaHQ3RGRob2w2ekFrY2tNZW9SZlM1QkgybTFRcFVIVGhiUjRs?oc=5",
+          "title": "If You Invest $5,000 in SCHD Today, Here's the Passive Income It Could Deliver in 20 Years",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNHk5Sy1FaWdiWkJ2LS01VW9SbThUNEZ5N2FoRGRweGlEbnRrYkp3WnNxOFZMWkxmSXBfZENBWGlIQWVnTWJqZGhIMlVIdWd0RHZvY3hGWlEtblB1LTBGOHBSUFZSOGpjWEN6V3dfMkgxVC1CMThFZG92dXZicHR4ZG1UQ2RCY3k5NmE0cy05azhRUkV0U1ZGRA?oc=5",
           "source": "gnews"
         }
       ],
@@ -771,164 +741,46 @@
       }
     },
     {
-      "keyword": "income",
-      "count": 18,
-      "score": 86.21942498023708,
-      "proper": true,
-      "niches": [
-        "finance"
-      ],
-      "examples": [
-        {
-          "title": "Procter & Gamble vs PepsiCo: The Better Stock For Passive Income Investors",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxORkgxMlhIaUktNnpIVmtqYVdYbkhGX2dSdTBvRUh1ekNlTGlzaDA5MWQyTW9mOWR3bVRfZWxLdlhKaXE4OHBfUjlXQjB0NnlwQm9LUFVGdkN6TDhLSC1vOWpGb0I2UjlodHNaanpUSlRxX1BIZ0QyQmh1WTlpN1hzYkpCSGhPclBuZmVMLUFmeGRqVEhaYTlXT1Z5UE53UQ?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Procter & Gamble vs PepsiCo: The Better Stock For Passive Income Investors",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxORkgxMlhIaUktNnpIVmtqYVdYbkhGX2dSdTBvRUh1ekNlTGlzaDA5MWQyTW9mOWR3bVRfZWxLdlhKaXE4OHBfUjlXQjB0NnlwQm9LUFVGdkN6TDhLSC1vOWpGb0I2UjlodHNaanpUSlRxX1BIZ0QyQmh1WTlpN1hzYkpCSGhPclBuZmVMLUFmeGRqVEhaYTlXT1Z5UE53UQ?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "3 Passive Income ETFs Worth Holding for the Long Haul",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbE9EemtKNEhtRGFLaDlyWUd3UjhHdmpaaXQ1U0dOdnczVUhHa0tWZURjcGM4bk42WXJBVi0tc3ZOdDZId1NJOFN5WUk3YnJEbzk3QzdlWmtXbjVnbm51d3dTUUVnWElmMUh0aURtd0tpSFZhRVBBekdkS2tITTNuNFRBTkVValhfVDd0N0NlbUZKSXRMMHdZ?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "3 Passive Income ETFs Worth Holding for the Long Haul",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbE9EemtKNEhtRGFLaDlyWUd3UjhHdmpaaXQ1U0dOdnczVUhHa0tWZURjcGM4bk42WXJBVi0tc3ZOdDZId1NJOFN5WUk3YnJEbzk3QzdlWmtXbjVnbm51d3dTUUVnWElmMUh0aURtd0tpSFZhRVBBekdkS2tITTNuNFRBTkVValhfVDd0N0NlbUZKSXRMMHdZ?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "If I Could Tell Every Dividend Investor 1 Thing About Building Passive Income in 2026, It's This",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMUFZdEhrZW1ZR0FjZGlMV0xhVjlaVkRYRFRPbEZrQmV6OThMZWpreGdjTE1mMnJxWUgzR2FFRWkxZGpIaEl3c1A5blhOM3NUY0JLUjBCank5ZkxBSGhjRG5MQ1BqNGVDUXk0UUZNVnZKOEZRaDdTZ3RjNGhiaHQ3RGRob2w2ekFrY2tNZW9SZlM1QkgybTFRcFVIVGhiUjRs?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "00cf141f881d",
-      "slug": "income",
-      "opportunity": {
-        "type": "niche-content",
-        "recommended": "Publish niche guide for \"finance\"; bundle into digital product later."
-      }
-    },
-    {
-      "keyword": "logitech g316",
-      "count": 11,
-      "score": 85.68720630751953,
-      "proper": true,
-      "niches": [
-        "gear"
-      ],
-      "examples": [
-        {
-          "title": "Logitech G316 X keyboard review: Retro charm done right",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ySDhwR0UxbjktcGlkeldNTF9LcXZmQnBzZU13WEJOWmZzR3l3WmpFYVI0elJlREMyRTlFLWpLS29BM1lqUG5WX0dlcUdkdEpLelhyZldjY1EyMGlDVzBaM3lB?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Logitech G316 X keyboard review: Retro charm done right",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ySDhwR0UxbjktcGlkeldNTF9LcXZmQnBzZU13WEJOWmZzR3l3WmpFYVI0elJlREMyRTlFLWpLS29BM1lqUG5WX0dlcUdkdEpLelhyZldjY1EyMGlDVzBaM3lB?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Logitech G316 X keyboard review: Retro charm done right",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ySDhwR0UxbjktcGlkeldNTF9LcXZmQnBzZU13WEJOWmZzR3l3WmpFYVI0elJlREMyRTlFLWpLS29BM1lqUG5WX0dlcUdkdEpLelhyZldjY1EyMGlDVzBaM3lB?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "c0693870752e",
-      "slug": "logitech-g316",
-      "opportunity": {
-        "type": "niche-content",
-        "recommended": "Publish niche guide for \"gear\"; bundle into digital product later."
-      }
-    },
-    {
-      "keyword": "beavis ultrasound",
-      "count": 8,
-      "score": 82.9263872986071,
-      "proper": true,
-      "niches": [
-        "software"
-      ],
-      "examples": [
-        {
-          "title": "oops, i cloned another sound card! this is the Beavis Ultrasound, an open source clone of the Gravis Ultrasound PnP. yes, i know there are already clones of this card, but mine provides the full schem",
-          "url": "https://mastodon.social/@tubetime/116910438288228622",
-          "source": "mastodon"
-        },
-        {
-          "title": "oops, i cloned another sound card! this is the Beavis Ultrasound, an open source clone of the Gravis Ultrasound PnP. yes, i know there are already clones of this card, but mine provides the full schem",
-          "url": "https://mastodon.social/@tubetime/116910438288228622",
-          "source": "mastodon"
-        }
-      ],
-      "id": "da560044c4f1",
-      "slug": "beavis-ultrasound",
-      "opportunity": {
-        "type": "niche-content",
-        "recommended": "Publish niche guide for \"software\"; bundle into digital product later."
-      }
-    },
-    {
-      "keyword": "external esp",
-      "count": 8,
-      "score": 81.43003895830465,
+      "keyword": "claude code",
+      "count": 16,
+      "score": 106.62022036890212,
       "proper": true,
       "niches": [
         "ai"
       ],
       "examples": [
         {
-          "title": "shadowhawkstride/Meccha-Chameleon-Vision — External ESP · Aimbot · Radar · Player Mod · Camouflage for MECCHA CHAMELEON",
-          "url": "https://github.com/shadowhawkstride/Meccha-Chameleon-Vision",
+          "title": "nhevers/project-r0x — Official SDK, Claude Code plugin and facilitator docs for r0x, the x402 facilitator for Robinhood Chain.",
+          "url": "https://github.com/nhevers/project-r0x",
           "source": "github"
         },
         {
-          "title": "shadowhawkstride/Meccha-Chameleon-Vision — External ESP · Aimbot · Radar · Player Mod · Camouflage for MECCHA CHAMELEON",
-          "url": "https://github.com/shadowhawkstride/Meccha-Chameleon-Vision",
-          "source": "github"
-        }
-      ],
-      "id": "5ec853a7f9e9",
-      "slug": "external-esp",
-      "opportunity": {
-        "type": "niche-content",
-        "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
-      }
-    },
-    {
-      "keyword": "player mod",
-      "count": 8,
-      "score": 81.43003895830465,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "shadowhawkstride/Meccha-Chameleon-Vision — External ESP · Aimbot · Radar · Player Mod · Camouflage for MECCHA CHAMELEON",
-          "url": "https://github.com/shadowhawkstride/Meccha-Chameleon-Vision",
+          "title": "nhevers/project-r0x — Official SDK, Claude Code plugin and facilitator docs for r0x, the x402 facilitator for Robinhood Chain.",
+          "url": "https://github.com/nhevers/project-r0x",
           "source": "github"
         },
         {
-          "title": "shadowhawkstride/Meccha-Chameleon-Vision — External ESP · Aimbot · Radar · Player Mod · Camouflage for MECCHA CHAMELEON",
-          "url": "https://github.com/shadowhawkstride/Meccha-Chameleon-Vision",
+          "title": "djfksjd/ir-search — 🇰🇷 한국 정부 지원사업 전수조사 Claude Code 스킬 — K-Startup·기업마당·NIPA·KOCCA·SMTECH 크롤링 + 프로젝트 프로필 기반 즉시/로드맵/변형 3분류 (Korea-only)",
+          "url": "https://github.com/djfksjd/ir-search",
+          "source": "github"
+        },
+        {
+          "title": "djfksjd/ir-search — 🇰🇷 한국 정부 지원사업 전수조사 Claude Code 스킬 — K-Startup·기업마당·NIPA·KOCCA·SMTECH 크롤링 + 프로젝트 프로필 기반 즉시/로드맵/변형 3분류 (Korea-only)",
+          "url": "https://github.com/djfksjd/ir-search",
           "source": "github"
         }
       ],
-      "id": "05c4565dae58",
-      "slug": "player-mod",
+      "id": "a625159d18da",
+      "slug": "claude-code",
       "opportunity": {
-        "type": "niche-content",
-        "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
+        "type": "tooling",
+        "recommended": "Build / list AI tools; monetize via affiliate links + lead magnet."
       }
     },
     {
       "keyword": "codex cli",
       "count": 11,
-      "score": 76.76987361421114,
+      "score": 101.16077753506579,
       "proper": true,
       "niches": [
         "ai"
@@ -955,6 +807,161 @@
       "opportunity": {
         "type": "niche-content",
         "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
+      }
+    },
+    {
+      "keyword": "progress software",
+      "count": 11,
+      "score": 97.92823578002233,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "Progress Software: AI Ambitions Need To Translate Into Growth (NASDAQ:PRGS)",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVUlVVVVUazdTamRhRTVFRk9pVjFtbUdCZm15dV8wTHRIR2gwdjhQbmRaeWJjVVpGYm04RDJfcHJOOWZyY2ZuWGhxaVJMaVNNeUNRNWlydVlSNFVhamJfZ1p2RjE1bTVWT2VVN0NEQVc0Q3NnMXQ0b2dlM1ZOdzFNMXAtRVlWRFU5UEJlaHh0QmtsNE5kM2xUZk1VNUJLR29Tdm40?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Progress Software: AI Ambitions Need To Translate Into Growth (NASDAQ:PRGS)",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVUlVVVVUazdTamRhRTVFRk9pVjFtbUdCZm15dV8wTHRIR2gwdjhQbmRaeWJjVVpGYm04RDJfcHJOOWZyY2ZuWGhxaVJMaVNNeUNRNWlydVlSNFVhamJfZ1p2RjE1bTVWT2VVN0NEQVc0Q3NnMXQ0b2dlM1ZOdzFNMXAtRVlWRFU5UEJlaHh0QmtsNE5kM2xUZk1VNUJLR29Tdm40?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Progress Software: AI Ambitions Need To Translate Into Growth (NASDAQ:PRGS)",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVUlVVVVUazdTamRhRTVFRk9pVjFtbUdCZm15dV8wTHRIR2gwdjhQbmRaeWJjVVpGYm04RDJfcHJOOWZyY2ZuWGhxaVJMaVNNeUNRNWlydVlSNFVhamJfZ1p2RjE1bTVWT2VVN0NEQVc0Q3NnMXQ0b2dlM1ZOdzFNMXAtRVlWRFU5UEJlaHh0QmtsNE5kM2xUZk1VNUJLR29Tdm40?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "0eca0fcdf655",
+      "slug": "progress-software",
+      "opportunity": {
+        "type": "affiliate",
+        "recommended": "Write SEO comparison/roundup article with affiliate links."
+      }
+    },
+    {
+      "keyword": "reflect orbital",
+      "count": 8,
+      "score": 93.1780324363997,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "On first glance (pre-caffeine) it looks like there are a bunch of mansplainers doing math to defend Reflect Orbital in my mentions.  FANTASTIC.  (Editing to add that reading more carefully, I think mo",
+          "url": "https://mastodon.social/@sundogplanets/116913079442492524",
+          "source": "mastodon"
+        },
+        {
+          "title": "On first glance (pre-caffeine) it looks like there are a bunch of mansplainers doing math to defend Reflect Orbital in my mentions.  FANTASTIC.  (Editing to add that reading more carefully, I think mo",
+          "url": "https://mastodon.social/@sundogplanets/116913079442492524",
+          "source": "mastodon"
+        }
+      ],
+      "id": "7b99f225a749",
+      "slug": "reflect-orbital",
+      "opportunity": {
+        "type": "niche-content",
+        "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
+      }
+    },
+    {
+      "keyword": "income",
+      "count": 20,
+      "score": 88.5418337339135,
+      "proper": true,
+      "niches": [
+        "finance"
+      ],
+      "examples": [
+        {
+          "title": "Procter & Gamble vs PepsiCo: The Better Stock For Passive Income Investors",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxORkgxMlhIaUktNnpIVmtqYVdYbkhGX2dSdTBvRUh1ekNlTGlzaDA5MWQyTW9mOWR3bVRfZWxLdlhKaXE4OHBfUjlXQjB0NnlwQm9LUFVGdkN6TDhLSC1vOWpGb0I2UjlodHNaanpUSlRxX1BIZ0QyQmh1WTlpN1hzYkpCSGhPclBuZmVMLUFmeGRqVEhaYTlXT1Z5UE53UQ?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Procter & Gamble vs PepsiCo: The Better Stock For Passive Income Investors",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxORkgxMlhIaUktNnpIVmtqYVdYbkhGX2dSdTBvRUh1ekNlTGlzaDA5MWQyTW9mOWR3bVRfZWxLdlhKaXE4OHBfUjlXQjB0NnlwQm9LUFVGdkN6TDhLSC1vOWpGb0I2UjlodHNaanpUSlRxX1BIZ0QyQmh1WTlpN1hzYkpCSGhPclBuZmVMLUFmeGRqVEhaYTlXT1Z5UE53UQ?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "By Christmas 2027, £9,999 in Tesco shares could generate this much passive income…",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWUF0Tjl6czhoTUY1cjVIMWIxT05BaG4yc1lSbjBiRTlVck41azNTM3ZsNElBNXhNUEw4WkZ4Rkl2WWI2akRaOWJjUVVGQVhpeXd1VHFOZm9ILVBVc1NyRWU2aVd3NWMwS1BfNmxGdXp6d1BXUEh5UU5iMnIwd3RBUA?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "By Christmas 2027, £9,999 in Tesco shares could generate this much passive income…",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWUF0Tjl6czhoTUY1cjVIMWIxT05BaG4yc1lSbjBiRTlVck41azNTM3ZsNElBNXhNUEw4WkZ4Rkl2WWI2akRaOWJjUVVGQVhpeXd1VHFOZm9ILVBVc1NyRWU2aVd3NWMwS1BfNmxGdXp6d1BXUEh5UU5iMnIwd3RBUA?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "If You Invest $5,000 in SCHD Today, Here's the Passive Income It Could Deliver in 20 Years",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNHk5Sy1FaWdiWkJ2LS01VW9SbThUNEZ5N2FoRGRweGlEbnRrYkp3WnNxOFZMWkxmSXBfZENBWGlIQWVnTWJqZGhIMlVIdWd0RHZvY3hGWlEtblB1LTBGOHBSUFZSOGpjWEN6V3dfMkgxVC1CMThFZG92dXZicHR4ZG1UQ2RCY3k5NmE0cy05azhRUkV0U1ZGRA?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "00cf141f881d",
+      "slug": "income",
+      "opportunity": {
+        "type": "niche-content",
+        "recommended": "Publish niche guide for \"finance\"; bundle into digital product later."
+      }
+    },
+    {
+      "keyword": "hdmi consortium",
+      "count": 8,
+      "score": 86.47810142489664,
+      "proper": true,
+      "niches": [
+        "gear"
+      ],
+      "examples": [
+        {
+          "title": "Every year, the HDMI Consortium meets with hardware manufacturers to plan where to place HDMI ports on monitors. Through a rigorous series of testing, they ensure that each monitor has its port locati",
+          "url": "https://haunted.computer/@Dio9sys/116912839297115870",
+          "source": "mastodon"
+        },
+        {
+          "title": "Every year, the HDMI Consortium meets with hardware manufacturers to plan where to place HDMI ports on monitors. Through a rigorous series of testing, they ensure that each monitor has its port locati",
+          "url": "https://haunted.computer/@Dio9sys/116912839297115870",
+          "source": "mastodon"
+        }
+      ],
+      "id": "e28a972ebb72",
+      "slug": "hdmi-consortium",
+      "opportunity": {
+        "type": "niche-content",
+        "recommended": "Publish niche guide for \"gear\"; bundle into digital product later."
+      }
+    },
+    {
+      "keyword": "grok cli",
+      "count": 8,
+      "score": 83.32823328336025,
+      "proper": true,
+      "niches": [
+        "software"
+      ],
+      "examples": [
+        {
+          "title": "Grok CLI uploaded the whole home directory to GCS",
+          "url": "https://twitter.com/i/status/2076598897779020159",
+          "source": "hackernews"
+        },
+        {
+          "title": "Grok CLI uploaded the whole home directory to GCS",
+          "url": "https://twitter.com/i/status/2076598897779020159",
+          "source": "hackernews"
+        }
+      ],
+      "id": "1c0f0134656b",
+      "slug": "grok-cli",
+      "opportunity": {
+        "type": "niche-content",
+        "recommended": "Publish niche guide for \"software\"; bundle into digital product later."
       }
     }
   ]
