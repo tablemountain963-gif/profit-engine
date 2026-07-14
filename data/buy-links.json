@@ -1842,5 +1842,19 @@
     "price": 19,
     "productId": "prod_UstPA1k3TV5EQH",
     "cover": "/assets/pack-cover.png"
+  },
+  "prompt-pack-jurassic-park-2026-07-14": {
+    "url": "https://buy.stripe.com/14A6oG2KQb9IgMb0BufjH07",
+    "platform": "stripe",
+    "price": 19,
+    "productId": "prod_Usvb8fJ0eBN5No",
+    "cover": "/assets/pack-cover.png"
+  },
+  "mini-ebook-medical-gadgets-2026-07-14": {
+    "url": "https://buy.stripe.com/6oU3cu99ecdMbrRac4fjH08",
+    "platform": "stripe",
+    "price": 14,
+    "productId": "prod_Usvb4yOXexq9gS",
+    "cover": "/assets/pack-cover.png"
   }
 }

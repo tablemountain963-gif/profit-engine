@@ -1,55 +1,121 @@
 {
-  "generatedAt": "2026-07-14T14:47:10.471Z",
-  "sourceCount": 206,
+  "generatedAt": "2026-07-14T17:03:04.121Z",
+  "sourceCount": 205,
   "topItems": [
     {
-      "title": "Codex starts encrypting sub-agent prompts",
-      "url": "https://github.com/openai/codex/issues/28058",
-      "score": 10.47,
+      "title": "How to stop Claude from saying load-bearing",
+      "url": "https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing",
+      "score": 11.56,
       "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 313,
-        "comments": 194
+        "score": 147,
+        "comments": 227
       }
     },
     {
-      "title": "Australian energy retailers must provide three hours of free daytime electricity",
-      "url": "https://lenergy.com.au/free-daytime-electricity-is-coming-heres-how-it-actually-works/",
-      "score": 9.52,
+      "title": "Codex starts encrypting sub-agent prompts",
+      "url": "https://github.com/openai/codex/issues/28058",
+      "score": 10.77,
       "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 178,
-        "comments": 274
+        "score": 381,
+        "comments": 231
       }
     },
     {
       "title": "It is bizarre that people still fall for, \"If you raise taxes the billionaires will just leave\"As if the world cannot exist without them. They only bring revenue, by literally not paying people what t",
       "url": "https://beige.party/@RickiTarr/116918286228168962",
-      "score": 9.1,
+      "score": 9.79,
       "niche": "ai",
       "source": "mastodon",
       "engagement": {
-        "score": 639,
-        "comments": 29
+        "score": 1044,
+        "comments": 50
       }
     },
     {
-      "title": "pueschel88/Tradingview-MCP — Tradingview MCP server for controlling Tradingview Desktop from Claude Code via Chrome DevTools Protocol",
-      "url": "https://github.com/pueschel88/Tradingview-MCP",
-      "score": 8.57,
+      "title": "Australian energy retailers must provide three hours of free daytime electricity",
+      "url": "https://lenergy.com.au/free-daytime-electricity-is-coming-heres-how-it-actually-works/",
+      "score": 9.71,
       "niche": "ai",
-      "source": "github",
+      "source": "hackernews",
       "engagement": {
-        "score": 123,
-        "comments": 0
+        "score": 218,
+        "comments": 303
+      }
+    },
+    {
+      "title": "Are we offloading too much of our thinking to AI?",
+      "url": "https://www.artfish.ai/p/offloading-thinking-to-ai",
+      "score": 8.35,
+      "niche": "ai",
+      "source": "hackernews",
+      "engagement": {
+        "score": 151,
+        "comments": 127
+      }
+    },
+    {
+      "title": "Meta used AI to target ⁠people with ​disabilities or who ​took ⁠medical leave for mass layoffs. https://www.usnews.com/news/top-news/articles/2026-07-14/meta-used-ai-to-target-workers-with-medical-con",
+      "url": "https://mastodon.social/@taylorlorenz/116918957669218257",
+      "score": 7.96,
+      "niche": "ai",
+      "source": "mastodon",
+      "engagement": {
+        "score": 139,
+        "comments": 3
+      }
+    },
+    {
+      "title": "#Climatechange",
+      "url": "https://aus.social/@MrLee/116918182120085281",
+      "score": 7.53,
+      "niche": "software",
+      "source": "mastodon",
+      "engagement": {
+        "score": 467,
+        "comments": 10
+      }
+    },
+    {
+      "title": "Hey professional #astrodon folks!A pretty unique chance to become my colleague at #ESA - working as a project scientist on our newly adopted galactic archaeology mission Arrakihs:Job details: https://",
+      "url": "https://mastodon.social/@vicgrinberg/116919184580667254",
+      "score": 7.14,
+      "niche": "ai",
+      "source": "mastodon",
+      "engagement": {
+        "score": 78,
+        "comments": 4
+      }
+    },
+    {
+      "title": "European \"age verification\" \"app\" forcing everyone to use Android or iOS",
+      "url": "https://github.com/eu-digital-identity-wallet/av-doc-technical-specification/discussions/19",
+      "score": 7.04,
+      "niche": "software",
+      "source": "hackernews",
+      "engagement": {
+        "score": 242,
+        "comments": 149
+      }
+    },
+    {
+      "title": "Indian scientists produce most detailed 3D atlas of the human brainstem",
+      "url": "https://www.bbc.com/news/articles/cg53l737v1qo",
+      "score": 6.75,
+      "niche": "ai",
+      "source": "hackernews",
+      "engagement": {
+        "score": 157,
+        "comments": 19
       }
     },
     {
       "title": "Best AI Tools for Small Businesses in 2026: A Complete Guide to Working Smarter",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPM1loU1c2RFhfdHhqOVJrNjRQWk5hc1dnWm5lNk9mWHpEMlJXVTZMMVEzV2ZaNTFuQjhOVjdmdDh2ZENiX3VISUtZbTRhT3AzU1pvY3ExeC1ST3J2TG9nQk55WE5sUjMtR3A4aXpoMnRTYzZwd1FvVGN2WVYteE5nS05fc3BNSFpZbmZhM1NpUHA2TjItY0Z5enFvUDVlZzZuMlBpM09XdTU?oc=5",
-      "score": 8.26,
+      "score": 6.61,
       "niche": "ai",
       "source": "gnews",
       "engagement": {
@@ -60,144 +126,56 @@
     {
       "title": "6 Best AI Visibility Tools for Marketing Agencies",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1nVm9Na1pXM1BRbHNtZGtJd1BYMi1XNy1TclJlaS1nSzIxNWdiYVhtXzhQLUVwLXRhNms3M0lHLWo5NENBMExUSXlsanEtSm5OVU55THFZU3RmN2ZQdjJhd05sdUFKbkFRandFdm5CUQ?oc=5",
-      "score": 8.26,
+      "score": 6.61,
       "niche": "ai",
       "source": "gnews",
       "engagement": {
         "score": 40,
         "comments": 0
-      }
-    },
-    {
-      "title": "Just hit 60,000 followers here, and I want to express my appreciation to the ones who are real people!",
-      "url": "https://mastodon.social/@dangillmor/116917733648558453",
-      "score": 8.09,
-      "niche": "software",
-      "source": "mastodon",
-      "engagement": {
-        "score": 286,
-        "comments": 19
-      }
-    },
-    {
-      "title": "kitten has suffered a lot alone, but she had the courage to ask for help",
-      "url": "https://mastodon.art/@guilhernunes_/116918540788459908",
-      "score": 7.47,
-      "niche": "ai",
-      "source": "mastodon",
-      "engagement": {
-        "score": 100,
-        "comments": 3
-      }
-    },
-    {
-      "title": "Because he's part of a gang of international criminals:Marco Rubio launches campaign to dismantle international criminal courthttps://www.theguardian.com/us-news/2026/jul/13/marco-rubio-dismantle-inte",
-      "url": "https://mastodon.social/@jeffjarvis/116917845004295269",
-      "score": 7.16,
-      "niche": "ai",
-      "source": "mastodon",
-      "engagement": {
-        "score": 152,
-        "comments": 10
-      }
-    },
-    {
-      "title": "Happy Bastille Day!Remember kids, with a guillotine, you can always get a head.",
-      "url": "https://mastodon.social/@jack_daniel/116918025008265829",
-      "score": 7.01,
-      "niche": "software",
-      "source": "mastodon",
-      "engagement": {
-        "score": 143,
-        "comments": 3
-      }
-    },
-    {
-      "title": "#Climatechange",
-      "url": "https://aus.social/@MrLee/116918182120085281",
-      "score": 6.86,
-      "niche": "software",
-      "source": "mastodon",
-      "engagement": {
-        "score": 266,
-        "comments": 7
-      }
-    },
-    {
-      "title": "Coding agents think ahead of time",
-      "url": "https://arxiv.org/abs/2607.05188",
-      "score": 6.64,
-      "niche": "ai",
-      "source": "hackernews",
-      "engagement": {
-        "score": 46,
-        "comments": 36
-      }
-    },
-    {
-      "title": "\"I’ve struggled to write something that would persuade my colleagues and friends to ditch AI and affirm their avowed beliefs about climate change, the trustworthiness of megacorporations, and our righ",
-      "url": "https://tldr.nettime.org/@tante/116918373916483342",
-      "score": 6.58,
-      "niche": "ai",
-      "source": "mastodon",
-      "engagement": {
-        "score": 107,
-        "comments": 3
-      }
-    },
-    {
-      "title": "Happy international non binary people's day to all my gorgeous enbies!!~🌸💗 :nonbinary_flag: 🌸💗~#lgbtqia #nonbinary #pride",
-      "url": "https://lgbtqia.space/@May/116918348307335674",
-      "score": 6.53,
-      "niche": "software",
-      "source": "mastodon",
-      "engagement": {
-        "score": 104,
-        "comments": 1
-      }
-    },
-    {
-      "title": "Two tiny things I've started doing since the heatwaves became social small talk. I use the phrase 'climate collapse'. Klimakollaps. Not climate change.When anyone moans about the heat in isolation, as",
-      "url": "https://mastodon.green/@CiaraNi/116917022761237748",
-      "score": 6.51,
-      "niche": "software",
-      "source": "mastodon",
-      "engagement": {
-        "score": 753,
-        "comments": 25
-      }
-    },
-    {
-      "title": "Indian scientists produce most detailed 3D atlas of the human brainstem",
-      "url": "https://www.bbc.com/news/articles/cg53l737v1qo",
-      "score": 6.48,
-      "niche": "ai",
-      "source": "hackernews",
-      "engagement": {
-        "score": 126,
-        "comments": 16
       }
     },
     {
       "title": "Show HN: I RL-trained an agent that trains models with RL (for –$1.3k)",
       "url": "https://github.com/Danau5tin/ai-trains-ai",
-      "score": 5.96,
+      "score": 6.59,
       "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 40,
-        "comments": 16
+        "score": 64,
+        "comments": 25
       }
     },
     {
-      "title": "IBM warns AI boom is squeezing software budgets, triggers sector rout",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQclJQc3hYeEdqZlFwS2ZIakg0SVAtdnZfRUwwT1NwLXRTaDY4NmFrNzBxY1F4T1RCNEwzN2V1ZkhId21sTEFVNTFCdFc4TzdMcWloQ0ZqMEFzdDZvMWtEa1c1RjFxWmRmb0NlVWlqX2RNVHliMlhkRTdmTFFUZ3otdGZzLVhkYUpYRlNQRko3ZUtka0twbWFNME9YZEpud2tl?oc=5",
-      "score": 5.94,
+      "title": "pueschel88/Tradingview-MCP — Tradingview MCP server for controlling Tradingview Desktop from Claude Code via Chrome DevTools Protocol",
+      "url": "https://github.com/pueschel88/Tradingview-MCP",
+      "score": 6.52,
       "niche": "ai",
-      "source": "gnews",
+      "source": "github",
       "engagement": {
-        "score": 40,
+        "score": 132,
         "comments": 0
+      }
+    },
+    {
+      "title": "New York is the first state to impose a data center moratoriumNew York’s data center moratorium may become the blueprint for anti-AI movement.https://arstechnica.com/tech-policy/2026/07/new-york-is-th",
+      "url": "https://mastodon.social/@arstechnica/116918955069981761",
+      "score": 6.41,
+      "niche": "ai",
+      "source": "mastodon",
+      "engagement": {
+        "score": 100,
+        "comments": 0
+      }
+    },
+    {
+      "title": "Happy Blender 5.2 LTS release day! Here is the plan of actions to celebrate:⬇️ Download Blender 5.2 LTS: https://www.blender.org/download/🎦 Watch the overview: https://youtu.be/g4OXlrxqIx0 📖 Read th",
+      "url": "https://mastodon.social/@Blender/116919208002120819",
+      "score": 6.15,
+      "niche": "software",
+      "source": "mastodon",
+      "engagement": {
+        "score": 46,
+        "comments": 1
       }
     },
     {
@@ -212,8 +190,8 @@
       }
     },
     {
-      "title": "Megan Rapinoe says she lost brand deal after AI software flagged her trans allyship as 'risk'",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9RR1RyaVctamtpdzhWRFJCQ1Z6NC10NlI1V2tGb1BBbks1NWpra0VTUFdycnMybGRvNVBfdmZRWnRMQ2RmMGhWSUpGOEZ5LUJqWjdpdUJNeC16Wm8tb1VVZDE0dHJjOThvc0ZSMQ?oc=5",
+      "title": "IBM warns AI boom is squeezing software budgets, triggers sector rout",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQclJQc3hYeEdqZlFwS2ZIakg0SVAtdnZfRUwwT1NwLXRTaDY4NmFrNzBxY1F4T1RCNEwzN2V1ZkhId21sTEFVNTFCdFc4TzdMcWloQ0ZqMEFzdDZvMWtEa1c1RjFxWmRmb0NlVWlqX2RNVHliMlhkRTdmTFFUZ3otdGZzLVhkYUpYRlNQRko3ZUtka0twbWFNME9YZEpud2tl?oc=5",
       "score": 5.94,
       "niche": "ai",
       "source": "gnews",
@@ -223,35 +201,35 @@
       }
     },
     {
-      "title": "Demis Hassabis has a plan to harness AI safely",
-      "url": "https://twitter.com/demishassabis/status/2076957440109625718",
-      "score": 5.81,
+      "title": "IBM Shares Plunge as Software Deals Take Back Seat in AI Race",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQaERpaU9mOTNIQU5sY25aSGYwRFhLb1ZsMjVRY2l3enFlX1lwVENaYnJicEpna0dIcGRHTVlLMFFQdVVtekt5UGlHM2NXdUhDY1g2MzIxSXZqMThwOHhoWDZNUlpKY1lET0F0REFIU1kyMktQbEd6YjRqQ2U0NlhIV1lWRUlvQVhrWUxJSkR6OUM4T0J1SmxwM001M1FZZW9CSmwtMlRKak9CVTY2eE9EazJGLUF0VU5zem1sag?oc=5",
+      "score": 5.94,
       "niche": "ai",
-      "source": "hackernews",
+      "source": "gnews",
       "engagement": {
-        "score": 21,
-        "comments": 8
+        "score": 40,
+        "comments": 0
       }
     },
     {
-      "title": "LonghornSilicon/awesome-ai-accelerators — A curated list of AI accelerator papers, resources, tools, and open-source projects.",
-      "url": "https://github.com/LonghornSilicon/awesome-ai-accelerators",
-      "score": 5.68,
+      "title": "Hating AI in 2026",
+      "url": "https://www.eamoncaddigan.net/posts/ai-in-2026/",
+      "score": 5.74,
       "niche": "ai",
-      "source": "github",
+      "source": "lobsters",
       "engagement": {
-        "score": 109,
-        "comments": 0
+        "score": 27,
+        "comments": 17
       }
     },
     {
       "title": "littledivy/mimic — Intercept any app, then call it from Python like a library",
       "url": "https://github.com/littledivy/mimic",
-      "score": 5.68,
+      "score": 5.69,
       "niche": "software",
       "source": "github",
       "engagement": {
-        "score": 866,
+        "score": 878,
         "comments": 1
       }
     },
@@ -262,27 +240,82 @@
       "niche": "ai",
       "source": "github",
       "engagement": {
-        "score": 799,
+        "score": 800,
         "comments": 8
       }
     },
     {
       "title": "Extraltodeus/J-Wash — Jacobian-Brainwash : A framework built on Anthropic's Jacobian Lens for analyzing and customizing LLM internal representations with exportable results.",
       "url": "https://github.com/Extraltodeus/J-Wash",
-      "score": 5.35,
+      "score": 5.39,
       "niche": "ai",
       "source": "github",
       "engagement": {
-        "score": 120,
+        "score": 124,
         "comments": 1
+      }
+    },
+    {
+      "title": "Kappaemme-git/codex-first-customer-finder-skill — A Codex skill that finds evidence-backed potential first customers from recent public signals.",
+      "url": "https://github.com/Kappaemme-git/codex-first-customer-finder-skill",
+      "score": 5.22,
+      "niche": "software",
+      "source": "github",
+      "engagement": {
+        "score": 501,
+        "comments": 2
+      }
+    },
+    {
+      "title": "marcelpanse/youtube-guitar-tab-parser — CLI that turns a YouTube guitar-lesson video into a PDF of the guitar tab.",
+      "url": "https://github.com/marcelpanse/youtube-guitar-tab-parser",
+      "score": 4.89,
+      "niche": "software",
+      "source": "github",
+      "engagement": {
+        "score": 140,
+        "comments": 6
       }
     }
   ],
   "topics": [
     {
+      "keyword": "claude",
+      "count": 8,
+      "score": 118.46931148032749,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "How to stop Claude from saying load-bearing",
+          "url": "https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing",
+          "source": "hackernews"
+        },
+        {
+          "title": "How to stop Claude from saying load-bearing",
+          "url": "https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing",
+          "source": "hackernews"
+        },
+        {
+          "title": "pueschel88/Tradingview-MCP — Tradingview MCP server for controlling Tradingview Desktop from Claude Code via Chrome DevTools Protocol",
+          "url": "https://github.com/pueschel88/Tradingview-MCP",
+          "source": "github"
+        },
+        {
+          "title": "Dev Opportunity Radar #7: $1,000 Solo Grants, Free Claude Max for Open Source Contributors, and an MLH Hackathon",
+          "url": "https://dev.to/devengers/dev-opportunity-radar-7-1000-solo-grants-free-claude-max-for-open-source-contributors-and-an-3i12",
+          "source": "devto"
+        }
+      ],
+      "id": "c857d09db23e",
+      "slug": "claude"
+    },
+    {
       "keyword": "complete guide",
       "count": 11,
-      "score": 136.24798021568327,
+      "score": 108.99838417254662,
       "proper": true,
       "niches": [
         "ai"
@@ -310,7 +343,7 @@
     {
       "keyword": "marketing agencies",
       "count": 11,
-      "score": 136.24798021568327,
+      "score": 108.99838417254662,
       "proper": true,
       "niches": [
         "ai"
@@ -336,37 +369,9 @@
       "slug": "marketing-agencies"
     },
     {
-      "keyword": "claude code",
-      "count": 11,
-      "score": 107.39586266909419,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "pueschel88/Tradingview-MCP — Tradingview MCP server for controlling Tradingview Desktop from Claude Code via Chrome DevTools Protocol",
-          "url": "https://github.com/pueschel88/Tradingview-MCP",
-          "source": "github"
-        },
-        {
-          "title": "pueschel88/Tradingview-MCP — Tradingview MCP server for controlling Tradingview Desktop from Claude Code via Chrome DevTools Protocol",
-          "url": "https://github.com/pueschel88/Tradingview-MCP",
-          "source": "github"
-        },
-        {
-          "title": "nimbus-notify 1.3.0",
-          "url": "https://pypi.org/project/nimbus-notify/1.3.0/",
-          "source": "pypi"
-        }
-      ],
-      "id": "a625159d18da",
-      "slug": "claude-code"
-    },
-    {
       "keyword": "tradingview mcp",
       "count": 8,
-      "score": 102.89586266909419,
+      "score": 78.29366689261067,
       "proper": true,
       "niches": [
         "ai"
@@ -389,7 +394,7 @@
     {
       "keyword": "tradingview desktop",
       "count": 8,
-      "score": 102.89586266909419,
+      "score": 78.29366689261067,
       "proper": true,
       "niches": [
         "ai"
@@ -410,55 +415,73 @@
       "slug": "tradingview-desktop"
     },
     {
-      "keyword": "megan rapinoe",
-      "count": 11,
-      "score": 97.92823578002233,
+      "keyword": "claude code",
+      "count": 8,
+      "score": 78.29366689261067,
       "proper": true,
       "niches": [
         "ai"
       ],
       "examples": [
         {
-          "title": "Megan Rapinoe says she lost brand deal after AI software flagged her trans allyship as 'risk'",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9RR1RyaVctamtpdzhWRFJCQ1Z6NC10NlI1V2tGb1BBbks1NWpra0VTUFdycnMybGRvNVBfdmZRWnRMQ2RmMGhWSUpGOEZ5LUJqWjdpdUJNeC16Wm8tb1VVZDE0dHJjOThvc0ZSMQ?oc=5",
-          "source": "gnews"
+          "title": "pueschel88/Tradingview-MCP — Tradingview MCP server for controlling Tradingview Desktop from Claude Code via Chrome DevTools Protocol",
+          "url": "https://github.com/pueschel88/Tradingview-MCP",
+          "source": "github"
         },
         {
-          "title": "Megan Rapinoe says she lost brand deal after AI software flagged her trans allyship as 'risk'",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9RR1RyaVctamtpdzhWRFJCQ1Z6NC10NlI1V2tGb1BBbks1NWpra0VTUFdycnMybGRvNVBfdmZRWnRMQ2RmMGhWSUpGOEZ5LUJqWjdpdUJNeC16Wm8tb1VVZDE0dHJjOThvc0ZSMQ?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Megan Rapinoe says she lost brand deal after AI software flagged her trans allyship as 'risk'",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9RR1RyaVctamtpdzhWRFJCQ1Z6NC10NlI1V2tGb1BBbks1NWpra0VTUFdycnMybGRvNVBfdmZRWnRMQ2RmMGhWSUpGOEZ5LUJqWjdpdUJNeC16Wm8tb1VVZDE0dHJjOThvc0ZSMQ?oc=5",
-          "source": "gnews"
+          "title": "pueschel88/Tradingview-MCP — Tradingview MCP server for controlling Tradingview Desktop from Claude Code via Chrome DevTools Protocol",
+          "url": "https://github.com/pueschel88/Tradingview-MCP",
+          "source": "github"
         }
       ],
-      "id": "29aba66ababc",
-      "slug": "megan-rapinoe"
+      "id": "a625159d18da",
+      "slug": "claude-code"
     },
     {
-      "keyword": "marco rubio",
+      "keyword": "happy blender",
       "count": 8,
-      "score": 85.94097036014576,
+      "score": 73.82776477564548,
       "proper": true,
       "niches": [
-        "ai"
+        "software"
       ],
       "examples": [
         {
-          "title": "Because he's part of a gang of international criminals:Marco Rubio launches campaign to dismantle international criminal courthttps://www.theguardian.com/us-news/2026/jul/13/marco-rubio-dismantle-inte",
-          "url": "https://mastodon.social/@jeffjarvis/116917845004295269",
+          "title": "Happy Blender 5.2 LTS release day! Here is the plan of actions to celebrate:⬇️ Download Blender 5.2 LTS: https://www.blender.org/download/🎦 Watch the overview: https://youtu.be/g4OXlrxqIx0 📖 Read th",
+          "url": "https://mastodon.social/@Blender/116919208002120819",
           "source": "mastodon"
         },
         {
-          "title": "Because he's part of a gang of international criminals:Marco Rubio launches campaign to dismantle international criminal courthttps://www.theguardian.com/us-news/2026/jul/13/marco-rubio-dismantle-inte",
-          "url": "https://mastodon.social/@jeffjarvis/116917845004295269",
+          "title": "Happy Blender 5.2 LTS release day! Here is the plan of actions to celebrate:⬇️ Download Blender 5.2 LTS: https://www.blender.org/download/🎦 Watch the overview: https://youtu.be/g4OXlrxqIx0 📖 Read th",
+          "url": "https://mastodon.social/@Blender/116919208002120819",
           "source": "mastodon"
         }
       ],
-      "id": "408e6a3de8d1",
-      "slug": "marco-rubio"
+      "id": "596bd4d70f7d",
+      "slug": "happy-blender"
+    },
+    {
+      "keyword": "download blender",
+      "count": 8,
+      "score": 73.82776477564548,
+      "proper": true,
+      "niches": [
+        "software"
+      ],
+      "examples": [
+        {
+          "title": "Happy Blender 5.2 LTS release day! Here is the plan of actions to celebrate:⬇️ Download Blender 5.2 LTS: https://www.blender.org/download/🎦 Watch the overview: https://youtu.be/g4OXlrxqIx0 📖 Read th",
+          "url": "https://mastodon.social/@Blender/116919208002120819",
+          "source": "mastodon"
+        },
+        {
+          "title": "Happy Blender 5.2 LTS release day! Here is the plan of actions to celebrate:⬇️ Download Blender 5.2 LTS: https://www.blender.org/download/🎦 Watch the overview: https://youtu.be/g4OXlrxqIx0 📖 Read th",
+          "url": "https://mastodon.social/@Blender/116919208002120819",
+          "source": "mastodon"
+        }
+      ],
+      "id": "154d376d6063",
+      "slug": "download-blender"
     },
     {
       "keyword": "ibm warns",
@@ -470,16 +493,6 @@
       ],
       "examples": [
         {
-          "title": "IBM warns AI boom is squeezing software budgets, triggers sector rout",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQclJQc3hYeEdqZlFwS2ZIakg0SVAtdnZfRUwwT1NwLXRTaDY4NmFrNzBxY1F4T1RCNEwzN2V1ZkhId21sTEFVNTFCdFc4TzdMcWloQ0ZqMEFzdDZvMWtEa1c1RjFxWmRmb0NlVWlqX2RNVHliMlhkRTdmTFFUZ3otdGZzLVhkYUpYRlNQRko3ZUtka0twbWFNME9YZEpud2tl?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "IBM warns AI boom is squeezing software budgets, triggers sector rout",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQclJQc3hYeEdqZlFwS2ZIakg0SVAtdnZfRUwwT1NwLXRTaDY4NmFrNzBxY1F4T1RCNEwzN2V1ZkhId21sTEFVNTFCdFc4TzdMcWloQ0ZqMEFzdDZvMWtEa1c1RjFxWmRmb0NlVWlqX2RNVHliMlhkRTdmTFFUZ3otdGZzLVhkYUpYRlNQRko3ZUtka0twbWFNME9YZEpud2tl?oc=5",
-          "source": "gnews"
-        },
-        {
           "title": "IBM warns AI boom is squeezing software budgets; shares sink in sector rout",
           "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWVlTRXBpazdNZ0M1bWhlX1UtSTNNYU9hbmxiLUhtcHE2M3hLMHlrc2s4bkwwS1RqbkJaLWExWHQ3bVZzQ3REVXBfa2Q3MHJqYUdXZ2d1dHEwVEQ3UEhsSU5Gckk4YnR2bzRvOXEzRGFHY3NERjlLQ3VNTTgxNGN5c3NCbFRkX3Z0YklpYndWV0ZoV3JsQ0NyUTBRQQ?oc=5",
           "source": "gnews"
@@ -487,6 +500,16 @@
         {
           "title": "IBM warns AI boom is squeezing software budgets; shares sink in sector rout",
           "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWVlTRXBpazdNZ0M1bWhlX1UtSTNNYU9hbmxiLUhtcHE2M3hLMHlrc2s4bkwwS1RqbkJaLWExWHQ3bVZzQ3REVXBfa2Q3MHJqYUdXZ2d1dHEwVEQ3UEhsSU5Gckk4YnR2bzRvOXEzRGFHY3NERjlLQ3VNTTgxNGN5c3NCbFRkX3Z0YklpYndWV0ZoV3JsQ0NyUTBRQQ?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "IBM warns AI boom is squeezing software budgets, triggers sector rout",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQclJQc3hYeEdqZlFwS2ZIakg0SVAtdnZfRUwwT1NwLXRTaDY4NmFrNzBxY1F4T1RCNEwzN2V1ZkhId21sTEFVNTFCdFc4TzdMcWloQ0ZqMEFzdDZvMWtEa1c1RjFxWmRmb0NlVWlqX2RNVHliMlhkRTdmTFFUZ3otdGZzLVhkYUpYRlNQRko3ZUtka0twbWFNME9YZEpud2tl?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "IBM warns AI boom is squeezing software budgets, triggers sector rout",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQclJQc3hYeEdqZlFwS2ZIakg0SVAtdnZfRUwwT1NwLXRTaDY4NmFrNzBxY1F4T1RCNEwzN2V1ZkhId21sTEFVNTFCdFc4TzdMcWloQ0ZqMEFzdDZvMWtEa1c1RjFxWmRmb0NlVWlqX2RNVHliMlhkRTdmTFFUZ3otdGZzLVhkYUpYRlNQRko3ZUtka0twbWFNME9YZEpud2tl?oc=5",
           "source": "gnews"
         }
       ],
@@ -503,16 +526,6 @@
       ],
       "examples": [
         {
-          "title": "IBM warns AI boom is squeezing software budgets, triggers sector rout",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQclJQc3hYeEdqZlFwS2ZIakg0SVAtdnZfRUwwT1NwLXRTaDY4NmFrNzBxY1F4T1RCNEwzN2V1ZkhId21sTEFVNTFCdFc4TzdMcWloQ0ZqMEFzdDZvMWtEa1c1RjFxWmRmb0NlVWlqX2RNVHliMlhkRTdmTFFUZ3otdGZzLVhkYUpYRlNQRko3ZUtka0twbWFNME9YZEpud2tl?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "IBM warns AI boom is squeezing software budgets, triggers sector rout",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQclJQc3hYeEdqZlFwS2ZIakg0SVAtdnZfRUwwT1NwLXRTaDY4NmFrNzBxY1F4T1RCNEwzN2V1ZkhId21sTEFVNTFCdFc4TzdMcWloQ0ZqMEFzdDZvMWtEa1c1RjFxWmRmb0NlVWlqX2RNVHliMlhkRTdmTFFUZ3otdGZzLVhkYUpYRlNQRko3ZUtka0twbWFNME9YZEpud2tl?oc=5",
-          "source": "gnews"
-        },
-        {
           "title": "IBM warns AI boom is squeezing software budgets; shares sink in sector rout",
           "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWVlTRXBpazdNZ0M1bWhlX1UtSTNNYU9hbmxiLUhtcHE2M3hLMHlrc2s4bkwwS1RqbkJaLWExWHQ3bVZzQ3REVXBfa2Q3MHJqYUdXZ2d1dHEwVEQ3UEhsSU5Gckk4YnR2bzRvOXEzRGFHY3NERjlLQ3VNTTgxNGN5c3NCbFRkX3Z0YklpYndWV0ZoV3JsQ0NyUTBRQQ?oc=5",
           "source": "gnews"
@@ -520,6 +533,16 @@
         {
           "title": "IBM warns AI boom is squeezing software budgets; shares sink in sector rout",
           "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWVlTRXBpazdNZ0M1bWhlX1UtSTNNYU9hbmxiLUhtcHE2M3hLMHlrc2s4bkwwS1RqbkJaLWExWHQ3bVZzQ3REVXBfa2Q3MHJqYUdXZ2d1dHEwVEQ3UEhsSU5Gckk4YnR2bzRvOXEzRGFHY3NERjlLQ3VNTTgxNGN5c3NCbFRkX3Z0YklpYndWV0ZoV3JsQ0NyUTBRQQ?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "IBM warns AI boom is squeezing software budgets, triggers sector rout",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQclJQc3hYeEdqZlFwS2ZIakg0SVAtdnZfRUwwT1NwLXRTaDY4NmFrNzBxY1F4T1RCNEwzN2V1ZkhId21sTEFVNTFCdFc4TzdMcWloQ0ZqMEFzdDZvMWtEa1c1RjFxWmRmb0NlVWlqX2RNVHliMlhkRTdmTFFUZ3otdGZzLVhkYUpYRlNQRko3ZUtka0twbWFNME9YZEpud2tl?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "IBM warns AI boom is squeezing software budgets, triggers sector rout",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQclJQc3hYeEdqZlFwS2ZIakg0SVAtdnZfRUwwT1NwLXRTaDY4NmFrNzBxY1F4T1RCNEwzN2V1ZkhId21sTEFVNTFCdFc4TzdMcWloQ0ZqMEFzdDZvMWtEa1c1RjFxWmRmb0NlVWlqX2RNVHliMlhkRTdmTFFUZ3otdGZzLVhkYUpYRlNQRko3ZUtka0twbWFNME9YZEpud2tl?oc=5",
           "source": "gnews"
         }
       ],
@@ -536,16 +559,6 @@
       ],
       "examples": [
         {
-          "title": "IBM warns AI boom is squeezing software budgets, triggers sector rout",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQclJQc3hYeEdqZlFwS2ZIakg0SVAtdnZfRUwwT1NwLXRTaDY4NmFrNzBxY1F4T1RCNEwzN2V1ZkhId21sTEFVNTFCdFc4TzdMcWloQ0ZqMEFzdDZvMWtEa1c1RjFxWmRmb0NlVWlqX2RNVHliMlhkRTdmTFFUZ3otdGZzLVhkYUpYRlNQRko3ZUtka0twbWFNME9YZEpud2tl?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "IBM warns AI boom is squeezing software budgets, triggers sector rout",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQclJQc3hYeEdqZlFwS2ZIakg0SVAtdnZfRUwwT1NwLXRTaDY4NmFrNzBxY1F4T1RCNEwzN2V1ZkhId21sTEFVNTFCdFc4TzdMcWloQ0ZqMEFzdDZvMWtEa1c1RjFxWmRmb0NlVWlqX2RNVHliMlhkRTdmTFFUZ3otdGZzLVhkYUpYRlNQRko3ZUtka0twbWFNME9YZEpud2tl?oc=5",
-          "source": "gnews"
-        },
-        {
           "title": "IBM warns AI boom is squeezing software budgets; shares sink in sector rout",
           "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWVlTRXBpazdNZ0M1bWhlX1UtSTNNYU9hbmxiLUhtcHE2M3hLMHlrc2s4bkwwS1RqbkJaLWExWHQ3bVZzQ3REVXBfa2Q3MHJqYUdXZ2d1dHEwVEQ3UEhsSU5Gckk4YnR2bzRvOXEzRGFHY3NERjlLQ3VNTTgxNGN5c3NCbFRkX3Z0YklpYndWV0ZoV3JsQ0NyUTBRQQ?oc=5",
           "source": "gnews"
@@ -553,6 +566,16 @@
         {
           "title": "IBM warns AI boom is squeezing software budgets; shares sink in sector rout",
           "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWVlTRXBpazdNZ0M1bWhlX1UtSTNNYU9hbmxiLUhtcHE2M3hLMHlrc2s4bkwwS1RqbkJaLWExWHQ3bVZzQ3REVXBfa2Q3MHJqYUdXZ2d1dHEwVEQ3UEhsSU5Gckk4YnR2bzRvOXEzRGFHY3NERjlLQ3VNTTgxNGN5c3NCbFRkX3Z0YklpYndWV0ZoV3JsQ0NyUTBRQQ?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "IBM warns AI boom is squeezing software budgets, triggers sector rout",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQclJQc3hYeEdqZlFwS2ZIakg0SVAtdnZfRUwwT1NwLXRTaDY4NmFrNzBxY1F4T1RCNEwzN2V1ZkhId21sTEFVNTFCdFc4TzdMcWloQ0ZqMEFzdDZvMWtEa1c1RjFxWmRmb0NlVWlqX2RNVHliMlhkRTdmTFFUZ3otdGZzLVhkYUpYRlNQRko3ZUtka0twbWFNME9YZEpud2tl?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "IBM warns AI boom is squeezing software budgets, triggers sector rout",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQclJQc3hYeEdqZlFwS2ZIakg0SVAtdnZfRUwwT1NwLXRTaDY4NmFrNzBxY1F4T1RCNEwzN2V1ZkhId21sTEFVNTFCdFc4TzdMcWloQ0ZqMEFzdDZvMWtEa1c1RjFxWmRmb0NlVWlqX2RNVHliMlhkRTdmTFFUZ3otdGZzLVhkYUpYRlNQRko3ZUtka0twbWFNME9YZEpud2tl?oc=5",
           "source": "gnews"
         }
       ],
@@ -569,16 +592,6 @@
       ],
       "examples": [
         {
-          "title": "IBM warns AI boom is squeezing software budgets, triggers sector rout",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQclJQc3hYeEdqZlFwS2ZIakg0SVAtdnZfRUwwT1NwLXRTaDY4NmFrNzBxY1F4T1RCNEwzN2V1ZkhId21sTEFVNTFCdFc4TzdMcWloQ0ZqMEFzdDZvMWtEa1c1RjFxWmRmb0NlVWlqX2RNVHliMlhkRTdmTFFUZ3otdGZzLVhkYUpYRlNQRko3ZUtka0twbWFNME9YZEpud2tl?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "IBM warns AI boom is squeezing software budgets, triggers sector rout",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQclJQc3hYeEdqZlFwS2ZIakg0SVAtdnZfRUwwT1NwLXRTaDY4NmFrNzBxY1F4T1RCNEwzN2V1ZkhId21sTEFVNTFCdFc4TzdMcWloQ0ZqMEFzdDZvMWtEa1c1RjFxWmRmb0NlVWlqX2RNVHliMlhkRTdmTFFUZ3otdGZzLVhkYUpYRlNQRko3ZUtka0twbWFNME9YZEpud2tl?oc=5",
-          "source": "gnews"
-        },
-        {
           "title": "IBM warns AI boom is squeezing software budgets; shares sink in sector rout",
           "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWVlTRXBpazdNZ0M1bWhlX1UtSTNNYU9hbmxiLUhtcHE2M3hLMHlrc2s4bkwwS1RqbkJaLWExWHQ3bVZzQ3REVXBfa2Q3MHJqYUdXZ2d1dHEwVEQ3UEhsSU5Gckk4YnR2bzRvOXEzRGFHY3NERjlLQ3VNTTgxNGN5c3NCbFRkX3Z0YklpYndWV0ZoV3JsQ0NyUTBRQQ?oc=5",
           "source": "gnews"
@@ -586,6 +599,16 @@
         {
           "title": "IBM warns AI boom is squeezing software budgets; shares sink in sector rout",
           "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWVlTRXBpazdNZ0M1bWhlX1UtSTNNYU9hbmxiLUhtcHE2M3hLMHlrc2s4bkwwS1RqbkJaLWExWHQ3bVZzQ3REVXBfa2Q3MHJqYUdXZ2d1dHEwVEQ3UEhsSU5Gckk4YnR2bzRvOXEzRGFHY3NERjlLQ3VNTTgxNGN5c3NCbFRkX3Z0YklpYndWV0ZoV3JsQ0NyUTBRQQ?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "IBM warns AI boom is squeezing software budgets, triggers sector rout",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQclJQc3hYeEdqZlFwS2ZIakg0SVAtdnZfRUwwT1NwLXRTaDY4NmFrNzBxY1F4T1RCNEwzN2V1ZkhId21sTEFVNTFCdFc4TzdMcWloQ0ZqMEFzdDZvMWtEa1c1RjFxWmRmb0NlVWlqX2RNVHliMlhkRTdmTFFUZ3otdGZzLVhkYUpYRlNQRko3ZUtka0twbWFNME9YZEpud2tl?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "IBM warns AI boom is squeezing software budgets, triggers sector rout",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQclJQc3hYeEdqZlFwS2ZIakg0SVAtdnZfRUwwT1NwLXRTaDY4NmFrNzBxY1F4T1RCNEwzN2V1ZkhId21sTEFVNTFCdFc4TzdMcWloQ0ZqMEFzdDZvMWtEa1c1RjFxWmRmb0NlVWlqX2RNVHliMlhkRTdmTFFUZ3otdGZzLVhkYUpYRlNQRko3ZUtka0twbWFNME9YZEpud2tl?oc=5",
           "source": "gnews"
         }
       ],
@@ -602,16 +625,6 @@
       ],
       "examples": [
         {
-          "title": "IBM warns AI boom is squeezing software budgets, triggers sector rout",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQclJQc3hYeEdqZlFwS2ZIakg0SVAtdnZfRUwwT1NwLXRTaDY4NmFrNzBxY1F4T1RCNEwzN2V1ZkhId21sTEFVNTFCdFc4TzdMcWloQ0ZqMEFzdDZvMWtEa1c1RjFxWmRmb0NlVWlqX2RNVHliMlhkRTdmTFFUZ3otdGZzLVhkYUpYRlNQRko3ZUtka0twbWFNME9YZEpud2tl?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "IBM warns AI boom is squeezing software budgets, triggers sector rout",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQclJQc3hYeEdqZlFwS2ZIakg0SVAtdnZfRUwwT1NwLXRTaDY4NmFrNzBxY1F4T1RCNEwzN2V1ZkhId21sTEFVNTFCdFc4TzdMcWloQ0ZqMEFzdDZvMWtEa1c1RjFxWmRmb0NlVWlqX2RNVHliMlhkRTdmTFFUZ3otdGZzLVhkYUpYRlNQRko3ZUtka0twbWFNME9YZEpud2tl?oc=5",
-          "source": "gnews"
-        },
-        {
           "title": "IBM warns AI boom is squeezing software budgets; shares sink in sector rout",
           "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWVlTRXBpazdNZ0M1bWhlX1UtSTNNYU9hbmxiLUhtcHE2M3hLMHlrc2s4bkwwS1RqbkJaLWExWHQ3bVZzQ3REVXBfa2Q3MHJqYUdXZ2d1dHEwVEQ3UEhsSU5Gckk4YnR2bzRvOXEzRGFHY3NERjlLQ3VNTTgxNGN5c3NCbFRkX3Z0YklpYndWV0ZoV3JsQ0NyUTBRQQ?oc=5",
           "source": "gnews"
@@ -619,6 +632,16 @@
         {
           "title": "IBM warns AI boom is squeezing software budgets; shares sink in sector rout",
           "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWVlTRXBpazdNZ0M1bWhlX1UtSTNNYU9hbmxiLUhtcHE2M3hLMHlrc2s4bkwwS1RqbkJaLWExWHQ3bVZzQ3REVXBfa2Q3MHJqYUdXZ2d1dHEwVEQ3UEhsSU5Gckk4YnR2bzRvOXEzRGFHY3NERjlLQ3VNTTgxNGN5c3NCbFRkX3Z0YklpYndWV0ZoV3JsQ0NyUTBRQQ?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "IBM warns AI boom is squeezing software budgets, triggers sector rout",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQclJQc3hYeEdqZlFwS2ZIakg0SVAtdnZfRUwwT1NwLXRTaDY4NmFrNzBxY1F4T1RCNEwzN2V1ZkhId21sTEFVNTFCdFc4TzdMcWloQ0ZqMEFzdDZvMWtEa1c1RjFxWmRmb0NlVWlqX2RNVHliMlhkRTdmTFFUZ3otdGZzLVhkYUpYRlNQRko3ZUtka0twbWFNME9YZEpud2tl?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "IBM warns AI boom is squeezing software budgets, triggers sector rout",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQclJQc3hYeEdqZlFwS2ZIakg0SVAtdnZfRUwwT1NwLXRTaDY4NmFrNzBxY1F4T1RCNEwzN2V1ZkhId21sTEFVNTFCdFc4TzdMcWloQ0ZqMEFzdDZvMWtEa1c1RjFxWmRmb0NlVWlqX2RNVHliMlhkRTdmTFFUZ3otdGZzLVhkYUpYRlNQRko3ZUtka0twbWFNME9YZEpud2tl?oc=5",
           "source": "gnews"
         }
       ],
@@ -635,16 +658,6 @@
       ],
       "examples": [
         {
-          "title": "IBM warns AI boom is squeezing software budgets, triggers sector rout",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQclJQc3hYeEdqZlFwS2ZIakg0SVAtdnZfRUwwT1NwLXRTaDY4NmFrNzBxY1F4T1RCNEwzN2V1ZkhId21sTEFVNTFCdFc4TzdMcWloQ0ZqMEFzdDZvMWtEa1c1RjFxWmRmb0NlVWlqX2RNVHliMlhkRTdmTFFUZ3otdGZzLVhkYUpYRlNQRko3ZUtka0twbWFNME9YZEpud2tl?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "IBM warns AI boom is squeezing software budgets, triggers sector rout",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQclJQc3hYeEdqZlFwS2ZIakg0SVAtdnZfRUwwT1NwLXRTaDY4NmFrNzBxY1F4T1RCNEwzN2V1ZkhId21sTEFVNTFCdFc4TzdMcWloQ0ZqMEFzdDZvMWtEa1c1RjFxWmRmb0NlVWlqX2RNVHliMlhkRTdmTFFUZ3otdGZzLVhkYUpYRlNQRko3ZUtka0twbWFNME9YZEpud2tl?oc=5",
-          "source": "gnews"
-        },
-        {
           "title": "IBM warns AI boom is squeezing software budgets; shares sink in sector rout",
           "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWVlTRXBpazdNZ0M1bWhlX1UtSTNNYU9hbmxiLUhtcHE2M3hLMHlrc2s4bkwwS1RqbkJaLWExWHQ3bVZzQ3REVXBfa2Q3MHJqYUdXZ2d1dHEwVEQ3UEhsSU5Gckk4YnR2bzRvOXEzRGFHY3NERjlLQ3VNTTgxNGN5c3NCbFRkX3Z0YklpYndWV0ZoV3JsQ0NyUTBRQQ?oc=5",
           "source": "gnews"
@@ -652,34 +665,21 @@
         {
           "title": "IBM warns AI boom is squeezing software budgets; shares sink in sector rout",
           "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWVlTRXBpazdNZ0M1bWhlX1UtSTNNYU9hbmxiLUhtcHE2M3hLMHlrc2s4bkwwS1RqbkJaLWExWHQ3bVZzQ3REVXBfa2Q3MHJqYUdXZ2d1dHEwVEQ3UEhsSU5Gckk4YnR2bzRvOXEzRGFHY3NERjlLQ3VNTTgxNGN5c3NCbFRkX3Z0YklpYndWV0ZoV3JsQ0NyUTBRQQ?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "IBM warns AI boom is squeezing software budgets, triggers sector rout",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQclJQc3hYeEdqZlFwS2ZIakg0SVAtdnZfRUwwT1NwLXRTaDY4NmFrNzBxY1F4T1RCNEwzN2V1ZkhId21sTEFVNTFCdFc4TzdMcWloQ0ZqMEFzdDZvMWtEa1c1RjFxWmRmb0NlVWlqX2RNVHliMlhkRTdmTFFUZ3otdGZzLVhkYUpYRlNQRko3ZUtka0twbWFNME9YZEpud2tl?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "IBM warns AI boom is squeezing software budgets, triggers sector rout",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQclJQc3hYeEdqZlFwS2ZIakg0SVAtdnZfRUwwT1NwLXRTaDY4NmFrNzBxY1F4T1RCNEwzN2V1ZkhId21sTEFVNTFCdFc4TzdMcWloQ0ZqMEFzdDZvMWtEa1c1RjFxWmRmb0NlVWlqX2RNVHliMlhkRTdmTFFUZ3otdGZzLVhkYUpYRlNQRko3ZUtka0twbWFNME9YZEpud2tl?oc=5",
           "source": "gnews"
         }
       ],
       "id": "9af9083fc868",
       "slug": "sector-rout"
-    },
-    {
-      "keyword": "demis hassabis",
-      "count": 8,
-      "score": 69.76324362659834,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "Demis Hassabis has a plan to harness AI safely",
-          "url": "https://twitter.com/demishassabis/status/2076957440109625718",
-          "source": "hackernews"
-        },
-        {
-          "title": "Demis Hassabis has a plan to harness AI safely",
-          "url": "https://twitter.com/demishassabis/status/2076957440109625718",
-          "source": "hackernews"
-        }
-      ],
-      "id": "765cc641dc29",
-      "slug": "demis-hassabis"
     },
     {
       "keyword": "medical gadgets",
@@ -712,9 +712,46 @@
   ],
   "opportunities": [
     {
+      "keyword": "claude",
+      "count": 8,
+      "score": 118.46931148032749,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "How to stop Claude from saying load-bearing",
+          "url": "https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing",
+          "source": "hackernews"
+        },
+        {
+          "title": "How to stop Claude from saying load-bearing",
+          "url": "https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing",
+          "source": "hackernews"
+        },
+        {
+          "title": "pueschel88/Tradingview-MCP — Tradingview MCP server for controlling Tradingview Desktop from Claude Code via Chrome DevTools Protocol",
+          "url": "https://github.com/pueschel88/Tradingview-MCP",
+          "source": "github"
+        },
+        {
+          "title": "Dev Opportunity Radar #7: $1,000 Solo Grants, Free Claude Max for Open Source Contributors, and an MLH Hackathon",
+          "url": "https://dev.to/devengers/dev-opportunity-radar-7-1000-solo-grants-free-claude-max-for-open-source-contributors-and-an-3i12",
+          "source": "devto"
+        }
+      ],
+      "id": "c857d09db23e",
+      "slug": "claude",
+      "opportunity": {
+        "type": "tooling",
+        "recommended": "Build / list AI tools; monetize via affiliate links + lead magnet."
+      }
+    },
+    {
       "keyword": "complete guide",
       "count": 11,
-      "score": 136.24798021568327,
+      "score": 108.99838417254662,
       "proper": true,
       "niches": [
         "ai"
@@ -746,7 +783,7 @@
     {
       "keyword": "marketing agencies",
       "count": 11,
-      "score": 136.24798021568327,
+      "score": 108.99838417254662,
       "proper": true,
       "niches": [
         "ai"
@@ -776,41 +813,9 @@
       }
     },
     {
-      "keyword": "claude code",
-      "count": 11,
-      "score": 107.39586266909419,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "pueschel88/Tradingview-MCP — Tradingview MCP server for controlling Tradingview Desktop from Claude Code via Chrome DevTools Protocol",
-          "url": "https://github.com/pueschel88/Tradingview-MCP",
-          "source": "github"
-        },
-        {
-          "title": "pueschel88/Tradingview-MCP — Tradingview MCP server for controlling Tradingview Desktop from Claude Code via Chrome DevTools Protocol",
-          "url": "https://github.com/pueschel88/Tradingview-MCP",
-          "source": "github"
-        },
-        {
-          "title": "nimbus-notify 1.3.0",
-          "url": "https://pypi.org/project/nimbus-notify/1.3.0/",
-          "source": "pypi"
-        }
-      ],
-      "id": "a625159d18da",
-      "slug": "claude-code",
-      "opportunity": {
-        "type": "tooling",
-        "recommended": "Build / list AI tools; monetize via affiliate links + lead magnet."
-      }
-    },
-    {
       "keyword": "tradingview mcp",
       "count": 8,
-      "score": 102.89586266909419,
+      "score": 78.29366689261067,
       "proper": true,
       "niches": [
         "ai"
@@ -837,7 +842,7 @@
     {
       "keyword": "tradingview desktop",
       "count": 8,
-      "score": 102.89586266909419,
+      "score": 78.29366689261067,
       "proper": true,
       "niches": [
         "ai"
@@ -862,99 +867,84 @@
       }
     },
     {
-      "keyword": "megan rapinoe",
-      "count": 11,
-      "score": 97.92823578002233,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "Megan Rapinoe says she lost brand deal after AI software flagged her trans allyship as 'risk'",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9RR1RyaVctamtpdzhWRFJCQ1Z6NC10NlI1V2tGb1BBbks1NWpra0VTUFdycnMybGRvNVBfdmZRWnRMQ2RmMGhWSUpGOEZ5LUJqWjdpdUJNeC16Wm8tb1VVZDE0dHJjOThvc0ZSMQ?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Megan Rapinoe says she lost brand deal after AI software flagged her trans allyship as 'risk'",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9RR1RyaVctamtpdzhWRFJCQ1Z6NC10NlI1V2tGb1BBbks1NWpra0VTUFdycnMybGRvNVBfdmZRWnRMQ2RmMGhWSUpGOEZ5LUJqWjdpdUJNeC16Wm8tb1VVZDE0dHJjOThvc0ZSMQ?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Megan Rapinoe says she lost brand deal after AI software flagged her trans allyship as 'risk'",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9RR1RyaVctamtpdzhWRFJCQ1Z6NC10NlI1V2tGb1BBbks1NWpra0VTUFdycnMybGRvNVBfdmZRWnRMQ2RmMGhWSUpGOEZ5LUJqWjdpdUJNeC16Wm8tb1VVZDE0dHJjOThvc0ZSMQ?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "29aba66ababc",
-      "slug": "megan-rapinoe",
-      "opportunity": {
-        "type": "niche-content",
-        "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
-      }
-    },
-    {
-      "keyword": "marco rubio",
+      "keyword": "claude code",
       "count": 8,
-      "score": 85.94097036014576,
+      "score": 78.29366689261067,
       "proper": true,
       "niches": [
         "ai"
       ],
       "examples": [
         {
-          "title": "Because he's part of a gang of international criminals:Marco Rubio launches campaign to dismantle international criminal courthttps://www.theguardian.com/us-news/2026/jul/13/marco-rubio-dismantle-inte",
-          "url": "https://mastodon.social/@jeffjarvis/116917845004295269",
-          "source": "mastodon"
+          "title": "pueschel88/Tradingview-MCP — Tradingview MCP server for controlling Tradingview Desktop from Claude Code via Chrome DevTools Protocol",
+          "url": "https://github.com/pueschel88/Tradingview-MCP",
+          "source": "github"
         },
         {
-          "title": "Because he's part of a gang of international criminals:Marco Rubio launches campaign to dismantle international criminal courthttps://www.theguardian.com/us-news/2026/jul/13/marco-rubio-dismantle-inte",
-          "url": "https://mastodon.social/@jeffjarvis/116917845004295269",
-          "source": "mastodon"
+          "title": "pueschel88/Tradingview-MCP — Tradingview MCP server for controlling Tradingview Desktop from Claude Code via Chrome DevTools Protocol",
+          "url": "https://github.com/pueschel88/Tradingview-MCP",
+          "source": "github"
         }
       ],
-      "id": "408e6a3de8d1",
-      "slug": "marco-rubio",
+      "id": "a625159d18da",
+      "slug": "claude-code",
       "opportunity": {
-        "type": "niche-content",
-        "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
+        "type": "tooling",
+        "recommended": "Build / list AI tools; monetize via affiliate links + lead magnet."
       }
     },
     {
-      "keyword": "ibm warns",
-      "count": 12,
-      "score": 71.22053511274352,
-      "proper": false,
+      "keyword": "happy blender",
+      "count": 8,
+      "score": 73.82776477564548,
+      "proper": true,
       "niches": [
-        "ai"
+        "software"
       ],
       "examples": [
         {
-          "title": "IBM warns AI boom is squeezing software budgets, triggers sector rout",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQclJQc3hYeEdqZlFwS2ZIakg0SVAtdnZfRUwwT1NwLXRTaDY4NmFrNzBxY1F4T1RCNEwzN2V1ZkhId21sTEFVNTFCdFc4TzdMcWloQ0ZqMEFzdDZvMWtEa1c1RjFxWmRmb0NlVWlqX2RNVHliMlhkRTdmTFFUZ3otdGZzLVhkYUpYRlNQRko3ZUtka0twbWFNME9YZEpud2tl?oc=5",
-          "source": "gnews"
+          "title": "Happy Blender 5.2 LTS release day! Here is the plan of actions to celebrate:⬇️ Download Blender 5.2 LTS: https://www.blender.org/download/🎦 Watch the overview: https://youtu.be/g4OXlrxqIx0 📖 Read th",
+          "url": "https://mastodon.social/@Blender/116919208002120819",
+          "source": "mastodon"
         },
         {
-          "title": "IBM warns AI boom is squeezing software budgets, triggers sector rout",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQclJQc3hYeEdqZlFwS2ZIakg0SVAtdnZfRUwwT1NwLXRTaDY4NmFrNzBxY1F4T1RCNEwzN2V1ZkhId21sTEFVNTFCdFc4TzdMcWloQ0ZqMEFzdDZvMWtEa1c1RjFxWmRmb0NlVWlqX2RNVHliMlhkRTdmTFFUZ3otdGZzLVhkYUpYRlNQRko3ZUtka0twbWFNME9YZEpud2tl?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "IBM warns AI boom is squeezing software budgets; shares sink in sector rout",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWVlTRXBpazdNZ0M1bWhlX1UtSTNNYU9hbmxiLUhtcHE2M3hLMHlrc2s4bkwwS1RqbkJaLWExWHQ3bVZzQ3REVXBfa2Q3MHJqYUdXZ2d1dHEwVEQ3UEhsSU5Gckk4YnR2bzRvOXEzRGFHY3NERjlLQ3VNTTgxNGN5c3NCbFRkX3Z0YklpYndWV0ZoV3JsQ0NyUTBRQQ?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "IBM warns AI boom is squeezing software budgets; shares sink in sector rout",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWVlTRXBpazdNZ0M1bWhlX1UtSTNNYU9hbmxiLUhtcHE2M3hLMHlrc2s4bkwwS1RqbkJaLWExWHQ3bVZzQ3REVXBfa2Q3MHJqYUdXZ2d1dHEwVEQ3UEhsSU5Gckk4YnR2bzRvOXEzRGFHY3NERjlLQ3VNTTgxNGN5c3NCbFRkX3Z0YklpYndWV0ZoV3JsQ0NyUTBRQQ?oc=5",
-          "source": "gnews"
+          "title": "Happy Blender 5.2 LTS release day! Here is the plan of actions to celebrate:⬇️ Download Blender 5.2 LTS: https://www.blender.org/download/🎦 Watch the overview: https://youtu.be/g4OXlrxqIx0 📖 Read th",
+          "url": "https://mastodon.social/@Blender/116919208002120819",
+          "source": "mastodon"
         }
       ],
-      "id": "924be4a773dd",
-      "slug": "ibm-warns",
+      "id": "596bd4d70f7d",
+      "slug": "happy-blender",
+      "opportunity": {
+        "type": "affiliate",
+        "recommended": "Write SEO comparison/roundup article with affiliate links."
+      }
+    },
+    {
+      "keyword": "download blender",
+      "count": 8,
+      "score": 73.82776477564548,
+      "proper": true,
+      "niches": [
+        "software"
+      ],
+      "examples": [
+        {
+          "title": "Happy Blender 5.2 LTS release day! Here is the plan of actions to celebrate:⬇️ Download Blender 5.2 LTS: https://www.blender.org/download/🎦 Watch the overview: https://youtu.be/g4OXlrxqIx0 📖 Read th",
+          "url": "https://mastodon.social/@Blender/116919208002120819",
+          "source": "mastodon"
+        },
+        {
+          "title": "Happy Blender 5.2 LTS release day! Here is the plan of actions to celebrate:⬇️ Download Blender 5.2 LTS: https://www.blender.org/download/🎦 Watch the overview: https://youtu.be/g4OXlrxqIx0 📖 Read th",
+          "url": "https://mastodon.social/@Blender/116919208002120819",
+          "source": "mastodon"
+        }
+      ],
+      "id": "154d376d6063",
+      "slug": "download-blender",
       "opportunity": {
         "type": "niche-content",
-        "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
+        "recommended": "Publish niche guide for \"software\"; bundle into digital product later."
       }
     }
   ]

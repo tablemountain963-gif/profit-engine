@@ -1,6 +1,27 @@
 {
   "items": [
     {
+      "slug": "warns-boom-2026-07-14",
+      "topic": "Warns Boom",
+      "date": "2026-07-14",
+      "niche": "ai",
+      "file": "social/warns-boom-2026-07-14.md"
+    },
+    {
+      "slug": "ibm-warns-2026-07-14",
+      "topic": "Ibm Warns",
+      "date": "2026-07-14",
+      "niche": "ai",
+      "file": "social/ibm-warns-2026-07-14.md"
+    },
+    {
+      "slug": "claude-code-2026-07-14",
+      "topic": "Claude Code",
+      "date": "2026-07-14",
+      "niche": "ai",
+      "file": "social/claude-code-2026-07-14.md"
+    },
+    {
       "slug": "chrome-devtools-protocol-2026-07-14",
       "topic": "Chrome Devtools Protocol",
       "date": "2026-07-14",
@@ -1378,27 +1399,6 @@
       "date": "2026-06-22",
       "niche": "finance",
       "file": "social/income-blank-2026-06-22.md"
-    },
-    {
-      "slug": "lossless-scaling-2026-06-22",
-      "topic": "Lossless Scaling",
-      "date": "2026-06-22",
-      "niche": "software",
-      "file": "social/lossless-scaling-2026-06-22.md"
-    },
-    {
-      "slug": "boris-johnson-2026-06-22",
-      "topic": "Boris Johnson",
-      "date": "2026-06-22",
-      "niche": "software",
-      "file": "social/boris-johnson-2026-06-22.md"
-    },
-    {
-      "slug": "sovereign-ai-2026-06-22",
-      "topic": "Sovereign Ai",
-      "date": "2026-06-22",
-      "niche": "ai",
-      "file": "social/sovereign-ai-2026-06-22.md"
     }
   ]
 }

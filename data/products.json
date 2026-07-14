@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "slug": "prompt-pack-jurassic-park-2026-07-14",
+      "title": "Jurassic Park Prompt Pack — 50 Battle-Tested Prompts",
+      "blurb": "50 proven prompts for Jurassic Park. Copy/paste ready. Tested across Claude, GPT, Gemini.",
+      "type": "prompt-pack",
+      "topic": "Jurassic Park",
+      "niche": "ai",
+      "price": 19,
+      "generatedAt": "2026-07-14T17:03:26.174Z",
+      "files": [
+        "prompts.md",
+        "README.md",
+        "LICENSE.txt"
+      ]
+    },
+    {
+      "slug": "mini-ebook-medical-gadgets-2026-07-14",
+      "title": "Medical Gadgets: A 30-Minute Field Guide",
+      "blurb": "Read it in 30 minutes. Apply it forever. Field guide to Medical Gadgets.",
+      "type": "mini-ebook",
+      "topic": "Medical Gadgets",
+      "niche": "gear",
+      "price": 14,
+      "generatedAt": "2026-07-14T17:03:15.557Z",
+      "files": [
+        "ebook.md",
+        "README.md",
+        "LICENSE.txt"
+      ]
+    },
+    {
       "slug": "prompt-pack-marco-rubio-2026-07-14",
       "title": "Marco Rubio Prompt Pack — 50 Battle-Tested Prompts",
       "blurb": "50 proven prompts for Marco Rubio. Copy/paste ready. Tested across Claude, GPT, Gemini.",
@@ -3004,36 +3034,6 @@
       "niche": "ai",
       "price": 19,
       "generatedAt": "2026-06-08T16:48:00.468Z",
-      "files": [
-        "prompts.md",
-        "README.md",
-        "LICENSE.txt"
-      ]
-    },
-    {
-      "slug": "mini-ebook-smart-gadgets-2026-06-08",
-      "title": "Smart Gadgets: A 30-Minute Field Guide",
-      "blurb": "Read it in 30 minutes. Apply it forever. Field guide to Smart Gadgets.",
-      "type": "mini-ebook",
-      "topic": "Smart Gadgets",
-      "niche": "gear",
-      "price": 14,
-      "generatedAt": "2026-06-08T16:47:48.218Z",
-      "files": [
-        "ebook.md",
-        "README.md",
-        "LICENSE.txt"
-      ]
-    },
-    {
-      "slug": "prompt-pack-loch-shieldaig-2026-06-08",
-      "title": "Loch Shieldaig Prompt Pack — 50 Battle-Tested Prompts",
-      "blurb": "50 proven prompts for Loch Shieldaig. Copy/paste ready. Tested across Claude, GPT, Gemini.",
-      "type": "prompt-pack",
-      "topic": "Loch Shieldaig",
-      "niche": "ai",
-      "price": 19,
-      "generatedAt": "2026-06-08T05:28:45.470Z",
       "files": [
         "prompts.md",
         "README.md",
