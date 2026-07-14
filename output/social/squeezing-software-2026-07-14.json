@@ -1,0 +1,26 @@
+{
+  "topic": "Squeezing Software",
+  "provider": "groq",
+  "generatedAt": "2026-07-14T21:44:46.932Z",
+  "pack": {
+    "twitter_thread": [
+      "IBM says 60% of software budgets are being squeezed by AI. For a $1M budget, that's $600k gone.",
+      "Training a single AI model can cost $100k-$300k. Use GPUs with >10 TFLOPS to cut costs.",
+      "Data labeling costs $15/hour on average. For 10,000 hours, that's $150,000.",
+      "Active learning can reduce labeling costs by 30%. But it requires 2x more engineer time.",
+      "Hugging Face and TensorFlow can optimize AI models. But Hugging Face is 20% faster for NLP tasks.",
+      "Underestimating cloud deployment costs can add $50k/month. Use spot instances to cut costs.",
+      "What's your experience with AI budget squeeze? #ai #software"
+    ],
+    "linkedin": "The AI boom is squeezing software budgets by 60%, according to IBM. This means $600,000 gone from a $1 million budget. Companies are facing increased costs for model training, data labeling, and deployment, with training a single AI model costing between $100,000 and $300,000. To mitigate these costs, some are turning to active learning, which can reduce labeling costs by 30%, and optimizing AI model performance with tools like Hugging Face and TensorFlow. However, the tradeoffs can be significant, such as requiring 2x more engineer time for active learning. What's your experience with managing AI costs in your organization?",
+    "tiktok_hooks": [
+      "AI just ate $600,000 of your budget",
+      "You're overspending on AI model training",
+      "What's your AI budget burner?"
+    ],
+    "reddit_headline": "Is the AI boom killing software innovation by squeezing 60% of budgets?"
+  },
+  "niche": "ai",
+  "slug": "squeezing-software-2026-07-14",
+  "date": "2026-07-14"
+}

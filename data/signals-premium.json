@@ -1,148 +1,115 @@
 {
-  "generatedAt": "2026-07-14T17:03:04.121Z",
-  "sourceCount": 205,
+  "generatedAt": "2026-07-14T21:43:46.043Z",
+  "sourceCount": 204,
   "topItems": [
     {
       "title": "How to stop Claude from saying load-bearing",
       "url": "https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing",
-      "score": 11.56,
+      "score": 10.26,
       "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 147,
-        "comments": 227
+        "score": 362,
+        "comments": 424
       }
     },
     {
-      "title": "Codex starts encrypting sub-agent prompts",
-      "url": "https://github.com/openai/codex/issues/28058",
-      "score": 10.77,
-      "niche": "ai",
-      "source": "hackernews",
-      "engagement": {
-        "score": 381,
-        "comments": 231
-      }
-    },
-    {
-      "title": "It is bizarre that people still fall for, \"If you raise taxes the billionaires will just leave\"As if the world cannot exist without them. They only bring revenue, by literally not paying people what t",
-      "url": "https://beige.party/@RickiTarr/116918286228168962",
-      "score": 9.79,
+      "title": "This — THIS — what Berlatsky said, read it, read the whole thingandthe ICE murders are •supposed•&nbsp;to provoke a violent backlash from the population that will be a pretext for full domestic milita",
+      "url": "https://hachyderm.io/@inthehands/116919731083092893",
+      "score": 8.84,
       "niche": "ai",
       "source": "mastodon",
       "engagement": {
-        "score": 1044,
-        "comments": 50
+        "score": 238,
+        "comments": 7
       }
     },
     {
-      "title": "Australian energy retailers must provide three hours of free daytime electricity",
+      "title": "Australian energy retailers must offer three hours of free daytime electricity",
       "url": "https://lenergy.com.au/free-daytime-electricity-is-coming-heres-how-it-actually-works/",
-      "score": 9.71,
+      "score": 8.73,
       "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 218,
-        "comments": 303
+        "score": 257,
+        "comments": 333
       }
     },
     {
-      "title": "Are we offloading too much of our thinking to AI?",
-      "url": "https://www.artfish.ai/p/offloading-thinking-to-ai",
-      "score": 8.35,
+      "title": "Bonsai 27B: A 27B-Class model that runs on a phone",
+      "url": "https://prismml.com/news/bonsai-27b",
+      "score": 8.33,
       "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 151,
-        "comments": 127
+        "score": 239,
+        "comments": 81
       }
     },
     {
-      "title": "Meta used AI to target ⁠people with ​disabilities or who ​took ⁠medical leave for mass layoffs. https://www.usnews.com/news/top-news/articles/2026-07-14/meta-used-ai-to-target-workers-with-medical-con",
-      "url": "https://mastodon.social/@taylorlorenz/116918957669218257",
-      "score": 7.96,
+      "title": "Demis Hassabis has a plan to harness AI safely",
+      "url": "https://twitter.com/demishassabis/status/2076957440109625718",
+      "score": 7.76,
       "niche": "ai",
-      "source": "mastodon",
+      "source": "hackernews",
       "engagement": {
-        "score": 139,
-        "comments": 3
-      }
-    },
-    {
-      "title": "#Climatechange",
-      "url": "https://aus.social/@MrLee/116918182120085281",
-      "score": 7.53,
-      "niche": "software",
-      "source": "mastodon",
-      "engagement": {
-        "score": 467,
-        "comments": 10
-      }
-    },
-    {
-      "title": "Hey professional #astrodon folks!A pretty unique chance to become my colleague at #ESA - working as a project scientist on our newly adopted galactic archaeology mission Arrakihs:Job details: https://",
-      "url": "https://mastodon.social/@vicgrinberg/116919184580667254",
-      "score": 7.14,
-      "niche": "ai",
-      "source": "mastodon",
-      "engagement": {
-        "score": 78,
-        "comments": 4
+        "score": 122,
+        "comments": 154
       }
     },
     {
       "title": "European \"age verification\" \"app\" forcing everyone to use Android or iOS",
       "url": "https://github.com/eu-digital-identity-wallet/av-doc-technical-specification/discussions/19",
-      "score": 7.04,
+      "score": 7.72,
       "niche": "software",
       "source": "hackernews",
       "engagement": {
-        "score": 242,
-        "comments": 149
+        "score": 428,
+        "comments": 284
       }
     },
     {
-      "title": "Indian scientists produce most detailed 3D atlas of the human brainstem",
-      "url": "https://www.bbc.com/news/articles/cg53l737v1qo",
-      "score": 6.75,
+      "title": "Are we offloading too much of our thinking to AI?",
+      "url": "https://www.artfish.ai/p/offloading-thinking-to-ai",
+      "score": 7.62,
       "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 157,
-        "comments": 19
+        "score": 317,
+        "comments": 315
       }
     },
     {
-      "title": "Best AI Tools for Small Businesses in 2026: A Complete Guide to Working Smarter",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPM1loU1c2RFhfdHhqOVJrNjRQWk5hc1dnWm5lNk9mWHpEMlJXVTZMMVEzV2ZaNTFuQjhOVjdmdDh2ZENiX3VISUtZbTRhT3AzU1pvY3ExeC1ST3J2TG9nQk55WE5sUjMtR3A4aXpoMnRTYzZwd1FvVGN2WVYteE5nS05fc3BNSFpZbmZhM1NpUHA2TjItY0Z5enFvUDVlZzZuMlBpM09XdTU?oc=5",
-      "score": 6.61,
-      "niche": "ai",
-      "source": "gnews",
+      "title": "I don't know, but I don't need to know. They are happy so...#sillyScribbles #featherFolk",
+      "url": "https://things.uk/@eclectech/116919965211877303",
+      "score": 7.48,
+      "niche": "software",
+      "source": "mastodon",
       "engagement": {
-        "score": 40,
-        "comments": 0
+        "score": 203,
+        "comments": 3
       }
     },
     {
-      "title": "6 Best AI Visibility Tools for Marketing Agencies",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1nVm9Na1pXM1BRbHNtZGtJd1BYMi1XNy1TclJlaS1nSzIxNWdiYVhtXzhQLUVwLXRhNms3M0lHLWo5NENBMExUSXlsanEtSm5OVU55THFZU3RmN2ZQdjJhd05sdUFKbkFRandFdm5CUQ?oc=5",
-      "score": 6.61,
+      "title": "\"rejecting AI is like rejecting the automobile\" yeah i know lol",
+      "url": "https://friend.camp/@aparrish/116919572023782105",
+      "score": 7.32,
       "niche": "ai",
-      "source": "gnews",
+      "source": "mastodon",
       "engagement": {
-        "score": 40,
-        "comments": 0
+        "score": 147,
+        "comments": 23
       }
     },
     {
-      "title": "Show HN: I RL-trained an agent that trains models with RL (for –$1.3k)",
-      "url": "https://github.com/Danau5tin/ai-trains-ai",
-      "score": 6.59,
-      "niche": "ai",
-      "source": "hackernews",
+      "title": "This Certo report on how abusers are using Chrome sync for stalking is an important reminder that tech-enabled abuse isn't just limited to stalkerware: https://www.certosoftware.com/insights/cyberstal",
+      "url": "https://hachyderm.io/@evacide/116919527093322234",
+      "score": 6.57,
+      "niche": "software",
+      "source": "mastodon",
       "engagement": {
-        "score": 64,
-        "comments": 25
+        "score": 213,
+        "comments": 4
       }
     },
     {
@@ -157,29 +124,29 @@
       }
     },
     {
-      "title": "New York is the first state to impose a data center moratoriumNew York’s data center moratorium may become the blueprint for anti-AI movement.https://arstechnica.com/tech-policy/2026/07/new-york-is-th",
-      "url": "https://mastodon.social/@arstechnica/116918955069981761",
-      "score": 6.41,
-      "niche": "ai",
+      "title": "Hey Windows (ab)users, Microsoft has a big present for you: Today they released software updates to plug at least 570 security holes in their Windows operating systems and other software, almost tripl",
+      "url": "https://infosec.exchange/@briankrebs/116919980606308886",
+      "score": 6.31,
+      "niche": "software",
       "source": "mastodon",
       "engagement": {
-        "score": 100,
+        "score": 157,
+        "comments": 11
+      }
+    },
+    {
+      "title": "Solving.AI wants AI to teach you how to use work software (properly)",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQYzdjcVUtcHh1UmtNWGF6aEE4eGdKNFZVWm1JNlFUOUhHLUtUVEkxU3lZS2J1c3lxWUREQ01ZVk9ieF9vZUJLTTk1aGJvRFBKalZUTUFvaWJKYXlxZXA3SlN4NV9YRWNQSy1HVXdPT0hJb204VGVjeExSME5uT1VOMFNoNElSZ2JuTGRmeDAxVEg?oc=5",
+      "score": 5.99,
+      "niche": "ai",
+      "source": "gnews",
+      "engagement": {
+        "score": 40,
         "comments": 0
       }
     },
     {
-      "title": "Happy Blender 5.2 LTS release day! Here is the plan of actions to celebrate:⬇️ Download Blender 5.2 LTS: https://www.blender.org/download/🎦 Watch the overview: https://youtu.be/g4OXlrxqIx0 📖 Read th",
-      "url": "https://mastodon.social/@Blender/116919208002120819",
-      "score": 6.15,
-      "niche": "software",
-      "source": "mastodon",
-      "engagement": {
-        "score": 46,
-        "comments": 1
-      }
-    },
-    {
-      "title": "IBM warns AI boom is squeezing software budgets; shares sink in sector rout",
+      "title": "IBM warns AI boom squeezing software budgets; shares sink in sector rout",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWVlTRXBpazdNZ0M1bWhlX1UtSTNNYU9hbmxiLUhtcHE2M3hLMHlrc2s4bkwwS1RqbkJaLWExWHQ3bVZzQ3REVXBfa2Q3MHJqYUdXZ2d1dHEwVEQ3UEhsSU5Gckk4YnR2bzRvOXEzRGFHY3NERjlLQ3VNTTgxNGN5c3NCbFRkX3Z0YklpYndWV0ZoV3JsQ0NyUTBRQQ?oc=5",
       "score": 5.94,
       "niche": "ai",
@@ -190,10 +157,21 @@
       }
     },
     {
-      "title": "IBM warns AI boom is squeezing software budgets, triggers sector rout",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQclJQc3hYeEdqZlFwS2ZIakg0SVAtdnZfRUwwT1NwLXRTaDY4NmFrNzBxY1F4T1RCNEwzN2V1ZkhId21sTEFVNTFCdFc4TzdMcWloQ0ZqMEFzdDZvMWtEa1c1RjFxWmRmb0NlVWlqX2RNVHliMlhkRTdmTFFUZ3otdGZzLVhkYUpYRlNQRko3ZUtka0twbWFNME9YZEpud2tl?oc=5",
-      "score": 5.94,
+      "title": "Launch HN: Agnost AI (YC S26) – Extract user feedback from agent conversations",
+      "url": "https://agnost.ai",
+      "score": 5.9,
       "niche": "ai",
+      "source": "hackernews",
+      "engagement": {
+        "score": 33,
+        "comments": 18
+      }
+    },
+    {
+      "title": "8BitDo’s Nintendo-themed desk gear is the ultimate retro home office upgrade",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTS1pR01fV1llVUJJbGVkdlBLcV9ZeG52NlVmZV9ETndkbzN3RlA4cEZTRGxMdy16dVFhaTljalloQnJuQkFRTGc4QjJpVWtDRmE3NjlxRFItcWZPMXdOR1JqNmVsZ2VaeGZNXzBnNy03akwwdHh1QXctQjdSazY3Y2xpblhVeDBkb2w5RjVHazE2aTZlSkRiVzBseVhwV3djY3dIVVRhTk4?oc=5",
+      "score": 5.87,
+      "niche": "gear",
       "source": "gnews",
       "engagement": {
         "score": 40,
@@ -201,36 +179,36 @@
       }
     },
     {
-      "title": "IBM Shares Plunge as Software Deals Take Back Seat in AI Race",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQaERpaU9mOTNIQU5sY25aSGYwRFhLb1ZsMjVRY2l3enFlX1lwVENaYnJicEpna0dIcGRHTVlLMFFQdVVtekt5UGlHM2NXdUhDY1g2MzIxSXZqMThwOHhoWDZNUlpKY1lET0F0REFIU1kyMktQbEd6YjRqQ2U0NlhIV1lWRUlvQVhrWUxJSkR6OUM4T0J1SmxwM001M1FZZW9CSmwtMlRKak9CVTY2eE9EazJGLUF0VU5zem1sag?oc=5",
-      "score": 5.94,
-      "niche": "ai",
-      "source": "gnews",
+      "title": "QuantumByteOSS/quantumbyte — Open-source app builder engine — intent to working app",
+      "url": "https://github.com/QuantumByteOSS/quantumbyte",
+      "score": 5.72,
+      "niche": "software",
+      "source": "github",
       "engagement": {
-        "score": 40,
+        "score": 165,
         "comments": 0
-      }
-    },
-    {
-      "title": "Hating AI in 2026",
-      "url": "https://www.eamoncaddigan.net/posts/ai-in-2026/",
-      "score": 5.74,
-      "niche": "ai",
-      "source": "lobsters",
-      "engagement": {
-        "score": 27,
-        "comments": 17
       }
     },
     {
       "title": "littledivy/mimic — Intercept any app, then call it from Python like a library",
       "url": "https://github.com/littledivy/mimic",
-      "score": 5.69,
+      "score": 5.71,
       "niche": "software",
       "source": "github",
       "engagement": {
-        "score": 878,
+        "score": 902,
         "comments": 1
+      }
+    },
+    {
+      "title": "Show HN: I RL-trained an agent that trains models with RL (for ~$1.3k)",
+      "url": "https://github.com/Danau5tin/ai-trains-ai",
+      "score": 5.7,
+      "niche": "ai",
+      "source": "hackernews",
+      "engagement": {
+        "score": 90,
+        "comments": 39
       }
     },
     {
@@ -240,41 +218,63 @@
       "niche": "ai",
       "source": "github",
       "engagement": {
-        "score": 800,
+        "score": 801,
         "comments": 8
-      }
-    },
-    {
-      "title": "Extraltodeus/J-Wash — Jacobian-Brainwash : A framework built on Anthropic's Jacobian Lens for analyzing and customizing LLM internal representations with exportable results.",
-      "url": "https://github.com/Extraltodeus/J-Wash",
-      "score": 5.39,
-      "niche": "ai",
-      "source": "github",
-      "engagement": {
-        "score": 124,
-        "comments": 1
       }
     },
     {
       "title": "Kappaemme-git/codex-first-customer-finder-skill — A Codex skill that finds evidence-backed potential first customers from recent public signals.",
       "url": "https://github.com/Kappaemme-git/codex-first-customer-finder-skill",
-      "score": 5.22,
+      "score": 5.34,
       "niche": "software",
       "source": "github",
       "engagement": {
-        "score": 501,
+        "score": 576,
         "comments": 2
       }
     },
     {
-      "title": "marcelpanse/youtube-guitar-tab-parser — CLI that turns a YouTube guitar-lesson video into a PDF of the guitar tab.",
-      "url": "https://github.com/marcelpanse/youtube-guitar-tab-parser",
-      "score": 4.89,
-      "niche": "software",
-      "source": "github",
+      "title": "whatcable: macOS menu bar app that tells you, in plain English, what each USB-C cable plugged into your Mac can actually do",
+      "url": "https://github.com/darrylmorley/whatcable",
+      "score": 5.33,
+      "niche": "ai",
+      "source": "lobsters",
       "engagement": {
-        "score": 140,
-        "comments": 6
+        "score": 19,
+        "comments": 4
+      }
+    },
+    {
+      "title": "Prices for computer software jumped a record amount over the past year",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdDFxZDB3YS1KdnN6ckp1a1Fyc2VxQmNhejM3Vk9LcnRnUFc2TXVSTXVubDRkTjRSNWUxT1F0aGVOSmF6NXVnVEJlanNWOHFabVNqQ0UyTXl6RkttVjlQcndNWFZramw1MTNPSUVxTk5MVS1zSlRIbk1oR3pNQXFnZmpaNF9RMk5CTmZHZmd1RzhTR1ZvUmlhRndaVVZMcTd1cmdVR21CMGFVUkJLQUxfcWl2elNUcG1BTGF6THRmNko?oc=5",
+      "score": 5.19,
+      "niche": "software",
+      "source": "gnews",
+      "engagement": {
+        "score": 40,
+        "comments": 0
+      }
+    },
+    {
+      "title": "Caution warranted on this red hot AI cloud data stock that's now 'priced for perfection,' says Todd Gordon",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQ2RvWFB1aFFieDJzS1ZCSU9WdGNiZUQ2MVNValplYnhzejducmx1OVpDeDZqQTZMLTRRSXB3aC11X0tMQ0pSaTJMZElSMlA0ZWVaZXF5VHhtcV9aUDBpX002T29NOG9WeFdHaXRVeFFTUjJoWGZSbkJEc01oSUc0VWFWRkZnMGhXOXBGOGp5bUs5RWVrbU1OZXF2OTB2UHAzdUNUMmhKQURpTWM?oc=5",
+      "score": 5.16,
+      "niche": "ai",
+      "source": "gnews",
+      "engagement": {
+        "score": 40,
+        "comments": 0
+      }
+    },
+    {
+      "title": "Employees sue Meta, alleging discrimination in using AI to make layoffs",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE04VnktaEt1RXM4RlZLRDMyRUNZdV96M2RiY0s0cnhxakJJejhJb0hTUDg5bU9weDdpMGl5VE9QOFpvWnNUUGVkS3V1UWtTQ3hPbWUwWTNyeXhoUE1DaVNkU21LSmdJdmliWnh1LdIBckFVX3lxTE9nUzhfX0VGSFREZC1mbGl1WEtHNjlOTXoxYVJaQ1NjaExtdFgwZTJMQ1JIa0lTU1RER3U2NHZRUzU3aGFYNzh1QjBabWNvM2FOeEV1UGZ6ZWZBSUtzdlk2QjhJdUk3QjlCMU80N0hiemV3QQ?oc=5",
+      "score": 5.16,
+      "niche": "ai",
+      "source": "gnews",
+      "engagement": {
+        "score": 40,
+        "comments": 0
       }
     }
   ],
@@ -282,7 +282,7 @@
     {
       "keyword": "claude",
       "count": 8,
-      "score": 118.46931148032749,
+      "score": 106.76301904571885,
       "proper": true,
       "niches": [
         "ai"
@@ -313,60 +313,27 @@
       "slug": "claude"
     },
     {
-      "keyword": "complete guide",
-      "count": 11,
-      "score": 108.99838417254662,
+      "keyword": "demis hassabis",
+      "count": 8,
+      "score": 93.0708130002383,
       "proper": true,
       "niches": [
         "ai"
       ],
       "examples": [
         {
-          "title": "Best AI Tools for Small Businesses in 2026: A Complete Guide to Working Smarter",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPM1loU1c2RFhfdHhqOVJrNjRQWk5hc1dnWm5lNk9mWHpEMlJXVTZMMVEzV2ZaNTFuQjhOVjdmdDh2ZENiX3VISUtZbTRhT3AzU1pvY3ExeC1ST3J2TG9nQk55WE5sUjMtR3A4aXpoMnRTYzZwd1FvVGN2WVYteE5nS05fc3BNSFpZbmZhM1NpUHA2TjItY0Z5enFvUDVlZzZuMlBpM09XdTU?oc=5",
-          "source": "gnews"
+          "title": "Demis Hassabis has a plan to harness AI safely",
+          "url": "https://twitter.com/demishassabis/status/2076957440109625718",
+          "source": "hackernews"
         },
         {
-          "title": "Best AI Tools for Small Businesses in 2026: A Complete Guide to Working Smarter",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPM1loU1c2RFhfdHhqOVJrNjRQWk5hc1dnWm5lNk9mWHpEMlJXVTZMMVEzV2ZaNTFuQjhOVjdmdDh2ZENiX3VISUtZbTRhT3AzU1pvY3ExeC1ST3J2TG9nQk55WE5sUjMtR3A4aXpoMnRTYzZwd1FvVGN2WVYteE5nS05fc3BNSFpZbmZhM1NpUHA2TjItY0Z5enFvUDVlZzZuMlBpM09XdTU?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Best AI Tools for Small Businesses in 2026: A Complete Guide to Working Smarter",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPM1loU1c2RFhfdHhqOVJrNjRQWk5hc1dnWm5lNk9mWHpEMlJXVTZMMVEzV2ZaNTFuQjhOVjdmdDh2ZENiX3VISUtZbTRhT3AzU1pvY3ExeC1ST3J2TG9nQk55WE5sUjMtR3A4aXpoMnRTYzZwd1FvVGN2WVYteE5nS05fc3BNSFpZbmZhM1NpUHA2TjItY0Z5enFvUDVlZzZuMlBpM09XdTU?oc=5",
-          "source": "gnews"
+          "title": "Demis Hassabis has a plan to harness AI safely",
+          "url": "https://twitter.com/demishassabis/status/2076957440109625718",
+          "source": "hackernews"
         }
       ],
-      "id": "a9cf9ea38be8",
-      "slug": "complete-guide"
-    },
-    {
-      "keyword": "marketing agencies",
-      "count": 11,
-      "score": 108.99838417254662,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "6 Best AI Visibility Tools for Marketing Agencies",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1nVm9Na1pXM1BRbHNtZGtJd1BYMi1XNy1TclJlaS1nSzIxNWdiYVhtXzhQLUVwLXRhNms3M0lHLWo5NENBMExUSXlsanEtSm5OVU55THFZU3RmN2ZQdjJhd05sdUFKbkFRandFdm5CUQ?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "6 Best AI Visibility Tools for Marketing Agencies",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1nVm9Na1pXM1BRbHNtZGtJd1BYMi1XNy1TclJlaS1nSzIxNWdiYVhtXzhQLUVwLXRhNms3M0lHLWo5NENBMExUSXlsanEtSm5OVU55THFZU3RmN2ZQdjJhd05sdUFKbkFRandFdm5CUQ?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "6 Best AI Visibility Tools for Marketing Agencies",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1nVm9Na1pXM1BRbHNtZGtJd1BYMi1XNy1TclJlaS1nSzIxNWdiYVhtXzhQLUVwLXRhNms3M0lHLWo5NENBMExUSXlsanEtSm5OVU55THFZU3RmN2ZQdjJhd05sdUFKbkFRandFdm5CUQ?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "68115a971b9a",
-      "slug": "marketing-agencies"
+      "id": "765cc641dc29",
+      "slug": "demis-hassabis"
     },
     {
       "keyword": "tradingview mcp",
@@ -438,248 +405,43 @@
       "slug": "claude-code"
     },
     {
-      "keyword": "happy blender",
-      "count": 8,
-      "score": 73.82776477564548,
-      "proper": true,
+      "keyword": "software",
+      "count": 14,
+      "score": 75.23137502009175,
+      "proper": false,
       "niches": [
-        "software"
+        "software",
+        "ai"
       ],
       "examples": [
         {
-          "title": "Happy Blender 5.2 LTS release day! Here is the plan of actions to celebrate:⬇️ Download Blender 5.2 LTS: https://www.blender.org/download/🎦 Watch the overview: https://youtu.be/g4OXlrxqIx0 📖 Read th",
-          "url": "https://mastodon.social/@Blender/116919208002120819",
+          "title": "Hey Windows (ab)users, Microsoft has a big present for you: Today they released software updates to plug at least 570 security holes in their Windows operating systems and other software, almost tripl",
+          "url": "https://infosec.exchange/@briankrebs/116919980606308886",
           "source": "mastodon"
         },
         {
-          "title": "Happy Blender 5.2 LTS release day! Here is the plan of actions to celebrate:⬇️ Download Blender 5.2 LTS: https://www.blender.org/download/🎦 Watch the overview: https://youtu.be/g4OXlrxqIx0 📖 Read th",
-          "url": "https://mastodon.social/@Blender/116919208002120819",
-          "source": "mastodon"
-        }
-      ],
-      "id": "596bd4d70f7d",
-      "slug": "happy-blender"
-    },
-    {
-      "keyword": "download blender",
-      "count": 8,
-      "score": 73.82776477564548,
-      "proper": true,
-      "niches": [
-        "software"
-      ],
-      "examples": [
-        {
-          "title": "Happy Blender 5.2 LTS release day! Here is the plan of actions to celebrate:⬇️ Download Blender 5.2 LTS: https://www.blender.org/download/🎦 Watch the overview: https://youtu.be/g4OXlrxqIx0 📖 Read th",
-          "url": "https://mastodon.social/@Blender/116919208002120819",
+          "title": "Hey Windows (ab)users, Microsoft has a big present for you: Today they released software updates to plug at least 570 security holes in their Windows operating systems and other software, almost tripl",
+          "url": "https://infosec.exchange/@briankrebs/116919980606308886",
           "source": "mastodon"
         },
         {
-          "title": "Happy Blender 5.2 LTS release day! Here is the plan of actions to celebrate:⬇️ Download Blender 5.2 LTS: https://www.blender.org/download/🎦 Watch the overview: https://youtu.be/g4OXlrxqIx0 📖 Read th",
-          "url": "https://mastodon.social/@Blender/116919208002120819",
-          "source": "mastodon"
-        }
-      ],
-      "id": "154d376d6063",
-      "slug": "download-blender"
-    },
-    {
-      "keyword": "ibm warns",
-      "count": 12,
-      "score": 71.22053511274352,
-      "proper": false,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
+          "title": "Solving.AI wants AI to teach you how to use work software (properly)",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQYzdjcVUtcHh1UmtNWGF6aEE4eGdKNFZVWm1JNlFUOUhHLUtUVEkxU3lZS2J1c3lxWUREQ01ZVk9ieF9vZUJLTTk1aGJvRFBKalZUTUFvaWJKYXlxZXA3SlN4NV9YRWNQSy1HVXdPT0hJb204VGVjeExSME5uT1VOMFNoNElSZ2JuTGRmeDAxVEg?oc=5",
+          "source": "gnews"
+        },
         {
-          "title": "IBM warns AI boom is squeezing software budgets; shares sink in sector rout",
+          "title": "Solving.AI wants AI to teach you how to use work software (properly)",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQYzdjcVUtcHh1UmtNWGF6aEE4eGdKNFZVWm1JNlFUOUhHLUtUVEkxU3lZS2J1c3lxWUREQ01ZVk9ieF9vZUJLTTk1aGJvRFBKalZUTUFvaWJKYXlxZXA3SlN4NV9YRWNQSy1HVXdPT0hJb204VGVjeExSME5uT1VOMFNoNElSZ2JuTGRmeDAxVEg?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "IBM warns AI boom squeezing software budgets; shares sink in sector rout",
           "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWVlTRXBpazdNZ0M1bWhlX1UtSTNNYU9hbmxiLUhtcHE2M3hLMHlrc2s4bkwwS1RqbkJaLWExWHQ3bVZzQ3REVXBfa2Q3MHJqYUdXZ2d1dHEwVEQ3UEhsSU5Gckk4YnR2bzRvOXEzRGFHY3NERjlLQ3VNTTgxNGN5c3NCbFRkX3Z0YklpYndWV0ZoV3JsQ0NyUTBRQQ?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "IBM warns AI boom is squeezing software budgets; shares sink in sector rout",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWVlTRXBpazdNZ0M1bWhlX1UtSTNNYU9hbmxiLUhtcHE2M3hLMHlrc2s4bkwwS1RqbkJaLWExWHQ3bVZzQ3REVXBfa2Q3MHJqYUdXZ2d1dHEwVEQ3UEhsSU5Gckk4YnR2bzRvOXEzRGFHY3NERjlLQ3VNTTgxNGN5c3NCbFRkX3Z0YklpYndWV0ZoV3JsQ0NyUTBRQQ?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "IBM warns AI boom is squeezing software budgets, triggers sector rout",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQclJQc3hYeEdqZlFwS2ZIakg0SVAtdnZfRUwwT1NwLXRTaDY4NmFrNzBxY1F4T1RCNEwzN2V1ZkhId21sTEFVNTFCdFc4TzdMcWloQ0ZqMEFzdDZvMWtEa1c1RjFxWmRmb0NlVWlqX2RNVHliMlhkRTdmTFFUZ3otdGZzLVhkYUpYRlNQRko3ZUtka0twbWFNME9YZEpud2tl?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "IBM warns AI boom is squeezing software budgets, triggers sector rout",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQclJQc3hYeEdqZlFwS2ZIakg0SVAtdnZfRUwwT1NwLXRTaDY4NmFrNzBxY1F4T1RCNEwzN2V1ZkhId21sTEFVNTFCdFc4TzdMcWloQ0ZqMEFzdDZvMWtEa1c1RjFxWmRmb0NlVWlqX2RNVHliMlhkRTdmTFFUZ3otdGZzLVhkYUpYRlNQRko3ZUtka0twbWFNME9YZEpud2tl?oc=5",
           "source": "gnews"
         }
       ],
-      "id": "924be4a773dd",
-      "slug": "ibm-warns"
-    },
-    {
-      "keyword": "warns boom",
-      "count": 12,
-      "score": 71.22053511274352,
-      "proper": false,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "IBM warns AI boom is squeezing software budgets; shares sink in sector rout",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWVlTRXBpazdNZ0M1bWhlX1UtSTNNYU9hbmxiLUhtcHE2M3hLMHlrc2s4bkwwS1RqbkJaLWExWHQ3bVZzQ3REVXBfa2Q3MHJqYUdXZ2d1dHEwVEQ3UEhsSU5Gckk4YnR2bzRvOXEzRGFHY3NERjlLQ3VNTTgxNGN5c3NCbFRkX3Z0YklpYndWV0ZoV3JsQ0NyUTBRQQ?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "IBM warns AI boom is squeezing software budgets; shares sink in sector rout",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWVlTRXBpazdNZ0M1bWhlX1UtSTNNYU9hbmxiLUhtcHE2M3hLMHlrc2s4bkwwS1RqbkJaLWExWHQ3bVZzQ3REVXBfa2Q3MHJqYUdXZ2d1dHEwVEQ3UEhsSU5Gckk4YnR2bzRvOXEzRGFHY3NERjlLQ3VNTTgxNGN5c3NCbFRkX3Z0YklpYndWV0ZoV3JsQ0NyUTBRQQ?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "IBM warns AI boom is squeezing software budgets, triggers sector rout",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQclJQc3hYeEdqZlFwS2ZIakg0SVAtdnZfRUwwT1NwLXRTaDY4NmFrNzBxY1F4T1RCNEwzN2V1ZkhId21sTEFVNTFCdFc4TzdMcWloQ0ZqMEFzdDZvMWtEa1c1RjFxWmRmb0NlVWlqX2RNVHliMlhkRTdmTFFUZ3otdGZzLVhkYUpYRlNQRko3ZUtka0twbWFNME9YZEpud2tl?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "IBM warns AI boom is squeezing software budgets, triggers sector rout",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQclJQc3hYeEdqZlFwS2ZIakg0SVAtdnZfRUwwT1NwLXRTaDY4NmFrNzBxY1F4T1RCNEwzN2V1ZkhId21sTEFVNTFCdFc4TzdMcWloQ0ZqMEFzdDZvMWtEa1c1RjFxWmRmb0NlVWlqX2RNVHliMlhkRTdmTFFUZ3otdGZzLVhkYUpYRlNQRko3ZUtka0twbWFNME9YZEpud2tl?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "691731eab6c2",
-      "slug": "warns-boom"
-    },
-    {
-      "keyword": "boom squeezing",
-      "count": 12,
-      "score": 71.22053511274352,
-      "proper": false,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "IBM warns AI boom is squeezing software budgets; shares sink in sector rout",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWVlTRXBpazdNZ0M1bWhlX1UtSTNNYU9hbmxiLUhtcHE2M3hLMHlrc2s4bkwwS1RqbkJaLWExWHQ3bVZzQ3REVXBfa2Q3MHJqYUdXZ2d1dHEwVEQ3UEhsSU5Gckk4YnR2bzRvOXEzRGFHY3NERjlLQ3VNTTgxNGN5c3NCbFRkX3Z0YklpYndWV0ZoV3JsQ0NyUTBRQQ?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "IBM warns AI boom is squeezing software budgets; shares sink in sector rout",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWVlTRXBpazdNZ0M1bWhlX1UtSTNNYU9hbmxiLUhtcHE2M3hLMHlrc2s4bkwwS1RqbkJaLWExWHQ3bVZzQ3REVXBfa2Q3MHJqYUdXZ2d1dHEwVEQ3UEhsSU5Gckk4YnR2bzRvOXEzRGFHY3NERjlLQ3VNTTgxNGN5c3NCbFRkX3Z0YklpYndWV0ZoV3JsQ0NyUTBRQQ?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "IBM warns AI boom is squeezing software budgets, triggers sector rout",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQclJQc3hYeEdqZlFwS2ZIakg0SVAtdnZfRUwwT1NwLXRTaDY4NmFrNzBxY1F4T1RCNEwzN2V1ZkhId21sTEFVNTFCdFc4TzdMcWloQ0ZqMEFzdDZvMWtEa1c1RjFxWmRmb0NlVWlqX2RNVHliMlhkRTdmTFFUZ3otdGZzLVhkYUpYRlNQRko3ZUtka0twbWFNME9YZEpud2tl?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "IBM warns AI boom is squeezing software budgets, triggers sector rout",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQclJQc3hYeEdqZlFwS2ZIakg0SVAtdnZfRUwwT1NwLXRTaDY4NmFrNzBxY1F4T1RCNEwzN2V1ZkhId21sTEFVNTFCdFc4TzdMcWloQ0ZqMEFzdDZvMWtEa1c1RjFxWmRmb0NlVWlqX2RNVHliMlhkRTdmTFFUZ3otdGZzLVhkYUpYRlNQRko3ZUtka0twbWFNME9YZEpud2tl?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "cf624038fd60",
-      "slug": "boom-squeezing"
-    },
-    {
-      "keyword": "squeezing software",
-      "count": 12,
-      "score": 71.22053511274352,
-      "proper": false,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "IBM warns AI boom is squeezing software budgets; shares sink in sector rout",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWVlTRXBpazdNZ0M1bWhlX1UtSTNNYU9hbmxiLUhtcHE2M3hLMHlrc2s4bkwwS1RqbkJaLWExWHQ3bVZzQ3REVXBfa2Q3MHJqYUdXZ2d1dHEwVEQ3UEhsSU5Gckk4YnR2bzRvOXEzRGFHY3NERjlLQ3VNTTgxNGN5c3NCbFRkX3Z0YklpYndWV0ZoV3JsQ0NyUTBRQQ?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "IBM warns AI boom is squeezing software budgets; shares sink in sector rout",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWVlTRXBpazdNZ0M1bWhlX1UtSTNNYU9hbmxiLUhtcHE2M3hLMHlrc2s4bkwwS1RqbkJaLWExWHQ3bVZzQ3REVXBfa2Q3MHJqYUdXZ2d1dHEwVEQ3UEhsSU5Gckk4YnR2bzRvOXEzRGFHY3NERjlLQ3VNTTgxNGN5c3NCbFRkX3Z0YklpYndWV0ZoV3JsQ0NyUTBRQQ?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "IBM warns AI boom is squeezing software budgets, triggers sector rout",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQclJQc3hYeEdqZlFwS2ZIakg0SVAtdnZfRUwwT1NwLXRTaDY4NmFrNzBxY1F4T1RCNEwzN2V1ZkhId21sTEFVNTFCdFc4TzdMcWloQ0ZqMEFzdDZvMWtEa1c1RjFxWmRmb0NlVWlqX2RNVHliMlhkRTdmTFFUZ3otdGZzLVhkYUpYRlNQRko3ZUtka0twbWFNME9YZEpud2tl?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "IBM warns AI boom is squeezing software budgets, triggers sector rout",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQclJQc3hYeEdqZlFwS2ZIakg0SVAtdnZfRUwwT1NwLXRTaDY4NmFrNzBxY1F4T1RCNEwzN2V1ZkhId21sTEFVNTFCdFc4TzdMcWloQ0ZqMEFzdDZvMWtEa1c1RjFxWmRmb0NlVWlqX2RNVHliMlhkRTdmTFFUZ3otdGZzLVhkYUpYRlNQRko3ZUtka0twbWFNME9YZEpud2tl?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "fd9386b4dc89",
-      "slug": "squeezing-software"
-    },
-    {
-      "keyword": "software budgets",
-      "count": 12,
-      "score": 71.22053511274352,
-      "proper": false,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "IBM warns AI boom is squeezing software budgets; shares sink in sector rout",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWVlTRXBpazdNZ0M1bWhlX1UtSTNNYU9hbmxiLUhtcHE2M3hLMHlrc2s4bkwwS1RqbkJaLWExWHQ3bVZzQ3REVXBfa2Q3MHJqYUdXZ2d1dHEwVEQ3UEhsSU5Gckk4YnR2bzRvOXEzRGFHY3NERjlLQ3VNTTgxNGN5c3NCbFRkX3Z0YklpYndWV0ZoV3JsQ0NyUTBRQQ?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "IBM warns AI boom is squeezing software budgets; shares sink in sector rout",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWVlTRXBpazdNZ0M1bWhlX1UtSTNNYU9hbmxiLUhtcHE2M3hLMHlrc2s4bkwwS1RqbkJaLWExWHQ3bVZzQ3REVXBfa2Q3MHJqYUdXZ2d1dHEwVEQ3UEhsSU5Gckk4YnR2bzRvOXEzRGFHY3NERjlLQ3VNTTgxNGN5c3NCbFRkX3Z0YklpYndWV0ZoV3JsQ0NyUTBRQQ?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "IBM warns AI boom is squeezing software budgets, triggers sector rout",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQclJQc3hYeEdqZlFwS2ZIakg0SVAtdnZfRUwwT1NwLXRTaDY4NmFrNzBxY1F4T1RCNEwzN2V1ZkhId21sTEFVNTFCdFc4TzdMcWloQ0ZqMEFzdDZvMWtEa1c1RjFxWmRmb0NlVWlqX2RNVHliMlhkRTdmTFFUZ3otdGZzLVhkYUpYRlNQRko3ZUtka0twbWFNME9YZEpud2tl?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "IBM warns AI boom is squeezing software budgets, triggers sector rout",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQclJQc3hYeEdqZlFwS2ZIakg0SVAtdnZfRUwwT1NwLXRTaDY4NmFrNzBxY1F4T1RCNEwzN2V1ZkhId21sTEFVNTFCdFc4TzdMcWloQ0ZqMEFzdDZvMWtEa1c1RjFxWmRmb0NlVWlqX2RNVHliMlhkRTdmTFFUZ3otdGZzLVhkYUpYRlNQRko3ZUtka0twbWFNME9YZEpud2tl?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "103f283ec196",
-      "slug": "software-budgets"
-    },
-    {
-      "keyword": "sector rout",
-      "count": 12,
-      "score": 71.22053511274352,
-      "proper": false,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "IBM warns AI boom is squeezing software budgets; shares sink in sector rout",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWVlTRXBpazdNZ0M1bWhlX1UtSTNNYU9hbmxiLUhtcHE2M3hLMHlrc2s4bkwwS1RqbkJaLWExWHQ3bVZzQ3REVXBfa2Q3MHJqYUdXZ2d1dHEwVEQ3UEhsSU5Gckk4YnR2bzRvOXEzRGFHY3NERjlLQ3VNTTgxNGN5c3NCbFRkX3Z0YklpYndWV0ZoV3JsQ0NyUTBRQQ?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "IBM warns AI boom is squeezing software budgets; shares sink in sector rout",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWVlTRXBpazdNZ0M1bWhlX1UtSTNNYU9hbmxiLUhtcHE2M3hLMHlrc2s4bkwwS1RqbkJaLWExWHQ3bVZzQ3REVXBfa2Q3MHJqYUdXZ2d1dHEwVEQ3UEhsSU5Gckk4YnR2bzRvOXEzRGFHY3NERjlLQ3VNTTgxNGN5c3NCbFRkX3Z0YklpYndWV0ZoV3JsQ0NyUTBRQQ?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "IBM warns AI boom is squeezing software budgets, triggers sector rout",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQclJQc3hYeEdqZlFwS2ZIakg0SVAtdnZfRUwwT1NwLXRTaDY4NmFrNzBxY1F4T1RCNEwzN2V1ZkhId21sTEFVNTFCdFc4TzdMcWloQ0ZqMEFzdDZvMWtEa1c1RjFxWmRmb0NlVWlqX2RNVHliMlhkRTdmTFFUZ3otdGZzLVhkYUpYRlNQRko3ZUtka0twbWFNME9YZEpud2tl?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "IBM warns AI boom is squeezing software budgets, triggers sector rout",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQclJQc3hYeEdqZlFwS2ZIakg0SVAtdnZfRUwwT1NwLXRTaDY4NmFrNzBxY1F4T1RCNEwzN2V1ZkhId21sTEFVNTFCdFc4TzdMcWloQ0ZqMEFzdDZvMWtEa1c1RjFxWmRmb0NlVWlqX2RNVHliMlhkRTdmTFFUZ3otdGZzLVhkYUpYRlNQRko3ZUtka0twbWFNME9YZEpud2tl?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "9af9083fc868",
-      "slug": "sector-rout"
+      "id": "35390f5453e8",
+      "slug": "software"
     },
     {
       "keyword": "medical gadgets",
@@ -708,13 +470,283 @@
       ],
       "id": "c4dc0ae17452",
       "slug": "medical-gadgets"
+    },
+    {
+      "keyword": "home office",
+      "count": 36,
+      "score": 67.1176129812485,
+      "proper": false,
+      "niches": [
+        "gear",
+        "general"
+      ],
+      "examples": [
+        {
+          "title": "8BitDo’s Nintendo-themed desk gear is the ultimate retro home office upgrade",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTS1pR01fV1llVUJJbGVkdlBLcV9ZeG52NlVmZV9ETndkbzN3RlA4cEZTRGxMdy16dVFhaTljalloQnJuQkFRTGc4QjJpVWtDRmE3NjlxRFItcWZPMXdOR1JqNmVsZ2VaeGZNXzBnNy03akwwdHh1QXctQjdSazY3Y2xpblhVeDBkb2w5RjVHazE2aTZlSkRiVzBseVhwV3djY3dIVVRhTk4?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "8BitDo’s Nintendo-themed desk gear is the ultimate retro home office upgrade",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTS1pR01fV1llVUJJbGVkdlBLcV9ZeG52NlVmZV9ETndkbzN3RlA4cEZTRGxMdy16dVFhaTljalloQnJuQkFRTGc4QjJpVWtDRmE3NjlxRFItcWZPMXdOR1JqNmVsZ2VaeGZNXzBnNy03akwwdHh1QXctQjdSazY3Y2xpblhVeDBkb2w5RjVHazE2aTZlSkRiVzBseVhwV3djY3dIVVRhTk4?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "10 Mini Gadgets That Are Perfect For A Small Home Office",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1OdlRSYkZfODk2R0VRYmpnUWpEVnhSVWlWc01wVmYxbVNUNTZfN2JoeVNYdVRnSXl3aWU3TEhnNGgwY0RJU004cGhsMlVSX2t2aDdscFl6S0tpMS1pVFhKZXkyN3NSTzd1TGxRTVpVMDJuUVZ4U3VWNFFHOA?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "10 Mini Gadgets That Are Perfect For A Small Home Office",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1OdlRSYkZfODk2R0VRYmpnUWpEVnhSVWlWc01wVmYxbVNUNTZfN2JoeVNYdVRnSXl3aWU3TEhnNGgwY0RJU004cGhsMlVSX2t2aDdscFl6S0tpMS1pVFhKZXkyN3NSTzd1TGxRTVpVMDJuUVZ4U3VWNFFHOA?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "6 gear recommendations for home office and business travel",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOLXVqazloMFUzN01sUjRBcjJXV2VEeWdLRklVRlBxVGdMd2tjajZSYUR2ODMteWxrUGlRV3FwRWpHVEZNUnYwZmI2SVI5X3Y0WHdyUHdPNi03OWY2Y0tqMWR1bU5WaXFxNG5IS3J0bHhleW1CWWFIRHZydFRjU18zbGQ5UE5qVE5UNXlMM3dXbFRVTGJ2aEFUcGpLNC1IdmEzSXYyOEp2N3JsejdqRzZ6M2lB?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "307a7ba80d0f",
+      "slug": "home-office"
+    },
+    {
+      "keyword": "ibm warns",
+      "count": 12,
+      "score": 64.09848160146916,
+      "proper": false,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "IBM warns AI boom squeezing software budgets; shares sink in sector rout",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWVlTRXBpazdNZ0M1bWhlX1UtSTNNYU9hbmxiLUhtcHE2M3hLMHlrc2s4bkwwS1RqbkJaLWExWHQ3bVZzQ3REVXBfa2Q3MHJqYUdXZ2d1dHEwVEQ3UEhsSU5Gckk4YnR2bzRvOXEzRGFHY3NERjlLQ3VNTTgxNGN5c3NCbFRkX3Z0YklpYndWV0ZoV3JsQ0NyUTBRQQ?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "IBM warns AI boom squeezing software budgets; shares sink in sector rout",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWVlTRXBpazdNZ0M1bWhlX1UtSTNNYU9hbmxiLUhtcHE2M3hLMHlrc2s4bkwwS1RqbkJaLWExWHQ3bVZzQ3REVXBfa2Q3MHJqYUdXZ2d1dHEwVEQ3UEhsSU5Gckk4YnR2bzRvOXEzRGFHY3NERjlLQ3VNTTgxNGN5c3NCbFRkX3Z0YklpYndWV0ZoV3JsQ0NyUTBRQQ?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "IBM warns AI boom squeezing software budgets; shares sink in sector rout",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQclJQc3hYeEdqZlFwS2ZIakg0SVAtdnZfRUwwT1NwLXRTaDY4NmFrNzBxY1F4T1RCNEwzN2V1ZkhId21sTEFVNTFCdFc4TzdMcWloQ0ZqMEFzdDZvMWtEa1c1RjFxWmRmb0NlVWlqX2RNVHliMlhkRTdmTFFUZ3otdGZzLVhkYUpYRlNQRko3ZUtka0twbWFNME9YZEpud2tl?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "IBM warns AI boom squeezing software budgets; shares sink in sector rout",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQclJQc3hYeEdqZlFwS2ZIakg0SVAtdnZfRUwwT1NwLXRTaDY4NmFrNzBxY1F4T1RCNEwzN2V1ZkhId21sTEFVNTFCdFc4TzdMcWloQ0ZqMEFzdDZvMWtEa1c1RjFxWmRmb0NlVWlqX2RNVHliMlhkRTdmTFFUZ3otdGZzLVhkYUpYRlNQRko3ZUtka0twbWFNME9YZEpud2tl?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "924be4a773dd",
+      "slug": "ibm-warns"
+    },
+    {
+      "keyword": "warns boom",
+      "count": 12,
+      "score": 64.09848160146916,
+      "proper": false,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "IBM warns AI boom squeezing software budgets; shares sink in sector rout",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWVlTRXBpazdNZ0M1bWhlX1UtSTNNYU9hbmxiLUhtcHE2M3hLMHlrc2s4bkwwS1RqbkJaLWExWHQ3bVZzQ3REVXBfa2Q3MHJqYUdXZ2d1dHEwVEQ3UEhsSU5Gckk4YnR2bzRvOXEzRGFHY3NERjlLQ3VNTTgxNGN5c3NCbFRkX3Z0YklpYndWV0ZoV3JsQ0NyUTBRQQ?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "IBM warns AI boom squeezing software budgets; shares sink in sector rout",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWVlTRXBpazdNZ0M1bWhlX1UtSTNNYU9hbmxiLUhtcHE2M3hLMHlrc2s4bkwwS1RqbkJaLWExWHQ3bVZzQ3REVXBfa2Q3MHJqYUdXZ2d1dHEwVEQ3UEhsSU5Gckk4YnR2bzRvOXEzRGFHY3NERjlLQ3VNTTgxNGN5c3NCbFRkX3Z0YklpYndWV0ZoV3JsQ0NyUTBRQQ?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "IBM warns AI boom squeezing software budgets; shares sink in sector rout",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQclJQc3hYeEdqZlFwS2ZIakg0SVAtdnZfRUwwT1NwLXRTaDY4NmFrNzBxY1F4T1RCNEwzN2V1ZkhId21sTEFVNTFCdFc4TzdMcWloQ0ZqMEFzdDZvMWtEa1c1RjFxWmRmb0NlVWlqX2RNVHliMlhkRTdmTFFUZ3otdGZzLVhkYUpYRlNQRko3ZUtka0twbWFNME9YZEpud2tl?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "IBM warns AI boom squeezing software budgets; shares sink in sector rout",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQclJQc3hYeEdqZlFwS2ZIakg0SVAtdnZfRUwwT1NwLXRTaDY4NmFrNzBxY1F4T1RCNEwzN2V1ZkhId21sTEFVNTFCdFc4TzdMcWloQ0ZqMEFzdDZvMWtEa1c1RjFxWmRmb0NlVWlqX2RNVHliMlhkRTdmTFFUZ3otdGZzLVhkYUpYRlNQRko3ZUtka0twbWFNME9YZEpud2tl?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "691731eab6c2",
+      "slug": "warns-boom"
+    },
+    {
+      "keyword": "boom squeezing",
+      "count": 12,
+      "score": 64.09848160146916,
+      "proper": false,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "IBM warns AI boom squeezing software budgets; shares sink in sector rout",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWVlTRXBpazdNZ0M1bWhlX1UtSTNNYU9hbmxiLUhtcHE2M3hLMHlrc2s4bkwwS1RqbkJaLWExWHQ3bVZzQ3REVXBfa2Q3MHJqYUdXZ2d1dHEwVEQ3UEhsSU5Gckk4YnR2bzRvOXEzRGFHY3NERjlLQ3VNTTgxNGN5c3NCbFRkX3Z0YklpYndWV0ZoV3JsQ0NyUTBRQQ?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "IBM warns AI boom squeezing software budgets; shares sink in sector rout",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWVlTRXBpazdNZ0M1bWhlX1UtSTNNYU9hbmxiLUhtcHE2M3hLMHlrc2s4bkwwS1RqbkJaLWExWHQ3bVZzQ3REVXBfa2Q3MHJqYUdXZ2d1dHEwVEQ3UEhsSU5Gckk4YnR2bzRvOXEzRGFHY3NERjlLQ3VNTTgxNGN5c3NCbFRkX3Z0YklpYndWV0ZoV3JsQ0NyUTBRQQ?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "IBM warns AI boom squeezing software budgets; shares sink in sector rout",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQclJQc3hYeEdqZlFwS2ZIakg0SVAtdnZfRUwwT1NwLXRTaDY4NmFrNzBxY1F4T1RCNEwzN2V1ZkhId21sTEFVNTFCdFc4TzdMcWloQ0ZqMEFzdDZvMWtEa1c1RjFxWmRmb0NlVWlqX2RNVHliMlhkRTdmTFFUZ3otdGZzLVhkYUpYRlNQRko3ZUtka0twbWFNME9YZEpud2tl?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "IBM warns AI boom squeezing software budgets; shares sink in sector rout",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQclJQc3hYeEdqZlFwS2ZIakg0SVAtdnZfRUwwT1NwLXRTaDY4NmFrNzBxY1F4T1RCNEwzN2V1ZkhId21sTEFVNTFCdFc4TzdMcWloQ0ZqMEFzdDZvMWtEa1c1RjFxWmRmb0NlVWlqX2RNVHliMlhkRTdmTFFUZ3otdGZzLVhkYUpYRlNQRko3ZUtka0twbWFNME9YZEpud2tl?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "cf624038fd60",
+      "slug": "boom-squeezing"
+    },
+    {
+      "keyword": "squeezing software",
+      "count": 12,
+      "score": 64.09848160146916,
+      "proper": false,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "IBM warns AI boom squeezing software budgets; shares sink in sector rout",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWVlTRXBpazdNZ0M1bWhlX1UtSTNNYU9hbmxiLUhtcHE2M3hLMHlrc2s4bkwwS1RqbkJaLWExWHQ3bVZzQ3REVXBfa2Q3MHJqYUdXZ2d1dHEwVEQ3UEhsSU5Gckk4YnR2bzRvOXEzRGFHY3NERjlLQ3VNTTgxNGN5c3NCbFRkX3Z0YklpYndWV0ZoV3JsQ0NyUTBRQQ?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "IBM warns AI boom squeezing software budgets; shares sink in sector rout",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWVlTRXBpazdNZ0M1bWhlX1UtSTNNYU9hbmxiLUhtcHE2M3hLMHlrc2s4bkwwS1RqbkJaLWExWHQ3bVZzQ3REVXBfa2Q3MHJqYUdXZ2d1dHEwVEQ3UEhsSU5Gckk4YnR2bzRvOXEzRGFHY3NERjlLQ3VNTTgxNGN5c3NCbFRkX3Z0YklpYndWV0ZoV3JsQ0NyUTBRQQ?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "IBM warns AI boom squeezing software budgets; shares sink in sector rout",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQclJQc3hYeEdqZlFwS2ZIakg0SVAtdnZfRUwwT1NwLXRTaDY4NmFrNzBxY1F4T1RCNEwzN2V1ZkhId21sTEFVNTFCdFc4TzdMcWloQ0ZqMEFzdDZvMWtEa1c1RjFxWmRmb0NlVWlqX2RNVHliMlhkRTdmTFFUZ3otdGZzLVhkYUpYRlNQRko3ZUtka0twbWFNME9YZEpud2tl?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "IBM warns AI boom squeezing software budgets; shares sink in sector rout",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQclJQc3hYeEdqZlFwS2ZIakg0SVAtdnZfRUwwT1NwLXRTaDY4NmFrNzBxY1F4T1RCNEwzN2V1ZkhId21sTEFVNTFCdFc4TzdMcWloQ0ZqMEFzdDZvMWtEa1c1RjFxWmRmb0NlVWlqX2RNVHliMlhkRTdmTFFUZ3otdGZzLVhkYUpYRlNQRko3ZUtka0twbWFNME9YZEpud2tl?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "fd9386b4dc89",
+      "slug": "squeezing-software"
+    },
+    {
+      "keyword": "software budgets",
+      "count": 12,
+      "score": 64.09848160146916,
+      "proper": false,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "IBM warns AI boom squeezing software budgets; shares sink in sector rout",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWVlTRXBpazdNZ0M1bWhlX1UtSTNNYU9hbmxiLUhtcHE2M3hLMHlrc2s4bkwwS1RqbkJaLWExWHQ3bVZzQ3REVXBfa2Q3MHJqYUdXZ2d1dHEwVEQ3UEhsSU5Gckk4YnR2bzRvOXEzRGFHY3NERjlLQ3VNTTgxNGN5c3NCbFRkX3Z0YklpYndWV0ZoV3JsQ0NyUTBRQQ?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "IBM warns AI boom squeezing software budgets; shares sink in sector rout",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWVlTRXBpazdNZ0M1bWhlX1UtSTNNYU9hbmxiLUhtcHE2M3hLMHlrc2s4bkwwS1RqbkJaLWExWHQ3bVZzQ3REVXBfa2Q3MHJqYUdXZ2d1dHEwVEQ3UEhsSU5Gckk4YnR2bzRvOXEzRGFHY3NERjlLQ3VNTTgxNGN5c3NCbFRkX3Z0YklpYndWV0ZoV3JsQ0NyUTBRQQ?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "IBM warns AI boom squeezing software budgets; shares sink in sector rout",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQclJQc3hYeEdqZlFwS2ZIakg0SVAtdnZfRUwwT1NwLXRTaDY4NmFrNzBxY1F4T1RCNEwzN2V1ZkhId21sTEFVNTFCdFc4TzdMcWloQ0ZqMEFzdDZvMWtEa1c1RjFxWmRmb0NlVWlqX2RNVHliMlhkRTdmTFFUZ3otdGZzLVhkYUpYRlNQRko3ZUtka0twbWFNME9YZEpud2tl?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "IBM warns AI boom squeezing software budgets; shares sink in sector rout",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQclJQc3hYeEdqZlFwS2ZIakg0SVAtdnZfRUwwT1NwLXRTaDY4NmFrNzBxY1F4T1RCNEwzN2V1ZkhId21sTEFVNTFCdFc4TzdMcWloQ0ZqMEFzdDZvMWtEa1c1RjFxWmRmb0NlVWlqX2RNVHliMlhkRTdmTFFUZ3otdGZzLVhkYUpYRlNQRko3ZUtka0twbWFNME9YZEpud2tl?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "103f283ec196",
+      "slug": "software-budgets"
+    },
+    {
+      "keyword": "budgets shares",
+      "count": 12,
+      "score": 64.09848160146916,
+      "proper": false,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "IBM warns AI boom squeezing software budgets; shares sink in sector rout",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWVlTRXBpazdNZ0M1bWhlX1UtSTNNYU9hbmxiLUhtcHE2M3hLMHlrc2s4bkwwS1RqbkJaLWExWHQ3bVZzQ3REVXBfa2Q3MHJqYUdXZ2d1dHEwVEQ3UEhsSU5Gckk4YnR2bzRvOXEzRGFHY3NERjlLQ3VNTTgxNGN5c3NCbFRkX3Z0YklpYndWV0ZoV3JsQ0NyUTBRQQ?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "IBM warns AI boom squeezing software budgets; shares sink in sector rout",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWVlTRXBpazdNZ0M1bWhlX1UtSTNNYU9hbmxiLUhtcHE2M3hLMHlrc2s4bkwwS1RqbkJaLWExWHQ3bVZzQ3REVXBfa2Q3MHJqYUdXZ2d1dHEwVEQ3UEhsSU5Gckk4YnR2bzRvOXEzRGFHY3NERjlLQ3VNTTgxNGN5c3NCbFRkX3Z0YklpYndWV0ZoV3JsQ0NyUTBRQQ?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "IBM warns AI boom squeezing software budgets; shares sink in sector rout",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQclJQc3hYeEdqZlFwS2ZIakg0SVAtdnZfRUwwT1NwLXRTaDY4NmFrNzBxY1F4T1RCNEwzN2V1ZkhId21sTEFVNTFCdFc4TzdMcWloQ0ZqMEFzdDZvMWtEa1c1RjFxWmRmb0NlVWlqX2RNVHliMlhkRTdmTFFUZ3otdGZzLVhkYUpYRlNQRko3ZUtka0twbWFNME9YZEpud2tl?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "IBM warns AI boom squeezing software budgets; shares sink in sector rout",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQclJQc3hYeEdqZlFwS2ZIakg0SVAtdnZfRUwwT1NwLXRTaDY4NmFrNzBxY1F4T1RCNEwzN2V1ZkhId21sTEFVNTFCdFc4TzdMcWloQ0ZqMEFzdDZvMWtEa1c1RjFxWmRmb0NlVWlqX2RNVHliMlhkRTdmTFFUZ3otdGZzLVhkYUpYRlNQRko3ZUtka0twbWFNME9YZEpud2tl?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "c41b79547d09",
+      "slug": "budgets-shares"
+    },
+    {
+      "keyword": "shares sink",
+      "count": 12,
+      "score": 64.09848160146916,
+      "proper": false,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "IBM warns AI boom squeezing software budgets; shares sink in sector rout",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWVlTRXBpazdNZ0M1bWhlX1UtSTNNYU9hbmxiLUhtcHE2M3hLMHlrc2s4bkwwS1RqbkJaLWExWHQ3bVZzQ3REVXBfa2Q3MHJqYUdXZ2d1dHEwVEQ3UEhsSU5Gckk4YnR2bzRvOXEzRGFHY3NERjlLQ3VNTTgxNGN5c3NCbFRkX3Z0YklpYndWV0ZoV3JsQ0NyUTBRQQ?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "IBM warns AI boom squeezing software budgets; shares sink in sector rout",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWVlTRXBpazdNZ0M1bWhlX1UtSTNNYU9hbmxiLUhtcHE2M3hLMHlrc2s4bkwwS1RqbkJaLWExWHQ3bVZzQ3REVXBfa2Q3MHJqYUdXZ2d1dHEwVEQ3UEhsSU5Gckk4YnR2bzRvOXEzRGFHY3NERjlLQ3VNTTgxNGN5c3NCbFRkX3Z0YklpYndWV0ZoV3JsQ0NyUTBRQQ?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "IBM warns AI boom squeezing software budgets; shares sink in sector rout",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQclJQc3hYeEdqZlFwS2ZIakg0SVAtdnZfRUwwT1NwLXRTaDY4NmFrNzBxY1F4T1RCNEwzN2V1ZkhId21sTEFVNTFCdFc4TzdMcWloQ0ZqMEFzdDZvMWtEa1c1RjFxWmRmb0NlVWlqX2RNVHliMlhkRTdmTFFUZ3otdGZzLVhkYUpYRlNQRko3ZUtka0twbWFNME9YZEpud2tl?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "IBM warns AI boom squeezing software budgets; shares sink in sector rout",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQclJQc3hYeEdqZlFwS2ZIakg0SVAtdnZfRUwwT1NwLXRTaDY4NmFrNzBxY1F4T1RCNEwzN2V1ZkhId21sTEFVNTFCdFc4TzdMcWloQ0ZqMEFzdDZvMWtEa1c1RjFxWmRmb0NlVWlqX2RNVHliMlhkRTdmTFFUZ3otdGZzLVhkYUpYRlNQRko3ZUtka0twbWFNME9YZEpud2tl?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "1db2b8bced60",
+      "slug": "shares-sink"
     }
   ],
   "opportunities": [
     {
       "keyword": "claude",
       "count": 8,
-      "score": 118.46931148032749,
+      "score": 106.76301904571885,
       "proper": true,
       "niches": [
         "ai"
@@ -749,64 +781,27 @@
       }
     },
     {
-      "keyword": "complete guide",
-      "count": 11,
-      "score": 108.99838417254662,
+      "keyword": "demis hassabis",
+      "count": 8,
+      "score": 93.0708130002383,
       "proper": true,
       "niches": [
         "ai"
       ],
       "examples": [
         {
-          "title": "Best AI Tools for Small Businesses in 2026: A Complete Guide to Working Smarter",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPM1loU1c2RFhfdHhqOVJrNjRQWk5hc1dnWm5lNk9mWHpEMlJXVTZMMVEzV2ZaNTFuQjhOVjdmdDh2ZENiX3VISUtZbTRhT3AzU1pvY3ExeC1ST3J2TG9nQk55WE5sUjMtR3A4aXpoMnRTYzZwd1FvVGN2WVYteE5nS05fc3BNSFpZbmZhM1NpUHA2TjItY0Z5enFvUDVlZzZuMlBpM09XdTU?oc=5",
-          "source": "gnews"
+          "title": "Demis Hassabis has a plan to harness AI safely",
+          "url": "https://twitter.com/demishassabis/status/2076957440109625718",
+          "source": "hackernews"
         },
         {
-          "title": "Best AI Tools for Small Businesses in 2026: A Complete Guide to Working Smarter",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPM1loU1c2RFhfdHhqOVJrNjRQWk5hc1dnWm5lNk9mWHpEMlJXVTZMMVEzV2ZaNTFuQjhOVjdmdDh2ZENiX3VISUtZbTRhT3AzU1pvY3ExeC1ST3J2TG9nQk55WE5sUjMtR3A4aXpoMnRTYzZwd1FvVGN2WVYteE5nS05fc3BNSFpZbmZhM1NpUHA2TjItY0Z5enFvUDVlZzZuMlBpM09XdTU?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Best AI Tools for Small Businesses in 2026: A Complete Guide to Working Smarter",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPM1loU1c2RFhfdHhqOVJrNjRQWk5hc1dnWm5lNk9mWHpEMlJXVTZMMVEzV2ZaNTFuQjhOVjdmdDh2ZENiX3VISUtZbTRhT3AzU1pvY3ExeC1ST3J2TG9nQk55WE5sUjMtR3A4aXpoMnRTYzZwd1FvVGN2WVYteE5nS05fc3BNSFpZbmZhM1NpUHA2TjItY0Z5enFvUDVlZzZuMlBpM09XdTU?oc=5",
-          "source": "gnews"
+          "title": "Demis Hassabis has a plan to harness AI safely",
+          "url": "https://twitter.com/demishassabis/status/2076957440109625718",
+          "source": "hackernews"
         }
       ],
-      "id": "a9cf9ea38be8",
-      "slug": "complete-guide",
-      "opportunity": {
-        "type": "affiliate",
-        "recommended": "Write SEO comparison/roundup article with affiliate links."
-      }
-    },
-    {
-      "keyword": "marketing agencies",
-      "count": 11,
-      "score": 108.99838417254662,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "6 Best AI Visibility Tools for Marketing Agencies",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1nVm9Na1pXM1BRbHNtZGtJd1BYMi1XNy1TclJlaS1nSzIxNWdiYVhtXzhQLUVwLXRhNms3M0lHLWo5NENBMExUSXlsanEtSm5OVU55THFZU3RmN2ZQdjJhd05sdUFKbkFRandFdm5CUQ?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "6 Best AI Visibility Tools for Marketing Agencies",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1nVm9Na1pXM1BRbHNtZGtJd1BYMi1XNy1TclJlaS1nSzIxNWdiYVhtXzhQLUVwLXRhNms3M0lHLWo5NENBMExUSXlsanEtSm5OVU55THFZU3RmN2ZQdjJhd05sdUFKbkFRandFdm5CUQ?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "6 Best AI Visibility Tools for Marketing Agencies",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1nVm9Na1pXM1BRbHNtZGtJd1BYMi1XNy1TclJlaS1nSzIxNWdiYVhtXzhQLUVwLXRhNms3M0lHLWo5NENBMExUSXlsanEtSm5OVU55THFZU3RmN2ZQdjJhd05sdUFKbkFRandFdm5CUQ?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "68115a971b9a",
-      "slug": "marketing-agencies",
+      "id": "765cc641dc29",
+      "slug": "demis-hassabis",
       "opportunity": {
         "type": "niche-content",
         "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
@@ -894,57 +889,121 @@
       }
     },
     {
-      "keyword": "happy blender",
-      "count": 8,
-      "score": 73.82776477564548,
-      "proper": true,
+      "keyword": "software",
+      "count": 14,
+      "score": 75.23137502009175,
+      "proper": false,
       "niches": [
-        "software"
+        "software",
+        "ai"
       ],
       "examples": [
         {
-          "title": "Happy Blender 5.2 LTS release day! Here is the plan of actions to celebrate:⬇️ Download Blender 5.2 LTS: https://www.blender.org/download/🎦 Watch the overview: https://youtu.be/g4OXlrxqIx0 📖 Read th",
-          "url": "https://mastodon.social/@Blender/116919208002120819",
+          "title": "Hey Windows (ab)users, Microsoft has a big present for you: Today they released software updates to plug at least 570 security holes in their Windows operating systems and other software, almost tripl",
+          "url": "https://infosec.exchange/@briankrebs/116919980606308886",
           "source": "mastodon"
         },
         {
-          "title": "Happy Blender 5.2 LTS release day! Here is the plan of actions to celebrate:⬇️ Download Blender 5.2 LTS: https://www.blender.org/download/🎦 Watch the overview: https://youtu.be/g4OXlrxqIx0 📖 Read th",
-          "url": "https://mastodon.social/@Blender/116919208002120819",
-          "source": "mastodon"
-        }
-      ],
-      "id": "596bd4d70f7d",
-      "slug": "happy-blender",
-      "opportunity": {
-        "type": "affiliate",
-        "recommended": "Write SEO comparison/roundup article with affiliate links."
-      }
-    },
-    {
-      "keyword": "download blender",
-      "count": 8,
-      "score": 73.82776477564548,
-      "proper": true,
-      "niches": [
-        "software"
-      ],
-      "examples": [
-        {
-          "title": "Happy Blender 5.2 LTS release day! Here is the plan of actions to celebrate:⬇️ Download Blender 5.2 LTS: https://www.blender.org/download/🎦 Watch the overview: https://youtu.be/g4OXlrxqIx0 📖 Read th",
-          "url": "https://mastodon.social/@Blender/116919208002120819",
+          "title": "Hey Windows (ab)users, Microsoft has a big present for you: Today they released software updates to plug at least 570 security holes in their Windows operating systems and other software, almost tripl",
+          "url": "https://infosec.exchange/@briankrebs/116919980606308886",
           "source": "mastodon"
         },
         {
-          "title": "Happy Blender 5.2 LTS release day! Here is the plan of actions to celebrate:⬇️ Download Blender 5.2 LTS: https://www.blender.org/download/🎦 Watch the overview: https://youtu.be/g4OXlrxqIx0 📖 Read th",
-          "url": "https://mastodon.social/@Blender/116919208002120819",
-          "source": "mastodon"
+          "title": "Solving.AI wants AI to teach you how to use work software (properly)",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQYzdjcVUtcHh1UmtNWGF6aEE4eGdKNFZVWm1JNlFUOUhHLUtUVEkxU3lZS2J1c3lxWUREQ01ZVk9ieF9vZUJLTTk1aGJvRFBKalZUTUFvaWJKYXlxZXA3SlN4NV9YRWNQSy1HVXdPT0hJb204VGVjeExSME5uT1VOMFNoNElSZ2JuTGRmeDAxVEg?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Solving.AI wants AI to teach you how to use work software (properly)",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQYzdjcVUtcHh1UmtNWGF6aEE4eGdKNFZVWm1JNlFUOUhHLUtUVEkxU3lZS2J1c3lxWUREQ01ZVk9ieF9vZUJLTTk1aGJvRFBKalZUTUFvaWJKYXlxZXA3SlN4NV9YRWNQSy1HVXdPT0hJb204VGVjeExSME5uT1VOMFNoNElSZ2JuTGRmeDAxVEg?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "IBM warns AI boom squeezing software budgets; shares sink in sector rout",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWVlTRXBpazdNZ0M1bWhlX1UtSTNNYU9hbmxiLUhtcHE2M3hLMHlrc2s4bkwwS1RqbkJaLWExWHQ3bVZzQ3REVXBfa2Q3MHJqYUdXZ2d1dHEwVEQ3UEhsSU5Gckk4YnR2bzRvOXEzRGFHY3NERjlLQ3VNTTgxNGN5c3NCbFRkX3Z0YklpYndWV0ZoV3JsQ0NyUTBRQQ?oc=5",
+          "source": "gnews"
         }
       ],
-      "id": "154d376d6063",
-      "slug": "download-blender",
+      "id": "35390f5453e8",
+      "slug": "software",
       "opportunity": {
         "type": "niche-content",
         "recommended": "Publish niche guide for \"software\"; bundle into digital product later."
+      }
+    },
+    {
+      "keyword": "medical gadgets",
+      "count": 11,
+      "score": 68.54976504601564,
+      "proper": true,
+      "niches": [
+        "gear"
+      ],
+      "examples": [
+        {
+          "title": "Top 5 Medical Gadgets in 2026",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1LbzdTc0QxS2pRUjZjM2NwaGlQUDlDWU5rdlZ5QlhSV2FxdElUWUdHbnQzOTBYV2YwMDZ5amM1SGNXb1FSV1hjUTFDM2hpY19zaklscUxNSG5iSUZTNEFCYlFXSEQzRnV5bGVTaw?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Top 5 Medical Gadgets in 2026",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1LbzdTc0QxS2pRUjZjM2NwaGlQUDlDWU5rdlZ5QlhSV2FxdElUWUdHbnQzOTBYV2YwMDZ5amM1SGNXb1FSV1hjUTFDM2hpY19zaklscUxNSG5iSUZTNEFCYlFXSEQzRnV5bGVTaw?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Top 5 Medical Gadgets in 2026",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1LbzdTc0QxS2pRUjZjM2NwaGlQUDlDWU5rdlZ5QlhSV2FxdElUWUdHbnQzOTBYV2YwMDZ5amM1SGNXb1FSV1hjUTFDM2hpY19zaklscUxNSG5iSUZTNEFCYlFXSEQzRnV5bGVTaw?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "c4dc0ae17452",
+      "slug": "medical-gadgets",
+      "opportunity": {
+        "type": "niche-content",
+        "recommended": "Publish niche guide for \"gear\"; bundle into digital product later."
+      }
+    },
+    {
+      "keyword": "home office",
+      "count": 36,
+      "score": 67.1176129812485,
+      "proper": false,
+      "niches": [
+        "gear",
+        "general"
+      ],
+      "examples": [
+        {
+          "title": "8BitDo’s Nintendo-themed desk gear is the ultimate retro home office upgrade",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTS1pR01fV1llVUJJbGVkdlBLcV9ZeG52NlVmZV9ETndkbzN3RlA4cEZTRGxMdy16dVFhaTljalloQnJuQkFRTGc4QjJpVWtDRmE3NjlxRFItcWZPMXdOR1JqNmVsZ2VaeGZNXzBnNy03akwwdHh1QXctQjdSazY3Y2xpblhVeDBkb2w5RjVHazE2aTZlSkRiVzBseVhwV3djY3dIVVRhTk4?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "8BitDo’s Nintendo-themed desk gear is the ultimate retro home office upgrade",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTS1pR01fV1llVUJJbGVkdlBLcV9ZeG52NlVmZV9ETndkbzN3RlA4cEZTRGxMdy16dVFhaTljalloQnJuQkFRTGc4QjJpVWtDRmE3NjlxRFItcWZPMXdOR1JqNmVsZ2VaeGZNXzBnNy03akwwdHh1QXctQjdSazY3Y2xpblhVeDBkb2w5RjVHazE2aTZlSkRiVzBseVhwV3djY3dIVVRhTk4?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "10 Mini Gadgets That Are Perfect For A Small Home Office",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1OdlRSYkZfODk2R0VRYmpnUWpEVnhSVWlWc01wVmYxbVNUNTZfN2JoeVNYdVRnSXl3aWU3TEhnNGgwY0RJU004cGhsMlVSX2t2aDdscFl6S0tpMS1pVFhKZXkyN3NSTzd1TGxRTVpVMDJuUVZ4U3VWNFFHOA?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "10 Mini Gadgets That Are Perfect For A Small Home Office",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1OdlRSYkZfODk2R0VRYmpnUWpEVnhSVWlWc01wVmYxbVNUNTZfN2JoeVNYdVRnSXl3aWU3TEhnNGgwY0RJU004cGhsMlVSX2t2aDdscFl6S0tpMS1pVFhKZXkyN3NSTzd1TGxRTVpVMDJuUVZ4U3VWNFFHOA?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "6 gear recommendations for home office and business travel",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOLXVqazloMFUzN01sUjRBcjJXV2VEeWdLRklVRlBxVGdMd2tjajZSYUR2ODMteWxrUGlRV3FwRWpHVEZNUnYwZmI2SVI5X3Y0WHdyUHdPNi03OWY2Y0tqMWR1bU5WaXFxNG5IS3J0bHhleW1CWWFIRHZydFRjU18zbGQ5UE5qVE5UNXlMM3dXbFRVTGJ2aEFUcGpLNC1IdmEzSXYyOEp2N3JsejdqRzZ6M2lB?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "307a7ba80d0f",
+      "slug": "home-office",
+      "opportunity": {
+        "type": "niche-content",
+        "recommended": "Publish niche guide for \"gear\"; bundle into digital product later."
       }
     }
   ]

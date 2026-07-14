@@ -2162,8 +2162,8 @@
     },
     "home-office": {
       "firstSeen": "2026-06-21T22:08:16.667Z",
-      "lastSeen": "2026-07-07T22:03:49.143Z",
-      "count": 3,
+      "lastSeen": "2026-07-14T21:44:27.617Z",
+      "count": 4,
       "wins": 0,
       "losses": 0,
       "niche": "gear"
@@ -2430,14 +2430,6 @@
       "count": 2,
       "wins": 1,
       "losses": 0,
-      "niche": "ai"
-    },
-    "profitednow": {
-      "firstSeen": "2026-06-25T15:38:42.755Z",
-      "lastSeen": "2026-06-30T17:46:32.295Z",
-      "count": 2,
-      "wins": 0,
-      "losses": 1,
       "niche": "ai"
     },
     "generative-ai-saas": {
@@ -4378,10 +4370,10 @@
     },
     "shou-xin": {
       "firstSeen": "2026-07-09T17:47:36.501Z",
-      "lastSeen": "2026-07-09T17:47:36.501Z",
-      "count": 1,
+      "lastSeen": "2026-07-14T21:43:45.096Z",
+      "count": 2,
       "wins": 0,
-      "losses": 0,
+      "losses": 1,
       "niche": "ai"
     },
     "full-song": {
@@ -5010,9 +5002,9 @@
     },
     "logitech-g316": {
       "firstSeen": "2026-07-13T04:27:45.577Z",
-      "lastSeen": "2026-07-13T04:27:45.577Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-07-14T21:43:45.102Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "gear"
     },
@@ -5322,17 +5314,17 @@
     },
     "forget-voo": {
       "firstSeen": "2026-07-14T17:03:09.344Z",
-      "lastSeen": "2026-07-14T17:03:09.344Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-07-14T21:43:45.104Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "finance"
     },
     "happy-blender": {
       "firstSeen": "2026-07-14T17:03:12.378Z",
-      "lastSeen": "2026-07-14T17:03:12.378Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-07-14T21:43:45.106Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "software"
     },
@@ -5375,27 +5367,75 @@
       "wins": 0,
       "losses": 0,
       "niche": "ai"
+    },
+    "consumer-alert": {
+      "firstSeen": "2026-07-14T21:43:50.101Z",
+      "lastSeen": "2026-07-14T21:43:50.101Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "brainer-dividend-etf": {
+      "firstSeen": "2026-07-14T21:43:53.151Z",
+      "lastSeen": "2026-07-14T21:43:53.151Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "no-brainer-dividend": {
+      "firstSeen": "2026-07-14T21:43:56.437Z",
+      "lastSeen": "2026-07-14T21:43:56.437Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "dividend-etf": {
+      "firstSeen": "2026-07-14T21:44:03.751Z",
+      "lastSeen": "2026-07-14T21:44:03.751Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "boom-squeezing": {
+      "firstSeen": "2026-07-14T21:44:39.932Z",
+      "lastSeen": "2026-07-14T21:44:39.932Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "squeezing-software": {
+      "firstSeen": "2026-07-14T21:44:46.934Z",
+      "lastSeen": "2026-07-14T21:44:46.934Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
     }
   },
   "niches": {
     "ai": {
-      "count": 1324,
+      "count": 1331,
       "wins": 363,
-      "losses": 55
+      "losses": 56
     },
     "finance": {
-      "count": 120,
-      "wins": 19,
+      "count": 121,
+      "wins": 20,
       "losses": 2
     },
     "software": {
-      "count": 305,
-      "wins": 85,
+      "count": 306,
+      "wins": 86,
       "losses": 19
     },
     "gear": {
-      "count": 121,
-      "wins": 38,
+      "count": 123,
+      "wins": 39,
       "losses": 0
     },
     "health": {
