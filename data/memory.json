@@ -2400,14 +2400,6 @@
       "losses": 0,
       "niche": "ai"
     },
-    "hilary-cass": {
-      "firstSeen": "2026-06-24T22:05:05.410Z",
-      "lastSeen": "2026-06-30T04:59:07.425Z",
-      "count": 2,
-      "wins": 0,
-      "losses": 1,
-      "niche": "software"
-    },
     "gemini": {
       "firstSeen": "2026-06-24T22:05:08.394Z",
       "lastSeen": "2026-07-11T14:21:15.429Z",
@@ -2887,14 +2879,6 @@
       "wins": 0,
       "losses": 1,
       "niche": "ai"
-    },
-    "customer-support-reply-templates": {
-      "firstSeen": "2026-06-30T04:59:26.486Z",
-      "lastSeen": "2026-06-30T04:59:26.486Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "productivity"
     },
     "crash-clock": {
       "firstSeen": "2026-06-30T15:25:29.359Z",
@@ -5202,9 +5186,9 @@
     },
     "anthropic-api": {
       "firstSeen": "2026-07-13T21:41:56.000Z",
-      "lastSeen": "2026-07-13T21:41:56.000Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-07-14T14:47:09.503Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -5279,12 +5263,84 @@
       "wins": 0,
       "losses": 0,
       "niche": "ai"
+    },
+    "complete-guide": {
+      "firstSeen": "2026-07-14T14:47:15.226Z",
+      "lastSeen": "2026-07-14T14:47:15.226Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "marketing-agencies": {
+      "firstSeen": "2026-07-14T14:47:18.518Z",
+      "lastSeen": "2026-07-14T14:47:18.518Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "tradingview-mcp": {
+      "firstSeen": "2026-07-14T14:47:22.399Z",
+      "lastSeen": "2026-07-14T14:47:22.399Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "tradingview-desktop": {
+      "firstSeen": "2026-07-14T14:47:29.342Z",
+      "lastSeen": "2026-07-14T14:47:29.342Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "megan-rapinoe": {
+      "firstSeen": "2026-07-14T14:47:52.079Z",
+      "lastSeen": "2026-07-14T14:47:52.079Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "marco-rubio": {
+      "firstSeen": "2026-07-14T14:48:17.885Z",
+      "lastSeen": "2026-07-14T14:48:17.885Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "demis-hassabis": {
+      "firstSeen": "2026-07-14T14:48:40.174Z",
+      "lastSeen": "2026-07-14T14:48:40.174Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "visibility-tools": {
+      "firstSeen": "2026-07-14T14:49:02.164Z",
+      "lastSeen": "2026-07-14T14:49:02.164Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "chrome-devtools-protocol": {
+      "firstSeen": "2026-07-14T14:49:19.266Z",
+      "lastSeen": "2026-07-14T14:49:19.266Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
     }
   },
   "niches": {
     "ai": {
-      "count": 1308,
-      "wins": 360,
+      "count": 1318,
+      "wins": 361,
       "losses": 55
     },
     "finance": {

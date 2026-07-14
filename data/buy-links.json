@@ -1821,5 +1821,26 @@
     "price": 19,
     "productId": "prod_Usis8LQHe3bkEk",
     "cover": "/assets/pack-cover.png"
+  },
+  "prompt-pack-marco-rubio-2026-07-14": {
+    "url": "https://buy.stripe.com/6oUbJ0dpu7Xw7bBckcfjH04",
+    "platform": "stripe",
+    "price": 19,
+    "productId": "prod_UstP3OioFdQNOP",
+    "cover": "/assets/pack-cover.png"
+  },
+  "prompt-pack-megan-rapinoe-2026-07-14": {
+    "url": "https://buy.stripe.com/fZu4gyclq4Lk67x4RKfjH05",
+    "platform": "stripe",
+    "price": 19,
+    "productId": "prod_UstPfgAgkUZUZq",
+    "cover": "/assets/pack-cover.png"
+  },
+  "prompt-pack-tradingview-desktop-2026-07-14": {
+    "url": "https://buy.stripe.com/00wdR85X2gu2eE383WfjH06",
+    "platform": "stripe",
+    "price": 19,
+    "productId": "prod_UstPA1k3TV5EQH",
+    "cover": "/assets/pack-cover.png"
   }
 }
