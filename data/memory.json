@@ -314,8 +314,8 @@
     },
     "stop": {
       "firstSeen": "2026-05-30T14:27:49.434Z",
-      "lastSeen": "2026-06-23T15:45:49.838Z",
-      "count": 4,
+      "lastSeen": "2026-07-14T03:54:21.238Z",
+      "count": 5,
       "wins": 2,
       "losses": 0,
       "niche": "ai"
@@ -338,8 +338,8 @@
     },
     "passive": {
       "firstSeen": "2026-05-30T16:52:40.063Z",
-      "lastSeen": "2026-07-02T15:14:41.334Z",
-      "count": 6,
+      "lastSeen": "2026-07-14T03:54:33.316Z",
+      "count": 7,
       "wins": 2,
       "losses": 0,
       "niche": "finance"
@@ -1522,9 +1522,9 @@
     },
     "open": {
       "firstSeen": "2026-06-13T05:18:35.169Z",
-      "lastSeen": "2026-07-13T21:42:01.904Z",
-      "count": 7,
-      "wins": 2,
+      "lastSeen": "2026-07-14T03:54:03.461Z",
+      "count": 8,
+      "wins": 3,
       "losses": 0,
       "niche": "ai"
     },
@@ -2877,14 +2877,6 @@
       "lastSeen": "2026-06-30T15:25:21.046Z",
       "count": 2,
       "wins": 1,
-      "losses": 0,
-      "niche": "software"
-    },
-    "computer-networks": {
-      "firstSeen": "2026-06-29T22:02:42.278Z",
-      "lastSeen": "2026-06-29T22:02:42.278Z",
-      "count": 1,
-      "wins": 0,
       "losses": 0,
       "niche": "software"
     },
@@ -4266,10 +4258,10 @@
     },
     "gym-bro": {
       "firstSeen": "2026-07-08T21:56:01.452Z",
-      "lastSeen": "2026-07-08T21:56:01.452Z",
-      "count": 1,
+      "lastSeen": "2026-07-14T03:54:03.459Z",
+      "count": 2,
       "wins": 0,
-      "losses": 0,
+      "losses": 1,
       "niche": "ai"
     },
     "earth-tone": {
@@ -5218,9 +5210,9 @@
     },
     "thunderbird-desktop": {
       "firstSeen": "2026-07-13T21:41:58.537Z",
-      "lastSeen": "2026-07-13T21:41:58.537Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-07-14T03:54:03.460Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "gear"
     },
@@ -5239,27 +5231,75 @@
       "wins": 0,
       "losses": 0,
       "niche": "software"
+    },
+    "sam-neill": {
+      "firstSeen": "2026-07-14T03:54:09.158Z",
+      "lastSeen": "2026-07-14T03:54:09.158Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "rip-sam": {
+      "firstSeen": "2026-07-14T03:54:11.661Z",
+      "lastSeen": "2026-07-14T03:54:11.661Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "prove": {
+      "firstSeen": "2026-07-14T03:54:15.908Z",
+      "lastSeen": "2026-07-14T03:54:15.908Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "llm-juries": {
+      "firstSeen": "2026-07-14T03:54:28.041Z",
+      "lastSeen": "2026-07-14T03:54:28.041Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "ice-maine": {
+      "firstSeen": "2026-07-14T03:54:40.451Z",
+      "lastSeen": "2026-07-14T03:54:40.451Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "share-ai": {
+      "firstSeen": "2026-07-14T03:55:08.729Z",
+      "lastSeen": "2026-07-14T03:55:08.729Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
     }
   },
   "niches": {
     "ai": {
-      "count": 1300,
+      "count": 1308,
       "wins": 360,
-      "losses": 54
+      "losses": 55
     },
     "finance": {
-      "count": 118,
+      "count": 119,
       "wins": 19,
       "losses": 2
     },
     "software": {
-      "count": 302,
-      "wins": 84,
+      "count": 303,
+      "wins": 85,
       "losses": 19
     },
     "gear": {
-      "count": 119,
-      "wins": 37,
+      "count": 120,
+      "wins": 38,
       "losses": 0
     },
     "health": {

@@ -1,6 +1,27 @@
 {
   "items": [
     {
+      "slug": "share-ai-2026-07-14",
+      "topic": "Share Ai",
+      "date": "2026-07-14",
+      "niche": "ai",
+      "file": "social/share-ai-2026-07-14.md"
+    },
+    {
+      "slug": "ice-maine-2026-07-14",
+      "topic": "Ice Maine",
+      "date": "2026-07-14",
+      "niche": "ai",
+      "file": "social/ice-maine-2026-07-14.md"
+    },
+    {
+      "slug": "passive-2026-07-14",
+      "topic": "Passive",
+      "date": "2026-07-14",
+      "niche": "finance",
+      "file": "social/passive-2026-07-14.md"
+    },
+    {
       "slug": "happy-2026-07-13",
       "topic": "Happy",
       "date": "2026-07-13",
@@ -1378,27 +1399,6 @@
       "date": "2026-06-21",
       "niche": "gear",
       "file": "social/home-office-2026-06-21.md"
-    },
-    {
-      "slug": "pick-mission-2026-06-21",
-      "topic": "Pick Mission",
-      "date": "2026-06-21",
-      "niche": "gear",
-      "file": "social/pick-mission-2026-06-21.md"
-    },
-    {
-      "slug": "gadgets-pick-2026-06-21",
-      "topic": "Gadgets Pick",
-      "date": "2026-06-21",
-      "niche": "gear",
-      "file": "social/gadgets-pick-2026-06-21.md"
-    },
-    {
-      "slug": "autonomous-llm-2026-06-21",
-      "topic": "Autonomous Llm",
-      "date": "2026-06-21",
-      "niche": "ai",
-      "file": "social/autonomous-llm-2026-06-21.md"
     }
   ]
 }
