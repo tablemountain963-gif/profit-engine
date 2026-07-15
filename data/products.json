@@ -1,6 +1,23 @@
 {
   "items": [
     {
+      "slug": "starter-kit-coffee-taking-2026-07-15",
+      "title": "Coffee Taking Starter Kit — Templates + Playbook",
+      "blurb": "Templates, playbook, and 30-day plan for Coffee Taking. Skip the blank page.",
+      "type": "starter-kit",
+      "topic": "Coffee Taking",
+      "niche": "finance",
+      "price": 29,
+      "generatedAt": "2026-07-15T17:05:26.562Z",
+      "files": [
+        "playbook.md",
+        "templates.md",
+        "30-day-plan.md",
+        "README.md",
+        "LICENSE.txt"
+      ]
+    },
+    {
       "slug": "prompt-pack-kanishka-narayan-2026-07-15",
       "title": "Kanishka Narayan Prompt Pack — 50 Battle-Tested Prompts",
       "blurb": "50 proven prompts for Kanishka Narayan. Copy/paste ready. Tested across Claude, GPT, Gemini.",
@@ -3019,21 +3036,6 @@
       "niche": "ai",
       "price": 19,
       "generatedAt": "2026-06-10T16:34:52.710Z",
-      "files": [
-        "prompts.md",
-        "README.md",
-        "LICENSE.txt"
-      ]
-    },
-    {
-      "slug": "prompt-pack-ai-overviews-2026-06-10",
-      "title": "AI Overviews Prompt Pack — 50 Battle-Tested Prompts",
-      "blurb": "50 proven prompts for AI Overviews. Copy/paste ready. Tested across Claude, GPT, Gemini.",
-      "type": "prompt-pack",
-      "topic": "AI Overviews",
-      "niche": "ai",
-      "price": 19,
-      "generatedAt": "2026-06-10T05:14:34.364Z",
       "files": [
         "prompts.md",
         "README.md",

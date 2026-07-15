@@ -466,8 +466,8 @@
     },
     "2026-_blank": {
       "firstSeen": "2026-05-31T21:45:59.853Z",
-      "lastSeen": "2026-07-06T22:04:45.096Z",
-      "count": 6,
+      "lastSeen": "2026-07-15T17:06:05.727Z",
+      "count": 7,
       "wins": 0,
       "losses": 0,
       "niche": "gear"
@@ -2968,54 +2968,6 @@
       "losses": 0,
       "niche": "ai"
     },
-    "yield-dividend-stock": {
-      "firstSeen": "2026-07-01T15:39:38.427Z",
-      "lastSeen": "2026-07-01T15:39:38.427Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "finance"
-    },
-    "2026-ranked": {
-      "firstSeen": "2026-07-01T15:39:44.062Z",
-      "lastSeen": "2026-07-01T15:39:44.062Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "ai"
-    },
-    "death-knell": {
-      "firstSeen": "2026-07-01T15:39:55.459Z",
-      "lastSeen": "2026-07-01T15:39:55.459Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "ai"
-    },
-    "sony-deletes": {
-      "firstSeen": "2026-07-01T15:40:05.126Z",
-      "lastSeen": "2026-07-01T15:40:05.126Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "ai"
-    },
-    "includes-shadowrocket": {
-      "firstSeen": "2026-07-01T15:40:26.784Z",
-      "lastSeen": "2026-07-01T15:40:26.784Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "ai"
-    },
-    "keyboard-down": {
-      "firstSeen": "2026-07-01T15:40:39.187Z",
-      "lastSeen": "2026-07-01T15:40:39.187Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "ai"
-    },
     "curtis-wilson": {
       "firstSeen": "2026-07-01T17:46:26.413Z",
       "lastSeen": "2026-07-06T18:04:30.216Z",
@@ -3162,8 +3114,8 @@
     },
     "software-experts": {
       "firstSeen": "2026-07-02T15:13:29.550Z",
-      "lastSeen": "2026-07-02T17:26:36.868Z",
-      "count": 2,
+      "lastSeen": "2026-07-15T17:05:46.585Z",
+      "count": 3,
       "wins": 1,
       "losses": 0,
       "niche": "ai"
@@ -3986,8 +3938,8 @@
     },
     "whatsapp": {
       "firstSeen": "2026-07-07T17:51:39.965Z",
-      "lastSeen": "2026-07-08T17:19:17.159Z",
-      "count": 2,
+      "lastSeen": "2026-07-15T17:05:53.511Z",
+      "count": 3,
       "wins": 1,
       "losses": 0,
       "niche": "software"
@@ -4074,8 +4026,8 @@
     },
     "apple-silicon": {
       "firstSeen": "2026-07-08T04:11:49.579Z",
-      "lastSeen": "2026-07-08T04:11:49.579Z",
-      "count": 1,
+      "lastSeen": "2026-07-15T17:05:25.674Z",
+      "count": 2,
       "wins": 0,
       "losses": 0,
       "niche": "software"
@@ -4426,10 +4378,10 @@
     },
     "wally-funk": {
       "firstSeen": "2026-07-10T15:30:06.951Z",
-      "lastSeen": "2026-07-10T15:30:06.951Z",
-      "count": 1,
+      "lastSeen": "2026-07-15T17:05:13.352Z",
+      "count": 2,
       "wins": 0,
-      "losses": 0,
+      "losses": 1,
       "niche": "ai"
     },
     "solo-grants": {
@@ -5410,9 +5362,9 @@
     },
     "google-sheets": {
       "firstSeen": "2026-07-15T14:47:14.290Z",
-      "lastSeen": "2026-07-15T14:47:14.290Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-07-15T17:05:13.355Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -5426,9 +5378,9 @@
     },
     "skydance-media": {
       "firstSeen": "2026-07-15T14:47:20.638Z",
-      "lastSeen": "2026-07-15T14:47:20.638Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-07-15T17:05:13.356Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "software"
     },
@@ -5463,22 +5415,46 @@
       "wins": 0,
       "losses": 0,
       "niche": "gear"
+    },
+    "maintenance-mode": {
+      "firstSeen": "2026-07-15T17:05:19.044Z",
+      "lastSeen": "2026-07-15T17:05:19.044Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "email-productivity-apps": {
+      "firstSeen": "2026-07-15T17:05:22.120Z",
+      "lastSeen": "2026-07-15T17:05:22.120Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "coffee-taking": {
+      "firstSeen": "2026-07-15T17:05:30.909Z",
+      "lastSeen": "2026-07-15T17:05:30.909Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "finance"
     }
   },
   "niches": {
     "ai": {
-      "count": 1346,
-      "wins": 366,
-      "losses": 57
+      "count": 1352,
+      "wins": 367,
+      "losses": 58
     },
     "finance": {
-      "count": 121,
+      "count": 122,
       "wins": 20,
       "losses": 2
     },
     "software": {
-      "count": 312,
-      "wins": 88,
+      "count": 315,
+      "wins": 89,
       "losses": 19
     },
     "gear": {
