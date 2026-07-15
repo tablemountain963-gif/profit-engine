@@ -1,87 +1,65 @@
 {
-  "generatedAt": "2026-07-15T03:55:29.094Z",
-  "sourceCount": 204,
+  "generatedAt": "2026-07-15T14:47:09.627Z",
+  "sourceCount": 207,
   "topItems": [
     {
-      "title": "How to stop Claude from saying load-bearing",
-      "url": "https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing",
-      "score": 10.56,
+      "title": "Ah, I see someone tapped into my actual brain to design the perfect cross stitch kit.I am trying to resist adding to cart...https://katieabey.co.uk/products/love-and-light-octopus-cross-stitch-kits-co",
+      "url": "https://theblower.au/@frogglin/116923682801471762",
+      "score": 13.25,
       "niche": "ai",
-      "source": "hackernews",
+      "source": "mastodon",
       "engagement": {
-        "score": 456,
-        "comments": 515
+        "score": 375,
+        "comments": 6
       }
     },
     {
-      "title": "fascinating economic discovery from Fidelity: houses actually are cheaper now than in 2020!** if you denominate them in an arbitrary asset that has appreciated over that time framenext up from Fidelit",
-      "url": "https://hachyderm.io/@molly0xfff/116921441667666535",
-      "score": 8.71,
+      "title": "A reminder that Nigel Farage lost to a dolphin in the 2010 election",
+      "url": "https://cyberplace.social/@GossiTheDog/116923473143735936",
+      "score": 8,
+      "niche": "ai",
+      "source": "mastodon",
+      "engagement": {
+        "score": 296,
+        "comments": 10
+      }
+    },
+    {
+      "title": "I have been added to my cat's WhatsApp group. The whole street has a group so they all know where he is and who has given him treats already. He has a better social life than me as proven by the fact ",
+      "url": "https://mastodon.social/@fesshole/116924193548814400",
+      "score": 7.77,
       "niche": "software",
       "source": "mastodon",
       "engagement": {
-        "score": 206,
-        "comments": 20
+        "score": 123,
+        "comments": 6
       }
     },
     {
-      "title": "Are we offloading too much of our thinking to AI?",
-      "url": "https://www.artfish.ai/p/offloading-thinking-to-ai",
-      "score": 7.88,
+      "title": "Jurassic Park computers in excruciating detail",
+      "url": "https://fabiensanglard.net/jurrasic_park_computers/index.html",
+      "score": 7.73,
       "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 399,
-        "comments": 399
+        "score": 697,
+        "comments": 172
       }
     },
     {
-      "title": "i am hiring a browser security engineer! if you are not a bot, feel free to apply https://job-boards.greenhouse.io/brave/jobs/8048968",
-      "url": "https://infosec.exchange/@bcrypt/116920999637631699",
-      "score": 7.81,
-      "niche": "software",
-      "source": "mastodon",
-      "engagement": {
-        "score": 135,
-        "comments": 2
-      }
-    },
-    {
-      "title": "Your ChatGPT or Gemini generated flyer or infographic is garbage",
-      "url": "https://mastodon.social/@nixCraft/116921019327102880",
-      "score": 7.67,
-      "niche": "ai",
-      "source": "mastodon",
-      "engagement": {
-        "score": 225,
-        "comments": 12
-      }
-    },
-    {
-      "title": "Financing the AI boom: from cash flows to debt [pdf]",
-      "url": "https://www.bis.org/publ/bisbull120.pdf",
-      "score": 7.6,
+      "title": "I tricked Claude into leaking your deepest, darkest secrets",
+      "url": "https://www.ayush.digital/blog/the-memory-heist",
+      "score": 7.63,
       "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 110,
-        "comments": 63
+        "score": 490,
+        "comments": 232
       }
     },
     {
-      "title": "Bonsai 27B: A 27B-Class model that runs on a phone",
-      "url": "https://prismml.com/news/bonsai-27b",
-      "score": 7.49,
-      "niche": "ai",
-      "source": "hackernews",
-      "engagement": {
-        "score": 485,
-        "comments": 177
-      }
-    },
-    {
-      "title": "The man who tried 200 to-do apps has some advice about AI",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0tX1JDTlhrM0JhYi10WEpIN3FNWWFsNEp6WHZBRGxSNG9HV253VUs3ZGc3VEZveE9McXFqdnlxdWNQbFJ4Mm5yaVdLR21IR0VNQU5qQW9NRVV1MHRBcjAteE1KODY3dGR3QkVwVXZYbG5UQzJhb1lhNC1pbWQ?oc=5",
+      "title": "Best AI Marketing Tools (2026): CapCut Recognized for AI-Powered Content Creation by Software Experts",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOa3J0SzZ4NnEzcC1SRjZsYm1FSVdrZXBHZDFKY1hSLS1Fa1NzZUlYYmR1QVdXM21EYkVZNmg3bUVjLWZKUkM1cnBRcnBmc0dQMmloOFBILWlyZEktellSMXJxQ2lmYk5QWHZkVy1DOVNrQVBqaHY3UnRwQUx5c0ZiY0JTNldjMW5ibjRvTWRGWVltUlhEWW9aX2NpU20?oc=5",
       "score": 7.48,
       "niche": "ai",
       "source": "gnews",
@@ -91,32 +69,10 @@
       }
     },
     {
-      "title": "TS-2026-009: Insecure argument handling in Tailscale SSH permitted root access",
-      "url": "https://tailscale.com/security-bulletins",
-      "score": 6.75,
-      "niche": "ai",
-      "source": "hackernews",
-      "engagement": {
-        "score": 68,
-        "comments": 30
-      }
-    },
-    {
-      "title": "Probably check on your smart appliances",
-      "url": "https://xeiaso.net/notes/2026/check-your-smart-tv/",
-      "score": 6.6,
+      "title": "NEW: Months after FCC Commissioner Olivia Trusty cast a decisive vote approving Paramount’s historic $8 billion merger with Skydance Media, she and a guest accepted Kennedy Center gala tickets from th",
+      "url": "https://newsie.social/@ProPublica/116924233701506559",
+      "score": 7.46,
       "niche": "software",
-      "source": "hackernews",
-      "engagement": {
-        "score": 34,
-        "comments": 15
-      }
-    },
-    {
-      "title": "Susan Collins gave us Kavanaugh and Gorsuch,  who overturned Roe v. Wade. She voted for a GOP tax bill that cut health care for thousands of Mainers.She gave ICE an ADDITIONAL $70BShe’s no innocent vi",
-      "url": "https://mstdn.social/@DemocracyMattersALot/116921383721291672",
-      "score": 6.56,
-      "niche": "ai",
       "source": "mastodon",
       "engagement": {
         "score": 107,
@@ -124,97 +80,130 @@
       }
     },
     {
-      "title": "pueschel88/Tradingview-MCP — Tradingview MCP server for controlling Tradingview Desktop from Claude Code via Chrome DevTools Protocol",
-      "url": "https://github.com/pueschel88/Tradingview-MCP",
-      "score": 6.52,
+      "title": "DSLs Enable Reliable Use of LLMs",
+      "url": "https://martinfowler.com/articles/llm-and-dsls.html",
+      "score": 7.33,
+      "niche": "ai",
+      "source": "hackernews",
+      "engagement": {
+        "score": 84,
+        "comments": 55
+      }
+    },
+    {
+      "title": "There are 24 hyperscale data centre applications in Scotland.If they're all built they'll consume over 1.5 times the peak energy demand of the entire country.We urgently need a pause to develop a nati",
+      "url": "https://mastodon.scot/@ScottishGreens/116923701931339323",
+      "score": 7.32,
+      "niche": "software",
+      "source": "mastodon",
+      "engagement": {
+        "score": 178,
+        "comments": 4
+      }
+    },
+    {
+      "title": "MatinSenPai/Aether-GUI — One-click desktop GUI for the Aether censorship-circumvention tunnel — Tauri v2, React 19, Rust",
+      "url": "https://github.com/MatinSenPai/Aether-GUI",
+      "score": 7.1,
       "niche": "ai",
       "source": "github",
       "engagement": {
-        "score": 132,
+        "score": 254,
+        "comments": 2
+      }
+    },
+    {
+      "title": "🎉 Good news for UK citizens - NO VPN BAN 🎉Today, the minister for AI and Online Safety,  Kanishka Narayan, announced that for now the government would not take any action to restrict VPN's in the UK",
+      "url": "https://mastodon.social/@Tutanota/116924120616798902",
+      "score": 7.1,
+      "niche": "ai",
+      "source": "mastodon",
+      "engagement": {
+        "score": 150,
+        "comments": 7
+      }
+    },
+    {
+      "title": "The Three-Second Theft: Why AI Voice Fraud Outruns Every Defence",
+      "url": "https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence",
+      "score": 7.08,
+      "niche": "ai",
+      "source": "hackernews",
+      "engagement": {
+        "score": 58,
+        "comments": 52
+      }
+    },
+    {
+      "title": "Show HN: Grepathy – Claude made a decision nobody approved",
+      "url": "https://github.com/evansjp/grepathy",
+      "score": 6.88,
+      "niche": "ai",
+      "source": "hackernews",
+      "engagement": {
+        "score": 12,
+        "comments": 16
+      }
+    },
+    {
+      "title": "TS-2026-009: Insecure argument handling in Tailscale SSH permitted root access",
+      "url": "https://tailscale.com/security-bulletins",
+      "score": 6.73,
+      "niche": "ai",
+      "source": "hackernews",
+      "engagement": {
+        "score": 191,
+        "comments": 117
+      }
+    },
+    {
+      "title": "Never thought I'd say this, but it's actually too hot to hike in Scotland just now. We are suffering from the heat. Not complaining but genuinely surprised. #ClimateDiary",
+      "url": "https://fediscience.org/@Ruth_Mottram/116924058613322824",
+      "score": 6.72,
+      "niche": "ai",
+      "source": "mastodon",
+      "engagement": {
+        "score": 115,
+        "comments": 5
+      }
+    },
+    {
+      "title": "Briar Is in Maintenance Mode",
+      "url": "https://briarproject.org/news/2026-maintenance-mode/",
+      "score": 6.04,
+      "niche": "ai",
+      "source": "hackernews",
+      "engagement": {
+        "score": 50,
+        "comments": 13
+      }
+    },
+    {
+      "title": "Top 10: AutoML Tools",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBZNEhWSDdmMDlFaVczVmtoamNTT005VU1hZHBHV09BeURXX2tzNnNnUWRQOTc0eURZRmNVWDdsUE5IVVU5MkphQWhtNEFydUVENUZONHUtNDA3enlz?oc=5",
+      "score": 5.99,
+      "niche": "ai",
+      "source": "gnews",
+      "engagement": {
+        "score": 40,
         "comments": 0
       }
     },
     {
-      "title": "Global Warming at 3 °C by 2050? What's Behind the New German Climate Warning",
-      "url": "https://worldcrunch.com/focus/green-or-gone/global-warming-at-3c-by-2050-what-s-behind-the-new-german-climate-warning/",
-      "score": 6.51,
-      "niche": "software",
-      "source": "hackernews",
+      "title": "Consumer Alert: Expert warns AI deep fakes and voice cloning are top tools scammers are using",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcGVGQlVrVFZIcnVmelpPX29BekF0OXBsMmRCVGdieENPZl8tRFJTRTB3Q1I0anEybW1CWVFCTTdKald2aUtsRm15NXNySXB3OEw5UVByWERFc1ROZmIybkdpcGRzclZOaTBvUUhTNWdzbXVJby0xbXpDaTR4OC1WTGllN292MlA5ekVlY1Q3LTAtRGtSOE5oUmM0MzFpZHNqd1dMb3V6S3V2UHRNd0FwWFYyd0lCSmNUZF9GOEI2UXY?oc=5",
+      "score": 5.99,
+      "niche": "ai",
+      "source": "gnews",
       "engagement": {
-        "score": 70,
-        "comments": 70
-      }
-    },
-    {
-      "title": "QuantumByteOSS/quantumbyte — Open-source app builder engine — intent to working app",
-      "url": "https://github.com/QuantumByteOSS/quantumbyte",
-      "score": 6.19,
-      "niche": "software",
-      "source": "github",
-      "engagement": {
-        "score": 252,
+        "score": 40,
         "comments": 0
       }
     },
     {
-      "title": "LeMario: Training a JEPA World Model on Super Mario Bros",
-      "url": "https://www.benjamin-bai.com/projects/lemario",
-      "score": 6.16,
-      "niche": "ai",
-      "source": "hackernews",
-      "engagement": {
-        "score": 67,
-        "comments": 8
-      }
-    },
-    {
-      "title": "BRAIN: I sense danger  BODY: Would it help to poop? BRAIN: No, it would not help! BODY: Well, I’m going to poop a little bit",
-      "url": "https://mastodon.social/@donni/116921778359194151",
-      "score": 6.14,
-      "niche": "ai",
-      "source": "mastodon",
-      "engagement": {
-        "score": 76,
-        "comments": 3
-      }
-    },
-    {
-      "title": "On the odd chance you’re a Canadian and don’t have this site bookmarked… #AirQuality #ForestFires #Canada https://firesmoke.ca/forecasts/current/",
-      "url": "https://mastodon.social/@edbilodeau/116921282267832831",
-      "score": 6.02,
-      "niche": "ai",
-      "source": "mastodon",
-      "engagement": {
-        "score": 69,
-        "comments": 3
-      }
-    },
-    {
-      "title": "Guardian Angels: LLM Personalization for Productivity and Security",
-      "url": "https://gwern.net/guardian-angel",
-      "score": 5.75,
-      "niche": "ai",
-      "source": "hackernews",
-      "engagement": {
-        "score": 67,
-        "comments": 11
-      }
-    },
-    {
-      "title": "littledivy/mimic — Intercept any app, then call it from Python like a library",
-      "url": "https://github.com/littledivy/mimic",
-      "score": 5.73,
-      "niche": "software",
-      "source": "github",
-      "engagement": {
-        "score": 912,
-        "comments": 3
-      }
-    },
-    {
-      "title": "1 No-Brainer Dividend ETF to Buy Right Now for Passive Income",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONExtUmZadk1ueF9LV3hSb2l1WDBQMFhoRmtWVnNLTHRLMnl4eF9KX1B2V1JTNXpKRnk2NnAxVnZhWjRxY0p6RHh3UFF2S3k2UDVvQzQwV1VSZTdSS1FJeHQ0YU1ZblFaSnU5NXRLeXhaUW42bzZ3YjViRVgyTjUzREthemQtR3Z5ZHNlWHN1T01fWmQzTFE?oc=5",
-      "score": 5.37,
+      "title": "Best AI Tools for Copywriting",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE81cWdBTkVhNWk3UFh2aV9HT1k1TUpXaDZBY3M1MUU0UlREcjlnRG53Z21LZjlDdm9zNjh5UHJZQTU2dHlGWXdlcE9jbVI2MTBVdUJ6TXR4ekhOMWFxb0F5blpDa2xqTjVoQnFTa1FROEdWQUJnemc?oc=5",
+      "score": 5.99,
       "niche": "ai",
       "source": "gnews",
       "engagement": {
@@ -225,64 +214,75 @@
     {
       "title": "oil-oil/beautify-github-readme — Design clear, theme-specific GitHub README homepages with SVG titles, real proof, and maintainable Markdown",
       "url": "https://github.com/oil-oil/beautify-github-readme",
-      "score": 5.31,
+      "score": 5.83,
       "niche": "ai",
       "source": "github",
       "engagement": {
-        "score": 253,
+        "score": 436,
         "comments": 0
       }
     },
     {
-      "title": "Jurassic Park computers in excruciating detail",
-      "url": "https://fabiensanglard.net/jurrasic_park_computers/index.html",
-      "score": 5.19,
-      "niche": "ai",
+      "title": "You should probably check on your smart appliances",
+      "url": "https://xeiaso.net/notes/2026/check-your-smart-tv/",
+      "score": 5.8,
+      "niche": "software",
+      "source": "lobsters",
+      "engagement": {
+        "score": 61,
+        "comments": 18
+      }
+    },
+    {
+      "title": "littledivy/mimic — Intercept any app, then call it from Python like a library",
+      "url": "https://github.com/littledivy/mimic",
+      "score": 5.76,
+      "niche": "software",
+      "source": "github",
+      "engagement": {
+        "score": 953,
+        "comments": 3
+      }
+    },
+    {
+      "title": "Using Go for Mobile Apps",
+      "url": "https://www.davidsobsessions.com/p/one-year-of-gomobile/",
+      "score": 5.66,
+      "niche": "software",
       "source": "hackernews",
       "engagement": {
-        "score": 29,
-        "comments": 6
+        "score": 19,
+        "comments": 8
       }
     },
     {
-      "title": "Absolutely a great day all around. Happy Non-Binary People's day and happy Bastille Day. ❤️",
-      "url": "https://mastodon.social/@anolandria/116921470939964328",
-      "score": 5.19,
-      "niche": "software",
-      "source": "mastodon",
-      "engagement": {
-        "score": 38,
-        "comments": 1
-      }
-    },
-    {
-      "title": "Hating AI in 2026",
-      "url": "https://www.eamoncaddigan.net/posts/ai-in-2026/",
-      "score": 5.05,
+      "title": "whatcable: macOS menu bar app that tells you, in plain English, what each USB-C cable plugged into your Mac can actually do",
+      "url": "https://github.com/darrylmorley/whatcable",
+      "score": 5.62,
       "niche": "ai",
       "source": "lobsters",
       "engagement": {
-        "score": 47,
-        "comments": 23
+        "score": 56,
+        "comments": 12
       }
     },
     {
-      "title": "7 Best Gadgets & Gear for Digital Nomads in 2026 That Turn Any Café Into a Proper Studio",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVnhFazVibW0tNWlOVXpESzB0SjhNWUdhUDJSV2VKUW1xSzNQVU5xai15ZFlERnJEb2IwanExanBUSThwV3dhdFZVbUhvYkMzeXBkQ2hYOTcyaVhwTXBqaHVBdURuY3BvSTA3ZWRLcUdfVU1KSjhyUy1tU0hFSHVfN09wbHNLbzFDLUl5YlZEdFd5aEFPSksxRFBDR2dDTVlPaHBfa25WR3VKcF9USDZwMXVQdEZfWnJTM1dQVDJjXzJjMkd60gHKAUFVX3lxTFA0UzJEbW9mdHZBd2RYeEpYN0dXUWlJRkp5U01feHNGOEdwdnp1SUN4eUdFME5JaXVJSklIZDhpX2ROX1JwS3BUVUFTYUpTNEZfT1B3bGtYNkZSVGJaYjBXTk5QNHlrMWhiYXhRZkl0NTdPX3hnQ09hQXVJaUtkVDBtTlU0MUhJelRwN0EwQVZpdy0yMGFHTmRDcDhkV29RQTI1NzJDTFEwYVNkR3g2RExHTl9zeFZHdVdrdkI3NU50Y0tZSTJ1TS13cEE?oc=5",
-      "score": 4.95,
-      "niche": "ai",
-      "source": "gnews",
+      "title": "Weathergotchi – an open-source climate Tamagotchi",
+      "url": "https://github.com/Michael-Manning/E-Paper-Climate-Logger",
+      "score": 5.39,
+      "niche": "software",
+      "source": "hackernews",
       "engagement": {
-        "score": 40,
-        "comments": 0
+        "score": 55,
+        "comments": 14
       }
     }
   ],
   "topics": [
     {
       "keyword": "passive income",
-      "count": 57,
-      "score": 309.5867635682072,
+      "count": 62,
+      "score": 338.7620235362671,
       "proper": true,
       "niches": [
         "ai",
@@ -320,27 +320,32 @@
     },
     {
       "keyword": "claude",
-      "count": 8,
-      "score": 109.4337437994677,
+      "count": 13,
+      "score": 135.26640810671984,
       "proper": true,
       "niches": [
         "ai"
       ],
       "examples": [
         {
-          "title": "How to stop Claude from saying load-bearing",
-          "url": "https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing",
+          "title": "I tricked Claude into leaking your deepest, darkest secrets",
+          "url": "https://www.ayush.digital/blog/the-memory-heist",
           "source": "hackernews"
         },
         {
-          "title": "How to stop Claude from saying load-bearing",
-          "url": "https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing",
+          "title": "I tricked Claude into leaking your deepest, darkest secrets",
+          "url": "https://www.ayush.digital/blog/the-memory-heist",
           "source": "hackernews"
         },
         {
-          "title": "pueschel88/Tradingview-MCP — Tradingview MCP server for controlling Tradingview Desktop from Claude Code via Chrome DevTools Protocol",
-          "url": "https://github.com/pueschel88/Tradingview-MCP",
-          "source": "github"
+          "title": "Show HN: Grepathy – Claude made a decision nobody approved",
+          "url": "https://github.com/evansjp/grepathy",
+          "source": "hackernews"
+        },
+        {
+          "title": "Show HN: Grepathy – Claude made a decision nobody approved",
+          "url": "https://github.com/evansjp/grepathy",
+          "source": "hackernews"
         },
         {
           "title": "Dev Opportunity Radar #7: $1,000 Solo Grants, Free Claude Max for Open Source Contributors, and an MLH Hackathon",
@@ -352,9 +357,185 @@
       "slug": "claude"
     },
     {
+      "keyword": "software experts",
+      "count": 11,
+      "score": 123.47473207046296,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "Best AI Marketing Tools (2026): CapCut Recognized for AI-Powered Content Creation by Software Experts",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOa3J0SzZ4NnEzcC1SRjZsYm1FSVdrZXBHZDFKY1hSLS1Fa1NzZUlYYmR1QVdXM21EYkVZNmg3bUVjLWZKUkM1cnBRcnBmc0dQMmloOFBILWlyZEktellSMXJxQ2lmYk5QWHZkVy1DOVNrQVBqaHY3UnRwQUx5c0ZiY0JTNldjMW5ibjRvTWRGWVltUlhEWW9aX2NpU20?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Best AI Marketing Tools (2026): CapCut Recognized for AI-Powered Content Creation by Software Experts",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOa3J0SzZ4NnEzcC1SRjZsYm1FSVdrZXBHZDFKY1hSLS1Fa1NzZUlYYmR1QVdXM21EYkVZNmg3bUVjLWZKUkM1cnBRcnBmc0dQMmloOFBILWlyZEktellSMXJxQ2lmYk5QWHZkVy1DOVNrQVBqaHY3UnRwQUx5c0ZiY0JTNldjMW5ibjRvTWRGWVltUlhEWW9aX2NpU20?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Best AI Marketing Tools (2026): CapCut Recognized for AI-Powered Content Creation by Software Experts",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOa3J0SzZ4NnEzcC1SRjZsYm1FSVdrZXBHZDFKY1hSLS1Fa1NzZUlYYmR1QVdXM21EYkVZNmg3bUVjLWZKUkM1cnBRcnBmc0dQMmloOFBILWlyZEktellSMXJxQ2lmYk5QWHZkVy1DOVNrQVBqaHY3UnRwQUx5c0ZiY0JTNldjMW5ibjRvTWRGWVltUlhEWW9aX2NpU20?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "34dae3f3dd65",
+      "slug": "software-experts"
+    },
+    {
+      "keyword": "automl tools",
+      "count": 11,
+      "score": 98.77978565637038,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "Top 10: AutoML Tools",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBZNEhWSDdmMDlFaVczVmtoamNTT005VU1hZHBHV09BeURXX2tzNnNnUWRQOTc0eURZRmNVWDdsUE5IVVU5MkphQWhtNEFydUVENUZONHUtNDA3enlz?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Top 10: AutoML Tools",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBZNEhWSDdmMDlFaVczVmtoamNTT005VU1hZHBHV09BeURXX2tzNnNnUWRQOTc0eURZRmNVWDdsUE5IVVU5MkphQWhtNEFydUVENUZONHUtNDA3enlz?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Top 10: AutoML Tools",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBZNEhWSDdmMDlFaVczVmtoamNTT005VU1hZHBHV09BeURXX2tzNnNnUWRQOTc0eURZRmNVWDdsUE5IVVU5MkphQWhtNEFydUVENUZONHUtNDA3enlz?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "51e0213df41c",
+      "slug": "automl-tools"
+    },
+    {
+      "keyword": "consumer alert",
+      "count": 11,
+      "score": 98.77978565637038,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "Consumer Alert: Expert warns AI deep fakes and voice cloning are top tools scammers are using",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcGVGQlVrVFZIcnVmelpPX29BekF0OXBsMmRCVGdieENPZl8tRFJTRTB3Q1I0anEybW1CWVFCTTdKald2aUtsRm15NXNySXB3OEw5UVByWERFc1ROZmIybkdpcGRzclZOaTBvUUhTNWdzbXVJby0xbXpDaTR4OC1WTGllN292MlA5ekVlY1Q3LTAtRGtSOE5oUmM0MzFpZHNqd1dMb3V6S3V2UHRNd0FwWFYyd0lCSmNUZF9GOEI2UXY?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Consumer Alert: Expert warns AI deep fakes and voice cloning are top tools scammers are using",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcGVGQlVrVFZIcnVmelpPX29BekF0OXBsMmRCVGdieENPZl8tRFJTRTB3Q1I0anEybW1CWVFCTTdKald2aUtsRm15NXNySXB3OEw5UVByWERFc1ROZmIybkdpcGRzclZOaTBvUUhTNWdzbXVJby0xbXpDaTR4OC1WTGllN292MlA5ekVlY1Q3LTAtRGtSOE5oUmM0MzFpZHNqd1dMb3V6S3V2UHRNd0FwWFYyd0lCSmNUZF9GOEI2UXY?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Consumer Alert: Expert warns AI deep fakes and voice cloning are top tools scammers are using",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcGVGQlVrVFZIcnVmelpPX29BekF0OXBsMmRCVGdieENPZl8tRFJTRTB3Q1I0anEybW1CWVFCTTdKald2aUtsRm15NXNySXB3OEw5UVByWERFc1ROZmIybkdpcGRzclZOaTBvUUhTNWdzbXVJby0xbXpDaTR4OC1WTGllN292MlA5ekVlY1Q3LTAtRGtSOE5oUmM0MzFpZHNqd1dMb3V6S3V2UHRNd0FwWFYyd0lCSmNUZF9GOEI2UXY?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "42f7175019db",
+      "slug": "consumer-alert"
+    },
+    {
+      "keyword": "nigel farage",
+      "count": 8,
+      "score": 96.04067566916167,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "A reminder that Nigel Farage lost to a dolphin in the 2010 election",
+          "url": "https://cyberplace.social/@GossiTheDog/116923473143735936",
+          "source": "mastodon"
+        },
+        {
+          "title": "A reminder that Nigel Farage lost to a dolphin in the 2010 election",
+          "url": "https://cyberplace.social/@GossiTheDog/116923473143735936",
+          "source": "mastodon"
+        }
+      ],
+      "id": "dd81601488e1",
+      "slug": "nigel-farage"
+    },
+    {
+      "keyword": "jurassic park",
+      "count": 8,
+      "score": 92.7088963265589,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "Jurassic Park computers in excruciating detail",
+          "url": "https://fabiensanglard.net/jurrasic_park_computers/index.html",
+          "source": "hackernews"
+        },
+        {
+          "title": "Jurassic Park computers in excruciating detail",
+          "url": "https://fabiensanglard.net/jurrasic_park_computers/index.html",
+          "source": "hackernews"
+        }
+      ],
+      "id": "2894942de726",
+      "slug": "jurassic-park"
+    },
+    {
+      "keyword": "skydance media",
+      "count": 8,
+      "score": 89.50984323023351,
+      "proper": true,
+      "niches": [
+        "software"
+      ],
+      "examples": [
+        {
+          "title": "NEW: Months after FCC Commissioner Olivia Trusty cast a decisive vote approving Paramount’s historic $8 billion merger with Skydance Media, she and a guest accepted Kennedy Center gala tickets from th",
+          "url": "https://newsie.social/@ProPublica/116924233701506559",
+          "source": "mastodon"
+        },
+        {
+          "title": "NEW: Months after FCC Commissioner Olivia Trusty cast a decisive vote approving Paramount’s historic $8 billion merger with Skydance Media, she and a guest accepted Kennedy Center gala tickets from th",
+          "url": "https://newsie.social/@ProPublica/116924233701506559",
+          "source": "mastodon"
+        }
+      ],
+      "id": "242a6e40f258",
+      "slug": "skydance-media"
+    },
+    {
+      "keyword": "kennedy center",
+      "count": 8,
+      "score": 89.50984323023351,
+      "proper": true,
+      "niches": [
+        "software"
+      ],
+      "examples": [
+        {
+          "title": "NEW: Months after FCC Commissioner Olivia Trusty cast a decisive vote approving Paramount’s historic $8 billion merger with Skydance Media, she and a guest accepted Kennedy Center gala tickets from th",
+          "url": "https://newsie.social/@ProPublica/116924233701506559",
+          "source": "mastodon"
+        },
+        {
+          "title": "NEW: Months after FCC Commissioner Olivia Trusty cast a decisive vote approving Paramount’s historic $8 billion merger with Skydance Media, she and a guest accepted Kennedy Center gala tickets from th",
+          "url": "https://newsie.social/@ProPublica/116924233701506559",
+          "source": "mastodon"
+        }
+      ],
+      "id": "a5b3ce4cdee6",
+      "slug": "kennedy-center"
+    },
+    {
       "keyword": "income",
       "count": 19,
-      "score": 90.00301590810159,
+      "score": 85.21304785364397,
       "proper": true,
       "niches": [
         "ai",
@@ -382,8 +563,8 @@
           "source": "gnews"
         },
         {
-          "title": "Forget VOO’s 1% Yield. These 2 BlackRock ETFs Offer 7%+ Passive Income",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONkxDcmlKNzlJS0JkTmZBRnp5a0Z1RzJ2VzJsRnZZS3JWN0pFMi1BcmV2RkFpTmFLWjRjM2FlV05CNG1sTERTNkJaZWxianI0SEdfdnEwVHlES0c5OTdPQWpEeDhwT014dEVCbVBIQk9iQUVQdEJPd0R6MW5TU1JFV2ZuTEpDNVZ6ODdWR2xJbkUxdG1qUWFMY1lxNA?oc=5",
+          "title": "My 3 Favourite Canadian Stocks for Passive Income",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQVBJNzFVd1ZUZzJaOTJyQTRtSkZuVlBzS2lRT2NYNE1UQ2dIZzJ4LVF1Z0VXVHp6VUZqMVpHWWFsM21fYnJQVEl4alZFaVp5dVdGTnp6OEJKeUZwOHhnZm4zUU9yWEFPNDhMSzVPNHdlYThGZ0E2V3lHd0tIUG9sSFlaY0FoMmN3QnhIem1lcFAtTU1KLVE?oc=5",
           "source": "gnews"
         }
       ],
@@ -391,9 +572,32 @@
       "slug": "income"
     },
     {
+      "keyword": "kanishka narayan",
+      "count": 8,
+      "score": 85.151383457814,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "🎉 Good news for UK citizens - NO VPN BAN 🎉Today, the minister for AI and Online Safety,  Kanishka Narayan, announced that for now the government would not take any action to restrict VPN's in the UK",
+          "url": "https://mastodon.social/@Tutanota/116924120616798902",
+          "source": "mastodon"
+        },
+        {
+          "title": "🎉 Good news for UK citizens - NO VPN BAN 🎉Today, the minister for AI and Online Safety,  Kanishka Narayan, announced that for now the government would not take any action to restrict VPN's in the UK",
+          "url": "https://mastodon.social/@Tutanota/116924120616798902",
+          "source": "mastodon"
+        }
+      ],
+      "id": "fd592ba6dd5a",
+      "slug": "kanishka-narayan"
+    },
+    {
       "keyword": "tailscale ssh",
       "count": 8,
-      "score": 81.04664487549115,
+      "score": 80.77546288443551,
       "proper": true,
       "niches": [
         "ai"
@@ -412,121 +616,6 @@
       ],
       "id": "2e13bb1fdc04",
       "slug": "tailscale-ssh"
-    },
-    {
-      "keyword": "tradingview mcp",
-      "count": 8,
-      "score": 78.29366689261067,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "pueschel88/Tradingview-MCP — Tradingview MCP server for controlling Tradingview Desktop from Claude Code via Chrome DevTools Protocol",
-          "url": "https://github.com/pueschel88/Tradingview-MCP",
-          "source": "github"
-        },
-        {
-          "title": "pueschel88/Tradingview-MCP — Tradingview MCP server for controlling Tradingview Desktop from Claude Code via Chrome DevTools Protocol",
-          "url": "https://github.com/pueschel88/Tradingview-MCP",
-          "source": "github"
-        }
-      ],
-      "id": "7c8a9f2c60d0",
-      "slug": "tradingview-mcp"
-    },
-    {
-      "keyword": "tradingview desktop",
-      "count": 8,
-      "score": 78.29366689261067,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "pueschel88/Tradingview-MCP — Tradingview MCP server for controlling Tradingview Desktop from Claude Code via Chrome DevTools Protocol",
-          "url": "https://github.com/pueschel88/Tradingview-MCP",
-          "source": "github"
-        },
-        {
-          "title": "pueschel88/Tradingview-MCP — Tradingview MCP server for controlling Tradingview Desktop from Claude Code via Chrome DevTools Protocol",
-          "url": "https://github.com/pueschel88/Tradingview-MCP",
-          "source": "github"
-        }
-      ],
-      "id": "7451f84118c9",
-      "slug": "tradingview-desktop"
-    },
-    {
-      "keyword": "claude code",
-      "count": 8,
-      "score": 78.29366689261067,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "pueschel88/Tradingview-MCP — Tradingview MCP server for controlling Tradingview Desktop from Claude Code via Chrome DevTools Protocol",
-          "url": "https://github.com/pueschel88/Tradingview-MCP",
-          "source": "github"
-        },
-        {
-          "title": "pueschel88/Tradingview-MCP — Tradingview MCP server for controlling Tradingview Desktop from Claude Code via Chrome DevTools Protocol",
-          "url": "https://github.com/pueschel88/Tradingview-MCP",
-          "source": "github"
-        }
-      ],
-      "id": "a625159d18da",
-      "slug": "claude-code"
-    },
-    {
-      "keyword": "global warming",
-      "count": 8,
-      "score": 78.09589049800249,
-      "proper": true,
-      "niches": [
-        "software"
-      ],
-      "examples": [
-        {
-          "title": "Global Warming at 3 °C by 2050? What's Behind the New German Climate Warning",
-          "url": "https://worldcrunch.com/focus/green-or-gone/global-warming-at-3c-by-2050-what-s-behind-the-new-german-climate-warning/",
-          "source": "hackernews"
-        },
-        {
-          "title": "Global Warming at 3 °C by 2050? What's Behind the New German Climate Warning",
-          "url": "https://worldcrunch.com/focus/green-or-gone/global-warming-at-3c-by-2050-what-s-behind-the-new-german-climate-warning/",
-          "source": "hackernews"
-        }
-      ],
-      "id": "41a40ce559ef",
-      "slug": "global-warming"
-    },
-    {
-      "keyword": "climate warning",
-      "count": 8,
-      "score": 78.09589049800249,
-      "proper": true,
-      "niches": [
-        "software"
-      ],
-      "examples": [
-        {
-          "title": "Global Warming at 3 °C by 2050? What's Behind the New German Climate Warning",
-          "url": "https://worldcrunch.com/focus/green-or-gone/global-warming-at-3c-by-2050-what-s-behind-the-new-german-climate-warning/",
-          "source": "hackernews"
-        },
-        {
-          "title": "Global Warming at 3 °C by 2050? What's Behind the New German Climate Warning",
-          "url": "https://worldcrunch.com/focus/green-or-gone/global-warming-at-3c-by-2050-what-s-behind-the-new-german-climate-warning/",
-          "source": "hackernews"
-        }
-      ],
-      "id": "4c8f77652899",
-      "slug": "climate-warning"
     },
     {
       "keyword": "star powers",
@@ -580,113 +669,40 @@
       "slug": "brainer-dividend-etf"
     },
     {
-      "keyword": "gemini",
-      "count": 6,
-      "score": 69.06067224975467,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "Your ChatGPT or Gemini generated flyer or infographic is garbage",
-          "url": "https://mastodon.social/@nixCraft/116921019327102880",
-          "source": "mastodon"
-        },
-        {
-          "title": "Your ChatGPT or Gemini generated flyer or infographic is garbage",
-          "url": "https://mastodon.social/@nixCraft/116921019327102880",
-          "source": "mastodon"
-        }
-      ],
-      "id": "5d72436256ad",
-      "slug": "gemini"
-    },
-    {
-      "keyword": "guardian angels",
-      "count": 8,
-      "score": 69.03947937347246,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "Guardian Angels: LLM Personalization for Productivity and Security",
-          "url": "https://gwern.net/guardian-angel",
-          "source": "hackernews"
-        },
-        {
-          "title": "Guardian Angels: LLM Personalization for Productivity and Security",
-          "url": "https://gwern.net/guardian-angel",
-          "source": "hackernews"
-        }
-      ],
-      "id": "7c99b92153d2",
-      "slug": "guardian-angels"
-    },
-    {
-      "keyword": "medical gadgets",
+      "keyword": "apple silicon",
       "count": 11,
-      "score": 68.54976504601564,
+      "score": 74.45349268332414,
       "proper": true,
       "niches": [
-        "gear"
+        "ai",
+        "software"
       ],
       "examples": [
         {
-          "title": "Top 5 Medical Gadgets in 2026",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1LbzdTc0QxS2pRUjZjM2NwaGlQUDlDWU5rdlZ5QlhSV2FxdElUWUdHbnQzOTBYV2YwMDZ5amM1SGNXb1FSV1hjUTFDM2hpY19zaklscUxNSG5iSUZTNEFCYlFXSEQzRnV5bGVTaw?oc=5",
-          "source": "gnews"
+          "title": "videlalvaro/inference-school — A hands-on Swift and Metal course for building LLM inference from first principles on Apple silicon, with 48 guided lessons, runnable exercises, a native macOS Studio, a",
+          "url": "https://github.com/videlalvaro/inference-school",
+          "source": "github"
         },
         {
-          "title": "Top 5 Medical Gadgets in 2026",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1LbzdTc0QxS2pRUjZjM2NwaGlQUDlDWU5rdlZ5QlhSV2FxdElUWUdHbnQzOTBYV2YwMDZ5amM1SGNXb1FSV1hjUTFDM2hpY19zaklscUxNSG5iSUZTNEFCYlFXSEQzRnV5bGVTaw?oc=5",
-          "source": "gnews"
+          "title": "khr898/ntfsmac — NTFS read/write on Apple Silicon macOS — no kernel extension, no SIP modification.",
+          "url": "https://github.com/khr898/ntfsmac",
+          "source": "github"
         },
         {
-          "title": "Top 5 Medical Gadgets in 2026",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1LbzdTc0QxS2pRUjZjM2NwaGlQUDlDWU5rdlZ5QlhSV2FxdElUWUdHbnQzOTBYV2YwMDZ5amM1SGNXb1FSV1hjUTFDM2hpY19zaklscUxNSG5iSUZTNEFCYlFXSEQzRnV5bGVTaw?oc=5",
-          "source": "gnews"
+          "title": "khr898/ntfsmac — NTFS read/write on Apple Silicon macOS — no kernel extension, no SIP modification.",
+          "url": "https://github.com/khr898/ntfsmac",
+          "source": "github"
         }
       ],
-      "id": "c4dc0ae17452",
-      "slug": "medical-gadgets"
-    },
-    {
-      "keyword": "forget voo",
-      "count": 11,
-      "score": 63.86624072610152,
-      "proper": true,
-      "niches": [
-        "finance"
-      ],
-      "examples": [
-        {
-          "title": "Forget VOO’s 1% Yield. These 2 BlackRock ETFs Offer 7%+ Passive Income",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONkxDcmlKNzlJS0JkTmZBRnp5a0Z1RzJ2VzJsRnZZS3JWN0pFMi1BcmV2RkFpTmFLWjRjM2FlV05CNG1sTERTNkJaZWxianI0SEdfdnEwVHlES0c5OTdPQWpEeDhwT014dEVCbVBIQk9iQUVQdEJPd0R6MW5TU1JFV2ZuTEpDNVZ6ODdWR2xJbkUxdG1qUWFMY1lxNA?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Forget VOO’s 1% Yield. These 2 BlackRock ETFs Offer 7%+ Passive Income",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONkxDcmlKNzlJS0JkTmZBRnp5a0Z1RzJ2VzJsRnZZS3JWN0pFMi1BcmV2RkFpTmFLWjRjM2FlV05CNG1sTERTNkJaZWxianI0SEdfdnEwVHlES0c5OTdPQWpEeDhwT014dEVCbVBIQk9iQUVQdEJPd0R6MW5TU1JFV2ZuTEpDNVZ6ODdWR2xJbkUxdG1qUWFMY1lxNA?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Forget VOO’s 1% Yield. These 2 BlackRock ETFs Offer 7%+ Passive Income",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONkxDcmlKNzlJS0JkTmZBRnp5a0Z1RzJ2VzJsRnZZS3JWN0pFMi1BcmV2RkFpTmFLWjRjM2FlV05CNG1sTERTNkJaZWxianI0SEdfdnEwVHlES0c5OTdPQWpEeDhwT014dEVCbVBIQk9iQUVQdEJPd0R6MW5TU1JFV2ZuTEpDNVZ6ODdWR2xJbkUxdG1qUWFMY1lxNA?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "9b9a40bb7870",
-      "slug": "forget-voo"
+      "id": "e5653a7fb79e",
+      "slug": "apple-silicon"
     }
   ],
   "opportunities": [
     {
       "keyword": "passive income",
-      "count": 57,
-      "score": 309.5867635682072,
+      "count": 62,
+      "score": 338.7620235362671,
       "proper": true,
       "niches": [
         "ai",
@@ -728,27 +744,32 @@
     },
     {
       "keyword": "claude",
-      "count": 8,
-      "score": 109.4337437994677,
+      "count": 13,
+      "score": 135.26640810671984,
       "proper": true,
       "niches": [
         "ai"
       ],
       "examples": [
         {
-          "title": "How to stop Claude from saying load-bearing",
-          "url": "https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing",
+          "title": "I tricked Claude into leaking your deepest, darkest secrets",
+          "url": "https://www.ayush.digital/blog/the-memory-heist",
           "source": "hackernews"
         },
         {
-          "title": "How to stop Claude from saying load-bearing",
-          "url": "https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing",
+          "title": "I tricked Claude into leaking your deepest, darkest secrets",
+          "url": "https://www.ayush.digital/blog/the-memory-heist",
           "source": "hackernews"
         },
         {
-          "title": "pueschel88/Tradingview-MCP — Tradingview MCP server for controlling Tradingview Desktop from Claude Code via Chrome DevTools Protocol",
-          "url": "https://github.com/pueschel88/Tradingview-MCP",
-          "source": "github"
+          "title": "Show HN: Grepathy – Claude made a decision nobody approved",
+          "url": "https://github.com/evansjp/grepathy",
+          "source": "hackernews"
+        },
+        {
+          "title": "Show HN: Grepathy – Claude made a decision nobody approved",
+          "url": "https://github.com/evansjp/grepathy",
+          "source": "hackernews"
         },
         {
           "title": "Dev Opportunity Radar #7: $1,000 Solo Grants, Free Claude Max for Open Source Contributors, and an MLH Hackathon",
@@ -764,178 +785,177 @@
       }
     },
     {
-      "keyword": "income",
-      "count": 19,
-      "score": 90.00301590810159,
+      "keyword": "software experts",
+      "count": 11,
+      "score": 123.47473207046296,
       "proper": true,
       "niches": [
-        "ai",
-        "finance"
+        "ai"
       ],
       "examples": [
         {
-          "title": "1 No-Brainer Dividend ETF to Buy Right Now for Passive Income",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONExtUmZadk1ueF9LV3hSb2l1WDBQMFhoRmtWVnNLTHRLMnl4eF9KX1B2V1JTNXpKRnk2NnAxVnZhWjRxY0p6RHh3UFF2S3k2UDVvQzQwV1VSZTdSS1FJeHQ0YU1ZblFaSnU5NXRLeXhaUW42bzZ3YjViRVgyTjUzREthemQtR3Z5ZHNlWHN1T01fWmQzTFE?oc=5",
+          "title": "Best AI Marketing Tools (2026): CapCut Recognized for AI-Powered Content Creation by Software Experts",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOa3J0SzZ4NnEzcC1SRjZsYm1FSVdrZXBHZDFKY1hSLS1Fa1NzZUlYYmR1QVdXM21EYkVZNmg3bUVjLWZKUkM1cnBRcnBmc0dQMmloOFBILWlyZEktellSMXJxQ2lmYk5QWHZkVy1DOVNrQVBqaHY3UnRwQUx5c0ZiY0JTNldjMW5ibjRvTWRGWVltUlhEWW9aX2NpU20?oc=5",
           "source": "gnews"
         },
         {
-          "title": "1 No-Brainer Dividend ETF to Buy Right Now for Passive Income",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONExtUmZadk1ueF9LV3hSb2l1WDBQMFhoRmtWVnNLTHRLMnl4eF9KX1B2V1JTNXpKRnk2NnAxVnZhWjRxY0p6RHh3UFF2S3k2UDVvQzQwV1VSZTdSS1FJeHQ0YU1ZblFaSnU5NXRLeXhaUW42bzZ3YjViRVgyTjUzREthemQtR3Z5ZHNlWHN1T01fWmQzTFE?oc=5",
+          "title": "Best AI Marketing Tools (2026): CapCut Recognized for AI-Powered Content Creation by Software Experts",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOa3J0SzZ4NnEzcC1SRjZsYm1FSVdrZXBHZDFKY1hSLS1Fa1NzZUlYYmR1QVdXM21EYkVZNmg3bUVjLWZKUkM1cnBRcnBmc0dQMmloOFBILWlyZEktellSMXJxQ2lmYk5QWHZkVy1DOVNrQVBqaHY3UnRwQUx5c0ZiY0JTNldjMW5ibjRvTWRGWVltUlhEWW9aX2NpU20?oc=5",
           "source": "gnews"
         },
         {
-          "title": "1 No-Brainer Dividend ETF to Buy Right Now for Passive Income",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZnVWUmY2ZXpRa2VqM05FMmJZbzhfVkFXTllzS2Y1TUV6QUxLa0xGWnB1ZU03ZTQwWE5oTER6dFhmM1ljWlYyMFpwV2ZDQXAwcEZDZDBNbndsZmphOWFEckF4eUVocEVtNDAyTWNiYnpLS2tOLU5hUVRxNDUyVEQxVzJXS1pGNlYyaVVESWRveU9reGpM?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "1 No-Brainer Dividend ETF to Buy Right Now for Passive Income",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZnVWUmY2ZXpRa2VqM05FMmJZbzhfVkFXTllzS2Y1TUV6QUxLa0xGWnB1ZU03ZTQwWE5oTER6dFhmM1ljWlYyMFpwV2ZDQXAwcEZDZDBNbndsZmphOWFEckF4eUVocEVtNDAyTWNiYnpLS2tOLU5hUVRxNDUyVEQxVzJXS1pGNlYyaVVESWRveU9reGpM?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Forget VOO’s 1% Yield. These 2 BlackRock ETFs Offer 7%+ Passive Income",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONkxDcmlKNzlJS0JkTmZBRnp5a0Z1RzJ2VzJsRnZZS3JWN0pFMi1BcmV2RkFpTmFLWjRjM2FlV05CNG1sTERTNkJaZWxianI0SEdfdnEwVHlES0c5OTdPQWpEeDhwT014dEVCbVBIQk9iQUVQdEJPd0R6MW5TU1JFV2ZuTEpDNVZ6ODdWR2xJbkUxdG1qUWFMY1lxNA?oc=5",
+          "title": "Best AI Marketing Tools (2026): CapCut Recognized for AI-Powered Content Creation by Software Experts",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOa3J0SzZ4NnEzcC1SRjZsYm1FSVdrZXBHZDFKY1hSLS1Fa1NzZUlYYmR1QVdXM21EYkVZNmg3bUVjLWZKUkM1cnBRcnBmc0dQMmloOFBILWlyZEktellSMXJxQ2lmYk5QWHZkVy1DOVNrQVBqaHY3UnRwQUx5c0ZiY0JTNldjMW5ibjRvTWRGWVltUlhEWW9aX2NpU20?oc=5",
           "source": "gnews"
         }
       ],
-      "id": "00cf141f881d",
-      "slug": "income",
+      "id": "34dae3f3dd65",
+      "slug": "software-experts",
       "opportunity": {
         "type": "niche-content",
         "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
       }
     },
     {
-      "keyword": "tailscale ssh",
-      "count": 8,
-      "score": 81.04664487549115,
+      "keyword": "automl tools",
+      "count": 11,
+      "score": 98.77978565637038,
       "proper": true,
       "niches": [
         "ai"
       ],
       "examples": [
         {
-          "title": "TS-2026-009: Insecure argument handling in Tailscale SSH permitted root access",
-          "url": "https://tailscale.com/security-bulletins",
-          "source": "hackernews"
+          "title": "Top 10: AutoML Tools",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBZNEhWSDdmMDlFaVczVmtoamNTT005VU1hZHBHV09BeURXX2tzNnNnUWRQOTc0eURZRmNVWDdsUE5IVVU5MkphQWhtNEFydUVENUZONHUtNDA3enlz?oc=5",
+          "source": "gnews"
         },
         {
-          "title": "TS-2026-009: Insecure argument handling in Tailscale SSH permitted root access",
-          "url": "https://tailscale.com/security-bulletins",
-          "source": "hackernews"
-        }
-      ],
-      "id": "2e13bb1fdc04",
-      "slug": "tailscale-ssh",
-      "opportunity": {
-        "type": "tooling",
-        "recommended": "Build / list AI tools; monetize via affiliate links + lead magnet."
-      }
-    },
-    {
-      "keyword": "tradingview mcp",
-      "count": 8,
-      "score": 78.29366689261067,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "pueschel88/Tradingview-MCP — Tradingview MCP server for controlling Tradingview Desktop from Claude Code via Chrome DevTools Protocol",
-          "url": "https://github.com/pueschel88/Tradingview-MCP",
-          "source": "github"
+          "title": "Top 10: AutoML Tools",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBZNEhWSDdmMDlFaVczVmtoamNTT005VU1hZHBHV09BeURXX2tzNnNnUWRQOTc0eURZRmNVWDdsUE5IVVU5MkphQWhtNEFydUVENUZONHUtNDA3enlz?oc=5",
+          "source": "gnews"
         },
         {
-          "title": "pueschel88/Tradingview-MCP — Tradingview MCP server for controlling Tradingview Desktop from Claude Code via Chrome DevTools Protocol",
-          "url": "https://github.com/pueschel88/Tradingview-MCP",
-          "source": "github"
+          "title": "Top 10: AutoML Tools",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBZNEhWSDdmMDlFaVczVmtoamNTT005VU1hZHBHV09BeURXX2tzNnNnUWRQOTc0eURZRmNVWDdsUE5IVVU5MkphQWhtNEFydUVENUZONHUtNDA3enlz?oc=5",
+          "source": "gnews"
         }
       ],
-      "id": "7c8a9f2c60d0",
-      "slug": "tradingview-mcp",
-      "opportunity": {
-        "type": "niche-content",
-        "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
-      }
-    },
-    {
-      "keyword": "tradingview desktop",
-      "count": 8,
-      "score": 78.29366689261067,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "pueschel88/Tradingview-MCP — Tradingview MCP server for controlling Tradingview Desktop from Claude Code via Chrome DevTools Protocol",
-          "url": "https://github.com/pueschel88/Tradingview-MCP",
-          "source": "github"
-        },
-        {
-          "title": "pueschel88/Tradingview-MCP — Tradingview MCP server for controlling Tradingview Desktop from Claude Code via Chrome DevTools Protocol",
-          "url": "https://github.com/pueschel88/Tradingview-MCP",
-          "source": "github"
-        }
-      ],
-      "id": "7451f84118c9",
-      "slug": "tradingview-desktop",
+      "id": "51e0213df41c",
+      "slug": "automl-tools",
       "opportunity": {
         "type": "affiliate",
         "recommended": "Write SEO comparison/roundup article with affiliate links."
       }
     },
     {
-      "keyword": "claude code",
-      "count": 8,
-      "score": 78.29366689261067,
+      "keyword": "consumer alert",
+      "count": 11,
+      "score": 98.77978565637038,
       "proper": true,
       "niches": [
         "ai"
       ],
       "examples": [
         {
-          "title": "pueschel88/Tradingview-MCP — Tradingview MCP server for controlling Tradingview Desktop from Claude Code via Chrome DevTools Protocol",
-          "url": "https://github.com/pueschel88/Tradingview-MCP",
-          "source": "github"
+          "title": "Consumer Alert: Expert warns AI deep fakes and voice cloning are top tools scammers are using",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcGVGQlVrVFZIcnVmelpPX29BekF0OXBsMmRCVGdieENPZl8tRFJTRTB3Q1I0anEybW1CWVFCTTdKald2aUtsRm15NXNySXB3OEw5UVByWERFc1ROZmIybkdpcGRzclZOaTBvUUhTNWdzbXVJby0xbXpDaTR4OC1WTGllN292MlA5ekVlY1Q3LTAtRGtSOE5oUmM0MzFpZHNqd1dMb3V6S3V2UHRNd0FwWFYyd0lCSmNUZF9GOEI2UXY?oc=5",
+          "source": "gnews"
         },
         {
-          "title": "pueschel88/Tradingview-MCP — Tradingview MCP server for controlling Tradingview Desktop from Claude Code via Chrome DevTools Protocol",
-          "url": "https://github.com/pueschel88/Tradingview-MCP",
-          "source": "github"
+          "title": "Consumer Alert: Expert warns AI deep fakes and voice cloning are top tools scammers are using",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcGVGQlVrVFZIcnVmelpPX29BekF0OXBsMmRCVGdieENPZl8tRFJTRTB3Q1I0anEybW1CWVFCTTdKald2aUtsRm15NXNySXB3OEw5UVByWERFc1ROZmIybkdpcGRzclZOaTBvUUhTNWdzbXVJby0xbXpDaTR4OC1WTGllN292MlA5ekVlY1Q3LTAtRGtSOE5oUmM0MzFpZHNqd1dMb3V6S3V2UHRNd0FwWFYyd0lCSmNUZF9GOEI2UXY?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Consumer Alert: Expert warns AI deep fakes and voice cloning are top tools scammers are using",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcGVGQlVrVFZIcnVmelpPX29BekF0OXBsMmRCVGdieENPZl8tRFJTRTB3Q1I0anEybW1CWVFCTTdKald2aUtsRm15NXNySXB3OEw5UVByWERFc1ROZmIybkdpcGRzclZOaTBvUUhTNWdzbXVJby0xbXpDaTR4OC1WTGllN292MlA5ekVlY1Q3LTAtRGtSOE5oUmM0MzFpZHNqd1dMb3V6S3V2UHRNd0FwWFYyd0lCSmNUZF9GOEI2UXY?oc=5",
+          "source": "gnews"
         }
       ],
-      "id": "a625159d18da",
-      "slug": "claude-code",
+      "id": "42f7175019db",
+      "slug": "consumer-alert",
       "opportunity": {
-        "type": "tooling",
-        "recommended": "Build / list AI tools; monetize via affiliate links + lead magnet."
+        "type": "niche-content",
+        "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
       }
     },
     {
-      "keyword": "global warming",
+      "keyword": "nigel farage",
       "count": 8,
-      "score": 78.09589049800249,
+      "score": 96.04067566916167,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "A reminder that Nigel Farage lost to a dolphin in the 2010 election",
+          "url": "https://cyberplace.social/@GossiTheDog/116923473143735936",
+          "source": "mastodon"
+        },
+        {
+          "title": "A reminder that Nigel Farage lost to a dolphin in the 2010 election",
+          "url": "https://cyberplace.social/@GossiTheDog/116923473143735936",
+          "source": "mastodon"
+        }
+      ],
+      "id": "dd81601488e1",
+      "slug": "nigel-farage",
+      "opportunity": {
+        "type": "niche-content",
+        "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
+      }
+    },
+    {
+      "keyword": "jurassic park",
+      "count": 8,
+      "score": 92.7088963265589,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "Jurassic Park computers in excruciating detail",
+          "url": "https://fabiensanglard.net/jurrasic_park_computers/index.html",
+          "source": "hackernews"
+        },
+        {
+          "title": "Jurassic Park computers in excruciating detail",
+          "url": "https://fabiensanglard.net/jurrasic_park_computers/index.html",
+          "source": "hackernews"
+        }
+      ],
+      "id": "2894942de726",
+      "slug": "jurassic-park",
+      "opportunity": {
+        "type": "niche-content",
+        "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
+      }
+    },
+    {
+      "keyword": "skydance media",
+      "count": 8,
+      "score": 89.50984323023351,
       "proper": true,
       "niches": [
         "software"
       ],
       "examples": [
         {
-          "title": "Global Warming at 3 °C by 2050? What's Behind the New German Climate Warning",
-          "url": "https://worldcrunch.com/focus/green-or-gone/global-warming-at-3c-by-2050-what-s-behind-the-new-german-climate-warning/",
-          "source": "hackernews"
+          "title": "NEW: Months after FCC Commissioner Olivia Trusty cast a decisive vote approving Paramount’s historic $8 billion merger with Skydance Media, she and a guest accepted Kennedy Center gala tickets from th",
+          "url": "https://newsie.social/@ProPublica/116924233701506559",
+          "source": "mastodon"
         },
         {
-          "title": "Global Warming at 3 °C by 2050? What's Behind the New German Climate Warning",
-          "url": "https://worldcrunch.com/focus/green-or-gone/global-warming-at-3c-by-2050-what-s-behind-the-new-german-climate-warning/",
-          "source": "hackernews"
+          "title": "NEW: Months after FCC Commissioner Olivia Trusty cast a decisive vote approving Paramount’s historic $8 billion merger with Skydance Media, she and a guest accepted Kennedy Center gala tickets from th",
+          "url": "https://newsie.social/@ProPublica/116924233701506559",
+          "source": "mastodon"
         }
       ],
-      "id": "41a40ce559ef",
-      "slug": "global-warming",
+      "id": "242a6e40f258",
+      "slug": "skydance-media",
       "opportunity": {
         "type": "niche-content",
         "recommended": "Publish niche guide for \"software\"; bundle into digital product later."

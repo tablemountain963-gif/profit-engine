@@ -1,6 +1,27 @@
 {
   "items": [
     {
+      "slug": "star-powers-2026-07-15",
+      "topic": "Star Powers",
+      "date": "2026-07-15",
+      "niche": "gear",
+      "file": "social/star-powers-2026-07-15.md"
+    },
+    {
+      "slug": "productivity-apps-2026-07-15",
+      "topic": "Productivity Apps",
+      "date": "2026-07-15",
+      "niche": "ai",
+      "file": "social/productivity-apps-2026-07-15.md"
+    },
+    {
+      "slug": "passive-income-2026-07-15",
+      "topic": "Passive Income",
+      "date": "2026-07-15",
+      "niche": "ai",
+      "file": "social/passive-income-2026-07-15.md"
+    },
+    {
       "slug": "jepa-world-model-2026-07-15",
       "topic": "Jepa World Model",
       "date": "2026-07-15",
@@ -1378,27 +1399,6 @@
       "date": "2026-06-23",
       "niche": "software",
       "file": "social/voidstrap-roblox-2026-06-23.md"
-    },
-    {
-      "slug": "2026-blank-2026-06-23",
-      "topic": "2026 Blank",
-      "date": "2026-06-23",
-      "niche": "ai",
-      "file": "social/2026-blank-2026-06-23.md"
-    },
-    {
-      "slug": "dividend-stocks-2026-06-23",
-      "topic": "Dividend Stocks",
-      "date": "2026-06-23",
-      "niche": "finance",
-      "file": "social/dividend-stocks-2026-06-23.md"
-    },
-    {
-      "slug": "groq-raises-2026-06-22",
-      "topic": "Groq Raises",
-      "date": "2026-06-22",
-      "niche": "ai",
-      "file": "social/groq-raises-2026-06-22.md"
     }
   ]
 }
