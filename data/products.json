@@ -1,6 +1,53 @@
 {
   "items": [
     {
+      "slug": "starter-kit-software-sector-2026-07-15",
+      "title": "Software Sector Starter Kit — Templates + Playbook",
+      "blurb": "Templates, playbook, and 30-day plan for Software Sector. Skip the blank page.",
+      "type": "starter-kit",
+      "topic": "Software Sector",
+      "niche": "finance",
+      "price": 29,
+      "generatedAt": "2026-07-15T21:45:08.318Z",
+      "files": [
+        "playbook.md",
+        "templates.md",
+        "30-day-plan.md",
+        "README.md",
+        "LICENSE.txt"
+      ]
+    },
+    {
+      "slug": "prompt-pack-top-execs-2026-07-15",
+      "title": "Top Execs Prompt Pack — 50 Battle-Tested Prompts",
+      "blurb": "50 proven prompts for Top Execs. Copy/paste ready. Tested across Claude, GPT, Gemini.",
+      "type": "prompt-pack",
+      "topic": "Top Execs",
+      "niche": "ai",
+      "price": 19,
+      "generatedAt": "2026-07-15T21:45:01.590Z",
+      "files": [
+        "prompts.md",
+        "README.md",
+        "LICENSE.txt"
+      ]
+    },
+    {
+      "slug": "prompt-pack-codex-agent-2026-07-15",
+      "title": "Codex Agent Prompt Pack — 50 Battle-Tested Prompts",
+      "blurb": "50 proven prompts for Codex Agent. Copy/paste ready. Tested across Claude, GPT, Gemini.",
+      "type": "prompt-pack",
+      "topic": "Codex Agent",
+      "niche": "ai",
+      "price": 19,
+      "generatedAt": "2026-07-15T21:44:53.743Z",
+      "files": [
+        "prompts.md",
+        "README.md",
+        "LICENSE.txt"
+      ]
+    },
+    {
       "slug": "starter-kit-coffee-taking-2026-07-15",
       "title": "Coffee Taking Starter Kit — Templates + Playbook",
       "blurb": "Templates, playbook, and 30-day plan for Coffee Taking. Skip the blank page.",
@@ -2991,51 +3038,6 @@
       "niche": "ai",
       "price": 19,
       "generatedAt": "2026-06-11T16:53:56.884Z",
-      "files": [
-        "prompts.md",
-        "README.md",
-        "LICENSE.txt"
-      ]
-    },
-    {
-      "slug": "prompt-pack-apple-silicon-2026-06-11",
-      "title": "Apple Silicon Prompt Pack — 50 Battle-Tested Prompts",
-      "blurb": "50 proven prompts for Apple Silicon. Copy/paste ready. Tested across Claude, GPT, Gemini.",
-      "type": "prompt-pack",
-      "topic": "Apple Silicon",
-      "niche": "ai",
-      "price": 19,
-      "generatedAt": "2026-06-11T05:26:13.222Z",
-      "files": [
-        "prompts.md",
-        "README.md",
-        "LICENSE.txt"
-      ]
-    },
-    {
-      "slug": "prompt-pack-prime-deals-2026-06-10",
-      "title": "Prime Deals Prompt Pack — 50 Battle-Tested Prompts",
-      "blurb": "50 proven prompts for Prime Deals. Copy/paste ready. Tested across Claude, GPT, Gemini.",
-      "type": "prompt-pack",
-      "topic": "Prime Deals",
-      "niche": "software",
-      "price": 19,
-      "generatedAt": "2026-06-10T18:24:46.235Z",
-      "files": [
-        "prompts.md",
-        "README.md",
-        "LICENSE.txt"
-      ]
-    },
-    {
-      "slug": "prompt-pack-aws-bedrock-2026-06-10",
-      "title": "AWS Bedrock Prompt Pack — 50 Battle-Tested Prompts",
-      "blurb": "50 proven prompts for AWS Bedrock. Copy/paste ready. Tested across Claude, GPT, Gemini.",
-      "type": "prompt-pack",
-      "topic": "AWS Bedrock",
-      "niche": "ai",
-      "price": 19,
-      "generatedAt": "2026-06-10T16:34:52.710Z",
       "files": [
         "prompts.md",
         "README.md",

@@ -1,6 +1,27 @@
 {
   "items": [
     {
+      "slug": "beat-heat-2026-07-15",
+      "topic": "Beat Heat",
+      "date": "2026-07-15",
+      "niche": "gear",
+      "file": "social/beat-heat-2026-07-15.md"
+    },
+    {
+      "slug": "gadgets-beat-2026-07-15",
+      "topic": "Gadgets Beat",
+      "date": "2026-07-15",
+      "niche": "gear",
+      "file": "social/gadgets-beat-2026-07-15.md"
+    },
+    {
+      "slug": "tools-2026-2026-07-15",
+      "topic": "Tools 2026",
+      "date": "2026-07-15",
+      "niche": "ai",
+      "file": "social/tools-2026-2026-07-15.md"
+    },
+    {
       "slug": "2026-blank-2026-07-15",
       "topic": "2026 Blank",
       "date": "2026-07-15",
@@ -1378,27 +1399,6 @@
       "date": "2026-06-23",
       "niche": "ai",
       "file": "social/ammo-editor-2026-06-23.md"
-    },
-    {
-      "slug": "mode-infinite-2026-06-23",
-      "topic": "Mode Infinite",
-      "date": "2026-06-23",
-      "niche": "ai",
-      "file": "social/mode-infinite-2026-06-23.md"
-    },
-    {
-      "slug": "passive-income-2026-06-23",
-      "topic": "Passive Income",
-      "date": "2026-06-23",
-      "niche": "finance",
-      "file": "social/passive-income-2026-06-23.md"
-    },
-    {
-      "slug": "requiem-re9-2026-06-23",
-      "topic": "Requiem Re9",
-      "date": "2026-06-23",
-      "niche": "ai",
-      "file": "social/requiem-re9-2026-06-23.md"
     }
   ]
 }

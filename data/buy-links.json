@@ -1898,5 +1898,26 @@
     "price": 29,
     "productId": "prod_UtIrWd2OOqTFuj",
     "cover": "/assets/pack-cover.png"
+  },
+  "starter-kit-software-sector-2026-07-15": {
+    "url": "https://buy.stripe.com/4gM9ASety7XwdzZ3NGfjH0f",
+    "platform": "stripe",
+    "price": 29,
+    "productId": "prod_UtNMRHhRXx3Lmp",
+    "cover": "/assets/pack-cover.png"
+  },
+  "prompt-pack-top-execs-2026-07-15": {
+    "url": "https://buy.stripe.com/eVq7sK7161z87bB1FyfjH0g",
+    "platform": "stripe",
+    "price": 19,
+    "productId": "prod_UtNMx2NSSeEfiC",
+    "cover": "/assets/pack-cover.png"
+  },
+  "prompt-pack-codex-agent-2026-07-15": {
+    "url": "https://buy.stripe.com/9B6aEWadi1z89jJeskfjH0h",
+    "platform": "stripe",
+    "price": 19,
+    "productId": "prod_UtNMPeEDVYRv4z",
+    "cover": "/assets/pack-cover.png"
   }
 }

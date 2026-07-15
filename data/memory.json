@@ -250,8 +250,8 @@
     },
     "tools-2026": {
       "firstSeen": "2026-05-29T18:28:06.277Z",
-      "lastSeen": "2026-07-10T04:47:23.003Z",
-      "count": 6,
+      "lastSeen": "2026-07-15T21:45:28.904Z",
+      "count": 7,
       "wins": 1,
       "losses": 0,
       "niche": "ai"
@@ -2992,22 +2992,6 @@
       "losses": 0,
       "niche": "finance"
     },
-    "critical-mistakes": {
-      "firstSeen": "2026-07-01T17:46:39.205Z",
-      "lastSeen": "2026-07-01T17:46:39.205Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "ai"
-    },
-    "buy-239": {
-      "firstSeen": "2026-07-01T17:47:34.165Z",
-      "lastSeen": "2026-07-01T17:47:34.165Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "finance"
-    },
     "cherry-k33": {
       "firstSeen": "2026-07-01T22:10:59.113Z",
       "lastSeen": "2026-07-02T15:13:23.874Z",
@@ -4026,9 +4010,9 @@
     },
     "apple-silicon": {
       "firstSeen": "2026-07-08T04:11:49.579Z",
-      "lastSeen": "2026-07-15T17:05:25.674Z",
-      "count": 2,
-      "wins": 0,
+      "lastSeen": "2026-07-15T21:44:41.487Z",
+      "count": 3,
+      "wins": 1,
       "losses": 0,
       "niche": "software"
     },
@@ -4914,9 +4898,9 @@
     },
     "external-esp": {
       "firstSeen": "2026-07-13T04:27:51.969Z",
-      "lastSeen": "2026-07-13T04:27:51.969Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-07-15T21:44:41.482Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -5322,9 +5306,9 @@
     },
     "global-warming": {
       "firstSeen": "2026-07-15T03:55:35.873Z",
-      "lastSeen": "2026-07-15T03:55:35.873Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-07-15T21:44:41.485Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "software"
     },
@@ -5439,26 +5423,90 @@
       "wins": 0,
       "losses": 0,
       "niche": "finance"
+    },
+    "pete-hegseth": {
+      "firstSeen": "2026-07-15T21:44:47.375Z",
+      "lastSeen": "2026-07-15T21:44:47.375Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "jurassic-parkyes": {
+      "firstSeen": "2026-07-15T21:44:50.484Z",
+      "lastSeen": "2026-07-15T21:44:50.484Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "weights-model": {
+      "firstSeen": "2026-07-15T21:44:53.194Z",
+      "lastSeen": "2026-07-15T21:44:53.194Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "codex-agent": {
+      "firstSeen": "2026-07-15T21:45:01.589Z",
+      "lastSeen": "2026-07-15T21:45:01.589Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "top-execs": {
+      "firstSeen": "2026-07-15T21:45:08.316Z",
+      "lastSeen": "2026-07-15T21:45:08.316Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "software-sector": {
+      "firstSeen": "2026-07-15T21:45:11.988Z",
+      "lastSeen": "2026-07-15T21:45:11.988Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "finance"
+    },
+    "gadgets-beat": {
+      "firstSeen": "2026-07-15T21:45:53.174Z",
+      "lastSeen": "2026-07-15T21:45:53.174Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "gear"
+    },
+    "beat-heat": {
+      "firstSeen": "2026-07-15T21:46:14.998Z",
+      "lastSeen": "2026-07-15T21:46:14.998Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "gear"
     }
   },
   "niches": {
     "ai": {
-      "count": 1352,
-      "wins": 367,
+      "count": 1359,
+      "wins": 368,
       "losses": 58
     },
     "finance": {
-      "count": 122,
+      "count": 123,
       "wins": 20,
       "losses": 2
     },
     "software": {
-      "count": 315,
-      "wins": 89,
+      "count": 317,
+      "wins": 91,
       "losses": 19
     },
     "gear": {
-      "count": 124,
+      "count": 126,
       "wins": 39,
       "losses": 0
     },
