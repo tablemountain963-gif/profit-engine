@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "slug": "climate-warning-2026-07-15-019ed4",
+      "title": "Climate Warning",
+      "date": "2026-07-15",
+      "niche": "software",
+      "keywords": [
+        "Climate Warning",
+        "software"
+      ],
+      "score": 78.1,
+      "file": "articles/climate-warning-2026-07-15-019ed4.md"
+    },
+    {
+      "slug": "global-warming-2026-07-15-e2aaf6",
+      "title": "Global Warming",
+      "date": "2026-07-15",
+      "niche": "software",
+      "keywords": [
+        "Global Warming",
+        "software"
+      ],
+      "score": 78.1,
+      "file": "articles/global-warming-2026-07-15-e2aaf6.md"
+    },
+    {
+      "slug": "tailscale-ssh-2026-07-15-e0d765",
+      "title": "1 in 5 Tailscale SSH Users May Be Exposed to Root Access Vulnerabilities",
+      "date": "2026-07-15",
+      "niche": "ai",
+      "keywords": [
+        "Tailscale Ssh",
+        "ai"
+      ],
+      "score": 81.05,
+      "file": "articles/tailscale-ssh-2026-07-15-e0d765.md"
+    },
+    {
       "slug": "no-brainer-dividend-2026-07-14-8ae1e0",
       "title": "A 10% Annual Return with Minimal Effort: The Allure of No-Brainer Dividend Investments",
       "date": "2026-07-14",
@@ -6006,42 +6042,6 @@
       ],
       "score": 78.34,
       "file": "articles/google-cloud-2026-06-03-c147b6.md"
-    },
-    {
-      "slug": "nvidia-nemoclaw-2026-06-03-ff13d4",
-      "title": "Nvidia Nemoclaw",
-      "date": "2026-06-03",
-      "niche": "ai",
-      "keywords": [
-        "Nvidia Nemoclaw",
-        "ai"
-      ],
-      "score": 78.34,
-      "file": "articles/nvidia-nemoclaw-2026-06-03-ff13d4.md"
-    },
-    {
-      "slug": "transplant-industry-2026-06-03-1008d3",
-      "title": "Transplant Industry",
-      "date": "2026-06-03",
-      "niche": "ai",
-      "keywords": [
-        "Transplant Industry",
-        "ai"
-      ],
-      "score": 59.76,
-      "file": "articles/transplant-industry-2026-06-03-1008d3.md"
-    },
-    {
-      "slug": "oss-project-2026-06-03-df5377",
-      "title": "The OSS Project Paradox: 75% of Open-Source Projects Have Only One Contributor",
-      "date": "2026-06-03",
-      "niche": "ai",
-      "keywords": [
-        "Oss Project",
-        "ai"
-      ],
-      "score": 67.71,
-      "file": "articles/oss-project-2026-06-03-df5377.md"
     }
   ]
 }

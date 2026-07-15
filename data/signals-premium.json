@@ -1,115 +1,126 @@
 {
-  "generatedAt": "2026-07-14T21:43:46.043Z",
+  "generatedAt": "2026-07-15T03:55:29.094Z",
   "sourceCount": 204,
   "topItems": [
     {
       "title": "How to stop Claude from saying load-bearing",
       "url": "https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing",
-      "score": 10.26,
+      "score": 10.56,
       "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 362,
-        "comments": 424
+        "score": 456,
+        "comments": 515
       }
     },
     {
-      "title": "This — THIS — what Berlatsky said, read it, read the whole thingandthe ICE murders are •supposed•&nbsp;to provoke a violent backlash from the population that will be a pretext for full domestic milita",
-      "url": "https://hachyderm.io/@inthehands/116919731083092893",
-      "score": 8.84,
-      "niche": "ai",
+      "title": "fascinating economic discovery from Fidelity: houses actually are cheaper now than in 2020!** if you denominate them in an arbitrary asset that has appreciated over that time framenext up from Fidelit",
+      "url": "https://hachyderm.io/@molly0xfff/116921441667666535",
+      "score": 8.71,
+      "niche": "software",
       "source": "mastodon",
       "engagement": {
-        "score": 238,
-        "comments": 7
-      }
-    },
-    {
-      "title": "Australian energy retailers must offer three hours of free daytime electricity",
-      "url": "https://lenergy.com.au/free-daytime-electricity-is-coming-heres-how-it-actually-works/",
-      "score": 8.73,
-      "niche": "ai",
-      "source": "hackernews",
-      "engagement": {
-        "score": 257,
-        "comments": 333
-      }
-    },
-    {
-      "title": "Bonsai 27B: A 27B-Class model that runs on a phone",
-      "url": "https://prismml.com/news/bonsai-27b",
-      "score": 8.33,
-      "niche": "ai",
-      "source": "hackernews",
-      "engagement": {
-        "score": 239,
-        "comments": 81
-      }
-    },
-    {
-      "title": "Demis Hassabis has a plan to harness AI safely",
-      "url": "https://twitter.com/demishassabis/status/2076957440109625718",
-      "score": 7.76,
-      "niche": "ai",
-      "source": "hackernews",
-      "engagement": {
-        "score": 122,
-        "comments": 154
-      }
-    },
-    {
-      "title": "European \"age verification\" \"app\" forcing everyone to use Android or iOS",
-      "url": "https://github.com/eu-digital-identity-wallet/av-doc-technical-specification/discussions/19",
-      "score": 7.72,
-      "niche": "software",
-      "source": "hackernews",
-      "engagement": {
-        "score": 428,
-        "comments": 284
+        "score": 206,
+        "comments": 20
       }
     },
     {
       "title": "Are we offloading too much of our thinking to AI?",
       "url": "https://www.artfish.ai/p/offloading-thinking-to-ai",
-      "score": 7.62,
+      "score": 7.88,
       "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 317,
-        "comments": 315
+        "score": 399,
+        "comments": 399
       }
     },
     {
-      "title": "I don't know, but I don't need to know. They are happy so...#sillyScribbles #featherFolk",
-      "url": "https://things.uk/@eclectech/116919965211877303",
-      "score": 7.48,
+      "title": "i am hiring a browser security engineer! if you are not a bot, feel free to apply https://job-boards.greenhouse.io/brave/jobs/8048968",
+      "url": "https://infosec.exchange/@bcrypt/116920999637631699",
+      "score": 7.81,
       "niche": "software",
       "source": "mastodon",
       "engagement": {
-        "score": 203,
-        "comments": 3
+        "score": 135,
+        "comments": 2
       }
     },
     {
-      "title": "\"rejecting AI is like rejecting the automobile\" yeah i know lol",
-      "url": "https://friend.camp/@aparrish/116919572023782105",
-      "score": 7.32,
+      "title": "Your ChatGPT or Gemini generated flyer or infographic is garbage",
+      "url": "https://mastodon.social/@nixCraft/116921019327102880",
+      "score": 7.67,
       "niche": "ai",
       "source": "mastodon",
       "engagement": {
-        "score": 147,
-        "comments": 23
+        "score": 225,
+        "comments": 12
       }
     },
     {
-      "title": "This Certo report on how abusers are using Chrome sync for stalking is an important reminder that tech-enabled abuse isn't just limited to stalkerware: https://www.certosoftware.com/insights/cyberstal",
-      "url": "https://hachyderm.io/@evacide/116919527093322234",
-      "score": 6.57,
+      "title": "Financing the AI boom: from cash flows to debt [pdf]",
+      "url": "https://www.bis.org/publ/bisbull120.pdf",
+      "score": 7.6,
+      "niche": "ai",
+      "source": "hackernews",
+      "engagement": {
+        "score": 110,
+        "comments": 63
+      }
+    },
+    {
+      "title": "Bonsai 27B: A 27B-Class model that runs on a phone",
+      "url": "https://prismml.com/news/bonsai-27b",
+      "score": 7.49,
+      "niche": "ai",
+      "source": "hackernews",
+      "engagement": {
+        "score": 485,
+        "comments": 177
+      }
+    },
+    {
+      "title": "The man who tried 200 to-do apps has some advice about AI",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0tX1JDTlhrM0JhYi10WEpIN3FNWWFsNEp6WHZBRGxSNG9HV253VUs3ZGc3VEZveE9McXFqdnlxdWNQbFJ4Mm5yaVdLR21IR0VNQU5qQW9NRVV1MHRBcjAteE1KODY3dGR3QkVwVXZYbG5UQzJhb1lhNC1pbWQ?oc=5",
+      "score": 7.48,
+      "niche": "ai",
+      "source": "gnews",
+      "engagement": {
+        "score": 40,
+        "comments": 0
+      }
+    },
+    {
+      "title": "TS-2026-009: Insecure argument handling in Tailscale SSH permitted root access",
+      "url": "https://tailscale.com/security-bulletins",
+      "score": 6.75,
+      "niche": "ai",
+      "source": "hackernews",
+      "engagement": {
+        "score": 68,
+        "comments": 30
+      }
+    },
+    {
+      "title": "Probably check on your smart appliances",
+      "url": "https://xeiaso.net/notes/2026/check-your-smart-tv/",
+      "score": 6.6,
       "niche": "software",
+      "source": "hackernews",
+      "engagement": {
+        "score": 34,
+        "comments": 15
+      }
+    },
+    {
+      "title": "Susan Collins gave us Kavanaugh and Gorsuch,  who overturned Roe v. Wade. She voted for a GOP tax bill that cut health care for thousands of Mainers.She gave ICE an ADDITIONAL $70BShe’s no innocent vi",
+      "url": "https://mstdn.social/@DemocracyMattersALot/116921383721291672",
+      "score": 6.56,
+      "niche": "ai",
       "source": "mastodon",
       "engagement": {
-        "score": 213,
-        "comments": 4
+        "score": 107,
+        "comments": 2
       }
     },
     {
@@ -124,152 +135,141 @@
       }
     },
     {
-      "title": "Hey Windows (ab)users, Microsoft has a big present for you: Today they released software updates to plug at least 570 security holes in their Windows operating systems and other software, almost tripl",
-      "url": "https://infosec.exchange/@briankrebs/116919980606308886",
-      "score": 6.31,
+      "title": "Global Warming at 3 °C by 2050? What's Behind the New German Climate Warning",
+      "url": "https://worldcrunch.com/focus/green-or-gone/global-warming-at-3c-by-2050-what-s-behind-the-new-german-climate-warning/",
+      "score": 6.51,
       "niche": "software",
-      "source": "mastodon",
-      "engagement": {
-        "score": 157,
-        "comments": 11
-      }
-    },
-    {
-      "title": "Solving.AI wants AI to teach you how to use work software (properly)",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQYzdjcVUtcHh1UmtNWGF6aEE4eGdKNFZVWm1JNlFUOUhHLUtUVEkxU3lZS2J1c3lxWUREQ01ZVk9ieF9vZUJLTTk1aGJvRFBKalZUTUFvaWJKYXlxZXA3SlN4NV9YRWNQSy1HVXdPT0hJb204VGVjeExSME5uT1VOMFNoNElSZ2JuTGRmeDAxVEg?oc=5",
-      "score": 5.99,
-      "niche": "ai",
-      "source": "gnews",
-      "engagement": {
-        "score": 40,
-        "comments": 0
-      }
-    },
-    {
-      "title": "IBM warns AI boom squeezing software budgets; shares sink in sector rout",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWVlTRXBpazdNZ0M1bWhlX1UtSTNNYU9hbmxiLUhtcHE2M3hLMHlrc2s4bkwwS1RqbkJaLWExWHQ3bVZzQ3REVXBfa2Q3MHJqYUdXZ2d1dHEwVEQ3UEhsSU5Gckk4YnR2bzRvOXEzRGFHY3NERjlLQ3VNTTgxNGN5c3NCbFRkX3Z0YklpYndWV0ZoV3JsQ0NyUTBRQQ?oc=5",
-      "score": 5.94,
-      "niche": "ai",
-      "source": "gnews",
-      "engagement": {
-        "score": 40,
-        "comments": 0
-      }
-    },
-    {
-      "title": "Launch HN: Agnost AI (YC S26) – Extract user feedback from agent conversations",
-      "url": "https://agnost.ai",
-      "score": 5.9,
-      "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 33,
-        "comments": 18
-      }
-    },
-    {
-      "title": "8BitDo’s Nintendo-themed desk gear is the ultimate retro home office upgrade",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTS1pR01fV1llVUJJbGVkdlBLcV9ZeG52NlVmZV9ETndkbzN3RlA4cEZTRGxMdy16dVFhaTljalloQnJuQkFRTGc4QjJpVWtDRmE3NjlxRFItcWZPMXdOR1JqNmVsZ2VaeGZNXzBnNy03akwwdHh1QXctQjdSazY3Y2xpblhVeDBkb2w5RjVHazE2aTZlSkRiVzBseVhwV3djY3dIVVRhTk4?oc=5",
-      "score": 5.87,
-      "niche": "gear",
-      "source": "gnews",
-      "engagement": {
-        "score": 40,
-        "comments": 0
+        "score": 70,
+        "comments": 70
       }
     },
     {
       "title": "QuantumByteOSS/quantumbyte — Open-source app builder engine — intent to working app",
       "url": "https://github.com/QuantumByteOSS/quantumbyte",
-      "score": 5.72,
+      "score": 6.19,
       "niche": "software",
       "source": "github",
       "engagement": {
-        "score": 165,
+        "score": 252,
         "comments": 0
+      }
+    },
+    {
+      "title": "LeMario: Training a JEPA World Model on Super Mario Bros",
+      "url": "https://www.benjamin-bai.com/projects/lemario",
+      "score": 6.16,
+      "niche": "ai",
+      "source": "hackernews",
+      "engagement": {
+        "score": 67,
+        "comments": 8
+      }
+    },
+    {
+      "title": "BRAIN: I sense danger  BODY: Would it help to poop? BRAIN: No, it would not help! BODY: Well, I’m going to poop a little bit",
+      "url": "https://mastodon.social/@donni/116921778359194151",
+      "score": 6.14,
+      "niche": "ai",
+      "source": "mastodon",
+      "engagement": {
+        "score": 76,
+        "comments": 3
+      }
+    },
+    {
+      "title": "On the odd chance you’re a Canadian and don’t have this site bookmarked… #AirQuality #ForestFires #Canada https://firesmoke.ca/forecasts/current/",
+      "url": "https://mastodon.social/@edbilodeau/116921282267832831",
+      "score": 6.02,
+      "niche": "ai",
+      "source": "mastodon",
+      "engagement": {
+        "score": 69,
+        "comments": 3
+      }
+    },
+    {
+      "title": "Guardian Angels: LLM Personalization for Productivity and Security",
+      "url": "https://gwern.net/guardian-angel",
+      "score": 5.75,
+      "niche": "ai",
+      "source": "hackernews",
+      "engagement": {
+        "score": 67,
+        "comments": 11
       }
     },
     {
       "title": "littledivy/mimic — Intercept any app, then call it from Python like a library",
       "url": "https://github.com/littledivy/mimic",
-      "score": 5.71,
+      "score": 5.73,
       "niche": "software",
       "source": "github",
       "engagement": {
-        "score": 902,
+        "score": 912,
+        "comments": 3
+      }
+    },
+    {
+      "title": "1 No-Brainer Dividend ETF to Buy Right Now for Passive Income",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONExtUmZadk1ueF9LV3hSb2l1WDBQMFhoRmtWVnNLTHRLMnl4eF9KX1B2V1JTNXpKRnk2NnAxVnZhWjRxY0p6RHh3UFF2S3k2UDVvQzQwV1VSZTdSS1FJeHQ0YU1ZblFaSnU5NXRLeXhaUW42bzZ3YjViRVgyTjUzREthemQtR3Z5ZHNlWHN1T01fWmQzTFE?oc=5",
+      "score": 5.37,
+      "niche": "ai",
+      "source": "gnews",
+      "engagement": {
+        "score": 40,
+        "comments": 0
+      }
+    },
+    {
+      "title": "oil-oil/beautify-github-readme — Design clear, theme-specific GitHub README homepages with SVG titles, real proof, and maintainable Markdown",
+      "url": "https://github.com/oil-oil/beautify-github-readme",
+      "score": 5.31,
+      "niche": "ai",
+      "source": "github",
+      "engagement": {
+        "score": 253,
+        "comments": 0
+      }
+    },
+    {
+      "title": "Jurassic Park computers in excruciating detail",
+      "url": "https://fabiensanglard.net/jurrasic_park_computers/index.html",
+      "score": 5.19,
+      "niche": "ai",
+      "source": "hackernews",
+      "engagement": {
+        "score": 29,
+        "comments": 6
+      }
+    },
+    {
+      "title": "Absolutely a great day all around. Happy Non-Binary People's day and happy Bastille Day. ❤️",
+      "url": "https://mastodon.social/@anolandria/116921470939964328",
+      "score": 5.19,
+      "niche": "software",
+      "source": "mastodon",
+      "engagement": {
+        "score": 38,
         "comments": 1
       }
     },
     {
-      "title": "Show HN: I RL-trained an agent that trains models with RL (for ~$1.3k)",
-      "url": "https://github.com/Danau5tin/ai-trains-ai",
-      "score": 5.7,
-      "niche": "ai",
-      "source": "hackernews",
-      "engagement": {
-        "score": 90,
-        "comments": 39
-      }
-    },
-    {
-      "title": "mereyabdenbekuly-ctrl/clodex-ide — Local-first, zero-trust agentic IDE for verifiable autonomous software development.",
-      "url": "https://github.com/mereyabdenbekuly-ctrl/clodex-ide",
-      "score": 5.59,
-      "niche": "ai",
-      "source": "github",
-      "engagement": {
-        "score": 801,
-        "comments": 8
-      }
-    },
-    {
-      "title": "Kappaemme-git/codex-first-customer-finder-skill — A Codex skill that finds evidence-backed potential first customers from recent public signals.",
-      "url": "https://github.com/Kappaemme-git/codex-first-customer-finder-skill",
-      "score": 5.34,
-      "niche": "software",
-      "source": "github",
-      "engagement": {
-        "score": 576,
-        "comments": 2
-      }
-    },
-    {
-      "title": "whatcable: macOS menu bar app that tells you, in plain English, what each USB-C cable plugged into your Mac can actually do",
-      "url": "https://github.com/darrylmorley/whatcable",
-      "score": 5.33,
+      "title": "Hating AI in 2026",
+      "url": "https://www.eamoncaddigan.net/posts/ai-in-2026/",
+      "score": 5.05,
       "niche": "ai",
       "source": "lobsters",
       "engagement": {
-        "score": 19,
-        "comments": 4
+        "score": 47,
+        "comments": 23
       }
     },
     {
-      "title": "Prices for computer software jumped a record amount over the past year",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdDFxZDB3YS1KdnN6ckp1a1Fyc2VxQmNhejM3Vk9LcnRnUFc2TXVSTXVubDRkTjRSNWUxT1F0aGVOSmF6NXVnVEJlanNWOHFabVNqQ0UyTXl6RkttVjlQcndNWFZramw1MTNPSUVxTk5MVS1zSlRIbk1oR3pNQXFnZmpaNF9RMk5CTmZHZmd1RzhTR1ZvUmlhRndaVVZMcTd1cmdVR21CMGFVUkJLQUxfcWl2elNUcG1BTGF6THRmNko?oc=5",
-      "score": 5.19,
-      "niche": "software",
-      "source": "gnews",
-      "engagement": {
-        "score": 40,
-        "comments": 0
-      }
-    },
-    {
-      "title": "Caution warranted on this red hot AI cloud data stock that's now 'priced for perfection,' says Todd Gordon",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQ2RvWFB1aFFieDJzS1ZCSU9WdGNiZUQ2MVNValplYnhzejducmx1OVpDeDZqQTZMLTRRSXB3aC11X0tMQ0pSaTJMZElSMlA0ZWVaZXF5VHhtcV9aUDBpX002T29NOG9WeFdHaXRVeFFTUjJoWGZSbkJEc01oSUc0VWFWRkZnMGhXOXBGOGp5bUs5RWVrbU1OZXF2OTB2UHAzdUNUMmhKQURpTWM?oc=5",
-      "score": 5.16,
-      "niche": "ai",
-      "source": "gnews",
-      "engagement": {
-        "score": 40,
-        "comments": 0
-      }
-    },
-    {
-      "title": "Employees sue Meta, alleging discrimination in using AI to make layoffs",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE04VnktaEt1RXM4RlZLRDMyRUNZdV96M2RiY0s0cnhxakJJejhJb0hTUDg5bU9weDdpMGl5VE9QOFpvWnNUUGVkS3V1UWtTQ3hPbWUwWTNyeXhoUE1DaVNkU21LSmdJdmliWnh1LdIBckFVX3lxTE9nUzhfX0VGSFREZC1mbGl1WEtHNjlOTXoxYVJaQ1NjaExtdFgwZTJMQ1JIa0lTU1RER3U2NHZRUzU3aGFYNzh1QjBabWNvM2FOeEV1UGZ6ZWZBSUtzdlk2QjhJdUk3QjlCMU80N0hiemV3QQ?oc=5",
-      "score": 5.16,
+      "title": "7 Best Gadgets & Gear for Digital Nomads in 2026 That Turn Any Café Into a Proper Studio",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVnhFazVibW0tNWlOVXpESzB0SjhNWUdhUDJSV2VKUW1xSzNQVU5xai15ZFlERnJEb2IwanExanBUSThwV3dhdFZVbUhvYkMzeXBkQ2hYOTcyaVhwTXBqaHVBdURuY3BvSTA3ZWRLcUdfVU1KSjhyUy1tU0hFSHVfN09wbHNLbzFDLUl5YlZEdFd5aEFPSksxRFBDR2dDTVlPaHBfa25WR3VKcF9USDZwMXVQdEZfWnJTM1dQVDJjXzJjMkd60gHKAUFVX3lxTFA0UzJEbW9mdHZBd2RYeEpYN0dXUWlJRkp5U01feHNGOEdwdnp1SUN4eUdFME5JaXVJSklIZDhpX2ROX1JwS3BUVUFTYUpTNEZfT1B3bGtYNkZSVGJaYjBXTk5QNHlrMWhiYXhRZkl0NTdPX3hnQ09hQXVJaUtkVDBtTlU0MUhJelRwN0EwQVZpdy0yMGFHTmRDcDhkV29RQTI1NzJDTFEwYVNkR3g2RExHTl9zeFZHdVdrdkI3NU50Y0tZSTJ1TS13cEE?oc=5",
+      "score": 4.95,
       "niche": "ai",
       "source": "gnews",
       "engagement": {
@@ -280,9 +280,48 @@
   ],
   "topics": [
     {
+      "keyword": "passive income",
+      "count": 57,
+      "score": 309.5867635682072,
+      "proper": true,
+      "niches": [
+        "ai",
+        "finance"
+      ],
+      "examples": [
+        {
+          "title": "1 No-Brainer Dividend ETF to Buy Right Now for Passive Income",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONExtUmZadk1ueF9LV3hSb2l1WDBQMFhoRmtWVnNLTHRLMnl4eF9KX1B2V1JTNXpKRnk2NnAxVnZhWjRxY0p6RHh3UFF2S3k2UDVvQzQwV1VSZTdSS1FJeHQ0YU1ZblFaSnU5NXRLeXhaUW42bzZ3YjViRVgyTjUzREthemQtR3Z5ZHNlWHN1T01fWmQzTFE?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "1 No-Brainer Dividend ETF to Buy Right Now for Passive Income",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONExtUmZadk1ueF9LV3hSb2l1WDBQMFhoRmtWVnNLTHRLMnl4eF9KX1B2V1JTNXpKRnk2NnAxVnZhWjRxY0p6RHh3UFF2S3k2UDVvQzQwV1VSZTdSS1FJeHQ0YU1ZblFaSnU5NXRLeXhaUW42bzZ3YjViRVgyTjUzREthemQtR3Z5ZHNlWHN1T01fWmQzTFE?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "1 No-Brainer Dividend ETF to Buy Right Now for Passive Income",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONExtUmZadk1ueF9LV3hSb2l1WDBQMFhoRmtWVnNLTHRLMnl4eF9KX1B2V1JTNXpKRnk2NnAxVnZhWjRxY0p6RHh3UFF2S3k2UDVvQzQwV1VSZTdSS1FJeHQ0YU1ZblFaSnU5NXRLeXhaUW42bzZ3YjViRVgyTjUzREthemQtR3Z5ZHNlWHN1T01fWmQzTFE?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "1 No-Brainer Dividend ETF to Buy Right Now for Passive Income",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZnVWUmY2ZXpRa2VqM05FMmJZbzhfVkFXTllzS2Y1TUV6QUxLa0xGWnB1ZU03ZTQwWE5oTER6dFhmM1ljWlYyMFpwV2ZDQXAwcEZDZDBNbndsZmphOWFEckF4eUVocEVtNDAyTWNiYnpLS2tOLU5hUVRxNDUyVEQxVzJXS1pGNlYyaVVESWRveU9reGpM?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "1 No-Brainer Dividend ETF to Buy Right Now for Passive Income",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZnVWUmY2ZXpRa2VqM05FMmJZbzhfVkFXTllzS2Y1TUV6QUxLa0xGWnB1ZU03ZTQwWE5oTER6dFhmM1ljWlYyMFpwV2ZDQXAwcEZDZDBNbndsZmphOWFEckF4eUVocEVtNDAyTWNiYnpLS2tOLU5hUVRxNDUyVEQxVzJXS1pGNlYyaVVESWRveU9reGpM?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "cf2dbbbf8c8c",
+      "slug": "passive-income"
+    },
+    {
       "keyword": "claude",
       "count": 8,
-      "score": 106.76301904571885,
+      "score": 109.4337437994677,
       "proper": true,
       "niches": [
         "ai"
@@ -313,27 +352,66 @@
       "slug": "claude"
     },
     {
-      "keyword": "demis hassabis",
+      "keyword": "income",
+      "count": 19,
+      "score": 90.00301590810159,
+      "proper": true,
+      "niches": [
+        "ai",
+        "finance"
+      ],
+      "examples": [
+        {
+          "title": "1 No-Brainer Dividend ETF to Buy Right Now for Passive Income",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONExtUmZadk1ueF9LV3hSb2l1WDBQMFhoRmtWVnNLTHRLMnl4eF9KX1B2V1JTNXpKRnk2NnAxVnZhWjRxY0p6RHh3UFF2S3k2UDVvQzQwV1VSZTdSS1FJeHQ0YU1ZblFaSnU5NXRLeXhaUW42bzZ3YjViRVgyTjUzREthemQtR3Z5ZHNlWHN1T01fWmQzTFE?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "1 No-Brainer Dividend ETF to Buy Right Now for Passive Income",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONExtUmZadk1ueF9LV3hSb2l1WDBQMFhoRmtWVnNLTHRLMnl4eF9KX1B2V1JTNXpKRnk2NnAxVnZhWjRxY0p6RHh3UFF2S3k2UDVvQzQwV1VSZTdSS1FJeHQ0YU1ZblFaSnU5NXRLeXhaUW42bzZ3YjViRVgyTjUzREthemQtR3Z5ZHNlWHN1T01fWmQzTFE?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "1 No-Brainer Dividend ETF to Buy Right Now for Passive Income",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZnVWUmY2ZXpRa2VqM05FMmJZbzhfVkFXTllzS2Y1TUV6QUxLa0xGWnB1ZU03ZTQwWE5oTER6dFhmM1ljWlYyMFpwV2ZDQXAwcEZDZDBNbndsZmphOWFEckF4eUVocEVtNDAyTWNiYnpLS2tOLU5hUVRxNDUyVEQxVzJXS1pGNlYyaVVESWRveU9reGpM?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "1 No-Brainer Dividend ETF to Buy Right Now for Passive Income",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZnVWUmY2ZXpRa2VqM05FMmJZbzhfVkFXTllzS2Y1TUV6QUxLa0xGWnB1ZU03ZTQwWE5oTER6dFhmM1ljWlYyMFpwV2ZDQXAwcEZDZDBNbndsZmphOWFEckF4eUVocEVtNDAyTWNiYnpLS2tOLU5hUVRxNDUyVEQxVzJXS1pGNlYyaVVESWRveU9reGpM?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Forget VOO’s 1% Yield. These 2 BlackRock ETFs Offer 7%+ Passive Income",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONkxDcmlKNzlJS0JkTmZBRnp5a0Z1RzJ2VzJsRnZZS3JWN0pFMi1BcmV2RkFpTmFLWjRjM2FlV05CNG1sTERTNkJaZWxianI0SEdfdnEwVHlES0c5OTdPQWpEeDhwT014dEVCbVBIQk9iQUVQdEJPd0R6MW5TU1JFV2ZuTEpDNVZ6ODdWR2xJbkUxdG1qUWFMY1lxNA?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "00cf141f881d",
+      "slug": "income"
+    },
+    {
+      "keyword": "tailscale ssh",
       "count": 8,
-      "score": 93.0708130002383,
+      "score": 81.04664487549115,
       "proper": true,
       "niches": [
         "ai"
       ],
       "examples": [
         {
-          "title": "Demis Hassabis has a plan to harness AI safely",
-          "url": "https://twitter.com/demishassabis/status/2076957440109625718",
+          "title": "TS-2026-009: Insecure argument handling in Tailscale SSH permitted root access",
+          "url": "https://tailscale.com/security-bulletins",
           "source": "hackernews"
         },
         {
-          "title": "Demis Hassabis has a plan to harness AI safely",
-          "url": "https://twitter.com/demishassabis/status/2076957440109625718",
+          "title": "TS-2026-009: Insecure argument handling in Tailscale SSH permitted root access",
+          "url": "https://tailscale.com/security-bulletins",
           "source": "hackernews"
         }
       ],
-      "id": "765cc641dc29",
-      "slug": "demis-hassabis"
+      "id": "2e13bb1fdc04",
+      "slug": "tailscale-ssh"
     },
     {
       "keyword": "tradingview mcp",
@@ -405,43 +483,147 @@
       "slug": "claude-code"
     },
     {
-      "keyword": "software",
-      "count": 14,
-      "score": 75.23137502009175,
-      "proper": false,
+      "keyword": "global warming",
+      "count": 8,
+      "score": 78.09589049800249,
+      "proper": true,
       "niches": [
-        "software",
+        "software"
+      ],
+      "examples": [
+        {
+          "title": "Global Warming at 3 °C by 2050? What's Behind the New German Climate Warning",
+          "url": "https://worldcrunch.com/focus/green-or-gone/global-warming-at-3c-by-2050-what-s-behind-the-new-german-climate-warning/",
+          "source": "hackernews"
+        },
+        {
+          "title": "Global Warming at 3 °C by 2050? What's Behind the New German Climate Warning",
+          "url": "https://worldcrunch.com/focus/green-or-gone/global-warming-at-3c-by-2050-what-s-behind-the-new-german-climate-warning/",
+          "source": "hackernews"
+        }
+      ],
+      "id": "41a40ce559ef",
+      "slug": "global-warming"
+    },
+    {
+      "keyword": "climate warning",
+      "count": 8,
+      "score": 78.09589049800249,
+      "proper": true,
+      "niches": [
+        "software"
+      ],
+      "examples": [
+        {
+          "title": "Global Warming at 3 °C by 2050? What's Behind the New German Climate Warning",
+          "url": "https://worldcrunch.com/focus/green-or-gone/global-warming-at-3c-by-2050-what-s-behind-the-new-german-climate-warning/",
+          "source": "hackernews"
+        },
+        {
+          "title": "Global Warming at 3 °C by 2050? What's Behind the New German Climate Warning",
+          "url": "https://worldcrunch.com/focus/green-or-gone/global-warming-at-3c-by-2050-what-s-behind-the-new-german-climate-warning/",
+          "source": "hackernews"
+        }
+      ],
+      "id": "4c8f77652899",
+      "slug": "climate-warning"
+    },
+    {
+      "keyword": "star powers",
+      "count": 11,
+      "score": 77.49103874766985,
+      "proper": true,
+      "niches": [
+        "gear"
+      ],
+      "examples": [
+        {
+          "title": "Brawl Stars Nori Guide – Best Gadgets, Star Powers, & More",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTFBIQ1gyeXJxb0tMM2pBLV9JYTkzckRSS2pTSk4wZmgxNEhlOTJaTmhTWFZEYjdjSTVmR3RHdFA1SWpJekhyZlJDenQ0OERzM1IwM0J5b05iYUFyRTgxSW1ZanVlcnBHdWdpcWp4QVFpMm5ObUVoNVRnTkVxLTRyMWFWSHRIdnhl?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Brawl Stars Nori Guide – Best Gadgets, Star Powers, & More",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTFBIQ1gyeXJxb0tMM2pBLV9JYTkzckRSS2pTSk4wZmgxNEhlOTJaTmhTWFZEYjdjSTVmR3RHdFA1SWpJekhyZlJDenQ0OERzM1IwM0J5b05iYUFyRTgxSW1ZanVlcnBHdWdpcWp4QVFpMm5ObUVoNVRnTkVxLTRyMWFWSHRIdnhl?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Brawl Stars Nori Guide – Best Gadgets, Star Powers, & More",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTFBIQ1gyeXJxb0tMM2pBLV9JYTkzckRSS2pTSk4wZmgxNEhlOTJaTmhTWFZEYjdjSTVmR3RHdFA1SWpJekhyZlJDenQ0OERzM1IwM0J5b05iYUFyRTgxSW1ZanVlcnBHdWdpcWp4QVFpMm5ObUVoNVRnTkVxLTRyMWFWSHRIdnhl?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "a4fb28ea6770",
+      "slug": "star-powers"
+    },
+    {
+      "keyword": "brainer dividend etf",
+      "count": 10,
+      "score": 75.86535262009636,
+      "proper": true,
+      "niches": [
         "ai"
       ],
       "examples": [
         {
-          "title": "Hey Windows (ab)users, Microsoft has a big present for you: Today they released software updates to plug at least 570 security holes in their Windows operating systems and other software, almost tripl",
-          "url": "https://infosec.exchange/@briankrebs/116919980606308886",
-          "source": "mastodon"
-        },
-        {
-          "title": "Hey Windows (ab)users, Microsoft has a big present for you: Today they released software updates to plug at least 570 security holes in their Windows operating systems and other software, almost tripl",
-          "url": "https://infosec.exchange/@briankrebs/116919980606308886",
-          "source": "mastodon"
-        },
-        {
-          "title": "Solving.AI wants AI to teach you how to use work software (properly)",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQYzdjcVUtcHh1UmtNWGF6aEE4eGdKNFZVWm1JNlFUOUhHLUtUVEkxU3lZS2J1c3lxWUREQ01ZVk9ieF9vZUJLTTk1aGJvRFBKalZUTUFvaWJKYXlxZXA3SlN4NV9YRWNQSy1HVXdPT0hJb204VGVjeExSME5uT1VOMFNoNElSZ2JuTGRmeDAxVEg?oc=5",
+          "title": "1 No-Brainer Dividend ETF to Buy Right Now for Passive Income",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONExtUmZadk1ueF9LV3hSb2l1WDBQMFhoRmtWVnNLTHRLMnl4eF9KX1B2V1JTNXpKRnk2NnAxVnZhWjRxY0p6RHh3UFF2S3k2UDVvQzQwV1VSZTdSS1FJeHQ0YU1ZblFaSnU5NXRLeXhaUW42bzZ3YjViRVgyTjUzREthemQtR3Z5ZHNlWHN1T01fWmQzTFE?oc=5",
           "source": "gnews"
         },
         {
-          "title": "Solving.AI wants AI to teach you how to use work software (properly)",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQYzdjcVUtcHh1UmtNWGF6aEE4eGdKNFZVWm1JNlFUOUhHLUtUVEkxU3lZS2J1c3lxWUREQ01ZVk9ieF9vZUJLTTk1aGJvRFBKalZUTUFvaWJKYXlxZXA3SlN4NV9YRWNQSy1HVXdPT0hJb204VGVjeExSME5uT1VOMFNoNElSZ2JuTGRmeDAxVEg?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "IBM warns AI boom squeezing software budgets; shares sink in sector rout",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWVlTRXBpazdNZ0M1bWhlX1UtSTNNYU9hbmxiLUhtcHE2M3hLMHlrc2s4bkwwS1RqbkJaLWExWHQ3bVZzQ3REVXBfa2Q3MHJqYUdXZ2d1dHEwVEQ3UEhsSU5Gckk4YnR2bzRvOXEzRGFHY3NERjlLQ3VNTTgxNGN5c3NCbFRkX3Z0YklpYndWV0ZoV3JsQ0NyUTBRQQ?oc=5",
+          "title": "1 No-Brainer Dividend ETF to Buy Right Now for Passive Income",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZnVWUmY2ZXpRa2VqM05FMmJZbzhfVkFXTllzS2Y1TUV6QUxLa0xGWnB1ZU03ZTQwWE5oTER6dFhmM1ljWlYyMFpwV2ZDQXAwcEZDZDBNbndsZmphOWFEckF4eUVocEVtNDAyTWNiYnpLS2tOLU5hUVRxNDUyVEQxVzJXS1pGNlYyaVVESWRveU9reGpM?oc=5",
           "source": "gnews"
         }
       ],
-      "id": "35390f5453e8",
-      "slug": "software"
+      "id": "0401370862ba",
+      "slug": "brainer-dividend-etf"
+    },
+    {
+      "keyword": "gemini",
+      "count": 6,
+      "score": 69.06067224975467,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "Your ChatGPT or Gemini generated flyer or infographic is garbage",
+          "url": "https://mastodon.social/@nixCraft/116921019327102880",
+          "source": "mastodon"
+        },
+        {
+          "title": "Your ChatGPT or Gemini generated flyer or infographic is garbage",
+          "url": "https://mastodon.social/@nixCraft/116921019327102880",
+          "source": "mastodon"
+        }
+      ],
+      "id": "5d72436256ad",
+      "slug": "gemini"
+    },
+    {
+      "keyword": "guardian angels",
+      "count": 8,
+      "score": 69.03947937347246,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "Guardian Angels: LLM Personalization for Productivity and Security",
+          "url": "https://gwern.net/guardian-angel",
+          "source": "hackernews"
+        },
+        {
+          "title": "Guardian Angels: LLM Personalization for Productivity and Security",
+          "url": "https://gwern.net/guardian-angel",
+          "source": "hackernews"
+        }
+      ],
+      "id": "7c99b92153d2",
+      "slug": "guardian-angels"
     },
     {
       "keyword": "medical gadgets",
@@ -472,281 +654,82 @@
       "slug": "medical-gadgets"
     },
     {
-      "keyword": "home office",
-      "count": 36,
-      "score": 67.1176129812485,
-      "proper": false,
+      "keyword": "forget voo",
+      "count": 11,
+      "score": 63.86624072610152,
+      "proper": true,
       "niches": [
-        "gear",
-        "general"
+        "finance"
       ],
       "examples": [
         {
-          "title": "8BitDo’s Nintendo-themed desk gear is the ultimate retro home office upgrade",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTS1pR01fV1llVUJJbGVkdlBLcV9ZeG52NlVmZV9ETndkbzN3RlA4cEZTRGxMdy16dVFhaTljalloQnJuQkFRTGc4QjJpVWtDRmE3NjlxRFItcWZPMXdOR1JqNmVsZ2VaeGZNXzBnNy03akwwdHh1QXctQjdSazY3Y2xpblhVeDBkb2w5RjVHazE2aTZlSkRiVzBseVhwV3djY3dIVVRhTk4?oc=5",
+          "title": "Forget VOO’s 1% Yield. These 2 BlackRock ETFs Offer 7%+ Passive Income",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONkxDcmlKNzlJS0JkTmZBRnp5a0Z1RzJ2VzJsRnZZS3JWN0pFMi1BcmV2RkFpTmFLWjRjM2FlV05CNG1sTERTNkJaZWxianI0SEdfdnEwVHlES0c5OTdPQWpEeDhwT014dEVCbVBIQk9iQUVQdEJPd0R6MW5TU1JFV2ZuTEpDNVZ6ODdWR2xJbkUxdG1qUWFMY1lxNA?oc=5",
           "source": "gnews"
         },
         {
-          "title": "8BitDo’s Nintendo-themed desk gear is the ultimate retro home office upgrade",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTS1pR01fV1llVUJJbGVkdlBLcV9ZeG52NlVmZV9ETndkbzN3RlA4cEZTRGxMdy16dVFhaTljalloQnJuQkFRTGc4QjJpVWtDRmE3NjlxRFItcWZPMXdOR1JqNmVsZ2VaeGZNXzBnNy03akwwdHh1QXctQjdSazY3Y2xpblhVeDBkb2w5RjVHazE2aTZlSkRiVzBseVhwV3djY3dIVVRhTk4?oc=5",
+          "title": "Forget VOO’s 1% Yield. These 2 BlackRock ETFs Offer 7%+ Passive Income",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONkxDcmlKNzlJS0JkTmZBRnp5a0Z1RzJ2VzJsRnZZS3JWN0pFMi1BcmV2RkFpTmFLWjRjM2FlV05CNG1sTERTNkJaZWxianI0SEdfdnEwVHlES0c5OTdPQWpEeDhwT014dEVCbVBIQk9iQUVQdEJPd0R6MW5TU1JFV2ZuTEpDNVZ6ODdWR2xJbkUxdG1qUWFMY1lxNA?oc=5",
           "source": "gnews"
         },
         {
-          "title": "10 Mini Gadgets That Are Perfect For A Small Home Office",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1OdlRSYkZfODk2R0VRYmpnUWpEVnhSVWlWc01wVmYxbVNUNTZfN2JoeVNYdVRnSXl3aWU3TEhnNGgwY0RJU004cGhsMlVSX2t2aDdscFl6S0tpMS1pVFhKZXkyN3NSTzd1TGxRTVpVMDJuUVZ4U3VWNFFHOA?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "10 Mini Gadgets That Are Perfect For A Small Home Office",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1OdlRSYkZfODk2R0VRYmpnUWpEVnhSVWlWc01wVmYxbVNUNTZfN2JoeVNYdVRnSXl3aWU3TEhnNGgwY0RJU004cGhsMlVSX2t2aDdscFl6S0tpMS1pVFhKZXkyN3NSTzd1TGxRTVpVMDJuUVZ4U3VWNFFHOA?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "6 gear recommendations for home office and business travel",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOLXVqazloMFUzN01sUjRBcjJXV2VEeWdLRklVRlBxVGdMd2tjajZSYUR2ODMteWxrUGlRV3FwRWpHVEZNUnYwZmI2SVI5X3Y0WHdyUHdPNi03OWY2Y0tqMWR1bU5WaXFxNG5IS3J0bHhleW1CWWFIRHZydFRjU18zbGQ5UE5qVE5UNXlMM3dXbFRVTGJ2aEFUcGpLNC1IdmEzSXYyOEp2N3JsejdqRzZ6M2lB?oc=5",
+          "title": "Forget VOO’s 1% Yield. These 2 BlackRock ETFs Offer 7%+ Passive Income",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONkxDcmlKNzlJS0JkTmZBRnp5a0Z1RzJ2VzJsRnZZS3JWN0pFMi1BcmV2RkFpTmFLWjRjM2FlV05CNG1sTERTNkJaZWxianI0SEdfdnEwVHlES0c5OTdPQWpEeDhwT014dEVCbVBIQk9iQUVQdEJPd0R6MW5TU1JFV2ZuTEpDNVZ6ODdWR2xJbkUxdG1qUWFMY1lxNA?oc=5",
           "source": "gnews"
         }
       ],
-      "id": "307a7ba80d0f",
-      "slug": "home-office"
-    },
-    {
-      "keyword": "ibm warns",
-      "count": 12,
-      "score": 64.09848160146916,
-      "proper": false,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "IBM warns AI boom squeezing software budgets; shares sink in sector rout",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWVlTRXBpazdNZ0M1bWhlX1UtSTNNYU9hbmxiLUhtcHE2M3hLMHlrc2s4bkwwS1RqbkJaLWExWHQ3bVZzQ3REVXBfa2Q3MHJqYUdXZ2d1dHEwVEQ3UEhsSU5Gckk4YnR2bzRvOXEzRGFHY3NERjlLQ3VNTTgxNGN5c3NCbFRkX3Z0YklpYndWV0ZoV3JsQ0NyUTBRQQ?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "IBM warns AI boom squeezing software budgets; shares sink in sector rout",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWVlTRXBpazdNZ0M1bWhlX1UtSTNNYU9hbmxiLUhtcHE2M3hLMHlrc2s4bkwwS1RqbkJaLWExWHQ3bVZzQ3REVXBfa2Q3MHJqYUdXZ2d1dHEwVEQ3UEhsSU5Gckk4YnR2bzRvOXEzRGFHY3NERjlLQ3VNTTgxNGN5c3NCbFRkX3Z0YklpYndWV0ZoV3JsQ0NyUTBRQQ?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "IBM warns AI boom squeezing software budgets; shares sink in sector rout",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQclJQc3hYeEdqZlFwS2ZIakg0SVAtdnZfRUwwT1NwLXRTaDY4NmFrNzBxY1F4T1RCNEwzN2V1ZkhId21sTEFVNTFCdFc4TzdMcWloQ0ZqMEFzdDZvMWtEa1c1RjFxWmRmb0NlVWlqX2RNVHliMlhkRTdmTFFUZ3otdGZzLVhkYUpYRlNQRko3ZUtka0twbWFNME9YZEpud2tl?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "IBM warns AI boom squeezing software budgets; shares sink in sector rout",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQclJQc3hYeEdqZlFwS2ZIakg0SVAtdnZfRUwwT1NwLXRTaDY4NmFrNzBxY1F4T1RCNEwzN2V1ZkhId21sTEFVNTFCdFc4TzdMcWloQ0ZqMEFzdDZvMWtEa1c1RjFxWmRmb0NlVWlqX2RNVHliMlhkRTdmTFFUZ3otdGZzLVhkYUpYRlNQRko3ZUtka0twbWFNME9YZEpud2tl?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "924be4a773dd",
-      "slug": "ibm-warns"
-    },
-    {
-      "keyword": "warns boom",
-      "count": 12,
-      "score": 64.09848160146916,
-      "proper": false,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "IBM warns AI boom squeezing software budgets; shares sink in sector rout",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWVlTRXBpazdNZ0M1bWhlX1UtSTNNYU9hbmxiLUhtcHE2M3hLMHlrc2s4bkwwS1RqbkJaLWExWHQ3bVZzQ3REVXBfa2Q3MHJqYUdXZ2d1dHEwVEQ3UEhsSU5Gckk4YnR2bzRvOXEzRGFHY3NERjlLQ3VNTTgxNGN5c3NCbFRkX3Z0YklpYndWV0ZoV3JsQ0NyUTBRQQ?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "IBM warns AI boom squeezing software budgets; shares sink in sector rout",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWVlTRXBpazdNZ0M1bWhlX1UtSTNNYU9hbmxiLUhtcHE2M3hLMHlrc2s4bkwwS1RqbkJaLWExWHQ3bVZzQ3REVXBfa2Q3MHJqYUdXZ2d1dHEwVEQ3UEhsSU5Gckk4YnR2bzRvOXEzRGFHY3NERjlLQ3VNTTgxNGN5c3NCbFRkX3Z0YklpYndWV0ZoV3JsQ0NyUTBRQQ?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "IBM warns AI boom squeezing software budgets; shares sink in sector rout",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQclJQc3hYeEdqZlFwS2ZIakg0SVAtdnZfRUwwT1NwLXRTaDY4NmFrNzBxY1F4T1RCNEwzN2V1ZkhId21sTEFVNTFCdFc4TzdMcWloQ0ZqMEFzdDZvMWtEa1c1RjFxWmRmb0NlVWlqX2RNVHliMlhkRTdmTFFUZ3otdGZzLVhkYUpYRlNQRko3ZUtka0twbWFNME9YZEpud2tl?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "IBM warns AI boom squeezing software budgets; shares sink in sector rout",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQclJQc3hYeEdqZlFwS2ZIakg0SVAtdnZfRUwwT1NwLXRTaDY4NmFrNzBxY1F4T1RCNEwzN2V1ZkhId21sTEFVNTFCdFc4TzdMcWloQ0ZqMEFzdDZvMWtEa1c1RjFxWmRmb0NlVWlqX2RNVHliMlhkRTdmTFFUZ3otdGZzLVhkYUpYRlNQRko3ZUtka0twbWFNME9YZEpud2tl?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "691731eab6c2",
-      "slug": "warns-boom"
-    },
-    {
-      "keyword": "boom squeezing",
-      "count": 12,
-      "score": 64.09848160146916,
-      "proper": false,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "IBM warns AI boom squeezing software budgets; shares sink in sector rout",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWVlTRXBpazdNZ0M1bWhlX1UtSTNNYU9hbmxiLUhtcHE2M3hLMHlrc2s4bkwwS1RqbkJaLWExWHQ3bVZzQ3REVXBfa2Q3MHJqYUdXZ2d1dHEwVEQ3UEhsSU5Gckk4YnR2bzRvOXEzRGFHY3NERjlLQ3VNTTgxNGN5c3NCbFRkX3Z0YklpYndWV0ZoV3JsQ0NyUTBRQQ?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "IBM warns AI boom squeezing software budgets; shares sink in sector rout",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWVlTRXBpazdNZ0M1bWhlX1UtSTNNYU9hbmxiLUhtcHE2M3hLMHlrc2s4bkwwS1RqbkJaLWExWHQ3bVZzQ3REVXBfa2Q3MHJqYUdXZ2d1dHEwVEQ3UEhsSU5Gckk4YnR2bzRvOXEzRGFHY3NERjlLQ3VNTTgxNGN5c3NCbFRkX3Z0YklpYndWV0ZoV3JsQ0NyUTBRQQ?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "IBM warns AI boom squeezing software budgets; shares sink in sector rout",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQclJQc3hYeEdqZlFwS2ZIakg0SVAtdnZfRUwwT1NwLXRTaDY4NmFrNzBxY1F4T1RCNEwzN2V1ZkhId21sTEFVNTFCdFc4TzdMcWloQ0ZqMEFzdDZvMWtEa1c1RjFxWmRmb0NlVWlqX2RNVHliMlhkRTdmTFFUZ3otdGZzLVhkYUpYRlNQRko3ZUtka0twbWFNME9YZEpud2tl?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "IBM warns AI boom squeezing software budgets; shares sink in sector rout",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQclJQc3hYeEdqZlFwS2ZIakg0SVAtdnZfRUwwT1NwLXRTaDY4NmFrNzBxY1F4T1RCNEwzN2V1ZkhId21sTEFVNTFCdFc4TzdMcWloQ0ZqMEFzdDZvMWtEa1c1RjFxWmRmb0NlVWlqX2RNVHliMlhkRTdmTFFUZ3otdGZzLVhkYUpYRlNQRko3ZUtka0twbWFNME9YZEpud2tl?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "cf624038fd60",
-      "slug": "boom-squeezing"
-    },
-    {
-      "keyword": "squeezing software",
-      "count": 12,
-      "score": 64.09848160146916,
-      "proper": false,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "IBM warns AI boom squeezing software budgets; shares sink in sector rout",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWVlTRXBpazdNZ0M1bWhlX1UtSTNNYU9hbmxiLUhtcHE2M3hLMHlrc2s4bkwwS1RqbkJaLWExWHQ3bVZzQ3REVXBfa2Q3MHJqYUdXZ2d1dHEwVEQ3UEhsSU5Gckk4YnR2bzRvOXEzRGFHY3NERjlLQ3VNTTgxNGN5c3NCbFRkX3Z0YklpYndWV0ZoV3JsQ0NyUTBRQQ?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "IBM warns AI boom squeezing software budgets; shares sink in sector rout",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWVlTRXBpazdNZ0M1bWhlX1UtSTNNYU9hbmxiLUhtcHE2M3hLMHlrc2s4bkwwS1RqbkJaLWExWHQ3bVZzQ3REVXBfa2Q3MHJqYUdXZ2d1dHEwVEQ3UEhsSU5Gckk4YnR2bzRvOXEzRGFHY3NERjlLQ3VNTTgxNGN5c3NCbFRkX3Z0YklpYndWV0ZoV3JsQ0NyUTBRQQ?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "IBM warns AI boom squeezing software budgets; shares sink in sector rout",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQclJQc3hYeEdqZlFwS2ZIakg0SVAtdnZfRUwwT1NwLXRTaDY4NmFrNzBxY1F4T1RCNEwzN2V1ZkhId21sTEFVNTFCdFc4TzdMcWloQ0ZqMEFzdDZvMWtEa1c1RjFxWmRmb0NlVWlqX2RNVHliMlhkRTdmTFFUZ3otdGZzLVhkYUpYRlNQRko3ZUtka0twbWFNME9YZEpud2tl?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "IBM warns AI boom squeezing software budgets; shares sink in sector rout",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQclJQc3hYeEdqZlFwS2ZIakg0SVAtdnZfRUwwT1NwLXRTaDY4NmFrNzBxY1F4T1RCNEwzN2V1ZkhId21sTEFVNTFCdFc4TzdMcWloQ0ZqMEFzdDZvMWtEa1c1RjFxWmRmb0NlVWlqX2RNVHliMlhkRTdmTFFUZ3otdGZzLVhkYUpYRlNQRko3ZUtka0twbWFNME9YZEpud2tl?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "fd9386b4dc89",
-      "slug": "squeezing-software"
-    },
-    {
-      "keyword": "software budgets",
-      "count": 12,
-      "score": 64.09848160146916,
-      "proper": false,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "IBM warns AI boom squeezing software budgets; shares sink in sector rout",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWVlTRXBpazdNZ0M1bWhlX1UtSTNNYU9hbmxiLUhtcHE2M3hLMHlrc2s4bkwwS1RqbkJaLWExWHQ3bVZzQ3REVXBfa2Q3MHJqYUdXZ2d1dHEwVEQ3UEhsSU5Gckk4YnR2bzRvOXEzRGFHY3NERjlLQ3VNTTgxNGN5c3NCbFRkX3Z0YklpYndWV0ZoV3JsQ0NyUTBRQQ?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "IBM warns AI boom squeezing software budgets; shares sink in sector rout",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWVlTRXBpazdNZ0M1bWhlX1UtSTNNYU9hbmxiLUhtcHE2M3hLMHlrc2s4bkwwS1RqbkJaLWExWHQ3bVZzQ3REVXBfa2Q3MHJqYUdXZ2d1dHEwVEQ3UEhsSU5Gckk4YnR2bzRvOXEzRGFHY3NERjlLQ3VNTTgxNGN5c3NCbFRkX3Z0YklpYndWV0ZoV3JsQ0NyUTBRQQ?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "IBM warns AI boom squeezing software budgets; shares sink in sector rout",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQclJQc3hYeEdqZlFwS2ZIakg0SVAtdnZfRUwwT1NwLXRTaDY4NmFrNzBxY1F4T1RCNEwzN2V1ZkhId21sTEFVNTFCdFc4TzdMcWloQ0ZqMEFzdDZvMWtEa1c1RjFxWmRmb0NlVWlqX2RNVHliMlhkRTdmTFFUZ3otdGZzLVhkYUpYRlNQRko3ZUtka0twbWFNME9YZEpud2tl?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "IBM warns AI boom squeezing software budgets; shares sink in sector rout",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQclJQc3hYeEdqZlFwS2ZIakg0SVAtdnZfRUwwT1NwLXRTaDY4NmFrNzBxY1F4T1RCNEwzN2V1ZkhId21sTEFVNTFCdFc4TzdMcWloQ0ZqMEFzdDZvMWtEa1c1RjFxWmRmb0NlVWlqX2RNVHliMlhkRTdmTFFUZ3otdGZzLVhkYUpYRlNQRko3ZUtka0twbWFNME9YZEpud2tl?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "103f283ec196",
-      "slug": "software-budgets"
-    },
-    {
-      "keyword": "budgets shares",
-      "count": 12,
-      "score": 64.09848160146916,
-      "proper": false,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "IBM warns AI boom squeezing software budgets; shares sink in sector rout",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWVlTRXBpazdNZ0M1bWhlX1UtSTNNYU9hbmxiLUhtcHE2M3hLMHlrc2s4bkwwS1RqbkJaLWExWHQ3bVZzQ3REVXBfa2Q3MHJqYUdXZ2d1dHEwVEQ3UEhsSU5Gckk4YnR2bzRvOXEzRGFHY3NERjlLQ3VNTTgxNGN5c3NCbFRkX3Z0YklpYndWV0ZoV3JsQ0NyUTBRQQ?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "IBM warns AI boom squeezing software budgets; shares sink in sector rout",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWVlTRXBpazdNZ0M1bWhlX1UtSTNNYU9hbmxiLUhtcHE2M3hLMHlrc2s4bkwwS1RqbkJaLWExWHQ3bVZzQ3REVXBfa2Q3MHJqYUdXZ2d1dHEwVEQ3UEhsSU5Gckk4YnR2bzRvOXEzRGFHY3NERjlLQ3VNTTgxNGN5c3NCbFRkX3Z0YklpYndWV0ZoV3JsQ0NyUTBRQQ?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "IBM warns AI boom squeezing software budgets; shares sink in sector rout",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQclJQc3hYeEdqZlFwS2ZIakg0SVAtdnZfRUwwT1NwLXRTaDY4NmFrNzBxY1F4T1RCNEwzN2V1ZkhId21sTEFVNTFCdFc4TzdMcWloQ0ZqMEFzdDZvMWtEa1c1RjFxWmRmb0NlVWlqX2RNVHliMlhkRTdmTFFUZ3otdGZzLVhkYUpYRlNQRko3ZUtka0twbWFNME9YZEpud2tl?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "IBM warns AI boom squeezing software budgets; shares sink in sector rout",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQclJQc3hYeEdqZlFwS2ZIakg0SVAtdnZfRUwwT1NwLXRTaDY4NmFrNzBxY1F4T1RCNEwzN2V1ZkhId21sTEFVNTFCdFc4TzdMcWloQ0ZqMEFzdDZvMWtEa1c1RjFxWmRmb0NlVWlqX2RNVHliMlhkRTdmTFFUZ3otdGZzLVhkYUpYRlNQRko3ZUtka0twbWFNME9YZEpud2tl?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "c41b79547d09",
-      "slug": "budgets-shares"
-    },
-    {
-      "keyword": "shares sink",
-      "count": 12,
-      "score": 64.09848160146916,
-      "proper": false,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "IBM warns AI boom squeezing software budgets; shares sink in sector rout",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWVlTRXBpazdNZ0M1bWhlX1UtSTNNYU9hbmxiLUhtcHE2M3hLMHlrc2s4bkwwS1RqbkJaLWExWHQ3bVZzQ3REVXBfa2Q3MHJqYUdXZ2d1dHEwVEQ3UEhsSU5Gckk4YnR2bzRvOXEzRGFHY3NERjlLQ3VNTTgxNGN5c3NCbFRkX3Z0YklpYndWV0ZoV3JsQ0NyUTBRQQ?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "IBM warns AI boom squeezing software budgets; shares sink in sector rout",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWVlTRXBpazdNZ0M1bWhlX1UtSTNNYU9hbmxiLUhtcHE2M3hLMHlrc2s4bkwwS1RqbkJaLWExWHQ3bVZzQ3REVXBfa2Q3MHJqYUdXZ2d1dHEwVEQ3UEhsSU5Gckk4YnR2bzRvOXEzRGFHY3NERjlLQ3VNTTgxNGN5c3NCbFRkX3Z0YklpYndWV0ZoV3JsQ0NyUTBRQQ?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "IBM warns AI boom squeezing software budgets; shares sink in sector rout",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQclJQc3hYeEdqZlFwS2ZIakg0SVAtdnZfRUwwT1NwLXRTaDY4NmFrNzBxY1F4T1RCNEwzN2V1ZkhId21sTEFVNTFCdFc4TzdMcWloQ0ZqMEFzdDZvMWtEa1c1RjFxWmRmb0NlVWlqX2RNVHliMlhkRTdmTFFUZ3otdGZzLVhkYUpYRlNQRko3ZUtka0twbWFNME9YZEpud2tl?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "IBM warns AI boom squeezing software budgets; shares sink in sector rout",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQclJQc3hYeEdqZlFwS2ZIakg0SVAtdnZfRUwwT1NwLXRTaDY4NmFrNzBxY1F4T1RCNEwzN2V1ZkhId21sTEFVNTFCdFc4TzdMcWloQ0ZqMEFzdDZvMWtEa1c1RjFxWmRmb0NlVWlqX2RNVHliMlhkRTdmTFFUZ3otdGZzLVhkYUpYRlNQRko3ZUtka0twbWFNME9YZEpud2tl?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "1db2b8bced60",
-      "slug": "shares-sink"
+      "id": "9b9a40bb7870",
+      "slug": "forget-voo"
     }
   ],
   "opportunities": [
     {
+      "keyword": "passive income",
+      "count": 57,
+      "score": 309.5867635682072,
+      "proper": true,
+      "niches": [
+        "ai",
+        "finance"
+      ],
+      "examples": [
+        {
+          "title": "1 No-Brainer Dividend ETF to Buy Right Now for Passive Income",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONExtUmZadk1ueF9LV3hSb2l1WDBQMFhoRmtWVnNLTHRLMnl4eF9KX1B2V1JTNXpKRnk2NnAxVnZhWjRxY0p6RHh3UFF2S3k2UDVvQzQwV1VSZTdSS1FJeHQ0YU1ZblFaSnU5NXRLeXhaUW42bzZ3YjViRVgyTjUzREthemQtR3Z5ZHNlWHN1T01fWmQzTFE?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "1 No-Brainer Dividend ETF to Buy Right Now for Passive Income",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONExtUmZadk1ueF9LV3hSb2l1WDBQMFhoRmtWVnNLTHRLMnl4eF9KX1B2V1JTNXpKRnk2NnAxVnZhWjRxY0p6RHh3UFF2S3k2UDVvQzQwV1VSZTdSS1FJeHQ0YU1ZblFaSnU5NXRLeXhaUW42bzZ3YjViRVgyTjUzREthemQtR3Z5ZHNlWHN1T01fWmQzTFE?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "1 No-Brainer Dividend ETF to Buy Right Now for Passive Income",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONExtUmZadk1ueF9LV3hSb2l1WDBQMFhoRmtWVnNLTHRLMnl4eF9KX1B2V1JTNXpKRnk2NnAxVnZhWjRxY0p6RHh3UFF2S3k2UDVvQzQwV1VSZTdSS1FJeHQ0YU1ZblFaSnU5NXRLeXhaUW42bzZ3YjViRVgyTjUzREthemQtR3Z5ZHNlWHN1T01fWmQzTFE?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "1 No-Brainer Dividend ETF to Buy Right Now for Passive Income",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZnVWUmY2ZXpRa2VqM05FMmJZbzhfVkFXTllzS2Y1TUV6QUxLa0xGWnB1ZU03ZTQwWE5oTER6dFhmM1ljWlYyMFpwV2ZDQXAwcEZDZDBNbndsZmphOWFEckF4eUVocEVtNDAyTWNiYnpLS2tOLU5hUVRxNDUyVEQxVzJXS1pGNlYyaVVESWRveU9reGpM?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "1 No-Brainer Dividend ETF to Buy Right Now for Passive Income",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZnVWUmY2ZXpRa2VqM05FMmJZbzhfVkFXTllzS2Y1TUV6QUxLa0xGWnB1ZU03ZTQwWE5oTER6dFhmM1ljWlYyMFpwV2ZDQXAwcEZDZDBNbndsZmphOWFEckF4eUVocEVtNDAyTWNiYnpLS2tOLU5hUVRxNDUyVEQxVzJXS1pGNlYyaVVESWRveU9reGpM?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "cf2dbbbf8c8c",
+      "slug": "passive-income",
+      "opportunity": {
+        "type": "niche-content",
+        "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
+      }
+    },
+    {
       "keyword": "claude",
       "count": 8,
-      "score": 106.76301904571885,
+      "score": 109.4337437994677,
       "proper": true,
       "niches": [
         "ai"
@@ -781,30 +764,73 @@
       }
     },
     {
-      "keyword": "demis hassabis",
+      "keyword": "income",
+      "count": 19,
+      "score": 90.00301590810159,
+      "proper": true,
+      "niches": [
+        "ai",
+        "finance"
+      ],
+      "examples": [
+        {
+          "title": "1 No-Brainer Dividend ETF to Buy Right Now for Passive Income",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONExtUmZadk1ueF9LV3hSb2l1WDBQMFhoRmtWVnNLTHRLMnl4eF9KX1B2V1JTNXpKRnk2NnAxVnZhWjRxY0p6RHh3UFF2S3k2UDVvQzQwV1VSZTdSS1FJeHQ0YU1ZblFaSnU5NXRLeXhaUW42bzZ3YjViRVgyTjUzREthemQtR3Z5ZHNlWHN1T01fWmQzTFE?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "1 No-Brainer Dividend ETF to Buy Right Now for Passive Income",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONExtUmZadk1ueF9LV3hSb2l1WDBQMFhoRmtWVnNLTHRLMnl4eF9KX1B2V1JTNXpKRnk2NnAxVnZhWjRxY0p6RHh3UFF2S3k2UDVvQzQwV1VSZTdSS1FJeHQ0YU1ZblFaSnU5NXRLeXhaUW42bzZ3YjViRVgyTjUzREthemQtR3Z5ZHNlWHN1T01fWmQzTFE?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "1 No-Brainer Dividend ETF to Buy Right Now for Passive Income",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZnVWUmY2ZXpRa2VqM05FMmJZbzhfVkFXTllzS2Y1TUV6QUxLa0xGWnB1ZU03ZTQwWE5oTER6dFhmM1ljWlYyMFpwV2ZDQXAwcEZDZDBNbndsZmphOWFEckF4eUVocEVtNDAyTWNiYnpLS2tOLU5hUVRxNDUyVEQxVzJXS1pGNlYyaVVESWRveU9reGpM?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "1 No-Brainer Dividend ETF to Buy Right Now for Passive Income",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZnVWUmY2ZXpRa2VqM05FMmJZbzhfVkFXTllzS2Y1TUV6QUxLa0xGWnB1ZU03ZTQwWE5oTER6dFhmM1ljWlYyMFpwV2ZDQXAwcEZDZDBNbndsZmphOWFEckF4eUVocEVtNDAyTWNiYnpLS2tOLU5hUVRxNDUyVEQxVzJXS1pGNlYyaVVESWRveU9reGpM?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Forget VOO’s 1% Yield. These 2 BlackRock ETFs Offer 7%+ Passive Income",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONkxDcmlKNzlJS0JkTmZBRnp5a0Z1RzJ2VzJsRnZZS3JWN0pFMi1BcmV2RkFpTmFLWjRjM2FlV05CNG1sTERTNkJaZWxianI0SEdfdnEwVHlES0c5OTdPQWpEeDhwT014dEVCbVBIQk9iQUVQdEJPd0R6MW5TU1JFV2ZuTEpDNVZ6ODdWR2xJbkUxdG1qUWFMY1lxNA?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "00cf141f881d",
+      "slug": "income",
+      "opportunity": {
+        "type": "niche-content",
+        "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
+      }
+    },
+    {
+      "keyword": "tailscale ssh",
       "count": 8,
-      "score": 93.0708130002383,
+      "score": 81.04664487549115,
       "proper": true,
       "niches": [
         "ai"
       ],
       "examples": [
         {
-          "title": "Demis Hassabis has a plan to harness AI safely",
-          "url": "https://twitter.com/demishassabis/status/2076957440109625718",
+          "title": "TS-2026-009: Insecure argument handling in Tailscale SSH permitted root access",
+          "url": "https://tailscale.com/security-bulletins",
           "source": "hackernews"
         },
         {
-          "title": "Demis Hassabis has a plan to harness AI safely",
-          "url": "https://twitter.com/demishassabis/status/2076957440109625718",
+          "title": "TS-2026-009: Insecure argument handling in Tailscale SSH permitted root access",
+          "url": "https://tailscale.com/security-bulletins",
           "source": "hackernews"
         }
       ],
-      "id": "765cc641dc29",
-      "slug": "demis-hassabis",
+      "id": "2e13bb1fdc04",
+      "slug": "tailscale-ssh",
       "opportunity": {
-        "type": "niche-content",
-        "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
+        "type": "tooling",
+        "recommended": "Build / list AI tools; monetize via affiliate links + lead magnet."
       }
     },
     {
@@ -889,121 +915,30 @@
       }
     },
     {
-      "keyword": "software",
-      "count": 14,
-      "score": 75.23137502009175,
-      "proper": false,
+      "keyword": "global warming",
+      "count": 8,
+      "score": 78.09589049800249,
+      "proper": true,
       "niches": [
-        "software",
-        "ai"
+        "software"
       ],
       "examples": [
         {
-          "title": "Hey Windows (ab)users, Microsoft has a big present for you: Today they released software updates to plug at least 570 security holes in their Windows operating systems and other software, almost tripl",
-          "url": "https://infosec.exchange/@briankrebs/116919980606308886",
-          "source": "mastodon"
+          "title": "Global Warming at 3 °C by 2050? What's Behind the New German Climate Warning",
+          "url": "https://worldcrunch.com/focus/green-or-gone/global-warming-at-3c-by-2050-what-s-behind-the-new-german-climate-warning/",
+          "source": "hackernews"
         },
         {
-          "title": "Hey Windows (ab)users, Microsoft has a big present for you: Today they released software updates to plug at least 570 security holes in their Windows operating systems and other software, almost tripl",
-          "url": "https://infosec.exchange/@briankrebs/116919980606308886",
-          "source": "mastodon"
-        },
-        {
-          "title": "Solving.AI wants AI to teach you how to use work software (properly)",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQYzdjcVUtcHh1UmtNWGF6aEE4eGdKNFZVWm1JNlFUOUhHLUtUVEkxU3lZS2J1c3lxWUREQ01ZVk9ieF9vZUJLTTk1aGJvRFBKalZUTUFvaWJKYXlxZXA3SlN4NV9YRWNQSy1HVXdPT0hJb204VGVjeExSME5uT1VOMFNoNElSZ2JuTGRmeDAxVEg?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Solving.AI wants AI to teach you how to use work software (properly)",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQYzdjcVUtcHh1UmtNWGF6aEE4eGdKNFZVWm1JNlFUOUhHLUtUVEkxU3lZS2J1c3lxWUREQ01ZVk9ieF9vZUJLTTk1aGJvRFBKalZUTUFvaWJKYXlxZXA3SlN4NV9YRWNQSy1HVXdPT0hJb204VGVjeExSME5uT1VOMFNoNElSZ2JuTGRmeDAxVEg?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "IBM warns AI boom squeezing software budgets; shares sink in sector rout",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWVlTRXBpazdNZ0M1bWhlX1UtSTNNYU9hbmxiLUhtcHE2M3hLMHlrc2s4bkwwS1RqbkJaLWExWHQ3bVZzQ3REVXBfa2Q3MHJqYUdXZ2d1dHEwVEQ3UEhsSU5Gckk4YnR2bzRvOXEzRGFHY3NERjlLQ3VNTTgxNGN5c3NCbFRkX3Z0YklpYndWV0ZoV3JsQ0NyUTBRQQ?oc=5",
-          "source": "gnews"
+          "title": "Global Warming at 3 °C by 2050? What's Behind the New German Climate Warning",
+          "url": "https://worldcrunch.com/focus/green-or-gone/global-warming-at-3c-by-2050-what-s-behind-the-new-german-climate-warning/",
+          "source": "hackernews"
         }
       ],
-      "id": "35390f5453e8",
-      "slug": "software",
+      "id": "41a40ce559ef",
+      "slug": "global-warming",
       "opportunity": {
         "type": "niche-content",
         "recommended": "Publish niche guide for \"software\"; bundle into digital product later."
-      }
-    },
-    {
-      "keyword": "medical gadgets",
-      "count": 11,
-      "score": 68.54976504601564,
-      "proper": true,
-      "niches": [
-        "gear"
-      ],
-      "examples": [
-        {
-          "title": "Top 5 Medical Gadgets in 2026",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1LbzdTc0QxS2pRUjZjM2NwaGlQUDlDWU5rdlZ5QlhSV2FxdElUWUdHbnQzOTBYV2YwMDZ5amM1SGNXb1FSV1hjUTFDM2hpY19zaklscUxNSG5iSUZTNEFCYlFXSEQzRnV5bGVTaw?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Top 5 Medical Gadgets in 2026",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1LbzdTc0QxS2pRUjZjM2NwaGlQUDlDWU5rdlZ5QlhSV2FxdElUWUdHbnQzOTBYV2YwMDZ5amM1SGNXb1FSV1hjUTFDM2hpY19zaklscUxNSG5iSUZTNEFCYlFXSEQzRnV5bGVTaw?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Top 5 Medical Gadgets in 2026",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1LbzdTc0QxS2pRUjZjM2NwaGlQUDlDWU5rdlZ5QlhSV2FxdElUWUdHbnQzOTBYV2YwMDZ5amM1SGNXb1FSV1hjUTFDM2hpY19zaklscUxNSG5iSUZTNEFCYlFXSEQzRnV5bGVTaw?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "c4dc0ae17452",
-      "slug": "medical-gadgets",
-      "opportunity": {
-        "type": "niche-content",
-        "recommended": "Publish niche guide for \"gear\"; bundle into digital product later."
-      }
-    },
-    {
-      "keyword": "home office",
-      "count": 36,
-      "score": 67.1176129812485,
-      "proper": false,
-      "niches": [
-        "gear",
-        "general"
-      ],
-      "examples": [
-        {
-          "title": "8BitDo’s Nintendo-themed desk gear is the ultimate retro home office upgrade",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTS1pR01fV1llVUJJbGVkdlBLcV9ZeG52NlVmZV9ETndkbzN3RlA4cEZTRGxMdy16dVFhaTljalloQnJuQkFRTGc4QjJpVWtDRmE3NjlxRFItcWZPMXdOR1JqNmVsZ2VaeGZNXzBnNy03akwwdHh1QXctQjdSazY3Y2xpblhVeDBkb2w5RjVHazE2aTZlSkRiVzBseVhwV3djY3dIVVRhTk4?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "8BitDo’s Nintendo-themed desk gear is the ultimate retro home office upgrade",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTS1pR01fV1llVUJJbGVkdlBLcV9ZeG52NlVmZV9ETndkbzN3RlA4cEZTRGxMdy16dVFhaTljalloQnJuQkFRTGc4QjJpVWtDRmE3NjlxRFItcWZPMXdOR1JqNmVsZ2VaeGZNXzBnNy03akwwdHh1QXctQjdSazY3Y2xpblhVeDBkb2w5RjVHazE2aTZlSkRiVzBseVhwV3djY3dIVVRhTk4?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "10 Mini Gadgets That Are Perfect For A Small Home Office",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1OdlRSYkZfODk2R0VRYmpnUWpEVnhSVWlWc01wVmYxbVNUNTZfN2JoeVNYdVRnSXl3aWU3TEhnNGgwY0RJU004cGhsMlVSX2t2aDdscFl6S0tpMS1pVFhKZXkyN3NSTzd1TGxRTVpVMDJuUVZ4U3VWNFFHOA?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "10 Mini Gadgets That Are Perfect For A Small Home Office",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1OdlRSYkZfODk2R0VRYmpnUWpEVnhSVWlWc01wVmYxbVNUNTZfN2JoeVNYdVRnSXl3aWU3TEhnNGgwY0RJU004cGhsMlVSX2t2aDdscFl6S0tpMS1pVFhKZXkyN3NSTzd1TGxRTVpVMDJuUVZ4U3VWNFFHOA?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "6 gear recommendations for home office and business travel",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOLXVqazloMFUzN01sUjRBcjJXV2VEeWdLRklVRlBxVGdMd2tjajZSYUR2ODMteWxrUGlRV3FwRWpHVEZNUnYwZmI2SVI5X3Y0WHdyUHdPNi03OWY2Y0tqMWR1bU5WaXFxNG5IS3J0bHhleW1CWWFIRHZydFRjU18zbGQ5UE5qVE5UNXlMM3dXbFRVTGJ2aEFUcGpLNC1IdmEzSXYyOEp2N3JsejdqRzZ6M2lB?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "307a7ba80d0f",
-      "slug": "home-office",
-      "opportunity": {
-        "type": "niche-content",
-        "recommended": "Publish niche guide for \"gear\"; bundle into digital product later."
       }
     }
   ]

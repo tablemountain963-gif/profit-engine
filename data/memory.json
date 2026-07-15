@@ -2440,14 +2440,6 @@
       "losses": 0,
       "niche": "ai"
     },
-    "das-gutachten": {
-      "firstSeen": "2026-06-25T18:03:13.021Z",
-      "lastSeen": "2026-06-30T22:06:15.123Z",
-      "count": 2,
-      "wins": 0,
-      "losses": 1,
-      "niche": "ai"
-    },
     "webkit": {
       "firstSeen": "2026-06-25T18:03:16.340Z",
       "lastSeen": "2026-06-25T22:14:24.247Z",
@@ -2934,14 +2926,6 @@
       "count": 2,
       "wins": 0,
       "losses": 1,
-      "niche": "ai"
-    },
-    "promise-speed": {
-      "firstSeen": "2026-06-30T22:06:35.831Z",
-      "lastSeen": "2026-06-30T22:06:35.831Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
       "niche": "ai"
     },
     "jean-carroll": {
@@ -4010,8 +3994,8 @@
     },
     "tools-businesses": {
       "firstSeen": "2026-07-07T15:42:55.193Z",
-      "lastSeen": "2026-07-07T15:42:55.193Z",
-      "count": 1,
+      "lastSeen": "2026-07-15T03:56:09.695Z",
+      "count": 2,
       "wins": 0,
       "losses": 0,
       "niche": "ai"
@@ -4410,10 +4394,10 @@
     },
     "disha-dua": {
       "firstSeen": "2026-07-09T22:11:05.654Z",
-      "lastSeen": "2026-07-09T22:11:05.654Z",
-      "count": 1,
+      "lastSeen": "2026-07-15T03:55:28.181Z",
+      "count": 2,
       "wins": 0,
-      "losses": 0,
+      "losses": 1,
       "niche": "ai"
     },
     "embodied-intelligence": {
@@ -5250,9 +5234,9 @@
     },
     "marketing-agencies": {
       "firstSeen": "2026-07-14T14:47:18.518Z",
-      "lastSeen": "2026-07-14T14:47:18.518Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-07-15T03:55:28.183Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -5370,9 +5354,9 @@
     },
     "consumer-alert": {
       "firstSeen": "2026-07-14T21:43:50.101Z",
-      "lastSeen": "2026-07-14T21:43:50.101Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-07-15T03:55:28.184Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -5415,13 +5399,61 @@
       "wins": 0,
       "losses": 0,
       "niche": "ai"
+    },
+    "tailscale-ssh": {
+      "firstSeen": "2026-07-15T03:55:33.047Z",
+      "lastSeen": "2026-07-15T03:55:33.047Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "global-warming": {
+      "firstSeen": "2026-07-15T03:55:35.873Z",
+      "lastSeen": "2026-07-15T03:55:35.873Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "software"
+    },
+    "climate-warning": {
+      "firstSeen": "2026-07-15T03:55:38.608Z",
+      "lastSeen": "2026-07-15T03:55:38.608Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "software"
+    },
+    "guardian-angels": {
+      "firstSeen": "2026-07-15T03:55:50.154Z",
+      "lastSeen": "2026-07-15T03:55:50.154Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "todd-gordon": {
+      "firstSeen": "2026-07-15T03:56:28.821Z",
+      "lastSeen": "2026-07-15T03:56:28.821Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "jepa-world-model": {
+      "firstSeen": "2026-07-15T03:56:41.035Z",
+      "lastSeen": "2026-07-15T03:56:41.035Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
     }
   },
   "niches": {
     "ai": {
-      "count": 1331,
-      "wins": 363,
-      "losses": 56
+      "count": 1339,
+      "wins": 365,
+      "losses": 57
     },
     "finance": {
       "count": 121,
@@ -5429,7 +5461,7 @@
       "losses": 2
     },
     "software": {
-      "count": 306,
+      "count": 308,
       "wins": 86,
       "losses": 19
     },
