@@ -1,192 +1,269 @@
 {
-  "generatedAt": "2026-07-16T17:03:14.587Z",
-  "sourceCount": 206,
+  "generatedAt": "2026-07-16T21:52:39.038Z",
+  "sourceCount": 203,
   "topItems": [
     {
-      "title": "It's the third time I am receiving what I can only generously assume to be an automated e-mail from #WSocial trying to convince me, the original founder (and still active advisor and proponent) of one",
-      "url": "https://mastodon.social/@Gargron/116929536753794512",
-      "score": 9.72,
-      "niche": "ai",
+      "title": "telling all my haters \"it's just a tool!\" but they won't stop criticizing my plan to plow my fields using many small nuclear weapons",
+      "url": "https://starlite.rodeo/@ana/116930740328201124",
+      "score": 10.73,
+      "niche": "software",
       "source": "mastodon",
       "engagement": {
-        "score": 372,
-        "comments": 33
+        "score": 417,
+        "comments": 11
       }
     },
     {
-      "title": "Meta does not want you to know that you can improve the quality of these AI glasses by just microwaving them for one minute. Pass it on.",
-      "url": "https://social.heise.de/@vowe/116928380109393677",
-      "score": 9.66,
+      "title": "Thanks to AI eating the supply chain, hosting a website has gotten a LOT more expensive than in years past. One wonders what's going to happen to bajillions of small hosting companies that are profita",
+      "url": "https://infosec.exchange/@briankrebs/116931281609412806",
+      "score": 9.81,
       "niche": "ai",
       "source": "mastodon",
       "engagement": {
-        "score": 1835,
-        "comments": 39
+        "score": 203,
+        "comments": 12
+      }
+    },
+    {
+      "title": "\"Those little white flowers you see here are known as the Arctic mountain heather, and they are highly toxic to this little pika.Collared pika create what we call haypiles under the rocks that will se",
+      "url": "https://haunted.computer/@zutalorz/116930507192705944",
+      "score": 9.49,
+      "niche": "ai",
+      "source": "mastodon",
+      "engagement": {
+        "score": 874,
+        "comments": 23
       }
     },
     {
       "title": "robinhood-ape/robinhood-sniper-bot — NOXA Fun token sniper on Robinhood Chain - watches TokenLaunched, buys via Uniswap V3 SwapRouter02, auto-sells on take-profit / stop-loss",
       "url": "https://github.com/robinhood-ape/robinhood-sniper-bot",
-      "score": 8.84,
+      "score": 8.93,
       "niche": "ai",
       "source": "github",
       "engagement": {
-        "score": 240,
+        "score": 253,
         "comments": 0
       }
     },
     {
-      "title": "Omg you don’t like the textiles that are available? Just go shear a sheep, gather stinging nettles, skirt the fleece, rett the stalks to get at the bast fibers, make a spindle, spin the fiber, build a",
-      "url": "https://hachyderm.io/@akareilly/116929490129717832",
-      "score": 8.51,
+      "title": "The Free Software movement never escaped from its origins: the early ‘80s MIT AI Lab.  Two things were true in this environment:Back when most computers had tens of KiBs of RAM and 1 MiB was a huge am",
+      "url": "https://infosec.exchange/@david_chisnall/116931490270096063",
+      "score": 8.81,
       "niche": "ai",
       "source": "mastodon",
       "engagement": {
-        "score": 422,
-        "comments": 16
+        "score": 237,
+        "comments": 5
       }
     },
     {
-      "title": "Regarding AI slop permeating everything...It's incredibly important to know that right now there is a MASSIVE amount of money and effort by corporations, financial institutions, and governments to get",
-      "url": "https://infosec.exchange/@tinker/116929439753951874",
-      "score": 8.37,
+      "title": "NotebookLM is now Gemini Notebook",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/",
+      "score": 8.27,
+      "niche": "ai",
+      "source": "hackernews",
+      "engagement": {
+        "score": 179,
+        "comments": 102
+      }
+    },
+    {
+      "title": "Girlfriend booked us a quiet UK getaway. On the way, I gingerly said \"Given how close we are to the station,  there's a good chance -\" and she interrupted with \"to see the new Class 810 Auroras, yes, ",
+      "url": "https://mastodon.social/@fesshole/116930799604754979",
+      "score": 8.03,
       "niche": "ai",
       "source": "mastodon",
       "engagement": {
-        "score": 385,
-        "comments": 13
+        "score": 291,
+        "comments": 15
       }
     },
     {
-      "title": "Happy 12th birthday to me! 🎉🔸🎂🔸🎉We've come a LONG way since 2014. Remember what 1.0 looked like?https://www.macstories.net/reviews/overcast-review/",
-      "url": "https://mastodon.social/@overcastfm/116930398364467764",
-      "score": 8.22,
-      "niche": "software",
-      "source": "mastodon",
-      "engagement": {
-        "score": 158,
-        "comments": 11
-      }
-    },
-    {
-      "title": "Happy birthday to amateur pioneering American scientist, inventor & women’s rights advocate Eunice Newton Foote (1819-1888) who did the earliest experiments to show the insulating effect of certain ga",
-      "url": "https://spore.social/@minouette/116929994869474656",
-      "score": 8.16,
+      "title": "Detecting LLM-Generated Texts with “Classical” Machine Learning",
+      "url": "https://blog.lyc8503.net/en/post/llm-classifier/",
+      "score": 7.89,
       "niche": "ai",
-      "source": "mastodon",
+      "source": "hackernews",
       "engagement": {
-        "score": 162,
-        "comments": 1
+        "score": 119,
+        "comments": 86
       }
     },
     {
       "title": "xai-org/grok-build — SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
       "url": "https://github.com/xai-org/grok-build",
-      "score": 7.76,
+      "score": 7.81,
       "niche": "ai",
       "source": "github",
       "engagement": {
-        "score": 11022,
+        "score": 11734,
         "comments": 0
       }
     },
     {
-      "title": "New in Mastodon 4.6: Newsletters 📬Mastodon servers now support email newsletters, which allow people without a social web account to subscribe to your posts via email. This feature is opt-in at the s",
-      "url": "https://mastodon.social/@Mastodon/116929144390213579",
-      "score": 7.34,
-      "niche": "ai",
-      "source": "mastodon",
-      "engagement": {
-        "score": 701,
-        "comments": 16
-      }
-    },
-    {
-      "title": "Where are YC founders now? OpenAI and Anthropic, mostly",
-      "url": "https://joinedanthropic.com",
-      "score": 7.2,
-      "niche": "ai",
-      "source": "hackernews",
-      "engagement": {
-        "score": 280,
-        "comments": 184
-      }
-    },
-    {
-      "title": "Guide to data tools landscape for developers",
-      "url": "https://sinja.io/blog/data-landscape-guide-for-developers",
-      "score": 7.03,
+      "title": "Microsoft Comic Chat is now open source",
+      "url": "https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/",
+      "score": 7.8,
       "niche": "software",
       "source": "hackernews",
       "engagement": {
-        "score": 37,
-        "comments": 8
+        "score": 420,
+        "comments": 96
       }
     },
     {
-      "title": "robinhood-ape/robinhood-noxa-bundler — NOXA Fun multi-wallet launch bundler for Robinhood Chain - launch via NOXA factory then buy from many wallets on Uniswap V3 before public snipers",
-      "url": "https://github.com/robinhood-ape/robinhood-noxa-bundler",
-      "score": 7.01,
+      "title": "$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol",
+      "url": "https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6",
+      "score": 7.75,
       "niche": "ai",
-      "source": "github",
+      "source": "hackernews",
       "engagement": {
-        "score": 240,
-        "comments": 0
+        "score": 51,
+        "comments": 38
       }
     },
     {
       "title": "How to Train a Gen AI Kick Drum Model on Your Old Linux Desktop with 6GB VRAM",
       "url": "https://www.zhinit.dev/blog/training-a-kick-drum-diffusion-model",
-      "score": 6.96,
+      "score": 7.54,
       "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 22,
-        "comments": 12
+        "score": 79,
+        "comments": 52
       }
     },
     {
-      "title": "RE: https://masto.ai/@transworld/116929445859848335Screaming: \"We told you! We fucking told you!\" As I'm dragged down the hall and thrown in a cell.",
-      "url": "https://mastodon.social/@gwynnion/116930384388579111",
-      "score": 6.84,
+      "title": "Happy 12th birthday to me! 🎉🔸🎂🔸🎉We've come a LONG way since 2014. Remember what 1.0 looked like?https://www.macstories.net/reviews/overcast-review/",
+      "url": "https://mastodon.social/@overcastfm/116930398364467764",
+      "score": 7.53,
+      "niche": "software",
+      "source": "mastodon",
+      "engagement": {
+        "score": 335,
+        "comments": 25
+      }
+    },
+    {
+      "title": "If only you had bought $1000 worth of stock in SpaceX on June 16, you would now have $602 left.Then again, not believing in Elon's fantasy company means you have $1000 left.",
+      "url": "https://mastodon.social/@randahl/116930986618919962",
+      "score": 7.4,
       "niche": "ai",
       "source": "mastodon",
       "engagement": {
-        "score": 130,
-        "comments": 3
+        "score": 178,
+        "comments": 13
+      }
+    },
+    {
+      "title": "Guide to data tools landscape for developers",
+      "url": "https://sinja.io/blog/data-landscape-guide-for-developers",
+      "score": 7.18,
+      "niche": "software",
+      "source": "hackernews",
+      "engagement": {
+        "score": 99,
+        "comments": 31
+      }
+    },
+    {
+      "title": "Trump teleprompter aide made $100,000 betting on what Trump would say, reports sayIf only someone could have predicted it.https://arstechnica.com/culture/2026/07/trump-teleprompter-aide-made-100000-be",
+      "url": "https://mastodon.social/@arstechnica/116931415702123249",
+      "score": 7.12,
+      "niche": "ai",
+      "source": "mastodon",
+      "engagement": {
+        "score": 81,
+        "comments": 2
       }
     },
     {
       "title": "tandpfun/wardrobe — Your clothes, extracted and organized with gpt-image.",
       "url": "https://github.com/tandpfun/wardrobe",
-      "score": 6.82,
+      "score": 7.09,
       "niche": "ai",
       "source": "github",
       "engagement": {
-        "score": 459,
+        "score": 585,
         "comments": 1
       }
     },
     {
-      "title": "Woah. It’s raining ashes and the AQI is over 1,000 due to wildfire smoke in the Upper Peninsula of Michigan. Source: https://www.threads.com/@michiganunsaltedgirl/post/Da2m1X-lnMb?xmt=AQG0ED0HVT3KFGlp",
-      "url": "https://mastodon.social/@luckytran/116930408599989380",
+      "title": "robinhood-ape/robinhood-noxa-bundler — NOXA Fun multi-wallet launch bundler for Robinhood Chain - launch via NOXA factory then buy from many wallets on Uniswap V3 before public snipers",
+      "url": "https://github.com/robinhood-ape/robinhood-noxa-bundler",
+      "score": 7.08,
+      "niche": "ai",
+      "source": "github",
+      "engagement": {
+        "score": 253,
+        "comments": 0
+      }
+    },
+    {
+      "title": "News: Everything is on fire and the air is chewable.Government: We're bringing back coal.",
+      "url": "https://mstdn.social/@dabertime/116931303838685471",
+      "score": 7.03,
+      "niche": "ai",
+      "source": "mastodon",
+      "engagement": {
+        "score": 150,
+        "comments": 3
+      }
+    },
+    {
+      "title": "Blueturboguy07/cue — Open-source macOS AI copilot that floats over your screen, sees/hears your meetings, and stays hidden from screen shares. Cluely alternative, bring-your-own-key.",
+      "url": "https://github.com/Blueturboguy07/cue",
+      "score": 6.99,
+      "niche": "ai",
+      "source": "github",
+      "engagement": {
+        "score": 232,
+        "comments": 2
+      }
+    },
+    {
+      "title": "The LLM Critics Are Right. I Use LLMs Anyway",
+      "url": "https://www.theocharis.dev/blog/llm-critics-are-right-i-use-llms-anyway/",
+      "score": 6.86,
+      "niche": "ai",
+      "source": "hackernews",
+      "engagement": {
+        "score": 154,
+        "comments": 161
+      }
+    },
+    {
+      "title": "NEW: After ProPublica and The Texas Tribune revealed Ken Paxton repeatedly voted while registered at an address where he appears to no longer live, Democrats called for an investigation into whether t",
+      "url": "https://newsie.social/@ProPublica/116931712726220811",
+      "score": 6.8,
+      "niche": "software",
+      "source": "mastodon",
+      "engagement": {
+        "score": 67,
+        "comments": 3
+      }
+    },
+    {
+      "title": "RE: https://masto.ai/@transworld/116929445859848335Screaming: \"We told you! We fucking told you!\" As I'm dragged down the hall and thrown in a cell.",
+      "url": "https://mastodon.social/@gwynnion/116930384388579111",
       "score": 6.63,
       "niche": "ai",
       "source": "mastodon",
       "engagement": {
-        "score": 101,
-        "comments": 8
+        "score": 367,
+        "comments": 10
       }
     },
     {
-      "title": "Best AI Tools for Digital Creators (2026): CapCut Featured for Video and Visual Content Production by Expert Consumers",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbEZ5enFLNHAxOUE4eUJ3R3ItbFhpYk9CQXRCeVItX1BKcS1aNlcwY21CenRxRS1YOEdyZXpaemRsZjVDMlNnWC1aQVVXbnFuNXVzMWN6ZmxfNHRpNHVQOUJSV2JLM3JZZ3FDQmNsaXA5N1d2UGJwRjFYY1lhMGktQmNsSklHN0lTR1QtYmVkYTE5bkdnai1pSWhB?oc=5",
-      "score": 6.61,
+      "title": "Launch HN: Traceforce (YC S26) – Company-wide security monitoring for AI apps",
+      "url": "https://news.ycombinator.com/item?id=48937020",
+      "score": 6.62,
       "niche": "ai",
-      "source": "gnews",
+      "source": "hackernews",
       "engagement": {
-        "score": 40,
-        "comments": 0
+        "score": 20,
+        "comments": 9
       }
     },
     {
@@ -199,90 +276,52 @@
         "score": 40,
         "comments": 0
       }
-    },
-    {
-      "title": "\"Those little white flowers you see here are known as the Arctic mountain heather, and they are highly toxic to this little pika.Collared pika create what we call haypiles under the rocks that will se",
-      "url": "https://haunted.computer/@zutalorz/116930507192705944",
-      "score": 6.17,
-      "niche": "ai",
-      "source": "mastodon",
-      "engagement": {
-        "score": 82,
-        "comments": 1
-      }
-    },
-    {
-      "title": "Linus Torvalds on LLM usage in kernel development",
-      "url": "https://lore.kernel.org/linux-media/CAHk-=wi4zC+Ze8e+p3tMv8TtG_80KzsZ1syL9anBtmEh5Z40vg@mail.gmail.com/",
-      "score": 6.17,
-      "niche": "ai",
-      "source": "lobsters",
-      "engagement": {
-        "score": 97,
-        "comments": 80
-      }
-    },
-    {
-      "title": "The 12 Best AI Accounting Software and Tools for 2026",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQMHpGRjhPZkoyMzRSYk9NRF9KMVRhQzNQcjJhYjZ3Ukh1aWFjY1R2UFNpN3FUWnRIYlNKUHpjRUN0bEh2SmJIX3d1WVVLTlJ3cXY0U0Y2TzBMSllvT0diTnVXUmRzdklEanp0TmpiNEFMcElXOGc0VjQwU2Q2VDhVWWxLWWlnTndLaFE?oc=5",
-      "score": 5.99,
-      "niche": "ai",
-      "source": "gnews",
-      "engagement": {
-        "score": 40,
-        "comments": 0
-      }
-    },
-    {
-      "title": "The TechBeat: The 10 Best AI Tools for SOC 2 Compliance in 2026 (7/15/2026)",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE50RUQzTlZtYi0xTTd6RWNzWWo5bEV3bmg2YV9TYWJkRmRJWDNQTWZpNHM1RFgzcDZMMzFuTE5VOTlvaTlPRWdlZkxod29JejJLdl9v?oc=5",
-      "score": 5.99,
-      "niche": "ai",
-      "source": "gnews",
-      "engagement": {
-        "score": 40,
-        "comments": 0
-      }
-    },
-    {
-      "title": "Top AI tools such as OpenClaw and Github Copilot can be hijacked to create new massive botnets",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZkhjWGFnZU9hZ0VzYml0dElibDBQYkcydVdLYkR6VmxvU1lVTXFWaWxLOVhMOGR4ZTBHb0ctQWE2b2xUZTFzLXgzZzZVTXIzMFRWUXdPd2NDS1RwaVA5dThzTTRSdTJTdDZqek9MMzhTZzl5bklaa3BETndhUmc0UFJDaUZCMkhSWEczSFQ0SmlGd0ZJdWEtZ01KRFdhS0tNUzdrdGRORTBmdUtHUEc4eXZxOWhHRFRvcW9lQ0tJT0VVanBiV0ROUHV4OTVJdw?oc=5",
-      "score": 5.99,
-      "niche": "ai",
-      "source": "gnews",
-      "engagement": {
-        "score": 40,
-        "comments": 0
-      }
-    },
-    {
-      "title": "Microsoft Comic Chat is now open source",
-      "url": "https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/",
-      "score": 5.96,
-      "niche": "software",
-      "source": "hackernews",
-      "engagement": {
-        "score": 90,
-        "comments": 22
-      }
-    },
-    {
-      "title": "MatinSenPai/Aether-GUI — One-click desktop GUI for the Aether censorship-circumvention tunnel — Tauri v2, React 19, Rust",
-      "url": "https://github.com/MatinSenPai/Aether-GUI",
-      "score": 5.9,
-      "niche": "ai",
-      "source": "github",
-      "engagement": {
-        "score": 461,
-        "comments": 4
-      }
     }
   ],
   "topics": [
     {
+      "keyword": "passive income",
+      "count": 43,
+      "score": 238.4242886743054,
+      "proper": true,
+      "niches": [
+        "finance",
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "5 Years After the Passive Income Craze, Rental Properties Have Proved To Be Anything But",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNYUxiamhRdE1HZ0dUMU52S0wwQ0w1RTVPZTZhTnFxQ1JtUk5MS2p0VkhMX0ptdk9SRjhFbnpJWWpJMENROVdnTGVWc1B1aFJrZk9tekRYUU9yZ3d4MmNtSmtMMFZIdXl6Y0RDSVlRZ19sZU12VnpkSF9VcUFYbVZGanN1aHRrWGdOSUE?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "5 Years After the Passive Income Craze, Rental Properties Have Proved To Be Anything But",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNYUxiamhRdE1HZ0dUMU52S0wwQ0w1RTVPZTZhTnFxQ1JtUk5MS2p0VkhMX0ptdk9SRjhFbnpJWWpJMENROVdnTGVWc1B1aFJrZk9tekRYUU9yZ3d4MmNtSmtMMFZIdXl6Y0RDSVlRZ19sZU12VnpkSF9VcUFYbVZGanN1aHRrWGdOSUE?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Sponsored: How Real Estate Can Help You Build Passive Income with Total Wealth Academy",
+          "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxOS1ItZWgtV2k4Q1BXdzE4Q3VGc2VOU2lZcERRbC1TVEhaTzZfRVYwMnpsNDRidmNqWkt3OUhERi1PTzdtdVhmVE1icTU4SWIxeFdJX3ZNOHRrVUxIZHhQMzYtSjJHZE43X00zRno2ajY3Z0Z2RVNpa1hyTXZ4MzFWLTd3akpmSlhzWmVaV0Q3R1JYdXhCSkprSFl3TmItbjZ3Zmh5UDdZcl8za0NPaExueEg0dWpHclBEb2R1bjRER0s1d1FEWGxrMGNkVE5ZR1NiMjh5VE5FNGphU0pRcjgzeGtMLTQxMzlBeUF2b3FLVi12ZmZXV2xyZ2k2MTdrS1pRZ2RYV29PNHc1Y3l1eVdYWTlVM0tYUTlJdkg5ckRHZVNIOVlEWFdRcHpNSnBaUQ?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "1 No-Brainer Dividend ETF to Buy Right Now for Passive Income",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONExtUmZadk1ueF9LV3hSb2l1WDBQMFhoRmtWVnNLTHRLMnl4eF9KX1B2V1JTNXpKRnk2NnAxVnZhWjRxY0p6RHh3UFF2S3k2UDVvQzQwV1VSZTdSS1FJeHQ0YU1ZblFaSnU5NXRLeXhaUW42bzZ3YjViRVgyTjUzREthemQtR3Z5ZHNlWHN1T01fWmQzTFE?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "1 No-Brainer Dividend ETF to Buy Right Now for Passive Income",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONExtUmZadk1ueF9LV3hSb2l1WDBQMFhoRmtWVnNLTHRLMnl4eF9KX1B2V1JTNXpKRnk2NnAxVnZhWjRxY0p6RHh3UFF2S3k2UDVvQzQwV1VSZTdSS1FJeHQ0YU1ZblFaSnU5NXRLeXhaUW42bzZ3YjViRVgyTjUzREthemQtR3Z5ZHNlWHN1T01fWmQzTFE?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "cf2dbbbf8c8c",
+      "slug": "passive-income"
+    },
+    {
       "keyword": "noxa fun",
       "count": 16,
-      "score": 190.2564652245399,
+      "score": 192.0788786138677,
       "proper": true,
       "niches": [
         "ai"
@@ -315,7 +354,7 @@
     {
       "keyword": "robinhood chain",
       "count": 16,
-      "score": 190.2564652245399,
+      "score": 192.0788786138677,
       "proper": true,
       "niches": [
         "ai"
@@ -346,37 +385,52 @@
       "slug": "robinhood-chain"
     },
     {
-      "keyword": "happy",
-      "count": 10,
-      "score": 122.83718195423255,
+      "keyword": "open",
+      "count": 19,
+      "score": 145.72685408727477,
       "proper": true,
       "niches": [
         "software",
-        "ai"
+        "ai",
+        "general"
       ],
       "examples": [
         {
-          "title": "Happy 12th birthday to me! 🎉🔸🎂🔸🎉We've come a LONG way since 2014. Remember what 1.0 looked like?https://www.macstories.net/reviews/overcast-review/",
-          "url": "https://mastodon.social/@overcastfm/116930398364467764",
-          "source": "mastodon"
+          "title": "Microsoft Comic Chat is now open source",
+          "url": "https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/",
+          "source": "hackernews"
         },
         {
-          "title": "Happy birthday to amateur pioneering American scientist, inventor & women’s rights advocate Eunice Newton Foote (1819-1888) who did the earliest experiments to show the insulating effect of certain ga",
-          "url": "https://spore.social/@minouette/116929994869474656",
-          "source": "mastodon"
+          "title": "Blueturboguy07/cue — Open-source macOS AI copilot that floats over your screen, sees/hears your meetings, and stays hidden from screen shares. Cluely alternative, bring-your-own-key.",
+          "url": "https://github.com/Blueturboguy07/cue",
+          "source": "github"
+        },
+        {
+          "title": "LM Studio Bionic: the AI agent for open models",
+          "url": "https://lmstudio.ai/blog/introducing-lm-studio-bionic",
+          "source": "hackernews"
+        },
+        {
+          "title": "QuantumByteOSS/quantumbyte — Open-source app builder engine — intent to working app",
+          "url": "https://github.com/QuantumByteOSS/quantumbyte",
+          "source": "github"
+        },
+        {
+          "title": "Show HN: BambooGrid – Open-source web UI for power grid modeling and power flow",
+          "url": "https://bamboo.kickstage.com",
+          "source": "hackernews"
         }
       ],
-      "id": "489f719cadf9",
-      "slug": "happy"
+      "id": "2348f9987442",
+      "slug": "open"
     },
     {
       "keyword": "productivity apps",
       "count": 30,
-      "score": 113.95285618038965,
+      "score": 114.26251068087986,
       "proper": false,
       "niches": [
-        "ai",
-        "software"
+        "ai"
       ],
       "examples": [
         {
@@ -409,60 +463,179 @@
       "slug": "productivity-apps"
     },
     {
-      "keyword": "digital creators",
-      "count": 11,
-      "score": 108.99838417254662,
+      "keyword": "gemini notebook",
+      "count": 8,
+      "score": 99.23831901571319,
       "proper": true,
       "niches": [
         "ai"
       ],
       "examples": [
         {
-          "title": "Best AI Tools for Digital Creators (2026): CapCut Featured for Video and Visual Content Production by Expert Consumers",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbEZ5enFLNHAxOUE4eUJ3R3ItbFhpYk9CQXRCeVItX1BKcS1aNlcwY21CenRxRS1YOEdyZXpaemRsZjVDMlNnWC1aQVVXbnFuNXVzMWN6ZmxfNHRpNHVQOUJSV2JLM3JZZ3FDQmNsaXA5N1d2UGJwRjFYY1lhMGktQmNsSklHN0lTR1QtYmVkYTE5bkdnai1pSWhB?oc=5",
-          "source": "gnews"
+          "title": "NotebookLM is now Gemini Notebook",
+          "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/",
+          "source": "hackernews"
         },
         {
-          "title": "Best AI Tools for Digital Creators (2026): CapCut Featured for Video and Visual Content Production by Expert Consumers",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbEZ5enFLNHAxOUE4eUJ3R3ItbFhpYk9CQXRCeVItX1BKcS1aNlcwY21CenRxRS1YOEdyZXpaemRsZjVDMlNnWC1aQVVXbnFuNXVzMWN6ZmxfNHRpNHVQOUJSV2JLM3JZZ3FDQmNsaXA5N1d2UGJwRjFYY1lhMGktQmNsSklHN0lTR1QtYmVkYTE5bkdnai1pSWhB?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Best AI Tools for Digital Creators (2026): CapCut Featured for Video and Visual Content Production by Expert Consumers",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbEZ5enFLNHAxOUE4eUJ3R3ItbFhpYk9CQXRCeVItX1BKcS1aNlcwY21CenRxRS1YOEdyZXpaemRsZjVDMlNnWC1aQVVXbnFuNXVzMWN6ZmxfNHRpNHVQOUJSV2JLM3JZZ3FDQmNsaXA5N1d2UGJwRjFYY1lhMGktQmNsSklHN0lTR1QtYmVkYTE5bkdnai1pSWhB?oc=5",
-          "source": "gnews"
+          "title": "NotebookLM is now Gemini Notebook",
+          "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/",
+          "source": "hackernews"
         }
       ],
-      "id": "67e10bd0f1a9",
-      "slug": "digital-creators"
+      "id": "a56b3276ce42",
+      "slug": "gemini-notebook"
     },
     {
-      "keyword": "expert consumers",
-      "count": 11,
-      "score": 108.99838417254662,
+      "keyword": "income",
+      "count": 16,
+      "score": 98.44110104645924,
+      "proper": true,
+      "niches": [
+        "finance",
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "5 Years After the Passive Income Craze, Rental Properties Have Proved To Be Anything But",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNYUxiamhRdE1HZ0dUMU52S0wwQ0w1RTVPZTZhTnFxQ1JtUk5MS2p0VkhMX0ptdk9SRjhFbnpJWWpJMENROVdnTGVWc1B1aFJrZk9tekRYUU9yZ3d4MmNtSmtMMFZIdXl6Y0RDSVlRZ19sZU12VnpkSF9VcUFYbVZGanN1aHRrWGdOSUE?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "5 Years After the Passive Income Craze, Rental Properties Have Proved To Be Anything But",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNYUxiamhRdE1HZ0dUMU52S0wwQ0w1RTVPZTZhTnFxQ1JtUk5MS2p0VkhMX0ptdk9SRjhFbnpJWWpJMENROVdnTGVWc1B1aFJrZk9tekRYUU9yZ3d4MmNtSmtMMFZIdXl6Y0RDSVlRZ19sZU12VnpkSF9VcUFYbVZGanN1aHRrWGdOSUE?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Sponsored: How Real Estate Can Help You Build Passive Income with Total Wealth Academy",
+          "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxOS1ItZWgtV2k4Q1BXdzE4Q3VGc2VOU2lZcERRbC1TVEhaTzZfRVYwMnpsNDRidmNqWkt3OUhERi1PTzdtdVhmVE1icTU4SWIxeFdJX3ZNOHRrVUxIZHhQMzYtSjJHZE43X00zRno2ajY3Z0Z2RVNpa1hyTXZ4MzFWLTd3akpmSlhzWmVaV0Q3R1JYdXhCSkprSFl3TmItbjZ3Zmh5UDdZcl8za0NPaExueEg0dWpHclBEb2R1bjRER0s1d1FEWGxrMGNkVE5ZR1NiMjh5VE5FNGphU0pRcjgzeGtMLTQxMzlBeUF2b3FLVi12ZmZXV2xyZ2k2MTdrS1pRZ2RYV29PNHc1Y3l1eVdYWTlVM0tYUTlJdkg5ckRHZVNIOVlEWFdRcHpNSnBaUQ?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Sponsored: How Real Estate Can Help You Build Passive Income with Total Wealth Academy",
+          "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxOS1ItZWgtV2k4Q1BXdzE4Q3VGc2VOU2lZcERRbC1TVEhaTzZfRVYwMnpsNDRidmNqWkt3OUhERi1PTzdtdVhmVE1icTU4SWIxeFdJX3ZNOHRrVUxIZHhQMzYtSjJHZE43X00zRno2ajY3Z0Z2RVNpa1hyTXZ4MzFWLTd3akpmSlhzWmVaV0Q3R1JYdXhCSkprSFl3TmItbjZ3Zmh5UDdZcl8za0NPaExueEg0dWpHclBEb2R1bjRER0s1d1FEWGxrMGNkVE5ZR1NiMjh5VE5FNGphU0pRcjgzeGtMLTQxMzlBeUF2b3FLVi12ZmZXV2xyZ2k2MTdrS1pRZ2RYV29PNHc1Y3l1eVdYWTlVM0tYUTlJdkg5ckRHZVNIOVlEWFdRcHpNSnBaUQ?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "1 No-Brainer Dividend ETF to Buy Right Now for Passive Income",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONExtUmZadk1ueF9LV3hSb2l1WDBQMFhoRmtWVnNLTHRLMnl4eF9KX1B2V1JTNXpKRnk2NnAxVnZhWjRxY0p6RHh3UFF2S3k2UDVvQzQwV1VSZTdSS1FJeHQ0YU1ZblFaSnU5NXRLeXhaUW42bzZ3YjViRVgyTjUzREthemQtR3Z5ZHNlWHN1T01fWmQzTFE?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "00cf141f881d",
+      "slug": "income"
+    },
+    {
+      "keyword": "machine learning",
+      "count": 8,
+      "score": 94.67070149561926,
       "proper": true,
       "niches": [
         "ai"
       ],
       "examples": [
         {
-          "title": "Best AI Tools for Digital Creators (2026): CapCut Featured for Video and Visual Content Production by Expert Consumers",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbEZ5enFLNHAxOUE4eUJ3R3ItbFhpYk9CQXRCeVItX1BKcS1aNlcwY21CenRxRS1YOEdyZXpaemRsZjVDMlNnWC1aQVVXbnFuNXVzMWN6ZmxfNHRpNHVQOUJSV2JLM3JZZ3FDQmNsaXA5N1d2UGJwRjFYY1lhMGktQmNsSklHN0lTR1QtYmVkYTE5bkdnai1pSWhB?oc=5",
+          "title": "Detecting LLM-Generated Texts with “Classical” Machine Learning",
+          "url": "https://blog.lyc8503.net/en/post/llm-classifier/",
+          "source": "hackernews"
+        },
+        {
+          "title": "Detecting LLM-Generated Texts with “Classical” Machine Learning",
+          "url": "https://blog.lyc8503.net/en/post/llm-classifier/",
+          "source": "hackernews"
+        }
+      ],
+      "id": "dcaa8e5ecb8d",
+      "slug": "machine-learning"
+    },
+    {
+      "keyword": "claude fable",
+      "count": 8,
+      "score": 93.05439225964987,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol",
+          "url": "https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6",
+          "source": "hackernews"
+        },
+        {
+          "title": "$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol",
+          "url": "https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6",
+          "source": "hackernews"
+        }
+      ],
+      "id": "ced86039c0ad",
+      "slug": "claude-fable"
+    },
+    {
+      "keyword": "income craze",
+      "count": 11,
+      "score": 91.80772104377093,
+      "proper": true,
+      "niches": [
+        "finance"
+      ],
+      "examples": [
+        {
+          "title": "5 Years After the Passive Income Craze, Rental Properties Have Proved To Be Anything But",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNYUxiamhRdE1HZ0dUMU52S0wwQ0w1RTVPZTZhTnFxQ1JtUk5MS2p0VkhMX0ptdk9SRjhFbnpJWWpJMENROVdnTGVWc1B1aFJrZk9tekRYUU9yZ3d4MmNtSmtMMFZIdXl6Y0RDSVlRZ19sZU12VnpkSF9VcUFYbVZGanN1aHRrWGdOSUE?oc=5",
           "source": "gnews"
         },
         {
-          "title": "Best AI Tools for Digital Creators (2026): CapCut Featured for Video and Visual Content Production by Expert Consumers",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbEZ5enFLNHAxOUE4eUJ3R3ItbFhpYk9CQXRCeVItX1BKcS1aNlcwY21CenRxRS1YOEdyZXpaemRsZjVDMlNnWC1aQVVXbnFuNXVzMWN6ZmxfNHRpNHVQOUJSV2JLM3JZZ3FDQmNsaXA5N1d2UGJwRjFYY1lhMGktQmNsSklHN0lTR1QtYmVkYTE5bkdnai1pSWhB?oc=5",
+          "title": "5 Years After the Passive Income Craze, Rental Properties Have Proved To Be Anything But",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNYUxiamhRdE1HZ0dUMU52S0wwQ0w1RTVPZTZhTnFxQ1JtUk5MS2p0VkhMX0ptdk9SRjhFbnpJWWpJMENROVdnTGVWc1B1aFJrZk9tekRYUU9yZ3d4MmNtSmtMMFZIdXl6Y0RDSVlRZ19sZU12VnpkSF9VcUFYbVZGanN1aHRrWGdOSUE?oc=5",
           "source": "gnews"
         },
         {
-          "title": "Best AI Tools for Digital Creators (2026): CapCut Featured for Video and Visual Content Production by Expert Consumers",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbEZ5enFLNHAxOUE4eUJ3R3ItbFhpYk9CQXRCeVItX1BKcS1aNlcwY21CenRxRS1YOEdyZXpaemRsZjVDMlNnWC1aQVVXbnFuNXVzMWN6ZmxfNHRpNHVQOUJSV2JLM3JZZ3FDQmNsaXA5N1d2UGJwRjFYY1lhMGktQmNsSklHN0lTR1QtYmVkYTE5bkdnai1pSWhB?oc=5",
+          "title": "5 Years After the Passive Income Craze, Rental Properties Have Proved To Be Anything But",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNYUxiamhRdE1HZ0dUMU52S0wwQ0w1RTVPZTZhTnFxQ1JtUk5MS2p0VkhMX0ptdk9SRjhFbnpJWWpJMENROVdnTGVWc1B1aFJrZk9tekRYUU9yZ3d4MmNtSmtMMFZIdXl6Y0RDSVlRZ19sZU12VnpkSF9VcUFYbVZGanN1aHRrWGdOSUE?oc=5",
           "source": "gnews"
         }
       ],
-      "id": "e11bfc42197d",
-      "slug": "expert-consumers"
+      "id": "29875c75cbe9",
+      "slug": "income-craze"
+    },
+    {
+      "keyword": "passive",
+      "count": 16,
+      "score": 83.92604633598162,
+      "proper": true,
+      "niches": [
+        "finance",
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "5 Years After the Passive Income Craze, Rental Properties Have Proved To Be Anything But",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNYUxiamhRdE1HZ0dUMU52S0wwQ0w1RTVPZTZhTnFxQ1JtUk5MS2p0VkhMX0ptdk9SRjhFbnpJWWpJMENROVdnTGVWc1B1aFJrZk9tekRYUU9yZ3d4MmNtSmtMMFZIdXl6Y0RDSVlRZ19sZU12VnpkSF9VcUFYbVZGanN1aHRrWGdOSUE?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "5 Years After the Passive Income Craze, Rental Properties Have Proved To Be Anything But",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNYUxiamhRdE1HZ0dUMU52S0wwQ0w1RTVPZTZhTnFxQ1JtUk5MS2p0VkhMX0ptdk9SRjhFbnpJWWpJMENROVdnTGVWc1B1aFJrZk9tekRYUU9yZ3d4MmNtSmtMMFZIdXl6Y0RDSVlRZ19sZU12VnpkSF9VcUFYbVZGanN1aHRrWGdOSUE?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Sponsored: How Real Estate Can Help You Build Passive Income with Total Wealth Academy",
+          "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxOS1ItZWgtV2k4Q1BXdzE4Q3VGc2VOU2lZcERRbC1TVEhaTzZfRVYwMnpsNDRidmNqWkt3OUhERi1PTzdtdVhmVE1icTU4SWIxeFdJX3ZNOHRrVUxIZHhQMzYtSjJHZE43X00zRno2ajY3Z0Z2RVNpa1hyTXZ4MzFWLTd3akpmSlhzWmVaV0Q3R1JYdXhCSkprSFl3TmItbjZ3Zmh5UDdZcl8za0NPaExueEg0dWpHclBEb2R1bjRER0s1d1FEWGxrMGNkVE5ZR1NiMjh5VE5FNGphU0pRcjgzeGtMLTQxMzlBeUF2b3FLVi12ZmZXV2xyZ2k2MTdrS1pRZ2RYV29PNHc1Y3l1eVdYWTlVM0tYUTlJdkg5ckRHZVNIOVlEWFdRcHpNSnBaUQ?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "1 No-Brainer Dividend ETF to Buy Right Now for Passive Income",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONExtUmZadk1ueF9LV3hSb2l1WDBQMFhoRmtWVnNLTHRLMnl4eF9KX1B2V1JTNXpKRnk2NnAxVnZhWjRxY0p6RHh3UFF2S3k2UDVvQzQwV1VSZTdSS1FJeHQ0YU1ZblFaSnU5NXRLeXhaUW42bzZ3YjViRVgyTjUzREthemQtR3Z5ZHNlWHN1T01fWmQzTFE?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "1 No-Brainer Dividend ETF to Buy Right Now for Passive Income",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONExtUmZadk1ueF9LV3hSb2l1WDBQMFhoRmtWVnNLTHRLMnl4eF9KX1B2V1JTNXpKRnk2NnAxVnZhWjRxY0p6RHh3UFF2S3k2UDVvQzQwV1VSZTdSS1FJeHQ0YU1ZblFaSnU5NXRLeXhaUW42bzZ3YjViRVgyTjUzREthemQtR3Z5ZHNlWHN1T01fWmQzTFE?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "a7f1d7bc2124",
+      "slug": "passive"
     },
     {
       "keyword": "google sheets",
@@ -493,75 +666,55 @@
       "slug": "google-sheets"
     },
     {
-      "keyword": "codex agent",
-      "count": 11,
-      "score": 78.34258862401788,
+      "keyword": "texas tribune",
+      "count": 8,
+      "score": 81.64804151784904,
       "proper": true,
       "niches": [
-        "ai"
+        "software"
       ],
       "examples": [
         {
-          "title": "OpenAI Is Selling a $230 Keyboard Designed for Its Codex Agent",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWmpxc1NKalFvVmdycXBLRlpNRURvTTNBcEc1REJrTVItcld1dW45TDM4Y25sOU1tOU00OENPY3BhdnBSMG0yM2VSMGZQcDRyNldCVkpxODctb3YwT1prejFFR0UyaVNLT3ZnclBKLXdGZmFhOGIyVDJoWTFKSl9aNFVTUTZFMnB1MVpiR3E1MlZhUQ?oc=5",
-          "source": "gnews"
+          "title": "NEW: After ProPublica and The Texas Tribune revealed Ken Paxton repeatedly voted while registered at an address where he appears to no longer live, Democrats called for an investigation into whether t",
+          "url": "https://newsie.social/@ProPublica/116931712726220811",
+          "source": "mastodon"
         },
         {
-          "title": "OpenAI Is Selling a $230 Keyboard Designed for Its Codex Agent",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWmpxc1NKalFvVmdycXBLRlpNRURvTTNBcEc1REJrTVItcld1dW45TDM4Y25sOU1tOU00OENPY3BhdnBSMG0yM2VSMGZQcDRyNldCVkpxODctb3YwT1prejFFR0UyaVNLT3ZnclBKLXdGZmFhOGIyVDJoWTFKSl9aNFVTUTZFMnB1MVpiR3E1MlZhUQ?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "OpenAI Is Selling a $230 Keyboard Designed for Its Codex Agent",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWmpxc1NKalFvVmdycXBLRlpNRURvTTNBcEc1REJrTVItcld1dW45TDM4Y25sOU1tOU00OENPY3BhdnBSMG0yM2VSMGZQcDRyNldCVkpxODctb3YwT1prejFFR0UyaVNLT3ZnclBKLXdGZmFhOGIyVDJoWTFKSl9aNFVTUTZFMnB1MVpiR3E1MlZhUQ?oc=5",
-          "source": "gnews"
+          "title": "NEW: After ProPublica and The Texas Tribune revealed Ken Paxton repeatedly voted while registered at an address where he appears to no longer live, Democrats called for an investigation into whether t",
+          "url": "https://newsie.social/@ProPublica/116931712726220811",
+          "source": "mastodon"
         }
       ],
-      "id": "de26a8a2c515",
-      "slug": "codex-agent"
+      "id": "91fa59ecab2b",
+      "slug": "texas-tribune"
     },
     {
-      "keyword": "tools 2026",
-      "count": 15,
-      "score": 74.6267346181356,
-      "proper": false,
+      "keyword": "ken paxton",
+      "count": 8,
+      "score": 81.64804151784904,
+      "proper": true,
       "niches": [
-        "ai"
+        "software"
       ],
       "examples": [
         {
-          "title": "The 12 Best AI Accounting Software and Tools for 2026",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQMHpGRjhPZkoyMzRSYk9NRF9KMVRhQzNQcjJhYjZ3Ukh1aWFjY1R2UFNpN3FUWnRIYlNKUHpjRUN0bEh2SmJIX3d1WVVLTlJ3cXY0U0Y2TzBMSllvT0diTnVXUmRzdklEanp0TmpiNEFMcElXOGc0VjQwU2Q2VDhVWWxLWWlnTndLaFE?oc=5",
-          "source": "gnews"
+          "title": "NEW: After ProPublica and The Texas Tribune revealed Ken Paxton repeatedly voted while registered at an address where he appears to no longer live, Democrats called for an investigation into whether t",
+          "url": "https://newsie.social/@ProPublica/116931712726220811",
+          "source": "mastodon"
         },
         {
-          "title": "The 12 Best AI Accounting Software and Tools for 2026",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQMHpGRjhPZkoyMzRSYk9NRF9KMVRhQzNQcjJhYjZ3Ukh1aWFjY1R2UFNpN3FUWnRIYlNKUHpjRUN0bEh2SmJIX3d1WVVLTlJ3cXY0U0Y2TzBMSllvT0diTnVXUmRzdklEanp0TmpiNEFMcElXOGc0VjQwU2Q2VDhVWWxLWWlnTndLaFE?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "The Best AI Tools of 2026, Ranked by Category on Real Adoption and Revenue Data",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBEMTg5TmFQNFhaczlFQzVNbzk5ZTZyYlVsNDB0TU4wOVRFcHdpVlpkNXhxdFkxbDZfYWEwN2FoUFQ3eXRpTkhkRVZiSlFPbldY?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "The Best AI Tools of 2026, Ranked by Category on Real Adoption and Revenue Data",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBEMTg5TmFQNFhaczlFQzVNbzk5ZTZyYlVsNDB0TU4wOVRFcHdpVlpkNXhxdFkxbDZfYWEwN2FoUFQ3eXRpTkhkRVZiSlFPbldY?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Best Fantasy Football AI Tools for 2026",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9pZThxanlMeFB4SGJqT0xTOUtpWHpKVUw1aHBVa0dBdFNybWZnWVVIRWhDRzVCT3dFd0swRHdUVUxaYVlhaHktcTBVR1Z4ZEpsRnktYk9DaEwtNjljZHBVMFRxSGg0NEowck9UQUs4cDhPSEg4TWfSAXtBVV95cUxPTjBkOVVmUFAwcWxtckdzVl9WcS1lM1FkSkdyaUZIelUtZ3NXZmNaMm9iQjBsZUM1NkZ1UWJlTVkwMU1meEJDbTFoeWFkYzZadkROdEtVODhfSTNvUDZTa08xSXlCTGxfYUtpY2Y3MHU0Mk81QnN0dW0xTEE?oc=5",
-          "source": "gnews"
+          "title": "NEW: After ProPublica and The Texas Tribune revealed Ken Paxton repeatedly voted while registered at an address where he appears to no longer live, Democrats called for an investigation into whether t",
+          "url": "https://newsie.social/@ProPublica/116931712726220811",
+          "source": "mastodon"
         }
       ],
-      "id": "8d5dbe4649e1",
-      "slug": "tools-2026"
+      "id": "386eac3bb3a4",
+      "slug": "ken-paxton"
     },
     {
       "keyword": "linus torvalds",
       "count": 8,
-      "score": 74.08495736719044,
+      "score": 76.87456112592179,
       "proper": true,
       "niches": [
         "ai"
@@ -580,167 +733,56 @@
       ],
       "id": "3c0439097761",
       "slug": "linus-torvalds"
-    },
-    {
-      "keyword": "source",
-      "count": 8,
-      "score": 73.34938031705647,
-      "proper": true,
-      "niches": [
-        "ai",
-        "software"
-      ],
-      "examples": [
-        {
-          "title": "Woah. It’s raining ashes and the AQI is over 1,000 due to wildfire smoke in the Upper Peninsula of Michigan. Source: https://www.threads.com/@michiganunsaltedgirl/post/Da2m1X-lnMb?xmt=AQG0ED0HVT3KFGlp",
-          "url": "https://mastodon.social/@luckytran/116930408599989380",
-          "source": "mastodon"
-        },
-        {
-          "title": "Woah. It’s raining ashes and the AQI is over 1,000 due to wildfire smoke in the Upper Peninsula of Michigan. Source: https://www.threads.com/@michiganunsaltedgirl/post/Da2m1X-lnMb?xmt=AQG0ED0HVT3KFGlp",
-          "url": "https://mastodon.social/@luckytran/116930408599989380",
-          "source": "mastodon"
-        },
-        {
-          "title": "Microsoft Comic Chat is now open source",
-          "url": "https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/",
-          "source": "hackernews"
-        },
-        {
-          "title": "Dev Opportunity Radar #7: $1,000 Solo Grants, Free Claude Max for Open Source Contributors, and an MLH Hackathon",
-          "url": "https://dev.to/devengers/dev-opportunity-radar-7-1000-solo-grants-free-claude-max-for-open-source-contributors-and-an-3i12",
-          "source": "devto"
-        }
-      ],
-      "id": "41cf6794ba42",
-      "slug": "source"
-    },
-    {
-      "keyword": "2026 _blank",
-      "count": 24,
-      "score": 73.21393595964909,
-      "proper": false,
-      "niches": [
-        "ai",
-        "gear",
-        "software",
-        "general"
-      ],
-      "examples": [
-        {
-          "title": "The 12 Best AI Accounting Software and Tools for 2026",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQMHpGRjhPZkoyMzRSYk9NRF9KMVRhQzNQcjJhYjZ3Ukh1aWFjY1R2UFNpN3FUWnRIYlNKUHpjRUN0bEh2SmJIX3d1WVVLTlJ3cXY0U0Y2TzBMSllvT0diTnVXUmRzdklEanp0TmpiNEFMcElXOGc0VjQwU2Q2VDhVWWxLWWlnTndLaFE?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "The TechBeat: The 10 Best AI Tools for SOC 2 Compliance in 2026 (7/15/2026)",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE50RUQzTlZtYi0xTTd6RWNzWWo5bEV3bmg2YV9TYWJkRmRJWDNQTWZpNHM1RFgzcDZMMzFuTE5VOTlvaTlPRWdlZkxod29JejJLdl9v?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "How Mechanical Keyboards Have Changed: Testing a Decade-Old Premium Board in 2026",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQOWJfa1VaQ2NIR01zLVZzeEpjMGhMeURTRUpiWG9DNXBfTGpJZDM2Qno1c3RRdW1zQVpWV0REemMzTmlXbTJ5ZnUxVll3MEtWb0ZTazU3bUs2Q1NReDRLQnZyclZGb0pJd0VPZGJJT2toWWlobi1ORHRkbU0zdmFqSU9YS1ZRQQ?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Best Fantasy Football AI Tools for 2026",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9pZThxanlMeFB4SGJqT0xTOUtpWHpKVUw1aHBVa0dBdFNybWZnWVVIRWhDRzVCT3dFd0swRHdUVUxaYVlhaHktcTBVR1Z4ZEpsRnktYk9DaEwtNjljZHBVMFRxSGg0NEowck9UQUs4cDhPSEg4TWfSAXtBVV95cUxPTjBkOVVmUFAwcWxtckdzVl9WcS1lM1FkSkdyaUZIelUtZ3NXZmNaMm9iQjBsZUM1NkZ1UWJlTVkwMU1meEJDbTFoeWFkYzZadkROdEtVODhfSTNvUDZTa08xSXlCTGxfYUtpY2Y3MHU0Mk81QnN0dW0xTEE?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "How to Use AI for Personal Finance: A Step-by-Step Guide (2026)",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdzlPdC1rRmNLeUNBZkpkNkR0YUZjMDRVR1N1cERIeFF3djh4R1ozbkVjcnlzeXoxd1htT1VNSW1IMnJLOGdxRnlpcElWNlRUa29jRG5yS3pPQWRtTDRTRzlUSldpWDVKY19pWS1CdmJjM2FLNU9FZVBZREVYcEtwbXJwQm5LblI4WlNlWkZBZk5zOXIxZWQxUXVQUjFoQQ?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "436796f27eb8",
-      "slug": "2026-_blank"
-    },
-    {
-      "keyword": "uniswap v3 swaprouter02",
-      "count": 5,
-      "score": 66.31535446528434,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "robinhood-ape/robinhood-sniper-bot — NOXA Fun token sniper on Robinhood Chain - watches TokenLaunched, buys via Uniswap V3 SwapRouter02, auto-sells on take-profit / stop-loss",
-          "url": "https://github.com/robinhood-ape/robinhood-sniper-bot",
-          "source": "github"
-        }
-      ],
-      "id": "c80219e99557",
-      "slug": "uniswap-v3-swaprouter02"
-    },
-    {
-      "keyword": "claude code",
-      "count": 8,
-      "score": 65.93663978439577,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "vshulcz/deja-vu — Memory layer for coding agents: search, MCP recall, auto-context, secret redaction, stats, share and sync over the session logs Claude Code, Codex and opencode already write. One zer",
-          "url": "https://github.com/vshulcz/deja-vu",
-          "source": "github"
-        },
-        {
-          "title": "vshulcz/deja-vu — Memory layer for coding agents: search, MCP recall, auto-context, secret redaction, stats, share and sync over the session logs Claude Code, Codex and opencode already write. One zer",
-          "url": "https://github.com/vshulcz/deja-vu",
-          "source": "github"
-        }
-      ],
-      "id": "a625159d18da",
-      "slug": "claude-code"
-    },
-    {
-      "keyword": "gemini",
-      "count": 9,
-      "score": 64.68667605085393,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "I stopped downloading productivity apps after pairing Gemini with Google Sheets",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbVNBX29sZ2pzNzhFQnJBSlZPV0NMR05hTUFYZXNfTU9LY1B6SUtPSW03ZG0yVVR3WGZTejl5eDZyQ0dsa201dVJObkxZc0Qta2lzVHAwekdwYTV2QTU1RHpzcGc3RFVhbFNvajBpVGtWYjJOdHpERXBZY2thdmFPcVZkMXpibXI3VzFrazNPSDloWm5udkQzejl6NnlXS0xZZ09xTnJR?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "I stopped downloading productivity apps after pairing Gemini with Google Sheets",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbVNBX29sZ2pzNzhFQnJBSlZPV0NMR05hTUFYZXNfTU9LY1B6SUtPSW03ZG0yVVR3WGZTejl5eDZyQ0dsa201dVJObkxZc0Qta2lzVHAwekdwYTV2QTU1RHpzcGc3RFVhbFNvajBpVGtWYjJOdHpERXBZY2thdmFPcVZkMXpibXI3VzFrazNPSDloWm5udkQzejl6NnlXS0xZZ09xTnJR?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "I stopped downloading productivity apps after pairing Gemini with Google Sheets",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbVNBX29sZ2pzNzhFQnJBSlZPV0NMR05hTUFYZXNfTU9LY1B6SUtPSW03ZG0yVVR3WGZTejl5eDZyQ0dsa201dVJObkxZc0Qta2lzVHAwekdwYTV2QTU1RHpzcGc3RFVhbFNvajBpVGtWYjJOdHpERXBZY2thdmFPcVZkMXpibXI3VzFrazNPSDloWm5udkQzejl6NnlXS0xZZ09xTnJR?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "pyang5166/gbro-collage-broll — 半调纸拼贴 B-roll 生成 skill：三闸门审批，Gemini Omni Flash 首尾帧组装动画 | Editorial halftone paper-collage B-roll agent skill",
-          "url": "https://github.com/pyang5166/gbro-collage-broll",
-          "source": "github"
-        },
-        {
-          "title": "NotebookLM is now Gemini Notebook",
-          "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/",
-          "source": "hackernews"
-        }
-      ],
-      "id": "5d72436256ad",
-      "slug": "gemini"
     }
   ],
   "opportunities": [
     {
+      "keyword": "passive income",
+      "count": 43,
+      "score": 238.4242886743054,
+      "proper": true,
+      "niches": [
+        "finance",
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "5 Years After the Passive Income Craze, Rental Properties Have Proved To Be Anything But",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNYUxiamhRdE1HZ0dUMU52S0wwQ0w1RTVPZTZhTnFxQ1JtUk5MS2p0VkhMX0ptdk9SRjhFbnpJWWpJMENROVdnTGVWc1B1aFJrZk9tekRYUU9yZ3d4MmNtSmtMMFZIdXl6Y0RDSVlRZ19sZU12VnpkSF9VcUFYbVZGanN1aHRrWGdOSUE?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "5 Years After the Passive Income Craze, Rental Properties Have Proved To Be Anything But",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNYUxiamhRdE1HZ0dUMU52S0wwQ0w1RTVPZTZhTnFxQ1JtUk5MS2p0VkhMX0ptdk9SRjhFbnpJWWpJMENROVdnTGVWc1B1aFJrZk9tekRYUU9yZ3d4MmNtSmtMMFZIdXl6Y0RDSVlRZ19sZU12VnpkSF9VcUFYbVZGanN1aHRrWGdOSUE?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Sponsored: How Real Estate Can Help You Build Passive Income with Total Wealth Academy",
+          "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxOS1ItZWgtV2k4Q1BXdzE4Q3VGc2VOU2lZcERRbC1TVEhaTzZfRVYwMnpsNDRidmNqWkt3OUhERi1PTzdtdVhmVE1icTU4SWIxeFdJX3ZNOHRrVUxIZHhQMzYtSjJHZE43X00zRno2ajY3Z0Z2RVNpa1hyTXZ4MzFWLTd3akpmSlhzWmVaV0Q3R1JYdXhCSkprSFl3TmItbjZ3Zmh5UDdZcl8za0NPaExueEg0dWpHclBEb2R1bjRER0s1d1FEWGxrMGNkVE5ZR1NiMjh5VE5FNGphU0pRcjgzeGtMLTQxMzlBeUF2b3FLVi12ZmZXV2xyZ2k2MTdrS1pRZ2RYV29PNHc1Y3l1eVdYWTlVM0tYUTlJdkg5ckRHZVNIOVlEWFdRcHpNSnBaUQ?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "1 No-Brainer Dividend ETF to Buy Right Now for Passive Income",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONExtUmZadk1ueF9LV3hSb2l1WDBQMFhoRmtWVnNLTHRLMnl4eF9KX1B2V1JTNXpKRnk2NnAxVnZhWjRxY0p6RHh3UFF2S3k2UDVvQzQwV1VSZTdSS1FJeHQ0YU1ZblFaSnU5NXRLeXhaUW42bzZ3YjViRVgyTjUzREthemQtR3Z5ZHNlWHN1T01fWmQzTFE?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "1 No-Brainer Dividend ETF to Buy Right Now for Passive Income",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONExtUmZadk1ueF9LV3hSb2l1WDBQMFhoRmtWVnNLTHRLMnl4eF9KX1B2V1JTNXpKRnk2NnAxVnZhWjRxY0p6RHh3UFF2S3k2UDVvQzQwV1VSZTdSS1FJeHQ0YU1ZblFaSnU5NXRLeXhaUW42bzZ3YjViRVgyTjUzREthemQtR3Z5ZHNlWHN1T01fWmQzTFE?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "cf2dbbbf8c8c",
+      "slug": "passive-income",
+      "opportunity": {
+        "type": "niche-content",
+        "recommended": "Publish niche guide for \"finance\"; bundle into digital product later."
+      }
+    },
+    {
       "keyword": "noxa fun",
       "count": 16,
-      "score": 190.2564652245399,
+      "score": 192.0788786138677,
       "proper": true,
       "niches": [
         "ai"
@@ -777,7 +819,7 @@
     {
       "keyword": "robinhood chain",
       "count": 16,
-      "score": 190.2564652245399,
+      "score": 192.0788786138677,
       "proper": true,
       "niches": [
         "ai"
@@ -812,41 +854,56 @@
       }
     },
     {
-      "keyword": "happy",
-      "count": 10,
-      "score": 122.83718195423255,
+      "keyword": "open",
+      "count": 19,
+      "score": 145.72685408727477,
       "proper": true,
       "niches": [
         "software",
-        "ai"
+        "ai",
+        "general"
       ],
       "examples": [
         {
-          "title": "Happy 12th birthday to me! 🎉🔸🎂🔸🎉We've come a LONG way since 2014. Remember what 1.0 looked like?https://www.macstories.net/reviews/overcast-review/",
-          "url": "https://mastodon.social/@overcastfm/116930398364467764",
-          "source": "mastodon"
+          "title": "Microsoft Comic Chat is now open source",
+          "url": "https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/",
+          "source": "hackernews"
         },
         {
-          "title": "Happy birthday to amateur pioneering American scientist, inventor & women’s rights advocate Eunice Newton Foote (1819-1888) who did the earliest experiments to show the insulating effect of certain ga",
-          "url": "https://spore.social/@minouette/116929994869474656",
-          "source": "mastodon"
+          "title": "Blueturboguy07/cue — Open-source macOS AI copilot that floats over your screen, sees/hears your meetings, and stays hidden from screen shares. Cluely alternative, bring-your-own-key.",
+          "url": "https://github.com/Blueturboguy07/cue",
+          "source": "github"
+        },
+        {
+          "title": "LM Studio Bionic: the AI agent for open models",
+          "url": "https://lmstudio.ai/blog/introducing-lm-studio-bionic",
+          "source": "hackernews"
+        },
+        {
+          "title": "QuantumByteOSS/quantumbyte — Open-source app builder engine — intent to working app",
+          "url": "https://github.com/QuantumByteOSS/quantumbyte",
+          "source": "github"
+        },
+        {
+          "title": "Show HN: BambooGrid – Open-source web UI for power grid modeling and power flow",
+          "url": "https://bamboo.kickstage.com",
+          "source": "hackernews"
         }
       ],
-      "id": "489f719cadf9",
-      "slug": "happy",
+      "id": "2348f9987442",
+      "slug": "open",
       "opportunity": {
-        "type": "affiliate",
-        "recommended": "Write SEO comparison/roundup article with affiliate links."
+        "type": "niche-content",
+        "recommended": "Publish niche guide for \"software\"; bundle into digital product later."
       }
     },
     {
       "keyword": "productivity apps",
       "count": 30,
-      "score": 113.95285618038965,
+      "score": 114.26251068087986,
       "proper": false,
       "niches": [
-        "ai",
-        "software"
+        "ai"
       ],
       "examples": [
         {
@@ -883,128 +940,97 @@
       }
     },
     {
-      "keyword": "digital creators",
-      "count": 11,
-      "score": 108.99838417254662,
+      "keyword": "gemini notebook",
+      "count": 8,
+      "score": 99.23831901571319,
       "proper": true,
       "niches": [
         "ai"
       ],
       "examples": [
         {
-          "title": "Best AI Tools for Digital Creators (2026): CapCut Featured for Video and Visual Content Production by Expert Consumers",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbEZ5enFLNHAxOUE4eUJ3R3ItbFhpYk9CQXRCeVItX1BKcS1aNlcwY21CenRxRS1YOEdyZXpaemRsZjVDMlNnWC1aQVVXbnFuNXVzMWN6ZmxfNHRpNHVQOUJSV2JLM3JZZ3FDQmNsaXA5N1d2UGJwRjFYY1lhMGktQmNsSklHN0lTR1QtYmVkYTE5bkdnai1pSWhB?oc=5",
-          "source": "gnews"
+          "title": "NotebookLM is now Gemini Notebook",
+          "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/",
+          "source": "hackernews"
         },
         {
-          "title": "Best AI Tools for Digital Creators (2026): CapCut Featured for Video and Visual Content Production by Expert Consumers",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbEZ5enFLNHAxOUE4eUJ3R3ItbFhpYk9CQXRCeVItX1BKcS1aNlcwY21CenRxRS1YOEdyZXpaemRsZjVDMlNnWC1aQVVXbnFuNXVzMWN6ZmxfNHRpNHVQOUJSV2JLM3JZZ3FDQmNsaXA5N1d2UGJwRjFYY1lhMGktQmNsSklHN0lTR1QtYmVkYTE5bkdnai1pSWhB?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Best AI Tools for Digital Creators (2026): CapCut Featured for Video and Visual Content Production by Expert Consumers",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbEZ5enFLNHAxOUE4eUJ3R3ItbFhpYk9CQXRCeVItX1BKcS1aNlcwY21CenRxRS1YOEdyZXpaemRsZjVDMlNnWC1aQVVXbnFuNXVzMWN6ZmxfNHRpNHVQOUJSV2JLM3JZZ3FDQmNsaXA5N1d2UGJwRjFYY1lhMGktQmNsSklHN0lTR1QtYmVkYTE5bkdnai1pSWhB?oc=5",
-          "source": "gnews"
+          "title": "NotebookLM is now Gemini Notebook",
+          "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/",
+          "source": "hackernews"
         }
       ],
-      "id": "67e10bd0f1a9",
-      "slug": "digital-creators",
+      "id": "a56b3276ce42",
+      "slug": "gemini-notebook",
       "opportunity": {
         "type": "niche-content",
         "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
       }
     },
     {
-      "keyword": "expert consumers",
-      "count": 11,
-      "score": 108.99838417254662,
+      "keyword": "income",
+      "count": 16,
+      "score": 98.44110104645924,
       "proper": true,
       "niches": [
+        "finance",
         "ai"
       ],
       "examples": [
         {
-          "title": "Best AI Tools for Digital Creators (2026): CapCut Featured for Video and Visual Content Production by Expert Consumers",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbEZ5enFLNHAxOUE4eUJ3R3ItbFhpYk9CQXRCeVItX1BKcS1aNlcwY21CenRxRS1YOEdyZXpaemRsZjVDMlNnWC1aQVVXbnFuNXVzMWN6ZmxfNHRpNHVQOUJSV2JLM3JZZ3FDQmNsaXA5N1d2UGJwRjFYY1lhMGktQmNsSklHN0lTR1QtYmVkYTE5bkdnai1pSWhB?oc=5",
+          "title": "5 Years After the Passive Income Craze, Rental Properties Have Proved To Be Anything But",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNYUxiamhRdE1HZ0dUMU52S0wwQ0w1RTVPZTZhTnFxQ1JtUk5MS2p0VkhMX0ptdk9SRjhFbnpJWWpJMENROVdnTGVWc1B1aFJrZk9tekRYUU9yZ3d4MmNtSmtMMFZIdXl6Y0RDSVlRZ19sZU12VnpkSF9VcUFYbVZGanN1aHRrWGdOSUE?oc=5",
           "source": "gnews"
         },
         {
-          "title": "Best AI Tools for Digital Creators (2026): CapCut Featured for Video and Visual Content Production by Expert Consumers",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbEZ5enFLNHAxOUE4eUJ3R3ItbFhpYk9CQXRCeVItX1BKcS1aNlcwY21CenRxRS1YOEdyZXpaemRsZjVDMlNnWC1aQVVXbnFuNXVzMWN6ZmxfNHRpNHVQOUJSV2JLM3JZZ3FDQmNsaXA5N1d2UGJwRjFYY1lhMGktQmNsSklHN0lTR1QtYmVkYTE5bkdnai1pSWhB?oc=5",
+          "title": "5 Years After the Passive Income Craze, Rental Properties Have Proved To Be Anything But",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNYUxiamhRdE1HZ0dUMU52S0wwQ0w1RTVPZTZhTnFxQ1JtUk5MS2p0VkhMX0ptdk9SRjhFbnpJWWpJMENROVdnTGVWc1B1aFJrZk9tekRYUU9yZ3d4MmNtSmtMMFZIdXl6Y0RDSVlRZ19sZU12VnpkSF9VcUFYbVZGanN1aHRrWGdOSUE?oc=5",
           "source": "gnews"
         },
         {
-          "title": "Best AI Tools for Digital Creators (2026): CapCut Featured for Video and Visual Content Production by Expert Consumers",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbEZ5enFLNHAxOUE4eUJ3R3ItbFhpYk9CQXRCeVItX1BKcS1aNlcwY21CenRxRS1YOEdyZXpaemRsZjVDMlNnWC1aQVVXbnFuNXVzMWN6ZmxfNHRpNHVQOUJSV2JLM3JZZ3FDQmNsaXA5N1d2UGJwRjFYY1lhMGktQmNsSklHN0lTR1QtYmVkYTE5bkdnai1pSWhB?oc=5",
+          "title": "Sponsored: How Real Estate Can Help You Build Passive Income with Total Wealth Academy",
+          "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxOS1ItZWgtV2k4Q1BXdzE4Q3VGc2VOU2lZcERRbC1TVEhaTzZfRVYwMnpsNDRidmNqWkt3OUhERi1PTzdtdVhmVE1icTU4SWIxeFdJX3ZNOHRrVUxIZHhQMzYtSjJHZE43X00zRno2ajY3Z0Z2RVNpa1hyTXZ4MzFWLTd3akpmSlhzWmVaV0Q3R1JYdXhCSkprSFl3TmItbjZ3Zmh5UDdZcl8za0NPaExueEg0dWpHclBEb2R1bjRER0s1d1FEWGxrMGNkVE5ZR1NiMjh5VE5FNGphU0pRcjgzeGtMLTQxMzlBeUF2b3FLVi12ZmZXV2xyZ2k2MTdrS1pRZ2RYV29PNHc1Y3l1eVdYWTlVM0tYUTlJdkg5ckRHZVNIOVlEWFdRcHpNSnBaUQ?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Sponsored: How Real Estate Can Help You Build Passive Income with Total Wealth Academy",
+          "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxOS1ItZWgtV2k4Q1BXdzE4Q3VGc2VOU2lZcERRbC1TVEhaTzZfRVYwMnpsNDRidmNqWkt3OUhERi1PTzdtdVhmVE1icTU4SWIxeFdJX3ZNOHRrVUxIZHhQMzYtSjJHZE43X00zRno2ajY3Z0Z2RVNpa1hyTXZ4MzFWLTd3akpmSlhzWmVaV0Q3R1JYdXhCSkprSFl3TmItbjZ3Zmh5UDdZcl8za0NPaExueEg0dWpHclBEb2R1bjRER0s1d1FEWGxrMGNkVE5ZR1NiMjh5VE5FNGphU0pRcjgzeGtMLTQxMzlBeUF2b3FLVi12ZmZXV2xyZ2k2MTdrS1pRZ2RYV29PNHc1Y3l1eVdYWTlVM0tYUTlJdkg5ckRHZVNIOVlEWFdRcHpNSnBaUQ?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "1 No-Brainer Dividend ETF to Buy Right Now for Passive Income",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONExtUmZadk1ueF9LV3hSb2l1WDBQMFhoRmtWVnNLTHRLMnl4eF9KX1B2V1JTNXpKRnk2NnAxVnZhWjRxY0p6RHh3UFF2S3k2UDVvQzQwV1VSZTdSS1FJeHQ0YU1ZblFaSnU5NXRLeXhaUW42bzZ3YjViRVgyTjUzREthemQtR3Z5ZHNlWHN1T01fWmQzTFE?oc=5",
           "source": "gnews"
         }
       ],
-      "id": "e11bfc42197d",
-      "slug": "expert-consumers",
+      "id": "00cf141f881d",
+      "slug": "income",
       "opportunity": {
         "type": "niche-content",
-        "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
+        "recommended": "Publish niche guide for \"finance\"; bundle into digital product later."
       }
     },
     {
-      "keyword": "google sheets",
-      "count": 11,
-      "score": 81.74878812940996,
+      "keyword": "machine learning",
+      "count": 8,
+      "score": 94.67070149561926,
       "proper": true,
       "niches": [
         "ai"
       ],
       "examples": [
         {
-          "title": "I stopped downloading productivity apps after pairing Gemini with Google Sheets",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbVNBX29sZ2pzNzhFQnJBSlZPV0NMR05hTUFYZXNfTU9LY1B6SUtPSW03ZG0yVVR3WGZTejl5eDZyQ0dsa201dVJObkxZc0Qta2lzVHAwekdwYTV2QTU1RHpzcGc3RFVhbFNvajBpVGtWYjJOdHpERXBZY2thdmFPcVZkMXpibXI3VzFrazNPSDloWm5udkQzejl6NnlXS0xZZ09xTnJR?oc=5",
-          "source": "gnews"
+          "title": "Detecting LLM-Generated Texts with “Classical” Machine Learning",
+          "url": "https://blog.lyc8503.net/en/post/llm-classifier/",
+          "source": "hackernews"
         },
         {
-          "title": "I stopped downloading productivity apps after pairing Gemini with Google Sheets",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbVNBX29sZ2pzNzhFQnJBSlZPV0NMR05hTUFYZXNfTU9LY1B6SUtPSW03ZG0yVVR3WGZTejl5eDZyQ0dsa201dVJObkxZc0Qta2lzVHAwekdwYTV2QTU1RHpzcGc3RFVhbFNvajBpVGtWYjJOdHpERXBZY2thdmFPcVZkMXpibXI3VzFrazNPSDloWm5udkQzejl6NnlXS0xZZ09xTnJR?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "I stopped downloading productivity apps after pairing Gemini with Google Sheets",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbVNBX29sZ2pzNzhFQnJBSlZPV0NMR05hTUFYZXNfTU9LY1B6SUtPSW03ZG0yVVR3WGZTejl5eDZyQ0dsa201dVJObkxZc0Qta2lzVHAwekdwYTV2QTU1RHpzcGc3RFVhbFNvajBpVGtWYjJOdHpERXBZY2thdmFPcVZkMXpibXI3VzFrazNPSDloWm5udkQzejl6NnlXS0xZZ09xTnJR?oc=5",
-          "source": "gnews"
+          "title": "Detecting LLM-Generated Texts with “Classical” Machine Learning",
+          "url": "https://blog.lyc8503.net/en/post/llm-classifier/",
+          "source": "hackernews"
         }
       ],
-      "id": "995945426cf6",
-      "slug": "google-sheets",
-      "opportunity": {
-        "type": "niche-content",
-        "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
-      }
-    },
-    {
-      "keyword": "codex agent",
-      "count": 11,
-      "score": 78.34258862401788,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "OpenAI Is Selling a $230 Keyboard Designed for Its Codex Agent",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWmpxc1NKalFvVmdycXBLRlpNRURvTTNBcEc1REJrTVItcld1dW45TDM4Y25sOU1tOU00OENPY3BhdnBSMG0yM2VSMGZQcDRyNldCVkpxODctb3YwT1prejFFR0UyaVNLT3ZnclBKLXdGZmFhOGIyVDJoWTFKSl9aNFVTUTZFMnB1MVpiR3E1MlZhUQ?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "OpenAI Is Selling a $230 Keyboard Designed for Its Codex Agent",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWmpxc1NKalFvVmdycXBLRlpNRURvTTNBcEc1REJrTVItcld1dW45TDM4Y25sOU1tOU00OENPY3BhdnBSMG0yM2VSMGZQcDRyNldCVkpxODctb3YwT1prejFFR0UyaVNLT3ZnclBKLXdGZmFhOGIyVDJoWTFKSl9aNFVTUTZFMnB1MVpiR3E1MlZhUQ?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "OpenAI Is Selling a $230 Keyboard Designed for Its Codex Agent",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWmpxc1NKalFvVmdycXBLRlpNRURvTTNBcEc1REJrTVItcld1dW45TDM4Y25sOU1tOU00OENPY3BhdnBSMG0yM2VSMGZQcDRyNldCVkpxODctb3YwT1prejFFR0UyaVNLT3ZnclBKLXdGZmFhOGIyVDJoWTFKSl9aNFVTUTZFMnB1MVpiR3E1MlZhUQ?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "de26a8a2c515",
-      "slug": "codex-agent",
+      "id": "dcaa8e5ecb8d",
+      "slug": "machine-learning",
       "opportunity": {
         "type": "niche-content",
         "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."

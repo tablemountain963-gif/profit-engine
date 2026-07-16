@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "slug": "claude-fable-2026-07-16-0a44d8",
+      "title": "Claude Fable",
+      "date": "2026-07-16",
+      "niche": "ai",
+      "keywords": [
+        "Claude Fable",
+        "ai"
+      ],
+      "score": 93.05,
+      "file": "articles/claude-fable-2026-07-16-0a44d8.md"
+    },
+    {
+      "slug": "machine-learning-2026-07-16-b70dfc",
+      "title": "Machine Learning: The 85% Accuracy Threshold",
+      "date": "2026-07-16",
+      "niche": "ai",
+      "keywords": [
+        "Machine Learning",
+        "ai"
+      ],
+      "score": 94.67,
+      "file": "articles/machine-learning-2026-07-16-b70dfc.md"
+    },
+    {
+      "slug": "gemini-notebook-2026-07-16-a1e06a",
+      "title": "100,000 Users Affected: NotebookLM is Now Gemini Notebook",
+      "date": "2026-07-16",
+      "niche": "ai",
+      "keywords": [
+        "Gemini Notebook",
+        "ai"
+      ],
+      "score": 99.24,
+      "file": "articles/gemini-notebook-2026-07-16-a1e06a.md"
+    },
+    {
       "slug": "regarding-ai-2026-07-16-603432",
       "title": "$1.3 Trillion: The Staggering Investment in AI by 2025",
       "date": "2026-07-16",
@@ -6007,42 +6043,6 @@
       ],
       "score": 94.22,
       "file": "articles/nicolas-sutrich-2026-06-05-fe9d54.md"
-    },
-    {
-      "slug": "disguised-russian-2026-06-05-d4bc01",
-      "title": "3 Million Downloads in 2 Weeks: The Rise of Disguised Russian Banking Apps",
-      "date": "2026-06-05",
-      "niche": "software",
-      "keywords": [
-        "Disguised Russian",
-        "software"
-      ],
-      "score": 96.86,
-      "file": "articles/disguised-russian-2026-06-05-d4bc01.md"
-    },
-    {
-      "slug": "open-code-review-2026-06-05-3ce168",
-      "title": "Open Code Review: A Game-Changer in Software Development",
-      "date": "2026-06-05",
-      "niche": "ai",
-      "keywords": [
-        "Open Code Review",
-        "ai"
-      ],
-      "score": 67.8,
-      "file": "articles/open-code-review-2026-06-05-3ce168.md"
-    },
-    {
-      "slug": "ai-censorship-tools-2026-06-05-d7fa0b",
-      "title": "Ai Censorship Tools",
-      "date": "2026-06-05",
-      "niche": "ai",
-      "keywords": [
-        "Ai Censorship Tools",
-        "ai"
-      ],
-      "score": 71.17,
-      "file": "articles/ai-censorship-tools-2026-06-05-d7fa0b.md"
     }
   ]
 }

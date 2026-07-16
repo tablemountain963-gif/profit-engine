@@ -1,6 +1,23 @@
 {
   "items": [
     {
+      "slug": "starter-kit-income-craze-2026-07-16",
+      "title": "Income Craze Starter Kit — Templates + Playbook",
+      "blurb": "Templates, playbook, and 30-day plan for Income Craze. Skip the blank page.",
+      "type": "starter-kit",
+      "topic": "Income Craze",
+      "niche": "finance",
+      "price": 29,
+      "generatedAt": "2026-07-16T21:52:50.252Z",
+      "files": [
+        "playbook.md",
+        "templates.md",
+        "30-day-plan.md",
+        "README.md",
+        "LICENSE.txt"
+      ]
+    },
+    {
       "slug": "checklist-customer-support-reply-templates-2026-07-16",
       "title": "Customer Support Reply Templates Operator Checklist — Printable PDF",
       "blurb": "A one-page operator checklist for Customer Support Reply Templates. Print, laminate, ship.",
@@ -3023,21 +3040,6 @@
       "niche": "ai",
       "price": 19,
       "generatedAt": "2026-06-12T05:29:15.464Z",
-      "files": [
-        "prompts.md",
-        "README.md",
-        "LICENSE.txt"
-      ]
-    },
-    {
-      "slug": "prompt-pack-ai-prompts-for-teachers-and-educators-2026-06-11",
-      "title": "AI Prompts For Teachers And Educators Prompt Pack — 50 Battle-Tested Prompts",
-      "blurb": "50 proven prompts for AI Prompts For Teachers And Educators. Copy/paste ready. Tested across Claude, GPT, Gemini.",
-      "type": "prompt-pack",
-      "topic": "AI Prompts For Teachers And Educators",
-      "niche": "ai",
-      "price": 19,
-      "generatedAt": "2026-06-11T22:45:26.795Z",
       "files": [
         "prompts.md",
         "README.md",

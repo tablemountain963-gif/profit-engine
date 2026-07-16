@@ -1210,8 +1210,8 @@
     },
     "claude-fable": {
       "firstSeen": "2026-06-09T17:52:53.176Z",
-      "lastSeen": "2026-07-01T15:39:22.774Z",
-      "count": 4,
+      "lastSeen": "2026-07-16T21:52:49.381Z",
+      "count": 5,
       "wins": 2,
       "losses": 0,
       "niche": "ai"
@@ -2600,14 +2600,6 @@
       "losses": 0,
       "niche": "ai"
     },
-    "kimberly-prost": {
-      "firstSeen": "2026-06-27T16:57:04.708Z",
-      "lastSeen": "2026-07-02T17:26:36.867Z",
-      "count": 2,
-      "wins": 0,
-      "losses": 1,
-      "niche": "ai"
-    },
     "automated-qwencloud": {
       "firstSeen": "2026-06-27T16:57:08.180Z",
       "lastSeen": "2026-06-27T21:50:41.783Z",
@@ -2690,9 +2682,9 @@
     },
     "side-hustles": {
       "firstSeen": "2026-06-28T14:47:25.294Z",
-      "lastSeen": "2026-07-16T17:03:25.634Z",
-      "count": 3,
-      "wins": 0,
+      "lastSeen": "2026-07-16T21:52:38.050Z",
+      "count": 4,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -3069,38 +3061,6 @@
       "lastSeen": "2026-07-02T21:55:43.926Z",
       "count": 2,
       "wins": 1,
-      "losses": 0,
-      "niche": "ai"
-    },
-    "sneak-peak": {
-      "firstSeen": "2026-07-02T17:26:59.835Z",
-      "lastSeen": "2026-07-02T17:26:59.835Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "gear"
-    },
-    "microsoft-office": {
-      "firstSeen": "2026-07-02T17:27:05.551Z",
-      "lastSeen": "2026-07-02T17:27:05.551Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "ai"
-    },
-    "discerning-investor": {
-      "firstSeen": "2026-07-02T17:27:23.368Z",
-      "lastSeen": "2026-07-02T17:27:23.368Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "software"
-    },
-    "productivity": {
-      "firstSeen": "2026-07-02T17:27:59.184Z",
-      "lastSeen": "2026-07-02T17:27:59.184Z",
-      "count": 1,
-      "wins": 0,
       "losses": 0,
       "niche": "ai"
     },
@@ -4554,10 +4514,10 @@
     },
     "lm-wr": {
       "firstSeen": "2026-07-11T21:37:06.009Z",
-      "lastSeen": "2026-07-11T21:37:06.009Z",
-      "count": 1,
+      "lastSeen": "2026-07-16T21:52:38.045Z",
+      "count": 2,
       "wins": 0,
-      "losses": 0,
+      "losses": 1,
       "niche": "ai"
     },
     "content-calendar-and-caption-templates": {
@@ -5442,9 +5402,9 @@
     },
     "world-cup": {
       "firstSeen": "2026-07-16T14:58:38.560Z",
-      "lastSeen": "2026-07-16T14:58:38.560Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-07-16T21:52:38.047Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -5466,9 +5426,9 @@
     },
     "source": {
       "firstSeen": "2026-07-16T17:03:22.837Z",
-      "lastSeen": "2026-07-16T17:03:22.837Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-07-16T21:52:38.049Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -5487,21 +5447,69 @@
       "wins": 0,
       "losses": 0,
       "niche": "productivity"
+    },
+    "gemini-notebook": {
+      "firstSeen": "2026-07-16T21:52:43.658Z",
+      "lastSeen": "2026-07-16T21:52:43.658Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "machine-learning": {
+      "firstSeen": "2026-07-16T21:52:46.241Z",
+      "lastSeen": "2026-07-16T21:52:46.241Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "income-craze": {
+      "firstSeen": "2026-07-16T21:52:55.327Z",
+      "lastSeen": "2026-07-16T21:52:55.327Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "finance"
+    },
+    "texas-tribune": {
+      "firstSeen": "2026-07-16T21:52:59.868Z",
+      "lastSeen": "2026-07-16T21:52:59.868Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "software"
+    },
+    "ken-paxton": {
+      "firstSeen": "2026-07-16T21:53:11.906Z",
+      "lastSeen": "2026-07-16T21:53:11.906Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "software"
+    },
+    "circuit-framework": {
+      "firstSeen": "2026-07-16T21:53:28.382Z",
+      "lastSeen": "2026-07-16T21:53:28.382Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
     }
   },
   "niches": {
     "ai": {
-      "count": 1382,
-      "wins": 375,
-      "losses": 60
+      "count": 1389,
+      "wins": 377,
+      "losses": 61
     },
     "finance": {
-      "count": 124,
-      "wins": 20,
+      "count": 126,
+      "wins": 21,
       "losses": 2
     },
     "software": {
-      "count": 317,
+      "count": 319,
       "wins": 91,
       "losses": 19
     },
