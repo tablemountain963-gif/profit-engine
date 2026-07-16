@@ -2690,8 +2690,8 @@
     },
     "side-hustles": {
       "firstSeen": "2026-06-28T14:47:25.294Z",
-      "lastSeen": "2026-07-04T21:45:08.125Z",
-      "count": 2,
+      "lastSeen": "2026-07-16T17:03:25.634Z",
+      "count": 3,
       "wins": 0,
       "losses": 0,
       "niche": "ai"
@@ -3040,34 +3040,10 @@
       "losses": 0,
       "niche": "ai"
     },
-    "mail-memories": {
-      "firstSeen": "2026-07-02T15:13:42.726Z",
-      "lastSeen": "2026-07-02T15:13:42.726Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "ai"
-    },
     "_blank-tools": {
       "firstSeen": "2026-07-02T15:13:51.089Z",
       "lastSeen": "2026-07-09T17:48:24.820Z",
       "count": 2,
-      "wins": 0,
-      "losses": 0,
-      "niche": "ai"
-    },
-    "premium-features": {
-      "firstSeen": "2026-07-02T15:14:06.406Z",
-      "lastSeen": "2026-07-02T15:14:06.406Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "gear"
-    },
-    "top-court-rules": {
-      "firstSeen": "2026-07-02T15:15:03.212Z",
-      "lastSeen": "2026-07-02T15:15:03.212Z",
-      "count": 1,
       "wins": 0,
       "losses": 0,
       "niche": "ai"
@@ -3226,8 +3202,8 @@
     },
     "expert-consumers": {
       "firstSeen": "2026-07-03T15:10:09.305Z",
-      "lastSeen": "2026-07-10T04:47:35.425Z",
-      "count": 2,
+      "lastSeen": "2026-07-16T17:03:39.246Z",
+      "count": 3,
       "wins": 0,
       "losses": 0,
       "niche": "ai"
@@ -5450,17 +5426,17 @@
     },
     "noxa-fun": {
       "firstSeen": "2026-07-16T14:58:32.435Z",
-      "lastSeen": "2026-07-16T14:58:32.435Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-07-16T17:03:13.667Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
     "linus-torvalds": {
       "firstSeen": "2026-07-16T14:58:35.689Z",
-      "lastSeen": "2026-07-16T14:58:35.689Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-07-16T17:03:13.670Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -5487,16 +5463,40 @@
       "wins": 0,
       "losses": 0,
       "niche": "ai"
+    },
+    "source": {
+      "firstSeen": "2026-07-16T17:03:22.837Z",
+      "lastSeen": "2026-07-16T17:03:22.837Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "regarding-ai": {
+      "firstSeen": "2026-07-16T17:03:28.760Z",
+      "lastSeen": "2026-07-16T17:03:28.760Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "customer-support-reply-templates": {
+      "firstSeen": "2026-07-16T17:03:31.704Z",
+      "lastSeen": "2026-07-16T17:03:31.704Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "productivity"
     }
   },
   "niches": {
     "ai": {
-      "count": 1377,
-      "wins": 373,
+      "count": 1382,
+      "wins": 375,
       "losses": 60
     },
     "finance": {
-      "count": 123,
+      "count": 124,
       "wins": 20,
       "losses": 2
     },
@@ -5516,7 +5516,7 @@
       "losses": 0
     },
     "productivity": {
-      "count": 6,
+      "count": 7,
       "wins": 0,
       "losses": 0
     }
