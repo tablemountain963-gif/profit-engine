@@ -2122,8 +2122,8 @@
     },
     "mechanical-keyboards": {
       "firstSeen": "2026-06-21T15:10:30.803Z",
-      "lastSeen": "2026-07-06T05:07:30.337Z",
-      "count": 4,
+      "lastSeen": "2026-07-16T14:59:00.674Z",
+      "count": 5,
       "wins": 2,
       "losses": 0,
       "niche": "gear"
@@ -2402,8 +2402,8 @@
     },
     "gemini": {
       "firstSeen": "2026-06-24T22:05:08.394Z",
-      "lastSeen": "2026-07-11T14:21:15.429Z",
-      "count": 3,
+      "lastSeen": "2026-07-16T14:59:12.099Z",
+      "count": 4,
       "wins": 1,
       "losses": 0,
       "niche": "ai"
@@ -2559,22 +2559,6 @@
       "wins": 1,
       "losses": 0,
       "niche": "ai"
-    },
-    "barrack-obama": {
-      "firstSeen": "2026-06-27T04:50:24.889Z",
-      "lastSeen": "2026-07-02T04:55:17.108Z",
-      "count": 2,
-      "wins": 0,
-      "losses": 1,
-      "niche": "finance"
-    },
-    "puerto-rico": {
-      "firstSeen": "2026-06-27T04:50:27.748Z",
-      "lastSeen": "2026-07-02T04:55:17.111Z",
-      "count": 2,
-      "wins": 0,
-      "losses": 1,
-      "niche": "finance"
     },
     "tools": {
       "firstSeen": "2026-06-27T04:50:31.511Z",
@@ -3031,38 +3015,6 @@
       "wins": 1,
       "losses": 0,
       "niche": "ai"
-    },
-    "gasket-mount": {
-      "firstSeen": "2026-07-02T04:55:35.018Z",
-      "lastSeen": "2026-07-02T04:55:35.018Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "software"
-    },
-    "jokitsien": {
-      "firstSeen": "2026-07-02T04:55:41.675Z",
-      "lastSeen": "2026-07-02T04:55:41.675Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "software"
-    },
-    "app-store-boost": {
-      "firstSeen": "2026-07-02T04:56:03.666Z",
-      "lastSeen": "2026-07-02T04:56:03.666Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "software"
-    },
-    "ownership-sharing": {
-      "firstSeen": "2026-07-02T04:56:37.442Z",
-      "lastSeen": "2026-07-02T04:56:37.442Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "software"
     },
     "software-experts": {
       "firstSeen": "2026-07-02T15:13:29.550Z",
@@ -5370,9 +5322,9 @@
     },
     "maintenance-mode": {
       "firstSeen": "2026-07-15T17:05:19.044Z",
-      "lastSeen": "2026-07-15T17:05:19.044Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-07-16T14:58:25.463Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -5495,12 +5447,52 @@
       "wins": 0,
       "losses": 0,
       "niche": "ai"
+    },
+    "noxa-fun": {
+      "firstSeen": "2026-07-16T14:58:32.435Z",
+      "lastSeen": "2026-07-16T14:58:32.435Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "linus-torvalds": {
+      "firstSeen": "2026-07-16T14:58:35.689Z",
+      "lastSeen": "2026-07-16T14:58:35.689Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "world-cup": {
+      "firstSeen": "2026-07-16T14:58:38.560Z",
+      "lastSeen": "2026-07-16T14:58:38.560Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "digital-creators": {
+      "firstSeen": "2026-07-16T14:58:46.011Z",
+      "lastSeen": "2026-07-16T14:58:46.011Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "uniswap-v3-swaprouter02": {
+      "firstSeen": "2026-07-16T14:58:53.194Z",
+      "lastSeen": "2026-07-16T14:58:53.194Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
     }
   },
   "niches": {
     "ai": {
-      "count": 1370,
-      "wins": 372,
+      "count": 1377,
+      "wins": 373,
       "losses": 60
     },
     "finance": {
@@ -5514,7 +5506,7 @@
       "losses": 19
     },
     "gear": {
-      "count": 127,
+      "count": 128,
       "wins": 39,
       "losses": 0
     },
