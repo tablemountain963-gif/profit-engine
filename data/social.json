@@ -1,6 +1,27 @@
 {
   "items": [
     {
+      "slug": "tool-2026-07-16",
+      "topic": "Tool",
+      "date": "2026-07-16",
+      "niche": "ai",
+      "file": "social/tool-2026-07-16.md"
+    },
+    {
+      "slug": "heat-summer-2026-07-16",
+      "topic": "Heat Summer",
+      "date": "2026-07-16",
+      "niche": "gear",
+      "file": "social/heat-summer-2026-07-16.md"
+    },
+    {
+      "slug": "open-source-2026-07-16",
+      "topic": "Open Source",
+      "date": "2026-07-16",
+      "niche": "ai",
+      "file": "social/open-source-2026-07-16.md"
+    },
+    {
       "slug": "beat-heat-2026-07-15",
       "topic": "Beat Heat",
       "date": "2026-07-15",
@@ -1378,27 +1399,6 @@
       "date": "2026-06-23",
       "niche": "ai",
       "file": "social/amazon-prime-2026-06-23.md"
-    },
-    {
-      "slug": "tools-amazon-2026-06-23",
-      "topic": "Tools Amazon",
-      "date": "2026-06-23",
-      "niche": "ai",
-      "file": "social/tools-amazon-2026-06-23.md"
-    },
-    {
-      "slug": "shopping-tools-2026-06-23",
-      "topic": "Shopping Tools",
-      "date": "2026-06-23",
-      "niche": "ai",
-      "file": "social/shopping-tools-2026-06-23.md"
-    },
-    {
-      "slug": "ammo-editor-2026-06-23",
-      "topic": "Ammo Editor",
-      "date": "2026-06-23",
-      "niche": "ai",
-      "file": "social/ammo-editor-2026-06-23.md"
     }
   ]
 }

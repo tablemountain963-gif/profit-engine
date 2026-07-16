@@ -1,16 +1,6 @@
 {
   "pending": [
     {
-      "keyword": "muse-spark",
-      "niche": "ai",
-      "publishedAt": "2026-07-10T21:48:15.756Z"
-    },
-    {
-      "keyword": "sam-altman",
-      "niche": "ai",
-      "publishedAt": "2026-07-10T21:48:22.718Z"
-    },
-    {
       "keyword": "lm-wr",
       "niche": "ai",
       "publishedAt": "2026-07-11T21:37:06.010Z"
@@ -36,16 +26,6 @@
       "publishedAt": "2026-07-14T03:54:15.909Z"
     },
     {
-      "keyword": "brainer-dividend-etf",
-      "niche": "ai",
-      "publishedAt": "2026-07-14T21:43:53.152Z"
-    },
-    {
-      "keyword": "no-brainer-dividend",
-      "niche": "ai",
-      "publishedAt": "2026-07-14T21:43:56.438Z"
-    },
-    {
       "keyword": "nigel-farage",
       "niche": "ai",
       "publishedAt": "2026-07-15T14:47:17.491Z"
@@ -54,11 +34,6 @@
       "keyword": "maintenance-mode",
       "niche": "ai",
       "publishedAt": "2026-07-15T17:05:19.045Z"
-    },
-    {
-      "keyword": "email-productivity-apps",
-      "niche": "ai",
-      "publishedAt": "2026-07-15T17:05:22.121Z"
     },
     {
       "keyword": "pete-hegseth",
@@ -71,9 +46,19 @@
       "publishedAt": "2026-07-15T21:44:50.485Z"
     },
     {
-      "keyword": "weights-model",
+      "keyword": "matt-stoller",
       "niche": "ai",
-      "publishedAt": "2026-07-15T21:44:53.194Z"
+      "publishedAt": "2026-07-16T03:58:07.137Z"
+    },
+    {
+      "keyword": "llm-networking",
+      "niche": "ai",
+      "publishedAt": "2026-07-16T03:58:10.707Z"
+    },
+    {
+      "keyword": "jd-vance",
+      "niche": "ai",
+      "publishedAt": "2026-07-16T03:58:13.498Z"
     }
   ]
 }
