@@ -1210,9 +1210,9 @@
     },
     "claude-fable": {
       "firstSeen": "2026-06-09T17:52:53.176Z",
-      "lastSeen": "2026-07-16T21:52:49.381Z",
-      "count": 5,
-      "wins": 2,
+      "lastSeen": "2026-07-17T03:57:16.918Z",
+      "count": 6,
+      "wins": 3,
       "losses": 0,
       "niche": "ai"
     },
@@ -1882,8 +1882,8 @@
     },
     "codex-desktop": {
       "firstSeen": "2026-06-17T22:28:18.507Z",
-      "lastSeen": "2026-07-08T17:19:17.161Z",
-      "count": 4,
+      "lastSeen": "2026-07-17T03:57:25.655Z",
+      "count": 5,
       "wins": 2,
       "losses": 0,
       "niche": "gear"
@@ -2674,8 +2674,8 @@
     },
     "openai-codex": {
       "firstSeen": "2026-06-28T14:47:15.848Z",
-      "lastSeen": "2026-06-28T16:58:12.200Z",
-      "count": 2,
+      "lastSeen": "2026-07-17T03:57:22.961Z",
+      "count": 3,
       "wins": 1,
       "losses": 0,
       "niche": "ai"
@@ -3085,22 +3085,6 @@
       "lastSeen": "2026-07-03T04:39:01.957Z",
       "count": 2,
       "wins": 1,
-      "losses": 0,
-      "niche": "ai"
-    },
-    "nike-sale": {
-      "firstSeen": "2026-07-02T21:56:03.304Z",
-      "lastSeen": "2026-07-02T21:56:03.304Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "ai"
-    },
-    "running-shoes": {
-      "firstSeen": "2026-07-02T21:56:18.073Z",
-      "lastSeen": "2026-07-02T21:56:18.073Z",
-      "count": 1,
-      "wins": 0,
       "losses": 0,
       "niche": "ai"
     },
@@ -5450,17 +5434,17 @@
     },
     "gemini-notebook": {
       "firstSeen": "2026-07-16T21:52:43.658Z",
-      "lastSeen": "2026-07-16T21:52:43.658Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-07-17T03:57:16.915Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
     "machine-learning": {
       "firstSeen": "2026-07-16T21:52:46.241Z",
-      "lastSeen": "2026-07-16T21:52:46.241Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-07-17T03:57:16.916Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -5495,12 +5479,20 @@
       "wins": 0,
       "losses": 0,
       "niche": "ai"
+    },
+    "rob-cottingham": {
+      "firstSeen": "2026-07-17T03:57:28.230Z",
+      "lastSeen": "2026-07-17T03:57:28.230Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
     }
   },
   "niches": {
     "ai": {
-      "count": 1389,
-      "wins": 377,
+      "count": 1395,
+      "wins": 380,
       "losses": 61
     },
     "finance": {
