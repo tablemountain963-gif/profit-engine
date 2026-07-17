@@ -3026,8 +3026,8 @@
     },
     "_blank-tools": {
       "firstSeen": "2026-07-02T15:13:51.089Z",
-      "lastSeen": "2026-07-09T17:48:24.820Z",
-      "count": 2,
+      "lastSeen": "2026-07-17T21:39:03.982Z",
+      "count": 3,
       "wins": 0,
       "losses": 0,
       "niche": "ai"
@@ -5474,17 +5474,17 @@
     },
     "agent-security": {
       "firstSeen": "2026-07-17T16:59:49.503Z",
-      "lastSeen": "2026-07-17T16:59:49.503Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-07-17T21:38:55.247Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
     "ai-music-video": {
       "firstSeen": "2026-07-17T16:59:52.308Z",
-      "lastSeen": "2026-07-17T16:59:52.308Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-07-17T21:38:55.249Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -5495,12 +5495,28 @@
       "wins": 0,
       "losses": 0,
       "niche": "ai"
+    },
+    "blade-runner": {
+      "firstSeen": "2026-07-17T21:39:01.267Z",
+      "lastSeen": "2026-07-17T21:39:01.267Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "guide": {
+      "firstSeen": "2026-07-17T21:39:06.356Z",
+      "lastSeen": "2026-07-17T21:39:06.356Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
     }
   },
   "niches": {
     "ai": {
-      "count": 1411,
-      "wins": 385,
+      "count": 1416,
+      "wins": 387,
       "losses": 62
     },
     "finance": {
