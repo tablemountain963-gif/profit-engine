@@ -1,6 +1,20 @@
 {
   "items": [
     {
+      "slug": "agent-2026-07-17",
+      "topic": "Agent",
+      "date": "2026-07-17",
+      "niche": "ai",
+      "file": "social/agent-2026-07-17.md"
+    },
+    {
+      "slug": "income-2026-07-17",
+      "topic": "Income",
+      "date": "2026-07-17",
+      "niche": "finance",
+      "file": "social/income-2026-07-17.md"
+    },
+    {
       "slug": "rag-security-2026-07-17",
       "topic": "Rag Security",
       "date": "2026-07-17",
@@ -1385,20 +1399,6 @@
       "date": "2026-06-25",
       "niche": "ai",
       "file": "social/hd-wallet-toolkit-2026-06-25.md"
-    },
-    {
-      "slug": "tool-2026-06-25",
-      "topic": "Tool",
-      "date": "2026-06-25",
-      "niche": "software",
-      "file": "social/tool-2026-06-25.md"
-    },
-    {
-      "slug": "fitness-gear-2026-06-25",
-      "topic": "Fitness Gear",
-      "date": "2026-06-25",
-      "niche": "ai",
-      "file": "social/fitness-gear-2026-06-25.md"
     }
   ]
 }
