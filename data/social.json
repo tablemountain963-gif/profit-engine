@@ -1,6 +1,27 @@
 {
   "items": [
     {
+      "slug": "rag-security-2026-07-17",
+      "topic": "Rag Security",
+      "date": "2026-07-17",
+      "niche": "ai",
+      "file": "social/rag-security-2026-07-17.md"
+    },
+    {
+      "slug": "keyboard-review-2026-07-17",
+      "topic": "Keyboard Review",
+      "date": "2026-07-17",
+      "niche": "ai",
+      "file": "social/keyboard-review-2026-07-17.md"
+    },
+    {
+      "slug": "robinhood-chain-2026-07-17",
+      "topic": "Robinhood Chain",
+      "date": "2026-07-17",
+      "niche": "ai",
+      "file": "social/robinhood-chain-2026-07-17.md"
+    },
+    {
       "slug": "circuit-framework-2026-07-16",
       "topic": "Circuit Framework",
       "date": "2026-07-16",
@@ -1378,27 +1399,6 @@
       "date": "2026-06-25",
       "niche": "ai",
       "file": "social/fitness-gear-2026-06-25.md"
-    },
-    {
-      "slug": "prime-deals-2026-06-24",
-      "topic": "Prime Deals",
-      "date": "2026-06-24",
-      "niche": "gear",
-      "file": "social/prime-deals-2026-06-24.md"
-    },
-    {
-      "slug": "open-2026-06-24",
-      "topic": "Open",
-      "date": "2026-06-24",
-      "niche": "ai",
-      "file": "social/open-2026-06-24.md"
-    },
-    {
-      "slug": "notebooklm-review-2026-06-24",
-      "topic": "Notebooklm Review",
-      "date": "2026-06-24",
-      "niche": "ai",
-      "file": "social/notebooklm-review-2026-06-24.md"
     }
   ]
 }
