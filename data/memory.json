@@ -2640,14 +2640,6 @@
       "losses": 0,
       "niche": "finance"
     },
-    "buy-passive": {
-      "firstSeen": "2026-06-27T21:51:48.068Z",
-      "lastSeen": "2026-07-04T16:53:56.987Z",
-      "count": 2,
-      "wins": 0,
-      "losses": 0,
-      "niche": "finance"
-    },
     "birthday-genius": {
       "firstSeen": "2026-06-28T05:14:29.419Z",
       "lastSeen": "2026-06-28T16:58:12.198Z",
@@ -5562,32 +5554,56 @@
     },
     "apps-gadgets": {
       "firstSeen": "2026-07-18T16:43:55.129Z",
-      "lastSeen": "2026-07-18T16:43:55.129Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-07-18T21:37:56.246Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "software"
     },
     "gadgets-tools": {
       "firstSeen": "2026-07-18T16:43:58.314Z",
-      "lastSeen": "2026-07-18T16:43:58.314Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-07-18T21:37:56.247Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "software"
     },
     "tools-reader": {
       "firstSeen": "2026-07-18T16:44:01.437Z",
-      "lastSeen": "2026-07-18T16:44:01.437Z",
+      "lastSeen": "2026-07-18T21:37:56.249Z",
+      "count": 2,
+      "wins": 1,
+      "losses": 0,
+      "niche": "software"
+    },
+    "citizens-bank": {
+      "firstSeen": "2026-07-18T21:38:01.407Z",
+      "lastSeen": "2026-07-18T21:38:01.407Z",
       "count": 1,
       "wins": 0,
       "losses": 0,
-      "niche": "software"
+      "niche": "ai"
+    },
+    "viable-argument": {
+      "firstSeen": "2026-07-18T21:38:11.658Z",
+      "lastSeen": "2026-07-18T21:38:11.658Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "promptpartner": {
+      "firstSeen": "2026-07-18T21:38:15.155Z",
+      "lastSeen": "2026-07-18T21:38:15.155Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
     }
   },
   "niches": {
     "ai": {
-      "count": 1429,
+      "count": 1432,
       "wins": 394,
       "losses": 62
     },
@@ -5597,8 +5613,8 @@
       "losses": 2
     },
     "software": {
-      "count": 323,
-      "wins": 91,
+      "count": 326,
+      "wins": 94,
       "losses": 19
     },
     "gear": {
