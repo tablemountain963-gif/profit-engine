@@ -18,9 +18,9 @@
     },
     "claude": {
       "firstSeen": "2026-05-28T04:02:03.327Z",
-      "lastSeen": "2026-07-18T14:18:52.760Z",
-      "count": 9,
-      "wins": 0,
+      "lastSeen": "2026-07-18T16:43:50.018Z",
+      "count": 10,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -162,8 +162,8 @@
     },
     "software": {
       "firstSeen": "2026-05-28T20:13:05.178Z",
-      "lastSeen": "2026-07-12T14:26:58.576Z",
-      "count": 9,
+      "lastSeen": "2026-07-18T16:44:18.961Z",
+      "count": 10,
       "wins": 0,
       "losses": 0,
       "niche": "ai"
@@ -3216,22 +3216,6 @@
       "losses": 0,
       "niche": "ai"
     },
-    "galapagos-island": {
-      "firstSeen": "2026-07-04T14:28:15.101Z",
-      "lastSeen": "2026-07-04T14:28:15.101Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "ai"
-    },
-    "claude-mythos-preview": {
-      "firstSeen": "2026-07-04T14:28:41.118Z",
-      "lastSeen": "2026-07-04T14:28:41.118Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "ai"
-    },
     "codex-switch": {
       "firstSeen": "2026-07-04T16:53:45.119Z",
       "lastSeen": "2026-07-04T21:44:43.455Z",
@@ -3650,8 +3634,8 @@
     },
     "capcut-named": {
       "firstSeen": "2026-07-07T15:42:43.673Z",
-      "lastSeen": "2026-07-12T21:37:03.580Z",
-      "count": 2,
+      "lastSeen": "2026-07-18T16:44:06.826Z",
+      "count": 3,
       "wins": 0,
       "losses": 0,
       "niche": "ai"
@@ -5474,9 +5458,9 @@
     },
     "blade-runner": {
       "firstSeen": "2026-07-17T21:39:01.267Z",
-      "lastSeen": "2026-07-17T21:39:01.267Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-07-18T16:43:50.013Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -5490,9 +5474,9 @@
     },
     "dividend-stocks": {
       "firstSeen": "2026-07-18T03:51:55.975Z",
-      "lastSeen": "2026-07-18T03:51:55.975Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-07-18T16:43:50.015Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "finance"
     },
@@ -5546,17 +5530,17 @@
     },
     "founder-residency": {
       "firstSeen": "2026-07-18T14:18:49.414Z",
-      "lastSeen": "2026-07-18T14:18:49.414Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-07-18T16:43:50.017Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
     "sdk-flutter": {
       "firstSeen": "2026-07-18T14:18:55.341Z",
-      "lastSeen": "2026-07-18T14:18:55.341Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-07-18T16:43:50.019Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -5575,21 +5559,45 @@
       "wins": 0,
       "losses": 0,
       "niche": "finance"
+    },
+    "apps-gadgets": {
+      "firstSeen": "2026-07-18T16:43:55.129Z",
+      "lastSeen": "2026-07-18T16:43:55.129Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "software"
+    },
+    "gadgets-tools": {
+      "firstSeen": "2026-07-18T16:43:58.314Z",
+      "lastSeen": "2026-07-18T16:43:58.314Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "software"
+    },
+    "tools-reader": {
+      "firstSeen": "2026-07-18T16:44:01.437Z",
+      "lastSeen": "2026-07-18T16:44:01.437Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "software"
     }
   },
   "niches": {
     "ai": {
-      "count": 1424,
-      "wins": 390,
+      "count": 1429,
+      "wins": 394,
       "losses": 62
     },
     "finance": {
-      "count": 135,
-      "wins": 22,
+      "count": 136,
+      "wins": 23,
       "losses": 2
     },
     "software": {
-      "count": 319,
+      "count": 323,
       "wins": 91,
       "losses": 19
     },
