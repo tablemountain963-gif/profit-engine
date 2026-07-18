@@ -1,269 +1,159 @@
 {
-  "generatedAt": "2026-07-18T03:51:51.865Z",
+  "generatedAt": "2026-07-18T14:18:45.626Z",
   "sourceCount": 205,
   "topItems": [
     {
-      "title": "Kaiser nurses say AI, workplace surveillance are making their jobs, care worse",
-      "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/",
-      "score": 9.38,
+      "title": "For Instagram, my art is \"Likely made with AI\". Hard to be an artist in 2026...",
+      "url": "https://framapiaf.org/@davidrevoy/116941001377913004",
+      "score": 8.82,
       "niche": "ai",
-      "source": "hackernews",
+      "source": "mastodon",
       "engagement": {
-        "score": 366,
-        "comments": 243
+        "score": 473,
+        "comments": 48
       }
     },
     {
-      "title": "I used to worry that commercial social media could build detailed profiles about our interests.Now I worry that AI can build detailed profiles of our most private thoughts.People keep asking ChatGPT q",
-      "url": "https://mastodon.social/@randahl/116937547680992206",
+      "title": "Why do AI company logos look like buttholes? (2025)",
+      "url": "https://velvetshark.com/ai-company-logos-that-look-like-buttholes",
+      "score": 8.7,
+      "niche": "ai",
+      "source": "hackernews",
+      "engagement": {
+        "score": 319,
+        "comments": 101
+      }
+    },
+    {
+      "title": "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
+      "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/",
+      "score": 8.68,
+      "niche": "ai",
+      "source": "hackernews",
+      "engagement": {
+        "score": 69,
+        "comments": 26
+      }
+    },
+    {
+      "title": "One of the open source projects I used to (many years ago, so I am not really affected anymore) has recently decided to allow AI contributions. One of their arguments is that they judge submissions on",
+      "url": "https://infosec.exchange/@david_chisnall/116939858992907996",
+      "score": 8.63,
+      "niche": "ai",
+      "source": "mastodon",
+      "engagement": {
+        "score": 816,
+        "comments": 18
+      }
+    },
+    {
+      "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
+      "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
       "score": 8.6,
       "niche": "ai",
-      "source": "mastodon",
+      "source": "hackernews",
       "engagement": {
-        "score": 190,
-        "comments": 13
+        "score": 112,
+        "comments": 52
       }
     },
     {
-      "title": "The state of open source AI",
-      "url": "https://stateofopensource.ai/",
-      "score": 7.64,
+      "title": "Spotify just deleted 75 million AI songs off its platform https://www.news.com.au/finance/business/media/spotify-deletes-75-million-songs-in-huge-move/news-story/aec6f4188190cb23426bf3504f326ab6Why? I",
+      "url": "https://mastodon.social/@nixCraft/116940813773476769",
+      "score": 8.46,
+      "niche": "ai",
+      "source": "mastodon",
+      "engagement": {
+        "score": 182,
+        "comments": 8
+      }
+    },
+    {
+      "title": "What AI did to stackoverflow in a graph",
+      "url": "https://data.stackexchange.com/stackoverflow/query/1953768#graph",
+      "score": 8.36,
       "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 392,
-        "comments": 287
+        "score": 123,
+        "comments": 143
       }
     },
     {
-      "title": "it feels like everyone with even the most remote, faintest security inklings has been screaming 'SANITIZE YOUR INPUTS' and a bunch of folks went .. NUH UH. not only are we gonna not sanitize shit, we'",
-      "url": "https://mastodon.social/@Viss/116937895280057712",
-      "score": 7.31,
+      "title": "I asked ChatGPT for the best iPhone productivity apps — these 3 picks earned a permanent spot on my home screen",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOSFFUZ0dCVnpTLTZrQUVQb3V4SEhBQXQzekRkYXNsUG9iWTM2U3FlQ0MxVGRiQUw1VGk0Znk0MWRMeTRhLVBaRjZSSDRlSG9tZmxpUzhLSUtqTjZmOEtNaTllRWNXOG53MTlzUVNranBqTEFpejE4MkxGRWhyaW9jRXZKWG5qLTRhdXNYYXhPdnNMY1BqNWxyMjFsMDJONnBaZFVMbVRHa002VHd6SEV3UWVkT2doOWdoOVpBVGs3WTR4TkJ0eEtXUE5GWjJFUVhjN2tWWQ?oc=5",
+      "score": 8.26,
       "niche": "ai",
-      "source": "mastodon",
+      "source": "gnews",
       "engagement": {
-        "score": 177,
-        "comments": 7
+        "score": 40,
+        "comments": 0
       }
     },
     {
-      "title": "The real AI aesthetic.",
-      "url": "https://beige.party/@maxleibman/116937472414773377",
-      "score": 6.85,
+      "title": "LG monitors silently install software through Windows Update without consent",
+      "url": "https://videocardz.com/newz/lg-monitors-silently-install-software-through-windows-update-without-user-consent",
+      "score": 8.25,
+      "niche": "software",
+      "source": "hackernews",
+      "engagement": {
+        "score": 431,
+        "comments": 225
+      }
+    },
+    {
+      "title": "I have, after two years, allowed myself to talk about my experiences with AI madness again, this time with the benefit of speaking to people all around the world, including Fortune 500 executives. Thi",
+      "url": "https://mastodon.sprawl.club/@ludicity/116939432745772414",
+      "score": 7.44,
       "niche": "ai",
       "source": "mastodon",
       "engagement": {
-        "score": 441,
-        "comments": 15
+        "score": 754,
+        "comments": 25
+      }
+    },
+    {
+      "title": "The apps, gadgets, and tools every reader needs",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8ydkpIT3B3YmRhd0VtOE5mYlc2YzBkVFp4bHNISndGVDFiQkc4QWxmUEJSQk5oQWtXOTZ1WEJFRl82ZHp2ZXdtMExvWFRpbGYtUEY5a3pPRnRHSGZoQTRzZjVnaHd2RnVjcDUyUk9hMGtmdm5ub01OSjZLck8?oc=5",
+      "score": 7.23,
+      "niche": "software",
+      "source": "gnews",
+      "engagement": {
+        "score": 40,
+        "comments": 0
       }
     },
     {
       "title": "robinhood-ape/robinhood-sniper-bot — NOXA Fun token sniper on Robinhood Chain - watches TokenLaunched, buys via Uniswap V3 SwapRouter02, auto-sells on take-profit / stop-loss",
       "url": "https://github.com/robinhood-ape/robinhood-sniper-bot",
-      "score": 6.7,
+      "score": 6.69,
       "niche": "ai",
       "source": "github",
       "engagement": {
-        "score": 253,
-        "comments": 0
-      }
-    },
-    {
-      "title": "Best AI and Tech Tools for Dementia Care: 2026 Guide",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVmZMRzRuUDd4bEZhN3Q0cHJWTzRQTVN5Q1IzZUV3RTRWMG14bkJudFJwTFkzd1hDWHA5c2pRUmExcmR5WENGRTIxVEdtZ05GSzV4ZTUwTW5MNnhkSUNKTnQwc1J3ZHZwdVU4TW1YQ00xUVZ1MHRRN3lxbjF3cXAxb2hHcGpvTjJLOUlEeFBYRnZSSzljS1BCSmFZQ3ZjLUk?oc=5",
-      "score": 6.61,
-      "niche": "ai",
-      "source": "gnews",
-      "engagement": {
-        "score": 40,
-        "comments": 0
-      }
-    },
-    {
-      "title": "If billionaires are so worried about a wealth tax, why can't they just get a second job?",
-      "url": "https://mastodon.social/@SusanPotter/116937845170839615",
-      "score": 6.59,
-      "niche": "ai",
-      "source": "mastodon",
-      "engagement": {
-        "score": 100,
-        "comments": 7
-      }
-    },
-    {
-      "title": "1/ Outrageous and unacceptable. The Namaygoosisagagun First Nation wasn’t warned of the blaze that burned their community to the ground and were not given supports to evacuate.The federal government m",
-      "url": "https://mstdn.ca/@avilewis/116938396721911072",
-      "score": 6.55,
-      "niche": "ai",
-      "source": "mastodon",
-      "engagement": {
-        "score": 104,
-        "comments": 3
-      }
-    },
-    {
-      "title": "nethical6/conversation-steganography — Use LLMS to hide secret messages inside normal-looking chat text",
-      "url": "https://github.com/nethical6/conversation-steganography",
-      "score": 6.36,
-      "niche": "ai",
-      "source": "github",
-      "engagement": {
-        "score": 305,
-        "comments": 0
-      }
-    },
-    {
-      "title": "David Brouillette is the ICE fascist who allegedly murdered Johan Sebastián Durán Guerrero in front of his 3-year-old daughter in Biddeford, Maine.Now Brouillette’s ex-wife confirms a history of vile ",
-      "url": "https://mastodon.social/@QasimRashid/116938576863628345",
-      "score": 6.36,
-      "niche": "ai",
-      "source": "mastodon",
-      "engagement": {
-        "score": 94,
-        "comments": 1
-      }
-    },
-    {
-      "title": "FAA lets Boeing sign off on 737 MAX, 787 airworthiness certificates again",
-      "url": "https://www.cnbc.com/2026/07/17/faa-boeing-737-max-787.html",
-      "score": 6.32,
-      "niche": "ai",
-      "source": "hackernews",
-      "engagement": {
-        "score": 142,
-        "comments": 75
-      }
-    },
-    {
-      "title": "ICE shared Medicaid data it wasn't supposed to have with Palantirhttps://www.npr.org/2026/07/17/nx-s1-5898504/ice-medicaid-palantir-data?utm_source=flipboard&utm_medium=activitypub Posted into U.S. Ne",
-      "url": "https://flipboard.com/@npr/u.s.-news-aspd61boz/-/a-2fA7HnOURaqY31UzARddxQ%3Aa%3A3195441-%2F0",
-      "score": 6.25,
-      "niche": "ai",
-      "source": "mastodon",
-      "engagement": {
-        "score": 85,
-        "comments": 2
-      }
-    },
-    {
-      "title": "And, right on cue, someone complains about my \"political\" posts not having a content warning.Let me explain: fuck you.",
-      "url": "https://federate.social/@mattblaze/116938705958947037",
-      "score": 6.24,
-      "niche": "ai",
-      "source": "mastodon",
-      "engagement": {
-        "score": 80,
-        "comments": 4
-      }
-    },
-    {
-      "title": "'The SaaS apocalypse is overrated': How Workday and other software provders plan to survive AI",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUEMtQllJWnBmbGZEVGxvV2dJQ29MTUtTMklGQzdBS1lJUk5ZVG44UldVSEZnVzh4NzFkZ0hRSU5uOE1rX045SmRsdE5rbWtKMnBySzdodHU5RGtDWm5xTS1rY0pqRmFFQUZVN1JWdVMzYkFralB2RGV0S01qYWJRaWdld0tLaDM5aVZwWEdtcUg2LWRhaElJa21aQlQyM0NfRko1YTZOWUdhdw?oc=5",
-      "score": 5.99,
-      "niche": "ai",
-      "source": "gnews",
-      "engagement": {
-        "score": 40,
-        "comments": 0
-      }
-    },
-    {
-      "title": "25+ AI Tools For Entrepreneurs: Best Business Management Software",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE53QVdLUTRJa2w2cmE3UXZjX0tlVnc3QXhoZ2paQm9NOHc2X2VpVm5DTDBTWXE3SkR4WDJQSEJObXdIWUltRDhqbFRZNWIwcHgxemI3Y3Voa25uVUhWVWJnNndYOUh5RVR0WV9rZ1YzUWdSUXVid19URUJGMVlQOWs?oc=5",
-      "score": 5.99,
-      "niche": "ai",
-      "source": "gnews",
-      "engagement": {
-        "score": 40,
-        "comments": 0
-      }
-    },
-    {
-      "title": "Best AI Tools for Students in 2026: Research, Writi…",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZEdkQlpPeFdNV2dkTU83SEtnQWt1dUlPMXRSYWFzamMxbktZZzAwS3MxZXdBRTRLNWR4UHVqV0VVYlh1OEVCZE5vbjF0Mk1IUWNsSmtsSENlcXNtOEp4REJ3MHVHR255VTJlOEpoYzlqVTRsb25JTFFVdDl4TFliaWZKZktnSzYzRWNWWUdoQk84UmxGbkhYQTE4NnVDbjBQcFFpMkEtLUZ1V2N3NWljZXlwS2NVZw?oc=5",
-      "score": 5.99,
-      "niche": "ai",
-      "source": "gnews",
-      "engagement": {
-        "score": 40,
-        "comments": 0
-      }
-    },
-    {
-      "title": "Best AI Tools for Branding (2026): CapCut Featured for Creating Branded Video and Visual Content by Expert Consumers",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNajVFY0VkMi1CMVZnZ0dHbERneV9wdjR4RG04UkNQeGpaRkVoNmNhaXB1WVlXZUR1amlGWXhRWHBfNXpBTFZsVG9oUm5FSndkWDRXc21rVWFranRKVU83aHUzRFQycFdBTGpZWUlNSmhodERHbkZrOXV6N0NsMldrUGpR?oc=5",
-      "score": 5.99,
-      "niche": "ai",
-      "source": "gnews",
-      "engagement": {
-        "score": 40,
-        "comments": 0
-      }
-    },
-    {
-      "title": "RE: https://mastodon.green/@JustinGerdes/116937683094133578Russell Vought is exactly why the guillotine was applied waaaaay more to the bureaucrats than their bosses in the nobility.",
-      "url": "https://mastodon.social/@blogdiva/116938130664246076",
-      "score": 5.94,
-      "niche": "software",
-      "source": "mastodon",
-      "engagement": {
-        "score": 63,
-        "comments": 3
-      }
-    },
-    {
-      "title": "MIgHTy-alIeN/Trading-Bot — An arbitrage bot is a smart contract connected to an external automation script that controls its operation.",
-      "url": "https://github.com/MIgHTy-alIeN/Trading-Bot",
-      "score": 5.77,
-      "niche": "ai",
-      "source": "github",
-      "engagement": {
-        "score": 179,
+        "score": 252,
         "comments": 0
       }
     },
     {
       "title": "tandpfun/wardrobe — Your clothes, extracted and organized with gpt-image.",
       "url": "https://github.com/tandpfun/wardrobe",
-      "score": 5.69,
+      "score": 5.76,
       "niche": "ai",
       "source": "github",
       "engagement": {
-        "score": 909,
+        "score": 993,
         "comments": 2
       }
     },
     {
-      "title": "CircuitSpawnIndicate/FIFA-Mod-Manager-Pro — Professional mod manager for EA Sports FC / FIFA with drag & drop, load order control, and conflict detection.",
-      "url": "https://github.com/CircuitSpawnIndicate/FIFA-Mod-Manager-Pro",
-      "score": 5.45,
+      "title": "PromptPartner/agentsmith — Universal, model-agnostic operating harness for AI agents (Claude, Codex, Gemini, …) — a lean core + work-type profiles assembled by one setup script.",
+      "url": "https://github.com/PromptPartner/agentsmith",
+      "score": 5.49,
       "niche": "ai",
       "source": "github",
       "engagement": {
-        "score": 70,
+        "score": 307,
         "comments": 0
-      }
-    },
-    {
-      "title": "KlaatAI/klaatcode — Open-source AI coding agent for the terminal. Claude Code-grade accuracy with smart model routing — uses the right AI model for each task, cutting costs 10x. Supports Claude, GPT, ",
-      "url": "https://github.com/KlaatAI/klaatcode",
-      "score": 5.39,
-      "niche": "ai",
-      "source": "github",
-      "engagement": {
-        "score": 106,
-        "comments": 10
-      }
-    },
-    {
-      "title": "Topcoat: The full full-stack framework for Rust",
-      "url": "https://github.com/tokio-rs/topcoat",
-      "score": 5.34,
-      "niche": "software",
-      "source": "hackernews",
-      "engagement": {
-        "score": 55,
-        "comments": 31
       }
     },
     {
@@ -273,7 +163,117 @@
       "niche": "ai",
       "source": "github",
       "engagement": {
-        "score": 251,
+        "score": 250,
+        "comments": 0
+      }
+    },
+    {
+      "title": "nethical6/conversation-steganography — Use LLMs to hide secret messages inside normal looking conversations",
+      "url": "https://github.com/nethical6/conversation-steganography",
+      "score": 5.29,
+      "niche": "ai",
+      "source": "github",
+      "engagement": {
+        "score": 568,
+        "comments": 1
+      }
+    },
+    {
+      "title": "Dev Opportunity Radar #8: $100K OpenAI Build Week, $12K AI Fellowship, Founder Residency & Free AI Dev Course",
+      "url": "https://dev.to/devengers/dev-opportunity-radar-8-openai-build-week-aiaf-fellowship-the-residency-ai-dev-tools-zoomcamp-5bpc",
+      "score": 5.21,
+      "niche": "ai",
+      "source": "devto",
+      "engagement": {
+        "score": 46,
+        "comments": 6
+      }
+    },
+    {
+      "title": "thesysdev/appless — What if your phone had no apps",
+      "url": "https://github.com/thesysdev/appless",
+      "score": 5.17,
+      "niche": "software",
+      "source": "github",
+      "engagement": {
+        "score": 226,
+        "comments": 3
+      }
+    },
+    {
+      "title": "PengZhang64/circuit-framework — Circuit Framework — multi-agent LLM trading research system",
+      "url": "https://github.com/PengZhang64/circuit-framework",
+      "score": 5.15,
+      "niche": "ai",
+      "source": "github",
+      "engagement": {
+        "score": 480,
+        "comments": 0
+      }
+    },
+    {
+      "title": "NextBSD project revived: Apple's FOSS user-space tools on the FreeBSD kernel",
+      "url": "https://nextbsd.org/",
+      "score": 5.1,
+      "niche": "software",
+      "source": "lobsters",
+      "engagement": {
+        "score": 4,
+        "comments": 3
+      }
+    },
+    {
+      "title": "kunchenguid/whathappened — Agent skill: adaptive X-only briefing of what happened + public opinion + debates",
+      "url": "https://github.com/kunchenguid/whathappened",
+      "score": 4.94,
+      "niche": "ai",
+      "source": "github",
+      "engagement": {
+        "score": 169,
+        "comments": 1
+      }
+    },
+    {
+      "title": "Finderchangchang/codex-autoskin — 发一张图给你的 Codex，它自己给自己换肤 | Send one image to your Codex and it reskins itself. Agent-native skin engine for the Codex desktop app.",
+      "url": "https://github.com/Finderchangchang/codex-autoskin",
+      "score": 4.92,
+      "niche": "ai",
+      "source": "github",
+      "engagement": {
+        "score": 91,
+        "comments": 1
+      }
+    },
+    {
+      "title": "Capital One releases VulnHunter, an open-source AI tool that finds software flaws before hackers do",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPcURYeU00Nld0c0gwY0FOR25QSzkzRTZiMnJPR2Z1NnVxeUhrWkJZSFJIb2xhdGJmLURmeURFb3dVTE5ld1JaWjVQR2dDTC1rYm5RQnZFTnR6d3hCS2RSQ2MxQy14SkZoRmFXT1paejgxSDVObDNuWUlMcnl4LWJWa3ROdUdlcTJKc05jbWY0RWFIdFJRTjduSU8taFVWRG14N25VRl83SXhUU2RlZHN4S3pJTldRd1E4VHYzSVRQc0M2RnFJUTRKelhFUVJ6UQ?oc=5",
+      "score": 4.75,
+      "niche": "ai",
+      "source": "gnews",
+      "engagement": {
+        "score": 40,
+        "comments": 0
+      }
+    },
+    {
+      "title": "How to Find the Bargains in the Software Stock Wreckage",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9Xd1NsYXRyb3kzUTNDZXF5ajdpWS1EZE5RWFZaME93cV9VYmFzUHJ5NU90aWliQmtRUEV4QzR1dGJ6UTV5YUM5R1RWc1MtbFBGMDJQSVNzb1Zna3pldTlKbzROUXlHUnI5S2NJSg?oc=5",
+      "score": 4.75,
+      "niche": "ai",
+      "source": "gnews",
+      "engagement": {
+        "score": 40,
+        "comments": 0
+      }
+    },
+    {
+      "title": "The Best New Gadgets and Hi-Fi Releases of 2026 (Updated)",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSzN6STcxYnhZU2hFRXJxbXk0V0h1bTc3STdhVk5sSzZwU18yVVFQYlV0d2ZCeUdha1VtY3BnSzFqX0ZFcV82M3RjZjFKRkxkb044N1dYNGJIaUJNTUlhOV9qaHh3RzhzZjMyZ0E3T2tOczJIR2FuY0RqNE9XNFRVOUNKODRURlR2?oc=5",
+      "score": 4.7,
+      "niche": "gear",
+      "source": "gnews",
+      "engagement": {
+        "score": 40,
         "comments": 0
       }
     }
@@ -282,7 +282,7 @@
     {
       "keyword": "noxa fun",
       "count": 16,
-      "score": 143.96819353338665,
+      "score": 143.86520529580332,
       "proper": true,
       "niches": [
         "ai"
@@ -315,7 +315,7 @@
     {
       "keyword": "robinhood chain",
       "count": 16,
-      "score": 143.96819353338665,
+      "score": 143.86520529580332,
       "proper": true,
       "niches": [
         "ai"
@@ -346,45 +346,22 @@
       "slug": "robinhood-chain"
     },
     {
-      "keyword": "expert consumers",
-      "count": 11,
-      "score": 98.77978565637038,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "Best AI Tools for Branding (2026): CapCut Featured for Creating Branded Video and Visual Content by Expert Consumers",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNajVFY0VkMi1CMVZnZ0dHbERneV9wdjR4RG04UkNQeGpaRkVoNmNhaXB1WVlXZUR1amlGWXhRWHBfNXpBTFZsVG9oUm5FSndkWDRXc21rVWFranRKVU83aHUzRFQycFdBTGpZWUlNSmhodERHbkZrOXV6N0NsMldrUGpR?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Best AI Tools for Branding (2026): CapCut Featured for Creating Branded Video and Visual Content by Expert Consumers",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNajVFY0VkMi1CMVZnZ0dHbERneV9wdjR4RG04UkNQeGpaRkVoNmNhaXB1WVlXZUR1amlGWXhRWHBfNXpBTFZsVG9oUm5FSndkWDRXc21rVWFranRKVU83aHUzRFQycFdBTGpZWUlNSmhodERHbkZrOXV6N0NsMldrUGpR?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Best AI Tools for Branding (2026): CapCut Featured for Creating Branded Video and Visual Content by Expert Consumers",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNajVFY0VkMi1CMVZnZ0dHbERneV9wdjR4RG04UkNQeGpaRkVoNmNhaXB1WVlXZUR1amlGWXhRWHBfNXpBTFZsVG9oUm5FSndkWDRXc21rVWFranRKVU83aHUzRFQycFdBTGpZWUlNSmhodERHbkZrOXV6N0NsMldrUGpR?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "e11bfc42197d",
-      "slug": "expert-consumers"
-    },
-    {
       "keyword": "agent",
       "count": 14,
-      "score": 91.18829757121506,
+      "score": 90.66953000706361,
       "proper": true,
       "niches": [
         "ai"
       ],
       "examples": [
         {
-          "title": "KlaatAI/klaatcode — Open-source AI coding agent for the terminal. Claude Code-grade accuracy with smart model routing — uses the right AI model for each task, cutting costs 10x. Supports Claude, GPT, ",
-          "url": "https://github.com/KlaatAI/klaatcode",
+          "title": "kunchenguid/whathappened — Agent skill: adaptive X-only briefing of what happened + public opinion + debates",
+          "url": "https://github.com/kunchenguid/whathappened",
+          "source": "github"
+        },
+        {
+          "title": "kunchenguid/whathappened — Agent skill: adaptive X-only briefing of what happened + public opinion + debates",
+          "url": "https://github.com/kunchenguid/whathappened",
           "source": "github"
         },
         {
@@ -393,18 +370,13 @@
           "source": "github"
         },
         {
-          "title": "kunchenguid/whathappened — Agent skill: adaptive X-only briefing of what happened + public opinion + debates",
-          "url": "https://github.com/kunchenguid/whathappened",
+          "title": "KlaatAI/klaatcode — Open-source AI coding agent for the terminal. Claude Code-grade accuracy with smart model routing — uses the right AI model for each task, cutting costs 10x. Supports Claude, GPT, ",
+          "url": "https://github.com/KlaatAI/klaatcode",
           "source": "github"
         },
         {
-          "title": "kunchenguid/whathappened — Agent skill: adaptive X-only briefing of what happened + public opinion + debates",
-          "url": "https://github.com/kunchenguid/whathappened",
-          "source": "github"
-        },
-        {
-          "title": "agent-audit-kit 0.3.50",
-          "url": "https://pypi.org/project/agent-audit-kit/0.3.50/",
+          "title": "skill-trivium 0.2.5",
+          "url": "https://pypi.org/project/skill-trivium/0.2.5/",
           "source": "pypi"
         }
       ],
@@ -412,93 +384,142 @@
       "slug": "agent"
     },
     {
-      "keyword": "johan sebasti",
-      "count": 8,
-      "score": 76.29203459582381,
+      "keyword": "gemini",
+      "count": 13,
+      "score": 84.13378389319803,
       "proper": true,
       "niches": [
         "ai"
       ],
       "examples": [
         {
-          "title": "David Brouillette is the ICE fascist who allegedly murdered Johan Sebastián Durán Guerrero in front of his 3-year-old daughter in Biddeford, Maine.Now Brouillette’s ex-wife confirms a history of vile ",
-          "url": "https://mastodon.social/@QasimRashid/116938576863628345",
-          "source": "mastodon"
-        },
-        {
-          "title": "David Brouillette is the ICE fascist who allegedly murdered Johan Sebastián Durán Guerrero in front of his 3-year-old daughter in Biddeford, Maine.Now Brouillette’s ex-wife confirms a history of vile ",
-          "url": "https://mastodon.social/@QasimRashid/116938576863628345",
-          "source": "mastodon"
-        }
-      ],
-      "id": "895d0ce7800b",
-      "slug": "johan-sebasti"
-    },
-    {
-      "keyword": "supports claude",
-      "count": 8,
-      "score": 64.628850307767,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "KlaatAI/klaatcode — Open-source AI coding agent for the terminal. Claude Code-grade accuracy with smart model routing — uses the right AI model for each task, cutting costs 10x. Supports Claude, GPT, ",
-          "url": "https://github.com/KlaatAI/klaatcode",
+          "title": "PromptPartner/agentsmith — Universal, model-agnostic operating harness for AI agents (Claude, Codex, Gemini, …) — a lean core + work-type profiles assembled by one setup script.",
+          "url": "https://github.com/PromptPartner/agentsmith",
           "source": "github"
         },
         {
-          "title": "KlaatAI/klaatcode — Open-source AI coding agent for the terminal. Claude Code-grade accuracy with smart model routing — uses the right AI model for each task, cutting costs 10x. Supports Claude, GPT, ",
-          "url": "https://github.com/KlaatAI/klaatcode",
+          "title": "PromptPartner/agentsmith — Universal, model-agnostic operating harness for AI agents (Claude, Codex, Gemini, …) — a lean core + work-type profiles assembled by one setup script.",
+          "url": "https://github.com/PromptPartner/agentsmith",
           "source": "github"
+        },
+        {
+          "title": "I stopped downloading productivity apps after pairing Gemini with Google Sheets",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbVNBX29sZ2pzNzhFQnJBSlZPV0NMR05hTUFYZXNfTU9LY1B6SUtPSW03ZG0yVVR3WGZTejl5eDZyQ0dsa201dVJObkxZc0Qta2lzVHAwekdwYTV2QTU1RHpzcGc3RFVhbFNvajBpVGtWYjJOdHpERXBZY2thdmFPcVZkMXpibXI3VzFrazNPSDloWm5udkQzejl6NnlXS0xZZ09xTnJR?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "I stopped downloading productivity apps after pairing Gemini with Google Sheets",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbVNBX29sZ2pzNzhFQnJBSlZPV0NMR05hTUFYZXNfTU9LY1B6SUtPSW03ZG0yVVR3WGZTejl5eDZyQ0dsa201dVJObkxZc0Qta2lzVHAwekdwYTV2QTU1RHpzcGc3RFVhbFNvajBpVGtWYjJOdHpERXBZY2thdmFPcVZkMXpibXI3VzFrazNPSDloWm5udkQzejl6NnlXS0xZZ09xTnJR?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "I stopped downloading productivity apps after pairing Gemini with Google Sheets",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbVNBX29sZ2pzNzhFQnJBSlZPV0NMR05hTUFYZXNfTU9LY1B6SUtPSW03ZG0yVVR3WGZTejl5eDZyQ0dsa201dVJObkxZc0Qta2lzVHAwekdwYTV2QTU1RHpzcGc3RFVhbFNvajBpVGtWYjJOdHpERXBZY2thdmFPcVZkMXpibXI3VzFrazNPSDloWm5udkQzejl6NnlXS0xZZ09xTnJR?oc=5",
+          "source": "gnews"
         }
       ],
-      "id": "347a20c3ef33",
-      "slug": "supports-claude"
+      "id": "5d72436256ad",
+      "slug": "gemini"
     },
     {
-      "keyword": "software",
-      "count": 15,
-      "score": 62.75664543267833,
+      "keyword": "productivity apps",
+      "count": 21,
+      "score": 80.200515626959,
       "proper": false,
       "niches": [
+        "ai",
+        "software"
+      ],
+      "examples": [
+        {
+          "title": "I asked ChatGPT for the best iPhone productivity apps — these 3 picks earned a permanent spot on my home screen",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOSFFUZ0dCVnpTLTZrQUVQb3V4SEhBQXQzekRkYXNsUG9iWTM2U3FlQ0MxVGRiQUw1VGk0Znk0MWRMeTRhLVBaRjZSSDRlSG9tZmxpUzhLSUtqTjZmOEtNaTllRWNXOG53MTlzUVNranBqTEFpejE4MkxGRWhyaW9jRXZKWG5qLTRhdXNYYXhPdnNMY1BqNWxyMjFsMDJONnBaZFVMbVRHa002VHd6SEV3UWVkT2doOWdoOVpBVGs3WTR4TkJ0eEtXUE5GWjJFUVhjN2tWWQ?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Email Productivity Apps",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB2bHlYQXhhZ0FFMDdoQTNpbVZKY2szOURRUkJjc2QyWFVka0ZGY3RFUEhXRDI3Z2dNUE5CRGhGSFVvYjdFVFFNV1p4ZVBEQ1RUQmZHX0h0NNIBXEFVX3lxTE5LQko0M0JwbDZIMnZpSEFJVUEtaDByS0ZFVlRsLV9JNlNLMjNhSDlISTVmcWxoVDVtbnpaNS1TTlFpN3AwNFYycU0xS2F1S1JJZUQ4eFRwWlBxcXFi?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Email Productivity Apps",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB2bHlYQXhhZ0FFMDdoQTNpbVZKY2szOURRUkJjc2QyWFVka0ZGY3RFUEhXRDI3Z2dNUE5CRGhGSFVvYjdFVFFNV1p4ZVBEQ1RUQmZHX0h0NNIBXEFVX3lxTE5LQko0M0JwbDZIMnZpSEFJVUEtaDByS0ZFVlRsLV9JNlNLMjNhSDlISTVmcWxoVDVtbnpaNS1TTlFpN3AwNFYycU0xS2F1S1JJZUQ4eFRwWlBxcXFi?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "I stopped downloading productivity apps after pairing Gemini with Google Sheets",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbVNBX29sZ2pzNzhFQnJBSlZPV0NMR05hTUFYZXNfTU9LY1B6SUtPSW03ZG0yVVR3WGZTejl5eDZyQ0dsa201dVJObkxZc0Qta2lzVHAwekdwYTV2QTU1RHpzcGc3RFVhbFNvajBpVGtWYjJOdHpERXBZY2thdmFPcVZkMXpibXI3VzFrazNPSDloWm5udkQzejl6NnlXS0xZZ09xTnJR?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "I stopped downloading productivity apps after pairing Gemini with Google Sheets",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbVNBX29sZ2pzNzhFQnJBSlZPV0NMR05hTUFYZXNfTU9LY1B6SUtPSW03ZG0yVVR3WGZTejl5eDZyQ0dsa201dVJObkxZc0Qta2lzVHAwekdwYTV2QTU1RHpzcGc3RFVhbFNvajBpVGtWYjJOdHpERXBZY2thdmFPcVZkMXpibXI3VzFrazNPSDloWm5udkQzejl6NnlXS0xZZ09xTnJR?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "c3d816ac2a46",
+      "slug": "productivity-apps"
+    },
+    {
+      "keyword": "founder residency",
+      "count": 8,
+      "score": 62.56065986729368,
+      "proper": true,
+      "niches": [
         "ai"
       ],
       "examples": [
         {
-          "title": "'The SaaS apocalypse is overrated': How Workday and other software provders plan to survive AI",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUEMtQllJWnBmbGZEVGxvV2dJQ29MTUtTMklGQzdBS1lJUk5ZVG44UldVSEZnVzh4NzFkZ0hRSU5uOE1rX045SmRsdE5rbWtKMnBySzdodHU5RGtDWm5xTS1rY0pqRmFFQUZVN1JWdVMzYkFralB2RGV0S01qYWJRaWdld0tLaDM5aVZwWEdtcUg2LWRhaElJa21aQlQyM0NfRko1YTZOWUdhdw?oc=5",
-          "source": "gnews"
+          "title": "Dev Opportunity Radar #8: $100K OpenAI Build Week, $12K AI Fellowship, Founder Residency & Free AI Dev Course",
+          "url": "https://dev.to/devengers/dev-opportunity-radar-8-openai-build-week-aiaf-fellowship-the-residency-ai-dev-tools-zoomcamp-5bpc",
+          "source": "devto"
         },
         {
-          "title": "'The SaaS apocalypse is overrated': How Workday and other software provders plan to survive AI",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUEMtQllJWnBmbGZEVGxvV2dJQ29MTUtTMklGQzdBS1lJUk5ZVG44UldVSEZnVzh4NzFkZ0hRSU5uOE1rX045SmRsdE5rbWtKMnBySzdodHU5RGtDWm5xTS1rY0pqRmFFQUZVN1JWdVMzYkFralB2RGV0S01qYWJRaWdld0tLaDM5aVZwWEdtcUg2LWRhaElJa21aQlQyM0NfRko1YTZOWUdhdw?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "25+ AI Tools For Entrepreneurs: Best Business Management Software",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE53QVdLUTRJa2w2cmE3UXZjX0tlVnc3QXhoZ2paQm9NOHc2X2VpVm5DTDBTWXE3SkR4WDJQSEJObXdIWUltRDhqbFRZNWIwcHgxemI3Y3Voa25uVUhWVWJnNndYOUh5RVR0WV9rZ1YzUWdSUXVid19URUJGMVlQOWs?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "25+ AI Tools For Entrepreneurs: Best Business Management Software",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE53QVdLUTRJa2w2cmE3UXZjX0tlVnc3QXhoZ2paQm9NOHc2X2VpVm5DTDBTWXE3SkR4WDJQSEJObXdIWUltRDhqbFRZNWIwcHgxemI3Y3Voa25uVUhWVWJnNndYOUh5RVR0WV9rZ1YzUWdSUXVid19URUJGMVlQOWs?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "The 12 Best AI Accounting Software and Tools for 2026",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQMHpGRjhPZkoyMzRSYk9NRF9KMVRhQzNQcjJhYjZ3Ukh1aWFjY1R2UFNpN3FUWnRIYlNKUHpjRUN0bEh2SmJIX3d1WVVLTlJ3cXY0U0Y2TzBMSllvT0diTnVXUmRzdklEanp0TmpiNEFMcElXOGc0VjQwU2Q2VDhVWWxLWWlnTndLaFE?oc=5",
-          "source": "gnews"
+          "title": "Dev Opportunity Radar #8: $100K OpenAI Build Week, $12K AI Fellowship, Founder Residency & Free AI Dev Course",
+          "url": "https://dev.to/devengers/dev-opportunity-radar-8-openai-build-week-aiaf-fellowship-the-residency-ai-dev-tools-zoomcamp-5bpc",
+          "source": "devto"
         }
       ],
-      "id": "35390f5453e8",
-      "slug": "software"
+      "id": "456d618bb453",
+      "slug": "founder-residency"
+    },
+    {
+      "keyword": "claude",
+      "count": 8,
+      "score": 62.06879041975771,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "PromptPartner/agentsmith — Universal, model-agnostic operating harness for AI agents (Claude, Codex, Gemini, …) — a lean core + work-type profiles assembled by one setup script.",
+          "url": "https://github.com/PromptPartner/agentsmith",
+          "source": "github"
+        },
+        {
+          "title": "PromptPartner/agentsmith — Universal, model-agnostic operating harness for AI agents (Claude, Codex, Gemini, …) — a lean core + work-type profiles assembled by one setup script.",
+          "url": "https://github.com/PromptPartner/agentsmith",
+          "source": "github"
+        },
+        {
+          "title": "KlaatAI/klaatcode — Open-source AI coding agent for the terminal. Claude Code-grade accuracy with smart model routing — uses the right AI model for each task, cutting costs 10x. Supports Claude, GPT, ",
+          "url": "https://github.com/KlaatAI/klaatcode",
+          "source": "github"
+        },
+        {
+          "title": "KlaatAI/klaatcode — Open-source AI coding agent for the terminal. Claude Code-grade accuracy with smart model routing — uses the right AI model for each task, cutting costs 10x. Supports Claude, GPT, ",
+          "url": "https://github.com/KlaatAI/klaatcode",
+          "source": "github"
+        }
+      ],
+      "id": "c857d09db23e",
+      "slug": "claude"
     },
     {
       "keyword": "circuit framework",
       "count": 8,
-      "score": 61.77579810913353,
+      "score": 61.79662255965309,
       "proper": true,
       "niches": [
         "ai"
@@ -519,32 +540,37 @@
       "slug": "circuit-framework"
     },
     {
-      "keyword": "linus torvalds",
-      "count": 8,
-      "score": 60.415811089143446,
+      "keyword": "google sheets",
+      "count": 11,
+      "score": 54.49919208627331,
       "proper": true,
       "niches": [
         "ai"
       ],
       "examples": [
         {
-          "title": "Linus Torvalds on LLM usage in kernel development",
-          "url": "https://lore.kernel.org/linux-media/CAHk-=wi4zC+Ze8e+p3tMv8TtG_80KzsZ1syL9anBtmEh5Z40vg@mail.gmail.com/",
-          "source": "lobsters"
+          "title": "I stopped downloading productivity apps after pairing Gemini with Google Sheets",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbVNBX29sZ2pzNzhFQnJBSlZPV0NMR05hTUFYZXNfTU9LY1B6SUtPSW03ZG0yVVR3WGZTejl5eDZyQ0dsa201dVJObkxZc0Qta2lzVHAwekdwYTV2QTU1RHpzcGc3RFVhbFNvajBpVGtWYjJOdHpERXBZY2thdmFPcVZkMXpibXI3VzFrazNPSDloWm5udkQzejl6NnlXS0xZZ09xTnJR?oc=5",
+          "source": "gnews"
         },
         {
-          "title": "Linus Torvalds on LLM usage in kernel development",
-          "url": "https://lore.kernel.org/linux-media/CAHk-=wi4zC+Ze8e+p3tMv8TtG_80KzsZ1syL9anBtmEh5Z40vg@mail.gmail.com/",
-          "source": "lobsters"
+          "title": "I stopped downloading productivity apps after pairing Gemini with Google Sheets",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbVNBX29sZ2pzNzhFQnJBSlZPV0NMR05hTUFYZXNfTU9LY1B6SUtPSW03ZG0yVVR3WGZTejl5eDZyQ0dsa201dVJObkxZc0Qta2lzVHAwekdwYTV2QTU1RHpzcGc3RFVhbFNvajBpVGtWYjJOdHpERXBZY2thdmFPcVZkMXpibXI3VzFrazNPSDloWm5udkQzejl6NnlXS0xZZ09xTnJR?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "I stopped downloading productivity apps after pairing Gemini with Google Sheets",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbVNBX29sZ2pzNzhFQnJBSlZPV0NMR05hTUFYZXNfTU9LY1B6SUtPSW03ZG0yVVR3WGZTejl5eDZyQ0dsa201dVJObkxZc0Qta2lzVHAwekdwYTV2QTU1RHpzcGc3RFVhbFNvajBpVGtWYjJOdHpERXBZY2thdmFPcVZkMXpibXI3VzFrazNPSDloWm5udkQzejl6NnlXS0xZZ09xTnJR?oc=5",
+          "source": "gnews"
         }
       ],
-      "id": "3c0439097761",
-      "slug": "linus-torvalds"
+      "id": "995945426cf6",
+      "slug": "google-sheets"
     },
     {
       "keyword": "open",
       "count": 8,
-      "score": 59.07008735747197,
+      "score": 52.16507873438479,
       "proper": true,
       "niches": [
         "ai",
@@ -553,9 +579,9 @@
       ],
       "examples": [
         {
-          "title": "The state of open source AI",
-          "url": "https://stateofopensource.ai/",
-          "source": "hackernews"
+          "title": "One of the open source projects I used to (many years ago, so I am not really affected anymore) has recently decided to allow AI contributions. One of their arguments is that they judge submissions on",
+          "url": "https://infosec.exchange/@david_chisnall/116939858992907996",
+          "source": "mastodon"
         },
         {
           "title": "KlaatAI/klaatcode — Open-source AI coding agent for the terminal. Claude Code-grade accuracy with smart model routing — uses the right AI model for each task, cutting costs 10x. Supports Claude, GPT, ",
@@ -577,141 +603,137 @@
       "slug": "open"
     },
     {
-      "keyword": "side hustles",
-      "count": 23,
-      "score": 55.810385361786444,
-      "proper": true,
-      "niches": [
-        "finance"
-      ],
-      "examples": [
-        {
-          "title": "Smart side hustles for busy lifestyles",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNaW1OYUlUU2podzNhU1B5b3lualJjUlo3Zl9Fd3dtY2lXNWgycE0zWE9adHI5dXBPbFB1WTE0RzIxOXpTeE1BVFFyTVBIa3R3MERHbnV2Yi12Q2UyZ1pOLW51bkV3QjQ4eVAyMHNkMXEweHlLOUphQ2RweUtsTVQtWWw2YnlqMWYzRlJkdV93WDc?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Smart side hustles for busy lifestyles",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNaW1OYUlUU2podzNhU1B5b3lualJjUlo3Zl9Fd3dtY2lXNWgycE0zWE9adHI5dXBPbFB1WTE0RzIxOXpTeE1BVFFyTVBIa3R3MERHbnV2Yi12Q2UyZ1pOLW51bkV3QjQ4eVAyMHNkMXEweHlLOUphQ2RweUtsTVQtWWw2YnlqMWYzRlJkdV93WDc?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "I cover side hustles and started my own in 2025. Here's the best business advice I heard all year.",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTWpQSlNiMTlpeFhLbUVrS1NYdXhhakVZUmhnQ3dTck53b0xjN21FUmlVTmlCczU1UDhUVjNKZlF3UGVvSXo3UTNQQmN0a3dtY2c4b2t0RTFjcTlFc0Q3MGNMUVRRRkNLUGFPd1c1RnNiTjRRMzRHVHlvOE83ajJjcmk2T0M0RGU5QTBKMEV4TzJQdTFvU3hyMHpCQ1JhM0Q0VFNpVVR1Q1RJczh1VTBsWQ?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "I cover side hustles and started my own in 2025. Here's the best business advice I heard all year.",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTWpQSlNiMTlpeFhLbUVrS1NYdXhhakVZUmhnQ3dTck53b0xjN21FUmlVTmlCczU1UDhUVjNKZlF3UGVvSXo3UTNQQmN0a3dtY2c4b2t0RTFjcTlFc0Q3MGNMUVRRRkNLUGFPd1c1RnNiTjRRMzRHVHlvOE83ajJjcmk2T0M0RGU5QTBKMEV4TzJQdTFvU3hyMHpCQ1JhM0Q0VFNpVVR1Q1RJczh1VTBsWQ?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "11 Side Hustles from Home and How to Get Started",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA4TVVRczNSdlMzM1ZCNERKZExPNGUzejhRYUdfSlJWT1oxbUdPdDc5MmhSYldvNmZFZ3V4S2xYMkkxVXh3TmIyUWZOVDBqQzE2QVlnd1piNHdoaVN4SVpwMDZNeHVycDdtb2pF?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "c69e96fd90af",
-      "slug": "side-hustles"
-    },
-    {
-      "keyword": "nuh uh",
-      "count": 5,
-      "score": 54.79922948888519,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "it feels like everyone with even the most remote, faintest security inklings has been screaming 'SANITIZE YOUR INPUTS' and a bunch of folks went .. NUH UH. not only are we gonna not sanitize shit, we'",
-          "url": "https://mastodon.social/@Viss/116937895280057712",
-          "source": "mastodon"
-        }
-      ],
-      "id": "3acd93edda8b",
-      "slug": "nuh-uh"
-    },
-    {
-      "keyword": "_blank tools",
-      "count": 9,
-      "score": 53.879883085292924,
-      "proper": false,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "25+ AI Tools For Entrepreneurs: Best Business Management Software",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE53QVdLUTRJa2w2cmE3UXZjX0tlVnc3QXhoZ2paQm9NOHc2X2VpVm5DTDBTWXE3SkR4WDJQSEJObXdIWUltRDhqbFRZNWIwcHgxemI3Y3Voa25uVUhWVWJnNndYOUh5RVR0WV9rZ1YzUWdSUXVid19URUJGMVlQOWs?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Best AI Tools for Students in 2026: Research, Writi…",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZEdkQlpPeFdNV2dkTU83SEtnQWt1dUlPMXRSYWFzamMxbktZZzAwS3MxZXdBRTRLNWR4UHVqV0VVYlh1OEVCZE5vbjF0Mk1IUWNsSmtsSENlcXNtOEp4REJ3MHVHR255VTJlOEpoYzlqVTRsb25JTFFVdDl4TFliaWZKZktnSzYzRWNWWUdoQk84UmxGbkhYQTE4NnVDbjBQcFFpMkEtLUZ1V2N3NWljZXlwS2NVZw?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Best AI Tools for Branding (2026): CapCut Featured for Creating Branded Video and Visual Content by Expert Consumers",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNajVFY0VkMi1CMVZnZ0dHbERneV9wdjR4RG04UkNQeGpaRkVoNmNhaXB1WVlXZUR1amlGWXhRWHBfNXpBTFZsVG9oUm5FSndkWDRXc21rVWFranRKVU83aHUzRFQycFdBTGpZWUlNSmhodERHbkZrOXV6N0NsMldrUGpR?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "137a9254134d",
-      "slug": "_blank-tools"
-    },
-    {
-      "keyword": "founder residency",
+      "keyword": "sdk flutter",
       "count": 8,
-      "score": 53.64606046800602,
+      "score": 50.78292440039251,
       "proper": true,
       "niches": [
         "ai"
       ],
       "examples": [
         {
-          "title": "Dev Opportunity Radar #8: $100K OpenAI Build Week, $12K AI Fellowship, Founder Residency & Free AI Dev Course",
-          "url": "https://dev.to/devengers/dev-opportunity-radar-8-openai-build-week-aiaf-fellowship-the-residency-ai-dev-tools-zoomcamp-5bpc",
-          "source": "devto"
+          "title": "v-modal/vmodal_sdk_flutter — V- Modal AI: Search anything anywhere SDK Flutter",
+          "url": "https://github.com/v-modal/vmodal_sdk_flutter",
+          "source": "github"
         },
         {
-          "title": "Dev Opportunity Radar #8: $100K OpenAI Build Week, $12K AI Fellowship, Founder Residency & Free AI Dev Course",
-          "url": "https://dev.to/devengers/dev-opportunity-radar-8-openai-build-week-aiaf-fellowship-the-residency-ai-dev-tools-zoomcamp-5bpc",
-          "source": "devto"
+          "title": "v-modal/vmodal_sdk_flutter — V- Modal AI: Search anything anywhere SDK Flutter",
+          "url": "https://github.com/v-modal/vmodal_sdk_flutter",
+          "source": "github"
         }
       ],
-      "id": "456d618bb453",
-      "slug": "founder-residency"
+      "id": "78d99ae2db2a",
+      "slug": "sdk-flutter"
     },
     {
-      "keyword": "detailed profiles",
+      "keyword": "supports claude",
+      "count": 8,
+      "score": 50.46524232584352,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "KlaatAI/klaatcode — Open-source AI coding agent for the terminal. Claude Code-grade accuracy with smart model routing — uses the right AI model for each task, cutting costs 10x. Supports Claude, GPT, ",
+          "url": "https://github.com/KlaatAI/klaatcode",
+          "source": "github"
+        },
+        {
+          "title": "KlaatAI/klaatcode — Open-source AI coding agent for the terminal. Claude Code-grade accuracy with smart model routing — uses the right AI model for each task, cutting costs 10x. Supports Claude, GPT, ",
+          "url": "https://github.com/KlaatAI/klaatcode",
+          "source": "github"
+        }
+      ],
+      "id": "347a20c3ef33",
+      "slug": "supports-claude"
+    },
+    {
+      "keyword": "uniswap v3 swaprouter02",
+      "count": 5,
+      "score": 50.177156482151084,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "robinhood-ape/robinhood-sniper-bot — NOXA Fun token sniper on Robinhood Chain - watches TokenLaunched, buys via Uniswap V3 SwapRouter02, auto-sells on take-profit / stop-loss",
+          "url": "https://github.com/robinhood-ape/robinhood-sniper-bot",
+          "source": "github"
+        }
+      ],
+      "id": "c80219e99557",
+      "slug": "uniswap-v3-swaprouter02"
+    },
+    {
+      "keyword": "chatgpt iphone",
       "count": 6,
-      "score": 51.58903092337553,
+      "score": 49.54472007843028,
       "proper": false,
       "niches": [
         "ai"
       ],
       "examples": [
         {
-          "title": "I used to worry that commercial social media could build detailed profiles about our interests.Now I worry that AI can build detailed profiles of our most private thoughts.People keep asking ChatGPT q",
-          "url": "https://mastodon.social/@randahl/116937547680992206",
-          "source": "mastodon"
+          "title": "I asked ChatGPT for the best iPhone productivity apps — these 3 picks earned a permanent spot on my home screen",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOSFFUZ0dCVnpTLTZrQUVQb3V4SEhBQXQzekRkYXNsUG9iWTM2U3FlQ0MxVGRiQUw1VGk0Znk0MWRMeTRhLVBaRjZSSDRlSG9tZmxpUzhLSUtqTjZmOEtNaTllRWNXOG53MTlzUVNranBqTEFpejE4MkxGRWhyaW9jRXZKWG5qLTRhdXNYYXhPdnNMY1BqNWxyMjFsMDJONnBaZFVMbVRHa002VHd6SEV3UWVkT2doOWdoOVpBVGs3WTR4TkJ0eEtXUE5GWjJFUVhjN2tWWQ?oc=5",
+          "source": "gnews"
         },
         {
-          "title": "I used to worry that commercial social media could build detailed profiles about our interests.Now I worry that AI can build detailed profiles of our most private thoughts.People keep asking ChatGPT q",
-          "url": "https://mastodon.social/@randahl/116937547680992206",
-          "source": "mastodon"
+          "title": "I asked ChatGPT for the best iPhone productivity apps — these 3 picks earned a permanent spot on my home screen",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOSFFUZ0dCVnpTLTZrQUVQb3V4SEhBQXQzekRkYXNsUG9iWTM2U3FlQ0MxVGRiQUw1VGk0Znk0MWRMeTRhLVBaRjZSSDRlSG9tZmxpUzhLSUtqTjZmOEtNaTllRWNXOG53MTlzUVNranBqTEFpejE4MkxGRWhyaW9jRXZKWG5qLTRhdXNYYXhPdnNMY1BqNWxyMjFsMDJONnBaZFVMbVRHa002VHd6SEV3UWVkT2doOWdoOVpBVGs3WTR4TkJ0eEtXUE5GWjJFUVhjN2tWWQ?oc=5",
+          "source": "gnews"
         }
       ],
-      "id": "ccac237875a9",
-      "slug": "detailed-profiles"
+      "id": "52d99798d495",
+      "slug": "chatgpt-iphone"
+    },
+    {
+      "keyword": "software",
+      "count": 11,
+      "score": 48.25440864626047,
+      "proper": false,
+      "niches": [
+        "software",
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "LG monitors silently install software through Windows Update without consent",
+          "url": "https://videocardz.com/newz/lg-monitors-silently-install-software-through-windows-update-without-user-consent",
+          "source": "hackernews"
+        },
+        {
+          "title": "Capital One releases VulnHunter, an open-source AI tool that finds software flaws before hackers do",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPcURYeU00Nld0c0gwY0FOR25QSzkzRTZiMnJPR2Z1NnVxeUhrWkJZSFJIb2xhdGJmLURmeURFb3dVTE5ld1JaWjVQR2dDTC1rYm5RQnZFTnR6d3hCS2RSQ2MxQy14SkZoRmFXT1paejgxSDVObDNuWUlMcnl4LWJWa3ROdUdlcTJKc05jbWY0RWFIdFJRTjduSU8taFVWRG14N25VRl83SXhUU2RlZHN4S3pJTldRd1E4VHYzSVRQc0M2RnFJUTRKelhFUVJ6UQ?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "How to Find the Bargains in the Software Stock Wreckage",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9Xd1NsYXRyb3kzUTNDZXF5ajdpWS1EZE5RWFZaME93cV9VYmFzUHJ5NU90aWliQmtRUEV4QzR1dGJ6UTV5YUM5R1RWc1MtbFBGMDJQSVNzb1Zna3pldTlKbzROUXlHUnI5S2NJSg?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "How to Find the Bargains in the Software Stock Wreckage",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9Xd1NsYXRyb3kzUTNDZXF5ajdpWS1EZE5RWFZaME93cV9VYmFzUHJ5NU90aWliQmtRUEV4QzR1dGJ6UTV5YUM5R1RWc1MtbFBGMDJQSVNzb1Zna3pldTlKbzROUXlHUnI5S2NJSg?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "'The SaaS apocalypse is overrated': How Workday and other software provders plan to survive AI",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUEMtQllJWnBmbGZEVGxvV2dJQ29MTUtTMklGQzdBS1lJUk5ZVG44UldVSEZnVzh4NzFkZ0hRSU5uOE1rX045SmRsdE5rbWtKMnBySzdodHU5RGtDWm5xTS1rY0pqRmFFQUZVN1JWdVMzYkFralB2RGV0S01qYWJRaWdld0tLaDM5aVZwWEdtcUg2LWRhaElJa21aQlQyM0NfRko1YTZOWUdhdw?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "35390f5453e8",
+      "slug": "software"
     }
   ],
   "opportunities": [
     {
       "keyword": "noxa fun",
       "count": 16,
-      "score": 143.96819353338665,
+      "score": 143.86520529580332,
       "proper": true,
       "niches": [
         "ai"
@@ -748,7 +770,7 @@
     {
       "keyword": "robinhood chain",
       "count": 16,
-      "score": 143.96819353338665,
+      "score": 143.86520529580332,
       "proper": true,
       "niches": [
         "ai"
@@ -783,49 +805,22 @@
       }
     },
     {
-      "keyword": "expert consumers",
-      "count": 11,
-      "score": 98.77978565637038,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "Best AI Tools for Branding (2026): CapCut Featured for Creating Branded Video and Visual Content by Expert Consumers",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNajVFY0VkMi1CMVZnZ0dHbERneV9wdjR4RG04UkNQeGpaRkVoNmNhaXB1WVlXZUR1amlGWXhRWHBfNXpBTFZsVG9oUm5FSndkWDRXc21rVWFranRKVU83aHUzRFQycFdBTGpZWUlNSmhodERHbkZrOXV6N0NsMldrUGpR?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Best AI Tools for Branding (2026): CapCut Featured for Creating Branded Video and Visual Content by Expert Consumers",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNajVFY0VkMi1CMVZnZ0dHbERneV9wdjR4RG04UkNQeGpaRkVoNmNhaXB1WVlXZUR1amlGWXhRWHBfNXpBTFZsVG9oUm5FSndkWDRXc21rVWFranRKVU83aHUzRFQycFdBTGpZWUlNSmhodERHbkZrOXV6N0NsMldrUGpR?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Best AI Tools for Branding (2026): CapCut Featured for Creating Branded Video and Visual Content by Expert Consumers",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNajVFY0VkMi1CMVZnZ0dHbERneV9wdjR4RG04UkNQeGpaRkVoNmNhaXB1WVlXZUR1amlGWXhRWHBfNXpBTFZsVG9oUm5FSndkWDRXc21rVWFranRKVU83aHUzRFQycFdBTGpZWUlNSmhodERHbkZrOXV6N0NsMldrUGpR?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "e11bfc42197d",
-      "slug": "expert-consumers",
-      "opportunity": {
-        "type": "niche-content",
-        "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
-      }
-    },
-    {
       "keyword": "agent",
       "count": 14,
-      "score": 91.18829757121506,
+      "score": 90.66953000706361,
       "proper": true,
       "niches": [
         "ai"
       ],
       "examples": [
         {
-          "title": "KlaatAI/klaatcode — Open-source AI coding agent for the terminal. Claude Code-grade accuracy with smart model routing — uses the right AI model for each task, cutting costs 10x. Supports Claude, GPT, ",
-          "url": "https://github.com/KlaatAI/klaatcode",
+          "title": "kunchenguid/whathappened — Agent skill: adaptive X-only briefing of what happened + public opinion + debates",
+          "url": "https://github.com/kunchenguid/whathappened",
+          "source": "github"
+        },
+        {
+          "title": "kunchenguid/whathappened — Agent skill: adaptive X-only briefing of what happened + public opinion + debates",
+          "url": "https://github.com/kunchenguid/whathappened",
           "source": "github"
         },
         {
@@ -834,18 +829,13 @@
           "source": "github"
         },
         {
-          "title": "kunchenguid/whathappened — Agent skill: adaptive X-only briefing of what happened + public opinion + debates",
-          "url": "https://github.com/kunchenguid/whathappened",
+          "title": "KlaatAI/klaatcode — Open-source AI coding agent for the terminal. Claude Code-grade accuracy with smart model routing — uses the right AI model for each task, cutting costs 10x. Supports Claude, GPT, ",
+          "url": "https://github.com/KlaatAI/klaatcode",
           "source": "github"
         },
         {
-          "title": "kunchenguid/whathappened — Agent skill: adaptive X-only briefing of what happened + public opinion + debates",
-          "url": "https://github.com/kunchenguid/whathappened",
-          "source": "github"
-        },
-        {
-          "title": "agent-audit-kit 0.3.50",
-          "url": "https://pypi.org/project/agent-audit-kit/0.3.50/",
+          "title": "skill-trivium 0.2.5",
+          "url": "https://pypi.org/project/skill-trivium/0.2.5/",
           "source": "pypi"
         }
       ],
@@ -857,41 +847,136 @@
       }
     },
     {
-      "keyword": "johan sebasti",
-      "count": 8,
-      "score": 76.29203459582381,
+      "keyword": "gemini",
+      "count": 13,
+      "score": 84.13378389319803,
       "proper": true,
       "niches": [
         "ai"
       ],
       "examples": [
         {
-          "title": "David Brouillette is the ICE fascist who allegedly murdered Johan Sebastián Durán Guerrero in front of his 3-year-old daughter in Biddeford, Maine.Now Brouillette’s ex-wife confirms a history of vile ",
-          "url": "https://mastodon.social/@QasimRashid/116938576863628345",
-          "source": "mastodon"
+          "title": "PromptPartner/agentsmith — Universal, model-agnostic operating harness for AI agents (Claude, Codex, Gemini, …) — a lean core + work-type profiles assembled by one setup script.",
+          "url": "https://github.com/PromptPartner/agentsmith",
+          "source": "github"
         },
         {
-          "title": "David Brouillette is the ICE fascist who allegedly murdered Johan Sebastián Durán Guerrero in front of his 3-year-old daughter in Biddeford, Maine.Now Brouillette’s ex-wife confirms a history of vile ",
-          "url": "https://mastodon.social/@QasimRashid/116938576863628345",
-          "source": "mastodon"
+          "title": "PromptPartner/agentsmith — Universal, model-agnostic operating harness for AI agents (Claude, Codex, Gemini, …) — a lean core + work-type profiles assembled by one setup script.",
+          "url": "https://github.com/PromptPartner/agentsmith",
+          "source": "github"
+        },
+        {
+          "title": "I stopped downloading productivity apps after pairing Gemini with Google Sheets",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbVNBX29sZ2pzNzhFQnJBSlZPV0NMR05hTUFYZXNfTU9LY1B6SUtPSW03ZG0yVVR3WGZTejl5eDZyQ0dsa201dVJObkxZc0Qta2lzVHAwekdwYTV2QTU1RHpzcGc3RFVhbFNvajBpVGtWYjJOdHpERXBZY2thdmFPcVZkMXpibXI3VzFrazNPSDloWm5udkQzejl6NnlXS0xZZ09xTnJR?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "I stopped downloading productivity apps after pairing Gemini with Google Sheets",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbVNBX29sZ2pzNzhFQnJBSlZPV0NMR05hTUFYZXNfTU9LY1B6SUtPSW03ZG0yVVR3WGZTejl5eDZyQ0dsa201dVJObkxZc0Qta2lzVHAwekdwYTV2QTU1RHpzcGc3RFVhbFNvajBpVGtWYjJOdHpERXBZY2thdmFPcVZkMXpibXI3VzFrazNPSDloWm5udkQzejl6NnlXS0xZZ09xTnJR?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "I stopped downloading productivity apps after pairing Gemini with Google Sheets",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbVNBX29sZ2pzNzhFQnJBSlZPV0NMR05hTUFYZXNfTU9LY1B6SUtPSW03ZG0yVVR3WGZTejl5eDZyQ0dsa201dVJObkxZc0Qta2lzVHAwekdwYTV2QTU1RHpzcGc3RFVhbFNvajBpVGtWYjJOdHpERXBZY2thdmFPcVZkMXpibXI3VzFrazNPSDloWm5udkQzejl6NnlXS0xZZ09xTnJR?oc=5",
+          "source": "gnews"
         }
       ],
-      "id": "895d0ce7800b",
-      "slug": "johan-sebasti",
+      "id": "5d72436256ad",
+      "slug": "gemini",
       "opportunity": {
         "type": "niche-content",
         "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
       }
     },
     {
-      "keyword": "supports claude",
+      "keyword": "productivity apps",
+      "count": 21,
+      "score": 80.200515626959,
+      "proper": false,
+      "niches": [
+        "ai",
+        "software"
+      ],
+      "examples": [
+        {
+          "title": "I asked ChatGPT for the best iPhone productivity apps — these 3 picks earned a permanent spot on my home screen",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOSFFUZ0dCVnpTLTZrQUVQb3V4SEhBQXQzekRkYXNsUG9iWTM2U3FlQ0MxVGRiQUw1VGk0Znk0MWRMeTRhLVBaRjZSSDRlSG9tZmxpUzhLSUtqTjZmOEtNaTllRWNXOG53MTlzUVNranBqTEFpejE4MkxGRWhyaW9jRXZKWG5qLTRhdXNYYXhPdnNMY1BqNWxyMjFsMDJONnBaZFVMbVRHa002VHd6SEV3UWVkT2doOWdoOVpBVGs3WTR4TkJ0eEtXUE5GWjJFUVhjN2tWWQ?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Email Productivity Apps",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB2bHlYQXhhZ0FFMDdoQTNpbVZKY2szOURRUkJjc2QyWFVka0ZGY3RFUEhXRDI3Z2dNUE5CRGhGSFVvYjdFVFFNV1p4ZVBEQ1RUQmZHX0h0NNIBXEFVX3lxTE5LQko0M0JwbDZIMnZpSEFJVUEtaDByS0ZFVlRsLV9JNlNLMjNhSDlISTVmcWxoVDVtbnpaNS1TTlFpN3AwNFYycU0xS2F1S1JJZUQ4eFRwWlBxcXFi?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Email Productivity Apps",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB2bHlYQXhhZ0FFMDdoQTNpbVZKY2szOURRUkJjc2QyWFVka0ZGY3RFUEhXRDI3Z2dNUE5CRGhGSFVvYjdFVFFNV1p4ZVBEQ1RUQmZHX0h0NNIBXEFVX3lxTE5LQko0M0JwbDZIMnZpSEFJVUEtaDByS0ZFVlRsLV9JNlNLMjNhSDlISTVmcWxoVDVtbnpaNS1TTlFpN3AwNFYycU0xS2F1S1JJZUQ4eFRwWlBxcXFi?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "I stopped downloading productivity apps after pairing Gemini with Google Sheets",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbVNBX29sZ2pzNzhFQnJBSlZPV0NMR05hTUFYZXNfTU9LY1B6SUtPSW03ZG0yVVR3WGZTejl5eDZyQ0dsa201dVJObkxZc0Qta2lzVHAwekdwYTV2QTU1RHpzcGc3RFVhbFNvajBpVGtWYjJOdHpERXBZY2thdmFPcVZkMXpibXI3VzFrazNPSDloWm5udkQzejl6NnlXS0xZZ09xTnJR?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "I stopped downloading productivity apps after pairing Gemini with Google Sheets",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbVNBX29sZ2pzNzhFQnJBSlZPV0NMR05hTUFYZXNfTU9LY1B6SUtPSW03ZG0yVVR3WGZTejl5eDZyQ0dsa201dVJObkxZc0Qta2lzVHAwekdwYTV2QTU1RHpzcGc3RFVhbFNvajBpVGtWYjJOdHpERXBZY2thdmFPcVZkMXpibXI3VzFrazNPSDloWm5udkQzejl6NnlXS0xZZ09xTnJR?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "c3d816ac2a46",
+      "slug": "productivity-apps",
+      "opportunity": {
+        "type": "affiliate",
+        "recommended": "Write SEO comparison/roundup article with affiliate links."
+      }
+    },
+    {
+      "keyword": "founder residency",
       "count": 8,
-      "score": 64.628850307767,
+      "score": 62.56065986729368,
       "proper": true,
       "niches": [
         "ai"
       ],
       "examples": [
+        {
+          "title": "Dev Opportunity Radar #8: $100K OpenAI Build Week, $12K AI Fellowship, Founder Residency & Free AI Dev Course",
+          "url": "https://dev.to/devengers/dev-opportunity-radar-8-openai-build-week-aiaf-fellowship-the-residency-ai-dev-tools-zoomcamp-5bpc",
+          "source": "devto"
+        },
+        {
+          "title": "Dev Opportunity Radar #8: $100K OpenAI Build Week, $12K AI Fellowship, Founder Residency & Free AI Dev Course",
+          "url": "https://dev.to/devengers/dev-opportunity-radar-8-openai-build-week-aiaf-fellowship-the-residency-ai-dev-tools-zoomcamp-5bpc",
+          "source": "devto"
+        }
+      ],
+      "id": "456d618bb453",
+      "slug": "founder-residency",
+      "opportunity": {
+        "type": "niche-content",
+        "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
+      }
+    },
+    {
+      "keyword": "claude",
+      "count": 8,
+      "score": 62.06879041975771,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "PromptPartner/agentsmith — Universal, model-agnostic operating harness for AI agents (Claude, Codex, Gemini, …) — a lean core + work-type profiles assembled by one setup script.",
+          "url": "https://github.com/PromptPartner/agentsmith",
+          "source": "github"
+        },
+        {
+          "title": "PromptPartner/agentsmith — Universal, model-agnostic operating harness for AI agents (Claude, Codex, Gemini, …) — a lean core + work-type profiles assembled by one setup script.",
+          "url": "https://github.com/PromptPartner/agentsmith",
+          "source": "github"
+        },
         {
           "title": "KlaatAI/klaatcode — Open-source AI coding agent for the terminal. Claude Code-grade accuracy with smart model routing — uses the right AI model for each task, cutting costs 10x. Supports Claude, GPT, ",
           "url": "https://github.com/KlaatAI/klaatcode",
@@ -903,59 +988,17 @@
           "source": "github"
         }
       ],
-      "id": "347a20c3ef33",
-      "slug": "supports-claude",
+      "id": "c857d09db23e",
+      "slug": "claude",
       "opportunity": {
         "type": "tooling",
         "recommended": "Build / list AI tools; monetize via affiliate links + lead magnet."
       }
     },
     {
-      "keyword": "software",
-      "count": 15,
-      "score": 62.75664543267833,
-      "proper": false,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "'The SaaS apocalypse is overrated': How Workday and other software provders plan to survive AI",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUEMtQllJWnBmbGZEVGxvV2dJQ29MTUtTMklGQzdBS1lJUk5ZVG44UldVSEZnVzh4NzFkZ0hRSU5uOE1rX045SmRsdE5rbWtKMnBySzdodHU5RGtDWm5xTS1rY0pqRmFFQUZVN1JWdVMzYkFralB2RGV0S01qYWJRaWdld0tLaDM5aVZwWEdtcUg2LWRhaElJa21aQlQyM0NfRko1YTZOWUdhdw?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "'The SaaS apocalypse is overrated': How Workday and other software provders plan to survive AI",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUEMtQllJWnBmbGZEVGxvV2dJQ29MTUtTMklGQzdBS1lJUk5ZVG44UldVSEZnVzh4NzFkZ0hRSU5uOE1rX045SmRsdE5rbWtKMnBySzdodHU5RGtDWm5xTS1rY0pqRmFFQUZVN1JWdVMzYkFralB2RGV0S01qYWJRaWdld0tLaDM5aVZwWEdtcUg2LWRhaElJa21aQlQyM0NfRko1YTZOWUdhdw?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "25+ AI Tools For Entrepreneurs: Best Business Management Software",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE53QVdLUTRJa2w2cmE3UXZjX0tlVnc3QXhoZ2paQm9NOHc2X2VpVm5DTDBTWXE3SkR4WDJQSEJObXdIWUltRDhqbFRZNWIwcHgxemI3Y3Voa25uVUhWVWJnNndYOUh5RVR0WV9rZ1YzUWdSUXVid19URUJGMVlQOWs?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "25+ AI Tools For Entrepreneurs: Best Business Management Software",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE53QVdLUTRJa2w2cmE3UXZjX0tlVnc3QXhoZ2paQm9NOHc2X2VpVm5DTDBTWXE3SkR4WDJQSEJObXdIWUltRDhqbFRZNWIwcHgxemI3Y3Voa25uVUhWVWJnNndYOUh5RVR0WV9rZ1YzUWdSUXVid19URUJGMVlQOWs?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "The 12 Best AI Accounting Software and Tools for 2026",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQMHpGRjhPZkoyMzRSYk9NRF9KMVRhQzNQcjJhYjZ3Ukh1aWFjY1R2UFNpN3FUWnRIYlNKUHpjRUN0bEh2SmJIX3d1WVVLTlJ3cXY0U0Y2TzBMSllvT0diTnVXUmRzdklEanp0TmpiNEFMcElXOGc0VjQwU2Q2VDhVWWxLWWlnTndLaFE?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "35390f5453e8",
-      "slug": "software",
-      "opportunity": {
-        "type": "niche-content",
-        "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
-      }
-    },
-    {
       "keyword": "circuit framework",
       "count": 8,
-      "score": 61.77579810913353,
+      "score": 61.79662255965309,
       "proper": true,
       "niches": [
         "ai"
