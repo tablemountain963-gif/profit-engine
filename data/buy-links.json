@@ -1940,5 +1940,12 @@
     "price": 29,
     "productId": "prod_Utki2FiJ3dGFQR",
     "cover": "/assets/pack-cover.png"
+  },
+  "prompt-pack-supports-claude-2026-07-18": {
+    "url": "https://buy.stripe.com/8x23cubhmgu27bB1FyfjH0l",
+    "platform": "stripe",
+    "price": 19,
+    "productId": "prod_UuDjKzTI13tAk7",
+    "cover": "/assets/pack-cover.png"
   }
 }

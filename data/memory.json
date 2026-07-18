@@ -3026,9 +3026,9 @@
     },
     "_blank-tools": {
       "firstSeen": "2026-07-02T15:13:51.089Z",
-      "lastSeen": "2026-07-17T21:39:03.982Z",
-      "count": 3,
-      "wins": 0,
+      "lastSeen": "2026-07-18T03:51:50.917Z",
+      "count": 4,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -3167,30 +3167,6 @@
       "wins": 1,
       "losses": 0,
       "niche": "software"
-    },
-    "essaygraderai-rated": {
-      "firstSeen": "2026-07-03T21:54:05.176Z",
-      "lastSeen": "2026-07-03T21:54:05.176Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "ai"
-    },
-    "ai-essay-grading-tools": {
-      "firstSeen": "2026-07-03T21:54:11.297Z",
-      "lastSeen": "2026-07-03T21:54:11.297Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "ai"
-    },
-    "visual-content-production": {
-      "firstSeen": "2026-07-03T21:54:18.277Z",
-      "lastSeen": "2026-07-03T21:54:18.277Z",
-      "count": 1,
-      "wins": 0,
-      "losses": 0,
-      "niche": "ai"
     },
     "keyboard-deal": {
       "firstSeen": "2026-07-04T04:32:03.531Z",
@@ -4890,9 +4866,9 @@
     },
     "prove": {
       "firstSeen": "2026-07-14T03:54:15.908Z",
-      "lastSeen": "2026-07-14T03:54:15.908Z",
-      "count": 1,
-      "wins": 0,
+      "lastSeen": "2026-07-18T03:51:50.915Z",
+      "count": 2,
+      "wins": 1,
       "losses": 0,
       "niche": "ai"
     },
@@ -5506,21 +5482,77 @@
     },
     "guide": {
       "firstSeen": "2026-07-17T21:39:06.356Z",
-      "lastSeen": "2026-07-17T21:39:06.356Z",
+      "lastSeen": "2026-07-18T03:51:50.918Z",
+      "count": 2,
+      "wins": 1,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "dividend-stocks": {
+      "firstSeen": "2026-07-18T03:51:55.975Z",
+      "lastSeen": "2026-07-18T03:51:55.975Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "finance"
+    },
+    "johan-sebasti": {
+      "firstSeen": "2026-07-18T03:51:58.797Z",
+      "lastSeen": "2026-07-18T03:51:58.797Z",
       "count": 1,
       "wins": 0,
       "losses": 0,
       "niche": "ai"
+    },
+    "term-passive-income": {
+      "firstSeen": "2026-07-18T03:52:01.522Z",
+      "lastSeen": "2026-07-18T03:52:01.522Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "finance"
+    },
+    "supports-claude": {
+      "firstSeen": "2026-07-18T03:52:08.850Z",
+      "lastSeen": "2026-07-18T03:52:08.850Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "ai"
+    },
+    "beaten-down-stocks": {
+      "firstSeen": "2026-07-18T03:52:18.926Z",
+      "lastSeen": "2026-07-18T03:52:18.926Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "finance"
+    },
+    "stocks-long-term": {
+      "firstSeen": "2026-07-18T03:52:25.950Z",
+      "lastSeen": "2026-07-18T03:52:25.950Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "finance"
+    },
+    "long-term-passive": {
+      "firstSeen": "2026-07-18T03:52:56.479Z",
+      "lastSeen": "2026-07-18T03:52:56.479Z",
+      "count": 1,
+      "wins": 0,
+      "losses": 0,
+      "niche": "finance"
     }
   },
   "niches": {
     "ai": {
-      "count": 1416,
-      "wins": 387,
+      "count": 1421,
+      "wins": 390,
       "losses": 62
     },
     "finance": {
-      "count": 127,
+      "count": 132,
       "wins": 21,
       "losses": 2
     },

@@ -1,33 +1,77 @@
 {
-  "generatedAt": "2026-07-17T21:38:56.269Z",
-  "sourceCount": 202,
+  "generatedAt": "2026-07-18T03:51:51.865Z",
+  "sourceCount": 205,
   "topItems": [
     {
-      "title": "Apple targets dozens of OpenAI employees with legal letters",
-      "url": "https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166",
-      "score": 8.77,
+      "title": "Kaiser nurses say AI, workplace surveillance are making their jobs, care worse",
+      "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/",
+      "score": 9.38,
       "niche": "ai",
       "source": "hackernews",
       "engagement": {
-        "score": 355,
-        "comments": 298
+        "score": 366,
+        "comments": 243
       }
     },
     {
-      "title": "Sometimes the good guys win. And when this happens, we take the time to enjoy our victory because that is the only way to fight a long fight without burning out. https://www.eff.org/deeplinks/2026/07/",
-      "url": "https://hachyderm.io/@evacide/116936582237398851",
-      "score": 8.43,
-      "niche": "software",
+      "title": "I used to worry that commercial social media could build detailed profiles about our interests.Now I worry that AI can build detailed profiles of our most private thoughts.People keep asking ChatGPT q",
+      "url": "https://mastodon.social/@randahl/116937547680992206",
+      "score": 8.6,
+      "niche": "ai",
       "source": "mastodon",
       "engagement": {
-        "score": 397,
-        "comments": 8
+        "score": 190,
+        "comments": 13
+      }
+    },
+    {
+      "title": "The state of open source AI",
+      "url": "https://stateofopensource.ai/",
+      "score": 7.64,
+      "niche": "ai",
+      "source": "hackernews",
+      "engagement": {
+        "score": 392,
+        "comments": 287
+      }
+    },
+    {
+      "title": "it feels like everyone with even the most remote, faintest security inklings has been screaming 'SANITIZE YOUR INPUTS' and a bunch of folks went .. NUH UH. not only are we gonna not sanitize shit, we'",
+      "url": "https://mastodon.social/@Viss/116937895280057712",
+      "score": 7.31,
+      "niche": "ai",
+      "source": "mastodon",
+      "engagement": {
+        "score": 177,
+        "comments": 7
+      }
+    },
+    {
+      "title": "The real AI aesthetic.",
+      "url": "https://beige.party/@maxleibman/116937472414773377",
+      "score": 6.85,
+      "niche": "ai",
+      "source": "mastodon",
+      "engagement": {
+        "score": 441,
+        "comments": 15
+      }
+    },
+    {
+      "title": "robinhood-ape/robinhood-sniper-bot — NOXA Fun token sniper on Robinhood Chain - watches TokenLaunched, buys via Uniswap V3 SwapRouter02, auto-sells on take-profit / stop-loss",
+      "url": "https://github.com/robinhood-ape/robinhood-sniper-bot",
+      "score": 6.7,
+      "niche": "ai",
+      "source": "github",
+      "engagement": {
+        "score": 253,
+        "comments": 0
       }
     },
     {
       "title": "Best AI and Tech Tools for Dementia Care: 2026 Guide",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVmZMRzRuUDd4bEZhN3Q0cHJWTzRQTVN5Q1IzZUV3RTRWMG14bkJudFJwTFkzd1hDWHA5c2pRUmExcmR5WENGRTIxVEdtZ05GSzV4ZTUwTW5MNnhkSUNKTnQwc1J3ZHZwdVU4TW1YQ00xUVZ1MHRRN3lxbjF3cXAxb2hHcGpvTjJLOUlEeFBYRnZSSzljS1BCSmFZQ3ZjLUk?oc=5",
-      "score": 8.26,
+      "score": 6.61,
       "niche": "ai",
       "source": "gnews",
       "engagement": {
@@ -36,31 +80,97 @@
       }
     },
     {
-      "title": "Noticed the abysmal indoor air quality as measured this morning by gadget we bought after last year's wildfire smoke turned the sky a Blade Runner orange for several days. Visibility outside is next t",
-      "url": "https://infosec.exchange/@briankrebs/116936378231018288",
-      "score": 7.99,
+      "title": "If billionaires are so worried about a wealth tax, why can't they just get a second job?",
+      "url": "https://mastodon.social/@SusanPotter/116937845170839615",
+      "score": 6.59,
       "niche": "ai",
       "source": "mastodon",
       "engagement": {
-        "score": 278,
-        "comments": 18
+        "score": 100,
+        "comments": 7
       }
     },
     {
-      "title": "My vim  ~/.vimrc config file is like my life. full of settings I copied from a stranger on the internet, don’t understand and now am too afraid to delete 😭",
-      "url": "https://mastodon.social/@nixCraft/116936202679882407",
-      "score": 7.62,
+      "title": "1/ Outrageous and unacceptable. The Namaygoosisagagun First Nation wasn’t warned of the blaze that burned their community to the ground and were not given supports to evacuate.The federal government m",
+      "url": "https://mstdn.ca/@avilewis/116938396721911072",
+      "score": 6.55,
       "niche": "ai",
       "source": "mastodon",
       "engagement": {
-        "score": 214,
-        "comments": 13
+        "score": 104,
+        "comments": 3
+      }
+    },
+    {
+      "title": "nethical6/conversation-steganography — Use LLMS to hide secret messages inside normal-looking chat text",
+      "url": "https://github.com/nethical6/conversation-steganography",
+      "score": 6.36,
+      "niche": "ai",
+      "source": "github",
+      "engagement": {
+        "score": 305,
+        "comments": 0
+      }
+    },
+    {
+      "title": "David Brouillette is the ICE fascist who allegedly murdered Johan Sebastián Durán Guerrero in front of his 3-year-old daughter in Biddeford, Maine.Now Brouillette’s ex-wife confirms a history of vile ",
+      "url": "https://mastodon.social/@QasimRashid/116938576863628345",
+      "score": 6.36,
+      "niche": "ai",
+      "source": "mastodon",
+      "engagement": {
+        "score": 94,
+        "comments": 1
+      }
+    },
+    {
+      "title": "FAA lets Boeing sign off on 737 MAX, 787 airworthiness certificates again",
+      "url": "https://www.cnbc.com/2026/07/17/faa-boeing-737-max-787.html",
+      "score": 6.32,
+      "niche": "ai",
+      "source": "hackernews",
+      "engagement": {
+        "score": 142,
+        "comments": 75
+      }
+    },
+    {
+      "title": "ICE shared Medicaid data it wasn't supposed to have with Palantirhttps://www.npr.org/2026/07/17/nx-s1-5898504/ice-medicaid-palantir-data?utm_source=flipboard&utm_medium=activitypub Posted into U.S. Ne",
+      "url": "https://flipboard.com/@npr/u.s.-news-aspd61boz/-/a-2fA7HnOURaqY31UzARddxQ%3Aa%3A3195441-%2F0",
+      "score": 6.25,
+      "niche": "ai",
+      "source": "mastodon",
+      "engagement": {
+        "score": 85,
+        "comments": 2
+      }
+    },
+    {
+      "title": "And, right on cue, someone complains about my \"political\" posts not having a content warning.Let me explain: fuck you.",
+      "url": "https://federate.social/@mattblaze/116938705958947037",
+      "score": 6.24,
+      "niche": "ai",
+      "source": "mastodon",
+      "engagement": {
+        "score": 80,
+        "comments": 4
+      }
+    },
+    {
+      "title": "'The SaaS apocalypse is overrated': How Workday and other software provders plan to survive AI",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUEMtQllJWnBmbGZEVGxvV2dJQ29MTUtTMklGQzdBS1lJUk5ZVG44UldVSEZnVzh4NzFkZ0hRSU5uOE1rX045SmRsdE5rbWtKMnBySzdodHU5RGtDWm5xTS1rY0pqRmFFQUZVN1JWdVMzYkFralB2RGV0S01qYWJRaWdld0tLaDM5aVZwWEdtcUg2LWRhaElJa21aQlQyM0NfRko1YTZOWUdhdw?oc=5",
+      "score": 5.99,
+      "niche": "ai",
+      "source": "gnews",
+      "engagement": {
+        "score": 40,
+        "comments": 0
       }
     },
     {
       "title": "25+ AI Tools For Entrepreneurs: Best Business Management Software",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE53QVdLUTRJa2w2cmE3UXZjX0tlVnc3QXhoZ2paQm9NOHc2X2VpVm5DTDBTWXE3SkR4WDJQSEJObXdIWUltRDhqbFRZNWIwcHgxemI3Y3Voa25uVUhWVWJnNndYOUh5RVR0WV9rZ1YzUWdSUXVid19URUJGMVlQOWs?oc=5",
-      "score": 7.48,
+      "score": 5.99,
       "niche": "ai",
       "source": "gnews",
       "engagement": {
@@ -71,100 +181,12 @@
     {
       "title": "Best AI Tools for Students in 2026: Research, Writi…",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZEdkQlpPeFdNV2dkTU83SEtnQWt1dUlPMXRSYWFzamMxbktZZzAwS3MxZXdBRTRLNWR4UHVqV0VVYlh1OEVCZE5vbjF0Mk1IUWNsSmtsSENlcXNtOEp4REJ3MHVHR255VTJlOEpoYzlqVTRsb25JTFFVdDl4TFliaWZKZktnSzYzRWNWWUdoQk84UmxGbkhYQTE4NnVDbjBQcFFpMkEtLUZ1V2N3NWljZXlwS2NVZw?oc=5",
-      "score": 7.48,
+      "score": 5.99,
       "niche": "ai",
       "source": "gnews",
       "engagement": {
         "score": 40,
         "comments": 0
-      }
-    },
-    {
-      "title": "The state of open source AI",
-      "url": "https://stateofopensource.ai/",
-      "score": 7.41,
-      "niche": "ai",
-      "source": "hackernews",
-      "engagement": {
-        "score": 326,
-        "comments": 229
-      }
-    },
-    {
-      "title": "A reminder: The US, by being the largest historical CO₂ emitter, has caused $10 trillion in global climate damage since 1990. A quarter of this impact is felt domestically, but it disproportionately a",
-      "url": "https://mastodon.world/@davidho/116936668735254984",
-      "score": 7.31,
-      "niche": "software",
-      "source": "mastodon",
-      "engagement": {
-        "score": 179,
-        "comments": 3
-      }
-    },
-    {
-      "title": "A generalized desire to understand how the objects and systems around you work, regardless of whether or not that knowledge can actually be applied",
-      "url": "https://mastodon.social/@mcc/116936663182467892",
-      "score": 7.05,
-      "niche": "software",
-      "source": "mastodon",
-      "engagement": {
-        "score": 130,
-        "comments": 12
-      }
-    },
-    {
-      "title": "EEG shows brain can simultaneous encode two speech streams",
-      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003876",
-      "score": 7.04,
-      "niche": "ai",
-      "source": "hackernews",
-      "engagement": {
-        "score": 241,
-        "comments": 160
-      }
-    },
-    {
-      "title": "robinhood-ape/robinhood-sniper-bot — NOXA Fun token sniper on Robinhood Chain - watches TokenLaunched, buys via Uniswap V3 SwapRouter02, auto-sells on take-profit / stop-loss",
-      "url": "https://github.com/robinhood-ape/robinhood-sniper-bot",
-      "score": 6.69,
-      "niche": "ai",
-      "source": "github",
-      "engagement": {
-        "score": 252,
-        "comments": 0
-      }
-    },
-    {
-      "title": "Lofree Hyzen Magnetic Mechanical keyboard review: Best of both worlds?",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQVlsRmdMM1cxZDgxZjVLcDhMdG9CUzFFZUlELVhFWU1HcFA0ZEZZSjVVMlpZRG55WE1wWU5yQlppOXdpdDBFV0I4NGY0ZmlsNGVfSE9fVEQ3anFxOHpPVUlPRFEwMGV1dnI5OXZ3b25YMkFZZnpETW1UcmRfRi1DeURlc2FFSFpBc2t0YklCUEF3RUhQbFZQa2dRdW41S0hsR2N0eS1LU3R1NGJOS0tSd1otMA?oc=5",
-      "score": 6.55,
-      "niche": "gear",
-      "source": "gnews",
-      "engagement": {
-        "score": 40,
-        "comments": 0
-      }
-    },
-    {
-      "title": "kunchenguid/whathappened — Agent skill: adaptive X-only briefing of what happened + public opinion + debates",
-      "url": "https://github.com/kunchenguid/whathappened",
-      "score": 6.36,
-      "niche": "ai",
-      "source": "github",
-      "engagement": {
-        "score": 142,
-        "comments": 1
-      }
-    },
-    {
-      "title": "CyberSunil/LLMVault — An intentionally vulnerable OWASP LLM Top 10 training platform for AI Security, Prompt Injection, RAG Security, Agent Security, and GenAI penetration testing.",
-      "url": "https://github.com/CyberSunil/LLMVault",
-      "score": 6.07,
-      "niche": "ai",
-      "source": "github",
-      "engagement": {
-        "score": 147,
-        "comments": 2
       }
     },
     {
@@ -179,58 +201,69 @@
       }
     },
     {
-      "title": "Blueturboguy07/cue — Open-source macOS AI copilot that floats over your screen, sees/hears your meetings, and stays hidden from screen shares. Cluely alternative, bring-your-own-key.",
-      "url": "https://github.com/Blueturboguy07/cue",
-      "score": 5.93,
-      "niche": "ai",
-      "source": "github",
+      "title": "RE: https://mastodon.green/@JustinGerdes/116937683094133578Russell Vought is exactly why the guillotine was applied waaaaay more to the bureaucrats than their bosses in the nobility.",
+      "url": "https://mastodon.social/@blogdiva/116938130664246076",
+      "score": 5.94,
+      "niche": "software",
+      "source": "mastodon",
       "engagement": {
-        "score": 476,
-        "comments": 4
+        "score": 63,
+        "comments": 3
       }
     },
     {
-      "title": "I found five mechanical keyboards I’d happily recommend for Back-to-School",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZFNoOVpMeXlKMHAyVzVrb1BieTdYQkQwTF9vWkg5SWJBSUctUE9VRm9KNFRqMVBTZTBaRnlvS2ZNenNyaExLQ0dadnN1ZlVxcVB1Q1lKYmo1M1c0SlhzVmladnJReUp0WGhiclAyOFZoX0dEQUxSeXdkQzltVVVFb2JYXzc1U085ODJlSWNJTQ?oc=5",
-      "score": 5.87,
-      "niche": "software",
-      "source": "gnews",
+      "title": "MIgHTy-alIeN/Trading-Bot — An arbitrage bot is a smart contract connected to an external automation script that controls its operation.",
+      "url": "https://github.com/MIgHTy-alIeN/Trading-Bot",
+      "score": 5.77,
+      "niche": "ai",
+      "source": "github",
       "engagement": {
-        "score": 40,
+        "score": 179,
         "comments": 0
       }
     },
     {
       "title": "tandpfun/wardrobe — Your clothes, extracted and organized with gpt-image.",
       "url": "https://github.com/tandpfun/wardrobe",
-      "score": 5.65,
+      "score": 5.69,
       "niche": "ai",
       "source": "github",
       "engagement": {
-        "score": 875,
+        "score": 909,
         "comments": 2
       }
     },
     {
-      "title": "CodeDrobe/skills — Open-source OpenAI Codex theming Skill, AI theme generator, and cross-platform runtime for custom Codex desktop themes.",
-      "url": "https://github.com/CodeDrobe/skills",
-      "score": 5.62,
+      "title": "CircuitSpawnIndicate/FIFA-Mod-Manager-Pro — Professional mod manager for EA Sports FC / FIFA with drag & drop, load order control, and conflict detection.",
+      "url": "https://github.com/CircuitSpawnIndicate/FIFA-Mod-Manager-Pro",
+      "score": 5.45,
       "niche": "ai",
       "source": "github",
       "engagement": {
-        "score": 177,
+        "score": 70,
         "comments": 0
       }
     },
     {
-      "title": "Corsair Makr Pro 75 Keyboard Review",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUkFMZUFjN3F0a1FSbWxRRXBVUDE3MmdQVGRaS01NZ1RfRzRvLUJzNS1iRkYxUk4tWHQ3QThEQUlseHJkdzBaZHRPZUpiQVFpWmJBaXZuVXI3QzBBVV9PRV8tTElVRDBhT3I1VjF2QkZHMGpMT3pFV1BuRHNmc1N6YzFCMV9vWldFaVE?oc=5",
-      "score": 5.37,
+      "title": "KlaatAI/klaatcode — Open-source AI coding agent for the terminal. Claude Code-grade accuracy with smart model routing — uses the right AI model for each task, cutting costs 10x. Supports Claude, GPT, ",
+      "url": "https://github.com/KlaatAI/klaatcode",
+      "score": 5.39,
       "niche": "ai",
-      "source": "gnews",
+      "source": "github",
       "engagement": {
-        "score": 40,
-        "comments": 0
+        "score": 106,
+        "comments": 10
+      }
+    },
+    {
+      "title": "Topcoat: The full full-stack framework for Rust",
+      "url": "https://github.com/tokio-rs/topcoat",
+      "score": 5.34,
+      "niche": "software",
+      "source": "hackernews",
+      "engagement": {
+        "score": 55,
+        "comments": 31
       }
     },
     {
@@ -240,165 +273,16 @@
       "niche": "ai",
       "source": "github",
       "engagement": {
-        "score": 250,
-        "comments": 0
-      }
-    },
-    {
-      "title": "oversecured/Samsung_Vulnerabilities — 176 vulnerabilities in Samsung preinstalled Android apps",
-      "url": "https://github.com/oversecured/Samsung_Vulnerabilities",
-      "score": 5.24,
-      "niche": "software",
-      "source": "github",
-      "engagement": {
-        "score": 249,
-        "comments": 0
-      }
-    },
-    {
-      "title": "HeiGeAi/heige-codex-skin-studio — 给 Codex Desktop 一键换肤：OpenAI Codex/ChatGPT 桌面端主题工具，CDP 注入零修改应用，Miku/原神/鸣潮/火影/恋与深空 9 预设+自定义图片取色 | One-click theme & skin switcher for OpenAI Codex Desktop (macOS/Window",
-      "url": "https://github.com/HeiGeAi/heige-codex-skin-studio",
-      "score": 5.21,
-      "niche": "ai",
-      "source": "github",
-      "engagement": {
-        "score": 219,
-        "comments": 5
-      }
-    },
-    {
-      "title": "PengZhang64/circuit-framework — Circuit Framework — multi-agent LLM trading research system",
-      "url": "https://github.com/PengZhang64/circuit-framework",
-      "score": 5.14,
-      "niche": "ai",
-      "source": "github",
-      "engagement": {
-        "score": 477,
+        "score": 251,
         "comments": 0
       }
     }
   ],
   "topics": [
     {
-      "keyword": "passive income",
-      "count": 44,
-      "score": 185.48304579362332,
-      "proper": true,
-      "niches": [
-        "finance",
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "5 Years After the Passive Income Craze, Rental Properties Have Proved To Be Anything But",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNYUxiamhRdE1HZ0dUMU52S0wwQ0w1RTVPZTZhTnFxQ1JtUk5MS2p0VkhMX0ptdk9SRjhFbnpJWWpJMENROVdnTGVWc1B1aFJrZk9tekRYUU9yZ3d4MmNtSmtMMFZIdXl6Y0RDSVlRZ19sZU12VnpkSF9VcUFYbVZGanN1aHRrWGdOSUE?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "5 Years After the Passive Income Craze, Rental Properties Have Proved To Be Anything But",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNYUxiamhRdE1HZ0dUMU52S0wwQ0w1RTVPZTZhTnFxQ1JtUk5MS2p0VkhMX0ptdk9SRjhFbnpJWWpJMENROVdnTGVWc1B1aFJrZk9tekRYUU9yZ3d4MmNtSmtMMFZIdXl6Y0RDSVlRZ19sZU12VnpkSF9VcUFYbVZGanN1aHRrWGdOSUE?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Why Real estate remains one of the most popular paths to passive income",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUmxXRjROU3RZWlRWZU1zaVQ3ak9qcTlUVjFfVV9TTFFJRW9uODV1Q2NoUTdScnBvQmJTTURqWTRHZ2FSVkdmYUttb3ZHWDQ1cmFKMHhjUFdtYVg1a3lzdW5ST3ZDYnZPcW4yVHp4dkJIc0FfWUtRTmNZTFg3MzlNVUk0eVZyVjZDb0twM25n0gGiAUFVX3lxTFBHeHJfR00zeUdnRmljN2R5SkpsNzJIYUhUaGJVOWpKcFY4dmlJb0IwTXpqNHVMWmxOZHBwNTFrTGF3al9OR3lEcGhsLWdxZnlQaGRfVTJnUjhWNFNEZnE1RmlpTFFtaVRBbXAyWmNMazdzS0R2WmdWbUtPa0dtQ1hvNWhMQ3E1OGVaUkFVQVhEMjdkRVZ0bWlVNmM0NjBkaW93dw?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Invest $100,000 in These Dividend Stocks and Collect Passive Income for Life",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUW80U21VeUJJWnRlM2tFSXVTRnJQQ251emNlN0dIUTdqelFKampXNHVLaHE3VWdmZWZ2QjlhX0JvWkhiRU5GSm11V2ZOZFd4bk5KUmJTMTV5amNUU2luZ1Z0TGZXa2E2TEpuNm5HOTBvcWpKXzNZZ1JtNzd1WVFkN2dydWZ5dUN1S1VTZmJVZDNESnFKeWlDdUZKdw?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Invest $100,000 in These Dividend Stocks and Collect Passive Income for Life",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUW80U21VeUJJWnRlM2tFSXVTRnJQQ251emNlN0dIUTdqelFKampXNHVLaHE3VWdmZWZ2QjlhX0JvWkhiRU5GSm11V2ZOZFd4bk5KUmJTMTV5amNUU2luZ1Z0TGZXa2E2TEpuNm5HOTBvcWpKXzNZZ1JtNzd1WVFkN2dydWZ5dUN1S1VTZmJVZDNESnFKeWlDdUZKdw?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "cf2dbbbf8c8c",
-      "slug": "passive-income"
-    },
-    {
-      "keyword": "openai codex",
-      "count": 19,
-      "score": 153.44704843094894,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "CodeDrobe/skills — Open-source OpenAI Codex theming Skill, AI theme generator, and cross-platform runtime for custom Codex desktop themes.",
-          "url": "https://github.com/CodeDrobe/skills",
-          "source": "github"
-        },
-        {
-          "title": "CodeDrobe/skills — Open-source OpenAI Codex theming Skill, AI theme generator, and cross-platform runtime for custom Codex desktop themes.",
-          "url": "https://github.com/CodeDrobe/skills",
-          "source": "github"
-        },
-        {
-          "title": "HeiGeAi/heige-codex-skin-studio — 给 Codex Desktop 一键换肤：OpenAI Codex/ChatGPT 桌面端主题工具，CDP 注入零修改应用，Miku/原神/鸣潮/火影/恋与深空 9 预设+自定义图片取色 | One-click theme & skin switcher for OpenAI Codex Desktop (macOS/Window",
-          "url": "https://github.com/HeiGeAi/heige-codex-skin-studio",
-          "source": "github"
-        },
-        {
-          "title": "HeiGeAi/heige-codex-skin-studio — 给 Codex Desktop 一键换肤：OpenAI Codex/ChatGPT 桌面端主题工具，CDP 注入零修改应用，Miku/原神/鸣潮/火影/恋与深空 9 预设+自定义图片取色 | One-click theme & skin switcher for OpenAI Codex Desktop (macOS/Window",
-          "url": "https://github.com/HeiGeAi/heige-codex-skin-studio",
-          "source": "github"
-        },
-        {
-          "title": "HeiGeAi/heige-codex-skin-studio — 给 Codex Desktop 一键换肤：OpenAI Codex/ChatGPT 桌面端主题工具，CDP 注入零修改应用，Miku/原神/鸣潮/火影/恋与深空 9 预设+自定义图片取色 | One-click theme & skin switcher for OpenAI Codex Desktop (macOS/Window",
-          "url": "https://github.com/HeiGeAi/heige-codex-skin-studio",
-          "source": "github"
-        }
-      ],
-      "id": "595d991bf42d",
-      "slug": "openai-codex"
-    },
-    {
-      "keyword": "keyboard review",
-      "count": 17,
-      "score": 147.49230926473325,
-      "proper": true,
-      "niches": [
-        "gear",
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "Lofree Hyzen Magnetic Mechanical keyboard review: Best of both worlds?",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQVlsRmdMM1cxZDgxZjVLcDhMdG9CUzFFZUlELVhFWU1HcFA0ZEZZSjVVMlpZRG55WE1wWU5yQlppOXdpdDBFV0I4NGY0ZmlsNGVfSE9fVEQ3anFxOHpPVUlPRFEwMGV1dnI5OXZ3b25YMkFZZnpETW1UcmRfRi1DeURlc2FFSFpBc2t0YklCUEF3RUhQbFZQa2dRdW41S0hsR2N0eS1LU3R1NGJOS0tSd1otMA?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Lofree Hyzen Magnetic Mechanical keyboard review: Best of both worlds?",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQVlsRmdMM1cxZDgxZjVLcDhMdG9CUzFFZUlELVhFWU1HcFA0ZEZZSjVVMlpZRG55WE1wWU5yQlppOXdpdDBFV0I4NGY0ZmlsNGVfSE9fVEQ3anFxOHpPVUlPRFEwMGV1dnI5OXZ3b25YMkFZZnpETW1UcmRfRi1DeURlc2FFSFpBc2t0YklCUEF3RUhQbFZQa2dRdW41S0hsR2N0eS1LU3R1NGJOS0tSd1otMA?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Corsair Makr Pro 75 Keyboard Review",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUkFMZUFjN3F0a1FSbWxRRXBVUDE3MmdQVGRaS01NZ1RfRzRvLUJzNS1iRkYxUk4tWHQ3QThEQUlseHJkdzBaZHRPZUpiQVFpWmJBaXZuVXI3QzBBVV9PRV8tTElVRDBhT3I1VjF2QkZHMGpMT3pFV1BuRHNmc1N6YzFCMV9vWldFaVE?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Corsair Makr Pro 75 Keyboard Review",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUkFMZUFjN3F0a1FSbWxRRXBVUDE3MmdQVGRaS01NZ1RfRzRvLUJzNS1iRkYxUk4tWHQ3QThEQUlseHJkdzBaZHRPZUpiQVFpWmJBaXZuVXI3QzBBVV9PRV8tTElVRDBhT3I1VjF2QkZHMGpMT3pFV1BuRHNmc1N6YzFCMV9vWldFaVE?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Corsair Makr Pro 75 Keyboard Review",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUkFMZUFjN3F0a1FSbWxRRXBVUDE3MmdQVGRaS01NZ1RfRzRvLUJzNS1iRkYxUk4tWHQ3QThEQUlseHJkdzBaZHRPZUpiQVFpWmJBaXZuVXI3QzBBVV9PRV8tTElVRDBhT3I1VjF2QkZHMGpMT3pFV1BuRHNmc1N6YzFCMV9vWldFaVE?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "539c84a453db",
-      "slug": "keyboard-review"
-    },
-    {
       "keyword": "noxa fun",
       "count": 16,
-      "score": 143.86520529580332,
+      "score": 143.96819353338665,
       "proper": true,
       "niches": [
         "ai"
@@ -431,7 +315,7 @@
     {
       "keyword": "robinhood chain",
       "count": 16,
-      "score": 143.86520529580332,
+      "score": 143.96819353338665,
       "proper": true,
       "niches": [
         "ai"
@@ -462,112 +346,6 @@
       "slug": "robinhood-chain"
     },
     {
-      "keyword": "codex desktop",
-      "count": 14,
-      "score": 111.31918598772644,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "CodeDrobe/skills — Open-source OpenAI Codex theming Skill, AI theme generator, and cross-platform runtime for custom Codex desktop themes.",
-          "url": "https://github.com/CodeDrobe/skills",
-          "source": "github"
-        },
-        {
-          "title": "HeiGeAi/heige-codex-skin-studio — 给 Codex Desktop 一键换肤：OpenAI Codex/ChatGPT 桌面端主题工具，CDP 注入零修改应用，Miku/原神/鸣潮/火影/恋与深空 9 预设+自定义图片取色 | One-click theme & skin switcher for OpenAI Codex Desktop (macOS/Window",
-          "url": "https://github.com/HeiGeAi/heige-codex-skin-studio",
-          "source": "github"
-        },
-        {
-          "title": "HeiGeAi/heige-codex-skin-studio — 给 Codex Desktop 一键换肤：OpenAI Codex/ChatGPT 桌面端主题工具，CDP 注入零修改应用，Miku/原神/鸣潮/火影/恋与深空 9 预设+自定义图片取色 | One-click theme & skin switcher for OpenAI Codex Desktop (macOS/Window",
-          "url": "https://github.com/HeiGeAi/heige-codex-skin-studio",
-          "source": "github"
-        },
-        {
-          "title": "HeiGeAi/heige-codex-skin-studio — 给 Codex Desktop 一键换肤：OpenAI Codex/ChatGPT 桌面端主题工具，CDP 注入零修改应用，Miku/原神/鸣潮/火影/恋与深空 9 预设+自定义图片取色 | One-click theme & skin switcher for OpenAI Codex Desktop (macOS/Window",
-          "url": "https://github.com/HeiGeAi/heige-codex-skin-studio",
-          "source": "github"
-        }
-      ],
-      "id": "370a76cf9802",
-      "slug": "codex-desktop"
-    },
-    {
-      "keyword": "income",
-      "count": 20,
-      "score": 108.72743648461771,
-      "proper": true,
-      "niches": [
-        "finance",
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "From Idea to Income: How to Validate Your Next Business Idea Before Investing More Time and Money",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPeUNFakJEWlZ5TmRYX2duaHNPbVU0Sk5ZN2VGSVZIZXZyTWVDVXdJYVJGVEp4eGdDdzFBcTRveWVFVldlTkp1MHBPUUY2YjYyLXJCMzI3djZoSGxSeEQwbGRQNS1mdlEzc3NMQzR0VFduN1B2dU00dFU3dkItTzlxLUlKU1BXMlUyV3I4U2c4U0JZdG10YVdwYWVoQWRqQ1NGN2U3czRXMnJjVnNTX1M4REV3?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "From Idea to Income: How to Validate Your Next Business Idea Before Investing More Time and Money",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPeUNFakJEWlZ5TmRYX2duaHNPbVU0Sk5ZN2VGSVZIZXZyTWVDVXdJYVJGVEp4eGdDdzFBcTRveWVFVldlTkp1MHBPUUY2YjYyLXJCMzI3djZoSGxSeEQwbGRQNS1mdlEzc3NMQzR0VFduN1B2dU00dFU3dkItTzlxLUlKU1BXMlUyV3I4U2c4U0JZdG10YVdwYWVoQWRqQ1NGN2U3czRXMnJjVnNTX1M4REV3?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "From Idea to Income: How to Validate Your Next Business Idea Before Investing More Time and Money",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPeUNFakJEWlZ5TmRYX2duaHNPbVU0Sk5ZN2VGSVZIZXZyTWVDVXdJYVJGVEp4eGdDdzFBcTRveWVFVldlTkp1MHBPUUY2YjYyLXJCMzI3djZoSGxSeEQwbGRQNS1mdlEzc3NMQzR0VFduN1B2dU00dFU3dkItTzlxLUlKU1BXMlUyV3I4U2c4U0JZdG10YVdwYWVoQWRqQ1NGN2U3czRXMnJjVnNTX1M4REV3?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "5 Years After the Passive Income Craze, Rental Properties Have Proved To Be Anything But",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNYUxiamhRdE1HZ0dUMU52S0wwQ0w1RTVPZTZhTnFxQ1JtUk5MS2p0VkhMX0ptdk9SRjhFbnpJWWpJMENROVdnTGVWc1B1aFJrZk9tekRYUU9yZ3d4MmNtSmtMMFZIdXl6Y0RDSVlRZ19sZU12VnpkSF9VcUFYbVZGanN1aHRrWGdOSUE?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "5 Years After the Passive Income Craze, Rental Properties Have Proved To Be Anything But",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNYUxiamhRdE1HZ0dUMU52S0wwQ0w1RTVPZTZhTnFxQ1JtUk5MS2p0VkhMX0ptdk9SRjhFbnpJWWpJMENROVdnTGVWc1B1aFJrZk9tekRYUU9yZ3d4MmNtSmtMMFZIdXl6Y0RDSVlRZ19sZU12VnpkSF9VcUFYbVZGanN1aHRrWGdOSUE?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "00cf141f881d",
-      "slug": "income"
-    },
-    {
-      "keyword": "open",
-      "count": 12,
-      "score": 102.40052300738454,
-      "proper": true,
-      "niches": [
-        "ai",
-        "software"
-      ],
-      "examples": [
-        {
-          "title": "The state of open source AI",
-          "url": "https://stateofopensource.ai/",
-          "source": "hackernews"
-        },
-        {
-          "title": "Blueturboguy07/cue — Open-source macOS AI copilot that floats over your screen, sees/hears your meetings, and stays hidden from screen shares. Cluely alternative, bring-your-own-key.",
-          "url": "https://github.com/Blueturboguy07/cue",
-          "source": "github"
-        },
-        {
-          "title": "CodeDrobe/skills — Open-source OpenAI Codex theming Skill, AI theme generator, and cross-platform runtime for custom Codex desktop themes.",
-          "url": "https://github.com/CodeDrobe/skills",
-          "source": "github"
-        },
-        {
-          "title": "Microsoft Comic Chat is now open source",
-          "url": "https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/",
-          "source": "lobsters"
-        }
-      ],
-      "id": "2348f9987442",
-      "slug": "open"
-    },
-    {
       "keyword": "expert consumers",
       "count": 11,
       "score": 98.77978565637038,
@@ -596,40 +374,22 @@
       "slug": "expert-consumers"
     },
     {
-      "keyword": "blade runner",
-      "count": 8,
-      "score": 95.93512526552067,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "Noticed the abysmal indoor air quality as measured this morning by gadget we bought after last year's wildfire smoke turned the sky a Blade Runner orange for several days. Visibility outside is next t",
-          "url": "https://infosec.exchange/@briankrebs/116936378231018288",
-          "source": "mastodon"
-        },
-        {
-          "title": "Noticed the abysmal indoor air quality as measured this morning by gadget we bought after last year's wildfire smoke turned the sky a Blade Runner orange for several days. Visibility outside is next t",
-          "url": "https://infosec.exchange/@briankrebs/116936378231018288",
-          "source": "mastodon"
-        }
-      ],
-      "id": "ed1712d8189a",
-      "slug": "blade-runner"
-    },
-    {
       "keyword": "agent",
-      "count": 11,
-      "score": 85.56901723510506,
+      "count": 14,
+      "score": 91.18829757121506,
       "proper": true,
       "niches": [
         "ai"
       ],
       "examples": [
         {
-          "title": "kunchenguid/whathappened — Agent skill: adaptive X-only briefing of what happened + public opinion + debates",
-          "url": "https://github.com/kunchenguid/whathappened",
+          "title": "KlaatAI/klaatcode — Open-source AI coding agent for the terminal. Claude Code-grade accuracy with smart model routing — uses the right AI model for each task, cutting costs 10x. Supports Claude, GPT, ",
+          "url": "https://github.com/KlaatAI/klaatcode",
+          "source": "github"
+        },
+        {
+          "title": "Finderchangchang/codex-autoskin — 发一张图给你的 Codex，它自己给自己换肤 | Send one image to your Codex and it reskins itself. Agent-native skin engine for the Codex desktop app.",
+          "url": "https://github.com/Finderchangchang/codex-autoskin",
           "source": "github"
         },
         {
@@ -638,255 +398,320 @@
           "source": "github"
         },
         {
-          "title": "CyberSunil/LLMVault — An intentionally vulnerable OWASP LLM Top 10 training platform for AI Security, Prompt Injection, RAG Security, Agent Security, and GenAI penetration testing.",
-          "url": "https://github.com/CyberSunil/LLMVault",
+          "title": "kunchenguid/whathappened — Agent skill: adaptive X-only briefing of what happened + public opinion + debates",
+          "url": "https://github.com/kunchenguid/whathappened",
           "source": "github"
         },
         {
-          "title": "pyang5166/gbro-collage-broll — 半调纸拼贴 B-roll 生成 skill：三闸门审批，Gemini Omni Flash 首尾帧组装动画 | Editorial halftone paper-collage B-roll agent skill",
-          "url": "https://github.com/pyang5166/gbro-collage-broll",
-          "source": "github"
-        },
-        {
-          "title": "OpenAI Is Selling a $230 Keyboard Designed for Its Codex Agent",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWmpxc1NKalFvVmdycXBLRlpNRURvTTNBcEc1REJrTVItcld1dW45TDM4Y25sOU1tOU00OENPY3BhdnBSMG0yM2VSMGZQcDRyNldCVkpxODctb3YwT1prejFFR0UyaVNLT3ZnclBKLXdGZmFhOGIyVDJoWTFKSl9aNFVTUTZFMnB1MVpiR3E1MlZhUQ?oc=5",
-          "source": "gnews"
+          "title": "agent-audit-kit 0.3.50",
+          "url": "https://pypi.org/project/agent-audit-kit/0.3.50/",
+          "source": "pypi"
         }
       ],
       "id": "d4f0bc5a29de",
       "slug": "agent"
     },
     {
-      "keyword": "income craze",
-      "count": 11,
-      "score": 73.44617683501676,
+      "keyword": "johan sebasti",
+      "count": 8,
+      "score": 76.29203459582381,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "David Brouillette is the ICE fascist who allegedly murdered Johan Sebastián Durán Guerrero in front of his 3-year-old daughter in Biddeford, Maine.Now Brouillette’s ex-wife confirms a history of vile ",
+          "url": "https://mastodon.social/@QasimRashid/116938576863628345",
+          "source": "mastodon"
+        },
+        {
+          "title": "David Brouillette is the ICE fascist who allegedly murdered Johan Sebastián Durán Guerrero in front of his 3-year-old daughter in Biddeford, Maine.Now Brouillette’s ex-wife confirms a history of vile ",
+          "url": "https://mastodon.social/@QasimRashid/116938576863628345",
+          "source": "mastodon"
+        }
+      ],
+      "id": "895d0ce7800b",
+      "slug": "johan-sebasti"
+    },
+    {
+      "keyword": "supports claude",
+      "count": 8,
+      "score": 64.628850307767,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "KlaatAI/klaatcode — Open-source AI coding agent for the terminal. Claude Code-grade accuracy with smart model routing — uses the right AI model for each task, cutting costs 10x. Supports Claude, GPT, ",
+          "url": "https://github.com/KlaatAI/klaatcode",
+          "source": "github"
+        },
+        {
+          "title": "KlaatAI/klaatcode — Open-source AI coding agent for the terminal. Claude Code-grade accuracy with smart model routing — uses the right AI model for each task, cutting costs 10x. Supports Claude, GPT, ",
+          "url": "https://github.com/KlaatAI/klaatcode",
+          "source": "github"
+        }
+      ],
+      "id": "347a20c3ef33",
+      "slug": "supports-claude"
+    },
+    {
+      "keyword": "software",
+      "count": 15,
+      "score": 62.75664543267833,
+      "proper": false,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "'The SaaS apocalypse is overrated': How Workday and other software provders plan to survive AI",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUEMtQllJWnBmbGZEVGxvV2dJQ29MTUtTMklGQzdBS1lJUk5ZVG44UldVSEZnVzh4NzFkZ0hRSU5uOE1rX045SmRsdE5rbWtKMnBySzdodHU5RGtDWm5xTS1rY0pqRmFFQUZVN1JWdVMzYkFralB2RGV0S01qYWJRaWdld0tLaDM5aVZwWEdtcUg2LWRhaElJa21aQlQyM0NfRko1YTZOWUdhdw?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "'The SaaS apocalypse is overrated': How Workday and other software provders plan to survive AI",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUEMtQllJWnBmbGZEVGxvV2dJQ29MTUtTMklGQzdBS1lJUk5ZVG44UldVSEZnVzh4NzFkZ0hRSU5uOE1rX045SmRsdE5rbWtKMnBySzdodHU5RGtDWm5xTS1rY0pqRmFFQUZVN1JWdVMzYkFralB2RGV0S01qYWJRaWdld0tLaDM5aVZwWEdtcUg2LWRhaElJa21aQlQyM0NfRko1YTZOWUdhdw?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "25+ AI Tools For Entrepreneurs: Best Business Management Software",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE53QVdLUTRJa2w2cmE3UXZjX0tlVnc3QXhoZ2paQm9NOHc2X2VpVm5DTDBTWXE3SkR4WDJQSEJObXdIWUltRDhqbFRZNWIwcHgxemI3Y3Voa25uVUhWVWJnNndYOUh5RVR0WV9rZ1YzUWdSUXVid19URUJGMVlQOWs?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "25+ AI Tools For Entrepreneurs: Best Business Management Software",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE53QVdLUTRJa2w2cmE3UXZjX0tlVnc3QXhoZ2paQm9NOHc2X2VpVm5DTDBTWXE3SkR4WDJQSEJObXdIWUltRDhqbFRZNWIwcHgxemI3Y3Voa25uVUhWVWJnNndYOUh5RVR0WV9rZ1YzUWdSUXVid19URUJGMVlQOWs?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "The 12 Best AI Accounting Software and Tools for 2026",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQMHpGRjhPZkoyMzRSYk9NRF9KMVRhQzNQcjJhYjZ3Ukh1aWFjY1R2UFNpN3FUWnRIYlNKUHpjRUN0bEh2SmJIX3d1WVVLTlJ3cXY0U0Y2TzBMSllvT0diTnVXUmRzdklEanp0TmpiNEFMcElXOGc0VjQwU2Q2VDhVWWxLWWlnTndLaFE?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "35390f5453e8",
+      "slug": "software"
+    },
+    {
+      "keyword": "circuit framework",
+      "count": 8,
+      "score": 61.77579810913353,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "PengZhang64/circuit-framework — Circuit Framework — multi-agent LLM trading research system",
+          "url": "https://github.com/PengZhang64/circuit-framework",
+          "source": "github"
+        },
+        {
+          "title": "PengZhang64/circuit-framework — Circuit Framework — multi-agent LLM trading research system",
+          "url": "https://github.com/PengZhang64/circuit-framework",
+          "source": "github"
+        }
+      ],
+      "id": "e544d6c7d8d9",
+      "slug": "circuit-framework"
+    },
+    {
+      "keyword": "linus torvalds",
+      "count": 8,
+      "score": 60.415811089143446,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "Linus Torvalds on LLM usage in kernel development",
+          "url": "https://lore.kernel.org/linux-media/CAHk-=wi4zC+Ze8e+p3tMv8TtG_80KzsZ1syL9anBtmEh5Z40vg@mail.gmail.com/",
+          "source": "lobsters"
+        },
+        {
+          "title": "Linus Torvalds on LLM usage in kernel development",
+          "url": "https://lore.kernel.org/linux-media/CAHk-=wi4zC+Ze8e+p3tMv8TtG_80KzsZ1syL9anBtmEh5Z40vg@mail.gmail.com/",
+          "source": "lobsters"
+        }
+      ],
+      "id": "3c0439097761",
+      "slug": "linus-torvalds"
+    },
+    {
+      "keyword": "open",
+      "count": 8,
+      "score": 59.07008735747197,
+      "proper": true,
+      "niches": [
+        "ai",
+        "software",
+        "general"
+      ],
+      "examples": [
+        {
+          "title": "The state of open source AI",
+          "url": "https://stateofopensource.ai/",
+          "source": "hackernews"
+        },
+        {
+          "title": "KlaatAI/klaatcode — Open-source AI coding agent for the terminal. Claude Code-grade accuracy with smart model routing — uses the right AI model for each task, cutting costs 10x. Supports Claude, GPT, ",
+          "url": "https://github.com/KlaatAI/klaatcode",
+          "source": "github"
+        },
+        {
+          "title": "Microsoft Comic Chat is now open source",
+          "url": "https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/",
+          "source": "lobsters"
+        },
+        {
+          "title": "Open Book Touch: open-source e-reader",
+          "url": "https://www.crowdsupply.com/oddly-specific-objects/open-book-touch",
+          "source": "hackernews"
+        }
+      ],
+      "id": "2348f9987442",
+      "slug": "open"
+    },
+    {
+      "keyword": "side hustles",
+      "count": 23,
+      "score": 55.810385361786444,
       "proper": true,
       "niches": [
         "finance"
       ],
       "examples": [
         {
-          "title": "5 Years After the Passive Income Craze, Rental Properties Have Proved To Be Anything But",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNYUxiamhRdE1HZ0dUMU52S0wwQ0w1RTVPZTZhTnFxQ1JtUk5MS2p0VkhMX0ptdk9SRjhFbnpJWWpJMENROVdnTGVWc1B1aFJrZk9tekRYUU9yZ3d4MmNtSmtMMFZIdXl6Y0RDSVlRZ19sZU12VnpkSF9VcUFYbVZGanN1aHRrWGdOSUE?oc=5",
+          "title": "Smart side hustles for busy lifestyles",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNaW1OYUlUU2podzNhU1B5b3lualJjUlo3Zl9Fd3dtY2lXNWgycE0zWE9adHI5dXBPbFB1WTE0RzIxOXpTeE1BVFFyTVBIa3R3MERHbnV2Yi12Q2UyZ1pOLW51bkV3QjQ4eVAyMHNkMXEweHlLOUphQ2RweUtsTVQtWWw2YnlqMWYzRlJkdV93WDc?oc=5",
           "source": "gnews"
         },
         {
-          "title": "5 Years After the Passive Income Craze, Rental Properties Have Proved To Be Anything But",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNYUxiamhRdE1HZ0dUMU52S0wwQ0w1RTVPZTZhTnFxQ1JtUk5MS2p0VkhMX0ptdk9SRjhFbnpJWWpJMENROVdnTGVWc1B1aFJrZk9tekRYUU9yZ3d4MmNtSmtMMFZIdXl6Y0RDSVlRZ19sZU12VnpkSF9VcUFYbVZGanN1aHRrWGdOSUE?oc=5",
+          "title": "Smart side hustles for busy lifestyles",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNaW1OYUlUU2podzNhU1B5b3lualJjUlo3Zl9Fd3dtY2lXNWgycE0zWE9adHI5dXBPbFB1WTE0RzIxOXpTeE1BVFFyTVBIa3R3MERHbnV2Yi12Q2UyZ1pOLW51bkV3QjQ4eVAyMHNkMXEweHlLOUphQ2RweUtsTVQtWWw2YnlqMWYzRlJkdV93WDc?oc=5",
           "source": "gnews"
         },
         {
-          "title": "5 Years After the Passive Income Craze, Rental Properties Have Proved To Be Anything But",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNYUxiamhRdE1HZ0dUMU52S0wwQ0w1RTVPZTZhTnFxQ1JtUk5MS2p0VkhMX0ptdk9SRjhFbnpJWWpJMENROVdnTGVWc1B1aFJrZk9tekRYUU9yZ3d4MmNtSmtMMFZIdXl6Y0RDSVlRZ19sZU12VnpkSF9VcUFYbVZGanN1aHRrWGdOSUE?oc=5",
+          "title": "I cover side hustles and started my own in 2025. Here's the best business advice I heard all year.",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTWpQSlNiMTlpeFhLbUVrS1NYdXhhakVZUmhnQ3dTck53b0xjN21FUmlVTmlCczU1UDhUVjNKZlF3UGVvSXo3UTNQQmN0a3dtY2c4b2t0RTFjcTlFc0Q3MGNMUVRRRkNLUGFPd1c1RnNiTjRRMzRHVHlvOE83ajJjcmk2T0M0RGU5QTBKMEV4TzJQdTFvU3hyMHpCQ1JhM0Q0VFNpVVR1Q1RJczh1VTBsWQ?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "I cover side hustles and started my own in 2025. Here's the best business advice I heard all year.",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTWpQSlNiMTlpeFhLbUVrS1NYdXhhakVZUmhnQ3dTck53b0xjN21FUmlVTmlCczU1UDhUVjNKZlF3UGVvSXo3UTNQQmN0a3dtY2c4b2t0RTFjcTlFc0Q3MGNMUVRRRkNLUGFPd1c1RnNiTjRRMzRHVHlvOE83ajJjcmk2T0M0RGU5QTBKMEV4TzJQdTFvU3hyMHpCQ1JhM0Q0VFNpVVR1Q1RJczh1VTBsWQ?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "11 Side Hustles from Home and How to Get Started",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA4TVVRczNSdlMzM1ZCNERKZExPNGUzejhRYUdfSlJWT1oxbUdPdDc5MmhSYldvNmZFZ3V4S2xYMkkxVXh3TmIyUWZOVDBqQzE2QVlnd1piNHdoaVN4SVpwMDZNeHVycDdtb2pF?oc=5",
           "source": "gnews"
         }
       ],
-      "id": "29875c75cbe9",
-      "slug": "income-craze"
+      "id": "c69e96fd90af",
+      "slug": "side-hustles"
     },
     {
-      "keyword": "prompt injection",
-      "count": 8,
-      "score": 72.89103058605897,
+      "keyword": "nuh uh",
+      "count": 5,
+      "score": 54.79922948888519,
       "proper": true,
       "niches": [
         "ai"
       ],
       "examples": [
         {
-          "title": "CyberSunil/LLMVault — An intentionally vulnerable OWASP LLM Top 10 training platform for AI Security, Prompt Injection, RAG Security, Agent Security, and GenAI penetration testing.",
-          "url": "https://github.com/CyberSunil/LLMVault",
-          "source": "github"
-        },
-        {
-          "title": "CyberSunil/LLMVault — An intentionally vulnerable OWASP LLM Top 10 training platform for AI Security, Prompt Injection, RAG Security, Agent Security, and GenAI penetration testing.",
-          "url": "https://github.com/CyberSunil/LLMVault",
-          "source": "github"
+          "title": "it feels like everyone with even the most remote, faintest security inklings has been screaming 'SANITIZE YOUR INPUTS' and a bunch of folks went .. NUH UH. not only are we gonna not sanitize shit, we'",
+          "url": "https://mastodon.social/@Viss/116937895280057712",
+          "source": "mastodon"
         }
       ],
-      "id": "3173623593e2",
-      "slug": "prompt-injection"
+      "id": "3acd93edda8b",
+      "slug": "nuh-uh"
     },
     {
-      "keyword": "rag security",
+      "keyword": "_blank tools",
+      "count": 9,
+      "score": 53.879883085292924,
+      "proper": false,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "25+ AI Tools For Entrepreneurs: Best Business Management Software",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE53QVdLUTRJa2w2cmE3UXZjX0tlVnc3QXhoZ2paQm9NOHc2X2VpVm5DTDBTWXE3SkR4WDJQSEJObXdIWUltRDhqbFRZNWIwcHgxemI3Y3Voa25uVUhWVWJnNndYOUh5RVR0WV9rZ1YzUWdSUXVid19URUJGMVlQOWs?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Best AI Tools for Students in 2026: Research, Writi…",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZEdkQlpPeFdNV2dkTU83SEtnQWt1dUlPMXRSYWFzamMxbktZZzAwS3MxZXdBRTRLNWR4UHVqV0VVYlh1OEVCZE5vbjF0Mk1IUWNsSmtsSENlcXNtOEp4REJ3MHVHR255VTJlOEpoYzlqVTRsb25JTFFVdDl4TFliaWZKZktnSzYzRWNWWUdoQk84UmxGbkhYQTE4NnVDbjBQcFFpMkEtLUZ1V2N3NWljZXlwS2NVZw?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "Best AI Tools for Branding (2026): CapCut Featured for Creating Branded Video and Visual Content by Expert Consumers",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNajVFY0VkMi1CMVZnZ0dHbERneV9wdjR4RG04UkNQeGpaRkVoNmNhaXB1WVlXZUR1amlGWXhRWHBfNXpBTFZsVG9oUm5FSndkWDRXc21rVWFranRKVU83aHUzRFQycFdBTGpZWUlNSmhodERHbkZrOXV6N0NsMldrUGpR?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "137a9254134d",
+      "slug": "_blank-tools"
+    },
+    {
+      "keyword": "founder residency",
       "count": 8,
-      "score": 72.89103058605897,
+      "score": 53.64606046800602,
       "proper": true,
       "niches": [
         "ai"
       ],
       "examples": [
         {
-          "title": "CyberSunil/LLMVault — An intentionally vulnerable OWASP LLM Top 10 training platform for AI Security, Prompt Injection, RAG Security, Agent Security, and GenAI penetration testing.",
-          "url": "https://github.com/CyberSunil/LLMVault",
-          "source": "github"
+          "title": "Dev Opportunity Radar #8: $100K OpenAI Build Week, $12K AI Fellowship, Founder Residency & Free AI Dev Course",
+          "url": "https://dev.to/devengers/dev-opportunity-radar-8-openai-build-week-aiaf-fellowship-the-residency-ai-dev-tools-zoomcamp-5bpc",
+          "source": "devto"
         },
         {
-          "title": "CyberSunil/LLMVault — An intentionally vulnerable OWASP LLM Top 10 training platform for AI Security, Prompt Injection, RAG Security, Agent Security, and GenAI penetration testing.",
-          "url": "https://github.com/CyberSunil/LLMVault",
-          "source": "github"
+          "title": "Dev Opportunity Radar #8: $100K OpenAI Build Week, $12K AI Fellowship, Founder Residency & Free AI Dev Course",
+          "url": "https://dev.to/devengers/dev-opportunity-radar-8-openai-build-week-aiaf-fellowship-the-residency-ai-dev-tools-zoomcamp-5bpc",
+          "source": "devto"
         }
       ],
-      "id": "dd15910f5330",
-      "slug": "rag-security"
+      "id": "456d618bb453",
+      "slug": "founder-residency"
     },
     {
-      "keyword": "agent security",
-      "count": 8,
-      "score": 72.89103058605897,
-      "proper": true,
+      "keyword": "detailed profiles",
+      "count": 6,
+      "score": 51.58903092337553,
+      "proper": false,
       "niches": [
         "ai"
       ],
       "examples": [
         {
-          "title": "CyberSunil/LLMVault — An intentionally vulnerable OWASP LLM Top 10 training platform for AI Security, Prompt Injection, RAG Security, Agent Security, and GenAI penetration testing.",
-          "url": "https://github.com/CyberSunil/LLMVault",
-          "source": "github"
+          "title": "I used to worry that commercial social media could build detailed profiles about our interests.Now I worry that AI can build detailed profiles of our most private thoughts.People keep asking ChatGPT q",
+          "url": "https://mastodon.social/@randahl/116937547680992206",
+          "source": "mastodon"
         },
         {
-          "title": "CyberSunil/LLMVault — An intentionally vulnerable OWASP LLM Top 10 training platform for AI Security, Prompt Injection, RAG Security, Agent Security, and GenAI penetration testing.",
-          "url": "https://github.com/CyberSunil/LLMVault",
-          "source": "github"
+          "title": "I used to worry that commercial social media could build detailed profiles about our interests.Now I worry that AI can build detailed profiles of our most private thoughts.People keep asking ChatGPT q",
+          "url": "https://mastodon.social/@randahl/116937547680992206",
+          "source": "mastodon"
         }
       ],
-      "id": "dfbb5d90cf08",
-      "slug": "agent-security"
+      "id": "ccac237875a9",
+      "slug": "detailed-profiles"
     }
   ],
   "opportunities": [
     {
-      "keyword": "passive income",
-      "count": 44,
-      "score": 185.48304579362332,
-      "proper": true,
-      "niches": [
-        "finance",
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "5 Years After the Passive Income Craze, Rental Properties Have Proved To Be Anything But",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNYUxiamhRdE1HZ0dUMU52S0wwQ0w1RTVPZTZhTnFxQ1JtUk5MS2p0VkhMX0ptdk9SRjhFbnpJWWpJMENROVdnTGVWc1B1aFJrZk9tekRYUU9yZ3d4MmNtSmtMMFZIdXl6Y0RDSVlRZ19sZU12VnpkSF9VcUFYbVZGanN1aHRrWGdOSUE?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "5 Years After the Passive Income Craze, Rental Properties Have Proved To Be Anything But",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNYUxiamhRdE1HZ0dUMU52S0wwQ0w1RTVPZTZhTnFxQ1JtUk5MS2p0VkhMX0ptdk9SRjhFbnpJWWpJMENROVdnTGVWc1B1aFJrZk9tekRYUU9yZ3d4MmNtSmtMMFZIdXl6Y0RDSVlRZ19sZU12VnpkSF9VcUFYbVZGanN1aHRrWGdOSUE?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Why Real estate remains one of the most popular paths to passive income",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUmxXRjROU3RZWlRWZU1zaVQ3ak9qcTlUVjFfVV9TTFFJRW9uODV1Q2NoUTdScnBvQmJTTURqWTRHZ2FSVkdmYUttb3ZHWDQ1cmFKMHhjUFdtYVg1a3lzdW5ST3ZDYnZPcW4yVHp4dkJIc0FfWUtRTmNZTFg3MzlNVUk0eVZyVjZDb0twM25n0gGiAUFVX3lxTFBHeHJfR00zeUdnRmljN2R5SkpsNzJIYUhUaGJVOWpKcFY4dmlJb0IwTXpqNHVMWmxOZHBwNTFrTGF3al9OR3lEcGhsLWdxZnlQaGRfVTJnUjhWNFNEZnE1RmlpTFFtaVRBbXAyWmNMazdzS0R2WmdWbUtPa0dtQ1hvNWhMQ3E1OGVaUkFVQVhEMjdkRVZ0bWlVNmM0NjBkaW93dw?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Invest $100,000 in These Dividend Stocks and Collect Passive Income for Life",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUW80U21VeUJJWnRlM2tFSXVTRnJQQ251emNlN0dIUTdqelFKampXNHVLaHE3VWdmZWZ2QjlhX0JvWkhiRU5GSm11V2ZOZFd4bk5KUmJTMTV5amNUU2luZ1Z0TGZXa2E2TEpuNm5HOTBvcWpKXzNZZ1JtNzd1WVFkN2dydWZ5dUN1S1VTZmJVZDNESnFKeWlDdUZKdw?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Invest $100,000 in These Dividend Stocks and Collect Passive Income for Life",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUW80U21VeUJJWnRlM2tFSXVTRnJQQ251emNlN0dIUTdqelFKampXNHVLaHE3VWdmZWZ2QjlhX0JvWkhiRU5GSm11V2ZOZFd4bk5KUmJTMTV5amNUU2luZ1Z0TGZXa2E2TEpuNm5HOTBvcWpKXzNZZ1JtNzd1WVFkN2dydWZ5dUN1S1VTZmJVZDNESnFKeWlDdUZKdw?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "cf2dbbbf8c8c",
-      "slug": "passive-income",
-      "opportunity": {
-        "type": "niche-content",
-        "recommended": "Publish niche guide for \"finance\"; bundle into digital product later."
-      }
-    },
-    {
-      "keyword": "openai codex",
-      "count": 19,
-      "score": 153.44704843094894,
-      "proper": true,
-      "niches": [
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "CodeDrobe/skills — Open-source OpenAI Codex theming Skill, AI theme generator, and cross-platform runtime for custom Codex desktop themes.",
-          "url": "https://github.com/CodeDrobe/skills",
-          "source": "github"
-        },
-        {
-          "title": "CodeDrobe/skills — Open-source OpenAI Codex theming Skill, AI theme generator, and cross-platform runtime for custom Codex desktop themes.",
-          "url": "https://github.com/CodeDrobe/skills",
-          "source": "github"
-        },
-        {
-          "title": "HeiGeAi/heige-codex-skin-studio — 给 Codex Desktop 一键换肤：OpenAI Codex/ChatGPT 桌面端主题工具，CDP 注入零修改应用，Miku/原神/鸣潮/火影/恋与深空 9 预设+自定义图片取色 | One-click theme & skin switcher for OpenAI Codex Desktop (macOS/Window",
-          "url": "https://github.com/HeiGeAi/heige-codex-skin-studio",
-          "source": "github"
-        },
-        {
-          "title": "HeiGeAi/heige-codex-skin-studio — 给 Codex Desktop 一键换肤：OpenAI Codex/ChatGPT 桌面端主题工具，CDP 注入零修改应用，Miku/原神/鸣潮/火影/恋与深空 9 预设+自定义图片取色 | One-click theme & skin switcher for OpenAI Codex Desktop (macOS/Window",
-          "url": "https://github.com/HeiGeAi/heige-codex-skin-studio",
-          "source": "github"
-        },
-        {
-          "title": "HeiGeAi/heige-codex-skin-studio — 给 Codex Desktop 一键换肤：OpenAI Codex/ChatGPT 桌面端主题工具，CDP 注入零修改应用，Miku/原神/鸣潮/火影/恋与深空 9 预设+自定义图片取色 | One-click theme & skin switcher for OpenAI Codex Desktop (macOS/Window",
-          "url": "https://github.com/HeiGeAi/heige-codex-skin-studio",
-          "source": "github"
-        }
-      ],
-      "id": "595d991bf42d",
-      "slug": "openai-codex",
-      "opportunity": {
-        "type": "tooling",
-        "recommended": "Build / list AI tools; monetize via affiliate links + lead magnet."
-      }
-    },
-    {
-      "keyword": "keyboard review",
-      "count": 17,
-      "score": 147.49230926473325,
-      "proper": true,
-      "niches": [
-        "gear",
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "Lofree Hyzen Magnetic Mechanical keyboard review: Best of both worlds?",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQVlsRmdMM1cxZDgxZjVLcDhMdG9CUzFFZUlELVhFWU1HcFA0ZEZZSjVVMlpZRG55WE1wWU5yQlppOXdpdDBFV0I4NGY0ZmlsNGVfSE9fVEQ3anFxOHpPVUlPRFEwMGV1dnI5OXZ3b25YMkFZZnpETW1UcmRfRi1DeURlc2FFSFpBc2t0YklCUEF3RUhQbFZQa2dRdW41S0hsR2N0eS1LU3R1NGJOS0tSd1otMA?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Lofree Hyzen Magnetic Mechanical keyboard review: Best of both worlds?",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQVlsRmdMM1cxZDgxZjVLcDhMdG9CUzFFZUlELVhFWU1HcFA0ZEZZSjVVMlpZRG55WE1wWU5yQlppOXdpdDBFV0I4NGY0ZmlsNGVfSE9fVEQ3anFxOHpPVUlPRFEwMGV1dnI5OXZ3b25YMkFZZnpETW1UcmRfRi1DeURlc2FFSFpBc2t0YklCUEF3RUhQbFZQa2dRdW41S0hsR2N0eS1LU3R1NGJOS0tSd1otMA?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Corsair Makr Pro 75 Keyboard Review",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUkFMZUFjN3F0a1FSbWxRRXBVUDE3MmdQVGRaS01NZ1RfRzRvLUJzNS1iRkYxUk4tWHQ3QThEQUlseHJkdzBaZHRPZUpiQVFpWmJBaXZuVXI3QzBBVV9PRV8tTElVRDBhT3I1VjF2QkZHMGpMT3pFV1BuRHNmc1N6YzFCMV9vWldFaVE?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Corsair Makr Pro 75 Keyboard Review",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUkFMZUFjN3F0a1FSbWxRRXBVUDE3MmdQVGRaS01NZ1RfRzRvLUJzNS1iRkYxUk4tWHQ3QThEQUlseHJkdzBaZHRPZUpiQVFpWmJBaXZuVXI3QzBBVV9PRV8tTElVRDBhT3I1VjF2QkZHMGpMT3pFV1BuRHNmc1N6YzFCMV9vWldFaVE?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "Corsair Makr Pro 75 Keyboard Review",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUkFMZUFjN3F0a1FSbWxRRXBVUDE3MmdQVGRaS01NZ1RfRzRvLUJzNS1iRkYxUk4tWHQ3QThEQUlseHJkdzBaZHRPZUpiQVFpWmJBaXZuVXI3QzBBVV9PRV8tTElVRDBhT3I1VjF2QkZHMGpMT3pFV1BuRHNmc1N6YzFCMV9vWldFaVE?oc=5",
-          "source": "gnews"
-        }
-      ],
-      "id": "539c84a453db",
-      "slug": "keyboard-review",
-      "opportunity": {
-        "type": "affiliate",
-        "recommended": "Write SEO comparison/roundup article with affiliate links."
-      }
-    },
-    {
       "keyword": "noxa fun",
       "count": 16,
-      "score": 143.86520529580332,
+      "score": 143.96819353338665,
       "proper": true,
       "niches": [
         "ai"
@@ -923,7 +748,7 @@
     {
       "keyword": "robinhood chain",
       "count": 16,
-      "score": 143.86520529580332,
+      "score": 143.96819353338665,
       "proper": true,
       "niches": [
         "ai"
@@ -958,118 +783,197 @@
       }
     },
     {
-      "keyword": "codex desktop",
-      "count": 14,
-      "score": 111.31918598772644,
+      "keyword": "expert consumers",
+      "count": 11,
+      "score": 98.77978565637038,
       "proper": true,
       "niches": [
         "ai"
       ],
       "examples": [
         {
-          "title": "CodeDrobe/skills — Open-source OpenAI Codex theming Skill, AI theme generator, and cross-platform runtime for custom Codex desktop themes.",
-          "url": "https://github.com/CodeDrobe/skills",
-          "source": "github"
-        },
-        {
-          "title": "HeiGeAi/heige-codex-skin-studio — 给 Codex Desktop 一键换肤：OpenAI Codex/ChatGPT 桌面端主题工具，CDP 注入零修改应用，Miku/原神/鸣潮/火影/恋与深空 9 预设+自定义图片取色 | One-click theme & skin switcher for OpenAI Codex Desktop (macOS/Window",
-          "url": "https://github.com/HeiGeAi/heige-codex-skin-studio",
-          "source": "github"
-        },
-        {
-          "title": "HeiGeAi/heige-codex-skin-studio — 给 Codex Desktop 一键换肤：OpenAI Codex/ChatGPT 桌面端主题工具，CDP 注入零修改应用，Miku/原神/鸣潮/火影/恋与深空 9 预设+自定义图片取色 | One-click theme & skin switcher for OpenAI Codex Desktop (macOS/Window",
-          "url": "https://github.com/HeiGeAi/heige-codex-skin-studio",
-          "source": "github"
-        },
-        {
-          "title": "HeiGeAi/heige-codex-skin-studio — 给 Codex Desktop 一键换肤：OpenAI Codex/ChatGPT 桌面端主题工具，CDP 注入零修改应用，Miku/原神/鸣潮/火影/恋与深空 9 预设+自定义图片取色 | One-click theme & skin switcher for OpenAI Codex Desktop (macOS/Window",
-          "url": "https://github.com/HeiGeAi/heige-codex-skin-studio",
-          "source": "github"
-        }
-      ],
-      "id": "370a76cf9802",
-      "slug": "codex-desktop",
-      "opportunity": {
-        "type": "affiliate",
-        "recommended": "Write SEO comparison/roundup article with affiliate links."
-      }
-    },
-    {
-      "keyword": "income",
-      "count": 20,
-      "score": 108.72743648461771,
-      "proper": true,
-      "niches": [
-        "finance",
-        "ai"
-      ],
-      "examples": [
-        {
-          "title": "From Idea to Income: How to Validate Your Next Business Idea Before Investing More Time and Money",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPeUNFakJEWlZ5TmRYX2duaHNPbVU0Sk5ZN2VGSVZIZXZyTWVDVXdJYVJGVEp4eGdDdzFBcTRveWVFVldlTkp1MHBPUUY2YjYyLXJCMzI3djZoSGxSeEQwbGRQNS1mdlEzc3NMQzR0VFduN1B2dU00dFU3dkItTzlxLUlKU1BXMlUyV3I4U2c4U0JZdG10YVdwYWVoQWRqQ1NGN2U3czRXMnJjVnNTX1M4REV3?oc=5",
+          "title": "Best AI Tools for Branding (2026): CapCut Featured for Creating Branded Video and Visual Content by Expert Consumers",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNajVFY0VkMi1CMVZnZ0dHbERneV9wdjR4RG04UkNQeGpaRkVoNmNhaXB1WVlXZUR1amlGWXhRWHBfNXpBTFZsVG9oUm5FSndkWDRXc21rVWFranRKVU83aHUzRFQycFdBTGpZWUlNSmhodERHbkZrOXV6N0NsMldrUGpR?oc=5",
           "source": "gnews"
         },
         {
-          "title": "From Idea to Income: How to Validate Your Next Business Idea Before Investing More Time and Money",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPeUNFakJEWlZ5TmRYX2duaHNPbVU0Sk5ZN2VGSVZIZXZyTWVDVXdJYVJGVEp4eGdDdzFBcTRveWVFVldlTkp1MHBPUUY2YjYyLXJCMzI3djZoSGxSeEQwbGRQNS1mdlEzc3NMQzR0VFduN1B2dU00dFU3dkItTzlxLUlKU1BXMlUyV3I4U2c4U0JZdG10YVdwYWVoQWRqQ1NGN2U3czRXMnJjVnNTX1M4REV3?oc=5",
+          "title": "Best AI Tools for Branding (2026): CapCut Featured for Creating Branded Video and Visual Content by Expert Consumers",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNajVFY0VkMi1CMVZnZ0dHbERneV9wdjR4RG04UkNQeGpaRkVoNmNhaXB1WVlXZUR1amlGWXhRWHBfNXpBTFZsVG9oUm5FSndkWDRXc21rVWFranRKVU83aHUzRFQycFdBTGpZWUlNSmhodERHbkZrOXV6N0NsMldrUGpR?oc=5",
           "source": "gnews"
         },
         {
-          "title": "From Idea to Income: How to Validate Your Next Business Idea Before Investing More Time and Money",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPeUNFakJEWlZ5TmRYX2duaHNPbVU0Sk5ZN2VGSVZIZXZyTWVDVXdJYVJGVEp4eGdDdzFBcTRveWVFVldlTkp1MHBPUUY2YjYyLXJCMzI3djZoSGxSeEQwbGRQNS1mdlEzc3NMQzR0VFduN1B2dU00dFU3dkItTzlxLUlKU1BXMlUyV3I4U2c4U0JZdG10YVdwYWVoQWRqQ1NGN2U3czRXMnJjVnNTX1M4REV3?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "5 Years After the Passive Income Craze, Rental Properties Have Proved To Be Anything But",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNYUxiamhRdE1HZ0dUMU52S0wwQ0w1RTVPZTZhTnFxQ1JtUk5MS2p0VkhMX0ptdk9SRjhFbnpJWWpJMENROVdnTGVWc1B1aFJrZk9tekRYUU9yZ3d4MmNtSmtMMFZIdXl6Y0RDSVlRZ19sZU12VnpkSF9VcUFYbVZGanN1aHRrWGdOSUE?oc=5",
-          "source": "gnews"
-        },
-        {
-          "title": "5 Years After the Passive Income Craze, Rental Properties Have Proved To Be Anything But",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNYUxiamhRdE1HZ0dUMU52S0wwQ0w1RTVPZTZhTnFxQ1JtUk5MS2p0VkhMX0ptdk9SRjhFbnpJWWpJMENROVdnTGVWc1B1aFJrZk9tekRYUU9yZ3d4MmNtSmtMMFZIdXl6Y0RDSVlRZ19sZU12VnpkSF9VcUFYbVZGanN1aHRrWGdOSUE?oc=5",
+          "title": "Best AI Tools for Branding (2026): CapCut Featured for Creating Branded Video and Visual Content by Expert Consumers",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNajVFY0VkMi1CMVZnZ0dHbERneV9wdjR4RG04UkNQeGpaRkVoNmNhaXB1WVlXZUR1amlGWXhRWHBfNXpBTFZsVG9oUm5FSndkWDRXc21rVWFranRKVU83aHUzRFQycFdBTGpZWUlNSmhodERHbkZrOXV6N0NsMldrUGpR?oc=5",
           "source": "gnews"
         }
       ],
-      "id": "00cf141f881d",
-      "slug": "income",
+      "id": "e11bfc42197d",
+      "slug": "expert-consumers",
       "opportunity": {
         "type": "niche-content",
-        "recommended": "Publish niche guide for \"finance\"; bundle into digital product later."
+        "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
       }
     },
     {
-      "keyword": "open",
-      "count": 12,
-      "score": 102.40052300738454,
+      "keyword": "agent",
+      "count": 14,
+      "score": 91.18829757121506,
       "proper": true,
       "niches": [
-        "ai",
-        "software"
+        "ai"
       ],
       "examples": [
         {
-          "title": "The state of open source AI",
-          "url": "https://stateofopensource.ai/",
-          "source": "hackernews"
-        },
-        {
-          "title": "Blueturboguy07/cue — Open-source macOS AI copilot that floats over your screen, sees/hears your meetings, and stays hidden from screen shares. Cluely alternative, bring-your-own-key.",
-          "url": "https://github.com/Blueturboguy07/cue",
+          "title": "KlaatAI/klaatcode — Open-source AI coding agent for the terminal. Claude Code-grade accuracy with smart model routing — uses the right AI model for each task, cutting costs 10x. Supports Claude, GPT, ",
+          "url": "https://github.com/KlaatAI/klaatcode",
           "source": "github"
         },
         {
-          "title": "CodeDrobe/skills — Open-source OpenAI Codex theming Skill, AI theme generator, and cross-platform runtime for custom Codex desktop themes.",
-          "url": "https://github.com/CodeDrobe/skills",
+          "title": "Finderchangchang/codex-autoskin — 发一张图给你的 Codex，它自己给自己换肤 | Send one image to your Codex and it reskins itself. Agent-native skin engine for the Codex desktop app.",
+          "url": "https://github.com/Finderchangchang/codex-autoskin",
           "source": "github"
         },
         {
-          "title": "Microsoft Comic Chat is now open source",
-          "url": "https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/",
-          "source": "lobsters"
+          "title": "kunchenguid/whathappened — Agent skill: adaptive X-only briefing of what happened + public opinion + debates",
+          "url": "https://github.com/kunchenguid/whathappened",
+          "source": "github"
+        },
+        {
+          "title": "kunchenguid/whathappened — Agent skill: adaptive X-only briefing of what happened + public opinion + debates",
+          "url": "https://github.com/kunchenguid/whathappened",
+          "source": "github"
+        },
+        {
+          "title": "agent-audit-kit 0.3.50",
+          "url": "https://pypi.org/project/agent-audit-kit/0.3.50/",
+          "source": "pypi"
         }
       ],
-      "id": "2348f9987442",
-      "slug": "open",
+      "id": "d4f0bc5a29de",
+      "slug": "agent",
+      "opportunity": {
+        "type": "niche-content",
+        "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
+      }
+    },
+    {
+      "keyword": "johan sebasti",
+      "count": 8,
+      "score": 76.29203459582381,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "David Brouillette is the ICE fascist who allegedly murdered Johan Sebastián Durán Guerrero in front of his 3-year-old daughter in Biddeford, Maine.Now Brouillette’s ex-wife confirms a history of vile ",
+          "url": "https://mastodon.social/@QasimRashid/116938576863628345",
+          "source": "mastodon"
+        },
+        {
+          "title": "David Brouillette is the ICE fascist who allegedly murdered Johan Sebastián Durán Guerrero in front of his 3-year-old daughter in Biddeford, Maine.Now Brouillette’s ex-wife confirms a history of vile ",
+          "url": "https://mastodon.social/@QasimRashid/116938576863628345",
+          "source": "mastodon"
+        }
+      ],
+      "id": "895d0ce7800b",
+      "slug": "johan-sebasti",
+      "opportunity": {
+        "type": "niche-content",
+        "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
+      }
+    },
+    {
+      "keyword": "supports claude",
+      "count": 8,
+      "score": 64.628850307767,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "KlaatAI/klaatcode — Open-source AI coding agent for the terminal. Claude Code-grade accuracy with smart model routing — uses the right AI model for each task, cutting costs 10x. Supports Claude, GPT, ",
+          "url": "https://github.com/KlaatAI/klaatcode",
+          "source": "github"
+        },
+        {
+          "title": "KlaatAI/klaatcode — Open-source AI coding agent for the terminal. Claude Code-grade accuracy with smart model routing — uses the right AI model for each task, cutting costs 10x. Supports Claude, GPT, ",
+          "url": "https://github.com/KlaatAI/klaatcode",
+          "source": "github"
+        }
+      ],
+      "id": "347a20c3ef33",
+      "slug": "supports-claude",
+      "opportunity": {
+        "type": "tooling",
+        "recommended": "Build / list AI tools; monetize via affiliate links + lead magnet."
+      }
+    },
+    {
+      "keyword": "software",
+      "count": 15,
+      "score": 62.75664543267833,
+      "proper": false,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "'The SaaS apocalypse is overrated': How Workday and other software provders plan to survive AI",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUEMtQllJWnBmbGZEVGxvV2dJQ29MTUtTMklGQzdBS1lJUk5ZVG44UldVSEZnVzh4NzFkZ0hRSU5uOE1rX045SmRsdE5rbWtKMnBySzdodHU5RGtDWm5xTS1rY0pqRmFFQUZVN1JWdVMzYkFralB2RGV0S01qYWJRaWdld0tLaDM5aVZwWEdtcUg2LWRhaElJa21aQlQyM0NfRko1YTZOWUdhdw?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "'The SaaS apocalypse is overrated': How Workday and other software provders plan to survive AI",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUEMtQllJWnBmbGZEVGxvV2dJQ29MTUtTMklGQzdBS1lJUk5ZVG44UldVSEZnVzh4NzFkZ0hRSU5uOE1rX045SmRsdE5rbWtKMnBySzdodHU5RGtDWm5xTS1rY0pqRmFFQUZVN1JWdVMzYkFralB2RGV0S01qYWJRaWdld0tLaDM5aVZwWEdtcUg2LWRhaElJa21aQlQyM0NfRko1YTZOWUdhdw?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "25+ AI Tools For Entrepreneurs: Best Business Management Software",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE53QVdLUTRJa2w2cmE3UXZjX0tlVnc3QXhoZ2paQm9NOHc2X2VpVm5DTDBTWXE3SkR4WDJQSEJObXdIWUltRDhqbFRZNWIwcHgxemI3Y3Voa25uVUhWVWJnNndYOUh5RVR0WV9rZ1YzUWdSUXVid19URUJGMVlQOWs?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "25+ AI Tools For Entrepreneurs: Best Business Management Software",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE53QVdLUTRJa2w2cmE3UXZjX0tlVnc3QXhoZ2paQm9NOHc2X2VpVm5DTDBTWXE3SkR4WDJQSEJObXdIWUltRDhqbFRZNWIwcHgxemI3Y3Voa25uVUhWVWJnNndYOUh5RVR0WV9rZ1YzUWdSUXVid19URUJGMVlQOWs?oc=5",
+          "source": "gnews"
+        },
+        {
+          "title": "The 12 Best AI Accounting Software and Tools for 2026",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQMHpGRjhPZkoyMzRSYk9NRF9KMVRhQzNQcjJhYjZ3Ukh1aWFjY1R2UFNpN3FUWnRIYlNKUHpjRUN0bEh2SmJIX3d1WVVLTlJ3cXY0U0Y2TzBMSllvT0diTnVXUmRzdklEanp0TmpiNEFMcElXOGc0VjQwU2Q2VDhVWWxLWWlnTndLaFE?oc=5",
+          "source": "gnews"
+        }
+      ],
+      "id": "35390f5453e8",
+      "slug": "software",
+      "opportunity": {
+        "type": "niche-content",
+        "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."
+      }
+    },
+    {
+      "keyword": "circuit framework",
+      "count": 8,
+      "score": 61.77579810913353,
+      "proper": true,
+      "niches": [
+        "ai"
+      ],
+      "examples": [
+        {
+          "title": "PengZhang64/circuit-framework — Circuit Framework — multi-agent LLM trading research system",
+          "url": "https://github.com/PengZhang64/circuit-framework",
+          "source": "github"
+        },
+        {
+          "title": "PengZhang64/circuit-framework — Circuit Framework — multi-agent LLM trading research system",
+          "url": "https://github.com/PengZhang64/circuit-framework",
+          "source": "github"
+        }
+      ],
+      "id": "e544d6c7d8d9",
+      "slug": "circuit-framework",
       "opportunity": {
         "type": "niche-content",
         "recommended": "Publish niche guide for \"ai\"; bundle into digital product later."

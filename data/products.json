@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "slug": "prompt-pack-supports-claude-2026-07-18",
+      "title": "Supports Claude Prompt Pack — 50 Battle-Tested Prompts",
+      "blurb": "50 proven prompts for Supports Claude. Copy/paste ready. Tested across Claude, GPT, Gemini.",
+      "type": "prompt-pack",
+      "topic": "Supports Claude",
+      "niche": "ai",
+      "price": 19,
+      "generatedAt": "2026-07-18T03:52:03.530Z",
+      "files": [
+        "prompts.md",
+        "README.md",
+        "LICENSE.txt"
+      ]
+    },
+    {
       "slug": "starter-kit-income-craze-2026-07-16",
       "title": "Income Craze Starter Kit — Templates + Playbook",
       "blurb": "Templates, playbook, and 30-day plan for Income Craze. Skip the blank page.",
@@ -3025,21 +3040,6 @@
       "niche": "software",
       "price": 19,
       "generatedAt": "2026-06-12T05:29:25.328Z",
-      "files": [
-        "prompts.md",
-        "README.md",
-        "LICENSE.txt"
-      ]
-    },
-    {
-      "slug": "prompt-pack-terra-cotta-2026-06-12",
-      "title": "Terra Cotta Prompt Pack — 50 Battle-Tested Prompts",
-      "blurb": "50 proven prompts for Terra Cotta. Copy/paste ready. Tested across Claude, GPT, Gemini.",
-      "type": "prompt-pack",
-      "topic": "Terra Cotta",
-      "niche": "ai",
-      "price": 19,
-      "generatedAt": "2026-06-12T05:29:15.464Z",
       "files": [
         "prompts.md",
         "README.md",
